@@ -1,0 +1,161 @@
+{
+  "updated_at": "2026-07-13T19:21:01.429561+00:00",
+  "cities": {
+    "gdansk": {
+      "created_at": "2026-07-10T17:41:11.989000+00:00",
+      "updated_at": "2026-07-10T17:41:11.989000+00:00",
+      "sortOrder": 5,
+      "collectionPrefix": "gda",
+      "active": false,
+      "eventsCollection": "events_gdansk",
+      "names": {
+        "pl": "Gdańsk",
+        "uk": "Гданськ",
+        "en": "Gdańsk"
+      },
+      "districts": [
+        "Śródmieście",
+        "Wrzeszcz",
+        "Oliwa",
+        "Górny Taras",
+        "Dolny Taras",
+        "Południe/Wschód",
+        "Gdańsk - Pozostałe"
+      ],
+      "name": "Gdańsk"
+    },
+    "krakow": {
+      "created_at": "2026-07-10T17:31:26.160000+00:00",
+      "active": true,
+      "sortOrder": 2,
+      "updated_at": "2026-07-10T17:31:26.160000+00:00",
+      "collectionPrefix": "krk",
+      "eventsCollection": "events_krakow",
+      "names": {
+        "pl": "Kraków",
+        "uk": "Краків",
+        "en": "Cracow"
+      },
+      "districts": [
+        "Bieńczyce",
+        "Bieżanów-Prokocim",
+        "Bronowice",
+        "Czyżyny",
+        "Dębniki",
+        "Grzegórzki",
+        "Krowodrza",
+        "Łagiewniki-Borek Fałęcki",
+        "Mistrzejowice",
+        "Nowa Huta",
+        "Podgórze",
+        "Podgórze Duchackie",
+        "Prądnik Biały",
+        "Prądnik Czerwony",
+        "Stare Miasto",
+        "Swoszowice",
+        "Wzgórza Krzesławickie",
+        "Zwierzyniec"
+      ],
+      "name": "Kraków"
+    },
+    "lodz": {
+      "created_at": "2026-07-10T17:41:11.572000+00:00",
+      "updated_at": "2026-07-10T17:41:11.572000+00:00",
+      "sortOrder": 4,
+      "collectionPrefix": "lod",
+      "active": true,
+      "eventsCollection": "events_lodz",
+      "names": {
+        "pl": "Łódź",
+        "uk": "Лудзь",
+        "en": "Lodz"
+      },
+      "districts": [
+        "Bałuty",
+        "Górna",
+        "Polesie",
+        "Śródmieście",
+        "Widzew"
+      ],
+      "name": "Łódź"
+    },
+    "poznan": {
+      "created_at": "2026-07-10T17:41:12.400000+00:00",
+      "updated_at": "2026-07-10T17:41:12.400000+00:00",
+      "sortOrder": 6,
+      "collectionPrefix": "poz",
+      "active": false,
+      "eventsCollection": "events_poznan",
+      "names": {
+        "pl": "Poznań",
+        "uk": "Познань",
+        "en": "Poznań"
+      },
+      "districts": [
+        "Stare Miasto",
+        "Nowe Miasto",
+        "Jeżyce",
+        "Grunwald",
+        "Wilda",
+        "Poznań - Pozostałe"
+      ],
+      "name": "Poznań"
+    },
+    "warsaw": {
+      "created_at": "2026-07-10T17:31:25.811000+00:00",
+      "active": true,
+      "sortOrder": 1,
+      "updated_at": "2026-07-10T17:31:25.811000+00:00",
+      "collectionPrefix": "waw",
+      "eventsCollection": "events_warsaw",
+      "names": {
+        "pl": "Warszawa",
+        "uk": "Варшава",
+        "en": "Warsaw"
+      },
+      "districts": [
+        "Bemowo",
+        "Białołęka",
+        "Bielany",
+        "Mokotów",
+        "Ochota",
+        "Praga-Północ",
+        "Praga-Południe",
+        "Rembertów",
+        "Śródmieście",
+        "Targówek",
+        "Ursus",
+        "Ursynów",
+        "Wawer",
+        "Wesoła",
+        "Wilanów",
+        "Wilen",
+        "Wola",
+        "Włochy",
+        "Żoliborz"
+      ],
+      "name": "Warszawa"
+    },
+    "wroclaw": {
+      "created_at": "2026-07-10T17:31:26.615000+00:00",
+      "active": true,
+      "sortOrder": 3,
+      "updated_at": "2026-07-10T17:31:26.615000+00:00",
+      "collectionPrefix": "wro",
+      "eventsCollection": "events_wroclaw",
+      "names": {
+        "pl": "Wrocław",
+        "uk": "Вроцлав",
+        "en": "Wrocław"
+      },
+      "districts": [
+        "Fabryczna",
+        "Krzyki",
+        "Psie Pole",
+        "Stare Miasto",
+        "Śródmieście"
+      ],
+      "name": "Wrocław"
+    }
+  }
+}

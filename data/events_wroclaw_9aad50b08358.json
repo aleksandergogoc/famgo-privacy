@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T11:26:32.123400+00:00",
+  "updated_at": "2026-07-14T13:23:39.410946+00:00",
   "events": {
     "12-mi-dzynarodowe-zawody-w-je-dzie-bez-og-owia-euro-equus-2026-2026-09-25T00:00:00": {
       "scrapped_timestamp": "2026-06-26T16:36:24.805343+00:00",
@@ -8253,6 +8253,46 @@
         "max": 12
       },
       "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-2e0da382ac1100027cb1db735bd19ba0/public-form-image"
+    },
+    "warsztaty-ta-ca-romskiego-2026-07-20T15:30:00": {
+      "scrapped_timestamp": "2026-07-14T11:39:32.860410+00:00",
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1413260-warsztaty-tanca-romskiego",
+      "category": "Music & Dance",
+      "description": "Warsztaty tańca romskiego\n\nZapraszamy dzieci i dorosłych na warsztaty tańca romskiego. Poprzez żywiołowy taniec będziemy poznawać kulturę społeczności romskiej.\n\nCelem zajęć jest dobra zabawa, ale uczestnicy będą również pracować nad choreografią, którą będzie można zaprezentować podczas osiedlowych wydarzeń.\n\nWarsztaty poprowadzi Malwina Siwak, pasjonatka tańca z doświadczeniem scenicznym zdobytym w Polsce i Szkocji.\n\nPodczas zajęć rodziców zapraszamy do wspólnego tańca lub na kawę i herbatę do naszego saloniku.\n\nInformacje organizacyjne\n\n**Kiedy**: poniedziałki, najbliższe spotkanie 20.07., kolejne wstępnie co dwa tygodnie. W okresie wakacyjnym harmonogram może ulec zmianie.\n\n**Gdzie**: Brochowskie Centrum Aktywności Lokalnej, ul. Koreańska 1a, Wrocław\n\n**Zapisy**: link do strony\n\nDziałanie realizowane w ramach zadania „CENTRA AKTYWNOŚCI LOKALNEJ WE WROCŁAWIU - Brochowskie Centrum Aktywności Lokalnej”, współfinansowanego ze środków Gminy Wrocław.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
+      "date": "2026-07-20T13:30:00+00:00",
+      "translations": {
+        "pl": {
+          "description": "Warsztaty tańca romskiego\n\nZapraszamy dzieci i dorosłych na warsztaty tańca romskiego. Poprzez żywiołowy taniec będziemy poznawać kulturę społeczności romskiej.\n\nCelem zajęć jest dobra zabawa, ale uczestnicy będą również pracować nad choreografią, którą będzie można zaprezentować podczas osiedlowych wydarzeń.\n\nWarsztaty poprowadzi Malwina Siwak, pasjonatka tańca z doświadczeniem scenicznym zdobytym w Polsce i Szkocji.\n\nPodczas zajęć rodziców zapraszamy do wspólnego tańca lub na kawę i herbatę do naszego saloniku.\n\nInformacje organizacyjne\n\n**Kiedy**: poniedziałki, najbliższe spotkanie 20.07., kolejne wstępnie co dwa tygodnie. W okresie wakacyjnym harmonogram może ulec zmianie.\n\n**Gdzie**: Brochowskie Centrum Aktywności Lokalnej, ul. Koreańska 1a, Wrocław\n\n**Zapisy**: link do strony\n\nDziałanie realizowane w ramach zadania „CENTRA AKTYWNOŚCI LOKALNEJ WE WROCŁAWIU - Brochowskie Centrum Aktywności Lokalnej”, współfinansowanego ze środków Gminy Wrocław.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
+          "title": "Warsztaty tańca romskiego"
+        },
+        "uk": {
+          "description": "Майстер-класи з ромського танцю\n\nЗапрошуємо дітей та дорослих на майстер-класи з ромського танцю. Через енергійний танець ми будемо знайомитися з культурою ромської спільноти.\n\nМетою занять є гарний настрій, але учасники також працюватимуть над хореографією, яку можна буде представити під час районних подій.\n\nМайстер-класи проведе Мальвіна Сівак, захоплена танцем з досвідом сценічної роботи, здобутим у Польщі та Шотландії.\n\nПід час занять батьків запрошуємо до спільного танцю або на каву та чай до нашого салону.\n\nОрганізаційна інформація\n\n**Коли**: понеділки, найближча зустріч 20.07., наступні попередньо кожні два тижні. У літній період розклад може змінюватися.\n\n**Де**: Броховське Центр Активності Місцевої Спільноти, вул. Корейська 1а, Вроцлав\n\n**Запис**: посилання на сайт",
+          "title": "Майстер-класи з ромського танцю"
+        },
+        "en": {
+          "description": "We invite children and adults to Romani dance workshops. Through lively dance, we will explore the culture of the Romani community.\n\nThe aim of the sessions is to have fun, but participants will also work on choreography that can be presented during neighborhood events.\n\nThe workshops will be led by Malwina Siwak, a dance enthusiast with stage experience gained in Poland and Scotland.\n\nDuring the sessions, we invite parents to join in the dancing or enjoy coffee and tea in our lounge.\n\nOrganizational Information\n\n**When**: Mondays, the next meeting on July 20th, with subsequent sessions tentatively every two weeks. The schedule may change during the summer period.\n\n**Where**: Brochowskie Center for Local Activity, ul. Koreańska 1a, Wrocław\n\n**Registration**: link to the website",
+          "title": "Romani Dance Workshops"
+        }
+      },
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1413260-warsztaty-tanca-romskiego",
+      "end_date": "2026-07-20T13:30:00+00:00",
+      "district": "Krzyki",
+      "updated_at": "2026-07-14T11:39:44.092000+00:00",
+      "source": "wroclaw.pl",
+      "startTimeKnown": true,
+      "admission": {
+        "is_free": true
+      },
+      "location": {
+        "district": "Krzyki",
+        "name": "CAL Brochów Koreańska 1A, Wrocław 52-121"
+      },
+      "title": "Warsztaty tańca romskiego",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-86917170ac1100022644ade3602abf69/747771314-1456729346486124-7854669781514725038-n.jpg"
     }
   }
 }

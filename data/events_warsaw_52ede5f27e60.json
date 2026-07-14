@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T19:21:29.571579+00:00",
+  "updated_at": "2026-07-14T11:26:25.473510+00:00",
   "events": {
     "106-rocznica-bitwy-warszawskiej-2026-08-15": {
       "scrapped_timestamp": "2026-06-23T18:56:51.217293+00:00",
@@ -42043,6 +42043,82 @@
         "min": 0,
         "max": 18
       }
+    },
+    "kino-plenerowe-w-parku-kultury-w-powsinie-dwa-letnie-wieczory-z-wyj-tkowym-kinem-2026-07-26T21:30:00": {
+      "scrapped_timestamp": "2026-07-14T08:23:33.606945+00:00",
+      "scrapped_url": "https://sport.um.warszawa.pl/waw/park-kultury-w-powsinie/-/kino-plenerowe-2026",
+      "category": "Cinema",
+      "description": "Letnie wieczory najlepiej spędza się pod gołym niebem! Park Kultury w Powsinie zaprasza na dwa bezpłatne seanse, podczas których na widzów czekają filmowe emocje, wyjątkowa atmosfera i relaks w otoczeniu zieleni.",
+      "date": "2026-07-26T19:30:00+00:00",
+      "translations": {
+        "pl": {
+          "description": "Letnie wieczory najlepiej spędza się pod gołym niebem! Park Kultury w Powsinie zaprasza na dwa bezpłatne seanse, podczas których na widzów czekają filmowe emocje, wyjątkowa atmosfera i relaks w otoczeniu zieleni.",
+          "title": "Kino Plenerowe w Parku Kultury w Powsinie - dwa letnie wieczory z wyjątkowym kinem"
+        },
+        "uk": {
+          "description": "Літні вечори найкраще проводити під відкритим небом! Парк Культури в Повсині запрошує на два безкоштовні сеанси, під час яких на глядачів чекають кінематографічні емоції, унікальна атмосфера та відпочинок в оточенні зелені.",
+          "title": "Кіно на свіжому повітрі в Парку Культури в Повсині - два літні вечори з унікальним кіно"
+        },
+        "en": {
+          "description": "Summer evenings are best spent under the open sky! The Culture Park in Powsin invites you to two free screenings, where viewers can expect cinematic emotions, a unique atmosphere, and relaxation in a green setting.",
+          "title": "Open-Air Cinema in the Culture Park in Powsin - Two Summer Evenings with Exceptional Cinema"
+        }
+      },
+      "url": "https://sport.um.warszawa.pl/waw/park-kultury-w-powsinie/-/kino-plenerowe-2026",
+      "end_date": "2026-08-30T19:00:00+00:00",
+      "updated_at": "2026-07-14T08:23:59.375000+00:00",
+      "source": "um.warszawa.pl",
+      "startTimeKnown": true,
+      "admission": {
+        "is_free": true
+      },
+      "title": "Kino Plenerowe w Parku Kultury w Powsinie - dwa letnie wieczory z wyjątkowym kinem",
+      "image": "https://cdn.um.warszawa.pl/documents/63418301/142765657/kino.jpg/b484d924-f279-82bd-0237-31d1cacb32c1?version=1.0&t=1783926196825&imagePreview=1",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      }
+    },
+    "p-artem-2026-12-09T19:00:00": {
+      "scrapped_timestamp": "2026-07-14T08:23:27.239995+00:00",
+      "scrapped_url": "https://warszawa.naszemiasto.pl/pol-zartem/kw/c5-2862381",
+      "category": "Theater",
+      "description": "„Pół żartem…” – każda rodzina kryje sekrety, które potrafią wywrócić życie do góry nogami. Wyobraź sobie upalny weekend na wsi: stary, lekko zarośnięty dom, dziki sad pełen jabłek, basen, który pamięta lepsze czasy i powrót dorosłych dzieci do rodzinnych pieleszy. Brzmi sielsko? Oj, nie tak szybko! Tu każdy ma swoje dziwactwa, a największym z nich jest… miłość. Czy da się pogodzić z przeszłością, nie tracąc kontaktu z rzeczywistością? Czy wyobraźnia to ucieczka, czy może ratunek? I czy na pewno wszyscy...",
+      "date": "2026-12-09T18:00:00+00:00",
+      "translations": {
+        "pl": {
+          "description": "„Pół żartem…” – każda rodzina kryje sekrety, które potrafią wywrócić życie do góry nogami. Wyobraź sobie upalny weekend na wsi: stary, lekko zarośnięty dom, dziki sad pełen jabłek, basen, który pamięta lepsze czasy i powrót dorosłych dzieci do rodzinnych pieleszy. Brzmi sielsko? Oj, nie tak szybko! Tu każdy ma swoje dziwactwa, a największym z nich jest… miłość. Czy da się pogodzić z przeszłością, nie tracąc kontaktu z rzeczywistością? Czy wyobraźnia to ucieczka, czy może ratunek? I czy na pewno wszyscy...",
+          "title": "PÓŁ ŻARTEM…"
+        },
+        "uk": {
+          "description": "«Пів жартом…» – кожна родина приховує секрети, які можуть перевернути життя з ніг на голову. Уявіть собі спекотний вікенд у селі: старий, трохи зарослий будинок, дикий сад, повний яблук, басейн, який пам'ятає кращі часи, і повернення дорослих дітей до рідного гнізда. Звучить ідилічно? Ой, не так швидко! Тут кожен має свої дивацтва, а найбільшим з них є… любов. Чи можливо примиритися з минулим, не втрачаючи зв'язку з реальністю? Чи є уява втечею, чи, можливо, порятунком? І чи справді всі...",
+          "title": "ПІВ ЖАРТОМ…"
+        },
+        "en": {
+          "description": "\"Half joking...\" - every family hides secrets that can turn life upside down. Imagine a hot weekend in the countryside: an old, slightly overgrown house, a wild orchard full of apples, a pool that remembers better days, and the return of adult children to their family home. Sounds idyllic? Oh, not so fast! Here, everyone has their quirks, and the biggest of them all is... love. Can one reconcile with the past without losing touch with reality? Is imagination an escape, or perhaps a rescue? And are we sure that everyone...",
+          "title": "HALF JOKING..."
+        }
+      },
+      "url": "https://warszawa.naszemiasto.pl/pol-zartem/kw/c5-2862381",
+      "end_date": "2026-12-09T18:00:00+00:00",
+      "district": "Śródmieście",
+      "updated_at": "2026-07-14T08:23:59.194000+00:00",
+      "source": "naszemiasto.pl",
+      "startTimeKnown": true,
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://biletyna.pl/spektakl/Pol-zartem-Teatr-Capitol/Warszawa?utm_source=polskapress&utm_medium=APIv2&utm_campaign=general"
+      },
+      "location": {
+        "district": "Śródmieście",
+        "name": "Teatr Capitol - Duża Scena (Warszawa)"
+      },
+      "title": "PÓŁ ŻARTEM…",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_971804465_original.jpg"
     }
   }
 }

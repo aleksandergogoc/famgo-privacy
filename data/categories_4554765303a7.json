@@ -1,0 +1,339 @@
+{
+  "updated_at": "2026-07-14T13:23:55.504587+00:00",
+  "categories": {
+    "Kbk5ZWk2zhtL4VVpfvGF": {
+      "active": false,
+      "category": {
+        "id": 0,
+        "name": {
+          "pl": "Edukacyjne",
+          "en": "Educational"
+        }
+      }
+    },
+    "arts": {
+      "translations": {
+        "pl": "Sztuka",
+        "en": "Arts"
+      },
+      "sortOrder": 4,
+      "active": true,
+      "name": "Arts"
+    },
+    "arts-crafts-1": {
+      "active": false,
+      "category": {
+        "id": 1,
+        "name": {
+          "pl": "Sztuka i rękodzieło",
+          "en": "Arts & Crafts"
+        }
+      }
+    },
+    "cinema": {
+      "translations": {
+        "pl": "Kino",
+        "en": "Cinema"
+      },
+      "sortOrder": 3,
+      "active": true,
+      "name": "Cinema"
+    },
+    "cinema-18": {
+      "active": false,
+      "category": {
+        "id": 18,
+        "name": {
+          "pl": "Kino",
+          "en": "Cinema"
+        }
+      }
+    },
+    "educational": {
+      "translations": {
+        "pl": "Edukacyjne",
+        "en": "Educational"
+      },
+      "sortOrder": 1,
+      "active": true,
+      "name": "Educational"
+    },
+    "family-fun-9": {
+      "active": false,
+      "category": {
+        "id": 9,
+        "name": {
+          "pl": "Zabawa rodzinna",
+          "en": "Family Fun"
+        }
+      }
+    },
+    "family_fun": {
+      "translations": {
+        "pl": "Zabawa Rodzinna",
+        "en": "Family Fun"
+      },
+      "sortOrder": 6,
+      "active": true,
+      "name": "Family Fun"
+    },
+    "field-trip-14": {
+      "active": false,
+      "category": {
+        "id": 14,
+        "name": {
+          "pl": "Wycieczka",
+          "en": "Field Trip"
+        }
+      }
+    },
+    "field_trips": {
+      "translations": {
+        "pl": "Wycieczki i Spacery",
+        "en": "Field Trips"
+      },
+      "sortOrder": 7,
+      "active": true,
+      "name": "Field Trips"
+    },
+    "games": {
+      "translations": {
+        "pl": "Gry",
+        "en": "Games"
+      },
+      "sortOrder": 8,
+      "active": true,
+      "name": "Games"
+    },
+    "games-15": {
+      "active": false,
+      "category": {
+        "id": 15,
+        "name": {
+          "pl": "Gry",
+          "en": "Games"
+        }
+      }
+    },
+    "music-dance-4": {
+      "active": false,
+      "category": {
+        "id": 4,
+        "name": {
+          "pl": "Muzyka i taniec",
+          "en": "Music & Dance"
+        }
+      }
+    },
+    "music_dance": {
+      "translations": {
+        "pl": "Muzyka i Taniec",
+        "en": "Music & Dance"
+      },
+      "sortOrder": 9,
+      "active": true,
+      "name": "Music & Dance"
+    },
+    "nature-wildlife-10": {
+      "active": false,
+      "category": {
+        "id": 10,
+        "name": {
+          "pl": "Przyroda i zwierzęta",
+          "en": "Nature & Wildlife"
+        }
+      }
+    },
+    "nature_wildlife": {
+      "translations": {
+        "pl": "Przyroda i Zwierzęta",
+        "en": "Nature & Wildlife"
+      },
+      "sortOrder": 10,
+      "active": true,
+      "name": "Nature & Wildlife"
+    },
+    "outdoor-adventure-2": {
+      "active": false,
+      "category": {
+        "id": 2,
+        "name": {
+          "pl": "Przygoda na świeżym powietrzu",
+          "en": "Outdoor Adventure"
+        }
+      }
+    },
+    "outdoor_adventure": {
+      "translations": {
+        "pl": "Przygoda na Świeżym Powietrzu",
+        "en": "Outdoor Adventure"
+      },
+      "sortOrder": 11,
+      "active": true,
+      "name": "Outdoor Adventure"
+    },
+    "petting-zoo-13": {
+      "active": false,
+      "category": {
+        "id": 13,
+        "name": {
+          "pl": "Mini zoo",
+          "en": "Petting Zoo"
+        }
+      }
+    },
+    "playdate-6": {
+      "active": false,
+      "category": {
+        "id": 6,
+        "name": {
+          "pl": "Zabawa z przyjaciółmi",
+          "en": "Playdate"
+        }
+      }
+    },
+    "science-16": {
+      "active": false,
+      "category": {
+        "id": 16,
+        "name": {
+          "pl": "Nauka",
+          "en": "Science"
+        }
+      }
+    },
+    "seasonal-festival-8": {
+      "active": false,
+      "category": {
+        "id": 8,
+        "name": {
+          "pl": "Sezonowy festyn",
+          "en": "Seasonal Festival"
+        }
+      }
+    },
+    "seasonal_festival": {
+      "translations": {
+        "pl": "Sezonowy Festyn",
+        "en": "Seasonal Festival"
+      },
+      "sortOrder": 12,
+      "active": true,
+      "name": "Seasonal Festival"
+    },
+    "sensory-play-11": {
+      "active": false,
+      "category": {
+        "id": 11,
+        "name": {
+          "pl": "Zabawa sensoryczna",
+          "en": "Sensory Play"
+        }
+      }
+    },
+    "sensory_play": {
+      "translations": {
+        "pl": "Zabawa Sensoryczna",
+        "en": "Sensory Play"
+      },
+      "sortOrder": 13,
+      "active": true,
+      "name": "Sensory Play"
+    },
+    "sports": {
+      "translations": {
+        "pl": "Sport",
+        "en": "Sports"
+      },
+      "sortOrder": 14,
+      "active": true,
+      "name": "Sports"
+    },
+    "sports-3": {
+      "active": false,
+      "category": {
+        "id": 3,
+        "name": {
+          "pl": "Sport",
+          "en": "Sports"
+        }
+      }
+    },
+    "stem": {
+      "translations": {
+        "pl": "Nauka i Technologia",
+        "en": "STEM"
+      },
+      "sortOrder": 15,
+      "active": true,
+      "name": "STEM"
+    },
+    "stem-5": {
+      "active": false,
+      "category": {
+        "id": 5,
+        "name": {
+          "pl": "Nauka i technologia",
+          "en": "STEM"
+        }
+      }
+    },
+    "storytime": {
+      "translations": {
+        "pl": "Czytanie Bajek",
+        "en": "Storytime"
+      },
+      "sortOrder": 16,
+      "active": true,
+      "name": "Storytime"
+    },
+    "storytime-7": {
+      "active": false,
+      "category": {
+        "id": 7,
+        "name": {
+          "pl": "Czytanie bajek",
+          "en": "Storytime"
+        }
+      }
+    },
+    "theater": {
+      "translations": {
+        "pl": "Teatr",
+        "en": "Theater"
+      },
+      "sortOrder": 5,
+      "active": true,
+      "name": "Theater"
+    },
+    "theater-17": {
+      "active": false,
+      "category": {
+        "id": 17,
+        "name": {
+          "pl": "Teatr",
+          "en": "Theater"
+        }
+      }
+    },
+    "workshops": {
+      "translations": {
+        "pl": "Warsztaty",
+        "en": "Workshops"
+      },
+      "sortOrder": 2,
+      "active": true,
+      "name": "Workshops"
+    },
+    "workshops-12": {
+      "active": false,
+      "category": {
+        "id": 12,
+        "name": {
+          "pl": "Warsztaty",
+          "en": "Workshops"
+        }
+      }
+    }
+  }
+}

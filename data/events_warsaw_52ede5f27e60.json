@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T15:54:29.030392+00:00",
+  "updated_at": "2026-07-16T05:14:25.704554+00:00",
   "events": {
     "106-rocznica-bitwy-warszawskiej-2026-08-15": {
       "scrapped_timestamp": "2026-06-23T18:56:51.217293+00:00",
@@ -253,38 +253,6 @@
         "min": 0,
         "max": 6
       }
-    },
-    "akademia-przyjaci-je-y-warsztaty-przyrodnicze-dla-dzieci-2026-07-15T17:00:00": {
-      "image": "https://wilanow.um.warszawa.pl/documents/44464/162670695/Akademia+Przyjaci%C3%B3%C5%82+Je%C5%BCy.jpg/3f06ce15-5902-e85b-2212-e77818058ae8?version=1.0&t=1782476058110&imagePreview=1",
-      "district": "Wilanów",
-      "scrapped_timestamp": "2026-07-03T16:09:05.292134+00:00",
-      "source": "um.warszawa.pl",
-      "scrapped_url": "https://wilanow.um.warszawa.pl/-/akademia-przyjaciol-jezy-warsztaty-przyrodnicze-dla-dzieci",
-      "startTimeKnown": true,
-      "description": "Jak pomóc jeżowi i sprawić, by nasze ogrody były dla niego bezpieczne? O tym będą mogli dowiedzieć się uczestnicy warsztatów przyrodniczych „Akademia Przyjaciół Jeży”, organizowanych przez Wilanowską Bibliotekę Publiczną.",
-      "date": "2026-07-15T15:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Jak pomóc jeżowi i sprawić, by nasze ogrody były dla niego bezpieczne? O tym będą mogli dowiedzieć się uczestnicy warsztatów przyrodniczych „Akademia Przyjaciół Jeży”, organizowanych przez Wilanowską Bibliotekę Publiczną.",
-          "title": "Akademia Przyjaciół Jeży – warsztaty przyrodnicze dla dzieci"
-        },
-        "uk": {
-          "description": "Як допомогти їжаку і зробити наші сади безпечними для нього? Про це зможуть дізнатися учасники природничих майстер-класів «Академія друзів їжаків», організованих Вілановською публічною бібліотекою.",
-          "title": "Академія друзів їжаків – природничі майстер-класи для дітей"
-        },
-        "en": {
-          "description": "How can we help hedgehogs and make our gardens safe for them? Participants of the nature workshops 'Hedgehog Friends Academy', organized by the Wilanów Public Library, will be able to learn about this.",
-          "title": "Hedgehog Friends Academy – Nature Workshops for Children"
-        }
-      },
-      "category": "Workshops",
-      "url": "https://wilanow.um.warszawa.pl/-/akademia-przyjaciol-jezy-warsztaty-przyrodnicze-dla-dzieci",
-      "title": "Akademia Przyjaciół Jeży – warsztaty przyrodnicze dla dzieci",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "end_date": "2026-07-15T16:00:00+00:00"
     },
     "akcja-lato-w-mie-cie-2026-07-13": {
       "scrapped_timestamp": "2026-06-23T18:56:10.535757+00:00",
@@ -2774,46 +2742,6 @@
         "max": 18
       }
     },
-    "cyrkowe-rody-z-odskoczni-2026-07-15T17:00:00": {
-      "scrapped_timestamp": "2026-06-30T14:43:12.889619+00:00",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "description": "Cyrkowe środy z Odskocznią – 3. edycja plenerowych warsztatów cyrkowych dla mieszkańców i mieszkanek dzielnicy Włochy. Zajęcia kierowane do najmłodszych wraz z rodzicami, odbywają się w Parku Ogrody Kosmosu.",
-      "date": "2026-07-15T15:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Cyrkowe środy z Odskocznią – 3. edycja plenerowych warsztatów cyrkowych dla mieszkańców i mieszkanek dzielnicy Włochy. Zajęcia kierowane do najmłodszych wraz z rodzicami, odbywają się w Parku Ogrody Kosmosu.",
-          "title": "Cyrkowe środy z Odskocznią"
-        },
-        "uk": {
-          "description": "Циркові середи з Одскочнею – 3-тя редакція виїзних циркових майстер-класів для мешканців і мешканок району Влохи. Заняття призначені для наймолодших разом з батьками, проходять у Парку Сади Космосу.",
-          "title": "Циркові середи з Одскочнею"
-        },
-        "en": {
-          "description": "Circus Wednesdays with Odskocznia – 3rd edition of outdoor circus workshops for the residents of the Włochy district. Activities aimed at the youngest children along with their parents take place in the Kosmos Gardens Park.",
-          "title": "Circus Wednesdays with Odskocznia"
-        }
-      },
-      "scrapped_url": "https://wlochy.um.warszawa.pl/-/cyrkowe-srody-z-odskocznia-warsztaty-1#15-07",
-      "url": "https://wlochy.um.warszawa.pl/-/cyrkowe-srody-z-odskocznia-warsztaty-1#15-07",
-      "end_date": "2026-07-15T17:00:00+00:00",
-      "district": "Włochy",
-      "source": "wlochy.um.warszawa.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Włochy",
-        "name": "Park Ogrody Kosmosu   · ul. Sympatyczna"
-      },
-      "title": "Cyrkowe środy z Odskocznią",
-      "image": "https://cdn.um.warszawa.pl/documents/45118/152106683/Plakat+Cyrkowe+%C5%9Brody+z+Odskoczni%C4%85-1.jpg/68a66aae-2170-15d6-92e3-411922dec44d?version=1.1&t=1781772059769&imageThumbnail=1",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      }
-    },
     "cyrkowe-rody-z-odskoczni-2026-07-22T17:00:00": {
       "scrapped_timestamp": "2026-06-30T14:43:49.051240+00:00",
       "real_source": "https://www.malywarszawiak.pl/",
@@ -4120,47 +4048,6 @@
         "min": 0,
         "max": 6
       }
-    },
-    "festiwal-fredro-w-azienkach-2026-07-15T19:00:00": {
-      "scrapped_timestamp": "2026-07-13T06:04:11.340381+00:00",
-      "scrapped_url": "https://gojammin.com/pl-PL/events/ecc3fbad-ddf5-4edb-a6fc-4d10707c9841",
-      "category": "Theater",
-      "description": "Pięć dni ze sztuką, humorem i tradycją w 150. rocznicę śmierci Aleksandra Fredry. W dniach 15–19 lipca 2026 roku Teatr Klasyki Polskiej oraz Muzeum Łazienki Królewskie zapraszają na festiwal „Fredro w Łazienkach” – wyjątkowe wydarzenie poświęcone twórczości jednego z najwybitniejszych polskich komediopisarzy. Partnerem festiwalu jest Fundacja Rodu Szeptyckich. Data inauguracji nie jest przypadkowa. 15 lipca 2026 roku przypada dokładnie 150. rocznica śmierci Aleksandra Fredry. Festiwal będzie okazją do ponownego odkrycia jego twórczości oraz spojrzenia na nią z perspektywy współczesnego widza. Przez pięć dni Łazienki Królewskie zamienią się w przestrzeń spotkania teatru, historii i edukacji. W programie znajdują się fredrowskie spektakle Teatru Klasyki Polskiej, rozmowy z twórcami i badaczami, projekcje spektakli Fredry z archiwum Teatru TVP, wydarzenia dla dzieci i rodzin oraz terenowe gry w przestrzeni Ogrodu. Miejsca wydarzeń Amfiteatr, Ermitaż, Stajnie Kubickiego oraz plenerowe lokalizacje Ogrodu w Łazienkach Królewskich, Warszawa. Organizatorzy Teatr Klasyki Polskiej, Muzeum Łazienki Królewskie Partner Fundacja Rodu Szeptyckich Program 15 LIPCA 19:00 – Spektakl „Zemsta”, Amfiteatr 16 LIPCA 12:00–13:00 – Fredro dla dzieci, „Pod Żaglami” przy Podchorążówce, wstęp wolny 15:00–16:00 – Fredro dla dzieci, „Pod Żaglami” przy Podchorążówce, wstęp wolny 19:00 – Spektakl „Dożywocie”, Amfiteatr 17 LIPCA 12:00–13:00 – Fredro dla dzieci, „Pod Żaglami” przy Podchorążówce, wstęp wolny 15:00–16:00 – Fredro dla dzieci, „Pod Żaglami” przy Podchorążówce, wstęp wolny 17:00–19:00 – Rozmowy festiwalowe, „Pod Żaglami” przy Podchorążówce, wstęp wolny (prowadzenie: Jacek Kopciński; goście: Rafał Olbiński, Jerzy Bralczyk, Ewa Hoffmann-Piotrowska, Dariusz Kowalski, Maciej Szeptycki, Ewa Bułhak, Ewa Millies-Lacroix, Redbad Klynstra) 19:00 – Spektakl „Śluby panieńskie”, Ermitaż 22:30 – „Upiór w Amfiteatrze”, nocna gra terenowa, teren Ogrodu 18 LIPCA 11:00–15:00 – „W poszukiwaniu niedoskonałości”, gra terenowa (I odsłona), teren Ogrodu, wstęp wolny 12:00–16:00 – Fredrowskie kreacje – projekcje spektakli Teatru Telewizji, Stajnie Kubickiego, wstęp wolny 20:00 – Spektakl „Damy i huzary” – warszawska premiera, Amfiteatr 19 LIPCA 11:00–15:00 – „W poszukiwaniu niedoskonałości”, gra terenowa (II odsłona), teren Ogrodu, wstęp wolny 17:00 – Spektakl „Śluby panieńskie” z tłumaczeniem na Polski Język Migowy (PJM), Ermitaż Bilety Bilety dostępne są na stronie Teatru oraz w muzealnych kasach (Podchorążówka, Stara Oranżeria, Stajnie Kubickiego) oraz online.",
-      "date": "2026-07-15T17:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Pięć dni ze sztuką, humorem i tradycją w 150. rocznicę śmierci Aleksandra Fredry. W dniach 15–19 lipca 2026 roku Teatr Klasyki Polskiej oraz Muzeum Łazienki Królewskie zapraszają na festiwal „Fredro w Łazienkach” – wyjątkowe wydarzenie poświęcone twórczości jednego z najwybitniejszych polskich komediopisarzy. Partnerem festiwalu jest Fundacja Rodu Szeptyckich. Data inauguracji nie jest przypadkowa. 15 lipca 2026 roku przypada dokładnie 150. rocznica śmierci Aleksandra Fredry. Festiwal będzie okazją do ponownego odkrycia jego twórczości oraz spojrzenia na nią z perspektywy współczesnego widza. Przez pięć dni Łazienki Królewskie zamienią się w przestrzeń spotkania teatru, historii i edukacji. W programie znajdują się fredrowskie spektakle Teatru Klasyki Polskiej, rozmowy z twórcami i badaczami, projekcje spektakli Fredry z archiwum Teatru TVP, wydarzenia dla dzieci i rodzin oraz terenowe gry w przestrzeni Ogrodu. Miejsca wydarzeń Amfiteatr, Ermitaż, Stajnie Kubickiego oraz plenerowe lokalizacje Ogrodu w Łazienkach Królewskich, Warszawa. Organizatorzy Teatr Klasyki Polskiej, Muzeum Łazienki Królewskie Partner Fundacja Rodu Szeptyckich Program 15 LIPCA 19:00 – Spektakl „Zemsta”, Amfiteatr 16 LIPCA 12:00–13:00 – Fredro dla dzieci, „Pod Żaglami” przy Podchorążówce, wstęp wolny 15:00–16:00 – Fredro dla dzieci, „Pod Żaglami” przy Podchorążówce, wstęp wolny 19:00 – Spektakl „Dożywocie”, Amfiteatr 17 LIPCA 12:00–13:00 – Fredro dla dzieci, „Pod Żaglami” przy Podchorążówce, wstęp wolny 15:00–16:00 – Fredro dla dzieci, „Pod Żaglami” przy Podchorążówce, wstęp wolny 17:00–19:00 – Rozmowy festiwalowe, „Pod Żaglami” przy Podchorążówce, wstęp wolny (prowadzenie: Jacek Kopciński; goście: Rafał Olbiński, Jerzy Bralczyk, Ewa Hoffmann-Piotrowska, Dariusz Kowalski, Maciej Szeptycki, Ewa Bułhak, Ewa Millies-Lacroix, Redbad Klynstra) 19:00 – Spektakl „Śluby panieńskie”, Ermitaż 22:30 – „Upiór w Amfiteatrze”, nocna gra terenowa, teren Ogrodu 18 LIPCA 11:00–15:00 – „W poszukiwaniu niedoskonałości”, gra terenowa (I odsłona), teren Ogrodu, wstęp wolny 12:00–16:00 – Fredrowskie kreacje – projekcje spektakli Teatru Telewizji, Stajnie Kubickiego, wstęp wolny 20:00 – Spektakl „Damy i huzary” – warszawska premiera, Amfiteatr 19 LIPCA 11:00–15:00 – „W poszukiwaniu niedoskonałości”, gra terenowa (II odsłona), teren Ogrodu, wstęp wolny 17:00 – Spektakl „Śluby panieńskie” z tłumaczeniem na Polski Język Migowy (PJM), Ermitaż Bilety Bilety dostępne są na stronie Teatru oraz w muzealnych kasach (Podchorążówka, Stara Oranżeria, Stajnie Kubickiego) oraz online.",
-          "title": "Festiwal Fredro w Łazienkach"
-        },
-        "uk": {
-          "description": "П’ять днів з мистецтвом, гумором та традицією на 150-ту річницю смерті Олександра Фредри. З 15 по 19 липня 2026 року Театр класики польської та Музей Лазєнки Королівські запрошують на фестиваль «Фредро в Лазєнках» – унікальну подію, присвячену творчості одного з найвидатніших польських комедіографів. Партнером фестивалю є Фундація Роду Шептицьких. Дата відкриття не є випадковою. 15 липня 2026 року виповнюється рівно 150 років з дня смерті Олександра Фредри. Фестиваль стане нагодою для повторного відкриття його творчості та погляду на неї з перспективи сучасного глядача. Протягом п’яти днів Лазєнки Королівські перетворяться на простір зустрічі театру, історії та освіти. У програмі – фредрівські спектаклі Театру класики польської, розмови з творцями та дослідниками.",
-          "title": "Фестиваль Фредри в Лазєнках"
-        },
-        "en": {
-          "description": "Five days of art, humor, and tradition to commemorate the 150th anniversary of the death of Aleksander Fredro. From July 15 to 19, 2026, the Polish Classics Theatre and the Royal Łazienki Museum invite you to the 'Fredro in Łazienki' festival – a unique event dedicated to the works of one of Poland's greatest playwrights. The festival partner is the Szeptycki Family Foundation. The inauguration date is not coincidental; July 15, 2026, marks exactly the 150th anniversary of Aleksander Fredro's death. The festival will be an opportunity to rediscover his works and view them from the perspective of a contemporary audience. For five days, the Royal Łazienki will transform into a space for the meeting of theatre, history, and education. The program includes Fredro's performances by the Polish Classics Theatre, discussions with creators and researchers.",
-          "title": "Fredro Festival in Łazienki"
-        }
-      },
-      "url": "https://gojammin.com/pl-PL/events/ecc3fbad-ddf5-4edb-a6fc-4d10707c9841",
-      "end_date": "2026-07-15T17:00:00+00:00",
-      "district": "Śródmieście",
-      "updated_at": "2026-07-13T06:04:30.372000+00:00",
-      "source": "gojammin.com",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://teatrklasykipolskiej.pl/fredro-w-lazienkach"
-      },
-      "location": {
-        "district": "Śródmieście",
-        "name": "Agrykola 1, 00-460 Warszawa, Poland"
-      },
-      "title": "Festiwal Fredro w Łazienkach",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Fa03ecb82-7229-4401-89d4-bdf41a120201.jpg&w=3840&q=60"
     },
     "festiwal-klock-w-connect-w-g-city-targ-wek-2026-07-31T12:00:00": {
       "scrapped_timestamp": "2026-07-13T12:48:20.116824+00:00",
@@ -7537,47 +7424,6 @@
         "max": 6
       }
     },
-    "letnie-kino-plenerowe-dla-dzieci-na-targ-wku-2026-07-15T18:00:00": {
-      "scrapped_timestamp": "2026-07-11T13:42:58.906990+00:00",
-      "real_source": "https://waw4free.pl/",
-      "category": "Cinema",
-      "description": "Mamy coś wyjątkowego dla najmłodszych kinomanów i ich rodziców! Zapraszamy na cykl Letniego Kina Plenerowego dla Dzieci. Przez całe wakacje, w każdą środę, będziemy wspólnie przeżywać niesamowite przygody, śmiać się i wzruszać oglądając najpiękniejsze filmy i animacje pod chmurką! ☀️🌳 ✨ WSTĘP CAŁKOWICIE WOLNY! ✨ Projekt jest realizowany w ramach Budżetu Obywatelskiego. 📍 Gdzie i kiedy gramy? 🗓 KAŻDA ŚRODA, godz. 18:00 🏢 Lokalizacja: CKiA / SP58 (Centrum Kultury i Aktywności) 🔥 WYDARZENIE SPECJALNE: Spotkanie z ludźmi kina! Chcecie dowiedzieć się, jak powstają filmy? Zapraszamy na wyjątkowe spotkanie edukacyjne dla dzieci: 📆 22/07 (Środa), godz. 17:00 (godzinę przed seansem „Akademii Magii”) „JAK POWSTAWAŁY KULTOWE ANIMACJE” 📅 PEŁNY REPERTUAR 📅 1.07.26 „Paddington”, reż. Paul King 8.07.26 „Mój przyjaciel Hachiko”, reż. Lasse Hallström 15.07.26 „Siła naszych marzeń”, reż. Christian Duguay 22.07.26 „Akademia Magii”, reż. Mark Gravas 29.07.26 „Gang Wiewióra”, reż. Peter Lepeniotis 5.08.26 „Emma odważna”, reż. Leo Lewis Liao 12.08.26 „Kumple z dżungli”, reż. David Alaux 19.08.26 „Rodzinka nie z tej Ziemi”, reż. Cal Brunker 26.08.26 „Dmuchawce”, reż. Momoko Seto 2.09.26 „Dzielna banda i tajemnica zaginionego wujka”, reż. Juan Jesús García Galocha, Pedro Solís García 📝 Przydatne informacje dla rodziców: Dla kogo: Seanse i ramówka dobrane są z myślą o dzieciach oraz całych rodzinach. Co ze sobą zabrać: Kocyki, ulubione przekąski i dobre humory! Na miejscu będą czekać leżaki (liczba ograniczona). W przypadku deszczu lub burzy, informacje o ewentualnych zmianach organizacyjnych będziemy wrzucać na bieżąco na stronę tego wydarzenia >> link Zaplanujcie środowe popołudnia z kulturą i zabierzcie swoje pociechy na filmowe emocje! 🍦🎬 Organizatorzy i Partnerzy: Urząd Dzielnicy Targówek m.st. Warszawy, CKiA (Centrum Kultury i Aktywności), Szkoła Podstawowa nr 58, Fundacja Rozwoju Kinematografii, wyswietlfilm.pl.",
-      "date": "2026-07-15T16:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Mamy coś wyjątkowego dla najmłodszych kinomanów i ich rodziców! Zapraszamy na cykl Letniego Kina Plenerowego dla Dzieci. Przez całe wakacje, w każdą środę, będziemy wspólnie przeżywać niesamowite przygody, śmiać się i wzruszać oglądając najpiękniejsze filmy i animacje pod chmurką! ☀️🌳 ✨ WSTĘP CAŁKOWICIE WOLNY! ✨ Projekt jest realizowany w ramach Budżetu Obywatelskiego. 📍 Gdzie i kiedy gramy? 🗓 KAŻDA ŚRODA, godz. 18:00 🏢 Lokalizacja: CKiA / SP58 (Centrum Kultury i Aktywności) 🔥 WYDARZENIE SPECJALNE: Spotkanie z ludźmi kina! Chcecie dowiedzieć się, jak powstają filmy? Zapraszamy na wyjątkowe spotkanie edukacyjne dla dzieci: 📆 22/07 (Środa), godz. 17:00 (godzinę przed seansem „Akademii Magii”) „JAK POWSTAWAŁY KULTOWE ANIMACJE” 📅 PEŁNY REPERTUAR 📅 1.07.26 „Paddington”, reż. Paul King 8.07.26 „Mój przyjaciel Hachiko”, reż. Lasse Hallström 15.07.26 „Siła naszych marzeń”, reż. Christian Duguay 22.07.26 „Akademia Magii”, reż. Mark Gravas 29.07.26 „Gang Wiewióra”, reż. Peter Lepeniotis 5.08.26 „Emma odważna”, reż. Leo Lewis Liao 12.08.26 „Kumple z dżungli”, reż. David Alaux 19.08.26 „Rodzinka nie z tej Ziemi”, reż. Cal Brunker 26.08.26 „Dmuchawce”, reż. Momoko Seto 2.09.26 „Dzielna banda i tajemnica zaginionego wujka”, reż. Juan Jesús García Galocha, Pedro Solís García 📝 Przydatne informacje dla rodziców: Dla kogo: Seanse i ramówka dobrane są z myślą o dzieciach oraz całych rodzinach. Co ze sobą zabrać: Kocyki, ulubione przekąski i dobre humory! Na miejscu będą czekać leżaki (liczba ograniczona). W przypadku deszczu lub burzy, informacje o ewentualnych zmianach organizacyjnych będziemy wrzucać na bieżąco na stronę tego wydarzenia >> link Zaplanujcie środowe popołudnia z kulturą i zabierzcie swoje pociechy na filmowe emocje! 🍦🎬 Organizatorzy i Partnerzy: Urząd Dzielnicy Targówek m.st. Warszawy, CKiA (Centrum Kultury i Aktywności), Szkoła Podstawowa nr 58, Fundacja Rozwoju Kinematografii, wyswietlfilm.pl.",
-          "title": "LETNIE KINO PLENEROWE DLA DZIECI NA TARGÓWKU"
-        },
-        "uk": {
-          "description": "Ми маємо щось особливе для наймолодших кіноманів та їхніх батьків! Запрошуємо на цикл Літнього Кіно Пленерового для Дітей. Протягом всього літа, кожної середи, ми разом переживатимемо неймовірні пригоди, сміятимемося та зворушуватимемося, дивлячись найкрасивіші фільми та анімації під відкритим небом! ☀️🌳 ✨ ВХІД ЦІЛКОМ ВІЛЬНИЙ! ✨ Проект реалізується в рамках Бюджету Громади. 📍 Де і коли ми граємо? 🗓 КОЖНА СЕРЕДА, о 18:00 🏢 Локація: ЦКіА / СП58 (Центр Культури та Активності) 🔥 СПЕЦІАЛЬНА ПОДІЯ: Зустріч з людьми кіно! Хочете дізнатися, як створюються фільми? Запрошуємо на унікальну освітню зустріч для дітей: 📆 22/07 (Середа), о 17:00 (за годину до сеансу «Академії Магії») «ЯК СТВОРЮВАЛИСЯ КУЛЬТОВІ АНІМАЦІЇ» 📅 ПОВНИЙ РЕПЕРТУАР 📅 1.07.26 «Паддінгтон», реж. Пол Кінг 8.07.26 «",
-          "title": "ЛІТНЄ КІНО ПЛЕНЕРОВЕ ДЛЯ ДІТЕЙ НА ТАРГОВКУ"
-        },
-        "en": {
-          "description": "We have something special for the youngest movie lovers and their parents! We invite you to a series of Summer Open-Air Cinema for Children. Throughout the summer, every Wednesday, we will experience amazing adventures together, laugh, and be moved while watching the most beautiful films and animations outdoors! ☀️🌳✨ FREE ENTRY! ✨ The project is implemented as part of the Civic Budget. 📍 Where and when do we play? 🗓 EVERY WEDNESDAY at 6:00 PM 🏢 Location: CKiA / SP58 (Cultural and Activity Center) 🔥 SPECIAL EVENT: Meeting with film industry professionals! Want to learn how movies are made? Join us for a special educational meeting for children: 📆 22/07 (Wednesday), at 5:00 PM (one hour before the screening of 'Academy of Magic') 'HOW CULT CLASSICS ANIMATIONS WERE MADE' 📅 FULL PROGRAM 📅 1.07.26 'Paddington', directed by Paul King 8.07.26 '",
-          "title": "SUMMER OPEN-AIR CINEMA FOR CHILDREN IN TARGÓWEK"
-        }
-      },
-      "scrapped_url": "https://www.facebook.com/events/2045460476363936/",
-      "url": "https://www.facebook.com/events/2045460476363936/",
-      "end_date": "2026-07-15T16:00:00+00:00",
-      "district": "Targówek",
-      "updated_at": "2026-07-11T13:44:45.273000+00:00",
-      "source": "waw4free.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Targówek",
-        "name": "Centrum Kultury i Aktywności, ul. Siarczana 6"
-      },
-      "title": "LETNIE KINO PLENEROWE DLA DZIECI NA TARGÓWKU",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1781198829.webp"
-    },
     "maszyna-czasu-krakowski-teatr-bajki-2026-07-18T16:00:00": {
       "scrapped_timestamp": "2026-06-30T14:43:25.480015+00:00",
       "real_source": "https://www.malywarszawiak.pl/",
@@ -9301,46 +9147,6 @@
       },
       "image": "https://czasdzieci.pl/pliki/wyd/img/13519-0a5775b877df/Polkolonie_fb_www_02_1200%20x%20628.jpg"
     },
-    "park-era-ski-spacer-rodzinny-z-przewodnikiem-2026-07-15T18:00:00": {
-      "scrapped_timestamp": "2026-07-02T06:33:17.357807+00:00",
-      "scrapped_url": "https://fb.me/e/oCgYlMJeV",
-      "category": "Nature & Wildlife",
-      "description": "W środowe popołudnie zapraszam rodziny z dziećmi na fascynujący spacer z przewodnikiem po najnowszej, zielonej perle na mapie stolicy – Parku Żerańskim na Białołęce! To wyjątkowa okazja, by wspólnie, na świeżym powietrzu, eksplorować tę 13-hektarową, niezwykłą przestrzeń i poznać jej sekrety. Podczas naszego spaceru zobaczymy, jak dawny, niedostępny teren poprzemysłowy nad Kanałem Żerańskim zmienił się w piękny park miejski. Co czeka na nas podczas wydarzenia? 👉 Odkrywanie tajemnic przeszłości: Zobaczymy, jak dzika natura połączyła się z historią dawnego portu i dawną infrastrukturą. 👉 Spacer nad samą wodą: Przejdziemy się po unikalnych, pływających pomostach tuż przy linii brzegowej. 👉 Czas na zabawę: Przetestujemy z dziećmi nowoczesny plac zabaw oraz ekscytujący park linowy. 👉 Zielone ciekawostki: Poznamy sekrety nowej roślinności i dowiemy się, po co stworzono tu zamknięte ostoje dla zwierząt. Dla kogo? Wydarzenie jest przeznaczone dla rodzin z dziećmi w każdym wieku, ale także dla miłośników przyrody, architektury oraz każdego, kto chce aktywnie spędzić czas, odkrywając nowe, fascynujące miejsca w Warszawie. Dostosuję język i opowieści tak, by zaciekawić zarówno najmłodszych słuchaczy, jak i ich rodziców. Zabierzcie ze sobą wygodne buty, uśmiech i chęć do odkrywania! Przyjdźcie i przekonajcie się, jak wspaniale można spędzić czas w najmłodszym parku naszej stolicy. Start/Meta: Park Żerański (od ul. Krzyżówki) Kiedy? 15 lipca 2026 Godzina? 18:00 Spacer jest bezpłatny, ale jeśli spodoba się Wam co zobaczycie i usłyszycie, to będzie mi bardzo miło jeśli zechcecie zostawić napiwek. Do zobaczenia!",
-      "date": "2026-07-15T16:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "W środowe popołudnie zapraszam rodziny z dziećmi na fascynujący spacer z przewodnikiem po najnowszej, zielonej perle na mapie stolicy – Parku Żerańskim na Białołęce! To wyjątkowa okazja, by wspólnie, na świeżym powietrzu, eksplorować tę 13-hektarową, niezwykłą przestrzeń i poznać jej sekrety. Podczas naszego spaceru zobaczymy, jak dawny, niedostępny teren poprzemysłowy nad Kanałem Żerańskim zmienił się w piękny park miejski. Co czeka na nas podczas wydarzenia? 👉 Odkrywanie tajemnic przeszłości: Zobaczymy, jak dzika natura połączyła się z historią dawnego portu i dawną infrastrukturą. 👉 Spacer nad samą wodą: Przejdziemy się po unikalnych, pływających pomostach tuż przy linii brzegowej. 👉 Czas na zabawę: Przetestujemy z dziećmi nowoczesny plac zabaw oraz ekscytujący park linowy. 👉 Zielone ciekawostki: Poznamy sekrety nowej roślinności i dowiemy się, po co stworzono tu zamknięte ostoje dla zwierząt. Dla kogo? Wydarzenie jest przeznaczone dla rodzin z dziećmi w każdym wieku, ale także dla miłośników przyrody, architektury oraz każdego, kto chce aktywnie spędzić czas, odkrywając nowe, fascynujące miejsca w Warszawie. Dostosuję język i opowieści tak, by zaciekawić zarówno najmłodszych słuchaczy, jak i ich rodziców. Zabierzcie ze sobą wygodne buty, uśmiech i chęć do odkrywania! Przyjdźcie i przekonajcie się, jak wspaniale można spędzić czas w najmłodszym parku naszej stolicy. Start/Meta: Park Żerański (od ul. Krzyżówki) Kiedy? 15 lipca 2026 Godzina? 18:00 Spacer jest bezpłatny, ale jeśli spodoba się Wam co zobaczycie i usłyszycie, to będzie mi bardzo miło jeśli zechcecie zostawić napiwek. Do zobaczenia!",
-          "title": "Park Żerański - spacer rodzinny z przewodnikiem"
-        },
-        "uk": {
-          "description": "У середу після обіду запрошую родини з дітьми на захоплюючу прогулянку з гідом по найновішій, зеленій перлині на карті столиці – Парку Жераньському на Білому Лісі! Це унікальна можливість разом, на свіжому повітрі, дослідити цю 13-гектарну, незвичайну простір і дізнатися її секрети. Під час нашої прогулянки ми побачимо, як колишня, недоступна промислова територія біля Каналу Жераньського перетворилася на красивий міський парк. Що чекає на нас під час заходу? 👉 Відкриття таємниць минулого: Побачимо, як дика природа з'єдналася з історією колишнього порту та старою інфраструктурою. 👉 Прогулянка біля води: Пройдемося по унікальних, плаваючих мостах прямо біля берегової лінії. 👉 Час для розваг: Протестуємо з дітьми сучасний ігровий майданчик та захоплюючий канатний парк. 👉 Зелені...",
-          "title": "Парк Жераньський - сімейна прогулянка з гідом"
-        },
-        "en": {
-          "description": "On Wednesday afternoon, I invite families with children to a fascinating guided walk through the newest green gem on the map of the capital – Żerański Park in Białołęka! This is a unique opportunity to explore this 13-hectare extraordinary space together in the fresh air and discover its secrets. During our walk, we will see how the former inaccessible post-industrial area along the Żerański Canal has transformed into a beautiful urban park. What awaits us during the event? 👉 Discovering the secrets of the past: We will see how wild nature has intertwined with the history of the old port and former infrastructure. 👉 A walk by the water: We will stroll along unique floating piers right by the shoreline. 👉 Time for fun: We will test the modern playground and the exciting rope park with the children. 👉 Green...",
-          "title": "Żerański Park - Family Walk with a Guide"
-        }
-      },
-      "real_source": "https://waw4free.pl/",
-      "url": "https://fb.me/e/oCgYlMJeV",
-      "end_date": "2026-07-15T16:00:00+00:00",
-      "district": "Białołęka",
-      "source": "waw4free.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Białołęka",
-        "name": "Park Żerański, ul. Krzyżówki"
-      },
-      "title": "Park Żerański - spacer rodzinny z przewodnikiem",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1800.1782923471.webp"
-    },
     "pettson-i-findus-spektakl-plenerowy-praga-po-udnie-2026-08-09": {
       "scrapped_timestamp": "2026-06-26T16:35:52.734076+00:00",
       "scrapped_url": "https://teatrbaza.pl/spektakle/",
@@ -9420,47 +9226,6 @@
         "min": 0,
         "max": 6
       }
-    },
-    "pi-karska-frajda-dla-najm-odszych-2026-07-15T18:00:00": {
-      "scrapped_timestamp": "2026-07-11T13:43:08.640810+00:00",
-      "real_source": "https://waw4free.pl/",
-      "category": "Sports",
-      "description": "Piłkarska frajda dla najmłodszych! ⚽ Twoje dziecko uwielbia ruch? Czekamy na boisku! Zapraszamy na bezpłatne zajęcia dla dzieci, które odbywają się w każdą środę od 1 lipca do 26 sierpnia w godzinach 18:00–19:00 w strefie chill przy Factory Ursus. Treningi prowadzą doświadczeni trenerzy z KS Madziar Nieporęt, którzy zadbają o dobrą zabawę i świetną atmosferę. Dla rodziców to idealny moment na małą przerwę lub szybkie zakupy. 💫 Do zobaczenia na murawie! 👟 Regulamin akcji: link",
-      "date": "2026-07-15T16:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Piłkarska frajda dla najmłodszych! ⚽ Twoje dziecko uwielbia ruch? Czekamy na boisku! Zapraszamy na bezpłatne zajęcia dla dzieci, które odbywają się w każdą środę od 1 lipca do 26 sierpnia w godzinach 18:00–19:00 w strefie chill przy Factory Ursus. Treningi prowadzą doświadczeni trenerzy z KS Madziar Nieporęt, którzy zadbają o dobrą zabawę i świetną atmosferę. Dla rodziców to idealny moment na małą przerwę lub szybkie zakupy. 💫 Do zobaczenia na murawie! 👟 Regulamin akcji: link",
-          "title": "Piłkarska frajda dla najmłodszych!"
-        },
-        "uk": {
-          "description": "Футбольне задоволення для наймолодших! ⚽ Ваша дитина обожнює рух? Чекаємо на полі! Запрошуємо на безкоштовні заняття для дітей, які проходять кожну середу з 1 липня по 26 серпня з 18:00 до 19:00 в зоні відпочинку біля Factory Ursus. Тренування проводять досвідчені тренери з KS Madziar Nieporęt, які подбають про гарний настрій та чудову атмосферу. Для батьків це ідеальний момент для невеликої перерви або швидких покупок. 💫 До зустрічі на полі! 👟 Правила акції: посилання",
-          "title": "Футбольне задоволення для наймолодших!"
-        },
-        "en": {
-          "description": "Football fun for the little ones! ⚽ Does your child love to move? We are waiting for you on the field! Join us for free activities for children, taking place every Wednesday from July 1 to August 26 from 6:00 PM to 7:00 PM in the chill zone at Factory Ursus. The training sessions are led by experienced coaches from KS Madziar Nieporęt, who will ensure good fun and a great atmosphere. For parents, it's the perfect time for a little break or quick shopping. 💫 See you on the pitch! 👟 Event regulations: link",
-          "title": "Football Fun for the Little Ones!"
-        }
-      },
-      "scrapped_url": "https://ursus.factory.pl/pl/co-nowego/wydarzenia/gramy-w-pilke",
-      "url": "https://ursus.factory.pl/pl/co-nowego/wydarzenia/gramy-w-pilke",
-      "end_date": "2026-07-15T16:00:00+00:00",
-      "district": "Ursus",
-      "updated_at": "2026-07-11T13:44:45.670000+00:00",
-      "source": "waw4free.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Ursus",
-        "name": "Factory Ursus, Plac Czerwca 1976 r"
-      },
-      "title": "Piłkarska frajda dla najmłodszych!",
-      "age_range": {
-        "min": 0,
-        "max": 5
-      },
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1783068397.webp"
     },
     "piastodzieje-konrad-mazowiecki-2026-09-27": {
       "real_source": "https://www.malywarszawiak.pl/",
@@ -9582,47 +9347,6 @@
         "max": 18
       },
       "image": null
-    },
-    "piknik-poznajmy-si-2026-07-15": {
-      "scrapped_timestamp": "2026-06-19T07:13:30.864490+00:00",
-      "scrapped_url": "https://bemowo.um.warszawa.pl/-/piknik-poznajmy-sie-1#15-07",
-      "category": "Family Fun",
-      "description": "Zapraszamy na letnie pikniki integracyjne w Parku Górczewska! Wspólna zabawa i piknikowanie na zielonych terenach dzielnicy, w okolicach Amfiteatru.",
-      "date": "2026-07-15T15:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Zapraszamy na letnie pikniki integracyjne w Parku Górczewska! Wspólna zabawa i piknikowanie na zielonych terenach dzielnicy, w okolicach Amfiteatru.",
-          "title": "Piknik „Poznajmy się!”"
-        },
-        "uk": {
-          "description": "Запрошуємо на літні інтеграційні пікніки в парку Гурчевська! Спільні розваги та пікнікування на зелених територіях району, в околицях Амфітеатру.",
-          "title": "Пікнік «Познайомимося!»"
-        },
-        "en": {
-          "description": "We invite you to summer integration picnics in Górczewska Park! Join us for fun and picnicking in the green areas of the district, near the Amphitheater.",
-          "title": "Picnic 'Let's Get to Know Each Other!'"
-        }
-      },
-      "real_source": "https://www.malywarszawiak.pl/",
-      "url": "https://bemowo.um.warszawa.pl/-/piknik-poznajmy-sie-1#15-07",
-      "end_date": "2026-07-15T18:00:00+00:00",
-      "district": "Bemowo",
-      "updated_at": "2026-06-29T08:44:09.696000+00:00",
-      "source": "bemowo.um.warszawa.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Bemowo",
-        "name": "Park Górczewska , okolice Amfiteatru"
-      },
-      "title": "Piknik „Poznajmy się!”",
-      "image": "https://cdn.um.warszawa.pl/o/portal-theme/images/other/og-image.png?t=1781683692000",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      }
     },
     "piknik-poznajmy-si-2026-07-22": {
       "scrapped_timestamp": "2026-06-19T07:14:06.639910+00:00",
@@ -11329,42 +11053,6 @@
       "age_range": {
         "min": 0,
         "max": 18
-      }
-    },
-    "skrzydlaty-odlot-spektakl-familijny-2026-07-16T00:00:00": {
-      "scrapped_timestamp": "2026-07-06T12:28:27.253980+00:00",
-      "scrapped_url": "https://czasdzieci.pl/warszawa/wydarzenia/id,14078180c.html",
-      "category": "Theater",
-      "description": "Przedstawienie jest częścią tegorocznej edycji RembART FESTIWALU 2026 – serii plenerowych wydarzeń kulturalnych w Dzielnicy Rembertów W skład których wchodzić będą koncerty, spektakle dla dzieci i dla dorosłych. „Przebój lata, czyli Skrzydlaty Odlot” to pełen dobrego humoru spektakl musicalowy dla dzieci. To muzyczno-teatralna „rewia dla oka dziecka”, dzięki przepięknym kolorowym kostiumom. Autorska historia oraz komicznie zbudowane postaci wciągną dzieci w dobrą zabawę. Spektakl pełen jest wyjątkowych piosenek – w 60 minutowym spektaklu znajduje się ich aż 10! Wszystkie piosenki są śpiewane przez aktorów na żywo. A wszystko zaczęło się na dachu… Tam spotkali się ze sobą Gołąb Gienio, Papuga Pelagia i Sowa Sonia. Te wesołe ptaki postanowiły spełnić swoje marzenia i zbudować teatr! Jak to jednak zrobić, jeżeli nie mają pieniędzy… Czy żeby to osiągnąć muszą dolecieć aż do słońca – bo, jak głosi legenda, gdy dotkną słońca zdobędą wszelkie bogactwa? Czy też warto wziąć udział w konkursie na Przebój Lata? Wykonanie: Teatr Kultureska Miejsce wydarzenia: Teren Rekreacyjny ul. Strażacka 121 / Kordiana Organizatorzy RembART FESTIWAL 2026: Dzielnica Rembertów m.st. Warszawy, Dom Kultury „Wygoda” oraz Dom Kultury „Rembertów”. Wstęp na wszystkie wydarzenia odbywające się w ramach RembART FESTIWAL 2026 jest bezpłatny. Strona z wydarzeniem: https://dkwygoda.waw.pl/event/rembart-festiwal-2026-skrzydlaty-odlot-spektakl-familijny/ FB: https://www.facebook.com/events/1354011272801412",
-      "date": "2026-07-15T22:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Przedstawienie jest częścią tegorocznej edycji RembART FESTIWALU 2026 – serii plenerowych wydarzeń kulturalnych w Dzielnicy Rembertów W skład których wchodzić będą koncerty, spektakle dla dzieci i dla dorosłych. „Przebój lata, czyli Skrzydlaty Odlot” to pełen dobrego humoru spektakl musicalowy dla dzieci. To muzyczno-teatralna „rewia dla oka dziecka”, dzięki przepięknym kolorowym kostiumom. Autorska historia oraz komicznie zbudowane postaci wciągną dzieci w dobrą zabawę. Spektakl pełen jest wyjątkowych piosenek – w 60 minutowym spektaklu znajduje się ich aż 10! Wszystkie piosenki są śpiewane przez aktorów na żywo. A wszystko zaczęło się na dachu… Tam spotkali się ze sobą Gołąb Gienio, Papuga Pelagia i Sowa Sonia. Te wesołe ptaki postanowiły spełnić swoje marzenia i zbudować teatr! Jak to jednak zrobić, jeżeli nie mają pieniędzy… Czy żeby to osiągnąć muszą dolecieć aż do słońca – bo, jak głosi legenda, gdy dotkną słońca zdobędą wszelkie bogactwa? Czy też warto wziąć udział w konkursie na Przebój Lata? Wykonanie: Teatr Kultureska Miejsce wydarzenia: Teren Rekreacyjny ul. Strażacka 121 / Kordiana Organizatorzy RembART FESTIWAL 2026: Dzielnica Rembertów m.st. Warszawy, Dom Kultury „Wygoda” oraz Dom Kultury „Rembertów”. Wstęp na wszystkie wydarzenia odbywające się w ramach RembART FESTIWAL 2026 jest bezpłatny. Strona z wydarzeniem: https://dkwygoda.waw.pl/event/rembart-festiwal-2026-skrzydlaty-odlot-spektakl-familijny/ FB: https://www.facebook.com/events/1354011272801412",
-          "title": "\"Skrzydlaty odlot\" - spektakl familijny"
-        },
-        "uk": {
-          "description": "Вистава є частиною цьогорічної редакції RembART FESTIWALU 2026 – серії відкритих культурних подій у районі Ремберту, до складу яких входять концерти, вистави для дітей та дорослих. \"Хіт літа, або Крилатий Відліт\" – це повна доброго гумору музична вистава для дітей. Це музично-театральна \"ревю для ока дитини\", завдяки прекрасним кольоровим костюмам. Авторська історія та комічно побудовані персонажі залучать дітей до гарного проведення часу. Вистава сповнена унікальних пісень – у 60-хвилинній виставі їх аж 10! Усі пісні виконуються акторами наживо. А все почалося на даху… Там зустрілися Голуб Геніо, Папуга Пелагія та Сова Соня. Ці веселі птахи вирішили здійснити свої мрії та побудувати театр! Як це сталося...",
-          "title": "Крилатий відліт - сімейний спектакль"
-        },
-        "en": {
-          "description": "The performance is part of this year's edition of the RembART FESTIVAL 2026 – a series of outdoor cultural events in the Rembertów District, which will include concerts, shows for children and adults. 'Summer Hit, or Winged Departure' is a humorous musical show for children. It is a musical-theatrical 'revue for the eyes of a child,' thanks to the beautiful colorful costumes. The original story and comically constructed characters will engage children in good fun. The show is filled with exceptional songs – there are as many as 10 in the 60-minute performance! All songs are sung live by the actors. And it all started on the roof… There, the Pigeon Gienio, the Parrot Pelagia, and the Owl Sonia met. These cheerful birds decided to fulfill their dreams and build a theater! How it all unfolds...",
-          "title": "Winged Departure - Family Show"
-        }
-      },
-      "url": "https://czasdzieci.pl/warszawa/wydarzenia/id,14078180c.html",
-      "end_date": "2026-07-15T22:00:00+00:00",
-      "district": "Mokotów",
-      "source": "czasdzieci.pl",
-      "startTimeKnown": false,
-      "location": {
-        "district": "Mokotów",
-        "name": "Teren Rekreacyjny ul. Strażacka 121 / Kordiana"
-      },
-      "title": "\"Skrzydlaty odlot\" - spektakl familijny",
-      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/0-230-848-8486a4b91bdaf16c1783337405i-insert-i.png",
-      "age_range": {
-        "min": 3,
-        "max": 14
       }
     },
     "smykofonia-melomaluszki-w-azienkach-gramy-w-zielone-2026-07-18": {
@@ -16740,46 +16428,6 @@
       "district": "Ursynów",
       "updated_at": "2026-07-14T14:10:19.212253+00:00"
     },
-    "zaj-cia-z-pi-ki-no-nej-dla-dzieci-w-factory-ursus-2026-07-15T18:00:00+02:00": {
-      "title": "Zajęcia z piłki nożnej dla dzieci w Factory Ursus!",
-      "date": "2026-07-15T18:00:00+02:00",
-      "end_date": "2026-07-15T19:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Słyszycie gwizdek? Czas na grę! Zapraszamy wszystkie dzieciaki na wakacyjne zajęcia z piłki nożnej w strefie chill obok outletu Factory Ursus! Treningi odbywać się będą w każdą środę do końca sierpnia o godzinie 18:00 pod czujnym okiem trenerów z Klubu Sportowego Madziar Nieporęt. Spotkania są w pełni darmowe i nie wymagają dodatkowych zapisów. Podaruj swojemu dziecku tego lata odrobinę sportowych wrażeń! Jedyne, co musicie ze sobą zabrać, to: sportowe buty butelka wody dobry humor Do zobaczenia na murawie! Więcej szczegółów",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F6c9da420-7a5e-4d19-8805-7bc9bf1533ac.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/1de004f7-b3ab-401c-973e-7a18108d4ea8",
-      "source": "gojammin.com",
-      "district": "Ursus",
-      "location": {
-        "name": "Plac Czerwca 1976 r. 6, 00-001 Warszawa, Poland",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/1de004f7-b3ab-401c-973e-7a18108d4ea8",
-      "scrapped_timestamp": "2026-07-14T14:09:30.349893+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Zajęcia z piłki nożnej dla dzieci w Factory Ursus!",
-          "description": "Słyszycie gwizdek? Czas na grę! Zapraszamy wszystkie dzieciaki na wakacyjne zajęcia z piłki nożnej w strefie chill obok outletu Factory Ursus! Treningi odbywać się będą w każdą środę do końca sierpnia o godzinie 18:00 pod czujnym okiem trenerów z Klubu Sportowego Madziar Nieporęt. Spotkania są w pełni darmowe i nie wymagają dodatkowych zapisów. Podaruj swojemu dziecku tego lata odrobinę sportowych wrażeń! Jedyne, co musicie ze sobą zabrać, to: sportowe buty butelka wody dobry humor Do zobaczenia na murawie! Więcej szczegółów"
-        },
-        "en": {
-          "title": "Football Classes for Kids at Factory Ursus!",
-          "description": "Do you hear the whistle? It's time to play! We invite all kids to summer football classes in the chill zone next to the Factory Ursus outlet! Training sessions will take place every Wednesday until the end of August at 6:00 PM under the watchful eye of coaches from the Madziar Nieporęt Sports Club. The meetings are completely free and do not require additional registration. Give your child a bit of sports excitement this summer! The only things you need to bring are: sports shoes, a water bottle, and a good mood. See you on the field! More details"
-        },
-        "uk": {
-          "title": "Заняття з футболу для дітей у Factory Ursus!",
-          "description": "Чуєте свисток? Час грати! Запрошуємо всіх дітлахів на літні заняття з футболу в зоні відпочинку біля аутлету Factory Ursus! Тренування відбуватимуться кожної середи до кінця серпня о 18:00 під пильним оком тренерів з Спортивного клубу Мадяр Непоріт. Зустрічі повністю безкоштовні і не вимагають додаткових записів. Подаруйте своїй дитині цього літа трохи спортивних вражень! Єдине, що вам потрібно взяти з собою, це: спортивне взуття, пляшка води, гарний настрій. До зустрічі на полі! Більше деталей"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-14T14:10:19.212296+00:00"
-    },
     "poranne-pikniki-z-j-zykiem-angielskim-wawer-anin-2026-07-16T10:00:00+02:00": {
       "title": "Poranne pikniki z językiem angielskim - Wawer | Anin",
       "date": "2026-07-16T10:00:00+02:00",
@@ -16900,86 +16548,6 @@
         "is_free": true
       },
       "updated_at": "2026-07-14T14:10:19.212356+00:00"
-    },
-    "strefa-wiedzy-przyrodniczej-i-ekologicznej-2026-07-15T17:00:00+02:00": {
-      "title": "Strefa wiedzy przyrodniczej i ekologicznej",
-      "date": "2026-07-15T17:00:00+02:00",
-      "end_date": "2026-07-15T18:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na kreatywne warsztaty plastyczne, inspirowane kontaktem z otaczającą przyrodą. Zajęcia pozwolą poszerzyć wiedzę na temat botaniki jak i różnych technik malarskich. Wstęp wolny dla uczestników indywidualnych, bez ograniczeń wiekowych. W zależności od pogody wszystkie zajęcia będą odbywały się w Eko Parku lub w sali dziecięcej Filii „Gołąbki”.",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/strefa-wiedzy-przyrodniczej-i-ekologicznej",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Filia \"Gołąbki\", Czerwona Droga 6, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/strefa-wiedzy-przyrodniczej-i-ekologicznej",
-      "scrapped_timestamp": "2026-07-14T15:44:50.763183+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Strefa wiedzy przyrodniczej i ekologicznej",
-          "description": "Zapraszamy na kreatywne warsztaty plastyczne, inspirowane kontaktem z otaczającą przyrodą. Zajęcia pozwolą poszerzyć wiedzę na temat botaniki jak i różnych technik malarskich. Wstęp wolny dla uczestników indywidualnych, bez ograniczeń wiekowych. W zależności od pogody wszystkie zajęcia będą odbywały się w Eko Parku lub w sali dziecięcej Filii „Gołąbki”."
-        },
-        "en": {
-          "title": "Nature and Ecology Knowledge Zone",
-          "description": "We invite you to creative art workshops inspired by contact with the surrounding nature. The sessions will expand knowledge about botany as well as various painting techniques. Free admission for individual participants, with no age restrictions. Depending on the weather, all activities will take place in the Eco Park or in the children's room of the 'Gołąbki' Branch."
-        },
-        "uk": {
-          "title": "Зона природничих і екологічних знань",
-          "description": "Запрошуємо на креативні художні майстер-класи, натхненні контактом з навколишньою природою. Заняття дозволять розширити знання про ботаніку, а також різні техніки малювання. Вхід вільний для індивідуальних учасників, без вікових обмежень. Залежно від погоди, всі заняття відбуватимуться в Еко Парку або в дитячій кімнаті Філії «Голубки»."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-14T15:50:46.826782+00:00"
-    },
-    "gry-i-zabawy-pod-chmurk-2026-07-15T17:00:00+02:00": {
-      "title": "Gry i zabawy pod chmurką",
-      "date": "2026-07-15T17:00:00+02:00",
-      "end_date": "2026-07-15T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia na kocach piknikowych na placu zabaw obok szkoły podstawowej nr 409 i filii biblioteki „Szamoty”. Spotkanie sprzyja wspólnemu spędzaniu czasu, rozwijaniu pasji rywalizacji i budowaniu więzi w grupie. Dla dzieci w wieku: 5+ Wstęp wolny dla uczestników indywidualnych.",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/gry-i-zabawy-pod-chmurka",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Filia „Szamoty”, Silnikowa 8A, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/gry-i-zabawy-pod-chmurka",
-      "scrapped_timestamp": "2026-07-14T15:44:57.582518+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Gry i zabawy pod chmurką",
-          "description": "Zapraszamy na zajęcia na kocach piknikowych na placu zabaw obok szkoły podstawowej nr 409 i filii biblioteki „Szamoty”. Spotkanie sprzyja wspólnemu spędzaniu czasu, rozwijaniu pasji rywalizacji i budowaniu więzi w grupie. Dla dzieci w wieku: 5+ Wstęp wolny dla uczestników indywidualnych."
-        },
-        "en": {
-          "title": "Games and Fun Under the Clouds",
-          "description": "We invite you to join us for activities on picnic blankets at the playground next to Primary School No. 409 and the 'Szamoty' library branch. The meeting encourages spending time together, developing a passion for competition, and building bonds within the group. For children aged 5 and up. Free entry for individual participants."
-        },
-        "uk": {
-          "title": "Ігри та забави під хмарами",
-          "description": "Запрошуємо на заняття на пікнікових ковриках на дитячому майданчику біля початкової школи № 409 та філії бібліотеки «Шамоти». Зустріч сприяє спільному проведенню часу, розвитку пристрасті до змагань та побудові зв'язків у групі. Для дітей віком: 5+. Вхід вільний для індивідуальних учасників."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-14T15:50:46.826797+00:00"
     },
     "opowiem-ci-bajk-niezwyk-y-wiat-teatrzyku-kamishibai-2026-07-16T10:00:00+02:00": {
       "title": "„Opowiem Ci bajkę...” – niezwykły świat teatrzyku Kamishibai",
@@ -19234,86 +18802,6 @@
       },
       "updated_at": "2026-07-15T14:11:44.238203+00:00"
     },
-    "sztuka-na-wakacjach-czy-w-sztuce-jest-miejsce-na-zabaw-2026-07-15T12:00:00+02:00": {
-      "title": "Sztuka na wakacjach: Czy w sztuce jest miejsce na zabawę?",
-      "date": "2026-07-15T12:00:00+02:00",
-      "end_date": "2026-07-15T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Czy w muzeum można się bawić? Czy w dawnych epokach poświęcano dużo czasu na gry i zabawy towarzyskie? Podczas spotkania w Muzeum porozmawiamy o tym, jak można spędzać czas wolny, jakie rozrywki organizowano dawniej, a jakie dzisiaj. W dalszej części spróbujemy stworzyć swoją własną grę i jej zasady. SZTUKA NA WAKACJACH – warsztaty dla dzieci w wieku 5–10 lat i ich opiekunów Czy Muzeum może być miejscem wakacyjnego odpoczynku? Przekonajcie się sami, odwiedzając nas latem! Od początku lipca do końca sierpnia, w każdą środę i czwartek o godz. 12.00 zapraszamy na warsztaty wakacyjne. W swobodnej i twórczej atmosferze odkryjemy tajemnice przyrody i sztuki, zastanowimy się, w jaki sposób zbudować ciekawą opowieść, inspirowaną dziełami znajdującymi się w naszych galeriach.",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_969622687_original.jpg",
-      "location": {
-        "name": "Muzeum Narodowe w Warszawie (Warszawa)",
-        "district": "Śródmieście"
-      },
-      "url": "https://warszawa.naszemiasto.pl/sztuka-na-wakacjach-czy-w-sztuce-jest-miejsce-na-zabawe/kw/c5-2726603",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://warszawa.naszemiasto.pl/sztuka-na-wakacjach-czy-w-sztuce-jest-miejsce-na-zabawe/kw/c5-2726603",
-      "scrapped_timestamp": "2026-07-15T15:52:32.708825+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 5,
-        "max": 10
-      },
-      "translations": {
-        "pl": {
-          "title": "Sztuka na wakacjach: Czy w sztuce jest miejsce na zabawę?",
-          "description": "Czy w muzeum można się bawić? Czy w dawnych epokach poświęcano dużo czasu na gry i zabawy towarzyskie? Podczas spotkania w Muzeum porozmawiamy o tym, jak można spędzać czas wolny, jakie rozrywki organizowano dawniej, a jakie dzisiaj. W dalszej części spróbujemy stworzyć swoją własną grę i jej zasady. SZTUKA NA WAKACJACH – warsztaty dla dzieci w wieku 5–10 lat i ich opiekunów Czy Muzeum może być miejscem wakacyjnego odpoczynku? Przekonajcie się sami, odwiedzając nas latem! Od początku lipca do końca sierpnia, w każdą środę i czwartek o godz. 12.00 zapraszamy na warsztaty wakacyjne. W swobodnej i twórczej atmosferze odkryjemy tajemnice przyrody i sztuki, zastanowimy się, w jaki sposób zbudować ciekawą opowieść, inspirowaną dziełami znajdującymi się w naszych galeriach."
-        },
-        "en": {
-          "title": "Art on Vacation: Is There Room for Fun in Art?",
-          "description": "Can you have fun in a museum? Did people in ancient times spend a lot of time on games and social activities? During the meeting at the Museum, we will discuss how free time can be spent, what entertainments were organized in the past, and what is available today. Later, we will try to create our own game and its rules. ART ON VACATION – workshops for children aged 5–10 and their guardians. Can a Museum be a place for summer relaxation? Find out for yourself by visiting us this summer! From early July to the end of August, every Wednesday and Thursday at 12:00 PM, we invite you to summer workshops. In a relaxed and creative atmosphere, we will discover the secrets of nature and art, and consider how to build an interesting story inspired by the works in our galleries."
-        },
-        "uk": {
-          "title": "Мистецтво на канікулах: Чи є місце для гри в мистецтві?",
-          "description": "Чи можна грати в музеї? Чи приділяли багато часу на ігри та соціальні розваги в давні епохи? Під час зустрічі в музеї ми поговоримо про те, як можна проводити вільний час, які розваги організовували раніше, а які сьогодні. У подальшій частині спробуємо створити свою власну гру та її правила. МИСТЕЦТВО НА КАНІКУЛАХ – майстер-класи для дітей віком 5–10 років та їхніх опікунів. Чи може музей бути місцем літнього відпочинку? Переконайтеся самі, відвідавши нас влітку! З початку липня до кінця серпня, кожної середи та четверга о 12:00 запрошуємо на літні майстер-класи. У невимушеній та творчій атмосфері ми відкриємо таємниці природи та мистецтва, подумаємо, як побудувати цікаву оповідь, натхненну творами, що знаходяться в наших галереях."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-07-15T15:54:28.795676+00:00"
-    },
-    "warsztaty-dla-dzieci-dekorowanie-torcik-w-2026-07-15T16:00:00+02:00": {
-      "title": "Warsztaty dla dzieci: Dekorowanie torcików",
-      "date": "2026-07-15T16:00:00+02:00",
-      "end_date": "2026-07-15T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W Fabryce Czekolady E. Wedel oferujemy warsztaty czekoladowe dla dzieci z rodzicami oraz dla samych dorosłych. Niezależnie od wieku, u nas MOŻESZ tworzyć, bawić się a nawet gotować! W trakcie warsztatów poznasz tajniki produkcji Torcików Wedlowskich i udekorujesz swój własny Torcik. Możesz też poznać historię czekolady od ziarenka do tabliczki i stworzyć własną tabliczkę czekolady! Oferujemy również warsztaty dla dzieci, na których będą mogły stworzyć pralinki. Na każdego uczestnika czeka profesjonalnie wyposażona sala warsztatowa, doświadczeni prowadzący, dużo czekolady i wspaniała zabawa! Dekorowanie torcików Własnoręcznie udekorowany torcik? A może specjalny prezent dla Dziadków? Na tych warsztatach dzieci pod okiem opiekunów poznają tajniki dekorowania tradycyjnych torcików Wedlowskich.",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_968621813_original.jpg",
-      "location": {
-        "name": "Muzeum Fabryka Czekolady E.Wedel (Warszawa-Kamionek)",
-        "district": "Praga-Południe"
-      },
-      "url": "https://naszemiasto.pl/warsztaty-dla-dzieci-dekorowanie-torcikow/kw/c5-2662533",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://naszemiasto.pl/warsztaty-dla-dzieci-dekorowanie-torcikow/kw/c5-2662533",
-      "scrapped_timestamp": "2026-07-15T15:52:42.962238+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Warsztaty dla dzieci: Dekorowanie torcików",
-          "description": "W Fabryce Czekolady E. Wedel oferujemy warsztaty czekoladowe dla dzieci z rodzicami oraz dla samych dorosłych. Niezależnie od wieku, u nas MOŻESZ tworzyć, bawić się a nawet gotować! W trakcie warsztatów poznasz tajniki produkcji Torcików Wedlowskich i udekorujesz swój własny Torcik. Możesz też poznać historię czekolady od ziarenka do tabliczki i stworzyć własną tabliczkę czekolady! Oferujemy również warsztaty dla dzieci, na których będą mogły stworzyć pralinki. Na każdego uczestnika czeka profesjonalnie wyposażona sala warsztatowa, doświadczeni prowadzący, dużo czekolady i wspaniała zabawa! Dekorowanie torcików Własnoręcznie udekorowany torcik? A może specjalny prezent dla Dziadków? Na tych warsztatach dzieci pod okiem opiekunów poznają tajniki dekorowania tradycyjnych torcików Wedlowskich."
-        },
-        "en": {
-          "title": "Workshops for Kids: Cake Decorating",
-          "description": "At the E. Wedel Chocolate Factory, we offer chocolate workshops for children with their parents as well as for adults. Regardless of age, you can CREATE, have fun, and even cook with us! During the workshops, you will learn the secrets of making Wedel cakes and decorate your own cake. You can also discover the history of chocolate from bean to bar and create your own chocolate bar! We also offer workshops for children, where they can make pralines. Each participant will have access to a professionally equipped workshop room, experienced instructors, plenty of chocolate, and great fun! Cake Decorating: A self-decorated cake? Or perhaps a special gift for Grandparents? In these workshops, children, under the supervision of caregivers, will learn the secrets of decorating traditional Wedel cakes."
-        },
-        "uk": {
-          "title": "Майстер-класи для дітей: Декорування тортів",
-          "description": "У Фабриці Шоколаду E. Wedel ми пропонуємо шоколадні майстер-класи для дітей з батьками, а також для дорослих. Незалежно від віку, у нас ВИ МОЖЕТЕ творити, розважатися і навіть готувати! Під час майстер-класів ви дізнаєтеся секрети виробництва тортів Wedlowskich і декоруєте свій власний торт. Ви також можете дізнатися історію шоколаду від зернятка до плитки і створити власну плитку шоколаду! Ми також пропонуємо майстер-класи для дітей, на яких вони зможуть створити цукерки. На кожного учасника чекає професійно обладнаний майстер-клас, досвідчені ведучі, багато шоколаду і чудове задоволення! Декорування тортів Власноруч декорований торт? А може, спеціальний подарунок для Дідусів і Бабусь? На цих майстер-класах діти під наглядом опікунів дізнаються секрети декорування традиційних тортів Wedlowskich."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-07-15T15:54:28.795696+00:00"
-    },
     "mali-wielcy-czytamy-i-tworzymy-2026-07-22T14:00:00+02:00": {
       "title": "Mali Wielcy – czytamy i tworzymy",
       "date": "2026-07-22T14:00:00+02:00",
@@ -19353,252 +18841,6 @@
         "is_free": true
       },
       "updated_at": "2026-07-15T15:54:28.795711+00:00"
-    },
-    "lalki-motanki-warsztaty-kreatywne-2026-07-15T10:00:00+02:00": {
-      "title": "Lalki motanki - warsztaty kreatywne",
-      "date": "2026-07-15T10:00:00+02:00",
-      "end_date": "2026-07-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy dzieci w wieku 6–12 lat na bezpłatne warsztaty tworzenia lalek motanek – wyjątkowych lalek wywodzących się z tradycji słowiańskiej. Podczas godzinnych zajęć każde dziecko stworzy własną motankę ze skrawków kolorowych materiałów. Do wykonania lalki nie używamy igły ani nitki – wszystkie elementy powstają poprzez składanie, owijanie i wiązanie tkanin. To prosta, relaksująca technika rękodzielnicza, która rozwija kreatywność, sprawność manualną i pozwala poznać ciekawy element słowiańskiej tradycji. Do wykonania lalek wykorzystamy materiały pochodzące z bemowskiej Podzielni WOW. Dzięki temu pokażemy, że niepotrzebne skrawki tkanin mogą zyskać drugie życie i stać się początkiem czegoś wyjątkowego. Warsztaty są także okazją do poznania Kiepskiej Formy – nowej pracowni artystycznej, którą otwieramy we wrześniu. Będziemy prowadzić różnorodne zajęcia kreatywne dla dzieci i dorosłych, zachęcające do swobodnego tworzenia i odkrywania nowych technik. Na warsztatach można tworzyć samodzielnie lub wspólnie z rodzicem lub opiekunem. Terminy warsztatów: * 13 lipca (poniedziałek), godz. 17:00–18:00 * 15 lipca (środa), godz. 10:00–11:00 * 16 lipca (czwartek), godz. 17:00–18:00 * 5 sierpnia (środa), godz. 17:00–18:00 Dostępność: Warsztaty odbywają się na parterze. Przestrzeń jest łatwo dostępna dla osób mających trudności z poruszaniem się oraz dla rodziców z wózkami dziecięcymi. Udział jest bezpłatny, obowiązują zapisy. Zgłoszenia prosimy wysyłać na adres >> kiepska.forma@gmail.com Zapraszamy do wspólnego tworzenia, odkrywania tradycyjnego rękodzieła i przekonania się, jak wiele pięknych rzeczy można stworzyć z materiałów, które ktoś inny uznał za niepotrzebne.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0000.1783396101.webp",
-      "location": {
-        "name": "ul. Wolska 45",
-        "district": "Wola"
-      },
-      "url": "https://waw4free.pl/wydarzenie-155587-lalki-motanki-warsztaty-kreatywne",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://waw4free.pl/wydarzenie-155587-lalki-motanki-warsztaty-kreatywne",
-      "scrapped_timestamp": "2026-07-15T15:52:56.438032+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Lalki motanki - warsztaty kreatywne",
-          "description": "Zapraszamy dzieci w wieku 6–12 lat na bezpłatne warsztaty tworzenia lalek motanek – wyjątkowych lalek wywodzących się z tradycji słowiańskiej. Podczas godzinnych zajęć każde dziecko stworzy własną motankę ze skrawków kolorowych materiałów. Do wykonania lalki nie używamy igły ani nitki – wszystkie elementy powstają poprzez składanie, owijanie i wiązanie tkanin. To prosta, relaksująca technika rękodzielnicza, która rozwija kreatywność, sprawność manualną i pozwala poznać ciekawy element słowiańskiej tradycji. Do wykonania lalek wykorzystamy materiały pochodzące z bemowskiej Podzielni WOW. Dzięki temu pokażemy, że niepotrzebne skrawki tkanin mogą zyskać drugie życie i stać się początkiem czegoś wyjątkowego. Warsztaty są także okazją do poznania Kiepskiej Formy – nowej pracowni artystycznej, którą otwieramy we wrześniu. Będziemy prowadzić różnorodne zajęcia kreatywne dla dzieci i dorosłych, zachęcające do swobodnego tworzenia i odkrywania nowych technik. Na warsztatach można tworzyć samodzielnie lub wspólnie z rodzicem lub opiekunem. Terminy warsztatów: * 13 lipca (poniedziałek), godz. 17:00–18:00 * 15 lipca (środa), godz. 10:00–11:00 * 16 lipca (czwartek), godz. 17:00–18:00 * 5 sierpnia (środa), godz. 17:00–18:00 Dostępność: Warsztaty odbywają się na parterze. Przestrzeń jest łatwo dostępna dla osób mających trudności z poruszaniem się oraz dla rodziców z wózkami dziecięcymi. Udział jest bezpłatny, obowiązują zapisy. Zgłoszenia prosimy wysyłać na adres >> kiepska.forma@gmail.com Zapraszamy do wspólnego tworzenia, odkrywania tradycyjnego rękodzieła i przekonania się, jak wiele pięknych rzeczy można stworzyć z materiałów, które ktoś inny uznał za niepotrzebne."
-        },
-        "en": {
-          "title": "Motanka Dolls - Creative Workshop",
-          "description": "We invite children aged 6–12 to free workshops on creating motanka dolls – unique dolls originating from Slavic tradition. During the one-hour session, each child will create their own motanka from scraps of colorful materials. No needles or threads are used to make the doll – all elements are created by folding, wrapping, and tying fabrics. This is a simple, relaxing craft technique that develops creativity, manual dexterity, and allows participants to learn about an interesting aspect of Slavic tradition. We will use materials sourced from the Bemowo WOW Sharing Center. This will demonstrate that unnecessary fabric scraps can gain a second life and become the beginning of something special. The workshops are also an opportunity to get to know Kiepska Forma – a new artistic studio."
-        },
-        "uk": {
-          "title": "Ляльки мотанки - креативні майстер-класи",
-          "description": "Запрошуємо дітей віком 6–12 років на безкоштовні майстер-класи з виготовлення ляльок мотанок – унікальних ляльок, що походять з традиції слов'ян. Під час годинних занять кожна дитина створить власну мотанку з клаптиків кольорових матеріалів. Для виготовлення ляльки не використовуємо голку та нитку – всі елементи створюються шляхом складання, обгортання та зав'язування тканин. Це проста, розслаблююча техніка рукоділля, яка розвиває креативність, ручну майстерність і дозволяє познайомитися з цікавим елементом слов'янської традиції. Для виготовлення ляльок використаємо матеріали, що походять з бемовської Подільні WOW. Завдяки цьому ми покажемо, що непотрібні клаптики тканини можуть отримати друге життя і стати початком чогось унікального. Майстер-класи також є можливістю познайомитися з Кіпською Формою – новою художньою майстернею."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wola",
-      "updated_at": "2026-07-15T15:54:28.795725+00:00"
-    },
-    "g-ry-zamki-i-rycerze-ba-nie-o-tym-co-w-g-rach-piszczy-spektakl-w-formie-opowie-ci-2026-07-15T10:00:00+02:00": {
-      "title": "Góry, zamki i rycerze. Baśnie o tym, co w górach piszczy - spektakl w formie opowieści",
-      "date": "2026-07-15T10:00:00+02:00",
-      "end_date": "2026-07-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Spektakle realizowane w ramach akcji \"Lato w mieście\" 2026. Spektakle realizowane dla grup zorganizowanych (130 miejsc) oraz dla osób indywidualnych (30 miejsc). Wejściówki dla osób indywidualnych do odbioru od 24 czerwca 2026 r. w biletomacie, w holu Centrum przy ul. Podskarbińskiej 2. Grupy zorganizowane zapisują się droga e-mailową: sekretariat@cpk.art.pl . REGULAMIN: link Zajrzyjmy między góry i dolinami. Sprawdźmy, jakie tajemnice kryją górskie ścieżki i ruiny zamków. Rycerze, białe damy, duchy gór i górskie stwory będą naszymi przewodnikami.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1783511648.webp",
-      "location": {
-        "name": "Centrum Promocji Kultury, ul. Podskarbińska 2",
-        "district": "Praga-Południe"
-      },
-      "url": "https://www.facebook.com/events/1181109234141808/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1181109234141808/",
-      "scrapped_timestamp": "2026-07-15T15:53:05.114453+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Góry, zamki i rycerze. Baśnie o tym, co w górach piszczy - spektakl w formie opowieści",
-          "description": "Spektakle realizowane w ramach akcji \"Lato w mieście\" 2026. Spektakle realizowane dla grup zorganizowanych (130 miejsc) oraz dla osób indywidualnych (30 miejsc). Wejściówki dla osób indywidualnych do odbioru od 24 czerwca 2026 r. w biletomacie, w holu Centrum przy ul. Podskarbińskiej 2. Grupy zorganizowane zapisują się droga e-mailową: sekretariat@cpk.art.pl . REGULAMIN: link Zajrzyjmy między góry i dolinami. Sprawdźmy, jakie tajemnice kryją górskie ścieżki i ruiny zamków. Rycerze, białe damy, duchy gór i górskie stwory będą naszymi przewodnikami."
-        },
-        "en": {
-          "title": "Mountains, Castles, and Knights. Tales of What Whispers in the Mountains - A Storytelling Performance",
-          "description": "Performances organized as part of the 'Summer in the City' 2026 initiative. Performances are available for organized groups (130 seats) and for individuals (30 seats). Tickets for individuals can be collected starting June 24, 2026, at the ticket machine in the lobby of the Center at 2 Podskarbińska Street. Organized groups can register via email: sekretariat@cpk.art.pl. REGULATIONS: link. Let's take a look between the mountains and valleys. Let's explore the secrets hidden in the mountain paths and the ruins of castles. Knights, white ladies, mountain spirits, and mountain creatures will be our guides."
-        },
-        "uk": {
-          "title": "Гори, замки та лицарі. Казки про те, що шепоче в горах - спектакль у формі оповіді",
-          "description": "Спектаклі, що реалізуються в рамках акції \"Літо в місті\" 2026. Спектаклі реалізуються для організованих груп (130 місць) та для індивідуальних осіб (30 місць). Квитки для індивідуальних осіб можна отримати з 24 червня 2026 року в квиткоматі, в холі Центру за адресою вул. Подскарбінська 2. Організовані групи записуються електронною поштою: sekretariat@cpk.art.pl. ПРАВИЛА: посилання. Загляньмо між горами та долинами. Дослідимо, які таємниці приховують гірські стежки та руїни замків. Лицарі, білі дами, духи гір та гірські істоти будуть нашими гідами."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-07-15T15:54:28.795745+00:00"
-    },
-    "lato-w-pa-acu-warsztaty-grafika-na-porcelanie-transfer-grafiki-na-ceramik-2026-07-15T10:30:00+02:00": {
-      "title": "Lato w Pałacu | Warsztaty „Grafika na porcelanie” – transfer grafiki na ceramikę",
-      "date": "2026-07-15T10:30:00+02:00",
-      "end_date": "2026-07-15T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "☀️⛱️🌈Przez cały lipiec Akademia Sztuk Pięknych w Warszawie zaprasza na cykl bezpłatnych wydarzeń dla dzieci, młodzieży i dorosłych. To okazja, by twórczo spędzić wakacje, zajrzeć do przestrzeni ASP i poczuć letnią atmosferę w samym sercu Warszawy. ➡️🙌15 lipca, 10:00 - 13:00 Warsztaty „Grafika na porcelanie” – transfer grafiki na ceramikę Omówienie i prezentacja procesu dekoracji porcelany: Dekorowanie gotowych obiektów ceramicznych, przygotowanymi wcześniej elementami graficznymi (motywy botaniczne i ornamenty). Po naklejeniu dekoracji na porcelanę, obiekty będą wypalone w ciągu dwóch tygodni w piecu ceramicznym i gotowe do odbioru w umówionym czasie. Przygotowana i wypalona porcelana nadaje się w pełni do użytku codziennego (łącznie z myciem w zmywarce). Miejsce: ASP SHOWROOM, ul. Krakowskie Przedmieście 5 Prowadzenie: mgr Karolina Zimna – Stelmaszewska, prof. Agnieszka Cieślińska- Kawecka zapisy: link",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1782913505.webp",
-      "location": {
-        "name": "Akademia Sztuk Pięknych w Warszawie, ul. Krakowskie Przedmieście 5",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/events/1033895889318577/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1033895889318577/",
-      "scrapped_timestamp": "2026-07-15T15:53:13.200986+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Lato w Pałacu | Warsztaty „Grafika na porcelanie” – transfer grafiki na ceramikę",
-          "description": "☀️⛱️🌈Przez cały lipiec Akademia Sztuk Pięknych w Warszawie zaprasza na cykl bezpłatnych wydarzeń dla dzieci, młodzieży i dorosłych. To okazja, by twórczo spędzić wakacje, zajrzeć do przestrzeni ASP i poczuć letnią atmosferę w samym sercu Warszawy. ➡️🙌15 lipca, 10:00 - 13:00 Warsztaty „Grafika na porcelanie” – transfer grafiki na ceramikę Omówienie i prezentacja procesu dekoracji porcelany: Dekorowanie gotowych obiektów ceramicznych, przygotowanymi wcześniej elementami graficznymi (motywy botaniczne i ornamenty). Po naklejeniu dekoracji na porcelanę, obiekty będą wypalone w ciągu dwóch tygodni w piecu ceramicznym i gotowe do odbioru w umówionym czasie. Przygotowana i wypalona porcelana nadaje się w pełni do użytku codziennego (łącznie z myciem w zmywarce). Miejsce: ASP SHOWROOM, ul. Krakowskie Przedmieście 5 Prowadzenie: mgr Karolina Zimna – Stelmaszewska, prof. Agnieszka Cieślińska- Kawecka zapisy: link"
-        },
-        "en": {
-          "title": "Summer at the Palace | Workshop 'Graphics on Porcelain' – Graphic Transfer on Ceramics",
-          "description": "☀️⛱️🌈 Throughout July, the Academy of Fine Arts in Warsaw invites you to a series of free events for children, youth, and adults. This is an opportunity to spend the summer creatively, explore the ASP space, and feel the summer atmosphere in the heart of Warsaw. ➡️🙌 On July 15, 10:00 AM - 1:00 PM Workshop 'Graphics on Porcelain' – Graphic Transfer on Ceramics Discussion and presentation of the porcelain decoration process: Decorating ready-made ceramic objects with previously prepared graphic elements (botanical motifs and ornaments). After applying the decorations to the porcelain, the objects will be fired in a ceramic kiln within two weeks and ready for pickup at an agreed time. The prepared and fired porcelain is fully suitable for everyday use (including dishwasher safe). Location: ASP SHOWROOM, ul. Krakowska"
-        },
-        "uk": {
-          "title": "Літо в Палаці | Майстер-клас «Графіка на порцеляні» – трансфер графіки на кераміку",
-          "description": "☀️⛱️🌈Протягом усього липня Академія Мистецтв у Варшаві запрошує на цикл безкоштовних заходів для дітей, молоді та дорослих. Це можливість творчо провести літо, заглянути в простір АМ і відчути літню атмосферу в самому серці Варшави. ➡️🙌15 липня, 10:00 - 13:00 Майстер-клас «Графіка на порцеляні» – трансфер графіки на кераміку Обговорення та презентація процесу декорування порцеляни: Декорування готових керамічних об'єктів підготовленими раніше графічними елементами (ботанічні мотиви та орнаменти). Після наклеювання декорацій на порцеляну, об'єкти будуть випалені протягом двох тижнів у керамічній печі і готові до отримання в узгоджений час. Підготовлена та випалена порцеляна повністю придатна для щоденного використання (включаючи миття в посудомийній машині). Місце: ASP SHOWROOM, вул. Краківська"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-07-15T15:54:28.795763+00:00"
-    },
-    "spektakl-familijny-pt-bitwa-pod-grunwaldem-wst-p-wolny-2026-07-15T11:00:00+02:00": {
-      "title": "SPEKTAKL FAMILIJNY  pt. \"Bitwa pod Grunwaldem\" wstęp wolny",
-      "date": "2026-07-15T11:00:00+02:00",
-      "end_date": "2026-07-15T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "„Bitwa pod Grunwaldem, czyli historyja niejednym piórem spisana” Spektakl dla dzieci Teatru & Wydawnictwa La Lola Zapraszamy na niezwykłe przedstawienie, które w lekki, zabawny i pełen wyobraźni sposób przybliża jedno z najważniejszych wydarzeń w historii Polski. Nowoczesny Reżyser marzy o stworzeniu widowiskowego filmu akcji. Najchętniej dodałby do bitwy pod Grunwaldem miecze świetlne, wybuchy i efekty specjalne. Na jego drodze staje jednak nieustępliwa Kustoszka, strażniczka historycznej prawdy, która pilnuje faktów niczym smok swojego skarbu. Gdy wydaje się, że nie znajdą porozumienia, niespodziewanie pojawia się Duch Jana Długosza – kronikarza, który pamięta wydarzenia sprzed wieków i ma własną, rymowaną wersję całej historii. Kto ma rację? Czyj Grunwald jest prawdziwszy? A może historia może być jednocześnie wierna faktom i pełna humoru? W trakcie spektaklu poznamy również bohaterów epoki: króla Władysława Jagiełłę, księcia Witolda, królową Jadwigę, Zawiszę Czarnego oraz wiele innych postaci związanych z czasami wielkiej bitwy. To pełna humoru, piosenek i rymowanych dialogów opowieść, która bawi, uczy i pokazuje, że historia wcale nie musi być nudna. 📅 15 lipca 2026 (środa), godz. 11:00 📍 Mediateka Start-Meta, ul. Szegedyńska 13a 🎟 Wstęp wolny Zapraszamy dzieci wraz z rodzicami i opiekunami! ⚔️📚👑",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1784056157.webp",
-      "location": {
-        "name": "ui. Szegedyńska 13A, Mediateka Start-Meta",
-        "district": "Bielany"
-      },
-      "url": "https://www.facebook.com/events/1194520167079102?acontext={\"event_action_history\":[{\"surface\":\"home\"},{\"mechanism\":\"attachment\",\"surface\":\"newsfeed\"}],\"ref_notif_type\":null}",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1194520167079102?acontext={\"event_action_history\":[{\"surface\":\"home\"},{\"mechanism\":\"attachment\",\"surface\":\"newsfeed\"}],\"ref_notif_type\":null}",
-      "scrapped_timestamp": "2026-07-15T15:53:21.325133+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "SPEKTAKL FAMILIJNY  pt. \"Bitwa pod Grunwaldem\" wstęp wolny",
-          "description": "„Bitwa pod Grunwaldem, czyli historyja niejednym piórem spisana” Spektakl dla dzieci Teatru & Wydawnictwa La Lola Zapraszamy na niezwykłe przedstawienie, które w lekki, zabawny i pełen wyobraźni sposób przybliża jedno z najważniejszych wydarzeń w historii Polski. Nowoczesny Reżyser marzy o stworzeniu widowiskowego filmu akcji. Najchętniej dodałby do bitwy pod Grunwaldem miecze świetlne, wybuchy i efekty specjalne. Na jego drodze staje jednak nieustępliwa Kustoszka, strażniczka historycznej prawdy, która pilnuje faktów niczym smok swojego skarbu. Gdy wydaje się, że nie znajdą porozumienia, niespodziewanie pojawia się Duch Jana Długosza – kronikarza, który pamięta wydarzenia sprzed wieków i ma własną, rymowaną wersję całej historii. Kto ma rację? Czyj Grunwald jest prawdziwszy? A może historia może być jednocześnie wierna faktom i pełna humoru? W trakcie spektaklu poznamy również bohaterów epoki: króla Władysława Jagiełłę, księcia Witolda, królową Jadwigę, Zawiszę Czarnego oraz wiele innych postaci związanych z czasami wielkiej bitwy. To pełna humoru, piosenek i rymowanych dialogów opowieść, która bawi, uczy i pokazuje, że historia wcale nie musi być nudna. 📅 15 lipca 2026 (środa), godz. 11:00 📍 Mediateka Start-Meta, ul. Szegedyńska 13a 🎟 Wstęp wolny Zapraszamy dzieci wraz z rodzicami i opiekunami! ⚔️📚👑"
-        },
-        "en": {
-          "title": "FAMILY SPECTACLE titled \"The Battle of Grunwald\" free admission",
-          "description": "\"The Battle of Grunwald, or a story written by many pens\" A performance for children by the La Lola Theatre & Publishing House. We invite you to an extraordinary show that presents one of the most important events in Polish history in a light, humorous, and imaginative way. A modern Director dreams of creating a spectacular action movie. He would love to add lightsabers, explosions, and special effects to the Battle of Grunwald. However, he is confronted by an unyielding Custodian, the guardian of historical truth, who guards the facts like a dragon guards its treasure. When it seems that they will not reach an agreement, the Spirit of Jan Długosz unexpectedly appears – a chronicler who remembers events from centuries ago and has his own rhymed version of the entire story. Who is right? Whose Grunwald is more authentic? Or perhaps history..."
-        },
-        "uk": {
-          "title": "СІМЕЙНИЙ СПЕКТАКЛЬ pt. \"Битва під Грюнвальдом\" вхід вільний",
-          "description": "«Битва під Грюнвальдом, або історія, написана не одним пером» Спектакль для дітей Театру & Видавництва La Lola Запрошуємо на незвичайне представлення, яке в легкий, веселий та уявний спосіб наближає одне з найважливіших подій в історії Польщі. Сучасний Режисер мріє про створення видовищного фільму дії. Найбільше він хотів би додати до битви під Грюнвальдом світлові мечі, вибухи та спецефекти. На його шляху стає однак непохитна Кустошка, охоронниця історичної правди, яка пильнує факти, як дракон свого скарбу. Коли здається, що вони не знайдуть порозуміння, несподівано з'являється Дух Яна Длугоша – хроніста, який пам'ятає події століть тому і має власну, римовану версію всієї історії. Хто має рацію? Чий Грюнвальд є правдивішим? А може історія..."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bielany",
-      "updated_at": "2026-07-15T15:54:28.795777+00:00"
-    },
-    "plenerowe-spotkania-integracyjne-w-parku-g-rczewska-2026-07-15T17:00:00+02:00": {
-      "title": "Plenerowe spotkania integracyjne w Parku Górczewska",
-      "date": "2026-07-15T17:00:00+02:00",
-      "end_date": "2026-07-15T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "☀️Poznajmy się! Zapraszamy na wspólną zabawę i piknikowanie na zielonych terenach naszej dzielnicy. 10 i 17 czerwca, 15 i 22 lipca oraz 5 sierpnia spotkajmy się w Parku Górczewska w okolicach Amfiteatru. W programie: 🔸Warsztaty terapii zajęciowej: zabawa malarska, malowanie buziek. 🔹Kiermasz książek. 🔸Kiermasz prac malarskich wykonywanych przez osoby z niepełnosprawnościami. 🔹Quiz wiedzy o niepełnosprawności – nagrody. 🔸Kącik sportowo-rekreacyjny. 🔹Zajęcia manualne z użyciem klocków Lego. 🔸Inne ciekawe atrakcje Czekamy na was! Do zobaczenia!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1780915258.webp",
-      "location": {
-        "name": "Park Górczewska",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo/?fbid=1460039049499267&set=a.628649225971591",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo/?fbid=1460039049499267&set=a.628649225971591",
-      "scrapped_timestamp": "2026-07-15T15:53:31.517101+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Plenerowe spotkania integracyjne w Parku Górczewska",
-          "description": "☀️Poznajmy się! Zapraszamy na wspólną zabawę i piknikowanie na zielonych terenach naszej dzielnicy. 10 i 17 czerwca, 15 i 22 lipca oraz 5 sierpnia spotkajmy się w Parku Górczewska w okolicach Amfiteatru. W programie: 🔸Warsztaty terapii zajęciowej: zabawa malarska, malowanie buziek. 🔹Kiermasz książek. 🔸Kiermasz prac malarskich wykonywanych przez osoby z niepełnosprawnościami. 🔹Quiz wiedzy o niepełnosprawności – nagrody. 🔸Kącik sportowo-rekreacyjny. 🔹Zajęcia manualne z użyciem klocków Lego. 🔸Inne ciekawe atrakcje Czekamy na was! Do zobaczenia!"
-        },
-        "en": {
-          "title": "Outdoor Integration Meetings in Górczewska Park",
-          "description": "☀️Let's get to know each other! We invite you to join us for fun and picnicking in the green areas of our neighborhood. On June 10 and 17, July 15 and 22, and August 5, let's meet in Górczewska Park near the Amphitheater. The program includes: 🔸Occupational therapy workshops: painting fun, face painting. 🔹Book fair. 🔸Exhibition of paintings created by people with disabilities. 🔹Disability knowledge quiz – prizes. 🔸Sports and recreation corner. 🔹Manual activities using Lego blocks. 🔸Other interesting attractions. We are waiting for you! See you there!"
-        },
-        "uk": {
-          "title": "Інтеграційні зустрічі на свіжому повітрі в парку Гурчевська",
-          "description": "☀️Познайомимося! Запрошуємо на спільну розвагу та пікнік на зелених територіях нашого району. 10 і 17 червня, 15 і 22 липня та 5 серпня зустрінемося в парку Гурчевська біля амфітеатру. У програмі: 🔸Майстер-класи з трудової терапії: малювання, розмальовування облич. 🔹Ярмарок книг. 🔸Ярмарок художніх робіт, виконаних людьми з інвалідністю. 🔹Вікторина знань про інвалідність – призи. 🔸Спортивно-рекреаційний куточок. 🔹Ручні заняття з використанням конструкторів Lego. 🔸Інші цікаві атракції. Чекаємо на вас! До зустрічі!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-07-15T15:54:28.795792+00:00"
-    },
-    "wakacyjna-forma-bezp-atne-warsztaty-kola-u-dla-dzieci-6-12-lat-2026-07-15T17:00:00+02:00": {
-      "title": "Wakacyjna Forma – bezpłatne warsztaty kolażu dla dzieci (6–12 lat)",
-      "date": "2026-07-15T17:00:00+02:00",
-      "end_date": "2026-07-15T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy dzieci w wieku 6–12 lat na godzinne, bezpłatne warsztaty kolażu! Podczas spotkania stworzymy wyjątkowe prace inspirowane tematem „Wakacyjna Forma” – będzie kolorowo, twórczo i z dużą dawką wyobraźni. Warsztaty są okazją do poznania Kiepskiej Formy – nowej pracowni artystycznej, którą otwieramy we wrześniu. Będziemy prowadzić różnorodne zajęcia kreatywne dla dzieci i dorosłych, a kolaż będzie jedną z naszych ulubionych technik. Na warsztatach można tworzyć samodzielnie lub wspólnie z rodzicem/opiekunem. Terminy warsztatów: * 13 lipca (poniedziałek), godz. 10:00–11:00 * 15 lipca (środa), godz. 17:00–18:00 * 16 lipca (czwartek), godz. 10:00–11:00 * 3 sierpnia (poniedziałek), godz. 17:00–18:00 Udział jest bezpłatny, obowiązują zapisy. Zgłoszenia prosimy wysyłać na adres >> kiepska.forma@gmail.com Do zobaczenia przy wspólnym tworzeniu!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0000.1783394877.webp",
-      "location": {
-        "name": "ul. Wolska 45",
-        "district": "Wola"
-      },
-      "url": "https://waw4free.pl/wydarzenie-155584-wakacyjna-forma-bezplatne-warsztaty-kolazu-dla-dzieci-6-12-lat",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://waw4free.pl/wydarzenie-155584-wakacyjna-forma-bezplatne-warsztaty-kolazu-dla-dzieci-6-12-lat",
-      "scrapped_timestamp": "2026-07-15T15:53:40.296458+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Wakacyjna Forma – bezpłatne warsztaty kolażu dla dzieci (6–12 lat)",
-          "description": "Zapraszamy dzieci w wieku 6–12 lat na godzinne, bezpłatne warsztaty kolażu! Podczas spotkania stworzymy wyjątkowe prace inspirowane tematem „Wakacyjna Forma” – będzie kolorowo, twórczo i z dużą dawką wyobraźni. Warsztaty są okazją do poznania Kiepskiej Formy – nowej pracowni artystycznej, którą otwieramy we wrześniu. Będziemy prowadzić różnorodne zajęcia kreatywne dla dzieci i dorosłych, a kolaż będzie jedną z naszych ulubionych technik. Na warsztatach można tworzyć samodzielnie lub wspólnie z rodzicem/opiekunem. Terminy warsztatów: * 13 lipca (poniedziałek), godz. 10:00–11:00 * 15 lipca (środa), godz. 17:00–18:00 * 16 lipca (czwartek), godz. 10:00–11:00 * 3 sierpnia (poniedziałek), godz. 17:00–18:00 Udział jest bezpłatny, obowiązują zapisy. Zgłoszenia prosimy wysyłać na adres >> kiepska.forma@gmail.com Do zobaczenia przy wspólnym tworzeniu!"
-        },
-        "en": {
-          "title": "Summer Form – Free Collage Workshops for Children (6–12 Years Old)",
-          "description": "We invite children aged 6–12 to a one-hour, free collage workshop! During the meeting, we will create unique works inspired by the theme 'Summer Form' – it will be colorful, creative, and filled with a lot of imagination. The workshops are an opportunity to get to know Kiepska Forma – a new art studio that we are opening in September. We will conduct various creative activities for children and adults, and collage will be one of our favorite techniques. Participants can create independently or together with a parent/guardian. Workshop dates: * July 13 (Monday), 10:00–11:00 AM * July 15 (Wednesday), 5:00–6:00 PM * July 16 (Thursday), 10:00–11:00 AM * August 3 (Monday), 5:00–6:00 PM Participation is free, but registration is required. Please send registrations to >> kiepska.f"
-        },
-        "uk": {
-          "title": "Вакансійна Форма – безкоштовні майстер-класи колажу для дітей (6–12 років)",
-          "description": "Запрошуємо дітей віком 6–12 років на годинні, безкоштовні майстер-класи колажу! Під час зустрічі створимо унікальні роботи, натхненні темою «Вакансійна Форма» – буде яскраво, творчо і з великою дозою уяви. Майстер-класи є можливістю познайомитися з Кіпською Формою – новою художньою майстернею, яку ми відкриваємо у вересні. Ми будемо проводити різноманітні креативні заняття для дітей та дорослих, а колаж буде однією з наших улюблених технік. На майстер-класах можна створювати самостійно або разом з батьком/опікуном. Дати майстер-класів: * 13 липня (понеділок), год. 10:00–11:00 * 15 липня (середа), год. 17:00–18:00 * 16 липня (четвер), год. 10:00–11:00 * 3 серпня (понеділок), год. 17:00–18:00 Участь безкоштовна, необхідна реєстрація. Заявки просимо надсилати на адресу >> kiepska.f"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wola",
-      "updated_at": "2026-07-15T15:54:28.795809+00:00"
     },
     "klub-podr-nika-tajlandia-2026-07-21T12:00:00+02:00": {
       "title": "Klub podróżnika - Tajlandia",
@@ -19722,46 +18964,6 @@
       },
       "district": "Wilanów",
       "updated_at": "2026-07-15T15:54:28.795848+00:00"
-    },
-    "wakacyjny-ogr-d-wyobra-ni-magia-z-gliny-2026-07-15T14:00:00+02:00": {
-      "title": "WAKACYJNY OGRÓD WYOBRAŹNI – Magia z gliny",
-      "date": "2026-07-15T14:00:00+02:00",
-      "end_date": "2026-07-15T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "WAKACYJNY OGRÓD WYOBRAŹNI – Magia z gliny 14–17 lipca, godz. 14:00–16:00 Miejsce: Klubokawiarnia Sąsiedzka / Dom Kultury, ul. Działdowska 6, Warsaw Zapisy: Zapisz się Tydzień 2: Wyruszamy na poszukiwanie skarbów ukrytych w glinie! Podczas czterech dni twórczych warsztatów będziemy lepić, modelować i ozdabiać wyjątkowe przedmioty inspirowane naturą. Powstaną doniczki dla roślin, wodne zwierzęta, kwiatowe podstawki na biżuterię oraz dekoracyjne drzewka pełne wyobraźni. To tydzień pełen kreatywności, rozwijania zdolności manualnych i odkrywania, jak z kawałka gliny można stworzyć prawdziwe małe dzieła sztuki. Program: 14 lipca – Doniczki z gliny: stworzymy własne doniczki, które staną się wyjątkowym domem dla ziół, kwiatów i innych roślin. Ulepimy je od podstaw i ozdobimy według własnych pomysłów. 15 lipca – Ceramiczni mieszkańcy wody: poznamy fascynujący świat wodnych stworzeń i wykonamy z gliny rybki, żabki, ślimaki oraz inne zwierzęta zamieszkujące stawy i jeziora. 16 lipca – Lilie wodne – podstawki na biżuterię: zainspirowani pięknem kwiatów unoszących się na wodzie stworzymy wyjątkowe podstawki na biżuterię, które będą zarówno ozdobą, jak i praktycznym przedmiotem. 17 lipca – Drzewo marzeń: ulepimy dekoracyjne drzewka pełne fantazji i kolorów. Każde z nich będzie niepowtarzalne i opowie własną historię o wakacyjnych marzeniach i przygodach. Dostępność wydarzenia: Dojazd: najbliższy przystanek METRO PŁOCKA (ok. 300 m), linie: 13, 26, 27, 103, 106, M2. Do budynku prowadzą schody; brak windy i podjazdów dla wózków. Nie ma toalety dla osób z niepełnosprawnością. Najbliższe miejsca parkingowe przy ul. Wawelberga, ok. 100 m od budynku. Nad wejściem głównym znajduje się znacznik TOTUPOINT. Do budynku i wszystkich jego pomieszczeń można wejść z psem asystującym i psem przewodnikiem. W budynku nie ma oznaczeń w alfabecie Braille’a ani oznaczeń kontrastowych lub w druku powiększonym dla osób niewidomych i słabowidzących. W recepcji jest dostępna pętla indukcyjna. W placówce można skorzystać z tłumacza polskiego języka migowego (PJM) online: Tłumacz PJM online Jeśli potrzebujesz pomocy w dotarciu na wydarzenie, prosimy o kontakt: j.adamczyk@wck-wola.pl Jeśli potrzebujesz skorzystać z pętli indukcyjnej podczas koncertu, spektaklu czy innego wydarzenia, skontaktuj się wcześniej: m.michnowska@wck-wola.pl, TEL/SMS: 609028424. Podczas wydarzenia można wypożyczyć słuchawki wyciszające dla dzieci i dorosłych. Kontakt w sprawie dostępności: m.michnowska@wck-wola.pl, tel/SMS: 609028424.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F6fbfebe8-442d-4217-9d0c-b5c37b0ed8df.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/6fbfebe8-442d-4217-9d0c-b5c37b0ed8df",
-      "source": "gojammin.com",
-      "district": "Wola",
-      "location": {
-        "name": "Działdowska 6/6, 01-184 Warszawa, Poland",
-        "district": "Wola"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/6fbfebe8-442d-4217-9d0c-b5c37b0ed8df",
-      "scrapped_timestamp": "2026-07-15T15:54:13.716351+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "WAKACYJNY OGRÓD WYOBRAŹNI – Magia z gliny",
-          "description": "WAKACYJNY OGRÓD WYOBRAŹNI – Magia z gliny 14–17 lipca, godz. 14:00–16:00 Miejsce: Klubokawiarnia Sąsiedzka / Dom Kultury, ul. Działdowska 6, Warsaw Zapisy: Zapisz się Tydzień 2: Wyruszamy na poszukiwanie skarbów ukrytych w glinie! Podczas czterech dni twórczych warsztatów będziemy lepić, modelować i ozdabiać wyjątkowe przedmioty inspirowane naturą. Powstaną doniczki dla roślin, wodne zwierzęta, kwiatowe podstawki na biżuterię oraz dekoracyjne drzewka pełne wyobraźni. To tydzień pełen kreatywności, rozwijania zdolności manualnych i odkrywania, jak z kawałka gliny można stworzyć prawdziwe małe dzieła sztuki. Program: 14 lipca – Doniczki z gliny: stworzymy własne doniczki, które staną się wyjątkowym domem dla ziół, kwiatów i innych roślin. Ulepimy je od podstaw i ozdobimy według własnych pomysłów. 15 lipca – Ceramiczni mieszkańcy wody: poznamy fascynujący świat wodnych stworzeń i wykonamy z gliny rybki, żabki, ślimaki oraz inne zwierzęta zamieszkujące stawy i jeziora. 16 lipca – Lilie wodne – podstawki na biżuterię: zainspirowani pięknem kwiatów unoszących się na wodzie stworzymy wyjątkowe podstawki na biżuterię, które będą zarówno ozdobą, jak i praktycznym przedmiotem. 17 lipca – Drzewo marzeń: ulepimy dekoracyjne drzewka pełne fantazji i kolorów. Każde z nich będzie niepowtarzalne i opowie własną historię o wakacyjnych marzeniach i przygodach. Dostępność wydarzenia: Dojazd: najbliższy przystanek METRO PŁOCKA (ok. 300 m), linie: 13, 26, 27, 103, 106, M2. Do budynku prowadzą schody; brak windy i podjazdów dla wózków. Nie ma toalety dla osób z niepełnosprawnością. Najbliższe miejsca parkingowe przy ul. Wawelberga, ok. 100 m od budynku. Nad wejściem głównym znajduje się znacznik TOTUPOINT. Do budynku i wszystkich jego pomieszczeń można wejść z psem asystującym i psem przewodnikiem. W budynku nie ma oznaczeń w alfabecie Braille’a ani oznaczeń kontrastowych lub w druku powiększonym dla osób niewidomych i słabowidzących. W recepcji jest dostępna pętla indukcyjna. W placówce można skorzystać z tłumacza polskiego języka migowego (PJM) online: Tłumacz PJM online Jeśli potrzebujesz pomocy w dotarciu na wydarzenie, prosimy o kontakt: j.adamczyk@wck-wola.pl Jeśli potrzebujesz skorzystać z pętli indukcyjnej podczas koncertu, spektaklu czy innego wydarzenia, skontaktuj się wcześniej: m.michnowska@wck-wola.pl, TEL/SMS: 609028424. Podczas wydarzenia można wypożyczyć słuchawki wyciszające dla dzieci i dorosłych. Kontakt w sprawie dostępności: m.michnowska@wck-wola.pl, tel/SMS: 609028424."
-        },
-        "en": {
-          "title": "SUMMER GARDEN OF IMAGINATION – Magic with Clay",
-          "description": "SUMMER GARDEN OF IMAGINATION – Magic with Clay July 14–17, 2:00 PM–4:00 PM Location: Sąsiedzka Club Café / Cultural Center, Działdowska 6, Warsaw Registration: Sign up Week 2: We embark on a treasure hunt hidden in clay! During four days of creative workshops, we will sculpt, model, and decorate unique items inspired by nature. We will create pots for plants, aquatic animals, floral jewelry stands, and decorative trees full of imagination. It will be a week full of creativity, developing manual skills, and discovering how a piece of clay can be transformed into true little works of art. Program: July 14 – Clay Pots: we will create our own pots that will become a unique home for herbs, flowers, and other plants. We will shape them from scratch and decorate them according to our own ideas."
-        },
-        "uk": {
-          "title": "КАНІКУЛЬНИЙ САД УЯВИ – Магія з глини",
-          "description": "КАНІКУЛЬНИЙ САД УЯВИ – Магія з глини 14–17 липня, год. 14:00–16:00 Місце: Клубокав'ярня Сусідська / Будинок культури, вул. Дзялдовська 6, Варшава Записи: Запишіться Тиждень 2: Вирушаємо на пошуки скарбів, прихованих у глині! Протягом чотирьох днів творчих майстерень ми будемо ліпити, моделювати та прикрашати унікальні предмети, натхненні природою. Створимо горщики для рослин, водяних тварин, квіткові підставки для прикрас та декоративні деревця, сповнені уяви. Це тиждень, наповнений креативністю, розвитком ручних навичок та відкриттям того, як з шматка глини можна створити справжні маленькі витвори мистецтва. Програма: 14 липня – Горщики з глини: створимо власні горщики, які стануть унікальним домом для трав, квітів та інших рослин. Ліпимо їх з нуля та прикрашаємо за власними ідеями."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-15T15:54:28.795862+00:00"
     }
   }
 }

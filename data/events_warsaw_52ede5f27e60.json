@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T08:14:40.375744+00:00",
+  "updated_at": "2026-07-17T08:25:48.664469+00:00",
   "events": {
     "106-rocznica-bitwy-warszawskiej-2026-08-15": {
       "scrapped_timestamp": "2026-06-23T18:56:51.217293+00:00",
@@ -18839,6 +18839,43 @@
         "is_free": true
       },
       "updated_at": "2026-07-17T05:45:31.390756+00:00"
+    },
+    "cuda-wianki-zaj-cia-plastyczne-dla-dzieci-2026-07-17T10:00:00+02:00": {
+      "title": "Cuda-Wianki: zajęcia plastyczne dla dzieci",
+      "date": "2026-07-17T10:00:00+02:00",
+      "end_date": "2026-07-17T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cuda-Wianki w Komiksowie: Kid Zone 🌼 🎨 Zapraszamy na bezpłatne wakacyjne spotkania pełne kreatywnej zabawy inspirowanej polskim folklorem! 🌿 Wspólnie będziemy tworzyć prace plastyczne, poznawać ludowe motywy i rozwijać wyobraźnię poprzez różnorodne aktywności artystyczne. ✨ Każde spotkanie to nowy pomysł, mnóstwo kolorów i świetna okazja do twórczego spędzenia wakacyjnego poranka. 📅 Każdy wtorek i piątek podczas wakacji, godz. 10:00-11:00 📍 Biblioteka Komiksowo, Al. \"Solidarności\" 90 🙋‍♀️🙋‍♂️ Dla dzieci w wieku 9-12 lat Zapisy: 📩 bd21@bpwola.waw.pl ☎️ 22 529 09 40",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1783424178.webp",
+      "location": {
+        "name": "Aleja \"Solidarności\" 90",
+        "district": "Wola"
+      },
+      "url": "https://www.facebook.com/bibliotekakomiksowo/posts/pfbid02ovskqCzbZBtqTFcXbxcLBsEC6WrdrRKPWAgKJDRD39Gr7ywfY3yXwMAyBFJtSeetl",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/bibliotekakomiksowo/posts/pfbid02ovskqCzbZBtqTFcXbxcLBsEC6WrdrRKPWAgKJDRD39Gr7ywfY3yXwMAyBFJtSeetl",
+      "scrapped_timestamp": "2026-07-17T08:25:40.670828+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 9,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Cuda-Wianki: zajęcia plastyczne dla dzieci",
+          "description": "Cuda-Wianki w Komiksowie: Kid Zone 🌼 🎨 Zapraszamy na bezpłatne wakacyjne spotkania pełne kreatywnej zabawy inspirowanej polskim folklorem! 🌿 Wspólnie będziemy tworzyć prace plastyczne, poznawać ludowe motywy i rozwijać wyobraźnię poprzez różnorodne aktywności artystyczne. ✨ Każde spotkanie to nowy pomysł, mnóstwo kolorów i świetna okazja do twórczego spędzenia wakacyjnego poranka. 📅 Każdy wtorek i piątek podczas wakacji, godz. 10:00-11:00 📍 Biblioteka Komiksowo, Al. \"Solidarności\" 90 🙋‍♀️🙋‍♂️ Dla dzieci w wieku 9-12 lat Zapisy: 📩 bd21@bpwola.waw.pl ☎️ 22 529 09 40"
+        },
+        "en": {
+          "title": "Cuda-Wianki: Art Classes for Children",
+          "description": "Cuda-Wianki in Komiksowo: Kid Zone 🌼 🎨 We invite you to free summer meetings full of creative fun inspired by Polish folklore! 🌿 Together we will create artistic works, learn about folk motifs, and develop our imagination through various artistic activities. ✨ Each meeting brings a new idea, lots of colors, and a great opportunity to spend a creative summer morning. 📅 Every Tuesday and Friday during the summer, from 10:00 AM to 11:00 AM 📍 Komiksowo Library, Al. 'Solidarności' 90 🙋‍♀️🙋‍♂️ For children aged 9-12 years Registration: 📩 bd21@bpwola.waw.pl ☎️ 22 529 09 40"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wola",
+      "updated_at": "2026-07-17T08:25:48.546923+00:00"
     }
   }
 }

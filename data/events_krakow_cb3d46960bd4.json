@@ -1,46 +1,6 @@
 {
-  "updated_at": "2026-07-19T08:30:54.493665+00:00",
+  "updated_at": "2026-07-19T11:10:39.581236+00:00",
   "events": {
-    "130-urodziny-parku-bednarskiego-2026-07-19T12:00:00": {
-      "scrapped_timestamp": "2026-06-29T12:48:27.554448+00:00",
-      "scrapped_url": "https://www.ckpodgorza.pl/oferta/wydarzenie/130-urodziny-parku-bednarskiego",
-      "category": "Family Fun",
-      "description": "Serdecznie zapraszamy na wydarzenie z okazji rocznicy otwarcia Parku im. Wojciecha Bednarskiego. Park powstał w miejsce dawnego kamieniołomu wapiennego z inicjatywy Wojciecha Bednarskiego, który również częściowo go ufundował. Oficjalne otwarcie nastąpiło w 1896. W programie: gry i zabawy dla dzieci i rodzin występ orkiestry dętej Solvay uroczyste złożenie kwiatów pod pomnikiem założyciela.",
-      "date": "2026-07-19T10:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Serdecznie zapraszamy na wydarzenie z okazji rocznicy otwarcia Parku im. Wojciecha Bednarskiego. Park powstał w miejsce dawnego kamieniołomu wapiennego z inicjatywy Wojciecha Bednarskiego, który również częściowo go ufundował. Oficjalne otwarcie nastąpiło w 1896. W programie: gry i zabawy dla dzieci i rodzin występ orkiestry dętej Solvay uroczyste złożenie kwiatów pod pomnikiem założyciela.",
-          "title": "130. Urodziny parku Bednarskiego"
-        },
-        "uk": {
-          "description": "Щиро запрошуємо на захід з нагоди річниці відкриття парку імені Войцеха Беднарського. Парк був створений на місці колишнього вапнякового кар'єру за ініціативою Войцеха Беднарського, який також частково його профінансував. Офіційне відкриття відбулося в 1896 році. У програмі: ігри та розваги для дітей та сімей, виступ духової оркестри Solvay, урочисте покладання квітів до пам'ятника засновнику.",
-          "title": "130. Річниця парку Беднарського"
-        },
-        "en": {
-          "description": "We warmly invite you to the event celebrating the anniversary of the opening of Wojciech Bednarski Park. The park was created on the site of a former limestone quarry at the initiative of Wojciech Bednarski, who also partially funded it. The official opening took place in 1896. The program includes: games and activities for children and families, a performance by the Solvay brass band, and a ceremonial laying of flowers at the founder's monument.",
-          "title": "130th Anniversary of Bednarski Park"
-        }
-      },
-      "url": "https://www.ckpodgorza.pl/oferta/wydarzenie/130-urodziny-parku-bednarskiego",
-      "end_date": "2026-07-19T10:00:00+00:00",
-      "district": "Podgórze",
-      "source": "ckpodgorza.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Podgórze",
-        "address": "ul. Jana Zamoyskiego 33, 30-519 Krakow",
-        "name": "Park im. Wojciecha Bednarskiego"
-      },
-      "title": "130. Urodziny parku Bednarskiego",
-      "image": null,
-      "age_range": {
-        "min": 0,
-        "max": 18
-      }
-    },
     "a-little-story-corner-reading-for-children-aged-3-6-2026-07-22T17:00:00": {
       "scrapped_timestamp": "2026-07-13T16:57:18.848778+00:00",
       "scrapped_url": "https://www.niesiedzwdomu.pl/wydarzenia/a-little-story-corner-reading-for-children-aged-3-6-event-001345",
@@ -2098,48 +2058,6 @@
         "max": 12
       }
     },
-    "lato-w-mie-cie-co-by-o-przed-rynkiem-2026-07-19T12:00:00": {
-      "scrapped_timestamp": "2026-07-11T11:52:10.601203+00:00",
-      "scrapped_url": "https://www.niesiedzwdomu.pl/wydarzenia/lato-w-miescie-co-by-o-przed-rynkiem-event-001047",
-      "category": "Educational",
-      "description": "Jednodniowe wydarzenie z wakacyjnego programu Muzeum Krakowa dla dzieci lub rodzin z dziećmi.",
-      "date": "2026-07-19T10:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Jednodniowe wydarzenie z wakacyjnego programu Muzeum Krakowa dla dzieci lub rodzin z dziećmi.",
-          "title": "Lato w mieście: Co było przed Rynkiem?"
-        },
-        "uk": {
-          "description": "Одноденна подія з літньої програми Музею Кракова для дітей або сімей з дітьми.",
-          "title": "Літо в місті: Що було перед Ринком?"
-        },
-        "en": {
-          "description": "A one-day event from the summer program of the Krakow Museum for children or families with children.",
-          "title": "Summer in the City: What Was Before the Market?"
-        }
-      },
-      "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-co-bylo-przed-rynkiem",
-      "end_date": "2026-07-18T22:00:00+00:00",
-      "district": "Stare Miasto",
-      "updated_at": "2026-07-11T11:57:17.732000+00:00",
-      "source": "muzeumkrakowa.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "location": {
-        "district": "Stare Miasto",
-        "lat": 50.0614859,
-        "lng": 19.9364149,
-        "name": "Rynek Główny 1, Kraków"
-      },
-      "title": "Lato w mieście: Co było przed Rynkiem?",
-      "image": "https://ssaptcphmeixyvukbbmk.supabase.co/storage/v1/object/public/event-library/dzieci/wydarzenia/EVENT-001047-cover.webp?v=1781718668617",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      }
-    },
     "lato-w-mie-cie-czy-jab-ko-mo-e-by-arcydzie-em-2026-07-21T10:00:00": {
       "scrapped_timestamp": "2026-07-11T11:52:27.206831+00:00",
       "scrapped_url": "https://www.niesiedzwdomu.pl/wydarzenia/lato-w-miescie-czy-jab-ko-moze-byc-arcydzie-em-event-001048",
@@ -2904,48 +2822,6 @@
       "age_range": {
         "min": 0,
         "max": 18
-      }
-    },
-    "ma-a-kika-2026-07-19T12:00:00": {
-      "scrapped_timestamp": "2026-07-11T11:52:05.580898+00:00",
-      "scrapped_url": "https://www.niesiedzwdomu.pl/wydarzenia/ma-a-kika-event-000595",
-      "category": "Cinema",
-      "description": "Niedzielne spotkanie z filmem i animatorem oraz warsztatami kreatywnymi.",
-      "date": "2026-07-19T10:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Niedzielne spotkanie z filmem i animatorem oraz warsztatami kreatywnymi.",
-          "title": "Mała KIKA"
-        },
-        "uk": {
-          "description": "Недільна зустріч з фільмом та аніматором, а також творчими майстернями.",
-          "title": "Мала КІКА"
-        },
-        "en": {
-          "description": "Sunday meeting with a film and animator, along with creative workshops.",
-          "title": "Little KIKA"
-        }
-      },
-      "url": "https://www.kinokika.pl/",
-      "end_date": "2026-07-19T10:00:00+00:00",
-      "district": "Podgórze",
-      "updated_at": "2026-07-11T11:57:17.517000+00:00",
-      "source": "kinokika.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "location": {
-        "district": "Podgórze",
-        "lat": 50.04125,
-        "lng": 19.94565,
-        "name": "ul. Ignacego Krasickiego 18, Kraków"
-      },
-      "title": "Mała KIKA",
-      "image": "https://ssaptcphmeixyvukbbmk.supabase.co/storage/v1/object/public/event-library/dzieci/wydarzenia/EVENT-000595-cover.webp?v=1781467143166",
-      "age_range": {
-        "min": 0,
-        "max": 12
       }
     },
     "ma-y-ksi-teatr-ludowy-2026-09-22T11:00:00": {
@@ -7537,48 +7413,6 @@
         "max": 10
       }
     },
-    "co-by-o-przed-rynkiem-2026-07-19T12:00:00": {
-      "scrapped_timestamp": "2026-07-14T05:11:17.992591+00:00",
-      "scrapped_url": "https://www.niesiedzwdomu.pl/wydarzenia/lato-w-miescie-co-by-o-przed-rynkiem-event-001047",
-      "category": "Field Trips",
-      "description": "To wyjątkowe oprowadzanie po Ryku Podziemnym pozwala starszym dzieciom i nastolatkom odkryć najstarsze, wczesnośredniowieczne sekrety Krakowa. Uczestnicy poznają realia życia w dawnej osadzie przedlokacyjnej oraz zobaczą z bliska repliki dawnej broni, biżuterii i ubrań. Największym atutem wydarzenia jest możliwość bezpośredniego, namacalnego kontaktu z odtworzonymi artefaktami w klimatycznej, podziemnej scenerii.",
-      "date": "2026-07-19T10:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "To wyjątkowe oprowadzanie po Ryku Podziemnym pozwala starszym dzieciom i nastolatkom odkryć najstarsze, wczesnośredniowieczne sekrety Krakowa. Uczestnicy poznają realia życia w dawnej osadzie przedlokacyjnej oraz zobaczą z bliska repliki dawnej broni, biżuterii i ubrań. Największym atutem wydarzenia jest możliwość bezpośredniego, namacalnego kontaktu z odtworzonymi artefaktami w klimatycznej, podziemnej scenerii.",
-          "title": "Co było przed Rynkiem?"
-        },
-        "uk": {
-          "description": "Ця унікальна екскурсія по Підземному Ринку дозволяє старшим дітям та підліткам відкрити найстаріші, ранньосередньовічні таємниці Кракова. Учасники дізнаються про реалії життя в давньому передлокальному поселенні та побачать з близька репліки давньої зброї, ювелірних виробів та одягу. Найбільша перевага події - це можливість безпосереднього, тактильного контакту з відтвореними артефактами в атмосферній, підземній обстановці.",
-          "title": "Що було перед Ринком?"
-        },
-        "en": {
-          "description": "This unique guided tour of the Underground Market allows older children and teenagers to discover the oldest, early medieval secrets of Krakow. Participants will learn about the realities of life in the former pre-location settlement and see replicas of ancient weapons, jewelry, and clothing up close. The greatest advantage of the event is the opportunity for direct, tangible contact with the recreated artifacts in an atmospheric underground setting.",
-          "title": "What Was Before the Market?"
-        }
-      },
-      "url": "https://www.niesiedzwdomu.pl/wydarzenia/lato-w-miescie-co-by-o-przed-rynkiem-event-001047",
-      "end_date": "2026-07-18T22:00:00+00:00",
-      "district": "Stare Miasto",
-      "updated_at": "2026-07-14T05:12:07.563000+00:00",
-      "source": "niesiedzwdomu.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "location": {
-        "district": "Stare Miasto",
-        "lng": 19.9364149,
-        "lat": 50.0614859,
-        "name": "Rynek Główny 1, Kraków"
-      },
-      "title": "Co było przed Rynkiem?",
-      "image": "https://ssaptcphmeixyvukbbmk.supabase.co/storage/v1/object/public/event-library/dzieci/wydarzenia/EVENT-001047-cover.webp?v=1783959968169",
-      "age_range": {
-        "min": 10,
-        "max": 18
-      }
-    },
     "czy-jab-ko-mo-e-by-arcydzie-em-2026-07-21T10:00:00": {
       "scrapped_timestamp": "2026-07-14T05:11:22.334677+00:00",
       "scrapped_url": "https://www.niesiedzwdomu.pl/wydarzenia/lato-w-miescie-czy-jab-ko-moze-byc-arcydzie-em-event-001048",
@@ -7953,45 +7787,6 @@
         "max": 18
       }
     },
-    "czytamy-i-ogl-damy-w-agrafce-oraz-spotkania-ma-a-kika-2026-07-19T11:00:00": {
-      "source_url": "https://krakow.pl/krakow_dla_dzieci/330921,2431,komunikat,czytamy_i_ogladamy_w_agrafce_oraz_spotkania_mala_kika_.html",
-      "scrapped_timestamp": "2026-07-14T11:35:04.165170+00:00",
-      "scrapped_url": "https://krakow.pl/krakow_dla_dzieci/330921,2431,komunikat,czytamy_i_ogladamy_w_agrafce_oraz_spotkania_mala_kika_.html",
-      "category": "Cinema",
-      "description": "Czytamy i oglądamy to doskonale znany krakowskim rodzicom cykl pokazów filmowych dla młodych widzów, uzupełniony o warsztaty pobudzające wyobraźnię. Mała KIKA natomiast to regularne, niedzielne seanse filmowe dla dzieci połączone z twórczymi zajęciami. Najbliższe spotkania odbędą się w niedzielę, 19 lipca. Fot. materiały prasowe Czytamy i oglądamy w Agrafce W niedzielę, 19 lipca, o godz. 11.00 czytamy: „Zielniczek. Mikstury z natury dla małych i dużych”, Aneta F. Holasová, Monika Čechová Golasovská oglądamy: „Willow i tajemniczy las”, reż. Sean Heuston Willow odziedziczyła nie tylko cały majątek po swej babci, ale także tajemną księgę magii. Okazuje się, że jest potomkinią całej llinii czarownic. Przy pomocy Księgi przywołuje czarownika Grimoo, który ma jej pomóc obudzić służące jej moce ognia.  Wszystko byłoby piękne gdyby nie to, że jej ojciec planuje sprzedać las, z którego wywodzi się cała magia, którą Willow posiada. Nie ma już wiele czasu aby obudzić w sobie pełną moc magii i wraz z trzema innymi czarownicami uratować istnienie pradawnego, czarodziejskiego lasu. Kategoria wiekowa: 7+ Mała KIKA W niedzielę, 19 lipca, o godz. 12.00 „Wyschnięci\" reż. Arnie & Barney, Sean Heuston, pokaz przedpremierowy Dotkliwa susza zaczyna zagrażać całej społeczności mrówek. Pluton złożony z najsilniejszych owadów planuje misję ratunkową, ale nieudolni Arnie i Barney nie zamierzają siedzieć bezczynnie. Postanawiają sami uporać się z problemem. Seria zabawnych przygód, których doświadczają skutkuje tym, że zupełnie przypadkowo ratują całą łąkę i stają się nieoczekiwanymi bohaterami. Kategoria wiekowa: 4+",
-      "date": "2026-07-19T09:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Czytamy i oglądamy to doskonale znany krakowskim rodzicom cykl pokazów filmowych dla młodych widzów, uzupełniony o warsztaty pobudzające wyobraźnię. Mała KIKA natomiast to regularne, niedzielne seanse filmowe dla dzieci połączone z twórczymi zajęciami. Najbliższe spotkania odbędą się w niedzielę, 19 lipca. Fot. materiały prasowe Czytamy i oglądamy w Agrafce W niedzielę, 19 lipca, o godz. 11.00 czytamy: „Zielniczek. Mikstury z natury dla małych i dużych”, Aneta F. Holasová, Monika Čechová Golasovská oglądamy: „Willow i tajemniczy las”, reż. Sean Heuston Willow odziedziczyła nie tylko cały majątek po swej babci, ale także tajemną księgę magii. Okazuje się, że jest potomkinią całej llinii czarownic. Przy pomocy Księgi przywołuje czarownika Grimoo, który ma jej pomóc obudzić służące jej moce ognia.  Wszystko byłoby piękne gdyby nie to, że jej ojciec planuje sprzedać las, z którego wywodzi się cała magia, którą Willow posiada. Nie ma już wiele czasu aby obudzić w sobie pełną moc magii i wraz z trzema innymi czarownicami uratować istnienie pradawnego, czarodziejskiego lasu. Kategoria wiekowa: 7+ Mała KIKA W niedzielę, 19 lipca, o godz. 12.00 „Wyschnięci\" reż. Arnie & Barney, Sean Heuston, pokaz przedpremierowy Dotkliwa susza zaczyna zagrażać całej społeczności mrówek. Pluton złożony z najsilniejszych owadów planuje misję ratunkową, ale nieudolni Arnie i Barney nie zamierzają siedzieć bezczynnie. Postanawiają sami uporać się z problemem. Seria zabawnych przygód, których doświadczają skutkuje tym, że zupełnie przypadkowo ratują całą łąkę i stają się nieoczekiwanymi bohaterami. Kategoria wiekowa: 4+",
-          "title": "Czytamy i oglądamy w Agrafce oraz spotkania Mała KIKA"
-        },
-        "uk": {
-          "description": "Читаємо та дивимося – це добре відомий криворізьким батькам цикл кінопоказів для молодих глядачів, доповнений майстер-класами, що стимулюють уяву. Мала KIKA, в свою чергу, – це регулярні недільні кінопокази для дітей, поєднані з творчими заняттями. Найближчі зустрічі відбудуться в неділю, 19 липня. Фото: пресматеріали Читаємо та дивимося в Аграфці. У неділю, 19 липня, о 11:00 читаємо: «Зелениця. Мікстури з природи для малих і великих», Анета Ф. Голасова, Моніка Чехова Голасовська, дивимося: «Віллоу і таємничий ліс», реж. Шон Хьюстон. Віллоу успадкувала не лише весь статок від своєї бабусі, але й таємну книгу магії. Виявляється, що вона нащадок цілої лінії відьом. За допомогою Книги вона викликає чарівника Грімоо, який має допомогти їй пробудити свої сили.",
-          "title": "Читаємо та дивимося в Аграфці та зустрічі Мала KIKA"
-        },
-        "en": {
-          "description": "Reading and Watching is a well-known series of film screenings for young viewers, complemented by workshops that stimulate imagination, popular among parents in Krakow. Little KIKA, on the other hand, consists of regular Sunday film screenings for children combined with creative activities. The next meetings will take place on Sunday, July 19. Photo: press materials for Reading and Watching at Agrafka. On Sunday, July 19, at 11:00 AM, we will read: 'Zielniczek. Mixtures from Nature for Young and Old', by Aneta F. Holasová and Monika Čechová Golasovská, and watch: 'Willow and the Mysterious Forest', directed by Sean Heuston. Willow has inherited not only her grandmother's entire estate but also a secret book of magic. It turns out that she is a descendant of a whole line of witches. With the help of the Book, she summons the sorcerer Grimoo, who is to help her awaken her dormant powers.",
-          "title": "Reading and Watching at Agrafka and Little KIKA Meetings"
-        }
-      },
-      "url": "https://krakow.pl/krakow_dla_dzieci/330921,2431,komunikat,czytamy_i_ogladamy_w_agrafce_oraz_spotkania_mala_kika_.html",
-      "end_date": "2026-07-19T09:00:00+00:00",
-      "district": "Stare Miasto",
-      "updated_at": "2026-07-14T11:36:24.312000+00:00",
-      "source": "krakow.pl",
-      "startTimeKnown": true,
-      "location": {
-        "district": "Stare Miasto",
-        "address": "Agrafka, Kraków",
-        "name": "Agrafka, Kraków"
-      },
-      "title": "Czytamy i oglądamy w Agrafce oraz spotkania Mała KIKA",
-      "image": "https://plikimpi.krakow.pl/zalacznik/603588/4.webp",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      }
-    },
     "wakacje-z-kinem-letnie-seanse-w-kinie-kika-2026-07-20T00:00:00": {
       "source_url": "https://krakow.pl/krakow_dla_dzieci/330930,2431,komunikat,wakacje_z_kinem__letnie_seanse_w_kinie_kika.html",
       "scrapped_timestamp": "2026-07-14T11:35:14.097820+00:00",
@@ -8030,46 +7825,6 @@
         "min": 0,
         "max": 12
       }
-    },
-    "czytamy-i-ogl-damy-w-agrafce-2026-07-19T11:00:00+02:00": {
-      "title": "Czytamy i oglądamy w Agrafce",
-      "date": "2026-07-19T11:00:00+02:00",
-      "end_date": "2026-07-19T11:00:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://czasdzieci.pl/krakow/wydarzenia/id,14084487a.html",
-      "description": "Czytamy i Oglądamy to dobrze już znany krakowskim rodzicom cykl pokazów filmowych dla młodych widzów połączony z warsztatami rozwijającymi wyobraźnię. Projekt współfinansowany ze środków Miasta Krakowa. Bilety: 20 zł. 19 lipca (niedziela), godz. 11:00 Czytamy:Zielniczek. Mikstury z natury dla małych i dużych |Aneta F. Holasová, Monika Čechová Golasovská Oglądamy: WILLOW I TAJEMNICZY LAS | Ein Mädchen namens Willow, reż. Mike Marzuk, Niemcy 2025,  99’ Willow odziedziczyła nie tylko cały majątek po swej babci, ale także tajemną księgę magii. Okazuje się, że jest potomkinią całej llinii czarownic. Przy pomocy Księgi przywołuje czarownika Grimoo, który ma jej pomóc obudzić służące jej moce ognia.  Wszystko byłoby piękne gdyby nie to, że jej ojciec planuje sprzedać las, z którego wywodzi się cała magia, którą Willow posiada. Nie ma już wiele czasu aby obudzić w sobie pełną moc magii i wraz z trzema innymi czarownicami uratować istnienie pradawnego, czarodziejskiego lasu. Kategoria wiekowa: 7+",
-      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240_125-0-675-675d-a58,f_w_140844_18e84.webp",
-      "source": "czasdzieci.pl",
-      "location": {
-        "name": "ul. Krowoderska 8 31-142 Kraków",
-        "district": "Stare Miasto"
-      },
-      "age_range": {
-        "min": 7,
-        "max": 10
-      },
-      "scrapped_url": "https://czasdzieci.pl/krakow/wydarzenia/id,14084487a.html",
-      "scrapped_timestamp": "2026-07-14T14:01:47.215420+00:00",
-      "category": "Cinema",
-      "translations": {
-        "pl": {
-          "title": "Czytamy i oglądamy w Agrafce",
-          "description": "Czytamy i Oglądamy to dobrze już znany krakowskim rodzicom cykl pokazów filmowych dla młodych widzów połączony z warsztatami rozwijającymi wyobraźnię. Projekt współfinansowany ze środków Miasta Krakowa. Bilety: 20 zł. 19 lipca (niedziela), godz. 11:00 Czytamy:Zielniczek. Mikstury z natury dla małych i dużych |Aneta F. Holasová, Monika Čechová Golasovská Oglądamy: WILLOW I TAJEMNICZY LAS | Ein Mädchen namens Willow, reż. Mike Marzuk, Niemcy 2025,  99’ Willow odziedziczyła nie tylko cały majątek po swej babci, ale także tajemną księgę magii. Okazuje się, że jest potomkinią całej llinii czarownic. Przy pomocy Księgi przywołuje czarownika Grimoo, który ma jej pomóc obudzić służące jej moce ognia.  Wszystko byłoby piękne gdyby nie to, że jej ojciec planuje sprzedać las, z którego wywodzi się cała magia, którą Willow posiada. Nie ma już wiele czasu aby obudzić w sobie pełną moc magii i wraz z trzema innymi czarownicami uratować istnienie pradawnego, czarodziejskiego lasu. Kategoria wiekowa: 7+"
-        },
-        "en": {
-          "title": "Reading and Watching at Agrafka",
-          "description": "Reading and Watching is a well-known series of film screenings for young viewers combined with workshops that develop imagination, popular among parents in Krakow. The project is co-financed by the City of Krakow. Tickets: 20 PLN. July 19 (Sunday), 11:00 AM. Reading: 'Zielniczek. Mixtures from Nature for the Young and Old' | Aneta F. Holasová, Monika Čechová Golasovská. Watching: 'WILLOW AND THE MYSTERIOUS FOREST' | 'Ein Mädchen namens Willow', directed by Mike Marzuk, Germany 2025, 99’. Willow has inherited not only her grandmother's entire estate but also a secret book of magic. It turns out that she is a descendant of a whole line of witches. With the help of the Book, she summons the wizard Grimoo, who is to help her awaken her powers of fire. Everything would be beautiful if it weren't for the fact that her father plans to sell the forest from which she comes."
-        },
-        "uk": {
-          "title": "Читаємо та дивимось в Аграфці",
-          "description": "Читаємо та Дивимось – це вже добре відомий батькам з Кракова цикл кінопоказів для молодих глядачів, поєднаний з майстер-класами, що розвивають уяву. Проект частково фінансується з коштів Міста Кракова. Квитки: 20 зл. 19 липня (неділя), о 11:00 Читаємо: Зелениця. Мікстури з природи для малих і великих | Анета Ф. Голасова, Моніка Чехова Голасовська Дивимось: ВІЛЛОВ І ТАЄМНИЧИЙ ЛІС | Дівчинка на ім'я Віллоу, реж. Майк Марзук, Німеччина 2025, 99’ Віллоу успадкувала не лише все майно від своєї бабусі, але й таємну книгу магії. Виявляється, що вона є нащадком цілої лінії відьом. За допомогою Книги вона викликає чарівника Грімоо, який має допомогти їй пробудити свої сили вогню. Все було б прекрасно, якби не те, що її батько планує продати ліс, з якого вона походить."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-07-14T14:04:33.254662+00:00"
     },
     "kino-lato-niesamowite-przygody-skarpetek-3-kino-kika-20-24-07-2026-2026-07-20T11:00:00+02:00": {
       "title": "KINO LATO | NIESAMOWITE PRZYGODY SKARPETEK 3 | Kino KIKA | 20-24.07. 2026",
@@ -9005,82 +8760,6 @@
       "district": "Czyżyny",
       "updated_at": "2026-07-16T12:05:11.404720+00:00"
     },
-    "czytamy-i-ogl-damy-w-agrafce-willow-i-tajemniczy-las-2026-07-19T11:00:00+02:00": {
-      "title": "Czytamy i oglądamy w Agrafce. Willow i tajemniczy las",
-      "date": "2026-07-19T11:00:00+02:00",
-      "url": "https://karnet.krakowculture.pl/64486-krakow-czytamy-i-ogladamy-w-agrafce-willow-i-tajemniczy-las",
-      "description": "Czytamy i oglądamy to dobrze już znany krakowskim rodzicom cykl pokazów filmowych dla młodych widzów połączony z warsztatami rozwijającymi wyobraźnię.\n\nProjekt współfinansowany ze środków Miasta Krakowa.\n\n19 lipca (niedziela), godz. 11.00\n\nCzytamy: Zielniczek. Mikstury z natury dla małych i dużych | Aneta F. Holasová, Monika Čechová Golasovská Oglądamy: WILLOW I TAJEMNICZY LAS | Ein Mädchen namens Willow , reż. Mike Marzuk, Niemcy 2025,  99’ Willow odziedziczyła nie tylko cały majątek po swej babci, ale także tajemną księgę magii. Okazuje się, że jest potomkinią całej llinii czarownic. Przy pomocy Księgi przywołuje czarownika Grimoo, który ma jej pomóc obudzić służące jej moce ognia.  Wszystko byłoby piękne gdyby nie to, że jej ojciec planuje sprzedać las, z którego wywodzi się cała magia, którą Willow posiada. Nie ma już wiele czasu aby obudzić w sobie pełną moc magii i wraz z trzema innymi czarownicami uratować istnienie pradawnego, czarodziejskiego lasu.",
-      "image": "http://media.krakow.travel/photos/78275/m.jpg",
-      "startTimeKnown": true,
-      "location": {
-        "name": "Kino Agrafka, ul. Krowoderska 8",
-        "district": "Stare Miasto"
-      },
-      "scrapped_url": "https://karnet.krakowculture.pl/64486-krakow-czytamy-i-ogladamy-w-agrafce-willow-i-tajemniczy-las",
-      "scrapped_timestamp": "2026-07-16T14:15:17.167381+00:00",
-      "category": "Cinema",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Czytamy i oglądamy w Agrafce. Willow i tajemniczy las",
-          "description": "Czytamy i oglądamy to dobrze już znany krakowskim rodzicom cykl pokazów filmowych dla młodych widzów połączony z warsztatami rozwijającymi wyobraźnię.\n\nProjekt współfinansowany ze środków Miasta Krakowa.\n\n19 lipca (niedziela), godz. 11.00\n\nCzytamy: Zielniczek. Mikstury z natury dla małych i dużych | Aneta F. Holasová, Monika Čechová Golasovská Oglądamy: WILLOW I TAJEMNICZY LAS | Ein Mädchen namens Willow , reż. Mike Marzuk, Niemcy 2025,  99’ Willow odziedziczyła nie tylko cały majątek po swej babci, ale także tajemną księgę magii. Okazuje się, że jest potomkinią całej llinii czarownic. Przy pomocy Księgi przywołuje czarownika Grimoo, który ma jej pomóc obudzić służące jej moce ognia.  Wszystko byłoby piękne gdyby nie to, że jej ojciec planuje sprzedać las, z którego wywodzi się cała magia, którą Willow posiada. Nie ma już wiele czasu aby obudzić w sobie pełną moc magii i wraz z trzema innymi czarownicami uratować istnienie pradawnego, czarodziejskiego lasu."
-        },
-        "en": {
-          "title": "Reading and Watching at Agrafka: Willow and the Mysterious Forest",
-          "description": "Reading and Watching is a well-known series of film screenings for young viewers combined with workshops that develop imagination, popular among parents in Krakow.\n\nThe project is co-financed by the City of Krakow.\n\nJuly 19 (Sunday), 11:00 AM\n\nReading: Herbal Book. Potions from Nature for Young and Old | Aneta F. Holasová, Monika Čechová Golasovská\nWatching: WILLOW AND THE MYSTERIOUS FOREST | A Girl Named Willow, directed by Mike Marzuk, Germany 2025, 99’ Willow has inherited not only her grandmother's entire estate but also a secret book of magic. It turns out she is a descendant of a long line of witches. With the help of the Book, she summons the sorcerer Grimoo, who is to help her awaken her powers of fire. Everything would be beautiful if it weren't for the fact that her father plans to sell the forest from which all magic originates."
-        },
-        "uk": {
-          "title": "Читаємо та дивимось в Аграфці. Віллоу та таємничий ліс",
-          "description": "Читаємо та дивимось – це вже добре відомий криворізьким батькам цикл кінопоказів для молодих глядачів, поєднаний з майстер-класами, що розвивають уяву.\n\nПроект співфінансується з коштів Міста Кракова.\n\n19 липня (неділя), о 11:00\n\nЧитаємо: Зелениця. Мікстури з природи для малих і великих | Анета Ф. Голасова, Моніка Чехова Голасовська\nДивимось: ВІЛЛОУ І ТАЄМНИЧИЙ ЛІС | Дівчина на ім'я Віллоу, реж. Майк Марзук, Німеччина 2025, 99’ Віллоу успадкувала не лише весь статок від своєї бабусі, але й таємну книгу магії. Виявляється, що вона є нащадком цілої лінії відьом. За допомогою Книги вона викликає чарівника Грімоо, який має допомогти їй пробудити свої сили вогню. Все було б прекрасно, якби не те, що її батько планує продати ліс, з якого походить вся магія."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-07-16T14:17:14.533702+00:00"
-    },
-    "ma-a-kika-wyschni-ci-2026-07-19T12:00:00+02:00": {
-      "title": "Mała KIKA. Wyschnięci",
-      "date": "2026-07-19T12:00:00+02:00",
-      "url": "https://karnet.krakowculture.pl/64487-krakow-mala-kika-wyschnieci",
-      "description": "Mała KIKA to coniedzielne filmowe spotkania dla młodych widzów połączone z ciekawymi warsztatami.\n\n19 lipca (niedziela), godz. 12.00\n\nWYSCHNIĘCI | Arnie & Barney ,  Sean Heuston, Hiszpania/Irlandia/Niemcy 2026, 75’ | pokaz przedpremierowy\n\nDotkliwa susza zaczyna zagrażać całej społeczności mrówek. Pluton złożony z najsilniejszych owadów planuje misję ratunkową, ale nieudolni Arnie i Barney nie zamierzają siedzieć bezczynnie. Postanawiają sami uporać się z problemem. Seria zabawnych przygód, których doświadczają skutkuje tym, że zupełnie przypadkowo ratują całą łąkę i stają się nieoczekiwanymi bohaterami.",
-      "image": "http://media.krakow.travel/photos/78276/m.jpg",
-      "startTimeKnown": true,
-      "location": {
-        "name": "Kinokawiarnia KIKA, ul. Krasickiego 18",
-        "district": "Podgórze"
-      },
-      "scrapped_url": "https://karnet.krakowculture.pl/64487-krakow-mala-kika-wyschnieci",
-      "scrapped_timestamp": "2026-07-16T14:15:24.948577+00:00",
-      "category": "Cinema",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Mała KIKA. Wyschnięci",
-          "description": "Mała KIKA to coniedzielne filmowe spotkania dla młodych widzów połączone z ciekawymi warsztatami.\n\n19 lipca (niedziela), godz. 12.00\n\nWYSCHNIĘCI | Arnie & Barney ,  Sean Heuston, Hiszpania/Irlandia/Niemcy 2026, 75’ | pokaz przedpremierowy\n\nDotkliwa susza zaczyna zagrażać całej społeczności mrówek. Pluton złożony z najsilniejszych owadów planuje misję ratunkową, ale nieudolni Arnie i Barney nie zamierzają siedzieć bezczynnie. Postanawiają sami uporać się z problemem. Seria zabawnych przygód, których doświadczają skutkuje tym, że zupełnie przypadkowo ratują całą łąkę i stają się nieoczekiwanymi bohaterami."
-        },
-        "en": {
-          "title": "Little KIKA. The Withered",
-          "description": "Little KIKA is a weekly film meeting for young viewers combined with interesting workshops.\n\nJuly 19 (Sunday), 12:00 PM\n\nTHE WITHERED | Arnie & Barney, Sean Heuston, Spain/Ireland/Germany 2026, 75’ | premiere screening\n\nA severe drought begins to threaten the entire ant community. A platoon made up of the strongest insects plans a rescue mission, but the clumsy Arnie and Barney are not going to sit idly by. They decide to tackle the problem themselves. A series of funny adventures leads them to accidentally save the entire meadow and become unexpected heroes."
-        },
-        "uk": {
-          "title": "Мала KIKA. Висохлі",
-          "description": "Мала KIKA - це щонедільні кінопокази для молодих глядачів, поєднані з цікавими майстер-класами.\n\n19 липня (неділя), о 12:00\n\nВИСОХЛІ | Арні та Барні, Шон Х'юстон, Іспанія/Ірландія/Німеччина 2026, 75’ | прем'єрний показ\n\nСерйозна посуха починає загрожувати всій спільноті мурах. Підрозділ, що складається з найсильніших комах, планує рятувальну місію, але незграбні Арні та Барні не збираються сидіти без діла. Вони вирішують самостійно впоратися з проблемою. Серія кумедних пригод, які вони переживають, призводить до того, що випадково рятують всю луку і стають несподіваними героями."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Podgórze",
-      "updated_at": "2026-07-16T14:17:14.533718+00:00"
-    },
     "kino-lato-niesamowite-przygody-skarpetek-3-ale-kosmos-2026-07-20T11:00:00+02:00": {
       "title": "Kino lato. Niesamowite przygody skarpetek 3. Ale kosmos!",
       "date": "2026-07-20T11:00:00+02:00",
@@ -9673,46 +9352,6 @@
       "district": "Stare Miasto",
       "updated_at": "2026-07-18T05:06:50.556240+00:00"
     },
-    "lato-w-mie-cie-2026-w-muzeum-krakowa-wakacje-z-rzeczami-2026-07-19T12:00:00+02:00": {
-      "title": "Lato w mieście 2026 w Muzeum Krakowa | Wakacje z rzeczami!",
-      "date": "2026-07-19T12:00:00+02:00",
-      "end_date": "2026-07-19T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Muzeum Krakowa zaprasza na Lato w Mieście – „Wakacje z rzeczami!” Program obejmuje cykl rodzinnych i młodzieżowych zajęć, spacerów, oprowadzań i warsztatów odbywających się w różnych oddziałach i przestrzeni miasta (Fabryka Emalia Oskara Schindlera, Kamienica Hipolitów, Pałac Krzysztofory, Centrum Interpretacji Niematerialnego Dziedzictwa Krakowa – Dom pod Krzyżem, Rynek Podziemny, Thesaurus Cracoviensis, Muzeum i Centrum Ruchu Harcerskiego, Podziemna Nowa Huta, Rydlówka i inne). Pełny program jest dostępny na stronie Muzeum Krakowa . Bilety i rezerwacje online: Bilety i rezerwacje online . Wybrane zajęcia i terminy (przykłady): 6 lipca, 10:30 – „Dużo pisać nie umiem. Piszę tylko parę słów, aby zostać w Twej pamięci” – warsztaty dla rodzin z dziećmi 10–13 lat (Fabryka Emalia O. Schindlera). Prowadzenie: Agata Franaszek, Beata Łabno. 7 lipca, 11:00 – „Niezwykłe gadżety czy bezcenne perły?” – warsztaty teatralne dla rodzin z dziećmi 10–13 lat (Kamienica Hipolitów). Prowadzenie: dr Karina Janik. 8 lipca, 10:00 – „Kolekcjonerzy miejskich odgłosów” – spacer dla rodzin 10–13 lat (Centrum Interpretacji Niematerialnego Dziedzictwa Krakowa – Dom pod Krzyżem). Prowadzenie: dr Monika Widzicka. 10 lipca, 10:00 – „Opowieści zapisane w kamieniu” – spacer po Nowym Cmentarzu dla młodzieży 13–16 lat (zbiórka: Stara Synagoga). Prowadzenie: Aleksandra Gaj. 11 lipca, 10:00 – „Kredowisko” – warsztaty plenerowe dla rodzin z dziećmi 6–10 lat (Podziemna Nowa Huta). Wstęp bezpłatny. 12 lipca, 11:00 – „W białych rękawiczkach” – warsztaty dla rodzin 6–10 lat (Apteka pod Orłem). Prowadzenie: Alicja Ososińska. 13 lipca, 10:30 – „Szkatułka, pierrot a może piłeczka?” – warsztaty dla rodzin 10–13 lat (Fabryka Emalia O. Schindlera). 15 lipca, 11:00 – „Papier, glina, cyna” – oprowadzanie i warsztaty dla rodzin 6–10 lat (Pałac Krzysztofory). Prowadzenie: Anna Magiera. 15 lipca, 13:00 – „Być jak Zofia Stryjeńska. Każde dziecko może być artystą” – warsztaty 10–13 lat (Fabryka Emalia O. Schindlera). Prowadzenie: Beata Łabno, Julia Rybińska. 16 lipca, 14:00 – „Artefakcie – opowiedz mi swoją historię” – warsztaty plastyczne i interaktywne 6–10 lat (Pałac Krzysztofory). Prowadzenie: Tomasz Karżewicz. 17 lipca, 10:00 – „Skarby Pana Twardowskiego” – oprowadzanie i warsztaty 6–10 lat (Thesaurus Cracoviensis). Prowadzenie: dr Mikołaj Niedojadło. 19 lipca, 12:00 – „Co było przed Rynkiem?” – oprowadzanie specjalistyczne dla młodzieży 13–16 lat (Rynek Podziemny). Prowadzenie: Mateusz Miśków. 21 lipca, 10:00 – „Czy jabłko może być arcydziełem?” – warsztaty 6–10 lat (SPOTKA, Pałac Krzysztofory). Prowadzenie: Małgorzata Kuciel i Anna Magiera. 22 lipca, 14:00 – „Stawka większa niż życie” – spacer dla młodzieży 14–16 lat (ul. Pomorska). Prowadzenie: Tomasz Stachów. 23 lipca, 10:00 – „Charakterystyczne. O nieoczywistym detalu w mieście” – spacer dla młodzieży 13–16 lat (Muzeum Podgórza). Prowadzenie: Jakub Jastrzębski. 24 lipca, 12:00 – „Wakacyjna podróż w czasie” – warsztaty plastyczne dla rodzin 7–12 lat (Kamienica Hipolitów). Prowadzenie: dr Iwona Kawalla-Lulewicz, Katarzyna Kucharska. 31 lipca, 12:00 – „Pozdrowienia z Krakowa… o brzmieniach dawnej historii” – warsztaty plastyczne 7–12 lat (Centrum Interpretacji Niematerialnego Dziedzictwa Krakowa – Dom pod Krzyżem). W sierpniu kontynuacja programu z wieloma podobnymi warsztatami, spacerami i zajęciami (m.in. powtórzenia niektórych tematów: „W białych rękawiczkach”, „Papier, glina, cyna”, „Co było przed Rynkiem?”, „Skarby Pana Twardowskiego”; oraz dodatkowe tematy: kuchnia polowa, totemy harcerskie, notatnik pełen wspomnień, pejzaż dźwiękiem i kolorem, warsztaty w Rydlówce – mozaika, malarstwo, batik, las w słoiku, warsztaty ceramiczne i inne). Informacje organizacyjne i bilety: Udział w wydarzeniach w ramach programu Lato w mieście – Wakacje z rzeczami! jest odpłatny, chyba że wskazano inaczej przy konkretnych zajęciach. Standardowa cena (dla większości zajęć): dzieci i młodzież (do 18 lat) – 20 zł od osoby. Jeden opiekun wstęp bezpłatny; pozostali opiekunowie: 20 zł od osoby. Posiadaczom Krakowskiej Karty Rodziny z Niepełnosprawnym Dzieckiem przysługuje 50% zniżki. Niektóre wydarzenia mają inne ceny (np. warsztaty w Rydlówce: 50 zł od dziecka). Konkretne ceny i informacje o bezpłatnych wejściach są podane przy poszczególnych zajęciach. Sprzedaż biletów: bilety na zajęcia realizowane w lipcu dostępne od 17 czerwca; bilety na zajęcia sierpniowe dostępne od 15 lipca. Bilety i darmowe wejściówki rezerwuje się online: rezerwacja biletów . Pełen program: Pełen program . Uwagi praktyczne: Na niektóre zajęcia obowiązuje wyłącznie sprzedaż online i brak możliwości zakupu biletu na miejscu – informacje o tym są podane przy konkretnych wydarzeniach. Czas trwania zajęć: zwykle od 1 do 3 godzin; szczegółowe czasy podane przy poszczególnych spotkaniach. Program ma charakter stacjonarny (oddziały Muzeum Krakowa) oraz wyjściowy (spacery po mieście). Zapraszamy do zapoznania się ze szczegółowym programem i do rezerwacji miejsc .",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F5076ff35-6860-4364-8516-2053a91dbcdb.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/5076ff35-6860-4364-8516-2053a91dbcdb",
-      "source": "gojammin.com",
-      "district": "Stare Miasto",
-      "location": {
-        "name": "Historical Museum of the City of Kraków, Rynek Główny 35/35, 31-011 Kraków, Poland",
-        "district": "Stare Miasto"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/5076ff35-6860-4364-8516-2053a91dbcdb",
-      "scrapped_timestamp": "2026-07-18T05:06:26.857749+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 10,
-        "max": 13
-      },
-      "translations": {
-        "pl": {
-          "title": "Lato w mieście 2026 w Muzeum Krakowa | Wakacje z rzeczami!",
-          "description": "Muzeum Krakowa zaprasza na Lato w Mieście – „Wakacje z rzeczami!” Program obejmuje cykl rodzinnych i młodzieżowych zajęć, spacerów, oprowadzań i warsztatów odbywających się w różnych oddziałach i przestrzeni miasta (Fabryka Emalia Oskara Schindlera, Kamienica Hipolitów, Pałac Krzysztofory, Centrum Interpretacji Niematerialnego Dziedzictwa Krakowa – Dom pod Krzyżem, Rynek Podziemny, Thesaurus Cracoviensis, Muzeum i Centrum Ruchu Harcerskiego, Podziemna Nowa Huta, Rydlówka i inne). Pełny program jest dostępny na stronie Muzeum Krakowa . Bilety i rezerwacje online: Bilety i rezerwacje online . Wybrane zajęcia i terminy (przykłady): 6 lipca, 10:30 – „Dużo pisać nie umiem. Piszę tylko parę słów, aby zostać w Twej pamięci” – warsztaty dla rodzin z dziećmi 10–13 lat (Fabryka Emalia O. Schindlera). Prowadzenie: Agata Franaszek, Beata Łabno. 7 lipca, 11:00 – „Niezwykłe gadżety czy bezcenne perły?” – warsztaty teatralne dla rodzin z dziećmi 10–13 lat (Kamienica Hipolitów). Prowadzenie: dr Karina Janik. 8 lipca, 10:00 – „Kolekcjonerzy miejskich odgłosów” – spacer dla rodzin 10–13 lat (Centrum Interpretacji Niematerialnego Dziedzictwa Krakowa – Dom pod Krzyżem). Prowadzenie: dr Monika Widzicka. 10 lipca, 10:00 – „Opowieści zapisane w kamieniu” – spacer po Nowym Cmentarzu dla młodzieży 13–16 lat (zbiórka: Stara Synagoga). Prowadzenie: Aleksandra Gaj. 11 lipca, 10:00 – „Kredowisko” – warsztaty plenerowe dla rodzin z dziećmi 6–10 lat (Podziemna Nowa Huta). Wstęp bezpłatny. 12 lipca, 11:00 – „W białych rękawiczkach” – warsztaty dla rodzin 6–10 lat (Apteka pod Orłem). Prowadzenie: Alicja Ososińska. 13 lipca, 10:30 – „Szkatułka, pierrot a może piłeczka?” – warsztaty dla rodzin 10–13 lat (Fabryka Emalia O. Schindlera). 15 lipca, 11:00 – „Papier, glina, cyna” – oprowadzanie i warsztaty dla rodzin 6–10 lat (Pałac Krzysztofory). Prowadzenie: Anna Magiera. 15 lipca, 13:00 – „Być jak Zofia Stryjeńska. Każde dziecko może być artystą” – warsztaty 10–13 lat (Fabryka Emalia O. Schindlera). Prowadzenie: Beata Łabno, Julia Rybińska. 16 lipca, 14:00 – „Artefakcie – opowiedz mi swoją historię” – warsztaty plastyczne i interaktywne 6–10 lat (Pałac Krzysztofory). Prowadzenie: Tomasz Karżewicz. 17 lipca, 10:00 – „Skarby Pana Twardowskiego” – oprowadzanie i warsztaty 6–10 lat (Thesaurus Cracoviensis). Prowadzenie: dr Mikołaj Niedojadło. 19 lipca, 12:00 – „Co było przed Rynkiem?” – oprowadzanie specjalistyczne dla młodzieży 13–16 lat (Rynek Podziemny). Prowadzenie: Mateusz Miśków. 21 lipca, 10:00 – „Czy jabłko może być arcydziełem?” – warsztaty 6–10 lat (SPOTKA, Pałac Krzysztofory). Prowadzenie: Małgorzata Kuciel i Anna Magiera. 22 lipca, 14:00 – „Stawka większa niż życie” – spacer dla młodzieży 14–16 lat (ul. Pomorska). Prowadzenie: Tomasz Stachów. 23 lipca, 10:00 – „Charakterystyczne. O nieoczywistym detalu w mieście” – spacer dla młodzieży 13–16 lat (Muzeum Podgórza). Prowadzenie: Jakub Jastrzębski. 24 lipca, 12:00 – „Wakacyjna podróż w czasie” – warsztaty plastyczne dla rodzin 7–12 lat (Kamienica Hipolitów). Prowadzenie: dr Iwona Kawalla-Lulewicz, Katarzyna Kucharska. 31 lipca, 12:00 – „Pozdrowienia z Krakowa… o brzmieniach dawnej historii” – warsztaty plastyczne 7–12 lat (Centrum Interpretacji Niematerialnego Dziedzictwa Krakowa – Dom pod Krzyżem). W sierpniu kontynuacja programu z wieloma podobnymi warsztatami, spacerami i zajęciami (m.in. powtórzenia niektórych tematów: „W białych rękawiczkach”, „Papier, glina, cyna”, „Co było przed Rynkiem?”, „Skarby Pana Twardowskiego”; oraz dodatkowe tematy: kuchnia polowa, totemy harcerskie, notatnik pełen wspomnień, pejzaż dźwiękiem i kolorem, warsztaty w Rydlówce – mozaika, malarstwo, batik, las w słoiku, warsztaty ceramiczne i inne). Informacje organizacyjne i bilety: Udział w wydarzeniach w ramach programu Lato w mieście – Wakacje z rzeczami! jest odpłatny, chyba że wskazano inaczej przy konkretnych zajęciach. Standardowa cena (dla większości zajęć): dzieci i młodzież (do 18 lat) – 20 zł od osoby. Jeden opiekun wstęp bezpłatny; pozostali opiekunowie: 20 zł od osoby. Posiadaczom Krakowskiej Karty Rodziny z Niepełnosprawnym Dzieckiem przysługuje 50% zniżki. Niektóre wydarzenia mają inne ceny (np. warsztaty w Rydlówce: 50 zł od dziecka). Konkretne ceny i informacje o bezpłatnych wejściach są podane przy poszczególnych zajęciach. Sprzedaż biletów: bilety na zajęcia realizowane w lipcu dostępne od 17 czerwca; bilety na zajęcia sierpniowe dostępne od 15 lipca. Bilety i darmowe wejściówki rezerwuje się online: rezerwacja biletów . Pełen program: Pełen program . Uwagi praktyczne: Na niektóre zajęcia obowiązuje wyłącznie sprzedaż online i brak możliwości zakupu biletu na miejscu – informacje o tym są podane przy konkretnych wydarzeniach. Czas trwania zajęć: zwykle od 1 do 3 godzin; szczegółowe czasy podane przy poszczególnych spotkaniach. Program ma charakter stacjonarny (oddziały Muzeum Krakowa) oraz wyjściowy (spacery po mieście). Zapraszamy do zapoznania się ze szczegółowym programem i do rezerwacji miejsc ."
-        },
-        "en": {
-          "title": "Summer in the City 2026 at the Museum of Krakow | Holidays with Things!",
-          "description": "The Museum of Krakow invites you to Summer in the City – \"Holidays with Things!\" The program includes a series of family and youth activities, walks, guided tours, and workshops taking place in various branches and spaces of the city (Oskar Schindler's Enamel Factory, Hipolitów Tenement House, Krzysztofory Palace, Center for the Interpretation of Intangible Heritage of Krakow – House under the Cross, Underground Market, Thesaurus Cracoviensis, Museum and Center of Scouting Movement, Underground Nowa Huta, Rydlówka, and others). The full program is available on the Museum of Krakow's website. Tickets and online reservations: Tickets and online reservations. Selected activities and dates (examples): July 6, 10:30 AM – \"I can't write much. I only write a few words to stay in your memory\" – workshops for families with children aged 10–13 (Oskar Schindler's Enamel Factory)."
-        },
-        "uk": {
-          "title": "Літо в місті 2026 в Музеї Кракова | Канікули з речами!",
-          "description": "Музей Кракова запрошує на Літо в Місті – «Канікули з речами!» Програма включає цикл сімейних та молодіжних занять, прогулянок, екскурсій та майстер-класів, що проходять у різних відділах та просторах міста (Фабрика емалі Оскара Шиндлера, Кам'яниця Гіполитів, Палац Кшиштофоров, Центр інтерпретації нематеріальної спадщини Кракова – Дім під Хрестом, Підземний ринок, Thesaurus Cracoviensis, Музей і Центр руху скаутів, Підземна Нова Гута, Ридлівка та інші). Повна програма доступна на сайті Музею Кракова. Квитки та онлайн-резервування: Квитки та онлайн-резервування. Вибрані заняття та дати (приклади): 6 липня, 10:30 – «Багато писати не вмію. Пишу лише кілька слів, щоб залишитися в твоїй пам'яті» – майстер-клас для сімей з дітьми 10–13 років (Фабрика емалі О. Шиндлера)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-18T05:06:50.556279+00:00"
-    },
     "wakacje-z-kultur-w-klubie-kultury-wena-podr-e-w-czasie-i-przestrzeni-wynalazki-i-zabawki-2026-07-20T09:00:00+02:00": {
       "title": "Wakacje z Kulturą w Klubie Kultury Wena - Podróże w czasie i przestrzeni - Wynalazki i zabawki",
       "date": "2026-07-20T09:00:00+02:00",
@@ -9831,48 +9470,6 @@
       },
       "updated_at": "2026-07-19T05:44:05.632635+00:00"
     },
-    "bezp-atne-p-ywanie-i-zaj-cia-sportowe-w-ksos-mbp-nowa-huta-2026-07-19T10:00:00+02:00": {
-      "title": "Bezpłatne pływanie i zajęcia sportowe w KSOS MBP Nowa Huta",
-      "description": "Od 6 do 24 lipca dzieci i młodzież mogą skorzystać z bezpłatnego pływania oraz zajęć sportowych organizowanych na basenie KSOS MBP Nowa Huta na Os. Kolorowym 29B. To doskonała propozycja na aktywne, bezpieczne i pełne dobrej energii spędzenie wakacyjnego czasu. Fot. materiały prasowe KSOS MBP Nowa Huta zaprasza dzieci i młodzież na bezpłatne pływanie rekreacyjne oraz zajęcia sportowe odbywające się na sali gimnastycznej. Udział w wydarzeniach jest całkowicie bezpłatny i stanowi świetną okazję do aktywnego wypoczynku, poprawy kondycji fizycznej oraz rozwijania sportowych umiejętności w przyjaznej atmosferze. Zajęcia są prowadzone od 6 do 24 lipca, od poniedziałku do piątku, w godzinach: 10.00–11.45 12.00–13.45 Organizatorzy zachęcają do udziału wszystkich, którzy chcą aktywnie spędzić wakacje, zadbać o zdrowie i dobrze się bawić w gronie rówieśników. Więcej informacji i zapisy na stronie .",
-      "image": "https://plikimpi.krakow.pl/zalacznik/599808/frame_4_2021917524.webp",
-      "url": "https://krakow.pl/aktualnosci/329502,202,komunikat,bezplatne_plywanie_i_zajecia_sportowe_w_ksos_mbp_nowa_huta.html",
-      "source": "krakow.pl",
-      "location": {
-        "name": "KSOS MBP Nowa Huta, Os. Kolorowym 29B, Kraków",
-        "address": "KSOS MBP Nowa Huta, Os. Kolorowym 29B, Kraków",
-        "district": "Czyżyny"
-      },
-      "district": "Czyżyny",
-      "date": "2026-07-19T10:00:00+02:00",
-      "end_date": "2026-07-19T11:45:00+02:00",
-      "startTimeKnown": true,
-      "source_url": "https://krakow.pl/aktualnosci/329502,202,komunikat,bezplatne_plywanie_i_zajecia_sportowe_w_ksos_mbp_nowa_huta.html",
-      "scrapped_url": "https://krakow.pl/aktualnosci/329502,202,komunikat,bezplatne_plywanie_i_zajecia_sportowe_w_ksos_mbp_nowa_huta.html",
-      "scrapped_timestamp": "2026-07-19T05:40:13.627801+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne pływanie i zajęcia sportowe w KSOS MBP Nowa Huta",
-          "description": "Od 6 do 24 lipca dzieci i młodzież mogą skorzystać z bezpłatnego pływania oraz zajęć sportowych organizowanych na basenie KSOS MBP Nowa Huta na Os. Kolorowym 29B. To doskonała propozycja na aktywne, bezpieczne i pełne dobrej energii spędzenie wakacyjnego czasu. Fot. materiały prasowe KSOS MBP Nowa Huta zaprasza dzieci i młodzież na bezpłatne pływanie rekreacyjne oraz zajęcia sportowe odbywające się na sali gimnastycznej. Udział w wydarzeniach jest całkowicie bezpłatny i stanowi świetną okazję do aktywnego wypoczynku, poprawy kondycji fizycznej oraz rozwijania sportowych umiejętności w przyjaznej atmosferze. Zajęcia są prowadzone od 6 do 24 lipca, od poniedziałku do piątku, w godzinach: 10.00–11.45 12.00–13.45 Organizatorzy zachęcają do udziału wszystkich, którzy chcą aktywnie spędzić wakacje, zadbać o zdrowie i dobrze się bawić w gronie rówieśników. Więcej informacji i zapisy na stronie ."
-        },
-        "en": {
-          "title": "Free Swimming and Sports Activities at KSOS MBP Nowa Huta",
-          "description": "From July 6 to 24, children and youth can take advantage of free swimming and sports activities organized at the KSOS MBP Nowa Huta swimming pool located at Os. Kolorowym 29B. This is an excellent opportunity for an active, safe, and energetic summer experience. KSOS MBP Nowa Huta invites children and youth to free recreational swimming and sports activities held in the gym. Participation in the events is completely free and provides a great opportunity for active leisure, improving physical fitness, and developing sports skills in a friendly atmosphere. Activities are conducted from July 6 to 24, Monday to Friday, from 10:00 AM to 11:45 AM and 12:00 PM to 1:45 PM. Organizers encourage everyone who wants to spend their summer actively to participate."
-        },
-        "uk": {
-          "title": "Безкоштовне плавання та спортивні заняття в KSOS MBP Нова Гута",
-          "description": "З 6 по 24 липня діти та молодь можуть скористатися безкоштовним плаванням та спортивними заняттями, організованими на басейні KSOS MBP Нова Гута на Ос. Кольоровому 29B. Це відмінна пропозиція для активного, безпечного та наповненого доброю енергією проведення літнього часу. Фото: пресматеріали KSOS MBP Нова Гута запрошує дітей та молодь на безкоштовне рекреаційне плавання та спортивні заняття, що проходять у спортивному залі. Участь у заходах є абсолютно безкоштовною і є чудовою можливістю для активного відпочинку, покращення фізичної форми та розвитку спортивних навичок в дружній атмосфері. Заняття проводяться з 6 по 24 липня, з понеділка по п'ятницю, з 10:00 до 11:45 та з 12:00 до 13:45. Організатори закликають до участі всіх, хто хоче активно провести літо."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-19T05:44:05.632659+00:00"
-    },
     "kino-plenerowe-na-wakacje-2026-07-19T21:00:00+02:00": {
       "title": "Kino plenerowe na wakacje",
       "description": "Już w lipcu mieszkańcy będą mogli wspólnie rozpocząć lato podczas „Bieżanowskiego Letniego Kina Plenerowego”. Na skwerze przy ul. Aleksandry 1 odbędą się cztery bezpłatne seanse – zarówno dla dzieci, jak i dorosłych. Fot. materiały prasowe Centrum Kultury Podgórza zaprasza mieszkańców na cykl bezpłatnych pokazów filmowych w ramach „Bieżanowskiego Letniego Kina Plenerowego”. Seanse będą odbywać się o godz. 21.00 na skwerze przy ul. Aleksandry 1. Wstęp na wszystkie wydarzenia jest wolny. W programie znalazły się: piątek, 3 lipca – „Paddington 2” – seans dla dzieci sobota, 11 lipca – „La La Land” – seans dla dorosłych sobota, 18 lipca – „Mój sąsiad Totoro” – seans dla dzieci sobota, 25 lipca – „Najlepszy” – seans dla dorosłych. To doskonała okazja, aby spędzić letnie wieczory na świeżym powietrzu i wspólnie cieszyć się kinem pod gwiazdami. Organizatorzy zachęcają do zabrania koców lub leżaków i udziału w plenerowych pokazach.",
@@ -9914,48 +9511,6 @@
         "is_free": true
       },
       "updated_at": "2026-07-19T05:44:05.632699+00:00"
-    },
-    "komiks-legenda-i-wyobra-nia-warsztaty-pracownia-mistrza-twardowskiego-2026-07-19T10:00:00+02:00": {
-      "title": "Komiks, legenda i wyobraźnia. Warsztaty „Pracownia Mistrza Twardowskiego”",
-      "description": "Jak wyglądałby Mistrz Twardowski we współczesnym świecie? Odpowiedzi na to pytanie będą szukać uczestnicy bezpłatnych warsztatów komiksowych organizowanych w lipcu w Klubie Płaszów Centrum Kultury Podgórza. Efektem spotkań będą autorskie historie obrazkowe inspirowane legendą oraz dziedzictwem Podgórza. Fot. pixabay.com Centrum Kultury Podgórza – Klub Płaszów zaprasza dzieci, młodzież, rodziny oraz seniorów na cykl międzypokoleniowych warsztatów komiksowych realizowanych w ramach projektu „Pracownia Mistrza Twardowskiego”. Zajęcia poprowadzi Robert Trojanowski, a ich uczestnicy poznają podstawy tworzenia komiksu – od projektowania bohaterów i budowania narracji po przygotowanie plansz i dialogów. Program warsztatów opiera się na legendzie o Mistrzu Twardowskim oraz historii Podgórza. Uczestnicy najpierw poznają źródła i współczesne interpretacje tej niezwykłej postaci, a następnie stworzą własne komiksowe opowieści, łączące historię, legendę i współczesność. Finałem projektu będzie wspólna publikacja prezentująca prace uczestników. Lipcowy harmonogram obejmuje pięć spotkań: 7 lipca – „Odczarowujemy mit” 14 lipca – „Kim byłby Twardowski dzisiaj?” 21 lipca – „Bohaterowie, kadry i dymki” 28 lipca – „Pierwsze szkice” 30 lipca – „Twardowski, kogut i księżyc” . Warsztaty odbywają się w godzinach 10.00–11.30 w Klubie Płaszów przy ul. Gumniska 32. Udział jest bezpłatny, jednak obowiązują wcześniejsze zapisy. Liczba miejsc jest ograniczona do 12–15 uczestników. Projekt „Pracownia Mistrza Twardowskiego” realizowany jest z myślą o dostępności dla osób o różnych potrzebach. Organizatorzy zapewniają m.in. wybrane udogodnienia, takie jak tłumaczenie na Polski Język Migowy podczas części wydarzeń, audiodeskrypcję wybranych działań, możliwość korzystania z pętli indukcyjnych oraz wsparcie organizacyjne dla uczestników wymagających dodatkowej pomocy.",
-      "image": "https://plikimpi.krakow.pl/zalacznik/602667/4.jpg",
-      "url": "https://krakow.pl/krakow_dla_dzieci/330570,2431,komunikat,komiks__legenda_i_wyobraznia__warsztaty__pracownia_mistrza_twardowskiego_.html",
-      "source": "krakow.pl",
-      "location": {
-        "name": "Klub Płaszów, ul. Gumniska 32, Kraków",
-        "address": "Klub Płaszów, ul. Gumniska 32, Kraków",
-        "district": "Podgórze"
-      },
-      "district": "Podgórze",
-      "date": "2026-07-19T10:00:00+02:00",
-      "end_date": "2026-07-19T11:30:00+02:00",
-      "startTimeKnown": true,
-      "source_url": "https://krakow.pl/krakow_dla_dzieci/330570,2431,komunikat,komiks__legenda_i_wyobraznia__warsztaty__pracownia_mistrza_twardowskiego_.html",
-      "scrapped_url": "https://krakow.pl/krakow_dla_dzieci/330570,2431,komunikat,komiks__legenda_i_wyobraznia__warsztaty__pracownia_mistrza_twardowskiego_.html",
-      "scrapped_timestamp": "2026-07-19T05:40:33.465297+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Komiks, legenda i wyobraźnia. Warsztaty „Pracownia Mistrza Twardowskiego”",
-          "description": "Jak wyglądałby Mistrz Twardowski we współczesnym świecie? Odpowiedzi na to pytanie będą szukać uczestnicy bezpłatnych warsztatów komiksowych organizowanych w lipcu w Klubie Płaszów Centrum Kultury Podgórza. Efektem spotkań będą autorskie historie obrazkowe inspirowane legendą oraz dziedzictwem Podgórza. Fot. pixabay.com Centrum Kultury Podgórza – Klub Płaszów zaprasza dzieci, młodzież, rodziny oraz seniorów na cykl międzypokoleniowych warsztatów komiksowych realizowanych w ramach projektu „Pracownia Mistrza Twardowskiego”. Zajęcia poprowadzi Robert Trojanowski, a ich uczestnicy poznają podstawy tworzenia komiksu – od projektowania bohaterów i budowania narracji po przygotowanie plansz i dialogów. Program warsztatów opiera się na legendzie o Mistrzu Twardowskim oraz historii Podgórza. Uczestnicy najpierw poznają źródła i współczesne interpretacje tej niezwykłej postaci, a następnie stworzą własne komiksowe opowieści, łączące historię, legendę i współczesność. Finałem projektu będzie wspólna publikacja prezentująca prace uczestników. Lipcowy harmonogram obejmuje pięć spotkań: 7 lipca – „Odczarowujemy mit” 14 lipca – „Kim byłby Twardowski dzisiaj?” 21 lipca – „Bohaterowie, kadry i dymki” 28 lipca – „Pierwsze szkice” 30 lipca – „Twardowski, kogut i księżyc” . Warsztaty odbywają się w godzinach 10.00–11.30 w Klubie Płaszów przy ul. Gumniska 32. Udział jest bezpłatny, jednak obowiązują wcześniejsze zapisy. Liczba miejsc jest ograniczona do 12–15 uczestników. Projekt „Pracownia Mistrza Twardowskiego” realizowany jest z myślą o dostępności dla osób o różnych potrzebach. Organizatorzy zapewniają m.in. wybrane udogodnienia, takie jak tłumaczenie na Polski Język Migowy podczas części wydarzeń, audiodeskrypcję wybranych działań, możliwość korzystania z pętli indukcyjnych oraz wsparcie organizacyjne dla uczestników wymagających dodatkowej pomocy."
-        },
-        "en": {
-          "title": "Comics, Legend, and Imagination. Workshop 'The Master Twardowski's Studio'",
-          "description": "What would Master Twardowski look like in the modern world? Participants of the free comic workshops organized in July at the Płaszów Club of the Podgórze Cultural Center will seek answers to this question. The outcome of the meetings will be original comic stories inspired by the legend and heritage of Podgórze. The Podgórze Cultural Center – Płaszów Club invites children, youth, families, and seniors to a series of intergenerational comic workshops as part of the 'The Master Twardowski's Studio' project. The sessions will be led by Robert Trojanowski, and participants will learn the basics of comic creation – from designing characters and building narratives to preparing panels and dialogues. The workshop program is based on the legend of Master Twardowski and the history of Podgórze."
-        },
-        "uk": {
-          "title": "Комікси, легенда та уява. Майстер-клас «Майстерня Мастера Твардовського»",
-          "description": "Як би виглядав Мастер Твардовський у сучасному світі? Відповіді на це питання шукатимуть учасники безкоштовних коміксних майстер-класів, які відбудуться в липні в Клубі Плашів Центру Культури Подгір'я. Результатом зустрічей стануть авторські історії в малюнках, натхненні легендою та спадщиною Подгір'я. Фото: pixabay.com Центр Культури Подгір'я – Клуб Плашів запрошує дітей, молодь, родини та літніх людей на цикл міжпоколіннєвих коміксних майстер-класів, що реалізуються в рамках проекту «Майстерня Мастера Твардовського». Заняття проведе Роберт Трояновський, а їх учасники ознайомляться з основами створення коміксу – від проектування персонажів і побудови нарації до підготовки панелей і діалогів. Програма майстер-класів базується на легенді про Мастера Твардовського та історії Подгір'я."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-19T05:44:05.632722+00:00"
     },
     "dywizjony-akademia-m-odych-pilot-w-zapisy-na-p-kolonie-letnie-w-muzeum-lotnictwa-polskiego-2026-07-19T08:30:00+02:00": {
       "title": "„Dywizjony – Akademia Młodych Pilotów” – zapisy na półkolonie letnie w Muzeum Lotnictwa Polskiego",
@@ -10832,88 +10387,6 @@
         "is_free": true
       },
       "updated_at": "2026-07-19T05:44:05.633232+00:00"
-    },
-    "park-bednarskiego-wi-tuje-130-lat-2026-07-19T09:00:00+02:00": {
-      "title": "Park Bednarskiego świętuje 130 lat",
-      "description": "Spacer dźwiękowy, joga, warsztaty, koncerty, mecz mieszkańców z Radą Dzielnicy, jubileuszowy tort i wieczorne tango – tak zapowiadają się obchody 130-lecia Parku Bednarskiego w niedzielę, 19 lipca . Fot. materiały prasowe Park Bednarskiego od 130 lat jest jednym z najważniejszych zielonych miejsc Podgórza – przestrzenią wypoczynku, spotkań i sąsiedzkiej integracji. Jubileusz będzie okazją do wspólnego spędzenia czasu, poznania historii parku oraz udziału w licznych aktywnościach przygotowanych dla osób w każdym wieku. Świętowanie rozpocznie się o godz. 9.00 porannymi spacerami – dźwiękowym i ornitologicznym – oraz zajęciami jogi. W programie znalazł się także rodzinny spacer przyrodniczy poświęcony drzewom. Na wybrane wydarzenia obowiązują wcześniejsze zapisy. Od południa park wypełnią warsztaty, gry i zabawy dla dzieci, turniej Mölkky, sąsiedzkie działania artystyczne oraz strefa poświęcona historii Parku Bednarskiego. Uczestnicy będą mogli obejrzeć galerię archiwalnych fotografii, porozmawiać o historii miejsca z dr. Robertem Gawłem z Muzeum Historii Podgórza oraz Wojciechem Bednarskim, praprawnukiem założyciela parku, a także odwiedzić kącik obywatelski, w którym będzie można powspominać społeczną obronę parku w 2021 roku i porozmawiać o aktualnych wyzwaniach dzielnicy. Nie zabraknie także sportowych emocji – o godz. 16.00 rozegrany zostanie mecz piłki nożnej mieszkańcy i mieszkanki kontra reprezentacja Rady Dzielnicy XIII Podgórze. Popołudnie zwieńczy koncert kwartetu smyczkowego w Glorietcie. O godz. 18.00 odbędą się oficjalne obchody jubileuszu z urodzinowym tortem i kwiatami od Rady Dzielnicy XIII Podgórze, a następnie koncert Orkiestry Dętej „Solvay”. Wieczór zakończy lekcja tanga argentyńskiego w Glorietcie. Na zakończenie, zgodnie z sąsiedzką tradycją, uczestnicy wspólnie posprzątają park. Więcej informacji na stronie .",
-      "image": "https://plikimpi.krakow.pl/zalacznik/603870/4.webp",
-      "url": "https://krakow.pl/dzielnica_xiii_podgorze/331023,2327,komunikat,park_bednarskiego_swietuje_130_lat.html",
-      "source": "krakow.pl",
-      "location": {
-        "name": "Park Bednarskiego, Kraków",
-        "address": "Park Bednarskiego, Kraków",
-        "district": "Podgórze"
-      },
-      "district": "Podgórze",
-      "date": "2026-07-19T09:00:00+02:00",
-      "end_date": "2026-07-19T09:00:00+02:00",
-      "startTimeKnown": true,
-      "source_url": "https://krakow.pl/dzielnica_xiii_podgorze/331023,2327,komunikat,park_bednarskiego_swietuje_130_lat.html",
-      "scrapped_url": "https://krakow.pl/dzielnica_xiii_podgorze/331023,2327,komunikat,park_bednarskiego_swietuje_130_lat.html",
-      "scrapped_timestamp": "2026-07-19T08:30:38.786714+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Park Bednarskiego świętuje 130 lat",
-          "description": "Spacer dźwiękowy, joga, warsztaty, koncerty, mecz mieszkańców z Radą Dzielnicy, jubileuszowy tort i wieczorne tango – tak zapowiadają się obchody 130-lecia Parku Bednarskiego w niedzielę, 19 lipca . Fot. materiały prasowe Park Bednarskiego od 130 lat jest jednym z najważniejszych zielonych miejsc Podgórza – przestrzenią wypoczynku, spotkań i sąsiedzkiej integracji. Jubileusz będzie okazją do wspólnego spędzenia czasu, poznania historii parku oraz udziału w licznych aktywnościach przygotowanych dla osób w każdym wieku. Świętowanie rozpocznie się o godz. 9.00 porannymi spacerami – dźwiękowym i ornitologicznym – oraz zajęciami jogi. W programie znalazł się także rodzinny spacer przyrodniczy poświęcony drzewom. Na wybrane wydarzenia obowiązują wcześniejsze zapisy. Od południa park wypełnią warsztaty, gry i zabawy dla dzieci, turniej Mölkky, sąsiedzkie działania artystyczne oraz strefa poświęcona historii Parku Bednarskiego. Uczestnicy będą mogli obejrzeć galerię archiwalnych fotografii, porozmawiać o historii miejsca z dr. Robertem Gawłem z Muzeum Historii Podgórza oraz Wojciechem Bednarskim, praprawnukiem założyciela parku, a także odwiedzić kącik obywatelski, w którym będzie można powspominać społeczną obronę parku w 2021 roku i porozmawiać o aktualnych wyzwaniach dzielnicy. Nie zabraknie także sportowych emocji – o godz. 16.00 rozegrany zostanie mecz piłki nożnej mieszkańcy i mieszkanki kontra reprezentacja Rady Dzielnicy XIII Podgórze. Popołudnie zwieńczy koncert kwartetu smyczkowego w Glorietcie. O godz. 18.00 odbędą się oficjalne obchody jubileuszu z urodzinowym tortem i kwiatami od Rady Dzielnicy XIII Podgórze, a następnie koncert Orkiestry Dętej „Solvay”. Wieczór zakończy lekcja tanga argentyńskiego w Glorietcie. Na zakończenie, zgodnie z sąsiedzką tradycją, uczestnicy wspólnie posprzątają park. Więcej informacji na stronie ."
-        },
-        "en": {
-          "title": "Park Bednarskiego Celebrates 130 Years",
-          "description": "A sound walk, yoga, workshops, concerts, a match between residents and the District Council, a jubilee cake, and evening tango – this is how the 130th anniversary of Park Bednarskiego is set to unfold on Sunday, July 19. Photo: press materials. For 130 years, Park Bednarskiego has been one of the most important green spaces in Podgórze – a place for relaxation, meetings, and neighborhood integration. The jubilee will be an opportunity to spend time together, learn about the history of the park, and participate in numerous activities prepared for people of all ages. The celebration will begin at 9:00 AM with morning walks – a sound walk and an ornithological walk – as well as yoga sessions. The program also includes a family nature walk dedicated to trees. Prior registration is required for selected events. From noon, the park will be filled with various activities."
-        },
-        "uk": {
-          "title": "Парк Беднарського святкує 130 років",
-          "description": "Прогулянка зі звуками, йога, майстер-класи, концерти, матч мешканців з Радою Району, ювілейний торт та вечірнє танго – так виглядають святкування 130-річчя Парку Беднарського в неділю, 19 липня. Фото: пресматеріали Парку Беднарського, який протягом 130 років є одним з найважливіших зелених місць Подгуржа – простором відпочинку, зустрічей та сусідської інтеграції. Ювілей стане нагодою для спільного проведення часу, ознайомлення з історією парку та участі в численних активностях, підготовлених для людей будь-якого віку. Святкування розпочнеться о 9:00 ранковими прогулянками – звуковою та орнітологічною – а також заняттями йогою. У програмі також запланована сімейна природна прогулянка, присвячена деревам. На окремі події необхідна попередня реєстрація. З полудня парк заповнять..."
-        }
-      },
-      "updated_at": "2026-07-19T08:30:54.251758+00:00"
-    },
-    "miasteczko-wawelskie-ladami-utraconego-miasta-2026-07-19T00:00:00+02:00": {
-      "title": "Miasteczko wawelskie. Śladami utraconego miasta",
-      "date": "2026-07-19T00:00:00+02:00",
-      "end_date": "2026-07-19T00:00:00+02:00",
-      "startTimeKnown": false,
-      "description": "Wakacyjna gra terenowa na Wzgórzu Wawelskim to aktywna lekcja historii, podczas której rodziny tropią ślady dawnego, nieistniejącego już miasteczka. Zamiast tradycyjnego zwiedzania, uczestnicy z kartami do gry w ręku rozwiązują zagadki i poznają codzienne życie dawnych rzemieślników, urzędników czy uczniów. Największym atutem wydarzenia jest połączenie edukacji historycznej z angażującą formą zabawy na świeżym powietrzu.",
-      "url": "https://wawel.krakow.pl/wydarzenie/miasteczko-wawelskie-sladami-utraconego-miasta-1",
-      "scrapped_url": "https://www.niesiedzwdomu.pl/wydarzenia/miasteczko-wawelskie-sladami-utraconego-miasta-event-000937",
-      "source": "wawel.krakow.pl",
-      "image": "https://ssaptcphmeixyvukbbmk.supabase.co/storage/v1/object/public/event-library/dzieci/wydarzenia/EVENT-000937-cover.webp?v=1783949013953",
-      "location": {
-        "name": "ul. Wawel 5, Kraków",
-        "lat": 50.0542052,
-        "lng": 19.9361367,
-        "district": "Stare Miasto"
-      },
-      "age_hint": "7-14",
-      "scrapped_timestamp": "2026-07-19T08:30:45.611411+00:00",
-      "category": "Field Trips",
-      "age_range": {
-        "min": 7,
-        "max": 14
-      },
-      "translations": {
-        "pl": {
-          "title": "Miasteczko wawelskie. Śladami utraconego miasta",
-          "description": "Wakacyjna gra terenowa na Wzgórzu Wawelskim to aktywna lekcja historii, podczas której rodziny tropią ślady dawnego, nieistniejącego już miasteczka. Zamiast tradycyjnego zwiedzania, uczestnicy z kartami do gry w ręku rozwiązują zagadki i poznają codzienne życie dawnych rzemieślników, urzędników czy uczniów. Największym atutem wydarzenia jest połączenie edukacji historycznej z angażującą formą zabawy na świeżym powietrzu."
-        },
-        "en": {
-          "title": "Wawel Town. In the Footsteps of the Lost City",
-          "description": "The summer outdoor game on Wawel Hill is an active history lesson where families track the traces of the former, now non-existent town. Instead of traditional sightseeing, participants solve puzzles with game cards in hand and learn about the daily lives of former craftsmen, officials, and students. The greatest advantage of the event is the combination of historical education with an engaging form of outdoor fun."
-        },
-        "uk": {
-          "title": "Вавельське містечко. Слідами втраченого міста",
-          "description": "Літня гра на свіжому повітрі на Вавельському пагорбі — це активний урок історії, під час якого родини відстежують сліди колишнього, вже неіснуючого містечка. Замість традиційного огляду, учасники з картами гри в руках розгадують загадки та дізнаються про повсякденне життя давніх ремісників, чиновників чи учнів. Найбільша перевага події — це поєднання історичної освіти з захоплюючою формою розваги на свіжому повітрі."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-07-19T08:30:54.251775+00:00"
     }
   }
 }

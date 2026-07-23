@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:47:00.889277+00:00",
+  "updated_at": "2026-07-23T18:48:43.011676+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244549,6 +244549,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:47:00.799927+00:00",
       "created_at": "2026-07-23T18:47:00.799927+00:00"
+    },
+    "manual_a84683cb81a1": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "PATAJEK - Sala zabaw, urodziny dla dzieci, imprezy dla dzieci",
+        "en": "PATAJEK - Playroom, children's birthdays, children's parties",
+        "uk": "PATAJEK - Ігрова кімната, дитячі дні народження, дитячі свята"
+      },
+      "name": "PATAJEK - Sala zabaw, urodziny dla dzieci, imprezy dla dzieci",
+      "address": "Osiedle Bohaterów Września 39, 31-621 Kraków",
+      "lat": 50.099717230618396,
+      "lng": 20.01327454371025,
+      "geo_uri": "geo:50.099717230618396,20.01327454371025",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.01327454371025,
+          50.099717230618396
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": "790722711",
+      "website": "https://patajek.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:48:42.912291+00:00",
+      "created_at": "2026-07-23T18:48:42.912291+00:00"
     }
   }
 }

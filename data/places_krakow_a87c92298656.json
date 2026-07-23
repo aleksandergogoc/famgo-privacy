@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:51:37.837670+00:00",
+  "updated_at": "2026-07-23T18:54:36.387310+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -52915,9 +52915,10 @@
     "osm_way_80204326": {
       "osm_id": "way/80204326",
       "source": "osm",
-      "manual_override": false,
+      "manual_override": true,
       "categories": [
-        "trampoline_park"
+        "trampoline_park",
+        "play_room"
       ],
       "names": {
         "pl": "GOjump",
@@ -52964,7 +52965,7 @@
           ]
         ]
       },
-      "fee": null,
+      "fee": true,
       "opening_hours": "Mo-Fr 10:00-21:00; Sa-Su 9:00-22:00",
       "phone": "+48 533 399 245",
       "website": "https://krakow.gojump.pl/",
@@ -52975,7 +52976,7 @@
         "leisure": "trampoline_park",
         "official_name": "GOjump MEGApark Sikorki"
       },
-      "updated_at": "2026-07-23T11:59:35.890147+00:00",
+      "updated_at": "2026-07-23T18:54:36.289465+00:00",
       "created_at": "2026-07-23T11:59:35.890147+00:00"
     },
     "osm_way_82257262": {

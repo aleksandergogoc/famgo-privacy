@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:34:52.570609+00:00",
+  "updated_at": "2026-07-23T20:36:47.671882+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244913,6 +244913,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T20:34:52.459811+00:00",
       "created_at": "2026-07-23T20:34:52.459811+00:00"
+    },
+    "manual_56478c8cf967": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Magillo",
+        "en": "Magillo",
+        "uk": "Magillo"
+      },
+      "name": "Magillo",
+      "address": "Wojciecha Lipowskiego 18, 30-898 Kraków",
+      "lat": 50.01432180631087,
+      "lng": 20.03705888986588,
+      "geo_uri": "geo:50.01432180631087,20.03705888986588",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.03705888986588,
+          50.01432180631087
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "126586818",
+      "website": "http://www.magillo.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T20:36:47.559218+00:00",
+      "created_at": "2026-07-23T20:36:47.559218+00:00"
     }
   }
 }

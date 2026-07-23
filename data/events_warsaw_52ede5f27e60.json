@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T08:57:19.869403+00:00",
+  "updated_at": "2026-07-23T08:32:24.250786+00:00",
   "events": {
     "106-rocznica-bitwy-warszawskiej-2026-08-15": {
       "scrapped_timestamp": "2026-06-23T18:56:51.217293+00:00",
@@ -2340,46 +2340,6 @@
       "age_range": {
         "min": 0,
         "max": 18
-      }
-    },
-    "cyrkowe-rody-z-odskoczni-2026-07-22T17:00:00": {
-      "scrapped_timestamp": "2026-06-30T14:43:49.051240+00:00",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "description": "Cyrkowe środy z Odskocznią – 3. edycja plenerowych warsztatów cyrkowych dla mieszkańców i mieszkanek dzielnicy Włochy. Zajęcia kierowane do najmłodszych wraz z rodzicami, odbywają się w Parku Ogrody Kosmosu.",
-      "date": "2026-07-22T15:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Cyrkowe środy z Odskocznią – 3. edycja plenerowych warsztatów cyrkowych dla mieszkańców i mieszkanek dzielnicy Włochy. Zajęcia kierowane do najmłodszych wraz z rodzicami, odbywają się w Parku Ogrody Kosmosu.",
-          "title": "Cyrkowe środy z Odskocznią"
-        },
-        "uk": {
-          "description": "Циркові середи з Одскочнею – 3-тя редакція виїзних циркових майстер-класів для мешканців і мешканок району Влохи. Заняття призначені для наймолодших разом з батьками, проходять у Парку Сади Космосу.",
-          "title": "Циркові середи з Одскочнею"
-        },
-        "en": {
-          "description": "Circus Wednesdays with Odskocznia – 3rd edition of outdoor circus workshops for the residents of the Włochy district. Activities aimed at the youngest children along with their parents take place in the Kosmos Gardens Park.",
-          "title": "Circus Wednesdays with Odskocznia"
-        }
-      },
-      "scrapped_url": "https://wlochy.um.warszawa.pl/-/cyrkowe-srody-z-odskocznia-warsztaty-1#22-07",
-      "url": "https://wlochy.um.warszawa.pl/-/cyrkowe-srody-z-odskocznia-warsztaty-1#22-07",
-      "end_date": "2026-07-22T17:00:00+00:00",
-      "district": "Włochy",
-      "source": "wlochy.um.warszawa.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Włochy",
-        "name": "Park Ogrody Kosmosu   · ul. Sympatyczna"
-      },
-      "title": "Cyrkowe środy z Odskocznią",
-      "image": "https://cdn.um.warszawa.pl/documents/45118/152106683/Plakat+Cyrkowe+%C5%9Brody+z+Odskoczni%C4%85-1.jpg/68a66aae-2170-15d6-92e3-411922dec44d?version=1.1&t=1781772059769&imageThumbnail=1",
-      "age_range": {
-        "min": 0,
-        "max": 6
       }
     },
     "cyrkowe-rody-z-odskoczni-2026-07-29T17:00:00": {
@@ -6805,47 +6765,6 @@
         "max": 6
       }
     },
-    "oprowadzanie-dla-rodzic-w-ma-ych-dzieci-2026-07-22": {
-      "scrapped_timestamp": "2026-06-26T11:09:59.384966+00:00",
-      "scrapped_url": "https://artmuseum.pl/wydarzenia/oprowadzanie-dla-rodzicow-malych-dzieci-2?term=019eeee2-6be7-71f8-a495-7dc2926a5956",
-      "category": "Educational",
-      "description": "Spotkania odbywają się w spokojnej, przyjaznej atmosferze – bez pośpiechu, z uważnością na potrzeby uczestników w każdym wieku. Pierwsza część to oprowadzanie po wystawie w tempie dostosowanym do rytmu osób z wózkami, nosidłami i maluchami na rękach. Dzięki systemowi tour guide można swobodnie słuchać przewodniczki, nawet gdy trzeba na chwilę się zatrzymać, nakarmić dziecko, przewinąć je lub po prostu odpocząć. Druga część odbywa się w przestrzeni edukacyjnej MSN – to czas na rozmowę, zadawanie pytań, dzielenie się wrażeniami lub udział w krótkim miniwarsztacie. Można też po prostu pobyć razem z dzieckiem, w swoim tempie i bez presji. To propozycja dla wszystkich, którzy chcą zanurzyć się w świat sztuki z uważnością na potrzeby najmłodszych – i tych, którzy chcą po prostu miło spędzić czas i nawiązać nowe znajomości. Wiemy, że dzieci czasem płaczą, zasypiają, potrzebują przewinięcia czy karmienia – to naturalna część spotkania. Na miejscu dostępne są: winda, pokój rodzinny z przewijakiem i fotelem do karmienia, a także maty i zabawki w przestrzeni edukacyjnej.",
-      "date": "2026-07-22T10:15:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Spotkania odbywają się w spokojnej, przyjaznej atmosferze – bez pośpiechu, z uważnością na potrzeby uczestników w każdym wieku. Pierwsza część to oprowadzanie po wystawie w tempie dostosowanym do rytmu osób z wózkami, nosidłami i maluchami na rękach. Dzięki systemowi tour guide można swobodnie słuchać przewodniczki, nawet gdy trzeba na chwilę się zatrzymać, nakarmić dziecko, przewinąć je lub po prostu odpocząć. Druga część odbywa się w przestrzeni edukacyjnej MSN – to czas na rozmowę, zadawanie pytań, dzielenie się wrażeniami lub udział w krótkim miniwarsztacie. Można też po prostu pobyć razem z dzieckiem, w swoim tempie i bez presji. To propozycja dla wszystkich, którzy chcą zanurzyć się w świat sztuki z uważnością na potrzeby najmłodszych – i tych, którzy chcą po prostu miło spędzić czas i nawiązać nowe znajomości. Wiemy, że dzieci czasem płaczą, zasypiają, potrzebują przewinięcia czy karmienia – to naturalna część spotkania. Na miejscu dostępne są: winda, pokój rodzinny z przewijakiem i fotelem do karmienia, a także maty i zabawki w przestrzeni edukacyjnej.",
-          "title": "Oprowadzanie dla rodziców małych dzieci"
-        },
-        "uk": {
-          "description": "Зустрічі проходять у спокійній, дружній атмосфері – без поспіху, з увагою до потреб учасників будь-якого віку. Перша частина – це екскурсія по виставці в темпі, що відповідає ритму людей з візками, слінгами та малюками на руках. Завдяки системі гіда можна вільно слухати екскурсовода, навіть коли потрібно на хвилину зупинитися, нагодувати дитину, змінити її або просто відпочити. Друга частина проходить у навчальному просторі MSN – це час для розмови, задавання запитань, обміну враженнями або участі в короткому міні-майстер-класі. Можна також просто провести час разом з дитиною, у своєму темпі і без тиску. Це пропозиція для всіх, хто хоче зануритися у світ мистецтва з увагою до потреб найменших – і тих, хто просто хоче приємно провести час.",
-          "title": "Екскурсія для батьків маленьких дітей"
-        },
-        "en": {
-          "description": "The meetings take place in a calm, friendly atmosphere – without rush, with attention to the needs of participants of all ages. The first part is a guided tour of the exhibition at a pace suited to those with strollers, carriers, and little ones in their arms. Thanks to the tour guide system, you can listen to the guide freely, even when you need to stop for a moment to feed, change, or simply rest with your child. The second part takes place in the educational space of MSN – it's time for conversation, asking questions, sharing impressions, or participating in a short mini-workshop. You can also just spend time together with your child, at your own pace and without pressure. This is an offer for everyone who wants to immerse themselves in the world of art with attention to the needs of the youngest – and for those who simply want to enjoy their time.",
-          "title": "Guided Tour for Parents with Young Children"
-        }
-      },
-      "real_source": "https://www.malywarszawiak.pl/",
-      "url": "https://artmuseum.pl/wydarzenia/oprowadzanie-dla-rodzicow-malych-dzieci-2?term=019eeee2-6be7-71f8-a495-7dc2926a5956",
-      "end_date": "2026-07-21T22:00:00+00:00",
-      "district": "Śródmieście",
-      "updated_at": "2026-06-29T08:44:08.789000+00:00",
-      "source": "artmuseum.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "location": {
-        "district": "Śródmieście",
-        "name": "Muzeum Sztuki Nowoczesnej   · ul. Marszałkowska 103, Warszawa"
-      },
-      "title": "Oprowadzanie dla rodziców małych dzieci",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "image": "https://api-sf.artmuseum.pl/uploads/files/6a390d4238ae0016341632.jpg"
-    },
     "p-artem-2026-08-08": {
       "category": "Theater",
       "description": "„Pół żartem…” – każda rodzina kryje sekrety, które potrafią wywrócić życie do góry nogami. Wyobraź sobie upalny weekend na wsi: stary, lekko zarośnięty dom, dziki sad pełen jabłek, basen, który pamięta lepsze czasy i powrót dorosłych dzieci do rodzinnych pieleszy. Brzmi sielsko? Oj, nie tak szybko! Tu każdy ma swoje dziwactwa, a największym z nich jest… miłość. Czy da się pogodzić z przeszłością, nie tracąc kontaktu z rzeczywistością? Czy wyobraźnia to ucieczka, czy może ratunek? I czy na pewno wszyscy...",
@@ -7512,47 +7431,6 @@
       },
       "image": null
     },
-    "piknik-poznajmy-si-2026-07-22": {
-      "scrapped_timestamp": "2026-06-19T07:14:06.639910+00:00",
-      "scrapped_url": "https://bemowo.um.warszawa.pl/-/piknik-poznajmy-sie-1#22-07",
-      "category": "Family Fun",
-      "description": "Zapraszamy na letnie pikniki integracyjne w Parku Górczewska! Wspólna zabawa i piknikowanie na zielonych terenach dzielnicy, w okolicach Amfiteatru.",
-      "date": "2026-07-22T15:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Zapraszamy na letnie pikniki integracyjne w Parku Górczewska! Wspólna zabawa i piknikowanie na zielonych terenach dzielnicy, w okolicach Amfiteatru.",
-          "title": "Piknik „Poznajmy się!”"
-        },
-        "uk": {
-          "description": "Запрошуємо на літні інтеграційні пікніки в парку Гурчевська! Спільні розваги та пікнікування на зелених територіях району, в околицях Амфітеатру.",
-          "title": "Пікнік «Познайомимося!»"
-        },
-        "en": {
-          "description": "We invite you to summer integration picnics in Górczewska Park! Join us for fun and picnicking in the green areas of the district, near the Amphitheater.",
-          "title": "Picnic 'Let's Get to Know Each Other!'"
-        }
-      },
-      "real_source": "https://www.malywarszawiak.pl/",
-      "url": "https://bemowo.um.warszawa.pl/-/piknik-poznajmy-sie-1#22-07",
-      "end_date": "2026-07-22T18:00:00+00:00",
-      "district": "Bemowo",
-      "updated_at": "2026-06-29T08:44:09.696000+00:00",
-      "source": "bemowo.um.warszawa.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Bemowo",
-        "name": "Park Górczewska , okolice Amfiteatru"
-      },
-      "title": "Piknik „Poznajmy się!”",
-      "image": "https://cdn.um.warszawa.pl/o/portal-theme/images/other/og-image.png?t=1781683692000",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      }
-    },
     "piknik-poznajmy-si-2026-08-05": {
       "scrapped_timestamp": "2026-06-19T07:15:05.470316+00:00",
       "scrapped_url": "https://bemowo.um.warszawa.pl/-/piknik-poznajmy-sie-1#05-08",
@@ -7634,47 +7512,6 @@
         "min": 0,
         "max": 6
       }
-    },
-    "pinokio-2026-07-23T10:00:00": {
-      "scrapped_timestamp": "2026-06-29T07:02:11.693715+00:00",
-      "scrapped_url": "https://alternatywy.art/pinokio-rezyseria-matteo-garrone-francja-wielka-brytania-wlochy-2019/",
-      "category": "Theater",
-      "description": "Gepetto nadaje mu imię Pinokio i zaczyna troszczyć się o niego jak o własnego syna. Drewniany chłopczyk jest tak zafascynowany otaczającym go światem, który widzi po raz pierwszy, że przestaje słuchać dobrych rad opiekuna. Wiedziony ciekawością, Pinokio wyrusza w podróż pełną przygód, niebezpieczeństw i życiowych lekcji. Na swojej drodze spotyka magiczną wróżkę, olbrzymiego ślimaka, zwierzęta mówiące ludzkim głosem, a nawet zwiedza ogromny brzuch wieloryba. Jego śladami wyrusza zaniepokojony Gepetto. Ta wyprawa na zawsze odmieni ich życie.",
-      "date": "2026-07-23T08:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Gepetto nadaje mu imię Pinokio i zaczyna troszczyć się o niego jak o własnego syna. Drewniany chłopczyk jest tak zafascynowany otaczającym go światem, który widzi po raz pierwszy, że przestaje słuchać dobrych rad opiekuna. Wiedziony ciekawością, Pinokio wyrusza w podróż pełną przygód, niebezpieczeństw i życiowych lekcji. Na swojej drodze spotyka magiczną wróżkę, olbrzymiego ślimaka, zwierzęta mówiące ludzkim głosem, a nawet zwiedza ogromny brzuch wieloryba. Jego śladami wyrusza zaniepokojony Gepetto. Ta wyprawa na zawsze odmieni ich życie.",
-          "title": "Pinokio"
-        },
-        "uk": {
-          "description": "Гепетто дає йому ім'я Пінокіо і починає піклуватися про нього, як про власного сина. Дерев'яний хлопчик настільки захоплений навколишнім світом, який він бачить вперше, що перестає слухати добрі поради опікуна. Ведений цікавістю, Пінокіо вирушає в подорож, сповнену пригод, небезпек і життєвих уроків. На своєму шляху він зустрічає магічну фею, величезну равлику, тварин, які говорять людським голосом, а навіть досліджує величезний живіт кита. За його слідами вирушає стурбований Гепетто. Ця експедиція назавжди змінить їхнє життя.",
-          "title": "Пінокіо"
-        },
-        "en": {
-          "description": "Geppetto names him Pinocchio and begins to care for him as his own son. The wooden boy is so fascinated by the world around him, which he sees for the first time, that he stops listening to the good advice of his guardian. Driven by curiosity, Pinocchio embarks on a journey full of adventures, dangers, and life lessons. Along the way, he meets a magical fairy, a giant snail, animals that speak in human voices, and even explores the enormous belly of a whale. Concerned Geppetto sets out in search of him. This expedition will change their lives forever.",
-          "title": "Pinocchio"
-        }
-      },
-      "real_source": "https://www.malywarszawiak.pl/",
-      "url": "https://alternatywy.art/pinokio-rezyseria-matteo-garrone-francja-wielka-brytania-wlochy-2019/",
-      "end_date": "2026-07-22T22:00:00+00:00",
-      "district": "Ursynów",
-      "updated_at": "2026-06-29T08:44:09.696000+00:00",
-      "source": "alternatywy.art",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "location": {
-        "district": "Ursynów",
-        "name": "UCK Alternatywy , Sala Szekspir  · ul. Indiry Gandhi 9"
-      },
-      "title": "Pinokio",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "image": "https://alternatywy.art/wp-content/uploads/2026/06/371936-768x768.jpg"
     },
     "pinokio-2026-09-27": {
       "category": "Theater",
@@ -7783,46 +7620,6 @@
       },
       "title": "„Pinokio” - reżyseria: Matteo Garrone",
       "image": "https://cdn.um.warszawa.pl/documents/47940/26165416/MINIATURA+WYDARZENIE+bezplatne+01-01.jpg/af5291bb-f218-7adc-7b2c-9b5ad87b112d?version=1.0&t=1641197747070&imagePreview=1",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      }
-    },
-    "pinokio-re-yseria-matteo-garrone-francja-wielka-brytania-w-ochy-2019-2026-07-23T10:00:00": {
-      "scrapped_timestamp": "2026-06-30T14:46:38.619524+00:00",
-      "real_source": "https://waw4free.pl/",
-      "category": "Theater",
-      "description": "Pewnego dnia w ręce poczciwego stolarza o imieniu Gepetto wpada kawałek drewna. Mężczyzna od samego początku czuje, że w tym z pozoru martwym przedmiocie kryje się jakaś magiczna siła. Postanawia wystrugać z niej postać chłopca. Niespodziewanie stworzona przez niego figurka ożywa – potrafi mówić, śmiać się, skakać i biegać. Gepetto nadaje mu imię Pinokio i zaczyna troszczyć się o niego jak o własnego syna. Drewniany chłopczyk jest tak zafascynowany otaczającym go światem, który widzi po raz pierwszy, że przestaje słuchać dobrych rad opiekuna. Wiedziony ciekawością, Pinokio wyrusza w podróż pełną przygód, niebezpieczeństw i życiowych lekcji. Na swojej drodze spotyka magiczną wróżkę, olbrzymiego ślimaka, zwierzęta mówiące ludzkim głosem, a nawet zwiedza ogromny brzuch wieloryba. Jego śladami wyrusza zaniepokojony Gepetto. Ta wyprawa na zawsze odmieni ich życie. ‼️ Zgłoszenia grup zorganizowanych przyjmowane są drogą mailową pod adresem: recepcja@alternatywy.art Warunkiem udziału jest dodatkowe potwierdzenie obecności drogą mailową do 13 lipca. 📅 23 lipca, godzina 10:00 🎟️ Bezpłatne bilety dostępne w naszej recepcji i online: link (do rezerwacji online może być doliczana niewielka opłata serwisowa)",
-      "date": "2026-07-23T08:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Pewnego dnia w ręce poczciwego stolarza o imieniu Gepetto wpada kawałek drewna. Mężczyzna od samego początku czuje, że w tym z pozoru martwym przedmiocie kryje się jakaś magiczna siła. Postanawia wystrugać z niej postać chłopca. Niespodziewanie stworzona przez niego figurka ożywa – potrafi mówić, śmiać się, skakać i biegać. Gepetto nadaje mu imię Pinokio i zaczyna troszczyć się o niego jak o własnego syna. Drewniany chłopczyk jest tak zafascynowany otaczającym go światem, który widzi po raz pierwszy, że przestaje słuchać dobrych rad opiekuna. Wiedziony ciekawością, Pinokio wyrusza w podróż pełną przygód, niebezpieczeństw i życiowych lekcji. Na swojej drodze spotyka magiczną wróżkę, olbrzymiego ślimaka, zwierzęta mówiące ludzkim głosem, a nawet zwiedza ogromny brzuch wieloryba. Jego śladami wyrusza zaniepokojony Gepetto. Ta wyprawa na zawsze odmieni ich życie. ‼️ Zgłoszenia grup zorganizowanych przyjmowane są drogą mailową pod adresem: recepcja@alternatywy.art Warunkiem udziału jest dodatkowe potwierdzenie obecności drogą mailową do 13 lipca. 📅 23 lipca, godzina 10:00 🎟️ Bezpłatne bilety dostępne w naszej recepcji i online: link (do rezerwacji online może być doliczana niewielka opłata serwisowa)",
-          "title": "„Pinokio” | reżyseria: Matteo Garrone | Francja, Wielka Brytania, Włochy 2019"
-        },
-        "uk": {
-          "description": "Одного дня до рук доброго столяра на ім'я Джепетто потрапляє шматок дерева. Чоловік з самого початку відчуває, що в цьому на перший погляд мертвому предметі прихована якась магічна сила. Він вирішує вирізати з нього постать хлопчика. Несподівано створена ним фігурка оживає – вміє говорити, сміятися, стрибати і бігати. Джепетто дає йому ім'я Пінокіо і починає дбати про нього як про власного сина. Дерев'яний хлопчик настільки захоплений навколишнім світом, який бачить вперше, що перестає слухати добрі поради опікуна. Ведений цікавістю, Пінокіо вирушає в подорож, сповнену пригод, небезпек і життєвих уроків. На своєму шляху він зустрічає магічну фею, величезного слимака, тварин, що говорять людським голосом, а навіть досліджує величезний живіт кита.",
-          "title": "„Пінокіо” | режисер: Маттео Гарроне | Франція, Велика Британія, Італія 2019"
-        },
-        "en": {
-          "description": "One day, a kind carpenter named Geppetto comes across a piece of wood. From the very beginning, he feels that this seemingly lifeless object holds some magical power. He decides to carve a boy out of it. Unexpectedly, the figure he created comes to life – it can talk, laugh, jump, and run. Geppetto names him Pinocchio and begins to care for him as if he were his own son. The wooden boy is so fascinated by the world around him, which he sees for the first time, that he stops listening to the good advice of his guardian. Driven by curiosity, Pinocchio embarks on a journey full of adventures, dangers, and life lessons. Along the way, he meets a magical fairy, a giant snail, animals that speak in human voices, and even explores the enormous belly of a whale.",
-          "title": "\"Pinocchio\" | directed by: Matteo Garrone | France, United Kingdom, Italy 2019"
-        }
-      },
-      "scrapped_url": "https://fb.me/e/63Rh1hKkc",
-      "url": "https://fb.me/e/63Rh1hKkc",
-      "end_date": "2026-07-23T08:00:00+00:00",
-      "district": "Ursynów",
-      "source": "waw4free.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Ursynów",
-        "name": "Indiry Gandhi 9, Ursynowskie Centrum Kultury „Alternatywy\""
-      },
-      "title": "„Pinokio” | reżyseria: Matteo Garrone | Francja, Wielka Brytania, Włochy 2019",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1782827309.webp",
       "age_range": {
         "min": 0,
         "max": 18
@@ -9626,46 +9423,6 @@
       },
       "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1782387243.webp"
     },
-    "strefa-puzzli-i-gier-planszowych-2026-07-22": {
-      "scrapped_timestamp": "2026-06-27T08:52:54.037018+00:00",
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/strefa-puzzli-i-gier-planszowych",
-      "category": "Games",
-      "description": "Zapraszamy na spotkania dla miłośników puzzli i gier planszowych. Zajęcia pozwolą miło spędzić czas wśród ciekawych gier, wyzwań i dobrej zabawy. Wstęp wolny dla uczestników indywidualnych, bez ograniczeń wiekowych. W zależności od pogody wszystkie zajęcia będą odbywały się w Eko Parku lub w sali dziecięcej Filii „Gołąbki”.",
-      "date": "2026-07-22T15:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Zapraszamy na spotkania dla miłośników puzzli i gier planszowych. Zajęcia pozwolą miło spędzić czas wśród ciekawych gier, wyzwań i dobrej zabawy. Wstęp wolny dla uczestników indywidualnych, bez ograniczeń wiekowych. W zależności od pogody wszystkie zajęcia będą odbywały się w Eko Parku lub w sali dziecięcej Filii „Gołąbki”.",
-          "title": "Strefa puzzli i gier planszowych"
-        },
-        "uk": {
-          "description": "Запрошуємо на зустрічі для любителів пазлів та настільних ігор. Заняття дозволять приємно провести час серед цікавих ігор, викликів та гарного настрою. Вхід вільний для індивідуальних учасників, без вікових обмежень. Залежно від погоди, всі заняття відбуватимуться в Еко Парку або в дитячій кімнаті Філії «Голубки».",
-          "title": "Зона пазлів та настільних ігор"
-        },
-        "en": {
-          "description": "We invite you to meetings for enthusiasts of puzzles and board games. The activities will allow you to spend time pleasantly among interesting games, challenges, and good fun. Free entry for individual participants, with no age restrictions. Depending on the weather, all activities will take place in the Eco Park or in the children's room of the 'Gołąbki' Branch.",
-          "title": "Puzzle and Board Games Zone"
-        }
-      },
-      "url": "https://ursus.um.warszawa.pl/-/strefa-puzzli-i-gier-planszowych",
-      "end_date": "2026-07-22T16:30:00+00:00",
-      "district": "Ursus",
-      "updated_at": "2026-06-29T08:44:09.696000+00:00",
-      "source": "um.warszawa.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Ursus",
-        "name": "Biblioteka Publiczna - Filia \"Gołąbki\", Czerwona Droga 6, 02-495 Warszawa"
-      },
-      "title": "Strefa puzzli i gier planszowych",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "image": null
-    },
     "szelmostwa-lisa-witalisa-plenerowy-spektakl-teatru-polonia-2026-08-03T18:00:00": {
       "scrapped_timestamp": "2026-06-30T14:44:41.811664+00:00",
       "real_source": "https://www.malywarszawiak.pl/",
@@ -10114,42 +9871,6 @@
         "max": 6
       },
       "image": "https://cdn.um.warszawa.pl/documents/43348/18342557/Bajkowa+Wola_Teatr+Baza.png/0bf49358-5de2-9dde-eef1-77220a0310a7?version=1.0&t=1750856534722&imagePreview=1"
-    },
-    "tom-i-jerry-przygoda-w-muzeum-re-yseria-gang-zhang-2026-07-22T10:00:00": {
-      "scrapped_timestamp": "2026-06-30T11:22:53.364183+00:00",
-      "scrapped_url": "https://ursynow.um.warszawa.pl/-/tom-i-jerry-przygoda-w-muzeum-rezyseria-gang-zhang",
-      "category": "Cinema",
-      "description": "Podczas pościgu w nowojorskim Metropolitan Museum Tom i Jerry przypadkowo uruchamiają mityczny Astralny Kompas, który przenosi ich do olśniewającego Złotego Miasta rodem ze starożytnych legend.",
-      "date": "2026-07-22T08:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Podczas pościgu w nowojorskim Metropolitan Museum Tom i Jerry przypadkowo uruchamiają mityczny Astralny Kompas, który przenosi ich do olśniewającego Złotego Miasta rodem ze starożytnych legend.",
-          "title": "„Tom i Jerry. Przygoda w muzeum” - reżyseria: Gang Zhang"
-        },
-        "uk": {
-          "description": "Під час переслідування в Нью-Йоркському Метрополітен-музеї Том і Джеррі випадково запускають міфічний Астральний Компас, який переносить їх до вражаючого Золотого Міста з давніх легенд.",
-          "title": "Том і Джеррі. Пригода в музеї - режисер: Ганг Чжан"
-        },
-        "en": {
-          "description": "During a chase in New York's Metropolitan Museum, Tom and Jerry accidentally activate the mythical Astral Compass, which transports them to the dazzling Golden City straight out of ancient legends.",
-          "title": "Tom and Jerry: Adventure in the Museum - directed by Gang Zhang"
-        }
-      },
-      "url": "https://ursynow.um.warszawa.pl/-/tom-i-jerry-przygoda-w-muzeum-rezyseria-gang-zhang",
-      "end_date": "2026-07-22T09:30:00+00:00",
-      "district": "Ursynów",
-      "source": "um.warszawa.pl",
-      "startTimeKnown": true,
-      "location": {
-        "district": "Ursynów",
-        "name": "UCK Alternatywy, Gandhi 9, 02-776 Warszawa"
-      },
-      "title": "„Tom i Jerry. Przygoda w muzeum” - reżyseria: Gang Zhang",
-      "image": "https://cdn.um.warszawa.pl/documents/47940/26165416/MINIATURA+WYDARZENIE+bezplatne+01-01.jpg/af5291bb-f218-7adc-7b2c-9b5ad87b112d?version=1.0&t=1641197747070&imagePreview=1",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      }
     },
     "tw-rcze-czwartki-na-wystawie-sta-ej-2026-07-23T11:00:00": {
       "scrapped_timestamp": "2026-06-29T12:52:44.144819+00:00",
@@ -13071,236 +12792,6 @@
       "district": "Wola",
       "updated_at": "2026-07-15T12:14:51.806999+00:00"
     },
-    "u-szyte-na-miar-2026-07-22T11:00:00+02:00": {
-      "title": "U-szyte na Miarę",
-      "date": "2026-07-22T11:00:00+02:00",
-      "end_date": "2026-07-22T15:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Masz ochotę nauczyć się czegoś nowego w te wakacje? Chcesz okiełznać maszynę do szycia i przekonać się, ile satysfakcji daje własnoręcznie stworzone rękodzieło? Zapraszamy na cykl wyjątkowych warsztatów z igłą i nitką!",
-      "image": "https://cdn.um.warszawa.pl/documents/47940/26165416/miniatura_ursynoteka-01.png/82e2b9e2-34a6-ef21-d3d8-cbba6e48a136?version=1.0&t=1652786501553&imagePreview=1",
-      "url": "https://ursynow.um.warszawa.pl/-/u-szyte-na-miare",
-      "source": "um.warszawa.pl",
-      "district": "Ursynów",
-      "location": {
-        "name": "Ursynoteka Biblioteka dla Dzieci i Młodzieży, Fanfarowa 19, 02-856 Warszawa",
-        "district": "Ursynów"
-      },
-      "scrapped_url": "https://ursynow.um.warszawa.pl/-/u-szyte-na-miare",
-      "scrapped_timestamp": "2026-07-15T14:10:17.501715+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 0
-      },
-      "translations": {
-        "pl": {
-          "title": "U-szyte na Miarę",
-          "description": "Masz ochotę nauczyć się czegoś nowego w te wakacje? Chcesz okiełznać maszynę do szycia i przekonać się, ile satysfakcji daje własnoręcznie stworzone rękodzieło? Zapraszamy na cykl wyjątkowych warsztatów z igłą i nitką!"
-        },
-        "en": {
-          "title": "Tailor-Made",
-          "description": "Do you want to learn something new this summer? Do you want to master the sewing machine and discover the satisfaction of creating handmade crafts? Join us for a series of unique workshops with needle and thread!"
-        },
-        "uk": {
-          "title": "Ушите на Міру",
-          "description": "Маєш бажання навчитися чогось нового цього літа? Хочеш опанувати швейну машину і переконатися, скільки задоволення приносить власноруч створене рукоділля? Запрошуємо на цикл унікальних майстер-класів з голкою та ниткою!"
-        }
-      },
-      "updated_at": "2026-07-15T14:11:44.238065+00:00"
-    },
-    "animalove-wakacje-poznajemy-fascynuj-cy-wiat-zwierz-t-2026-07-22T13:00:00+02:00": {
-      "title": "„Animalove wakacje – poznajemy fascynujący świat zwierząt”",
-      "date": "2026-07-22T13:00:00+02:00",
-      "end_date": "2026-07-22T14:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia edukacyjne, inspirowane literaturą popularnonaukową, poświęconą zwierzętom. W programie ciekawostki przyrodnicze, quizy, wspólne czytanie oraz kreatywne aktywności plastyczne. Dla dzieci w wieku 6–9 lat. Wstęp wolny.",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/-animalove-wakacje-poznajemy-fascynujacy-swiat-zwierzat-",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Filia \"Niedźwiadek\", Keniga 14, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/-animalove-wakacje-poznajemy-fascynujacy-swiat-zwierzat-",
-      "scrapped_timestamp": "2026-07-15T14:10:23.429354+00:00",
-      "category": "Educational",
-      "age_range": {
-        "min": 6,
-        "max": 9
-      },
-      "translations": {
-        "pl": {
-          "title": "„Animalove wakacje – poznajemy fascynujący świat zwierząt”",
-          "description": "Zapraszamy na zajęcia edukacyjne, inspirowane literaturą popularnonaukową, poświęconą zwierzętom. W programie ciekawostki przyrodnicze, quizy, wspólne czytanie oraz kreatywne aktywności plastyczne. Dla dzieci w wieku 6–9 lat. Wstęp wolny."
-        },
-        "en": {
-          "title": "Animalove Holidays – Discovering the Fascinating World of Animals",
-          "description": "We invite you to educational activities inspired by popular science literature dedicated to animals. The program includes nature trivia, quizzes, group reading, and creative art activities. For children aged 6–9 years. Free admission."
-        },
-        "uk": {
-          "title": "„Animalove wakacje – знайомимося з захоплюючим світом тварин”",
-          "description": "Запрошуємо на освітні заняття, натхненні науково-популярною літературою, присвяченою тваринам. У програмі цікаві природничі факти, вікторини, спільне читання та креативні художні активності. Для дітей віком 6–9 років. Вхід вільний."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-15T14:11:44.238093+00:00"
-    },
-    "budowle-historyczne-wiata-widziane-klockami-lego-2026-07-22T13:00:00+02:00": {
-      "title": "Budowle historyczne świata widziane klockami LEGO®",
-      "date": "2026-07-22T13:00:00+02:00",
-      "end_date": "2026-07-22T14:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia, łączące literaturę, historię i kreatywną zabawę konstrukcyjną. Dla dzieci od 6 lat. Wstęp wolny!",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/budowle-historyczne-swiata-widziane-klockami-lego-",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - filia \"Skorosze\", Dzieci Warszawy 27a, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/budowle-historyczne-swiata-widziane-klockami-lego-",
-      "scrapped_timestamp": "2026-07-15T14:10:30.671560+00:00",
-      "category": "Educational",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Budowle historyczne świata widziane klockami LEGO®",
-          "description": "Zapraszamy na zajęcia, łączące literaturę, historię i kreatywną zabawę konstrukcyjną. Dla dzieci od 6 lat. Wstęp wolny!"
-        },
-        "en": {
-          "title": "Historical World Buildings Seen Through LEGO® Bricks",
-          "description": "We invite you to activities that combine literature, history, and creative construction play. For children aged 6 and up. Free admission!"
-        },
-        "uk": {
-          "title": "Історичні будівлі світу, побачені через LEGO®",
-          "description": "Запрошуємо на заняття, які поєднують літературу, історію та креативну конструктивну гру. Для дітей від 6 років. Вхід вільний!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-15T14:11:44.238116+00:00"
-    },
-    "muzyka-zakl-ta-w-winylu-warsztaty-reklamowo-artystyczne-2026-07-22T13:00:00+02:00": {
-      "title": "„Muzyka zaklęta w winylu” – warsztaty reklamowo-artystyczne",
-      "date": "2026-07-22T13:00:00+02:00",
-      "end_date": "2026-07-22T14:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na warsztaty reklamowo-artystyczne poświęcone muzyce, podczas których uczestnicy poznają instrumenty muzyczne z różnych stron świata, zaprojektują plakat koncertowy, a także wezmą udział w quizach i zabawach tematycznych. Dla uczestników indywidualnych: Wstęp wolny, wiek od 8 lat. Kontakty: tel. 22 882 43 00 wewnętrzny 1 e - mail: bdm116@bpursus.waw.pl",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/-muzyka-zakleta-w-winylu-warsztaty-reklamowo-artystyczne",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Oddział \"Czechowice\", Plutonu AK \"Torpedy\" 47, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/-muzyka-zakleta-w-winylu-warsztaty-reklamowo-artystyczne",
-      "scrapped_timestamp": "2026-07-15T14:10:35.097668+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 8,
-        "max": 11
-      },
-      "translations": {
-        "pl": {
-          "title": "„Muzyka zaklęta w winylu” – warsztaty reklamowo-artystyczne",
-          "description": "Zapraszamy na warsztaty reklamowo-artystyczne poświęcone muzyce, podczas których uczestnicy poznają instrumenty muzyczne z różnych stron świata, zaprojektują plakat koncertowy, a także wezmą udział w quizach i zabawach tematycznych. Dla uczestników indywidualnych: Wstęp wolny, wiek od 8 lat. Kontakty: tel. 22 882 43 00 wewnętrzny 1 e - mail: bdm116@bpursus.waw.pl"
-        },
-        "en": {
-          "title": "Music Enchanted in Vinyl – Advertising and Artistic Workshops",
-          "description": "We invite you to advertising and artistic workshops dedicated to music, during which participants will learn about musical instruments from different parts of the world, design a concert poster, and also take part in quizzes and themed games. For individual participants: Free admission, age from 8 years. Contacts: phone 22 882 43 00 extension 1, email: bdm116@bpursus.waw.pl"
-        },
-        "uk": {
-          "title": "«Музика, заклята у вініл» – рекламно-художні майстер-класи",
-          "description": "Запрошуємо на рекламно-художні майстер-класи, присвячені музиці, під час яких учасники ознайомляться з музичними інструментами з різних куточків світу, спроектують концертний плакат, а також візьмуть участь у вікторинах та тематичних іграх. Для індивідуальних учасників: Вхід вільний, вік від 8 років. Контакти: тел. 22 882 43 00 внутрішній 1, електронна пошта: bdm116@bpursus.waw.pl"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-15T14:11:44.238139+00:00"
-    },
-    "ma-e-atelier-koloru-warsztaty-plastyczne-2026-07-22T14:00:00+02:00": {
-      "title": "„Małe Atelier Koloru” – warsztaty plastyczne",
-      "date": "2026-07-22T14:00:00+02:00",
-      "end_date": "2026-07-22T15:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na warsztaty plastyczne z wykorzystaniem techniki akwareli, rozwijające wyobraźnię i swobodę twórczą. Zajęcia są dedykowane dzieciom w wieku 6–9 lat. Wstęp wolny.",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/-male-atelier-koloru-warsztaty-plastyczne",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Filia \"Niedźwiadek\", Keniga 14, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/-male-atelier-koloru-warsztaty-plastyczne",
-      "scrapped_timestamp": "2026-07-15T14:10:43.451011+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 9
-      },
-      "translations": {
-        "pl": {
-          "title": "„Małe Atelier Koloru” – warsztaty plastyczne",
-          "description": "Zapraszamy na warsztaty plastyczne z wykorzystaniem techniki akwareli, rozwijające wyobraźnię i swobodę twórczą. Zajęcia są dedykowane dzieciom w wieku 6–9 lat. Wstęp wolny."
-        },
-        "en": {
-          "title": "Small Color Atelier – Art Workshops",
-          "description": "We invite you to art workshops using watercolor techniques that develop imagination and creative freedom. The classes are dedicated to children aged 6–9 years. Free admission."
-        },
-        "uk": {
-          "title": "„Мале Ательє Кольору” – художні майстер-класи",
-          "description": "Запрошуємо на художні майстер-класи з використанням техніки акварелі, що розвивають уяву та свободу творчості. Заняття призначені для дітей віком 6–9 років. Вхід вільний."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-15T14:11:44.238161+00:00"
-    },
-    "wakacyjna-astroteka-w-wilanowskiej-bibliotece-publicznej-2026-07-22T14:00:00+02:00": {
-      "title": "Wakacyjna Astroteka w Wilanowskiej Bibliotece Publicznej",
-      "date": "2026-07-22T14:00:00+02:00",
-      "end_date": "2026-07-22T15:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wilanowska Biblioteka Publiczna zaprasza dzieci w wieku 7-13 lat na kolejne spotkania w ramach wakacyjnych warsztatów „Astroteka”. To wyjątkowa okazja, by podczas letnich wakacji wyruszyć w fascynującą podróż po kosmosie i poznać tajemnice Układu Słonecznego.",
-      "image": "https://wilanow.um.warszawa.pl/documents/44464/162670695/Astroteka.jpg/f09558e3-b039-3766-2308-376cf213cd00?version=1.0&t=1783949386302&imagePreview=1",
-      "url": "https://wilanow.um.warszawa.pl/-/wakacyjna-astroteka-w-wilanowskiej-bibliotece-publicznej",
-      "source": "um.warszawa.pl",
-      "district": "Wilanów",
-      "scrapped_url": "https://wilanow.um.warszawa.pl/-/wakacyjna-astroteka-w-wilanowskiej-bibliotece-publicznej",
-      "scrapped_timestamp": "2026-07-15T14:10:47.660383+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 7,
-        "max": 13
-      },
-      "translations": {
-        "pl": {
-          "title": "Wakacyjna Astroteka w Wilanowskiej Bibliotece Publicznej",
-          "description": "Wilanowska Biblioteka Publiczna zaprasza dzieci w wieku 7-13 lat na kolejne spotkania w ramach wakacyjnych warsztatów „Astroteka”. To wyjątkowa okazja, by podczas letnich wakacji wyruszyć w fascynującą podróż po kosmosie i poznać tajemnice Układu Słonecznego."
-        },
-        "en": {
-          "title": "Summer Astroteka at the Wilanów Public Library",
-          "description": "The Wilanów Public Library invites children aged 7-13 to the next meetings as part of the summer workshops 'Astroteka'. This is a unique opportunity to embark on a fascinating journey through space and discover the secrets of the Solar System during the summer holidays."
-        },
-        "uk": {
-          "title": "Вакансійна Астротека у Вілановській Публічній Бібліотеці",
-          "description": "Вілановська Публічна Бібліотека запрошує дітей віком 7-13 років на чергові зустрічі в рамках літніх майстер-класів «Астротека». Це унікальна можливість під час літніх канікул вирушити в захоплюючу подорож по космосу та дізнатися таємниці Сонячної системи."
-        }
-      },
-      "updated_at": "2026-07-15T14:11:44.238182+00:00"
-    },
     "wakacyjne-warsztaty-wokalne-zaj-cia-2026-08-24T11:00:00+02:00": {
       "title": "\"Wakacyjne warsztaty wokalne\" - Zajęcia",
       "date": "2026-08-24T11:00:00+02:00",
@@ -13337,46 +12828,6 @@
         }
       },
       "updated_at": "2026-07-15T14:11:44.238203+00:00"
-    },
-    "mali-wielcy-czytamy-i-tworzymy-2026-07-22T14:00:00+02:00": {
-      "title": "Mali Wielcy – czytamy i tworzymy",
-      "date": "2026-07-22T14:00:00+02:00",
-      "end_date": "2026-07-22T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy dzieci od 6-11 lat na zajęcia plastyczno-literackie inspirowane serią książek „Mali Wielcy”, rozwijające wyobraźnię i kreatywność. Zajęcia sprzyjają wspólnemu spędzaniu czasu, rozwijaniu pasji czytelniczych i budowaniu więzi między pokoleniami. Wstęp wolny dla uczestników indywidualnych.",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/mali-wielcy-czytamy-i-tworzymy",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Czytelnia nr XIX, Kolorowa 17, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/mali-wielcy-czytamy-i-tworzymy",
-      "scrapped_timestamp": "2026-07-15T15:52:51.957978+00:00",
-      "category": "Arts",
-      "age_range": {
-        "min": 6,
-        "max": 11
-      },
-      "translations": {
-        "pl": {
-          "title": "Mali Wielcy – czytamy i tworzymy",
-          "description": "Zapraszamy dzieci od 6-11 lat na zajęcia plastyczno-literackie inspirowane serią książek „Mali Wielcy”, rozwijające wyobraźnię i kreatywność. Zajęcia sprzyjają wspólnemu spędzaniu czasu, rozwijaniu pasji czytelniczych i budowaniu więzi między pokoleniami. Wstęp wolny dla uczestników indywidualnych."
-        },
-        "en": {
-          "title": "Little Greats – We Read and Create",
-          "description": "We invite children aged 6-11 to artistic and literary activities inspired by the series of books 'Little Greats', aimed at developing imagination and creativity. The activities promote spending time together, fostering reading passions, and building bonds between generations. Free entry for individual participants."
-        },
-        "uk": {
-          "title": "Малі Великі – читаємо та творимо",
-          "description": "Запрошуємо дітей віком від 6 до 11 років на заняття художньо-літературні, натхненні серією книг «Малі Великі», що розвивають уяву та креативність. Заняття сприяють спільному проведенню часу, розвитку читацьких захоплень та побудові зв'язків між поколіннями. Вхід вільний для індивідуальних учасників."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-15T15:54:28.795711+00:00"
     },
     "nikt-nic-nie-wie-spektakl-dla-dzieci-na-placu-zabaw-2026-07-25T12:00:00+02:00": {
       "title": "Nikt Nic Nie Wie │ spektakl dla dzieci na Placu Zabaw",
@@ -13459,129 +12910,6 @@
       },
       "district": "Wilanów",
       "updated_at": "2026-07-15T15:54:28.795848+00:00"
-    },
-    "plenerowe-spotkania-integracyjne-w-parku-g-rczewska-2026-07-22T17:00:00+02:00": {
-      "title": "Plenerowe spotkania integracyjne w Parku Górczewska",
-      "date": "2026-07-22T17:00:00+02:00",
-      "end_date": "2026-07-22T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "☀️Poznajmy się! Zapraszamy na wspólną zabawę i piknikowanie na zielonych terenach naszej dzielnicy. 10 i 17 czerwca, 15 i 22 lipca oraz 5 sierpnia spotkajmy się w Parku Górczewska w okolicach Amfiteatru. W programie: 🔸Warsztaty terapii zajęciowej: zabawa malarska, malowanie buziek. 🔹Kiermasz książek. 🔸Kiermasz prac malarskich wykonywanych przez osoby z niepełnosprawnościami. 🔹Quiz wiedzy o niepełnosprawności – nagrody. 🔸Kącik sportowo-rekreacyjny. 🔹Zajęcia manualne z użyciem klocków Lego. 🔸Inne ciekawe atrakcje Czekamy na was! Do zobaczenia!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1780915258.webp",
-      "location": {
-        "name": "Park Górczewska",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo/?fbid=1460039049499267&set=a.628649225971591",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo/?fbid=1460039049499267&set=a.628649225971591",
-      "scrapped_timestamp": "2026-07-16T12:07:03.107145+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Plenerowe spotkania integracyjne w Parku Górczewska",
-          "description": "☀️Poznajmy się! Zapraszamy na wspólną zabawę i piknikowanie na zielonych terenach naszej dzielnicy. 10 i 17 czerwca, 15 i 22 lipca oraz 5 sierpnia spotkajmy się w Parku Górczewska w okolicach Amfiteatru. W programie: 🔸Warsztaty terapii zajęciowej: zabawa malarska, malowanie buziek. 🔹Kiermasz książek. 🔸Kiermasz prac malarskich wykonywanych przez osoby z niepełnosprawnościami. 🔹Quiz wiedzy o niepełnosprawności – nagrody. 🔸Kącik sportowo-rekreacyjny. 🔹Zajęcia manualne z użyciem klocków Lego. 🔸Inne ciekawe atrakcje Czekamy na was! Do zobaczenia!"
-        },
-        "en": {
-          "title": "Outdoor Integration Meetings in Górczewska Park",
-          "description": "☀️Let's get to know each other! We invite you to join us for fun and picnicking in the green areas of our neighborhood. On June 10 and 17, July 15 and 22, and August 5, let's meet in Górczewska Park near the Amphitheater. The program includes: 🔸Occupational therapy workshops: painting fun, face painting. 🔹Book fair. 🔸Exhibition of paintings created by people with disabilities. 🔹Disability knowledge quiz – prizes. 🔸Sports and recreation corner. 🔹Manual activities using Lego blocks. 🔸Other interesting attractions. We are waiting for you! See you there!"
-        },
-        "uk": {
-          "title": "Інтеграційні зустрічі на свіжому повітрі в парку Гурчевська",
-          "description": "☀️Познайомимося! Запрошуємо на спільну розвагу та пікнік на зелених територіях нашого району. 10 і 17 червня, 15 і 22 липня та 5 серпня зустрінемося в парку Гурчевська поблизу амфітеатру. У програмі: 🔸Майстер-класи з трудової терапії: малювання, розмальовування облич. 🔹Ярмарок книг. 🔸Ярмарок художніх робіт, виконаних людьми з інвалідністю. 🔹Вікторина знань про інвалідність – призи. 🔸Спортивно-рекреаційний куточок. 🔹Ручні заняття з використанням конструкторів Lego. 🔸Інші цікаві атракції. Чекаємо на вас! До зустрічі!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-07-16T12:08:18.891113+00:00"
-    },
-    "letnie-kino-plenerowe-dla-dzieci-na-targ-wku-2026-07-22T18:00:00+02:00": {
-      "title": "LETNIE KINO PLENEROWE DLA DZIECI NA TARGÓWKU",
-      "date": "2026-07-22T18:00:00+02:00",
-      "end_date": "2026-07-22T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Mamy coś wyjątkowego dla najmłodszych kinomanów i ich rodziców! Zapraszamy na cykl Letniego Kina Plenerowego dla Dzieci. Przez całe wakacje, w każdą środę, będziemy wspólnie przeżywać niesamowite przygody, śmiać się i wzruszać oglądając najpiękniejsze filmy i animacje pod chmurką! ☀️🌳 ✨ WSTĘP CAŁKOWICIE WOLNY! ✨ Projekt jest realizowany w ramach Budżetu Obywatelskiego. 📍 Gdzie i kiedy gramy? 🗓 KAŻDA ŚRODA, godz. 18:00 🏢 Lokalizacja: CKiA / SP58 (Centrum Kultury i Aktywności) 🔥 WYDARZENIE SPECJALNE: Spotkanie z ludźmi kina! Chcecie dowiedzieć się, jak powstają filmy? Zapraszamy na wyjątkowe spotkanie edukacyjne dla dzieci: 📆 22/07 (Środa), godz. 17:00 (godzinę przed seansem „Akademii Magii”) „JAK POWSTAWAŁY KULTOWE ANIMACJE” 📅 PEŁNY REPERTUAR 📅 1.07.26 „Paddington”, reż. Paul King 8.07.26 „Mój przyjaciel Hachiko”, reż. Lasse Hallström 15.07.26 „Siła naszych marzeń”, reż. Christian Duguay 22.07.26 „Akademia Magii”, reż. Mark Gravas 29.07.26 „Gang Wiewióra”, reż. Peter Lepeniotis 5.08.26 „Emma odważna”, reż. Leo Lewis Liao 12.08.26 „Kumple z dżungli”, reż. David Alaux 19.08.26 „Rodzinka nie z tej Ziemi”, reż. Cal Brunker 26.08.26 „Dmuchawce”, reż. Momoko Seto 2.09.26 „Dzielna banda i tajemnica zaginionego wujka”, reż. Juan Jesús García Galocha, Pedro Solís García 📝 Przydatne informacje dla rodziców: Dla kogo: Seanse i ramówka dobrane są z myślą o dzieciach oraz całych rodzinach. Co ze sobą zabrać: Kocyki, ulubione przekąski i dobre humory! Na miejscu będą czekać leżaki (liczba ograniczona). W przypadku deszczu lub burzy, informacje o ewentualnych zmianach organizacyjnych będziemy wrzucać na bieżąco na stronę tego wydarzenia >> link Zaplanujcie środowe popołudnia z kulturą i zabierzcie swoje pociechy na filmowe emocje! 🍦🎬 Organizatorzy i Partnerzy: Urząd Dzielnicy Targówek m.st. Warszawy, CKiA (Centrum Kultury i Aktywności), Szkoła Podstawowa nr 58, Fundacja Rozwoju Kinematografii, wyswietlfilm.pl.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1781198829.webp",
-      "location": {
-        "name": "Centrum Kultury i Aktywności, ul. Siarczana 6",
-        "district": "Targówek"
-      },
-      "url": "https://www.facebook.com/events/2045460476363936/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/2045460476363936/",
-      "scrapped_timestamp": "2026-07-16T12:07:10.186682+00:00",
-      "category": "Cinema",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "LETNIE KINO PLENEROWE DLA DZIECI NA TARGÓWKU",
-          "description": "Mamy coś wyjątkowego dla najmłodszych kinomanów i ich rodziców! Zapraszamy na cykl Letniego Kina Plenerowego dla Dzieci. Przez całe wakacje, w każdą środę, będziemy wspólnie przeżywać niesamowite przygody, śmiać się i wzruszać oglądając najpiękniejsze filmy i animacje pod chmurką! ☀️🌳 ✨ WSTĘP CAŁKOWICIE WOLNY! ✨ Projekt jest realizowany w ramach Budżetu Obywatelskiego. 📍 Gdzie i kiedy gramy? 🗓 KAŻDA ŚRODA, godz. 18:00 🏢 Lokalizacja: CKiA / SP58 (Centrum Kultury i Aktywności) 🔥 WYDARZENIE SPECJALNE: Spotkanie z ludźmi kina! Chcecie dowiedzieć się, jak powstają filmy? Zapraszamy na wyjątkowe spotkanie edukacyjne dla dzieci: 📆 22/07 (Środa), godz. 17:00 (godzinę przed seansem „Akademii Magii”) „JAK POWSTAWAŁY KULTOWE ANIMACJE” 📅 PEŁNY REPERTUAR 📅 1.07.26 „Paddington”, reż. Paul King 8.07.26 „Mój przyjaciel Hachiko”, reż. Lasse Hallström 15.07.26 „Siła naszych marzeń”, reż. Christian Duguay 22.07.26 „Akademia Magii”, reż. Mark Gravas 29.07.26 „Gang Wiewióra”, reż. Peter Lepeniotis 5.08.26 „Emma odważna”, reż. Leo Lewis Liao 12.08.26 „Kumple z dżungli”, reż. David Alaux 19.08.26 „Rodzinka nie z tej Ziemi”, reż. Cal Brunker 26.08.26 „Dmuchawce”, reż. Momoko Seto 2.09.26 „Dzielna banda i tajemnica zaginionego wujka”, reż. Juan Jesús García Galocha, Pedro Solís García 📝 Przydatne informacje dla rodziców: Dla kogo: Seanse i ramówka dobrane są z myślą o dzieciach oraz całych rodzinach. Co ze sobą zabrać: Kocyki, ulubione przekąski i dobre humory! Na miejscu będą czekać leżaki (liczba ograniczona). W przypadku deszczu lub burzy, informacje o ewentualnych zmianach organizacyjnych będziemy wrzucać na bieżąco na stronę tego wydarzenia >> link Zaplanujcie środowe popołudnia z kulturą i zabierzcie swoje pociechy na filmowe emocje! 🍦🎬 Organizatorzy i Partnerzy: Urząd Dzielnicy Targówek m.st. Warszawy, CKiA (Centrum Kultury i Aktywności), Szkoła Podstawowa nr 58, Fundacja Rozwoju Kinematografii, wyswietlfilm.pl."
-        },
-        "en": {
-          "title": "SUMMER OPEN-AIR CINEMA FOR CHILDREN IN TARGÓWEK",
-          "description": "We have something special for the youngest movie lovers and their parents! We invite you to a series of Summer Open-Air Cinema for Children. Throughout the summer, every Wednesday, we will experience amazing adventures together, laugh, and be moved while watching the most beautiful films and animations outdoors! ☀️🌳✨ FREE ENTRY! ✨ The project is implemented as part of the Civic Budget. 📍 Where and when do we play? 🗓 EVERY WEDNESDAY at 6:00 PM 🏢 Location: CKiA / SP58 (Cultural and Activity Center) 🔥 SPECIAL EVENT: Meeting with cinema professionals! Want to learn how films are made? Join us for a special educational meeting for children: 📆 22/07 (Wednesday), at 5:00 PM (one hour before the screening of 'Academy of Magic') 'HOW CULT CLASSICS ANIMATIONS WERE MADE' 📅 FULL PROGRAM 📅 1.07.26 'Paddington', directed by Paul King 8.07.26 '"
-        },
-        "uk": {
-          "title": "ЛІТНЄ КІНО ПЛЕНЕРОВЕ ДЛЯ ДІТЕЙ НА ТАРГОВКУ",
-          "description": "Ми маємо щось особливе для наймолодших кіноманів та їхніх батьків! Запрошуємо на цикл Літнього Кіно Пленерового для Дітей. Протягом всього літа, кожної середи, ми разом переживатимемо неймовірні пригоди, сміятимемося та зворушуватимемося, дивлячись найкрасивіші фільми та анімації під відкритим небом! ☀️🌳 ✨ ВХІД ЦІЛКОМ ВІЛЬНИЙ! ✨ Проект реалізується в рамках Бюджету Громади. 📍 Де і коли ми граємо? 🗓 КОЖНА СЕРЕДА, о 18:00 🏢 Локація: ЦКіА / СП58 (Центр Культури та Активності) 🔥 СПЕЦІАЛЬНА ПОДІЯ: Зустріч з людьми кіно! Хочете дізнатися, як створюються фільми? Запрошуємо на унікальну освітню зустріч для дітей: 📆 22/07 (Середа), о 17:00 (за годину до сеансу «Академії Магії») «ЯК СТВОРЮВАЛИСЯ КУЛЬТОВІ АНІМАЦІЇ» 📅 ПОВНИЙ РЕПЕРТУАР 📅 1.07.26 «Паддінгтон», реж. Пол Кінг 8.07.26 «"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Targówek",
-      "updated_at": "2026-07-16T12:08:18.891132+00:00"
-    },
-    "pi-karska-frajda-dla-najm-odszych-2026-07-22T18:00:00+02:00": {
-      "title": "Piłkarska frajda dla najmłodszych!",
-      "date": "2026-07-22T18:00:00+02:00",
-      "end_date": "2026-07-22T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Piłkarska frajda dla najmłodszych! ⚽ Twoje dziecko uwielbia ruch? Czekamy na boisku! Zapraszamy na bezpłatne zajęcia dla dzieci, które odbywają się w każdą środę od 1 lipca do 26 sierpnia w godzinach 18:00–19:00 w strefie chill przy Factory Ursus. Treningi prowadzą doświadczeni trenerzy z KS Madziar Nieporęt, którzy zadbają o dobrą zabawę i świetną atmosferę. Dla rodziców to idealny moment na małą przerwę lub szybkie zakupy. 💫 Do zobaczenia na murawie! 👟 Regulamin akcji: link",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1783068397.webp",
-      "location": {
-        "name": "Factory Ursus, Plac Czerwca 1976 r",
-        "district": "Ursus"
-      },
-      "url": "https://ursus.factory.pl/pl/co-nowego/wydarzenia/gramy-w-pilke",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://ursus.factory.pl/pl/co-nowego/wydarzenia/gramy-w-pilke",
-      "scrapped_timestamp": "2026-07-16T12:07:18.148180+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 0,
-        "max": 5
-      },
-      "translations": {
-        "pl": {
-          "title": "Piłkarska frajda dla najmłodszych!",
-          "description": "Piłkarska frajda dla najmłodszych! ⚽ Twoje dziecko uwielbia ruch? Czekamy na boisku! Zapraszamy na bezpłatne zajęcia dla dzieci, które odbywają się w każdą środę od 1 lipca do 26 sierpnia w godzinach 18:00–19:00 w strefie chill przy Factory Ursus. Treningi prowadzą doświadczeni trenerzy z KS Madziar Nieporęt, którzy zadbają o dobrą zabawę i świetną atmosferę. Dla rodziców to idealny moment na małą przerwę lub szybkie zakupy. 💫 Do zobaczenia na murawie! 👟 Regulamin akcji: link"
-        },
-        "en": {
-          "title": "Football Fun for the Little Ones!",
-          "description": "Football fun for the little ones! ⚽ Does your child love to move? We are waiting on the field! Join us for free activities for children, taking place every Wednesday from July 1 to August 26 from 6:00 PM to 7:00 PM in the chill zone at Factory Ursus. The training sessions are led by experienced coaches from KS Madziar Nieporęt, who will ensure good fun and a great atmosphere. For parents, it's the perfect time for a little break or quick shopping. 💫 See you on the pitch! 👟 Event regulations: link"
-        },
-        "uk": {
-          "title": "Футбольне задоволення для наймолодших!",
-          "description": "Футбольне задоволення для наймолодших! ⚽ Ваша дитина обожнює рух? Чекаємо на полі! Запрошуємо на безкоштовні заняття для дітей, які проходять кожну середу з 1 липня по 26 серпня з 18:00 до 19:00 в зоні відпочинку біля Factory Ursus. Тренування проводять досвідчені тренери з KS Madziar Nieporęt, які подбають про гарний настрій та чудову атмосферу. Для батьків це ідеальний момент для невеликої перерви або швидких покупок. 💫 До зустрічі на полі! 👟 Правила акції: посилання"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ursus",
-      "updated_at": "2026-07-16T12:08:18.891151+00:00"
     },
     "warszawski-maratu-czyk-gra-miejska-dla-rodzin-z-dzie-mi-2026-07-25T11:00:00+02:00": {
       "title": "Warszawski MaraTuńczyk - gra miejska dla rodzin z dziećmi",
@@ -13787,47 +13115,6 @@
       },
       "district": "Wola",
       "updated_at": "2026-07-16T14:20:02.633485+00:00"
-    },
-    "bezp-atne-zaj-cia-sportowe-z-badmintona-dla-dzieci-i-m-odzie-y-2026-07-23T10:00:00+02:00": {
-      "title": "Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży",
-      "date": "2026-07-23T10:00:00+02:00",
-      "end_date": "2026-07-23T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Prze całe wakacje OSiR Mokotów oraz Zarząd MSM „Energetyka” wraz z Administracją i Radą Osiedla Sielce zapraszają na „Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży” na kortach przy ul. Czerniakowskiej 28A. Zajęcia odbywać się będą w każdy wtorek i czwartek od 2 lipca 2026 r. do 27 sierpnia 2026 r. w godzinach 10:00-12:00. Zajęcia są całkowicie bezpłatne i będą prowadzone przez wykwalifikowanych instruktorów badmintona. Zapraszamy!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1782740503.webp",
-      "location": {
-        "name": "Czerniakowskia 28A",
-        "district": "Mokotów"
-      },
-      "url": "https://waw4free.pl/wydarzenie-154898-bezplatne-zajecia-sportowe-z-badmintona-dla-dzieci-i-mlodziezy",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://waw4free.pl/wydarzenie-154898-bezplatne-zajecia-sportowe-z-badmintona-dla-dzieci-i-mlodziezy",
-      "scrapped_timestamp": "2026-07-17T11:38:16.062798+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży",
-          "description": "Prze całe wakacje OSiR Mokotów oraz Zarząd MSM „Energetyka” wraz z Administracją i Radą Osiedla Sielce zapraszają na „Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży” na kortach przy ul. Czerniakowskiej 28A. Zajęcia odbywać się będą w każdy wtorek i czwartek od 2 lipca 2026 r. do 27 sierpnia 2026 r. w godzinach 10:00-12:00. Zajęcia są całkowicie bezpłatne i będą prowadzone przez wykwalifikowanych instruktorów badmintona. Zapraszamy!"
-        },
-        "en": {
-          "title": "Free Badminton Sports Classes for Children and Youth",
-          "description": "Throughout the summer, OSiR Mokotów and the Management of MSM 'Energetyka' along with the Administration and the Council of the Sielce District invite you to 'Free Badminton Sports Classes for Children and Youth' at the courts located at 28A Czerniakowska Street. Classes will take place every Tuesday and Thursday from July 2, 2026, to August 27, 2026, from 10:00 AM to 12:00 PM. The classes are completely free and will be conducted by qualified badminton instructors. We invite you!"
-        },
-        "uk": {
-          "title": "Безкоштовні спортивні заняття з бадмінтону для дітей та молоді",
-          "description": "Протягом всіх канікул OSiR Mokotów та Управління MSM «Енергетика» разом з Адміністрацією та Радою Оселення Сілєце запрошують на «Безкоштовні спортивні заняття з бадмінтону для дітей та молоді» на кортах біля вул. Черняковської 28А. Заняття відбуватимуться кожного вівторка та четверга з 2 липня 2026 року до 27 серпня 2026 року з 10:00 до 12:00. Заняття є абсолютно безкоштовними і будуть проводитися кваліфікованими інструкторами з бадмінтону. Запрошуємо!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Mokotów",
-      "updated_at": "2026-07-17T11:38:50.939475+00:00"
     },
     "ultimate-frisbee-dla-pocz-tkuj-cych-2026-07-23T17:30:00+02:00": {
       "title": "Ultimate frisbee dla początkujących",
@@ -14075,86 +13362,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-07-18T08:10:10.862294+00:00"
     },
-    "sztuka-na-wakacjach-sztuka-uj-ta-w-ramy-2026-07-22T12:00:00+02:00": {
-      "title": "Sztuka na wakacjach: Sztuka ujęta w ramy",
-      "date": "2026-07-22T12:00:00+02:00",
-      "end_date": "2026-07-22T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Czy każdy obraz ma swoją ramę? Tylko jedną, a może kilka? Kto je wykonuje i jakie historie się w nich kryją? Na te i inne pytania poszukamy odpowiedzi, przyglądając się wybranym dziełom z muzealnej kolekcji. SZTUKA NA WAKACJACH – warsztaty dla dzieci w wieku 5–10 lat i ich opiekunów Czy Muzeum może być miejscem wakacyjnego odpoczynku? Przekonajcie się sami, odwiedzając nas latem! Od początku lipca do końca sierpnia, w każdą środę i czwartek o godz. 12.00 zapraszamy na warsztaty wakacyjne. W swobodnej i twórczej atmosferze odkryjemy tajemnice przyrody i sztuki, zastanowimy się, w jaki sposób zbudować ciekawą opowieść, inspirowaną dziełami znajdującymi się w naszych galeriach.",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_969622691_original.jpg",
-      "location": {
-        "name": "Muzeum Narodowe w Warszawie (Warszawa)",
-        "district": "Śródmieście"
-      },
-      "url": "https://warszawa.naszemiasto.pl/sztuka-na-wakacjach-sztuka-ujeta-w-ramy/kw/c5-2726607",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://warszawa.naszemiasto.pl/sztuka-na-wakacjach-sztuka-ujeta-w-ramy/kw/c5-2726607",
-      "scrapped_timestamp": "2026-07-19T05:45:54.720458+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 5,
-        "max": 10
-      },
-      "translations": {
-        "pl": {
-          "title": "Sztuka na wakacjach: Sztuka ujęta w ramy",
-          "description": "Czy każdy obraz ma swoją ramę? Tylko jedną, a może kilka? Kto je wykonuje i jakie historie się w nich kryją? Na te i inne pytania poszukamy odpowiedzi, przyglądając się wybranym dziełom z muzealnej kolekcji. SZTUKA NA WAKACJACH – warsztaty dla dzieci w wieku 5–10 lat i ich opiekunów Czy Muzeum może być miejscem wakacyjnego odpoczynku? Przekonajcie się sami, odwiedzając nas latem! Od początku lipca do końca sierpnia, w każdą środę i czwartek o godz. 12.00 zapraszamy na warsztaty wakacyjne. W swobodnej i twórczej atmosferze odkryjemy tajemnice przyrody i sztuki, zastanowimy się, w jaki sposób zbudować ciekawą opowieść, inspirowaną dziełami znajdującymi się w naszych galeriach."
-        },
-        "en": {
-          "title": "Art on Vacation: Art Framed",
-          "description": "Does every painting have its frame? Just one, or maybe several? Who makes them and what stories are hidden within? We will seek answers to these and other questions by examining selected works from the museum's collection. ART ON VACATION – workshops for children aged 5–10 and their guardians. Can a museum be a place for summer relaxation? Find out for yourself by visiting us this summer! From early July to the end of August, every Wednesday and Thursday at 12:00 PM, we invite you to our summer workshops. In a relaxed and creative atmosphere, we will uncover the secrets of nature and art, and consider how to build an interesting story inspired by the works in our galleries."
-        },
-        "uk": {
-          "title": "Мистецтво на канікулах: Мистецтво в рамках",
-          "description": "Чи має кожна картина свою рамку? Лише одну, чи, можливо, кілька? Хто їх виготовляє і які історії в них приховані? На ці та інші питання ми шукатимемо відповіді, розглядаючи обрані твори з музейної колекції. МИСТЕЦТВО НА КАНІКУЛАХ – майстер-класи для дітей віком 5–10 років та їхніх опікунів. Чи може музей бути місцем літнього відпочинку? Переконайтеся самі, відвідавши нас влітку! З початку липня до кінця серпня, кожної середи та четверга о 12:00 запрошуємо на літні майстер-класи. У невимушеній та творчій атмосфері ми відкриємо таємниці природи та мистецтва, подумаємо, як побудувати цікаву оповідь, натхненну творами, що знаходяться в наших галереях."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-07-19T05:47:28.881739+00:00"
-    },
-    "warsztaty-dla-dzieci-dekorowanie-torcik-w-2026-07-22T16:00:00+02:00": {
-      "title": "Warsztaty dla dzieci: Dekorowanie torcików",
-      "date": "2026-07-22T16:00:00+02:00",
-      "end_date": "2026-07-22T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W Fabryce Czekolady E. Wedel oferujemy warsztaty czekoladowe dla dzieci z rodzicami oraz dla samych dorosłych. Niezależnie od wieku, u nas MOŻESZ tworzyć, bawić się a nawet gotować! W trakcie warsztatów poznasz tajniki produkcji Torcików Wedlowskich i udekorujesz swój własny Torcik. Możesz też poznać historię czekolady od ziarenka do tabliczki i stworzyć własną tabliczkę czekolady! Oferujemy również warsztaty dla dzieci, na których będą mogły stworzyć pralinki. Na każdego uczestnika czeka profesjonalnie wyposażona sala warsztatowa, doświadczeni prowadzący, dużo czekolady i wspaniała zabawa! Dekorowanie torcików Własnoręcznie udekorowany torcik? A może specjalny prezent dla Dziadków? Na tych warsztatach dzieci pod okiem opiekunów poznają tajniki dekorowania tradycyjnych torcików Wedlowskich.",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_968621815_original.jpg",
-      "location": {
-        "name": "Muzeum Fabryka Czekolady E.Wedel (Warszawa-Kamionek)",
-        "district": "Praga-Południe"
-      },
-      "url": "https://naszemiasto.pl/warsztaty-dla-dzieci-dekorowanie-torcikow/kw/c5-2662535",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://naszemiasto.pl/warsztaty-dla-dzieci-dekorowanie-torcikow/kw/c5-2662535",
-      "scrapped_timestamp": "2026-07-20T09:27:56.038736+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Warsztaty dla dzieci: Dekorowanie torcików",
-          "description": "W Fabryce Czekolady E. Wedel oferujemy warsztaty czekoladowe dla dzieci z rodzicami oraz dla samych dorosłych. Niezależnie od wieku, u nas MOŻESZ tworzyć, bawić się a nawet gotować! W trakcie warsztatów poznasz tajniki produkcji Torcików Wedlowskich i udekorujesz swój własny Torcik. Możesz też poznać historię czekolady od ziarenka do tabliczki i stworzyć własną tabliczkę czekolady! Oferujemy również warsztaty dla dzieci, na których będą mogły stworzyć pralinki. Na każdego uczestnika czeka profesjonalnie wyposażona sala warsztatowa, doświadczeni prowadzący, dużo czekolady i wspaniała zabawa! Dekorowanie torcików Własnoręcznie udekorowany torcik? A może specjalny prezent dla Dziadków? Na tych warsztatach dzieci pod okiem opiekunów poznają tajniki dekorowania tradycyjnych torcików Wedlowskich."
-        },
-        "en": {
-          "title": "Children's Workshop: Cake Decorating",
-          "description": "At the E. Wedel Chocolate Factory, we offer chocolate workshops for children with their parents as well as for adults. Regardless of age, you can CREATE, have fun, and even cook with us! During the workshops, you will learn the secrets of making Wedel Cakes and decorate your own cake. You can also discover the history of chocolate from bean to bar and create your own chocolate bar! We also offer workshops for children, where they can make pralines. Each participant will have access to a professionally equipped workshop room, experienced instructors, plenty of chocolate, and great fun! Cake Decorating: A self-decorated cake? Or perhaps a special gift for Grandparents? In these workshops, children, under the supervision of caregivers, will learn the secrets of decorating traditional Wedel cakes."
-        },
-        "uk": {
-          "title": "Майстер-клас для дітей: Декорування тортів",
-          "description": "У Фабриці Шоколаду E. Wedel ми пропонуємо шоколадні майстер-класи для дітей з батьками, а також для дорослих. Незалежно від віку, у нас ВИ МОЖЕТЕ творити, розважатися і навіть готувати! Під час майстер-класу ви дізнаєтеся секрети виробництва тортів Wedlowskich і декоруєте свій власний торт. Ви також можете дізнатися історію шоколаду від зернятка до плитки і створити власну плитку шоколаду! Ми також пропонуємо майстер-класи для дітей, на яких вони зможуть створити цукерки. На кожного учасника чекає професійно обладнаний майстер-клас, досвідчені ведучі, багато шоколаду і чудова розвага! Декорування тортів Власноручно декорований торт? А може, спеціальний подарунок для Дідусів і Бабусь? На цих майстер-класах діти під наглядом опікунів дізнаються секрети декорування традиційних тортів Wedlowskich."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-07-20T09:30:18.523404+00:00"
-    },
     "sztuka-na-wakacjach-botaniczne-inspiracje-2026-07-23T12:00:00+02:00": {
       "title": "Sztuka na wakacjach: Botaniczne inspiracje",
       "date": "2026-07-23T12:00:00+02:00",
@@ -14357,126 +13564,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-07-20T09:30:18.523587+00:00"
     },
-    "warsztaty-dla-maturzyst-w-2026-07-22T09:30:00+02:00": {
-      "title": "Warsztaty dla maturzystów",
-      "date": "2026-07-22T09:30:00+02:00",
-      "end_date": "2026-07-22T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Warsztat dla maturzystów Czy zbliżająca się klasa maturalna i perspektywa egzaminów dojrzałości budzą w Tobie (lub Twoim nastolatku) lęk i niepokój? Zastanawiasz się, jak przetrwać ten intensywny rok, uniknąć paraliżującego stresu i nie zwariować w natłoku nauki? Jako nastolatek i rodzic nie musicie mierzyć się z tym wyzwaniem w samotności. Środowiskowe Centrum Zdrowia Psychicznego przy Szpitalu Wolskim zaprasza na bezpłatny, 5-częściowy letni cykl warsztatów wspierających: „Survival Kit Maturzysty”. Nasze spotkania to osobista apteczka pierwszej pomocy psychologicznej, która pomoże młodzieży dobrze przygotować się do maturalnego maratonu. Warsztaty poprowadzą dwie doświadczone psychoterapeutki pracujące z młodzieżą. Co spakujemy do Twojego Survival Kitu? Zasoby energetyczne – jak je znaleźć, mądrze nimi zarządzać i oswoić lęk oraz stres zamiast tracić siły na walkę z nimi. Sztuka (nie)odkładania na jutro – jak skutecznie rozprawić się z prokrastynacją, przełamać opór i po prostu ruszyć z miejsca. Tarcza na presję – jak radzić sobie z oczekiwaniami otoczenia (szkoły, rodziców, rówieśników) oraz jak asertywnie dbać o własne granice. Higiena psychofizyczna – jak uczyć się efektywnie i szybko, nie rezygnując z snu, odpoczynku i zdrowia psychicznego. Kiedy? Cykl obejmuje 5 spotkań w środy (zawsze w godzinach 9:30–11:00): 1 lipca, 8 lipca, 22 lipca, 29 lipca oraz 5 sierpnia. Gwarantujemy poufność, bezpieczną atmosferę oraz konkretne wskazówki. Spotkania odbywają się w nowym, przyjaznym Pawilonie 11 na terenie Szpitala Wolskiego przy ul. Kasprzaka 17, Warszawa. Co ważne: nasze wsparcie w ramach Ośrodka oraz Poradni jest całkowicie bezpłatne i NIE wymaga skierowania lekarskiego. Uwaga – konsultacja wstępna: przed rozpoczęciem cyklu wymagana jest krótka konsultacja wstępna z udziałem dziecka, abyśmy mogli jak najlepiej uwzględnić indywidualne potrzeby. Jak się zapisać? Wyślij zgłoszenie na adres (w zgłoszeniu prosimy o podanie: imienia i nazwiska rodzica, imienia i nazwiska dziecka, telefonu kontaktowego oraz nazwy warsztatu). Liczba miejsc w grupach warsztatowych jest ograniczona. Decyduje kolejność zgłoszeń. Linki powiązane: #matura #maturzysta #szpitalwolski #wola #warszawawola #zdrowiepsychiczne #stres #prokrastynacja #młodzież #nfz",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F7fb3e683-cfb5-41ee-8c4e-a684b70b119b.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/7fb3e683-cfb5-41ee-8c4e-a684b70b119b",
-      "source": "gojammin.com",
-      "district": "Wola",
-      "location": {
-        "name": "Marcina Kasprzaka 17, 01-211 Warszawa, Poland",
-        "district": "Wola"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/7fb3e683-cfb5-41ee-8c4e-a684b70b119b",
-      "scrapped_timestamp": "2026-07-20T09:29:13.380041+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 15,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Warsztaty dla maturzystów",
-          "description": "Warsztat dla maturzystów Czy zbliżająca się klasa maturalna i perspektywa egzaminów dojrzałości budzą w Tobie (lub Twoim nastolatku) lęk i niepokój? Zastanawiasz się, jak przetrwać ten intensywny rok, uniknąć paraliżującego stresu i nie zwariować w natłoku nauki? Jako nastolatek i rodzic nie musicie mierzyć się z tym wyzwaniem w samotności. Środowiskowe Centrum Zdrowia Psychicznego przy Szpitalu Wolskim zaprasza na bezpłatny, 5-częściowy letni cykl warsztatów wspierających: „Survival Kit Maturzysty”. Nasze spotkania to osobista apteczka pierwszej pomocy psychologicznej, która pomoże młodzieży dobrze przygotować się do maturalnego maratonu. Warsztaty poprowadzą dwie doświadczone psychoterapeutki pracujące z młodzieżą. Co spakujemy do Twojego Survival Kitu? Zasoby energetyczne – jak je znaleźć, mądrze nimi zarządzać i oswoić lęk oraz stres zamiast tracić siły na walkę z nimi. Sztuka (nie)odkładania na jutro – jak skutecznie rozprawić się z prokrastynacją, przełamać opór i po prostu ruszyć z miejsca. Tarcza na presję – jak radzić sobie z oczekiwaniami otoczenia (szkoły, rodziców, rówieśników) oraz jak asertywnie dbać o własne granice. Higiena psychofizyczna – jak uczyć się efektywnie i szybko, nie rezygnując z snu, odpoczynku i zdrowia psychicznego. Kiedy? Cykl obejmuje 5 spotkań w środy (zawsze w godzinach 9:30–11:00): 1 lipca, 8 lipca, 22 lipca, 29 lipca oraz 5 sierpnia. Gwarantujemy poufność, bezpieczną atmosferę oraz konkretne wskazówki. Spotkania odbywają się w nowym, przyjaznym Pawilonie 11 na terenie Szpitala Wolskiego przy ul. Kasprzaka 17, Warszawa. Co ważne: nasze wsparcie w ramach Ośrodka oraz Poradni jest całkowicie bezpłatne i NIE wymaga skierowania lekarskiego. Uwaga – konsultacja wstępna: przed rozpoczęciem cyklu wymagana jest krótka konsultacja wstępna z udziałem dziecka, abyśmy mogli jak najlepiej uwzględnić indywidualne potrzeby. Jak się zapisać? Wyślij zgłoszenie na adres (w zgłoszeniu prosimy o podanie: imienia i nazwiska rodzica, imienia i nazwiska dziecka, telefonu kontaktowego oraz nazwy warsztatu). Liczba miejsc w grupach warsztatowych jest ograniczona. Decyduje kolejność zgłoszeń. Linki powiązane: #matura #maturzysta #szpitalwolski #wola #warszawawola #zdrowiepsychiczne #stres #prokrastynacja #młodzież #nfz"
-        },
-        "en": {
-          "title": "Workshops for High School Graduates",
-          "description": "Workshop for high school graduates. Does the approaching graduation class and the prospect of final exams fill you (or your teenager) with fear and anxiety? Are you wondering how to survive this intense year, avoid paralyzing stress, and not go crazy amidst the overwhelming amount of studying? As a teenager and parent, you don't have to face this challenge alone. The Community Mental Health Center at Wolski Hospital invites you to a free, 5-part summer workshop series: 'Survival Kit for Graduates.' Our meetings serve as a personal first aid kit for psychological support, helping young people prepare well for the graduation marathon. The workshops will be led by two experienced psychotherapists working with youth. What will we pack in your Survival Kit? Energy resources – how to find them..."
-        },
-        "uk": {
-          "title": "Майстер-класи для випускників",
-          "description": "Майстер-клас для випускників Чи викликає наближення випускного класу та перспектива іспитів на зрілість у вас (або у вашого підлітка) страх і тривогу? Чи замислюєтеся ви, як пережити цей інтенсивний рік, уникнути паралізуючого стресу і не зійти з розуму в потоці навчання? Як підліток і батьки, ви не повинні стикатися з цим викликом на самоті. Центр психічного здоров'я при Вольському шпиталі запрошує на безкоштовний, 5-частинний літній цикл майстер-класів підтримки: «Survival Kit Випускника». Наші зустрічі – це особиста аптечка першої допомоги психологічної, яка допоможе молоді добре підготуватися до випускного марафону. Майстер-класи проведуть дві досвідчені психотерапевтки, які працюють з молоддю. Що ми покладемо у ваш Survival Kit? Енергетичні ресурси – як їх знайти"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-20T09:30:18.523645+00:00"
-    },
-    "czas-w-las-ba-nie-o-le-nych-cudach-i-dziwach-spektakl-w-formie-opowie-ci-2026-07-22T10:00:00+02:00": {
-      "title": "Czas w las! Baśnie o leśnych cudach i dziwach - spektakl w formie opowieści",
-      "date": "2026-07-22T10:00:00+02:00",
-      "end_date": "2026-07-22T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Spektakle realizowane w ramach akcji \"Lato w mieście\" 2026. Przekonamy się! Podążymy tropem leśnych zwierząt, zanurzymy się w puszczach i w dżunglach, poznamy tajemnicze przygody i magiczne stwory z lasów. Szczegóły i organizacja Spektakle realizowane dla grup zorganizowanych (130 miejsc) oraz dla osób indywidualnych (30 miejsc). Wejściówki dla osób indywidualnych do odbioru od 24 czerwca 2026 r. w biletomacie, w holu Centrum przy ul. Podskarbińskiej 2. Grupy zorganizowane zapisują się drogą e-mailową: sekretariat@cpk.art.pl. REGULAMIN",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Fc68f4575-78df-4a0c-ab53-e3841d1d3875.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/c68f4575-78df-4a0c-ab53-e3841d1d3875",
-      "source": "gojammin.com",
-      "district": "Praga-Południe",
-      "location": {
-        "name": "Podskarbińska 2/2, 03-833 Warszawa, Poland",
-        "district": "Praga-Południe"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/c68f4575-78df-4a0c-ab53-e3841d1d3875",
-      "scrapped_timestamp": "2026-07-20T09:29:20.040350+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Czas w las! Baśnie o leśnych cudach i dziwach - spektakl w formie opowieści",
-          "description": "Spektakle realizowane w ramach akcji \"Lato w mieście\" 2026. Przekonamy się! Podążymy tropem leśnych zwierząt, zanurzymy się w puszczach i w dżunglach, poznamy tajemnicze przygody i magiczne stwory z lasów. Szczegóły i organizacja Spektakle realizowane dla grup zorganizowanych (130 miejsc) oraz dla osób indywidualnych (30 miejsc). Wejściówki dla osób indywidualnych do odbioru od 24 czerwca 2026 r. w biletomacie, w holu Centrum przy ul. Podskarbińskiej 2. Grupy zorganizowane zapisują się drogą e-mailową: sekretariat@cpk.art.pl. REGULAMIN"
-        },
-        "en": {
-          "title": "Time in the Forest! Tales of Forest Wonders and Marvels - A Storytelling Performance",
-          "description": "Performances organized as part of the 'Summer in the City' 2026 initiative. We will see! We will follow the trail of forest animals, immerse ourselves in the woods and jungles, and discover mysterious adventures and magical creatures from the forests. Details and organization: Performances are organized for groups (130 seats) and for individuals (30 seats). Tickets for individuals can be collected starting June 24, 2026, at the ticket machine in the lobby of the Center at 2 Podskarbińska Street. Organized groups can register via email: sekretariat@cpk.art.pl. REGULATIONS"
-        },
-        "uk": {
-          "title": "Час у лісі! Казки про лісові дива та дива - спектакль у формі оповіді",
-          "description": "Спектаклі, що реалізуються в рамках акції \"Літо в місті\" 2026. Переконаємося! Підемо слідами лісових тварин, зануримося в праліси та джунглі, познайомимося з таємничими пригодами та магічними істотами з лісів. Деталі та організація Спектаклі реалізуються для організованих груп (130 місць) та для індивідуальних осіб (30 місць). Квитки для індивідуальних осіб можна отримати з 24 червня 2026 року в квиткоматі, у холі Центру на вул. Подскарбінській, 2. Організовані групи записуються електронною поштою: sekretariat@cpk.art.pl. ПРАВИЛА"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-20T09:30:18.523670+00:00"
-    },
-    "zaj-cia-z-pi-ki-no-nej-dla-dzieci-w-factory-ursus-2026-07-22T18:00:00+02:00": {
-      "title": "Zajęcia z piłki nożnej dla dzieci w Factory Ursus!",
-      "date": "2026-07-22T18:00:00+02:00",
-      "end_date": "2026-07-22T19:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Słyszycie gwizdek? Czas na grę! Zapraszamy wszystkie dzieciaki na wakacyjne zajęcia z piłki nożnej w strefie chill obok outletu Factory Ursus! Treningi odbywać się będą w każdą środę do końca sierpnia o godzinie 18:00 pod czujnym okiem trenerów z Klubu Sportowego Madziar Nieporęt. Spotkania są w pełni darmowe i nie wymagają dodatkowych zapisów. Podaruj swojemu dziecku tego lata odrobinę sportowych wrażeń! Jedyne, co musicie ze sobą zabrać, to: sportowe buty butelka wody dobry humor Do zobaczenia na murawie! Więcej szczegółów",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F6c9da420-7a5e-4d19-8805-7bc9bf1533ac.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/1de004f7-b3ab-401c-973e-7a18108d4ea8",
-      "source": "gojammin.com",
-      "district": "Ursus",
-      "location": {
-        "name": "Plac Czerwca 1976 r. 6, 00-001 Warszawa, Poland",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/1de004f7-b3ab-401c-973e-7a18108d4ea8",
-      "scrapped_timestamp": "2026-07-20T09:29:26.282561+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Zajęcia z piłki nożnej dla dzieci w Factory Ursus!",
-          "description": "Słyszycie gwizdek? Czas na grę! Zapraszamy wszystkie dzieciaki na wakacyjne zajęcia z piłki nożnej w strefie chill obok outletu Factory Ursus! Treningi odbywać się będą w każdą środę do końca sierpnia o godzinie 18:00 pod czujnym okiem trenerów z Klubu Sportowego Madziar Nieporęt. Spotkania są w pełni darmowe i nie wymagają dodatkowych zapisów. Podaruj swojemu dziecku tego lata odrobinę sportowych wrażeń! Jedyne, co musicie ze sobą zabrać, to: sportowe buty butelka wody dobry humor Do zobaczenia na murawie! Więcej szczegółów"
-        },
-        "en": {
-          "title": "Football Classes for Kids at Factory Ursus!",
-          "description": "Do you hear the whistle? It's game time! We invite all kids to summer football classes in the chill zone next to the Factory Ursus outlet! Training sessions will take place every Wednesday until the end of August at 6:00 PM under the watchful eye of coaches from the Madziar Nieporęt Sports Club. The meetings are completely free and do not require additional registration. Give your child a bit of sports excitement this summer! The only things you need to bring are: sports shoes, a water bottle, and a good mood. See you on the field! More details"
-        },
-        "uk": {
-          "title": "Заняття з футболу для дітей у Factory Ursus!",
-          "description": "Чуєте свисток? Час грати! Запрошуємо всіх діток на літні заняття з футболу в зоні відпочинку біля аутлету Factory Ursus! Тренування відбуватимуться кожної середи до кінця серпня о 18:00 під пильним оком тренерів з Спортивного клубу Мадяр Непоріт. Зустрічі повністю безкоштовні і не вимагають додаткових записів. Подаруйте своїй дитині цього літа трохи спортивних вражень! Єдине, що вам потрібно взяти з собою, це: спортивне взуття, пляшка води, гарний настрій. До зустрічі на полі! Більше деталей"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-20T09:30:18.523690+00:00"
-    },
     "poranne-pikniki-z-j-zykiem-angielskim-wawer-anin-2026-07-23T10:00:00+02:00": {
       "title": "Poranne pikniki z językiem angielskim - Wawer | Anin",
       "date": "2026-07-23T10:00:00+02:00",
@@ -14678,47 +13765,6 @@
       },
       "district": "Praga-Południe",
       "updated_at": "2026-07-21T08:56:07.906931+00:00"
-    },
-    "warsztatownia-wakacyjne-spotkania-dla-dzieci-2026-07-22T11:00:00+02:00": {
-      "title": "WARSztatownia - wakacyjne spotkania dla dzieci",
-      "date": "2026-07-22T11:00:00+02:00",
-      "end_date": "2026-07-22T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "KIEDY: od 1 lipca do 28 sierpnia środy, czwartki i piątki w godz. 11.00 – 12.30 DLA KOGO: dzieci w wieku 5-10 lat WSTĘP WOLNY, zapisy na: rejestracjafw@1944.pl lub tel. 22 629 60 78 Przez całe wakacje Fotoplastikon Warszawski zamieni się w miejsce pełne wyobraźni, kolorów i miejskich historii. Zapraszamy dzieci na cykl twórczych warsztatów, podczas których będziemy odkrywać Warszawę wszystkimi zmysłami — rysować, malować, budować, fotografować, rzeźbić, szyć, tworzyć z klocków i poznawać niezwykłe legendy stolicy. Każde wakacyjny tydzień będzie podróżą do innej dzielnicy miasta. Raz spojrzymy na Warszawę z wysokości Pałacu Kultury, innym razem odwiedzimy praskie ZOO, stworzymy własny Stadion Narodowy albo zamienimy się w ulicznych artystów projektujących kolorowe murale Mokotowa. Wśród wakacyjnych inspiracji pojawią się także nowoczesne wieżowce Woli, zielone zakątki Bemowa, królewskie historie Wilanowa, tajemnicze uliczki Żoliborza a na koniec stworzymy własną wizję Warszawy przyszłości. Co tydzień „odwiedzimy” inną dzielnicę stolicy: 1-3.07 - ŚRÓDMIEŚCIE 8-10.07 - PRAGA PŁN 15-17.07 - PRAGA PŁD 22-24.07 - MOKOTÓW 29-31.07 - WOLA 5-7.08 - BEMOWO 12-14.08 - WILANÓW 19-21.08 - ŻOLIBORZ 26-28.08 – WARSZAWA PRZYSZŁOŚCI - ŚRODY – w każdą wakacyjną środę zapraszamy dzieci na niezwykłą podróż po dzielnicach Warszawy, podczas której poznają historię miasta, jego legendy poprzez ciekawe książki i artystyczne działania. Uczestnicy będą szyć owocowe broszki i zwierzęta, tworzyć gliniane medaliony, rzeźby, domy i modele dawnych fabryk, a także projektować papierowe samoloty, królewskie stroje oraz wizje Warszawy przyszłości z wykorzystaniem techniki poezji papieru. Zajęcia połączą czytanie inspirujących książek o stolicy z twórczymi warsztatami plastycznymi i rzeźbiarskimi. Warsztaty poprowadzą: Joanna Michalska – artystka, animatorka oraz Leszek Michalski – rzeźbiarz. - CZWARTKI- w lipcowe czwartki zapraszamy dzieci na warsztaty architektoniczne, podczas których będą odkrywać najciekawsze miejsca Warszawy poprzez zabawę, budowanie i działania artystyczne. Uczestnicy poznają historię m.in. Pałacu Kultury i Nauki, warszawskiego ZOO, Stadionu Narodowego, murali na Służewcu i Varso Tower, a następnie stworzą własne modele budynków, domy dla zwierząt, stadiony, wieżowce oraz prace inspirowane sztuką uliczną. To kreatywna podróż po architekturze i sztuce, rozwijająca wyobraźnię i twórcze myślenie. Warsztaty poprowadzą: Witomił Mendel - Architekt i edukator, twórca i główny prowadzący \"Architekturek\" zajęć z architektury i sztuki dla dzieci oraz Sylwia Miklaszewska - edukatorka, której wyobraźnia nigdy nie odpoczywa. W sierpniowe czwartki dzieci poznają niezwykły świat fotografii, eksperymentując z dawnymi technikami i twórczym przetwarzaniem obrazów. Uczestnicy wykonają własne odbitki w technice cyjanotypii, będą zmieniać ich kolory za pomocą naturalnych barwników, a także ręcznie kolorować archiwalne fotografie Warszawy. Na zakończenie stworzą autorskie fotokolaże inspirowane Śródmieściem, łącząc zdjęcia z wycinkami z gazet i czasopism. To okazja do rozwijania kreatywności oraz poznawania historii miasta poprzez fotografię i sztukę. Warsztaty poprowadzi: Michał Dziurkowski – fotograf i edukator. - PIĄTKI – w wakacyjne piątki zapraszamy dzieci na warsztaty, podczas których poznają stolicę poprzez kreatywną zabawę i budowanie z klocków. Uczestnicy będą tworzyć własne modele związane z warszawskimi dzielnicami – od środków transportu, zwierząt i sportowców po samoloty, maszyny budowlane czy elementy królewskich ogrodów. Wspólnie powstaną także imponujące konstrukcje jak lotnisko, Cytadela, sportowe miasteczko czy Warszawa przyszłości. Zajęcia rozwijają wyobraźnię, samodzielność i umiejętność współpracy, jednocześnie przybliżając historię i charakter miasta. Warsztaty poprowadzi: Bricks 4 Kidz. Zapraszamy!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1781893464.webp",
-      "location": {
-        "name": "FOTOPLASTIKON WARSZAWSKI, Al. Jerozolimskie 51",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/events/27751282274464994/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/27751282274464994/",
-      "scrapped_timestamp": "2026-07-21T08:52:56.087555+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 5,
-        "max": 10
-      },
-      "translations": {
-        "pl": {
-          "title": "WARSztatownia - wakacyjne spotkania dla dzieci",
-          "description": "KIEDY: od 1 lipca do 28 sierpnia środy, czwartki i piątki w godz. 11.00 – 12.30 DLA KOGO: dzieci w wieku 5-10 lat WSTĘP WOLNY, zapisy na: rejestracjafw@1944.pl lub tel. 22 629 60 78 Przez całe wakacje Fotoplastikon Warszawski zamieni się w miejsce pełne wyobraźni, kolorów i miejskich historii. Zapraszamy dzieci na cykl twórczych warsztatów, podczas których będziemy odkrywać Warszawę wszystkimi zmysłami — rysować, malować, budować, fotografować, rzeźbić, szyć, tworzyć z klocków i poznawać niezwykłe legendy stolicy. Każde wakacyjny tydzień będzie podróżą do innej dzielnicy miasta. Raz spojrzymy na Warszawę z wysokości Pałacu Kultury, innym razem odwiedzimy praskie ZOO, stworzymy własny Stadion Narodowy albo zamienimy się w ulicznych artystów projektujących kolorowe murale Mokotowa. Wśród wakacyjnych inspiracji pojawią się także nowoczesne wieżowce Woli, zielone zakątki Bemowa, królewskie historie Wilanowa, tajemnicze uliczki Żoliborza a na koniec stworzymy własną wizję Warszawy przyszłości. Co tydzień „odwiedzimy” inną dzielnicę stolicy: 1-3.07 - ŚRÓDMIEŚCIE 8-10.07 - PRAGA PŁN 15-17.07 - PRAGA PŁD 22-24.07 - MOKOTÓW 29-31.07 - WOLA 5-7.08 - BEMOWO 12-14.08 - WILANÓW 19-21.08 - ŻOLIBORZ 26-28.08 – WARSZAWA PRZYSZŁOŚCI - ŚRODY – w każdą wakacyjną środę zapraszamy dzieci na niezwykłą podróż po dzielnicach Warszawy, podczas której poznają historię miasta, jego legendy poprzez ciekawe książki i artystyczne działania. Uczestnicy będą szyć owocowe broszki i zwierzęta, tworzyć gliniane medaliony, rzeźby, domy i modele dawnych fabryk, a także projektować papierowe samoloty, królewskie stroje oraz wizje Warszawy przyszłości z wykorzystaniem techniki poezji papieru. Zajęcia połączą czytanie inspirujących książek o stolicy z twórczymi warsztatami plastycznymi i rzeźbiarskimi. Warsztaty poprowadzą: Joanna Michalska – artystka, animatorka oraz Leszek Michalski – rzeźbiarz. - CZWARTKI- w lipcowe czwartki zapraszamy dzieci na warsztaty architektoniczne, podczas których będą odkrywać najciekawsze miejsca Warszawy poprzez zabawę, budowanie i działania artystyczne. Uczestnicy poznają historię m.in. Pałacu Kultury i Nauki, warszawskiego ZOO, Stadionu Narodowego, murali na Służewcu i Varso Tower, a następnie stworzą własne modele budynków, domy dla zwierząt, stadiony, wieżowce oraz prace inspirowane sztuką uliczną. To kreatywna podróż po architekturze i sztuce, rozwijająca wyobraźnię i twórcze myślenie. Warsztaty poprowadzą: Witomił Mendel - Architekt i edukator, twórca i główny prowadzący \"Architekturek\" zajęć z architektury i sztuki dla dzieci oraz Sylwia Miklaszewska - edukatorka, której wyobraźnia nigdy nie odpoczywa. W sierpniowe czwartki dzieci poznają niezwykły świat fotografii, eksperymentując z dawnymi technikami i twórczym przetwarzaniem obrazów. Uczestnicy wykonają własne odbitki w technice cyjanotypii, będą zmieniać ich kolory za pomocą naturalnych barwników, a także ręcznie kolorować archiwalne fotografie Warszawy. Na zakończenie stworzą autorskie fotokolaże inspirowane Śródmieściem, łącząc zdjęcia z wycinkami z gazet i czasopism. To okazja do rozwijania kreatywności oraz poznawania historii miasta poprzez fotografię i sztukę. Warsztaty poprowadzi: Michał Dziurkowski – fotograf i edukator. - PIĄTKI – w wakacyjne piątki zapraszamy dzieci na warsztaty, podczas których poznają stolicę poprzez kreatywną zabawę i budowanie z klocków. Uczestnicy będą tworzyć własne modele związane z warszawskimi dzielnicami – od środków transportu, zwierząt i sportowców po samoloty, maszyny budowlane czy elementy królewskich ogrodów. Wspólnie powstaną także imponujące konstrukcje jak lotnisko, Cytadela, sportowe miasteczko czy Warszawa przyszłości. Zajęcia rozwijają wyobraźnię, samodzielność i umiejętność współpracy, jednocześnie przybliżając historię i charakter miasta. Warsztaty poprowadzi: Bricks 4 Kidz. Zapraszamy!"
-        },
-        "en": {
-          "title": "WARSztatownia - Summer Meetings for Children",
-          "description": "WHEN: From July 1 to August 28, Wednesdays, Thursdays, and Fridays from 11:00 AM to 12:30 PM FOR WHOM: Children aged 5-10 FREE ENTRY, registration at: rejestracjafw@1944.pl or call 22 629 60 78 Throughout the summer, the Photoplastikon Warsaw will transform into a place full of imagination, colors, and urban stories. We invite children to a series of creative workshops where we will explore Warsaw with all our senses — drawing, painting, building, photographing, sculpting, sewing, creating with blocks, and discovering the extraordinary legends of the capital. Each summer week will be a journey to a different district of the city. One time we will look at Warsaw from the height of the Palace of Culture, another time we will visit the Prague Zoo, create our own National Stadium, or turn into street artists designing colorful murals in Mokotów."
-        },
-        "uk": {
-          "title": "WARSztatownia - літні зустрічі для дітей",
-          "description": "КОЛИ: з 1 липня до 28 серпня, по середах, четвергах та п'ятницях з 11:00 до 12:30 ДЛЯ КОГО: діти віком 5-10 років ВХІД ВІЛЬНИЙ, реєстрація за адресою: rejestracjafw@1944.pl або за телефоном 22 629 60 78 Протягом всього літа Фотопластикон Варшави перетвориться на місце, наповнене уявою, кольорами та міськими історіями. Запрошуємо дітей на цикл творчих майстер-класів, під час яких ми будемо відкривати Варшаву всіма відчуттями — малювати, фарбувати, будувати, фотографувати, ліпити, шити, створювати з кубиків та знайомитися з незвичайними легендами столиці. Кожен літній тиждень буде подорожжю до іншого району міста. Один раз ми поглянемо на Варшаву з висоти Палацу Культури, іншим разом відвідаємо пражський ЗОО, створимо власний Національний стадіон або перетворимося на вуличних художників, які проектують кольорові мурали Мокотова."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-07-21T08:56:07.907067+00:00"
     },
     "rysujemy-zwierz-ta-spotkania-w-nowej-palmiarni-2026-07-24T10:30:00+02:00": {
       "title": "Rysujemy zwierzęta - spotkania w Nowej Palmiarni",
@@ -15647,88 +14693,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-07-22T08:57:19.745476+00:00"
     },
-    "kino-tom-i-jerry-przygoda-w-muzeum-2026-07-22T10:00:00+02:00": {
-      "title": "Kino: Tom i Jerry. Przygoda w muzeum",
-      "date": "2026-07-22T10:00:00+02:00",
-      "end_date": "2026-07-22T00:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Gdy losy miasta zawisną na włosku, odwieczni wrogowie będą musieli połączyć siły, by ocalić Złote Miasto i jego mieszkańców.",
-      "url": "https://alternatywy.art/tom-i-jerry-przygoda-w-muzeum-rezyseria-gang-zhang-chiny-usa-2025/",
-      "source": "alternatywy.art",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "UCK Alternatywy , Sala Szekspir  · ul. Indiry Gandhi 9",
-        "district": "Ursynów"
-      },
-      "image": "https://alternatywy.art/wp-content/uploads/2026/06/371933-768x768.jpg",
-      "scrapped_url": "https://alternatywy.art/tom-i-jerry-przygoda-w-muzeum-rezyseria-gang-zhang-chiny-usa-2025/",
-      "scrapped_timestamp": "2026-07-22T08:54:41.424325+00:00",
-      "category": "Cinema",
-      "translations": {
-        "pl": {
-          "title": "Kino: Tom i Jerry. Przygoda w muzeum",
-          "description": "Gdy losy miasta zawisną na włosku, odwieczni wrogowie będą musieli połączyć siły, by ocalić Złote Miasto i jego mieszkańców."
-        },
-        "en": {
-          "title": "Cinema: Tom and Jerry. Adventure in the Museum",
-          "description": "When the fate of the city hangs in the balance, eternal enemies will have to join forces to save the Golden City and its inhabitants."
-        },
-        "uk": {
-          "title": "Кіно: Том і Джеррі. Пригода в музеї",
-          "description": "Коли доля міста висить на волосині, вічні вороги повинні об'єднати сили, щоб врятувати Золоте Місто та його мешканців."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Ursynów",
-      "updated_at": "2026-07-22T08:57:19.745497+00:00"
-    },
-    "tom-i-jerry-przygoda-w-muzeum-re-yseria-gang-zhang-chiny-usa-2025-2026-07-22T10:00:00+02:00": {
-      "title": "„Tom i Jerry. Przygoda w muzeum” | reżyseria: Gang Zhang | Chiny, USA, 2025",
-      "date": "2026-07-22T10:00:00+02:00",
-      "end_date": "2026-07-22T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Podczas pościgu w nowojorskim Metropolitan Museum Tom i Jerry przypadkowo uruchamiają mityczny Astralny Kompas, który przenosi ich do olśniewającego Złotego Miasta rodem ze starożytnych legend. Tom zostaje uznany za bóstwo i staje się ulubieńcem władcy oraz jego poddanych. Tymczasem Jerry wpada w sidła niebezpiecznego szczurzego bossa. Gdy losy miasta zawisną na włosku, odwieczni wrogowie będą musieli połączyć siły, by ocalić Złote Miasto i jego mieszkańców. ‼️ Zgłoszenia grup zorganizowanych przyjmowane są drogą mailową pod adresem: recepcja@alternatywy.art . Warunkiem udziału jest dodatkowe potwierdzenie obecności drogą mailową do 13 lipca. 📅 22 lipca, godzina 10:00 🎟️ Bezpłatne wejściówki dostępne w naszej recepcji i online: link (do rezerwacji online może być doliczana niewielka opłata serwisowa)",
-      "image": null,
-      "location": {
-        "name": "Indiry Gandhi 9, Ursynowskie Centrum Kultury „Alternatywy\"",
-        "district": "Ursynów"
-      },
-      "url": "https://fb.me/e/cSkE666Bi",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://fb.me/e/cSkE666Bi",
-      "scrapped_timestamp": "2026-07-22T08:54:44.154221+00:00",
-      "category": "Cinema",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "„Tom i Jerry. Przygoda w muzeum” | reżyseria: Gang Zhang | Chiny, USA, 2025",
-          "description": "Podczas pościgu w nowojorskim Metropolitan Museum Tom i Jerry przypadkowo uruchamiają mityczny Astralny Kompas, który przenosi ich do olśniewającego Złotego Miasta rodem ze starożytnych legend. Tom zostaje uznany za bóstwo i staje się ulubieńcem władcy oraz jego poddanych. Tymczasem Jerry wpada w sidła niebezpiecznego szczurzego bossa. Gdy losy miasta zawisną na włosku, odwieczni wrogowie będą musieli połączyć siły, by ocalić Złote Miasto i jego mieszkańców. ‼️ Zgłoszenia grup zorganizowanych przyjmowane są drogą mailową pod adresem: recepcja@alternatywy.art . Warunkiem udziału jest dodatkowe potwierdzenie obecności drogą mailową do 13 lipca. 📅 22 lipca, godzina 10:00 🎟️ Bezpłatne wejściówki dostępne w naszej recepcji i online: link (do rezerwacji online może być doliczana niewielka opłata serwisowa)"
-        },
-        "en": {
-          "title": "Tom and Jerry: Adventure in the Museum | Directed by: Gang Zhang | China, USA, 2025",
-          "description": "During a chase in New York's Metropolitan Museum, Tom and Jerry accidentally activate the mythical Astral Compass, which transports them to the dazzling Golden City from ancient legends. Tom is mistaken for a deity and becomes the favorite of the ruler and his subjects. Meanwhile, Jerry falls into the clutches of a dangerous rat boss. As the fate of the city hangs in the balance, the eternal enemies must join forces to save the Golden City and its inhabitants. ‼️ Group registrations are accepted via email at: recepcja@alternatywy.art. Confirmation of attendance via email is required by July 13. 📅 July 22, 10:00 AM 🎟️ Free tickets available at our reception and online: link (a small fee may be added for online reservations)."
-        },
-        "uk": {
-          "title": "„Том і Джеррі. Пригода в музеї” | режисер: Ганг Чжан | Китай, США, 2025",
-          "description": "Під час погоні в Нью-Йоркському Метрополітен-музеї Том і Джеррі випадково активують міфічний Астральний Компас, який переносить їх до сліпучого Золотого Міста з давніх легенд. Тома вважають божеством, і він стає улюбленцем володаря та його підданих. Тим часом Джеррі потрапляє в пастку небезпечного щурячого боса. Коли доля міста висить на волосині, вічні вороги повинні об'єднати сили, щоб врятувати Золоте Місто та його мешканців. ‼️ Заявки груп з організованими відвідувачами приймаються електронною поштою за адресою: recepcja@alternatywy.art. Умовою участі є додаткове підтвердження присутності електронною поштою до 13 липня. 📅 22 липня, година 10:00 🎟️ Безкоштовні квитки доступні в нашій рецепції та онлайн: посилання (до бронювання онлайн може бути додана невелика плата)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ursynów",
-      "updated_at": "2026-07-22T08:57:19.745523+00:00"
-    },
     "warsztaty-kino-koncerty-i-spotkania-w-mercedes-benz-studio-warszawa-2026-07-27T10:00:00+02:00": {
       "title": "Warsztaty, kino, koncerty i spotkania w Mercedes-Benz Studio Warszawa",
       "date": "2026-07-27T10:00:00+02:00",
@@ -15770,47 +14734,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-07-22T08:57:19.745545+00:00"
     },
-    "71-urodziny-pa-acu-kultury-i-nauki-2026-07-22T10:00:00+02:00": {
-      "title": "71. urodziny Pałacu Kultury i Nauki",
-      "date": "2026-07-22T10:00:00+02:00",
-      "end_date": "2026-07-22T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "🎂 Pałac Kultury i Nauki kończy 71 lat! 📅 22 lipca przygotujcie się na cały dzień atrakcji w samym centrum miasta. Od godz. 10:00 do 23:00 wjedziecie na Taras Widokowy w specjalnej urodzinowej cenie. Między 12:00 a 15:00 najmłodsi będą mogli wziąć udział w animacjach, warsztatach plastycznych, grach i zabawach ruchowych. O godz. 17:30 w Kinotece odbędzie się bezpłatny, przedpremierowy pokaz filmu dokumentalnego „Pałac Kultury. Niekochany zabytek” z udziałem reżyserki Jessiki Szczakiel. A wieczorem spotykamy się na Placu Centralnym: 🎺 19:30 - koncert Brass Federacji 🍰 19:30 - urodzinowy tort 🎧 20:30-23:00 - silent disco Wpadajcie na chwilę albo zostańcie z nami do końca - świętujmy razem 71 lat Pałacu! 🎉",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1784285633.webp",
-      "location": {
-        "name": "Pałac Kultury i Nauki",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/photo/?fbid=1479156107574210&set=a.169512068538627",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo/?fbid=1479156107574210&set=a.169512068538627",
-      "scrapped_timestamp": "2026-07-22T08:54:57.049723+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "71. urodziny Pałacu Kultury i Nauki",
-          "description": "🎂 Pałac Kultury i Nauki kończy 71 lat! 📅 22 lipca przygotujcie się na cały dzień atrakcji w samym centrum miasta. Od godz. 10:00 do 23:00 wjedziecie na Taras Widokowy w specjalnej urodzinowej cenie. Między 12:00 a 15:00 najmłodsi będą mogli wziąć udział w animacjach, warsztatach plastycznych, grach i zabawach ruchowych. O godz. 17:30 w Kinotece odbędzie się bezpłatny, przedpremierowy pokaz filmu dokumentalnego „Pałac Kultury. Niekochany zabytek” z udziałem reżyserki Jessiki Szczakiel. A wieczorem spotykamy się na Placu Centralnym: 🎺 19:30 - koncert Brass Federacji 🍰 19:30 - urodzinowy tort 🎧 20:30-23:00 - silent disco Wpadajcie na chwilę albo zostańcie z nami do końca - świętujmy razem 71 lat Pałacu! 🎉"
-        },
-        "en": {
-          "title": "71st Birthday of the Palace of Culture and Science",
-          "description": "🎂 The Palace of Culture and Science is turning 71! 📅 On July 22, get ready for a whole day of attractions in the heart of the city. From 10:00 AM to 11:00 PM, you can access the Observation Deck at a special birthday price. Between 12:00 PM and 3:00 PM, the youngest will be able to participate in animations, art workshops, games, and physical activities. At 5:30 PM, there will be a free preview screening of the documentary film \"Palace of Culture. The Unloved Monument\" featuring director Jessica Szczakiel at the Kinoteka. In the evening, we will meet at the Central Square: 🎺 7:30 PM - Brass Federation concert 🍰 7:30 PM - birthday cake 🎧 8:30 PM - 11:00 PM - silent disco Drop by for a moment or stay with us until the end - let's celebrate 71 years of the Palace together! 🎉"
-        },
-        "uk": {
-          "title": "71-ші роковини Палацу культури і науки",
-          "description": "🎂 Палац культури і науки святкує 71 рік! 📅 22 липня готуйтеся до цілого дня розваг у самому центрі міста. З 10:00 до 23:00 ви зможете піднятися на оглядовий майданчик за спеціальною ювілейною ціною. З 12:00 до 15:00 наймолодші зможуть взяти участь в анімаціях, художніх майстер-класах, іграх та рухливих забавах. О 17:30 в Кінотеці відбудеться безкоштовний, прем'єрний показ документального фільму «Палац культури. Нелюбимий пам'ятник» за участю режисерки Джесіки Щакель. А ввечері зустрічаємося на Центральній площі: 🎺 19:30 - концерт Brass Федерації 🍰 19:30 - ювілейний торт 🎧 20:30-23:00 - silent disco Завітайте на хвилинку або залишайтеся з нами до кінця - святкуймо разом 71 рік Палацу! 🎉"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-07-22T08:57:19.745564+00:00"
-    },
     "warsztatownia-wakacyjne-spotkania-dla-dzieci-2026-07-24T11:00:00+02:00": {
       "title": "WARSztatownia - wakacyjne spotkania dla dzieci",
       "date": "2026-07-24T11:00:00+02:00",
@@ -15851,47 +14774,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-07-22T08:57:19.745582+00:00"
-    },
-    "festiwal-dmucha-c-w-2026-07-22T12:00:00+02:00": {
-      "title": "Festiwal Dmuchańców",
-      "date": "2026-07-22T12:00:00+02:00",
-      "end_date": "2026-07-22T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Już 22 lipca, od 12:00 do 18:00, w Terminalu Kultury Gocław - Festiwal Dmuchańców👌 Oprócz dmuchańców w holu głównym Terminala czekać na Was będą również warsztaty Lego (12:00-16:00). Wszystkie atrakcje w ramach programu \"Wakacyjne Popołudnia w Centrum Promocji Kultury i Terminalu Kultury Gocław\" są bezpłatne! Zapraszamy!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1784647045.webp",
-      "location": {
-        "name": "Terminal Kultury Gocław, ul. Jana Nowaka-Jeziorańskiego 24",
-        "district": "Praga-Południe"
-      },
-      "url": "https://www.facebook.com/photo/?fbid=1473945534761459&set=a.467766345379388",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo/?fbid=1473945534761459&set=a.467766345379388",
-      "scrapped_timestamp": "2026-07-22T08:55:10.360720+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Festiwal Dmuchańców",
-          "description": "Już 22 lipca, od 12:00 do 18:00, w Terminalu Kultury Gocław - Festiwal Dmuchańców👌 Oprócz dmuchańców w holu głównym Terminala czekać na Was będą również warsztaty Lego (12:00-16:00). Wszystkie atrakcje w ramach programu \"Wakacyjne Popołudnia w Centrum Promocji Kultury i Terminalu Kultury Gocław\" są bezpłatne! Zapraszamy!"
-        },
-        "en": {
-          "title": "Inflatable Festival",
-          "description": "On July 22, from 12:00 PM to 6:00 PM, at the Gocław Culture Terminal - Inflatable Festival👌 In addition to inflatables in the main hall of the Terminal, there will also be Lego workshops (12:00 PM - 4:00 PM) waiting for you. All attractions as part of the 'Summer Afternoons at the Culture Promotion Center and Gocław Culture Terminal' program are free! We invite you!"
-        },
-        "uk": {
-          "title": "Фестиваль Повітряних Гірок",
-          "description": "Вже 22 липня, з 12:00 до 18:00, в Терминалі Культури Гоцлав - Фестиваль Повітряних Гірок👌 Окрім повітряних гірок у головному холі Терминалу на вас також чекатимуть майстер-класи Lego (12:00-16:00). Усі атракції в рамках програми \"Літні Вечори в Центрі Промоції Культури та Терминалі Культури Гоцлав\" безкоштовні! Запрошуємо!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-07-22T08:57:19.745598+00:00"
     },
     "czytanierz-dzi-czytelnicze-spotkanie-dla-dzieci-wok-serii-przygody-psa-precla-2026-07-23T11:00:00+02:00": {
       "title": "#CzytanieRządzi - czytelnicze spotkanie dla dzieci wokół serii \"Przygody Psa Precla\"",
@@ -16507,46 +15389,6 @@
       },
       "district": "Mokotów",
       "updated_at": "2026-07-22T08:57:19.745921+00:00"
-    },
-    "wakacje-z-emilem-i-pippi-2026-07-22T07:30:00+02:00": {
-      "title": "Wakacje z Emilem i Pippi",
-      "date": "2026-07-22T07:30:00+02:00",
-      "end_date": "2026-07-22T16:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wakacje z Emilem i Pippi — warsztaty letnie dla dzieci (7 612 lat) W dniach 20 624 lipca zapraszamy na Wakacje z Emilem i Pippi organizowane w le\u00015bnym przedszkolu Bose Stopy (ul. Jagielska 34B, Warszawa). Ca\u00142 dni sp\u00119dzamy na dworze: wspinanie na drzewa, brodzenie w strumyku, ogniska, budowanie sza\u00142as\u00119w, struganie patyk\u00117w i wiele zabaw inspirowanych ksi\u00105bkami Astrid Lindgren (Emil, Pippi, Ronja, Karlsson, dzieci z Bullerbyn). Program i atrakcje Warsztaty r\u00119kodzie\u00142a ka\u0017cdego dnia Wyprawy do pobliskiego rezerwatu Las Kabacki (przygody na \u00142onie natury) Zabawy na \u0015bwie\u0017cym powietrzu, hamaki, spotkania ze zwierz\u00119tami Go\u0015b\u00119 specjalny: czytanie/interpretacje fragment\u00119w przez Edyt\u00119 Jungowsk\u00105 Prowadząca: Zosia Wasiak — pedago\u0017czka, psycholo\u0017czka i edukatorka przyrody, miło\u0015bniczka ksi\u00105\u0017cek Astrid Lindgren. Praktyczne informacje Dla dzieci w wieku 7 612 lat (nie przyjmujemy dzieci poni\u0017cej 7 roku \u0017cycia) Terminy: 20 624 lipca, poniedzia\u00142ek 6pi\u00119tek Godziny: 7:30 616:30 Miejsce: siedziba le\u0015bnego przedszkola Bose Stopy, ul. Jagielska 34B, Warszawa Koszt udzia\u00142u: 1400 z\u00142 (pi\u00119ciodniowe warsztaty, obiadki, materia\u00142y, opieka dw\u00119ch doros\u00142ych opiekun\u00119w, spotkanie z Edyt\u00119 Jungowsk\u00105) Zadatek: 400 z\u00142 na konto firmy Droga Do Lasu 6 30291000060000000004919582 (w tytule wpisz imi\u00119 i nazwisko uczestnika) Warunkiem udzia\u00142u jest akceptacja regulaminu dost\u00119pnego w formularzu rejestracyjnym Zapisy i formularz Otwf3rz formularz Kontakt i dodatkowe informacje dost\u00119pne w formularzu rejestracyjnym.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Ffe8c822a-11a9-4ffc-a454-ce70163078ff.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/fe8c822a-11a9-4ffc-a454-ce70163078ff",
-      "source": "gojammin.com",
-      "district": "Ursynów",
-      "location": {
-        "name": "Jagielska 34b, 02-886 Warszawa, Poland",
-        "district": "Ursynów"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/fe8c822a-11a9-4ffc-a454-ce70163078ff",
-      "scrapped_timestamp": "2026-07-22T08:56:53.315283+00:00",
-      "category": "Outdoor Adventure",
-      "age_range": {
-        "min": 7,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Wakacje z Emilem i Pippi",
-          "description": "Wakacje z Emilem i Pippi — warsztaty letnie dla dzieci (7 612 lat) W dniach 20 624 lipca zapraszamy na Wakacje z Emilem i Pippi organizowane w le\u00015bnym przedszkolu Bose Stopy (ul. Jagielska 34B, Warszawa). Ca\u00142 dni sp\u00119dzamy na dworze: wspinanie na drzewa, brodzenie w strumyku, ogniska, budowanie sza\u00142as\u00119w, struganie patyk\u00117w i wiele zabaw inspirowanych ksi\u00105bkami Astrid Lindgren (Emil, Pippi, Ronja, Karlsson, dzieci z Bullerbyn). Program i atrakcje Warsztaty r\u00119kodzie\u00142a ka\u0017cdego dnia Wyprawy do pobliskiego rezerwatu Las Kabacki (przygody na \u00142onie natury) Zabawy na \u0015bwie\u0017cym powietrzu, hamaki, spotkania ze zwierz\u00119tami Go\u0015b\u00119 specjalny: czytanie/interpretacje fragment\u00119w przez Edyt\u00119 Jungowsk\u00105 Prowadząca: Zosia Wasiak — pedago\u0017czka, psycholo\u0017czka i edukatorka przyrody, miło\u0015bniczka ksi\u00105\u0017cek Astrid Lindgren. Praktyczne informacje Dla dzieci w wieku 7 612 lat (nie przyjmujemy dzieci poni\u0017cej 7 roku \u0017cycia) Terminy: 20 624 lipca, poniedzia\u00142ek 6pi\u00119tek Godziny: 7:30 616:30 Miejsce: siedziba le\u0015bnego przedszkola Bose Stopy, ul. Jagielska 34B, Warszawa Koszt udzia\u00142u: 1400 z\u00142 (pi\u00119ciodniowe warsztaty, obiadki, materia\u00142y, opieka dw\u00119ch doros\u00142ych opiekun\u00119w, spotkanie z Edyt\u00119 Jungowsk\u00105) Zadatek: 400 z\u00142 na konto firmy Droga Do Lasu 6 30291000060000000004919582 (w tytule wpisz imi\u00119 i nazwisko uczestnika) Warunkiem udzia\u00142u jest akceptacja regulaminu dost\u00119pnego w formularzu rejestracyjnym Zapisy i formularz Otwf3rz formularz Kontakt i dodatkowe informacje dost\u00119pne w formularzu rejestracyjnym."
-        },
-        "en": {
-          "title": "Holidays with Emil and Pippi",
-          "description": "Holidays with Emil and Pippi — summer workshops for children (ages 7 to 12) From July 20 to 24, we invite you to Holidays with Emil and Pippi organized at the friendly kindergarten Bose Stopy (34B Jagielska Street, Warsaw). We spend all days outdoors: climbing trees, wading in streams, campfires, building huts, whittling sticks, and many games inspired by the books of Astrid Lindgren (Emil, Pippi, Ronja, Karlsson, the children from Bullerbyn). Program and attractions: Craft workshops every day, trips to the nearby Kabacki Forest reserve (adventures in nature), outdoor games, hammocks, meetings with animals. Special guest: reading/interpretation of excerpts by Edyta Jungowska. Leader: Zosia Wasiak — educator, psychologist, and nature educator, lover of books."
-        },
-        "uk": {
-          "title": "Канікули з Емілем та Піппі",
-          "description": "Канікули з Емілем та Піппі — літні майстер-класи для дітей (7-12 років). З 20 по 24 липня запрошуємо на Канікули з Емілем та Піппі, які організовуються в дитячому садку \"Босі Стопи\" (вул. Ягільська 34Б, Варшава). Усі дні ми проводимо на свіжому повітрі: лазіння по деревах, бродіння в струмку, вогнища, будування шалашів, виготовлення паличок та багато ігор, натхненних книгами Астрід Ліндгрен (Еміль, Піппі, Роня, Карлсон, діти з Буллербю). Програма та атракції: майстер-класи з рукоділля кожного дня, походи до найближчого заповідника Ліс Кабацький (пригоди на лоні природи), ігри на свіжому повітрі, гамак, зустрічі з тваринами. Гість спеціальний: читання/інтерпретація фрагментів від Едіти Юнговської. Ведуча: Зося Васiak — педагог, психолог та природоосвітник, любителька книг."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "updated_at": "2026-07-22T08:57:19.745939+00:00"
     },
     "zielone-s-siedztwo-ogr-d-spo-eczny-w-azienkach-kr-lewskich-2026-07-23T18:00:00+02:00": {
       "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",

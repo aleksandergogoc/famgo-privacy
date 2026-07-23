@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:38:49.040202+00:00",
+  "updated_at": "2026-07-23T18:39:44.593065+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244383,6 +244383,40 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:36:17.636275+00:00",
       "created_at": "2026-07-23T18:36:17.636275+00:00"
+    },
+    "manual_51478149c136": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room",
+        "trampoline_park"
+      ],
+      "names": {
+        "pl": "XPARK Centrum Rozrywki i Park Trampolin Kraków",
+        "en": "XPARK Entertainment Center and Trampoline Park Krakow",
+        "uk": "Розважальний центр XPARK та батутний парк Краків"
+      },
+      "name": "XPARK Centrum Rozrywki i Park Trampolin Kraków",
+      "address": "Handlowców 12, 32-085 Modlniczka",
+      "lat": 50.10664067203134,
+      "lng": 19.844290657088,
+      "geo_uri": "geo:50.10664067203134,19.844290657088",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.844290657088,
+          50.10664067203134
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://xpark.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:39:44.490905+00:00",
+      "created_at": "2026-07-23T18:39:44.490905+00:00"
     }
   }
 }

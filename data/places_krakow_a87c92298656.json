@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T11:59:36.112502+00:00",
+  "updated_at": "2026-07-23T13:08:01.988556+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -243916,6 +243916,39 @@
       },
       "updated_at": "2026-07-23T11:59:35.890147+00:00",
       "created_at": "2026-07-23T11:59:35.890147+00:00"
+    },
+    "manual_d04d225d2820": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Bawiarenka",
+        "en": "Bawiarenka",
+        "uk": "Bawiarenka"
+      },
+      "name": "Bawiarenka",
+      "address": "Szuwarowa 1, 30-383 Kraków",
+      "lat": 50.01867364133968,
+      "lng": 19.90553140640259,
+      "geo_uri": "geo:50.01867364133968,19.90553140640259",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.90553140640259,
+          50.01867364133968
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T13:08:01.907337+00:00",
+      "created_at": "2026-07-23T13:08:01.907337+00:00"
     }
   }
 }

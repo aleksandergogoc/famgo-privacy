@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:43:54.201458+00:00",
+  "updated_at": "2026-07-23T18:44:58.150819+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244483,6 +244483,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:43:54.080185+00:00",
       "created_at": "2026-07-23T18:43:54.080185+00:00"
+    },
+    "manual_3bcc6c88af2f": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Akukuu Centrum Zabaw Bratysławska",
+        "en": "Akukuu Centrum Zabaw Bratysławska",
+        "uk": "Akukuu Centrum Zabaw Bratysławska"
+      },
+      "name": "Akukuu Centrum Zabaw Bratysławska",
+      "address": "Bratysławska 4, Budynek Kaufland, 31-201 Kraków",
+      "lat": 50.085478542884374,
+      "lng": 19.93824161347584,
+      "geo_uri": "geo:50.085478542884374,19.93824161347584",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93824161347584,
+          50.085478542884374
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://akukuu.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:44:58.079838+00:00",
+      "created_at": "2026-07-23T18:44:58.079838+00:00"
     }
   }
 }

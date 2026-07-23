@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:54:36.387310+00:00",
+  "updated_at": "2026-07-23T18:57:38.856430+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244616,6 +244616,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:51:37.743595+00:00",
       "created_at": "2026-07-23T18:51:37.743595+00:00"
+    },
+    "manual_09d9a9adad65": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Lime&Spicy",
+        "en": "Lime&Spicy",
+        "uk": "Lime&Spicy"
+      },
+      "name": "Lime&Spicy",
+      "address": "Winnicka 40, 30-394 Kraków",
+      "lat": 50.02224443687729,
+      "lng": 19.871546279036018,
+      "geo_uri": "geo:50.02224443687729,19.871546279036018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.871546279036018,
+          50.02224443687729
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "506387137",
+      "website": "http://limeandspicy.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:57:38.746031+00:00",
+      "created_at": "2026-07-23T18:57:38.746031+00:00"
     }
   }
 }

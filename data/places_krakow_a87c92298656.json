@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:36:17.713413+00:00",
+  "updated_at": "2026-07-23T18:38:49.040202+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244054,7 +244054,8 @@
       "source": "manual",
       "manual_override": true,
       "categories": [
-        "play_room"
+        "play_room",
+        "trampoline_park"
       ],
       "names": {
         "pl": "GOkidz! Park Rozrywki",
@@ -244079,7 +244080,7 @@
       "website": "http://www.gokidz.pl/",
       "wheelchair": null,
       "osm_tags": {},
-      "updated_at": "2026-07-23T17:19:37.322022+00:00",
+      "updated_at": "2026-07-23T18:38:48.962982+00:00",
       "created_at": "2026-07-23T17:19:37.322022+00:00"
     },
     "manual_d81dd822b20a": {

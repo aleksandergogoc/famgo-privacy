@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:57:38.856430+00:00",
+  "updated_at": "2026-07-23T19:00:18.842865+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244649,6 +244649,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:57:38.746031+00:00",
       "created_at": "2026-07-23T18:57:38.746031+00:00"
+    },
+    "manual_29a98be93eea": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja Flario",
+        "en": "Restauracja Flario",
+        "uk": "Restauracja Flario"
+      },
+      "name": "Restauracja Flario",
+      "address": "Karola Bunscha 23/U1, 30-392 Kraków",
+      "lat": 50.012380706157636,
+      "lng": 19.88944078125716,
+      "geo_uri": "geo:50.012380706157636,19.88944078125716",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.88944078125716,
+          50.012380706157636
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "576566662",
+      "website": "https://flario.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T19:00:18.741416+00:00",
+      "created_at": "2026-07-23T19:00:18.741416+00:00"
     }
   }
 }

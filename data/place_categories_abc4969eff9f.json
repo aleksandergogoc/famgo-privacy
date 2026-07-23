@@ -1,0 +1,215 @@
+{
+  "updated_at": "2026-07-23T11:57:50.104259+00:00",
+  "categories": {
+    "park": {
+      "translations": {
+        "en": "Park",
+        "pl": "Park",
+        "uk": "Парк"
+      },
+      "sortOrder": 1,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "nature_reserve": {
+      "translations": {
+        "en": "Nature Reserve",
+        "pl": "Rezerwat",
+        "uk": "Заповідник"
+      },
+      "sortOrder": 2,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "zoo": {
+      "translations": {
+        "en": "Zoo",
+        "pl": "Zoo",
+        "uk": "Зоопарк"
+      },
+      "sortOrder": 3,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "indoor_pool": {
+      "translations": {
+        "en": "Indoor Pool",
+        "pl": "Basen kryty",
+        "uk": "Закритий басейн"
+      },
+      "sortOrder": 4,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "outdoor_pool": {
+      "translations": {
+        "en": "Outdoor Pool",
+        "pl": "Basen na zewnątrz",
+        "uk": "Відкритий басейн"
+      },
+      "sortOrder": 5,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "playground": {
+      "translations": {
+        "en": "Playground",
+        "pl": "Plac zabaw",
+        "uk": "Дитячий майданчик"
+      },
+      "sortOrder": 6,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "water_park": {
+      "translations": {
+        "en": "Water Park",
+        "pl": "Park wodny",
+        "uk": "Аквапарк"
+      },
+      "sortOrder": 7,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "skate_park": {
+      "translations": {
+        "en": "Skate Park",
+        "pl": "Skatepark",
+        "uk": "Скейт-парк"
+      },
+      "sortOrder": 8,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "trampoline_park": {
+      "translations": {
+        "en": "Trampoline Park",
+        "pl": "Park trampolin",
+        "uk": "Парк батутів"
+      },
+      "sortOrder": 9,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "climbing_wall": {
+      "translations": {
+        "en": "Climbing Wall",
+        "pl": "Ścianka wspinaczkowa",
+        "uk": "Скеледром"
+      },
+      "sortOrder": 10,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "aquarium": {
+      "translations": {
+        "en": "Aquarium",
+        "pl": "Akwarium",
+        "uk": "Акваріум"
+      },
+      "sortOrder": 11,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "kids_friendly_restaurant": {
+      "translations": {
+        "en": "Restaurant / Café with kids' corner",
+        "pl": "Restauracja / kawiarnia z kącikiem dla dzieci",
+        "uk": "Ресторан / кафе з дитячим куточком"
+      },
+      "sortOrder": 12,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "museum": {
+      "translations": {
+        "en": "Museum",
+        "pl": "Muzeum",
+        "uk": "Музей"
+      },
+      "sortOrder": 13,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "library": {
+      "translations": {
+        "en": "Library",
+        "pl": "Biblioteka",
+        "uk": "Бібліотека"
+      },
+      "sortOrder": 14,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "theatre": {
+      "translations": {
+        "en": "Theatre",
+        "pl": "Teatr",
+        "uk": "Театр"
+      },
+      "sortOrder": 15,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "cinema": {
+      "translations": {
+        "en": "Cinema",
+        "pl": "Kino",
+        "uk": "Кінотеатр"
+      },
+      "sortOrder": 16,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "tourist_attraction": {
+      "translations": {
+        "en": "Tourist Attraction",
+        "pl": "Atrakcja turystyczna",
+        "uk": "Туристична пам'ятка"
+      },
+      "sortOrder": 17,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "ice_rink": {
+      "translations": {
+        "en": "Ice Rink",
+        "pl": "Lodowisko",
+        "uk": "Ковзанка"
+      },
+      "sortOrder": 18,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "toilet": {
+      "translations": {
+        "en": "Toilet",
+        "pl": "Toaleta",
+        "uk": "Туалет"
+      },
+      "sortOrder": 19,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "changing_table": {
+      "translations": {
+        "en": "Changing Table",
+        "pl": "Przewijak",
+        "uk": "Столик для переодягання"
+      },
+      "sortOrder": 20,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    },
+    "play_room": {
+      "translations": {
+        "en": "Play Room",
+        "pl": "Sala zabaw",
+        "uk": "Ігрова кімната"
+      },
+      "sortOrder": 21,
+      "active": true,
+      "updated_at": "2026-07-23T11:57:49.939524+00:00"
+    }
+  }
+}

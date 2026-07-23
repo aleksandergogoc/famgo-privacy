@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:31:45.533309+00:00",
+  "updated_at": "2026-07-23T18:34:53.901957+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244316,6 +244316,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:31:45.452486+00:00",
       "created_at": "2026-07-23T18:31:45.452486+00:00"
+    },
+    "manual_80c7e1ca1bc8": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "MiniŚwiat - Bronowice",
+        "en": "MiniŚwiat - Bronowice",
+        "uk": "MiniŚwiat - Bronowice"
+      },
+      "name": "MiniŚwiat - Bronowice",
+      "address": "ul, Władysława Żeleńskiego 3, 31-353 Kraków",
+      "lat": 50.08859349690892,
+      "lng": 19.882987494109226,
+      "geo_uri": "geo:50.08859349690892,19.882987494109226",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.882987494109226,
+          50.08859349690892
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": null,
+      "website": "http://miniswiat.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:34:53.799749+00:00",
+      "created_at": "2026-07-23T18:34:53.799749+00:00"
     }
   }
 }

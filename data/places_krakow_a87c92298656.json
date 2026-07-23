@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:36:47.671882+00:00",
+  "updated_at": "2026-07-23T20:39:26.051595+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244946,6 +244946,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T20:36:47.559218+00:00",
       "created_at": "2026-07-23T20:36:47.559218+00:00"
+    },
+    "manual_ac5cc444d5d8": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Sphinx Bonarka City Center",
+        "en": "Sphinx Bonarka City Center",
+        "uk": "Sphinx Bonarka City Center"
+      },
+      "name": "Sphinx Bonarka City Center",
+      "address": "CH Bonarka City Center, Henryka Kamieńskiego 11, 30-644 Kraków",
+      "lat": 50.026959134834456,
+      "lng": 19.95137304067612,
+      "geo_uri": "geo:50.026959134834456,19.95137304067612",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95137304067612,
+          50.026959134834456
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "122986858",
+      "website": "http://www.sphinx.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T20:39:25.942330+00:00",
+      "created_at": "2026-07-23T20:39:25.942330+00:00"
     }
   }
 }

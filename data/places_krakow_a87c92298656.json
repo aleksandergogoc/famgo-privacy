@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T19:00:18.842865+00:00",
+  "updated_at": "2026-07-23T19:01:42.990537+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244682,6 +244682,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T19:00:18.741416+00:00",
       "created_at": "2026-07-23T19:00:18.741416+00:00"
+    },
+    "manual_8da19422d50e": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja & Pizzeria \"Bakłażan\"",
+        "en": "Restauracja & Pizzeria \"Bakłażan\"",
+        "uk": "Restauracja & Pizzeria \"Bakłażan\""
+      },
+      "name": "Restauracja & Pizzeria \"Bakłażan\"",
+      "address": "Kolista 12, 30-382 Kraków",
+      "lat": 50.0146972314343,
+      "lng": 19.900427108714112,
+      "geo_uri": "geo:50.0146972314343,19.900427108714112",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.900427108714112,
+          50.0146972314343
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "532222442",
+      "website": "http://www.baklazan-krakow.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T19:01:42.884262+00:00",
+      "created_at": "2026-07-23T19:01:42.884262+00:00"
     }
   }
 }

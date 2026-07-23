@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T17:27:55.819264+00:00",
+  "updated_at": "2026-07-23T17:28:27.055151+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244120,7 +244120,8 @@
       "source": "manual",
       "manual_override": true,
       "categories": [
-        "play_room"
+        "play_room",
+        "kids_friendly_restaurant"
       ],
       "names": {
         "pl": "Bullerbyn - bawialnia z ogrodem, kawiarnia, sala zabaw",
@@ -244145,7 +244146,7 @@
       "website": "http://www.bullerbyn-krakow.pl/",
       "wheelchair": null,
       "osm_tags": {},
-      "updated_at": "2026-07-23T17:25:22.919416+00:00",
+      "updated_at": "2026-07-23T17:28:26.908540+00:00",
       "created_at": "2026-07-23T17:25:22.919416+00:00"
     },
     "manual_9cb5bcbe07ac": {

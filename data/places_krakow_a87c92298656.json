@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T19:01:42.990537+00:00",
+  "updated_at": "2026-07-23T19:03:18.044207+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244715,6 +244715,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T19:01:42.884262+00:00",
       "created_at": "2026-07-23T19:01:42.884262+00:00"
+    },
+    "manual_4571df31a22f": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja \"U Muszkieterów\"",
+        "en": "Restauracja \"U Muszkieterów\"",
+        "uk": "Restauracja \"U Muszkieterów\""
+      },
+      "name": "Restauracja \"U Muszkieterów\"",
+      "address": "Kobierzyńska 175, 30-382 Kraków",
+      "lat": 50.018382192049124,
+      "lng": 19.905449460535923,
+      "geo_uri": "geo:50.018382192049124,19.905449460535923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.905449460535923,
+          50.018382192049124
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "531557213",
+      "website": "http://umuszkieterow.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T19:03:17.942024+00:00",
+      "created_at": "2026-07-23T19:03:17.942024+00:00"
     }
   }
 }

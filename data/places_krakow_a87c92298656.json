@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T17:31:57.785748+00:00",
+  "updated_at": "2026-07-23T18:25:36.899559+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244214,6 +244214,40 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T17:31:57.618945+00:00",
       "created_at": "2026-07-23T17:31:57.618945+00:00"
+    },
+    "manual_0254e0773e36": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room",
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Kawiarnia - bawialnia HOPS",
+        "en": "HOPS Cafe - Playroom",
+        "uk": "Кафе HOPS - Ігрова кімната"
+      },
+      "name": "Kawiarnia - bawialnia HOPS",
+      "address": "Jerozolimska 2B/LU1, 30-555 Kraków",
+      "lat": 50.03878519995126,
+      "lng": 19.97305869557205,
+      "geo_uri": "geo:50.03878519995126,19.97305869557205",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.97305869557205,
+          50.03878519995126
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://bawialniahops.oos.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:25:36.792136+00:00",
+      "created_at": "2026-07-23T18:25:36.792136+00:00"
     }
   }
 }

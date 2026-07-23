@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T17:28:27.055151+00:00",
+  "updated_at": "2026-07-23T17:31:57.785748+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244181,6 +244181,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T17:27:55.710380+00:00",
       "created_at": "2026-07-23T17:27:55.710380+00:00"
+    },
+    "manual_e6431f7297b7": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Smok Fałęcki - Sala zabaw i Park trampolin",
+        "en": "Smok Fałęcki - Playroom and Trampoline Park",
+        "uk": "Smok Fałęcki - Дитячий майданчик і батутний парк"
+      },
+      "name": "Smok Fałęcki - Sala zabaw i Park trampolin",
+      "address": "Półłanki 29g, 30-740 Kraków",
+      "lat": 50.03189596866674,
+      "lng": 20.045721867211267,
+      "geo_uri": "geo:50.03189596866674,20.045721867211267",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.045721867211267,
+          50.03189596866674
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.smokfalecki.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T17:31:57.618945+00:00",
+      "created_at": "2026-07-23T17:31:57.618945+00:00"
     }
   }
 }

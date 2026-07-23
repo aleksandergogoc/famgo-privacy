@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:25:20.400095+00:00",
+  "updated_at": "2026-07-23T20:26:06.815525+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -240126,16 +240126,16 @@
     "osm_node_12049488243": {
       "osm_id": "node/12049488243",
       "source": "osm",
-      "manual_override": false,
+      "manual_override": true,
       "categories": [
         "kids_friendly_restaurant"
       ],
       "names": {
-        "pl": "Zielone tarasy",
-        "en": "Zielone tarasy",
-        "uk": "Zielone tarasy"
+        "pl": "Zielone Tarasy",
+        "en": "Zielone Tarasy",
+        "uk": "Zielone Tarasy"
       },
-      "name": "Zielone tarasy",
+      "name": "Zielone Tarasy",
       "address": null,
       "lat": 50.0740943,
       "lng": 19.9350179,
@@ -240183,7 +240183,7 @@
         "toilets:unisex": "no",
         "toilets:wheelchair": "no"
       },
-      "updated_at": "2026-07-23T11:59:35.890147+00:00",
+      "updated_at": "2026-07-23T20:26:06.714214+00:00",
       "created_at": "2026-07-23T11:59:35.890147+00:00"
     },
     "osm_node_12066009570": {

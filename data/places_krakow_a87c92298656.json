@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T13:08:01.988556+00:00",
+  "updated_at": "2026-07-23T17:09:39.183282+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -243949,6 +243949,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T13:08:01.907337+00:00",
       "created_at": "2026-07-23T13:08:01.907337+00:00"
+    },
+    "manual_2bbd62aab99c": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Zakątek Zabawy Rekreacja i Edukacja",
+        "en": "Zakątek Zabawy Rekreacja i Edukacja",
+        "uk": "Zakątek Zabawy Rekreacja i Edukacja"
+      },
+      "name": "Zakątek Zabawy Rekreacja i Edukacja",
+      "address": "Zawiła 65e, 30-390 Kraków",
+      "lat": 50.009380056764286,
+      "lng": 19.899255037307743,
+      "geo_uri": "geo:50.009380056764286,19.899255037307743",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.899255037307743,
+          50.009380056764286
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": "666684660",
+      "website": "https://zakatekzabawy.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T17:09:39.101798+00:00",
+      "created_at": "2026-07-23T17:09:39.101798+00:00"
     }
   }
 }

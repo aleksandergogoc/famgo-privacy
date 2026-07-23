@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:32:28.823546+00:00",
+  "updated_at": "2026-07-23T20:34:52.570609+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244880,6 +244880,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T20:32:28.728072+00:00",
       "created_at": "2026-07-23T20:32:28.728072+00:00"
+    },
+    "manual_d5e7b97927d7": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja Pół na Pół",
+        "en": "Restauracja Pół na Pół",
+        "uk": "Restauracja Pół na Pół"
+      },
+      "name": "Restauracja Pół na Pół",
+      "address": "Kosocicka 105A, 30-694 Kraków",
+      "lat": 50.003272407172425,
+      "lng": 19.9944144487381,
+      "geo_uri": "geo:50.003272407172425,19.9944144487381",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9944144487381,
+          50.003272407172425
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "888333007",
+      "website": "https://polnapol.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T20:34:52.459811+00:00",
+      "created_at": "2026-07-23T20:34:52.459811+00:00"
     }
   }
 }

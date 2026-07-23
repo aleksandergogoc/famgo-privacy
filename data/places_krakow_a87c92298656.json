@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:39:44.593065+00:00",
+  "updated_at": "2026-07-23T18:42:03.072598+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244417,6 +244417,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:39:44.490905+00:00",
       "created_at": "2026-07-23T18:39:44.490905+00:00"
+    },
+    "manual_490e77031f40": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Kreatywna Planeta",
+        "en": "Kreatywna Planeta",
+        "uk": "Kreatywna Planeta"
+      },
+      "name": "Kreatywna Planeta",
+      "address": "Galeria Bronowice, Stawowa 61, 31-346 Kraków",
+      "lat": 50.09220736686155,
+      "lng": 19.8981124162674,
+      "geo_uri": "geo:50.09220736686155,19.8981124162674",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8981124162674,
+          50.09220736686155
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": null,
+      "website": null,
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:42:03.000032+00:00",
+      "created_at": "2026-07-23T18:42:03.000032+00:00"
     }
   }
 }

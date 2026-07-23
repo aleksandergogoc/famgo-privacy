@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:42:03.072598+00:00",
+  "updated_at": "2026-07-23T18:43:54.201458+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244450,6 +244450,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:42:03.000032+00:00",
       "created_at": "2026-07-23T18:42:03.000032+00:00"
+    },
+    "manual_9c68b778d9ea": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Kawa i zabawa - Kreatywny świat dziecka",
+        "en": "Kawa i zabawa - Kreatywny świat dziecka",
+        "uk": "Kawa i zabawa - Kreatywny świat dziecka"
+      },
+      "name": "Kawa i zabawa - Kreatywny świat dziecka",
+      "address": "Rusznikarska 14A, 31-261 Kraków",
+      "lat": 50.08772316134473,
+      "lng": 19.929058545054783,
+      "geo_uri": "geo:50.08772316134473,19.929058545054783",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.929058545054783,
+          50.08772316134473
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": null,
+      "website": "http://www.kawaizabawa.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:43:54.080185+00:00",
+      "created_at": "2026-07-23T18:43:54.080185+00:00"
     }
   }
 }

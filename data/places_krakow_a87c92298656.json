@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:48:43.011676+00:00",
+  "updated_at": "2026-07-23T18:51:37.837670+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244582,6 +244582,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:48:42.912291+00:00",
       "created_at": "2026-07-23T18:48:42.912291+00:00"
+    },
+    "manual_17131efec629": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Pro Familia - klub rodziców z dziećmi do lat 3",
+        "en": "Pro Familia - a club for parents with children up to 3 years old",
+        "uk": "Pro Familia - клуб для батьків з дітьми до 3 років"
+      },
+      "name": "Pro Familia - klub rodziców z dziećmi do lat 3",
+      "address": "osiedle Górali 15, 31-960 Kraków",
+      "lat": 50.082033763783095,
+      "lng": 20.04165119153347,
+      "geo_uri": "geo:50.082033763783095,20.04165119153347",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.04165119153347,
+          50.082033763783095
+        ]
+      },
+      "fee": false,
+      "opening_hours": null,
+      "phone": "784305610",
+      "website": "http://profamilia.pl/poradnia/kontakt/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:51:37.743595+00:00",
+      "created_at": "2026-07-23T18:51:37.743595+00:00"
     }
   }
 }

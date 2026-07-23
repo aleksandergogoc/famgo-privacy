@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T17:09:39.183282+00:00",
+  "updated_at": "2026-07-23T17:11:53.800278+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -243982,6 +243982,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T17:09:39.101798+00:00",
       "created_at": "2026-07-23T17:09:39.101798+00:00"
+    },
+    "manual_528872ae414d": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "FrajdoSfera",
+        "en": "FrajdoSfera",
+        "uk": "FrajdoSfera"
+      },
+      "name": "FrajdoSfera",
+      "address": "Zawiła 61, 30-390 Kraków",
+      "lat": 50.00764592863522,
+      "lng": 19.898970723152164,
+      "geo_uri": "geo:50.00764592863522,19.898970723152164",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.898970723152164,
+          50.00764592863522
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": "789025910",
+      "website": "https://www.frajdosfera.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T17:11:53.725378+00:00",
+      "created_at": "2026-07-23T17:11:53.725378+00:00"
     }
   }
 }

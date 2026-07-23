@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T19:03:18.044207+00:00",
+  "updated_at": "2026-07-23T19:05:08.330814+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244748,6 +244748,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T19:03:17.942024+00:00",
       "created_at": "2026-07-23T19:03:17.942024+00:00"
+    },
+    "manual_adbc3e8d55a9": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja Tesone",
+        "en": "Restauracja Tesone",
+        "uk": "Restauracja Tesone"
+      },
+      "name": "Restauracja Tesone",
+      "address": "Kobierzyńska 142, 30-382 Kraków",
+      "lat": 50.020311538894966,
+      "lng": 19.910419845753108,
+      "geo_uri": "geo:50.020311538894966,19.910419845753108",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.910419845753108,
+          50.020311538894966
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "530530533",
+      "website": "https://restauracjatesone.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T19:05:08.217415+00:00",
+      "created_at": "2026-07-23T19:05:08.217415+00:00"
     }
   }
 }

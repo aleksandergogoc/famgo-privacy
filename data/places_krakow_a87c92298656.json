@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T17:14:07.189260+00:00",
+  "updated_at": "2026-07-23T17:19:37.429511+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244048,6 +244048,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T17:14:07.103948+00:00",
       "created_at": "2026-07-23T17:14:07.103948+00:00"
+    },
+    "manual_dc8987178109": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "GOkidz! Park Rozrywki",
+        "en": "GOkidz! Amusement Park",
+        "uk": "GOkidz! Парк Розривки"
+      },
+      "name": "GOkidz! Park Rozrywki",
+      "address": "Rzemieślnicza 20G, 30-363 Kraków",
+      "lat": 50.03305130312388,
+      "lng": 19.930029799976534,
+      "geo_uri": "geo:50.03305130312388,19.930029799976534",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.930029799976534,
+          50.03305130312388
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": "786123322",
+      "website": "http://www.gokidz.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T17:19:37.322022+00:00",
+      "created_at": "2026-07-23T17:19:37.322022+00:00"
     }
   }
 }

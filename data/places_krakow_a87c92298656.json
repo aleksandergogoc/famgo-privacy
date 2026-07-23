@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:28:54.598074+00:00",
+  "updated_at": "2026-07-23T20:30:12.543583+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244814,6 +244814,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T20:28:54.501817+00:00",
       "created_at": "2026-07-23T20:28:54.501817+00:00"
+    },
+    "manual_ad3386a3c943": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja La Forchetta",
+        "en": "Restauracja La Forchetta",
+        "uk": "Restauracja La Forchetta"
+      },
+      "name": "Restauracja La Forchetta",
+      "address": "Józefa Marcika 27, 30-443 Kraków",
+      "lat": 50.008414744651674,
+      "lng": 19.934587776660923,
+      "geo_uri": "geo:50.008414744651674,19.934587776660923",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.934587776660923,
+          50.008414744651674
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "792717720",
+      "website": "https://laforchetta.goodresto.app/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T20:30:12.418738+00:00",
+      "created_at": "2026-07-23T20:30:12.418738+00:00"
     }
   }
 }

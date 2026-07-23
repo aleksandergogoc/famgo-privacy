@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T17:11:53.800278+00:00",
+  "updated_at": "2026-07-23T17:14:07.189260+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244015,6 +244015,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T17:11:53.725378+00:00",
       "created_at": "2026-07-23T17:11:53.725378+00:00"
+    },
+    "manual_b7959ca59f1a": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Klub Fikołki",
+        "en": "Klub Fikołki",
+        "uk": "Klub Fikołki"
+      },
+      "name": "Klub Fikołki",
+      "address": "Karola Bunscha 19, 30-392 Kraków",
+      "lat": 50.013175613888656,
+      "lng": 19.885763525962833,
+      "geo_uri": "geo:50.013175613888656,19.885763525962833",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.885763525962833,
+          50.013175613888656
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": "500200200",
+      "website": "https://fikolki.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T17:14:07.103948+00:00",
+      "created_at": "2026-07-23T17:14:07.103948+00:00"
     }
   }
 }

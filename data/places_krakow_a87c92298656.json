@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:34:53.901957+00:00",
+  "updated_at": "2026-07-23T18:36:17.713413+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244349,6 +244349,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:34:53.799749+00:00",
       "created_at": "2026-07-23T18:34:53.799749+00:00"
+    },
+    "manual_53c0a5ea764c": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "AleKlocki - Edukacyjna Sala Zabaw",
+        "en": "AleKlocki - Educational Playroom",
+        "uk": "AleKlocki - Освітня ігрова кімната"
+      },
+      "name": "AleKlocki - Edukacyjna Sala Zabaw",
+      "address": "Jasnogórska 9, 31-358 Kraków",
+      "lat": 50.09074739564969,
+      "lng": 19.893500634032527,
+      "geo_uri": "geo:50.09074739564969,19.893500634032527",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.893500634032527,
+          50.09074739564969
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": null,
+      "website": "http://www.aleklocki.com/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:36:17.636275+00:00",
+      "created_at": "2026-07-23T18:36:17.636275+00:00"
     }
   }
 }

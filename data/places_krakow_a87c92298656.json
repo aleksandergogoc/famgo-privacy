@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T17:25:23.092877+00:00",
+  "updated_at": "2026-07-23T17:27:55.819264+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244147,6 +244147,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T17:25:22.919416+00:00",
       "created_at": "2026-07-23T17:25:22.919416+00:00"
+    },
+    "manual_9cb5bcbe07ac": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Akukuu Centrum Zabaw Wola",
+        "en": "Akukuu Centrum Zabaw Wola",
+        "uk": "Akukuu Centrum Zabaw Wola"
+      },
+      "name": "Akukuu Centrum Zabaw Wola",
+      "address": "Koło Strzelnicy 5, 30-219 Kraków",
+      "lat": 50.06331706055112,
+      "lng": 19.88271749280162,
+      "geo_uri": "geo:50.06331706055112,19.88271749280162",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.88271749280162,
+          50.06331706055112
+        ]
+      },
+      "fee": true,
+      "opening_hours": null,
+      "phone": null,
+      "website": "http://www.akukuu.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T17:27:55.710380+00:00",
+      "created_at": "2026-07-23T17:27:55.710380+00:00"
     }
   }
 }

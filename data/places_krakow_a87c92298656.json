@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T18:27:44.881563+00:00",
+  "updated_at": "2026-07-23T18:31:45.533309+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244282,6 +244282,40 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T18:27:44.771692+00:00",
       "created_at": "2026-07-23T18:27:44.771692+00:00"
+    },
+    "manual_4eab226c2aa0": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room",
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Sala Zabaw w Echo Miasta",
+        "en": "Playroom in Echo Miasta",
+        "uk": "Ігрова кімната в  Echo Miasta"
+      },
+      "name": "Sala Zabaw w Echo Miasta",
+      "address": "Echo Miasta, Kapelanka 56, 30-347 Kraków",
+      "lat": 50.032241941687964,
+      "lng": 19.92529392242432,
+      "geo_uri": "geo:50.032241941687964,19.92529392242432",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.92529392242432,
+          50.032241941687964
+        ]
+      },
+      "fee": false,
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://www.ampapark.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-23T18:31:45.452486+00:00",
+      "created_at": "2026-07-23T18:31:45.452486+00:00"
     }
   }
 }

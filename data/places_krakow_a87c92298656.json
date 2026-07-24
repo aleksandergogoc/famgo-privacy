@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T07:28:19.432820+00:00",
+  "updated_at": "2026-07-24T07:54:33.736977+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245045,6 +245045,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T07:28:19.360458+00:00",
       "created_at": "2026-07-24T07:28:19.360458+00:00"
+    },
+    "manual_e4a1936fc6cd": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Bistro Praska",
+        "en": "Bistro Praska",
+        "uk": "Bistro Praska"
+      },
+      "name": "Bistro Praska",
+      "address": "Jana Pietrusińskiego 2, 30-321 Kraków",
+      "lat": 50.04617501183101,
+      "lng": 19.911362528800968,
+      "geo_uri": "geo:50.04617501183101,19.911362528800968",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.911362528800968,
+          50.04617501183101
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "533423040",
+      "website": "http://bistropraska.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T07:54:33.619495+00:00",
+      "created_at": "2026-07-24T07:54:33.619495+00:00"
     }
   }
 }

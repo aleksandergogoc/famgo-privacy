@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:17:34.991333+00:00",
+  "updated_at": "2026-07-24T08:18:38.632214+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245375,6 +245375,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:17:34.895715+00:00",
       "created_at": "2026-07-24T08:17:34.895715+00:00"
+    },
+    "manual_fb1c309ecf95": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Trattoria Cichy Kącik",
+        "en": "Trattoria Cichy Kącik",
+        "uk": "Trattoria Cichy Kącik"
+      },
+      "name": "Trattoria Cichy Kącik",
+      "address": "Daniela Chodowieckiego 1, 30-065 Kraków",
+      "lat": 50.062772962652595,
+      "lng": 19.904260039329532,
+      "geo_uri": "geo:50.062772962652595,19.904260039329532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.904260039329532,
+          50.062772962652595
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "795700725",
+      "website": "https://www.trattoriacichykacik.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:18:38.570824+00:00",
+      "created_at": "2026-07-24T08:18:38.570824+00:00"
     }
   }
 }

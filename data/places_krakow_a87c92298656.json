@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:05:32.736541+00:00",
+  "updated_at": "2026-07-24T08:08:11.794112+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245243,6 +245243,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:05:32.655776+00:00",
       "created_at": "2026-07-24T08:05:32.655776+00:00"
+    },
+    "manual_e53205e3b057": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Pan Twardowski Bistro",
+        "en": "Pan Twardowski Bistro",
+        "uk": "Pan Twardowski Bistro"
+      },
+      "name": "Pan Twardowski Bistro",
+      "address": "Twardowskiego 45, 30-312 Kraków",
+      "lat": 50.0450519715467,
+      "lng": 19.925822317600254,
+      "geo_uri": "geo:50.0450519715467,19.925822317600254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.925822317600254,
+          50.0450519715467
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "691777700",
+      "website": "https://www.twardowskibistro.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:08:11.714727+00:00",
+      "created_at": "2026-07-24T08:08:11.714727+00:00"
     }
   }
 }

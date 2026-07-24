@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:56:35.052993+00:00",
+  "updated_at": "2026-07-24T19:31:15.634972+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246200,6 +246200,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T11:56:34.980226+00:00",
       "created_at": "2026-07-24T11:56:34.980226+00:00"
+    },
+    "manual_acb0ebdf0372": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Keja Kawa Klubokawiarnia Rodzinna",
+        "en": "Keja Kawa Family Club Cafe",
+        "uk": "Keja Kawa Кафе сімейного клубу"
+      },
+      "name": "Keja Kawa Klubokawiarnia Rodzinna",
+      "address": "Władysława Podkowińskiego 4A/1, 31-321 Kraków",
+      "lat": 50.08497093295078,
+      "lng": 19.894762337207798,
+      "geo_uri": "geo:50.08497093295078,19.894762337207798",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.894762337207798,
+          50.08497093295078
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "793642736",
+      "website": "https://www.facebook.com/profile.php?id=61568188724632",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T19:31:15.540437+00:00",
+      "created_at": "2026-07-24T19:31:15.540437+00:00"
     }
   }
 }

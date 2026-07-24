@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:32:02.436037+00:00",
+  "updated_at": "2026-07-24T11:35:33.999976+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245936,6 +245936,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T11:32:02.327566+00:00",
       "created_at": "2026-07-24T11:32:02.327566+00:00"
+    },
+    "manual_c1e7e4875f3f": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Peperone",
+        "en": "Peperone",
+        "uk": "Peperone"
+      },
+      "name": "Peperone",
+      "address": "Przewóz 40A, 30-716 Kraków",
+      "lat": 50.04073870143488,
+      "lng": 19.996592402458194,
+      "geo_uri": "geo:50.04073870143488,19.996592402458194",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.996592402458194,
+          50.04073870143488
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "533307900",
+      "website": "https://www.peperone.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T11:35:33.931199+00:00",
+      "created_at": "2026-07-24T11:35:33.931199+00:00"
     }
   }
 }

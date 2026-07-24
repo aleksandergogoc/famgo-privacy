@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:34:26.003136+00:00",
+  "updated_at": "2026-07-24T19:37:50.598865+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246266,6 +246266,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T19:34:25.916975+00:00",
       "created_at": "2026-07-24T19:34:25.916975+00:00"
+    },
+    "manual_fb9302df02dc": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Szalone Widelce",
+        "en": "Szalone Widelce",
+        "uk": "Szalone Widelce"
+      },
+      "name": "Szalone Widelce",
+      "address": "Szpitalna 40, 31-024 Kraków",
+      "lat": 50.064357027988876,
+      "lng": 19.942264258861545,
+      "geo_uri": "geo:50.064357027988876,19.942264258861545",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.942264258861545,
+          50.064357027988876
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "124222346",
+      "website": "http://szalonewidelce.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T19:37:50.520186+00:00",
+      "created_at": "2026-07-24T19:37:50.520186+00:00"
     }
   }
 }

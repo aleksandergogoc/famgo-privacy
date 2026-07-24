@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:37:12.986367+00:00",
+  "updated_at": "2026-07-24T11:39:16.589375+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246002,6 +246002,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T11:37:12.898004+00:00",
       "created_at": "2026-07-24T11:37:12.898004+00:00"
+    },
+    "manual_1c7c3d417d65": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Aldente",
+        "en": "Aldente",
+        "uk": "Aldente"
+      },
+      "name": "Aldente",
+      "address": "Spółdzielców 3, 30-682 Kraków",
+      "lat": 50.01870466290717,
+      "lng": 19.98112410306931,
+      "geo_uri": "geo:50.01870466290717,19.98112410306931",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.98112410306931,
+          50.01870466290717
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "126555595",
+      "website": "http://aldentebistro.pl/zamow-online/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T11:39:16.510151+00:00",
+      "created_at": "2026-07-24T11:39:16.510151+00:00"
     }
   }
 }

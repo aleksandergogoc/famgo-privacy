@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:47:40.677101+00:00",
+  "updated_at": "2026-07-24T19:53:43.440972+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246365,6 +246365,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T19:47:40.603929+00:00",
       "created_at": "2026-07-24T19:47:40.603929+00:00"
+    },
+    "manual_d57c5de3cb62": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Otto Pompieri",
+        "en": "Otto Pompieri",
+        "uk": "Otto Pompieri"
+      },
+      "name": "Otto Pompieri",
+      "address": "Grzegórzecka 18, 31-531 Kraków",
+      "lat": 50.058878005674295,
+      "lng": 19.952679276466373,
+      "geo_uri": "geo:50.058878005674295,19.952679276466373",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.952679276466373,
+          50.058878005674295
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "126126621",
+      "website": "https://ottopompieri.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T19:53:43.362382+00:00",
+      "created_at": "2026-07-24T19:53:43.362382+00:00"
     }
   }
 }

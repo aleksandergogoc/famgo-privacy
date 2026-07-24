@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T20:00:05.394357+00:00",
+  "updated_at": "2026-07-24T20:02:07.983448+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246464,6 +246464,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T20:00:05.233954+00:00",
       "created_at": "2026-07-24T20:00:05.233954+00:00"
+    },
+    "manual_f6f3fe9229c1": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "kAVIArnia",
+        "en": "kAVIArnia",
+        "uk": "kAVIArnia"
+      },
+      "name": "kAVIArnia",
+      "address": "Osiedle Orlińskiego 5, 31-878 Kraków",
+      "lat": 50.08097278640931,
+      "lng": 20.00327914953232,
+      "geo_uri": "geo:50.08097278640931,20.00327914953232",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.00327914953232,
+          50.08097278640931
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "577775860",
+      "website": "https://www.facebook.com/Cafe-kaviarnia-103152351620579/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T20:02:07.902397+00:00",
+      "created_at": "2026-07-24T20:02:07.902397+00:00"
     }
   }
 }

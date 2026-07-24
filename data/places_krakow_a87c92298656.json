@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T20:03:47.953331+00:00",
+  "updated_at": "2026-07-24T20:06:48.462513+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246530,6 +246530,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T20:03:47.889298+00:00",
       "created_at": "2026-07-24T20:03:47.889298+00:00"
+    },
+    "manual_ebad0071a06f": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Well Done BBQ",
+        "en": "Well Done BBQ",
+        "uk": "Well Done BBQ"
+      },
+      "name": "Well Done BBQ",
+      "address": "Mostowa 2, 31-061 Kraków",
+      "lat": 50.048460627690694,
+      "lng": 19.945198595523838,
+      "geo_uri": "geo:50.048460627690694,19.945198595523838",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.945198595523838,
+          50.048460627690694
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "607132001",
+      "website": "https://welldonego.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T20:06:48.404016+00:00",
+      "created_at": "2026-07-24T20:06:48.404016+00:00"
     }
   }
 }

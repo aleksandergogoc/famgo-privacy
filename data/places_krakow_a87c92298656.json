@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:47:48.112899+00:00",
+  "updated_at": "2026-07-24T11:51:22.961273+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246101,6 +246101,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T11:47:48.031375+00:00",
       "created_at": "2026-07-24T11:47:48.031375+00:00"
+    },
+    "manual_0c1c29d39c9e": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja Szyb",
+        "en": "Restauracja Szyb",
+        "uk": "Restauracja Szyb"
+      },
+      "name": "Restauracja Szyb",
+      "address": "Szybisko 40, 30-698 Kraków",
+      "lat": 49.990873716113015,
+      "lng": 19.941671490669254,
+      "geo_uri": "geo:49.990873716113015,19.941671490669254",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.941671490669254,
+          49.990873716113015
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "692842879",
+      "website": "https://www.facebook.com/profile.php?id=61558467104519",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T11:51:22.872981+00:00",
+      "created_at": "2026-07-24T11:51:22.872981+00:00"
     }
   }
 }

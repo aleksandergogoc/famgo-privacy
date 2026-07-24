@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:26:59.710945+00:00",
+  "updated_at": "2026-07-24T08:28:38.694211+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245507,6 +245507,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:26:59.493931+00:00",
       "created_at": "2026-07-24T08:26:59.493931+00:00"
+    },
+    "manual_d45be541a0ea": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Fabbrica",
+        "en": "Fabbrica",
+        "uk": "Fabbrica"
+      },
+      "name": "Fabbrica",
+      "address": "Stańczyka 14, 30-126 Kraków",
+      "lat": 50.07795545375808,
+      "lng": 19.892037212848663,
+      "geo_uri": "geo:50.07795545375808,19.892037212848663",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.892037212848663,
+          50.07795545375808
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "124456868",
+      "website": "https://www.fabbrica.pl/krakow-stanczyka",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:28:38.623964+00:00",
+      "created_at": "2026-07-24T08:28:38.623964+00:00"
     }
   }
 }

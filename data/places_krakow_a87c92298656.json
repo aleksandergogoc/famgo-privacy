@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:53:43.440972+00:00",
+  "updated_at": "2026-07-24T19:57:03.083658+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246398,6 +246398,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T19:53:43.362382+00:00",
       "created_at": "2026-07-24T19:53:43.362382+00:00"
+    },
+    "manual_44e09dbde299": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Viale Verde Ristorante",
+        "en": "Viale Verde Ristorante",
+        "uk": "Viale Verde Ristorante"
+      },
+      "name": "Viale Verde Ristorante",
+      "address": "Aleja Pokoju 81, 31-564 Kraków",
+      "lat": 50.06746129997295,
+      "lng": 20.007640421390533,
+      "geo_uri": "geo:50.06746129997295,20.007640421390533",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.007640421390533,
+          50.06746129997295
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "512033066",
+      "website": "http://www.vialeverde.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T19:57:03.006139+00:00",
+      "created_at": "2026-07-24T19:57:03.006139+00:00"
     }
   }
 }

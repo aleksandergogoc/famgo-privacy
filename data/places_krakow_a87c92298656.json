@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:08:11.794112+00:00",
+  "updated_at": "2026-07-24T08:12:13.852368+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245276,6 +245276,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:08:11.714727+00:00",
       "created_at": "2026-07-24T08:08:11.714727+00:00"
+    },
+    "manual_dbd3509f7c56": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja Aquarius",
+        "en": "Restauracja Aquarius",
+        "uk": "Restauracja Aquarius"
+      },
+      "name": "Restauracja Aquarius",
+      "address": "bulwar Czerwieński 81, 31-069 Kraków",
+      "lat": 50.05474852381556,
+      "lng": 19.92894172668457,
+      "geo_uri": "geo:50.05474852381556,19.92894172668457",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.92894172668457,
+          50.05474852381556
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "505102644",
+      "website": "http://www.aquariuskrakow.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:12:13.756854+00:00",
+      "created_at": "2026-07-24T08:12:13.756854+00:00"
     }
   }
 }

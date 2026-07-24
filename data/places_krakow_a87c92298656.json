@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:22:01.108162+00:00",
+  "updated_at": "2026-07-24T08:25:12.341374+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245441,6 +245441,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:22:01.004807+00:00",
       "created_at": "2026-07-24T08:22:01.004807+00:00"
+    },
+    "manual_2d6a2c766b47": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Weselże się",
+        "en": "Weselże się",
+        "uk": "Weselże się"
+      },
+      "name": "Weselże się",
+      "address": "Bronowicka 56/Lu.1, 30-091 Kraków",
+      "lat": 50.07876101237462,
+      "lng": 19.897774457931522,
+      "geo_uri": "geo:50.07876101237462,19.897774457931522",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.897774457931522,
+          50.07876101237462
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "794123600",
+      "website": "https://www.facebook.com/profile.php?id=100093082981997",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:25:12.266457+00:00",
+      "created_at": "2026-07-24T08:25:12.266457+00:00"
     }
   }
 }

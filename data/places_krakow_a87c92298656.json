@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:39:16.589375+00:00",
+  "updated_at": "2026-07-24T11:42:13.133786+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246035,6 +246035,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T11:39:16.510151+00:00",
       "created_at": "2026-07-24T11:39:16.510151+00:00"
+    },
+    "manual_c08dea91cbb7": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Oberża Sąsiadów",
+        "en": "Oberża Sąsiadów",
+        "uk": "Oberża Sąsiadów"
+      },
+      "name": "Oberża Sąsiadów",
+      "address": "Kordiana 19, 30-653 Kraków",
+      "lat": 50.010746974500115,
+      "lng": 19.965156912803653,
+      "geo_uri": "geo:50.010746974500115,19.965156912803653",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.965156912803653,
+          50.010746974500115
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "126545294",
+      "website": "http://www.oberza.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T11:42:13.033530+00:00",
+      "created_at": "2026-07-24T11:42:13.033530+00:00"
     }
   }
 }

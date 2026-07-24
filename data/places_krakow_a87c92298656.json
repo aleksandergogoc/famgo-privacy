@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T07:25:43.612385+00:00",
+  "updated_at": "2026-07-24T07:28:19.432820+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245012,6 +245012,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T07:25:43.539268+00:00",
       "created_at": "2026-07-24T07:25:43.539268+00:00"
+    },
+    "manual_1a7a9a2765dd": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja rodzinna Manufaktura Pieroga",
+        "en": "Restauracja rodzinna Manufaktura Pieroga",
+        "uk": "Restauracja rodzinna Manufaktura Pieroga"
+      },
+      "name": "Restauracja rodzinna Manufaktura Pieroga",
+      "address": "Marii Konopnickiej 71, 30-333 Kraków",
+      "lat": 50.037806696751844,
+      "lng": 19.93824362754822,
+      "geo_uri": "geo:50.037806696751844,19.93824362754822",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93824362754822,
+          50.037806696751844
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "512302407",
+      "website": "http://manufakturapieroga.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T07:28:19.360458+00:00",
+      "created_at": "2026-07-24T07:28:19.360458+00:00"
     }
   }
 }

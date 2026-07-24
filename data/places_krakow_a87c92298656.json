@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:53:33.381952+00:00",
+  "updated_at": "2026-07-24T11:56:35.052993+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246167,6 +246167,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T11:53:33.308809+00:00",
       "created_at": "2026-07-24T11:53:33.308809+00:00"
+    },
+    "manual_b24bb40f8bf6": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Bistro Łobzów",
+        "en": "Bistro Łobzów",
+        "uk": "Bistro Łobzów"
+      },
+      "name": "Bistro Łobzów",
+      "address": "Józefa Wybickiego 54, 31-302 Kraków",
+      "lat": 50.082595836600355,
+      "lng": 19.91695493459702,
+      "geo_uri": "geo:50.082595836600355,19.91695493459702",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.91695493459702,
+          50.082595836600355
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "577102505",
+      "website": "http://www.bistrolobzow.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T11:56:34.980226+00:00",
+      "created_at": "2026-07-24T11:56:34.980226+00:00"
     }
   }
 }

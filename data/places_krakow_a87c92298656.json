@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T07:54:33.736977+00:00",
+  "updated_at": "2026-07-24T07:57:08.583698+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245078,6 +245078,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T07:54:33.619495+00:00",
       "created_at": "2026-07-24T07:54:33.619495+00:00"
+    },
+    "manual_0f9fb3acbf7f": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Konfederacka RestoBar",
+        "en": "Konfederacka RestoBar",
+        "uk": "Konfederacka RestoBar"
+      },
+      "name": "Konfederacka RestoBar",
+      "address": "Konfederacka 4, 30-306 Kraków",
+      "lat": 50.04994355006955,
+      "lng": 19.926500916481018,
+      "geo_uri": "geo:50.04994355006955,19.926500916481018",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.926500916481018,
+          50.04994355006955
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "576014331",
+      "website": "http://www.konfederackarestobar.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T07:57:08.500668+00:00",
+      "created_at": "2026-07-24T07:57:08.500668+00:00"
     }
   }
 }

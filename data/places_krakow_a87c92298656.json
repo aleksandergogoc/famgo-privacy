@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:03:22.360749+00:00",
+  "updated_at": "2026-07-24T08:05:32.736541+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245210,6 +245210,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:03:22.273343+00:00",
       "created_at": "2026-07-24T08:03:22.273343+00:00"
+    },
+    "manual_9ee37cd92410": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Haldi Garden - Indian Restaurant",
+        "en": "Haldi Garden - Indian Restaurant",
+        "uk": "Haldi Garden - Indian Restaurant"
+      },
+      "name": "Haldi Garden - Indian Restaurant",
+      "address": "Emaus 28B, 30-213 Kraków",
+      "lat": 50.056350074816606,
+      "lng": 19.906338751316074,
+      "geo_uri": "geo:50.056350074816606,19.906338751316074",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.906338751316074,
+          50.056350074816606
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "539627550",
+      "website": "http://haldi.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:05:32.655776+00:00",
+      "created_at": "2026-07-24T08:05:32.655776+00:00"
     }
   }
 }

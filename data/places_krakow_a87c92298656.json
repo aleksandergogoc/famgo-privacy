@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:35:33.999976+00:00",
+  "updated_at": "2026-07-24T11:37:12.986367+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245969,6 +245969,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T11:35:33.931199+00:00",
       "created_at": "2026-07-24T11:35:33.931199+00:00"
+    },
+    "manual_f8e7211a8fa4": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Peron Bagry",
+        "en": "Peron Bagry",
+        "uk": "Peron Bagry"
+      },
+      "name": "Peron Bagry",
+      "address": "ostatni budynek, przy kładce nad torami, Bagrowa 9, 30-732 Kraków",
+      "lat": 50.03034495364955,
+      "lng": 19.998697936534885,
+      "geo_uri": "geo:50.03034495364955,19.998697936534885",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.998697936534885,
+          50.03034495364955
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "570116131",
+      "website": "https://www.instagram.com/peronbagry.kr/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T11:37:12.898004+00:00",
+      "created_at": "2026-07-24T11:37:12.898004+00:00"
     }
   }
 }

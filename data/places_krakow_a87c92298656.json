@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:12:13.852368+00:00",
+  "updated_at": "2026-07-24T08:14:43.430126+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245309,6 +245309,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:12:13.756854+00:00",
       "created_at": "2026-07-24T08:12:13.756854+00:00"
+    },
+    "manual_a1521db51f5e": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Bezogródek Tropical Spot Food Truck Park",
+        "en": "Bezogródek Tropical Spot Food Truck Park",
+        "uk": "Bezogródek Tropical Spot Food Truck Park"
+      },
+      "name": "Bezogródek Tropical Spot Food Truck Park",
+      "address": "Aleja Marszałka Ferdynanda Focha 41, 30-119 Kraków",
+      "lat": 50.05655327854137,
+      "lng": 19.908264577388763,
+      "geo_uri": "geo:50.05655327854137,19.908264577388763",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.908264577388763,
+          50.05655327854137
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": null,
+      "website": "http://www.bezogrodektropicalspot.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:14:43.318205+00:00",
+      "created_at": "2026-07-24T08:14:43.318205+00:00"
     }
   }
 }

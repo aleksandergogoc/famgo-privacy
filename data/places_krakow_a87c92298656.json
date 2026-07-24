@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T20:39:26.051595+00:00",
+  "updated_at": "2026-07-24T07:25:43.612385+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -244979,6 +244979,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-23T20:39:25.942330+00:00",
       "created_at": "2026-07-23T20:39:25.942330+00:00"
+    },
+    "manual_9be46337ff24": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Skoro Świt",
+        "en": "Skoro Świt",
+        "uk": "Skoro Świt"
+      },
+      "name": "Skoro Świt",
+      "address": "Lubostroń 22G, 30-383 Kraków",
+      "lat": 50.01778779479369,
+      "lng": 19.894834756851196,
+      "geo_uri": "geo:50.01778779479369,19.894834756851196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.894834756851196,
+          50.01778779479369
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "788520992",
+      "website": "https://www.facebook.com/profile.php?id=61556628864934",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T07:25:43.539268+00:00",
+      "created_at": "2026-07-24T07:25:43.539268+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T07:58:57.266600+00:00",
+  "updated_at": "2026-07-24T08:01:27.713836+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245144,6 +245144,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T07:58:57.184847+00:00",
       "created_at": "2026-07-24T07:58:57.184847+00:00"
+    },
+    "manual_33644efb7942": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Koma",
+        "en": "Koma",
+        "uk": "Koma"
+      },
+      "name": "Koma",
+      "address": "Aleja Marszałka Ferdynanda Focha 42, 31-119 Kraków",
+      "lat": 50.05665315802282,
+      "lng": 19.90800440311432,
+      "geo_uri": "geo:50.05665315802282,19.90800440311432",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.90800440311432,
+          50.05665315802282
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "505253767",
+      "website": "https://www.komakrakow.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:01:27.638721+00:00",
+      "created_at": "2026-07-24T08:01:27.638721+00:00"
     }
   }
 }

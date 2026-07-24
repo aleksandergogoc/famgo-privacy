@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:28:38.694211+00:00",
+  "updated_at": "2026-07-24T08:40:14.180842+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245540,6 +245540,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:28:38.623964+00:00",
       "created_at": "2026-07-24T08:28:38.623964+00:00"
+    },
+    "manual_8e087e68b8de": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Peperone Nuovo - Restauracja Włoska",
+        "en": "Peperone Nuovo - Italian Restaurant",
+        "uk": "Peperone Nuovo - Італійський ресторан"
+      },
+      "name": "Peperone Nuovo - Restauracja Włoska",
+      "address": "Wizjonerów 2, 31-356 Kraków",
+      "lat": 50.084824644185325,
+      "lng": 19.88559722900391,
+      "geo_uri": "geo:50.084824644185325,19.88559722900391",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.88559722900391,
+          50.084824644185325
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "732559554",
+      "website": "https://www.peperonenuovo.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:40:14.103992+00:00",
+      "created_at": "2026-07-24T08:40:14.103992+00:00"
     }
   }
 }

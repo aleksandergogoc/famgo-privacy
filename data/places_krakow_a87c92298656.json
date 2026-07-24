@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:18:38.632214+00:00",
+  "updated_at": "2026-07-24T08:22:01.108162+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245408,6 +245408,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:18:38.570824+00:00",
       "created_at": "2026-07-24T08:18:38.570824+00:00"
+    },
+    "manual_f87e70a52f41": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja Wola Verde",
+        "en": "Restauracja Wola Verde",
+        "uk": "Restauracja Wola Verde"
+      },
+      "name": "Restauracja Wola Verde",
+      "address": "Królowej Jadwigi 184, 30-212 Kraków",
+      "lat": 50.06216687164432,
+      "lng": 19.887721538543705,
+      "geo_uri": "geo:50.06216687164432,19.887721538543705",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.887721538543705,
+          50.06216687164432
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "789607803",
+      "website": "https://wolaverde.pl/?lang=pl",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:22:01.004807+00:00",
+      "created_at": "2026-07-24T08:22:01.004807+00:00"
     }
   }
 }

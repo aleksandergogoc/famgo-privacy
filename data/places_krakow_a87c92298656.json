@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:25:12.341374+00:00",
+  "updated_at": "2026-07-24T08:26:59.710945+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245474,6 +245474,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:25:12.266457+00:00",
       "created_at": "2026-07-24T08:25:12.266457+00:00"
+    },
+    "manual_e039344043bd": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Bistro Koronkowa Kajzerka",
+        "en": "Bistro Koronkowa Kajzerka",
+        "uk": "Bistro Koronkowa Kajzerka"
+      },
+      "name": "Bistro Koronkowa Kajzerka",
+      "address": "Gabrieli Zapolskiej 24, 30-126 Kraków",
+      "lat": 50.07830143251446,
+      "lng": 19.895443618297577,
+      "geo_uri": "geo:50.07830143251446,19.895443618297577",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.895443618297577,
+          50.07830143251446
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "531435040",
+      "website": "https://koronkowakajzerka.eatbu.com/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:26:59.493931+00:00",
+      "created_at": "2026-07-24T08:26:59.493931+00:00"
     }
   }
 }

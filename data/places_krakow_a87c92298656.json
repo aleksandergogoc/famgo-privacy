@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:42:13.133786+00:00",
+  "updated_at": "2026-07-24T11:47:48.112899+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246068,6 +246068,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T11:42:13.033530+00:00",
       "created_at": "2026-07-24T11:42:13.033530+00:00"
+    },
+    "manual_ffa45f71014e": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Pieprz i Wanilia",
+        "en": "Pieprz i Wanilia",
+        "uk": "Pieprz i Wanilia"
+      },
+      "name": "Pieprz i Wanilia",
+      "address": "Gołaśka 1A, 30-619 Kraków",
+      "lat": 50.015285276234636,
+      "lng": 19.95051741600037,
+      "geo_uri": "geo:50.015285276234636,19.95051741600037",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.95051741600037,
+          50.015285276234636
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "516018748",
+      "website": "http://pieprzwanilia.com.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T11:47:48.031375+00:00",
+      "created_at": "2026-07-24T11:47:48.031375+00:00"
     }
   }
 }

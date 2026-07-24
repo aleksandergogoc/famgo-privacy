@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:46:25.539384+00:00",
+  "updated_at": "2026-07-24T19:47:40.677101+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246332,6 +246332,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T19:44:38.533671+00:00",
       "created_at": "2026-07-24T19:44:38.533671+00:00"
+    },
+    "manual_8e498661681c": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "ORZO",
+        "en": "ORZO",
+        "uk": "ORZO"
+      },
+      "name": "ORZO",
+      "address": "Lipowa 4A, 30-702 Kraków",
+      "lat": 50.04756671854734,
+      "lng": 19.960041940212253,
+      "geo_uri": "geo:50.04756671854734,19.960041940212253",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.960041940212253,
+          50.04756671854734
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "451655751",
+      "website": "http://www.orzo.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T19:47:40.603929+00:00",
+      "created_at": "2026-07-24T19:47:40.603929+00:00"
     }
   }
 }

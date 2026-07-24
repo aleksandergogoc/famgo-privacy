@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:46:48.095615+00:00",
+  "updated_at": "2026-07-24T08:49:23.738320+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245672,6 +245672,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:46:47.976427+00:00",
       "created_at": "2026-07-24T08:46:47.976427+00:00"
+    },
+    "manual_acf6caa14bda": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Fabbrica Kraków Prądnik",
+        "en": "Fabbrica Kraków Prądnik",
+        "uk": "Fabbrica Kraków Prądnik"
+      },
+      "name": "Fabbrica Kraków Prądnik",
+      "address": "Na Barciach 4, 31-423 Kraków",
+      "lat": 50.09168080472857,
+      "lng": 19.96113359928131,
+      "geo_uri": "geo:50.09168080472857,19.96113359928131",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.96113359928131,
+          50.09168080472857
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "122656463",
+      "website": "http://fabbrica.pl/krakow-na-barciach",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:49:23.669704+00:00",
+      "created_at": "2026-07-24T08:49:23.669704+00:00"
     }
   }
 }

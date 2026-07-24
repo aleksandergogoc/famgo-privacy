@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:14:43.430126+00:00",
+  "updated_at": "2026-07-24T08:17:34.991333+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245342,6 +245342,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:14:43.318205+00:00",
       "created_at": "2026-07-24T08:14:43.318205+00:00"
+    },
+    "manual_147f3d886573": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Błonia Bistro",
+        "en": "Błonia Bistro",
+        "uk": "Błonia Bistro"
+      },
+      "name": "Błonia Bistro",
+      "address": "al. 3 Maja 55, 30-062 Kraków",
+      "lat": 50.06237521629216,
+      "lng": 19.905708432197574,
+      "geo_uri": "geo:50.06237521629216,19.905708432197574",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.905708432197574,
+          50.06237521629216
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "727464015",
+      "website": "http://bloniabistro.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:17:34.895715+00:00",
+      "created_at": "2026-07-24T08:17:34.895715+00:00"
     }
   }
 }

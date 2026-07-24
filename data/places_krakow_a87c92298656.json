@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:44:54.459074+00:00",
+  "updated_at": "2026-07-24T08:46:48.095615+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245639,6 +245639,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:44:54.387885+00:00",
       "created_at": "2026-07-24T08:44:54.387885+00:00"
+    },
+    "manual_071f8897d2d1": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "MOZAIKA Resto Bar",
+        "en": "MOZAIKA Resto Bar",
+        "uk": "MOZAIKA Resto Bar"
+      },
+      "name": "MOZAIKA Resto Bar",
+      "address": "al. 29 Listopada 137, 31-406 Kraków",
+      "lat": 50.09125232342911,
+      "lng": 19.960422813892368,
+      "geo_uri": "geo:50.09125232342911,19.960422813892368",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.960422813892368,
+          50.09125232342911
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "608411224",
+      "website": "http://www.mozaikarestobar.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:46:47.976427+00:00",
+      "created_at": "2026-07-24T08:46:47.976427+00:00"
     }
   }
 }

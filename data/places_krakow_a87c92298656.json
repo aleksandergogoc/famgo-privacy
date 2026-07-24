@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T07:57:08.583698+00:00",
+  "updated_at": "2026-07-24T07:58:57.266600+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245111,6 +245111,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T07:57:08.500668+00:00",
       "created_at": "2026-07-24T07:57:08.500668+00:00"
+    },
+    "manual_bba6fee7a444": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Café Manggha",
+        "en": "Café Manggha",
+        "uk": "Café Manggha"
+      },
+      "name": "Café Manggha",
+      "address": "Marii Konopnickiej 26, 30-302 Kraków",
+      "lat": 50.05113364394619,
+      "lng": 19.931602478027347,
+      "geo_uri": "geo:50.05113364394619,19.931602478027347",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.931602478027347,
+          50.05113364394619
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "608679308",
+      "website": "https://www.facebook.com/CafeManggha/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T07:58:57.184847+00:00",
+      "created_at": "2026-07-24T07:58:57.184847+00:00"
     }
   }
 }

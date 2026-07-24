@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:49:23.738320+00:00",
+  "updated_at": "2026-07-24T08:52:25.588594+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245705,6 +245705,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:49:23.669704+00:00",
       "created_at": "2026-07-24T08:49:23.669704+00:00"
+    },
+    "manual_b120df2cd003": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja Luca",
+        "en": "Restauracja Luca",
+        "uk": "Restauracja Luca"
+      },
+      "name": "Restauracja Luca",
+      "address": "Reduta 26/LU2, 31-421 Kraków",
+      "lat": 50.09435141305499,
+      "lng": 19.981357455253605,
+      "geo_uri": "geo:50.09435141305499,19.981357455253605",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.981357455253605,
+          50.09435141305499
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "123803861",
+      "website": "https://restauracja-luca.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:52:25.489494+00:00",
+      "created_at": "2026-07-24T08:52:25.489494+00:00"
     }
   }
 }

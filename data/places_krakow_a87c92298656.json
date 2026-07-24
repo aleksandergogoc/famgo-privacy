@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:31:15.634972+00:00",
+  "updated_at": "2026-07-24T19:34:26.003136+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246233,6 +246233,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T19:31:15.540437+00:00",
       "created_at": "2026-07-24T19:31:15.540437+00:00"
+    },
+    "manual_da93adca6d23": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja Four",
+        "en": "Restauracja Four",
+        "uk": "Restauracja Four"
+      },
+      "name": "Restauracja Four",
+      "address": "Józefa Szujskiego 4, 31-123 Kraków",
+      "lat": 50.0638060546746,
+      "lng": 19.929295778274536,
+      "geo_uri": "geo:50.0638060546746,19.929295778274536",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.929295778274536,
+          50.0638060546746
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "453257721",
+      "website": "https://restauracjafour.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T19:34:25.916975+00:00",
+      "created_at": "2026-07-24T19:34:25.916975+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:40:14.180842+00:00",
+  "updated_at": "2026-07-24T08:42:49.641587+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245573,6 +245573,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:40:14.103992+00:00",
       "created_at": "2026-07-24T08:40:14.103992+00:00"
+    },
+    "manual_2d36c04121ef": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Trattoria Pergamin Wyki",
+        "en": "Trattoria Pergamin Wyki",
+        "uk": "Trattoria Pergamin Wyki"
+      },
+      "name": "Trattoria Pergamin Wyki",
+      "address": "Kazimierza Wyki 10A, 31-223 Kraków",
+      "lat": 50.092966225639834,
+      "lng": 19.922461509704593,
+      "geo_uri": "geo:50.092966225639834,19.922461509704593",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.922461509704593,
+          50.092966225639834
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "797705530",
+      "website": "https://trattoriawyki.goorder.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:42:49.548841+00:00",
+      "created_at": "2026-07-24T08:42:49.548841+00:00"
     }
   }
 }

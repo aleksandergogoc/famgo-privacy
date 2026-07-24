@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T08:52:25.588594+00:00",
+  "updated_at": "2026-07-24T08:54:45.764511+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -245738,6 +245738,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T08:52:25.489494+00:00",
       "created_at": "2026-07-24T08:52:25.489494+00:00"
+    },
+    "manual_f2c879c63f77": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Zielone Kąty",
+        "en": "Zielone Kąty",
+        "uk": "Zielone Kąty"
+      },
+      "name": "Zielone Kąty",
+      "address": "Park Reduta, Baziaka 5, 31-421 Kraków",
+      "lat": 50.09635255099198,
+      "lng": 19.986719191074375,
+      "geo_uri": "geo:50.09635255099198,19.986719191074375",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.986719191074375,
+          50.09635255099198
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "666618467",
+      "website": "https://zielonekaty.com/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T08:54:45.639734+00:00",
+      "created_at": "2026-07-24T08:54:45.639734+00:00"
     }
   }
 }

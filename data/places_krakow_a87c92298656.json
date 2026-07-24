@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T19:57:03.083658+00:00",
+  "updated_at": "2026-07-24T20:00:05.394357+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246431,6 +246431,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T19:57:03.006139+00:00",
       "created_at": "2026-07-24T19:57:03.006139+00:00"
+    },
+    "manual_ce4dd9678e94": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Lajkonik Piekarnia i Kawiarnia",
+        "en": "Lajkonik Bakery and Cafe",
+        "uk": "Пекарня та кафе Lajkonik"
+      },
+      "name": "Lajkonik Piekarnia i Kawiarnia",
+      "address": "Szewska 8, 31-009 Kraków",
+      "lat": 50.06238899111302,
+      "lng": 19.93504106998444,
+      "geo_uri": "geo:50.06238899111302,19.93504106998444",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.93504106998444,
+          50.06238899111302
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "885513310",
+      "website": "https://lajkonik-pik.pl/shop/szewska-8/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T20:00:05.233954+00:00",
+      "created_at": "2026-07-24T20:00:05.233954+00:00"
     }
   }
 }

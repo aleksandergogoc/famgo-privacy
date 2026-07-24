@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T11:51:22.961273+00:00",
+  "updated_at": "2026-07-24T11:53:33.381952+00:00",
   "places": {
     "osm_relation_61707": {
       "osm_id": "relation/61707",
@@ -246134,6 +246134,39 @@
       "osm_tags": {},
       "updated_at": "2026-07-24T11:51:22.872981+00:00",
       "created_at": "2026-07-24T11:51:22.872981+00:00"
+    },
+    "manual_b31482b42682": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Krakowska Spiżarnia",
+        "en": "Krakowska Spiżarnia",
+        "uk": "Krakowska Spiżarnia"
+      },
+      "name": "Krakowska Spiżarnia",
+      "address": "Leona Petrażyckiego 27, 30-399 Kraków",
+      "lat": 49.984085927995366,
+      "lng": 19.892337620258335,
+      "geo_uri": "geo:49.984085927995366,19.892337620258335",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.892337620258335,
+          49.984085927995366
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "502262805",
+      "website": "https://www.krakowskaspizarnia.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-07-24T11:53:33.308809+00:00",
+      "created_at": "2026-07-24T11:53:33.308809+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T12:48:50.872891+00:00",
+  "updated_at": "2026-07-31T12:58:16.296146+00:00",
   "events": {
     "106-rocznica-bitwy-warszawskiej-2026-08-15": {
       "scrapped_timestamp": "2026-06-23T18:56:51.217293+00:00",
@@ -17640,6 +17640,764 @@
       },
       "district": "Wola",
       "updated_at": "2026-07-31T07:17:07.927881+00:00"
+    },
+    "lato-w-mie-cie-w-muzeum-mt-5-14-2026-08-04T11:00:00+02:00": {
+      "title": "Lato w mieście w Muzeum Mt 5,14",
+      "date": "2026-08-04T11:00:00+02:00",
+      "end_date": "2026-08-07T13:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Pokazy teatrzyku kamishibai, tworzenie własnych obrazkowych opowieści, warsztaty plastyczne oraz lekcje rysunku znalazły się w ofercie wakacyjnych zajęć przygotowanych przez Muzeum Mt 5,14. Na wydarzenia organizowane w ramach akcji „Lato w mieście” obowiązują wcześniejsze zapisy.",
+      "image": "https://wilanow.um.warszawa.pl/documents/44464/162670669/plakat_v2_lato_w+miescie_edukacja_06_2026_page-0001.jpg/01d1dc23-2426-9df5-6ec1-9facb1e6f982?version=1.0&t=1782997912868&imagePreview=1",
+      "url": "https://wilanow.um.warszawa.pl/-/lato-w-miescie-w-muzeum-mt-5-14",
+      "source": "um.warszawa.pl",
+      "district": "Wilanów",
+      "scrapped_url": "https://wilanow.um.warszawa.pl/-/lato-w-miescie-w-muzeum-mt-5-14",
+      "scrapped_timestamp": "2026-07-31T12:55:59.859577+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Lato w mieście w Muzeum Mt 5,14",
+          "description": "Pokazy teatrzyku kamishibai, tworzenie własnych obrazkowych opowieści, warsztaty plastyczne oraz lekcje rysunku znalazły się w ofercie wakacyjnych zajęć przygotowanych przez Muzeum Mt 5,14. Na wydarzenia organizowane w ramach akcji „Lato w mieście” obowiązują wcześniejsze zapisy."
+        },
+        "en": {
+          "title": "Summer in the City at Museum Mt 5,14",
+          "description": "Kamishibai theater shows, creating your own picture stories, art workshops, and drawing lessons are part of the summer activities prepared by Museum Mt 5,14. Pre-registration is required for events organized as part of the 'Summer in the City' initiative."
+        },
+        "uk": {
+          "title": "Літо в місті в Музеї Mt 5,14",
+          "description": "Покази театру камішибай, створення власних образкових оповідань, художні майстерні та уроки малювання стали частиною літніх занять, підготовлених Музеєм Mt 5,14. Для подій, організованих в рамках акції «Літо в місті», обов'язкове попереднє записування."
+        }
+      },
+      "updated_at": "2026-07-31T12:58:16.207358+00:00"
+    },
+    "spotkania-z-literatur-oraz-grami-i-zabawami-dzieci-cymi-2026-08-06T10:00:00+02:00": {
+      "title": "Spotkania z literaturą oraz grami i zabawami dziecięcymi",
+      "date": "2026-08-06T10:00:00+02:00",
+      "end_date": "2026-08-06T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na spotkania dla miłośników puzzli i gier planszowych. Zajęcia pozwolą miło spędzić czas wśród ciekawych gier, wyzwań i dobrej zabawy. Wstęp wolny dla grup, bez ograniczeń wiekowych. Wiek: 6-10 lat. Obowiązują zapisy. Aby uzyskać więcej informacji oraz zapisać się, prosimy o kontakt pod numerem telefonu 510 099 606 lub drogą mailową na adres: golabki@bpursus.waw.pl W zależności od pogody wszystkie zajęcia będą odbywały się w Eko Parku lub w sali dziecięcej Filii...",
+      "image": null,
+      "url": "https://ursus.um.warszawa.pl/-/spotkania-z-literatura-oraz-grami-i-zabawami-dzieciecymi",
+      "source": "um.warszawa.pl",
+      "district": "Ursus",
+      "location": {
+        "name": "Biblioteka Publiczna - Filia \"Gołąbki\", Czerwona Droga 6, 02-495 Warszawa",
+        "district": "Ursus"
+      },
+      "scrapped_url": "https://ursus.um.warszawa.pl/-/spotkania-z-literatura-oraz-grami-i-zabawami-dzieciecymi",
+      "scrapped_timestamp": "2026-07-31T12:56:04.737576+00:00",
+      "category": "Games",
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
+      "translations": {
+        "pl": {
+          "title": "Spotkania z literaturą oraz grami i zabawami dziecięcymi",
+          "description": "Zapraszamy na spotkania dla miłośników puzzli i gier planszowych. Zajęcia pozwolą miło spędzić czas wśród ciekawych gier, wyzwań i dobrej zabawy. Wstęp wolny dla grup, bez ograniczeń wiekowych. Wiek: 6-10 lat. Obowiązują zapisy. Aby uzyskać więcej informacji oraz zapisać się, prosimy o kontakt pod numerem telefonu 510 099 606 lub drogą mailową na adres: golabki@bpursus.waw.pl W zależności od pogody wszystkie zajęcia będą odbywały się w Eko Parku lub w sali dziecięcej Filii..."
+        },
+        "en": {
+          "title": "Meetings with Literature and Children's Games and Activities",
+          "description": "We invite you to meetings for puzzle and board game enthusiasts. The activities will allow for a pleasant time spent among interesting games, challenges, and good fun. Free entry for groups, with no age restrictions. Age: 6-10 years. Registration is required. For more information and to register, please contact us at 510 099 606 or via email at golabki@bpursus.waw.pl. Depending on the weather, all activities will take place in Eko Park or in the children's room of the Branch..."
+        },
+        "uk": {
+          "title": "Зустрічі з літературою та дитячими іграми та розвагами",
+          "description": "Запрошуємо на зустрічі для любителів пазлів та настільних ігор. Заняття дозволять приємно провести час серед цікавих ігор, викликів та гарного настрою. Вхід вільний для груп, без вікових обмежень. Вік: 6-10 років. Обов'язкове попереднє записування. Щоб отримати більше інформації та записатися, будь ласка, зв'яжіться за номером телефону 510 099 606 або електронною поштою на адресу: golabki@bpursus.waw.pl. В залежності від погоди всі заняття відбуватимуться в Еко Парку або в дитячій кімнаті Філії..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-07-31T12:58:16.207394+00:00"
+    },
+    "kolorami-do-celu-zaj-cia-kreatywne-2026-08-07T10:00:00+02:00": {
+      "title": "Kolorami do celu - zajęcia kreatywne",
+      "date": "2026-08-07T10:00:00+02:00",
+      "end_date": "2026-08-07T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na zajęcia kreatywne i logiczne wyzwania dla dzieci. Spotkanie sprzyja wspólnemu spędzaniu czasu, rozwijaniu pasji rywalizacji i budowaniu więzi w grupie. Dla dzieci w wieku: 6-10 lat Wstęp wolny dla uczestników indywidualnych.",
+      "image": null,
+      "url": "https://ursus.um.warszawa.pl/-/kolorami-do-celu-zajecia-kreatywne",
+      "source": "um.warszawa.pl",
+      "district": "Ursus",
+      "location": {
+        "name": "Biblioteka Publiczna - Filia „Szamoty”, Silnikowa 8A, 02-495 Warszawa",
+        "district": "Ursus"
+      },
+      "scrapped_url": "https://ursus.um.warszawa.pl/-/kolorami-do-celu-zajecia-kreatywne",
+      "scrapped_timestamp": "2026-07-31T12:56:11.625642+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
+      "translations": {
+        "pl": {
+          "title": "Kolorami do celu - zajęcia kreatywne",
+          "description": "Zapraszamy na zajęcia kreatywne i logiczne wyzwania dla dzieci. Spotkanie sprzyja wspólnemu spędzaniu czasu, rozwijaniu pasji rywalizacji i budowaniu więzi w grupie. Dla dzieci w wieku: 6-10 lat Wstęp wolny dla uczestników indywidualnych."
+        },
+        "en": {
+          "title": "Coloring to the Goal - Creative Workshops",
+          "description": "We invite you to creative activities and logical challenges for children. The meeting encourages spending time together, developing a passion for competition, and building bonds within the group. For children aged 6-10 years. Free entry for individual participants."
+        },
+        "uk": {
+          "title": "Кольорами до мети - креативні заняття",
+          "description": "Запрошуємо на креативні заняття та логічні виклики для дітей. Зустріч сприяє спільному проведенню часу, розвитку пристрасті до змагань та побудові зв'язків у групі. Для дітей віком: 6-10 років. Вхід вільний для індивідуальних учасників."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-07-31T12:58:16.207422+00:00"
+    },
+    "kolorowe-pi-tki-czytamy-gramy-tworzymy-2026-08-07T10:00:00+02:00": {
+      "title": "Kolorowe Piątki – Czytamy, Gramy, Tworzymy!",
+      "date": "2026-08-07T10:00:00+02:00",
+      "end_date": "2026-08-07T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy dzieci do udziału w wakacyjnych zajęciach kreatywnych. Program obejmuje: - animację książki przez wspólne czytanie fragmentu i rozmowa o nim, - różnorodne aktywności plastyczne. Wymagane zapisy dla grup zorganizowanych, wiek bez ograniczeń.",
+      "image": null,
+      "url": "https://ursus.um.warszawa.pl/-/kolorowe-piatki-czytamy-gramy-tworzymy-",
+      "source": "um.warszawa.pl",
+      "district": "Ursus",
+      "location": {
+        "name": "Biblioteka Publiczna - Czytelnia nr XIX, Kolorowa 17, 02-495 Warszawa",
+        "district": "Ursus"
+      },
+      "scrapped_url": "https://ursus.um.warszawa.pl/-/kolorowe-piatki-czytamy-gramy-tworzymy-",
+      "scrapped_timestamp": "2026-07-31T12:56:16.507156+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Kolorowe Piątki – Czytamy, Gramy, Tworzymy!",
+          "description": "Zapraszamy dzieci do udziału w wakacyjnych zajęciach kreatywnych. Program obejmuje: - animację książki przez wspólne czytanie fragmentu i rozmowa o nim, - różnorodne aktywności plastyczne. Wymagane zapisy dla grup zorganizowanych, wiek bez ograniczeń."
+        },
+        "en": {
+          "title": "Colorful Fridays – We Read, Play, Create!",
+          "description": "We invite children to participate in summer creative activities. The program includes: - book animation through shared reading of a fragment and discussion about it, - various artistic activities. Registration is required for organized groups, age is not limited."
+        },
+        "uk": {
+          "title": "Кольорові П'ятниці – Читаємо, Граємо, Творимо!",
+          "description": "Запрошуємо дітей до участі у літніх творчих заняттях. Програма включає: - анімацію книги через спільне читання фрагмента та обговорення його, - різноманітні художні активності. Вимагються записи для організованих груп, вік без обмежень."
+        }
+      },
+      "updated_at": "2026-07-31T12:58:16.207449+00:00"
+    },
+    "gry-i-zabawy-dawniej-i-dzi-2026-08-07T12:00:00+02:00": {
+      "title": "Gry i zabawy dawniej i dziś",
+      "date": "2026-08-07T12:00:00+02:00",
+      "end_date": "2026-08-07T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na spotkania pełne ruchu, zabawy i wspólnego spędzania wolnego czasu, podczas skakania na skakance, grania w gumę, klasy oraz rozwiązywania łamigłówek i innych zabaw. Dla uczestników indywidualnych: Wstęp wolny, wiek od 6 lat. Kontakty: tel. 22 882 43 00 wewnętrzny 1 e - mail: bdm116@bpursus.waw.pl",
+      "image": null,
+      "url": "https://ursus.um.warszawa.pl/-/gry-i-zabawy-dawniej-i-dzis",
+      "source": "um.warszawa.pl",
+      "district": "Ursus",
+      "location": {
+        "name": "Biblioteka Publiczna - Oddział \"Czechowice\", Plutonu AK \"Torpedy\" 47, 02-495 Warszawa",
+        "district": "Ursus"
+      },
+      "scrapped_url": "https://ursus.um.warszawa.pl/-/gry-i-zabawy-dawniej-i-dzis",
+      "scrapped_timestamp": "2026-07-31T12:56:20.744886+00:00",
+      "category": "Games",
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "translations": {
+        "pl": {
+          "title": "Gry i zabawy dawniej i dziś",
+          "description": "Zapraszamy na spotkania pełne ruchu, zabawy i wspólnego spędzania wolnego czasu, podczas skakania na skakance, grania w gumę, klasy oraz rozwiązywania łamigłówek i innych zabaw. Dla uczestników indywidualnych: Wstęp wolny, wiek od 6 lat. Kontakty: tel. 22 882 43 00 wewnętrzny 1 e - mail: bdm116@bpursus.waw.pl"
+        },
+        "en": {
+          "title": "Games and Fun Then and Now",
+          "description": "We invite you to meetings full of movement, fun, and spending free time together, while jumping rope, playing elastics, hopscotch, and solving puzzles and other games. For individual participants: Free admission, age from 6 years. Contacts: phone 22 882 43 00 extension 1, email: bdm116@bpursus.waw.pl"
+        },
+        "uk": {
+          "title": "Ігри та забави колись і сьогодні",
+          "description": "Запрошуємо на зустрічі, сповнені руху, забави та спільного проведення вільного часу, під час стрибків на скакалці, гри в гуму, класики та розв'язування головоломок і інших забав. Для індивідуальних учасників: Вхід вільний, вік від 6 років. Контакти: тел. 22 882 43 00 внутрішній 1, електронна пошта: bdm116@bpursus.waw.pl"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-07-31T12:58:16.207474+00:00"
+    },
+    "lato-w-mie-cie-w-muzeum-mt-5-14-warsztaty-plastyczne-2026-08-04T11:00:00+02:00": {
+      "title": "Lato w mieście w Muzeum Mt 5,14 – warsztaty plastyczne",
+      "date": "2026-08-04T11:00:00+02:00",
+      "end_date": "2026-08-04T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Warsztaty artystyczne z motywami zwierząt oraz lekcje rysunku, w ramach wakacyjnej akcji \"Lato w mieście\". Zajęcia otwarte dla rodzin z dziećmi, powtarzane codziennie od 4 do 7 sierpnia o tej samej porze.",
+      "url": "https://wilanow.um.warszawa.pl/-/lato-w-miescie-w-muzeum-mt-5-14",
+      "source": "wilanow.um.warszawa.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 5,
+        "max": 6
+      },
+      "location": {
+        "name": "Muzeum Mt 5,14   · ul. Prymasa Hlonda 1",
+        "district": "Wilanów"
+      },
+      "image": "https://cdn.um.warszawa.pl/documents/44464/162670669/plakat_v2_lato_w+miescie_edukacja_06_2026_page-0001.jpg/01d1dc23-2426-9df5-6ec1-9facb1e6f982?version=1.1&t=1782998123896&imageThumbnail=1",
+      "scrapped_url": "https://wilanow.um.warszawa.pl/-/lato-w-miescie-w-muzeum-mt-5-14",
+      "scrapped_timestamp": "2026-07-31T12:56:25.487669+00:00",
+      "translations": {
+        "pl": {
+          "title": "Lato w mieście w Muzeum Mt 5,14 – warsztaty plastyczne",
+          "description": "Warsztaty artystyczne z motywami zwierząt oraz lekcje rysunku, w ramach wakacyjnej akcji \"Lato w mieście\". Zajęcia otwarte dla rodzin z dziećmi, powtarzane codziennie od 4 do 7 sierpnia o tej samej porze."
+        },
+        "en": {
+          "title": "Summer in the City at Mt 5:14 Museum – Art Workshops",
+          "description": "Art workshops featuring animal themes and drawing lessons, as part of the summer initiative 'Summer in the City'. Open sessions for families with children, repeated daily from August 4 to August 7 at the same time."
+        },
+        "uk": {
+          "title": "Літо в місті в Музеї Mt 5,14 – художні майстерні",
+          "description": "Художні майстерні з мотивами тварин та уроки малювання в рамках літньої акції \"Літо в місті\". Заняття відкриті для сімей з дітьми, повторюються щодня з 4 по 7 серпня в один і той же час."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Wilanów",
+      "updated_at": "2026-07-31T12:58:16.207504+00:00"
+    },
+    "festiwal-klock-w-connect-w-g-city-targ-wek-2026-07-31T12:00:00+02:00": {
+      "title": "Festiwal Klocków CONNECT w G City Targówek",
+      "date": "2026-07-31T12:00:00+02:00",
+      "end_date": "2026-07-31T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Klocki, gaming i kreatywna zabawa. G City Targówek zaprasza na Festiwal Klocków CONNECT Wakacje w mieście nie muszą oznaczać nudy. Już od 13 lipca G City Targówek zamieni się w przestrzeń pełną kreatywnej zabawy, gamingu i rodzinnych aktywności. Festiwal Klocków CONNECT i ROBLOX pozwoli najmłodszym budować, projektować i odkrywać świat nowych technologii, łącząc zabawę offline z cyfrowymi przygodami w jednym z najpopularniejszych środowisk gamingowych wśród dzieci. Jak połączyć wakacyjną zabawę z rozwijaniem kreatywności i zainteresowań najmłodszych? Odpowiedzią może być Festiwal Klocków CONNECT i ROBLOX, który od 13 do 31 lipca zagości w G City Targówek. Przez niemal trzy tygodnie centrum handlowe stanie się przestrzenią, w której świat tradycyjnego budowania spotka się z nowoczesnymi technologiami, a dzieci będą mogły rozwijać wyobraźnię zarówno offline, jak i online. Wydarzenie skierowane jest do rodzin z dziećmi oraz młodych fanów gamingu, którzy podczas wakacji szukają inspirujących i angażujących aktywności. Organizatorzy przygotowali program łączący kreatywną zabawę, elementy edukacyjne oraz popularny świat gier cyfrowych. Od klocków do świata Roblox W ostatnich latach platforma Roblox stała się jednym z najpopularniejszych środowisk cyfrowej rozrywki wśród dzieci i młodzieży. Festiwal w G City Targówek wykorzystuje tę popularność, pokazując, że świat wirtualny może iść w parze z rozwijaniem kreatywności oraz umiejętności projektowych. Uczestnicy wydarzenia będą mogli odwiedzić specjalną strefę gamingową, w której czekać będą misje i wyzwania w świecie Treflandii stworzonym na platformie Roblox. To okazja, by zanurzyć się w interaktywnej przygodzie i sprawdzić swoje umiejętności podczas realizacji kolejnych zadań. Jednocześnie organizatorzy zachęcają do przeniesienia pomysłów z ekranu do rzeczywistości. W strefie klocków CONNECT dzieci będą mogły budować własne konstrukcje, eksperymentować z formą i tworzyć projekty rozwijające wyobraźnię przestrzenną. Kreatywne wakacje w mieście Wakacje w mieście nie muszą oznaczać nudy. Festiwal został zaprojektowany tak, aby każdego dnia oferować uczestnikom różnorodne aktywności, które angażują zarówno indywidualnie, jak i zespołowo. W programie znalazły się m.in. warsztaty projektowania gier, podczas których młodzi uczestnicy poznają podstawy tworzenia cyfrowych światów i mechanik rozgrywki. To propozycja dla dzieci zainteresowanych nie tylko graniem, ale również procesem powstawania gier. Dużą atrakcją będzie także wspólne budowanie dużych konstrukcji z klocków CONNECT. Takie aktywności rozwijają współpracę, uczą planowania oraz pokazują, jak kreatywne pomysły mogą nabierać realnych kształtów. Nauka przez zabawę Choć wydarzenie ma przede wszystkim charakter rozrywkowy, jego organizatorzy zwracają uwagę na walory edukacyjne przygotowanych aktywności. Budowanie z klocków wspiera rozwój zdolności manualnych i wyobraźni przestrzennej, natomiast warsztaty związane z projektowaniem gier pozwalają dzieciom spojrzeć na technologię z perspektywy twórców, a nie wyłącznie użytkowników. Coraz większą popularnością cieszą się wydarzenia, które w atrakcyjny sposób łączą zabawę z rozwijaniem kompetencji przyszłości, takich jak kreatywne myślenie, rozwiązywanie problemów czy współpraca w grupie. Konkursy, nagrody i pamiątkowe zdjęcia Na uczestników czekać będą również konkursy z nagrodami oraz specjalna strefa fotograficzna inspirowana światem Treflandii. Dzięki temu dzieci będą mogły nie tylko aktywnie spędzić czas, ale także zabrać ze sobą wyjątkowe wspomnienia z wakacyjnej przygody. Organizatorzy podkreślają, że wydarzenie ma charakter otwarty i jest dostępne dla wszystkich zainteresowanych rodzin. Udział we wszystkich atrakcjach jest bezpłatny.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1200.1783934166.webp",
+      "location": {
+        "name": "Głębocka 15",
+        "district": "Targówek"
+      },
+      "url": "https://targowek.gcity.pl/aktualnosci/festiwal-klockow-connect-i-roblox-w-g-city-targowek/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://targowek.gcity.pl/aktualnosci/festiwal-klockow-connect-i-roblox-w-g-city-targowek/",
+      "scrapped_timestamp": "2026-07-31T12:56:28.876414+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Festiwal Klocków CONNECT w G City Targówek",
+          "description": "Klocki, gaming i kreatywna zabawa. G City Targówek zaprasza na Festiwal Klocków CONNECT Wakacje w mieście nie muszą oznaczać nudy. Już od 13 lipca G City Targówek zamieni się w przestrzeń pełną kreatywnej zabawy, gamingu i rodzinnych aktywności. Festiwal Klocków CONNECT i ROBLOX pozwoli najmłodszym budować, projektować i odkrywać świat nowych technologii, łącząc zabawę offline z cyfrowymi przygodami w jednym z najpopularniejszych środowisk gamingowych wśród dzieci. Jak połączyć wakacyjną zabawę z rozwijaniem kreatywności i zainteresowań najmłodszych? Odpowiedzią może być Festiwal Klocków CONNECT i ROBLOX, który od 13 do 31 lipca zagości w G City Targówek. Przez niemal trzy tygodnie centrum handlowe stanie się przestrzenią, w której świat tradycyjnego budowania spotka się z nowoczesnymi technologiami, a dzieci będą mogły rozwijać wyobraźnię zarówno offline, jak i online. Wydarzenie skierowane jest do rodzin z dziećmi oraz młodych fanów gamingu, którzy podczas wakacji szukają inspirujących i angażujących aktywności. Organizatorzy przygotowali program łączący kreatywną zabawę, elementy edukacyjne oraz popularny świat gier cyfrowych. Od klocków do świata Roblox W ostatnich latach platforma Roblox stała się jednym z najpopularniejszych środowisk cyfrowej rozrywki wśród dzieci i młodzieży. Festiwal w G City Targówek wykorzystuje tę popularność, pokazując, że świat wirtualny może iść w parze z rozwijaniem kreatywności oraz umiejętności projektowych. Uczestnicy wydarzenia będą mogli odwiedzić specjalną strefę gamingową, w której czekać będą misje i wyzwania w świecie Treflandii stworzonym na platformie Roblox. To okazja, by zanurzyć się w interaktywnej przygodzie i sprawdzić swoje umiejętności podczas realizacji kolejnych zadań. Jednocześnie organizatorzy zachęcają do przeniesienia pomysłów z ekranu do rzeczywistości. W strefie klocków CONNECT dzieci będą mogły budować własne konstrukcje, eksperymentować z formą i tworzyć projekty rozwijające wyobraźnię przestrzenną. Kreatywne wakacje w mieście Wakacje w mieście nie muszą oznaczać nudy. Festiwal został zaprojektowany tak, aby każdego dnia oferować uczestnikom różnorodne aktywności, które angażują zarówno indywidualnie, jak i zespołowo. W programie znalazły się m.in. warsztaty projektowania gier, podczas których młodzi uczestnicy poznają podstawy tworzenia cyfrowych światów i mechanik rozgrywki. To propozycja dla dzieci zainteresowanych nie tylko graniem, ale również procesem powstawania gier. Dużą atrakcją będzie także wspólne budowanie dużych konstrukcji z klocków CONNECT. Takie aktywności rozwijają współpracę, uczą planowania oraz pokazują, jak kreatywne pomysły mogą nabierać realnych kształtów. Nauka przez zabawę Choć wydarzenie ma przede wszystkim charakter rozrywkowy, jego organizatorzy zwracają uwagę na walory edukacyjne przygotowanych aktywności. Budowanie z klocków wspiera rozwój zdolności manualnych i wyobraźni przestrzennej, natomiast warsztaty związane z projektowaniem gier pozwalają dzieciom spojrzeć na technologię z perspektywy twórców, a nie wyłącznie użytkowników. Coraz większą popularnością cieszą się wydarzenia, które w atrakcyjny sposób łączą zabawę z rozwijaniem kompetencji przyszłości, takich jak kreatywne myślenie, rozwiązywanie problemów czy współpraca w grupie. Konkursy, nagrody i pamiątkowe zdjęcia Na uczestników czekać będą również konkursy z nagrodami oraz specjalna strefa fotograficzna inspirowana światem Treflandii. Dzięki temu dzieci będą mogły nie tylko aktywnie spędzić czas, ale także zabrać ze sobą wyjątkowe wspomnienia z wakacyjnej przygody. Organizatorzy podkreślają, że wydarzenie ma charakter otwarty i jest dostępne dla wszystkich zainteresowanych rodzin. Udział we wszystkich atrakcjach jest bezpłatny."
+        },
+        "en": {
+          "title": "CONNECT Brick Festival at G City Targówek",
+          "description": "Bricks, gaming, and creative fun. G City Targówek invites you to the CONNECT Brick Festival. Summer in the city doesn't have to mean boredom. Starting from July 13, G City Targówek will transform into a space full of creative fun, gaming, and family activities. The CONNECT Brick Festival and ROBLOX will allow the youngest to build, design, and explore the world of new technologies, combining offline fun with digital adventures in one of the most popular gaming environments among children. How to combine summer fun with developing creativity and interests in the youngest? The answer may be the CONNECT Brick Festival and ROBLOX, which will take place at G City Targówek from July 13 to 31. For nearly three weeks, the shopping center will become a space where the world of traditional building meets modern technology."
+        },
+        "uk": {
+          "title": "Фестиваль блоків CONNECT у G City Targówek",
+          "description": "Блоки, ігри та креативні розваги. G City Targówek запрошує на Фестиваль блоків CONNECT. Канікули в місті не повинні означати нудьгу. Вже з 13 липня G City Targówek перетвориться на простір, наповнений креативними розвагами, іграми та сімейними активностями. Фестиваль блоків CONNECT і ROBLOX дозволить наймолодшим будувати, проектувати та відкривати світ нових технологій, поєднуючи офлайн-розваги з цифровими пригодами в одному з найпопулярніших ігрових середовищ серед дітей. Як поєднати літні розваги з розвитком креативності та інтересів наймолодших? Відповіддю може бути Фестиваль блоків CONNECT і ROBLOX, який з 13 до 31 липня відбудеться в G City Targówek. Протягом майже трьох тижнів торговий центр стане простором, де світ традиційного будівництва зустрінеться з сучасними технологіями."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Targówek",
+      "updated_at": "2026-07-31T12:58:16.207531+00:00"
+    },
+    "warsztatownia-wakacyjne-spotkania-dla-dzieci-2026-07-31T11:00:00+02:00": {
+      "title": "WARSztatownia - wakacyjne spotkania dla dzieci",
+      "date": "2026-07-31T11:00:00+02:00",
+      "end_date": "2026-07-31T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "KIEDY: od 1 lipca do 28 sierpnia środy, czwartki i piątki w godz. 11.00 – 12.30 DLA KOGO: dzieci w wieku 5-10 lat WSTĘP WOLNY, zapisy na: rejestracjafw@1944.pl lub tel. 22 629 60 78 Przez całe wakacje Fotoplastikon Warszawski zamieni się w miejsce pełne wyobraźni, kolorów i miejskich historii. Zapraszamy dzieci na cykl twórczych warsztatów, podczas których będziemy odkrywać Warszawę wszystkimi zmysłami — rysować, malować, budować, fotografować, rzeźbić, szyć, tworzyć z klocków i poznawać niezwykłe legendy stolicy. Każde wakacyjny tydzień będzie podróżą do innej dzielnicy miasta. Raz spojrzymy na Warszawę z wysokości Pałacu Kultury, innym razem odwiedzimy praskie ZOO, stworzymy własny Stadion Narodowy albo zamienimy się w ulicznych artystów projektujących kolorowe murale Mokotowa. Wśród wakacyjnych inspiracji pojawią się także nowoczesne wieżowce Woli, zielone zakątki Bemowa, królewskie historie Wilanowa, tajemnicze uliczki Żoliborza a na koniec stworzymy własną wizję Warszawy przyszłości. Co tydzień „odwiedzimy” inną dzielnicę stolicy: 1-3.07 - ŚRÓDMIEŚCIE 8-10.07 - PRAGA PŁN 15-17.07 - PRAGA PŁD 22-24.07 - MOKOTÓW 29-31.07 - WOLA 5-7.08 - BEMOWO 12-14.08 - WILANÓW 19-21.08 - ŻOLIBORZ 26-28.08 – WARSZAWA PRZYSZŁOŚCI - ŚRODY – w każdą wakacyjną środę zapraszamy dzieci na niezwykłą podróż po dzielnicach Warszawy, podczas której poznają historię miasta, jego legendy poprzez ciekawe książki i artystyczne działania. Uczestnicy będą szyć owocowe broszki i zwierzęta, tworzyć gliniane medaliony, rzeźby, domy i modele dawnych fabryk, a także projektować papierowe samoloty, królewskie stroje oraz wizje Warszawy przyszłości z wykorzystaniem techniki poezji papieru. Zajęcia połączą czytanie inspirujących książek o stolicy z twórczymi warsztatami plastycznymi i rzeźbiarskimi. Warsztaty poprowadzą: Joanna Michalska – artystka, animatorka oraz Leszek Michalski – rzeźbiarz. - CZWARTKI- w lipcowe czwartki zapraszamy dzieci na warsztaty architektoniczne, podczas których będą odkrywać najciekawsze miejsca Warszawy poprzez zabawę, budowanie i działania artystyczne. Uczestnicy poznają historię m.in. Pałacu Kultury i Nauki, warszawskiego ZOO, Stadionu Narodowego, murali na Służewcu i Varso Tower, a następnie stworzą własne modele budynków, domy dla zwierząt, stadiony, wieżowce oraz prace inspirowane sztuką uliczną. To kreatywna podróż po architekturze i sztuce, rozwijająca wyobraźnię i twórcze myślenie. Warsztaty poprowadzą: Witomił Mendel - Architekt i edukator, twórca i główny prowadzący \"Architekturek\" zajęć z architektury i sztuki dla dzieci oraz Sylwia Miklaszewska - edukatorka, której wyobraźnia nigdy nie odpoczywa. W sierpniowe czwartki dzieci poznają niezwykły świat fotografii, eksperymentując z dawnymi technikami i twórczym przetwarzaniem obrazów. Uczestnicy wykonają własne odbitki w technice cyjanotypii, będą zmieniać ich kolory za pomocą naturalnych barwników, a także ręcznie kolorować archiwalne fotografie Warszawy. Na zakończenie stworzą autorskie fotokolaże inspirowane Śródmieściem, łącząc zdjęcia z wycinkami z gazet i czasopism. To okazja do rozwijania kreatywności oraz poznawania historii miasta poprzez fotografię i sztukę. Warsztaty poprowadzi: Michał Dziurkowski – fotograf i edukator. - PIĄTKI – w wakacyjne piątki zapraszamy dzieci na warsztaty, podczas których poznają stolicę poprzez kreatywną zabawę i budowanie z klocków. Uczestnicy będą tworzyć własne modele związane z warszawskimi dzielnicami – od środków transportu, zwierząt i sportowców po samoloty, maszyny budowlane czy elementy królewskich ogrodów. Wspólnie powstaną także imponujące konstrukcje jak lotnisko, Cytadela, sportowe miasteczko czy Warszawa przyszłości. Zajęcia rozwijają wyobraźnię, samodzielność i umiejętność współpracy, jednocześnie przybliżając historię i charakter miasta. Warsztaty poprowadzi: Bricks 4 Kidz. Zapraszamy!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1781893464.webp",
+      "location": {
+        "name": "FOTOPLASTIKON WARSZAWSKI, Al. Jerozolimskie 51",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/events/27751282274464994/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/27751282274464994/",
+      "scrapped_timestamp": "2026-07-31T12:56:35.845496+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 5,
+        "max": 10
+      },
+      "translations": {
+        "pl": {
+          "title": "WARSztatownia - wakacyjne spotkania dla dzieci",
+          "description": "KIEDY: od 1 lipca do 28 sierpnia środy, czwartki i piątki w godz. 11.00 – 12.30 DLA KOGO: dzieci w wieku 5-10 lat WSTĘP WOLNY, zapisy na: rejestracjafw@1944.pl lub tel. 22 629 60 78 Przez całe wakacje Fotoplastikon Warszawski zamieni się w miejsce pełne wyobraźni, kolorów i miejskich historii. Zapraszamy dzieci na cykl twórczych warsztatów, podczas których będziemy odkrywać Warszawę wszystkimi zmysłami — rysować, malować, budować, fotografować, rzeźbić, szyć, tworzyć z klocków i poznawać niezwykłe legendy stolicy. Każde wakacyjny tydzień będzie podróżą do innej dzielnicy miasta. Raz spojrzymy na Warszawę z wysokości Pałacu Kultury, innym razem odwiedzimy praskie ZOO, stworzymy własny Stadion Narodowy albo zamienimy się w ulicznych artystów projektujących kolorowe murale Mokotowa. Wśród wakacyjnych inspiracji pojawią się także nowoczesne wieżowce Woli, zielone zakątki Bemowa, królewskie historie Wilanowa, tajemnicze uliczki Żoliborza a na koniec stworzymy własną wizję Warszawy przyszłości. Co tydzień „odwiedzimy” inną dzielnicę stolicy: 1-3.07 - ŚRÓDMIEŚCIE 8-10.07 - PRAGA PŁN 15-17.07 - PRAGA PŁD 22-24.07 - MOKOTÓW 29-31.07 - WOLA 5-7.08 - BEMOWO 12-14.08 - WILANÓW 19-21.08 - ŻOLIBORZ 26-28.08 – WARSZAWA PRZYSZŁOŚCI - ŚRODY – w każdą wakacyjną środę zapraszamy dzieci na niezwykłą podróż po dzielnicach Warszawy, podczas której poznają historię miasta, jego legendy poprzez ciekawe książki i artystyczne działania. Uczestnicy będą szyć owocowe broszki i zwierzęta, tworzyć gliniane medaliony, rzeźby, domy i modele dawnych fabryk, a także projektować papierowe samoloty, królewskie stroje oraz wizje Warszawy przyszłości z wykorzystaniem techniki poezji papieru. Zajęcia połączą czytanie inspirujących książek o stolicy z twórczymi warsztatami plastycznymi i rzeźbiarskimi. Warsztaty poprowadzą: Joanna Michalska – artystka, animatorka oraz Leszek Michalski – rzeźbiarz. - CZWARTKI- w lipcowe czwartki zapraszamy dzieci na warsztaty architektoniczne, podczas których będą odkrywać najciekawsze miejsca Warszawy poprzez zabawę, budowanie i działania artystyczne. Uczestnicy poznają historię m.in. Pałacu Kultury i Nauki, warszawskiego ZOO, Stadionu Narodowego, murali na Służewcu i Varso Tower, a następnie stworzą własne modele budynków, domy dla zwierząt, stadiony, wieżowce oraz prace inspirowane sztuką uliczną. To kreatywna podróż po architekturze i sztuce, rozwijająca wyobraźnię i twórcze myślenie. Warsztaty poprowadzą: Witomił Mendel - Architekt i edukator, twórca i główny prowadzący \"Architekturek\" zajęć z architektury i sztuki dla dzieci oraz Sylwia Miklaszewska - edukatorka, której wyobraźnia nigdy nie odpoczywa. W sierpniowe czwartki dzieci poznają niezwykły świat fotografii, eksperymentując z dawnymi technikami i twórczym przetwarzaniem obrazów. Uczestnicy wykonają własne odbitki w technice cyjanotypii, będą zmieniać ich kolory za pomocą naturalnych barwników, a także ręcznie kolorować archiwalne fotografie Warszawy. Na zakończenie stworzą autorskie fotokolaże inspirowane Śródmieściem, łącząc zdjęcia z wycinkami z gazet i czasopism. To okazja do rozwijania kreatywności oraz poznawania historii miasta poprzez fotografię i sztukę. Warsztaty poprowadzi: Michał Dziurkowski – fotograf i edukator. - PIĄTKI – w wakacyjne piątki zapraszamy dzieci na warsztaty, podczas których poznają stolicę poprzez kreatywną zabawę i budowanie z klocków. Uczestnicy będą tworzyć własne modele związane z warszawskimi dzielnicami – od środków transportu, zwierząt i sportowców po samoloty, maszyny budowlane czy elementy królewskich ogrodów. Wspólnie powstaną także imponujące konstrukcje jak lotnisko, Cytadela, sportowe miasteczko czy Warszawa przyszłości. Zajęcia rozwijają wyobraźnię, samodzielność i umiejętność współpracy, jednocześnie przybliżając historię i charakter miasta. Warsztaty poprowadzi: Bricks 4 Kidz. Zapraszamy!"
+        },
+        "en": {
+          "title": "WARSztatownia - Summer Meetings for Children",
+          "description": "WHEN: From July 1 to August 28, Wednesdays, Thursdays, and Fridays from 11:00 AM to 12:30 PM FOR WHOM: Children aged 5-10 FREE ENTRY, registration at: rejestracjafw@1944.pl or call 22 629 60 78 Throughout the summer, the Photoplastikon Warsaw will transform into a place full of imagination, colors, and urban stories. We invite children to a series of creative workshops where we will explore Warsaw with all our senses — drawing, painting, building, photographing, sculpting, sewing, creating with blocks, and discovering the extraordinary legends of the capital. Each summer week will be a journey to a different district of the city. One time we will look at Warsaw from the height of the Palace of Culture, another time we will visit the Prague Zoo, create our own National Stadium, or turn into street artists designing colorful murals in Mokotów. Among the summer..."
+        },
+        "uk": {
+          "title": "WARSztatownia - літні зустрічі для дітей",
+          "description": "КОЛИ: з 1 липня до 28 серпня, по середах, четвергах та п'ятницях з 11:00 до 12:30 ДЛЯ КОГО: діти віком 5-10 років ВХІД ВІЛЬНИЙ, реєстрація за адресою: rejestracjafw@1944.pl або за телефоном 22 629 60 78 Протягом всього літа Фотопластикон Варшави перетвориться на місце, наповнене уявою, кольорами та міськими історіями. Запрошуємо дітей на цикл творчих майстер-класів, під час яких ми будемо відкривати Варшаву всіма відчуттями — малювати, фарбувати, будувати, фотографувати, ліпити, шити, створювати з кубиків та знайомитися з незвичайними легендами столиці. Кожен літній тиждень буде подорожжю до іншого району міста. Один раз ми поглянемо на Варшаву з висоти Палацу Культури, іншим разом відвідаємо пражський зоопарк, створимо власний Національний стадіон або перетворимося на вуличних художників, які проектують кольорові мурали Мокотова."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-07-31T12:58:16.207556+00:00"
+    },
+    "cuda-wianki-zaj-cia-plastyczne-dla-dzieci-2026-07-31T10:00:00+02:00": {
+      "title": "Cuda-Wianki: zajęcia plastyczne dla dzieci",
+      "date": "2026-07-31T10:00:00+02:00",
+      "end_date": "2026-07-31T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cuda-Wianki w Komiksowie: Kid Zone 🌼 🎨 Zapraszamy na bezpłatne wakacyjne spotkania pełne kreatywnej zabawy inspirowanej polskim folklorem! 🌿 Wspólnie będziemy tworzyć prace plastyczne, poznawać ludowe motywy i rozwijać wyobraźnię poprzez różnorodne aktywności artystyczne. ✨ Każde spotkanie to nowy pomysł, mnóstwo kolorów i świetna okazja do twórczego spędzenia wakacyjnego poranka. 📅 Każdy wtorek i piątek podczas wakacji, godz. 10:00-11:00 📍 Biblioteka Komiksowo, Al. \"Solidarności\" 90 🙋‍♀️🙋‍♂️ Dla dzieci w wieku 9-12 lat Zapisy: 📩 bd21@bpwola.waw.pl ☎️ 22 529 09 40",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1783424178.webp",
+      "location": {
+        "name": "Aleja \"Solidarności\" 90",
+        "district": "Wola"
+      },
+      "url": "https://www.facebook.com/bibliotekakomiksowo/posts/pfbid02ovskqCzbZBtqTFcXbxcLBsEC6WrdrRKPWAgKJDRD39Gr7ywfY3yXwMAyBFJtSeetl",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/bibliotekakomiksowo/posts/pfbid02ovskqCzbZBtqTFcXbxcLBsEC6WrdrRKPWAgKJDRD39Gr7ywfY3yXwMAyBFJtSeetl",
+      "scrapped_timestamp": "2026-07-31T12:56:48.370248+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 9,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Cuda-Wianki: zajęcia plastyczne dla dzieci",
+          "description": "Cuda-Wianki w Komiksowie: Kid Zone 🌼 🎨 Zapraszamy na bezpłatne wakacyjne spotkania pełne kreatywnej zabawy inspirowanej polskim folklorem! 🌿 Wspólnie będziemy tworzyć prace plastyczne, poznawać ludowe motywy i rozwijać wyobraźnię poprzez różnorodne aktywności artystyczne. ✨ Każde spotkanie to nowy pomysł, mnóstwo kolorów i świetna okazja do twórczego spędzenia wakacyjnego poranka. 📅 Każdy wtorek i piątek podczas wakacji, godz. 10:00-11:00 📍 Biblioteka Komiksowo, Al. \"Solidarności\" 90 🙋‍♀️🙋‍♂️ Dla dzieci w wieku 9-12 lat Zapisy: 📩 bd21@bpwola.waw.pl ☎️ 22 529 09 40"
+        },
+        "en": {
+          "title": "Cuda-Wianki: Art Classes for Children",
+          "description": "Cuda-Wianki in Komiksowo: Kid Zone 🌼 🎨 We invite you to free summer meetings full of creative fun inspired by Polish folklore! 🌿 Together we will create artistic works, explore folk motifs, and develop our imagination through various artistic activities. ✨ Each meeting brings a new idea, lots of colors, and a great opportunity to spend a creative summer morning. 📅 Every Tuesday and Friday during the summer, from 10:00 AM to 11:00 AM 📍 Komiksowo Library, Al. 'Solidarności' 90 🙋‍♀️🙋‍♂️ For children aged 9-12 years Registration: 📩 bd21@bpwola.waw.pl ☎️ 22 529 09 40"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wola",
+      "updated_at": "2026-07-31T12:58:16.207581+00:00"
+    },
+    "rysujemy-zwierz-ta-spotkania-w-nowej-palmiarni-2026-07-31T10:30:00+02:00": {
+      "title": "Rysujemy zwierzęta - spotkania w Nowej Palmiarni",
+      "date": "2026-07-31T10:30:00+02:00",
+      "end_date": "2026-07-31T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Kto mówi, że rysowanie zwierząt jest trudne? Czas sprawdzić to w praktyce - w przyrodniczym klimacie Nowej Palmiarni. 🌿✏️ Spotkania dla dzieci od 6 lat i opiekunów, młodzieży oraz dorosłych Wstęp: bezpłatny; obowiązują darmowe wejściówki - POBIERZ WEJŚCIÓWKĘ >> link Terminy: 3, 10, 17, 24 i 31 lipca oraz 7 sierpnia 2026 r., godz. 10.30-12.00, 12.00-13.30, 14.00-15.30 i 15.30-17.00 Miejsce: Nowa Palmiarnia ⏳ 1,5 godz. | 1 godz. rysowania + 0,5 godz. czasu wolnego w strefie edukacyjnej Rysowanie zwierząt bywa wyzwaniem - ich proporcje różnią się od ludzkich, a budowa często wydaje się nieoczywista. Na zajęciach będziemy wspólnie rysować zwierzęta, przyjrzymy się ich kończynom, pyskom, a także szkieletom. Przejdziemy przez proces tworzenia pracy: ✏️ szkic ołówkiem 🖊️ dopracowanie długopisem 🎨 kolor i cieniowanie kredkami Warsztaty prowadzi Radosław Pomagalski - z wykształcenia i zamiłowania przyrodnik, absolwent biologii na Uniwersytecie Warszawskim. Od czasów studenckich uczy mądrej miłości do przyrody podczas lekcji muzealnych i warsztatów prowadzonych w Łazienkach Królewskich. Hobbystycznie od ponad 20 lat rysuje zwierzęta na papierze oraz cyfrowo, zarówno w formie wysokiej jakości ilustracji wzorowanych na dawnych atlasach przyrody jak i projektowania gatunków fantastycznych (speculative evolution). Jest też autorem wielu realistycznych materiałów do rysowania dla dzieci przedstawiających zwierzęta żyjące w ogrodach Łazienek Królewskich. Prywatnie opiekun wielu gatunków egzotycznych zwierząt.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1771860021.webp",
+      "location": {
+        "name": "Łazienki Królewskie, Nowa Palmiarnia",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.lazienki-krolewskie.pl/pl/edukacja/rodziny-i-dzieci/dzialania-stacjonarne/dzialania-stacjonarne-rysujemy-zwierzeta",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.lazienki-krolewskie.pl/pl/edukacja/rodziny-i-dzieci/dzialania-stacjonarne/dzialania-stacjonarne-rysujemy-zwierzeta",
+      "scrapped_timestamp": "2026-07-31T12:56:55.690909+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 6,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Rysujemy zwierzęta - spotkania w Nowej Palmiarni",
+          "description": "Kto mówi, że rysowanie zwierząt jest trudne? Czas sprawdzić to w praktyce - w przyrodniczym klimacie Nowej Palmiarni. 🌿✏️ Spotkania dla dzieci od 6 lat i opiekunów, młodzieży oraz dorosłych Wstęp: bezpłatny; obowiązują darmowe wejściówki - POBIERZ WEJŚCIÓWKĘ >> link Terminy: 3, 10, 17, 24 i 31 lipca oraz 7 sierpnia 2026 r., godz. 10.30-12.00, 12.00-13.30, 14.00-15.30 i 15.30-17.00 Miejsce: Nowa Palmiarnia ⏳ 1,5 godz. | 1 godz. rysowania + 0,5 godz. czasu wolnego w strefie edukacyjnej Rysowanie zwierząt bywa wyzwaniem - ich proporcje różnią się od ludzkich, a budowa często wydaje się nieoczywista. Na zajęciach będziemy wspólnie rysować zwierzęta, przyjrzymy się ich kończynom, pyskom, a także szkieletom. Przejdziemy przez proces tworzenia pracy: ✏️ szkic ołówkiem 🖊️ dopracowanie długopisem 🎨 kolor i cieniowanie kredkami Warsztaty prowadzi Radosław Pomagalski - z wykształcenia i zamiłowania przyrodnik, absolwent biologii na Uniwersytecie Warszawskim. Od czasów studenckich uczy mądrej miłości do przyrody podczas lekcji muzealnych i warsztatów prowadzonych w Łazienkach Królewskich. Hobbystycznie od ponad 20 lat rysuje zwierzęta na papierze oraz cyfrowo, zarówno w formie wysokiej jakości ilustracji wzorowanych na dawnych atlasach przyrody jak i projektowania gatunków fantastycznych (speculative evolution). Jest też autorem wielu realistycznych materiałów do rysowania dla dzieci przedstawiających zwierzęta żyjące w ogrodach Łazienek Królewskich. Prywatnie opiekun wielu gatunków egzotycznych zwierząt."
+        },
+        "en": {
+          "title": "Drawing Animals - Meetings at the New Palm House",
+          "description": "Who says drawing animals is difficult? It's time to check this in practice - in the natural atmosphere of the New Palm House. 🌿✏️ Meetings for children from 6 years old and their guardians, youth, and adults. Admission: free; free tickets are required - DOWNLOAD TICKET >> link. Dates: July 3, 10, 17, 24, and 31, and August 7, 2026, from 10:30 AM to 12:00 PM, 12:00 PM to 1:30 PM, 2:00 PM to 3:30 PM, and 3:30 PM to 5:00 PM. Location: New Palm House ⏳ 1.5 hours | 1 hour of drawing + 0.5 hours of free time in the educational zone. Drawing animals can be a challenge - their proportions differ from humans, and their structure often seems non-obvious. In the classes, we will draw animals together, examining their limbs, snouts, and skeletons. We will go through the process of creating a work: ✏️ pencil sketch 🖊️ refining with a pen 🎨"
+        },
+        "uk": {
+          "title": "Малюємо тварин - зустрічі в Новій Пальмярні",
+          "description": "Хто каже, що малювати тварин важко? Час перевірити це на практиці - в природному кліматі Нової Пальмярні. 🌿✏️ Зустрічі для дітей від 6 років та опікунів, молоді та дорослих. Вхід: безкоштовний; діють безкоштовні квитки - ЗАВАНТАЖИТИ КВИТОК >> посилання. Дати: 3, 10, 17, 24 і 31 липня та 7 серпня 2026 року, години 10:30-12:00, 12:00-13:30, 14:00-15:30 та 15:30-17:00. Місце: Нова Пальмярня ⏳ 1,5 години | 1 година малювання + 0,5 години вільного часу в освітній зоні. Малювання тварин може бути викликом - їх пропорції відрізняються від людських, а будова часто здається неочевидною. На заняттях ми будемо разом малювати тварин, розглянемо їх кінцівки, морди, а також скелети. Пройдемо через процес створення роботи: ✏️ ескіз олівцем 🖊️ доопрацювання ручкою 🎨"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-07-31T12:58:16.207608+00:00"
+    },
+    "kolorowy-b-czek-bezp-atne-animacje-dla-dzieci-w-wieku-1-3-lat-i-opiekun-w-2026-07-31T10:30:00+02:00": {
+      "title": "Kolorowy bączek - bezpłatne animacje dla dzieci w wieku 1-3 lat i opiekunów",
+      "date": "2026-07-31T10:30:00+02:00",
+      "end_date": "2026-07-31T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy najmłodszych wraz z opiekunami na cykl sensorycznych spotkań inspirowanych wystawą „Nabiści. Prorocy nowej sztuki”. Będzie to czas wspólnego odkrywania kolorów poprzez ruch, zabawę i twórcze działania w otoczeniu natury. Każde spotkanie rozpoczniemy w Starej Kordegardzie krótką, sensoryczną opowieścią nawiązującą do wybranego koloru obecnego w obrazach nabistów. Następnie przeniesiemy się do łazienkowskich ogrodów, gdzie dzieci i opiekunowie będą wspólnie doświadczać świata wszystkimi zmysłami. Zadbamy o spokojną atmosferę, sprzyjającą budowaniu relacji, swobodnej eksploracji i odkrywaniu piękna otaczającej przyrody. Po animacjach zapraszamy na czas wolny w Starej Kordegardzie, podczas którego będzie można odpocząć, pobawić się i spędzić czas we własnym rytmie. Miejsce: Stara Kordegarda (start i czas wolny), łazienkowskie ogrody (animacje) Godziny: 10.30–11.15 – animacje 11.30–12.00 – czas wolny Wstęp: bezpłatny Zapisy >> rezerwacje@lazienki-krolewskie.pl (zapisy rozpoczynają się dwa tygodnie przed terminem danego spotkania) Prowadzenie: animatorki ze Starej Kordegardy 17 lipca - Żółty 31 lipca - Pomarańczowy 14 sierpnia - Czerwony 28 sierpnia - Zielony 11 września - Niebieski 25 września - Fioletowy 9 października - Brązowy 23 października - Czarny 6 listopada - Biały",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1783513772.webp",
+      "location": {
+        "name": "Łazienki Królewskie",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/events/2402703780140572/2402703813473902/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/2402703780140572/2402703813473902/",
+      "scrapped_timestamp": "2026-07-31T12:57:05.383934+00:00",
+      "category": "Sensory Play",
+      "age_range": {
+        "min": 1,
+        "max": 3
+      },
+      "translations": {
+        "pl": {
+          "title": "Kolorowy bączek - bezpłatne animacje dla dzieci w wieku 1-3 lat i opiekunów",
+          "description": "Zapraszamy najmłodszych wraz z opiekunami na cykl sensorycznych spotkań inspirowanych wystawą „Nabiści. Prorocy nowej sztuki”. Będzie to czas wspólnego odkrywania kolorów poprzez ruch, zabawę i twórcze działania w otoczeniu natury. Każde spotkanie rozpoczniemy w Starej Kordegardzie krótką, sensoryczną opowieścią nawiązującą do wybranego koloru obecnego w obrazach nabistów. Następnie przeniesiemy się do łazienkowskich ogrodów, gdzie dzieci i opiekunowie będą wspólnie doświadczać świata wszystkimi zmysłami. Zadbamy o spokojną atmosferę, sprzyjającą budowaniu relacji, swobodnej eksploracji i odkrywaniu piękna otaczającej przyrody. Po animacjach zapraszamy na czas wolny w Starej Kordegardzie, podczas którego będzie można odpocząć, pobawić się i spędzić czas we własnym rytmie. Miejsce: Stara Kordegarda (start i czas wolny), łazienkowskie ogrody (animacje) Godziny: 10.30–11.15 – animacje 11.30–12.00 – czas wolny Wstęp: bezpłatny Zapisy >> rezerwacje@lazienki-krolewskie.pl (zapisy rozpoczynają się dwa tygodnie przed terminem danego spotkania) Prowadzenie: animatorki ze Starej Kordegardy 17 lipca - Żółty 31 lipca - Pomarańczowy 14 sierpnia - Czerwony 28 sierpnia - Zielony 11 września - Niebieski 25 września - Fioletowy 9 października - Brązowy 23 października - Czarny 6 listopada - Biały"
+        },
+        "en": {
+          "title": "Colorful Spinning Top - Free Animations for Children Aged 1-3 and Caregivers",
+          "description": "We invite the youngest children along with their caregivers to a series of sensory meetings inspired by the exhibition 'Nabis. Prophets of New Art'. This will be a time for discovering colors together through movement, play, and creative activities in a natural environment. Each meeting will begin at Stara Kordegarda with a short sensory story related to a chosen color present in the paintings of the Nabis. We will then move to the Łazienki Gardens, where children and caregivers will experience the world with all their senses. We will ensure a calm atmosphere conducive to building relationships, free exploration, and discovering the beauty of the surrounding nature. After the animations, we invite you to enjoy free time at Stara Kordegarda, where you can relax, play, and spend time at your own pace. Location: Stara Ko"
+        },
+        "uk": {
+          "title": "Кольоровий бублик - безкоштовні анімації для дітей віком 1-3 роки та їхніх опікунів",
+          "description": "Запрошуємо найменших разом з опікунами на цикл сенсорних зустрічей, натхненних виставкою «Набісти. Пророки нової мистецтва». Це буде час спільного відкриття кольорів через рух, гру та творчі дії в оточенні природи. Кожну зустріч ми розпочнемо в Старій Кортегарді короткою, сенсорною оповіддю, що стосується обраного кольору, присутнього в картинах набістів. Потім ми перенесемося до Лазенковських садів, де діти та опікуни разом будуть досліджувати світ усіма відчуттями. Ми подбаємо про спокійну атмосферу, що сприяє побудові стосунків, вільній експлорації та відкриттю краси навколишньої природи. Після анімацій запрошуємо на вільний час у Старій Кортегарді, під час якого можна буде відпочити, погратися та провести час у власному ритмі. Місце: Стара Кортегарда"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-07-31T12:58:16.207639+00:00"
+    },
+    "bezp-atne-zaj-cia-sportowe-z-badmintona-dla-dzieci-i-m-odzie-y-2026-08-06T10:00:00+02:00": {
+      "title": "Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży",
+      "date": "2026-08-06T10:00:00+02:00",
+      "end_date": "2026-08-06T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Prze całe wakacje OSiR Mokotów oraz Zarząd MSM „Energetyka” wraz z Administracją i Radą Osiedla Sielce zapraszają na „Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży” na kortach przy ul. Czerniakowskiej 28A. Zajęcia odbywać się będą w każdy wtorek i czwartek od 2 lipca 2026 r. do 27 sierpnia 2026 r. w godzinach 10:00-12:00. Zajęcia są całkowicie bezpłatne i będą prowadzone przez wykwalifikowanych instruktorów badmintona. Zapraszamy!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1782740503.webp",
+      "location": {
+        "name": "Czerniakowskia 28A",
+        "district": "Mokotów"
+      },
+      "url": "https://waw4free.pl/wydarzenie-154898-bezplatne-zajecia-sportowe-z-badmintona-dla-dzieci-i-mlodziezy",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://waw4free.pl/wydarzenie-154898-bezplatne-zajecia-sportowe-z-badmintona-dla-dzieci-i-mlodziezy",
+      "scrapped_timestamp": "2026-07-31T12:57:13.523210+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży",
+          "description": "Prze całe wakacje OSiR Mokotów oraz Zarząd MSM „Energetyka” wraz z Administracją i Radą Osiedla Sielce zapraszają na „Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży” na kortach przy ul. Czerniakowskiej 28A. Zajęcia odbywać się będą w każdy wtorek i czwartek od 2 lipca 2026 r. do 27 sierpnia 2026 r. w godzinach 10:00-12:00. Zajęcia są całkowicie bezpłatne i będą prowadzone przez wykwalifikowanych instruktorów badmintona. Zapraszamy!"
+        },
+        "en": {
+          "title": "Free Badminton Sports Classes for Children and Youth",
+          "description": "Throughout the summer, OSiR Mokotów and the Management of MSM 'Energetyka' along with the Administration and the Council of the Sielce District invite you to 'Free Badminton Sports Classes for Children and Youth' at the courts located at 28A Czerniakowska Street. Classes will take place every Tuesday and Thursday from July 2, 2026, to August 27, 2026, from 10:00 AM to 12:00 PM. The classes are completely free and will be conducted by qualified badminton instructors. We invite you!"
+        },
+        "uk": {
+          "title": "Безкоштовні спортивні заняття з бадмінтону для дітей та молоді",
+          "description": "Протягом всіх канікул OSiR Mokotów та Управління MSM «Енергетика» разом з Адміністрацією та Радою Оселення Сільце запрошують на «Безкоштовні спортивні заняття з бадмінтону для дітей та молоді» на кортах за адресою вул. Черняковська 28А. Заняття відбуватимуться кожного вівторка та четверга з 2 липня 2026 року до 27 серпня 2026 року з 10:00 до 12:00. Заняття є абсолютно безкоштовними і будуть проводитися кваліфікованими інструкторами з бадмінтону. Запрошуємо!"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Mokotów",
+      "updated_at": "2026-07-31T12:58:16.207668+00:00"
+    },
+    "ultimate-frisbee-dla-pocz-tkuj-cych-2026-08-06T17:30:00+02:00": {
+      "title": "Ultimate frisbee dla początkujących",
+      "date": "2026-08-06T17:30:00+02:00",
+      "end_date": "2026-08-06T17:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na zajęcia Ultimate frisbee dla początkujących, na których nauczycie się rzucać frisbee. Od kwietnia do października spotykamy się na Stadionie Podskarbińska na Pradze: ✅ Każdy czwartek w godz. 17:30 - 19:00 Wstęp wolny. Zajęcia są otwarte i bezpłatne dla każdego. Zapraszamy dzieci, młodzież szkolną, całe rodziny i dorosłych. ✅ Zapisy na zajęcia >> kontakt@skythis.pl Informacje dodatkowe: +48 793 157 177 Co czeka Was na zajęciach? 👉 nauka rzucania frisbee dla początkujących i doskonalenie techniki rzutu 👉 gry i zabawy z dyskiem integrujące uczestników 👉 mecze ultimate frisbee ✅ Zajęcia Ultimate frisbee dla początkujących w ramach projektu \"Aktywny Warszawiak\" współfinansuje Miasto Stołeczne Warszawa",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1778674441.webp",
+      "location": {
+        "name": "Stadion Podskarbińska OSiR Praga-Południe, ul. Chrzanowskiego 23",
+        "district": "Praga-Południe"
+      },
+      "url": "https://www.facebook.com/events/1265218758450626/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1265218758450626/",
+      "scrapped_timestamp": "2026-07-31T12:57:19.775946+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Ultimate frisbee dla początkujących",
+          "description": "Zapraszamy na zajęcia Ultimate frisbee dla początkujących, na których nauczycie się rzucać frisbee. Od kwietnia do października spotykamy się na Stadionie Podskarbińska na Pradze: ✅ Każdy czwartek w godz. 17:30 - 19:00 Wstęp wolny. Zajęcia są otwarte i bezpłatne dla każdego. Zapraszamy dzieci, młodzież szkolną, całe rodziny i dorosłych. ✅ Zapisy na zajęcia >> kontakt@skythis.pl Informacje dodatkowe: +48 793 157 177 Co czeka Was na zajęciach? 👉 nauka rzucania frisbee dla początkujących i doskonalenie techniki rzutu 👉 gry i zabawy z dyskiem integrujące uczestników 👉 mecze ultimate frisbee ✅ Zajęcia Ultimate frisbee dla początkujących w ramach projektu \"Aktywny Warszawiak\" współfinansuje Miasto Stołeczne Warszawa"
+        },
+        "en": {
+          "title": "Ultimate Frisbee for Beginners",
+          "description": "We invite you to Ultimate Frisbee classes for beginners, where you will learn how to throw a frisbee. From April to October, we meet at the Podskarbińska Stadium in Praga: ✅ Every Thursday from 5:30 PM to 7:00 PM. Free entry. The classes are open and free for everyone. We welcome children, school youth, entire families, and adults. ✅ Registration for classes >> kontakt@skythis.pl Additional information: +48 793 157 177 What awaits you in the classes? 👉 Learning to throw a frisbee for beginners and improving throwing technique 👉 Games and activities with the disc to integrate participants 👉 Ultimate Frisbee matches ✅ The Ultimate Frisbee classes for beginners are part of the 'Active Varsovian' project co-financed by the Capital City of Warsaw."
+        },
+        "uk": {
+          "title": "Ультимейт фрісбі для початківців",
+          "description": "Запрошуємо на заняття Ультимейт фрісбі для початківців, на яких ви навчитеся кидати фрісбі. Від квітня до жовтня зустрічаємося на Стадіоні Подскарбіńська на Празі: ✅ Щочетверга з 17:30 до 19:00 Вхід вільний. Заняття відкриті та безкоштовні для всіх. Запрошуємо дітей, школярів, цілі сім'ї та дорослих. ✅ Запис на заняття >> kontakt@skythis.pl Додаткова інформація: +48 793 157 177 Що чекає на вас на заняттях? 👉 навчання кидання фрісбі для початківців та вдосконалення техніки кидка 👉 ігри та розваги з диском, що інтегрують учасників 👉 матчі ультимейт фрісбі ✅ Заняття Ультимейт фрісбі для початківців в рамках проекту \"Активний Варшав'янин\" співфінансує Місто Столичне Варшава"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Południe",
+      "updated_at": "2026-07-31T12:58:16.207692+00:00"
+    },
+    "reksio-uszatek-i-sp-ka-co-rodzice-czytali-albo-s-uchali-gdy-byli-mali-2026-08-07T11:00:00+02:00": {
+      "title": "Reksio, Uszatek i spółka - co rodzice czytali, albo słuchali, gdy byli mali",
+      "date": "2026-08-07T11:00:00+02:00",
+      "end_date": "2026-08-07T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cykl wspólnych, głośnych czytań przypominających,,małym i dużym\" czytelni(cz)kom o bohaterach książek, które czytali ich rodzice lub dziadkowie, a także warsztaty z tworzenia zakładek. Nie tylko wspólnie czytamy, ale także rysujemy, kolorujemy, tworzymy zakładki i przypinki! Zapraszamy w każdy piątek od 10 lipca do 28 sierpnia w godzinach 11:00-13:00. Wiek: 3-10 lat. Projekt powstał, dzięki wsparciu finansowemu Miasta Stołecznego Warszawy i Staromiejskiego Domu Kultury oraz towarzyszy konkursowi na Ulubioną Księgarnię Warszawy.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1784823659.webp",
+      "location": {
+        "name": "ul. Nowogrodzka 8",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/events/1044574931596036",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1044574931596036",
+      "scrapped_timestamp": "2026-07-31T12:57:27.676007+00:00",
+      "category": "Storytime",
+      "age_range": {
+        "min": 3,
+        "max": 10
+      },
+      "translations": {
+        "pl": {
+          "title": "Reksio, Uszatek i spółka - co rodzice czytali, albo słuchali, gdy byli mali",
+          "description": "Cykl wspólnych, głośnych czytań przypominających,,małym i dużym\" czytelni(cz)kom o bohaterach książek, które czytali ich rodzice lub dziadkowie, a także warsztaty z tworzenia zakładek. Nie tylko wspólnie czytamy, ale także rysujemy, kolorujemy, tworzymy zakładki i przypinki! Zapraszamy w każdy piątek od 10 lipca do 28 sierpnia w godzinach 11:00-13:00. Wiek: 3-10 lat. Projekt powstał, dzięki wsparciu finansowemu Miasta Stołecznego Warszawy i Staromiejskiego Domu Kultury oraz towarzyszy konkursowi na Ulubioną Księgarnię Warszawy."
+        },
+        "en": {
+          "title": "Reksio, Uszatek and Company - What Parents Read or Listened to When They Were Young",
+          "description": "A series of joint, loud readings reminding 'small and large' readers about the heroes of the books their parents or grandparents read, as well as workshops for creating bookmarks. We not only read together but also draw, color, create bookmarks, and pins! We invite you every Friday from July 10 to August 28 from 11:00 AM to 1:00 PM. Age: 3-10 years. The project was created with the financial support of the Capital City of Warsaw and the Old Town Cultural Center and accompanies the competition for the Favorite Bookstore of Warsaw."
+        },
+        "uk": {
+          "title": "Рексіо, Ушatek та компанія - що читали або слухали батьки, коли були маленькими",
+          "description": "Цикл спільних, гучних читань, які нагадують \"малим і великим\" читачам про героїв книг, які читали їхні батьки або дідусі та бабусі, а також майстер-класи з виготовлення закладок. Ми не лише читаємо разом, але й малюємо, розфарбовуємо, створюємо закладки та значки! Запрошуємо кожної п'ятниці з 10 липня до 28 серпня з 11:00 до 13:00. Вік: 3-10 років. Проект реалізовано завдяки фінансовій підтримці Міста Столичного Варшави та Староміського Будинку Культури, а також супроводжує конкурс на Улюблену Книгарню Варшави."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-07-31T12:58:16.207724+00:00"
+    },
+    "legendy-warszawskie-spacer-rodzinny-z-prezentami-dla-dzieci-2026-08-09T12:00:00+02:00": {
+      "title": "Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci",
+      "date": "2026-08-09T12:00:00+02:00",
+      "end_date": "2026-08-09T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy małych i dużych miłośników legend na wesoły spacer z legendami po Starym i Nowym Mieście w Warszawie. W jego trakcie usłyszycie najlepsze warszawskie legendy. Na koniec spaceru wszystkie dzieci otrzymają zestawy wodnych tatuaży, które świecą w ciemności. Łał! A oto czego m.in. dowiecie się na naszym spacerze: – Dlaczego należy pilnować swojego cienia? – Jak garnek pomógł pokonać Bazyliszka? – Gdzie latem padał śnieg? – Jak diabeł wcielony przegrał pewien zakład? – Kto może uratować zaklętego księcia? – Gdzie spoczywają zamienieni w kamień rycerze mazowieccy? – Jak służąca zbójów strasznych przechytrzyła? – Gdzie znajduje się najkrótsza ulica w Polsce? – i wiele więcej… Cena: dobrowolna zrzutka. SPACER Z ZAPISAMI. Spacer poprowadzi Aleksander Łamek. Termin spaceru: Niedziela 9 sierpnia 2026 r. godz. 12:00. Zapisy przyjmujemy na stronie >> link Zbiórka na Placu Zamkowym przed bramą Zamku Królewskiego. Miejsce zbiórki pokazuje mapka: link Po zebraniu się grupy wejdziemy na dziedziniec zamku. Spacer potrwa ok 80 minut i zakończy się przed kościołem Nawiedzenia Najświętszej Marii Panny (ul. Przyrynek 2).",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1785483393.webp",
+      "location": {
+        "name": "plac Zamkowy",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/events/1504838874732009",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1504838874732009",
+      "scrapped_timestamp": "2026-07-31T12:57:34.371459+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci",
+          "description": "Zapraszamy małych i dużych miłośników legend na wesoły spacer z legendami po Starym i Nowym Mieście w Warszawie. W jego trakcie usłyszycie najlepsze warszawskie legendy. Na koniec spaceru wszystkie dzieci otrzymają zestawy wodnych tatuaży, które świecą w ciemności. Łał! A oto czego m.in. dowiecie się na naszym spacerze: – Dlaczego należy pilnować swojego cienia? – Jak garnek pomógł pokonać Bazyliszka? – Gdzie latem padał śnieg? – Jak diabeł wcielony przegrał pewien zakład? – Kto może uratować zaklętego księcia? – Gdzie spoczywają zamienieni w kamień rycerze mazowieccy? – Jak służąca zbójów strasznych przechytrzyła? – Gdzie znajduje się najkrótsza ulica w Polsce? – i wiele więcej… Cena: dobrowolna zrzutka. SPACER Z ZAPISAMI. Spacer poprowadzi Aleksander Łamek. Termin spaceru: Niedziela 9 sierpnia 2026 r. godz. 12:00. Zapisy przyjmujemy na stronie >> link Zbiórka na Placu Zamkowym przed bramą Zamku Królewskiego. Miejsce zbiórki pokazuje mapka: link Po zebraniu się grupy wejdziemy na dziedziniec zamku. Spacer potrwa ok 80 minut i zakończy się przed kościołem Nawiedzenia Najświętszej Marii Panny (ul. Przyrynek 2)."
+        },
+        "en": {
+          "title": "Warsaw Legends. Family Walk with Gifts for Children",
+          "description": "We invite small and large lovers of legends to a cheerful walk with legends through the Old and New Town in Warsaw. During the walk, you will hear the best Warsaw legends. At the end of the walk, all children will receive sets of water tattoos that glow in the dark. Wow! Here’s what you will learn on our walk: – Why you should keep an eye on your shadow? – How a pot helped defeat the Basilisk? – Where did it snow in summer? – How the incarnate devil lost a bet? – Who can save the enchanted prince? – Where do the Mazovian knights turned to stone rest? – How did a servant outsmart terrible robbers? – Where is the shortest street in Poland? – and much more… Price: voluntary contribution. WALK WITH REGISTRATION. The walk will be led by Aleksander Łamek. Date of the walk: Sunday the 9th."
+        },
+        "uk": {
+          "title": "Легенди Варшави. Сімейна прогулянка з подарунками для дітей",
+          "description": "Запрошуємо маленьких і великих шанувальників легенд на веселу прогулянку з легендами по Старому та Новому Місту у Варшаві. Під час прогулянки ви почуєте найкращі варшавські легенди. Наприкінці прогулянки всі діти отримають набори водяних татуювань, які світяться в темряві. Вау! А ось чого, зокрема, ви дізнаєтеся на нашій прогулянці: – Чому потрібно стежити за своєю тінню? – Як горщик допоміг подолати Базиліска? – Де влітку падав сніг? – Як диявол втілений програв певну ставку? – Хто може врятувати заклятого принца? – Де спочивають перетворені на камінь мазовецькі лицарі? – Як служниця страшних розбійників перехитрила? – Де знаходиться найкоротша вулиця в Польщі? – і багато іншого… Ціна: добровільний внесок. ПРОГУЛЯНКА З РЕЄСТРАЦІЄЮ. Прогулюватиме Олександр Ламек. Дата прогулянки: Неділя 9"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-07-31T12:58:16.207750+00:00"
+    },
+    "animacje-dla-dzieci-akcja-dobra-zabawa-2026-08-30T12:00:00+02:00": {
+      "title": "ANIMACJE DLA DZIECI: AKCJA - DOBRA ZABAWA!",
+      "date": "2026-08-30T12:00:00+02:00",
+      "end_date": "2026-08-30T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy najmłodszych na darmowe animacje dla dzieci, które odbywają się w każdą niedzielę w godzinach 12:00–16:00 w sali Lumen (wejście pomiędzy Kimi Sushi a Vietlab) ✨ Na dzieci czekają super animatorzy, kreatywne atrakcje, zabawy ruchowe i mnóstwo uśmiechu! To idealny sposób na rodzinne spędzenie niedzieli, podczas gdy rodzice mogą w tym czasie skorzystać z naszej oferty gastronomicznej 🍴 📍 Sala Lumen (wejście pomiędzy Kimi Sushi a Vietlab) 🕛 Każda niedziela | 12:00–16:00 🎟 Udział bezpłatny",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1785490663.webp",
+      "location": {
+        "name": "Elektrownia Powiśle, ul. Dobra 42",
+        "district": "Wola"
+      },
+      "url": "https://www.facebook.com/events/3351672885131685",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/3351672885131685",
+      "scrapped_timestamp": "2026-07-31T12:57:42.180194+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "ANIMACJE DLA DZIECI: AKCJA - DOBRA ZABAWA!",
+          "description": "Zapraszamy najmłodszych na darmowe animacje dla dzieci, które odbywają się w każdą niedzielę w godzinach 12:00–16:00 w sali Lumen (wejście pomiędzy Kimi Sushi a Vietlab) ✨ Na dzieci czekają super animatorzy, kreatywne atrakcje, zabawy ruchowe i mnóstwo uśmiechu! To idealny sposób na rodzinne spędzenie niedzieli, podczas gdy rodzice mogą w tym czasie skorzystać z naszej oferty gastronomicznej 🍴 📍 Sala Lumen (wejście pomiędzy Kimi Sushi a Vietlab) 🕛 Każda niedziela | 12:00–16:00 🎟 Udział bezpłatny"
+        },
+        "en": {
+          "title": "ANIMATIONS FOR CHILDREN: ACTION - GOOD FUN!",
+          "description": "We invite the youngest to free children's animations, which take place every Sunday from 12:00 PM to 4:00 PM in the Lumen hall (entrance between Kimi Sushi and Vietlab) ✨ Super animators, creative attractions, physical games, and lots of smiles await the children! It's the perfect way to spend Sunday as a family, while parents can take advantage of our food offerings during this time 🍴 📍 Lumen hall (entrance between Kimi Sushi and Vietlab) 🕛 Every Sunday | 12:00 PM – 4:00 PM 🎟 Free participation"
+        },
+        "uk": {
+          "title": "АНІМАЦІЇ ДЛЯ ДІТЕЙ: АКЦІЯ - ДОБРА РОЗВАГА!",
+          "description": "Запрошуємо наймолодших на безкоштовні анімації для дітей, які проходять щонеділі з 12:00 до 16:00 у залі Lumen (вхід між Kimi Sushi та Vietlab) ✨ На дітей чекають супер аніматори, креативні атракції, рухливі ігри та безліч усмішок! Це ідеальний спосіб провести неділю з родиною, поки батьки можуть скористатися нашою гастрономічною пропозицією 🍴 📍 Зала Lumen (вхід між Kimi Sushi та Vietlab) 🕛 Щонеділі | 12:00–16:00 🎟 Участь безкоштовна"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wola",
+      "updated_at": "2026-07-31T12:58:16.207774+00:00"
+    },
+    "reksio-uszatek-i-sp-ka-co-rodzice-czytali-albo-s-uchali-gdy-byli-mali-2026-07-31T11:00:00+02:00": {
+      "title": "Reksio, Uszatek i spółka - Co rodzice czytali, albo słuchali, gdy byli mali",
+      "date": "2026-07-31T11:00:00+02:00",
+      "end_date": "2026-07-31T13:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cykl wspólnych, głośnych czytań przypominających „małym i dużym” czytelni(cz)kom o bohaterach książek, które czytali ich rodzice lub dziadkowie, oraz warsztaty z tworzenia zakładek i przypinek. Co robimy Wspólne czytanie Rysowanie i kolorowanie Tworzenie zakładek i przypinek Kiedy i dla kogo Każdy piątek od 10 lipca do 28 sierpnia, godz. 11:00–13:00 Wiek: 3–10 lat Projekt powstał dzięki wsparciu finansowemu Miasta Stołecznego Warszawy i Staromiejskiego Domu Kultury oraz towarzyszy konkursowi na Ulubioną Księgarnię Warszawy. Więcej informacji Facebook",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Fa25ed423-30f5-486e-899c-54572d35a623.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/b62c00a7-72d4-4cdd-9b20-612c0c5088ed",
+      "source": "gojammin.com",
+      "district": "Śródmieście",
+      "location": {
+        "name": "Nowogrodzka, Warszawa, Poland",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/b62c00a7-72d4-4cdd-9b20-612c0c5088ed",
+      "scrapped_timestamp": "2026-07-31T12:57:47.927130+00:00",
+      "category": "Storytime",
+      "age_range": {
+        "min": 3,
+        "max": 10
+      },
+      "translations": {
+        "pl": {
+          "title": "Reksio, Uszatek i spółka - Co rodzice czytali, albo słuchali, gdy byli mali",
+          "description": "Cykl wspólnych, głośnych czytań przypominających „małym i dużym” czytelni(cz)kom o bohaterach książek, które czytali ich rodzice lub dziadkowie, oraz warsztaty z tworzenia zakładek i przypinek. Co robimy Wspólne czytanie Rysowanie i kolorowanie Tworzenie zakładek i przypinek Kiedy i dla kogo Każdy piątek od 10 lipca do 28 sierpnia, godz. 11:00–13:00 Wiek: 3–10 lat Projekt powstał dzięki wsparciu finansowemu Miasta Stołecznego Warszawy i Staromiejskiego Domu Kultury oraz towarzyszy konkursowi na Ulubioną Księgarnię Warszawy. Więcej informacji Facebook"
+        },
+        "en": {
+          "title": "Reksio, Uszatek and Company - What Parents Read or Listened to When They Were Young",
+          "description": "A series of joint, loud readings reminding 'small and large' readers of the heroes of the books their parents or grandparents read, along with workshops for creating bookmarks and pins. What we do: Joint reading, drawing and coloring, creating bookmarks and pins. When and for whom: Every Friday from July 10 to August 28, from 11:00 AM to 1:00 PM. Age: 3–10 years. The project was created with the financial support of the Capital City of Warsaw and the Old Town Cultural Center and accompanies the competition for the Favorite Bookstore of Warsaw. More information on Facebook."
+        },
+        "uk": {
+          "title": "Рексіо, Ушatek і компанія - Що читали або слухали батьки, коли були маленькими",
+          "description": "Цикл спільних, гучних читань, що нагадують «малим і великим» читачам про героїв книг, які читали їхні батьки або дідусі та бабусі, а також майстер-класи зі створення закладок і значків. Що ми робимо: Спільне читання, Малювання та розфарбовування, Створення закладок і значків. Коли і для кого: Кожної п’ятниці з 10 липня до 28 серпня, з 11:00 до 13:00. Вік: 3–10 років. Проект реалізовано завдяки фінансовій підтримці Міста Столичного Варшави та Староміського Будинку Культури, а також супроводжує конкурс на Улюблену Книгарню Варшави. Більше інформації на Facebook."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-07-31T12:58:16.207805+00:00"
+    },
+    "lato-w-wytw-rni-2026-07-31T08:30:00+02:00": {
+      "title": "Lato w Wytwórni",
+      "date": "2026-07-31T08:30:00+02:00",
+      "end_date": "2026-07-31T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na wakacyjne warsztaty w Wytwórni! To doskonała okazja, aby twórczo spędzić czas, nauczyć się nowych umiejętności i stworzyć coś wyjątkowego. W kameralnej atmosferze, pod okiem doświadczonych prowadzących, poznasz ciekawe techniki i w sposób kreatywny wykorzystasz materiały z odzysku. Do wyboru w najbliższych tygodniach są zajęcia, na których można: uszyć kosmetyczkę, torbę lub workoplecak zbudować lampkę stworzyć obraz techniką fotografii słonecznej skonstruować kolorowy kalejdoskop Brzmi skomplikowanie? Wszystkiego Cię nauczymy! Prowadzący zajęcia wyjaśnią jak osiągnąć pożądany efekt i wesprą w procesie twórczym. To, co stworzysz, zabierzesz ze sobą do domu! Przyjdź sam(a), z partnerem/partnerką lub dzieckiem – spędźcie kreatywnie czas i stwórzcie coś własnymi rękami! Więcej informacji o zajęciach Informacje praktyczne Dla kogo: osoby w wieku 10+, 13+, 16+ w zależności od zajęć Terminy: wybrane czwartki, piątki, soboty i niedziele lipca i sierpnia; do wyboru zajęcia poranne (10:30–13:00) lub popołudniowe (14:00–16:30) Czas trwania: 2,5 godziny Liczba uczestników: maks. 16 osób Miejsce: Wytwórnia (Pracownia Przewrotu Kopernikańskiego), ul. Wybrzeże Kościuszkowskie 18, obok budynku głównego Centrum Nauki Kopernik, Warszawa Cena: 40 zł/os. Bilety",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F6e60e577-f6b9-4cd4-bb27-b1048d3eaca7.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/72c569e1-7ea9-4c56-8360-bae43bf416d8",
+      "source": "gojammin.com",
+      "district": "Śródmieście",
+      "location": {
+        "name": "Wybrzeże Kościuszkowskie 20, 00-390 Warszawa, Poland",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/72c569e1-7ea9-4c56-8360-bae43bf416d8",
+      "scrapped_timestamp": "2026-07-31T12:57:55.975242+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 10,
+        "max": 16
+      },
+      "translations": {
+        "pl": {
+          "title": "Lato w Wytwórni",
+          "description": "Zapraszamy na wakacyjne warsztaty w Wytwórni! To doskonała okazja, aby twórczo spędzić czas, nauczyć się nowych umiejętności i stworzyć coś wyjątkowego. W kameralnej atmosferze, pod okiem doświadczonych prowadzących, poznasz ciekawe techniki i w sposób kreatywny wykorzystasz materiały z odzysku. Do wyboru w najbliższych tygodniach są zajęcia, na których można: uszyć kosmetyczkę, torbę lub workoplecak zbudować lampkę stworzyć obraz techniką fotografii słonecznej skonstruować kolorowy kalejdoskop Brzmi skomplikowanie? Wszystkiego Cię nauczymy! Prowadzący zajęcia wyjaśnią jak osiągnąć pożądany efekt i wesprą w procesie twórczym. To, co stworzysz, zabierzesz ze sobą do domu! Przyjdź sam(a), z partnerem/partnerką lub dzieckiem – spędźcie kreatywnie czas i stwórzcie coś własnymi rękami! Więcej informacji o zajęciach Informacje praktyczne Dla kogo: osoby w wieku 10+, 13+, 16+ w zależności od zajęć Terminy: wybrane czwartki, piątki, soboty i niedziele lipca i sierpnia; do wyboru zajęcia poranne (10:30–13:00) lub popołudniowe (14:00–16:30) Czas trwania: 2,5 godziny Liczba uczestników: maks. 16 osób Miejsce: Wytwórnia (Pracownia Przewrotu Kopernikańskiego), ul. Wybrzeże Kościuszkowskie 18, obok budynku głównego Centrum Nauki Kopernik, Warszawa Cena: 40 zł/os. Bilety"
+        },
+        "en": {
+          "title": "Summer at the Factory",
+          "description": "We invite you to summer workshops at the Factory! This is a great opportunity to spend time creatively, learn new skills, and create something unique. In an intimate atmosphere, under the guidance of experienced instructors, you will discover interesting techniques and creatively use recycled materials. In the coming weeks, you can choose from classes where you can: sew a cosmetic bag, a bag or a backpack, build a lamp, create a picture using solar photography techniques, or construct a colorful kaleidoscope. Sounds complicated? We will teach you everything! The instructors will explain how to achieve the desired effect and support you in the creative process. What you create, you will take home with you! Come alone, with a partner, or with a child – spend creative time and make something with your own hands!"
+        },
+        "uk": {
+          "title": "Літо у Витворні",
+          "description": "Запрошуємо на літні майстер-класи у Витворні! Це чудова можливість творчо провести час, навчитися новим навичкам і створити щось унікальне. У затишній атмосфері, під наглядом досвідчених ведучих, ви дізнаєтеся цікаві техніки та креативно використаєте матеріали з вторинних сировин. У найближчі тижні ви можете обрати заняття, на яких можна: пошити косметичку, сумку або рюкзак, побудувати лампочку, створити картину технікою сонячної фотографії, сконструювати кольоровий калейдоскоп. Звучить складно? Ми вас всьому навчимо! Ведучі занять пояснять, як досягти бажаного ефекту та підтримають у творчому процесі. Те, що ви створите, заберете з собою додому! Приходьте самі, з партнером/партнеркою або дитиною – проведіть час творчо та створіть щось власними руками!"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://bilety.kopernik.org.pl/pl/login"
+      },
+      "updated_at": "2026-07-31T12:58:16.207826+00:00"
+    },
+    "wakacyjny-ogr-d-wyobra-ni-skarby-natury-2026-07-31T12:00:00+02:00": {
+      "title": "WAKACYJNY OGRÓD WYOBRAŹNI - Skarby natury",
+      "date": "2026-07-31T12:00:00+02:00",
+      "end_date": "2026-07-31T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "WAKACYJNY OGRÓD WYOBRAŹNI - Skarby natury 28–31 lipca, godz. 14:00–16:00 Miejsce: Klubokawiarnia Sąsiedzka / Dom Kultury, ul. Działdowska 6, Warszawa Zapisy Zapisz się Tydzień 4: Wyruszamy na poszukiwanie inspiracji ukrytych w ogrodzie! Będziemy tworzyć, eksperymentować i odkrywać, jak niezwykłe dzieła można wykonać z darów natury. Kamienie, liście, kwiaty, patyki i nasiona zamienią się w małe dzieła sztuki pełne wyobraźni. Program 28 lipca – Kamienie Malowane Naturą Zwykłe kamienie zamienimy w kolorowe dzieła sztuki. Będziemy malować na nich roślinne wzory, zwierzęta, owady i fantazyjne postacie inspirowane światem natury. 29 lipca – Zielnik Małego Odkrywcy Wybierzemy się na poszukiwanie najciekawszych liści, kwiatów i ziół. Następnie stworzymy własne zielniki oraz wyjątkowe kompozycje z zasuszonych roślin. 30 lipca – Kwiatowe Obrazy Z płatków kwiatów, traw, liści i innych naturalnych skarbów stworzymy niezwykłe obrazy i mozaiki. Każda praca będzie niepowtarzalną opowieścią o lecie w ogrodzie. 31 lipca – Leśne Mandale i Ogrodowe Mozaiki Patyki, kamyki, szyszki, liście i kwiaty posłużą nam do tworzenia zachwycających mandali oraz naturalnych kompozycji artystycznych. Nauczymy się dostrzegać piękno ukryte w prostych darach natury. Dostępność wydarzenia Dojazd: najbliższy przystanek transportu publicznego METRO PŁOCKA (ok. 300 m), linie: 13, 26, 27, 103, 106, M2. Jeśli potrzebujesz pomocy w dotarciu na wydarzenie, prosimy o kontakt: j.adamczyk@wck-wola.pl Informacje o dostępności obiektu Do budynku prowadzą schody; w budynku nie ma windy ani podjazdów dla wózków. Nie ma dostępnej toalety dla osób z niepełnosprawnością. W pobliżu budynku nie wyznaczono miejsc parkingowych dla osób z niepełnosprawnością; najbliższe miejsca parkingowe znajdują się przy ul. Wawelberga (ok. 100 m). Nad wejściem głównym znajduje się znacznik TOTUPOINT. Do budynku i wszystkich jego pomieszczeń można wejść z psem asystującym i psem przewodnikiem. W budynku nie ma oznaczeń w alfabecie Braille’a ani oznaczeń kontrastowych lub w druku powiększonym dla osób niewidomych i słabowidzących. W recepcji jest dostępna pętla indukcyjna. Można skorzystać z tłumacza polskiego języka migowego (PJM) online: Otwórz tłumacza PJM Jeśli potrzebujesz skorzystać z pętli indukcyjnej podczas koncertu, spektaklu czy innego wydarzenia, skontaktuj się wcześniej: m.michnowska@wck-wola.pl, TEL/SMS: 609028424. Podczas wydarzenia można wypożyczyć słuchawki wyciszające dla dzieci i dorosłych. Jeśli masz pytania dotyczące dostępności wydarzenia, prosimy o kontakt: m.michnowska@wck-wola.pl lub tel/SMS: 609028424.",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F689b3b94-82ad-4c9b-a41a-743fdbe4574a.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/689b3b94-82ad-4c9b-a41a-743fdbe4574a",
+      "source": "gojammin.com",
+      "district": "Wola",
+      "location": {
+        "name": "Działdowska 6/6, 01-184 Warszawa, Poland",
+        "district": "Wola"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/689b3b94-82ad-4c9b-a41a-743fdbe4574a",
+      "scrapped_timestamp": "2026-07-31T12:58:04.428631+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 4,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "WAKACYJNY OGRÓD WYOBRAŹNI - Skarby natury",
+          "description": "WAKACYJNY OGRÓD WYOBRAŹNI - Skarby natury 28–31 lipca, godz. 14:00–16:00 Miejsce: Klubokawiarnia Sąsiedzka / Dom Kultury, ul. Działdowska 6, Warszawa Zapisy Zapisz się Tydzień 4: Wyruszamy na poszukiwanie inspiracji ukrytych w ogrodzie! Będziemy tworzyć, eksperymentować i odkrywać, jak niezwykłe dzieła można wykonać z darów natury. Kamienie, liście, kwiaty, patyki i nasiona zamienią się w małe dzieła sztuki pełne wyobraźni. Program 28 lipca – Kamienie Malowane Naturą Zwykłe kamienie zamienimy w kolorowe dzieła sztuki. Będziemy malować na nich roślinne wzory, zwierzęta, owady i fantazyjne postacie inspirowane światem natury. 29 lipca – Zielnik Małego Odkrywcy Wybierzemy się na poszukiwanie najciekawszych liści, kwiatów i ziół. Następnie stworzymy własne zielniki oraz wyjątkowe kompozycje z zasuszonych roślin. 30 lipca – Kwiatowe Obrazy Z płatków kwiatów, traw, liści i innych naturalnych skarbów stworzymy niezwykłe obrazy i mozaiki. Każda praca będzie niepowtarzalną opowieścią o lecie w ogrodzie. 31 lipca – Leśne Mandale i Ogrodowe Mozaiki Patyki, kamyki, szyszki, liście i kwiaty posłużą nam do tworzenia zachwycających mandali oraz naturalnych kompozycji artystycznych. Nauczymy się dostrzegać piękno ukryte w prostych darach natury. Dostępność wydarzenia Dojazd: najbliższy przystanek transportu publicznego METRO PŁOCKA (ok. 300 m), linie: 13, 26, 27, 103, 106, M2. Jeśli potrzebujesz pomocy w dotarciu na wydarzenie, prosimy o kontakt: j.adamczyk@wck-wola.pl Informacje o dostępności obiektu Do budynku prowadzą schody; w budynku nie ma windy ani podjazdów dla wózków. Nie ma dostępnej toalety dla osób z niepełnosprawnością. W pobliżu budynku nie wyznaczono miejsc parkingowych dla osób z niepełnosprawnością; najbliższe miejsca parkingowe znajdują się przy ul. Wawelberga (ok. 100 m). Nad wejściem głównym znajduje się znacznik TOTUPOINT. Do budynku i wszystkich jego pomieszczeń można wejść z psem asystującym i psem przewodnikiem. W budynku nie ma oznaczeń w alfabecie Braille’a ani oznaczeń kontrastowych lub w druku powiększonym dla osób niewidomych i słabowidzących. W recepcji jest dostępna pętla indukcyjna. Można skorzystać z tłumacza polskiego języka migowego (PJM) online: Otwórz tłumacza PJM Jeśli potrzebujesz skorzystać z pętli indukcyjnej podczas koncertu, spektaklu czy innego wydarzenia, skontaktuj się wcześniej: m.michnowska@wck-wola.pl, TEL/SMS: 609028424. Podczas wydarzenia można wypożyczyć słuchawki wyciszające dla dzieci i dorosłych. Jeśli masz pytania dotyczące dostępności wydarzenia, prosimy o kontakt: m.michnowska@wck-wola.pl lub tel/SMS: 609028424."
+        },
+        "en": {
+          "title": "SUMMER GARDEN OF IMAGINATION - Treasures of Nature",
+          "description": "SUMMER GARDEN OF IMAGINATION - Treasures of Nature, July 28–31, 2:00 PM–4:00 PM. Location: Klubokawiarnia Sąsiedzka / Cultural Center, Działdowska 6, Warsaw. Registration: Sign up. Week 4: We set off in search of inspiration hidden in the garden! We will create, experiment, and discover how extraordinary works can be made from the gifts of nature. Stones, leaves, flowers, sticks, and seeds will transform into small works of art full of imagination. Program: July 28 – Nature-Painted Stones. We will turn ordinary stones into colorful works of art. We will paint plant patterns, animals, insects, and fanciful characters inspired by the world of nature. July 29 – Little Explorer's Herbarium. We will go in search of the most interesting leaves, flowers, and herbs. Then we will create our own herbaria and unique compositions."
+        },
+        "uk": {
+          "title": "КАНІКУЛЬНИЙ САД УЯВИ - Скарби природи",
+          "description": "КАНІКУЛЬНИЙ САД УЯВИ - Скарби природи 28–31 липня, год. 14:00–16:00 Місце: Клубокав'ярня Сусідська / Будинок культури, вул. Дзялдовська 6, Варшава Записи Запишіться Тиждень 4: Вирушаємо на пошуки натхнення, прихованого в саду! Ми будемо створювати, експериментувати та відкривати, які незвичайні твори можна виконати з дарів природи. Камені, листя, квіти, палички та насіння перетворяться на маленькі витвори мистецтва, сповнені уяви. Програма 28 липня – Малюємо камені природою Звичайні камені перетворимо на кольорові витвори мистецтва. Ми будемо малювати на них рослинні візерунки, тварин, комах та фантастичні персонажі, натхненні світом природи. 29 липня – Зелений щоденник Малого Дослідника Вирушимо на пошуки найцікавіших листків, квітів та трав. Потім створимо власні зелені щоденники та унікальні композиції з..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-07-31T12:58:16.207851+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T18:48:36.805336+00:00",
+  "updated_at": "2026-07-31T06:15:22.577654+00:00",
   "cities": {
     "gdansk": {
       "created_at": "2026-07-10T17:41:11.989000+00:00",
@@ -28,13 +28,13 @@
       "created_at": "2026-07-10T17:31:26.160000+00:00",
       "active": true,
       "sortOrder": 2,
-      "updated_at": "2026-07-29T18:48:36.476668+00:00",
+      "updated_at": "2026-07-31T06:15:22.478657+00:00",
       "collectionPrefix": "krk",
       "eventsCollection": "events_krakow",
       "names": {
         "pl": "Kraków",
-        "uk": "Краків",
-        "en": "Cracow"
+        "en": "Cracow",
+        "uk": "Краків"
       },
       "districts": [
         "Bieńczyce",
@@ -57,7 +57,16 @@
         "Zwierzyniec"
       ],
       "name": "Kraków",
-      "placesEnabled": true
+      "placesEnabled": true,
+      "defaultNearbyCategories": [
+        "zoo",
+        "skate_park",
+        "trampoline_park",
+        "aquarium",
+        "museum",
+        "tourist_attraction",
+        "play_room"
+      ]
     },
     "lodz": {
       "created_at": "2026-07-10T17:41:11.572000+00:00",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T08:22:28.959976+00:00",
+  "updated_at": "2026-08-04T17:09:31.836827+00:00",
   "events": {
     "brick-arena-2026-10-10T10:00:00": {
       "scrapped_timestamp": "2026-07-10T13:52:45.100442+00:00",
@@ -630,6 +630,849 @@
         }
       },
       "updated_at": "2026-07-28T16:27:32.482526+00:00"
+    },
+    "poszukiwacze-skarb-w-rodzinne-oprowadzanie-w-2026-08-04T11:00:00+02:00": {
+      "title": "Poszukiwacze skarbów - rodzinne oprowadzanie w...",
+      "date": "2026-08-04T11:00:00+02:00",
+      "end_date": "2026-08-04T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/zdjecie,pic1,1225,0,495117,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Brama Poznania, ul...",
+        "district": "Stare Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/poszukiwacze-skarbow-rodzinne-oprowadzanie-w-bramie-poznania,185298.html",
+      "source": "poznan.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/poszukiwacze-skarbow-rodzinne-oprowadzanie-w-bramie-poznania,185298.html",
+      "scrapped_timestamp": "2026-08-04T17:08:04.096162+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Poszukiwacze skarbów - rodzinne oprowadzanie w...",
+          "description": ""
+        },
+        "en": {
+          "title": "Treasure Hunters - Family Guided Tour in...",
+          "description": ""
+        },
+        "uk": {
+          "title": "Скарбошукачі - сімейна екскурсія в...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753221+00:00"
+    },
+    "10-lato-z-estrad-nowe-winogrady-po-udnie-spektakl-2026-08-05T17:00:00+02:00": {
+      "title": "10. Lato z Estradą - Nowe Winogrady Południe - Spektakl...",
+      "date": "2026-08-05T17:00:00+02:00",
+      "end_date": "2026-08-05T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491817,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Park Władysława...",
+        "district": "Nowe Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-nowe-winogrady-poludnie-spektakl-maks-chce-psa,184288.html",
+      "source": "poznan.pl",
+      "district": "Nowe Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-nowe-winogrady-poludnie-spektakl-maks-chce-psa,184288.html",
+      "scrapped_timestamp": "2026-08-04T17:08:11.870197+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Nowe Winogrady Południe - Spektakl...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - New Winogrady South - Performance...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Нові Виногради Південь - Спектакль...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753264+00:00"
+    },
+    "warsztaty-bajkoterapii-2026-08-06T17:00:00+02:00": {
+      "title": "Warsztaty bajkoterapii",
+      "date": "2026-08-06T17:00:00+02:00",
+      "end_date": "2026-08-06T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/warsztaty-bajkoterapii,pic1,1225,0,495903,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Sala Fundacji Dom..."
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/warsztaty-bajkoterapii,185453.html",
+      "source": "poznan.pl",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/warsztaty-bajkoterapii,185453.html",
+      "scrapped_timestamp": "2026-08-04T17:08:15.819893+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Warsztaty bajkoterapii",
+          "description": ""
+        },
+        "en": {
+          "title": "Fairy Tale Therapy Workshop",
+          "description": ""
+        },
+        "uk": {
+          "title": "Майстер-клас з байкотерапії",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753288+00:00"
+    },
+    "10-lato-z-estrad-pi-tkowo-spektakl-s-owik-2026-08-06T18:00:00+02:00": {
+      "title": "10. Lato z Estradą - Piątkowo - Spektakl Słowik",
+      "date": "2026-08-06T18:00:00+02:00",
+      "end_date": "2026-08-06T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491833,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Park Tadeusza...",
+        "district": "Jeżyce"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-piatkowo-spektakl-slowik,184297.html",
+      "source": "poznan.pl",
+      "district": "Jeżyce",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-piatkowo-spektakl-slowik,184297.html",
+      "scrapped_timestamp": "2026-08-04T17:08:19.134701+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Piątkowo - Spektakl Słowik",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Piątkowo - Nightingale Show",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - П'ятниця - Спектакль Соловейко",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753319+00:00"
+    },
+    "p-kolonie-przygodowo-j-zykowe-w-mi-ej-szkole-2026-08-07T07:30:00+02:00": {
+      "title": "Półkolonie przygodowo-językowe w Miłej Szkole -...",
+      "date": "2026-08-07T07:30:00+02:00",
+      "end_date": "2026-08-07T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/zdjecie-zwiazane-z-wydarzeniem,pic1,1225,0,489923,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Miła Szkoła Językowa..."
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/polkolonie-przygodowo-jezykowe-w-milej-szkole-turnus-6,183803.html",
+      "source": "poznan.pl",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/polkolonie-przygodowo-jezykowe-w-milej-szkole-turnus-6,183803.html",
+      "scrapped_timestamp": "2026-08-04T17:08:22.666098+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 0,
+        "max": 0
+      },
+      "translations": {
+        "pl": {
+          "title": "Półkolonie przygodowo-językowe w Miłej Szkole -...",
+          "description": ""
+        },
+        "en": {
+          "title": "Adventure Language Camps at the Nice School -...",
+          "description": ""
+        },
+        "uk": {
+          "title": "Пригодницько-мовні півколонії в Мілій Школі -...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753347+00:00"
+    },
+    "10-lato-z-estrad-krzy-owniki-smochowice-2026-08-07T17:00:00+02:00": {
+      "title": "10. Lato z Estradą - Krzyżowniki - Smochowice -...",
+      "date": "2026-08-07T17:00:00+02:00",
+      "end_date": "2026-08-07T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491705,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Obiekt...",
+        "district": "Jeżyce"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-krzyzowniki-smochowice-warsztaty-plastyczne-wewnetrzne-krajobrazy,184262.html",
+      "source": "poznan.pl",
+      "district": "Jeżyce",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-krzyzowniki-smochowice-warsztaty-plastyczne-wewnetrzne-krajobrazy,184262.html",
+      "scrapped_timestamp": "2026-08-04T17:08:25.816169+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Krzyżowniki - Smochowice -...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Krzyżowniki - Smochowice -...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Крижовники - Смоходовице -...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753374+00:00"
+    },
+    "z-eliz-piotrowsk-po-bibliotece-gra-terenowa-2026-08-08T12:00:00+02:00": {
+      "title": "Z Elizą Piotrowską po bibliotece. Gra terenowa",
+      "date": "2026-08-08T12:00:00+02:00",
+      "end_date": "2026-08-08T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/grafika,pic1,1225,0,495429,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Biblioteka Raczyńskich...",
+        "district": "Stare Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/z-eliza-piotrowska-po-bibliotece-gra-terenowa,185334.html",
+      "source": "poznan.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/z-eliza-piotrowska-po-bibliotece-gra-terenowa,185334.html",
+      "scrapped_timestamp": "2026-08-04T17:08:30.803027+00:00",
+      "category": "Field Trips",
+      "age_range": {
+        "min": 0,
+        "max": 0
+      },
+      "translations": {
+        "pl": {
+          "title": "Z Elizą Piotrowską po bibliotece. Gra terenowa",
+          "description": ""
+        },
+        "en": {
+          "title": "With Eliza Piotrowska in the Library. Outdoor Game",
+          "description": ""
+        },
+        "uk": {
+          "title": "З Елізою Піотровською по бібліотеці. Гра на свіжому повітрі",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753410+00:00"
+    },
+    "10-lato-z-estrad-krzy-owniki-smochowice-2026-08-08T16:00:00+02:00": {
+      "title": "10. Lato z Estradą - Krzyżowniki - Smochowice -...",
+      "date": "2026-08-08T16:00:00+02:00",
+      "end_date": "2026-08-08T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491706,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Obiekt...",
+        "district": "Jeżyce"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-krzyzowniki-smochowice-warsztaty-plastyczne-ferment,184263.html",
+      "source": "poznan.pl",
+      "district": "Jeżyce",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-krzyzowniki-smochowice-warsztaty-plastyczne-ferment,184263.html",
+      "scrapped_timestamp": "2026-08-04T17:08:34.615128+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Krzyżowniki - Smochowice -...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Krzyżowniki - Smochowice -...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Крижовники - Смоходовице -...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753438+00:00"
+    },
+    "wakacje-z-plansz-wkami-2026-08-09T11:00:00+02:00": {
+      "title": "Wakacje z planszówkami",
+      "date": "2026-08-09T11:00:00+02:00",
+      "end_date": "2026-08-09T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/plakat-wydarzenia,pic1,1225,0,496175,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Dom Kultury Orle..."
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/wakacje-z-planszowkami,185499.html",
+      "source": "poznan.pl",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/wakacje-z-planszowkami,185499.html",
+      "scrapped_timestamp": "2026-08-04T17:08:37.468957+00:00",
+      "category": "Games",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Wakacje z planszówkami",
+          "description": ""
+        },
+        "en": {
+          "title": "Board Game Holidays",
+          "description": ""
+        },
+        "uk": {
+          "title": "Відпустка з настільними іграми",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753460+00:00"
+    },
+    "podaj-ap-dobro-wraca-warsztaty-r-kodzielnicze-z-2026-08-09T12:00:00+02:00": {
+      "title": "Podaj łapę - dobro wraca - warsztaty rękodzielnicze z...",
+      "date": "2026-08-09T12:00:00+02:00",
+      "end_date": "2026-08-09T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/plakat-wydarzenia,pic1,1225,0,496096,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Jagoda nie Porzeczka...",
+        "district": "Grunwald"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/podaj-lape-dobro-wraca-warsztaty-rekodzielnicze-z-tworzenia-zabawek-dla-zwierzat,185476.html",
+      "source": "poznan.pl",
+      "district": "Grunwald",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/podaj-lape-dobro-wraca-warsztaty-rekodzielnicze-z-tworzenia-zabawek-dla-zwierzat,185476.html",
+      "scrapped_timestamp": "2026-08-04T17:08:40.308355+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Podaj łapę - dobro wraca - warsztaty rękodzielnicze z...",
+          "description": ""
+        },
+        "en": {
+          "title": "Give a Paw - Goodness Returns - Handicraft Workshops with...",
+          "description": ""
+        },
+        "uk": {
+          "title": "Подай лапу - добро повертається - майстер-класи з рукоділля з...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753488+00:00"
+    },
+    "zbudujmy-ostr-w-tumski-rodzinne-oprowadzanie-w-2026-08-11T11:00:00+02:00": {
+      "title": "Zbudujmy Ostrów Tumski - rodzinne oprowadzanie w...",
+      "date": "2026-08-11T11:00:00+02:00",
+      "end_date": "2026-08-11T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/zdjecie,pic1,1225,0,495470,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Brama Poznania...",
+        "district": "Stare Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/zbudujmy-ostrow-tumski-rodzinne-oprowadzanie-w-bramie-poznania,185343.html",
+      "source": "poznan.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/zbudujmy-ostrow-tumski-rodzinne-oprowadzanie-w-bramie-poznania,185343.html",
+      "scrapped_timestamp": "2026-08-04T17:08:43.651754+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Zbudujmy Ostrów Tumski - rodzinne oprowadzanie w...",
+          "description": ""
+        },
+        "en": {
+          "title": "Let's Build Ostrów Tumski - Family Guided Tour in...",
+          "description": ""
+        },
+        "uk": {
+          "title": "Збудуймо Острів Тумський - сімейна екскурсія в...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753514+00:00"
+    },
+    "10-lato-z-estrad-fabianowo-kotowo-warsztaty-plastyczne-2026-08-11T16:00:00+02:00": {
+      "title": "10. Lato z Estradą - Fabianowo-Kotowo - Warsztaty plastyczne...",
+      "date": "2026-08-11T16:00:00+02:00",
+      "end_date": "2026-08-11T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491633,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Ogród SP nr 52...",
+        "district": "Grunwald"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-fabianowo-kotowo-warsztaty-plastyczne-wewnetrzne-krajobrazy,184231.html",
+      "source": "poznan.pl",
+      "district": "Grunwald",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-fabianowo-kotowo-warsztaty-plastyczne-wewnetrzne-krajobrazy,184231.html",
+      "scrapped_timestamp": "2026-08-04T17:08:46.824103+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Fabianowo-Kotowo - Warsztaty plastyczne...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Fabianowo-Kotowo - Art Workshops...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Фабіаново-Котово - Пластичні майстерні...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753542+00:00"
+    },
+    "10-lato-z-estrad-fabianowo-kotowo-spektakl-opowie-ci-2026-08-11T17:00:00+02:00": {
+      "title": "10. Lato z Estradą - Fabianowo-Kotowo - Spektakl Opowieści...",
+      "date": "2026-08-11T17:00:00+02:00",
+      "end_date": "2026-08-11T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491634,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Ogród SP nr 52...",
+        "district": "Grunwald"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-fabianowo-kotowo-spektakl-opowiesci-malej-lupitiny-gonz-225-lez,184232.html",
+      "source": "poznan.pl",
+      "district": "Grunwald",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-fabianowo-kotowo-spektakl-opowiesci-malej-lupitiny-gonz-225-lez,184232.html",
+      "scrapped_timestamp": "2026-08-04T17:08:50.061592+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Fabianowo-Kotowo - Spektakl Opowieści...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Fabianowo-Kotowo - Storytelling Performance...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Фабіаново-Котово - Спектакль Оповідань...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753570+00:00"
+    },
+    "10-lato-z-estrad-szczepankowo-sp-awie-krzesinki-2026-09-04T16:00:00+02:00": {
+      "title": "10. Lato z Estradą - Szczepankowo-Spławie-Krzesinki -...",
+      "date": "2026-09-04T16:00:00+02:00",
+      "end_date": "2026-09-04T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491907,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Ogródek Przedszkola...",
+        "district": "Nowe Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-09-04/10-lato-z-estrada-szczepankowo-splawie-krzesinki-warsztaty-plastyczne-smyko-smoki,184330.html",
+      "source": "poznan.pl",
+      "district": "Nowe Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-09-04/10-lato-z-estrada-szczepankowo-splawie-krzesinki-warsztaty-plastyczne-smyko-smoki,184330.html",
+      "scrapped_timestamp": "2026-08-04T17:08:53.321615+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Szczepankowo-Spławie-Krzesinki -...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Szczepankowo-Spławie-Krzesinki -...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Щепанково-Сплав'я-Кжесінки -...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753597+00:00"
+    },
+    "wakacje-w-muzeum-narodowym-w-poznaniu-sierpie-2026-08-26T00:00:00+02:00": {
+      "title": "Wakacje w Muzeum Narodowym w Poznaniu - SIERPIEŃ",
+      "date": "2026-08-26T00:00:00+02:00",
+      "end_date": "2026-08-26T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,495043,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Muzeum Narodowe w...",
+        "district": "Stare Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-06/wakacje-w-muzeum-narodowym-w-poznaniu-sierpien,185281.html",
+      "source": "poznan.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-06/wakacje-w-muzeum-narodowym-w-poznaniu-sierpien,185281.html",
+      "scrapped_timestamp": "2026-08-04T17:08:56.401432+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Wakacje w Muzeum Narodowym w Poznaniu - SIERPIEŃ",
+          "description": ""
+        },
+        "en": {
+          "title": "Holidays at the National Museum in Poznań - AUGUST",
+          "description": ""
+        },
+        "uk": {
+          "title": "Відпустка в Національному музеї в Познані - СЕРПЕНЬ",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753624+00:00"
+    },
+    "p-kolonie-przygodowo-j-zykowe-w-mi-ej-szkole-2026-08-14T07:30:00+02:00": {
+      "title": "Półkolonie przygodowo-językowe w Miłej Szkole -...",
+      "date": "2026-08-14T07:30:00+02:00",
+      "end_date": "2026-08-14T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/zdjecie-zwiazane-z-wydarzeniem,pic1,1225,0,489904,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Miła Szkoła Językowa..."
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-10/polkolonie-przygodowo-jezykowe-w-milej-szkole-turnus-7,183802.html",
+      "source": "poznan.pl",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-10/polkolonie-przygodowo-jezykowe-w-milej-szkole-turnus-7,183802.html",
+      "scrapped_timestamp": "2026-08-04T17:08:59.719329+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 4,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Półkolonie przygodowo-językowe w Miłej Szkole -...",
+          "description": ""
+        },
+        "en": {
+          "title": "Adventure Language Camps at the Nice School -...",
+          "description": ""
+        },
+        "uk": {
+          "title": "Пригодницько-мовні півколонії в Мілій Школі -...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753651+00:00"
+    },
+    "10-lato-z-estrad-strzeszyn-akcja-teatralna-ludo-ars-ne-2026-08-11T17:00:00+02:00": {
+      "title": "10. Lato z Estradą - Strzeszyn - akcja teatralna Ludo&Arsène",
+      "date": "2026-08-11T17:00:00+02:00",
+      "end_date": "2026-08-11T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491893,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Teren zielony przy...",
+        "district": "Jeżyce"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-11/10-lato-z-estrada-strzeszyn-akcja-teatralna-ludo-ars-232-ne,184316.html",
+      "source": "poznan.pl",
+      "district": "Jeżyce",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-11/10-lato-z-estrada-strzeszyn-akcja-teatralna-ludo-ars-232-ne,184316.html",
+      "scrapped_timestamp": "2026-08-04T17:09:02.775414+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Strzeszyn - akcja teatralna Ludo&Arsène",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Strzeszyn - Theatrical Action Ludo&Arsène",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Стржешин - театральна акція Лудо&Арсен",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753679+00:00"
+    },
+    "10-lato-z-estrad-strzeszyn-warsztaty-taneczne-logika-2026-08-11T17:30:00+02:00": {
+      "title": "10. Lato z Estradą - Strzeszyn - Warsztaty taneczne - Logika...",
+      "date": "2026-08-11T17:30:00+02:00",
+      "end_date": "2026-08-11T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491895,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Teren zielony przy...",
+        "district": "Jeżyce"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-11/10-lato-z-estrada-strzeszyn-warsztaty-taneczne-logika-chodnika,184318.html",
+      "source": "poznan.pl",
+      "district": "Jeżyce",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-11/10-lato-z-estrada-strzeszyn-warsztaty-taneczne-logika-chodnika,184318.html",
+      "scrapped_timestamp": "2026-08-04T17:09:05.576063+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Strzeszyn - Warsztaty taneczne - Logika...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Strzeszyn - Dance Workshops - Logic...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Стшежин - Танцювальні майстер-класи - Логіка...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753707+00:00"
+    },
+    "10-lato-z-estrad-g-rczyn-akcja-teatralna-ludo-2026-08-12T16:00:00+02:00": {
+      "title": "10. Lato z Estradą - Górczyn - Akcja teatralna - Ludo &...",
+      "date": "2026-08-12T16:00:00+02:00",
+      "end_date": "2026-08-12T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491650,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Park Górczyński, ul...",
+        "district": "Grunwald"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-gorczyn-akcja-teatralna-ludo-ars-232-ne,184241.html",
+      "source": "poznan.pl",
+      "district": "Grunwald",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-gorczyn-akcja-teatralna-ludo-ars-232-ne,184241.html",
+      "scrapped_timestamp": "2026-08-04T17:09:10.148698+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Górczyn - Akcja teatralna - Ludo &...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Górczyn - Theatrical Action - Ludo &...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Гурчин - Театральна акція - Людо &...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753735+00:00"
+    },
+    "10-lato-z-estrad-strzeszyn-grafika-warsztatowa-linoryt-2026-08-12T16:00:00+02:00": {
+      "title": "10. Lato z Estradą - Strzeszyn - grafika warsztatowa - linoryt...",
+      "date": "2026-08-12T16:00:00+02:00",
+      "end_date": "2026-08-12T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491897,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Teren zielony przy...",
+        "district": "Jeżyce"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-strzeszyn-grafika-warsztatowa-linoryt-od-podstaw,184320.html",
+      "source": "poznan.pl",
+      "district": "Jeżyce",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-strzeszyn-grafika-warsztatowa-linoryt-od-podstaw,184320.html",
+      "scrapped_timestamp": "2026-08-04T17:09:13.236929+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Strzeszyn - grafika warsztatowa - linoryt...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Strzeszyn - Workshop Graphics - Linocut...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Стржешин - графіка майстер-класу - лінорит...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753764+00:00"
+    },
+    "10-lato-z-estrad-g-rczyn-warsztaty-plastyczne-ferment-2026-08-12T16:30:00+02:00": {
+      "title": "10. Lato z Estradą - Górczyn - Warsztaty plastyczne - Ferment",
+      "date": "2026-08-12T16:30:00+02:00",
+      "end_date": "2026-08-12T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491647,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Park Górczyński, ul...",
+        "district": "Grunwald"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-gorczyn-warsztaty-plastyczne-ferment,184238.html",
+      "source": "poznan.pl",
+      "district": "Grunwald",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-gorczyn-warsztaty-plastyczne-ferment,184238.html",
+      "scrapped_timestamp": "2026-08-04T17:09:16.079902+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 0
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Górczyn - Warsztaty plastyczne - Ferment",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Górczyn - Art Workshops - Ferment",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Гурчин - Пластичні майстерні - Фермент",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753792+00:00"
+    },
+    "10-lato-z-estrad-g-rczyn-spektakl-opowie-ci-ma-ej-2026-08-12T18:00:00+02:00": {
+      "title": "10. Lato z Estradą - Górczyn - Spektakl Opowieści małej...",
+      "date": "2026-08-12T18:00:00+02:00",
+      "end_date": "2026-08-12T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491649,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Park Górczyński, ul...",
+        "district": "Grunwald"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-gorczyn-spektakl-opowiesci-malej-lupitiny-gonz-225-lez,184240.html",
+      "source": "poznan.pl",
+      "district": "Grunwald",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-gorczyn-spektakl-opowiesci-malej-lupitiny-gonz-225-lez,184240.html",
+      "scrapped_timestamp": "2026-08-04T17:09:19.553250+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Górczyn - Spektakl Opowieści małej...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Górczyn - A Performance of a Little Story...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Гурчин - Спектакль Історії маленької...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753821+00:00"
+    },
+    "10-lato-z-estrad-strzeszyn-sitko-stoisko-do-odbijania-2026-08-12T18:30:00+02:00": {
+      "title": "10. Lato z Estradą - Strzeszyn - Sitko - stoisko do odbijania...",
+      "date": "2026-08-12T18:30:00+02:00",
+      "end_date": "2026-08-12T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491898,with-dims,209,209.jpg?_sst=1785848699594",
+      "location": {
+        "name": "Teren zielony przy...",
+        "district": "Jeżyce"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-strzeszyn-sitko-stoisko-do-odbijania-wzorow-metoda-sitodruku,184321.html",
+      "source": "poznan.pl",
+      "district": "Jeżyce",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-strzeszyn-sitko-stoisko-do-odbijania-wzorow-metoda-sitodruku,184321.html",
+      "scrapped_timestamp": "2026-08-04T17:09:23.266188+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Strzeszyn - Sitko - stoisko do odbijania...",
+          "description": ""
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Strzeszyn - Sitko - booth for bouncing...",
+          "description": ""
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Стржешин - Сітко - стенд для відбивання...",
+          "description": ""
+        }
+      },
+      "updated_at": "2026-08-04T17:09:31.753850+00:00"
     }
   }
 }

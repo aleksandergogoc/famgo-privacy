@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T08:46:45.889820+00:00",
+  "updated_at": "2026-08-05T13:52:27.739302+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -14,6 +14,96 @@
       "cached_at": "2026-07-10 14:55:39.566000+00:00",
       "lat": 54.3553503,
       "lng": 18.6506801
+    },
+    "gdańsk śródmieście": {
+      "name": "8, Dobra, Kłodno, Dolne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-746, Polska",
+      "district": "Śródmieście",
+      "address": "8, Dobra, Kłodno, Dolne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-746, Polska",
+      "normalized": "gdańsk śródmieście",
+      "lat": 54.3399105,
+      "lng": 18.6526529,
+      "updated_at": "2026-08-05T13:52:03.653828+00:00"
+    },
+    "gdańsk sobieszewo": {
+      "name": "2, Nadwiślańska, Sobieszewo, Wyspa Sobieszewska, Gdańsk, województwo pomorskie, 80-680, Polska",
+      "district": "Południe/Wschód",
+      "address": "2, Nadwiślańska, Sobieszewo, Wyspa Sobieszewska, Gdańsk, województwo pomorskie, 80-680, Polska",
+      "normalized": "gdańsk sobieszewo",
+      "lat": 54.344553,
+      "lng": 18.824361,
+      "updated_at": "2026-08-05T13:52:06.223653+00:00"
+    },
+    "zoo": {
+      "name": "ZOO, Karwieńska, Oliwa, Gdańsk, województwo pomorskie, 80-330, Polska",
+      "district": "Oliwa",
+      "address": "ZOO, Karwieńska, Oliwa, Gdańsk, województwo pomorskie, 80-330, Polska",
+      "normalized": "zoo",
+      "lat": 54.4113976,
+      "lng": 18.5478458,
+      "updated_at": "2026-08-05T13:52:11.326183+00:00"
+    },
+    "fundacja rc": {
+      "name": "Fundacja RC, Wita Stwosza, Oliwa, Gdańsk, województwo pomorskie, 80-312, Polska",
+      "district": "Oliwa",
+      "address": "Fundacja RC, Wita Stwosza, Oliwa, Gdańsk, województwo pomorskie, 80-312, Polska",
+      "normalized": "fundacja rc",
+      "lat": 54.4042006,
+      "lng": 18.5650131,
+      "updated_at": "2026-08-05T13:52:14.094061+00:00"
+    },
+    "gdańsk": {
+      "name": "Gdańsk Kokoszki, Nowatorów, Kokoszki, Gdańsk, województwo pomorskie, 80-298, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Gdańsk Kokoszki, Nowatorów, Kokoszki, Gdańsk, województwo pomorskie, 80-298, Polska",
+      "normalized": "gdańsk",
+      "lat": 54.3623346,
+      "lng": 18.4921682,
+      "updated_at": "2026-08-05T13:52:15.848390+00:00"
+    },
+    "gama": {
+      "name": "Gama, 10, Jana Heweliusza, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-890, Polska",
+      "district": "Śródmieście",
+      "address": "Gama, 10, Jana Heweliusza, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-890, Polska",
+      "normalized": "gama",
+      "lat": 54.3553636,
+      "lng": 18.647892,
+      "updated_at": "2026-08-05T13:52:17.817730+00:00"
+    },
+    "gdańska szkoła artystyczna": {
+      "name": "Gdańska Szkoła Artystyczna, 82, Aleja Grunwaldzka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-244, Polska",
+      "district": "Wrzeszcz",
+      "address": "Gdańska Szkoła Artystyczna, 82, Aleja Grunwaldzka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-244, Polska",
+      "normalized": "gdańska szkoła artystyczna",
+      "lat": 54.3774616,
+      "lng": 18.6068227,
+      "updated_at": "2026-08-05T13:52:20.491987+00:00"
+    },
+    "cinema1": {
+      "name": "Cinema1, Franciszka Rakoczego, Nowolipie, Siedlce, Gdańsk, województwo pomorskie, 80-163, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Cinema1, Franciszka Rakoczego, Nowolipie, Siedlce, Gdańsk, województwo pomorskie, 80-163, Polska",
+      "normalized": "cinema1",
+      "lat": 54.3517876,
+      "lng": 18.5941803,
+      "updated_at": "2026-08-05T13:52:23.075166+00:00"
+    },
+    "boropot": {
+      "name": "Boropot, 16, Andrzeja Struga, Emaus, Siedlce, Gdańsk, województwo pomorskie, 80-116, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Boropot, 16, Andrzeja Struga, Emaus, Siedlce, Gdańsk, województwo pomorskie, 80-116, Polska",
+      "normalized": "boropot",
+      "lat": 54.3469122,
+      "lng": 18.6043551,
+      "updated_at": "2026-08-05T13:52:24.381809+00:00"
+    },
+    "ergo arena": {
+      "name": "Ergo Arena, Plac Dwóch Miast, Osiedle Wejhera, Żabianka, Żabianka-Wejhera-Jelitkowo-Tysiąclecia, Gdańsk, województwo pomorskie, 80-344, Polska",
+      "district": "Oliwa",
+      "address": "Ergo Arena, Plac Dwóch Miast, Osiedle Wejhera, Żabianka, Żabianka-Wejhera-Jelitkowo-Tysiąclecia, Gdańsk, województwo pomorskie, 80-344, Polska",
+      "normalized": "ergo arena",
+      "lat": 54.4265278,
+      "lng": 18.5805248,
+      "updated_at": "2026-08-05T13:52:27.582756+00:00"
     }
   }
 }

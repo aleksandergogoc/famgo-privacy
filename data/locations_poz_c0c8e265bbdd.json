@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:33:10.001101+00:00",
+  "updated_at": "2026-08-05T11:23:40.787662+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -457,6 +457,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-05T10:33:06.624766+00:00"
+    },
+    "wielkopolskie muzeum niepodległości": {
+      "name": "Plac Kolegiacki, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-841, Polska",
+      "district": "Stare Miasto",
+      "address": "Plac Kolegiacki, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-841, Polska",
+      "normalized": "wielkopolskie muzeum niepodległości",
+      "lat": 52.4067216,
+      "lng": 16.9362938,
+      "updated_at": "2026-08-05T11:23:40.418138+00:00"
     }
   }
 }

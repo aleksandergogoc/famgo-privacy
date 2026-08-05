@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T12:51:04.723224+00:00",
+  "updated_at": "2026-08-05T13:11:06.611842+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-10-12T11:00:00+02:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -109,7 +109,7 @@
       "scrapped_timestamp": "2026-08-05T10:30:10.914444+00:00",
       "category": "Theater",
       "age_range": {
-        "min": 3,
+        "min": 4,
         "max": 12
       },
       "translations": {
@@ -191,7 +191,7 @@
       "scrapped_timestamp": "2026-08-05T10:30:17.841203+00:00",
       "category": "Theater",
       "age_range": {
-        "min": 3,
+        "min": 4,
         "max": 12
       },
       "translations": {
@@ -231,7 +231,7 @@
       "district": "Stare Miasto",
       "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/polkolonie-przygodowo-jezykowe-w-milej-szkole-turnus-6,183803.html",
       "scrapped_timestamp": "2026-08-05T10:30:20.817101+00:00",
-      "category": "Educational",
+      "category": "Workshops",
       "age_range": {
         "min": 5,
         "max": 12
@@ -273,10 +273,10 @@
       "district": "Jeżyce",
       "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-krzyzowniki-smochowice-warsztaty-plastyczne-wewnetrzne-krajobrazy,184262.html",
       "scrapped_timestamp": "2026-08-05T10:30:23.361656+00:00",
-      "category": "Music & Dance",
+      "category": "Arts",
       "age_range": {
-        "min": 3,
-        "max": 12
+        "min": 6,
+        "max": 14
       },
       "translations": {
         "pl": {
@@ -357,10 +357,10 @@
       "district": "Jeżyce",
       "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-krzyzowniki-smochowice-warsztaty-plastyczne-ferment,184263.html",
       "scrapped_timestamp": "2026-08-05T10:30:31.905509+00:00",
-      "category": "Music & Dance",
+      "category": "Arts",
       "age_range": {
-        "min": 3,
-        "max": 12
+        "min": 7,
+        "max": 10
       },
       "translations": {
         "pl": {
@@ -402,7 +402,7 @@
       "category": "Games",
       "age_range": {
         "min": 5,
-        "max": 12
+        "max": 15
       },
       "translations": {
         "pl": {
@@ -441,7 +441,7 @@
       "scrapped_timestamp": "2026-08-05T10:30:38.361303+00:00",
       "category": "Workshops",
       "age_range": {
-        "min": 5,
+        "min": 3,
         "max": 12
       },
       "translations": {
@@ -481,9 +481,9 @@
       "district": "Stare Miasto",
       "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/zbudujmy-ostrow-tumski-rodzinne-oprowadzanie-w-bramie-poznania,185343.html",
       "scrapped_timestamp": "2026-08-05T10:30:41.069952+00:00",
-      "category": "Family Fun",
+      "category": "Field Trips",
       "age_range": {
-        "min": 3,
+        "min": 5,
         "max": 12
       },
       "translations": {
@@ -523,10 +523,10 @@
       "district": "Grunwald",
       "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-fabianowo-kotowo-warsztaty-plastyczne-wewnetrzne-krajobrazy,184231.html",
       "scrapped_timestamp": "2026-08-05T10:30:43.997094+00:00",
-      "category": "Arts",
+      "category": "Workshops",
       "age_range": {
-        "min": 3,
-        "max": 12
+        "min": 6,
+        "max": 14
       },
       "translations": {
         "pl": {
@@ -567,8 +567,8 @@
       "scrapped_timestamp": "2026-08-05T10:30:46.708569+00:00",
       "category": "Theater",
       "age_range": {
-        "min": 3,
-        "max": 12
+        "min": 6,
+        "max": 14
       },
       "translations": {
         "pl": {
@@ -649,10 +649,10 @@
       "district": "Jeżyce",
       "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-strzeszyn-warsztaty-taneczne-logika-chodnika,184318.html",
       "scrapped_timestamp": "2026-08-05T10:30:53.744064+00:00",
-      "category": "Music & Dance",
+      "category": "Workshops",
       "age_range": {
-        "min": 3,
-        "max": 12
+        "min": 7,
+        "max": 15
       },
       "translations": {
         "pl": {
@@ -691,10 +691,10 @@
       "district": "Stare Miasto",
       "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-06/wakacje-w-muzeum-narodowym-w-poznaniu-sierpien,185281.html",
       "scrapped_timestamp": "2026-08-05T10:30:57.207495+00:00",
-      "category": "Educational",
+      "category": "Arts",
       "age_range": {
-        "min": 3,
-        "max": 12
+        "min": 11,
+        "max": 14
       },
       "translations": {
         "pl": {
@@ -733,7 +733,7 @@
       "district": "Stare Miasto",
       "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-10/polkolonie-przygodowo-jezykowe-w-milej-szkole-turnus-7,183802.html",
       "scrapped_timestamp": "2026-08-05T10:31:00.332777+00:00",
-      "category": "Educational",
+      "category": "Workshops",
       "age_range": {
         "min": 5,
         "max": 12
@@ -817,10 +817,10 @@
       "district": "Jeżyce",
       "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-strzeszyn-grafika-warsztatowa-linoryt-od-podstaw,184320.html",
       "scrapped_timestamp": "2026-08-05T10:31:06.001695+00:00",
-      "category": "Arts",
+      "category": "Workshops",
       "age_range": {
-        "min": 5,
-        "max": 12
+        "min": 10,
+        "max": 15
       },
       "translations": {
         "pl": {
@@ -861,8 +861,8 @@
       "scrapped_timestamp": "2026-08-05T10:31:09.656911+00:00",
       "category": "Arts",
       "age_range": {
-        "min": 3,
-        "max": 12
+        "min": 7,
+        "max": 10
       },
       "translations": {
         "pl": {
@@ -903,8 +903,8 @@
       "scrapped_timestamp": "2026-08-05T10:31:13.021168+00:00",
       "category": "Theater",
       "age_range": {
-        "min": 3,
-        "max": 12
+        "min": 6,
+        "max": 14
       },
       "translations": {
         "pl": {
@@ -943,7 +943,7 @@
       "district": "Jeżyce",
       "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-08-12/10-lato-z-estrada-strzeszyn-sitko-stoisko-do-odbijania-wzorow-metoda-sitodruku,184321.html",
       "scrapped_timestamp": "2026-08-05T10:31:15.958195+00:00",
-      "category": "Family Fun",
+      "category": "Arts",
       "age_range": {
         "min": 3,
         "max": 12
@@ -1145,7 +1145,7 @@
       "category": "Nature & Wildlife",
       "age_range": {
         "min": 3,
-        "max": 6
+        "max": 5
       },
       "translations": {
         "pl": {
@@ -1298,7 +1298,7 @@
       },
       "age_range": {
         "min": 0,
-        "max": 13
+        "max": 3
       },
       "district": "Stare Miasto",
       "scrapped_url": "https://czasdzieci.pl/poznan/wydarzenia/id,1407943ec.html",
@@ -1421,8 +1421,8 @@
       "scrapped_timestamp": "2026-08-05T10:32:44.687974+00:00",
       "category": "Music & Dance",
       "age_range": {
-        "min": 3,
-        "max": 12
+        "min": 13,
+        "max": 18
       },
       "translations": {
         "pl": {

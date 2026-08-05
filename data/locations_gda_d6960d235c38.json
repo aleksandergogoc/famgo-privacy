@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T14:32:07.416400+00:00",
+  "updated_at": "2026-08-05T14:37:22.713498+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -302,6 +302,24 @@
       "lat": 54.3706858,
       "lng": 18.6129831,
       "updated_at": "2026-08-05T14:26:23.939116+00:00"
+    },
+    "ul. rajska 6": {
+      "name": "Gdańsk, województwo pomorskie, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Gdańsk, województwo pomorskie, Polska",
+      "normalized": "ul. rajska 6",
+      "lat": 54.3706858,
+      "lng": 18.6129831,
+      "updated_at": "2026-08-05T14:37:18.409266+00:00"
+    },
+    "helios forum gdańsk": {
+      "name": "Forum Gdańsk, 7, Targ Sienny, Piaskownia, Biskupia Górka, Śródmieście, Gdańsk, województwo pomorskie, 80-806, Polska",
+      "district": "Śródmieście",
+      "address": "Forum Gdańsk, 7, Targ Sienny, Piaskownia, Biskupia Górka, Śródmieście, Gdańsk, województwo pomorskie, 80-806, Polska",
+      "normalized": "helios forum gdańsk",
+      "lat": 54.3488736,
+      "lng": 18.643381,
+      "updated_at": "2026-08-05T14:37:22.580072+00:00"
     }
   }
 }

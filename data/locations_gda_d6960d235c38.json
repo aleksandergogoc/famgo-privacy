@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T14:46:20.192997+00:00",
+  "updated_at": "2026-08-05T18:59:23.436874+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -356,6 +356,33 @@
       "lat": 54.3543096,
       "lng": 18.646859,
       "updated_at": "2026-08-05T14:46:19.744250+00:00"
+    },
+    "gdańsk brzeźno": {
+      "name": "Gdańsk Brzeźno, Dworska 2 przy kościele św.Antoniego",
+      "district": "Dolny Taras",
+      "address": "Gdańsk Brzeźno, Dworska 2 przy kościele św.Antoniego",
+      "normalized": "gdańsk brzeźno",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-05T18:59:19.563375+00:00"
+    },
+    "i like chopin": {
+      "name": "I Like Chopin",
+      "district": "Śródmieście",
+      "address": "I Like Chopin",
+      "normalized": "i like chopin",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-05T18:59:19.570164+00:00"
+    },
+    "ul. elżbietańska 9_10": {
+      "name": "ul. Elżbietańska 9/10",
+      "district": "Śródmieście",
+      "address": "ul. Elżbietańska 9/10",
+      "normalized": "ul. elżbietańska 9_10",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-05T18:59:19.574741+00:00"
     }
   }
 }

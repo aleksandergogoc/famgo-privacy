@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T14:37:22.713498+00:00",
+  "updated_at": "2026-08-05T14:37:54.075338+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -320,6 +320,15 @@
       "lat": 54.3488736,
       "lng": 18.643381,
       "updated_at": "2026-08-05T14:37:22.580072+00:00"
+    },
+    "rajska 6": {
+      "name": "Dom Technika, 6, Rajska, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-850, Polska",
+      "district": "Śródmieście",
+      "address": "Dom Technika, 6, Rajska, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-850, Polska",
+      "normalized": "rajska 6",
+      "lat": 54.3552915,
+      "lng": 18.6506877,
+      "updated_at": "2026-08-05T14:37:52.793232+00:00"
     }
   }
 }

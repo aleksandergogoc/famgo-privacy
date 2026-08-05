@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T08:46:47.568687+00:00",
+  "updated_at": "2026-08-05T09:29:02.656498+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -293,6 +293,14 @@
       "cached_at": "2026-08-04 15:27:54.115000+00:00",
       "lat": 52.4739495,
       "lng": 16.7788648
+    },
+    "collegium da vinci - aula artis": {
+      "name": "Collegium Da Vinci - Aula Artis",
+      "district": "Stare Miasto",
+      "address": "ul. gen. Tadeusza Kutrzeby 10, 61-719 Poznań",
+      "normalized": "collegium da vinci - aula artis",
+      "updated_at": "2026-08-05T09:29:02.480435+00:00",
+      "created_at": "2026-08-05T09:29:02.480435+00:00"
     }
   }
 }

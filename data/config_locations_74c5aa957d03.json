@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T12:23:24.676243+00:00",
+  "updated_at": "2026-08-05T12:24:48.295877+00:00",
   "cities": {
     "gdansk": {
       "created_at": "2026-07-10T17:41:11.989000+00:00",
@@ -91,10 +91,10 @@
     },
     "poznan": {
       "created_at": "2026-07-10T17:41:12.400000+00:00",
-      "updated_at": "2026-08-05T12:23:24.500189+00:00",
+      "updated_at": "2026-08-05T12:24:48.174955+00:00",
       "sortOrder": 6,
       "collectionPrefix": "poz",
-      "active": true,
+      "active": false,
       "eventsCollection": "events_poznan",
       "names": {
         "pl": "Poznań",

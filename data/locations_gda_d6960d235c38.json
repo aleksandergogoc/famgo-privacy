@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T14:39:41.184001+00:00",
+  "updated_at": "2026-08-05T14:46:20.192997+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -338,6 +338,24 @@
       "lat": 54.3551595,
       "lng": 18.649029,
       "updated_at": "2026-08-05T14:39:41.075266+00:00"
+    },
+    "pomorska regionalna organizacja turystyczna": {
+      "name": "Brama Wyżynna, 2A, Wały Jagiellońskie, Piaskownia, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-887, Polska",
+      "district": "Śródmieście",
+      "address": "Brama Wyżynna, 2A, Wały Jagiellońskie, Piaskownia, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-887, Polska",
+      "normalized": "pomorska regionalna organizacja turystyczna",
+      "lat": 54.3499303,
+      "lng": 18.6465239,
+      "updated_at": "2026-08-05T14:40:37.831482+00:00"
+    },
+    "elżbietańska 9_10": {
+      "name": "Klasztor Ojców Oblatów, 9/10, Elżbietańska, Grodzisko, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-894, Polska",
+      "district": "Śródmieście",
+      "address": "Klasztor Ojców Oblatów, 9/10, Elżbietańska, Grodzisko, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-894, Polska",
+      "normalized": "elżbietańska 9_10",
+      "lat": 54.3543096,
+      "lng": 18.646859,
+      "updated_at": "2026-08-05T14:46:19.744250+00:00"
     }
   }
 }

@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-05T12:51:59.968265+00:00",
+  "updated_at": "2026-08-05T19:06:45.149047+00:00",
   "cities": {
     "gdansk": {
       "created_at": "2026-07-10T17:41:11.989000+00:00",
-      "updated_at": "2026-07-10T17:41:11.989000+00:00",
+      "updated_at": "2026-08-05T19:06:45.041162+00:00",
       "sortOrder": 5,
       "collectionPrefix": "gda",
-      "active": false,
+      "active": true,
       "eventsCollection": "events_gdansk",
       "names": {
         "pl": "Gdańsk",

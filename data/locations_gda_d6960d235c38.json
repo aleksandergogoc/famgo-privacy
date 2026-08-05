@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T18:59:23.436874+00:00",
+  "updated_at": "2026-08-05T19:24:29.444551+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -383,6 +383,87 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-05T18:59:19.574741+00:00"
+    },
+    "żabi kruk 15": {
+      "name": "15, Żabi Kruk, Kłodno, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-822, Polska",
+      "district": "Śródmieście",
+      "address": "15, Żabi Kruk, Kłodno, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-822, Polska",
+      "normalized": "żabi kruk 15",
+      "lat": 54.342526,
+      "lng": 18.6487383,
+      "updated_at": "2026-08-05T19:17:22.343517+00:00"
+    },
+    "gradowa 6": {
+      "name": "6, Gradowa, Grodzisko, Nowe Ogrody, Śródmieście, Gdańsk, województwo pomorskie, 80-802, Polska",
+      "district": "Śródmieście",
+      "address": "6, Gradowa, Grodzisko, Nowe Ogrody, Śródmieście, Gdańsk, województwo pomorskie, 80-802, Polska",
+      "normalized": "gradowa 6",
+      "lat": 54.357128,
+      "lng": 18.640775,
+      "updated_at": "2026-08-05T19:17:24.121087+00:00"
+    },
+    "plac solidarności 1": {
+      "name": "Europejskie Centrum Solidarności, 1, Plac Solidarności, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "district": "Śródmieście",
+      "address": "Europejskie Centrum Solidarności, 1, Plac Solidarności, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "normalized": "plac solidarności 1",
+      "lat": 54.3613609,
+      "lng": 18.6494189,
+      "updated_at": "2026-08-05T19:17:25.375874+00:00"
+    },
+    "bazylika mariacka": {
+      "name": "Bazylika Konkatedralna Wniebowzięcia Najświętszej Maryi Panny, 5, Podkramarska, Zamczysko, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-834, Polska",
+      "district": "Śródmieście",
+      "address": "Bazylika Konkatedralna Wniebowzięcia Najświętszej Maryi Panny, 5, Podkramarska, Zamczysko, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-834, Polska",
+      "normalized": "bazylika mariacka",
+      "lat": 54.3498079,
+      "lng": 18.6530094,
+      "updated_at": "2026-08-05T19:17:26.600136+00:00"
+    },
+    "plac porozumienia gdańskiego": {
+      "name": "Plac Porozumienia Gdańskiego, Stocznia Cesarska, Młode Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-958, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Plac Porozumienia Gdańskiego, Stocznia Cesarska, Młode Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-958, Polska",
+      "normalized": "plac porozumienia gdańskiego",
+      "lat": 54.3621573,
+      "lng": 18.6529173,
+      "updated_at": "2026-08-05T19:17:27.873838+00:00"
+    },
+    "żaglowa 11": {
+      "name": "Międzynarodowe Targi Gdańskie \"AmberExpo\", 11, Żaglowa, Narwik, Letnica, Gdańsk, województwo pomorskie, 80-560, Polska",
+      "district": "Śródmieście",
+      "address": "Międzynarodowe Targi Gdańskie \"AmberExpo\", 11, Żaglowa, Narwik, Letnica, Gdańsk, województwo pomorskie, 80-560, Polska",
+      "normalized": "żaglowa 11",
+      "lat": 54.386845,
+      "lng": 18.6343995,
+      "updated_at": "2026-08-05T19:17:29.251680+00:00"
+    },
+    "spacerowa 48": {
+      "name": "Rossmann, 48, Spacerowa, Osowa, Gdańsk, województwo pomorskie, 80-299, Polska",
+      "district": "Oliwa",
+      "address": "Rossmann, 48, Spacerowa, Osowa, Gdańsk, województwo pomorskie, 80-299, Polska",
+      "normalized": "spacerowa 48",
+      "lat": 54.4267896,
+      "lng": 18.4913508,
+      "updated_at": "2026-08-05T19:17:30.547235+00:00"
+    },
+    "śląska 10": {
+      "name": "Arkon Park, 10, Śląska, Przymorze Małe, Gdańsk, województwo pomorskie, 80-384, Polska",
+      "district": "Oliwa",
+      "address": "Arkon Park, 10, Śląska, Przymorze Małe, Gdańsk, województwo pomorskie, 80-384, Polska",
+      "normalized": "śląska 10",
+      "lat": 54.4060868,
+      "lng": 18.5762612,
+      "updated_at": "2026-08-05T19:17:32.317038+00:00"
+    },
+    "plac dwóch miast 1": {
+      "name": "1, Plac Dwóch Miast, Osiedle Wejhera, Żabianka, Żabianka-Wejhera-Jelitkowo-Tysiąclecia, Gdańsk, Sopot, województwo pomorskie, 81-731, Polska",
+      "district": "Oliwa",
+      "address": "1, Plac Dwóch Miast, Osiedle Wejhera, Żabianka, Żabianka-Wejhera-Jelitkowo-Tysiąclecia, Gdańsk, Sopot, województwo pomorskie, 81-731, Polska",
+      "normalized": "plac dwóch miast 1",
+      "lat": 54.4262782,
+      "lng": 18.579723,
+      "updated_at": "2026-08-05T19:17:33.689718+00:00"
     }
   }
 }

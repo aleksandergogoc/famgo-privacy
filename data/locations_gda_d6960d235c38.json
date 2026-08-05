@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T13:52:27.739302+00:00",
+  "updated_at": "2026-08-05T14:06:00.732872+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -104,6 +104,186 @@
       "lat": 54.4265278,
       "lng": 18.5805248,
       "updated_at": "2026-08-05T13:52:27.582756+00:00"
+    },
+    "starowiejska 15_16": {
+      "name": "Starowiejska, Jasień, Gdańsk, Kowale, gmina Kolbudy, powiat gdański, województwo pomorskie, 80-180, Polska",
+      "district": "Górny Taras",
+      "address": "Starowiejska, Jasień, Gdańsk, Kowale, gmina Kolbudy, powiat gdański, województwo pomorskie, 80-180, Polska",
+      "normalized": "starowiejska 15_16",
+      "lat": 54.3178427,
+      "lng": 18.5549668,
+      "updated_at": "2026-08-05T14:05:27.407878+00:00"
+    },
+    "jana kilińskiego 4": {
+      "name": "Semilac, 4, Jana Kilińskiego, Kuźniczki, Wrzeszcz Dolny, Gdańsk, województwo pomorskie, 80-452, Polska",
+      "district": "Wrzeszcz",
+      "address": "Semilac, 4, Jana Kilińskiego, Kuźniczki, Wrzeszcz Dolny, Gdańsk, województwo pomorskie, 80-452, Polska",
+      "normalized": "jana kilińskiego 4",
+      "lat": 54.3826713,
+      "lng": 18.6055201,
+      "updated_at": "2026-08-05T14:05:28.735914+00:00"
+    },
+    "korzenna 33_35": {
+      "name": "Ratusz Starego Miasta, 33/35, Korzenna, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-851, Polska",
+      "district": "Śródmieście",
+      "address": "Ratusz Starego Miasta, 33/35, Korzenna, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-851, Polska",
+      "normalized": "korzenna 33_35",
+      "lat": 54.3539639,
+      "lng": 18.6480183,
+      "updated_at": "2026-08-05T14:05:29.998009+00:00"
+    },
+    "pilotów 11": {
+      "name": "11, Pilotów, Zaspa-Młyniec, Gdańsk, województwo pomorskie, 80-460, Polska",
+      "district": "Dolny Taras",
+      "address": "11, Pilotów, Zaspa-Młyniec, Gdańsk, województwo pomorskie, 80-460, Polska",
+      "normalized": "pilotów 11",
+      "lat": 54.3923306,
+      "lng": 18.5915717,
+      "updated_at": "2026-08-05T14:05:31.382627+00:00"
+    },
+    "spichrzowa 19": {
+      "name": "19, Spichrzowa, Wyspa Spichrzów, Śródmieście, Gdańsk, województwo pomorskie, 80-750, Polska",
+      "district": "Śródmieście",
+      "address": "19, Spichrzowa, Wyspa Spichrzów, Śródmieście, Gdańsk, województwo pomorskie, 80-750, Polska",
+      "normalized": "spichrzowa 19",
+      "lat": 54.3470885,
+      "lng": 18.6586332,
+      "updated_at": "2026-08-05T14:05:32.585013+00:00"
+    },
+    "cystersów 19": {
+      "name": "Spichlerz Opacki, 19, Cystersów, Oliwa, Gdańsk, województwo pomorskie, 80-330, Polska",
+      "district": "Oliwa",
+      "address": "Spichlerz Opacki, 19, Cystersów, Oliwa, Gdańsk, województwo pomorskie, 80-330, Polska",
+      "normalized": "cystersów 19",
+      "lat": 54.4115577,
+      "lng": 18.5592971,
+      "updated_at": "2026-08-05T14:05:34.343015+00:00"
+    },
+    "bielańska 5": {
+      "name": "Uniwersytet Gdański Instytut Historii Sztuki Instytut Archeologii i Etnologii, 5, Bielańska, Grodzisko, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-851, Polska",
+      "district": "Śródmieście",
+      "address": "Uniwersytet Gdański Instytut Historii Sztuki Instytut Archeologii i Etnologii, 5, Bielańska, Grodzisko, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-851, Polska",
+      "normalized": "bielańska 5",
+      "lat": 54.353686,
+      "lng": 18.6471539,
+      "updated_at": "2026-08-05T14:05:35.589686+00:00"
+    },
+    "jaskółcza 1": {
+      "name": "Centrum Sztuki Współczesnej \"Łaźnia\", 1, Jaskółcza, Kłodno, Dolne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-767, Polska",
+      "district": "Śródmieście",
+      "address": "Centrum Sztuki Współczesnej \"Łaźnia\", 1, Jaskółcza, Kłodno, Dolne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-767, Polska",
+      "normalized": "jaskółcza 1",
+      "lat": 54.3416651,
+      "lng": 18.6581194,
+      "updated_at": "2026-08-05T14:05:36.830226+00:00"
+    },
+    "szeroka 34_35": {
+      "name": "Gdańsk, województwo pomorskie, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Gdańsk, województwo pomorskie, Polska",
+      "normalized": "szeroka 34_35",
+      "lat": 54.3482907,
+      "lng": 18.6540233,
+      "updated_at": "2026-08-05T14:05:39.646356+00:00"
+    },
+    "świętojańska 50": {
+      "name": "50, Świętojańska, Zamczysko, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-840, Polska",
+      "district": "Śródmieście",
+      "address": "50, Świętojańska, Zamczysko, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-840, Polska",
+      "normalized": "świętojańska 50",
+      "lat": 54.3519516,
+      "lng": 18.6570465,
+      "updated_at": "2026-08-05T14:05:40.977688+00:00"
+    },
+    "powroźnicza 13_15": {
+      "name": "13/15, Powroźnicza, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-828, Polska",
+      "district": "Śródmieście",
+      "address": "13/15, Powroźnicza, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-828, Polska",
+      "normalized": "powroźnicza 13_15",
+      "lat": 54.3472613,
+      "lng": 18.6550602,
+      "updated_at": "2026-08-05T14:05:42.345941+00:00"
+    },
+    "arkadiusza rybickiego 4a": {
+      "name": "Obszar Metropolitalny Gdańsk-Gdynia-Sopot, Długi Targ, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-828, Polska",
+      "district": "Śródmieście",
+      "address": "Obszar Metropolitalny Gdańsk-Gdynia-Sopot, Długi Targ, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-828, Polska",
+      "normalized": "arkadiusza rybickiego 4a",
+      "lat": 54.3485971,
+      "lng": 18.6539515,
+      "updated_at": "2026-08-05T14:05:45.184383+00:00"
+    },
+    "kino kameralne cafe": {
+      "name": "Kino Kameralne Cafe, Długa, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-801, Polska",
+      "district": "Śródmieście",
+      "address": "Kino Kameralne Cafe, Długa, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-801, Polska",
+      "normalized": "kino kameralne cafe",
+      "lat": 54.3493629,
+      "lng": 18.6512594,
+      "updated_at": "2026-08-05T14:05:46.426389+00:00"
+    },
+    "ołowianka 1": {
+      "name": "AmberSky Gdańsk - Koło Widokowe, 1, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-751, Polska",
+      "district": "Śródmieście",
+      "address": "AmberSky Gdańsk - Koło Widokowe, 1, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-751, Polska",
+      "normalized": "ołowianka 1",
+      "lat": 54.3527237,
+      "lng": 18.6616097,
+      "updated_at": "2026-08-05T14:05:47.687662+00:00"
+    },
+    "jana styp-rekowskiego 16": {
+      "name": "16, Jana Styp-Rekowskiego, Stary Chełm, Chełm, Gdańsk, województwo pomorskie, 80-808, Polska",
+      "district": "Górny Taras",
+      "address": "16, Jana Styp-Rekowskiego, Stary Chełm, Chełm, Gdańsk, województwo pomorskie, 80-808, Polska",
+      "normalized": "jana styp-rekowskiego 16",
+      "lat": 54.3416065,
+      "lng": 18.6266892,
+      "updated_at": "2026-08-05T14:05:48.885010+00:00"
+    },
+    "świętego ducha 2": {
+      "name": "80-834, Śródmieście, Gdańsk, województwo pomorskie, Polska",
+      "district": "Śródmieście",
+      "address": "80-834, Śródmieście, Gdańsk, województwo pomorskie, Polska",
+      "normalized": "świętego ducha 2",
+      "lat": 54.3507147,
+      "lng": 18.652614,
+      "updated_at": "2026-08-05T14:05:51.656402+00:00"
+    },
+    "grunwaldzka 472c": {
+      "name": "Olivia Star, 472C, Aleja Grunwaldzka, Olivia Centre, Oliwa, Gdańsk, województwo pomorskie, 80-309, Polska",
+      "district": "Oliwa",
+      "address": "Olivia Star, 472C, Aleja Grunwaldzka, Olivia Centre, Oliwa, Gdańsk, województwo pomorskie, 80-309, Polska",
+      "normalized": "grunwaldzka 472c",
+      "lat": 54.4034199,
+      "lng": 18.5706192,
+      "updated_at": "2026-08-05T14:05:53.043169+00:00"
+    },
+    "muzyczny parlament": {
+      "name": "Parlament, 2, Świętego Ducha, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-834, Polska",
+      "district": "Śródmieście",
+      "address": "Parlament, 2, Świętego Ducha, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-834, Polska",
+      "normalized": "muzyczny parlament",
+      "lat": 54.3511359,
+      "lng": 18.6498358,
+      "updated_at": "2026-08-05T14:05:57.407118+00:00"
+    },
+    "aleja grunwaldzka 472c": {
+      "name": "Olivia Star, 472C, Aleja Grunwaldzka, Olivia Centre, Oliwa, Gdańsk, województwo pomorskie, 80-309, Polska",
+      "district": "Oliwa",
+      "address": "Olivia Star, 472C, Aleja Grunwaldzka, Olivia Centre, Oliwa, Gdańsk, województwo pomorskie, 80-309, Polska",
+      "normalized": "aleja grunwaldzka 472c",
+      "lat": 54.4034199,
+      "lng": 18.5706192,
+      "updated_at": "2026-08-05T14:05:58.830483+00:00"
+    },
+    "bogusławskiego 1": {
+      "name": "Gdański Teatr Szekspirowski, 1, Wojciecha Bogusławskiego, Piaskownia, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-818, Polska",
+      "district": "Śródmieście",
+      "address": "Gdański Teatr Szekspirowski, 1, Wojciecha Bogusławskiego, Piaskownia, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-818, Polska",
+      "normalized": "bogusławskiego 1",
+      "lat": 54.3478538,
+      "lng": 18.6479094,
+      "updated_at": "2026-08-05T14:06:00.583922+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T10:15:16.882349+00:00",
+  "updated_at": "2026-08-05T10:33:10.001101+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -403,6 +403,60 @@
       "lat": 52.4084386,
       "lng": 16.9286465,
       "updated_at": "2026-08-05T10:14:49.446630+00:00"
+    },
+    "park władysława czarneckiego": {
+      "name": "Park Władysława Czarneckiego",
+      "district": "Nowe Miasto",
+      "address": "Park Władysława Czarneckiego",
+      "normalized": "park władysława czarneckiego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-05T10:33:03.163564+00:00"
+    },
+    "park tadeusza kasserna": {
+      "name": "Park Tadeusza Kasserna, os. Bolesława Chrobrego (przy miasteczku ruchu drogowego)",
+      "district": "Jeżyce",
+      "address": "Park Tadeusza Kasserna, os. Bolesława Chrobrego (przy miasteczku ruchu drogowego)",
+      "normalized": "park tadeusza kasserna",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-05T10:33:04.344056+00:00"
+    },
+    "obiekt rekreacyjno-sportowy": {
+      "name": "Obiekt Rekreacyjno-Sportowy, ul Braniewska 23",
+      "district": "Jeżyce",
+      "address": "Obiekt Rekreacyjno-Sportowy, ul Braniewska 23",
+      "normalized": "obiekt rekreacyjno-sportowy",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-05T10:33:04.345258+00:00"
+    },
+    "brama poznania ichot ul. gdańska 2": {
+      "name": "Brama Poznania ICHOT ul. Gdańska 2",
+      "district": "Stare Miasto",
+      "address": "Brama Poznania ICHOT ul. Gdańska 2",
+      "normalized": "brama poznania ichot ul. gdańska 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-05T10:33:06.622577+00:00"
+    },
+    "ogród sp nr 52 specto": {
+      "name": "Ogród SP nr 52 SPECTO, ul. Fabianowo 29",
+      "district": "Grunwald",
+      "address": "Ogród SP nr 52 SPECTO, ul. Fabianowo 29",
+      "normalized": "ogród sp nr 52 specto",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-05T10:33:06.623567+00:00"
+    },
+    "teren zielony przy górce między ul. owidiusza i ul. horacego": {
+      "name": "Teren zielony przy górce między ul. Owidiusza i ul. Horacego",
+      "district": "Jeżyce",
+      "address": "Teren zielony przy górce między ul. Owidiusza i ul. Horacego",
+      "normalized": "teren zielony przy górce między ul. owidiusza i ul. horacego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-05T10:33:06.624766+00:00"
     }
   }
 }

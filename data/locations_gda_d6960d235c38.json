@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T14:06:00.732872+00:00",
+  "updated_at": "2026-08-05T14:32:07.416400+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -284,6 +284,24 @@
       "lat": 54.3478538,
       "lng": 18.6479094,
       "updated_at": "2026-08-05T14:06:00.583922+00:00"
+    },
+    "good time": {
+      "name": "Franciszka Rakoczego, Nowolipie, Siedlce, Gdańsk, województwo pomorskie, 80-163, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Franciszka Rakoczego, Nowolipie, Siedlce, Gdańsk, województwo pomorskie, 80-163, Polska",
+      "normalized": "good time",
+      "lat": 54.350412,
+      "lng": 18.5964239,
+      "updated_at": "2026-08-05T14:26:18.599293+00:00"
+    },
+    "wyspa ołowianka": {
+      "name": "Gdańsk, województwo pomorskie, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Gdańsk, województwo pomorskie, Polska",
+      "normalized": "wyspa ołowianka",
+      "lat": 54.3706858,
+      "lng": 18.6129831,
+      "updated_at": "2026-08-05T14:26:23.939116+00:00"
     }
   }
 }

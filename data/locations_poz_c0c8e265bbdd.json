@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T11:24:27.035528+00:00",
+  "updated_at": "2026-08-05T11:29:37.165256+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -204,11 +204,12 @@
       "lng": 16.9288697
     },
     "plac kolegiacki": {
+      "name": "Plac Kolegiacki",
       "district": "Stare Miasto",
-      "address": "Plac Kolegiacki, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-841, Polska",
-      "cached_at": "2026-08-04 15:28:06.185000+00:00",
-      "lat": 52.4067216,
-      "lng": 16.9362938
+      "address": "",
+      "normalized": "plac kolegiacki",
+      "updated_at": "2026-08-05T11:29:37.042916+00:00",
+      "created_at": "2026-08-05T11:29:37.042916+00:00"
     },
     "plac marii skłodowskiej...": {
       "district": "Wilda",

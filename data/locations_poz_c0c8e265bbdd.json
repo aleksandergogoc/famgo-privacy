@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T11:23:40.787662+00:00",
+  "updated_at": "2026-08-05T11:23:46.720325+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -466,6 +466,14 @@
       "lat": 52.4067216,
       "lng": 16.9362938,
       "updated_at": "2026-08-05T11:23:40.418138+00:00"
+    },
+    "jagoda nie porzeczka": {
+      "name": "Jagoda nie Porzeczka, ul. Małeckiego 36, Poznań",
+      "district": "Grunwald",
+      "address": "ul. Małeckiego 36, Poznań",
+      "normalized": "jagoda nie porzeczka",
+      "updated_at": "2026-08-05T11:23:46.600316+00:00",
+      "created_at": "2026-08-05T11:23:46.600316+00:00"
     }
   }
 }

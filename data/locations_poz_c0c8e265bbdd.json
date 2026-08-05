@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T09:33:21.901957+00:00",
+  "updated_at": "2026-08-05T09:33:50.802901+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -333,6 +333,14 @@
       "normalized": "tereny zielony lotniska poznań ławica",
       "updated_at": "2026-08-05T09:33:21.785401+00:00",
       "created_at": "2026-08-05T09:33:21.785401+00:00"
+    },
+    "miła szkoła językowa": {
+      "name": "Miła Szkoła Językowa",
+      "district": "Stare Miasto",
+      "address": "ul. Tylne Chwaliszewo 8/U2, 61-103 Poznań",
+      "normalized": "miła szkoła językowa",
+      "updated_at": "2026-08-05T09:33:50.669106+00:00",
+      "created_at": "2026-08-05T09:33:50.669106+00:00"
     }
   }
 }

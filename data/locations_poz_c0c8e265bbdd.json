@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T09:34:14.137998+00:00",
+  "updated_at": "2026-08-05T10:15:16.882349+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -349,6 +349,60 @@
       "normalized": "pałac górków - muzeum archeologiczne w poznaniu (poznań)",
       "updated_at": "2026-08-05T09:34:14.035085+00:00",
       "created_at": "2026-08-05T09:34:14.035085+00:00"
+    },
+    "start: pomnik tadeusza kościuszki (ul. grunwaldzka": {
+      "name": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "district": "Poznań - Pozostałe",
+      "address": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "normalized": "start: pomnik tadeusza kościuszki (ul. grunwaldzka",
+      "lat": 52.4006632,
+      "lng": 16.9197326,
+      "updated_at": "2026-08-05T10:13:32.865039+00:00"
+    },
+    "dom kultury orle gniazdo": {
+      "name": "Orle Gniazdo, 43, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-294, Polska",
+      "district": "Nowe Miasto",
+      "address": "Orle Gniazdo, 43, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-294, Polska",
+      "normalized": "dom kultury orle gniazdo",
+      "lat": 52.3906839,
+      "lng": 16.9747648,
+      "updated_at": "2026-08-05T10:13:37.397712+00:00"
+    },
+    "os. b.chrobrego 4f": {
+      "name": "Os.B.Chrobrego, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "district": "Jeżyce",
+      "address": "Os.B.Chrobrego, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "normalized": "os. b.chrobrego 4f",
+      "lat": 52.453541,
+      "lng": 16.9116377,
+      "updated_at": "2026-08-05T10:13:41.358355+00:00"
+    },
+    "plac marii skłodowskiej curie i rynek wildecki": {
+      "name": "Plac Marii Skłodowskiej-Curie, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, Polska",
+      "district": "Wilda",
+      "address": "Plac Marii Skłodowskiej-Curie, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, Polska",
+      "normalized": "plac marii skłodowskiej curie i rynek wildecki",
+      "lat": 52.3934968,
+      "lng": 16.9189849,
+      "updated_at": "2026-08-05T10:13:49.303736+00:00"
+    },
+    "narodowe w poznaniuj": {
+      "name": "Muzeum Narodowe, 9, Aleje Karola Marcinkowskiego, Piekary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-745, Polska",
+      "district": "Stare Miasto",
+      "address": "Muzeum Narodowe, 9, Aleje Karola Marcinkowskiego, Piekary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-745, Polska",
+      "normalized": "narodowe w poznaniuj",
+      "lat": 52.408614,
+      "lng": 16.9299182,
+      "updated_at": "2026-08-05T10:14:01.557635+00:00"
+    },
+    "biblioteka raczyńskich": {
+      "name": "Biblioteka Raczyńskich, 19, Plac Wolności, Piekary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-739, Polska",
+      "district": "Stare Miasto",
+      "address": "Biblioteka Raczyńskich, 19, Plac Wolności, Piekary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-739, Polska",
+      "normalized": "biblioteka raczyńskich",
+      "lat": 52.4084386,
+      "lng": 16.9286465,
+      "updated_at": "2026-08-05T10:14:49.446630+00:00"
     }
   }
 }

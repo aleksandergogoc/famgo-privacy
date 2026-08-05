@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T11:24:08.400979+00:00",
+  "updated_at": "2026-08-05T11:24:27.035528+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -482,6 +482,14 @@
       "normalized": "sala fundacji dom książki",
       "updated_at": "2026-08-05T11:24:08.278778+00:00",
       "created_at": "2026-08-05T11:24:08.278778+00:00"
+    },
+    "collegium da vinci - aula artis (poznań)": {
+      "name": "Collegium Da Vinci - Aula Artis (Poznań)",
+      "district": "Stare Miasto",
+      "address": "",
+      "normalized": "collegium da vinci - aula artis (poznań)",
+      "updated_at": "2026-08-05T11:24:26.926737+00:00",
+      "created_at": "2026-08-05T11:24:26.926737+00:00"
     }
   }
 }

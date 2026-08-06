@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T08:46:40.192591+00:00",
+  "updated_at": "2026-08-06T09:13:38.010320+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3184,6 +3184,33 @@
       "cached_at": "2026-07-11 13:44:49.179000+00:00",
       "lat": 0.0,
       "lng": 0.0
+    },
+    "ogród botaniczny uw (pawilon edukacyjny) · aleje ujazdowskie 4": {
+      "name": "Ogród Botaniczny UW (Pawilon Edukacyjny)   · Aleje Ujazdowskie 4, Warszawa",
+      "district": "Śródmieście",
+      "address": "Ogród Botaniczny UW (Pawilon Edukacyjny)   · Aleje Ujazdowskie 4, Warszawa",
+      "normalized": "ogród botaniczny uw (pawilon edukacyjny) · aleje ujazdowskie 4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-06T09:03:22.566573+00:00"
+    },
+    "hulapark w hulakula": {
+      "name": "Hulapark w Hulakula, ul.  Jagiellońska 82B",
+      "district": "Praga-Północ",
+      "address": "Hulapark w Hulakula, ul.  Jagiellońska 82B",
+      "normalized": "hulapark w hulakula",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-06T09:03:22.566922+00:00"
+    },
+    "okie sm wola": {
+      "name": "OKiE SM WOLA, ul. Powstańców Śląskich 108A",
+      "district": "Wola",
+      "address": "OKiE SM WOLA, ul. Powstańców Śląskich 108A",
+      "normalized": "okie sm wola",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-06T09:03:22.567085+00:00"
     }
   }
 }

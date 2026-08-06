@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T08:46:37.984317+00:00",
+  "updated_at": "2026-08-06T09:13:39.025569+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2775,6 +2775,42 @@
       "cached_at": "2026-05-19 13:50:51.526000+00:00",
       "lat": 50.0666305,
       "lng": 19.9408143
+    },
+    "strefa nastolatka": {
+      "name": "Strefa Nastolatka, Kraków",
+      "district": "Stare Miasto",
+      "address": "Strefa Nastolatka, Kraków",
+      "normalized": "strefa nastolatka",
+      "lat": 50.064,
+      "lng": 19.945,
+      "updated_at": "2026-08-06T08:40:28.449657+00:00"
+    },
+    "radio kraków - studio im. r. bobrowskiej": {
+      "name": "ul. Racławicka 56, 30-017 Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Racławicka 56, 30-017 Kraków",
+      "normalized": "radio kraków - studio im. r. bobrowskiej",
+      "lat": 50.0494,
+      "lng": 19.9469,
+      "updated_at": "2026-08-06T09:00:12.768540+00:00"
+    },
+    "ul. nadwiślańska 2 30-527 kraków": {
+      "name": "ul. Nadwiślańska 2, 30-527 Kraków",
+      "district": "Podgórze",
+      "address": "ul. Nadwiślańska 2, 30-527 Kraków",
+      "normalized": "ul. nadwiślańska 2 30-527 kraków",
+      "lat": 50.046,
+      "lng": 19.947,
+      "updated_at": "2026-08-06T09:00:14.416325+00:00"
+    },
+    "krakowskie forum kultury (kraków)": {
+      "name": "Krakowskie Forum Kultury, 2, Mikołajska, Stare Miasto, Kraków, województwo małopolskie, 31-027, Polska",
+      "district": "Stare Miasto",
+      "address": "Krakowskie Forum Kultury, 2, Mikołajska, Stare Miasto, Kraków, województwo małopolskie, 31-027, Polska",
+      "normalized": "krakowskie forum kultury (kraków)",
+      "lat": 50.0616883,
+      "lng": 19.940767,
+      "updated_at": "2026-08-06T09:00:14.796780+00:00"
     }
   }
 }

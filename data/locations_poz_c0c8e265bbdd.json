@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T11:30:03.519124+00:00",
+  "updated_at": "2026-08-06T09:13:35.980136+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -499,6 +499,33 @@
       "normalized": "muzealne centrum edukacyjne",
       "updated_at": "2026-08-05T11:30:03.360161+00:00",
       "created_at": "2026-08-05T11:30:03.360161+00:00"
+    },
+    "ul. druskienicka 6 oraz ul. umultowska 114": {
+      "name": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "district": "Poznań - Pozostałe",
+      "address": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "normalized": "ul. druskienicka 6 oraz ul. umultowska 114",
+      "lat": 52.4006632,
+      "lng": 16.9197326,
+      "updated_at": "2026-08-06T09:11:45.791179+00:00"
+    },
+    "powstania wielkopolskiego 1918-1919": {
+      "name": "Odwach/ Muzeum Powstania Wielkopolskiego 1918-1919, 3, Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "district": "Stare Miasto",
+      "address": "Odwach/ Muzeum Powstania Wielkopolskiego 1918-1919, 3, Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "normalized": "powstania wielkopolskiego 1918-1919",
+      "lat": 52.4083064,
+      "lng": 16.9331074,
+      "updated_at": "2026-08-06T09:12:09.464392+00:00"
+    },
+    "2progi": {
+      "name": "Student Depot Poznań, 36, Aleja Niepodległości, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-714, Polska",
+      "district": "Stare Miasto",
+      "address": "Student Depot Poznań, 36, Aleja Niepodległości, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-714, Polska",
+      "normalized": "2progi",
+      "lat": 52.4149147,
+      "lng": 16.9268269,
+      "updated_at": "2026-08-06T09:12:12.706442+00:00"
     }
   }
 }

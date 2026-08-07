@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:30:25.630355+00:00",
+  "updated_at": "2026-08-07T07:57:52.409991+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -560,6 +560,24 @@
       "normalized": "sala prób + parki wokół ck zamek",
       "updated_at": "2026-08-07T07:30:25.547140+00:00",
       "created_at": "2026-08-07T07:30:25.547140+00:00"
+    },
+    "szkoła podstawowa nr 58 ul. ławica 3": {
+      "name": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "district": "Poznań - Pozostałe",
+      "address": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "normalized": "szkoła podstawowa nr 58 ul. ławica 3",
+      "lat": 52.4006632,
+      "lng": 16.9197326,
+      "updated_at": "2026-08-07T07:56:05.694501+00:00"
+    },
+    "instrumentów muzycznych": {
+      "name": "Muzeum Instrumentów Muzycznych, 45, Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "district": "Stare Miasto",
+      "address": "Muzeum Instrumentów Muzycznych, 45, Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "normalized": "instrumentów muzycznych",
+      "lat": 52.4080417,
+      "lng": 16.9347384,
+      "updated_at": "2026-08-07T07:56:10.359644+00:00"
     }
   }
 }

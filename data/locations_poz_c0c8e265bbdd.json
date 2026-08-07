@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:14:00.033282+00:00",
+  "updated_at": "2026-08-07T07:29:40.298049+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -544,6 +544,14 @@
       "lat": 52.4087909,
       "lng": 16.9168701,
       "updated_at": "2026-08-07T07:13:58.676224+00:00"
+    },
+    "targ": {
+      "name": "TARG, ul. Dolna Wilda, Poznań",
+      "district": "Wilda",
+      "address": " ul. Dolna Wilda, Poznań",
+      "normalized": "targ",
+      "updated_at": "2026-08-07T07:29:40.195703+00:00",
+      "created_at": "2026-08-07T07:29:40.195703+00:00"
     }
   }
 }

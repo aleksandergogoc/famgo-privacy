@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T19:24:29.444551+00:00",
+  "updated_at": "2026-08-07T07:57:53.543566+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -464,6 +464,24 @@
       "lat": 54.4262782,
       "lng": 18.579723,
       "updated_at": "2026-08-05T19:17:33.689718+00:00"
+    },
+    "dom sąsiedzki zakopianka": {
+      "name": "40, Zakopiańska, Kolonia Wyżyny, Siedlce, Gdańsk, województwo pomorskie, 80-139, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "40, Zakopiańska, Kolonia Wyżyny, Siedlce, Gdańsk, województwo pomorskie, 80-139, Polska",
+      "normalized": "dom sąsiedzki zakopianka",
+      "lat": 54.3497645,
+      "lng": 18.6211751,
+      "updated_at": "2026-08-07T07:51:42.490120+00:00"
+    },
+    "gak": {
+      "name": "9, Dworcowa, Ptaszniki, Orunia, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, 80-026, Polska",
+      "district": "Górny Taras",
+      "address": "9, Dworcowa, Ptaszniki, Orunia, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, 80-026, Polska",
+      "normalized": "gak",
+      "lat": 54.325447,
+      "lng": 18.6339484,
+      "updated_at": "2026-08-07T07:51:45.522431+00:00"
     }
   }
 }

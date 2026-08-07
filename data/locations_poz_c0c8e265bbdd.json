@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:01:04.501659+00:00",
+  "updated_at": "2026-08-07T07:14:00.033282+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -535,6 +535,15 @@
       "lat": 52.3882662,
       "lng": 16.9243338,
       "updated_at": "2026-08-07T07:01:04.340602+00:00"
+    },
+    "park adama mickiewicza": {
+      "name": "Park Adama Mickiewicza, Stare Miasto, Poznań, województwo wielkopolskie, 61-712, Polska",
+      "district": "Stare Miasto",
+      "address": "Park Adama Mickiewicza, Stare Miasto, Poznań, województwo wielkopolskie, 61-712, Polska",
+      "normalized": "park adama mickiewicza",
+      "lat": 52.4087909,
+      "lng": 16.9168701,
+      "updated_at": "2026-08-07T07:13:58.676224+00:00"
     }
   }
 }

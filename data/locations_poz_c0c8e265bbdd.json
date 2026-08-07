@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T09:13:35.980136+00:00",
+  "updated_at": "2026-08-07T07:01:04.501659+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -526,6 +526,15 @@
       "lat": 52.4149147,
       "lng": 16.9268269,
       "updated_at": "2026-08-06T09:12:12.706442+00:00"
+    },
+    "targ.": {
+      "name": "89, Dolna Wilda, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "district": "Stare Miasto",
+      "address": "89, Dolna Wilda, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "normalized": "targ.",
+      "lat": 52.3882662,
+      "lng": 16.9243338,
+      "updated_at": "2026-08-07T07:01:04.340602+00:00"
     }
   }
 }

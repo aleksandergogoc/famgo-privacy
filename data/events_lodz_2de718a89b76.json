@@ -1,43 +1,6 @@
 {
-  "updated_at": "2026-08-06T09:08:39.522478+00:00",
+  "updated_at": "2026-08-07T07:17:33.103645+00:00",
   "events": {
-    "aktywne-p-kolonie-w-parku-trampolin-saltos-2026-08-03T07:30:00": {
-      "scrapped_timestamp": "2026-07-10T19:26:01.984807+00:00",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/aktywne-polkolonie-w-saltos-id168722/2026/8/3/",
-      "category": "Family Fun",
-      "description": "Zapewniamy nawet do 10,5h opieki z wyżywieniem, raty 3x oraz zniżki dla rodzeństwa!\n\nZAPISY\n\nWięcej informacji",
-      "date": "2026-08-03T05:30:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Zapewniamy nawet do 10,5h opieki z wyżywieniem, raty 3x oraz zniżki dla rodzeństwa!\n\nZAPISY\n\nWięcej informacji",
-          "title": "Aktywne Półkolonie w Parku Trampolin SALTOS"
-        },
-        "uk": {
-          "description": "Забезпечуємо до 10,5 годин догляду з харчуванням, 3 платежі та знижки для братів і сестер! ЗАПИСИ Більше інформації",
-          "title": "Активні півколонії в Парку Трамплінів SALTOS"
-        },
-        "en": {
-          "description": "We provide up to 10.5 hours of care with meals, payment in 3 installments, and discounts for siblings! \n\nREGISTRATIONS \n\nMore information",
-          "title": "Active Day Camps at SALTOS Trampoline Park"
-        }
-      },
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/aktywne-polkolonie-w-saltos-id168722/2026/8/3/",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "updated_at": "2026-07-10T19:56:48.856000+00:00",
-      "source": "uml.lodz.pl",
-      "startTimeKnown": true,
-      "location": {
-        "name": "SALTOS centrum rozrywki (Łódź, ul. Srebrzyńska 4)",
-        "district": "Bałuty"
-      },
-      "title": "Aktywne Półkolonie w Parku Trampolin SALTOS",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "image": "https://uml.lodz.pl/files/public/_processed_/1/4/csm_23o682x9am03m6oqanu4oidavumn70fk__1__26697a499d.png",
-      "district": "Bałuty"
-    },
     "aktywne-p-kolonie-w-parku-trampolin-saltos-2026-08-10T07:30:00": {
       "scrapped_timestamp": "2026-07-10T19:26:06.669549+00:00",
       "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/aktywne-polkolonie-w-saltos-id168722/2026/8/10/",
@@ -1450,43 +1413,6 @@
         "max": 12
       }
     },
-    "majsterkowe-p-kolonie-dla-dzieci-w-warsztacie-knockknock-2026-08-03T07:30:00": {
-      "scrapped_timestamp": "2026-07-10T19:27:38.052915+00:00",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/majsterkowe-polkolonie-dla-dzieci-w-warsztacie-knockknock-id165437/2026/8/3/",
-      "category": "Workshops",
-      "description": "ZAPISY\n\nWięcej informacji",
-      "date": "2026-08-03T05:30:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "ZAPISY\n\nWięcej informacji",
-          "title": "Majsterkowe półkolonie dla dzieci w warsztacie KnockKnock"
-        },
-        "uk": {
-          "description": "РЕЄСТРАЦІЯ\n\nБільше інформації",
-          "title": "Майстер-клас для дітей у майстерні KnockKnock"
-        },
-        "en": {
-          "description": "REGISTRATIONS\n\nMore information",
-          "title": "Craft Workshops for Kids at KnockKnock Workshop"
-        }
-      },
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/majsterkowe-polkolonie-dla-dzieci-w-warsztacie-knockknock-id165437/2026/8/3/",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "updated_at": "2026-07-10T19:56:58.980000+00:00",
-      "source": "uml.lodz.pl",
-      "startTimeKnown": true,
-      "location": {
-        "name": "Knocknock Łódź - Polesie (Łódź, ul. Kostki Napierskiego 3)",
-        "district": "Polesie"
-      },
-      "title": "Majsterkowe półkolonie dla dzieci w warsztacie KnockKnock",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "image": "https://uml.lodz.pl/files/public/_processed_/7/d/csm_bm2d5a7ovjljwh5cncjzu1lwx55x5w4s_68e11c58c1.jpg",
-      "district": "Polesie"
-    },
     "majsterkowe-p-kolonie-dla-dzieci-w-warsztacie-knockknock-2026-08-10T07:30:00": {
       "scrapped_timestamp": "2026-07-10T19:27:42.456720+00:00",
       "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/majsterkowe-polkolonie-dla-dzieci-w-warsztacie-knockknock-id165437/2026/8/10/",
@@ -1523,38 +1449,6 @@
       },
       "image": "https://uml.lodz.pl/files/public/_processed_/7/d/csm_bm2d5a7ovjljwh5cncjzu1lwx55x5w4s_68e11c58c1.jpg",
       "district": "Polesie"
-    },
-    "mini-miasteczko-sportu-2026-2026-08-03T10:00:00": {
-      "age_range": {
-        "min": 7,
-        "max": 14
-      },
-      "scrapped_timestamp": "2026-07-10T19:30:51.978259+00:00",
-      "updated_at": "2026-07-10T19:57:05.158000+00:00",
-      "source": "uml.lodz.pl",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/mini-miasteczko-sportu-2026-1-id169229/2026/8/3/",
-      "startTimeKnown": true,
-      "description": "Grupę docelową stanowić będą grupy zorganizowane (np. półkolonie) oraz klienci indywidualni.\n\nHARMONOGRAM ZAJĘĆ\n\n**„Z Orlika na Wembley”** - trening na boisku typu orlik ze sztuczna murawą dla dziewczynek i chłopców (7-14 letnich) – treningi dla początkujących wielbicieli piłki nożnej przeprowadzony przez wykwalifikowaną kadrę trenerską. Trenerzy mają bogate doświadczenie zawodnicze oraz trenerskie, które wykorzystują w przeprowadzaniu zajęć z dziećmi i młodzieżą.\n\n**Lokalizacja:** Orlik przy ul. Małachowskiego 5\n\n**- „Mini miasteczko sportu”** – na dwa miesiące wakacji w hali sportowej zamieni się w dziecięce miejsce sportu i zabawy -m.in: dmuchańce, badminton, speedballe, łuki, mega chińczyk, gigantyczne kręgle, teball, trambambula\n\n**Lokalizacja:** Hala sportowa przy ulicy Skorupki 21\n\n**- „Rowerowe piątki\"** – instruktor przekazuje praktyczną wiedzę o zasadach ruchu\n drogowego, którą można sprawdzić w praktyce, korzystając z naszego\n miasteczka ruchu drogowego doskonaląc technikę jazdy.\n\n**Lokalizacja**: Motodrom przy ulicy Małachowskiego 9\n\nNadzór nad dziećmi sprawować będzie wykwalifikowana kadra, co gwarantuje atrakcyjne zajęcia i bezpieczeństwo najmłodszych uczestników naszych zajęć .\n\n**UWAGA! MOSiR nie jest organizatorem półkolonii, organizujemy wyłącznie zajęcia sportowo-rekreacyjne.**\n\n**Zapisy telefoniczne (536 777 610)  w godz. 10:00-14:00**\n\nWięcej informacji",
-      "date": "2026-08-03T08:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Grupę docelową stanowić będą grupy zorganizowane (np. półkolonie) oraz klienci indywidualni.\n\nHARMONOGRAM ZAJĘĆ\n\n**„Z Orlika na Wembley”** - trening na boisku typu orlik ze sztuczna murawą dla dziewczynek i chłopców (7-14 letnich) – treningi dla początkujących wielbicieli piłki nożnej przeprowadzony przez wykwalifikowaną kadrę trenerską. Trenerzy mają bogate doświadczenie zawodnicze oraz trenerskie, które wykorzystują w przeprowadzaniu zajęć z dziećmi i młodzieżą.\n\n**Lokalizacja:** Orlik przy ul. Małachowskiego 5\n\n**- „Mini miasteczko sportu”** – na dwa miesiące wakacji w hali sportowej zamieni się w dziecięce miejsce sportu i zabawy -m.in: dmuchańce, badminton, speedballe, łuki, mega chińczyk, gigantyczne kręgle, teball, trambambula\n\n**Lokalizacja:** Hala sportowa przy ulicy Skorupki 21\n\n**- „Rowerowe piątki\"** – instruktor przekazuje praktyczną wiedzę o zasadach ruchu\n drogowego, którą można sprawdzić w praktyce, korzystając z naszego\n miasteczka ruchu drogowego doskonaląc technikę jazdy.\n\n**Lokalizacja**: Motodrom przy ulicy Małachowskiego 9\n\nNadzór nad dziećmi sprawować będzie wykwalifikowana kadra, co gwarantuje atrakcyjne zajęcia i bezpieczeństwo najmłodszych uczestników naszych zajęć .\n\n**UWAGA! MOSiR nie jest organizatorem półkolonii, organizujemy wyłącznie zajęcia sportowo-rekreacyjne.**\n\n**Zapisy telefoniczne (536 777 610)  w godz. 10:00-14:00**\n\nWięcej informacji",
-          "title": "Mini Miasteczko Sportu 2026"
-        },
-        "uk": {
-          "description": "Цільова аудиторія - організовані групи (наприклад, літні табори) та індивідуальні клієнти.\n\nГАРМОНІГРАМ ЗАНЯТЬ\n\n**«З Орлика на Вемблі»** - тренування на полі типу «орлик» зі штучним покриттям для дівчаток і хлопчиків (7-14 років) – тренування для початківців, які люблять футбол, проводитимуться кваліфікованими тренерами. Тренери мають великий досвід як гравців, так і тренерів, який вони використовують під час занять з дітьми та молоддю.\n\n**Локація:** Орлик на вул. Малаховського 5\n\n**- «Міні містечко спорту»** – протягом двох місяців літніх канікул у спортивному залі перетвориться на дитяче місце спорту та розваг - зокрема: надувні атракціони, бадмінтон, спідбол, луки, мегачинці, гігантські кеглі, тібол, трамбамбула.\n\n**Локація:** Спортивний зал на вулиці Скорупки 21",
-          "title": "Міні Містечко Спорту 2026"
-        },
-        "en": {
-          "description": "The target group will consist of organized groups (e.g., summer camps) and individual clients.\n\nSCHEDULE OF ACTIVITIES\n\n**\"From Orlik to Wembley\"** - training on an Orlik-type pitch with artificial turf for girls and boys (ages 7-14) – training sessions for beginner football enthusiasts conducted by qualified coaching staff. The coaches have extensive playing and coaching experience, which they utilize in conducting activities with children and youth.\n\n**Location:** Orlik at Małachowskiego Street 5\n\n**- \"Mini Sports Town\"** - for two months during the summer, the sports hall will transform into a children's place for sports and fun - including: inflatables, badminton, speedball, archery, giant Ludo, giant bowling, teball, trambambula.\n\n**Location:** Sports Hall at Skorupki Street 21",
-          "title": "Mini Sports Town 2026"
-        }
-      },
-      "category": "Sports",
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/mini-miasteczko-sportu-2026-1-id169229/2026/8/3/",
-      "title": "Mini Miasteczko Sportu 2026",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "image": "https://uml.lodz.pl/files/public/_processed_/e/f/csm_csm_Lodzkie_Miasteczko_Sportu._2026_78ed65f35a_207711eacd.png"
     },
     "mini-miasteczko-sportu-2026-2026-08-10T10:00:00": {
       "age_range": {
@@ -1806,46 +1700,6 @@
         "max": 18
       },
       "image": "https://uml.lodz.pl/files/public/_processed_/3/f/csm_grafika_muzeum_pelne_skarbow_9d0fbbcecd.png",
-      "district": "Widzew"
-    },
-    "muzeum-pe-ne-skarb-w-zwiedzanie-z-przewodnikiem-dla-grup-rodzinnych-muzeum-kinematografii-2026-08-06T14:00:00": {
-      "scrapped_timestamp": "2026-07-10T19:33:52.089159+00:00",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/muzeum-pelne-skarbow-zwiedzanie-z-przewodnikiem-dla-grup-rodzinnych-muzeum-kinematografii-id168731/2026/8/6/",
-      "category": "Educational",
-      "description": "**Muzeum pełne skarbów - Zwiedzanie z przewodnikiem dla grup rodzinnych**\n\nMuzealne opowieści o historii ruchomego obrazu – od XIX-wiecznych latarni magicznych i zabawek optycznych, przez projektory filmowe, aż po współczesne kino. Wspólnie poznamy niezwykłe eksponaty prezentowane na wystawach, wybrane spośród ponad 90 tysięcy obiektów znajdujących się w imponującej muzealnej kolekcji.\n\nProwadzenie: Dział Edukacji i Kultury Filmowej\n Czas trwania: 60 min.\n Liczba miejsc ograniczona: do 15 osób\n Kategoria: dla dzieci w wieku 6-12 lat wraz z opiekunami\n Bilety Filmowe opowieści: 10/15 zł dostępne online lub w kasie muzeum\n Zbiórka uczestników przy kasie muzeum.\n\nFacebook\n\nInstagram",
-      "date": "2026-08-06T12:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "**Muzeum pełne skarbów - Zwiedzanie z przewodnikiem dla grup rodzinnych**\n\nMuzealne opowieści o historii ruchomego obrazu – od XIX-wiecznych latarni magicznych i zabawek optycznych, przez projektory filmowe, aż po współczesne kino. Wspólnie poznamy niezwykłe eksponaty prezentowane na wystawach, wybrane spośród ponad 90 tysięcy obiektów znajdujących się w imponującej muzealnej kolekcji.\n\nProwadzenie: Dział Edukacji i Kultury Filmowej\n Czas trwania: 60 min.\n Liczba miejsc ograniczona: do 15 osób\n Kategoria: dla dzieci w wieku 6-12 lat wraz z opiekunami\n Bilety Filmowe opowieści: 10/15 zł dostępne online lub w kasie muzeum\n Zbiórka uczestników przy kasie muzeum.\n\nFacebook\n\nInstagram",
-          "title": "Muzeum pełne skarbów - Zwiedzanie z przewodnikiem dla grup rodzinnych | Muzeum Kinematografii"
-        },
-        "uk": {
-          "description": "**Музей, повний скарбів - Екскурсія з гідом для сімейних груп**\n\nМузейні історії про історію рухомого зображення – від XIX століття, магічних ліхтарів та оптичних іграшок, через кінопроектор, до сучасного кіно. Разом ми познайомимося з незвичайними експонатами, представленими на виставках, обраними з понад 90 тисяч об'єктів, що знаходяться в вражаючій музейній колекції.\n\nВедення: Відділ освіти та культури кіно\n Тривалість: 60 хв.\n Кількість місць обмежена: до 15 осіб\n Категорія: для дітей віком 6-12 років разом з опікунами\n Квитки на кінематографічні історії: 10/15 грн доступні онлайн або в касі музею\n Збір учасників біля каси музею.\n\nFacebook\n\nInstagram",
-          "title": "Музей, повний скарбів - Екскурсія з гідом для сімейних груп | Музей кінематографії"
-        },
-        "en": {
-          "description": "**Museum Full of Treasures - Guided Tour for Family Groups**\n\nMuseum stories about the history of moving images – from 19th-century magic lanterns and optical toys, through film projectors, to contemporary cinema. Together we will explore the extraordinary exhibits presented in the exhibitions, selected from over 90,000 objects in the impressive museum collection.\n\nLed by: Education and Film Culture Department\nDuration: 60 min.\nLimited number of places: up to 15 people\nCategory: for children aged 6-12 years with guardians\nTickets Film Stories: 10/15 PLN available online or at the museum box office\nParticipants gather at the museum box office.\n\nFacebook\n\nInstagram",
-          "title": "Museum Full of Treasures - Guided Tour for Family Groups | Film Museum"
-        }
-      },
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/muzeum-pelne-skarbow-zwiedzanie-z-przewodnikiem-dla-grup-rodzinnych-muzeum-kinematografii-id168731/2026/8/6/",
-      "end_date": "2026-08-06T12:00:00+00:00",
-      "updated_at": "2026-07-10T19:57:25.517000+00:00",
-      "source": "uml.lodz.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "location": {
-        "name": "Muzeum Kinematografii w Łodzi (Łódź, plac Zwycięstwa 1)",
-        "district": "Widzew"
-      },
-      "title": "Muzeum pełne skarbów - Zwiedzanie z przewodnikiem dla grup rodzinnych | Muzeum Kinematografii",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "image": "https://uml.lodz.pl/files/public/_processed_/2/2/csm_Posty_-_szablony__1920_x_1080_px__1de309e96b.png",
       "district": "Widzew"
     },
     "muzeum-pe-ne-skarb-w-zwiedzanie-z-przewodnikiem-dla-grup-rodzinnych-muzeum-kinematografii-2026-08-07T14:00:00": {
@@ -2608,41 +2462,6 @@
         "max": 18
       }
     },
-    "p-kolonie-i-warsztaty-letnie-w-miejskiej-strefie-kultury-2026-08-03T08:00:00": {
-      "scrapped_timestamp": "2026-07-10T19:29:45.268095+00:00",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/polkolonie-z-miejska-strefa-kultury-id165380/2026/8/3/",
-      "category": "Workshops",
-      "description": "Zapraszamy dzieci w wieku 7-12 lat na wyjątkowe półkolonie i warsztaty letnie w MSK, baw się z nami całe lato! To czas, w którym najważniejsze jest tworzenie, odkrywanie i czerpanie radości z każdej chwili.\n\nWyobraźnia to supermoc dzieci – pozwala im budować własne światy, opowiadać historie, wyrażać emocje i rozwijać się w naturalny, swobodny sposób. Podczas naszych zajęć stawiamy właśnie na nią. Każdy dzień to nowe inspiracje: działania artystyczne, ruch, zabawy integracyjne i kreatywne warsztaty, które zachęcają do eksperymentowania i bycia sobą.\n\nTworzymy przestrzeń, w której dzieci mogą:\n\n– rozwijać swoje pasje i talenty\n – budować pewność siebie\n – współpracować i zawierać nowe przyjaźnie\n – po prostu dobrze się bawić!\n\nBo wierzymy, że najlepsza nauka dzieje się wtedy, gdy towarzyszy jej śmiech, swoboda i radość tworzenia.\n\n**Zapraszamy dzieci, które chcą spędzić lato aktywnie, twórczo i w inspirującej atmosferze.**\n\n**Zapisy ruszają 8 maja!**\n\nSkorzystaj z promocji **EARLY BIRDS** – tylko przez 2 tygodnie, do **22.05 (włącznie)**, obowiązuje specjalna cena 500 zł!  (Cena regularna po promocji – 600zł/dziecko/turnus)\n Nie czekaj – podaruj dziecku lato pełne wyobraźni!\n Niech się dzieje z MSK\n\nRegulamin półkolonii letnich 2026 – **pobierz tutaj**\n\nRegulamin warsztatów letnich 2026 – **pobierz tutaj**\n\nKarta kwalifikacyjna – **pobierz tutaj**\n\nWięcej informacji\n\n**Miejska Strefa Kultury w Łodzi**",
-      "date": "2026-08-03T06:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Zapraszamy dzieci w wieku 7-12 lat na wyjątkowe półkolonie i warsztaty letnie w MSK, baw się z nami całe lato! To czas, w którym najważniejsze jest tworzenie, odkrywanie i czerpanie radości z każdej chwili.\n\nWyobraźnia to supermoc dzieci – pozwala im budować własne światy, opowiadać historie, wyrażać emocje i rozwijać się w naturalny, swobodny sposób. Podczas naszych zajęć stawiamy właśnie na nią. Każdy dzień to nowe inspiracje: działania artystyczne, ruch, zabawy integracyjne i kreatywne warsztaty, które zachęcają do eksperymentowania i bycia sobą.\n\nTworzymy przestrzeń, w której dzieci mogą:\n\n– rozwijać swoje pasje i talenty\n – budować pewność siebie\n – współpracować i zawierać nowe przyjaźnie\n – po prostu dobrze się bawić!\n\nBo wierzymy, że najlepsza nauka dzieje się wtedy, gdy towarzyszy jej śmiech, swoboda i radość tworzenia.\n\n**Zapraszamy dzieci, które chcą spędzić lato aktywnie, twórczo i w inspirującej atmosferze.**\n\n**Zapisy ruszają 8 maja!**\n\nSkorzystaj z promocji **EARLY BIRDS** – tylko przez 2 tygodnie, do **22.05 (włącznie)**, obowiązuje specjalna cena 500 zł!  (Cena regularna po promocji – 600zł/dziecko/turnus)\n Nie czekaj – podaruj dziecku lato pełne wyobraźni!\n Niech się dzieje z MSK\n\nRegulamin półkolonii letnich 2026 – **pobierz tutaj**\n\nRegulamin warsztatów letnich 2026 – **pobierz tutaj**\n\nKarta kwalifikacyjna – **pobierz tutaj**\n\nWięcej informacji\n\n**Miejska Strefa Kultury w Łodzi**",
-          "title": "Półkolonie i warsztaty letnie w Miejskiej Strefie Kultury"
-        },
-        "uk": {
-          "description": "Запрошуємо дітей віком 7-12 років на унікальні полігони та літні майстер-класи в МСК, розважайтеся з нами все літо! Це час, коли найважливіше - створювати, відкривати та отримувати задоволення від кожної миті.\n\nУява - це суперсила дітей - вона дозволяє їм будувати власні світи, розповідати історії, виражати емоції та розвиватися природним, вільним способом. Під час наших занять ми акцентуємо саме на ній. Кожен день - це нові натхнення: художні дії, рух, інтеграційні ігри та креативні майстер-класи, які заохочують до експериментування та бути собою.\n\nМи створюємо простір, в якому діти можуть:\n\n– розвивати свої захоплення та таланти\n– будувати впевненість у собі\n– співпрацювати та заводити нові дружби\n– просто добре проводити час!\n\nБо ми віримо, що найкраще навчання відбувається тоді, коли воно супроводжується",
-          "title": "Полігони та літні майстер-класи в Міській Культурній Зоні"
-        },
-        "en": {
-          "description": "We invite children aged 7-12 to unique summer day camps and workshops at MSK, have fun with us all summer long! This is a time when the most important thing is to create, discover, and enjoy every moment.\n\nImagination is a superpower of children – it allows them to build their own worlds, tell stories, express emotions, and develop in a natural, free way. During our activities, we focus on this. Each day brings new inspirations: artistic activities, movement, integration games, and creative workshops that encourage experimentation and being oneself.\n\nWe create a space where children can:\n\n– develop their passions and talents\n– build self-confidence\n– collaborate and make new friendships\n– simply have fun!\n\nBecause we believe that the best learning happens when it is accompanied by joy.",
-          "title": "Summer Day Camps and Workshops in the City Culture Zone"
-        }
-      },
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/polkolonie-z-miejska-strefa-kultury-id165380/2026/8/3/",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "updated_at": "2026-07-10T19:57:04.106000+00:00",
-      "source": "uml.lodz.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "title": "Półkolonie i warsztaty letnie w Miejskiej Strefie Kultury",
-      "age_range": {
-        "min": 7,
-        "max": 12
-      },
-      "image": "https://uml.lodz.pl/files/public/_processed_/2/2/csm_Polkolonie-i-warsztaty-letnie-w-MSK---kopia_987b45dbc2.png"
-    },
     "p-kolonie-i-warsztaty-letnie-w-miejskiej-strefie-kultury-2026-08-10T09:00:00": {
       "scrapped_timestamp": "2026-07-10T19:29:54.829010+00:00",
       "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/polkolonie-z-miejska-strefa-kultury-id165380/2026/8/10/",
@@ -2747,38 +2566,6 @@
         "max": 12
       },
       "image": "https://uml.lodz.pl/files/public/_processed_/2/2/csm_Polkolonie-i-warsztaty-letnie-w-MSK---kopia_987b45dbc2.png"
-    },
-    "p-kolonie-letnie-w-baby-english-center-widzew-i-retkinia-2026-08-03T07:30:00": {
-      "age_range": {
-        "min": 4,
-        "max": 12
-      },
-      "scrapped_timestamp": "2026-07-10T19:26:36.548777+00:00",
-      "updated_at": "2026-07-10T19:56:53.325000+00:00",
-      "source": "uml.lodz.pl",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/polkolonie-letnie-w-baby-english-center-widzew-i-retkinia-id164939/2026/8/3/",
-      "startTimeKnown": true,
-      "description": "Spotkaj zwierzęta, zostań naukowce, lekarzem, sportowcem czy kucharzem  W programie: wycieczki, wyjścia, warsztaty kreatywne, tematyczne, językowe, DIY i mnóstwo zabawy!\n\nZAPISY\n\nWięcej informacji",
-      "date": "2026-08-03T05:30:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Spotkaj zwierzęta, zostań naukowce, lekarzem, sportowcem czy kucharzem  W programie: wycieczki, wyjścia, warsztaty kreatywne, tematyczne, językowe, DIY i mnóstwo zabawy!\n\nZAPISY\n\nWięcej informacji",
-          "title": "Półkolonie Letnie w Baby English Center | Widzew i Retkinia"
-        },
-        "uk": {
-          "description": "Зустрічайте тварин, станьте науковцем, лікарем, спортсменом чи кухарем. У програмі: екскурсії, виходи, креативні майстер-класи, тематичні, мовні, DIY та безліч розваг! \n\nРЕЄСТРАЦІЯ\n\nБільше інформації",
-          "title": "Літні табори в Baby English Center | Відзев і Реткінія"
-        },
-        "en": {
-          "description": "Meet animals, become a scientist, doctor, athlete, or chef. The program includes: trips, outings, creative workshops, thematic activities, language sessions, DIY projects, and lots of fun! \n\nREGISTRATIONS \n\nMore information",
-          "title": "Summer Day Camps at Baby English Center | Widzew and Retkinia"
-        }
-      },
-      "category": "Family Fun",
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/polkolonie-letnie-w-baby-english-center-widzew-i-retkinia-id164939/2026/8/3/",
-      "title": "Półkolonie Letnie w Baby English Center | Widzew i Retkinia",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "image": "https://uml.lodz.pl/files/public/_processed_/3/9/csm_0qbdo5zfafsbcvroowuu0mf4bgbx7nv2_a0190bfe8c.png"
     },
     "p-kolonie-letnie-w-baby-english-center-widzew-i-retkinia-2026-08-10T07:30:00": {
       "age_range": {
@@ -2981,43 +2768,6 @@
       },
       "image": "https://uml.lodz.pl/files/public/_processed_/f/1/csm_m1ijlutyhez63zg5kbu01gzcu3ucoa0o_dc69638a79.jpg"
     },
-    "p-kolonie-w-monosferze-monopolis-2026-08-03T07:30:00": {
-      "scrapped_timestamp": "2026-07-10T19:28:13.570872+00:00",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/polkolonie-w-monosferze-monopolis-id165290/2026/8/3/",
-      "category": "Workshops",
-      "description": "Gwarantujemy zero nudy i tonę genialnej zabawy – przygotowaliśmy 4 świetne tematyki dopasowane do unikalnych zainteresowań dzieci. Instytut Magii: Semestr Letni to świetna okazja do wizyty w świecie magii, Minecraft 2.0: Pixelowa Przygoda to wejście do kwadratowego świata pełnego kreatywnej zabawy, Akademia Gracza: Cyfrowa Przygoda to niesamowite wyjście z gier do prawdziwego świata, a Tropem Kreatywności to turnus, na którym z pomocą kreatywnej zabawy i logicznego myślenia rozwiążemy prawdziwą sprawę detektywistyczną! Złapcie najlepszy termin dla swojego młodego odkrywcy:\n\n**29.06 - 03.07 –** Minecraft 2.0: Pixelowa przygoda\n\n**06.07 - 10.07 –**Tropem Kreatywności\n\n**13.07 - 17.07 –**Akademia Gracza: Cyfrowa przygoda\n\n**20.07 - 24.07 –**Instytut Magii: Semestr Letni\n\n**27.07 - 31.07 –** Minecraft 2.0: Pixelowa przygoda\n\n**03.08 - 07.08 –**Tropem Kreatywności\n\n**10.08 - 14.08 –** Akademia Gracza: Cyfrowa przygoda\n\n**17.08 - 21.08 –** Instytut Magii: Semestr Letni\n\n**24.08 - 28.08 –** Minecraft 2.0: Pixelowa przygoda\n\nZapisy i więcej informacji",
-      "date": "2026-08-03T05:30:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Gwarantujemy zero nudy i tonę genialnej zabawy – przygotowaliśmy 4 świetne tematyki dopasowane do unikalnych zainteresowań dzieci. Instytut Magii: Semestr Letni to świetna okazja do wizyty w świecie magii, Minecraft 2.0: Pixelowa Przygoda to wejście do kwadratowego świata pełnego kreatywnej zabawy, Akademia Gracza: Cyfrowa Przygoda to niesamowite wyjście z gier do prawdziwego świata, a Tropem Kreatywności to turnus, na którym z pomocą kreatywnej zabawy i logicznego myślenia rozwiążemy prawdziwą sprawę detektywistyczną! Złapcie najlepszy termin dla swojego młodego odkrywcy:\n\n**29.06 - 03.07 –** Minecraft 2.0: Pixelowa przygoda\n\n**06.07 - 10.07 –**Tropem Kreatywności\n\n**13.07 - 17.07 –**Akademia Gracza: Cyfrowa przygoda\n\n**20.07 - 24.07 –**Instytut Magii: Semestr Letni\n\n**27.07 - 31.07 –** Minecraft 2.0: Pixelowa przygoda\n\n**03.08 - 07.08 –**Tropem Kreatywności\n\n**10.08 - 14.08 –** Akademia Gracza: Cyfrowa przygoda\n\n**17.08 - 21.08 –** Instytut Magii: Semestr Letni\n\n**24.08 - 28.08 –** Minecraft 2.0: Pixelowa przygoda\n\nZapisy i więcej informacji",
-          "title": "Półkolonie w Monosferze | Monopolis"
-        },
-        "uk": {
-          "description": "Гарантуємо нульову нудьгу та тонну геніального задоволення – ми підготували 4 чудові тематики, адаптовані до унікальних інтересів дітей. Інститут Магії: Літній семестр – це чудова можливість відвідати світ магії, Minecraft 2.0: Піксельна Пригода – це вхід у квадратний світ, наповнений креативними розвагами, Академія Гравця: Цифрова Пригода – це неймовірний вихід з ігор у справжній світ, а Слідом за Креативністю – це зміна, на якій за допомогою креативних ігор та логічного мислення ми розв'яжемо справжню детективну справу! Зловіть найкращий термін для вашого молодого дослідника:\n\n**29.06 - 03.07 –** Minecraft 2.0: Піксельна пригода\n\n**06.07 - 10.07 –** Слідом за Креативністю\n\n**13.07 - 17.07 –** Академія Гравця: Цифрова пригода\n\n**20.07 - 24.07 –** Інститут Магії: Літній семестр\n\n**27.07 - 31.07 –** М",
-          "title": "Полігони в Моносфері | Монополіс"
-        },
-        "en": {
-          "description": "We guarantee zero boredom and tons of amazing fun – we have prepared 4 great themes tailored to the unique interests of children. The Institute of Magic: Summer Semester is a great opportunity to visit the world of magic, Minecraft 2.0: Pixel Adventure is an entry into a square world full of creative fun, Gamer Academy: Digital Adventure is an incredible journey from games to the real world, and The Trail of Creativity is a session where, with the help of creative play and logical thinking, we will solve a real detective case! Grab the best date for your young explorer:\n\n**June 29 - July 3 –** Minecraft 2.0: Pixel Adventure\n\n**July 6 - July 10 –** The Trail of Creativity\n\n**July 13 - July 17 –** Gamer Academy: Digital Adventure\n\n**July 20 - July 24 –** Institute of Magic: Summer Semester\n\n**July 27 - July 31 –** M",
-          "title": "Summer Camps at Monosphere | Monopolis"
-        }
-      },
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/polkolonie-w-monosferze-monopolis-id165290/2026/8/3/",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "district": "Widzew",
-      "updated_at": "2026-07-10T19:57:01.100000+00:00",
-      "source": "uml.lodz.pl",
-      "startTimeKnown": true,
-      "location": {
-        "district": "Widzew",
-        "name": "Monopolis (Łódź, ul. Kopcińskiego 60 i 62)"
-      },
-      "title": "Półkolonie w Monosferze | Monopolis",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "image": "https://uml.lodz.pl/files/public/_processed_/9/3/csm_Zrzut_ekranu_2026-05-18_094434_9a3a05303e.png"
-    },
     "p-kolonie-w-monosferze-monopolis-2026-08-10T07:30:00": {
       "scrapped_timestamp": "2026-07-10T19:28:22.590393+00:00",
       "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/polkolonie-w-monosferze-monopolis-id165290/2026/8/10/",
@@ -3128,43 +2878,6 @@
         "max": 12
       },
       "image": "https://uml.lodz.pl/files/public/_processed_/9/3/csm_Zrzut_ekranu_2026-05-18_094434_9a3a05303e.png"
-    },
-    "p-kolonie-wspinaczkowe-w-manufakturze-wspinania-2026-08-03T07:45:00": {
-      "scrapped_timestamp": "2026-07-10T19:29:03.062985+00:00",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/polkolonie-wspinaczkowe-w-manufakturze-wspinania-id167837/2026/8/3/",
-      "category": "Outdoor Adventure",
-      "description": "Półkolonie przeznaczone dla dzieci w wieku 6-14 lat.\n\n**Manufaktura Wspinania, Drewnowska 58, 91-002 Łódź**\n\nWięcej informacji",
-      "date": "2026-08-03T05:45:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Półkolonie przeznaczone dla dzieci w wieku 6-14 lat.\n\n**Manufaktura Wspinania, Drewnowska 58, 91-002 Łódź**\n\nWięcej informacji",
-          "title": "Półkolonie wspinaczkowe w Manufakturze Wspinania"
-        },
-        "uk": {
-          "description": "Полуденні табори призначені для дітей віком 6-14 років.\n\n**Манфактура Скелелазіння, Древновська 58, 91-002 Лодзь**\n\nБільше інформації",
-          "title": "Полуденні табори скелелазіння в Манфактурі Скелелазіння"
-        },
-        "en": {
-          "description": "Day camp intended for children aged 6-14 years.\n\n**Climbing Factory, Drewnowska 58, 91-002 Łódź**\n\nMore information",
-          "title": "Climbing Day Camp at the Climbing Factory"
-        }
-      },
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/polkolonie-wspinaczkowe-w-manufakturze-wspinania-id167837/2026/8/3/",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "district": "Bałuty",
-      "updated_at": "2026-07-10T19:57:02.862000+00:00",
-      "source": "uml.lodz.pl",
-      "startTimeKnown": true,
-      "location": {
-        "district": "Bałuty",
-        "name": "Manufaktura (Łódź, ul. Karskiego 5)"
-      },
-      "title": "Półkolonie wspinaczkowe w Manufakturze Wspinania",
-      "age_range": {
-        "min": 6,
-        "max": 14
-      },
-      "image": "https://uml.lodz.pl/files/public/_processed_/c/c/csm_gch7ttylp2t7bkefok9zlc8n4k44bcye_908b9ad326.jpg"
     },
     "p-kolonie-wspinaczkowe-w-manufakturze-wspinania-2026-08-10T07:45:00": {
       "scrapped_timestamp": "2026-07-10T19:29:07.434292+00:00",
@@ -3400,43 +3113,6 @@
         "max": 18
       }
     },
-    "sportowe-p-kolonie-w-kids-studio-open-space-na-ksi-y-m-ynie-2026-08-03T08:00:00": {
-      "scrapped_timestamp": "2026-07-10T19:54:13.102358+00:00",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/sportowe-polkolonie-w-kids-studio-open-space-na-ksiezy-mlynie-id165623/2026/8/3/",
-      "category": "Sports",
-      "description": "ZAPISY\n\nWięcej informacji\n\nKids Studio Open Space Łódź - Centrum gimnastyki, akrobatyki i tańca.",
-      "date": "2026-08-03T06:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "ZAPISY\n\nWięcej informacji\n\nKids Studio Open Space Łódź - Centrum gimnastyki, akrobatyki i tańca.",
-          "title": "Sportowe Półkolonie w Kids Studio Open Space na Księży Młynie"
-        },
-        "uk": {
-          "description": "ЗАПИСИ\n\nБільше інформації\n\nKids Studio Open Space Лодзь - Центр гімнастики, акробатики та танцю.",
-          "title": "Спортивні півколонії в Kids Studio Open Space на Ксежи Мліні"
-        },
-        "en": {
-          "description": "REGISTRATIONS\n\nMore information\n\nKids Studio Open Space Łódź - Center for gymnastics, acrobatics, and dance.",
-          "title": "Sports Half-Term Camp at Kids Studio Open Space in Księży Młyn"
-        }
-      },
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/sportowe-polkolonie-w-kids-studio-open-space-na-ksiezy-mlynie-id165623/2026/8/3/",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "updated_at": "2026-07-10T19:58:51.241000+00:00",
-      "source": "uml.lodz.pl",
-      "startTimeKnown": true,
-      "location": {
-        "name": "Kids Studio Księży Młyn (Łódź, ul. Księży Młyn 9)",
-        "district": "Widzew"
-      },
-      "title": "Sportowe Półkolonie w Kids Studio Open Space na Księży Młynie",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "image": "https://uml.lodz.pl/files/public/_processed_/c/2/csm_frxu4rmn3spbwrfbnj3ekexscmsm0xul_2211db4ad9.png",
-      "district": "Widzew"
-    },
     "sportowe-p-kolonie-w-kids-studio-open-space-na-ksi-y-m-ynie-2026-08-10T08:00:00": {
       "scrapped_timestamp": "2026-07-10T19:54:18.966792+00:00",
       "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/sportowe-polkolonie-w-kids-studio-open-space-na-ksiezy-mlynie-id165623/2026/8/10/",
@@ -3662,46 +3338,6 @@
       },
       "image": "https://uml.lodz.pl/files/public/_processed_/3/e/csm_74f301be-828f-4540-a630-df057161f1cf_15fd27957b.jpg"
     },
-    "wakacyjne-kursy-na-fali-2026-08-03T07:00:00": {
-      "scrapped_timestamp": "2026-07-10T19:24:04.451572+00:00",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wakacyjne-kursy-na-fali-id163829/2026/8/3/",
-      "category": "Educational",
-      "description": "ZAPISZ DZIECKO (KLIKNIJ, BY PRZEJŚĆ DO FORMULARZA)\n\nZapisy już wystartowały. Warto zgłosić dziecko jak najwcześniej, bo to nie tylko gwarancja miejsca, ale również możliwość skorzystania z atrakcyjnej ceny przedsprzedażowej. Tylko do 29 maja koszt tygodniowego kursu dla jednej osoby wynosi 1050 zł (zamiast 1200 zł). Niższa cena (1000 zł) obowiązuje w przypadku rodzeństwa. Możliwe jest także wykupienie pojedynczych dni w cenie 325 zł.\n\n– Z doświadczenia wiemy, że najlepsze terminy znikają najszybciej, a zainteresowanie jest bardzo duże już na tym etapie. Otrzymujemy mnóstwo telefonów i pytań od rodziców, dlatego podjęliśmy decyzję o wcześniejszym uruchomieniu sprzedaży – mówi Anna Duda z Aquaparku Fala.\n\nWakacje na Fali to znacznie więcej niż zwykły kurs. Dzieci mają okazję przeżyć prawdziwą przygodę, pełną emocji i nowych wrażeń. W programie jest zawsze miejsce na zabawę i naukę w wodzie – są podstawy nurkowania i ratownictwa wodnego, doskonalenie pływania czy szaleństwo na kajakach i skuterach – a poza tym mnóstwo dodatkowych atrakcji, jak np. nocowanie w namiotach na zewnętrznym terenie Fali czy wyjścia do zoo, sal zabaw, parku trampolin i kręgielni. Jedną z tegorocznych nowości będzie Akademia Drona. Stałym elementem jest ponadto możliwość wyrobienia karty pływackiej, a do tego nauka pierwszej pomocy i szkolenie innych przydatnych umiejętności.\n Każdy turnus ma swój motyw przewodni, powtarzany trzykrotnie w ciągu wakacji. W tym roku to: morski patrol, wioska przygód i klub odkrywców. Zajęcia trwają od godz. 7:00 do 17:00. Dzieci mają zapewnione trzy posiłki z wybranego menu, a organizatorzy udostępniają ​wszelkie niezbędne akcesoria i sprzęt. Wakacje na Fali są przeznaczone dla dzieci i młodzieży w wieku od 4 do 16 lat.\n\nWięcej informacji można uzyskać na stronie www.akademiaplywania.pro.\n\n**Wakacyjne kursy na Fali – cennik w przedsprzedaży:**\n\n**1050,00 zł** – 5 dni (od pon. do pt.) lub 5 wybranych dni\n\n**325 zł** – 1 dowolny dzień\n\n**240 zł** – szósty i każdy kolejny dzień kursu\n\n**1050 zł** – drugi i każdy kolejny kurs pięciodniowy\n\n**1000,00 zł** – 5 dni (od pon. do pt.) z Kartą Dużej Rodziny\n\n**179 zł** – nocowanie (z czw. na pt. od 17:00 do 7:00).\n\nZAPISZ DZIECKO (KLIKNIJ, BY PRZEJŚĆ DO FORMULARZA)\n\n***\n\nProgram - Morski Patrol - tydzień I i VI (PDF)\n\nProgram - Klub Odkrywców - tydzień II i VII (PDF)\n\nProgram - Wioska Przygód - tydzień III i VIII (PDF)\n\nProgram - Laboratorium Pomysłów - tydzień IV (PDF)\n\nProgram - Kręgle i Przygoda - tydzień V i IX (PDF)\n\nWakacje na Fali - menu posiłków (PDF)\n\nWięcej informacji\n\nAquapark FALA",
-      "date": "2026-08-03T05:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "ZAPISZ DZIECKO (KLIKNIJ, BY PRZEJŚĆ DO FORMULARZA)\n\nZapisy już wystartowały. Warto zgłosić dziecko jak najwcześniej, bo to nie tylko gwarancja miejsca, ale również możliwość skorzystania z atrakcyjnej ceny przedsprzedażowej. Tylko do 29 maja koszt tygodniowego kursu dla jednej osoby wynosi 1050 zł (zamiast 1200 zł). Niższa cena (1000 zł) obowiązuje w przypadku rodzeństwa. Możliwe jest także wykupienie pojedynczych dni w cenie 325 zł.\n\n– Z doświadczenia wiemy, że najlepsze terminy znikają najszybciej, a zainteresowanie jest bardzo duże już na tym etapie. Otrzymujemy mnóstwo telefonów i pytań od rodziców, dlatego podjęliśmy decyzję o wcześniejszym uruchomieniu sprzedaży – mówi Anna Duda z Aquaparku Fala.\n\nWakacje na Fali to znacznie więcej niż zwykły kurs. Dzieci mają okazję przeżyć prawdziwą przygodę, pełną emocji i nowych wrażeń. W programie jest zawsze miejsce na zabawę i naukę w wodzie – są podstawy nurkowania i ratownictwa wodnego, doskonalenie pływania czy szaleństwo na kajakach i skuterach – a poza tym mnóstwo dodatkowych atrakcji, jak np. nocowanie w namiotach na zewnętrznym terenie Fali czy wyjścia do zoo, sal zabaw, parku trampolin i kręgielni. Jedną z tegorocznych nowości będzie Akademia Drona. Stałym elementem jest ponadto możliwość wyrobienia karty pływackiej, a do tego nauka pierwszej pomocy i szkolenie innych przydatnych umiejętności.\n Każdy turnus ma swój motyw przewodni, powtarzany trzykrotnie w ciągu wakacji. W tym roku to: morski patrol, wioska przygód i klub odkrywców. Zajęcia trwają od godz. 7:00 do 17:00. Dzieci mają zapewnione trzy posiłki z wybranego menu, a organizatorzy udostępniają ​wszelkie niezbędne akcesoria i sprzęt. Wakacje na Fali są przeznaczone dla dzieci i młodzieży w wieku od 4 do 16 lat.\n\nWięcej informacji można uzyskać na stronie www.akademiaplywania.pro.\n\n**Wakacyjne kursy na Fali – cennik w przedsprzedaży:**\n\n**1050,00 zł** – 5 dni (od pon. do pt.) lub 5 wybranych dni\n\n**325 zł** – 1 dowolny dzień\n\n**240 zł** – szósty i każdy kolejny dzień kursu\n\n**1050 zł** – drugi i każdy kolejny kurs pięciodniowy\n\n**1000,00 zł** – 5 dni (od pon. do pt.) z Kartą Dużej Rodziny\n\n**179 zł** – nocowanie (z czw. na pt. od 17:00 do 7:00).\n\nZAPISZ DZIECKO (KLIKNIJ, BY PRZEJŚĆ DO FORMULARZA)\n\n***\n\nProgram - Morski Patrol - tydzień I i VI (PDF)\n\nProgram - Klub Odkrywców - tydzień II i VII (PDF)\n\nProgram - Wioska Przygód - tydzień III i VIII (PDF)\n\nProgram - Laboratorium Pomysłów - tydzień IV (PDF)\n\nProgram - Kręgle i Przygoda - tydzień V i IX (PDF)\n\nWakacje na Fali - menu posiłków (PDF)\n\nWięcej informacji\n\nAquapark FALA",
-          "title": "Wakacyjne kursy na Fali"
-        },
-        "uk": {
-          "description": "ЗАПИШІТЬ ДИТИНУ (НАТИСНІТЬ, ЩОБ ПЕРЕЙТИ ДО ФОРМУЛЯРУ)\n\nЗаписи вже розпочалися. Варто зареєструвати дитину якомога раніше, адже це не лише гарантія місця, але й можливість скористатися привабливою ціною передпродажу. Лише до 29 травня вартість тижневого курсу для однієї особи становить 1050 грн (замість 1200 грн). Нижча ціна (1000 грн) діє у випадку братів і сестер. Можливо також придбати окремі дні за ціною 325 грн.\n\n– З досвіду ми знаємо, що найкращі терміни зникають найшвидше, а зацікавленість дуже велика вже на цьому етапі. Ми отримуємо безліч телефонних дзвінків і запитань від батьків, тому прийняли рішення про ранній запуск продажу, – говорить Анна Дуда з Аквапарку Хвиля.\n\nВакансії на Хвилі – це значно більше, ніж звичайний курс. Діти мають можливість пережити справжнє",
-          "title": "Вакансійні курси на Хвилі"
-        },
-        "en": {
-          "description": "REGISTER YOUR CHILD (CLICK TO GO TO THE FORM)\n\nRegistration has already started. It is worth signing up your child as early as possible, as it not only guarantees a spot but also allows you to take advantage of an attractive pre-sale price. Until May 29, the cost of a weekly course for one person is 1050 PLN (instead of 1200 PLN). A lower price of 1000 PLN applies in the case of siblings. It is also possible to purchase single days at a price of 325 PLN.\n\n– From experience, we know that the best dates disappear the fastest, and interest is very high at this stage. We receive a lot of calls and questions from parents, which is why we decided to start sales earlier – says Anna Duda from Aquapark Fala.\n\nSummer at Fala is much more than just a regular course. Children have the opportunity to experience a true...",
-          "title": "Summer Courses at Fala"
-        }
-      },
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wakacyjne-kursy-na-fali-id163829/2026/8/3/",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "district": "Polesie",
-      "updated_at": "2026-07-10T19:56:40.867000+00:00",
-      "source": "uml.lodz.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "location": {
-        "district": "Polesie",
-        "name": "Aquapark FALA (Łódź al. Unii Lubelskiej 4)"
-      },
-      "title": "Wakacyjne kursy na Fali",
-      "image": "https://uml.lodz.pl/files/public/_processed_/9/2/csm_csm_wakacje_net_1920_x_1080_01_7eadd19ec0_3bdd056e52.jpg",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      }
-    },
     "wakacyjne-kursy-na-fali-2026-08-10T07:00:00": {
       "scrapped_timestamp": "2026-07-10T19:24:15.904248+00:00",
       "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wakacyjne-kursy-na-fali-id163829/2026/8/10/",
@@ -3822,46 +3458,6 @@
         "max": 12
       }
     },
-    "wakacyjne-p-kolonie-w-orientkowie-2026-08-03T07:30:00": {
-      "scrapped_timestamp": "2026-07-10T19:27:07.382673+00:00",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wakacyjne-polkolonie-w-orientkowie-id167723/2026/8/3/",
-      "category": "Family Fun",
-      "description": "Orientkowo to miejsce, które dzieci bardzo szybko polubiły. Dlatego zespół sali zabaw przygotował wakacyjne turnusy pełne ruchu, zabawy, warsztatów, wycieczek i spacerów po zoo.\n\nTo propozycja dla dzieci, które lubią aktywnie spędzać czas, poznawać nowych kolegów, tworzyć, odkrywać i przeżywać małe wakacyjne przygody.\n\n– Widzimy, jak dużym zainteresowaniem cieszy się Orientkowo i jak dobrze dzieci czują się w tej przestrzeni. Chcieliśmy stworzyć półkolonie, które będą naturalnym przedłużeniem tego doświadczenia – pełne zabawy, swobody, bezpieczeństwa i dobrej energii. Zależy nam, żeby każde dziecko wracało do domu z uśmiechem i poczuciem, że przeżyło naprawdę fajny dzień – mówi Martyna Karasińska, kierowniczka sali zabaw Orientkowo.\n\n**Półkolonie wakacyjne dla dzieci w Łodzi**\n\nPółkolonie w Orientkowie to tydzień pełen aktywności, kreatywności, śmiechu i nowych znajomości. Program został przygotowany tak, aby dzieci mogły korzystać zarówno z atrakcji sali zabaw, jak i z ciekawych wyjść poza Orientarium Zoo Łódź.\n\nKażdy dzień będzie okazją do zabawy, ruchu, odkrywania nowych miejsc i spędzania czasu w dobrej, wakacyjnej atmosferze.\n\n**Co czeka dzieci podczas półkolonii w Orientkowie?**\n\nKażdy turnus to starannie przygotowany program atrakcji. W planie są między innymi:\n\n• wyjście do Aquaparku Fala,\n• wyjście do EC1 i Ulicy Żywiołów,\n• wyjście do Saltosa,\n• wyjście do Ogrodu Botanicznego,\n• spacery po Orientarium Zoo Łódź,\n• warsztaty plastyczne,\n• zabawy integracyjne,\n• animacje,\n• czas na swobodną zabawę w Orientkowie.\n\nTo będzie tydzień pełen ruchu, kreatywności, śmiechu, nowych znajomości i wakacyjnej atmosfery.\n\n**Terminy półkolonii w Orientkowie**\n\nPółkolonie w Orientkowie odbędą się w czterech wakacyjnych turnusach:\n\n• **6-10 lipca,**\n• **13-17 lipca,**\n• **3-7 sierpnia,**\n• **17-21 sierpnia.**\n\nKażdy turnus obejmuje dwie grupy, łącznie do 30 dzieci. Liczba miejsc jest ograniczona.\n\n**Cena półkolonii**\n\nKoszt jednego turnusu półkolonii w Orientkowie wynosi **1099 zł**.\n\nDla osób, które zapiszą dziecko także na półkolonie w zoo, przygotowano ofertę łączoną. Cena za dwa turnusy – jeden w zoo i jeden w Orientkowie – wynosi **1700 zł**.\n\n**Dla kogo są półkolonie w Orientkowie?**\n\nPółkolonie są przeznaczone dla dzieci w wieku **5-10 lat**.\n\nTo propozycja dla najmłodszych, którzy lubią zabawę, ruch, zwierzęta, kreatywne zajęcia i wakacyjne wyprawy w dobrym towarzystwie.\n\n**Zapisy na półkolonie**\n\nLiczba miejsc jest ograniczona. Zapisy prowadzi Orientarium Zoo Łódź.\n\nZapisz dziecko na półkolonie\n\nWięcej informacji\n\nZOO Łódź",
-      "date": "2026-08-03T05:30:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Orientkowo to miejsce, które dzieci bardzo szybko polubiły. Dlatego zespół sali zabaw przygotował wakacyjne turnusy pełne ruchu, zabawy, warsztatów, wycieczek i spacerów po zoo.\n\nTo propozycja dla dzieci, które lubią aktywnie spędzać czas, poznawać nowych kolegów, tworzyć, odkrywać i przeżywać małe wakacyjne przygody.\n\n– Widzimy, jak dużym zainteresowaniem cieszy się Orientkowo i jak dobrze dzieci czują się w tej przestrzeni. Chcieliśmy stworzyć półkolonie, które będą naturalnym przedłużeniem tego doświadczenia – pełne zabawy, swobody, bezpieczeństwa i dobrej energii. Zależy nam, żeby każde dziecko wracało do domu z uśmiechem i poczuciem, że przeżyło naprawdę fajny dzień – mówi Martyna Karasińska, kierowniczka sali zabaw Orientkowo.\n\n**Półkolonie wakacyjne dla dzieci w Łodzi**\n\nPółkolonie w Orientkowie to tydzień pełen aktywności, kreatywności, śmiechu i nowych znajomości. Program został przygotowany tak, aby dzieci mogły korzystać zarówno z atrakcji sali zabaw, jak i z ciekawych wyjść poza Orientarium Zoo Łódź.\n\nKażdy dzień będzie okazją do zabawy, ruchu, odkrywania nowych miejsc i spędzania czasu w dobrej, wakacyjnej atmosferze.\n\n**Co czeka dzieci podczas półkolonii w Orientkowie?**\n\nKażdy turnus to starannie przygotowany program atrakcji. W planie są między innymi:\n\n• wyjście do Aquaparku Fala,\n• wyjście do EC1 i Ulicy Żywiołów,\n• wyjście do Saltosa,\n• wyjście do Ogrodu Botanicznego,\n• spacery po Orientarium Zoo Łódź,\n• warsztaty plastyczne,\n• zabawy integracyjne,\n• animacje,\n• czas na swobodną zabawę w Orientkowie.\n\nTo będzie tydzień pełen ruchu, kreatywności, śmiechu, nowych znajomości i wakacyjnej atmosfery.\n\n**Terminy półkolonii w Orientkowie**\n\nPółkolonie w Orientkowie odbędą się w czterech wakacyjnych turnusach:\n\n• **6-10 lipca,**\n• **13-17 lipca,**\n• **3-7 sierpnia,**\n• **17-21 sierpnia.**\n\nKażdy turnus obejmuje dwie grupy, łącznie do 30 dzieci. Liczba miejsc jest ograniczona.\n\n**Cena półkolonii**\n\nKoszt jednego turnusu półkolonii w Orientkowie wynosi **1099 zł**.\n\nDla osób, które zapiszą dziecko także na półkolonie w zoo, przygotowano ofertę łączoną. Cena za dwa turnusy – jeden w zoo i jeden w Orientkowie – wynosi **1700 zł**.\n\n**Dla kogo są półkolonie w Orientkowie?**\n\nPółkolonie są przeznaczone dla dzieci w wieku **5-10 lat**.\n\nTo propozycja dla najmłodszych, którzy lubią zabawę, ruch, zwierzęta, kreatywne zajęcia i wakacyjne wyprawy w dobrym towarzystwie.\n\n**Zapisy na półkolonie**\n\nLiczba miejsc jest ograniczona. Zapisy prowadzi Orientarium Zoo Łódź.\n\nZapisz dziecko na półkolonie\n\nWięcej informacji\n\nZOO Łódź",
-          "title": "Wakacyjne półkolonie w Orientkowie"
-        },
-        "uk": {
-          "description": "Орієнтково – це місце, яке діти дуже швидко полюбили. Тому команда ігрової кімнати підготувала літні зміни, наповнені рухом, іграми, майстер-класами, екскурсіями та прогулянками по зоопарку.\n\nЦе пропозиція для дітей, які люблять активно проводити час, знайомитися з новими друзями, творити, відкривати та переживати маленькі літні пригоди.\n\n– Ми бачимо, як великим попитом користується Орієнтково і як добре діти почуваються в цьому просторі. Ми хотіли створити півколонії, які будуть природним продовженням цього досвіду – наповнені веселощами, свободою, безпекою та доброю енергією. Нам важливо, щоб кожна дитина поверталася додому з усмішкою і відчуттям, що пережила справді чудовий день, – говорить Мартіна Карасінська, керівниця ігрової кімнати Орієнтково.\n\n**Літні півколонії для дітей у Łodzi**\n\nПівколонії",
-          "title": "Вакансійні півколонії в Орієнткові"
-        },
-        "en": {
-          "description": "Orientkowo is a place that children quickly grew to love. Therefore, the playroom team has prepared summer sessions full of movement, fun, workshops, trips, and walks to the zoo.\n\nThis is a proposal for children who enjoy spending time actively, meeting new friends, creating, discovering, and experiencing little summer adventures.\n\n- \"We see how much interest Orientkowo generates and how well children feel in this space. We wanted to create day camps that would be a natural extension of this experience – full of fun, freedom, safety, and good energy. We want every child to go home with a smile and a sense that they had a really great day,\" says Martyna Karasińska, the manager of the Orientkowo playroom.\n\n**Summer Day Camps for Children in Łódź**",
-          "title": "Summer Day Camps in Orientkowo"
-        }
-      },
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wakacyjne-polkolonie-w-orientkowie-id167723/2026/8/3/",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "district": "Polesie",
-      "updated_at": "2026-07-10T19:56:54.804000+00:00",
-      "source": "uml.lodz.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "location": {
-        "district": "Polesie",
-        "name": "Orientarium ZOO Łódź (ul. Konstantynowska 8/10)"
-      },
-      "title": "Wakacyjne półkolonie w Orientkowie",
-      "image": "https://uml.lodz.pl/files/public/_processed_/c/8/csm_1920x1080__9__f2727b0c6a.jpg",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      }
-    },
     "wakacyjne-p-kolonie-w-orientkowie-2026-08-17T07:30:00": {
       "scrapped_timestamp": "2026-07-10T19:27:16.994971+00:00",
       "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wakacyjne-polkolonie-w-orientkowie-id167723/2026/8/17/",
@@ -3900,46 +3496,6 @@
       "age_range": {
         "min": 5,
         "max": 12
-      }
-    },
-    "wakacyjne-p-kolonie-w-zoo-orientarium-d-2026-08-03T07:00:00": {
-      "scrapped_timestamp": "2026-07-10T19:25:07.169704+00:00",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wakacyjne-polkolonie-w-zoo-orientarium-lodz-id165434/2026/8/3/",
-      "category": "Nature & Wildlife",
-      "description": "W tym roku po raz pierwszy turnusy wypełnią całe wakacje. Zaplanowano aż **8 tygodni przygód**, podczas których dzieci będą mogły odkrywać zoo z zupełnie innej perspektywy.\n\nTo propozycja dla młodych miłośników zwierząt, przyrody i aktywnego wypoczynku. Program półkolonii łączy edukację, zabawę, ruch oraz wyjątkowe atrakcje dostępne na terenie Orientarium Zoo Łódź.\n\nPółkolonie w Orientarium Zoo Łódź skierowane są do dzieci w wieku od **6 do 13 lat**. Każdy turnus to tydzień pełen odkrywania, spacerów, zajęć edukacyjnych, kreatywnych warsztatów i kontaktu z fascynującym światem zwierząt.\n\n**Wakacyjne półkolonie w Orientarium Zoo Łódź dla dzieci**\n\n– To propozycja dla dzieci, które kochają zwierzęta, lubią odkrywać nowe miejsca i mają w sobie ciekawość świata. Program półkolonii łączy edukację, zabawę, ruch i wyjątkowe atrakcje dostępne na terenie Orientarium Zoo Łódź – mówi Elżbieta Nowak, Kierownik Oddziału Edukacji Orientarium Zoo Łódź.\n\nUczestnicy będą zwiedzać zoo z zupełnie innej perspektywy i poznawać sekretne życie jego mieszkańców. W planie znalazły się także wizyty na zapleczach, w tym zaplecze rekinów, zajęcia roślinne i botaniczne oraz aktywności ruchowe.\n\n**Rekiny od zaplecza, VR, park linowy i warsztaty kreatywne**\n\nProgram wakacyjnych półkolonii w zoo został przygotowany tak, aby dzieci mogły uczyć się przez doświadczenie, zabawę i aktywne odkrywanie świata przyrody.\n\nWśród atrakcji zaplanowano m.in. wizyty na zapleczach, poznawanie codziennej pracy opiekunów zwierząt, nowe warsztaty rękodzielnicze, zajęcia botaniczne, aktywności w sali zabaw Orientkowo, korzystanie z VR oraz parku linowego.\n\nNie zabraknie również spacerów po zoo, podczas których uczestnicy będą mogli obserwować zwierzęta, poznawać ich zwyczaje i odkrywać historie mieszkańców Orientarium Zoo Łódź.\n\n**Zoo od kulis i bliski kontakt z przyrodą**\n\n– Nasze półkolonie to nie jest zwykła opieka wakacyjna. To tydzień pełen odkrywania, emocji i bliskiego kontaktu z przyrodą. Dzieci poznają zoo od strony, której na co dzień nie widzą odwiedzający. Zaglądają za kulisy, uczą się przez doświadczenie, tworzą, spacerują i spędzają czas bardzo aktywnie. Często słyszymy od rodziców, że dzieci wracają do domu szczęśliwe i porządnie zmęczone. A najlepszą rekomendacją jest to, że wielu uczestników wraca do nas na kolejne półkolonie – dodaje Elżbieta Nowak.\n\nPółkolonie w Orientarium Zoo Łódź od lat cieszą się dużym zainteresowaniem. W tym roku oferta została rozszerzona tak, aby dzieci mogły spędzić w zoo dowolny tydzień wakacji.\n\nKażdy turnus to połączenie nauki, kreatywności, ruchu i dobrej zabawy w jednym z najbardziej niezwykłych miejsc w Łodzi.\n\n**Terminy wakacyjnych półkolonii w Orientarium Zoo Łódź**\n\nDo wyboru jest aż **osiem turnusów**, które obejmują całe wakacje:\n\n• **Turnus 1:** 6–10 lipca\n• **Turnus 2:** 13–17 lipca\n• **Turnus 3:** 20–24 lipca\n• **Turnus 4:** 27–31 lipca\n• **Turnus 5:** 3–7 sierpnia\n• **Turnus 6:** 10–14 sierpnia\n• **Turnus 7:** 17–21 sierpnia\n• **Turnus 8:** 24–28 sierpnia\n\nZapisy na półkolonie w Orientarium Zoo Łódź\n\nZapisy na wakacyjne półkolonie ruszają **18 maja** na stronie internetowej Orientarium Zoo Łódź.\n\nCena za jeden turnus wynosi **1099 zł**.\n\nSzczegółowe informacje oraz zapisy dostępne będą na stronie: www.orientarium.lodz.pl.\n\n**Wakacyjne półkolonie w Orientarium Zoo Łódź – najważniejsze informacje**\n\n• **Dla kogo:** dzieci w wieku od 6 do 13 lat\n• **Miejsce:** Orientarium Zoo Łódź\n• **Liczba turnusów:** 8\n• **Termin zapisów:** od 18 maja\n• **Cena:** 1099 zł za turnus\n• **Atrakcje:** zaplecze rekinów, warsztaty kreatywne, zajęcia botaniczne, VR, park linowy, Orientkowo i spacery po zoo\n• **Zapisy:** https://orientarium.lodz.pl/polkolonie-2/\n\nWięcej informacji\n\nZOO Łódź",
-      "date": "2026-08-03T05:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "W tym roku po raz pierwszy turnusy wypełnią całe wakacje. Zaplanowano aż **8 tygodni przygód**, podczas których dzieci będą mogły odkrywać zoo z zupełnie innej perspektywy.\n\nTo propozycja dla młodych miłośników zwierząt, przyrody i aktywnego wypoczynku. Program półkolonii łączy edukację, zabawę, ruch oraz wyjątkowe atrakcje dostępne na terenie Orientarium Zoo Łódź.\n\nPółkolonie w Orientarium Zoo Łódź skierowane są do dzieci w wieku od **6 do 13 lat**. Każdy turnus to tydzień pełen odkrywania, spacerów, zajęć edukacyjnych, kreatywnych warsztatów i kontaktu z fascynującym światem zwierząt.\n\n**Wakacyjne półkolonie w Orientarium Zoo Łódź dla dzieci**\n\n– To propozycja dla dzieci, które kochają zwierzęta, lubią odkrywać nowe miejsca i mają w sobie ciekawość świata. Program półkolonii łączy edukację, zabawę, ruch i wyjątkowe atrakcje dostępne na terenie Orientarium Zoo Łódź – mówi Elżbieta Nowak, Kierownik Oddziału Edukacji Orientarium Zoo Łódź.\n\nUczestnicy będą zwiedzać zoo z zupełnie innej perspektywy i poznawać sekretne życie jego mieszkańców. W planie znalazły się także wizyty na zapleczach, w tym zaplecze rekinów, zajęcia roślinne i botaniczne oraz aktywności ruchowe.\n\n**Rekiny od zaplecza, VR, park linowy i warsztaty kreatywne**\n\nProgram wakacyjnych półkolonii w zoo został przygotowany tak, aby dzieci mogły uczyć się przez doświadczenie, zabawę i aktywne odkrywanie świata przyrody.\n\nWśród atrakcji zaplanowano m.in. wizyty na zapleczach, poznawanie codziennej pracy opiekunów zwierząt, nowe warsztaty rękodzielnicze, zajęcia botaniczne, aktywności w sali zabaw Orientkowo, korzystanie z VR oraz parku linowego.\n\nNie zabraknie również spacerów po zoo, podczas których uczestnicy będą mogli obserwować zwierzęta, poznawać ich zwyczaje i odkrywać historie mieszkańców Orientarium Zoo Łódź.\n\n**Zoo od kulis i bliski kontakt z przyrodą**\n\n– Nasze półkolonie to nie jest zwykła opieka wakacyjna. To tydzień pełen odkrywania, emocji i bliskiego kontaktu z przyrodą. Dzieci poznają zoo od strony, której na co dzień nie widzą odwiedzający. Zaglądają za kulisy, uczą się przez doświadczenie, tworzą, spacerują i spędzają czas bardzo aktywnie. Często słyszymy od rodziców, że dzieci wracają do domu szczęśliwe i porządnie zmęczone. A najlepszą rekomendacją jest to, że wielu uczestników wraca do nas na kolejne półkolonie – dodaje Elżbieta Nowak.\n\nPółkolonie w Orientarium Zoo Łódź od lat cieszą się dużym zainteresowaniem. W tym roku oferta została rozszerzona tak, aby dzieci mogły spędzić w zoo dowolny tydzień wakacji.\n\nKażdy turnus to połączenie nauki, kreatywności, ruchu i dobrej zabawy w jednym z najbardziej niezwykłych miejsc w Łodzi.\n\n**Terminy wakacyjnych półkolonii w Orientarium Zoo Łódź**\n\nDo wyboru jest aż **osiem turnusów**, które obejmują całe wakacje:\n\n• **Turnus 1:** 6–10 lipca\n• **Turnus 2:** 13–17 lipca\n• **Turnus 3:** 20–24 lipca\n• **Turnus 4:** 27–31 lipca\n• **Turnus 5:** 3–7 sierpnia\n• **Turnus 6:** 10–14 sierpnia\n• **Turnus 7:** 17–21 sierpnia\n• **Turnus 8:** 24–28 sierpnia\n\nZapisy na półkolonie w Orientarium Zoo Łódź\n\nZapisy na wakacyjne półkolonie ruszają **18 maja** na stronie internetowej Orientarium Zoo Łódź.\n\nCena za jeden turnus wynosi **1099 zł**.\n\nSzczegółowe informacje oraz zapisy dostępne będą na stronie: www.orientarium.lodz.pl.\n\n**Wakacyjne półkolonie w Orientarium Zoo Łódź – najważniejsze informacje**\n\n• **Dla kogo:** dzieci w wieku od 6 do 13 lat\n• **Miejsce:** Orientarium Zoo Łódź\n• **Liczba turnusów:** 8\n• **Termin zapisów:** od 18 maja\n• **Cena:** 1099 zł za turnus\n• **Atrakcje:** zaplecze rekinów, warsztaty kreatywne, zajęcia botaniczne, VR, park linowy, Orientkowo i spacery po zoo\n• **Zapisy:** https://orientarium.lodz.pl/polkolonie-2/\n\nWięcej informacji\n\nZOO Łódź",
-          "title": "Wakacyjne półkolonie w ZOO Orientarium Łódź"
-        },
-        "uk": {
-          "description": "Цього року вперше зміни триватимуть ціле літо. Заплановано аж **8 тижнів пригод**, під час яких діти зможуть відкривати зоопарк з зовсім іншої перспективи.\n\nЦе пропозиція для молодих любителів тварин, природи та активного відпочинку. Програма півколоній поєднує освіту, гру, рух та унікальні атракції, доступні на території Орієнтаріум Зоопарку Лодзь.\n\nПівколонії в Орієнтаріум Зоопарку Лодзь призначені для дітей віком від **6 до 13 років**. Кожен змінний тиждень — це тиждень, наповнений відкриттями, прогулянками, освітніми заняттями, творчими майстернями та контактом з захоплюючим світом тварин.\n\n**Літні півколонії в Орієнтаріум Зоопарку Лодзь для дітей**\n\n– Це пропозиція для дітей, які люблять тварин, люблять відкривати нові місця та мають у собі цікавість до світу. Програма півколоній поєднує освіту",
-          "title": "Літні півколонії в ЗОО Орієнтаріум Лодзь"
-        },
-        "en": {
-          "description": "This year, for the first time, the sessions will fill the entire summer. A total of **8 weeks of adventures** are planned, during which children will be able to explore the zoo from a completely different perspective.\n\nThis is an offer for young animal lovers, nature enthusiasts, and those who enjoy active leisure. The day camp program combines education, fun, movement, and unique attractions available at the Orientarium Zoo in Łódź.\n\nThe day camps at the Orientarium Zoo in Łódź are aimed at children aged **6 to 13 years**. Each session is a week full of discovery, walks, educational activities, creative workshops, and contact with the fascinating world of animals.\n\n**Summer Day Camps at the Orientarium Zoo in Łódź for Children**\n\n- This is an offer for children who love animals, enjoy discovering new places, and have a curiosity about the world. The day camp program combines education...",
-          "title": "Summer Day Camps at the Orientarium Zoo in Łódź"
-        }
-      },
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wakacyjne-polkolonie-w-zoo-orientarium-lodz-id165434/2026/8/3/",
-      "end_date": "2026-08-06T22:00:00+00:00",
-      "district": "Polesie",
-      "updated_at": "2026-07-10T19:56:43.860000+00:00",
-      "source": "uml.lodz.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "location": {
-        "district": "Polesie",
-        "name": "Orientarium ZOO Łódź (ul. Konstantynowska 8/10)"
-      },
-      "title": "Wakacyjne półkolonie w ZOO Orientarium Łódź",
-      "image": "https://uml.lodz.pl/files/public/_processed_/3/9/csm_1920x1080-7_27f9bb610a.jpg",
-      "age_range": {
-        "min": 6,
-        "max": 13
       }
     },
     "wakacyjne-p-kolonie-w-zoo-orientarium-d-2026-08-10T07:00:00": {
@@ -4211,46 +3767,6 @@
       },
       "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_971293185_original.jpg"
     },
-    "muzeum-pe-ne-skarb-w-sp-d-z-nami-wakacje-zwiedzanie-muzeum-i-warsztaty-tw-rcze-muzeum-a-co-to-muzeum-kinematografii-2026-08-06T12:00:00+02:00": {
-      "title": "Muzeum pełne skarbów - spędź z nami wakacje! Zwiedzanie muzeum i warsztaty twórcze. \"Muzeum. A co to?\" | Muzeum Kinematografii",
-      "description": "**Zwiedzanie muzeum i warsztaty twórcze**\n\n**Muzeum. A co to?**\n\nPunktem wyjścia do zajęć jest historia o Pieńku, który podczas spacerów zbiera różne przedmioty, aż w jego domku zaczyna brakować miejsca. Pomysł babci prowadzi bohatera do stworzenia muzeum. Jego kolekcjonerska pasja staje się pretekstem do rozmowy o tym, czym jest muzeum, po co gromadzi się rzeczy i jak należy się nimi opiekować. Dzieci zastanawiają się, czy skarbem może być nie tylko coś cennego, ale także przedmiot związany ze wspomnieniem, osobą, miejscem albo ważnym wydarzeniem. W ten sposób poznają podstawową zasadę kolekcjonowania: przedmioty nabierają znaczenia, kiedy potrafimy o nich opowiedzieć. W części warsztatowej  każde dziecko ozdabia własne pudełko na skarby. Do pracy wykorzystuje naklejki, kolorowe papiery, ozdoby, rysunki i inne materiały dekoracyjne. Pudełko może stać się miejscem na drobne pamiątki, bilety, kamyki, muszelki, zdjęcia, rysunki albo inne ważne znaleziska.\n\nGrupa odwiedza z przewodnikiem jubileuszową wystawę 40 skarbów na 40-lecie Muzeum Kinematografii oraz wystawę Pałac pełen bajek.\n\nZajęcia inspirowane książką Pieniek otwiera muzeum autorstwa i ilustracji Åshild Kanstad Johnsen, w przekładzie Mileny Skoczko-Nakielskiej, wydaną przez Wydawnictwo Dwie Siostry.\n\nCzas trwania: 75 minut\n\nLiczba miejsc: 15\n\nKategoria wiekowa: dzieci 5+, grupy rodzinne\n\nBilety: 10 zł ulgowy / 15 zł normalny\n\nFacebook\n\nInstagram",
-      "image": "https://uml.lodz.pl/files/public/_processed_/3/f/csm_grafika_muzeum_pelne_skarbow_9d0fbbcecd.png",
-      "source": "uml.lodz.pl",
-      "location": {
-        "name": "Muzeum Kinematografii w Łodzi (Łódź, plac Zwycięstwa 1)",
-        "district": "Widzew"
-      },
-      "date": "2026-08-06T12:00:00+02:00",
-      "end_date": "2026-08-06T12:00:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/muzeum-pelne-skarbow-spedz-z-nami-wakacje-zwiedzanie-muzeum-i-warsztaty-tworcze-muzeum-a-co-to-id167630/2026/8/6/",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/muzeum-pelne-skarbow-spedz-z-nami-wakacje-zwiedzanie-muzeum-i-warsztaty-tworcze-muzeum-a-co-to-id167630/2026/8/6/",
-      "scrapped_timestamp": "2026-07-16T05:39:50.378512+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Muzeum pełne skarbów - spędź z nami wakacje! Zwiedzanie muzeum i warsztaty twórcze. \"Muzeum. A co to?\" | Muzeum Kinematografii",
-          "description": "**Zwiedzanie muzeum i warsztaty twórcze**\n\n**Muzeum. A co to?**\n\nPunktem wyjścia do zajęć jest historia o Pieńku, który podczas spacerów zbiera różne przedmioty, aż w jego domku zaczyna brakować miejsca. Pomysł babci prowadzi bohatera do stworzenia muzeum. Jego kolekcjonerska pasja staje się pretekstem do rozmowy o tym, czym jest muzeum, po co gromadzi się rzeczy i jak należy się nimi opiekować. Dzieci zastanawiają się, czy skarbem może być nie tylko coś cennego, ale także przedmiot związany ze wspomnieniem, osobą, miejscem albo ważnym wydarzeniem. W ten sposób poznają podstawową zasadę kolekcjonowania: przedmioty nabierają znaczenia, kiedy potrafimy o nich opowiedzieć. W części warsztatowej  każde dziecko ozdabia własne pudełko na skarby. Do pracy wykorzystuje naklejki, kolorowe papiery, ozdoby, rysunki i inne materiały dekoracyjne. Pudełko może stać się miejscem na drobne pamiątki, bilety, kamyki, muszelki, zdjęcia, rysunki albo inne ważne znaleziska.\n\nGrupa odwiedza z przewodnikiem jubileuszową wystawę 40 skarbów na 40-lecie Muzeum Kinematografii oraz wystawę Pałac pełen bajek.\n\nZajęcia inspirowane książką Pieniek otwiera muzeum autorstwa i ilustracji Åshild Kanstad Johnsen, w przekładzie Mileny Skoczko-Nakielskiej, wydaną przez Wydawnictwo Dwie Siostry.\n\nCzas trwania: 75 minut\n\nLiczba miejsc: 15\n\nKategoria wiekowa: dzieci 5+, grupy rodzinne\n\nBilety: 10 zł ulgowy / 15 zł normalny\n\nFacebook\n\nInstagram"
-        },
-        "en": {
-          "title": "Museum Full of Treasures - Spend Your Holidays with Us! Museum Tour and Creative Workshops. \"Museum. What is it?\" | Cinematography Museum",
-          "description": "**Museum Tour and Creative Workshops**\n\n**Museum. What is it?**\n\nThe starting point for the activities is a story about Pieńek, who collects various items during his walks until there is no more space in his little house. His grandmother's idea leads the hero to create a museum. His passion for collecting becomes a pretext for discussing what a museum is, why we collect things, and how to take care of them. Children ponder whether a treasure can be not only something valuable but also an item related to a memory, a person, a place, or an important event. In this way, they learn the basic principle of collecting: items gain meaning when we can tell a story about them. In the workshop part, each child decorates their own treasure box using stickers, colorful papers, "
-        },
-        "uk": {
-          "title": "Музей, повний скарбів - проведіть з нами канікули! Екскурсія музеєм та творчі майстерні. \"Музей. А що це?\" | Музей кінематографії",
-          "description": "**Екскурсія музеєм та творчі майстерні**\n\n**Музей. А що це?**\n\nПунктом відправлення для занять є історія про Пенька, який під час прогулянок збирає різні предмети, поки в його домі не починає бракувати місця. Ідея бабусі веде героя до створення музею. Його колекціонерська пристрасть стає приводом для розмови про те, що таке музей, навіщо збираються речі і як за ними доглядати. Діти розмірковують, чи може скарбом бути не лише щось цінне, але й предмет, пов'язаний зі спогадом, людиною, місцем або важливою подією. Таким чином, вони знайомляться з основним принципом колекціонування: предмети набувають значення, коли ми вміємо про них розповісти. У частині майстерні кожна дитина прикрашає власну коробку для скарбів. Для роботи використовуються наклейки, кольорові папери,"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "updated_at": "2026-07-16T05:40:59.371146+00:00",
-      "district": "Widzew"
-    },
     "animacje-na-wakacje-pucio-w-muzeum-kinematografii-2026-08-07T14:00:00+02:00": {
       "title": "Animacje na wakacje! „Pucio” w Muzeum Kinematografii",
       "description": "**Animacje na wakacje!**\n\n**Najmłodszych widzów zapraszamy na spotkanie z ulubionymi bohaterami polskich animacji.**\n\n**Pucio****, reż. Marta Stróżycka (2026), 45’**\n\nPucio to propozycja filmowa bez ograniczeń wiekowych, przygotowana z myślą o najmłodszych widzach. 45-minutowy zestaw odcinków pozwala dzieciom w komfortowy sposób wejść w świat sali kinowej, a rodzicom daje poczucie, że uczestniczą w wartościowym i bezpiecznym wydarzeniu.\n\nGłównym bohaterem jest kilkuletni chłopiec – Pucio – który wraz z rodziną (mamą, tatą, siostrą Misią, dziadkami oraz psem) przeżywa codzienne, bliskie dzieciom sytuacje. Każda część skupia się na innym etapie rozwoju i nauki.\n\nFilm jest adaptacją bestsellerowej serii książek autorstwa dr n. hum. Marty Galewskiej-Kustry, z ilustracjami Joanny Kłos, wydawanej przez Wydawnictwo „Nasza Księgarnia”. Publikacje od lat wspierają rodziców i dzieci – pomagają w nauce mowy i oswajaniu codziennych emocji.\n\nFilmowa odsłona Pucia wiernie oddaje charakter znany z książek – ciepło, uważność i humor, który trafia zarówno do najmłodszych, jak i dorosłych. Twórcy stawiają na spokojną narrację, bliskość rodzinnych relacji i historie osadzone w codzienności dziecka. To kino, które nie przebodźcowuje, lecz zaprasza do wspólnego przeżywania i rozmowy po seansie.\n Bilet na seans: 15 zł\n\ngrupa wiekowa: b.o.\n\nFacebook\n\nInstagram",
@@ -4402,41 +3918,6 @@
       },
       "updated_at": "2026-07-16T05:40:59.371251+00:00",
       "district": "Widzew"
-    },
-    "mops-obus-happy-kids-2026-08-06T11:00:00+02:00": {
-      "title": "MOPS-oBUS Happy Kids",
-      "description": "Żółty autobus w stylu amerykańskiego autobusu szkolnego zamieniony w mobilny figloraj, dmuchańce, warsztaty, animacje, piana party i kreatywne zabawy - to tylko część atrakcji, jakie czekają na uczestników nowego cyklu „MOPS-oBUS Happy Kids – mobilna strefa relacji, dobrostanu i sprawczości”. Już we wtorek 14 lipca **Miejski Ośrodek Pomocy Społecznej w Łodzi** wspólnie z **Fundacją „Happy Kids”** wspierającą dzieci w potrzebie zainauguruje serię dziesięciu całkowicie bezpłatnych wydarzeń, które przez całe lato i początek września będą odbywać się w różnych częściach miasta.\n\nFundacja „Happy Kids” wygrała konkurs na realizację tego zadania – z budżetu Miasta Łodzi otrzyma na ten cel blisko 112 tys. zł.\n\nKażde spotkanie będzie składało się z trzech tematycznych stref:\n\n• **strefa integracyjno-edukacyjna** będzie miejscem wspólnej zabawy dzieci, rodziców i całych rodzin. W programie znajdą się animacje, gry ruchowe, działania plastyczne, zabawy integracyjne oraz edukacyjne quizy. Poprzez zabawę najmłodsi dowiedzą się także, czym jest pomaganie, gdzie można szukać wsparcia i dlaczego proszenie o pomoc jest oznaką siły,\n a nie słabości.\n• W **strefie „Dobre samopoczucie”** dzieci i młodzież wezmą udział\n w warsztatach poświęconych emocjom, budowaniu poczucia własnej wartości, odkrywaniu mocnych stron, radzeniu sobie z presją rówieśniczą\n i stresem oraz dbaniu o dobrostan psychiczny.\n• Z kolei **strefa „Moja bezpieczna przestrzeń”** pomoże uczestnikom zastanowić się nad tym, co daje poczucie bezpieczeństwa i spokoju. Podczas warsztatów „Moja Strefa Mocy” dzieci stworzą własne kreatywne plansze przedstawiające miejsce, w którym czują się najlepiej, a przy okazji dowiedzą się, do kogo można zwrócić się o pomoc w trudnych sytuacjach.\n\nPoza warsztatami organizatorzy przygotowali mnóstwo atrakcji rekreacyjnych i animacyjnych. Na uczestników czekać będą m.in. żółty autobus stylizowany na amerykański autobus szkolny i zamieniony w mobilny figloraj, dmuchańce, mega klocki, malowanie buzi, kolorowe warkoczyki, tatuaże wodne, zabawy z kolorowym piaskiem, piana party oraz liczne animacje ruchowe.\n\nŻółty autobus z pewnością pojawi się podczas inauguracji cyklu, a podczas kolejnych wydarzeń będzie obecny tam, gdzie pozwolą na to warunki techniczne.\n\nJak podkreślają organizatorzy, ideą przedsięwzięcia jest dotarcie do rodzin tam, gdzie mieszkają i spędzają wolny czas.\n\nOrganizatorzy zaznaczają, że udział w wydarzeniach jest całkowicie bezpłatny\n i otwarty dla wszystkich. Nie trzeba korzystać z pomocy MOPS, nie będą sprawdzane dochody ani sytuacja materialna. Wystarczy przyjść z rodziną lub znajomymi i skorzystać z przygotowanych atrakcji.\n\n**HARMONGORAM:**\n\n• **wtorek 14 lipca** (od godz. 11:00 do godz. 15:00) - MOPS, ul. Kilińskiego 102/102a\n• **czwartek 23 lipca** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Grota-Roweckiego 30\n• **czwartek 30 lipca** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Będzińska 5\n• **czwartek 6 sierpnia** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Kutrzeby 16\n• **czwartek 13 sierpnia** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Będzińska 5\n• **wtorek 25 sierpnia** (od godz. 11:00 do godz. 15:00) - MOPS, ul. Kilińskiego 102/102a\n• **piątek 4 września** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Rojna 18a\n• **sobota 5 września** (od godz. 12:00 do godz. 16:00) - Stawy Jana (MOSiR\n w Łodzi)\n• **piątek 11 września** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Grota-Roweckiego 30\n• **sobota 12 września** (od godz. 12:00 do godz. 16:00) - Młynek (MOSiR w Łodzi)",
-      "image": "https://uml.lodz.pl/files/public/_processed_/2/b/csm_MOPS-oBUS_Happy_Kids_-_grafika_0fc406c804.jpg",
-      "source": "uml.lodz.pl",
-      "date": "2026-08-06T11:00:00+02:00",
-      "end_date": "2026-08-06T11:00:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/mops-obus-happy-kids-id172301/2026/8/6/",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/mops-obus-happy-kids-id172301/2026/8/6/",
-      "scrapped_timestamp": "2026-07-21T09:03:32.337604+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "MOPS-oBUS Happy Kids",
-          "description": "Żółty autobus w stylu amerykańskiego autobusu szkolnego zamieniony w mobilny figloraj, dmuchańce, warsztaty, animacje, piana party i kreatywne zabawy - to tylko część atrakcji, jakie czekają na uczestników nowego cyklu „MOPS-oBUS Happy Kids – mobilna strefa relacji, dobrostanu i sprawczości”. Już we wtorek 14 lipca **Miejski Ośrodek Pomocy Społecznej w Łodzi** wspólnie z **Fundacją „Happy Kids”** wspierającą dzieci w potrzebie zainauguruje serię dziesięciu całkowicie bezpłatnych wydarzeń, które przez całe lato i początek września będą odbywać się w różnych częściach miasta.\n\nFundacja „Happy Kids” wygrała konkurs na realizację tego zadania – z budżetu Miasta Łodzi otrzyma na ten cel blisko 112 tys. zł.\n\nKażde spotkanie będzie składało się z trzech tematycznych stref:\n\n• **strefa integracyjno-edukacyjna** będzie miejscem wspólnej zabawy dzieci, rodziców i całych rodzin. W programie znajdą się animacje, gry ruchowe, działania plastyczne, zabawy integracyjne oraz edukacyjne quizy. Poprzez zabawę najmłodsi dowiedzą się także, czym jest pomaganie, gdzie można szukać wsparcia i dlaczego proszenie o pomoc jest oznaką siły,\n a nie słabości.\n• W **strefie „Dobre samopoczucie”** dzieci i młodzież wezmą udział\n w warsztatach poświęconych emocjom, budowaniu poczucia własnej wartości, odkrywaniu mocnych stron, radzeniu sobie z presją rówieśniczą\n i stresem oraz dbaniu o dobrostan psychiczny.\n• Z kolei **strefa „Moja bezpieczna przestrzeń”** pomoże uczestnikom zastanowić się nad tym, co daje poczucie bezpieczeństwa i spokoju. Podczas warsztatów „Moja Strefa Mocy” dzieci stworzą własne kreatywne plansze przedstawiające miejsce, w którym czują się najlepiej, a przy okazji dowiedzą się, do kogo można zwrócić się o pomoc w trudnych sytuacjach.\n\nPoza warsztatami organizatorzy przygotowali mnóstwo atrakcji rekreacyjnych i animacyjnych. Na uczestników czekać będą m.in. żółty autobus stylizowany na amerykański autobus szkolny i zamieniony w mobilny figloraj, dmuchańce, mega klocki, malowanie buzi, kolorowe warkoczyki, tatuaże wodne, zabawy z kolorowym piaskiem, piana party oraz liczne animacje ruchowe.\n\nŻółty autobus z pewnością pojawi się podczas inauguracji cyklu, a podczas kolejnych wydarzeń będzie obecny tam, gdzie pozwolą na to warunki techniczne.\n\nJak podkreślają organizatorzy, ideą przedsięwzięcia jest dotarcie do rodzin tam, gdzie mieszkają i spędzają wolny czas.\n\nOrganizatorzy zaznaczają, że udział w wydarzeniach jest całkowicie bezpłatny\n i otwarty dla wszystkich. Nie trzeba korzystać z pomocy MOPS, nie będą sprawdzane dochody ani sytuacja materialna. Wystarczy przyjść z rodziną lub znajomymi i skorzystać z przygotowanych atrakcji.\n\n**HARMONGORAM:**\n\n• **wtorek 14 lipca** (od godz. 11:00 do godz. 15:00) - MOPS, ul. Kilińskiego 102/102a\n• **czwartek 23 lipca** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Grota-Roweckiego 30\n• **czwartek 30 lipca** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Będzińska 5\n• **czwartek 6 sierpnia** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Kutrzeby 16\n• **czwartek 13 sierpnia** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Będzińska 5\n• **wtorek 25 sierpnia** (od godz. 11:00 do godz. 15:00) - MOPS, ul. Kilińskiego 102/102a\n• **piątek 4 września** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Rojna 18a\n• **sobota 5 września** (od godz. 12:00 do godz. 16:00) - Stawy Jana (MOSiR\n w Łodzi)\n• **piątek 11 września** (od godz. 11:00 do godz. 14:00) - MOPS, ul. Grota-Roweckiego 30\n• **sobota 12 września** (od godz. 12:00 do godz. 16:00) - Młynek (MOSiR w Łodzi)"
-        },
-        "en": {
-          "title": "MOPS-oBUS Happy Kids",
-          "description": "The yellow bus styled like an American school bus has been transformed into a mobile playground, featuring inflatables, workshops, animations, foam parties, and creative activities - these are just some of the attractions awaiting participants in the new series 'MOPS-oBUS Happy Kids – a mobile zone for relationships, well-being, and empowerment.' On Tuesday, July 14, the Municipal Social Welfare Center in Łódź, in collaboration with the 'Happy Kids' Foundation, which supports children in need, will inaugurate a series of ten completely free events that will take place throughout the summer and into early September in various parts of the city. The 'Happy Kids' Foundation won the competition to carry out this task and will receive nearly 112,000 PLN from the budget of the City of Łódź for this purpose. Each meeting will consist of three thematic zones."
-        },
-        "uk": {
-          "title": "MOPS-oBUS Щасливі Діти",
-          "description": "Жовтий автобус у стилі американського шкільного автобуса перетворений на мобільний ігровий майданчик, надувні атракціони, майстер-класи, анімації, пінна вечірка та креативні ігри - це лише частина розваг, які чекають на учасників нового циклу «MOPS-oBUS Щасливі Діти – мобільна зона стосунків, добробуту та активності». Вже у вівторок 14 липня **Міський центр соціальної допомоги в Лодзі** спільно з **Фондом «Щасливі Діти»**, що підтримує дітей у потребі, розпочне серію з десяти абсолютно безкоштовних заходів, які протягом всього літа та на початку вересня відбуватимуться в різних частинах міста.\n\nФонд «Щасливі Діти» виграв конкурс на реалізацію цього завдання – з бюджету Міста Лодзі отримає на це близько 112 тисяч злотих.\n\nКожна зустріч складатиметься з трьох тематичних зон:\n\n• **інтеграційна зона**"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-07-21T09:05:12.780189+00:00"
     },
     "mops-obus-happy-kids-2026-08-13T11:00:00+02:00": {
       "title": "MOPS-oBUS Happy Kids",
@@ -5840,52 +5321,6 @@
       },
       "updated_at": "2026-07-28T16:25:57.397490+00:00"
     },
-    "wakacje-w-bibule-tajnej-drukarni-j-zefa-i-marii-pi-sudskich-kolor-wz-r-odbitka-warsztaty-druku-tamponowego-2026-08-06T12:00:00+02:00": {
-      "title": "Wakacje w „BIBULE” Tajnej Drukarni Józefa i Marii Piłsudskich: Kolor, wzór, odbitka. Warsztaty druku tamponowego",
-      "description": "W jakiej cenie? 20 zł bilet dla dziecka, opiekun 0 zł, 10 zł kolejny uczestnik\n\nKiedy? 06.08 (czwartek), godz. 12:00\n\nKto prowadzi? Izabela Werecka-Szczepańska\n\nCzy obowiązują zapisy? Nie, decyduje kolejność zakupu biletów w kasie „Bibuły” przy ul. Wschodniej 19 lub online na www.bilety.muzeumpilsudski.pl\n\nCo się wydarzy? Podczas warsztatów przyjrzymy się detalom i ornamentom zdobiącym wnętrza BIBUŁY. Inspirując się historycznymi wzorami i dawnym rzemiosłem poznamy technikę druku tamponowego oraz stworzymy własne wielobarwne kompozycje na blejtramie. Każdy uczestnik wykona obraz inspirowany historycznymi motywami, który zabierze ze sobą jako wyjątkową pamiątkę\n\nWięcej informacji\n\nBibuła - Tajna Drukarnia Józefa i Marii Piłsudskich",
-      "image": "https://uml.lodz.pl/files/public/_processed_/d/f/csm_724313260_122206484582525666_5606168940591424954_n_ab772af098.jpg",
-      "source": "uml.lodz.pl",
-      "location": {
-        "name": "\"Bibuła\" – Tajna Drukarnia Józefa i Marii Piłsudskich (Łódź, ul. Wschodnia 19)",
-        "district": "Bałuty"
-      },
-      "date": "2026-08-06T12:00:00+02:00",
-      "end_date": "2026-08-06T12:00:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wakacje-w-bibule-tajnej-drukarni-jozefa-i-marii-pilsudskich-kolor-wzor-odbitka-warsztaty-druku-tamponowego-id173306/2026/8/6/",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wakacje-w-bibule-tajnej-drukarni-jozefa-i-marii-pilsudskich-kolor-wzor-odbitka-warsztaty-druku-tamponowego-id173306/2026/8/6/",
-      "scrapped_timestamp": "2026-07-28T16:25:09.728331+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Wakacje w „BIBULE” Tajnej Drukarni Józefa i Marii Piłsudskich: Kolor, wzór, odbitka. Warsztaty druku tamponowego",
-          "description": "W jakiej cenie? 20 zł bilet dla dziecka, opiekun 0 zł, 10 zł kolejny uczestnik\n\nKiedy? 06.08 (czwartek), godz. 12:00\n\nKto prowadzi? Izabela Werecka-Szczepańska\n\nCzy obowiązują zapisy? Nie, decyduje kolejność zakupu biletów w kasie „Bibuły” przy ul. Wschodniej 19 lub online na www.bilety.muzeumpilsudski.pl\n\nCo się wydarzy? Podczas warsztatów przyjrzymy się detalom i ornamentom zdobiącym wnętrza BIBUŁY. Inspirując się historycznymi wzorami i dawnym rzemiosłem poznamy technikę druku tamponowego oraz stworzymy własne wielobarwne kompozycje na blejtramie. Każdy uczestnik wykona obraz inspirowany historycznymi motywami, który zabierze ze sobą jako wyjątkową pamiątkę\n\nWięcej informacji\n\nBibuła - Tajna Drukarnia Józefa i Marii Piłsudskich"
-        },
-        "en": {
-          "title": "Holidays at 'BIBULE' The Secret Print Shop of Józef and Maria Piłsudski: Color, Pattern, Print. Screen Printing Workshops",
-          "description": {
-            "price": "20 PLN ticket for a child, 0 PLN for a guardian, 10 PLN for an additional participant",
-            "date": "06.08 (Thursday), 12:00 PM",
-            "instructor": "Izabela Werecka-Szczepańska",
-            "registration": "No, tickets are available on a first-come, first-served basis at the 'Bibuła' box office at 19 Wschodnia Street or online at www.bilety.muzeumpilsudski.pl",
-            "event_details": "During the workshop, we will examine the details and ornaments decorating the interiors of BIBUŁA. Inspired by historical patterns and traditional crafts, we will learn the technique of screen printing and create our own multicolored compositions on canvas. Each participant will create a painting inspired by historical motifs, which they will take home as a unique souvenir."
-          }
-        },
-        "uk": {
-          "title": "Канікули в «BIBULE» Таємній друкарні Юзефа та Марії Пілсудських: Колір, візерунок, відбиток. Майстер-клас з тампонного друку",
-          "description": "В якій ціні? 20 грн квиток для дитини, супроводжуючий 0 грн, 10 грн наступний учасник\n\nКоли? 06.08 (четвер), о 12:00\n\nХто проводить? Ізабела Верецка-Щепанська\n\nЧи потрібна реєстрація? Ні, вирішує черговість покупки квитків у касі «Бібули» на вул. Східній 19 або онлайн на www.bilety.muzeumpilsudski.pl\n\nЩо відбудеться? Під час майстер-класу ми розглянемо деталі та орнаменти, що прикрашають інтер'єри BIBULE. Надихаючись історичними візерунками та давнім ремеслом, ми познайомимося з технікою тампонного друку та створимо власні багатоколірні композиції на холсті. Кожен учасник виконає картину, натхненну історичними мотивами, яку забере з собою як унікальну пам'ятку.\n\nБільше інформації\n\nБібуля - Таємна друкарня Юзефа та Марії Пілсудських"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "updated_at": "2026-07-28T16:25:57.397555+00:00",
-      "district": "Bałuty"
-    },
     "wakacyjny-pa-ac-na-pi-tek-oprowadzanie-po-pa-acu-rodziny-pozna-skich-muzeum-miasta-2026-08-07T18:00:00+02:00": {
       "title": "Wakacyjny Pałac na piątek | oprowadzanie po Pałacu Rodziny Poznańskich | Muzeum Miasta",
       "description": "Czas letnich wakacji to szczególna okazja by pierwszy lub kolejny raz odwiedzić Pałac Poznańskich. Warto odkryć na nowo uroki reprezentacyjnych salonów, zajrzeć do apartamentów prywatnych oraz poznać wielopokoleniową historię rodziny. W czasie zwiedzania określone zostaną pierwotne funkcje poszczególnych pomieszczeń, zaprezentowane będą najciekawsze eksponaty, wśród nich te, które stanowiły oryginalne wyposażenie wnętrz, także inne cenne pamiątki związane z rodziną Poznańskich. Ważną częścią wakacyjnych spotkań będzie spacer po ogrodzie, poznanie jego ciekawej historii i unikatowych pomników przyrody.\n\n**Koszt:** 25 zł (bilet normalny), 18 zł (bilet ulgowy)\n Liczba miejsc ograniczona.\n **Zapisy:** 692 926 319, 42 307 13 82, edukacja@muzeum-lodz.pl\n Zapisy prowadzi Dział Edukacji od poniedziałku do piątku w godzinach 8:00-16:00.\n\nWięcej informacji\n\nMuzeum Miasta Łodzi",
@@ -6320,83 +5755,6 @@
         "is_free": false
       },
       "updated_at": "2026-08-05T09:08:27.722701+00:00"
-    },
-    "wystawa-ywych-motyli-w-palmiarni-2026-08-06T10:00:00+02:00": {
-      "title": "„Wystawa żywych motyli” w Palmiarni",
-      "description": "Gatunki motyli z rodzajów Caligo, Morpho, Papilio, Archaeoprepona, Heliconius podbiły serca osób odwiedzających wystawę w ubiegłych latach i również w tym roku zauroczą zwiedzających swoją przepiękną barwą, wielkością i interakcją\n z człowiekiem. Jedna z najbardziej wyczekiwanych wystaw oraz ciesząca się niewątpliwie największym uznaniem niebawem znów zagości w łódzkiej Palmiarni.\n W dostosowanym do tego celu pomieszczeniu, o specyficznym klimacie, będzie można podziwiać piękne motyle oraz specjalnie wyselekcjonowane gatunki roślin, których nektar stanowi źródło składników pokarmowych dla latających owadów.\n\nW przygotowanym inkubatorze zaprezentowane zostaną kokony motyli różniące się barwą, wielkością oraz kształtem w zależności od gatunku. Przekształcanie się poczwarki w stadium dorosłe owada stanowi niezwykły widok i za sprawą przeźroczystej szyby do zaobserwowania również na żywo w łódzkiej Palmiarni.\n\nOprócz interakcji z żywymi okazami owadów będzie można poszerzyć swoją wiedzę na temat rejonów naturalnego występowania poszczególnych gatunków motyli, pochodzenia nazw oraz roślin wysoko cenionych przez uskrzydlone stworzenia ze względu na ilość produkowanego nektaru i kształtu kwiatów umożliwiającego pozyskiwanie substancji odżywczych przez poszczególne gatunki.\n\nWstęp na wystawę będzie możliwy po zakupieniu biletu wstępu.\n\nBilet normalny – 16,00 zł\n\nBilet ulgowy – 8,00 zł\n\nWystawę będzie można odwiedzić w godzinach otwarcia obiektu, czyli w godzinach od 10.00 do 18.00. Kasa biletowa czynna do godziny 17.30.\n\nPalmiarnia, Łódź",
-      "image": "https://uml.lodz.pl/files/public/_processed_/6/f/csm_11._Wystawa_motyli_plakat__1__e1b96f82c4.png",
-      "source": "uml.lodz.pl",
-      "location": {
-        "name": "Palmiarnia Ogrodu Botanicznego w Łodzi (al. Piłsudskiego 61)",
-        "district": "Widzew"
-      },
-      "district": "Widzew",
-      "date": "2026-08-06T10:00:00+02:00",
-      "end_date": "2026-08-06T10:00:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wystawa-zywych-motyli-w-palmiarni-1-id173276/2026/8/6/",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wystawa-zywych-motyli-w-palmiarni-1-id173276/2026/8/6/",
-      "scrapped_timestamp": "2026-08-06T09:08:06.791551+00:00",
-      "category": "Nature & Wildlife",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "„Wystawa żywych motyli” w Palmiarni",
-          "description": "Gatunki motyli z rodzajów Caligo, Morpho, Papilio, Archaeoprepona, Heliconius podbiły serca osób odwiedzających wystawę w ubiegłych latach i również w tym roku zauroczą zwiedzających swoją przepiękną barwą, wielkością i interakcją\n z człowiekiem. Jedna z najbardziej wyczekiwanych wystaw oraz ciesząca się niewątpliwie największym uznaniem niebawem znów zagości w łódzkiej Palmiarni.\n W dostosowanym do tego celu pomieszczeniu, o specyficznym klimacie, będzie można podziwiać piękne motyle oraz specjalnie wyselekcjonowane gatunki roślin, których nektar stanowi źródło składników pokarmowych dla latających owadów.\n\nW przygotowanym inkubatorze zaprezentowane zostaną kokony motyli różniące się barwą, wielkością oraz kształtem w zależności od gatunku. Przekształcanie się poczwarki w stadium dorosłe owada stanowi niezwykły widok i za sprawą przeźroczystej szyby do zaobserwowania również na żywo w łódzkiej Palmiarni.\n\nOprócz interakcji z żywymi okazami owadów będzie można poszerzyć swoją wiedzę na temat rejonów naturalnego występowania poszczególnych gatunków motyli, pochodzenia nazw oraz roślin wysoko cenionych przez uskrzydlone stworzenia ze względu na ilość produkowanego nektaru i kształtu kwiatów umożliwiającego pozyskiwanie substancji odżywczych przez poszczególne gatunki.\n\nWstęp na wystawę będzie możliwy po zakupieniu biletu wstępu.\n\nBilet normalny – 16,00 zł\n\nBilet ulgowy – 8,00 zł\n\nWystawę będzie można odwiedzić w godzinach otwarcia obiektu, czyli w godzinach od 10.00 do 18.00. Kasa biletowa czynna do godziny 17.30.\n\nPalmiarnia, Łódź"
-        },
-        "en": {
-          "title": "Live Butterfly Exhibition at the Palm House",
-          "description": "Species of butterflies from the genera Caligo, Morpho, Papilio, Archaeoprepona, and Heliconius have captured the hearts of visitors in previous years, and this year they will also enchant guests with their beautiful colors, sizes, and interaction with humans. One of the most anticipated exhibitions, undoubtedly enjoying the greatest recognition, will soon return to the Łódź Palm House. In a specially adapted room with a specific climate, visitors will be able to admire beautiful butterflies and specially selected plant species, whose nectar serves as a source of nutrients for the flying insects. In the prepared incubator, cocoons of butterflies differing in color, size, and shape depending on the species will be presented. The transformation of the pupa into the adult stage will also be showcased."
-        },
-        "uk": {
-          "title": "Виставка живих метеликів у Пальмярні",
-          "description": "Види метеликів з родів Caligo, Morpho, Papilio, Archaeoprepona, Heliconius підкорили серця відвідувачів виставки в попередні роки і також цього року зачарують відвідувачів своєю прекрасною барвою, розміром та взаємодією з людиною. Одна з найбільш очікуваних виставок, яка безсумнівно користується найбільшим визнанням, незабаром знову відбудеться в łódzkій Пальмярні. У спеціально підготовленому приміщенні з характерним кліматом можна буде милуватися красивими метеликами та спеціально відібраними видами рослин, нектар яких є джерелом живильних речовин для літаючих комах. У підготовленому інкубаторі будуть представлені кокони метеликів, які відрізняються кольором, розміром та формою в залежності від виду. Перетворення лялечки в дорослу стадію."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "updated_at": "2026-08-06T09:08:39.180009+00:00"
-    },
-    "wielki-powr-t-pippi-w-porcie-d-2026-08-06T10:00:00+02:00": {
-      "title": "Wielki powrót Pippi w Porcie Łódź",
-      "description": "Kiedy: 27 lipca – 8 sierpnia\n Godz.: 10:00–21:00\n Gdzie: Atrium, przy IKEA\n\nWstęp i wszystkie atrakcje oczywiście bezpłatnie!\n\nDo Portu Łódź powraca najsilniejsza dziewczynka na świecie! Ma marchewkowe włosy zaplecione w warkocze, mnóstwo frywolnych piegów i nosi dwie różne pończochy. Znacie ją? To oczywiście Pippi Pończoszanka, która ponownie zaprasza Was do Willi Śmiesznotki!\n\nCzy jesteście gotowi, by wraz z Pippi dowieść, że nikt nie jest zbyt „dorosły”, by odważyć się na wspólne psoty? Przyjdźcie do Portu Łódź w dniach 27 lipca – 8 sierpnia i przekonajcie się sami!\n\nWejdź na pokład statku Hoppetossa\n Ahoj, piraci! Czeka na Was statek taty Pippi. Ale uwaga – podłoga to wzburzone morze pełne rekinów!\n\nCzy potrafisz pokonać tor przeszkód, ani razu nie dotykając stopą ziemi?\n\nNaleśnikowe rzutki\n W kuchni Pippi nigdy nie jest nudno! Weź udział w wyzwaniu i rzucaj magnetycznymi naleśnikami prosto na wielką patelnię. Im bliżej środka trafisz, tym więcej punktów zdobędziesz.\n\nAtelier z przebraniami, czyli garderoba Pippi\n Wskocz w kostium pirata, załóż kolorowe skarpety lub stwórz zupełnie nową postać. Przejrzyj się w lustrze i sprawdź, kim dziś chcesz być!\n\nPippi Power! Podnieś konia Alfredo\n Chcesz udowodnić, że masz siłę godną Pippi? Stań pod Alfredo, pręż muskuły i zrób pamiątkowe zdjęcie!\n\nHobby Horse\n Wsiądź na swojego wierzchowca i galopuj po zwycięstwo! Przygotowaliśmy specjalny tor przeszkód – chwyć za wodze i ruszaj do zabawy.\n\nKącik czytelniczy Pippi\n Usiądź wygodnie i zanurz się w historiach o Pippi. Możesz czytać samodzielnie lub wspólnie z rodzicami. W soboty od 11:00 do 18:00 odbędzie się wspólne czytanie i będzie można spotkać Pippi!\n\nZostań poszukiwaczem skarbów\n Pomóż zadbać o środowisko, zbierając porozrzucane przedmioty i odkładając je w wyznaczonym miejscu. Czynienie dobra też może być przygodą!\n\nZdobądź kartę odwagi\n „Skąd mam wiedzieć, skoro nigdy nie próbowałam?”\n Zbierz wszystkie pieczątki i odbierz słodką niespodziankę!\n\nMagiczny klej Pippi\n 1 i 8 sierpnia\n 12:00–18:00\n Zapraszamy dzieci do stworzenia własnego magicznego kleju Conrada podczas kreatywnych warsztatów ze slime'em. Mieszajcie, rozciągajcie i eksperymentujcie!\n\nWarsztaty kreatywne Pippi\n Poniedziałek–piątek\n 16:00–20:00\n Pippi uwielbia tworzyć rzeczy po swojemu. Dołącz do warsztatów, twórz, łącz i wymyślaj bez ograniczeń. Jeśli Tobie sprawia to radość – to znaczy, że jest idealnie!\n\nWięcej informacji\n\nPort Łódź",
-      "image": "https://uml.lodz.pl/files/public/_processed_/6/2/csm_753534758_1345780234373065_8200473573801558023_n__1__11a8494b77.jpg",
-      "source": "uml.lodz.pl",
-      "location": {
-        "name": "Port Łódź (ul. Pabianicka 245)",
-        "district": "Górna"
-      },
-      "district": "Górna",
-      "date": "2026-08-06T10:00:00+02:00",
-      "end_date": "2026-08-06T10:00:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wielki-powrot-pippi-w-porcie-lodz-id173195/2026/8/6/",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wielki-powrot-pippi-w-porcie-lodz-id173195/2026/8/6/",
-      "scrapped_timestamp": "2026-08-06T09:08:18.879657+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Wielki powrót Pippi w Porcie Łódź",
-          "description": "Kiedy: 27 lipca – 8 sierpnia\n Godz.: 10:00–21:00\n Gdzie: Atrium, przy IKEA\n\nWstęp i wszystkie atrakcje oczywiście bezpłatnie!\n\nDo Portu Łódź powraca najsilniejsza dziewczynka na świecie! Ma marchewkowe włosy zaplecione w warkocze, mnóstwo frywolnych piegów i nosi dwie różne pończochy. Znacie ją? To oczywiście Pippi Pończoszanka, która ponownie zaprasza Was do Willi Śmiesznotki!\n\nCzy jesteście gotowi, by wraz z Pippi dowieść, że nikt nie jest zbyt „dorosły”, by odważyć się na wspólne psoty? Przyjdźcie do Portu Łódź w dniach 27 lipca – 8 sierpnia i przekonajcie się sami!\n\nWejdź na pokład statku Hoppetossa\n Ahoj, piraci! Czeka na Was statek taty Pippi. Ale uwaga – podłoga to wzburzone morze pełne rekinów!\n\nCzy potrafisz pokonać tor przeszkód, ani razu nie dotykając stopą ziemi?\n\nNaleśnikowe rzutki\n W kuchni Pippi nigdy nie jest nudno! Weź udział w wyzwaniu i rzucaj magnetycznymi naleśnikami prosto na wielką patelnię. Im bliżej środka trafisz, tym więcej punktów zdobędziesz.\n\nAtelier z przebraniami, czyli garderoba Pippi\n Wskocz w kostium pirata, załóż kolorowe skarpety lub stwórz zupełnie nową postać. Przejrzyj się w lustrze i sprawdź, kim dziś chcesz być!\n\nPippi Power! Podnieś konia Alfredo\n Chcesz udowodnić, że masz siłę godną Pippi? Stań pod Alfredo, pręż muskuły i zrób pamiątkowe zdjęcie!\n\nHobby Horse\n Wsiądź na swojego wierzchowca i galopuj po zwycięstwo! Przygotowaliśmy specjalny tor przeszkód – chwyć za wodze i ruszaj do zabawy.\n\nKącik czytelniczy Pippi\n Usiądź wygodnie i zanurz się w historiach o Pippi. Możesz czytać samodzielnie lub wspólnie z rodzicami. W soboty od 11:00 do 18:00 odbędzie się wspólne czytanie i będzie można spotkać Pippi!\n\nZostań poszukiwaczem skarbów\n Pomóż zadbać o środowisko, zbierając porozrzucane przedmioty i odkładając je w wyznaczonym miejscu. Czynienie dobra też może być przygodą!\n\nZdobądź kartę odwagi\n „Skąd mam wiedzieć, skoro nigdy nie próbowałam?”\n Zbierz wszystkie pieczątki i odbierz słodką niespodziankę!\n\nMagiczny klej Pippi\n 1 i 8 sierpnia\n 12:00–18:00\n Zapraszamy dzieci do stworzenia własnego magicznego kleju Conrada podczas kreatywnych warsztatów ze slime'em. Mieszajcie, rozciągajcie i eksperymentujcie!\n\nWarsztaty kreatywne Pippi\n Poniedziałek–piątek\n 16:00–20:00\n Pippi uwielbia tworzyć rzeczy po swojemu. Dołącz do warsztatów, twórz, łącz i wymyślaj bez ograniczeń. Jeśli Tobie sprawia to radość – to znaczy, że jest idealnie!\n\nWięcej informacji\n\nPort Łódź"
-        },
-        "en": {
-          "title": "The Great Return of Pippi at Port Łódź",
-          "description": "When: July 27 – August 8\nTime: 10:00 AM – 9:00 PM\nWhere: Atrium, near IKEA\n\nAdmission and all attractions are, of course, free!\n\nThe strongest girl in the world is returning to Port Łódź! She has carrot-colored hair braided into pigtails, lots of playful freckles, and wears two different stockings. Do you know her? It's of course Pippi Longstocking, who invites you back to Villa Villekulla!\n\nAre you ready to prove with Pippi that no one is too 'grown-up' to dare to have fun together? Come to Port Łódź from July 27 to August 8 and see for yourself!\n\nBoard the Hoppetossa ship\nAhoy, pirates! Pippi's dad's ship is waiting for you. But beware – the floor is a stormy sea full of sharks!\n\nCan you conquer the obstacle course without touching the ground even once?"
-        },
-        "uk": {
-          "title": "Велике повернення Піппі в Порті Лодзь",
-          "description": "Коли: 27 липня – 8 серпня\nГод.: 10:00–21:00\nДе: Атріум, біля IKEA\n\nВхід та всі атракції, звичайно, безкоштовно!\n\nДо Порту Лодзь повертається найсильніша дівчинка у світі! Вона має морквяні волосся, заплетені в коси, безліч пустотливих веснянок і носить дві різні панчохи. Знаєте її? Це, звичайно, Піппі Довгапанчоха, яка знову запрошує вас до Вілли Смішнотки!\n\nЧи готові ви разом з Піппі довести, що ніхто не є занадто «дорослим», щоб наважитися на спільні пустощі? Приходьте до Порту Лодзь з 27 липня по 8 серпня і переконайтеся самі!\n\nСідайте на борт корабля Хоппетосса\nАгой, пірати! На вас чекає корабель тата Піппі. Але увага – підлога це бурхливе море, повне акул!\n\nЧи зможете ви подолати перешкоду, жодного разу не торкаючись ногою землі?"
-        }
-      },
-      "updated_at": "2026-08-06T09:08:39.180047+00:00"
     },
     "w-poszukiwaniu-dzikiej-przyrody-w-mie-cie-spacer-ze-stanis-awem-ubie-skim-w-centralnym-muzeum-w-kiennictwa-2026-08-09T08:30:00+02:00": {
       "title": "W poszukiwaniu dzikiej przyrody w mieście. Spacer ze Stanisławem Łubieńskim w Centralnym Muzeum Włókiennictwa",

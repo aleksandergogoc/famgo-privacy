@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T09:13:38.010320+00:00",
+  "updated_at": "2026-08-07T07:57:55.923077+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3211,6 +3211,78 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-06T09:03:22.567085+00:00"
+    },
+    "dom technika not": {
+      "name": "Dom Technika NOT, Warszawa",
+      "district": "Śródmieście",
+      "address": "Dom Technika NOT, Warszawa",
+      "normalized": "dom technika not",
+      "lat": 52.2297,
+      "lng": 21.0122,
+      "updated_at": "2026-08-07T07:45:22.789353+00:00"
+    },
+    "domek lanciego (warszawa-natolin)": {
+      "name": "Domek Lanciego, Warszawa-Natolin, Warszawa",
+      "district": "Ursynów",
+      "address": "Domek Lanciego, Warszawa-Natolin, Warszawa",
+      "normalized": "domek lanciego (warszawa-natolin)",
+      "lat": 52.141,
+      "lng": 21.045,
+      "updated_at": "2026-08-07T07:45:24.159481+00:00"
+    },
+    "al. jana pawła ii 82": {
+      "name": "Al. Jana Pawła II 82, Westfield Arkadia",
+      "district": "Śródmieście",
+      "address": "Al. Jana Pawła II 82, Westfield Arkadia",
+      "normalized": "al. jana pawła ii 82",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-07T07:45:24.160498+00:00"
+    },
+    "józefa piłsudskiego w sulejówku": {
+      "name": "Muzeum Józefa Piłsudskiego w Sulejówku, Aleja Piłsudskiego 29, Sulejówek",
+      "district": "okolice Warszawy",
+      "address": "Muzeum Józefa Piłsudskiego w Sulejówku, Aleja Piłsudskiego 29, Sulejówek",
+      "normalized": "józefa piłsudskiego w sulejówku",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-07T07:45:24.160852+00:00"
+    },
+    "wisłostrada": {
+      "name": "Wisłostrada",
+      "district": "Śródmieście",
+      "address": "Wisłostrada",
+      "normalized": "wisłostrada",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-07T07:45:24.161068+00:00"
+    },
+    "osir syrenka": {
+      "name": "OSiR Syrenka, ul. Starego Doktora 1,",
+      "district": "Wawer",
+      "address": "OSiR Syrenka, ul. Starego Doktora 1,",
+      "normalized": "osir syrenka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-07T07:45:24.161281+00:00"
+    },
+    "centrum wspierania rodzin \"rodzinna warszawa\"": {
+      "name": "Centrum Wspierania Rodzin \"Rodzinna Warszawa\", ul. Stara 4",
+      "district": "Śródmieście",
+      "address": "Centrum Wspierania Rodzin \"Rodzinna Warszawa\", ul. Stara 4",
+      "normalized": "centrum wspierania rodzin \"rodzinna warszawa\"",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-07T07:45:24.161491+00:00"
+    },
+    "józefa balcerzaka 2_2": {
+      "name": "Józefa Balcerzaka 2/2, 01-944 Warszawa, Poland",
+      "district": "Bielany",
+      "address": "Józefa Balcerzaka 2/2, 01-944 Warszawa, Poland",
+      "normalized": "józefa balcerzaka 2_2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-07T07:45:24.161836+00:00"
     }
   }
 }

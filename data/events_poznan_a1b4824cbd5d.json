@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:57:50.899895+00:00",
+  "updated_at": "2026-08-07T13:20:01.981817+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-10-12T11:00:00+02:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -1898,6 +1898,41 @@
         "is_free": false
       },
       "updated_at": "2026-08-07T07:57:50.611239+00:00"
+    },
+    "6b1d968a32d64e1395f0077cb95bf68c": {
+      "title": "Lato na Jeżycach. Kino plenerowe. Pokaz filmu E.T",
+      "category": "Cinema",
+      "date": "2026-08-20T18:30:00+00:00",
+      "end_date": "2026-08-19T22:00:00+00:00",
+      "location": {
+        "name": "Teren Szkoły Podstawowej nr 71 w Poznaniu, ul. Przybyszewskiego 37"
+      },
+      "district": "Jeżyce",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "source_url": "https://fundacjapanagara.pl/lato-na-jezycach/",
+      "description": "W ramach Lata na Jeżycach zapraszamy serdecznie na seans Kina Plenerowego, w ramach którego obejrzymy jeden z najsławniejszych filmów w historii kina - E.T. w reżyserii Stevena Spielberga. Klimat letniej przygody, przyjaźń i atmosfera niesamowitości - czy czegoś więcej potrzeba na wakacje?",
+      "image": "https://fundacjapanagara.pl/wp-content/uploads/2026/08/Lato_na_Jezycach_E.T.kino_plenerowe-510x510.jpg",
+      "source": "admin_panel",
+      "startTimeKnown": true,
+      "featured": false,
+      "translations": {
+        "pl": {
+          "title": "Lato na Jeżycach. Kino plenerowe. Pokaz filmu E.T",
+          "description": "W ramach Lata na Jeżycach zapraszamy serdecznie na seans Kina Plenerowego, w ramach którego obejrzymy jeden z najsławniejszych filmów w historii kina - E.T. w reżyserii Stevena Spielberga. Klimat letniej przygody, przyjaźń i atmosfera niesamowitości - czy czegoś więcej potrzeba na wakacje?"
+        },
+        "en": {
+          "title": "Summer in Jeżyce. Outdoor Cinema. Screening of the film E.T.",
+          "description": "As part of Summer in Jeżyce, we warmly invite you to an Outdoor Cinema screening, where we will watch one of the most famous films in cinema history - E.T. directed by Steven Spielberg. The atmosphere of a summer adventure, friendship, and a sense of wonder - is there anything more needed for a vacation?"
+        },
+        "uk": {
+          "title": "Літо на Єжицьах. Відкритий кінотеатр. Показ фільму E.T.",
+          "description": "В рамках Літа на Єжицьах запрошуємо щиро на сеанс Відкритого кінотеатру, в рамках якого переглянемо один з найвідоміших фільмів в історії кіно - E.T. у режисурі Стівена Спілберга. Атмосфера літньої пригоди, дружба та атмосфера неймовірності - чи потрібно ще щось для відпустки?"
+        }
+      },
+      "updated_at": "2026-08-07T13:20:01.880283+00:00"
     }
   }
 }

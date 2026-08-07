@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T09:13:39.025569+00:00",
+  "updated_at": "2026-08-07T07:57:57.364799+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2811,6 +2811,33 @@
       "lat": 50.0616883,
       "lng": 19.940767,
       "updated_at": "2026-08-06T09:00:14.796780+00:00"
+    },
+    "bronowice": {
+      "name": "Galeria Bronowice, 61, Stawowa, Bronowice Wielkie, Prądnik Biały, Kraków, województwo małopolskie, 31-346, Polska",
+      "district": "Prądnik Biały",
+      "address": "Galeria Bronowice, 61, Stawowa, Bronowice Wielkie, Prądnik Biały, Kraków, województwo małopolskie, 31-346, Polska",
+      "normalized": "bronowice",
+      "lat": 50.0920871,
+      "lng": 19.8982842,
+      "updated_at": "2026-08-07T07:17:48.820689+00:00"
+    },
+    "biblioteka kraków": {
+      "name": "ul. Przyzby 10, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Przyzby 10, Kraków",
+      "normalized": "biblioteka kraków",
+      "lat": 50.062,
+      "lng": 19.937,
+      "updated_at": "2026-08-07T07:19:01.825258+00:00"
+    },
+    "filia nr 48 biblioteki kraków": {
+      "name": "Os. Bohaterów Września 26, Kraków",
+      "district": "Krowodrza",
+      "address": "Os. Bohaterów Września 26, Kraków",
+      "normalized": "filia nr 48 biblioteki kraków",
+      "lat": 50.067,
+      "lng": 19.916,
+      "updated_at": "2026-08-07T07:21:52.062129+00:00"
     }
   }
 }

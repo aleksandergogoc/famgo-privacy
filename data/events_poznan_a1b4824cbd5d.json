@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T13:20:48.584201+00:00",
+  "updated_at": "2026-08-07T13:27:02.760763+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-10-12T11:00:00+02:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -1909,7 +1909,7 @@
       },
       "district": "Jeżyce",
       "age_range": {
-        "min": 3,
+        "min": 7,
         "max": 12
       },
       "source_url": "https://fundacjapanagara.pl/lato-na-jezycach/",
@@ -1932,7 +1932,11 @@
           "description": "В рамках Літа на Єжицьах запрошуємо щиро на сеанс Відкритого кінотеатру, в рамках якого переглянемо один з найвідоміших фільмів в історії кіно - E.T. у режисурі Стівена Спілберга. Атмосфера літньої пригоди, дружба та атмосфера неймовірності - чи потрібно ще щось для відпустки?"
         }
       },
-      "updated_at": "2026-08-07T13:20:48.515307+00:00"
+      "updated_at": "2026-08-07T13:27:02.678281+00:00",
+      "admission": {
+        "is_free": true,
+        "ticket_url": null
+      }
     }
   }
 }

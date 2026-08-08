@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T08:46:44.151864+00:00",
+  "updated_at": "2026-08-08T07:37:51.447703+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -255,6 +255,24 @@
       "cached_at": "2026-07-22 09:01:57.892000+00:00",
       "lat": 51.7378595,
       "lng": 19.3652208
+    },
+    "nowa sukcesja (łódź": {
+      "name": "Nowa Sukcesja, 1, Aleje Politechniki, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 93-590, Polska",
+      "district": "Polesie",
+      "address": "Nowa Sukcesja, 1, Aleje Politechniki, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 93-590, Polska",
+      "normalized": "nowa sukcesja (łódź",
+      "lat": 51.7496371,
+      "lng": 19.4485762,
+      "updated_at": "2026-08-08T07:22:33.085172+00:00"
+    },
+    "hala expo łódź (al. politechniki 4)": {
+      "name": "EXPO-Łódź Sp. z o.o., 4, Aleje Politechniki, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 93-590, Polska",
+      "district": "Polesie",
+      "address": "EXPO-Łódź Sp. z o.o., 4, Aleje Politechniki, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 93-590, Polska",
+      "normalized": "hala expo łódź (al. politechniki 4)",
+      "lat": 51.7506141,
+      "lng": 19.4509533,
+      "updated_at": "2026-08-08T07:23:18.540140+00:00"
     }
   }
 }

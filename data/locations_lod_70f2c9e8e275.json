@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T07:37:51.447703+00:00",
+  "updated_at": "2026-08-08T12:25:02.211650+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -273,6 +273,14 @@
       "lat": 51.7506141,
       "lng": 19.4509533,
       "updated_at": "2026-08-08T07:23:18.540140+00:00"
+    },
+    "lalek arlekin im. henryka ryla w łodzi (ul. wólczańska 5)": {
+      "name": "Teatr Lalek Arlekin im. Henryka Ryla w Łodzi (ul. Wólczańska 5)",
+      "district": "Polesie",
+      "address": "ul. Wólczańska 5",
+      "normalized": "lalek arlekin im. henryka ryla w łodzi (ul. wólczańska 5)",
+      "updated_at": "2026-08-08T12:25:02.104122+00:00",
+      "created_at": "2026-08-08T12:25:02.104122+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:57:57.364799+00:00",
+  "updated_at": "2026-08-08T07:37:53.605670+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2838,6 +2838,42 @@
       "lat": 50.067,
       "lng": 19.916,
       "updated_at": "2026-08-07T07:21:52.062129+00:00"
+    },
+    "ogrody królewskie zamku na wawelu": {
+      "name": "Ogrody Królewskie Zamku na Wawelu, Kraków",
+      "district": "Stare Miasto",
+      "address": "Ogrody Królewskie Zamku na Wawelu, Kraków",
+      "normalized": "ogrody królewskie zamku na wawelu",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-08-08T06:56:39.435456+00:00"
+    },
+    "arena garden": {
+      "name": "Arena Garden, TAURON Arena Kraków, Kraków",
+      "district": "Czyżyny",
+      "address": "Arena Garden, TAURON Arena Kraków, Kraków",
+      "normalized": "arena garden",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-08-08T06:56:47.218632+00:00"
+    },
+    "filia nr 49 biblioteki kraków": {
+      "name": "Filia nr 49 Biblioteki Kraków, Os. Tysiąclecia 42, Kraków",
+      "district": "Krowodrza",
+      "address": "Filia nr 49 Biblioteki Kraków, Os. Tysiąclecia 42, Kraków",
+      "normalized": "filia nr 49 biblioteki kraków",
+      "lat": 50.065,
+      "lng": 19.916,
+      "updated_at": "2026-08-08T06:57:14.648567+00:00"
+    },
+    "nowa huta": {
+      "name": "Nowa Huta, Kraków, Poland",
+      "district": "Nowa Huta",
+      "address": "Nowa Huta, Kraków, Poland",
+      "normalized": "nowa huta",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-08T07:12:20.620743+00:00"
     }
   }
 }

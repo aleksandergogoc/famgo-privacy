@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T12:19:03.606381+00:00",
+  "updated_at": "2026-08-08T12:29:31.977157+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2918,6 +2918,60 @@
       "normalized": "kino kijów centrum",
       "updated_at": "2026-08-08T12:19:03.527658+00:00",
       "created_at": "2026-08-08T12:19:03.527658+00:00"
+    },
+    "rynek podziemny": {
+      "name": "Rynek Podziemny, 1, Rynek Główny, Stare Miasto, Kraków, województwo małopolskie, 31-042, Polska",
+      "district": "Stare Miasto",
+      "address": "Rynek Podziemny, 1, Rynek Główny, Stare Miasto, Kraków, województwo małopolskie, 31-042, Polska",
+      "normalized": "rynek podziemny",
+      "lat": 50.062005,
+      "lng": 19.9377768,
+      "updated_at": "2026-08-08T12:29:11.380275+00:00"
+    },
+    "rydlówka": {
+      "name": "Rydlówka, 28, Włodzimierza Tetmajera, Bronowice Małe, Bronowice, Kraków, województwo małopolskie, 31-352, Polska",
+      "district": "Bronowice",
+      "address": "Rydlówka, 28, Włodzimierza Tetmajera, Bronowice Małe, Bronowice, Kraków, województwo małopolskie, 31-352, Polska",
+      "normalized": "rydlówka",
+      "lat": 50.08784,
+      "lng": 19.878055,
+      "updated_at": "2026-08-08T12:29:16.655642+00:00"
+    },
+    "centrum interpretacji niematerialnego dziedzictwa krakowa": {
+      "name": "Centrum Interpretacji Niematerialnego Dziedzictwa Krakowa",
+      "district": "Stare Miasto",
+      "address": "Centrum Interpretacji Niematerialnego Dziedzictwa Krakowa",
+      "normalized": "centrum interpretacji niematerialnego dziedzictwa krakowa",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-08-08T12:29:20.359947+00:00"
+    },
+    "ulica pomorska": {
+      "name": "Ulica Pomorska, 2, Pomorska, Nowa Wieś, Krowodrza, Kraków, województwo małopolskie, 30-039, Polska",
+      "district": "Krowodrza",
+      "address": "Ulica Pomorska, 2, Pomorska, Nowa Wieś, Krowodrza, Kraków, województwo małopolskie, 30-039, Polska",
+      "normalized": "ulica pomorska",
+      "lat": 50.0706881,
+      "lng": 19.9249265,
+      "updated_at": "2026-08-08T12:29:23.978739+00:00"
+    },
+    "fabryka emalia oskara schindlera": {
+      "name": "Fabryka Emalia Oskara Schindlera, 4, Lipowa, Zabłocie, Podgórze, Kraków, województwo małopolskie, 30-702, Polska",
+      "district": "Podgórze",
+      "address": "Fabryka Emalia Oskara Schindlera, 4, Lipowa, Zabłocie, Podgórze, Kraków, województwo małopolskie, 30-702, Polska",
+      "normalized": "fabryka emalia oskara schindlera",
+      "lat": 50.0474554,
+      "lng": 19.9617094,
+      "updated_at": "2026-08-08T12:29:25.839685+00:00"
+    },
+    "podgórza": {
+      "name": "Muzeum Podgórza, Bolesława Limanowskiego, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-528, Polska",
+      "district": "Podgórze",
+      "address": "Muzeum Podgórza, Bolesława Limanowskiego, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-528, Polska",
+      "normalized": "podgórza",
+      "lat": 50.042547,
+      "lng": 19.9609479,
+      "updated_at": "2026-08-08T12:29:31.899663+00:00"
     }
   }
 }

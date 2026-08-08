@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T07:37:53.605670+00:00",
+  "updated_at": "2026-08-08T12:16:06.335221+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2874,6 +2874,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-08T07:12:20.620743+00:00"
+    },
+    "apteka pod orłem": {
+      "name": "Apteka Pod Orłem, 18, Plac Bohaterów Getta, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-530, Polska",
+      "district": "Podgórze",
+      "address": "Apteka Pod Orłem, 18, Plac Bohaterów Getta, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-530, Polska",
+      "normalized": "apteka pod orłem",
+      "lat": 50.0462364,
+      "lng": 19.9541481,
+      "updated_at": "2026-08-08T12:16:04.902982+00:00"
+    },
+    "stara synagoga": {
+      "name": "Stara Synagoga, Plac Bawół, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-052, Polska",
+      "district": "Stare Miasto",
+      "address": "Stara Synagoga, Plac Bawół, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-052, Polska",
+      "normalized": "stara synagoga",
+      "lat": 50.0513668,
+      "lng": 19.9486379,
+      "updated_at": "2026-08-08T12:16:06.189437+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:57:53.543566+00:00",
+  "updated_at": "2026-08-08T07:37:50.389689+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -482,6 +482,24 @@
       "lat": 54.325447,
       "lng": 18.6339484,
       "updated_at": "2026-08-07T07:51:45.522431+00:00"
+    },
+    "strefa zoltar gdańsk": {
+      "name": "1, Pokoleń Lechii Gdańsk, Letnica, Gdańsk, województwo pomorskie, 80-560, Polska",
+      "district": "Śródmieście",
+      "address": "1, Pokoleń Lechii Gdańsk, Letnica, Gdańsk, województwo pomorskie, 80-560, Polska",
+      "normalized": "strefa zoltar gdańsk",
+      "lat": 54.3899568,
+      "lng": 18.6414218,
+      "updated_at": "2026-08-08T07:32:08.227609+00:00"
+    },
+    "gdańsk osowa": {
+      "name": "58, Barniewicka, Osowa, Gdańsk, województwo pomorskie, 80-299, Polska",
+      "district": "Oliwa",
+      "address": "58, Barniewicka, Osowa, Gdańsk, województwo pomorskie, 80-299, Polska",
+      "normalized": "gdańsk osowa",
+      "lat": 54.421615,
+      "lng": 18.453347,
+      "updated_at": "2026-08-08T07:32:11.198957+00:00"
     }
   }
 }

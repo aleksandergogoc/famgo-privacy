@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T07:12:22.559970+00:00",
+  "updated_at": "2026-08-08T10:20:42.947903+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -8983,6 +8983,45 @@
         "is_free": true
       },
       "updated_at": "2026-08-08T07:12:22.363205+00:00"
+    },
+    "066f31de90c14019b8c7e4ce17628026": {
+      "title": "Festiwal Balonów / World Balloon Festival w Expo",
+      "category": "Family Fun",
+      "date": "2026-11-21T08:00:00+00:00",
+      "end_date": "2026-11-22T19:00:00+00:00",
+      "location": {
+        "name": "EXPO Kraków, ul. Galicyjska 9"
+      },
+      "district": "Czyżyny",
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "source_url": "https://festiwalbalonow.pl/wydarzenie-krakow/",
+      "description": "World Balloon Festival, czyli pierwsze w Polsce miasto zbudowane w całości z powietrznych rzeźb. Ponad STO TYSIĘCY balonów zamieni się w przestrzeń, w której każdy krok prowadzi do innego świata!\n\nPrzekroczysz bramę do 5 zupełnie różnych krain – zobaczysz największe cuda światowej architektury, zanurzysz się w podwodnych głębinach, przelecisz przez galaktyki, spotkasz dzikie zwierzęta – całkowicie wykonane z misternie uplecionych balonów.",
+      "image": "https://www.ebilet.pl/media/cms/media/fkoirykk/552x736_wbf-e2f7b10f-f615-4fb8-8f05-12f034aab5fe.webp",
+      "source": "admin_panel",
+      "startTimeKnown": true,
+      "featured": false,
+      "translations": {
+        "pl": {
+          "title": "Festiwal Balonów / World Balloon Festival w Expo",
+          "description": "World Balloon Festival, czyli pierwsze w Polsce miasto zbudowane w całości z powietrznych rzeźb. Ponad STO TYSIĘCY balonów zamieni się w przestrzeń, w której każdy krok prowadzi do innego świata!\n\nPrzekroczysz bramę do 5 zupełnie różnych krain – zobaczysz największe cuda światowej architektury, zanurzysz się w podwodnych głębinach, przelecisz przez galaktyki, spotkasz dzikie zwierzęta – całkowicie wykonane z misternie uplecionych balonów."
+        },
+        "en": {
+          "title": "Balloon Festival / World Balloon Festival at Expo",
+          "description": "World Balloon Festival, the first city in Poland built entirely from air sculptures. Over ONE HUNDRED THOUSAND balloons will transform into a space where every step leads to a different world! You will cross the gate to 5 completely different realms – you will see the greatest wonders of world architecture, immerse yourself in underwater depths, fly through galaxies, and encounter wild animals – all entirely made from intricately woven balloons."
+        },
+        "uk": {
+          "title": "Фестиваль Повітряних Кульок / Світовий Фестиваль Повітряних Кульок на Expo",
+          "description": "Світовий Фестиваль Повітряних Кульок, тобто перше в Польщі місто, побудоване повністю з повітряних скульптур. Понад СТО ТИСЯЧ балонів перетворяться на простір, в якому кожен крок веде в інший світ! \n\nТи перейдеш через браму до 5 абсолютно різних країн – побачиш найбільші дива світової архітектури, зануришся в підводні глибини, пролетиш через галактики, зустрінеш диких тварин – повністю виконаних з майстерно сплетених балонів."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.ebilet.pl/rodzina/pozostale/world-balloon-festival?partner=pmentertainment&utm_source=facebook.com&utm_medium=cpc&utm_campaign=Balloon-festival_191692,1938"
+      },
+      "updated_at": "2026-08-08T10:20:42.854132+00:00"
     }
   }
 }

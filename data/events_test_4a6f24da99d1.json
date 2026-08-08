@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T12:54:11.735688+00:00",
+  "updated_at": "2026-08-08T13:02:48.297207+00:00",
   "events": {
     "lato-w-mie-cie-w-bia-ych-r-kawiczkach-2026-08-08T11:00:00+02:00": {
       "title": "Lato w mieście: W białych rękawiczkach",
@@ -15,12 +15,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-w-bialych-rekawiczkach-1",
       "source": "muzeumkrakowa.pl",
       "age_hint": "6-10",
-      "age_range": [
-        6,
-        10
-      ],
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-w-bialych-rekawiczkach-1",
-      "scrapped_timestamp": "2026-08-08T12:51:28.112930+00:00",
+      "scrapped_timestamp": "2026-08-08T12:59:34.235188+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -29,7 +29,7 @@
         },
         "en": {
           "title": "Summer in the City: In White Gloves",
-          "description": "In every museum, extraordinary objects lead a quiet museum life in glass display cases. On a daily basis, they can only be seen behind the glass, and the secrets they hold are not visible at first glance. What stories do pharmaceutical exhibits hide, and what is it like to work with objects when they briefly leave the museum display? All of this can be explored by putting on white gloves and opening your eyes and ears to extraordinary stories. Conducted by: Alicja Ososińska. Important information: Target audience: Workshops for families with children aged 6–10 years. Ticket price: 20 PLN per child (one guardian free of charge, second and subsequent – 20 PLN per person). When purchasing an online ticket for a child, it is mandatory to also download a control ticket for the guardian. Online ticket sales."
+          "description": "In every museum, extraordinary objects lead a quiet museum life in glass display cases. On a daily basis, they can only be seen behind the glass, and the secrets they hold are not visible at first glance. What stories do the pharmaceutical exhibits hide, and what is it like to work with objects when they briefly leave the museum display? All of this can be explored by putting on white gloves and opening your eyes and ears to extraordinary stories. Conducted by: Alicja Ososińska. Important information: Target audience: Workshops for families with children aged 6–10 years. Ticket price: 20 PLN per child (one guardian free of charge, second and subsequent – 20 PLN per person). When purchasing an online ticket for a child, it is mandatory to also download a control ticket for the guardian. Online ticket sales."
         },
         "uk": {
           "title": "Літо в місті: У білих рукавичках",
@@ -40,7 +40,7 @@
         "is_free": false
       },
       "district": "Podgórze",
-      "updated_at": "2026-08-08T12:54:11.617961+00:00"
+      "updated_at": "2026-08-08T13:02:48.163898+00:00"
     },
     "lato-w-mie-cie-co-by-o-przed-rynkiem-2026-08-09T12:00:00+02:00": {
       "title": "Lato w mieście: Co było przed Rynkiem?",
@@ -56,12 +56,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-co-bylo-przed-rynkiem-1",
       "source": "muzeumkrakowa.pl",
       "age_hint": "13-16",
-      "age_range": [
-        13,
-        16
-      ],
+      "age_range": {
+        "min": 13,
+        "max": 16
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-co-bylo-przed-rynkiem-1",
-      "scrapped_timestamp": "2026-08-08T12:51:35.117425+00:00",
+      "scrapped_timestamp": "2026-08-08T12:59:43.044957+00:00",
       "category": "Educational",
       "translations": {
         "pl": {
@@ -70,18 +70,18 @@
         },
         "en": {
           "title": "Summer in the City: What Was Before the Market?",
-          "description": "We will delve into the history of the oldest objects found in the Main Market Square. We will learn about the life of the inhabitants of the pre-location settlement and discover traces of early medieval burials, interpreting the stories contained in the items that the settlers took with them to the afterlife. Participants will have the opportunity to listen to an unusual tale interwoven with a display of replicas of early medieval clothing, vessels, jewelry, and weapons, while being able to physically touch the recreated history. Led by: Mateusz Miśków. Key information: Target audience: Specialized tour for youth aged 13–16. Ticket price: 20 PLN per child (one guardian free of charge, second and subsequent – 20 PLN per person). When purchasing a ticket online for a child."
+          "description": "We will delve into the history of the oldest objects found in the Main Market Square. We will learn about the life of the inhabitants of the pre-location settlement and discover traces of early medieval burials, interpreting the stories contained in the items that the settlers took with them to the afterlife. Participants will have the opportunity to listen to an unusual tale interwoven with a display of replicas of early medieval clothing, vessels, jewelry, and weaponry, while being able to physically touch the recreated history. Led by: Mateusz Miśków. Key Information: Target Audience: Specialized tour for youth aged 13–16. Ticket price: 20 PLN per child (one guardian free of charge, second and subsequent – 20 PLN per person). When purchasing a ticket online for a child."
         },
         "uk": {
           "title": "Літо в місті: Що було перед Ринком?",
-          "description": "Заглибимося в історію найстаріших предметів, знайдених на території Ринку Головного. Познайомимося з оповіддю про життя мешканців поселення передлокційного, а також знайдемо сліди ранньосередньовічних поховань і розшифруємо історію, що міститься в предметах, які тодішні поселенці забрали з собою в зашвіт. Учасники матимуть можливість послухати незвичайну оповідь, переплетену показом реплік ранньосередньовічних елементів одягу, посуду, ювелірних виробів та зброї, маючи можливість власноруч доторкнутися до відтвореної історії. Ведучий: Матей Мішків Найважливіша інформація Група отримувачів: Спеціалізоване екскурсійне обслуговування для молоді віком 13–16 років Квиток в ціні: 20 зл з дитини (один опікун безкоштовно, другий і наступні – 20 зл з особи). Купуючи квиток онлайн для дитини"
+          "description": "Заглибимося в історію найстаріших предметів, знайдених на території Ринку Головного. Познайомимося з оповіддю про життя мешканців поселення передлокційного та знайдемо сліди ранньосередньовічних поховань, а також розчитаємо історію, що міститься в предметах, які тодішні поселенці забрали з собою в зашвіт. Учасники матимуть можливість вислухати незвичайну оповідь, переплетену показом реплік ранньосередньовічних елементів одягу, посуду, ювелірних виробів та зброї, маючи можливість власноруч доторкнутися до відтвореної історії. Ведучий: Матей Мішків Найважливіша інформація Група отримувачів: Спеціалізоване екскурсійне обслуговування для молоді віком 13–16 років Квиток в ціні: 20 зл з дитини (один опікун безкоштовно, другий та наступні – 20 зл з особи). Купуючи квиток онлайн для дитини"
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618017+00:00"
+      "updated_at": "2026-08-08T13:02:48.163936+00:00"
     },
     "lato-w-mie-cie-czy-jab-ko-mo-e-by-arcydzie-em-2026-08-11T10:00:00+02:00": {
       "title": "Lato w mieście: Czy jabłko może być arcydziełem?",
@@ -97,12 +97,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-czy-jablko-moze-byc-arcydzielem-1",
       "source": "muzeumkrakowa.pl",
       "age_hint": "6-10",
-      "age_range": [
-        6,
-        10
-      ],
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-czy-jablko-moze-byc-arcydzielem-1",
-      "scrapped_timestamp": "2026-08-08T12:51:41.991594+00:00",
+      "scrapped_timestamp": "2026-08-08T12:59:50.128258+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -111,11 +111,11 @@
         },
         "en": {
           "title": "Summer in the City: Can an Apple Be a Masterpiece?",
-          "description": "For centuries, masterpieces have been admired by a wide audience. They have been unanimously declared outstanding and distinguished from others. It is no wonder that the Mona Lisa is considered a masterpiece, hanging daily in the Louvre in Paris. But can ordinary objects that surround us be recognized as masterpieces too? Of course! This has been proven by painters who depicted still lifes in their works. They used simple things to compose their arrangements, such as fruits, flowers, books, dishes, candles, cards, and other games or musical instruments. We invite entire families to workshops where we will explore various examples of still lifes. Not only will we see them, but we will also recreate them later, and who knows, maybe we will even manage to sketch our own still lifes. Led by: Małgorzata Kuciel and Anna Magiera."
+          "description": "For centuries, masterpieces have been admired by a wide audience. They have unanimously declared them outstanding and distinguished from others. It is no wonder that the Mona Lisa is considered a masterpiece, hanging daily in the Louvre in Paris. But can ordinary objects that surround us be recognized as masterpieces too? Of course! This has been proven by painters who depicted still lifes in their works. They used simple things to compose their arrangements, such as fruits, flowers, books, dishes, candles, cards, and other games or musical instruments. We invite entire families to workshops where we will explore various examples of still lifes. Not only will we see them, but we will also recreate them later, and who knows, maybe we will even manage to sketch our own still lifes. Led by: Małgorzata Kuciel and Anna Magiera."
         },
         "uk": {
           "title": "Літо в місті: Чи може яблуко бути шедевром?",
-          "description": "Шедевр протягом століть спостерігала широка публіка. Всі одностайно визнали, що він видатний і вирізняється на фоні інших. Тому не дивно, що шедевром є Мона Ліза, яка щодня висить у паризькому Луврі. А чи можуть звичайні предмети, які оточують нас з усіх боків, також бути визнані шедевром? Звичайно, можуть! Це довели художники, які на своїх картинах зображали натюрморти. Для складання композицій вони використовували прості речі, наприклад, фрукти, квіти, книги, посуд, свічки, карти та інші ігри чи музичні інструменти. Запрошуємо всі родини на майстер-класи, під час яких ми познайомимося з різними прикладами натюрмортів. Ми не лише їх побачимо, але й пізніше відтворимо, і, хто знає, можливо, навіть зможемо намалювати власні натюрморти. Ведучі: Маłгожата Кучель та Анна Маджера"
+          "description": "Шедевр протягом століть спостерігала широка публіка. Всі одностайно визнали, що він видатний і вирізняється на фоні інших. Не дивно, що шедевром є Мона Ліза, яка щодня висить у паризькому Луврі. А чи можуть звичайні предмети, які оточують нас з усіх боків, також бути визнані шедевром? Звичайно, можуть! Це довели художники, які на своїх картинах зображали натюрморти. Для складання композицій вони використовували прості речі, наприклад, фрукти, квіти, книги, посуд, свічки, карти та інші ігри чи музичні інструменти. Запрошуємо всі родини на майстер-класи, під час яких ми познайомимося з різними прикладами натюрмортів. Ми не лише їх побачимо, але й пізніше відтворимо, і, хто знає, можливо, навіть зможемо намалювати власні натюрморти. Ведучі: Маłгожата Кучель та Анна Маджера"
         }
       },
       "admission": {
@@ -123,7 +123,7 @@
         "ticket_url": "https://bilety.mhk.pl/rezerwacja/lokalizacja.html"
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618058+00:00"
+      "updated_at": "2026-08-08T13:02:48.163969+00:00"
     },
     "lato-w-mie-cie-pionierka-obozowa-totemy-2026-08-11T12:00:00+02:00": {
       "title": "Lato w mieście: Pionierka obozowa – totemy",
@@ -139,12 +139,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-pionierka-obozowa-totemy",
       "source": "muzeumkrakowa.pl",
       "age_hint": "10-13",
-      "age_range": [
-        10,
-        13
-      ],
+      "age_range": {
+        "min": 10,
+        "max": 13
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-pionierka-obozowa-totemy",
-      "scrapped_timestamp": "2026-08-08T12:51:48.208718+00:00",
+      "scrapped_timestamp": "2026-08-08T13:00:01.913524+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -153,18 +153,18 @@
         },
         "en": {
           "title": "Summer in the City: Camp Pioneer - Totems",
-          "description": "Totems are one of the most creative elements of life at a scout camp. Drawn from the rituals of Native Americans, they represent animals, motifs, and traits that their creators identify with and aspire to. Made from what can be found in the forest, they express creativity and collaboration, as well as help to create team spirit. In this workshop, participants will not only learn about the history and examples of totems but will also create their own. Note - the workshop is scheduled for 3 hours. Led by: Anna Skokan, Anna Stankowiak. Important information: Target audience: Workshops for families with children aged 10-13 years. Ticket price: 20 PLN per child (one guardian free of charge, second and subsequent - 20 PLN per person). When purchasing an online ticket for a child, it is mandatory to also download a ticket for the guardian."
+          "description": "Totems are one of the most creative elements of life at a scout camp. Drawn from the rituals of Native Americans, they represent animals, motifs, and traits that their creators identify with and aspire to. Made from what can be found in the forest, they express creativity and collaboration, as well as help to create a team spirit. In this workshop, participants will not only learn about the history and examples of totems but will also create their own. Note - the workshop is scheduled for 3 hours. Led by: Anna Skokan, Anna Stankowiak. Important information: Target audience: Workshops for families with children aged 10-13 years. Ticket price: 20 PLN per child (one guardian free entry, second and subsequent - 20 PLN per person). When purchasing an online ticket for a child, it is mandatory to also download a ticket for the guardian."
         },
         "uk": {
           "title": "Літо в місті: Піонерка табору – тотеми",
-          "description": "Тотеми – це один з найтворчіших елементів життя в таборі скаутів. Запозичені з обрядовості індіанців, вони нагадують тварин, мотиви та риси, з якими ототожнюють себе їхні творці. Зроблені з того, що можна знайти в лісі, вони є виразом креативності та співпраці, а також допомагають створити дух команди. На цих майстер-класах учасники не лише зможуть дізнатися історію та приклади тотемів, але й самі їх створити. Увага – майстер-класи заплановані на 3 години. Ведучі: Анна Сокан, Анна Станковяк. Найважливіша інформація: Група отримувачів: Майстер-класи для сімей з дітьми віком 10–13 років. Квиток в ціні: 20 грн з дитини (один опікун безкоштовно, другий та наступні – 20 грн з особи). Купуючи квиток онлайн для дитини, обов'язково потрібно також завантажити квиток для опікуна."
+          "description": "Тотеми – це один з найтворчіших елементів життя в таборі скаутів. Запозичені з обрядовості індіанців, вони нагадують тварин, мотиви та риси, з якими ототожнюють себе їхні творці. Зроблені з того, що можна знайти в лісі, вони є виразом креативності та співпраці, а також допомагають створити дух команди. На цих майстер-класах учасники не лише зможуть дізнатися історію та приклади тотемів, але й самі їх створити. Увага – майстер-класи заплановані на 3 години. Ведучі: Анна Сокан, Анна Станковяк. Найважливіша інформація: Група отримувачів: Майстер-класи для сімей з дітьми віком 10–13 років. Квиток вартістю: 20 зл з дитини (один опікун безкоштовно, другий та наступні – 20 зл з особи). Купуючи квиток онлайн для дитини, обов'язково потрібно також завантажити квиток для опікуна."
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618094+00:00"
+      "updated_at": "2026-08-08T13:02:48.163996+00:00"
     },
     "lato-w-mie-cie-niezwyk-e-gad-ety-czy-bezcenne-per-y-2026-08-12T10:30:00+02:00": {
       "title": "Lato w mieście: Niezwykłe gadżety czy bezcenne perły?",
@@ -180,12 +180,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-niezwykle-gadzety-czy-bezcenne-perly-1",
       "source": "muzeumkrakowa.pl",
       "age_hint": "10-13",
-      "age_range": [
-        10,
-        13
-      ],
+      "age_range": {
+        "min": 10,
+        "max": 13
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-niezwykle-gadzety-czy-bezcenne-perly-1",
-      "scrapped_timestamp": "2026-08-08T12:51:54.405032+00:00",
+      "scrapped_timestamp": "2026-08-08T13:00:09.800456+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -194,18 +194,18 @@
         },
         "en": {
           "title": "Summer in the City: Extraordinary Gadgets or Priceless Pearls?",
-          "description": "Did you know that in a wealthy bourgeois house in the 19th century, there were items whose value could buy several villages? They were uniquely decorated in special workshops, and their owners highlighted their distinction (high social status) and often good taste through them. We will explore items taken from our collections, as well as those present in source descriptions. We will learn how their owners felt and what they meant to them. Sometimes gadgets were not very valuable, but interestingly made, and today they hold value for us as testimonies of distant times – like a nut with shells. What is that? You will find out during the session. Led by: Dr. Karina Janik Important information Target audience: Theater workshops for families with children aged 10–13 years Ticket price: 20 PLN per child (one guardian free)"
+          "description": "Did you know that in a wealthy bourgeois house in the 19th century, there were items whose value could buy several villages? They were uniquely decorated in special workshops, and their owners highlighted their distinction (high social status) and often good taste through them. We will explore items taken from our collections, as well as those present in source descriptions. We will learn how their owners felt and what they meant to them. Sometimes gadgets were not very valuable, but interestingly made, and today they hold value for us as testimonies of distant times – like a nut with shells. What is that? You will find out during the session. Conducted by: Dr. Karina Janik. Important information: Target audience: Theater workshops for families with children aged 10–13 years. Ticket price: 20 PLN per child (one guardian free entry)."
         },
         "uk": {
           "title": "Літо в місті: Неймовірні гаджети чи безцінні перлини?",
-          "description": "Чи знаєте ви, що в багатому міському домі в XIX столітті мали предмети, за які можна було купити кілька сіл? Їх унікально оздоблювали в спеціальних майстернях, а їхні власники підкреслювали через них свою дистинкцію (високий соціальний статус), а часто й добрий смак. Ми познайомимося з предметами, витягнутими з наших колекцій, а також присутніми в описах джерел. Дізнаємося, як почувалися їхні власники і що для них значили. Іноді гаджети були не надто цінними, але цікаво виконаними, і сьогодні мають для нас цінність як свідчення віддалених часів – як горіх зі штанами. Що це таке? Дізнаєтеся під час занять. Ведення: д-р Каріна Янік Найважливіша інформація Група отримувачів: Театральні майстерні для сімей з дітьми 10–13 років Квиток в ціні: 20 зл з дитини (один опікун безкоштовно)"
+          "description": "Чи знаєте ви, що в багатому міщанському домі в XIX столітті були предмети, за які можна було купити кілька сіл? Їх унікально оздоблювали в спеціальних майстернях, а їхні власники підкреслювали через них свою дистинкцію (високий соціальний статус), а часто й добрий смак. Ми познайомимося з предметами, витягнутими з наших колекцій, а також присутніми в описах джерел. Дізнаємося, як почувалися їхні власники і що для них значили. Іноді гаджети були не надто цінними, але цікаво виконаними, і сьогодні мають для нас цінність як свідчення віддалених часів – як горіх зі штанами. Що це таке? Дізнаєтеся під час занять. Ведення: д-р Каріна Янік Найважливіша інформація Група отримувачів: Театральні майстерні для сімей з дітьми 10–13 років Квиток в ціні: 20 зл з дитини (один опікун безкоштовно)"
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618129+00:00"
+      "updated_at": "2026-08-08T13:02:48.164025+00:00"
     },
     "lato-w-mie-cie-cieniem-malowane-2026-08-12T12:00:00+02:00": {
       "title": "Lato w mieście: Cieniem malowane",
@@ -221,12 +221,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-cieniem-malowane",
       "source": "muzeumkrakowa.pl",
       "age_hint": "10-13",
-      "age_range": [
-        10,
-        13
-      ],
+      "age_range": {
+        "min": 10,
+        "max": 13
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-cieniem-malowane",
-      "scrapped_timestamp": "2026-08-08T12:52:01.225475+00:00",
+      "scrapped_timestamp": "2026-08-08T13:00:16.691665+00:00",
       "category": "Arts",
       "translations": {
         "pl": {
@@ -235,11 +235,11 @@
         },
         "en": {
           "title": "Summer in the City: Painted by Shadows",
-          "description": "During the art workshops, participants will discover the extraordinary possibilities of creating images inspired by nature and light. Children will use shadows cast by leaves, twigs, and other natural elements to create original compositions on paper. The resulting shapes will become the starting point for creative work, which participants will develop according to their own imagination by drawing and completing their images. The activities will stimulate creativity, artistic sensitivity, and the ability to observe the surrounding nature. Note – the workshops are scheduled for 3 hours. Led by: Anna Skokan, Anna Stankowiak. Important information: Target group: Workshops for families with children aged 10–13 years. Ticket price: 20 PLN per child (one guardian free entry, second and subsequent – 20 PLN per person). Buy tickets online."
+          "description": "During the art workshops, participants will discover the extraordinary possibilities of creating images inspired by nature and light. Children will use shadows cast by leaves, twigs, and other natural elements to create original compositions on paper. The resulting shapes will become the starting point for creative work, which participants will develop according to their own imagination by drawing and completing their images. The activities will stimulate creativity, artistic sensitivity, and the ability to observe the surrounding nature. Note - the workshops are scheduled for 3 hours. Led by: Anna Skokan, Anna Stankowiak. Important information: Target group: Workshops for families with children aged 10-13 years. Ticket price: 20 PLN per child (one guardian free entry, second and subsequent - 20 PLN per person). Buy tickets online."
         },
         "uk": {
           "title": "Літо в місті: Намальоване тінями",
-          "description": "Під час художніх майстерень учасники відкриють неймовірні можливості створення картин, натхненних природою та світлом. Діти використають тіні, які кидають листя, гілочки та інші природні елементи, щоб створити оригінальні композиції на папері. Утворені форми стануть початком творчої роботи, яку учасники розвинуть відповідно до власної уяви, доповнюючи та дофарбовуючи свої картини. Заняття стимулюватимуть креативність, художню чутливість та вміння спостерігати за навколишньою природою. Увага – майстерні заплановані на 3 години. Ведучі: Анна Сокан, Анна Станковяк. Найважливіша інформація: Група отримувачів: Майстерні для сімей з дітьми віком 10–13 років. Квиток в ціні: 20 зл з дитини (один опікун безкоштовно, другий та наступні – 20 зл з особи). Купуючи квиток онлайн."
+          "description": "Під час художніх майстерень учасники відкриють неймовірні можливості створення картин, натхненних природою та світлом. Діти використають тіні, які кидають листя, гілочки та інші природні елементи, щоб створити оригінальні композиції на папері. Утворені форми стануть початком творчої роботи, яку учасники розвинуть відповідно до власної уяви, доповнюючи та малюючи свої картини. Заняття стимулюватимуть креативність, художню чутливість та вміння спостерігати за навколишньою природою. Увага – майстерні заплановані на 3 години. Ведучі: Анна Сокан, Анна Станковяк. Найважливіша інформація: Група отримувачів: Майстерні для сімей з дітьми віком 10–13 років. Квиток коштує: 20 зл з дитини (один опікун безкоштовно, другий та наступні – 20 зл з особи). Купуючи квиток онлайн"
         }
       },
       "admission": {
@@ -247,7 +247,7 @@
         "ticket_url": "https://bilety.mhk.pl/rezerwacja/lokalizacja.html"
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618160+00:00"
+      "updated_at": "2026-08-08T13:02:48.164050+00:00"
     },
     "w-r-d-kazimierskich-uliczek-spacer-dla-rodzic-w-w-ramach-muzeum-od-ko-yski-2026-08-13T10:30:00+02:00": {
       "title": "Wśród kazimierskich uliczek – spacer dla rodziców w ramach Muzeum od kołyski",
@@ -265,7 +265,7 @@
       "age_hint": null,
       "age_range": null,
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/wsrod-kazimierskich-uliczek-spacer-dla-rodzicow-w-ramach-muzeum-od-kolyski",
-      "scrapped_timestamp": "2026-08-08T12:52:08.115654+00:00",
+      "scrapped_timestamp": "2026-08-08T13:00:24.171752+00:00",
       "category": "Field Trips",
       "translations": {
         "pl": {
@@ -274,18 +274,18 @@
         },
         "en": {
           "title": "Among the Streets of Kazimierz – A Walk for Parents as Part of the Museum from the Cradle",
-          "description": "The city of Kazimierz has been a place where Krakow's Jews built their community from the ground up since the 15th century. It was here that the heart of the Jewish community and a cultural center for Jews from Central and Eastern Europe was located. The tragic events of World War II interrupted the continuity of the Jewish community, leaving traces in memory – both visible and hidden in the walls, streets, and silence. We invite you to a walk through Kazimierz – a district that has been the heart of Jewish life in Krakow for centuries. The route will take us through spaces of non-existent synagogues, schools, prayer houses, and social institutions. It will be a story about the daily lives of the residents, about families building the local community, and about a world that was brutally interrupted. Led by: Aleksandra Gaj"
+          "description": "The city of Kazimierz has been a place where Krakow's Jews built their community from the 15th century. It was here that the heart of the Jewish community and a cultural center for Jews from Central and Eastern Europe was located. The tragic events of World War II interrupted the continuity of the Jewish community, leaving traces in memory – both visible and hidden in the walls, streets, and silence. We invite you to a walk through Kazimierz – a district that has been the heart of Jewish life in Krakow for centuries. The route will take us through spaces of non-existent synagogues, schools, prayer houses, and social institutions. It will be a story about the daily lives of the residents, about families building the local community, and about a world that was brutally interrupted. Led by: Aleksandra Gaj"
         },
         "uk": {
           "title": "Серед казимирських вуличок – прогулянка для батьків в рамках Музею від колиски",
-          "description": "Місто Казимир з XV століття було місцем, де краківські євреї будували свою громаду з нуля. Саме тут знаходилося серце єврейської спільноти та культурний центр для євреїв з Центрально-Східної Європи. Трагічні події Другої світової війни перервали безперервність єврейської громади, залишивши сліди в пам'яті – як видимі, так і приховані в стінах, вулицях і тиші. Запрошуємо на прогулянку по Казимиру – району, який протягом століть був серцем єврейського життя в Кракові. Маршрут проведе нас через простори колишніх синагог, шкіл, домів молитви та соціальних установ. Це буде розповідь про повсякденне життя мешканців, про родини, які будували місцеву спільноту, а також про світ, який був жорстоко перерваний. Ведуча: Олександра Гай"
+          "description": "Місто Казимир з XV століття було місцем, де краківські євреї будували свою громаду з нуля. Саме тут знаходилося серце єврейської спільноти та культурний центр для євреїв з Центрально-Східної Європи. Трагічні події Другої світової війни перервали безперервність єврейської громади, залишивши проте сліди в пам'яті – як видимі, так і приховані в стінах, вулицях і тиші. Запрошуємо на прогулянку по Казимиру – району, який протягом століть був серцем єврейського життя в Кракові. Маршрут проведе нас через простори колишніх синагог, шкіл, молитовних домів і соціальних установ. Це буде розповідь про повсякденне життя мешканців, про родини, які будували місцеву спільноту, а також про світ, який був жорстоко перерваний. Ведуча: Олександра Гай"
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618271+00:00"
+      "updated_at": "2026-08-08T13:02:48.164081+00:00"
     },
     "lato-w-mie-cie-warsztaty-tworzenia-lasu-w-s-oiku-2026-08-13T17:00:00+02:00": {
       "title": "Lato w mieście: Warsztaty tworzenia lasu w słoiku",
@@ -301,12 +301,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-warsztaty-tworzenia-lasu-w-sloiku",
       "source": "muzeumkrakowa.pl",
       "age_hint": "6-10",
-      "age_range": [
-        6,
-        10
-      ],
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-warsztaty-tworzenia-lasu-w-sloiku",
-      "scrapped_timestamp": "2026-08-08T12:52:14.320912+00:00",
+      "scrapped_timestamp": "2026-08-08T13:00:31.721768+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -326,7 +326,7 @@
         "is_free": false
       },
       "district": "Bronowice",
-      "updated_at": "2026-08-08T12:54:11.618307+00:00"
+      "updated_at": "2026-08-08T13:02:48.164109+00:00"
     },
     "lato-w-mie-cie-m-j-przyjaciel-zwierz-2026-08-18T12:00:00+02:00": {
       "title": "Lato w mieście: Mój przyjaciel zwierz",
@@ -342,12 +342,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-moj-przyjaciel-zwierz",
       "source": "muzeumkrakowa.pl",
       "age_hint": "10-13",
-      "age_range": [
-        10,
-        13
-      ],
+      "age_range": {
+        "min": 10,
+        "max": 13
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-moj-przyjaciel-zwierz",
-      "scrapped_timestamp": "2026-08-08T12:52:20.491808+00:00",
+      "scrapped_timestamp": "2026-08-08T13:00:38.968486+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -356,18 +356,18 @@
         },
         "en": {
           "title": "Summer in the City: My Animal Friend",
-          "description": "Animals have always accompanied humans. They were their friends, helped with work, and their meat and skins were an important part of the diet and industry. They were also present in forts. They worked in the military, inhabited the surrounding areas, and still constitute a permanent element of the fort landscape today. During the activities, participants will learn about the animals that lived and still live in Fort Jugowice, and then they will be able to sew their own animal companion using felt and embroidery thread. Note – the workshop is scheduled for 3 hours. Note – the workshop is scheduled for 3 hours. Conducted by: Anna Skokan, Anna Stankowiak. Important information: Target group: Workshops for families with children aged 10–13 years. Ticket price: 20 PLN per child (one guardian free of charge, second and subsequent – 20 PLN per person)."
+          "description": "Animals have always accompanied humans. They were their friends, helped with work, and their meat and skins were an important part of the diet and industry. They were also present in forts. They worked in the military, inhabited the surrounding areas, and still constitute a permanent element of the fort landscape today. During the activities, participants will learn about the animals that lived and still live in Fort Jugowice, and then they will be able to sew their own animal companion using felt and embroidery thread. Note – the workshop is scheduled for 3 hours. Note – the workshop is scheduled for 3 hours. Conducted by: Anna Skokan, Anna Stankowiak. Important information: Target group: Workshops for families with children aged 10–13 years. Ticket price: 20 PLN per child (one guardian free entry, second and subsequent – 20 PLN per person)."
         },
         "uk": {
           "title": "Літо в місті: Мій друг звір",
-          "description": "Тварини завжди супроводжували людей. Вони були їхніми друзями, допомагали в роботі, а їхнє м'ясо та шкіри становили важливий елемент дієти та промисловості. Вони також були присутніми в фортах. Працювали в армії, мешкали на навколишніх територіях і до сьогодні є постійним елементом фортифікаційного ландшафту. Під час занять учасники дізнаються, які тварини мешкали і досі мешкають у Фортеці Юговіце, а потім зможуть зшити свого власного звірячого компаньйона, використовуючи фетр і муліну. Увага – майстер-класи заплановані на 3 години. Увага – майстер-класи заплановані на 3 години. Ведучі: Анна Сокан, Анна Станковяк Найважливіша інформація Група отримувачів: Майстер-класи для сімей з дітьми віком 10–13 років Квиток в ціні: 20 зл з дитини (один опікун вхід безкоштовний, другий і наступні – 20 зл з особи)."
+          "description": "Тварини завжди супроводжували людей. Вони були їхніми друзями, допомагали в роботі, а їхнє м'ясо та шкіри становили важливий елемент дієти та промисловості. Вони також були присутніми в фортах. Працювали в армії, мешкали на навколишніх територіях і до сьогодні є постійним елементом фортифікаційного ландшафту. Під час занять учасники дізнаються, які тварини мешкали і досі мешкають у Форті Юговіце, а потім зможуть зшити свого власного звірячого компаньйона, використовуючи фетр і муліну. Увага – майстер-класи заплановані на 3 години. Увага – майстер-класи заплановані на 3 години. Ведучі: Анна Сокан, Анна Станковяк Найважливіша інформація Група отримувачів: Майстер-класи для сімей з дітьми віком 10–13 років Квиток в ціні: 20 зл з дитини (один опікун безкоштовно, другий і наступні – 20 зл з особи)."
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618338+00:00"
+      "updated_at": "2026-08-08T13:02:48.164134+00:00"
     },
     "lato-w-mie-cie-notatnik-pe-en-wspomnie-2026-08-19T12:00:00+02:00": {
       "title": "Lato w mieście: Notatnik pełen wspomnień",
@@ -383,12 +383,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-notatnik-pelen-wspomnien",
       "source": "muzeumkrakowa.pl",
       "age_hint": "10-13",
-      "age_range": [
-        10,
-        13
-      ],
+      "age_range": {
+        "min": 10,
+        "max": 13
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-notatnik-pelen-wspomnien",
-      "scrapped_timestamp": "2026-08-08T12:52:27.188722+00:00",
+      "scrapped_timestamp": "2026-08-08T13:00:46.115950+00:00",
       "category": "Arts",
       "translations": {
         "pl": {
@@ -397,18 +397,18 @@
         },
         "en": {
           "title": "Summer in the City: A Notebook Full of Memories",
-          "description": "During the art workshops, participants will create their own unique notebook or album. They will use a variety of decorative materials, such as colored papers, newspapers, ribbons, and other materials to create one-of-a-kind compositions according to their own ideas. The activities will be an opportunity to develop creativity, manual skills, and express themselves through creative play. The handmade notebook or album can become a place for memories, drawings, and important notes. Note - the workshops are scheduled for 3 hours. Note - the workshops are scheduled for 3 hours. Conducted by: Anna Skokan, Anna Stankowiak. Important information: Target group: Art workshops for families with children aged 10-13 years. Ticket price: 20 PLN per child (one guardian free entry, second and additional guardians pay)."
+          "description": "During the art workshops, participants will create their own unique notebook or album. They will use a variety of decorative materials, such as colored papers, newspapers, ribbons, and other materials to create unique compositions according to their own ideas. The activities will be an opportunity to develop creativity, manual skills, and express themselves through creative play. The handmade notebook or album can become a place for memories, drawings, and important notes. Note - the workshops are scheduled for 3 hours. Note - the workshops are scheduled for 3 hours. Led by: Anna Skokan, Anna Stankowiak. Important information: Target group: Art workshops for families with children aged 10-13 years. Ticket price: 20 PLN per child (one guardian free entry, second and additional guardians pay)."
         },
         "uk": {
           "title": "Літо в місті: Щоденник, наповнений спогадами",
-          "description": "Під час художніх майстерень учасники створять власний, унікальний щоденник або альбом. У роботі вони використають різноманітні декоративні матеріали, такі як кольоровий папір, газети, стрічки та інші матеріали, створюючи неповторні композиції за власним задумом. Заняття стануть нагодою для розвитку креативності, ручних навичок та вираження себе через творчу гру. Власноруч виготовлений щоденник або альбом може стати місцем для спогадів, малюнків та важливих записів. Увага – майстерні заплановані на 3 години. Увага – майстерні заплановані на 3 години. Ведучі: Анна Скохан, Анна Станковяк Найважливіша інформація Група отримувачів: Художні майстерні для сімей з дітьми віком 10–13 років Квиток в ціні: 20 зл з дитини (один опікун вхід безкоштовний, другий і наступні)"
+          "description": "Під час художніх майстерень учасники створять власний, унікальний щоденник або альбом. У роботі вони використають різноманітні декоративні матеріали, такі як кольоровий папір, газети, стрічки та інші матеріали, створюючи неповторні композиції за власним задумом. Заняття стануть нагодою для розвитку креативності, ручних навичок та вираження себе через творчу гру. Власноруч виготовлений щоденник або альбом може стати місцем для спогадів, малюнків та важливих записів. Увага – майстерні заплановані на 3 години. Увага – майстерні заплановані на 3 години. Ведучі: Анна Скокан, Анна Станковяк. Найважливіша інформація: Група отримувачів: Художні майстерні для сімей з дітьми віком 10–13 років. Квиток в ціні: 20 зл з дитини (один опікун безкоштовно, другий і наступні)"
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618369+00:00"
+      "updated_at": "2026-08-08T13:02:48.164159+00:00"
     },
     "lato-w-mie-cie-opowie-ci-zapisane-w-kamieniu-spacer-po-nowym-cmentarzu-2026-08-21T10:00:00+02:00": {
       "title": "Lato w mieście: Opowieści zapisane w kamieniu – spacer po Nowym Cmentarzu",
@@ -424,12 +424,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-opowiesci-zapisane-w-kamieniu-spacer-po-nowym-cmentarzu-1",
       "source": "muzeumkrakowa.pl",
       "age_hint": "13-16",
-      "age_range": [
-        13,
-        16
-      ],
+      "age_range": {
+        "min": 13,
+        "max": 16
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-opowiesci-zapisane-w-kamieniu-spacer-po-nowym-cmentarzu-1",
-      "scrapped_timestamp": "2026-08-08T12:52:33.545701+00:00",
+      "scrapped_timestamp": "2026-08-08T13:00:52.271834+00:00",
       "category": "Educational",
       "translations": {
         "pl": {
@@ -437,7 +437,7 @@
           "description": "Zapraszamy na spacer edukacyjny po Nowym Cmentarzu Żydowskim w Krakowie, podczas którego uczestnicy poznają symbolikę macew oraz zasady organizacji pochówków w tradycji żydowskiej. W trakcie spotkania przyjrzymy się najczęściej występującym symbolom nagrobnym, ich znaczeniom oraz sposobom upamiętniania zmarłych. Spacer będzie także okazją do rozmowy o strukturze cmentarza, religijnych zasadach pochówku oraz historii krakowskiej społeczności żydowskiej. To spotkanie dla wszystkich zainteresowanych historią, kulturą i materialnymi śladami pamięci. Prowadzenie: Karolina Ożóg Najważniejsze informacje Miejsce zbiórki: Stara Synagoga, ul. Szeroka 24 Grupa odbiorców: Spacer dla młodzieży w wieku 13–16 lat Bilet w cenie: 20 zł od dziecka (jeden opiekun wstęp bezpłatny, drugi i kolejny – 20 zł od osoby). Kupując bilet online dla dziecka należy obowiązkowo pobrać także bilet kontrolny dla opiekuna. Sprzedaż biletów online przez stronę https://bilety.mhk.pl/rezerwacja/lokalizacja.html"
         },
         "en": {
-          "title": "Summer in the City: Stories Written in Stone – Walk through the New Cemetery",
+          "title": "Summer in the City: Stories Written in Stone – A Walk Through the New Cemetery",
           "description": "We invite you to an educational walk through the New Jewish Cemetery in Krakow, during which participants will learn about the symbolism of tombstones and the principles of burial organization in Jewish tradition. During the meeting, we will examine the most commonly occurring gravestone symbols, their meanings, and ways of commemorating the deceased. The walk will also be an opportunity to discuss the structure of the cemetery, religious burial principles, and the history of the Jewish community in Krakow. This meeting is for anyone interested in history, culture, and material traces of memory. Led by: Karolina Ożóg Important information Meeting point: Old Synagogue, ul. Szeroka 24 Target group: Walk for youth aged 13–16 years Ticket price: 20 PLN per child (one guardian free of charge, second and subsequent – 20 PLN each)"
         },
         "uk": {
@@ -450,7 +450,7 @@
         "ticket_url": "https://bilety.mhk.pl/rezerwacja/lokalizacja.html"
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618404+00:00"
+      "updated_at": "2026-08-08T13:02:48.164210+00:00"
     },
     "lato-w-mie-cie-pejza-krakowa-d-wi-kiem-i-kolorem-malowany-2026-08-21T12:00:00+02:00": {
       "title": "Lato w mieście: Pejzaż Krakowa dźwiękiem i kolorem malowany",
@@ -466,12 +466,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-pejzaz-krakowa-dzwiekiem-i-kolorem-malowany",
       "source": "muzeumkrakowa.pl",
       "age_hint": "6-10",
-      "age_range": [
-        6,
-        10
-      ],
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-pejzaz-krakowa-dzwiekiem-i-kolorem-malowany",
-      "scrapped_timestamp": "2026-08-08T12:52:40.182464+00:00",
+      "scrapped_timestamp": "2026-08-08T13:00:59.279937+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -480,18 +480,18 @@
         },
         "en": {
           "title": "Summer in the City: The Landscape of Krakow Painted with Sound and Color",
-          "description": "During the sessions, we will learn what a soundscape is. We will check what sounds accompanied the residents of our city over 100 years ago and consider which of them we can still hear today. In the workshop part, we will unleash our imagination and translate sounds into the language of painting. What color and shapes can the ringing of the Zygmunt bell, the melody of the Hejnał Mariacki, or the street noise have? Led by: Katarzyna Kucharska. Important information: Target audience: Art workshops for families with children aged 6–10 years. Ticket price: 20 PLN per child (one guardian free of charge, second and subsequent – 20 PLN per person). When purchasing an online ticket for a child, it is mandatory to also download a control ticket for the guardian. Online ticket sales."
+          "description": "During the sessions, we will learn what a soundscape is. We will check what sounds accompanied the residents of our city over 100 years ago and consider which of them we can still hear today. In the workshop part, we will unleash our imagination and translate sounds into the language of painting. What colors and shapes can the ringing of the Zygmunt bell, the melody of the Hejnał Mariacki, or the street noise have? Led by: Katarzyna Kucharska. Important information: Target audience: Art workshops for families with children aged 6–10 years. Ticket price: 20 PLN per child (one guardian free of charge, second and subsequent – 20 PLN per person). When purchasing an online ticket for a child, it is mandatory to also download a control ticket for the guardian. Online ticket sales."
         },
         "uk": {
           "title": "Літо в місті: Пейзаж Кракова, написаний звуком і кольором",
-          "description": "Під час занять ми дізнаємося, що таке звуковий пейзаж. Перевіримо, які звуки супроводжували мешканців нашого міста понад 100 років тому, а також подумаємо, які з них ми можемо почути й досі. У частині майстер-класу ми запустимо нашу уяву і переведемо звуки на мовлення живопису. Який колір і форми може мати биття дзвону Зигмунта, мелодія гімну Маріацького чи вуличний гамір? Ведуча: Катажина Кухарська Найважливіша інформація Група отримувачів: Художні майстер-класи для сімей з дітьми віком 6–10 років Квиток в ціні: 20 зл з дитини (один опікун безкоштовно, другий і наступні – 20 зл з особи). Купуючи квиток онлайн для дитини, обов'язково потрібно також завантажити контрольний квиток для опікуна. Продаж квитків онлайн"
+          "description": "Під час занять ми дізнаємося, що таке звуковий пейзаж. Перевіримо, які звуки супроводжували мешканців нашого міста понад 100 років тому, а також подумаємо, які з них ми можемо почути й досі. У частині майстер-класу ми запустимо нашу уяву і переведемо звуки на мовлення живопису. Який колір і форми може мати биття дзвону Зигмунта, мелодія гімну Маріацького чи вуличний гамір? Ведуча: Катажина Кухарська. Найважливіша інформація: Група отримувачів: Художні майстер-класи для сімей з дітьми віком 6–10 років. Квиток в ціні: 20 зл з дитини (один опікун безкоштовно, другий і наступні – 20 зл з особи). Купуючи квиток онлайн для дитини, обов'язково потрібно також завантажити контрольний квиток для опікуна. Продаж квитків онлайн."
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618439+00:00"
+      "updated_at": "2026-08-08T13:02:48.164369+00:00"
     },
     "lato-w-mie-cie-wakacyjna-podr-w-czasie-2026-08-24T12:00:00+02:00": {
       "title": "Lato w mieście: Wakacyjna podróż w czasie",
@@ -507,12 +507,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-wakacyjna-podroz-w-czasie-1",
       "source": "muzeumkrakowa.pl",
       "age_hint": "7-12",
-      "age_range": [
-        7,
-        12
-      ],
+      "age_range": {
+        "min": 7,
+        "max": 12
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-wakacyjna-podroz-w-czasie-1",
-      "scrapped_timestamp": "2026-08-08T12:52:47.281925+00:00",
+      "scrapped_timestamp": "2026-08-08T13:01:07.107343+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -521,11 +521,11 @@
         },
         "en": {
           "title": "Summer in the City: A Vacation Journey Through Time",
-          "description": "During the sessions, we will learn how the residents of old Krakow spent their leisure time after the carnival. We will talk about popular travel destinations of the time and the souvenirs brought back from them. We will check where in Krakow one could go for a recreational walk, what sports activities were the most popular, and where they were practiced. We will also take a look into a picnic basket, where we will find items that enhance the time spent outdoors. This will be an opportunity to encounter monuments from the era! In the workshop part, participants will decorate canvas bags with summer motifs. During the sessions held in the educational room, we will also utilize historical artifacts. Led by: Dr. Iwona Kawalla-Lulewicz, Katarzyna Kucharska. Important information: Target audience: Art workshops."
+          "description": "During the sessions, we will learn how the residents of former Krakow spent their leisure time after the carnival. We will talk about popular travel destinations of the time and the souvenirs brought back from them. We will check where in Krakow one could go for a recreational walk, what sports activities were the most popular, and where they were practiced. We will also take a look into the picnic basket, where we will find items that enhance the time spent outdoors. This will be an opportunity to encounter monuments from the era! In the workshop part, participants will decorate canvas bags with summer motifs. During the sessions held in the educational room, we will also utilize historical artifacts. Led by: Dr. Iwona Kawalla-Lulewicz, Katarzyna Kucharska. Important information: Target audience: Art workshops."
         },
         "uk": {
           "title": "Літо в місті: Канікулярна подорож у часі",
-          "description": "Під час занять ми дізнаємося, як мешканці давнього Кракова проводили вільний час у період після карнавалу. Розповімо про популярні на той час напрямки подорожей та сувеніри, які звідти привозили. Перевіримо, куди в Кракові можна було вирушити на рекреаційну прогулянку, які спортивні активності були найпопулярнішими та де їх практикували. Заглянемо також до кошика для пікніка, в якому знайдемо предмети, що роблять час, проведений на свіжому повітрі, приємнішим. Це буде нагода зустрітися з пам'ятками епохи! У частині майстер-класу учасники будуть прикрашати полотняні сумки літніми мотивами. Під час занять, що проводяться в навчальному залі, ми також будемо використовувати пам'ятки. Ведучі: д-р Івона Кавалла-Лулевич, Катажина Кухарська. Найважливіша інформація: Група отримувачів: Пластичні майстер-класи."
+          "description": "Під час занять ми дізнаємося, як мешканці давнього Кракова проводили вільний час у період після карнавалу. Розповімо про популярні на той час напрямки подорожей та сувеніри, які звідти привозили. Перевіримо, куди в Кракові можна було вирушити на рекреаційну прогулянку, які спортивні активності були найпопулярнішими та де їх практикували. Заглянемо також до кошика для пікніка, в якому знайдемо предмети, що роблять час, проведений на свіжому повітрі, приємнішим. Це буде нагода зустрітися з пам'ятками епохи! У частині майстер-класу учасники будуть прикрашати полотняні сумки канікулярними мотивами. Під час занять, що проводяться в навчальному залі, ми також будемо використовувати пам'ятки. Ведучі: д-р Івона Кавалла-Лулевич, Катажина Кухарська. Найважливіша інформація: Група отримувачів: Художні майстер-класи."
         }
       },
       "admission": {
@@ -533,7 +533,7 @@
         "ticket_url": "https://bilety.mhk.pl/rezerwacja/lokalizacja.html"
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618469+00:00"
+      "updated_at": "2026-08-08T13:02:48.164456+00:00"
     },
     "lato-w-mie-cie-gdy-na-morzu-wiatru-brak-czyli-co-ciekawego-mo-na-zrobi-z-okr-towej-liny-2026-08-25T12:00:00+02:00": {
       "title": "Lato w mieście: Gdy na morzu wiatru brak, czyli co ciekawego można zrobić z okrętowej liny",
@@ -549,12 +549,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-gdy-na-morzu-wiatru-brak-czyli-co-ciekawego-mozna-zrobic-z-okretowej-liny",
       "source": "muzeumkrakowa.pl",
       "age_hint": "10-13",
-      "age_range": [
-        10,
-        13
-      ],
+      "age_range": {
+        "min": 10,
+        "max": 13
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-gdy-na-morzu-wiatru-brak-czyli-co-ciekawego-mozna-zrobic-z-okretowej-liny",
-      "scrapped_timestamp": "2026-08-08T12:52:53.268285+00:00",
+      "scrapped_timestamp": "2026-08-08T13:01:14.194137+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -562,19 +562,19 @@
           "description": "Gdy na rejsie flauta, płynąć się nie da. A gdy internetu też nie ma (a na morzu o internet trudno), trzeba znaleźć sobie inne zajęcie. Na szczęście jest jedna rzecz, której na każdym statku zawsze jest pod dostatkiem, czyli liny i sznurki każdego kształtu i rodzaju. Z lin natomiast, przy dobrej znajomości węzłów, wiele da się zrobić. Dywaniki, gałki, bransoletki… do wyboru, do koloru. W trakcie zajęć również rozwiniemy naszą kreatywność i spróbujemy naszych sił w rękodziele rodem z dalekich oceanów. Uczestnicy, stosując różne typy węzłów, będą mogli wykonać własne breloczki, bransoletki, lub inne drobne przedmioty, które im się zamarzą. Uwaga – warsztaty przewidziane na 3 godziny. Prowadzenie: Anna Skokan, Anna Stankowiak Najważniejsze informacje Grupa odbiorców: Warsztaty dla rodzin z dziećmi w wieku 10–13 lat Bilet w cenie: 20 zł od dziecka (jeden opiekun wstęp bezpłatny, drugi i kolejny – 20 zł od osoby). Kupując bilet online dla dziecka należy obowiązkowo pobrać także bilet kontrolny dla opiekuna. Sprzedaż biletów online"
         },
         "en": {
-          "title": "Summer in the City: When There Is No Wind at Sea, or What Interesting Things You Can Do with Ship Rope",
-          "description": "When there is a calm during a cruise, you can't sail. And when there is no internet either (which is hard to find at sea), you need to find something else to do. Fortunately, there is one thing that is always in abundance on every ship: ropes and strings of every shape and kind. With a good knowledge of knots, you can do a lot with ropes. Mats, knobs, bracelets... a variety of choices. During the activities, we will also develop our creativity and try our hand at crafts from distant oceans. Participants will be able to create their own keychains, bracelets, or other small items they dream of using different types of knots. Note - the workshop is scheduled for 3 hours. Led by: Anna Skokan, Anna Stankowiak. Important information: Target audience: Workshops for families with children."
+          "title": "Summer in the City: When There's No Wind at Sea, or What Interesting Things You Can Do with Ship Rope",
+          "description": "When there's a calm at sea, you can't sail. And when there's no internet either (which is hard to find at sea), you have to find something else to do. Fortunately, there is one thing that is always in abundance on every ship: ropes and strings of every shape and kind. With a good knowledge of knots, you can do a lot with ropes. Mats, knobs, bracelets... a variety of choices. During the activities, we will also develop our creativity and try our hand at crafts from distant oceans. Participants will be able to create their own keychains, bracelets, or other small items they dream of using different types of knots. Note - the workshop is scheduled for 3 hours. Conducted by: Anna Skokan, Anna Stankowiak. Important information: Target audience: Workshops for families with children."
         },
         "uk": {
           "title": "Літо в місті: Коли на морі немає вітру, або що цікавого можна зробити з корабельного каната",
-          "description": "Коли на рейсі флаут, плисти не можна. А коли ще й інтернету немає (а на морі з інтернетом важко), потрібно знайти собі інше заняття. На щастя, є одна річ, якої на кожному кораблі завжди вдосталь, а саме канати та шнурки різних форм і видів. З канатів, при доброму знанні вузлів, можна зробити багато чого. Килимки, кулі, браслети… на вибір, на колір. Під час занять також розвинемо нашу креативність і спробуємо свої сили в рукоділлі з далеких океанів. Учасники, використовуючи різні типи вузлів, зможуть виготовити власні брелоки, браслети або інші дрібні предмети, які їм забажаються. Увага – майстер-клас запланований на 3 години. Ведучі: Анна Сокан, Анна Станковяк Найважливіша інформація Група отримувачів: Майстер-клас для сімей з дітьми"
+          "description": "Коли на рейсі флаут, плисти не можна. А коли ще й інтернету немає (а на морі з інтернетом важко), потрібно знайти собі інше заняття. На щастя, є одна річ, якої на кожному кораблі завжди вдосталь, а саме - канати та шнурки різних форм і видів. З канатів, при доброму знанні вузлів, можна зробити багато чого. Килимки, кулі, браслети… на вибір, на колір. Під час занять також розвинемо нашу креативність і спробуємо свої сили в рукоділлі з далеких океанів. Учасники, використовуючи різні типи вузлів, зможуть виготовити власні брелоки, браслети або інші дрібні предмети, які їм забажаються. Увага – майстер-клас запланований на 3 години. Ведучі: Анна Сокан, Анна Станковяк Найважливіша інформація Група отримувачів: Майстер-клас для сімей з дітьми"
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618508+00:00"
+      "updated_at": "2026-08-08T13:02:48.164502+00:00"
     },
     "lato-w-mie-cie-magiczna-zak-adka-2026-08-26T12:00:00+02:00": {
       "title": "Lato w mieście: Magiczna zakładka",
@@ -590,13 +590,13 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-magiczna-zakladka",
       "source": "muzeumkrakowa.pl",
       "age_hint": "10-13",
-      "age_range": [
-        10,
-        13
-      ],
+      "age_range": {
+        "min": 10,
+        "max": 13
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-magiczna-zakladka",
-      "scrapped_timestamp": "2026-08-08T12:52:59.616069+00:00",
-      "category": "Workshops",
+      "scrapped_timestamp": "2026-08-08T13:01:21.235092+00:00",
+      "category": "Arts",
       "translations": {
         "pl": {
           "title": "Lato w mieście: Magiczna zakładka",
@@ -615,7 +615,7 @@
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618535+00:00"
+      "updated_at": "2026-08-08T13:02:48.164532+00:00"
     },
     "lato-w-mie-cie-stawka-wi-ksza-ni-ycie-czyli-straty-wojenne-krakowa-2026-08-26T14:00:00+02:00": {
       "title": "Lato w mieście: \"Stawka większa niż życie\", czyli straty wojenne Krakowa",
@@ -633,7 +633,7 @@
       "age_hint": null,
       "age_range": null,
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-stawka-wieksza-niz-zycie-czyli-straty-wojenne-krakowa-1",
-      "scrapped_timestamp": "2026-08-08T12:53:05.618469+00:00",
+      "scrapped_timestamp": "2026-08-08T13:01:27.968508+00:00",
       "category": "Educational",
       "translations": {
         "pl": {
@@ -645,15 +645,15 @@
           "description": "The walk will guide participants through selected traces of places associated with the German occupation of Krakow from 1939 to 1945. The route will lead along tenement houses that hide dramatic stories of their residents – soldiers of the Home Army, scouts of the Gray Ranks, members of the Council for Aid to Jews 'Żegota', clergy, and scientists. At ten stops, participants will learn about specific biographies and events related to the heroes of the story: arrests, underground activities, and examples of help to Jews. During the walk, we will discover that the city suffered losses both in material and human terms. The walking route will take us along the streets: Pomorska, Sienkiewicza, Siemiradzkiego, Łobzowska, Sobieskiego, and Dunajewskiego. Led by: Tomasz Stachów. Important information: Meeting place: Pomorska Street."
         },
         "uk": {
-          "title": "Літо в місті: \"Ставка більша ніж життя\", або військові втрати Кракова",
-          "description": "Прогулянка проведе учасників обраними слідами місць, пов'язаних з німецькою окупацією Кракова в роках 1939–1945. Маршрут пройде вздовж будинків, які приховують драматичні історії їхніх мешканців – солдатів Армії Крайової, скаутів Сірого Шляху, членів Ради Допомоги Євреям \"Жегота\", священників та науковців. На десяти зупинках учасники дізнаються про конкретні біографії та події, пов'язані з героями оповіді: арешти, діяльність у підпіллі чи приклади допомоги євреям. Під час прогулянки ми виявимо, що місто зазнало втрат як у матеріальному, так і в людському вимірі. Маршрут прогулянки пройде вулицями: Поморською, Сєнкевича, Сємірадіцького, Лобзовською, Собеського та Дунаєвського. Ведучий: Томаш Стахів Найважливіша інформація Місце збору: Вулиця Поморська, ул. П"
+          "title": "Літо в місті: \"Ставка більша ніж життя\", або війна та втрати Кракова",
+          "description": "Прогулянка проведе учасників обраними слідами місць, пов'язаних з німецькою окупацією Кракова в роках 1939–1945. Маршрут пройде вздовж будинків, які приховують драматичні історії їхніх мешканців – солдатів Армії Крайової, скаутів Сірого Шляху, членів Ради Допомоги Євреям «Жегота», священників та науковців. На десяти зупинках учасники дізнаються про конкретні біографії та події, пов'язані з героями оповіді: арешти, діяльність у підпіллі чи приклади допомоги євреям. Під час прогулянки ми виявимо, що місто зазнало втрат як у матеріальному, так і в людському вимірі. Маршрут прогулянки пройде вулицями: Поморською, Сєнкевича, Сємірадіцького, Лобзовською, Собеського та Дунаєвського. Ведучий: Томаш Стахів Найважливіша інформація Місце збору: Вулиця Поморська, вул. П"
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Krowodrza",
-      "updated_at": "2026-08-08T12:54:11.618570+00:00"
+      "updated_at": "2026-08-08T13:02:48.165195+00:00"
     },
     "lato-w-mie-cie-warsztaty-ceramiczne-2026-08-29T11:00:00+02:00": {
       "title": "Lato w mieście: Warsztaty ceramiczne",
@@ -669,12 +669,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-warsztaty-ceramiczne",
       "source": "muzeumkrakowa.pl",
       "age_hint": "6-10",
-      "age_range": [
-        6,
-        10
-      ],
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/lato-w-miescie-warsztaty-ceramiczne",
-      "scrapped_timestamp": "2026-08-08T12:53:12.670137+00:00",
+      "scrapped_timestamp": "2026-08-08T13:01:34.834054+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -683,7 +683,7 @@
         },
         "en": {
           "title": "Summer in the City: Ceramic Workshops",
-          "description": "The classes will introduce you to the world of working with clay – from hand forming to the basics of decoration. You will create your own vessels or small ceramic forms, allowing you to thoroughly understand the process of their creation. You will be able to pick up your works from us approximately two weeks later, due to the firing and glazing process. For younger children, parental assistance will be necessary during the work. Led by: Małgorzata Knorr – Chlastu Plastu. The program will be conducted in person – at the Rydlówka branch, ul. Włodzimierza Tetmajera 28. The duration of the workshops is between 1.5 to 2 hours. The entire program is available along with the Summer in the City program on the website: https://muzeumkrakowa.pl/. Participation in events organized as part of the Bronowice as Painted program is subject to a fee."
+          "description": "The classes will introduce you to the world of working with clay – from hand shaping to the basics of decoration. You will create your own vessels or small ceramic forms, allowing you to thoroughly understand the process of their creation. You will be able to pick up your works – due to the firing and glazing process – approximately two weeks later. For younger children, parental assistance will be necessary during the work. Led by: Małgorzata Knorr – Chlastu Plastu. The program will be conducted in person – at the Rydlówka branch, ul. Włodzimierza Tetmajera 28. The duration of the workshops is between 1.5 to 2 hours. The entire program is available along with the Summer in the City program on the website: https://muzeumkrakowa.pl/. Participation in events organized as part of the Bronowice as Painted program is subject to a fee."
         },
         "uk": {
           "title": "Літо в місті: Керамічні майстер-класи",
@@ -694,7 +694,7 @@
         "is_free": false
       },
       "district": "Bronowice",
-      "updated_at": "2026-08-08T12:54:11.618597+00:00"
+      "updated_at": "2026-08-08T13:02:48.165258+00:00"
     },
     "uszyj-swoj-przytulank-warsztaty-familijne-2026-08-30T15:30:00+02:00": {
       "title": "Uszyj swoją Przytulankę! - warsztaty familijne",
@@ -712,7 +712,7 @@
       "age_hint": null,
       "age_range": null,
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/uszyj-swoja-przytulanke-warsztaty-familijne",
-      "scrapped_timestamp": "2026-08-08T12:53:19.523420+00:00",
+      "scrapped_timestamp": "2026-08-08T13:01:42.880694+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -720,19 +720,19 @@
           "description": "Dla kogo: Najmłodsi wraz z opiekunami Zapraszamy na wyjątkowe warsztaty familijne, organizowane z okazji zakończenia wystawy „Wojenne dzieci”. Wspólnie stworzymy niepowtarzalne, własnoręcznie robione maskotki. Gotową przytulankę możecie zabrać ze sobą do domu jako pamiątkę. Jeśli jednak zechcecie podzielić się nimi, będzie możliwość przekazania jej w prezencie dzieciom, które nie mają własnych zabawek. Chętnie dostarczymy Wasze dzieła w odpowiedzialne, dobre ręce! Co ze sobą zabrać? Wszystkie materiały zapewniamy na miejscu. Przynieście jedynie zapał do tworzenia i świetny nastrój! Do zobaczenia w Muzeum! Prowadzenie : kuratorka wystawy Wojenne dzieci – Beata Łabno Konserwatorka Muzeum Krakowa – Alicja Dobosz Najważniejsze informacje Limit : 20 osób Wstęp bezpłatny Rezerwacja : Centrum Obsługi Zwiedzających, Rynek Główny 35, tel. (12) 426 50 60, e-mail: info@muzeumkrakowa.pl"
         },
         "en": {
-          "title": "Sew Your Own Cuddly Toy! - Family Workshop",
-          "description": "For whom: The youngest with their guardians. We invite you to a unique family workshop organized to celebrate the end of the exhibition 'War Children'. Together, we will create unique, handmade plush toys. You can take your finished cuddly toy home as a keepsake. However, if you wish to share them, there will be an opportunity to donate them as gifts to children who do not have their own toys. We will gladly deliver your creations to responsible, caring hands! What to bring? All materials will be provided on-site. Just bring your enthusiasm for creating and a great mood! See you at the Museum! Led by: the curator of the 'War Children' exhibition – Beata Łabno, Conservator of the Krakow Museum – Alicja Dobosz. Important information: Limit: 20 people, Free admission, Reservation: Customer Service Center."
+          "title": "Sew Your Own Cuddle Toy! - Family Workshop",
+          "description": "For whom: The youngest ones along with their guardians. We invite you to a unique family workshop organized to celebrate the end of the exhibition 'War Children'. Together, we will create unique, handmade plush toys. You can take your finished cuddle toy home as a keepsake. However, if you wish to share them, there will be an opportunity to donate them as gifts to children who do not have their own toys. We will gladly deliver your creations to responsible, caring hands! What to bring? All materials will be provided on-site. Just bring your enthusiasm for creating and a great mood! See you at the Museum! Led by: the curator of the 'War Children' exhibition – Beata Łabno, Conservator of the Krakow Museum – Alicja Dobosz. Important information: Limit: 20 people, Free admission, Reservation: Customer Service Center."
         },
         "uk": {
           "title": "Сшей свою іграшку! - сімейні майстер-класи",
-          "description": "Для кого: Наймолодші разом з опікунами Запрошуємо на унікальні сімейні майстер-класи, організовані з нагоди закриття виставки «Військові діти». Разом ми створимо неповторні, власноруч зроблені іграшки. Готову іграшку ви можете забрати з собою додому як пам'ятку. Якщо ж ви захочете поділитися ними, буде можливість передати її в подарунок дітям, які не мають власних іграшок. Ми з радістю доставимо ваші витвори в відповідальні, добрі руки! Що взяти з собою? Усі матеріали ми надамо на місці. Принесіть лише запал до творчості та чудовий настрій! До зустрічі в музеї! Ведення: кураторка виставки Військові діти – Беата Лабно Консерватор Музею Кракова – Аліція Добош Найважливіша інформація Ліміт: 20 осіб Вхід безкоштовний Резервування: Центр Обслуговування"
+          "description": "Для кого: Наймолодші разом з опікунами Запрошуємо на унікальні сімейні майстер-класи, організовані з нагоди закриття виставки «Військові діти». Разом ми створимо неповторні, власноруч зроблені іграшки. Готову іграшку ви можете забрати з собою додому як пам'ятку. Якщо ж ви захочете поділитися ними, буде можливість передати її в подарунок дітям, які не мають власних іграшок. Ми з радістю доставимо ваші твори в відповідальні, добрі руки! Що взяти з собою? Усі матеріали ми надамо на місці. Принесіть лише запал до творчості та чудовий настрій! До зустрічі в музеї! Ведення: кураторка виставки Військові діти – Беата Лабно Консерваторка Музею Кракова – Аліція Добош Найважливіша інформація Ліміт: 20 осіб Вхід безкоштовний Резервування: Центр Обслуговування"
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Podgórze",
-      "updated_at": "2026-08-08T12:54:11.618635+00:00"
+      "updated_at": "2026-08-08T13:02:48.165295+00:00"
     },
     "gramofony-kontra-smartfony-2026-09-06T11:00:00+02:00": {
       "title": "Gramofony kontra smartfony",
@@ -750,7 +750,7 @@
       "age_hint": null,
       "age_range": null,
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/gramofony-kontra-smartfony",
-      "scrapped_timestamp": "2026-08-08T12:53:25.592399+00:00",
+      "scrapped_timestamp": "2026-08-08T13:01:52.651439+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -759,18 +759,18 @@
         },
         "en": {
           "title": "Turntables vs. Smartphones",
-          "description": "What is a turntable? How does a reel-to-reel tape recorder work? How do you insert a cassette into a Walkman? Have MP3 players truly become obsolete? What will we use to listen to music in 15 years? During the workshop, we will explore various devices that receive and play sound. We will learn about the progress in this area from the early decades of the People's Republic of Poland to the present day. We will also imagine what the most modern music listening devices will look like in the near future. We will hand-draw all devices – old, new, large, small, and those suggested by our imagination – on a sound timeline. The workshop is an accompanying event to the exhibition 'Kraków. Sounds, Melodies, Words.' Facilitator: Stanisław Benedyk. Important information: Meeting place: Hall of the Interpretation Center."
+          "description": "What is a turntable? How does a reel-to-reel tape recorder work? How do you insert a cassette into a Walkman? Have MP3 players truly become obsolete? What will we use to listen to music in 15 years? During the workshop, we will explore various devices that receive and play sound. We will learn about the progress in this area from the early decades of the Polish People's Republic to today. We will also imagine what the most modern music listening devices will look like in the near future. We will hand-draw all devices – old, new, large, small, and those suggested by our imagination – on a sound timeline. The workshop is an accompanying event to the exhibition 'Kraków. Sounds, Melodies, Words.' Facilitator: Stanisław Benedyk. Important information: Meeting place: Hall of the Interpretation Center."
         },
         "uk": {
           "title": "Грамофони проти смартфонів",
-          "description": "Що таке грамофон? Як працює магнітофон з котушками? Як вставити касету в вальман? Чи відпали MP3-плеєри назавжди? Чим ми будемо слухати музику через 15 років? Під час майстер-класу ми ознайомимося з різними пристроями, які приймають і відтворюють звук. Дізнаємося, як відбувався прогрес у цій сфері з перших десятиліть ПНР до сьогодні. Ми також уявимо, якими будуть найсучасніші пристрої для прослуховування музики в недалекому майбутньому. Усі пристрої – старі, нові, великі, малі та ті, які підказує нам уява – ми намалюємо власноруч на звуковій осі часу. Майстер-клас є супутньою подією виставки «Краків. Звуки, мелодії, слова». Ведучий: Станіслав Бенедикт Найважливіша інформація Місце збору: Хол Центру Інтерпретації Н"
+          "description": "Що таке грамофон? Як працює магнітофон з котушками? Як вставити касету в вальман? Чи відпали MP3-плеєри назавжди? Чим ми будемо користуватися для прослуховування музики через 15 років? Під час майстер-класу ми ознайомимося з різними пристроями, які приймають і відтворюють звук. Дізнаємося, як відбувався прогрес у цій сфері з перших десятиліть ПНР до сьогодні. Ми також уявимо, якими будуть найсучасніші пристрої для прослуховування музики в недалекому майбутньому. Усі пристрої – старі, нові, великі, малі та ті, які підказує нам уява – ми намалюємо власноруч на звуковій осі часу. Майстер-клас є супутньою подією виставки «Краків. Звуки, мелодії, слова». Ведучий: Станіслав Бенедикт. Найважливіша інформація: Місце збору: Хол Центру Інтерпретації Н."
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618660+00:00"
+      "updated_at": "2026-08-08T13:02:48.165325+00:00"
     },
     "opowiastki-o-rzemie-lnikach-2026-09-12T10:30:00+02:00": {
       "title": "Opowiastki o rzemieślnikach",
@@ -788,7 +788,7 @@
       "age_hint": null,
       "age_range": null,
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/opowiastki-o-rzemieslnikach-1",
-      "scrapped_timestamp": "2026-08-08T12:53:33.334929+00:00",
+      "scrapped_timestamp": "2026-08-08T13:02:01.166171+00:00",
       "category": "Educational",
       "translations": {
         "pl": {
@@ -797,11 +797,11 @@
         },
         "en": {
           "title": "Tales of Craftsmen",
-          "description": "Have you ever heard of craftsmen? We owe them a variety of objects. The carpenter could make wooden furniture, while the tailor was responsible for sewing clothes. We invite you to an exhibition at the Krzysztofory Palace, where we can learn about the stories of Krakow's craftsmen together. In addition to paintings and documents, we will also see lesser-known exhibits, such as a counter and a wolf. We will also discover some interesting facts about the lives of craftsmen, such as what a masterpiece was or what it means to 'serve an apprenticeship'. A mouse named Trudzia will assist us in family tours of the exhibition. A guardian's presence is required for children's activities. Led by: Anna Magiera (Museum of Krakow) Important information: First date: July 18 (Saturday), 10:30 AM Second date: September 12 (Saturday), 10:30 AM Meeting place: Hall of the Krzysztofory Palace"
+          "description": "Have you ever heard of craftsmen? We owe them a variety of objects. The carpenter could make wooden furniture, while the tailor was engaged in sewing clothes. We invite you to an exhibition at the Krzysztofory Palace, where we can learn about the stories of Krakow's craftsmen together. In addition to paintings and documents, we will also see lesser-known exhibits, such as a counter and a wolf. We will also learn some interesting facts about the lives of craftsmen, such as what a masterpiece was or what it means to 'serve an apprenticeship.' A mouse named Trudzia will assist us in family tours of the exhibition. A guardian's presence is required for children's activities. Conducted by: Anna Magiera (Museum of Krakow) Important information: First date: July 18 (Saturday), 10:30 AM Second date: September 12 (Saturday), 10:30 AM Meeting place: Hall of the Krzysztofory Palace"
         },
         "uk": {
           "title": "Історії про ремісників",
-          "description": "Чи колись ви чули про ремісників? Саме їм ми завдячуємо найрізноманітнішим предметам. Тесляр вмів робити дерев'яні меблі, а шиттям одягу займався кравець. Запрошуємо на виставку до Палацу Кшиштофори, щоб ми разом могли дізнатися історії краківських ремісників. Окрім картин і документів, ми також побачимо менш відомі експонати, наприклад, прилавок і вовка. Дізнаємося також кілька цікавих фактів з життя ремісників, наприклад, що таке майстерня або що означає «термінувати». У родинному відвідуванні виставки нам допоможе мишка Трудзя. На заняттях присутність опікуна дитини є обов'язковою. Ведуча: Анна Маджера (Музей Кракова) Найважливіша інформація Перший термін: 18 липня (субота), о 10:30 Другий термін: 12 вересня (субота), о 10:30 Місце збору: хол Палацу Кшиштофори"
+          "description": "Чи колись ви чули про ремісників? Саме їм ми завдячуємо найрізноманітнішим предметам. Столяр міг зробити дерев'яні меблі, а шиттям одягу займався кравець. Запрошуємо на виставку до Палацу Кшиштофора, щоб ми разом могли дізнатися історії краківських ремісників. Окрім картин і документів, ми також побачимо менш відомі експонати, наприклад, прилавок і вовка. Дізнаємося також кілька цікавих фактів з життя ремісників, наприклад, що таке майстерність або що означає «термінувати». У родинному відвідуванні виставки нам допоможе мишка Трудзя. На заняттях присутність опікуна дитини є обов'язковою. Ведуча: Анна Маджера (Музей Кракова) Найважливіша інформація Перший термін: 18 липня (субота), о 10:30 Другий термін: 12 вересня (субота), о 10:30 Місце збору: хол Палацу Кшиштофора"
         }
       },
       "admission": {
@@ -809,7 +809,7 @@
         "ticket_url": "https://bilety.mhk.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idl=39&idw=882"
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618685+00:00"
+      "updated_at": "2026-08-08T13:02:48.165354+00:00"
     },
     "d-wi-ki-krakowa-zakl-te-w-legendach-2026-09-13T11:00:00+02:00": {
       "title": "Dźwięki Krakowa zaklęte w legendach",
@@ -827,7 +827,7 @@
       "age_hint": null,
       "age_range": null,
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/dzwieki-krakowa-zaklete-w-legendach",
-      "scrapped_timestamp": "2026-08-08T12:53:39.781457+00:00",
+      "scrapped_timestamp": "2026-08-08T13:02:10.657721+00:00",
       "category": "Theater",
       "translations": {
         "pl": {
@@ -847,7 +847,7 @@
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618714+00:00"
+      "updated_at": "2026-08-08T13:02:48.165385+00:00"
     },
     "warsztaty-szopkarskie-dla-rodzin-z-dzie-mi-2026-09-20T11:00:00+02:00": {
       "title": "Warsztaty szopkarskie dla rodzin z dziećmi",
@@ -865,7 +865,7 @@
       "age_hint": null,
       "age_range": null,
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/warsztaty-szopkarskie-dla-rodzin-z-dziecmi",
-      "scrapped_timestamp": "2026-08-08T12:53:45.888857+00:00",
+      "scrapped_timestamp": "2026-08-08T13:02:17.290450+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -874,18 +874,18 @@
         },
         "en": {
           "title": "Nativity Scene Workshops for Families with Children",
-          "description": "We invite you to nativity scene workshops designed for families with children. During the sessions, participants will prepare nativity scenes under the guidance of the multiple award-winning nativity scene artist, Jakub Zawadziński. These creations will take part in the 84th Krakow Nativity Scene Competition and will be presented at the post-competition exhibition at the Krzysztofory Palace. We encourage families to sign up for joint work and fun – the workshops are free, and the Museum provides materials. The workshops are part of the grant \"Krakow Nativity Scene Accessible to All\" funded by the Ministry of Culture and National Heritage from the Folk and Traditional Culture Program. Instructor: Jakub Zawadziński. Important information: A series of three meetings: September 20, October 11, October 25. Duration: 90 minutes. Event location:"
+          "description": "We invite you to nativity scene workshops designed for families with children. During the sessions, participants will prepare nativity scenes under the guidance of the multiple award-winning nativity scene artist, Jakub Zawadziński. These creations will take part in the 84th Krakow Nativity Scene Competition and will be presented at the post-competition exhibition at the Krzysztofory Palace. We encourage families to sign up for joint work and fun – the workshops are free, and the Museum provides materials. The workshops are implemented as part of the grant \"Krakow Nativity Scene Accessible to All,\" funded by the Minister of Culture and National Heritage from the Folk and Traditional Culture Program. Instructor: Jakub Zawadziński. Important information: A series of three meetings: 20.09, 11.10, 25.10. Duration: 90 minutes. Event location."
         },
         "uk": {
           "title": "Майстер-класи з виготовлення шопок для сімей з дітьми",
-          "description": "Запрошуємо на майстер-класи з виготовлення шопок, призначені для сімей з дітьми. Під час занять учасники майстер-класу під наглядом багаторазово нагородженого шопкаря Якуба Завадзінського підготують шопки, які візьмуть участь у 84-му Конкурсі шопок Кракова і будуть представлені на виставці після конкурсу в Палаці Кшиштофори. Запрошуємо реєструватися всією родиною, для спільної роботи та розваги – майстер-класи безкоштовні, а музей забезпечує матеріали. Майстер-класи реалізуються в рамках гранту «Краківська шопка доступна для всіх», профінансованого з коштів Міністра культури та національної спадщини, що походять з програми «Народна культура та традиція». Особа, що проводить: Якуб Завадзінський. Найважливіша інформація: цикл трьох зустрічей: 20.09., 11.10., 25.10. Тривалість: 90 хвилин. Місце проведення події."
+          "description": "Запрошуємо на майстер-класи з виготовлення шопок, призначені для сімей з дітьми. Під час занять учасники майстер-класів під наглядом багаторазово нагородженого шопкаря Якуба Завадзінського підготують шопки, які візьмуть участь у 84-му Конкурсі шопок Кракова і будуть представлені на виставці після конкурсу в Палаці Кшиштофори. Запрошуємо реєструватися всією родиною, для спільної роботи та розваги – майстер-класи безкоштовні, а музей забезпечує матеріали. Майстер-класи реалізуються в рамках гранту «Краківська шопка доступна для всіх», профінансованого з коштів Міністра культури та національної спадщини, що походять з програми «Народна культура та традиція». Особа, що проводить: Якуб Завадзінський. Найважливіша інформація: цикл трьох зустрічей: 20.09., 11.10., 25.10. Час тривання: 90 хвилин. Місце проведення."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618744+00:00"
+      "updated_at": "2026-08-08T13:02:48.165415+00:00"
     },
     "warsztaty-szopkarskie-dla-rodzin-z-dzie-mi-2026-10-11T11:00:00+02:00": {
       "title": "Warsztaty szopkarskie dla rodzin z dziećmi",
@@ -903,7 +903,7 @@
       "age_hint": null,
       "age_range": null,
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/warsztaty-szopkarskie-dla-rodzin-z-dziecmi-1",
-      "scrapped_timestamp": "2026-08-08T12:53:52.514029+00:00",
+      "scrapped_timestamp": "2026-08-08T13:02:25.827116+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -912,18 +912,18 @@
         },
         "en": {
           "title": "Nativity Scene Workshops for Families with Children",
-          "description": "We invite you to nativity scene workshops designed for families with children. During the sessions, participants will prepare nativity scenes under the guidance of the multiple award-winning nativity scene artist, Jakub Zawadziński. These creations will take part in the 84th Krakow Nativity Scene Competition and will be presented at the post-competition exhibition at the Krzysztofory Palace. We encourage families to sign up for joint work and fun – the workshops are free, and the Museum provides materials. The workshops are implemented as part of the grant \"Krakow Nativity Scene Accessible to All,\" funded by the Minister of Culture and National Heritage from the Folk and Traditional Culture Program. Instructor: Jakub Zawadziński. Important information: A series of three meetings: September 20, October 11, October 25. Duration: 90 minutes. Event location."
+          "description": "We invite you to nativity scene workshops designed for families with children. During the sessions, participants will prepare nativity scenes under the guidance of the award-winning nativity scene artist, Jakub Zawadziński, which will take part in the 84th Krakow Nativity Scene Competition and will be presented at the post-competition exhibition at the Krzysztofory Palace. We encourage families to sign up for joint work and fun – the workshops are free, and the Museum provides materials. The workshops are implemented as part of the grant 'Krakow Nativity Scene Accessible to All' funded by the Ministry of Culture and National Heritage from the Folk and Traditional Culture Program. Instructor: Jakub Zawadziński. Important information: A series of three meetings: 20.09, 11.10, 25.10. Duration: 90 minutes. Event location."
         },
         "uk": {
           "title": "Майстер-класи з виготовлення шопок для сімей з дітьми",
-          "description": "Запрошуємо на майстер-класи з виготовлення шопок, призначені для сімей з дітьми. Під час занять учасники майстер-класів під наглядом багаторазово нагородженого шопкаря Якуба Завадзінського підготують шопки, які візьмуть участь у 84-му Конкурсі шопок Кракова і будуть представлені на виставці після конкурсу в Палаці Кшиштофори. Запрошуємо реєструватися всією родиною, для спільної роботи та розваги – майстер-класи безкоштовні, а музей забезпечує матеріали. Майстер-класи реалізуються в рамках гранту «Шопка краківська доступна для всіх», профінансованого з коштів Міністра культури та національної спадщини, що походять з програми Культура народна та традиційна. Особа, що проводить: Якуб Завадзінський. Найважливіша інформація: Цикл трьох зустрічей: 20.09., 11.10., 25.10. Тривалість: 90 хвилин. Місце проведення."
+          "description": "Запрошуємо на майстер-класи з виготовлення шопок, призначені для сімей з дітьми. Під час занять учасники майстер-класу під наглядом багаторазово нагородженого шопкаря Якуба Завадзінського підготують шопки, які візьмуть участь у 84-му Конкурсі шопок Кракова і будуть представлені на виставці після конкурсу в Палаці Кшиштофори. Запрошуємо реєструватися всією родиною, для спільної роботи та розваги – майстер-класи безкоштовні, а музей забезпечує матеріали. Майстер-класи реалізуються в рамках гранту «Краківська шопка доступна для всіх», профінансованого з коштів Міністра культури та національної спадщини, що походять з програми «Народна культура та традиція». Особа, що проводить: Якуб Завадзінський. Найважливіша інформація: цикл трьох зустрічей: 20.09., 11.10., 25.10. Час тривання: 90 хвилин. Місце проведення."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618771+00:00"
+      "updated_at": "2026-08-08T13:02:48.165443+00:00"
     },
     "warsztaty-szopkarskie-dla-rodzin-z-dzie-mi-2026-10-25T11:00:00+01:00": {
       "title": "Warsztaty szopkarskie dla rodzin z dziećmi",
@@ -941,7 +941,7 @@
       "age_hint": null,
       "age_range": null,
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/warsztaty-szopkarskie-dla-rodzin-z-dziecmi-2",
-      "scrapped_timestamp": "2026-08-08T12:53:59.577424+00:00",
+      "scrapped_timestamp": "2026-08-08T13:02:34.193287+00:00",
       "category": "Workshops",
       "translations": {
         "pl": {
@@ -950,18 +950,18 @@
         },
         "en": {
           "title": "Nativity Scene Workshops for Families with Children",
-          "description": "We invite you to nativity scene workshops designed for families with children. During the sessions, participants will prepare nativity scenes under the guidance of the multiple award-winning nativity scene artist, Jakub Zawadziński. These creations will take part in the 84th Krakow Nativity Scene Competition and will be presented at the post-competition exhibition at the Krzysztofory Palace. We encourage families to sign up for joint work and fun – the workshops are free, and the Museum provides materials. The workshops are carried out as part of the grant 'Krakow Nativity Scene Accessible to All,' funded by the Minister of Culture and National Heritage from the Folk and Traditional Culture Program. Instructor: Jakub Zawadziński. Important information: A series of three meetings: September 20, October 11, October 25. Duration: 90 minutes. Event location."
+          "description": "We invite you to nativity scene workshops designed for families with children. During the sessions, participants will prepare nativity scenes under the guidance of the award-winning nativity scene artist, Jakub Zawadziński, which will take part in the 84th Krakow Nativity Scene Competition and will be presented at the post-competition exhibition at the Krzysztofory Palace. We encourage families to sign up for joint work and fun – the workshops are free, and the Museum provides materials. The workshops are implemented as part of the grant 'Krakow Nativity Scene Accessible to All' funded by the Ministry of Culture and National Heritage from the Folk and Traditional Culture Program. Instructor: Jakub Zawadziński. Important information: A series of three meetings: 20.09, 11.10, 25.10. Duration: 90 minutes. Event location."
         },
         "uk": {
           "title": "Майстер-класи з виготовлення шопок для сімей з дітьми",
-          "description": "Запрошуємо на майстер-класи з виготовлення шопок, призначені для сімей з дітьми. Під час занять учасники майстер-класів під наглядом багаторазово нагородженого шопкаря Якуба Завадзінського підготують шопки, які візьмуть участь у 84-му Конкурсі шопок Кракова і будуть представлені на виставці після конкурсу в Палаці Кшиштофори. Запрошуємо реєструватися всією родиною, для спільної роботи та розваги – майстер-класи безкоштовні, а музей забезпечує матеріали. Майстер-класи реалізуються в рамках гранту «Краківська шопка доступна для всіх», профінансованого з коштів Міністра культури та національної спадщини, що походять з програми «Народна культура та традиція». Особа, що проводить: Якуб Завадзінський. Найважливіша інформація: цикл трьох зустрічей: 20.09., 11.10., 25.10. Тривалість: 90 хвилин. Місце проведення події."
+          "description": "Запрошуємо на майстер-класи з виготовлення шопок, призначені для сімей з дітьми. Під час занять учасники майстер-класу під наглядом багаторазово нагородженого шопкаря Якуба Завадзінського підготують шопки, які візьмуть участь у 84-му Конкурсі шопок Кракова і будуть представлені на виставці після конкурсу в Палаці Кшиштофори. Запрошуємо реєструватися всією родиною, для спільної роботи та розваги – майстер-класи безкоштовні, а музей забезпечує матеріали. Майстер-класи реалізуються в рамках гранту «Краківська шопка доступна для всіх», профінансованого з коштів Міністра культури та національної спадщини, що походять з програми «Народна культура та традиція». Особа, що проводить: Якуб Завадзінський. Найважливіша інформація: цикл трьох зустрічей: 20.09., 11.10., 25.10. Тривалість: 90 хвилин. Місце проведення події."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T12:54:11.618799+00:00"
+      "updated_at": "2026-08-08T13:02:48.165472+00:00"
     },
     "wydzierankowe-pejza-e-2026-11-21T11:00:00+01:00": {
       "title": "Wydzierankowe pejzaże",
@@ -977,12 +977,12 @@
       "url": "https://muzeumkrakowa.pl/kalendarium/wydzierankowe-pejzaze",
       "source": "muzeumkrakowa.pl",
       "age_hint": "6-10",
-      "age_range": [
-        6,
-        10
-      ],
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
       "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/wydzierankowe-pejzaze",
-      "scrapped_timestamp": "2026-08-08T12:54:06.337160+00:00",
+      "scrapped_timestamp": "2026-08-08T13:02:41.942560+00:00",
       "category": "Arts",
       "translations": {
         "pl": {
@@ -995,14 +995,14 @@
         },
         "uk": {
           "title": "Вирізані пейзажі",
-          "description": "Сучасні художники часто використовують різні нетипові техніки для створення картин. На виставці «Готель Форум» ми побачимо вид готелю в техніці вирізанки, автором якої є Альбін Талік. На цій основі учасники самі виконають ескізи пейзажів, які пізніше перенесуть на більший формат і реалізують у формі вирізанки. Запрошуємо! Ведуча: Анна Помикальська Найважливіша інформація Обмеження місць: 15 дітей Вік дітей: 6-10 років Вартість: 30 зл з дитини (один супроводжуючий - вхід безкоштовний) Продаж квитків розпочнеться незабаром"
+          "description": "Сучасні художники часто використовують різні нетипові техніки для створення картин. На виставці «Готель Форум» ми побачимо вид готелю в техніці вирізанки, автором якої є Альбін Талик. На цій основі учасники самі виконають ескізи пейзажів, які пізніше перенесуть на більший формат і реалізують у формі вирізанки. Запрошуємо! Ведуча: Анна Помікальська Найважливіша інформація Обмеження місць: 15 дітей Вік дітей: 6-10 років Вартість: 30 зл з дитини (один супроводжуючий - вхід безкоштовний) Продаж квитків розпочнеться незабаром"
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Podgórze",
-      "updated_at": "2026-08-08T12:54:11.619023+00:00"
+      "updated_at": "2026-08-08T13:02:48.165787+00:00"
     }
   }
 }

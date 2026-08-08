@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T12:17:26.128601+00:00",
+  "updated_at": "2026-08-08T12:19:03.606381+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2910,6 +2910,14 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-08-08T12:17:12.914368+00:00"
+    },
+    "kino kijów centrum": {
+      "name": "Kino Kijów Centrum",
+      "district": "Zwierzyniec",
+      "address": "Aleja Zygmunta Krasińskiego 34",
+      "normalized": "kino kijów centrum",
+      "updated_at": "2026-08-08T12:19:03.527658+00:00",
+      "created_at": "2026-08-08T12:19:03.527658+00:00"
     }
   }
 }

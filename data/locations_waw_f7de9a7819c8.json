@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:57:55.923077+00:00",
+  "updated_at": "2026-08-08T07:37:52.476532+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3283,6 +3283,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-07T07:45:24.161836+00:00"
+    },
+    "wam": {
+      "name": "Teatr WAM, 15, Zgrupowania AK „Kampinos”, Huta, Bielany, Warszawa, województwo mazowieckie, 01-943, Polska",
+      "district": "Bielany",
+      "address": "Teatr WAM, 15, Zgrupowania AK „Kampinos”, Huta, Bielany, Warszawa, województwo mazowieckie, 01-943, Polska",
+      "normalized": "wam",
+      "lat": 52.2944519,
+      "lng": 20.9299553,
+      "updated_at": "2026-08-08T07:16:24.903982+00:00"
+    },
+    "ul. v poprzeczna 22": {
+      "name": "ul. V Poprzeczna 22",
+      "district": "Wawer",
+      "address": "ul. V Poprzeczna 22",
+      "normalized": "ul. v poprzeczna 22",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-08T07:16:24.904742+00:00"
+    },
+    "konduktorska 17": {
+      "name": "Konduktorska 17, 00-730 Warszawa, Poland",
+      "district": "Mokotów",
+      "address": "Konduktorska 17, 00-730 Warszawa, Poland",
+      "normalized": "konduktorska 17",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-08T07:16:24.905072+00:00"
+    },
+    "pabla picassa 11": {
+      "name": "Pabla Picassa 11, 03-126 Warszawa, Poland",
+      "district": "Białołęka",
+      "address": "Pabla Picassa 11, 03-126 Warszawa, Poland",
+      "normalized": "pabla picassa 11",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-08T07:16:24.905532+00:00"
     }
   }
 }

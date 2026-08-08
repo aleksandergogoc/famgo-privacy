@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T12:16:06.335221+00:00",
+  "updated_at": "2026-08-08T12:17:26.128601+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2892,6 +2892,24 @@
       "lat": 50.0513668,
       "lng": 19.9486379,
       "updated_at": "2026-08-08T12:16:06.189437+00:00"
+    },
+    "kalendarium pałac krzysztofory": {
+      "name": "Kalendarium Pałac Krzysztofory",
+      "district": "Stare Miasto",
+      "address": "Kalendarium Pałac Krzysztofory",
+      "normalized": "kalendarium pałac krzysztofory",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-08-08T12:17:01.627295+00:00"
+    },
+    "kalendarium centrum interpretacji niematerialnego dziedzictwa krakowa": {
+      "name": "Kalendarium Centrum Interpretacji Niematerialnego Dziedzictwa Krakowa",
+      "district": "Stare Miasto",
+      "address": "Kalendarium Centrum Interpretacji Niematerialnego Dziedzictwa Krakowa",
+      "normalized": "kalendarium centrum interpretacji niematerialnego dziedzictwa krakowa",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-08-08T12:17:12.914368+00:00"
     }
   }
 }

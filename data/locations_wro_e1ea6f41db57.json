@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:57:54.617996+00:00",
+  "updated_at": "2026-08-09T07:30:38.695644+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -978,6 +978,15 @@
       "lat": 51.1074,
       "lng": 17.0385,
       "updated_at": "2026-08-07T07:45:56.882823+00:00"
+    },
+    "dom kultury bakara": {
+      "name": "ul. Świętego Antoniego 23, Wrocław",
+      "district": "Stare Miasto",
+      "address": "ul. Świętego Antoniego 23, Wrocław",
+      "normalized": "dom kultury bakara",
+      "lat": 51.108,
+      "lng": 17.038,
+      "updated_at": "2026-08-09T07:21:08.555243+00:00"
     }
   }
 }

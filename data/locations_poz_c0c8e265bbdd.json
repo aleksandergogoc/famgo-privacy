@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T07:57:52.409991+00:00",
+  "updated_at": "2026-08-09T07:30:37.837191+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -578,6 +578,15 @@
       "lat": 52.4080417,
       "lng": 16.9347384,
       "updated_at": "2026-08-07T07:56:10.359644+00:00"
+    },
+    "wielkopolskie muzeum...": {
+      "name": "Wielkopolskie Muzeum Wojskowe, 9, Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "district": "Stare Miasto",
+      "address": "Wielkopolskie Muzeum Wojskowe, 9, Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "normalized": "wielkopolskie muzeum...",
+      "lat": 52.4082119,
+      "lng": 16.9336789,
+      "updated_at": "2026-08-09T07:28:58.483345+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T07:43:27.899894+00:00",
+  "updated_at": "2026-08-10T08:19:22.360525+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-10-12T11:00:00+02:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -1892,6 +1892,84 @@
         "is_free": true
       },
       "updated_at": "2026-08-09T07:30:36.561706+00:00"
+    },
+    "rodzinne-zwiedzanie-zamku-z-przewodnikiem-2026-08-18T12:30:00+02:00": {
+      "title": "Rodzinne zwiedzanie Zamku z przewodnikiem",
+      "date": "2026-08-18T12:30:00+02:00",
+      "end_date": "2026-08-18T12:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zorganizuj niezapomnianą przygodę dla swojej rodziny. Odkrywaj zabytkowe wnętrza jednego z najmłodszych zamków w Europie wraz z komentarzem przewodnika (-czki). czas trwania: 45' wiek: 10+ Zobacz ckzamek.pl/ Baner Pobierz baner (JPEG, 19,20 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,494234,with-dims,209,209.jpg?_sst=1786349467848",
+      "location": {
+        "name": "Zbiórka: Hol Wielki, CK Zamek, ul. Święty Marcin 80/82"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/rodzinne-zwiedzanie-zamku-z-przewodnikiem,185095.html",
+      "source": "poznan.pl",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/rodzinne-zwiedzanie-zamku-z-przewodnikiem,185095.html",
+      "scrapped_timestamp": "2026-08-10T08:19:06.120702+00:00",
+      "category": "Field Trips",
+      "age_range": {
+        "min": 10,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Rodzinne zwiedzanie Zamku z przewodnikiem",
+          "description": "Zorganizuj niezapomnianą przygodę dla swojej rodziny. Odkrywaj zabytkowe wnętrza jednego z najmłodszych zamków w Europie wraz z komentarzem przewodnika (-czki). czas trwania: 45' wiek: 10+ Zobacz ckzamek.pl/ Baner Pobierz baner (JPEG, 19,20 kB)"
+        },
+        "en": {
+          "title": "Family Guided Tour of the Castle",
+          "description": "Organize an unforgettable adventure for your family. Explore the historic interiors of one of the youngest castles in Europe with a guide's commentary. Duration: 45 minutes. Age: 10+. Visit ckzamek.pl/"
+        },
+        "uk": {
+          "title": "Сімейна екскурсія замком з гідом",
+          "description": "Організуйте незабутню пригоду для своєї родини. Відкривайте історичні інтер'єри одного з наймолодших замків в Європі разом з коментарем гіда. Тривалість: 45 хвилин. Вік: 10+. Дивіться ckzamek.pl/ Банер Завантажити банер (JPEG, 19,20 кБ)"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-08-10T08:19:22.157432+00:00"
+    },
+    "10-lato-z-estrad-rataje-spektakl-taneczny-how-to-do-2026-08-18T16:00:00+02:00": {
+      "title": "10. Lato z Estradą - Rataje - Spektakl taneczny - How to Do...",
+      "date": "2026-08-18T16:00:00+02:00",
+      "end_date": "2026-08-18T16:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Joshua Monten Dance Company: spektakl taneczny \"How to Do Things with Words\" (Szwajcaria) Kto powiedział, że taniec nie ma nic wspólnego z językiem? Nie zgadzamy się z tym! Niekonwencjonalny spektakl taneczny \"How to Do Things with Words\" to fascynujący dialog pomiędzy językiem a ruchem, pomiędzy ciałami a tekstem graficznym. Jak tańczy się z tekstem? Nadrukowane znaki mogą być płaskie, ale dodają zaskakującej głębi spektaklowi tanecznemu. Choreografia jest bogata w fantazyjną pracę nóg, pulsujące rytmy, rozkoszną absurdalność i zabawne gry słowne. Choreografia: Joshua Monten Taniec: Jack Wignall, Katharina Ludwig and Angela Demattè Finansowane przez: Pro Helvetia, SWISSLOS / Kultur Kanton Bern, Kultur Stadt Bern Czas trwania: 30 min | wiek: 7+ Wstęp wolny. ___ Organizatorzy zapraszaja Was na 10. edycję \"Lata z Estradą\". Baner Pobierz baner (PNG, 613,97 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491872,with-dims,209,209.jpg?_sst=1786349467848",
+      "location": {
+        "name": "Park nad Wartą przy amfiteatrze",
+        "district": "Nowe Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-rataje-spektakl-taneczny-how-to-do-things-with-words,184308.html",
+      "source": "poznan.pl",
+      "district": "Nowe Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-rataje-spektakl-taneczny-how-to-do-things-with-words,184308.html",
+      "scrapped_timestamp": "2026-08-10T08:19:12.343250+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 7,
+        "max": 15
+      },
+      "translations": {
+        "pl": {
+          "title": "10. Lato z Estradą - Rataje - Spektakl taneczny - How to Do...",
+          "description": "Joshua Monten Dance Company: spektakl taneczny \"How to Do Things with Words\" (Szwajcaria) Kto powiedział, że taniec nie ma nic wspólnego z językiem? Nie zgadzamy się z tym! Niekonwencjonalny spektakl taneczny \"How to Do Things with Words\" to fascynujący dialog pomiędzy językiem a ruchem, pomiędzy ciałami a tekstem graficznym. Jak tańczy się z tekstem? Nadrukowane znaki mogą być płaskie, ale dodają zaskakującej głębi spektaklowi tanecznemu. Choreografia jest bogata w fantazyjną pracę nóg, pulsujące rytmy, rozkoszną absurdalność i zabawne gry słowne. Choreografia: Joshua Monten Taniec: Jack Wignall, Katharina Ludwig and Angela Demattè Finansowane przez: Pro Helvetia, SWISSLOS / Kultur Kanton Bern, Kultur Stadt Bern Czas trwania: 30 min | wiek: 7+ Wstęp wolny. ___ Organizatorzy zapraszaja Was na 10. edycję \"Lata z Estradą\". Baner Pobierz baner (PNG, 613,97 kB)"
+        },
+        "en": {
+          "title": "10th Summer with the Stage - Rataje - Dance Performance - How to Do...",
+          "description": "Joshua Monten Dance Company: dance performance \"How to Do Things with Words\" (Switzerland) Who said that dance has nothing to do with language? We disagree! The unconventional dance performance \"How to Do Things with Words\" is a fascinating dialogue between language and movement, between bodies and graphic text. How does one dance with text? Printed signs may be flat, but they add surprising depth to the dance performance. The choreography is rich in fanciful leg work, pulsating rhythms, delightful absurdity, and playful word games. Choreography: Joshua Monten Dance: Jack Wignall, Katharina Ludwig, and Angela Demattè Funded by: Pro Helvetia, SWISSLOS / Kultur Kanton Bern, Kultur Stadt Bern Duration: 30 min | Age: 7+ Free admission. ___ The organizers invite you."
+        },
+        "uk": {
+          "title": "10. Літо з Естрадою - Ратая - Танцювальний спектакль - Як робити...",
+          "description": "Танцювальна компанія Джошуа Монтена: танцювальний спектакль \"Як робити речі зі словами\" (Швейцарія) Хто сказав, що танець не має нічого спільного з мовою? Ми з цим не згодні! Неконвенційний танцювальний спектакль \"Як робити речі зі словами\" - це захоплюючий діалог між мовою та рухом, між тілами та графічним текстом. Як танцювати з текстом? Надруковані знаки можуть бути плоскими, але додають несподіваної глибини танцювальному спектаклю. Хореографія багата на фантазійні рухи ніг, пульсуючі ритми, приємну абсурдність та веселу гру слів. Хореографія: Джошуа Монтен Танцюють: Джек Вігналл, Катерина Людвіг та Анджела Дематте Фінансування: Pro Helvetia, SWISSLOS / Kultur Kanton Bern, Kultur Stadt Bern Тривалість: 30 хв | вік: 7+ Вхід вільний. ___ Організатори запрошують вас"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-08-10T08:19:22.157462+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T07:37:52.476532+00:00",
+  "updated_at": "2026-08-10T08:19:25.179711+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3319,6 +3319,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-08T07:16:24.905532+00:00"
+    },
+    "pół na puł (warszawa-grabówek)": {
+      "name": "Pół Na Puł, 20, Puławska, Stary Mokotów, Mokotów, Warszawa, województwo mazowieckie, 02-564, Polska",
+      "district": "Mokotów",
+      "address": "Pół Na Puł, 20, Puławska, Stary Mokotów, Mokotów, Warszawa, województwo mazowieckie, 02-564, Polska",
+      "normalized": "pół na puł (warszawa-grabówek)",
+      "lat": 52.2074779,
+      "lng": 21.0216263,
+      "updated_at": "2026-08-10T08:05:55.735084+00:00"
+    },
+    "bieżnia": {
+      "name": "Bieżnia, ul. Raabego",
+      "district": "Ursynów",
+      "address": "Bieżnia, ul. Raabego",
+      "normalized": "bieżnia",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-10T08:05:55.735640+00:00"
+    },
+    "multimedialna biblioteka dla dzieci i młodzieży nr xxxi": {
+      "name": "Multimedialna Biblioteka dla Dzieci i Młodzieży nr XXXI, ul. Tyniecka 40a",
+      "district": "Mokotów",
+      "address": "Multimedialna Biblioteka dla Dzieci i Młodzieży nr XXXI, ul. Tyniecka 40a",
+      "normalized": "multimedialna biblioteka dla dzieci i młodzieży nr xxxi",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-10T08:05:55.735960+00:00"
+    },
+    "jana pawła ii 25": {
+      "name": "Jana Pawła II 25, 05-077 Warszawa, Poland",
+      "district": "Wesoła",
+      "address": "Jana Pawła II 25, 05-077 Warszawa, Poland",
+      "normalized": "jana pawła ii 25",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-10T08:05:55.736216+00:00"
+    },
+    "aleja krakowska 61": {
+      "name": "Aleja Krakowska 61, 02-183 Warszawa, Poland",
+      "district": "Włochy",
+      "address": "Aleja Krakowska 61, 02-183 Warszawa, Poland",
+      "normalized": "aleja krakowska 61",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-10T08:05:55.736604+00:00"
     }
   }
 }

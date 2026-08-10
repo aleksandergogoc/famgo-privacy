@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T12:29:31.977157+00:00",
+  "updated_at": "2026-08-10T08:19:26.564577+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2972,6 +2972,15 @@
       "lat": 50.042547,
       "lng": 19.9609479,
       "updated_at": "2026-08-08T12:29:31.899663+00:00"
+    },
+    "dajwór 18": {
+      "name": "Dajwór 18, 31-052 Kraków, Poland",
+      "district": "Stare Miasto",
+      "address": "Dajwór 18, 31-052 Kraków, Poland",
+      "normalized": "dajwór 18",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-10T08:02:10.188111+00:00"
     }
   }
 }

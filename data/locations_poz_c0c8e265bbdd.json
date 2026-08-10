@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T07:30:37.837191+00:00",
+  "updated_at": "2026-08-10T08:19:23.953897+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -587,6 +587,15 @@
       "lat": 52.4082119,
       "lng": 16.9336789,
       "updated_at": "2026-08-09T07:28:58.483345+00:00"
+    },
+    "park nad wartą przy amfiteatrze": {
+      "name": "Park nad Wartą przy amfiteatrze",
+      "district": "Nowe Miasto",
+      "address": "Park nad Wartą przy amfiteatrze",
+      "normalized": "park nad wartą przy amfiteatrze",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-10T08:19:21.191758+00:00"
     }
   }
 }

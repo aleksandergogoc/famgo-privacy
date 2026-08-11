@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T14:03:44.670123+00:00",
+  "updated_at": "2026-08-11T14:05:28.110847+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2998,6 +2998,14 @@
       "normalized": "ogródek pod dębem",
       "updated_at": "2026-08-11T13:57:03.151335+00:00",
       "created_at": "2026-08-11T13:57:03.151335+00:00"
+    },
+    "ul. kapelanka 56": {
+      "name": "ul. Kapelanka 56, Kraków",
+      "district": "Dębniki",
+      "address": "ul. Kapelanka 56, Kraków",
+      "normalized": "ul. kapelanka 56",
+      "updated_at": "2026-08-11T14:05:28.009049+00:00",
+      "created_at": "2026-08-11T14:05:28.009049+00:00"
     }
   }
 }

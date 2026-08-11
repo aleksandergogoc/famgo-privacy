@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:51:42.483240+00:00",
+  "updated_at": "2026-08-11T13:56:01.070034+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2322,11 +2322,12 @@
       "lng": 0.0
     },
     "ul. m. konopnickiej 26": {
-      "district": "Stare Miasto",
+      "name": "ul. M. Konopnickiej 26, 30-302 Kraków",
+      "district": "Dębniki",
       "address": "ul. M. Konopnickiej 26, 30-302 Kraków",
-      "cached_at": "2026-06-25 10:53:05.815000+00:00",
-      "lat": 50.062,
-      "lng": 19.936
+      "normalized": "ul. m. konopnickiej 26",
+      "updated_at": "2026-08-11T13:56:00.961723+00:00",
+      "created_at": "2026-08-11T13:56:00.961723+00:00"
     },
     "ul. marii konopnickiej 26": {
       "district": "Dębniki",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:56:01.070034+00:00",
+  "updated_at": "2026-08-11T13:57:03.340194+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2989,6 +2989,14 @@
       "normalized": "ul. monte cassino 54",
       "updated_at": "2026-08-11T13:51:42.403095+00:00",
       "created_at": "2026-08-11T13:51:42.403095+00:00"
+    },
+    "ogródek pod dębem": {
+      "name": "Ogródek Pod Dębem",
+      "district": "Podgórze Duchackie",
+      "address": " ul. Estońska 2 / Estońska 3 (skrzyżowanie z ul. Malborską)",
+      "normalized": "ogródek pod dębem",
+      "updated_at": "2026-08-11T13:57:03.151335+00:00",
+      "created_at": "2026-08-11T13:57:03.151335+00:00"
     }
   }
 }

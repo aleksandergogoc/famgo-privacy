@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T08:19:25.179711+00:00",
+  "updated_at": "2026-08-11T07:52:20.229365+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3364,6 +3364,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-10T08:05:55.736604+00:00"
+    },
+    "małego widza": {
+      "name": "Teatr Małego Widza, Scena na Jezuickiej · ul. Jezuicka 4 (wejście od ul. Brzozowej)",
+      "district": "Śródmieście",
+      "address": "Teatr Małego Widza, Scena na Jezuickiej · ul. Jezuicka 4 (wejście od ul. Brzozowej)",
+      "normalized": "małego widza",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-11T07:39:12.282720+00:00"
+    },
+    "fort bema": {
+      "name": "Fort Bema",
+      "district": "Bemowo",
+      "address": "Fort Bema",
+      "normalized": "fort bema",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-11T07:39:12.283302+00:00"
+    },
+    "kahuna warszawa": {
+      "name": "Kahuna Warszawa, ul. Zawodzie 2",
+      "district": "Mokotów",
+      "address": "Kahuna Warszawa, ul. Zawodzie 2",
+      "normalized": "kahuna warszawa",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-11T07:39:12.283713+00:00"
+    },
+    "ul. samorządowa 10": {
+      "name": "ul. Samorządowa 10, Wawerskie Centrum Kultury Filia Aleksandrów",
+      "district": "Wawer",
+      "address": "ul. Samorządowa 10, Wawerskie Centrum Kultury Filia Aleksandrów",
+      "normalized": "ul. samorządowa 10",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-11T07:39:12.283841+00:00"
     }
   }
 }

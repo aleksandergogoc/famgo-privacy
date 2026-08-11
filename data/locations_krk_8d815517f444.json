@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:45:26.027640+00:00",
+  "updated_at": "2026-08-11T13:51:42.483240+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -2980,6 +2980,14 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-10T08:02:10.188111+00:00"
+    },
+    "ul. monte cassino 54": {
+      "name": "ul. Monte Cassino 54, 30-337 Kraków",
+      "district": "Dębniki",
+      "address": "ul. Monte Cassino 54, 30-337 Kraków",
+      "normalized": "ul. monte cassino 54",
+      "updated_at": "2026-08-11T13:51:42.403095+00:00",
+      "created_at": "2026-08-11T13:51:42.403095+00:00"
     }
   }
 }

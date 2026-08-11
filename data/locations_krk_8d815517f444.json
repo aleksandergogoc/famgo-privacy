@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T13:57:03.340194+00:00",
+  "updated_at": "2026-08-11T14:03:44.670123+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -317,11 +317,12 @@
       "lng": 19.932
     },
     "centrum edukacji ekologicznej symbioza": {
-      "district": "Stare Miasto",
+      "name": "Centrum Edukacji Ekologicznej Symbioza",
+      "district": "Zwierzyniec",
       "address": "Centrum Edukacji Ekologicznej Symbioza, Kraków",
-      "cached_at": "2026-06-23 11:21:43.609000+00:00",
-      "lat": 50.049,
-      "lng": 19.946
+      "normalized": "centrum edukacji ekologicznej symbioza",
+      "updated_at": "2026-08-11T14:03:44.563176+00:00",
+      "created_at": "2026-08-11T14:03:44.563176+00:00"
     },
     "centrum edukacji przyrodniczej uj": {
       "district": "Dębniki",

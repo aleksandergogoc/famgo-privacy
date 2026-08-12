@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T07:52:20.229365+00:00",
+  "updated_at": "2026-08-12T08:23:19.105641+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3400,6 +3400,60 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-11T07:39:12.283841+00:00"
+    },
+    "park aktywności rodzinnej": {
+      "name": "Park Aktywności Rodzinnej, ul. Węglarska 41A",
+      "district": "Wawer",
+      "address": "Park Aktywności Rodzinnej, ul. Węglarska 41A",
+      "normalized": "park aktywności rodzinnej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-12T08:10:49.823500+00:00"
+    },
+    "ul. wilanowska3": {
+      "name": "ul. Wilanowska3, Wesoła",
+      "district": "Wesoła",
+      "address": "ul. Wilanowska3, Wesoła",
+      "normalized": "ul. wilanowska3",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-12T08:10:49.824035+00:00"
+    },
+    "ferio wawer": {
+      "name": "Ferio Wawer, ul. Kazimierza Szpotańskiego 4",
+      "district": "Wawer",
+      "address": "Ferio Wawer, ul. Kazimierza Szpotańskiego 4",
+      "normalized": "ferio wawer",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-12T08:10:49.824234+00:00"
+    },
+    "park edwarda szymańskiego": {
+      "name": "Park Edwarda Szymańskiego",
+      "district": "Wola",
+      "address": "Park Edwarda Szymańskiego",
+      "normalized": "park edwarda szymańskiego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-12T08:10:49.824457+00:00"
+    },
+    "artystyczny dom animacji": {
+      "name": "Artystyczny Dom Animacji, ks. J. Chrościckiego 14",
+      "district": "Włochy",
+      "address": "Artystyczny Dom Animacji, ks. J. Chrościckiego 14",
+      "normalized": "artystyczny dom animacji",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-12T08:10:49.824689+00:00"
+    },
+    "artystyczny dom kultury": {
+      "name": "Artystyczny Dom Kultury, ul. ks. Juliana Chrościckiego 14",
+      "district": "Włochy",
+      "address": "Artystyczny Dom Kultury, ul. ks. Juliana Chrościckiego 14",
+      "normalized": "artystyczny dom kultury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-12T08:10:49.824914+00:00"
     }
   }
 }

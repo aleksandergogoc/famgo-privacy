@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T07:52:18.978393+00:00",
+  "updated_at": "2026-08-12T08:23:18.166368+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -509,6 +509,60 @@
       "lat": 54.4199912,
       "lng": 18.6013165,
       "updated_at": "2026-08-11T07:47:16.147403+00:00"
+    },
+    "gdańsk jelitkowo": {
+      "name": "Restauracja \"Parkowa\", 2, Jelitkowska, Jelitkowo, Żabianka-Wejhera-Jelitkowo-Tysiąclecia, Gdańsk, województwo pomorskie, 80-342, Polska",
+      "district": "Oliwa",
+      "address": "Restauracja \"Parkowa\", 2, Jelitkowska, Jelitkowo, Żabianka-Wejhera-Jelitkowo-Tysiąclecia, Gdańsk, województwo pomorskie, 80-342, Polska",
+      "normalized": "gdańsk jelitkowo",
+      "lat": 54.4256615,
+      "lng": 18.5958088,
+      "updated_at": "2026-08-12T08:16:25.903727+00:00"
+    },
+    "olivia centre": {
+      "name": "Amazon Development Center Poland z o.o., 472, Aleja Grunwaldzka, Olivia Centre, Oliwa, Gdańsk, województwo pomorskie, 80-309, Polska",
+      "district": "Oliwa",
+      "address": "Amazon Development Center Poland z o.o., 472, Aleja Grunwaldzka, Olivia Centre, Oliwa, Gdańsk, województwo pomorskie, 80-309, Polska",
+      "normalized": "olivia centre",
+      "lat": 54.4025308,
+      "lng": 18.5703719,
+      "updated_at": "2026-08-12T08:16:27.259140+00:00"
+    },
+    "sztuka wyboru": {
+      "name": "19, Juliusza Słowackiego, Srebrzysko, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-257, Polska",
+      "district": "Wrzeszcz",
+      "address": "19, Juliusza Słowackiego, Srebrzysko, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-257, Polska",
+      "normalized": "sztuka wyboru",
+      "lat": 54.3812585,
+      "lng": 18.5905161,
+      "updated_at": "2026-08-12T08:16:30.265823+00:00"
+    },
+    "skwer heweliusza": {
+      "name": "Skwer Heweliusza, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, Polska",
+      "district": "Śródmieście",
+      "address": "Skwer Heweliusza, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, Polska",
+      "normalized": "skwer heweliusza",
+      "lat": 54.3541314,
+      "lng": 18.6489904,
+      "updated_at": "2026-08-12T08:16:43.957691+00:00"
+    },
+    "biblioteka niedźwiednik": {
+      "name": "Biblioteka Niedźwiednik, Podkarpacka, Leśna Góra, Niedźwiednik, Brętowo, Gdańsk, województwo pomorskie, 80-292, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Biblioteka Niedźwiednik, Podkarpacka, Leśna Góra, Niedźwiednik, Brętowo, Gdańsk, województwo pomorskie, 80-292, Polska",
+      "normalized": "biblioteka niedźwiednik",
+      "lat": 54.3756516,
+      "lng": 18.568349,
+      "updated_at": "2026-08-12T08:17:02.847488+00:00"
+    },
+    "biblioteka niedźwiednik (gdańsk-lipnik)": {
+      "name": "Biblioteka Niedźwiednik (Gdańsk-Lipnik)",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Biblioteka Niedźwiednik (Gdańsk-Lipnik)",
+      "normalized": "biblioteka niedźwiednik (gdańsk-lipnik)",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-12T08:18:14.395629+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:49:31.167335+00:00",
+  "updated_at": "2026-08-13T14:55:03.346550+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -1531,16 +1531,15 @@
     },
     "miasteczko-wawelskie-ladami-utraconego-miasta-gra-terenowa-2026-08-15T13:30:00+02:00": {
       "title": "Miasteczko wawelskie | Śladami utraconego miasta | Gra terenowa",
-      "date": "2026-08-15T13:30:00+02:00",
-      "end_date": "2026-08-15T13:30:00+02:00",
+      "date": "2026-08-15T11:30:00+00:00",
+      "end_date": "2026-08-14T22:00:00+00:00",
       "startTimeKnown": true,
       "url": "https://czasdzieci.pl/krakow/wydarzenia/id,140836e58.html",
       "description": "Jak wyglądało codzienne życie na Wawelu, zanim wzgórze stało się przede wszystkim symbolem królewskiej rezydencji? Odpowiedzi na to pytanie można poszukać podczas gry terenowej „Miasteczko wawelskie. Śladami utraconego miasta”, która prowadzi uczestników przez miejsca skrywające ślady dawnej osady istniejącej przez stulecia u stóp królewskiego zamku. Gra przybliża historię tzw. zamku dolnego – tętniącego życiem miasteczka zamieszkiwanego przez rzemieślników, kupców, służbę dworską, rycerzy i duchownych. Uczestnicy odkryją, jak rozwijała się ta niezwykła przestrzeń, która na przełomie XV i XVI wieku przypominała bardziej miasto niż zamek, oraz poznają losy jej mieszkańców. Wędrówka prowadzi do miejsc często pomijanych podczas tradycyjnego zwiedzania. Zachowane relikty dawnej zabudowy, ocalałe budynki i przestrzenie, które niegdyś wypełniały domy, ogrody, studnie i dwory, stają się punktami na mapie opowieści o utraconym mieście. Gra pozwala spojrzeć na Wawel z nowej perspektywy – nie tylko jako siedzibę królów, lecz także miejsce codziennego życia wielu pokoleń mieszkańców. To propozycja dla wszystkich, którzy lubią odkrywać historię poprzez działanie, rozwiązywanie zagadek i samodzielne poszukiwanie śladów przeszłości ukrytych w przestrzeni jednego z najważniejszych miejsc polskiego dziedzictwa. Miasteczko wawelskie | Śladami utraconego miasta | Gra terenowa",
       "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240_198-0-800-800d-00c,f_w_140836_89872.webp",
       "source": "czasdzieci.pl",
       "location": {
-        "name": "31-001 Kraków, Wawel 5",
-        "district": "Stare Miasto"
+        "name": "31-001 Kraków, Wawel 5"
       },
       "age_range": {
         "min": 7,
@@ -1564,7 +1563,13 @@
         }
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-07-14T14:04:33.254857+00:00"
+      "updated_at": "2026-08-13T14:55:03.258160+00:00",
+      "source_url": "https://czasdzieci.pl/krakow/wydarzenia/id,140836e58.html",
+      "featured": false,
+      "admission": {
+        "is_free": false,
+        "ticket_url": null
+      }
     },
     "miasteczko-wawelskie-ladami-utraconego-miasta-gra-terenowa-2026-08-22T13:30:00+02:00": {
       "title": "Miasteczko wawelskie | Śladami utraconego miasta | Gra terenowa",

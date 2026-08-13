@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T08:23:20.243252+00:00",
+  "updated_at": "2026-08-13T08:01:42.034721+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3049,6 +3049,33 @@
       "lat": 50.0644,
       "lng": 19.9206,
       "updated_at": "2026-08-12T07:30:54.250150+00:00"
+    },
+    "wielopole 17a": {
+      "name": "17a, Wielopole, Wesoła, Stare Miasto, Kraków, województwo małopolskie, 31-072, Polska",
+      "district": "Stare Miasto",
+      "address": "17a, Wielopole, Wesoła, Stare Miasto, Kraków, województwo małopolskie, 31-072, Polska",
+      "normalized": "wielopole 17a",
+      "lat": 50.0578553,
+      "lng": 19.9455263,
+      "updated_at": "2026-08-13T07:30:16.197195+00:00"
+    },
+    "apteka designu": {
+      "name": "ul. Mikołaja Kopernika 19A, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Mikołaja Kopernika 19A, Kraków",
+      "normalized": "apteka designu",
+      "lat": 50.0644,
+      "lng": 19.9384,
+      "updated_at": "2026-08-13T07:30:59.339748+00:00"
+    },
+    "ul. złotego wieku 14": {
+      "name": "ul. Złotego Wieku 14, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Złotego Wieku 14, Kraków",
+      "normalized": "ul. złotego wieku 14",
+      "lat": 50.0644,
+      "lng": 19.9458,
+      "updated_at": "2026-08-13T07:31:10.816072+00:00"
     }
   }
 }

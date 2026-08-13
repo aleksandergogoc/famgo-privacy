@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:10:27.166645+00:00",
+  "updated_at": "2026-08-13T14:15:50.581804+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -7913,8 +7913,8 @@
       "image": "https://plikimpi.krakow.pl/zalacznik/610175/frame_4_1225789548.webp",
       "url": "https://krakow.pl/krakow_dla_dzieci/333440,2431,komunikat,sierpniowe_plenery_przyrodnicze_.html",
       "source": "krakow.pl",
-      "date": "2026-08-13T17:00:00+02:00",
-      "end_date": "2026-08-13T17:00:00+02:00",
+      "date": "2026-08-13T15:00:00+00:00",
+      "end_date": "2026-08-12T22:00:00+00:00",
       "startTimeKnown": true,
       "source_url": "https://krakow.pl/krakow_dla_dzieci/333440,2431,komunikat,sierpniowe_plenery_przyrodnicze_.html",
       "scrapped_url": "https://krakow.pl/krakow_dla_dzieci/333440,2431,komunikat,sierpniowe_plenery_przyrodnicze_.html",
@@ -7939,9 +7939,15 @@
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": false,
+        "ticket_url": null
       },
-      "updated_at": "2026-08-13T12:23:21.623347+00:00"
+      "updated_at": "2026-08-13T14:15:50.505280+00:00",
+      "location": {
+        "name": "Zakrzówek"
+      },
+      "district": "Dębniki",
+      "featured": false
     },
     "sierpniowe-plenery-przyrodnicze-czasem-s-o-ce-czasem-deszcz-spacer-i-relaks-w-r-d-drzew-2026-08-20T17:00:00+02:00": {
       "title": "Sierpniowe plenery przyrodnicze: Czasem słońce, czasem deszcz – spacer i relaks wśród drzew",

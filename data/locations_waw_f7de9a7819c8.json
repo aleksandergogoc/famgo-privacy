@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T08:23:19.105641+00:00",
+  "updated_at": "2026-08-13T08:01:41.197507+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3454,6 +3454,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-12T08:10:49.824914+00:00"
+    },
+    "wrocławska 25": {
+      "name": "Wrocławska 25",
+      "district": "Bemowo",
+      "address": "Wrocławska 25",
+      "normalized": "wrocławska 25",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-13T07:52:57.215299+00:00"
+    },
+    "kawęczyńska 36": {
+      "name": "Kawęczyńska 36",
+      "district": "Praga-Północ",
+      "address": "Kawęczyńska 36",
+      "normalized": "kawęczyńska 36",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-13T07:52:57.215616+00:00"
     }
   }
 }

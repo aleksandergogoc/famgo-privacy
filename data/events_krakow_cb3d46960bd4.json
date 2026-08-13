@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T12:23:21.776251+00:00",
+  "updated_at": "2026-08-13T14:01:00.804092+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -7479,13 +7479,11 @@
       "url": "https://krakow.pl/aktualnosci/331452,2163,komunikat,krakow_po_raz_dziewiaty_stolica_ekologicznego_kina.html",
       "source": "krakow.pl",
       "location": {
-        "name": "Echo Miasta, ul. Kapelanka 56, Kraków",
-        "address": "Echo Miasta, ul. Kapelanka 56, Kraków",
-        "district": "Stare Miasto"
+        "name": "Echo Miasta, ul. Kapelanka 56, Kraków"
       },
-      "district": "Stare Miasto",
-      "date": "2026-08-13T00:00:00+02:00",
-      "end_date": "2026-08-13T00:00:00+02:00",
+      "district": "Dębniki",
+      "date": "2026-08-12T22:00:00+00:00",
+      "end_date": "2026-08-12T22:00:00+00:00",
       "startTimeKnown": false,
       "source_url": "https://krakow.pl/aktualnosci/331452,2163,komunikat,krakow_po_raz_dziewiaty_stolica_ekologicznego_kina.html",
       "scrapped_url": "https://krakow.pl/aktualnosci/331452,2163,komunikat,krakow_po_raz_dziewiaty_stolica_ekologicznego_kina.html",
@@ -7509,7 +7507,12 @@
           "description": "Чи справді ми знаємо, чим дихаємо? Чому забруднення повітря щороку забирає життя мільйонам людей? Як зміни клімату впливають на наше здоров'я, безпеку та щоденні рішення? Відповіді на ці та багато інших запитань ми будемо шукати під час 9-ї редакції BNP Paribas Green Film Festival – найбільшого в Польщі та одного з найбільших у світі фестивалів екологічних фільмів. Протягом семи днів набережні Вісли під Вавелем знову перетворяться на відкритий кінотеатр, місце зустрічей з творцями та простір для розмов про майбутнє нашої планети. Фото: пресматеріали. Залучене кіно для дорослих і дітей. На глядачів чекає близько 100 показів фільмів, у тому числі 58 конкурсних фільмів з усього світу, численні прем'єри, зустрічі з творцями та щоденні сеанси для найменших."
         }
       },
-      "updated_at": "2026-08-13T12:23:21.623027+00:00"
+      "updated_at": "2026-08-13T14:01:00.735860+00:00",
+      "featured": false,
+      "admission": {
+        "is_free": null,
+        "ticket_url": null
+      }
     },
     "krak-w-po-raz-dziewi-ty-stolic-ekologicznego-kina-2026-08-14T00:00:00+02:00": {
       "title": "Kraków po raz dziewiąty stolicą ekologicznego kina",

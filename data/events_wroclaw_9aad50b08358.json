@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T07:27:58.805432+00:00",
+  "updated_at": "2026-08-13T07:53:58.313589+00:00",
   "events": {
     "12-mi-dzynarodowe-zawody-w-je-dzie-bez-og-owia-euro-equus-2026-2026-09-25T00:00:00": {
       "scrapped_timestamp": "2026-06-26T16:36:24.805343+00:00",
@@ -4883,6 +4883,51 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-08-11T07:40:27.523609+00:00"
+    },
+    "farbowanie-tkanin-japo-sk-technik-shibori-2026-08-27T10:00:00+02:00": {
+      "title": "Farbowanie tkanin japońską techniką shibori",
+      "date": "2026-08-27T10:00:00+02:00",
+      "end_date": "2026-08-27T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Podczas spotkania uczestnicy dowiedzą się czym jest shibori, jak przygotować tkaninę oraz jakie są tradycyjne rodzaje shibori. Następnie własnoręcznie zafarbują bawełnianą torbę, plecaczek lub poszewkę na poduszkę.\n\nWydarzenie dla dzieci w wieku od 8 lat, z opiekunem.\n\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun (para tworzy jedną pracę).**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://www.kupbilecik.pl/img/gal_baza/1sf6l4y7ot8qnlup.webp?t=1752759973",
+      "url": "https://www.kupbilecik.pl/imprezy/215477/Wroc%C5%82aw/Klub+Rodzica/?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, MultiCentrum",
+        "address": "ul. Powstańców Śląskich 210",
+        "lat": 51.0766412227767,
+        "lng": 17.0079625747578,
+        "district": "Fabryczna"
+      },
+      "featured": true,
+      "age_range": {
+        "min": 8,
+        "max": 18
+      },
+      "scrapped_url": "https://www.kupbilecik.pl/imprezy/215477/Wroc%C5%82aw/Klub+Rodzica/?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-08-13T07:53:51.110326+00:00",
+      "category": "Arts",
+      "translations": {
+        "pl": {
+          "title": "Farbowanie tkanin japońską techniką shibori",
+          "description": "Podczas spotkania uczestnicy dowiedzą się czym jest shibori, jak przygotować tkaninę oraz jakie są tradycyjne rodzaje shibori. Następnie własnoręcznie zafarbują bawełnianą torbę, plecaczek lub poszewkę na poduszkę.\n\nWydarzenie dla dzieci w wieku od 8 lat, z opiekunem.\n\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun (para tworzy jedną pracę).**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Dyeing Fabrics with the Japanese Shibori Technique",
+          "description": "During the meeting, participants will learn what shibori is, how to prepare the fabric, and what the traditional types of shibori are. Then, they will personally dye a cotton bag, a small backpack, or a pillowcase.\n\nThis event is for children aged 8 and older, accompanied by an adult.\n\n**One ticket is required for a pair: child and guardian (the pair creates one work).**\n\nDiscounted tickets are available for individuals with an MBP Wrocław library card.\n\nThe venue is accessible for individuals with mobility impairments.\n\nThe Parent Club is a series of literary, educational, and artistic meetings for children and their guardians held at selected branches of the Tadeusz Różewicz Municipal Public Library in Wrocław."
+        },
+        "uk": {
+          "title": "Фарбування тканин японською технікою шиборі",
+          "description": "Під час зустрічі учасники дізнаються, що таке шиборі, як підготувати тканину та які традиційні види шиборі існують. Потім власноруч зафарбують бавовняну сумку, рюкзачок або наволочку. \n\nПодія для дітей віком від 8 років з опікуном. \n\n**Діє один квиток для пари: дитина та опікун (пара створює одну роботу).** \n\nПільгові квитки для осіб з карткою бібліотеки МБП Вроцлав. \n\nМісце дружнє до осіб з обмеженими можливостями. \n\nКлуб Батьків - це циклічні літературні, освітні та художні зустрічі для дітей та їх опікунів, які проходять у вибраних філіях Міської Бібліотеки Публічної ім. Тадеуша Рожевича у Вроцлаві."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/imprezy/215477/Wroc%C5%82aw/Klub+Rodzica/?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-08-13T07:53:58.155938+00:00"
     }
   }
 }

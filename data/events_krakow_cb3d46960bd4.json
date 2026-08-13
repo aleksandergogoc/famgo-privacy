@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:22:22.486766+00:00",
+  "updated_at": "2026-08-13T14:49:31.167335+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -10517,13 +10517,11 @@
       "url": "https://krakow.pl/krakow_dla_dzieci/333200,2431,komunikat,_dzika_banda__wkracza_na_scene__nowa_prapremiera_teatru_groteska_juz_19_wrzesnia.html",
       "source": "krakow.pl",
       "location": {
-        "name": "Teatr Groteska, Kraków",
-        "address": "Teatr Groteska, Kraków",
-        "district": "Stare Miasto"
+        "name": "Teatr Groteska, Kraków"
       },
       "district": "Stare Miasto",
-      "date": "2026-09-19T00:00:00+02:00",
-      "end_date": "2026-09-19T00:00:00+02:00",
+      "date": "2026-09-18T22:00:00+00:00",
+      "end_date": "2026-09-18T22:00:00+00:00",
       "startTimeKnown": false,
       "source_url": "https://krakow.pl/krakow_dla_dzieci/333200,2431,komunikat,_dzika_banda__wkracza_na_scene__nowa_prapremiera_teatru_groteska_juz_19_wrzesnia.html",
       "scrapped_url": "https://krakow.pl/krakow_dla_dzieci/333200,2431,komunikat,_dzika_banda__wkracza_na_scene__nowa_prapremiera_teatru_groteska_juz_19_wrzesnia.html",
@@ -10547,7 +10545,12 @@
           "description": "19 вересня на сцені Театру Гротеска відбудеться прем'єра спектаклю «Дика банда». Вистава, створена під враженням від книг Рейчел Брайт, обраних дітьми, які беруть участь в акції «Вчитані в театр», розповідає про відвагу, прийняття та побудову стосунків. Це пропозиція для глядачів від 3 років. Фото: пресматеріали Театру Гротеска запрошують 19 вересня на прем'єру спектаклю «Дика банда» – унікальної вистави, початком якої не стала рішення режисера чи драматурга, а вибір наймолодших глядачів. Саме діти, які беруть участь в акції «Вчитані в театр», вказали на книги Рейчел Брайт, які стали натхненням для нової продукції. На їх основі Маліна Пржешлуга написала авторську п'єсу «Дика банда» – сповнена гумору та тепла історія про відвагу, прийняття та..."
         }
       },
-      "updated_at": "2026-08-13T12:23:21.625042+00:00"
+      "updated_at": "2026-08-13T14:49:31.062220+00:00",
+      "featured": false,
+      "admission": {
+        "is_free": false,
+        "ticket_url": null
+      }
     }
   }
 }

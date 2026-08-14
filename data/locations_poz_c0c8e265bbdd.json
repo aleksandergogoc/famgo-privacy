@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T08:01:40.337642+00:00",
+  "updated_at": "2026-08-14T08:43:16.267407+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -614,6 +614,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-13T08:01:35.484203+00:00"
+    },
+    "ogródek przedszkola nr 93": {
+      "name": "Ogródek Przedszkola nr 93, ul. Skibowa 13",
+      "district": "Nowe Miasto",
+      "address": "Ogródek Przedszkola nr 93, ul. Skibowa 13",
+      "normalized": "ogródek przedszkola nr 93",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-14T08:43:11.773528+00:00"
     }
   }
 }

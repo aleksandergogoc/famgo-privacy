@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T08:01:41.197507+00:00",
+  "updated_at": "2026-08-14T08:43:17.456541+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3472,6 +3472,69 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-13T07:52:57.215616+00:00"
+    },
+    "pałac staszica - sala lustrzana": {
+      "name": "Pałac Staszica - Sala Lustrzana, Nowy Świat 72, 00-330 Warszawa",
+      "district": "Śródmieście",
+      "address": "Pałac Staszica - Sala Lustrzana, Nowy Świat 72, 00-330 Warszawa",
+      "normalized": "pałac staszica - sala lustrzana",
+      "lat": 52.2386,
+      "lng": 21.0151,
+      "updated_at": "2026-08-14T08:34:00.163061+00:00"
+    },
+    "ośrodek działań twórczych \"zielona\" ul. wilanowska 3": {
+      "name": "ul. Wilanowska 3, 05-075 Warszawa Wesoła, Warszawa",
+      "district": "Wawer",
+      "address": "ul. Wilanowska 3, 05-075 Warszawa Wesoła, Warszawa",
+      "normalized": "ośrodek działań twórczych \"zielona\" ul. wilanowska 3",
+      "lat": 52.1866,
+      "lng": 21.2044,
+      "updated_at": "2026-08-14T08:34:02.651248+00:00"
+    },
+    "sm rozłogi plac": {
+      "name": "SM ROZŁOGI plac, studnia Oligoceńska, ul. Rozłogi 12a",
+      "district": "Bemowo",
+      "address": "SM ROZŁOGI plac, studnia Oligoceńska, ul. Rozłogi 12a",
+      "normalized": "sm rozłogi plac",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-14T08:34:02.651690+00:00"
+    },
+    "ul. światowida 17": {
+      "name": "ul. Światowida 17, Galeria Północna",
+      "district": "Białołęka",
+      "address": "ul. Światowida 17, Galeria Północna",
+      "normalized": "ul. światowida 17",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-14T08:34:02.651963+00:00"
+    },
+    "metro słodowiec": {
+      "name": "Metro Słodowiec",
+      "district": "Bielany",
+      "address": "Metro Słodowiec",
+      "normalized": "metro słodowiec",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-14T08:34:02.652200+00:00"
+    },
+    "ceramiczna 9b": {
+      "name": "Ceramiczna 9B",
+      "district": "Białołęka",
+      "address": "Ceramiczna 9B",
+      "normalized": "ceramiczna 9b",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-14T08:34:02.652397+00:00"
+    },
+    "ul. 6 sierpnia 1_5": {
+      "name": "ul. 6 Sierpnia 1/5",
+      "district": "Ursynów",
+      "address": "ul. 6 Sierpnia 1/5",
+      "normalized": "ul. 6 sierpnia 1_5",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-14T08:34:02.652561+00:00"
     }
   }
 }

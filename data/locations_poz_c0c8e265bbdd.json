@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:43:16.267407+00:00",
+  "updated_at": "2026-08-15T07:53:03.459809+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -623,6 +623,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-14T08:43:11.773528+00:00"
+    },
+    "zbiórka: hol wielki": {
+      "name": "Poznań, województwo wielkopolskie, Polska",
+      "district": "Poznań - Pozostałe",
+      "address": "Poznań, województwo wielkopolskie, Polska",
+      "normalized": "zbiórka: hol wielki",
+      "lat": 52.4082663,
+      "lng": 16.9335199,
+      "updated_at": "2026-08-15T07:51:14.936018+00:00"
     }
   }
 }

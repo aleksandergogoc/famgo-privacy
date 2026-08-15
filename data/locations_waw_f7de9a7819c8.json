@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T08:43:17.456541+00:00",
+  "updated_at": "2026-08-15T07:53:04.431134+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3535,6 +3535,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-14T08:34:02.652561+00:00"
+    },
+    "wojska polskiego": {
+      "name": "Muzeum Wojska Polskiego, Cytadela Warszawska · ul. Gwardii 4",
+      "district": "Żoliborz",
+      "address": "Muzeum Wojska Polskiego, Cytadela Warszawska · ul. Gwardii 4",
+      "normalized": "wojska polskiego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-15T07:42:02.696198+00:00"
+    },
+    "gazowni warszawskiej · ul. seweryna krzyżanowskiego 7": {
+      "name": "Muzeum Gazowni Warszawskiej · ul. Seweryna Krzyżanowskiego 7",
+      "district": "Wola",
+      "address": "Muzeum Gazowni Warszawskiej · ul. Seweryna Krzyżanowskiego 7",
+      "normalized": "gazowni warszawskiej · ul. seweryna krzyżanowskiego 7",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-15T07:42:02.696415+00:00"
+    },
+    "okie sm wola · ul. powstańców śląskich 108a lok. 22": {
+      "name": "OKiE SM WOLA · ul. Powstańców Śląskich 108A lok. 22",
+      "district": "Bemowo",
+      "address": "OKiE SM WOLA · ul. Powstańców Śląskich 108A lok. 22",
+      "normalized": "okie sm wola · ul. powstańców śląskich 108a lok. 22",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-15T07:42:02.696618+00:00"
+    },
+    "planetowa 36": {
+      "name": "Planetowa 36",
+      "district": "Wawer",
+      "address": "Planetowa 36",
+      "normalized": "planetowa 36",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-15T07:42:02.696783+00:00"
+    },
+    "ul. nugat 4": {
+      "name": "ul. Nugat 4",
+      "district": "Ursynów",
+      "address": "ul. Nugat 4",
+      "normalized": "ul. nugat 4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-15T07:42:02.696920+00:00"
     }
   }
 }

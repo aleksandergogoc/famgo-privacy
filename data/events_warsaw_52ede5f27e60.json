@@ -1,43 +1,6 @@
 {
-  "updated_at": "2026-08-15T07:42:04.343388+00:00",
+  "updated_at": "2026-08-16T06:40:24.823633+00:00",
   "events": {
-    "106-rocznica-bitwy-warszawskiej-2026-08-15": {
-      "scrapped_timestamp": "2026-06-23T18:56:51.217293+00:00",
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/106-rocznica-bitwy-warszawskiej",
-      "category": "Seasonal Festival",
-      "description": "Podczas uroczystości nastąpi złożenie kwiatów i zapalenie zniczy. Burmistrz wygłosi przemówienie. Obecne będą delegacje ze szkół oraz przedstawiciele organizacji kombatanckich.",
-      "date": "2026-08-15T09:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Podczas uroczystości nastąpi złożenie kwiatów i zapalenie zniczy. Burmistrz wygłosi przemówienie. Obecne będą delegacje ze szkół oraz przedstawiciele organizacji kombatanckich.",
-          "title": "106. rocznica Bitwy Warszawskiej"
-        },
-        "uk": {
-          "description": "Під час урочистостей відбудеться покладання квітів та запалення свічок. Мер виголосить промову. Будуть присутні делегації зі шкіл та представники ветеранських організацій.",
-          "title": "106-та річниця Битви під Варшавою"
-        },
-        "en": {
-          "description": "During the ceremony, flowers will be laid and candles will be lit. The mayor will deliver a speech. Delegations from schools and representatives of veterans' organizations will be present.",
-          "title": "106th Anniversary of the Battle of Warsaw"
-        }
-      },
-      "url": "https://ursus.um.warszawa.pl/-/106-rocznica-bitwy-warszawskiej",
-      "end_date": "2026-08-15T12:00:00+00:00",
-      "district": "Ursus",
-      "updated_at": "2026-06-29T08:44:08.789000+00:00",
-      "source": "um.warszawa.pl",
-      "startTimeKnown": true,
-      "location": {
-        "district": "Ursus",
-        "name": "Pomnik Cierlicka"
-      },
-      "title": "106. rocznica Bitwy Warszawskiej",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "image": "https://cdn.um.warszawa.pl/documents/49065/17622870/obraz+Cierlicka.jpg/4b3a4752-d061-d9ea-9ab6-7ec3d0300767?version=1.1&t=1686728595561&imagePreview=1"
-    },
     "animacje-w-przestrzeni-edukacyjnej-hu-tawka-2026-08-16": {
       "real_source": "https://www.malywarszawiak.pl/",
       "category": "Educational",
@@ -786,45 +749,6 @@
         "name": "\"Kwiat paproci\", Plac zabaw przy Portowej"
       },
       "title": "Bajkowa Białołęka - rodzinne spotkania z teatrem: \"Kwiat paproci\"",
-      "image": "https://cdn.um.warszawa.pl/documents/40771/156895463/Bajkowa+Bia%C5%82o%C5%82%C4%99ka+2026+%281%29.png/70ab8b60-f6b3-400f-090a-c4c43047cf69?version=1.5&t=1782725125436&imagePreview=1",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      }
-    },
-    "bajkowa-bia-o-ka-rodzinne-spotkania-z-teatrem-s-owik-2026-08-15T13:00:00": {
-      "scrapped_timestamp": "2026-06-30T11:23:11.555991+00:00",
-      "scrapped_url": "https://bialoleka.um.warszawa.pl/-/bajkowa-bialoleka-rodzinne-spotkania-z-teatrem-slowik-",
-      "category": "Theater",
-      "description": "Zapraszamy najmłodszych wraz z rodzicami na wyjątkowy cykl bezpłatnych spektakli plenerowych, które przez całe wakacje będzie prezentował Teatr Baza.",
-      "date": "2026-08-15T11:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Zapraszamy najmłodszych wraz z rodzicami na wyjątkowy cykl bezpłatnych spektakli plenerowych, które przez całe wakacje będzie prezentował Teatr Baza.",
-          "title": "Bajkowa Białołęka - rodzinne spotkania z teatrem: \"Słowik\""
-        },
-        "uk": {
-          "description": "Запрошуємо наймолодших разом з батьками на унікальний цикл безкоштовних вистав просто неба, які протягом всього літа буде представляти Театр База.",
-          "title": "Байкова Бяłołęка - сімейні зустрічі з театром: \"Соловей\""
-        },
-        "en": {
-          "description": "We invite the youngest children along with their parents to a unique series of free outdoor performances presented by Teatr Baza throughout the summer.",
-          "title": "Fairy Tale Białołęka - Family Meetings with Theatre: 'The Nightingale'"
-        }
-      },
-      "url": "https://bialoleka.um.warszawa.pl/-/bajkowa-bialoleka-rodzinne-spotkania-z-teatrem-slowik-",
-      "end_date": "2026-08-15T13:00:00+00:00",
-      "district": "Białołęka",
-      "source": "um.warszawa.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Białołęka",
-        "name": "\"Słowik\", Truskawkowe Pole"
-      },
-      "title": "Bajkowa Białołęka - rodzinne spotkania z teatrem: \"Słowik\"",
       "image": "https://cdn.um.warszawa.pl/documents/40771/156895463/Bajkowa+Bia%C5%82o%C5%82%C4%99ka+2026+%281%29.png/70ab8b60-f6b3-400f-090a-c4c43047cf69?version=1.5&t=1782725125436&imagePreview=1",
       "age_range": {
         "min": 0,
@@ -3415,84 +3339,6 @@
       },
       "image": null
     },
-    "muzyczne-spotkania-z-legendami-s-owia-skimi-etniczne-instrumenty-ludowe-ta-czenie-2026-08-15": {
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Music & Dance",
-      "description": "Fundacja Inicjatyw Niebanalnych zaprasza na cykl plenerowych wydarzeń „Muzyczne Spotkania z Legendami Słowiańskimi na Pradze-Południu”.",
-      "date": "2026-08-15T13:30:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Fundacja Inicjatyw Niebanalnych zaprasza na cykl plenerowych wydarzeń „Muzyczne Spotkania z Legendami Słowiańskimi na Pradze-Południu”.",
-          "title": "Muzyczne Spotkania z Legendami Słowiańskimi: Etniczne instrumenty – ludowe tańczenie"
-        },
-        "uk": {
-          "description": "Фонд Небанальних Ініціатив запрошує на цикл вуличних подій «Музичні Зустрічі з Слов'янськими Легендами на Празі-Південь».",
-          "title": "Музичні Зустрічі з Слов'янськими Легендами: Етнічні інструменти – народні танці"
-        },
-        "en": {
-          "description": "The Foundation for Unconventional Initiatives invites you to a series of outdoor events 'Musical Encounters with Slavic Legends in Praga-South'.",
-          "title": "Musical Encounters with Slavic Legends: Ethnic Instruments – Folk Dancing"
-        }
-      },
-      "url": "https://pragapld.um.warszawa.pl/-/muzyczne-spotkania-z-legendami-slowianskimi-na-pradze-poludnie-2026#15-08",
-      "end_date": "2026-08-14T22:00:00+00:00",
-      "district": "Praga-Północ",
-      "updated_at": "2026-06-29T08:44:08.789000+00:00",
-      "source": "pragapld.um.warszawa.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Praga-Południe",
-        "name": "Park Obwodu Praga Armii Krajowej"
-      },
-      "title": "Muzyczne Spotkania z Legendami Słowiańskimi: Etniczne instrumenty – ludowe tańczenie",
-      "image": "https://cdn.um.warszawa.pl/o/portal-theme/images/other/og-image.png?t=1780021148000",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      }
-    },
-    "muzyczne-spotkania-z-legendami-s-owia-skimi-na-pradze-po-udnie-2026-08-15": {
-      "real_source": "https://waw4free.pl/",
-      "category": "Music & Dance",
-      "description": "Spotkaliście kiedyś Bzionka? Bzionki to leśne duszki, które wedle dawnych, słowiańskich wierzeń żyją pod krzewami czarnego bzu i pomagają ludziom chroniąc ich gospodarstwa przed złymi mocami. W dzisiejszych czasach, gdy w polu ludzie do pomocy mają maszyny, nikt już nie pamięta o Bzionkach, Polewikach, Rusałkach i innych duszkach związanych z przydrodą, o których przychylność dbali nasi przodkowie. Ale one nadal tu są, tęsknią za czasami, gdy człowiek szanował naturę i potrafił żyć z nią w zgodzie respektując porządek wyznaczany przez pory roku. Gdy Bzionkom zdarzy się spotkać ludzi, gotowych ich posłuchać, próbują przypomnieć im dokąd sięgają nasze korzenie, snując opowieści o prastarych drzewach, leśnych bóstwach, zwierzętach i roślinach. Zapraszamy mieszkańców Dzielnicy Praga Południe (i nie tylko) do wspólnego bajania. Spotkanie zawierać będzie: * legendy o stworzeniu świata * naukę pieśni ludowej * etniczne instrumenty * tańce ludowe * wspólne tworzenie słowiańskich lalek - motanek TERMINY SPEKTAKLI: 10.05 PARK OBWODU PRAGA AK GODZINA 12:00 31.05 PLAC SZEMBEKA GODZINA 12:00 15.08 PARK OBWODU PRAGA AK GODZINA 15:30 WSTĘP WOLNY Projekt współfinansuje m.st. Warszawa Dzielnica Praga-Południe oraz Fundacja Inicjatyw Niebanalnych Wydarzenie dostępne dla osób poruszających się na wózkach oraz osób z niepełnosprawnością intelektualną. Możliwość wejścia z psem asystującym. W razie pytań dotyczących szczegółów wydarzeń oraz ich dostosowania dla osób ze specjalnymi potrzebami prosimy o kontakt: kaszyff@gmail.com",
-      "date": "2026-08-15T13:30:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Spotkaliście kiedyś Bzionka? Bzionki to leśne duszki, które wedle dawnych, słowiańskich wierzeń żyją pod krzewami czarnego bzu i pomagają ludziom chroniąc ich gospodarstwa przed złymi mocami. W dzisiejszych czasach, gdy w polu ludzie do pomocy mają maszyny, nikt już nie pamięta o Bzionkach, Polewikach, Rusałkach i innych duszkach związanych z przydrodą, o których przychylność dbali nasi przodkowie. Ale one nadal tu są, tęsknią za czasami, gdy człowiek szanował naturę i potrafił żyć z nią w zgodzie respektując porządek wyznaczany przez pory roku. Gdy Bzionkom zdarzy się spotkać ludzi, gotowych ich posłuchać, próbują przypomnieć im dokąd sięgają nasze korzenie, snując opowieści o prastarych drzewach, leśnych bóstwach, zwierzętach i roślinach. Zapraszamy mieszkańców Dzielnicy Praga Południe (i nie tylko) do wspólnego bajania. Spotkanie zawierać będzie: * legendy o stworzeniu świata * naukę pieśni ludowej * etniczne instrumenty * tańce ludowe * wspólne tworzenie słowiańskich lalek - motanek TERMINY SPEKTAKLI: 10.05 PARK OBWODU PRAGA AK GODZINA 12:00 31.05 PLAC SZEMBEKA GODZINA 12:00 15.08 PARK OBWODU PRAGA AK GODZINA 15:30 WSTĘP WOLNY Projekt współfinansuje m.st. Warszawa Dzielnica Praga-Południe oraz Fundacja Inicjatyw Niebanalnych Wydarzenie dostępne dla osób poruszających się na wózkach oraz osób z niepełnosprawnością intelektualną. Możliwość wejścia z psem asystującym. W razie pytań dotyczących szczegółów wydarzeń oraz ich dostosowania dla osób ze specjalnymi potrzebami prosimy o kontakt: kaszyff@gmail.com",
-          "title": "MUZYCZNE SPOTKANIA Z LEGENDAMI SŁOWIAŃSKIMI NA PRADZE-POŁUDNIE"
-        },
-        "uk": {
-          "description": "Ви коли-небудь зустрічали Бзіонка? Бзіонки — це лісові духи, які, згідно з давніми слов'янськими віруваннями, живуть під кущами чорного бузку і допомагають людям, захищаючи їх господарства від злих сил. У наш час, коли на полі людям допомагають машини, ніхто вже не пам'ятає про Бзіонків, Полевиків, Русалок та інших духів, пов'язаних з природою, про прихильність яких дбали наші предки. Але вони все ще тут, сумують за часами, коли людина поважала природу і вміла жити з нею в злагоді, поважаючи порядок, визначений порами року. Коли Бзіонкам вдається зустріти людей, готових їх вислухати, вони намагаються нагадати їм, звідки беруться наші корені, розповідаючи історії про прадавні дерева, лісові божества, тварин і рослини. Запрошуємо мешканців Району Празький Південь.",
-          "title": "МУЗИЧНІ ЗУСТРІЧІ З ЛЕГЕНДАМИ СЛОВ'ЯН НА ПРАЗІ-ПІВДЕНЬ"
-        },
-        "en": {
-          "description": "Have you ever met a Bzionek? Bzionki are forest spirits that, according to ancient Slavic beliefs, live under the black elder bushes and help people by protecting their farms from evil forces. Nowadays, when people have machines to assist them in the fields, no one remembers Bzionki, Polewiks, Rusałki, and other spirits connected to nature, whose favor our ancestors cared for. But they are still here, longing for the times when humans respected nature and knew how to live in harmony with it, respecting the order set by the seasons. When Bzionki happen to meet people willing to listen, they try to remind them of our roots, weaving tales about ancient trees, forest deities, animals, and plants. We invite the residents of the Praga-South District.",
-          "title": "MUSICAL MEETINGS WITH SLAVIC LEGENDS IN PRAGA-SOUTH"
-        }
-      },
-      "url": "https://fb.me/e/6FxRPUMjZ",
-      "end_date": "2026-08-14T22:00:00+00:00",
-      "district": "Praga-Południe",
-      "updated_at": "2026-06-29T08:44:08.789000+00:00",
-      "source": "waw4free.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Praga-Południe",
-        "name": "PARK OBWODU PRAGA AK"
-      },
-      "title": "MUZYCZNE SPOTKANIA Z LEGENDAMI SŁOWIAŃSKIMI NA PRADZE-POŁUDNIE",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1530.1777390373.webp"
-    },
     "muzyczne-spotkania-z-legendami-s-owia-skimi-w-wawrze-2026-09-05": {
       "real_source": "https://www.malywarszawiak.pl/",
       "category": "Theater",
@@ -4358,126 +4204,6 @@
       },
       "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1774875562.webp"
     },
-    "s-owik-spektakl-na-pla-y-romantycznej-2026-08-15": {
-      "scrapped_timestamp": "2026-06-26T16:36:04.926884+00:00",
-      "scrapped_url": "#",
-      "category": "Theater",
-      "description": "W weekendy ul. Romantyczna i ul. Rychnowska są wyłączone z ruchu samochodowego - zalecany dojazd komunikacją miejską, rowerem lub bezpłatnym autobusem dzielnicy.",
-      "date": "2026-08-15T14:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "W weekendy ul. Romantyczna i ul. Rychnowska są wyłączone z ruchu samochodowego - zalecany dojazd komunikacją miejską, rowerem lub bezpłatnym autobusem dzielnicy.",
-          "title": "„Słowik\" – spektakl na Plaży Romantycznej"
-        },
-        "uk": {
-          "description": "У вихідні вулиця Романтична та вулиця Рихновська закриті для автомобільного руху - рекомендується доїзд громадським транспортом, велосипедом або безкоштовним автобусом району.",
-          "title": "„Соловей” – спектакль на Романтичному пляжі"
-        },
-        "en": {
-          "description": "On weekends, Romantic Street and Rychnowska Street are closed to vehicle traffic - it is recommended to use public transport, a bicycle, or the district's free bus.",
-          "title": "\"Nightingale\" – performance at Romantic Beach"
-        }
-      },
-      "real_source": "https://www.malywarszawiak.pl/",
-      "url": "#",
-      "end_date": "2026-08-14T22:00:00+00:00",
-      "district": "Wawer",
-      "updated_at": "2026-06-29T08:44:09.696000+00:00",
-      "source": "",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Wawer",
-        "name": "Plaża Romantyczna   · ul. Rychnowska, Warszawa (Plaża Romantyczna)"
-      },
-      "title": "„Słowik\" – spektakl na Plaży Romantycznej",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      }
-    },
-    "s-owik-spektakl-plenerowy-bia-o-ka-2026-08-15": {
-      "scrapped_timestamp": "2026-06-26T16:35:59.770144+00:00",
-      "scrapped_url": "https://teatrbaza.pl/spektakle/",
-      "category": "Theater",
-      "description": "Wstęp wolny. Projekty współfinansowane ze środków dzielnic m.st. Warszawy. Miejscami wydarzeń są parki, skwery i place zabaw z łatwym dostępem architektonicznym i komunikacyjnym dla osób ze specjalnymi potrzebami.",
-      "date": "2026-08-15T11:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Wstęp wolny. Projekty współfinansowane ze środków dzielnic m.st. Warszawy. Miejscami wydarzeń są parki, skwery i place zabaw z łatwym dostępem architektonicznym i komunikacyjnym dla osób ze specjalnymi potrzebami.",
-          "title": "„Słowik\" – spektakl plenerowy (Białołęka)"
-        },
-        "uk": {
-          "description": "Вхід вільний. Проекти співфінансуються з коштів районів м. Варшава. Місцями проведення подій є парки, сквери та дитячі майданчики з легким архітектурним та комунікаційним доступом для осіб з особливими потребами.",
-          "title": "„Соловей” – вуличний спектакль (Білоłęка)"
-        },
-        "en": {
-          "description": "Free admission. Projects co-financed by the districts of the capital city of Warsaw. The venues for the events are parks, squares, and playgrounds with easy architectural and communication access for people with special needs.",
-          "title": "\"Nightingale\" – outdoor performance (Białołęka)"
-        }
-      },
-      "real_source": "https://www.malywarszawiak.pl/",
-      "url": "https://teatrbaza.pl/spektakle/",
-      "end_date": "2026-08-14T22:00:00+00:00",
-      "district": "Białołęka",
-      "updated_at": "2026-06-29T08:44:09.696000+00:00",
-      "source": "teatrbaza.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Białołęka",
-        "name": "Truskawkowe Pole   · Truskawkowe Pole, Warszawa"
-      },
-      "title": "„Słowik\" – spektakl plenerowy (Białołęka)",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      }
-    },
-    "s-owik-spektakl-plenerowy-wola-2026-08-15": {
-      "scrapped_timestamp": "2026-06-26T16:35:55.948935+00:00",
-      "scrapped_url": "https://teatrbaza.pl/spektakle/",
-      "category": "Theater",
-      "description": "Wstęp wolny. Projekty współfinansowane ze środków dzielnic m.st. Warszawy. Miejscami wydarzeń są parki, skwery i place zabaw z łatwym dostępem architektonicznym i komunikacyjnym dla osób ze specjalnymi potrzebami.",
-      "date": "2026-08-15T08:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Wstęp wolny. Projekty współfinansowane ze środków dzielnic m.st. Warszawy. Miejscami wydarzeń są parki, skwery i place zabaw z łatwym dostępem architektonicznym i komunikacyjnym dla osób ze specjalnymi potrzebami.",
-          "title": "„Słowik\" – spektakl plenerowy (Wola)"
-        },
-        "uk": {
-          "description": "Вхід вільний. Проекти співфінансуються з коштів районів м. Варшава. Місцями проведення подій є парки, сквери та дитячі майданчики з легким архітектурним та комунікаційним доступом для осіб з особливими потребами.",
-          "title": "„Соловей” – вуличний спектакль (Воля)"
-        },
-        "en": {
-          "description": "Free admission. Projects co-financed by the districts of the capital city of Warsaw. The venues for the events are parks, squares, and playgrounds with easy architectural and communication access for people with special needs.",
-          "title": "\"Nightingale\" – outdoor performance (Wola)"
-        }
-      },
-      "real_source": "https://www.malywarszawiak.pl/",
-      "url": "https://teatrbaza.pl/spektakle/",
-      "end_date": "2026-08-14T22:00:00+00:00",
-      "district": "Wola",
-      "updated_at": "2026-06-29T08:44:09.696000+00:00",
-      "source": "teatrbaza.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Wola",
-        "name": "Park Edwarda Szymańskiego   · Park Edwarda Szymańskiego, Warszawa"
-      },
-      "title": "„Słowik\" – spektakl plenerowy (Wola)",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      }
-    },
     "spektakl-dziewczynka-z-zapa-kami-wiat-smogu-godz-9-00-11-00-13-00-2026-09-28T09:00:00": {
       "scrapped_timestamp": "2026-07-01T11:36:19.733022+00:00",
       "real_source": "https://waw4free.pl/",
@@ -4804,45 +4530,6 @@
       },
       "image": "https://wilanow-palac.pl/uploads/thumbs/66bdcfe298461782385660.jpg"
     },
-    "spotkania-z-teatrem-i-legendami-s-owia-skimi-na-targ-wku-2026-08-15": {
-      "real_source": "https://waw4free.pl/",
-      "category": "Theater",
-      "description": "Spotkaliście kiedyś Bzionka? 🙀 🌱 Bzionki to leśne duszki, które wedle dawnych, słowiańskich wierzeń żyją pod krzewami czarnego bzu i pomagają ludziom chroniąc ich gospodarstwa przed złymi mocami. W dzisiejszych czasach, gdy w polu ludzie do pomocy mają maszyny, nikt już nie pamięta o Bzionkach, Polewikach, Rusałkach i innych duszkach związanych z przydrodą, o których przychylność dbali nasi przodkowie. Ale one nadal tu są, tęsknią za czasami, gdy człowiek szanował naturę i potrafił żyć z nią w zgodzie respektując porządek wyznaczany przez pory roku. Gdy Bzionkom zdarzy się spotkać ludzi, gotowych ich posłuchać, próbują przypomnieć im dokąd sięgają nasze korzenie, snując opowieści o prastarych drzewach, leśnych bóstwach, zwierzętach i roślinach. 🌱 Zapraszamy mieszkańców Dzielnicy Targówek (i nie tylko) do wspólnego bajania. Spotkanie zawierać będzie: * legendy o stworzeniu świata * naukę pieśni ludowej * etniczne instrumenty * tańce ludowe * wspólne tworzenie słowiańskich lalek - motanek 🌱 TERMINY SPOTKAŃ: 28.06 o 16 - Plac Zabaw, ul. Tużycka 35 9.08 o 16 - Plac Zabaw, przy grodzisku w Lasku Bródnowskim 15.08 o 12 - Plac zabaw przy kanale, ul. Zaciszańska 2 6.09 o 12 - Park Wiecha obok pl. zabaw Pluciaka 🌱 WSTĘP WOLNY Projekt współfinansuje m.st. Warszawa Dzielnica Targówek oraz Fundacja Inicjatyw Niebanalnych Wydarzenie dostępne dla osób poruszających się na wózkach oraz osób z niepełnosprawnością intelektualną. Możliwość wejścia z psem asystującym. W razie pytań dotyczących szczegółów wydarzeń oraz ich dostosowania dla osób ze specjalnymi potrzebami prosimy o kontakt: kaszyff@gmail.com",
-      "date": "2026-08-15T10:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Spotkaliście kiedyś Bzionka? 🙀 🌱 Bzionki to leśne duszki, które wedle dawnych, słowiańskich wierzeń żyją pod krzewami czarnego bzu i pomagają ludziom chroniąc ich gospodarstwa przed złymi mocami. W dzisiejszych czasach, gdy w polu ludzie do pomocy mają maszyny, nikt już nie pamięta o Bzionkach, Polewikach, Rusałkach i innych duszkach związanych z przydrodą, o których przychylność dbali nasi przodkowie. Ale one nadal tu są, tęsknią za czasami, gdy człowiek szanował naturę i potrafił żyć z nią w zgodzie respektując porządek wyznaczany przez pory roku. Gdy Bzionkom zdarzy się spotkać ludzi, gotowych ich posłuchać, próbują przypomnieć im dokąd sięgają nasze korzenie, snując opowieści o prastarych drzewach, leśnych bóstwach, zwierzętach i roślinach. 🌱 Zapraszamy mieszkańców Dzielnicy Targówek (i nie tylko) do wspólnego bajania. Spotkanie zawierać będzie: * legendy o stworzeniu świata * naukę pieśni ludowej * etniczne instrumenty * tańce ludowe * wspólne tworzenie słowiańskich lalek - motanek 🌱 TERMINY SPOTKAŃ: 28.06 o 16 - Plac Zabaw, ul. Tużycka 35 9.08 o 16 - Plac Zabaw, przy grodzisku w Lasku Bródnowskim 15.08 o 12 - Plac zabaw przy kanale, ul. Zaciszańska 2 6.09 o 12 - Park Wiecha obok pl. zabaw Pluciaka 🌱 WSTĘP WOLNY Projekt współfinansuje m.st. Warszawa Dzielnica Targówek oraz Fundacja Inicjatyw Niebanalnych Wydarzenie dostępne dla osób poruszających się na wózkach oraz osób z niepełnosprawnością intelektualną. Możliwość wejścia z psem asystującym. W razie pytań dotyczących szczegółów wydarzeń oraz ich dostosowania dla osób ze specjalnymi potrzebami prosimy o kontakt: kaszyff@gmail.com",
-          "title": "SPOTKANIA Z TEATREM I LEGENDAMI SŁOWIAŃSKIMI NA TARGÓWKU"
-        },
-        "uk": {
-          "description": "Ви коли-небудь зустрічали Бзіонка? 🙀 🌱 Бзіонки – це лісові духи, які, згідно з давніми слов'янськими віруваннями, живуть під кущами чорного бузку і допомагають людям, захищаючи їх господарства від злих сил. У наш час, коли на полях людям допомагають машини, ніхто вже не пам'ятає про Бзіонків, Полевиків, Русалок та інших духів, пов'язаних з природою, про прихильність яких дбали наші предки. Але вони все ще тут, сумують за часами, коли людина поважала природу і вміла жити з нею в злагоді, поважаючи порядок, визначений порами року. Коли Бзіонкам вдається зустріти людей, готових їх вислухати, вони намагаються нагадати їм, звідки беруться наші корені, розповідаючи історії про прадавні дерева, лісових богів, тварин і рослини. 🌱 Запрошуємо мешканців району Тарговка",
-          "title": "ЗУСТРІЧІ З ТЕАТРОМ І СЛОВ'ЯНСЬКИМИ ЛЕГЕНДАМИ НА ТАРГОВКУ"
-        },
-        "en": {
-          "description": "Have you ever met Bzionek? 🙀 🌱 Bzionki are forest spirits that, according to ancient Slavic beliefs, live under the black elder bushes and help people by protecting their farms from evil forces. In today's times, when people have machines to help them in the fields, no one remembers Bzionki, Polewiks, Rusałkas, and other spirits connected to nature, whose favor our ancestors cared for. But they are still here, longing for the times when humans respected nature and knew how to live in harmony with it, respecting the order set by the seasons. When Bzionki happen to meet people willing to listen to them, they try to remind them of where our roots reach, weaving tales about ancient trees, forest deities, animals, and plants. 🌱 We invite the residents of the Targówek District.",
-          "title": "Meetings with Theatre and Slavic Legends in Targówek"
-        }
-      },
-      "url": "https://fb.me/e/4p0FD6fS5",
-      "end_date": "2026-08-14T22:00:00+00:00",
-      "district": "Targówek",
-      "updated_at": "2026-06-29T08:44:09.696000+00:00",
-      "source": "waw4free.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Targówek",
-        "name": "Zaciszańska 2"
-      },
-      "title": "SPOTKANIA Z TEATREM I LEGENDAMI SŁOWIAŃSKIMI NA TARGÓWKU",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1600.1781000934.webp"
-    },
     "spotkania-z-teatrem-i-legendami-s-owia-skimi-na-targ-wku-2026-09-06": {
       "real_source": "https://waw4free.pl/",
       "category": "Theater",
@@ -5068,42 +4755,6 @@
         "name": "Park Szymańskiego"
       },
       "title": "Teatr Baza - Bajkowa Wola: Kwiat paproci",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "image": "https://cdn.um.warszawa.pl/documents/43348/18342557/Bajkowa+Wola_Teatr+Baza.png/0bf49358-5de2-9dde-eef1-77220a0310a7?version=1.0&t=1750856534722&imagePreview=1"
-    },
-    "teatr-baza-bajkowa-wola-s-owik-2026-08-15T10:00:00": {
-      "scrapped_timestamp": "2026-07-03T16:09:15.127134+00:00",
-      "scrapped_url": "https://wola.um.warszawa.pl/-/teatr-baza-bajkowa-wola-slowik",
-      "category": "Theater",
-      "description": "Rodzinne spektakle teatralne w plenerze, skierowane do najmłodszych i ich rodzin. Przedstawienia w wykonaniu Teatru Baza będą odbywały się w parku im. Edwarda Szymańskiego – od strony przedszkola nr 350 „Jaśminowy Gaj” (ul. Wieluńska 12). Tytuł przedstawienia: „Słowik” Termin: 15 sierpnia, sobota, godz. 10:00 Lokalizacja: Park im. Edwarda Szymańskiego, od strony przedszkola nr 350 „Jaśminowy Gaj”. Kolejne spektakle: soboty o godz. 10:00 Kwiat paprosi – 22 sierpnia, Baba dżaga –...",
-      "date": "2026-08-15T08:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Rodzinne spektakle teatralne w plenerze, skierowane do najmłodszych i ich rodzin. Przedstawienia w wykonaniu Teatru Baza będą odbywały się w parku im. Edwarda Szymańskiego – od strony przedszkola nr 350 „Jaśminowy Gaj” (ul. Wieluńska 12). Tytuł przedstawienia: „Słowik” Termin: 15 sierpnia, sobota, godz. 10:00 Lokalizacja: Park im. Edwarda Szymańskiego, od strony przedszkola nr 350 „Jaśminowy Gaj”. Kolejne spektakle: soboty o godz. 10:00 Kwiat paprosi – 22 sierpnia, Baba dżaga –...",
-          "title": "Teatr Baza - Bajkowa Wola: Słowik"
-        },
-        "uk": {
-          "description": "Сімейні театральні вистави на свіжому повітрі, спрямовані на наймолодших та їхні родини. Вистави у виконанні Театру База відбуватимуться в парку ім. Едварда Шиманського – з боку дитячого садка № 350 «Жасминовий Гай» (вул. Велюньська 12). Назва вистави: «Солом'яний Півник» Дата: 15 серпня, субота, о 10:00 Локація: Парк ім. Едварда Шиманського, з боку дитячого садка № 350 «Жасминовий Гай». Наступні вистави: суботи о 10:00 Квітка папросі – 22 серпня, Баба яга –...",
-          "title": "Театр База - Казкова Воля: Солом'яний Півник"
-        },
-        "en": {
-          "description": "Family theater performances in the open air, aimed at the youngest and their families. The performances by Theater Baza will take place in Edward Szymański Park – from the side of kindergarten no. 350 'Jasminowy Gaj' (Wieluńska Street 12). Title of the performance: 'The Nightingale' Date: August 15, Saturday, at 10:00 AM Location: Edward Szymański Park, from the side of kindergarten no. 350 'Jasminowy Gaj'. Upcoming performances: Saturdays at 10:00 AM Flower asked – August 22, Baba Yaga –...",
-          "title": "Theater Baza - Fairy Tale Wola: The Nightingale"
-        }
-      },
-      "url": "https://wola.um.warszawa.pl/-/teatr-baza-bajkowa-wola-slowik",
-      "end_date": "2026-08-15T09:30:00+00:00",
-      "district": "Wola",
-      "source": "um.warszawa.pl",
-      "startTimeKnown": true,
-      "location": {
-        "district": "Wola",
-        "name": "Park Szymańskiego"
-      },
-      "title": "Teatr Baza - Bajkowa Wola: Słowik",
       "age_range": {
         "min": 0,
         "max": 6
@@ -5578,45 +5229,6 @@
         "max": 12
       },
       "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_970676225_original.jpg"
-    },
-    "wilanowskie-kino-plenerowe-dla-dzieci-krudowie-2-nowa-era-2026-08-15": {
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Cinema",
-      "description": "To propozycja na rodzinne, sobotnie popołudnia pod chmurką. W programie znalazły się animacje i filmy familijne, które sprawdzą się zarówno dla młodszych dzieci, jak i całych rodzin. Wydarzenie realizowane jest w ramach Budżetu Obywatelskiego. Zapraszamy dzieci, rodziców i opiekunów do wspólnego oglądania filmów w plenerze.",
-      "date": "2026-08-15T13:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "To propozycja na rodzinne, sobotnie popołudnia pod chmurką. W programie znalazły się animacje i filmy familijne, które sprawdzą się zarówno dla młodszych dzieci, jak i całych rodzin. Wydarzenie realizowane jest w ramach Budżetu Obywatelskiego. Zapraszamy dzieci, rodziców i opiekunów do wspólnego oglądania filmów w plenerze.",
-          "title": "Wilanowskie Kino Plenerowe dla dzieci: „Krudowie 2. Nowa era\""
-        },
-        "uk": {
-          "description": "Це пропозиція для сімейних, суботніх післяобідніх прогулянок під відкритим небом. У програмі анімації та сімейні фільми, які підійдуть як для молодших дітей, так і для цілих родин. Захід реалізується в рамках Громадського бюджету. Запрошуємо дітей, батьків та опікунів до спільного перегляду фільмів на свіжому повітрі.",
-          "title": "Вілановське кінопоказ для дітей: «Крудо 2. Нова ера»"
-        },
-        "en": {
-          "description": "This is a proposal for family Saturday afternoons outdoors. The program includes animations and family films that are suitable for both younger children and entire families. The event is being organized as part of the Civic Budget. We invite children, parents, and guardians to enjoy watching films together in the open air.",
-          "title": "Wilanów Open-Air Cinema for Children: 'The Croods 2: A New Age'"
-        }
-      },
-      "url": "https://wilanow.um.warszawa.pl/-/filmowe-soboty-dla-dzieci-przed-urzedem-dzielnicy-wilanow#15-08",
-      "end_date": "2026-08-14T22:00:00+00:00",
-      "district": "Wilanów",
-      "updated_at": "2026-06-29T08:44:09.696000+00:00",
-      "source": "wilanow.um.warszawa.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Wilanów",
-        "name": "Urząd Dzielnicy Wilanów   · ul. Klimczaka 2"
-      },
-      "title": "Wilanowskie Kino Plenerowe dla dzieci: „Krudowie 2. Nowa era\"",
-      "image": "https://cdn.um.warszawa.pl/o/portal-theme/images/other/og-image.png?t=1780495606000",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      }
     },
     "wilanowskie-kino-plenerowe-dla-dzieci-mustang-z-dzikiej-doliny-droga-do-wolno-ci-2026-08-29": {
       "real_source": "https://www.malywarszawiak.pl/",
@@ -6911,43 +6523,6 @@
       "district": "Mokotów",
       "updated_at": "2026-07-22T08:57:19.745921+00:00"
     },
-    "muzyczny-sierpie-w-parku-kultury-w-powsinie-2026-08-02T16:00:00+02:00": {
-      "title": "Muzyczny sierpień w Parku Kultury w Powsinie",
-      "date": "2026-08-02T16:00:00+02:00",
-      "end_date": "2026-08-15T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Przed nami dwa wyjątkowe koncerty, które odbędą się w Amfiteatrze Parku Kultury w Powsinie. Wydarzenia organizowane przez Centrum Kultury Wilanów to doskonała okazja, by połączyć letni wypoczynek z muzyką na żywo.",
-      "image": "https://sport.um.warszawa.pl/documents/63418301/0/Centrum+Kultury+Wilan%C3%B3w1.jpg/2efeb0be-9bfd-fb1f-1185-08d5df255cad?version=1.0&t=1784710541512&imagePreview=1",
-      "url": "https://sport.um.warszawa.pl/waw/park-kultury-w-powsinie/-/sierpniowe-koncerty",
-      "source": "um.warszawa.pl",
-      "district": "Ursynów",
-      "location": {
-        "name": "Park Kultury w Powsinie, Maślaków 1, 02-973, Warszawa",
-        "district": "Ursynów"
-      },
-      "scrapped_url": "https://sport.um.warszawa.pl/waw/park-kultury-w-powsinie/-/sierpniowe-koncerty",
-      "scrapped_timestamp": "2026-07-23T13:36:10.795969+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Muzyczny sierpień w Parku Kultury w Powsinie",
-          "description": "Przed nami dwa wyjątkowe koncerty, które odbędą się w Amfiteatrze Parku Kultury w Powsinie. Wydarzenia organizowane przez Centrum Kultury Wilanów to doskonała okazja, by połączyć letni wypoczynek z muzyką na żywo."
-        },
-        "en": {
-          "title": "Musical August at the Culture Park in Powsin",
-          "description": "We have two exceptional concerts ahead of us, which will take place at the Amphitheater of the Culture Park in Powsin. The events organized by the Wilanów Culture Center are a great opportunity to combine summer relaxation with live music."
-        },
-        "uk": {
-          "title": "Музичний серпень у Парку Культури в Повсині",
-          "description": "Попереду нас чекають два унікальні концерти, які відбудуться в Амфітеатрі Парку Культури в Повсині. Події, організовані Центром Культури Віланов, є відмінною можливістю поєднати літній відпочинок з живою музикою."
-        }
-      },
-      "updated_at": "2026-07-23T13:39:11.494219+00:00"
-    },
     "rozta-c-wki-wakacje-z-ta-cem-wydarzenie-bezp-atne-2026-08-03T18:00:00+02:00": {
       "title": "Roztańcówki – wakacje z tańcem. (wydarzenie bezpłatne)",
       "date": "2026-08-03T18:00:00+02:00",
@@ -7833,47 +7408,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-07-31T07:17:07.925610+00:00"
-    },
-    "rodzinne-pikniki-artystyczne-2026-08-15T16:00:00+02:00": {
-      "title": "Rodzinne Pikniki Artystyczne",
-      "date": "2026-08-15T16:00:00+02:00",
-      "end_date": "2026-08-15T18:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Cykl imprez kulturalno-artystycznych w Parku im. płk. Jana Szypowskiego \"Leśnika\". Wydarzenia skierowane są do mieszkańców dzielnicy Praga-Południe i Warszawy - dorosłych i dzieci. Program obejmuje koncerty muzyczne i warsztaty artystyczne: papieroplastykę, tworzenie biżuterii dziecięcej i zabawy plastelina kreatywną.",
-      "url": "https://pragapld.um.warszawa.pl/-/rodzinne-pikniki-artystyczne-2026#15-08",
-      "source": "pragapld.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Park im. płk. Jana Szypowskiego \"Leśnika\"",
-        "district": "Praga-Południe"
-      },
-      "image": "https://cdn.um.warszawa.pl/documents/50051/162957544/mini_rodzinne+pikniki.jpg/67156a75-8f35-bab7-6783-7079a423f92e?version=1.0&t=1784878241398&imageThumbnail=1",
-      "scrapped_url": "https://pragapld.um.warszawa.pl/-/rodzinne-pikniki-artystyczne-2026#15-08",
-      "scrapped_timestamp": "2026-07-31T07:12:37.942346+00:00",
-      "category": "Arts",
-      "translations": {
-        "pl": {
-          "title": "Rodzinne Pikniki Artystyczne",
-          "description": "Cykl imprez kulturalno-artystycznych w Parku im. płk. Jana Szypowskiego \"Leśnika\". Wydarzenia skierowane są do mieszkańców dzielnicy Praga-Południe i Warszawy - dorosłych i dzieci. Program obejmuje koncerty muzyczne i warsztaty artystyczne: papieroplastykę, tworzenie biżuterii dziecięcej i zabawy plastelina kreatywną."
-        },
-        "en": {
-          "title": "Family Artistic Picnics",
-          "description": "A series of cultural and artistic events in Colonel Jan Szypowski 'Forester' Park. The events are aimed at residents of the Praga-Południe district and Warsaw - adults and children. The program includes musical concerts and artistic workshops: paper art, creating children's jewelry, and creative modeling clay activities."
-        },
-        "uk": {
-          "title": "Сімейні художні пікніки",
-          "description": "Цикл культурно-художніх заходів у парку імені полковника Яна Шиповського \"Лісника\". Події спрямовані на мешканців району Прага-Південь та Варшави - дорослих і дітей. Програма включає музичні концерти та художні майстер-класи: паперопластика, створення дитячих прикрас та творчі ігри з пластиліну."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-07-31T07:17:07.926696+00:00"
     },
     "kino-plenerowe-dla-du-ych-i-ma-ych-baranek-shaun-farmageddon-2026-08-16T11:00:00+02:00": {
       "title": "Kino plenerowe dla dużych i małych: \"Baranek Shaun. Farmageddon\"",
@@ -9761,47 +9295,6 @@
       "district": "Ochota",
       "updated_at": "2026-08-04T09:06:45.665875+00:00"
     },
-    "eko-jednoro-ce-na-patyku-darmowy-warsztat-godz-12-00-lub14-00-2026-08-15T12:00:00+02:00": {
-      "title": "Eko jednorożce na patyku - darmowy warsztat [godz. 12:00 lub14:00]",
-      "date": "2026-08-15T12:00:00+02:00",
-      "end_date": "2026-08-15T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Daj drugie życie materiałom i stwórz własnego jednorożca do zabawy! Podczas warsztatów zamienimy niepotrzebne skrawki materiałów w unikalne eko jednorożce na patyku. 🐴 Każdy uczestnik wyjdzie od nas z własnoręcznie wykonanym dziełem i miłą niespodzianką! To idealna okazja do kreatywnej zabawy, uruchomienia wyobraźni i zrobienia czegoś pięknego w duchu eko. 📍 ul. Jazdów 3/17 🗓️ Soboty 15.08 ⏰ 12:00-14:00 lub 14:00-16:00 Zapisy obowiązkowe: link tel. 609 188 027 e-mail: dzielniewarszawskie@gmail.com",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1200.1785767270.webp",
-      "location": {
-        "name": "Jazdów 3/17",
-        "district": "Śródmieście"
-      },
-      "url": "https://fb.me/e/4Cq61f642",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://fb.me/e/4Cq61f642",
-      "scrapped_timestamp": "2026-08-05T09:01:53.022763+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Eko jednorożce na patyku - darmowy warsztat [godz. 12:00 lub14:00]",
-          "description": "Daj drugie życie materiałom i stwórz własnego jednorożca do zabawy! Podczas warsztatów zamienimy niepotrzebne skrawki materiałów w unikalne eko jednorożce na patyku. 🐴 Każdy uczestnik wyjdzie od nas z własnoręcznie wykonanym dziełem i miłą niespodzianką! To idealna okazja do kreatywnej zabawy, uruchomienia wyobraźni i zrobienia czegoś pięknego w duchu eko. 📍 ul. Jazdów 3/17 🗓️ Soboty 15.08 ⏰ 12:00-14:00 lub 14:00-16:00 Zapisy obowiązkowe: link tel. 609 188 027 e-mail: dzielniewarszawskie@gmail.com"
-        },
-        "en": {
-          "title": "Eco Unicorns on a Stick - Free Workshop [12:00 or 14:00]",
-          "description": "Give a second life to materials and create your own unicorn for play! During the workshop, we will transform unnecessary scraps of fabric into unique eco unicorns on a stick. 🐴 Each participant will leave with their own handmade creation and a nice surprise! This is a perfect opportunity for creative fun, sparking imagination, and making something beautiful in an eco-friendly spirit. 📍 ul. Jazdów 3/17 🗓️ Saturdays 15.08 ⏰ 12:00-14:00 or 14:00-16:00 Registration is mandatory: link phone 609 188 027 email: dzielniewarszawskie@gmail.com"
-        },
-        "uk": {
-          "title": "Еко єдинороги на паличці - безкоштовний майстер-клас [год. 12:00 або 14:00]",
-          "description": "Дайте друге життя матеріалам і створіть власного єдинорога для гри! Під час майстер-класу ми перетворимо непотрібні шматки матеріалів на унікальні еко єдинороги на паличці. 🐴 Кожен учасник вийде від нас з власноруч виготовленим витвором і приємним сюрпризом! Це ідеальна нагода для креативної гри, запуску уяви та створення чогось красивого в дусі еко. 📍 вул. Яздов 3/17 🗓️ Суботи 15.08 ⏰ 12:00-14:00 або 14:00-16:00 Обов'язкова реєстрація: посилання тел. 609 188 027 e-mail: dzielniewarszawskie@gmail.com"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-05T09:03:08.496275+00:00"
-    },
     "rodzinne-warsztaty-ekologiczne-le-ne-mobile-2026-08-22T10:30:00+02:00": {
       "title": "RODZINNE WARSZTATY EKOLOGICZNE - Leśne mobile",
       "date": "2026-08-22T10:30:00+02:00",
@@ -10047,47 +9540,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-08-06T09:03:23.102614+00:00"
-    },
-    "piknik-historyczny-w-wi-to-wojska-polskiego-2026-08-15T13:45:00+02:00": {
-      "title": "Piknik historyczny w Święto Wojska Polskiego",
-      "date": "2026-08-15T13:45:00+02:00",
-      "end_date": "2026-08-15T13:45:00+02:00",
-      "startTimeKnown": true,
-      "description": "Z okazji Święta Wojska Polskiego zapraszamy na piknik, na którym obejrzycie pokazy kawalerzystów władania szablą i lancą ⚔️ oraz ich umiejętności jazdy konnej! 🐎 Program dnia zakończy się koncertem Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego 🎺. 🎫 Wstęp wolny. 📆 Termin: 15 sierpnia, godz. 13.45–18.00 📍Miejsca: teren rekreacyjny za Ermitażem, Ogrody Łazienek, Amfiteatr. 📜 PROGRAM PIKNIKU godz. 13.45 – Wymarsz kawalerii z Terenu Rekreacyjnego przy Ermitażu. 14.00 – Uroczysta zbiórka żołnierzy 1. batalionu kawalerii powietrznej – 1. Dywizjonu Szwoleżerów Marszałka Józefa Piłsudskiego i kawalerii ochotniczej, podniesienie flagi państwowej i odegranie Hymnu Państwowego. 14.15 – Złożenie kwiatów pod pomnikiem Bolesława Wieniawy-Długoszowskiego przed Pałacem Myślewickim. 14.20 – Przemarsz kawalerii alejkami łazienkowskich ogrodów pod Belweder. 14.40 - Złożenie kwiatów pod pomnikiem marszałka Józefa Piłsudskiego. 14.45 – Przemarsz kawalerii spod Belwederu na Teren Rekreacyjny przy Ermitażu. 15.00 – Przywitanie gości i prezentacja kawaleryjskich sylwetek. 15.20 – Pokaz kadryla w wykonaniu amazonek ze Stowarzyszenia Szwadron Jazdy RP. 15.40 – Pokaz musztry kawaleryjskiej w wykonaniu Szwadronu Ochotniczego im. 1. Pułku Szwoleżerów Józefa Piłsudskiego ze Stowarzyszenia Szwadron Jazdy RP. 16.00–16.20 – Pokaz władania szablą i lancą konno w wykonaniu Szwadronu Ochotniczego im. 1. Pułku Szwoleżerów Józefa Piłsudskiego. 17.00 – koncert Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego w Amfiteatrze. Więcej informacji o koncercie w wydarzeniu >> link",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1785932788.webp",
-      "location": {
-        "name": "Łazienki Królewskie, ul. Agrykola 1",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/events/1075128338279442/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1075128338279442/",
-      "scrapped_timestamp": "2026-08-06T09:02:11.868348+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Piknik historyczny w Święto Wojska Polskiego",
-          "description": "Z okazji Święta Wojska Polskiego zapraszamy na piknik, na którym obejrzycie pokazy kawalerzystów władania szablą i lancą ⚔️ oraz ich umiejętności jazdy konnej! 🐎 Program dnia zakończy się koncertem Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego 🎺. 🎫 Wstęp wolny. 📆 Termin: 15 sierpnia, godz. 13.45–18.00 📍Miejsca: teren rekreacyjny za Ermitażem, Ogrody Łazienek, Amfiteatr. 📜 PROGRAM PIKNIKU godz. 13.45 – Wymarsz kawalerii z Terenu Rekreacyjnego przy Ermitażu. 14.00 – Uroczysta zbiórka żołnierzy 1. batalionu kawalerii powietrznej – 1. Dywizjonu Szwoleżerów Marszałka Józefa Piłsudskiego i kawalerii ochotniczej, podniesienie flagi państwowej i odegranie Hymnu Państwowego. 14.15 – Złożenie kwiatów pod pomnikiem Bolesława Wieniawy-Długoszowskiego przed Pałacem Myślewickim. 14.20 – Przemarsz kawalerii alejkami łazienkowskich ogrodów pod Belweder. 14.40 - Złożenie kwiatów pod pomnikiem marszałka Józefa Piłsudskiego. 14.45 – Przemarsz kawalerii spod Belwederu na Teren Rekreacyjny przy Ermitażu. 15.00 – Przywitanie gości i prezentacja kawaleryjskich sylwetek. 15.20 – Pokaz kadryla w wykonaniu amazonek ze Stowarzyszenia Szwadron Jazdy RP. 15.40 – Pokaz musztry kawaleryjskiej w wykonaniu Szwadronu Ochotniczego im. 1. Pułku Szwoleżerów Józefa Piłsudskiego ze Stowarzyszenia Szwadron Jazdy RP. 16.00–16.20 – Pokaz władania szablą i lancą konno w wykonaniu Szwadronu Ochotniczego im. 1. Pułku Szwoleżerów Józefa Piłsudskiego. 17.00 – koncert Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego w Amfiteatrze. Więcej informacji o koncercie w wydarzeniu >> link"
-        },
-        "en": {
-          "title": "Historical Picnic on the Polish Army Day",
-          "description": "On the occasion of the Polish Army Day, we invite you to a picnic where you will witness cavalry demonstrations of saber and lance skills ⚔️ as well as their horseback riding abilities! 🐎 The day's program will conclude with a concert by the Representative Artistic Ensemble of the Polish Army 🎺. 🎫 Free admission. 📆 Date: August 15, 1:45 PM – 6:00 PM 📍 Location: Recreational area behind the Hermitage, Łazienki Gardens, Amphitheater. 📜 PICNIC PROGRAM 1:45 PM – Cavalry march from the Recreational Area near the Hermitage. 2:00 PM – Ceremonial gathering of soldiers from the 1st Air Cavalry Battalion – 1st Squadron of the Marshal Józef Piłsudski Lancers and volunteer cavalry, raising of the national flag and playing of the National Anthem. 2:15 PM – Laying flowers at the monument of Bolesław Wieniawa-Długoszowski in front of the Myślewicki Palace. 2:20 PM – Speech..."
-        },
-        "uk": {
-          "title": "Історичний пікнік на Свято Польського війська",
-          "description": "З нагоди Свята Польського війська запрошуємо на пікнік, на якому ви побачите покази кавалеристів володіння шаблею та списом ⚔️, а також їхні навички верхової їзди! 🐎 Програма дня завершиться концертом Представницького художнього ансамблю Польського війська 🎺. 🎫 Вхід вільний. 📆 Дата: 15 серпня, з 13:45 до 18:00 📍Місце: рекреаційна зона за Ермітажем, Сади Лазенки, Амфітеатр. 📜 ПРОГРАМА ПІКНІКУ 13:45 – Вихід кавалерії з Рекреаційної зони біля Ермітажу. 14:00 – Урочисте зібрання солдатів 1-го батальйону повітряної кавалерії – 1-го ескадрону шволежерів маршала Юзефа Пілсудського та добровільної кавалерії, підняття державного прапора та виконання Державного гімну. 14:15 – Покладання квітів біля пам'ятника Болеслава Вєняви-Длугошовського перед Палацом Мишлевицьким. 14:20 – Промова"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-06T09:03:23.102723+00:00"
     },
     "rodzinna-niedziela-warsztaty-kulinarne-2026-08-16T13:00:00+02:00": {
       "title": "RODZINNA NIEDZIELA | WARSZTATY KULINARNE",
@@ -10550,88 +10002,6 @@
       },
       "district": "Bielany",
       "updated_at": "2026-08-07T07:45:25.369208+00:00"
-    },
-    "wzlatujemy-ladami-historycznego-lotu-orli-skiego-i-kubiaka-rodzinna-gra-muzealna-2026-08-15T10:00:00+02:00": {
-      "title": "Wzlatujemy! Śladami historycznego lotu Orlińskiego i Kubiaka | rodzinna gra muzealna",
-      "date": "2026-08-15T10:00:00+02:00",
-      "end_date": "2026-08-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "22 600 kilometrów, 121 godzin w powietrzu, 9 dni podróży. Sto lat temu Bolesław Orliński i Leonard Kubiak pokonali samolotem trasę z Warszawy do Tokio. Był to jeden z największych wyczynów lotniczych tamtych czasów. A wszystko wydarzyło się w epoce, gdy, aby dotrzeć do celu, korzystano z kompasu i map, skrzydła łatano drutem i nićmi, a silnik potrafiono naprawić… w aptece. Podczas naszej rodzinnej gry terenowej wyruszymy śladami tej niezwykłej wyprawy do Tokio. Czekać będzie na Was wiele wyzwań i zadań, dzięki którym poznacie losy odważnych i pomysłowych lotników oraz tajniki ich maszyn. Odkryjemy również historię lotniczej szachownicy – znaku rozpoznawczego polskiego lotnictwa. Zapnijcie pasy! Startujemy 15 sierpnia o 10.00, lądujemy o 16.00 Zbiórka uczestników punktualnie o godz. 10.00 przy \"Willi Bzów\" (od strony placu).",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1786011062.webp",
-      "location": {
-        "name": "Muzeum Józefa Piłsudskiego w Sulejówku, Aleja Piłsudskiego 29, Sulejówek",
-        "district": "okolice Warszawy"
-      },
-      "url": "https://muzeumpilsudski.pl/swieto-wojska-polskiego-14-16-sierpnia-2/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://muzeumpilsudski.pl/swieto-wojska-polskiego-14-16-sierpnia-2/",
-      "scrapped_timestamp": "2026-08-07T07:43:50.787413+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Wzlatujemy! Śladami historycznego lotu Orlińskiego i Kubiaka | rodzinna gra muzealna",
-          "description": "22 600 kilometrów, 121 godzin w powietrzu, 9 dni podróży. Sto lat temu Bolesław Orliński i Leonard Kubiak pokonali samolotem trasę z Warszawy do Tokio. Był to jeden z największych wyczynów lotniczych tamtych czasów. A wszystko wydarzyło się w epoce, gdy, aby dotrzeć do celu, korzystano z kompasu i map, skrzydła łatano drutem i nićmi, a silnik potrafiono naprawić… w aptece. Podczas naszej rodzinnej gry terenowej wyruszymy śladami tej niezwykłej wyprawy do Tokio. Czekać będzie na Was wiele wyzwań i zadań, dzięki którym poznacie losy odważnych i pomysłowych lotników oraz tajniki ich maszyn. Odkryjemy również historię lotniczej szachownicy – znaku rozpoznawczego polskiego lotnictwa. Zapnijcie pasy! Startujemy 15 sierpnia o 10.00, lądujemy o 16.00 Zbiórka uczestników punktualnie o godz. 10.00 przy \"Willi Bzów\" (od strony placu)."
-        },
-        "en": {
-          "title": "We're Taking Off! Following the Historic Flight of Orliński and Kubiak | Family Museum Game",
-          "description": "22,600 kilometers, 121 hours in the air, 9 days of travel. A hundred years ago, Bolesław Orliński and Leonard Kubiak flew from Warsaw to Tokyo. It was one of the greatest aviation feats of that time. And all of this happened in an era when reaching a destination required the use of a compass and maps, wings were patched with wire and threads, and engines could be repaired... in a pharmacy. During our family outdoor game, we will follow the trail of this extraordinary expedition to Tokyo. Many challenges and tasks await you, through which you will learn about the fates of brave and resourceful aviators and the secrets of their machines. We will also discover the history of the aviation checkered flag – the hallmark of Polish aviation. Buckle up! We take off on August 15 at 10:00 AM and land at 4:00 PM. Participants are to gather promptly at 10:00 AM."
-        },
-        "uk": {
-          "title": "Взлітаємо! Слідами історичного польоту Орлінського та Куб’яка | сімейна музейна гра",
-          "description": "22 600 кілометрів, 121 година в повітрі, 9 днів подорожі. Сто років тому Болеслав Орлінський та Леонард Куб’як подолали літаком маршрут з Варшави до Токіо. Це був один з найбільших авіаційних досягнень тих часів. А все сталося в епоху, коли, щоб дістатися до мети, користувалися компасом і картами, крила латали дротом і нитками, а двигун могли відремонтувати… в аптеці. Під час нашої сімейної гри на свіжому повітрі ми вирушимо слідами цієї незвичайної експедиції до Токіо. На вас чекає багато викликів і завдань, завдяки яким ви дізнаєтеся про долі сміливих і винахідливих авіаторів та таємниці їхніх машин. Ми також відкриємо історію авіаційної шахівниці – знака розпізнавання польської авіації. Пристебніть ремені! Стартуємо 15 серпня о 10:00, приземляємося о 16:00. Збір учасників точно о 10:00."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "okolice Warszawy",
-      "updated_at": "2026-08-07T07:45:25.369467+00:00"
-    },
-    "wi-to-wojska-polskiego-defilada-wojskowa-2026-08-15T12:00:00+02:00": {
-      "title": "Święto Wojska Polskiego - defilada wojskowa",
-      "date": "2026-08-15T12:00:00+02:00",
-      "end_date": "2026-08-15T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Jak co roku, 15 sierpnia będziemy obchodzić Święto Wojska Polskiego w 106. rocznicę Bitwy Warszawskiej. Z tej okazji Wojsko Polskie zaprezentuje się na uroczystej defiladzie na warszawskiej Wisłostradzie, gdzie zobaczymy najnowocześniejszy sprzęt lądowy i powietrzny. Defilada wojskowa rozpocznie się o godz. 12.00 w Warszawie na Wisłostradzie. W defiladzie - na lądziei w powietrzu i – zaangażowanych będzie nawet kilka tysięcy żołnierzy wszystkich rodzajów sił zbrojnych oraz armii sojuszniczych. Zobaczymy najlepszy i najnowocześniejszy sprzęt wojskowy, jak np. bojowe wozy Borsuk, transportery Rosomak, czołgi typu Leopard, K2 i Abrams, a także armatohaubice Krab, moździerze Rak, drony Gladius oraz systemy Poprad, Himars i Patriot. Na niebie będzie można podziwiać m.in. ultranowoczesne polskie samoloty F-35 „Husarz”, a także „Jastrzębie”, czyli polskie F-16 oraz najnowsze śmigłowce: Black Hawk, AW-149 i Apache.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1786010828.webp",
-      "location": {
-        "name": "Wisłostrada",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.gov.pl/web/obrona-narodowa/swieto-wojska-polskiego-2026",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.gov.pl/web/obrona-narodowa/swieto-wojska-polskiego-2026",
-      "scrapped_timestamp": "2026-08-07T07:43:58.743977+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Święto Wojska Polskiego - defilada wojskowa",
-          "description": "Jak co roku, 15 sierpnia będziemy obchodzić Święto Wojska Polskiego w 106. rocznicę Bitwy Warszawskiej. Z tej okazji Wojsko Polskie zaprezentuje się na uroczystej defiladzie na warszawskiej Wisłostradzie, gdzie zobaczymy najnowocześniejszy sprzęt lądowy i powietrzny. Defilada wojskowa rozpocznie się o godz. 12.00 w Warszawie na Wisłostradzie. W defiladzie - na lądziei w powietrzu i – zaangażowanych będzie nawet kilka tysięcy żołnierzy wszystkich rodzajów sił zbrojnych oraz armii sojuszniczych. Zobaczymy najlepszy i najnowocześniejszy sprzęt wojskowy, jak np. bojowe wozy Borsuk, transportery Rosomak, czołgi typu Leopard, K2 i Abrams, a także armatohaubice Krab, moździerze Rak, drony Gladius oraz systemy Poprad, Himars i Patriot. Na niebie będzie można podziwiać m.in. ultranowoczesne polskie samoloty F-35 „Husarz”, a także „Jastrzębie”, czyli polskie F-16 oraz najnowsze śmigłowce: Black Hawk, AW-149 i Apache."
-        },
-        "en": {
-          "title": "Polish Army Day - Military Parade",
-          "description": "As every year, on August 15th we will celebrate Polish Army Day on the 106th anniversary of the Battle of Warsaw. On this occasion, the Polish Army will present itself in a ceremonial parade on the Vistula Boulevards in Warsaw, where we will see the most modern land and air equipment. The military parade will begin at 12:00 PM in Warsaw on the Vistula Boulevards. The parade will involve even several thousand soldiers from all branches of the armed forces and allied armies, both on land and in the air. We will see the best and most modern military equipment, such as the Borsuk combat vehicles, Rosomak transporters, Leopard, K2, and Abrams tanks, as well as Krab howitzers, Rak mortars, Gladius drones, and Poprad, Himars, and Patriot systems. In the sky, we will be able to admire, among others, ultra-modern Polish aircraft."
-        },
-        "uk": {
-          "title": "Свято Польського війська - військовий парад",
-          "description": "Як і щороку, 15 серпня ми будемо святкувати Свято Польського війська в 106-ту річницю Битви під Варшавою. З цієї нагоди Польське військо представить себе на урочистому параді на варшавській Віслотраді, де ми побачимо найсучасніше наземне та повітряне обладнання. Військовий парад розпочнеться о 12:00 у Варшаві на Віслотраді. У параді - на землі та в повітрі - буде задіяно навіть кілька тисяч солдатів усіх видів збройних сил та армій союзників. Ми побачимо найкраще і найсучасніше військове обладнання, таке як бойові машини Borsuk, транспортери Rosomak, танки типу Leopard, K2 та Abrams, а також артилерійські гаубиці Krab, міномети Rak, дрони Gladius та системи Poprad, Himars і Patriot. На небі можна буде милуватися, зокрема, ультрасучасними польськими..."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-07T07:45:25.369485+00:00"
     },
     "rodzinne-zamieszanie-w-wawrze-bezp-atny-piknik-rodzinny-2026-08-16T11:00:00+02:00": {
       "title": "Rodzinne Zamieszanie w Wawrze – bezpłatny piknik rodzinny",
@@ -11378,47 +10748,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-08-10T08:05:56.767008+00:00"
     },
-    "lekkoatletyka-dla-wszystkich-rodzinne-treningi-na-raabego-z-team-zabieganedni-2026-08-15T10:00:00+02:00": {
-      "title": "Lekkoatletyka dla wszystkich - rodzinne treningi na Raabego z Team ZabieganeDni",
-      "date": "2026-08-15T10:00:00+02:00",
-      "end_date": "2026-08-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Każda sobota to nowa przygoda Rodzinne Treningi Team ZabieganeDni Meta? Nie zawsze znajduje się na końcu bieżni. Czasem metą jest wspólnie spędzony czas, aktywny poranek, uśmiech dziecka, poznanie nowych ludzi i chwila ruchu z dala od ekranów. Dlatego zapraszamy dzieci, rodziców, dziadków i opiekunów na bezpłatne rodzinne treningi na Ursynowie. Nie musisz być biegaczem. Nie musisz mieć sportowego doświadczenia. Nie musisz przygotowywać się do zawodów. Wystarczy, że przyjdziesz. Zabawy i ćwiczenia dla dzieci Trening biegowy i ogólnorozwojowy dla dorosłych Wspólne aktywności rodzinne Dużo ruchu, dobrej energii i uśmiechu Bieżnia przy ul. Raabego (przed wejściem do SP 340) – Ursynów Każda sobota, godz. 10:00 Udział bezpłatny Zabierz wygodny strój sportowy i butelkę wody. Rodzinne Treningi Team ZabieganeDni są realizowane dzięki wsparciu Urzędu Dzielnicy Ursynów m.st. Warszawy oraz programu Aktywni Lokalnie prowadzonego przez Fundację Orły Sportu. Zapraszamy wszystkich – od najmłodszych po seniorów. 🧡",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1786262702.webp",
-      "location": {
-        "name": "Bieżnia, ul. Raabego",
-        "district": "Ursynów"
-      },
-      "url": "https://fb.me/e/5PQXXoXlY",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://fb.me/e/5PQXXoXlY",
-      "scrapped_timestamp": "2026-08-10T08:04:05.920719+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Lekkoatletyka dla wszystkich - rodzinne treningi na Raabego z Team ZabieganeDni",
-          "description": "Każda sobota to nowa przygoda Rodzinne Treningi Team ZabieganeDni Meta? Nie zawsze znajduje się na końcu bieżni. Czasem metą jest wspólnie spędzony czas, aktywny poranek, uśmiech dziecka, poznanie nowych ludzi i chwila ruchu z dala od ekranów. Dlatego zapraszamy dzieci, rodziców, dziadków i opiekunów na bezpłatne rodzinne treningi na Ursynowie. Nie musisz być biegaczem. Nie musisz mieć sportowego doświadczenia. Nie musisz przygotowywać się do zawodów. Wystarczy, że przyjdziesz. Zabawy i ćwiczenia dla dzieci Trening biegowy i ogólnorozwojowy dla dorosłych Wspólne aktywności rodzinne Dużo ruchu, dobrej energii i uśmiechu Bieżnia przy ul. Raabego (przed wejściem do SP 340) – Ursynów Każda sobota, godz. 10:00 Udział bezpłatny Zabierz wygodny strój sportowy i butelkę wody. Rodzinne Treningi Team ZabieganeDni są realizowane dzięki wsparciu Urzędu Dzielnicy Ursynów m.st. Warszawy oraz programu Aktywni Lokalnie prowadzonego przez Fundację Orły Sportu. Zapraszamy wszystkich – od najmłodszych po seniorów. 🧡"
-        },
-        "en": {
-          "title": "Athletics for Everyone - Family Training at Raabego with Team ZabieganeDni",
-          "description": "Every Saturday is a new adventure. Family Training with Team ZabieganeDni. The finish line? It's not always at the end of the track. Sometimes the finish line is the time spent together, an active morning, a child's smile, meeting new people, and a moment of movement away from screens. That's why we invite children, parents, grandparents, and caregivers to free family training sessions in Ursynów. You don't have to be a runner. You don't need any sports experience. You don't have to prepare for competitions. Just come along. Fun and exercises for children, running and general development training for adults, family activities together, lots of movement, good energy, and smiles. The track at Raabego Street (in front of the entrance to SP 340) – Ursynów. Every Saturday at 10:00 AM. Participation is free. Bring comfortable sportswear and a bottle of water."
-        },
-        "uk": {
-          "title": "Легка атлетика для всіх - сімейні тренування на Раабего з командою ZabieganeDni",
-          "description": "Кожна субота - це нова пригода. Сімейні тренування команди ZabieganeDni. Мета? Не завжди знаходиться в кінці бігової доріжки. Іноді метою є спільно проведений час, активний ранок, усмішка дитини, знайомство з новими людьми та момент руху подалі від екранів. Тому запрошуємо дітей, батьків, дідусів і бабусь, а також опікунів на безкоштовні сімейні тренування в Урсинові. Вам не потрібно бути бігуном. Вам не потрібно мати спортивного досвіду. Вам не потрібно готуватися до змагань. Досить просто прийти. Ігри та вправи для дітей. Бігове тренування та загальнофізична підготовка для дорослих. Спільні сімейні активності. Багато руху, гарної енергії та усмішок. Бігова доріжка на вул. Раабего (перед входом до СП 340) – Урсинов. Кожна субота, о 10:00. Участь безкоштовна. Візьміть з собою зручний спортивний одяг та пляшку води."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ursynów",
-      "updated_at": "2026-08-10T08:05:56.767060+00:00"
-    },
     "iv-festiwal-kultury-mazowsza-2026-08-29T12:00:00+02:00": {
       "title": "IV FESTIWAL KULTURY MAZOWSZA",
       "date": "2026-08-29T12:00:00+02:00",
@@ -11980,293 +11309,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-08-11T07:39:13.926668+00:00"
-    },
-    "strefa-nowych-technologii-w-centralnym-przystanku-historia-2026-08-15T10:00:00+02:00": {
-      "title": "Strefa Nowych Technologii w Centralnym Przystanku Historia",
-      "date": "2026-08-15T10:00:00+02:00",
-      "end_date": "2026-08-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "☀️ Wakacyjna nuda? Nie w Centralnym Przystanku Historia! 🚀 Macie wolne popołudnie w Warszawie? Wpadnijcie do Strefy Nowych Technologii i odkryjcie historię w zupełnie nowym wymiarze! 🕶️✨ 📍 Centralny Przystanek Historia, ul. Marszałkowska 107, Warszawa 💸 Wstęp wolny! (obowiązują zapisy – link poniżej) 🕒 Czekamy na Was od poniedziałku do soboty, godz. 10:00–18:00 Co na Was czeka? 🎮 Kapsuły czasu ORB X – zanurz się w wirtualnych światach dzięki panoramicznym kapsułom gamingowym. 🕶️ Strefa VR – przenieś się w czasie i poznaj historię z bliska. 📱 Strefa tabletów – quizy, materiały edukacyjne i ciekawostki. ✨ Hologram – zobacz realistyczną trójwymiarowe projekcję. 🤖 Spotkaj cyfrowych bohaterów historii: ✈️ Jan Zumbach – as polskiego lotnictwa, opowie o walkach z Luftwaffe. 🔐 Jan Kowalewski – kryptolog, który złamał sowieckie szyfry. 🐻 Miś Wojtek – niezwykły żołnierz spod Monte Cassino. Możesz zadawać im pytania głosowo lub przez chat – odpowiedzi powstały na podstawie wiedzy zgromadzonej w archiwach Instytutu Pamięci Narodowej. 🌐 Historia, technologia i wakacyjna przygoda w jednym miejscu. Nie siedź w domu – odkrywaj przeszłość w przyszłości! 🚀 🔗 Zapisy >> link",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1782387243.webp",
-      "location": {
-        "name": "Centralny Przystanek Historia, ul. Marszałkowska 107",
-        "district": "Śródmieście"
-      },
-      "url": "https://cph.ipn.gov.pl/cph/strefa-technologii",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://cph.ipn.gov.pl/cph/strefa-technologii",
-      "scrapped_timestamp": "2026-08-11T07:35:30.590102+00:00",
-      "category": "STEM",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Strefa Nowych Technologii w Centralnym Przystanku Historia",
-          "description": "☀️ Wakacyjna nuda? Nie w Centralnym Przystanku Historia! 🚀 Macie wolne popołudnie w Warszawie? Wpadnijcie do Strefy Nowych Technologii i odkryjcie historię w zupełnie nowym wymiarze! 🕶️✨ 📍 Centralny Przystanek Historia, ul. Marszałkowska 107, Warszawa 💸 Wstęp wolny! (obowiązują zapisy – link poniżej) 🕒 Czekamy na Was od poniedziałku do soboty, godz. 10:00–18:00 Co na Was czeka? 🎮 Kapsuły czasu ORB X – zanurz się w wirtualnych światach dzięki panoramicznym kapsułom gamingowym. 🕶️ Strefa VR – przenieś się w czasie i poznaj historię z bliska. 📱 Strefa tabletów – quizy, materiały edukacyjne i ciekawostki. ✨ Hologram – zobacz realistyczną trójwymiarowe projekcję. 🤖 Spotkaj cyfrowych bohaterów historii: ✈️ Jan Zumbach – as polskiego lotnictwa, opowie o walkach z Luftwaffe. 🔐 Jan Kowalewski – kryptolog, który złamał sowieckie szyfry. 🐻 Miś Wojtek – niezwykły żołnierz spod Monte Cassino. Możesz zadawać im pytania głosowo lub przez chat – odpowiedzi powstały na podstawie wiedzy zgromadzonej w archiwach Instytutu Pamięci Narodowej. 🌐 Historia, technologia i wakacyjna przygoda w jednym miejscu. Nie siedź w domu – odkrywaj przeszłość w przyszłości! 🚀 🔗 Zapisy >> link"
-        },
-        "en": {
-          "title": "New Technologies Zone at the Central History Stop",
-          "description": "☀️ Summer boredom? Not at the Central History Stop! 🚀 Do you have a free afternoon in Warsaw? Drop by the New Technologies Zone and discover history in a whole new dimension! 🕶️✨ 📍 Central History Stop, ul. Marszałkowska 107, Warsaw 💸 Free admission! (registration required – link below) 🕒 We are waiting for you from Monday to Saturday, 10:00 AM – 6:00 PM What awaits you? 🎮 ORB X time capsules – immerse yourself in virtual worlds with panoramic gaming capsules. 🕶️ VR Zone – travel through time and experience history up close. 📱 Tablet Zone – quizzes, educational materials, and curiosities. ✨ Hologram – see realistic three-dimensional projections. 🤖 Meet digital heroes of history: ✈️ Jan Zumbach – ace of the Polish Air Force, will talk about battles with the Luftwaffe. 🔐 Jan Kowalewski – crypt..."
-        },
-        "uk": {
-          "title": "Зона Нових Технологій у Центральному Прийомі Історії",
-          "description": "☀️ Літня нудьга? Не в Центральному Прийомі Історії! 🚀 Маєте вільний післяобідній час у Варшаві? Завітайте до Зони Нових Технологій і відкрийте історію в зовсім новому вимірі! 🕶️✨ 📍 Центральний Прийом Історії, вул. Маршалковська 107, Варшава 💸 Вхід вільний! (необхідна реєстрація – посилання нижче) 🕒 Чекаємо на вас з понеділка по суботу, з 10:00 до 18:00 Що на вас чекає? 🎮 Капсули часу ORB X – зануртеся у віртуальні світи завдяки панорамним ігровим капсулам. 🕶️ Зона VR – перенесіться в часі та дізнайтеся історію з близька. 📱 Зона планшетів – вікторини, навчальні матеріали та цікаві факти. ✨ Голограма – побачте реалістичну тривимірну проекцію. 🤖 Зустрічайте цифрових героїв історії: ✈️ Ян Зумбах – ас польської авіації, розповість про бої з Люфтваффе. 🔐 Ян Ковалевський – кри..."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-11T07:39:13.926706+00:00"
-    },
-    "bajkowe-wakacje-z-teatrem-baza-2026-08-15T10:00:00+02:00": {
-      "title": "Bajkowe wakacje z Teatrem Baza",
-      "date": "2026-08-15T10:00:00+02:00",
-      "end_date": "2026-08-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Kochani, jak co roku ruszamy w teren, aby zabrać Was w niezwykłe teatralne podróże. Przed nami kilkadziesiąt spektakli w różnych częściach Warszawy i w innych miastach. Jest nam niezmiernie miło za każdym razem, kiedy możemy się spotkać i opowiedzieć Wam historie naszych bajkowych bohaterów. Bardzo dziękujemy za zaufanie, którym nas obdarowaliście i za każde polecenie naszych spektakli. Dziękujemy władzom samorządów, z którymi współpracujemy od lat, a także tym, które postanowiły zaprosić nas do siebie po raz pierwszy. To właśnie dzięki wsparciu samorządów możemy występować bezpłatnie dla wspaniałej publiczności. Kłaniamy się nisko i zapraszamy na nasze spektakle! A OTO NASZ WAKACYJNY ROZKŁAD JAZDY! 4 lipca (sobota) godz. 10:00 „Wilczek Milczek”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Wilczek Milczek”, Park Picassa (Białołęka) godz. 17:00 „Wilczek Milczek”, Park Sielecki (Mokotów), w ramach projektu II Kulturalne Lato w Parku Sieleckim godz. 17:00 „Kwiat Paproci” – premiera!, Park Kaskada (Żoliborz) 5 lipca (niedziela) godz. 10:00 „Wilczek Milczek”, Park Krasińskich (Śródmieście) godz. 14:00 „Kwiat Paproci”, Ogrody Kosmosu (Włochy) godz. 16:00 „Wilczek Milczek”, Park Miejski (Piaseczno) godz. 16:00 „Kwiat Paproci”, Plaża Romantyczna (Wawer) 11 lipca (sobota) godz. 10:00 „Ponurak” – premiera!, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Szczęście to Lis”, Park Ireny Jarockiej (Białołęka) godz. 17:00 „Ponurak”, Park Kaskada (Żoliborz) – SPEKTAKL ODWOŁANY Z POWODU ZŁYCH WARUNKÓW POGODOWYCH 12 lipca (niedziela) godz. 10:00 „Ponurak”, Park Krasińskich (Śródmieście) godz. 13:00 „Ponurak”, Park Magiczna (Białołęka) godz. 16:00 „Ponurak”, Park Miejski (Piaseczno) 18 lipca (sobota) godz. 10:00 „Czerwony Kapturek”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Czerwony Kapturek”, Ogrody Mehoffera (Białołęka) godz. 17:00 „Czerwony Kapturek”, Skwer Brukarskich (Żoliborz) 19 lipca (niedziela) godz. 10:00 „Czerwony Kapturek”, Centrum Lokalne Kamionek przy placu zabaw (Praga-Południe) godz. 10:00 „Pettson i Findus”, Skwer przy ul. Kazimierza/ul. Sowińskiego (Wola) godz. 12:00 „Czerwony Kapturek”, Skwer przy ul. Borsuczej (Włochy) godz. 16:00 „Czerwony Kapturek”, Plaża Romantyczna (Wawer) 25 lipca (sobota) godz. 10:00 „Legendy Warszawskie”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Legendy Warszawskie”, Park Magiczna (Białołęka) godz. 17:00 „Legendy Warszawskie”, Skwer Brukarskich (Żoliborz) 26 lipca (niedziela) godz. 10:00 „Legendy Warszawskie”, Centrum Lokalne Kamionek przy placu zabaw (Praga-Południe) godz. 10:00 „Nowe Szaty Króla”, Skwer przy ul. Kazimierza/ul. Sowińskiego (Wola) godz. 13:00 „Słowik”, Park Sielecki (Mokotów) w ramach partnerstwa „Sąsiedzkie Sielce VIII” – całoroczny program wydarzeń kulturalno/społecznych dla mieszkańców Sielc godz. 14:00 „Legendy Warszawskie”, Ogrody Kosmosu (Włochy) godz. 17:00 „Legendy Warszawskie”, Park Miejski (Piaseczno) 1 sierpnia (sobota) godz. 10:00 „Nowe Szaty Króla”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Nowe Szaty Króla”, Park Krasińskich (Śródmieście) godz. 16:00 „Nowe Szaty Króla”, Plaża Romantyczna (Wawer) 2 sierpnia (niedziela) godz. 10:00 „Nowe Szaty Króla”, Centrum Lokalne Kamionek przy placu zabaw (Praga-Południe) godz. 10:00 „Słowik”, Skwer przy ul. Kazimierza/ul. Sowińskiego (Wola) godz. 13:00 „Nowe Szaty Króla”, Park Syrenki (Białołęka) godz. 16:00 „Nowe Szaty Króla”, Park Miejski (Piaseczno) 8 sierpnia (sobota) godz. 10:00 „Pettson i Findus”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Gęś”, Park Krasińskich (Śródmieście) godz. 16:00 „Gęś”, Plaża Romantyczna (Wawer) 9 sierpnia (niedziela) godz. 10:00 „Pettson i Findus”, Centrum Lokalne Kamionek przy placu zabaw (Praga-Południe) godz. 13:00 „Pettson i Findus”, Skwer przy ul. Waliców/ul. Krochmalnej (Wola) godz. 16:00 „Pettson i Findus”, Park Miejski (Piaseczno) 15 sierpnia (sobota) godz. 10:00 „Słowik”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Słowik”, Truskawkowe Pole (Białołęka) godz. 16:00 „Słowik”, Plaża Romantyczna (Wawer) 16 sierpnia (niedziela) godz. 10:00 „Bajka o Drzewie”, Park Krasińskich (Śródmieście) godz. 13:00 „Bajka o Drzewie”, Plac zabaw przy ul. Myśliborskiej 98 (Białołęka) godz. 16:00 „Słowik”, Park Miejski (Piaseczno) 22 sierpnia (sobota) godz. 10:00 „Kwiat Paproci”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Kwiat Paproci”, Park Krasińskich (Śródmieście) godz. 16:00 „Kwiat Paproci”, Plaża Romantyczna (Wawer) 23 sierpnia (niedziela) godz. 10:00 „Kwiat Paproci”, Centrum Lokalne Kamionek przy placu zabaw (Praga-Południe) godz. 10:00 „Baba Dżaga”, Skwer przy ul. Waliców/ul. Krochmalnej (Wola) godz. 13:00 „Kwiat Paproci”, Plac zabaw przy Portowej (Białołęka) godz. 16:00 „Kwiat Paproci”, Park Miejski (Piaseczno) 29 sierpnia (sobota) godz. 10:00 „Baba Dżaga”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Baba Dżaga”, Skwer przy Krzyżówki (Białołęka) godz. 16:00 „Baba Dżaga”, Plaża Romantyczna (Wawer) 30 sierpnia (niedziela) godz. 10:00 „Baba Dżaga”, Park Krasińskich (Śródmieście) godz. 13:00 „Baba Dżaga”, Park Sielecki (Mokotów), w ramach partnerstwa „Sąsiedzkie Sielce VIII” – całoroczny program wydarzeń kulturalno/społecznych dla mieszkańców Sielc godz. 16:00 „Baba Dżaga”, Park Miejski (Piaseczno) 5 września (sobota) godz. 10:00 „Szczęście to Lis!”, Skwer przy ul. Waliców/ul. Krochmalnej (Wola) WSTĘP NA WSZYSTKIE WYDARZENIA JEST WOLNY! PROJEKTY WSPÓŁFINANSOWANE LUB FINANSOWANE SĄ ZE ŚRODKÓW: Urzędu Dzielnicy Białołęka m.st. Warszawy Urzędu Dzielnicy Mokotów m.st. Warszawy Urzędu Dzielnicy Praga Południe m.st. Warszawy Urzędu Dzielnicy Śródmieście m.st. Warszawy Urzędu Dzielnicy Wawer m.st. Warszawy Urzędu Dzielnicy Wola m.st. Warszawy Urzędu Dzielnicy Włochy m.st. Warszawy Urzędu Dzielnicy Żoliborz m.st. Warszawy Urzędu Gminy Piaseczno Deklaracja dostępności Miejscami wydarzenia są parki, skwery i place zabaw z łatwym dostępem architektonicznym i komunikacyjnym dla osób ze specjalnymi potrzebami. Udział w wydarzeniach jest możliwy z psami asystującymi i psami przewodnikami. Zgodnie z indywidualnymi potrzebami jest możliwość rezerwacji miejsc zapewniających dobrą widoczność, pomocy w wyborze miejsca w przestrzeni widowni, zapewnienia pomocy asystenta ds. dostępności, np. w celu dotarcia na miejsce, odstawienie wózka lub dodatkowego sprzętu (np. chodzika), rezerwacji miejsce obok dla rodzica/ opiekuna. Jeśli masz jakiekolwiek pytania dotyczące dostępności, lub potrzebujesz dodatkowego wsparcia podczas udziału w wydarzeniu skontaktuj się z nami pod nr telefonu 510 053 140 lub mailowo pod adresem biuro@teatrbaza.pl",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1784546584.webp",
-      "location": {
-        "name": "różne lokalizacje, wskazane poniżej :)",
-        "district": "Śródmieście"
-      },
-      "url": "https://teatrbaza.pl/aktualnosci/bajkowe-wakacje-z-teatrem-baza-2/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://teatrbaza.pl/aktualnosci/bajkowe-wakacje-z-teatrem-baza-2/",
-      "scrapped_timestamp": "2026-08-11T07:36:34.322400+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Bajkowe wakacje z Teatrem Baza",
-          "description": "Kochani, jak co roku ruszamy w teren, aby zabrać Was w niezwykłe teatralne podróże. Przed nami kilkadziesiąt spektakli w różnych częściach Warszawy i w innych miastach. Jest nam niezmiernie miło za każdym razem, kiedy możemy się spotkać i opowiedzieć Wam historie naszych bajkowych bohaterów. Bardzo dziękujemy za zaufanie, którym nas obdarowaliście i za każde polecenie naszych spektakli. Dziękujemy władzom samorządów, z którymi współpracujemy od lat, a także tym, które postanowiły zaprosić nas do siebie po raz pierwszy. To właśnie dzięki wsparciu samorządów możemy występować bezpłatnie dla wspaniałej publiczności. Kłaniamy się nisko i zapraszamy na nasze spektakle! A OTO NASZ WAKACYJNY ROZKŁAD JAZDY! 4 lipca (sobota) godz. 10:00 „Wilczek Milczek”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Wilczek Milczek”, Park Picassa (Białołęka) godz. 17:00 „Wilczek Milczek”, Park Sielecki (Mokotów), w ramach projektu II Kulturalne Lato w Parku Sieleckim godz. 17:00 „Kwiat Paproci” – premiera!, Park Kaskada (Żoliborz) 5 lipca (niedziela) godz. 10:00 „Wilczek Milczek”, Park Krasińskich (Śródmieście) godz. 14:00 „Kwiat Paproci”, Ogrody Kosmosu (Włochy) godz. 16:00 „Wilczek Milczek”, Park Miejski (Piaseczno) godz. 16:00 „Kwiat Paproci”, Plaża Romantyczna (Wawer) 11 lipca (sobota) godz. 10:00 „Ponurak” – premiera!, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Szczęście to Lis”, Park Ireny Jarockiej (Białołęka) godz. 17:00 „Ponurak”, Park Kaskada (Żoliborz) – SPEKTAKL ODWOŁANY Z POWODU ZŁYCH WARUNKÓW POGODOWYCH 12 lipca (niedziela) godz. 10:00 „Ponurak”, Park Krasińskich (Śródmieście) godz. 13:00 „Ponurak”, Park Magiczna (Białołęka) godz. 16:00 „Ponurak”, Park Miejski (Piaseczno) 18 lipca (sobota) godz. 10:00 „Czerwony Kapturek”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Czerwony Kapturek”, Ogrody Mehoffera (Białołęka) godz. 17:00 „Czerwony Kapturek”, Skwer Brukarskich (Żoliborz) 19 lipca (niedziela) godz. 10:00 „Czerwony Kapturek”, Centrum Lokalne Kamionek przy placu zabaw (Praga-Południe) godz. 10:00 „Pettson i Findus”, Skwer przy ul. Kazimierza/ul. Sowińskiego (Wola) godz. 12:00 „Czerwony Kapturek”, Skwer przy ul. Borsuczej (Włochy) godz. 16:00 „Czerwony Kapturek”, Plaża Romantyczna (Wawer) 25 lipca (sobota) godz. 10:00 „Legendy Warszawskie”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Legendy Warszawskie”, Park Magiczna (Białołęka) godz. 17:00 „Legendy Warszawskie”, Skwer Brukarskich (Żoliborz) 26 lipca (niedziela) godz. 10:00 „Legendy Warszawskie”, Centrum Lokalne Kamionek przy placu zabaw (Praga-Południe) godz. 10:00 „Nowe Szaty Króla”, Skwer przy ul. Kazimierza/ul. Sowińskiego (Wola) godz. 13:00 „Słowik”, Park Sielecki (Mokotów) w ramach partnerstwa „Sąsiedzkie Sielce VIII” – całoroczny program wydarzeń kulturalno/społecznych dla mieszkańców Sielc godz. 14:00 „Legendy Warszawskie”, Ogrody Kosmosu (Włochy) godz. 17:00 „Legendy Warszawskie”, Park Miejski (Piaseczno) 1 sierpnia (sobota) godz. 10:00 „Nowe Szaty Króla”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Nowe Szaty Króla”, Park Krasińskich (Śródmieście) godz. 16:00 „Nowe Szaty Króla”, Plaża Romantyczna (Wawer) 2 sierpnia (niedziela) godz. 10:00 „Nowe Szaty Króla”, Centrum Lokalne Kamionek przy placu zabaw (Praga-Południe) godz. 10:00 „Słowik”, Skwer przy ul. Kazimierza/ul. Sowińskiego (Wola) godz. 13:00 „Nowe Szaty Króla”, Park Syrenki (Białołęka) godz. 16:00 „Nowe Szaty Króla”, Park Miejski (Piaseczno) 8 sierpnia (sobota) godz. 10:00 „Pettson i Findus”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Gęś”, Park Krasińskich (Śródmieście) godz. 16:00 „Gęś”, Plaża Romantyczna (Wawer) 9 sierpnia (niedziela) godz. 10:00 „Pettson i Findus”, Centrum Lokalne Kamionek przy placu zabaw (Praga-Południe) godz. 13:00 „Pettson i Findus”, Skwer przy ul. Waliców/ul. Krochmalnej (Wola) godz. 16:00 „Pettson i Findus”, Park Miejski (Piaseczno) 15 sierpnia (sobota) godz. 10:00 „Słowik”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Słowik”, Truskawkowe Pole (Białołęka) godz. 16:00 „Słowik”, Plaża Romantyczna (Wawer) 16 sierpnia (niedziela) godz. 10:00 „Bajka o Drzewie”, Park Krasińskich (Śródmieście) godz. 13:00 „Bajka o Drzewie”, Plac zabaw przy ul. Myśliborskiej 98 (Białołęka) godz. 16:00 „Słowik”, Park Miejski (Piaseczno) 22 sierpnia (sobota) godz. 10:00 „Kwiat Paproci”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Kwiat Paproci”, Park Krasińskich (Śródmieście) godz. 16:00 „Kwiat Paproci”, Plaża Romantyczna (Wawer) 23 sierpnia (niedziela) godz. 10:00 „Kwiat Paproci”, Centrum Lokalne Kamionek przy placu zabaw (Praga-Południe) godz. 10:00 „Baba Dżaga”, Skwer przy ul. Waliców/ul. Krochmalnej (Wola) godz. 13:00 „Kwiat Paproci”, Plac zabaw przy Portowej (Białołęka) godz. 16:00 „Kwiat Paproci”, Park Miejski (Piaseczno) 29 sierpnia (sobota) godz. 10:00 „Baba Dżaga”, Park Edwarda Szymańskiego (Wola) godz. 13:00 „Baba Dżaga”, Skwer przy Krzyżówki (Białołęka) godz. 16:00 „Baba Dżaga”, Plaża Romantyczna (Wawer) 30 sierpnia (niedziela) godz. 10:00 „Baba Dżaga”, Park Krasińskich (Śródmieście) godz. 13:00 „Baba Dżaga”, Park Sielecki (Mokotów), w ramach partnerstwa „Sąsiedzkie Sielce VIII” – całoroczny program wydarzeń kulturalno/społecznych dla mieszkańców Sielc godz. 16:00 „Baba Dżaga”, Park Miejski (Piaseczno) 5 września (sobota) godz. 10:00 „Szczęście to Lis!”, Skwer przy ul. Waliców/ul. Krochmalnej (Wola) WSTĘP NA WSZYSTKIE WYDARZENIA JEST WOLNY! PROJEKTY WSPÓŁFINANSOWANE LUB FINANSOWANE SĄ ZE ŚRODKÓW: Urzędu Dzielnicy Białołęka m.st. Warszawy Urzędu Dzielnicy Mokotów m.st. Warszawy Urzędu Dzielnicy Praga Południe m.st. Warszawy Urzędu Dzielnicy Śródmieście m.st. Warszawy Urzędu Dzielnicy Wawer m.st. Warszawy Urzędu Dzielnicy Wola m.st. Warszawy Urzędu Dzielnicy Włochy m.st. Warszawy Urzędu Dzielnicy Żoliborz m.st. Warszawy Urzędu Gminy Piaseczno Deklaracja dostępności Miejscami wydarzenia są parki, skwery i place zabaw z łatwym dostępem architektonicznym i komunikacyjnym dla osób ze specjalnymi potrzebami. Udział w wydarzeniach jest możliwy z psami asystującymi i psami przewodnikami. Zgodnie z indywidualnymi potrzebami jest możliwość rezerwacji miejsc zapewniających dobrą widoczność, pomocy w wyborze miejsca w przestrzeni widowni, zapewnienia pomocy asystenta ds. dostępności, np. w celu dotarcia na miejsce, odstawienie wózka lub dodatkowego sprzętu (np. chodzika), rezerwacji miejsce obok dla rodzica/ opiekuna. Jeśli masz jakiekolwiek pytania dotyczące dostępności, lub potrzebujesz dodatkowego wsparcia podczas udziału w wydarzeniu skontaktuj się z nami pod nr telefonu 510 053 140 lub mailowo pod adresem biuro@teatrbaza.pl"
-        },
-        "en": {
-          "title": "Fairy Tale Holidays with Theatre Baza",
-          "description": "Dear friends, as every year, we are heading out to take you on extraordinary theatrical journeys. We have dozens of performances planned in various parts of Warsaw and in other cities. We are extremely happy every time we can meet and share the stories of our fairy tale heroes with you. Thank you very much for the trust you have placed in us and for every recommendation of our performances. We also thank the local authorities we have been collaborating with for years, as well as those who have decided to invite us for the first time. It is thanks to the support of local governments that we can perform for free for our wonderful audience. We bow low and invite you to our performances! AND HERE IS OUR SUMMER SCHEDULE! July 4 (Saturday) at 10:00 AM 'Silent Wolf', Edward Szymański Park (Wola) at 1:00 PM"
-        },
-        "uk": {
-          "title": "Байкові канікули з Театром База",
-          "description": "Дорогі, як і кожного року, ми вирушаємо в подорож, щоб відвести вас у незвичайні театральні мандрівки. Попереду нас чекає кілька десятків вистав у різних частинах Варшави та в інших містах. Нам надзвичайно приємно щоразу, коли ми можемо зустрітися і розповісти вам історії наших казкових героїв. Щиро дякуємо за довіру, якою ви нас обдарували, і за кожне рекомендацію наших вистав. Дякуємо органам місцевого самоврядування, з якими ми співпрацюємо вже багато років, а також тим, які вирішили запросити нас до себе вперше. Саме завдяки підтримці органів місцевого самоврядування ми можемо виступати безкоштовно для чудової публіки. Низько кланяємося і запрошуємо на наші вистави! А ОТО НАШ РОЗКЛАД НА КАНІКУЛИ! 4 липня (субота) о 10:00 «Вовчик Мовчик», парк Едварда Шиманського (Вола) о 13:00"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-11T07:39:13.926899+00:00"
-    },
-    "wilanowskie-kino-plenerowe-dla-dzieci-2026-08-15T15:00:00+02:00": {
-      "title": "Wilanowskie Kino Plenerowe dla dzieci",
-      "date": "2026-08-15T15:00:00+02:00",
-      "end_date": "2026-08-15T15:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Filmowe soboty dla najmłodszych przed Urzędem Dzielnicy Wilanów! Od 6 czerwca do 5 września zapraszamy dzieci i rodziny na Wilanowskie Kino Plenerowe dla dzieci. Seanse będą odbywać się w każdą sobotę o godz. 15.00 przed Urzędem Dzielnicy Wilanów przy ul. Klimczaka 2. Na wydarzenie zapraszają Burmistrz Dzielnicy Wilanów m.st. Warszawy Ludwik Rakowski oraz Przewodniczący Rady Dzielnicy Wilanów m.st. Warszawy Hubert Królak. W programie: 06.06 Ekipa z dżungli. Misja ratunkowa 13.06 Igrzyska zwierzaków 20.06 Panda i afrykańska banda 27.06 Emma i czarny jaguar 04.07 Miraculous: Biedronka i Czarny Kot 11.07 Wonka 18.07 Dzielna banda i tajemnica zaginionego wujka 25.07 Tom i Jerry 01.08 Clifford. Wielki czerwony pies 08.08 Rodzinka rządzi 15.08 Krudowie 2. Nowa era 22.08 Trolle 2 29.08 Mustang z Dzikiej Doliny: Droga do wolności 05.09 Sing 2 To świetny pomysł na rodzinne, sobotnie popołudnie pod chmurką — z filmami, które lubią dzieci i dorośli. Wydarzenie realizowane jest w ramach Budżetu Obywatelskiego. Do zobaczenia przed urzędem!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1780058041.webp",
-      "location": {
-        "name": "Urząd Dzielnicy Wilanów, ul. Klimczaka 2",
-        "district": "Wilanów"
-      },
-      "url": "https://www.facebook.com/photo/?fbid=1417683043732962&set=a.557176729783602",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo/?fbid=1417683043732962&set=a.557176729783602",
-      "scrapped_timestamp": "2026-08-11T07:36:41.331826+00:00",
-      "category": "Cinema",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Wilanowskie Kino Plenerowe dla dzieci",
-          "description": "Filmowe soboty dla najmłodszych przed Urzędem Dzielnicy Wilanów! Od 6 czerwca do 5 września zapraszamy dzieci i rodziny na Wilanowskie Kino Plenerowe dla dzieci. Seanse będą odbywać się w każdą sobotę o godz. 15.00 przed Urzędem Dzielnicy Wilanów przy ul. Klimczaka 2. Na wydarzenie zapraszają Burmistrz Dzielnicy Wilanów m.st. Warszawy Ludwik Rakowski oraz Przewodniczący Rady Dzielnicy Wilanów m.st. Warszawy Hubert Królak. W programie: 06.06 Ekipa z dżungli. Misja ratunkowa 13.06 Igrzyska zwierzaków 20.06 Panda i afrykańska banda 27.06 Emma i czarny jaguar 04.07 Miraculous: Biedronka i Czarny Kot 11.07 Wonka 18.07 Dzielna banda i tajemnica zaginionego wujka 25.07 Tom i Jerry 01.08 Clifford. Wielki czerwony pies 08.08 Rodzinka rządzi 15.08 Krudowie 2. Nowa era 22.08 Trolle 2 29.08 Mustang z Dzikiej Doliny: Droga do wolności 05.09 Sing 2 To świetny pomysł na rodzinne, sobotnie popołudnie pod chmurką — z filmami, które lubią dzieci i dorośli. Wydarzenie realizowane jest w ramach Budżetu Obywatelskiego. Do zobaczenia przed urzędem!"
-        },
-        "en": {
-          "title": "Wilanów Outdoor Cinema for Children",
-          "description": "Film Saturdays for the youngest ones in front of the Wilanów District Office! From June 6 to September 5, we invite children and families to the Wilanów Outdoor Cinema for Children. Screenings will take place every Saturday at 3:00 PM in front of the Wilanów District Office at Klimczaka 2. The event is hosted by the Mayor of the Wilanów District of the City of Warsaw, Ludwik Rakowski, and the Chairman of the Wilanów District Council of the City of Warsaw, Hubert Królak. The program includes: 06.06 Jungle Crew: Rescue Mission, 13.06 Animal Games, 20.06 Panda and the African Gang, 27.06 Emma and the Black Jaguar, 04.07 Miraculous: Ladybug and Cat Noir, 11.07 Wonka, 18.07 The Brave Gang and the Mystery of the Missing Uncle, 25.07 Tom and Jerry, 01.08 Clifford the Big Red Dog, 08.08 The Family Rules, 15.08 The Croods 2: A New Age, 22.08 Trolls 2, 29.08 Mustang."
-        },
-        "uk": {
-          "title": "Вілановське кінопоказ для дітей",
-          "description": "Кінематографічні суботи для найменших перед Управлінням району Віланов! З 6 червня до 5 вересня запрошуємо дітей та родини на Вілановське кінопоказ для дітей. Покази відбуватимуться кожну суботу о 15:00 перед Управлінням району Віланов за адресою вул. Клімчака, 2. На подію запрошують Бургомістр району Віланов м.ст. Варшава Людвік Раковський та Голова Ради району Віланов м.ст. Варшава Губерт Кроляк. У програмі: 06.06 Екіпа з джунглів. Місія порятунку 13.06 Ігри тварин 20.06 Панда та африканська банда 27.06 Емма та чорний ягуар 04.07 Чудеса: Слоненя та Чорний Кіт 11.07 Вонка 18.07 Смілива банда та таємниця зниклого дядька 25.07 Том і Джеррі 01.08 Кліффорд. Великий червоний пес 08.08 Родина керує 15.08 Крудові 2. Нова ера 22.08 Тролі 2 29.08 Мустанг з"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wilanów",
-      "updated_at": "2026-08-11T07:39:13.926914+00:00"
-    },
-    "muzyczne-spotkania-s-siedzkie-2026-08-15T17:00:00+02:00": {
-      "title": "Muzyczne spotkania sąsiedzkie",
-      "date": "2026-08-15T17:00:00+02:00",
-      "end_date": "2026-08-15T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "🎶 Muzyczne spotkania sąsiedzkie 🎶 Rodzinne spotkania dla dzieci w wieku 4–10 lat i ich opiekunów Spotkania odbywają się w ogrodzie Centrum Promocji Kultury przy ul. Podskarbińskiej 2. 🎟 Udział bezpłatny | Wstęp wolny ☔ W przypadku niekorzystnych warunków atmosferycznych wydarzenie zostanie przeniesione do budynku CePeKa (hol główny). Zapraszamy na wakacyjny cykl pełen dźwięków, rytmu i wspólnej zabawy! W letnie soboty spotkamy się, by odkrywać świat muzyki poprzez koncerty na żywo, śpiew, ruch i twórcze działania dla całych rodzin. Każde spotkanie to okazja do wspólnego muzykowania, poznawania instrumentów i budowania muzycznych wspomnień. W programie dwa wyjątkowe cykle: 🎻 Poznajemy Instrumenty Rodzinne koncerty muzyczne prowadzone przez profesjonalnych muzyków. Dzieci poznają różne instrumenty i ich brzmienie, uczestniczą w zabawach muzyczno-ruchowych, śpiewają, eksperymentują z dźwiękiem i odkrywają muzykę wszystkimi zmysłami. 🥁 Zróbmy razem zespół – Fundacja Muzyczni Czarodzieje Krótki koncert połączony z interaktywnymi warsztatami muzycznymi dla dzieci i dorosłych. Uczestnicy tworzą rytmy, grają na instrumentach perkusyjnych, uczą się wspólnych piosenek i razem budują prawdziwy rodzinny zespół. Każde spotkanie kończy się mini koncertem z udziałem uczestników. Nie trzeba mieć żadnego doświadczenia muzycznego — liczy się dobra zabawa i wspólne muzykowanie! 📅 Harmonogram spotkań: 🎻 27 czerwca | godz. 17:00 Poznajemy Instrumenty: „Lato w kwiatach” 🎻 4 lipca | godz. 17:00 Poznajemy Instrumenty: „Plecak, mapa i przygoda” 🥁 11 lipca | godz. 17:00 Zróbmy razem zespół: „Muzyczne odkrycia” 🥁 18 lipca | godz. 17:00 Zróbmy razem zespół: „Rytm w ruchu” 🎻 25 lipca | godz. 17:00 Poznajemy Instrumenty: „Z muzyką za pan brat” 🥁 1 sierpnia | godz. 17:00 Zróbmy razem zespół: „Dźwięki” 🥁 8 sierpnia | godz. 17:00 Zróbmy razem zespół: „Orkiestra na wesoło” 🥁 15 sierpnia | godz. 17:00 Zróbmy razem zespół: „Wielkie granie” 🎻 29 sierpnia | godz. 17:00 Poznajemy Instrumenty: „Lato jeszcze gra” 🐾 5 września | godz. 17:00 Poznajemy Instrumenty: „Czworonożne przeboje z ogonkiem” Zapraszamy do wspólnej muzycznej przygody! 🎵 \"Muzyczne spotkania sąsiedzkie\" są finansowane z Gminnego Programu Rewitalizacji m.st. Warszawy do 2030 r.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1778686358.webp",
-      "location": {
-        "name": "Centrum Promocji Kultury, ul. Podskarbińska 2",
-        "district": "Praga-Południe"
-      },
-      "url": "https://www.facebook.com/events/1868982843793629/1868983360460244/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1868982843793629/1868983360460244/",
-      "scrapped_timestamp": "2026-08-11T07:36:49.521528+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 10
-      },
-      "translations": {
-        "pl": {
-          "title": "Muzyczne spotkania sąsiedzkie",
-          "description": "🎶 Muzyczne spotkania sąsiedzkie 🎶 Rodzinne spotkania dla dzieci w wieku 4–10 lat i ich opiekunów Spotkania odbywają się w ogrodzie Centrum Promocji Kultury przy ul. Podskarbińskiej 2. 🎟 Udział bezpłatny | Wstęp wolny ☔ W przypadku niekorzystnych warunków atmosferycznych wydarzenie zostanie przeniesione do budynku CePeKa (hol główny). Zapraszamy na wakacyjny cykl pełen dźwięków, rytmu i wspólnej zabawy! W letnie soboty spotkamy się, by odkrywać świat muzyki poprzez koncerty na żywo, śpiew, ruch i twórcze działania dla całych rodzin. Każde spotkanie to okazja do wspólnego muzykowania, poznawania instrumentów i budowania muzycznych wspomnień. W programie dwa wyjątkowe cykle: 🎻 Poznajemy Instrumenty Rodzinne koncerty muzyczne prowadzone przez profesjonalnych muzyków. Dzieci poznają różne instrumenty i ich brzmienie, uczestniczą w zabawach muzyczno-ruchowych, śpiewają, eksperymentują z dźwiękiem i odkrywają muzykę wszystkimi zmysłami. 🥁 Zróbmy razem zespół – Fundacja Muzyczni Czarodzieje Krótki koncert połączony z interaktywnymi warsztatami muzycznymi dla dzieci i dorosłych. Uczestnicy tworzą rytmy, grają na instrumentach perkusyjnych, uczą się wspólnych piosenek i razem budują prawdziwy rodzinny zespół. Każde spotkanie kończy się mini koncertem z udziałem uczestników. Nie trzeba mieć żadnego doświadczenia muzycznego — liczy się dobra zabawa i wspólne muzykowanie! 📅 Harmonogram spotkań: 🎻 27 czerwca | godz. 17:00 Poznajemy Instrumenty: „Lato w kwiatach” 🎻 4 lipca | godz. 17:00 Poznajemy Instrumenty: „Plecak, mapa i przygoda” 🥁 11 lipca | godz. 17:00 Zróbmy razem zespół: „Muzyczne odkrycia” 🥁 18 lipca | godz. 17:00 Zróbmy razem zespół: „Rytm w ruchu” 🎻 25 lipca | godz. 17:00 Poznajemy Instrumenty: „Z muzyką za pan brat” 🥁 1 sierpnia | godz. 17:00 Zróbmy razem zespół: „Dźwięki” 🥁 8 sierpnia | godz. 17:00 Zróbmy razem zespół: „Orkiestra na wesoło” 🥁 15 sierpnia | godz. 17:00 Zróbmy razem zespół: „Wielkie granie” 🎻 29 sierpnia | godz. 17:00 Poznajemy Instrumenty: „Lato jeszcze gra” 🐾 5 września | godz. 17:00 Poznajemy Instrumenty: „Czworonożne przeboje z ogonkiem” Zapraszamy do wspólnej muzycznej przygody! 🎵 \"Muzyczne spotkania sąsiedzkie\" są finansowane z Gminnego Programu Rewitalizacji m.st. Warszawy do 2030 r."
-        },
-        "en": {
-          "title": "Musical Neighborhood Meetings",
-          "description": "🎶 Musical Neighborhood Meetings 🎶 Family gatherings for children aged 4–10 and their guardians. The meetings take place in the garden of the Cultural Promotion Center at 2 Podskarbińska Street. 🎟 Free participation | Free entry ☔ In case of unfavorable weather conditions, the event will be moved to the CePeKa building (main hall). Join us for a summer series full of sounds, rhythm, and shared fun! On summer Saturdays, we will meet to explore the world of music through live concerts, singing, movement, and creative activities for the whole family. Each meeting is an opportunity for collective music-making, discovering instruments, and building musical memories. The program includes two special series: 🎻 Discovering Family Instruments - musical concerts led by professional musicians. Children will learn about various instruments."
-        },
-        "uk": {
-          "title": "Музичні сусідські зустрічі",
-          "description": "🎶 Музичні сусідські зустрічі 🎶 Сімейні зустрічі для дітей віком 4–10 років та їхніх опікунів. Зустрічі відбуваються в саду Центру Промоції Культури на вул. Подскарбінській 2. 🎟 Участь безкоштовна | Вхід вільний ☔ У разі несприятливих погодних умов подія буде перенесена до будівлі CePeKa (головний хол). Запрошуємо на літній цикл, наповнений звуками, ритмом і спільними розвагами! У літні суботи ми зустрічатимемося, щоб відкривати світ музики через живі концерти, спів, рух і творчі дії для цілих родин. Кожна зустріч - це можливість для спільного музикування, знайомства з інструментами та створення музичних спогадів. У програмі два унікальні цикли: 🎻 Знайомимося з Інструментами - музичні концерти, які проводять професійні музиканти. Діти знайомляться з різними інструментами."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-08-11T07:39:13.926929+00:00"
-    },
-    "pota-c-wka-mi-dzypokoleniowa-w-parku-hass-w-2026-08-15T18:00:00+02:00": {
-      "title": "Potańcówka Międzypokoleniowa w Parku Hassów",
-      "date": "2026-08-15T18:00:00+02:00",
-      "end_date": "2026-08-15T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "𝗦𝘁𝗮𝗿𝘁𝘂𝗷𝗲𝗺𝘆 𝘇 𝗹𝗲𝘁𝗻𝗶𝗺 𝘀𝗲𝘇𝗼𝗻𝗲𝗺 𝘄𝘆𝗱𝗮𝗿𝘇𝗲𝗻́ 𝗸𝘂𝗹𝘁𝘂𝗿𝗮𝗹𝗻𝘆𝗰𝗵 𝘄 𝗨𝗿𝘀𝘂𝘀𝗶𝗲 ☀️❗️ 💃🕺 Przed nami czas pełen muzyki, tańca i spotkań. Zaczynamy 𝗣𝗼𝘁𝗮𝗻́𝗰𝗼́𝘄𝗸𝗶 𝗠𝗶𝗲̨𝗱𝘇𝘆𝗽𝗼𝗸𝗼𝗹𝗲𝗻𝗶𝗼𝘄𝗲. 📅 W każdą sobotę lipca i sierpnia (z wyłączeniem 1 sierpnia) spotkamy się w Parku Hassów, by wspólnie zatańczyć, porozmawiać i po prostu dobrze się bawić – bez względu na wiek. Zaczynamy punktualnie o 18:00 i tańczymy aż do 21:00 🪩 𝗛𝗮𝗿𝗺𝗼𝗻𝗼𝗴𝗿𝗮𝗺: 📍 4.07 - Dancing Band 📍 11.07 - DJ Andre 📍 18.07 - DJ Alicja 📍 25.07 - DJ Monia 📍 8.08 - Navigo - Czarny Melonik 📍 15.08 - DJ Kris 📍 22.08 - DJ Pablo 📍 29.08 - Coctail Band ❤️ Zapraszamy wszystkich mieszkańców – przyjdźcie z rodziną, znajomymi, sąsiadami.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1783341638.webp",
-      "location": {
-        "name": "Park Hassów",
-        "district": "Ursus"
-      },
-      "url": "https://www.facebook.com/events/4394463254155181/4394463274155179/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/4394463254155181/4394463274155179/",
-      "scrapped_timestamp": "2026-08-11T07:36:58.661084+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 3,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Potańcówka Międzypokoleniowa w Parku Hassów",
-          "description": "𝗦𝘁𝗮𝗿𝘁𝘂𝗷𝗲𝗺𝘆 𝘇 𝗹𝗲𝘁𝗻𝗶𝗺 𝘀𝗲𝘇𝗼𝗻𝗲𝗺 𝘄𝘆𝗱𝗮𝗿𝘇𝗲𝗻́ 𝗸𝘂𝗹𝘁𝘂𝗿𝗮𝗹𝗻𝘆𝗰𝗵 𝘄 𝗨𝗿𝘀𝘂𝘀𝗶𝗲 ☀️❗️ 💃🕺 Przed nami czas pełen muzyki, tańca i spotkań. Zaczynamy 𝗣𝗼𝘁𝗮𝗻́𝗰𝗼́𝘄𝗸𝗶 𝗠𝗶𝗲̨𝗱𝘇𝘆𝗽𝗼𝗸𝗼𝗹𝗲𝗻𝗶𝗼𝘄𝗲. 📅 W każdą sobotę lipca i sierpnia (z wyłączeniem 1 sierpnia) spotkamy się w Parku Hassów, by wspólnie zatańczyć, porozmawiać i po prostu dobrze się bawić – bez względu na wiek. Zaczynamy punktualnie o 18:00 i tańczymy aż do 21:00 🪩 𝗛𝗮𝗿𝗺𝗼𝗻𝗼𝗴𝗿𝗮𝗺: 📍 4.07 - Dancing Band 📍 11.07 - DJ Andre 📍 18.07 - DJ Alicja 📍 25.07 - DJ Monia 📍 8.08 - Navigo - Czarny Melonik 📍 15.08 - DJ Kris 📍 22.08 - DJ Pablo 📍 29.08 - Coctail Band ❤️ Zapraszamy wszystkich mieszkańców – przyjdźcie z rodziną, znajomymi, sąsiadami."
-        },
-        "en": {
-          "title": "Intergenerational Dance Party in Hassów Park",
-          "description": "We are kicking off the summer season of cultural events in Ursus! ☀️❗️ 💃🕺 Ahead of us is a time full of music, dance, and gatherings. We start the Intergenerational Dance Parties. 📅 Every Saturday in July and August (excluding August 1st), we will meet in Hassów Park to dance together, chat, and simply have a good time – regardless of age. We start promptly at 6:00 PM and dance until 9:00 PM 🪩 𝗛𝗮𝗿𝗺𝗼𝗻𝗼𝗴𝗿𝗮𝗺: 📍 July 4 - Dancing Band 📍 July 11 - DJ Andre 📍 July 18 - DJ Alicja 📍 July 25 - DJ Monia 📍 August 8 - Navigo - Czarny Melonik 📍 August 15 - DJ Kris 📍 August 22 - DJ Pablo 📍 August 29 - Coctail Band ❤️ We invite all residents – come with your family, friends, and neighbors."
-        },
-        "uk": {
-          "title": "Міжпоколіннєва потанцівка в парку Хасів",
-          "description": "𝗗𝗼𝗯𝗿𝗼 𝗱𝗼𝗯𝗿𝗮𝗹𝗶𝘀𝗵 𝗹𝗲𝘁𝗻𝗲𝗺 𝘀𝗲𝘇𝗼𝗻𝗲𝗺 𝗸𝘂𝗹𝘁𝘂𝗿𝗮𝗹𝗻𝘆𝗰𝗵 𝘄 𝗨𝗿𝘀𝘂𝘀𝗶𝗲 ☀️❗️ 💃🕺 Попереду нас час, наповнений музикою, танцями та зустрічами. Розпочинаємо 𝗠𝗶𝗲̨𝗱𝘇𝘆𝗽𝗼𝗸𝗼𝗹𝗲𝗻𝗶𝗼𝘄𝗲 𝗽𝗼𝘁𝗮𝗻́𝗰𝗼́𝘄𝗸𝗶. 📅 Щосуботи липня та серпня (за винятком 1 серпня) ми зустрічатимемося в парку Хасів, щоб разом танцювати, спілкуватися та просто добре проводити час – незалежно від віку. Розпочинаємо точно о 18:00 і танцюємо до 21:00 🪩 𝗛𝗮𝗿𝗺𝗼𝗻𝗼𝗴𝗿𝗮𝗺: 📍 4.07 - Танцювальний гурт 📍 11.07 - DJ Андре 📍 18.07 - DJ Аліція 📍 25.07 - DJ Моня 📍 8.08 - Navigo - Чорний капелюшок 📍 15.08 - DJ Кріс 📍 22.08 - DJ Пабло 📍 29.08 - Коктейльний гурт ❤️ Запрошуємо всіх мешканців – приходьте з родиною, друзями, сусідами."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ursus",
-      "updated_at": "2026-08-11T07:39:13.926946+00:00"
-    },
-    "pota-c-wka-na-ochocie-dla-wszystkich-pokole-2026-08-15T18:00:00+02:00": {
-      "title": "Potańcówka na Ochocie dla wszystkich pokoleń",
-      "date": "2026-08-15T18:00:00+02:00",
-      "end_date": "2026-08-15T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "💃🕺 Gdy zachodzi słońce, Ochota zaczyna tańczyć... Są takie letnie wieczory, które aż proszą się o muzykę. O spotkania z sąsiadami, rozmowy pod gołym niebem i taniec bez pośpiechu. W sierpniu Park Szczęśliwicki zamieni się w największy parkiet pod chmurką na Ochocie. Czekają na Was największe polskie i światowe przeboje, wyjątkowa atmosfera i cztery godziny dobrej zabawy. 📍 Park Szczęśliwicki 🎧 DjSkorp 📅 8, 15 i 22 sierpnia 🕕 godz. 18:00-22:00 🎟️ Wstęp wolny Bo najlepsze wspomnienia często zaczynają się od jednego prostego pytania: „Zatańczymy?”",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1785417137.webp",
-      "location": {
-        "name": "Park Szczęśliwicki",
-        "district": "Ochota"
-      },
-      "url": "https://www.facebook.com/photo/?fbid=1887956165948412&set=a.807261034017936",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo/?fbid=1887956165948412&set=a.807261034017936",
-      "scrapped_timestamp": "2026-08-11T07:37:08.003429+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Potańcówka na Ochocie dla wszystkich pokoleń",
-          "description": "💃🕺 Gdy zachodzi słońce, Ochota zaczyna tańczyć... Są takie letnie wieczory, które aż proszą się o muzykę. O spotkania z sąsiadami, rozmowy pod gołym niebem i taniec bez pośpiechu. W sierpniu Park Szczęśliwicki zamieni się w największy parkiet pod chmurką na Ochocie. Czekają na Was największe polskie i światowe przeboje, wyjątkowa atmosfera i cztery godziny dobrej zabawy. 📍 Park Szczęśliwicki 🎧 DjSkorp 📅 8, 15 i 22 sierpnia 🕕 godz. 18:00-22:00 🎟️ Wstęp wolny Bo najlepsze wspomnienia często zaczynają się od jednego prostego pytania: „Zatańczymy?”"
-        },
-        "en": {
-          "title": "Dance Party in Ochota for All Generations",
-          "description": "💃🕺 When the sun sets, Ochota starts to dance... There are summer evenings that just call for music. For gatherings with neighbors, conversations under the open sky, and dancing without haste. In August, Szczęśliwicki Park will transform into the largest outdoor dance floor in Ochota. You can expect the biggest Polish and international hits, a unique atmosphere, and four hours of good fun. 📍 Szczęśliwicki Park 🎧 DjSkorp 📅 August 8, 15, and 22 🕕 6:00 PM - 10:00 PM 🎟️ Free entry Because the best memories often start with one simple question: \"Shall we dance?\""
-        },
-        "uk": {
-          "title": "Потанцюлька на Охоті для всіх поколінь",
-          "description": "💃🕺 Коли заходить сонце, Охота починає танцювати... Є такі літні вечори, які просто просять про музику. Про зустрічі з сусідами, розмови під відкритим небом і танець без поспіху. У серпні Парк Щасливицький перетвориться на найбільший паркет під хмарами на Охоті. На вас чекають найбільші польські та світові хіти, унікальна атмосфера та чотири години гарного настрою. 📍 Парк Щасливицький 🎧 DjSkorp 📅 8, 15 та 22 серпня 🕕 з 18:00 до 22:00 🎟️ Вхід вільний Бо найкращі спогади часто починаються з одного простого питання: «Потанцюємо?»"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ochota",
-      "updated_at": "2026-08-11T07:39:13.926963+00:00"
-    },
-    "bajki-plenerowe-w-parku-czechowickim-2026-08-16T00:00:00+02:00": {
-      "title": "Bajki plenerowe w Parku Czechowickim",
-      "date": "2026-08-16T00:00:00+02:00",
-      "end_date": "2026-08-16T00:00:00+02:00",
-      "startTimeKnown": false,
-      "description": "Od 5 lipca do 30 sierpnia w każdą niedzielę o godz. 12:00 na scenie w Parku Czechowickim będą odbywać się spektakle dla dzieci. W programie znalazło się dziewięć przedstawień opartych na znanych bajkach i opowieściach. W repertuarze są zarówno klasyczne baśnie, jak i autorskie przedstawienia. Wakacyjny cykl rozpocznie „Skarb Pirata”. Harmonogram przedstawień: 5 lipca – Skarb Pirata, 12 lipca – Podróże małe i duże, 19 lipca – Wzdłuż Wisły, czyli Polski poznawanie, 26 lipca – Kot w butach i jego plan, 2 sierpnia – Złota Rybka, 9 sierpnia – Lwi Król, 16 sierpnia – Skacząca Królewna, 23 sierpnia – Legenda o Smoku Wawelskim, 30 sierpnia – Ola i Tolek w dalekiej podróży. Wstęp na wszystkie spektakle jest bezpłatny. Na wydarzenie zaprasza Rada i Zarząd Dzielnicy Ursus m.st. Warszawy.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0000.1783185519.webp",
-      "location": {
-        "name": "Park Czechowicki",
-        "district": "Ursus"
-      },
-      "url": "https://ursus.um.warszawa.pl/-/bajki-plenerowe-w-parku-czechowickim",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/bajki-plenerowe-w-parku-czechowickim",
-      "scrapped_timestamp": "2026-08-11T07:37:14.602205+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Bajki plenerowe w Parku Czechowickim",
-          "description": "Od 5 lipca do 30 sierpnia w każdą niedzielę o godz. 12:00 na scenie w Parku Czechowickim będą odbywać się spektakle dla dzieci. W programie znalazło się dziewięć przedstawień opartych na znanych bajkach i opowieściach. W repertuarze są zarówno klasyczne baśnie, jak i autorskie przedstawienia. Wakacyjny cykl rozpocznie „Skarb Pirata”. Harmonogram przedstawień: 5 lipca – Skarb Pirata, 12 lipca – Podróże małe i duże, 19 lipca – Wzdłuż Wisły, czyli Polski poznawanie, 26 lipca – Kot w butach i jego plan, 2 sierpnia – Złota Rybka, 9 sierpnia – Lwi Król, 16 sierpnia – Skacząca Królewna, 23 sierpnia – Legenda o Smoku Wawelskim, 30 sierpnia – Ola i Tolek w dalekiej podróży. Wstęp na wszystkie spektakle jest bezpłatny. Na wydarzenie zaprasza Rada i Zarząd Dzielnicy Ursus m.st. Warszawy."
-        },
-        "en": {
-          "title": "Open-Air Fairy Tales in Czechowice Park",
-          "description": "From July 5 to August 30, every Sunday at 12:00 PM, performances for children will take place on the stage in Czechowice Park. The program includes nine shows based on well-known fairy tales and stories. The repertoire features both classic fairy tales and original performances. The summer cycle will kick off with 'Pirate's Treasure'. Schedule of performances: July 5 – Pirate's Treasure, July 12 – Small and Big Travels, July 19 – Along the Vistula, or Discovering Poland, July 26 – Puss in Boots and His Plan, August 2 – The Golden Fish, August 9 – The Lion King, August 16 – The Jumping Princess, August 23 – The Legend of the Wawel Dragon, August 30 – Ola and Tolek on a Distant Journey. Admission to all performances is free. The event is organized by the Council and Management of the Ursus District of the City of Warsaw."
-        },
-        "uk": {
-          "title": "Байки на свіжому повітрі в парку Чеховіцькому",
-          "description": "З 5 липня до 30 серпня кожної неділі о 12:00 на сцені в парку Чеховіцькому відбуватимуться спектаклі для дітей. У програмі дев'ять вистав, основаних на відомих казках та оповіданнях. У репертуарі як класичні казки, так і авторські вистави. Літній цикл розпочне «Скарб Пірата». Розклад вистав: 5 липня – Скарб Пірата, 12 липня – Подорожі малі і великі, 19 липня – Вздовж Вісли, тобто пізнаємо Польщу, 26 липня – Кіт у чоботях і його план, 2 серпня – Золота Рибка, 9 серпня – Король Лев, 16 серпня – Стрибаюча Принцеса, 23 серпня – Легенда про Вавельського Дракона, 30 серпня – Оля і Толець у далекій подорожі. Вхід на всі вистави безкоштовний. На подію запрошує Рада та Управління району Урсус м. Варшави."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ursus",
-      "updated_at": "2026-08-11T07:39:13.926978+00:00"
     },
     "rodzinne-pl-sanie-na-trawiastym-dywanie-2026-08-16T10:00:00+02:00": {
       "title": "Rodzinne pląsanie na trawiastym dywanie",
@@ -13621,47 +12663,6 @@
       "district": "Bemowo",
       "updated_at": "2026-08-12T08:10:50.639844+00:00"
     },
-    "otwarty-trening-sportowy-dla-dzieci-3-5-lat-i-rodzic-w-free-open-training-session-for-children-aged-3-5-and-their-parents-2026-08-15T10:00:00+02:00": {
-      "title": "Otwarty trening sportowy dla dzieci 3–5 lat i rodziców! // Free open training session for children aged 3–5 and their parents",
-      "date": "2026-08-15T10:00:00+02:00",
-      "end_date": "2026-08-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "[English version below] **OTWARTY TRENING DLA DZIECI 🐯🥋** Już w sobotę **otwarty trening dla dzieci 3–5 lat i rodziców!** Dużo zabawy, ruchu oraz podstawowych elementów judo i BJJ, takich jak bezpieczne upadanie (ukemi). 👨‍👩‍👧 Rodzice ćwiczą razem z dziećmi 🎟️ **Zajęcia bezpłatne** 🕙 **Sobota, 10:00** 📍 **Akademia Walki WFT, Bemowo** ul. Wrocławska 25, Warszawa 👉 **Zapisy:**  > link Zapraszamy! 🐯🦄 --- ENG --- 🇬🇧 **OPEN TRAINING FOR KIDS 🐯🥋** Join us this Saturday for a **free open training session for children aged 3–5 and their parents!** Lots of fun, movement, and basic elements of Judo and BJJ, including learning how to fall safely (ukemi). 👨‍👩‍👧 Parents train together with their children 🎟️ **FREE training** 🕙 **Saturday, 10:00** 📍 **Akademia Walki WFT, Bemowo** ul. Wrocławska 25, Warsaw 👉 **Registration:**  >> link Come and join us! 🐯🦄",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1786534701.webp",
-      "location": {
-        "name": "Wrocławska 25",
-        "district": "Bemowo"
-      },
-      "url": "https://waw4free.pl/wydarzenie-157142-otwarty-trening-sportowy-dla-dzieci-3-5-lat-i-rodzicow-free-open-training-session-for-children-aged-3-5-and-their-parents",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://waw4free.pl/wydarzenie-157142-otwarty-trening-sportowy-dla-dzieci-3-5-lat-i-rodzicow-free-open-training-session-for-children-aged-3-5-and-their-parents",
-      "scrapped_timestamp": "2026-08-13T07:52:05.142324+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 3,
-        "max": 5
-      },
-      "translations": {
-        "pl": {
-          "title": "Otwarty trening sportowy dla dzieci 3–5 lat i rodziców! // Free open training session for children aged 3–5 and their parents",
-          "description": "[English version below] **OTWARTY TRENING DLA DZIECI 🐯🥋** Już w sobotę **otwarty trening dla dzieci 3–5 lat i rodziców!** Dużo zabawy, ruchu oraz podstawowych elementów judo i BJJ, takich jak bezpieczne upadanie (ukemi). 👨‍👩‍👧 Rodzice ćwiczą razem z dziećmi 🎟️ **Zajęcia bezpłatne** 🕙 **Sobota, 10:00** 📍 **Akademia Walki WFT, Bemowo** ul. Wrocławska 25, Warszawa 👉 **Zapisy:**  > link Zapraszamy! 🐯🦄 --- ENG --- 🇬🇧 **OPEN TRAINING FOR KIDS 🐯🥋** Join us this Saturday for a **free open training session for children aged 3–5 and their parents!** Lots of fun, movement, and basic elements of Judo and BJJ, including learning how to fall safely (ukemi). 👨‍👩‍👧 Parents train together with their children 🎟️ **FREE training** 🕙 **Saturday, 10:00** 📍 **Akademia Walki WFT, Bemowo** ul. Wrocławska 25, Warsaw 👉 **Registration:**  >> link Come and join us! 🐯🦄"
-        },
-        "en": {
-          "title": "Free open training session for children aged 3–5 and their parents",
-          "description": "Join us this Saturday for a free open training session for children aged 3–5 and their parents! Lots of fun, movement, and basic elements of Judo and BJJ, including learning how to fall safely (ukemi). Parents train together with their children. FREE training. Saturday, 10:00. Akademia Walki WFT, Bemowo, ul. Wrocławska 25, Warsaw. Sign up: > link. We invite you!"
-        },
-        "uk": {
-          "title": "Відкритий спортивний тренінг для дітей 3–5 років та їхніх батьків!",
-          "description": "[Англійська версія нижче] **ВІДКРИТИЙ ТРЕНІНГ ДЛЯ ДІТЕЙ 🐯🥋** Приєднуйтесь до нас цієї суботи на **безкоштовний відкритий тренінг для дітей 3–5 років та їхніх батьків!** Багато веселощів, руху та основних елементів дзюдо та BJJ, включаючи навчання безпечному падінню (укемі). 👨‍👩‍👧 Батьки тренуються разом з дітьми 🎟️ **Безкоштовні заняття** 🕙 **Субота, 10:00** 📍 **Академія Бою WFT, Бемово** вул. Вроцлавська 25, Варшава 👉 **Реєстрація:** > посилання Запрошуємо! 🐯🦄 --- ENG --- 🇬🇧 **OPEN TRAINING FOR KIDS 🐯🥋** Join us this Saturday for a **free open training session for children aged 3–5 and their parents!** Lots of fun, movement, and basic elements of Judo and BJJ, including learning how to fall safely (ukemi). 👨‍👩‍👧 Parents train together with their children 🎟️ **FREE training** 🕙 **Saturday, 10:00** 📍 **Akademia Walki WFT, Bemowo** ul. Wrocławska 25, Warsaw"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-08-13T07:52:57.758080+00:00"
-    },
     "taste-of-korea-2026-warszawa-2026-08-16T14:00:00+02:00": {
       "title": "Taste of Korea 2026 - Warszawa",
       "date": "2026-08-16T14:00:00+02:00",
@@ -14039,43 +13040,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-08-14T08:34:04.843767+00:00"
     },
-    "fokker-historia-do-z-o-enia-warsztaty-modelarskie-dla-rodzin-2026-08-15T15:00:00+02:00": {
-      "title": "Fokker. Historia do złożenia | warsztaty modelarskie dla rodzin",
-      "date": "2026-08-15T15:00:00+02:00",
-      "end_date": "2026-08-15T15:00:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://czasdzieci.pl/warszawa/wydarzenia/id,140887182.html",
-      "description": "Z okazji Święta Wojska Polskiego zapraszamy rodziny na specjalne warsztaty modelarskie poświęcone historii polskiego lotnictwa. Wspólnie stworzymy kartonowy model jednego z najbardziej cenionych przedwojennych myśliwców – Fokkera . Model został przygotowany specjalnie na tę okazję, a jego budowa stanie się punktem wyjścia do poznania historii tej wyjątkowej konstrukcji i ludzi, którzy związali z nią swoje losy. W trakcie spotkania przeniesiemy się do początków lotnictwa i poznamy fascynujące historie pilotów , mechaników oraz całych załóg . Opowiemy o odważnych, pomysłowych i niezwykle zaradnych ludziach, którzy każdego dnia udowadniali, że w lotnictwie liczą się nie tylko nowoczesne maszyny, ale przede wszystkim człowiek. KIEDY: 15 sierpnia, godz. 11:00, 13:00, 15:00 GDZIE: Muzeum Józefa Piłsudskiego w Sulejówku BILETY: >> kliknij tutaj Warsztaty to doskonała okazja do wspólnego, rodzinnego spędzenia czasu, rozwijania zdolności manualnych i odkrywania historii w praktyczny sposób. Niezależnie od tego, czy stawiacie pierwsze kroki w modelarstwie, czy macie już doświadczenie – zapraszamy wszystkich miłośników lotnictwa, historii i twórczego spędzania czasu.",
-      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/0-0-1200-12006a7d9aed6c2041786616557i-insert-i.jpg",
-      "source": "czasdzieci.pl",
-      "location": {
-        "name": "Aleja Piłsudskiego 29 05-070 Sulejówek",
-        "district": "Wesoła"
-      },
-      "age_range": {
-        "min": 8,
-        "max": 13
-      },
-      "scrapped_url": "https://czasdzieci.pl/warszawa/wydarzenia/id,140887182.html",
-      "scrapped_timestamp": "2026-08-14T08:32:05.777095+00:00",
-      "category": "Workshops",
-      "translations": {
-        "pl": {
-          "title": "Fokker. Historia do złożenia | warsztaty modelarskie dla rodzin",
-          "description": "Z okazji Święta Wojska Polskiego zapraszamy rodziny na specjalne warsztaty modelarskie poświęcone historii polskiego lotnictwa. Wspólnie stworzymy kartonowy model jednego z najbardziej cenionych przedwojennych myśliwców – Fokkera . Model został przygotowany specjalnie na tę okazję, a jego budowa stanie się punktem wyjścia do poznania historii tej wyjątkowej konstrukcji i ludzi, którzy związali z nią swoje losy. W trakcie spotkania przeniesiemy się do początków lotnictwa i poznamy fascynujące historie pilotów , mechaników oraz całych załóg . Opowiemy o odważnych, pomysłowych i niezwykle zaradnych ludziach, którzy każdego dnia udowadniali, że w lotnictwie liczą się nie tylko nowoczesne maszyny, ale przede wszystkim człowiek. KIEDY: 15 sierpnia, godz. 11:00, 13:00, 15:00 GDZIE: Muzeum Józefa Piłsudskiego w Sulejówku BILETY: >> kliknij tutaj Warsztaty to doskonała okazja do wspólnego, rodzinnego spędzenia czasu, rozwijania zdolności manualnych i odkrywania historii w praktyczny sposób. Niezależnie od tego, czy stawiacie pierwsze kroki w modelarstwie, czy macie już doświadczenie – zapraszamy wszystkich miłośników lotnictwa, historii i twórczego spędzania czasu."
-        },
-        "en": {
-          "title": "Fokker. The History of Assembly | Model Workshops for Families",
-          "description": "On the occasion of the Polish Army Day, we invite families to special model workshops dedicated to the history of Polish aviation. Together, we will create a cardboard model of one of the most valued pre-war fighters – the Fokker. The model has been specially prepared for this occasion, and its construction will serve as a starting point to learn about the history of this unique design and the people who intertwined their fates with it. During the meeting, we will transport ourselves to the beginnings of aviation and discover fascinating stories of pilots, mechanics, and entire crews. We will talk about the brave, inventive, and incredibly resourceful people who proved every day that in aviation, it is not only modern machines that matter, but above all, the human element. WHEN: August 15, at 11:00, 13:00, 15:00 WHERE: Józef Museum"
-        },
-        "uk": {
-          "title": "Фоккер. Історія до складання | модельні майстерні для родин",
-          "description": "З нагоди Свята Війська Польського запрошуємо родини на спеціальні модельні майстерні, присвячені історії польської авіації. Разом ми створимо картонну модель одного з найцінніших довоєнних винищувачів – Фоккера. Модель була підготовлена спеціально на цю подію, а її будівництво стане відправною точкою для вивчення історії цієї унікальної конструкції та людей, які пов'язали з нею свої долі. Під час зустрічі ми перенесемося до початків авіації та дізнаємося захоплюючі історії пілотів, механіків та цілих екіпажів. Розповімо про сміливих, винахідливих та надзвичайно спритних людей, які щодня доводили, що в авіації важливі не лише сучасні машини, а перш за все – людина. КОЛИ: 15 серпня, о 11:00, 13:00, 15:00 ДЕ: Музей Юзефа"
-        }
-      },
-      "district": "Wesoła",
-      "updated_at": "2026-08-14T08:34:04.843790+00:00"
-    },
     "warsztaty-roboty-ze-mieci-spontaniczny-teatr-robotyczny-oraz-spektakl-familijny-miecio-eko-baja-2026-08-20T15:00:00+02:00": {
       "title": "Warsztaty  “Roboty ze śmieci-spontaniczny teatr robotyczny” oraz Spektakl familijny \"Śmiecio Eko baja\"",
       "date": "2026-08-20T15:00:00+02:00",
@@ -14111,47 +13075,6 @@
       },
       "district": "Wawer",
       "updated_at": "2026-08-14T08:34:04.843815+00:00"
-    },
-    "wielkie-serca-spektakle-w-multimedialnym-parku-fontann-2026-2026-08-15T21:00:00+02:00": {
-      "title": "„Wielkie Serca” – spektakle w Multimedialnym Parku Fontann 2026",
-      "date": "2026-08-15T21:00:00+02:00",
-      "end_date": "2026-08-15T21:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "„Wielkie Serca” – nowy sezon spektakli w Multimedialnym Parku Fontann Pokazy w Multimedialnym Parku Fontann to jedno z najbardziej widowiskowych wydarzeń plenerowych w stolicy. Setki dysz wodnych, dynamiczna choreografia fontann, lasery, światło i projekcje na gigantycznym ekranie wodnym tworzą spektakl, w którym obraz, dźwięk i ruch wody splatają się w niezwykłą, multimedialną opowieść. Synchronizacja muzyki, efektów świetlnych i animacji sprawia, że każdy pokaz jest intensywnym, emocjonalnym doświadczeniem oglądanym przez tysiące widzów. Tegoroczne widowisko „Wielkie Serca” niesie przesłanie o sile dobra, empatii i wzajemnej życzliwości. Animacje wyświetlane na ekranie wodnym przypomną, że nawet drobne gesty mogą zmieniać rzeczywistość, a dobro, kiedy się nim dzielimy, wraca z podwójną siłą. W tej symbolicznej opowieści pojawią się również postaci wybitnych Polaków związanych z Warszawą – ludzi, których talent, pasja i osiągnięcia przyniosły im światową sławę i stały się powodem do narodowej dumy. Wśród bohaterów widowiska znajdą się m.in. Tamara Łempicka, Fryderyk Chopin oraz współczesne gwiazdy sportu – Robert Lewandowski i Iga Świątek. Muzyczną oprawę widowiska stworzą znane kompozycje muzyki filmowej i popularne utwory światowych artystów. Wśród nich znajdzie się również piosenka „Tak jak Ty” w wykonaniu Mimi Wydrzyńskiej, skomponowana przez Stanisława Syrewicza – cenionego twórcę muzyki filmowej i teatralnej. Tegoroczne widowisko to opowieść o ludziach, których talent i postawa inspirują innych. Chcemy przypomnieć sylwetki wybitnych Polaków związanych z Warszawą – osób, z których jesteśmy dumni i które pokazują, że pasja, wytrwałość i wrażliwość mogą zmieniać świat. Mamy nadzieję, że ta historia opowiedziana wodą, światłem i muzyką poruszy publiczność tak samo jak poprzednie pokazy. – mówi Andrzej Matusiak, dyrektor Stołecznej Estrady. Pokazy w Multimedialnym Parku Fontann od lat przyciągają setki tysięcy widzów i należą do najpopularniejszych letnich atrakcji Warszawy – zarówno dla mieszkańców, jak i turystów z Polski i z zagranicy. Wstęp na pokazy w Multimedialnym Parku Fontann jest bezpłatny. Pokazy są współfinansowane ze środków Miasta st. Warszawy. Program pokazów w Multimedialnym Parku Fontann (w każdy piątek i sobotę): Maj/ Czerwiec* / Lipiec – godz. 21:30 Sierpień – godz. 21:00 Wrzesień – godz. 20:30 *w dniach 19 i 20 czerwca, ze względu na Wianki nad Wisłą pokazy fontann „Wielkie Serca” nie odbędą się. Pokaz trwa 30 minut. Dostępność W trakcie pierwszego pokazu inauguracyjnego (1 maja) na terenie Multimedialnego Parku Fontann zostanie wydzielona specjalna, oznakowana strefa dla osób z niepełnosprawnościami. Będzie wyposażona w podest dla osób poruszających się na wózkach. Osoby niedosłyszące będą miały zapewnioną pętle indukcyjną. Osoby niewidome i słabowidzące przez cały sezon będą mogły skorzystać z audiodeskrypcji, która będzie dostępna na stronie: link Głośna muzyka, migotanie i efekty świetlne wykorzystywane podczas pokazów mogą wywoływać bóle głowy, epilepsje i zaburzenia percepcji. ORGANIZATOR: Stołeczna Estrada PARTNERZY: Wodociągi Warszawskie, Totalizator Sportowy – właściciel marki LOTTO, Radio ESKA, Informator Stolicy, Nasze Miasto, TVP3 Warszawa",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1775563354.webp",
-      "location": {
-        "name": "Multimedialny Park Fontann w Warszawie",
-        "district": "Śródmieście"
-      },
-      "url": "https://estrada.com.pl/multimedialny_park/2026/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://estrada.com.pl/multimedialny_park/2026/",
-      "scrapped_timestamp": "2026-08-14T08:32:22.490026+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "„Wielkie Serca” – spektakle w Multimedialnym Parku Fontann 2026",
-          "description": "„Wielkie Serca” – nowy sezon spektakli w Multimedialnym Parku Fontann Pokazy w Multimedialnym Parku Fontann to jedno z najbardziej widowiskowych wydarzeń plenerowych w stolicy. Setki dysz wodnych, dynamiczna choreografia fontann, lasery, światło i projekcje na gigantycznym ekranie wodnym tworzą spektakl, w którym obraz, dźwięk i ruch wody splatają się w niezwykłą, multimedialną opowieść. Synchronizacja muzyki, efektów świetlnych i animacji sprawia, że każdy pokaz jest intensywnym, emocjonalnym doświadczeniem oglądanym przez tysiące widzów. Tegoroczne widowisko „Wielkie Serca” niesie przesłanie o sile dobra, empatii i wzajemnej życzliwości. Animacje wyświetlane na ekranie wodnym przypomną, że nawet drobne gesty mogą zmieniać rzeczywistość, a dobro, kiedy się nim dzielimy, wraca z podwójną siłą. W tej symbolicznej opowieści pojawią się również postaci wybitnych Polaków związanych z Warszawą – ludzi, których talent, pasja i osiągnięcia przyniosły im światową sławę i stały się powodem do narodowej dumy. Wśród bohaterów widowiska znajdą się m.in. Tamara Łempicka, Fryderyk Chopin oraz współczesne gwiazdy sportu – Robert Lewandowski i Iga Świątek. Muzyczną oprawę widowiska stworzą znane kompozycje muzyki filmowej i popularne utwory światowych artystów. Wśród nich znajdzie się również piosenka „Tak jak Ty” w wykonaniu Mimi Wydrzyńskiej, skomponowana przez Stanisława Syrewicza – cenionego twórcę muzyki filmowej i teatralnej. Tegoroczne widowisko to opowieść o ludziach, których talent i postawa inspirują innych. Chcemy przypomnieć sylwetki wybitnych Polaków związanych z Warszawą – osób, z których jesteśmy dumni i które pokazują, że pasja, wytrwałość i wrażliwość mogą zmieniać świat. Mamy nadzieję, że ta historia opowiedziana wodą, światłem i muzyką poruszy publiczność tak samo jak poprzednie pokazy. – mówi Andrzej Matusiak, dyrektor Stołecznej Estrady. Pokazy w Multimedialnym Parku Fontann od lat przyciągają setki tysięcy widzów i należą do najpopularniejszych letnich atrakcji Warszawy – zarówno dla mieszkańców, jak i turystów z Polski i z zagranicy. Wstęp na pokazy w Multimedialnym Parku Fontann jest bezpłatny. Pokazy są współfinansowane ze środków Miasta st. Warszawy. Program pokazów w Multimedialnym Parku Fontann (w każdy piątek i sobotę): Maj/ Czerwiec* / Lipiec – godz. 21:30 Sierpień – godz. 21:00 Wrzesień – godz. 20:30 *w dniach 19 i 20 czerwca, ze względu na Wianki nad Wisłą pokazy fontann „Wielkie Serca” nie odbędą się. Pokaz trwa 30 minut. Dostępność W trakcie pierwszego pokazu inauguracyjnego (1 maja) na terenie Multimedialnego Parku Fontann zostanie wydzielona specjalna, oznakowana strefa dla osób z niepełnosprawnościami. Będzie wyposażona w podest dla osób poruszających się na wózkach. Osoby niedosłyszące będą miały zapewnioną pętle indukcyjną. Osoby niewidome i słabowidzące przez cały sezon będą mogły skorzystać z audiodeskrypcji, która będzie dostępna na stronie: link Głośna muzyka, migotanie i efekty świetlne wykorzystywane podczas pokazów mogą wywoływać bóle głowy, epilepsje i zaburzenia percepcji. ORGANIZATOR: Stołeczna Estrada PARTNERZY: Wodociągi Warszawskie, Totalizator Sportowy – właściciel marki LOTTO, Radio ESKA, Informator Stolicy, Nasze Miasto, TVP3 Warszawa"
-        },
-        "en": {
-          "title": "Great Hearts – Shows at the Multimedia Fountain Park 2026",
-          "description": "Great Hearts – a new season of shows at the Multimedia Fountain Park. The shows at the Multimedia Fountain Park are one of the most spectacular outdoor events in the capital. Hundreds of water jets, dynamic choreography of the fountains, lasers, lights, and projections on a giant water screen create a spectacle where image, sound, and the movement of water intertwine into an extraordinary multimedia story. The synchronization of music, light effects, and animations makes each show an intense, emotional experience watched by thousands of spectators. This year's spectacle 'Great Hearts' carries a message about the power of goodness, empathy, and mutual kindness. The animations displayed on the water screen will remind us that even small gestures can change reality, and that goodness, when shared, returns doubly."
-        },
-        "uk": {
-          "title": "«Великі Серця» – спектаклі в Мультимедійному Парку Фонтанів 2026",
-          "description": "«Великі Серця» – новий сезон спектаклів у Мультимедійному Парку Фонтанів. Покажчики в Мультимедійному Парку Фонтанів – це одне з найвражаючих подій на відкритому повітрі в столиці. Сотні водяних струменів, динамічна хореографія фонтанів, лазери, світло та проекції на гігантському водяному екрані створюють спектакль, у якому образ, звук і рух води переплітаються в незвичайну, мультимедійну оповідь. Синхронізація музики, світлових ефектів і анімацій робить кожен показ інтенсивним, емоційним досвідом, який спостерігають тисячі глядачів. Цьогорічне видовище «Великі Серця» несе послання про силу добра, емпатії та взаємної доброзичливості. Анімації, що відображаються на водяному екрані, нагадають, що навіть дрібні жести можуть змінювати реальність, а добро, коли ми ним ділимося, повертається з подвійною силою."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-14T08:34:04.843837+00:00"
     },
     "bemowskie-kino-plenerowe-dla-dzieci-wiki-i-jej-sekret-2026-08-17T17:00:00+02:00": {
       "title": "Bemowskie Kino Plenerowe dla Dzieci – „Wiki i jej sekret”",
@@ -14522,46 +13445,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-08-14T08:34:04.844047+00:00"
     },
-    "rodzinne-pl-sanie-na-trawiastym-dywanie-bezp-atne-spotkania-na-obkowym-placu-zabaw-2026-08-15T10:00:00+02:00": {
-      "title": "Rodzinne pląsanie na trawiastym dywanie – bezpłatne spotkania na żłobkowym placu zabaw",
-      "date": "2026-08-15T10:00:00+02:00",
-      "end_date": "2026-08-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Pamiętacie nasze zeszłoroczne szaleństwa na trawie? Mamy wspaniałą wiadomość! Nominowany do nagrody Złote Słoneczniki cykl „Rodzinne pląsanie na trawiastym dywanie",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F8d1b8f68-8d40-4cd1-8173-62a36009cc81.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/8ee4b59f-3898-41d2-9c34-6b16c1301a96",
-      "source": "gojammin.com",
-      "district": "Praga-Południe",
-      "location": {
-        "name": "Tadeusza Sygietyńskiego 4, 04-022 Warszawa, Poland",
-        "district": "Praga-Południe"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/8ee4b59f-3898-41d2-9c34-6b16c1301a96",
-      "scrapped_timestamp": "2026-08-14T08:33:53.597644+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "translations": {
-        "pl": {
-          "title": "Rodzinne pląsanie na trawiastym dywanie – bezpłatne spotkania na żłobkowym placu zabaw",
-          "description": "Pamiętacie nasze zeszłoroczne szaleństwa na trawie? Mamy wspaniałą wiadomość! Nominowany do nagrody Złote Słoneczniki cykl „Rodzinne pląsanie na trawiastym dywanie"
-        },
-        "en": {
-          "title": "Family Dancing on the Grass Carpet – Free Meetings at the Nursery Playground",
-          "description": "Do you remember our grass craziness from last year? We have great news! The nominated for the Golden Sunflowers award series 'Family Dancing on the Grass Carpet"
-        },
-        "uk": {
-          "title": "Сімейні танці на трав'яному килимі – безкоштовні зустрічі на дитячому майданчику",
-          "description": "Пам'ятаєте наші минулорічні шаленість на траві? У нас чудова новина! Номінований на премію Золоті Соняшники цикл «Сімейні танці на трав'яному килимі"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-08-14T08:34:04.844111+00:00"
-    },
     "warsztaty-przyjazne-sensorycznie-konie-i-konik-2026-08-21T12:15:00+02:00": {
       "title": "Warsztaty przyjazne sensorycznie: Konie i konik",
       "date": "2026-08-21T12:15:00+02:00",
@@ -14601,88 +13484,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-08-15T07:42:04.120988+00:00"
-    },
-    "wi-to-wojska-polskiego-na-cytadeli-wojskowa-strefa-edukacyjno-kulturalna-2026-08-15T10:00:00+02:00": {
-      "title": "Święto Wojska Polskiego na Cytadeli – wojskowa strefa edukacyjno-kulturalna",
-      "date": "2026-08-15T10:00:00+02:00",
-      "end_date": "2026-08-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Tego samego dnia o godz. 12:00 na Wisłostradzie odbędzie się Defilada Wojskowa z udziałem żołnierzy reprezentujących Wojska Lądowe, Siły Powietrzne, Marynarkę Wojenną, Wojska Specjalne i Wojska Obrony Terytorialnej. Obchody 2026 roku przypadają w 106. rocznicę Bitwy Warszawskiej.",
-      "url": "https://muzeumwp.pl/2026/08/03/swieto-wojska-polskiego-2026-na-cytadeli-warszawskiej/",
-      "source": "muzeumwp.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Muzeum Wojska Polskiego, Cytadela Warszawska · ul. Gwardii 4",
-        "district": "Żoliborz"
-      },
-      "image": "https://muzeumwp.pl/wp-content/uploads/2026/08/ok.jpg",
-      "scrapped_url": "https://muzeumwp.pl/2026/08/03/swieto-wojska-polskiego-2026-na-cytadeli-warszawskiej/",
-      "scrapped_timestamp": "2026-08-15T07:40:19.718538+00:00",
-      "category": "Educational",
-      "translations": {
-        "pl": {
-          "title": "Święto Wojska Polskiego na Cytadeli – wojskowa strefa edukacyjno-kulturalna",
-          "description": "Tego samego dnia o godz. 12:00 na Wisłostradzie odbędzie się Defilada Wojskowa z udziałem żołnierzy reprezentujących Wojska Lądowe, Siły Powietrzne, Marynarkę Wojenną, Wojska Specjalne i Wojska Obrony Terytorialnej. Obchody 2026 roku przypadają w 106. rocznicę Bitwy Warszawskiej."
-        },
-        "en": {
-          "title": "Polish Army Day at the Citadel – Military Educational and Cultural Zone",
-          "description": "On the same day at 12:00 PM, a Military Parade will take place on Wisłostrada featuring soldiers representing the Land Forces, Air Force, Navy, Special Forces, and Territorial Defense Forces. The 2026 celebrations mark the 106th anniversary of the Battle of Warsaw."
-        },
-        "uk": {
-          "title": "Свято військ Польських на Цитаделі – військова освітньо-культурна зона",
-          "description": "Того ж дня о 12:00 на Віслотраді відбудеться військовий парад за участю солдатів, які представляють Сухопутні війська, Повітряні сили, Військово-морський флот, Спеціальні війська та Війська територіальної оборони. Урочистості 2026 року припадають на 106-ту річницю Битви під Варшавою."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Żoliborz",
-      "updated_at": "2026-08-15T07:42:04.121015+00:00"
-    },
-    "wi-to-wojska-polskiego-w-azienkach-piknik-i-koncert-2026-08-15T13:45:00+02:00": {
-      "title": "Święto Wojska Polskiego w Łazienkach – piknik i koncert",
-      "date": "2026-08-15T13:45:00+02:00",
-      "end_date": "2026-08-15T13:45:00+02:00",
-      "startTimeKnown": true,
-      "description": "Całość zwieńczy koncert Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego w Amfiteatrze. Zespół zaprezentuje pieśni patriotyczne, legionowe i żołnierskie. W widowisku wystąpią orkiestra, chór, soliści i balet w historycznych kostiumach i mundurach z różnych epok. Amfiteatr nie jest zadaszony — prosimy dostosować ubiór do warunków pogodowych. W przypadku niekorzystnej pogody wydarzenie może zostać odwołane lub przesunięte.",
-      "url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/swieto-wojska-polskiego-8",
-      "source": "lazienki-krolewskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Łazienki Królewskie, Ogrody, teren rekreacyjny przy Ermitażu i Pałacu Myślewickim; koncert w Amfiteatrze · ul. Agrykola 1",
-        "district": "Śródmieście"
-      },
-      "image": "http://www.lazienki-krolewskie.pl/public/upload/events/big/6a6af50266304.jpg",
-      "scrapped_url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/swieto-wojska-polskiego-8",
-      "scrapped_timestamp": "2026-08-15T07:40:23.987847+00:00",
-      "category": "Music & Dance",
-      "translations": {
-        "pl": {
-          "title": "Święto Wojska Polskiego w Łazienkach – piknik i koncert",
-          "description": "Całość zwieńczy koncert Reprezentacyjnego Zespołu Artystycznego Wojska Polskiego w Amfiteatrze. Zespół zaprezentuje pieśni patriotyczne, legionowe i żołnierskie. W widowisku wystąpią orkiestra, chór, soliści i balet w historycznych kostiumach i mundurach z różnych epok. Amfiteatr nie jest zadaszony — prosimy dostosować ubiór do warunków pogodowych. W przypadku niekorzystnej pogody wydarzenie może zostać odwołane lub przesunięte."
-        },
-        "en": {
-          "title": "Polish Army Day in Łazienki – Picnic and Concert",
-          "description": "The event will conclude with a concert by the Representative Artistic Ensemble of the Polish Army at the Amphitheater. The ensemble will present patriotic, legion, and military songs. The performance will feature an orchestra, choir, soloists, and ballet in historical costumes and uniforms from various eras. The amphitheater is not covered — please adjust your clothing to the weather conditions. In case of adverse weather, the event may be canceled or postponed."
-        },
-        "uk": {
-          "title": "Свято Польського війська в Лазенках – пікнік та концерт",
-          "description": "Завершить захід концерт Представницького художнього ансамблю Польського війська в амфітеатрі. Ансамбль представить патріотичні, легіонерські та військові пісні. У виставі виступлять оркестр, хор, солісти та балет в історичних костюмах і формах з різних епох. Амфітеатр не має даху — просимо адаптувати одяг до погодних умов. У разі несприятливої погоди захід може бути скасовано або перенесено."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-15T07:42:04.121036+00:00"
     },
     "s-l-bia-e-z-oto-ziemi-warsztaty-rodzinne-2026-08-16T11:00:00+02:00": {
       "title": "Sól – białe złoto Ziemi (warsztaty rodzinne)",
@@ -14929,47 +13730,6 @@
       },
       "district": "Wawer",
       "updated_at": "2026-08-15T07:42:04.121174+00:00"
-    },
-    "lato-w-wytw-rni-2026-08-15T10:30:00+02:00": {
-      "title": "Lato w Wytwórni",
-      "date": "2026-08-15T10:30:00+02:00",
-      "end_date": "2026-08-15T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na wakacyjne warsztaty w Wytwórni! To doskonała okazja, aby twórczo spędzić czas, nauczyć się nowych umiejętności i stworzyć coś wyjątkowego. W kameralnej atmosferze, pod okiem doświadczonych prowadzących, poznasz ciekawe techniki i w sposób kreatywny wykorzystasz materiały z odzysku. Do wyboru w najbliższych tygodniach są zajęcia, na których można: uszyć kosmetyczkę, torbę lub workoplecak zbudować lampkę stworzyć obraz techniką fotografii słonecznej skonstruować kolorowy kalejdoskop Brzmi skomplikowanie? Wszystkiego Cię nauczymy! Prowadzący zajęcia wyjaśnią jak osiągnąć pożądany efekt i wesprą w procesie twórczym. To, co stworzysz, zabierzesz ze sobą do domu! Przyjdź sam(a), z partnerem/partnerką lub dzieckiem – spędźcie kreatywnie czas i stwórzcie coś własnymi rękami! Więcej informacji o zajęciach Informacje praktyczne Dla kogo: osoby w wieku 10+, 13+, 16+ w zależności od zajęć Terminy: wybrane czwartki, piątki, soboty i niedziele lipca i sierpnia; do wyboru zajęcia poranne (10:30–13:00) lub popołudniowe (14:00–16:30) Czas trwania: 2,5 godziny Liczba uczestników: maks. 16 osób Miejsce: Wytwórnia (Pracownia Przewrotu Kopernikańskiego), ul. Wybrzeże Kościuszkowskie 18, obok budynku głównego Centrum Nauki Kopernik, Warszawa Cena: 40 zł/os. Bilety",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F6e60e577-f6b9-4cd4-bb27-b1048d3eaca7.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/72c569e1-7ea9-4c56-8360-bae43bf416d8",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Wybrzeże Kościuszkowskie 20, 00-390 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/72c569e1-7ea9-4c56-8360-bae43bf416d8",
-      "scrapped_timestamp": "2026-08-15T07:41:13.336903+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 10,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Lato w Wytwórni",
-          "description": "Zapraszamy na wakacyjne warsztaty w Wytwórni! To doskonała okazja, aby twórczo spędzić czas, nauczyć się nowych umiejętności i stworzyć coś wyjątkowego. W kameralnej atmosferze, pod okiem doświadczonych prowadzących, poznasz ciekawe techniki i w sposób kreatywny wykorzystasz materiały z odzysku. Do wyboru w najbliższych tygodniach są zajęcia, na których można: uszyć kosmetyczkę, torbę lub workoplecak zbudować lampkę stworzyć obraz techniką fotografii słonecznej skonstruować kolorowy kalejdoskop Brzmi skomplikowanie? Wszystkiego Cię nauczymy! Prowadzący zajęcia wyjaśnią jak osiągnąć pożądany efekt i wesprą w procesie twórczym. To, co stworzysz, zabierzesz ze sobą do domu! Przyjdź sam(a), z partnerem/partnerką lub dzieckiem – spędźcie kreatywnie czas i stwórzcie coś własnymi rękami! Więcej informacji o zajęciach Informacje praktyczne Dla kogo: osoby w wieku 10+, 13+, 16+ w zależności od zajęć Terminy: wybrane czwartki, piątki, soboty i niedziele lipca i sierpnia; do wyboru zajęcia poranne (10:30–13:00) lub popołudniowe (14:00–16:30) Czas trwania: 2,5 godziny Liczba uczestników: maks. 16 osób Miejsce: Wytwórnia (Pracownia Przewrotu Kopernikańskiego), ul. Wybrzeże Kościuszkowskie 18, obok budynku głównego Centrum Nauki Kopernik, Warszawa Cena: 40 zł/os. Bilety"
-        },
-        "en": {
-          "title": "Summer at the Factory",
-          "description": "We invite you to summer workshops at the Factory! This is a great opportunity to spend time creatively, learn new skills, and create something unique. In an intimate atmosphere, under the guidance of experienced instructors, you will discover interesting techniques and creatively use recycled materials. In the coming weeks, you can choose from classes where you can: sew a cosmetic bag, a bag or a backpack, build a lamp, create a picture using solar photography techniques, construct a colorful kaleidoscope. Sounds complicated? We will teach you everything! The instructors will explain how to achieve the desired effect and support you in the creative process. What you create, you will take home with you! Come alone, with a partner, or with a child – spend creative time and make something with your own hands!"
-        },
-        "uk": {
-          "title": "Літо у Витворні",
-          "description": "Запрошуємо на літні майстер-класи у Витворні! Це чудова можливість творчо провести час, навчитися новим навичкам і створити щось унікальне. У затишній атмосфері, під наглядом досвідчених ведучих, ви дізнаєтеся цікаві техніки та креативно використаєте матеріали з вторинних сировин. У найближчі тижні ви зможете обрати заняття, на яких можна: пошити косметичку, сумку або рюкзак, побудувати лампочку, створити картину технікою сонячної фотографії, сконструювати кольоровий калейдоскоп. Звучить складно? Ми вас всьому навчимо! Ведучі занять пояснять, як досягти бажаного ефекту та підтримають у творчому процесі. Те, що ви створите, ви заберете з собою додому! Приходьте самі, з партнером/партнеркою або дитиною – проведіть час творчо та створіть щось власними руками!"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.kopernik.org.pl/pl/login"
-      },
-      "updated_at": "2026-08-15T07:42:04.121188+00:00"
     },
     "dzie-z-ycia-jego-kr-lewskiej-mo-ci-rodzinne-oprowadzanie-po-pa-acu-2026-08-16T10:00:00+02:00": {
       "title": "Dzień z życia Jego Królewskiej Mości | rodzinne oprowadzanie po pałacu",

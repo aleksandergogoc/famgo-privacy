@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T14:26:36.838628+00:00",
+  "updated_at": "2026-08-16T07:30:30.821931+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3076,6 +3076,15 @@
       "lat": 50.0644,
       "lng": 19.9458,
       "updated_at": "2026-08-13T07:31:10.816072+00:00"
+    },
+    "agatowa 41_41": {
+      "name": "Agatowa 41/41, 30-798 Kraków, Poland",
+      "district": "Bieżanów-Prokocim",
+      "address": "Agatowa 41/41, 30-798 Kraków, Poland",
+      "normalized": "agatowa 41_41",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-16T07:19:30.684423+00:00"
     }
   }
 }

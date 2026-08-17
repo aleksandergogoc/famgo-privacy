@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T07:30:30.821931+00:00",
+  "updated_at": "2026-08-17T07:50:03.706682+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3085,6 +3085,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-16T07:19:30.684423+00:00"
+    },
+    "artzona": {
+      "name": "os. Górali 4, Kraków",
+      "district": "Krowodrza",
+      "address": "os. Górali 4, Kraków",
+      "normalized": "artzona",
+      "lat": 50.064,
+      "lng": 19.923,
+      "updated_at": "2026-08-17T07:00:25.671752+00:00"
+    },
+    "jędruś ośrodka kultury kraków-nowa huta": {
+      "name": "os. Centrum A 6a, Kraków",
+      "district": "Nowa Huta",
+      "address": "os. Centrum A 6a, Kraków",
+      "normalized": "jędruś ośrodka kultury kraków-nowa huta",
+      "lat": 50.0757,
+      "lng": 20.0324,
+      "updated_at": "2026-08-17T07:09:40.269895+00:00"
+    },
+    "park rzeczny dłubnia": {
+      "name": "Park Rzeczny Dłubnia, Kraków",
+      "district": "Podgórze",
+      "address": "Park Rzeczny Dłubnia, Kraków",
+      "normalized": "park rzeczny dłubnia",
+      "lat": 50.0344,
+      "lng": 19.9321,
+      "updated_at": "2026-08-17T07:29:32.861093+00:00"
     }
   }
 }

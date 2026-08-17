@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T08:23:18.166368+00:00",
+  "updated_at": "2026-08-17T07:50:01.488690+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -563,6 +563,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-12T08:18:14.395629+00:00"
+    },
+    "dom sąsiedzki hombanda": {
+      "name": "Maurycego Beniowskiego, Przymorze Małe, Gdańsk, województwo pomorskie, 80-384, Polska",
+      "district": "Oliwa",
+      "address": "Maurycego Beniowskiego, Przymorze Małe, Gdańsk, województwo pomorskie, 80-384, Polska",
+      "normalized": "dom sąsiedzki hombanda",
+      "lat": 54.4078627,
+      "lng": 18.5792687,
+      "updated_at": "2026-08-17T07:45:41.837137+00:00"
+    },
+    "jaśkowa dolina 105": {
+      "name": "105, Jaśkowa Dolina, Wyspa Piecewska, Piecki, Piecki-Migowo, Gdańsk, województwo pomorskie, 80-286, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "105, Jaśkowa Dolina, Wyspa Piecewska, Piecki, Piecki-Migowo, Gdańsk, województwo pomorskie, 80-286, Polska",
+      "normalized": "jaśkowa dolina 105",
+      "lat": 54.3584385,
+      "lng": 18.5860329,
+      "updated_at": "2026-08-17T07:46:01.460675+00:00"
     }
   }
 }

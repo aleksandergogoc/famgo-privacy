@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T07:53:04.431134+00:00",
+  "updated_at": "2026-08-17T07:50:02.494263+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3580,6 +3580,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-15T07:42:02.696920+00:00"
+    },
+    "ul. czerniakowska_al. polski walczącej": {
+      "name": "ul. Czerniakowska/al. Polski Walczącej, pomnik Batalionów Chłopskich",
+      "district": "Mokotów",
+      "address": "ul. Czerniakowska/al. Polski Walczącej, pomnik Batalionów Chłopskich",
+      "normalized": "ul. czerniakowska_al. polski walczącej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-17T07:40:37.399222+00:00"
+    },
+    "plac zabaw przy stawach brustmana": {
+      "name": "Plac zabaw przy Stawach Brustmana, ul. Szekspira",
+      "district": "Bielany",
+      "address": "Plac zabaw przy Stawach Brustmana, ul. Szekspira",
+      "normalized": "plac zabaw przy stawach brustmana",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-17T07:40:37.399449+00:00"
+    },
+    "ul. inflancka 19_lok 236": {
+      "name": "Ul. Inflancka 19/lok 236, 00-189 Warszawa, Poland",
+      "district": "Śródmieście",
+      "address": "Ul. Inflancka 19/lok 236, 00-189 Warszawa, Poland",
+      "normalized": "ul. inflancka 19_lok 236",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-17T07:40:37.399754+00:00"
     }
   }
 }

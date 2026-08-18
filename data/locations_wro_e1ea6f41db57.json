@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T07:30:38.695644+00:00",
+  "updated_at": "2026-08-18T07:55:20.195738+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -987,6 +987,33 @@
       "lat": 51.108,
       "lng": 17.038,
       "updated_at": "2026-08-09T07:21:08.555243+00:00"
+    },
+    "na szańcach 7 na szańcach 7 na szańcach 7": {
+      "name": "Na Szańcach 7, Wrocław",
+      "district": "Stare Miasto",
+      "address": "Na Szańcach 7, Wrocław",
+      "normalized": "na szańcach 7 na szańcach 7 na szańcach 7",
+      "lat": 51.1074,
+      "lng": 17.0385,
+      "updated_at": "2026-08-18T07:45:20.247517+00:00"
+    },
+    "park grabiszyński grabiszyńska": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Stare Miasto",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "park grabiszyński grabiszyńska",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-08-18T07:45:35.248807+00:00"
+    },
+    "vertigo jazz club & restaurant oławska 13": {
+      "name": "Vertigo, 13, Oławska, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-123, Polska",
+      "district": "Stare Miasto",
+      "address": "Vertigo, 13, Oławska, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-123, Polska",
+      "normalized": "vertigo jazz club & restaurant oławska 13",
+      "lat": 51.1083596,
+      "lng": 17.0354095,
+      "updated_at": "2026-08-18T07:45:49.265163+00:00"
     }
   }
 }

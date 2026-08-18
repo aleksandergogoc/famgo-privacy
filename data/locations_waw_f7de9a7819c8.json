@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T07:50:02.494263+00:00",
+  "updated_at": "2026-08-18T07:55:21.110502+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3607,6 +3607,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-17T07:40:37.399754+00:00"
+    },
+    "studio koncertowe polskiego radia im. witolda lutosławskiego (warszawa-henryków)": {
+      "name": "Studio Koncertowe Polskiego Radia im. Witolda Lutosławskiego, 59, Zygmunta Modzelewskiego, Ksawerów, Mokotów, Warszawa, województwo mazowieckie, 02-679, Polska",
+      "district": "Mokotów",
+      "address": "Studio Koncertowe Polskiego Radia im. Witolda Lutosławskiego, 59, Zygmunta Modzelewskiego, Ksawerów, Mokotów, Warszawa, województwo mazowieckie, 02-679, Polska",
+      "normalized": "studio koncertowe polskiego radia im. witolda lutosławskiego (warszawa-henryków)",
+      "lat": 52.1875058,
+      "lng": 21.0131905,
+      "updated_at": "2026-08-18T07:45:08.524128+00:00"
+    },
+    "ul. górczewska 15": {
+      "name": "ul. Górczewska 15",
+      "district": "Wola",
+      "address": "ul. Górczewska 15",
+      "normalized": "ul. górczewska 15",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-18T07:45:08.525156+00:00"
     }
   }
 }

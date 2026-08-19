@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T07:30:29.638763+00:00",
+  "updated_at": "2026-08-19T08:06:28.714414+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -641,6 +641,15 @@
       "lat": 52.4117097,
       "lng": 16.9280716,
       "updated_at": "2026-08-16T07:28:50.832568+00:00"
+    },
+    "fara poznańska": {
+      "name": "Tablica ofiar więzienia przy ul. Młyńskiej, 1, Młyńska, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-729, Polska",
+      "district": "Stare Miasto",
+      "address": "Tablica ofiar więzienia przy ul. Młyńskiej, 1, Młyńska, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-729, Polska",
+      "normalized": "fara poznańska",
+      "lat": 52.4117097,
+      "lng": 16.9280716,
+      "updated_at": "2026-08-19T08:04:02.001069+00:00"
     }
   }
 }

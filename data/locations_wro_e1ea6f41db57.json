@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T07:55:20.195738+00:00",
+  "updated_at": "2026-08-19T08:06:29.676131+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1014,6 +1014,33 @@
       "lat": 51.1083596,
       "lng": 17.0354095,
       "updated_at": "2026-08-18T07:45:49.265163+00:00"
+    },
+    "na szańcach 7 na szańcach 7": {
+      "name": "Na Szańcach 7, Wrocław",
+      "district": "Stare Miasto",
+      "address": "Na Szańcach 7, Wrocław",
+      "normalized": "na szańcach 7 na szańcach 7",
+      "lat": 51.116,
+      "lng": 17.042,
+      "updated_at": "2026-08-19T07:52:46.881214+00:00"
+    },
+    "dawne korty tenisowe w parku im. lesława węgrzynowskiego": {
+      "name": "Dawne korty tenisowe w parku im. Lesława Węgrzynowskiego, Wrocław",
+      "district": "Stare Miasto",
+      "address": "Dawne korty tenisowe w parku im. Lesława Węgrzynowskiego, Wrocław",
+      "normalized": "dawne korty tenisowe w parku im. lesława węgrzynowskiego",
+      "lat": 51.1084,
+      "lng": 17.0381,
+      "updated_at": "2026-08-19T07:52:53.549113+00:00"
+    },
+    "renoma": {
+      "name": "Renoma, Podwale, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-013, Polska",
+      "district": "Stare Miasto",
+      "address": "Renoma, Podwale, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-013, Polska",
+      "normalized": "renoma",
+      "lat": 51.1041251,
+      "lng": 17.0323263,
+      "updated_at": "2026-08-19T07:52:59.051990+00:00"
     }
   }
 }

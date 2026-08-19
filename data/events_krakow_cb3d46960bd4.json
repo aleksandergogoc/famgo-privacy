@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T07:48:10.530012+00:00",
+  "updated_at": "2026-08-19T14:06:07.267433+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -3818,14 +3818,13 @@
     },
     "warsztaty-malarskie-wkr-tce-wszystko-si-zmieni-2026-09-21T12:00:00+02:00": {
       "title": "Warsztaty malarskie \"Wkrótce wszystko się zmieni\"",
-      "date": "2026-09-21T12:00:00+02:00",
-      "end_date": "2026-09-21T12:00:00+02:00",
+      "date": "2026-09-21T10:00:00+00:00",
+      "end_date": "2026-09-20T22:00:00+00:00",
       "startTimeKnown": true,
       "description": "Podczas spotkania uczestnicy będą obserwować kolory, światło, naturę i motywy przemiany obecne w przestrzeni ekspozycji. Następnie rodziny wezmą udział w działaniach malarskich opartych na eksperymentowaniu z kolorem, śladem i strukturą materiałów, tworząc wspólnie wielowarstwowe obrazy. Warsztaty mają charakter arteterapeutyczny i relacyjny, a więc od efektu końcowego ważniejsze będą proces twórczy, współobecność i swobodna ekspresja. Zajęcia prowadzone są w spokojnej i przyjaznej atmosferze z uwzględnieniem potrzeb osób neuroróżnorodnych.",
       "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_972049709_original.jpg",
       "location": {
-        "name": "Zamek Królewski na Wawelu (Kraków)",
-        "district": "Stare Miasto"
+        "name": "Zamek Królewski na Wawelu (Kraków)"
       },
       "url": "https://krakow.naszemiasto.pl/warsztaty-malarskie-wkrotce-wszystko-sie-zmieni/kw/c5-2884679",
       "source": "naszemiasto.pl",
@@ -3851,10 +3850,16 @@
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": false,
+        "ticket_url": null
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-08-08T07:12:22.363167+00:00"
+      "updated_at": "2026-08-19T14:06:06.935083+00:00",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "source_url": "https://krakow.naszemiasto.pl/warsztaty-malarskie-wkrotce-wszystko-sie-zmieni/kw/c5-2884679",
+      "featured": false
     },
     "066f31de90c14019b8c7e4ce17628026": {
       "title": "Festiwal Balonów / World Balloon Festival w Expo",

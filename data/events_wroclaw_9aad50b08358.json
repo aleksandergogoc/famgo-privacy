@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T06:46:41.269927+00:00",
+  "updated_at": "2026-08-20T07:38:46.977647+00:00",
   "events": {
     "12-mi-dzynarodowe-zawody-w-je-dzie-bez-og-owia-euro-equus-2026-2026-09-25T00:00:00": {
       "scrapped_timestamp": "2026-06-26T16:36:24.805343+00:00",
@@ -4507,6 +4507,87 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-08-19T07:54:40.669426+00:00"
+    },
+    "wakacyjna-akademia-terrarystyczna-warsztaty-2026-08-20T11:00:00+02:00": {
+      "title": "Wakacyjna Akademia Terrarystyczna [WARSZTATY]",
+      "date": "2026-08-20T11:00:00+02:00",
+      "end_date": "2026-08-20T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Szukasz dla swojego dziecka pomysłu na wakacje, który połączy zabawę z prawdziwą przygodą? **Wakacyjna Akademia Terrarystyczna w ZOO TEAM** to szansa, by na kilka dni oderwać się od ekranu i wejść w świat egzotycznych zwierząt – dosłownie na wyciągnięcie ręki.\n\nPodczas warsztatów, prowadzonych w małych grupach, dzieci nie tylko poznają ciekawostki o różnych gatunkach, ale przede wszystkim same wcielą się w rolę opiekunów terrarium – nauczą się, jak wygląda codzienna pielęgnacja zwierząt: karmienie, zraszanie czy wymiana wody. Program obejmuje też wyprawę terenową – spacer przyrodniczy połączony z poszukiwaniem izopodów i innych bezkręgowców oraz zbieraniem roślin do własnych mini ekosystemów.\n\nNa koniec każdy uczestnik zbuduje własne mini terrarium krok po kroku, spróbuje swoich sił w fotografii makro i rozwiąże quiz sprawdzający zdobytą wiedzę. Na zakończenie – pamiątkowe dyplomy i nagrody dla wszystkich młodych terrarystów.\n\n**Terminy (turnusy 4-dniowe, poniedziałek–czwartek, godz. 11:00-14:00):**\n\n• **Turnus 3:**3-6 sierpnia\n\n• **Turnus 4:** 17-20 sierpnia\n\n**Cennik:** 400 zł za cały turnus (4 dni) lub 150 zł za pojedynczy dzień **Miejsce:** ZOO TEAM, ul. Na Szańcach 7, Wrocław **Zapisy:** liczba miejsc ograniczona, tel. 781 324 524\n\nTo gotowa formuła na aktywne, pełne wiedzy i bliskiego kontaktu z naturą wakacje dla dzieci ciekawych świata zwierząt.",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-3ff0d6d0ac11000253e08b4bd1b2c3c6/717400604-1599780865488385-5470672879952693410-n.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1414075-wakacyjna-akademia-terrarystyczna",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Na Szańcach 7",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1414075-wakacyjna-akademia-terrarystyczna",
+      "scrapped_timestamp": "2026-08-20T07:38:31.850241+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Nature & Wildlife",
+        "STEM"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Wakacyjna Akademia Terrarystyczna [WARSZTATY]",
+          "description": "Szukasz dla swojego dziecka pomysłu na wakacje, który połączy zabawę z prawdziwą przygodą? **Wakacyjna Akademia Terrarystyczna w ZOO TEAM** to szansa, by na kilka dni oderwać się od ekranu i wejść w świat egzotycznych zwierząt – dosłownie na wyciągnięcie ręki.\n\nPodczas warsztatów, prowadzonych w małych grupach, dzieci nie tylko poznają ciekawostki o różnych gatunkach, ale przede wszystkim same wcielą się w rolę opiekunów terrarium – nauczą się, jak wygląda codzienna pielęgnacja zwierząt: karmienie, zraszanie czy wymiana wody. Program obejmuje też wyprawę terenową – spacer przyrodniczy połączony z poszukiwaniem izopodów i innych bezkręgowców oraz zbieraniem roślin do własnych mini ekosystemów.\n\nNa koniec każdy uczestnik zbuduje własne mini terrarium krok po kroku, spróbuje swoich sił w fotografii makro i rozwiąże quiz sprawdzający zdobytą wiedzę. Na zakończenie – pamiątkowe dyplomy i nagrody dla wszystkich młodych terrarystów.\n\n**Terminy (turnusy 4-dniowe, poniedziałek–czwartek, godz. 11:00-14:00):**\n\n• **Turnus 3:**3-6 sierpnia\n\n• **Turnus 4:** 17-20 sierpnia\n\n**Cennik:** 400 zł za cały turnus (4 dni) lub 150 zł za pojedynczy dzień **Miejsce:** ZOO TEAM, ul. Na Szańcach 7, Wrocław **Zapisy:** liczba miejsc ograniczona, tel. 781 324 524\n\nTo gotowa formuła na aktywne, pełne wiedzy i bliskiego kontaktu z naturą wakacje dla dzieci ciekawych świata zwierząt."
+        },
+        "en": {
+          "title": "Summer Terrarium Academy [WORKSHOPS]",
+          "description": "Are you looking for a summer idea for your child that combines fun with a real adventure? **The Summer Terrarium Academy at ZOO TEAM** is an opportunity to take a break from screens for a few days and step into the world of exotic animals – literally at your fingertips.\n\nDuring the workshops, conducted in small groups, children will not only learn interesting facts about various species but will also take on the role of terrarium caretakers – they will learn what daily animal care looks like: feeding, misting, and water changes. The program also includes a field trip – a nature walk combined with searching for isopods and other invertebrates, as well as collecting plants for their own mini ecosystems.\n\nAt the end, each participant will build their own mini terrarium step by step and try their hand at photography."
+        },
+        "uk": {
+          "title": "Вакансійна Академія Тераріуму [Майстер-класи]",
+          "description": "Шукаєте для своєї дитини ідею на канікули, яка поєднує розваги з справжньою пригодою? **Вакансійна Академія Тераріуму в ZOO TEAM** – це можливість на кілька днів відірватися від екрану та зануритися у світ екзотичних тварин – буквально на відстані витягнутої руки.\n\nПід час майстер-класів, які проводяться в малих групах, діти не лише дізнаються цікаві факти про різні види, але, перш за все, самі втіляться в роль опікунів тераріуму – навчаться, як виглядає щоденний догляд за тваринами: годування, зволоження чи зміна води. Програма також включає виїзну екскурсію – природничу прогулянку, поєднану з пошуком ізопод та інших безхребетних, а також збором рослин для власних міні-екосистем.\n\nНа завершення кожен учасник побудує власне міні-тераріум крок за кроком, спробує свої сили в фото"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-08-20T07:38:46.850727+00:00"
+    },
+    "turnusy-terapeutyczne-dla-dzieci-we-wroc-awiu-2026-08-20T00:00:00+02:00": {
+      "title": "Turnusy terapeutyczne dla dzieci we Wrocławiu",
+      "date": "2026-08-20T00:00:00+02:00",
+      "end_date": "2026-08-20T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "Czy masz poczucie, że twoje dziecko potrzebuje większego wsparcia w rozwoju? Widzisz trudności z koncentracją, emocjami, komunikacją, zachowaniem lub funkcjonowaniem w grupie? A może jesteście w trakcie diagnozy i szukasz miejsca, które zapewni dziecku profesjonalną terapię, indywidualne podejście i bezpieczną atmosferę? Nasze Turnusy Terapeutyczne powstały właśnie po to, by intensywnie wspierać rozwój dzieci z różnorodnymi trudnościami rozwojowymi - w sposób dopasowany do ich potrzeb, możliwości i tempa pracy.\n\n**Dla kogo są turnusy terapeutyczne?**\n\nZapraszamy dzieci w wieku 4-14 lat:\n\n• z diagnozą zaburzeń rozwojowych,\n\n• będące w trakcie diagnozy,\n\n• z podejrzeniem trudności rozwojowych,\n\n• z ADHD, zaburzeniami integracji sensorycznej, trudnościami emocjonalnymi i społecznymi,\n\n• ze spektrum autyzmu,\n\n• z trudnościami w koncentracji i nauce,\n\n• sprawiające trudności wychowawcze w domu lub szkole.\n\n**Co wyróżnia nasze turnusy?**\n\n• Intensywna terapia przez 5 dni -program został opracowany tak, aby dziecko mogło codziennie pracować nad najważniejszymi obszarami rozwoju pod opieką wykwalifikowanych terapeutów\n\n• Indywidualne podejście - każde dziecko jest inne, dlatego dobieramy terapie i formy wsparcia do jego potrzeb, możliwości oraz trudności.\n\n• Kameralne grupy i bezpieczna atmosfera - dbamy o komfort dzieci, relacje i spokojne warunki pracy, dzięki którym łatwiej budować poczucie bezpieczeństwa i współpracy.\n\n• Stałe wsparcie psychologa: podczas całego turnusu dzieci objęte są opieką psychologa dostępnego na miejscu każdego dnia.\n\n**W RAMACH TURNUSU OFERUJEMY:**\n\nTerapie specjalistyczne:\n\n• biofeedback,\n\n• integrację Sensoryczną (SI),\n\n• trening Umiejętności Społecznych (TUS),\n\n• logopedię,\n\n• neuroflow,\n\n• fizjoterapię,\n\n• terapię neurotaktylną,\n\n• terapię ręki,\n\n• snoezelen.\n\nDodatkowe zajęcia wspierające rozwój:\n\n• sensoplastyka,\n\n• trening Funkcji Poznawczych,\n\n• trening relaksacyjny i joga dla dzieci,\n\n• arteterapia,\n\n• rytmika,\n\n• gimnastyka korekcyjna,\n\n• zajęcia kreatywne,\n\n• zajęcia psychologiczno-pedagogiczne.\n\n**Co zyskuje twoje dziecko?**\n\n• intensywne wsparcie rozwoju,\n\n• terapię dopasowaną do indywidualnych potrzeb,\n\n• poprawę koncentracji i funkcjonowania,\n\n• rozwijanie kompetencji społecznych i emocjonalnych,\n\n• naukę przez doświadczenie i zabawę,\n\n• bezpieczne i wspierające środowisko,\n\n• kontakt z doświadczonymi terapeutami.\n\nJako rodzic otrzymasz informację zwrotną po turnusie, możliwość konsultacji ze specjalistami, wskazówki do dalszej pracy z dzieckiem.\n\n**ORGANIZACJA TURNUSU**\n\n• Miejsce: Wrocław\n\n• Wiek uczestników: 4-14 lat\n\n• Czas trwania: 5 dni\n\n• Godziny: 9:00-15:00\n\nW cenie zapewniamy obiad.\n\n**CENA TURNUSU**\n\n• Wariant skrócony ( 5 dni terapii – 3 terapie dziennie) - 2500 zł.\n\n• Wariant pełny (5 dni terapii – 5 terapii dziennie) - 3500 zł.\n\n**JAK WYGLĄDA KWALIFIKACJA?**\n\n• Wypełnienie formularza zgłoszeniowego na stronie internetowej,\n\n• rozmowa telefoniczna lub konsultacja online/stacjonarna,\n\n• kwalifikacja uczestnika,\n\n• rezerwacja miejsca i płatność.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-6f11bd77ac110002061b4e6d45253811/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1411145-turnusy-terapeutyczne-dla-dzieci-we-wroclawiu",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "HKF Centrum Wspierania Rozwoju Dziecka Wyścigowa 58, Wrocław 53-012",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1411145-turnusy-terapeutyczne-dla-dzieci-we-wroclawiu",
+      "scrapped_timestamp": "2026-08-20T07:38:39.049697+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 4,
+        "max": 14
+      },
+      "translations": {
+        "pl": {
+          "title": "Turnusy terapeutyczne dla dzieci we Wrocławiu",
+          "description": "Czy masz poczucie, że twoje dziecko potrzebuje większego wsparcia w rozwoju? Widzisz trudności z koncentracją, emocjami, komunikacją, zachowaniem lub funkcjonowaniem w grupie? A może jesteście w trakcie diagnozy i szukasz miejsca, które zapewni dziecku profesjonalną terapię, indywidualne podejście i bezpieczną atmosferę? Nasze Turnusy Terapeutyczne powstały właśnie po to, by intensywnie wspierać rozwój dzieci z różnorodnymi trudnościami rozwojowymi - w sposób dopasowany do ich potrzeb, możliwości i tempa pracy.\n\n**Dla kogo są turnusy terapeutyczne?**\n\nZapraszamy dzieci w wieku 4-14 lat:\n\n• z diagnozą zaburzeń rozwojowych,\n\n• będące w trakcie diagnozy,\n\n• z podejrzeniem trudności rozwojowych,\n\n• z ADHD, zaburzeniami integracji sensorycznej, trudnościami emocjonalnymi i społecznymi,\n\n• ze spektrum autyzmu,\n\n• z trudnościami w koncentracji i nauce,\n\n• sprawiające trudności wychowawcze w domu lub szkole.\n\n**Co wyróżnia nasze turnusy?**\n\n• Intensywna terapia przez 5 dni -program został opracowany tak, aby dziecko mogło codziennie pracować nad najważniejszymi obszarami rozwoju pod opieką wykwalifikowanych terapeutów\n\n• Indywidualne podejście - każde dziecko jest inne, dlatego dobieramy terapie i formy wsparcia do jego potrzeb, możliwości oraz trudności.\n\n• Kameralne grupy i bezpieczna atmosfera - dbamy o komfort dzieci, relacje i spokojne warunki pracy, dzięki którym łatwiej budować poczucie bezpieczeństwa i współpracy.\n\n• Stałe wsparcie psychologa: podczas całego turnusu dzieci objęte są opieką psychologa dostępnego na miejscu każdego dnia.\n\n**W RAMACH TURNUSU OFERUJEMY:**\n\nTerapie specjalistyczne:\n\n• biofeedback,\n\n• integrację Sensoryczną (SI),\n\n• trening Umiejętności Społecznych (TUS),\n\n• logopedię,\n\n• neuroflow,\n\n• fizjoterapię,\n\n• terapię neurotaktylną,\n\n• terapię ręki,\n\n• snoezelen.\n\nDodatkowe zajęcia wspierające rozwój:\n\n• sensoplastyka,\n\n• trening Funkcji Poznawczych,\n\n• trening relaksacyjny i joga dla dzieci,\n\n• arteterapia,\n\n• rytmika,\n\n• gimnastyka korekcyjna,\n\n• zajęcia kreatywne,\n\n• zajęcia psychologiczno-pedagogiczne.\n\n**Co zyskuje twoje dziecko?**\n\n• intensywne wsparcie rozwoju,\n\n• terapię dopasowaną do indywidualnych potrzeb,\n\n• poprawę koncentracji i funkcjonowania,\n\n• rozwijanie kompetencji społecznych i emocjonalnych,\n\n• naukę przez doświadczenie i zabawę,\n\n• bezpieczne i wspierające środowisko,\n\n• kontakt z doświadczonymi terapeutami.\n\nJako rodzic otrzymasz informację zwrotną po turnusie, możliwość konsultacji ze specjalistami, wskazówki do dalszej pracy z dzieckiem.\n\n**ORGANIZACJA TURNUSU**\n\n• Miejsce: Wrocław\n\n• Wiek uczestników: 4-14 lat\n\n• Czas trwania: 5 dni\n\n• Godziny: 9:00-15:00\n\nW cenie zapewniamy obiad.\n\n**CENA TURNUSU**\n\n• Wariant skrócony ( 5 dni terapii – 3 terapie dziennie) - 2500 zł.\n\n• Wariant pełny (5 dni terapii – 5 terapii dziennie) - 3500 zł.\n\n**JAK WYGLĄDA KWALIFIKACJA?**\n\n• Wypełnienie formularza zgłoszeniowego na stronie internetowej,\n\n• rozmowa telefoniczna lub konsultacja online/stacjonarna,\n\n• kwalifikacja uczestnika,\n\n• rezerwacja miejsca i płatność.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Therapeutic Camps for Children in Wrocław",
+          "description": "Do you feel that your child needs more support in their development? Do you see difficulties with concentration, emotions, communication, behavior, or functioning in a group? Or are you in the process of diagnosis and looking for a place that provides your child with professional therapy, an individual approach, and a safe atmosphere? Our Therapeutic Camps were created specifically to intensively support the development of children with various developmental difficulties - in a way that is tailored to their needs, abilities, and pace of work.\n\n**Who are the therapeutic camps for?**\n\nWe invite children aged 4-14 years:\n\n• with a diagnosis of developmental disorders,\n\n• undergoing diagnosis,\n\n• suspected of having developmental difficulties,\n\n• with ADHD, sensory integration disorders, emotional and social difficulties."
+        },
+        "uk": {
+          "title": "Терапевтичні зміни для дітей у Вроцлаві",
+          "description": "Чи відчуваєте ви, що ваша дитина потребує більшої підтримки в розвитку? Ви помічаєте труднощі з концентрацією, емоціями, комунікацією, поведінкою або функціонуванням у групі? А можливо, ви перебуваєте на етапі діагностики і шукаєте місце, яке забезпечить дитині професійну терапію, індивідуальний підхід і безпечну атмосферу? Наші Терапевтичні зміни були створені саме для того, щоб інтенсивно підтримувати розвиток дітей з різноманітними труднощами в розвитку - у спосіб, що відповідає їхнім потребам, можливостям і темпу роботи.\n\n**Для кого призначені терапевтичні зміни?**\n\nЗапрошуємо дітей віком 4-14 років:\n\n• з діагнозом розладів розвитку,\n\n• які перебувають на етапі діагностики,\n\n• з підозрою на труднощі в розвитку,\n\n• з СДВГ, розладами сенсорної інтеграції, емоційними та соціальними труднощами,\n\n• з..."
+        }
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-08-20T07:38:46.850753+00:00"
     }
   }
 }

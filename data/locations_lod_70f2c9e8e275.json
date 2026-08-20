@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T12:27:05.498136+00:00",
+  "updated_at": "2026-08-20T07:51:09.422864+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -313,6 +313,15 @@
       "normalized": "chorea (łódź",
       "updated_at": "2026-08-08T12:27:05.392752+00:00",
       "created_at": "2026-08-08T12:27:05.392752+00:00"
+    },
+    "łódzka (ul. piłsudskiego 15_23)": {
+      "name": "Galeria Łódzka, 15/23, Aleja Marszałka Józefa Piłsudskiego, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-051, Polska",
+      "district": "Śródmieście",
+      "address": "Galeria Łódzka, 15/23, Aleja Marszałka Józefa Piłsudskiego, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-051, Polska",
+      "normalized": "łódzka (ul. piłsudskiego 15_23)",
+      "lat": 51.7588686,
+      "lng": 19.4644773,
+      "updated_at": "2026-08-20T07:42:19.493741+00:00"
     }
   }
 }

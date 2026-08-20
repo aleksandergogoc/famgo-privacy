@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T07:50:01.488690+00:00",
+  "updated_at": "2026-08-20T07:51:08.518083+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -581,6 +581,24 @@
       "lat": 54.3584385,
       "lng": 18.5860329,
       "updated_at": "2026-08-17T07:46:01.460675+00:00"
+    },
+    "zbiornik stara orunia": {
+      "name": "61, Kampinoska, Nowiny, Orunia, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, 80-180, Polska",
+      "district": "Górny Taras",
+      "address": "61, Kampinoska, Nowiny, Orunia, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, 80-180, Polska",
+      "normalized": "zbiornik stara orunia",
+      "lat": 54.3191523,
+      "lng": 18.6243062,
+      "updated_at": "2026-08-20T07:45:52.855782+00:00"
+    },
+    "kampinoska 61": {
+      "name": "61, Kampinoska, Nowiny, Orunia, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, 80-180, Polska",
+      "district": "Górny Taras",
+      "address": "61, Kampinoska, Nowiny, Orunia, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, 80-180, Polska",
+      "normalized": "kampinoska 61",
+      "lat": 54.3191523,
+      "lng": 18.6243062,
+      "updated_at": "2026-08-20T07:46:08.118380+00:00"
     }
   }
 }

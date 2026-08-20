@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T08:06:31.804025+00:00",
+  "updated_at": "2026-08-20T07:51:12.513209+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3148,6 +3148,33 @@
       "lat": 50.0212078,
       "lng": 19.9116494,
       "updated_at": "2026-08-19T07:48:08.548435+00:00"
+    },
+    "ul. kolnej 2": {
+      "name": "ul. Kolnej 2, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Kolnej 2, Kraków",
+      "normalized": "ul. kolnej 2",
+      "lat": 50.064,
+      "lng": 19.945,
+      "updated_at": "2026-08-20T06:51:49.587115+00:00"
+    },
+    "ośrodek kultury – klub krzesławice": {
+      "name": "ul. M. Wańkowicza 17, Kraków",
+      "district": "Podgórze",
+      "address": "ul. M. Wańkowicza 17, Kraków",
+      "normalized": "ośrodek kultury – klub krzesławice",
+      "lat": 50.034,
+      "lng": 19.932,
+      "updated_at": "2026-08-20T06:52:01.858240+00:00"
+    },
+    "hey dog concept store": {
+      "name": "ul. Halicka 2, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Halicka 2, Kraków",
+      "normalized": "hey dog concept store",
+      "lat": 50.051,
+      "lng": 19.944,
+      "updated_at": "2026-08-20T06:53:25.223191+00:00"
     }
   }
 }

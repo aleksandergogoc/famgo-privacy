@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T08:06:29.676131+00:00",
+  "updated_at": "2026-08-20T07:51:10.270167+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1041,6 +1041,15 @@
       "lat": 51.1041251,
       "lng": 17.0323263,
       "updated_at": "2026-08-19T07:52:59.051990+00:00"
+    },
+    "na szańcach 7": {
+      "name": "7, Na Szańcach, Ołbin, Wrocław, województwo dolnośląskie, 50-320, Polska",
+      "district": "Stare Miasto",
+      "address": "7, Na Szańcach, Ołbin, Wrocław, województwo dolnośląskie, 50-320, Polska",
+      "normalized": "na szańcach 7",
+      "lat": 51.118629,
+      "lng": 17.0426252,
+      "updated_at": "2026-08-20T07:37:41.630322+00:00"
     }
   }
 }

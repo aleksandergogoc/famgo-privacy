@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T07:51:07.458365+00:00",
+  "updated_at": "2026-08-21T06:48:33.714103+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-10-12T11:00:00+02:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -725,45 +725,6 @@
       },
       "updated_at": "2026-08-07T07:21:22.387854+00:00"
     },
-    "6b1d968a32d64e1395f0077cb95bf68c": {
-      "title": "Lato na Jeżycach. Kino plenerowe. Pokaz filmu E.T",
-      "category": "Cinema",
-      "date": "2026-08-20T18:30:00+00:00",
-      "end_date": "2026-08-19T22:00:00+00:00",
-      "location": {
-        "name": "Teren Szkoły Podstawowej nr 71 w Poznaniu, ul. Przybyszewskiego 37"
-      },
-      "district": "Jeżyce",
-      "age_range": {
-        "min": 7,
-        "max": 18
-      },
-      "source_url": "https://fundacjapanagara.pl/lato-na-jezycach/",
-      "description": "W ramach Lata na Jeżycach zapraszamy serdecznie na seans Kina Plenerowego, w ramach którego obejrzymy jeden z najsławniejszych filmów w historii kina - E.T. w reżyserii Stevena Spielberga. Klimat letniej przygody, przyjaźń i atmosfera niesamowitości - czy czegoś więcej potrzeba na wakacje?",
-      "image": "https://fundacjapanagara.pl/wp-content/uploads/2026/08/Lato_na_Jezycach_E.T.kino_plenerowe-510x510.jpg",
-      "source": "admin_panel",
-      "startTimeKnown": true,
-      "featured": false,
-      "translations": {
-        "pl": {
-          "title": "Lato na Jeżycach. Kino plenerowe. Pokaz filmu E.T",
-          "description": "W ramach Lata na Jeżycach zapraszamy serdecznie na seans Kina Plenerowego, w ramach którego obejrzymy jeden z najsławniejszych filmów w historii kina - E.T. w reżyserii Stevena Spielberga. Klimat letniej przygody, przyjaźń i atmosfera niesamowitości - czy czegoś więcej potrzeba na wakacje?"
-        },
-        "en": {
-          "title": "Summer in Jeżyce. Outdoor Cinema. Screening of the film E.T.",
-          "description": "As part of Summer in Jeżyce, we warmly invite you to an Outdoor Cinema screening, where we will watch one of the most famous films in cinema history - E.T. directed by Steven Spielberg. The atmosphere of a summer adventure, friendship, and a sense of wonder - is there anything more needed for a vacation?"
-        },
-        "uk": {
-          "title": "Літо на Єжицьах. Відкритий кінотеатр. Показ фільму E.T.",
-          "description": "В рамках Літа на Єжицьах запрошуємо щиро на сеанс Відкритого кінотеатру, в рамках якого переглянемо один з найвідоміших фільмів в історії кіно - E.T. у режисурі Стівена Спілберга. Атмосфера літньої пригоди, дружба та атмосфера неймовірності - чи потрібно ще щось для відпустки?"
-        }
-      },
-      "updated_at": "2026-08-07T13:27:43.043913+00:00",
-      "admission": {
-        "is_free": true,
-        "ticket_url": null
-      }
-    },
     "letnie-spotkania-dla-dzieci-na-targ-u-warsztaty-z-wydawnictwem-zakamarki-2027-08-08T10:00:00+02:00": {
       "title": "Letnie spotkania dla dzieci na TARG.u / Warsztaty z Wydawnictwem Zakamarki",
       "date": "2027-08-08T10:00:00+02:00",
@@ -1067,126 +1028,6 @@
         "is_free": false
       },
       "updated_at": "2026-08-12T08:23:16.655844+00:00"
-    },
-    "10-lato-z-estrad-chartowo-frikart-miasteczko-cyrkowe-2026-08-20T16:00:00+02:00": {
-      "title": "10. Lato z Estradą - Chartowo - FrikArt: miasteczko cyrkowe",
-      "date": "2026-08-20T16:00:00+02:00",
-      "end_date": "2026-08-20T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "FrikArt: miasteczko cyrkowe Latające Miasteczko Animacyjne Frikart to wyjątkowa przestrzeń rodzinnej rozrywki - miejsce, w którym najmłodsi, starszaki i dorośli mogą razem odkrywać radość wspólnego działania, kreatywności i dobrej energii. W zakręconym programie czeka aż 15 różnych, interaktywnych atrakcji prowadzonych równolegle przez profesjonalnych, przeszkolonych animatorów, którzy dbają o bezpieczeństwo, pozytywną atmosferę i dobrą zabawę. Czas trwania: 240 min | wiek: b.o. Wstęp wolny. ___ Organizatorzy zapraszaja Was na 10. edycję \"Lata z Estradą\". Baner Pobierz baner (PNG, 613,97 kB)",
-      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491614,with-dims,209,209.jpg?_sst=1786367070213",
-      "location": {
-        "name": "Teren przy Spółdzielczym Stadionie Sportowym \"Olimp\", od strony os. Rusa 86",
-        "district": "Nowe Miasto"
-      },
-      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-chartowo-frikart-miasteczko-cyrkowe,184220.html",
-      "source": "poznan.pl",
-      "district": "Nowe Miasto",
-      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-chartowo-frikart-miasteczko-cyrkowe,184220.html",
-      "scrapped_timestamp": "2026-08-13T08:00:58.412344+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "10. Lato z Estradą - Chartowo - FrikArt: miasteczko cyrkowe",
-          "description": "FrikArt: miasteczko cyrkowe Latające Miasteczko Animacyjne Frikart to wyjątkowa przestrzeń rodzinnej rozrywki - miejsce, w którym najmłodsi, starszaki i dorośli mogą razem odkrywać radość wspólnego działania, kreatywności i dobrej energii. W zakręconym programie czeka aż 15 różnych, interaktywnych atrakcji prowadzonych równolegle przez profesjonalnych, przeszkolonych animatorów, którzy dbają o bezpieczeństwo, pozytywną atmosferę i dobrą zabawę. Czas trwania: 240 min | wiek: b.o. Wstęp wolny. ___ Organizatorzy zapraszaja Was na 10. edycję \"Lata z Estradą\". Baner Pobierz baner (PNG, 613,97 kB)"
-        },
-        "en": {
-          "title": "10th Summer with the Stage - Chartowo - FrikArt: Circus Town",
-          "description": "FrikArt: Circus Town is a unique space for family entertainment - a place where the youngest, older kids, and adults can together discover the joy of collaboration, creativity, and good energy. In the exciting program, there are as many as 15 different interactive attractions led simultaneously by professional, trained animators who ensure safety, a positive atmosphere, and fun. Duration: 240 min | Age: all ages. Free entry. ___ The organizers invite you to the 10th edition of 'Summer with the Stage'."
-        },
-        "uk": {
-          "title": "10. Літо з Естрадою - Чартово - ФрікАрт: циркове містечко",
-          "description": "ФрікАрт: циркове містечко Літаюче Містечко Анімаційне Фрікарт – це унікальний простір сімейних розваг – місце, де наймолодші, старші діти та дорослі можуть разом відкривати радість спільної діяльності, креативності та доброї енергії. У заплутаній програмі чекає аж 15 різних, інтерактивних атракціонів, які проводяться паралельно професійними, підготовленими аніматорами, які дбають про безпеку, позитивну атмосферу та гарний настрій. Час проведення: 240 хв | вік: б.о. Вхід вільний. ___ Організатори запрошують вас на 10-ту редакцію \"Літа з Естрадою\". Банер Завантажити банер (PNG, 613,97 кБ)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-08-13T08:01:39.202967+00:00"
-    },
-    "warsztaty-bajkoterapii-2026-08-20T17:00:00+02:00": {
-      "title": "Warsztaty bajkoterapii",
-      "date": "2026-08-20T17:00:00+02:00",
-      "end_date": "2026-08-20T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zaczytani.org wraz z Fundacją Dom Książki zapraszają na ostatnie wakacyjne warsztaty bajkoterapii. Doświadczeni wolontariusze pokazują jak wspólna lektura bajek łączy pokolenia, pomaga rozmawiać o emocjach i zapewnia konkretne wsparcie w doświadczeniach codzienności. Uczestnicy przekonają się, że bajka jest dobra praktycznie na wszystko. Czas trwania warsztatów: 90 minut. Wstęp wolny. Zapisy: fundacja@domksiazkipoznan.pl Baner Pobierz baner (PNG, 151,06 kB)",
-      "image": "https://www.poznan.pl/mim/wortals/pictures/warsztaty-bajkoterapii,pic1,1225,0,496749,with-dims,209,209.jpg?_sst=1786367070213",
-      "location": {
-        "name": "Sala Fundacji Dom Książki, ul. Gwarna 13a, Poznań",
-        "district": "Stare Miasto"
-      },
-      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/warsztaty-bajkoterapii,185657.html",
-      "source": "poznan.pl",
-      "district": "Stare Miasto",
-      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/warsztaty-bajkoterapii,185657.html",
-      "scrapped_timestamp": "2026-08-13T08:01:04.730187+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Warsztaty bajkoterapii",
-          "description": "Zaczytani.org wraz z Fundacją Dom Książki zapraszają na ostatnie wakacyjne warsztaty bajkoterapii. Doświadczeni wolontariusze pokazują jak wspólna lektura bajek łączy pokolenia, pomaga rozmawiać o emocjach i zapewnia konkretne wsparcie w doświadczeniach codzienności. Uczestnicy przekonają się, że bajka jest dobra praktycznie na wszystko. Czas trwania warsztatów: 90 minut. Wstęp wolny. Zapisy: fundacja@domksiazkipoznan.pl Baner Pobierz baner (PNG, 151,06 kB)"
-        },
-        "en": {
-          "title": "Fairy Tale Therapy Workshop",
-          "description": "Zaczytani.org, together with the Dom Książki Foundation, invites you to the last summer fairy tale therapy workshop. Experienced volunteers will demonstrate how reading fairy tales together connects generations, helps discuss emotions, and provides concrete support in everyday experiences. Participants will discover that fairy tales are good for practically everything. Duration of the workshop: 90 minutes. Free admission. Registration: fundacja@domksiazkipoznan.pl Banner Download banner (PNG, 151.06 kB)"
-        },
-        "uk": {
-          "title": "Майстер-клас з байкотерапії",
-          "description": "Zaczytani.org разом з Фундацією Дім Книги запрошують на останній літній майстер-клас з байкотерапії. Досвідчені волонтери покажуть, як спільне читання казок об'єднує покоління, допомагає говорити про емоції та забезпечує конкретну підтримку в повсякденних переживаннях. Учасники переконаються, що казка підходить практично для всього. Тривалість майстер-класу: 90 хвилин. Вхід вільний. Реєстрація: fundacja@domksiazkipoznan.pl Банер Завантажити банер (PNG, 151,06 кБ)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-08-13T08:01:39.202989+00:00"
-    },
-    "10-lato-z-estrad-chartowo-spektakl-taneczny-how-to-do-2026-08-20T18:00:00+02:00": {
-      "title": "10. Lato z Estradą - Chartowo - Spektakl taneczny - How to Do...",
-      "date": "2026-08-20T18:00:00+02:00",
-      "end_date": "2026-08-20T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Joshua Monten Dance Company: spektakl taneczny \"How to Do Things with Words\" (Szwajcaria) Kto powiedział, że taniec nie ma nic wspólnego z językiem? Nie zgadzamy się z tym! Niekonwencjonalny spektakl taneczny \"How to Do Things with Words\" to fascynujący dialog pomiędzy językiem a ruchem, pomiędzy ciałami a tekstem graficznym. Jak tańczy się z tekstem? Nadrukowane znaki mogą być płaskie, ale dodają zaskakującej głębi spektaklowi tanecznemu. Choreografia jest bogata w fantazyjną pracę nóg, pulsujące rytmy, rozkoszną absurdalność i zabawne gry słowne. Choreografia: Joshua Monten Taniec: Jack Wignall, Katharina Ludwig and Angela Demattè Finansowane przez: Pro Helvetia, SWISSLOS / Kultur Kanton Bern, Kultur Stadt Bern Czas trwania: 30 min | wiek: 7+ Wstęp wolny. ___ Organizatorzy zapraszaja Was na 10. edycję \"Lata z Estradą\". Baner Pobierz baner (PNG, 613,97 kB)",
-      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,491617,with-dims,209,209.jpg?_sst=1786367070213",
-      "location": {
-        "name": "Teren przy Spółdzielczym Stadionie Sportowym \"Olimp\", od strony os. Rusa 86",
-        "district": "Nowe Miasto"
-      },
-      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-chartowo-spektakl-taneczny-how-to-do-things-with-words,184222.html",
-      "source": "poznan.pl",
-      "district": "Nowe Miasto",
-      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/10-lato-z-estrada-chartowo-spektakl-taneczny-how-to-do-things-with-words,184222.html",
-      "scrapped_timestamp": "2026-08-13T08:01:09.615686+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 7,
-        "max": 15
-      },
-      "translations": {
-        "pl": {
-          "title": "10. Lato z Estradą - Chartowo - Spektakl taneczny - How to Do...",
-          "description": "Joshua Monten Dance Company: spektakl taneczny \"How to Do Things with Words\" (Szwajcaria) Kto powiedział, że taniec nie ma nic wspólnego z językiem? Nie zgadzamy się z tym! Niekonwencjonalny spektakl taneczny \"How to Do Things with Words\" to fascynujący dialog pomiędzy językiem a ruchem, pomiędzy ciałami a tekstem graficznym. Jak tańczy się z tekstem? Nadrukowane znaki mogą być płaskie, ale dodają zaskakującej głębi spektaklowi tanecznemu. Choreografia jest bogata w fantazyjną pracę nóg, pulsujące rytmy, rozkoszną absurdalność i zabawne gry słowne. Choreografia: Joshua Monten Taniec: Jack Wignall, Katharina Ludwig and Angela Demattè Finansowane przez: Pro Helvetia, SWISSLOS / Kultur Kanton Bern, Kultur Stadt Bern Czas trwania: 30 min | wiek: 7+ Wstęp wolny. ___ Organizatorzy zapraszaja Was na 10. edycję \"Lata z Estradą\". Baner Pobierz baner (PNG, 613,97 kB)"
-        },
-        "en": {
-          "title": "10th Summer with the Stage - Chartowo - Dance Performance - How to Do...",
-          "description": "Joshua Monten Dance Company: dance performance \"How to Do Things with Words\" (Switzerland) Who said that dance has nothing to do with language? We disagree! The unconventional dance performance \"How to Do Things with Words\" is a fascinating dialogue between language and movement, between bodies and graphic text. How does one dance with text? Printed signs may be flat, but they add surprising depth to the dance performance. The choreography is rich in fanciful leg work, pulsating rhythms, delightful absurdity, and playful word games. Choreography: Joshua Monten Dance: Jack Wignall, Katharina Ludwig, and Angela Demattè Funded by: Pro Helvetia, SWISSLOS / Kultur Kanton Bern, Kultur Stadt Bern Duration: 30 min | Age: 7+ Free admission. ___ The organizers invite you."
-        },
-        "uk": {
-          "title": "10. Літо з Естрадою - Чартово - Танцювальний спектакль - Як робити...",
-          "description": "Танцювальна компанія Джошуа Монтена: танцювальний спектакль \"Як робити речі зі словами\" (Швейцарія) Хто сказав, що танець не має нічого спільного з мовою? Ми з цим не згодні! Неконвенційний танцювальний спектакль \"Як робити речі зі словами\" - це захоплюючий діалог між мовою та рухом, між тілами та графічним текстом. Як танцювати з текстом? Надруковані знаки можуть бути плоскими, але додають несподіваної глибини танцювальному спектаклю. Хореографія багата на фантазійні рухи ніг, пульсуючі ритми, приємну абсурдність та веселу гру слів. Хореографія: Джошуа Монтен Танцюють: Джек Вігналл, Катерина Людвіг та Анджела Дематте Фінансування: Pro Helvetia, SWISSLOS / Kultur Kanton Bern, Kultur Stadt Bern Тривалість: 30 хв | вік: 7+ Вхід вільний. ___ Організатори запрошують вас"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-08-13T08:01:39.203068+00:00"
     },
     "spektakl-o-czym-szepcze-las-2026-09-13T10:00:00+02:00": {
       "title": "Spektakl - O czym szepcze las",
@@ -1884,46 +1725,6 @@
         "is_free": false
       },
       "updated_at": "2026-08-20T07:51:07.320553+00:00"
-    },
-    "rockowizna-2026-mocne-rockowe-granie-i-niezapomniany-klimat-2026-08-20T00:00:00+02:00": {
-      "title": "Rockowizna 2026 – mocne rockowe granie i niezapomniany klimat",
-      "date": "2026-08-20T00:00:00+02:00",
-      "end_date": "2026-08-20T00:00:00+02:00",
-      "startTimeKnown": false,
-      "url": "https://czasdzieci.pl/poznan/wydarzenia/id,140853315.html",
-      "description": "Zapraszamy na 5-edycję Festiwalu Rockowizna, która już w sierpniu 2026 odbędzie się w Gdańsku, Poznaniu i Krakowie. Największa, rockowa trasa festiwalowa w Polsce ponownie połączy pokolenia. BĘDZIE MOCNO, BĘDZIE PRAWDZIWIE, BĘDZIE ROCKOWO W ubiegłych latach Rockowizna była festiwalem wielkich muzycznych powrotów oraz znanych zagranicznych kapel. Nie zabraknie ich także w tym roku! POZNAŃ - 20-22.08 / TERENY ZIELONE LOTNISKA ŁAWICA : WITHIN TEMPTATION | SEX PISTOLS feat. Frank Carter | WOLF ALICE | NOVA TWINS | ROYAL REPUBLIC | KULT | LADY PANK | ACID DRINKERS | DŻEM | NOCNY KOCHANEK | PULL THE WIRE | ILLUSION | THE HARDKISS | ŁYDKA GRUBASA | ZENEK GRABOWSKI | THE ANALOGS | ROMANTYCY LEKKICH OBYCZAJÓW | STACJA B KIEDY SIĘ WIDZIMY? 20-22 sierpnia – na terenach zielonych lotniska Poznań Ławica POCZUJ PRAWDZIWY FESTIWALOWY KLIMAT! Rockowizna to festiwal radości, otwartości i przyjaźni. To festiwal międzypokoleniowy, który łączy ludzi. Poza wyjątkowymi koncertami czeka na Was udoskonalona strefa gastronomiczna, a w Poznaniu dodatkowo - jedyne w swoim rodzaju - pole namiotowe na terenach zielonych lotniska Ławica. Szykują się mocne, rockowe wieczory i niesamowita atmosfera — jesteście na to gotowi? BILETY Trzecia pula karnetów do 31.07.2026 lub do wyczerpania biletów w puli. BILETY POZNAŃ - III PULA (6.04.2026 - 31.07.2026) Bilet jednodniowy:  249 zł Karnet 3-dniowy: 459 zł Karnet 3-dniowy + pole namiotowe: 588 zł Bilet na pole namiotowe: 129 zł Bilet na pole kamperowe: 599 zł Bilet 3-dniowy na parking (samochód/motocykl): od 40 zł Glamping: od 1900 zł Do ceny biletów doliczana jest opłata serwisowa. Dokładne informacje dotyczące biletów dostępne są na stronie organizatora. SPRAWDŹ JAK WYGLĄDAŁA POPRZEDNIA EDYCJA: Aftermovie Poznań 2025:",
-      "image": "https://czasdzieci.pl/pliki/wydarzenia/obr/rockowizna-2026_1920x1080_poznan_logo.webp",
-      "source": "czasdzieci.pl",
-      "location": {
-        "name": "Tereny zielony lotniska Poznań Ławica",
-        "district": "Jeżyce"
-      },
-      "district": "Jeżyce",
-      "scrapped_url": "https://czasdzieci.pl/poznan/wydarzenia/id,140853315.html",
-      "scrapped_timestamp": "2026-08-20T07:50:54.575274+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Rockowizna 2026 – mocne rockowe granie i niezapomniany klimat",
-          "description": "Zapraszamy na 5-edycję Festiwalu Rockowizna, która już w sierpniu 2026 odbędzie się w Gdańsku, Poznaniu i Krakowie. Największa, rockowa trasa festiwalowa w Polsce ponownie połączy pokolenia. BĘDZIE MOCNO, BĘDZIE PRAWDZIWIE, BĘDZIE ROCKOWO W ubiegłych latach Rockowizna była festiwalem wielkich muzycznych powrotów oraz znanych zagranicznych kapel. Nie zabraknie ich także w tym roku! POZNAŃ - 20-22.08 / TERENY ZIELONE LOTNISKA ŁAWICA : WITHIN TEMPTATION | SEX PISTOLS feat. Frank Carter | WOLF ALICE | NOVA TWINS | ROYAL REPUBLIC | KULT | LADY PANK | ACID DRINKERS | DŻEM | NOCNY KOCHANEK | PULL THE WIRE | ILLUSION | THE HARDKISS | ŁYDKA GRUBASA | ZENEK GRABOWSKI | THE ANALOGS | ROMANTYCY LEKKICH OBYCZAJÓW | STACJA B KIEDY SIĘ WIDZIMY? 20-22 sierpnia – na terenach zielonych lotniska Poznań Ławica POCZUJ PRAWDZIWY FESTIWALOWY KLIMAT! Rockowizna to festiwal radości, otwartości i przyjaźni. To festiwal międzypokoleniowy, który łączy ludzi. Poza wyjątkowymi koncertami czeka na Was udoskonalona strefa gastronomiczna, a w Poznaniu dodatkowo - jedyne w swoim rodzaju - pole namiotowe na terenach zielonych lotniska Ławica. Szykują się mocne, rockowe wieczory i niesamowita atmosfera — jesteście na to gotowi? BILETY Trzecia pula karnetów do 31.07.2026 lub do wyczerpania biletów w puli. BILETY POZNAŃ - III PULA (6.04.2026 - 31.07.2026) Bilet jednodniowy:  249 zł Karnet 3-dniowy: 459 zł Karnet 3-dniowy + pole namiotowe: 588 zł Bilet na pole namiotowe: 129 zł Bilet na pole kamperowe: 599 zł Bilet 3-dniowy na parking (samochód/motocykl): od 40 zł Glamping: od 1900 zł Do ceny biletów doliczana jest opłata serwisowa. Dokładne informacje dotyczące biletów dostępne są na stronie organizatora. SPRAWDŹ JAK WYGLĄDAŁA POPRZEDNIA EDYCJA: Aftermovie Poznań 2025:"
-        },
-        "en": {
-          "title": "Rockowizna 2026 – powerful rock music and an unforgettable atmosphere",
-          "description": "We invite you to the 5th edition of the Rockowizna Festival, which will take place in August 2026 in Gdańsk, Poznań, and Kraków. The largest rock festival tour in Poland will once again connect generations. IT WILL BE POWERFUL, IT WILL BE REAL, IT WILL BE ROCKING. In previous years, Rockowizna has been a festival of great musical comebacks and well-known foreign bands. They will also be present this year! POZNAŃ - August 20-22 / GREEN AREAS OF ŁAWICA AIRPORT: WITHIN TEMPTATION | SEX PISTOLS feat. Frank Carter | WOLF ALICE | NOVA TWINS | ROYAL REPUBLIC | KULT | LADY PANK | ACID DRINKERS | DŻEM | NOCNY KOCHANEK | PULL THE WIRE | ILLUSION | THE HARDKISS | ŁYDKA GRUBASA | ZENEK GRABOWSKI | THE ANALOGS | ROMANTYCY LEKKICH OBYCZAJÓW | STACJA B. WHEN DO WE SEE EACH OTHER? August 20-22 – at the green areas of Poznań Ławica Airport."
-        },
-        "uk": {
-          "title": "Rockowizna 2026 – потужне рокове виконання та незабутня атмосфера",
-          "description": "Запрошуємо на 5-ту редакцію Фестивалю Rockowizna, яка вже в серпні 2026 року відбудеться в Гданську, Познані та Кракові. Найбільша рокова фестивальна траса в Польщі знову поєднає покоління. БУДЕ МОЦНО, БУДЕ СПРАВЖНЬО, БУДЕ РОКОВО. У попередні роки Rockowizna була фестивалем великих музичних повернень та відомих закордонних гуртів. Їх не бракуватиме і цього року! ПОЗНАНЬ - 20-22.08 / ЗЕЛЕНІ ТЕРИТОРІЇ АЕРОПОРТУ ŁAWICA: WITHIN TEMPTATION | SEX PISTOLS feat. Frank Carter | WOLF ALICE | NOVA TWINS | ROYAL REPUBLIC | KULT | LADY PANK | ACID DRINKERS | DŻEM | NOCNY KOCHANEK | PULL THE WIRE | ILLUSION | THE HARDKISS | ŁYDKA GRUBASA | ZENEK GRABOWSKI | THE ANALOGS | ROMANTYCY LEKKICH OBYCZAJÓW | STACJA B. КОЛИ МИ БАЧИМОСЯ? 20-22 серпня – на зелених територіях аеропорту Познань Ławica."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "updated_at": "2026-08-20T07:51:07.320576+00:00"
     }
   }
 }

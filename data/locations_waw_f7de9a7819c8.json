@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T07:51:11.104145+00:00",
+  "updated_at": "2026-08-21T07:49:58.798428+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3715,6 +3715,69 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-20T07:37:34.059368+00:00"
+    },
+    "ul. wrocławska 25": {
+      "name": "ul. Wrocławska 25",
+      "district": "Bemowo",
+      "address": "ul. Wrocławska 25",
+      "normalized": "ul. wrocławska 25",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-21T07:36:21.901744+00:00"
+    },
+    "oś królewska 25": {
+      "name": "Oś Królewska 25",
+      "district": "Wilanów",
+      "address": "Oś Królewska 25",
+      "normalized": "oś królewska 25",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-21T07:36:21.902211+00:00"
+    },
+    "wola park": {
+      "name": "Wola Park, Park Ulricha, ul. Górczewska 124",
+      "district": "Wola",
+      "address": "Wola Park, Park Ulricha, ul. Górczewska 124",
+      "normalized": "wola park",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-21T07:36:21.902443+00:00"
+    },
+    "urząd dzielnicy ursynów": {
+      "name": "Urząd Dzielnicy Ursynów, Aleja Komisji Edukacji Narodowej 61",
+      "district": "Ursynów",
+      "address": "Urząd Dzielnicy Ursynów, Aleja Komisji Edukacji Narodowej 61",
+      "normalized": "urząd dzielnicy ursynów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-21T07:36:21.902709+00:00"
+    },
+    "dom kultury kadr": {
+      "name": "Dom Kultury Kadr, ul. Rzymowskiego 32",
+      "district": "Mokotów",
+      "address": "Dom Kultury Kadr, ul. Rzymowskiego 32",
+      "normalized": "dom kultury kadr",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-21T07:36:21.902918+00:00"
+    },
+    "białołecki ośrodek kultury": {
+      "name": "Białołecki Ośrodek Kultury, ul. Głębocka 66",
+      "district": "Białołęka",
+      "address": "Białołecki Ośrodek Kultury, ul. Głębocka 66",
+      "normalized": "białołecki ośrodek kultury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-21T07:36:21.903125+00:00"
+    },
+    "skatepark jutrzenka aktywna warszawa": {
+      "name": "Skatepark Jutrzenka AKTYWNA WARSZAWA, ul. Rozbrat 5",
+      "district": "Śródmieście",
+      "address": "Skatepark Jutrzenka AKTYWNA WARSZAWA, ul. Rozbrat 5",
+      "normalized": "skatepark jutrzenka aktywna warszawa",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-21T07:36:21.903330+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T07:51:08.518083+00:00",
+  "updated_at": "2026-08-21T07:49:56.806034+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -599,6 +599,15 @@
       "lat": 54.3191523,
       "lng": 18.6243062,
       "updated_at": "2026-08-20T07:46:08.118380+00:00"
+    },
+    "veloweld": {
+      "name": "234E, Kartuska, Krzyżowniki, Siedlce, Gdańsk, województwo pomorskie, 80-122, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "234E, Kartuska, Krzyżowniki, Siedlce, Gdańsk, województwo pomorskie, 80-122, Polska",
+      "normalized": "veloweld",
+      "lat": 54.345041,
+      "lng": 18.5990054,
+      "updated_at": "2026-08-21T07:45:34.027820+00:00"
     }
   }
 }

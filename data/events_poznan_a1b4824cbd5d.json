@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T06:48:33.714103+00:00",
+  "updated_at": "2026-08-21T07:49:55.638020+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-10-12T11:00:00+02:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -1725,6 +1725,84 @@
         "is_free": false
       },
       "updated_at": "2026-08-20T07:51:07.320553+00:00"
+    },
+    "rodzinne-zwiedzanie-zamku-z-przewodnikiem-2026-08-25T12:30:00+02:00": {
+      "title": "Rodzinne zwiedzanie Zamku z przewodnikiem",
+      "date": "2026-08-25T12:30:00+02:00",
+      "end_date": "2026-08-25T12:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zorganizuj niezapomnianą przygodę dla swojej rodziny. Odkrywaj zabytkowe wnętrza jednego z najmłodszych zamków w Europie wraz z komentarzem przewodnika (-czki). czas trwania: 45' wiek: 10+ Zobacz ckzamek.pl/ Baner Pobierz baner (JPEG, 19,20 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,494236,with-dims,209,209.jpg?_sst=1786993339012",
+      "location": {
+        "name": "Zbiórka: Hol Wielki, CK Zamek, ul. Święty Marcin 80/82",
+        "district": "Poznań - Pozostałe"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/rodzinne-zwiedzanie-zamku-z-przewodnikiem,185096.html",
+      "source": "poznan.pl",
+      "district": "Poznań - Pozostałe",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/rodzinne-zwiedzanie-zamku-z-przewodnikiem,185096.html",
+      "scrapped_timestamp": "2026-08-21T07:49:47.041247+00:00",
+      "category": "Field Trips",
+      "age_range": {
+        "min": 10,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Rodzinne zwiedzanie Zamku z przewodnikiem",
+          "description": "Zorganizuj niezapomnianą przygodę dla swojej rodziny. Odkrywaj zabytkowe wnętrza jednego z najmłodszych zamków w Europie wraz z komentarzem przewodnika (-czki). czas trwania: 45' wiek: 10+ Zobacz ckzamek.pl/ Baner Pobierz baner (JPEG, 19,20 kB)"
+        },
+        "en": {
+          "title": "Family Guided Tour of the Castle",
+          "description": "Organize an unforgettable adventure for your family. Explore the historic interiors of one of the youngest castles in Europe with a guide's commentary. Duration: 45 minutes. Age: 10+. Visit ckzamek.pl/"
+        },
+        "uk": {
+          "title": "Сімейна екскурсія замком з гідом",
+          "description": "Організуйте незабутню пригоду для своєї родини. Відкривайте історичні інтер'єри одного з наймолодших замків в Європі разом з коментарем гіда. Тривалість: 45 хвилин. Вік: 10+. Дивіться ckzamek.pl/ Банер Завантажити банер (JPEG, 19,20 кБ)"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-08-21T07:49:55.464870+00:00"
+    },
+    "piaskowy-wilk-spektakl-premierowy-2026-09-21T09:00:00+02:00": {
+      "title": "Piaskowy Wilk - spektakl premierowy",
+      "date": "2026-09-21T09:00:00+02:00",
+      "end_date": "2026-09-21T09:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Czas trwania: 60 minut Wiek: 7-9 lat Wydarzenie odbędzie się w Scenie Wspólnej, ul. Brandstaettera 1/ul. Za Cytadelą. Szanowne Widzki, Szanowni Widzowie! Informujemy, że osoby spóźnione nie będą wpuszczane na wydarzenie, a także nie otrzymają zwrotu pieniędzy za niewykorzystane bilety. Bardzo prosimy o punktualność. Baner Pobierz baner (JPEG, 10,66 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/grafika,pic1,1225,0,490737,with-dims,209,209.jpg?_sst=1786993339012",
+      "location": {
+        "name": "Scena Wspólna, ul.Brandstaettera 1 / ul. Za Cytadelą."
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-09-21/piaskowy-wilk-spektakl-premierowy,184026.html",
+      "source": "poznan.pl",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-09-21/piaskowy-wilk-spektakl-premierowy,184026.html",
+      "scrapped_timestamp": "2026-08-21T07:49:50.252630+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 7,
+        "max": 9
+      },
+      "translations": {
+        "pl": {
+          "title": "Piaskowy Wilk - spektakl premierowy",
+          "description": "Czas trwania: 60 minut Wiek: 7-9 lat Wydarzenie odbędzie się w Scenie Wspólnej, ul. Brandstaettera 1/ul. Za Cytadelą. Szanowne Widzki, Szanowni Widzowie! Informujemy, że osoby spóźnione nie będą wpuszczane na wydarzenie, a także nie otrzymają zwrotu pieniędzy za niewykorzystane bilety. Bardzo prosimy o punktualność. Baner Pobierz baner (JPEG, 10,66 kB)"
+        },
+        "en": {
+          "title": "Sand Wolf - Premiere Performance",
+          "description": "Duration: 60 minutes Age: 7-9 years The event will take place at Scena Wspólna, ul. Brandstaettera 1/ul. Za Cytadelą. Dear Audience, We inform you that latecomers will not be admitted to the event and will not receive a refund for unused tickets. We kindly ask for punctuality."
+        },
+        "uk": {
+          "title": "Пісковий Вовк - прем'єрний спектакль",
+          "description": "Час тривання: 60 хвилин Вік: 7-9 років Подія відбудеться на Сцені Спільній, вул. Брандштеттера 1/вул. За Цитаделлю. Шановні Глядачі! Інформуємо, що запізнілі особи не будуть допущені на подію, а також не отримають повернення грошей за невикористані квитки. Дуже просимо про пунктуальність. Банер Завантажити банер (JPEG, 10,66 кБ)"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-08-21T07:49:55.464894+00:00"
     }
   }
 }

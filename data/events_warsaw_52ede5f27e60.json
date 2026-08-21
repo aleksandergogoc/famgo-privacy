@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T07:37:34.741292+00:00",
+  "updated_at": "2026-08-21T06:48:25.585531+00:00",
   "events": {
     "animacje-w-przestrzeni-edukacyjnej-kurka-2026-08-25": {
       "real_source": "https://www.malywarszawiak.pl/",
@@ -822,46 +822,6 @@
         "max": 18
       },
       "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240_134-0-900-900d-c64,f_w_140637_5a40c.webp"
-    },
-    "czerwony-kapturek-spektakl-go-cinny-och-teatr-2026-08-20T17:00:00": {
-      "scrapped_timestamp": "2026-06-30T14:45:15.988104+00:00",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Theater",
-      "description": "CZERWONY KAPTUREK to opowieść o strachu, który ma wielkie oczy i sile przyjaźni, która pokonuje największe przeszkody. O tym, że w najgorszej opresji zawsze można liczyć na wiernych przyjaciół. Twórcy spektaklu chcą przekraczać granice sceny, wciągać w swoją opowieść najmłodszych, aby teatr kojarzył im się przede wszystkim z przyjemnością i zabawą. Scenografia projektu Pauliny Czernek nawiązuje do ulubionych atrybutów dzieciństwa: książeczek pop-up, czyli trójwymiarowych elementów wyskakujących gdy otwiera się kolejną stronę. Spektakl ma uczyć, bawić i zaskakiwać, a wpadające w ucho piosenki nadadzą mu bajkowego nastroju, za którym chyba każdy z nas tęskni w codziennym życiu. Reżyseria: Adam Biernacki. W obsadzie m.in.: Matylda Damięcka, Katarzyna Kołeczek, Agata Sasinowska, Bartłomiej Magdziarz, Jarosław Sacharski.",
-      "date": "2026-08-20T15:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "CZERWONY KAPTUREK to opowieść o strachu, który ma wielkie oczy i sile przyjaźni, która pokonuje największe przeszkody. O tym, że w najgorszej opresji zawsze można liczyć na wiernych przyjaciół. Twórcy spektaklu chcą przekraczać granice sceny, wciągać w swoją opowieść najmłodszych, aby teatr kojarzył im się przede wszystkim z przyjemnością i zabawą. Scenografia projektu Pauliny Czernek nawiązuje do ulubionych atrybutów dzieciństwa: książeczek pop-up, czyli trójwymiarowych elementów wyskakujących gdy otwiera się kolejną stronę. Spektakl ma uczyć, bawić i zaskakiwać, a wpadające w ucho piosenki nadadzą mu bajkowego nastroju, za którym chyba każdy z nas tęskni w codziennym życiu. Reżyseria: Adam Biernacki. W obsadzie m.in.: Matylda Damięcka, Katarzyna Kołeczek, Agata Sasinowska, Bartłomiej Magdziarz, Jarosław Sacharski.",
-          "title": "„Czerwony Kapturek” – spektakl gościnny (Och-Teatr)"
-        },
-        "uk": {
-          "description": "ЧЕРВОНА ШАПОЧКА – це оповідь про страх, який має великі очі, і силу дружби, яка долає найбільші перешкоди. Про те, що в найгіршій ситуації завжди можна розраховувати на вірних друзів. Творці спектаклю прагнуть перевищити межі сцени, залучаючи наймолодших до своєї оповіді, щоб театр асоціювався у них насамперед з задоволенням і розвагою. Сценографія проекту Пауліни Чернек нагадує улюблені атрибути дитинства: книжки поп-ап, тобто тривимірні елементи, які вискакують, коли відкривається наступна сторінка. Спектакль має навчати, розважати і дивувати, а запам'ятовувані пісні нададуть йому казкового настрою, за яким, напевно, кожен з нас сумує в повсякденному житті. Режисура: Адам Бірнацький. У складі, зокрема: Матильда Дамієцька, Катажина Колечек, Агата Сасіновська, Бартош Маг.",
-          "title": "«Червона Шапочка» – гостьовий спектакль (Ох-Театр)"
-        },
-        "en": {
-          "description": "LITTLE RED RIDING HOOD is a story about fear that has big eyes and the power of friendship that overcomes the greatest obstacles. It shows that in the worst of times, you can always count on loyal friends. The creators of the performance aim to transcend the boundaries of the stage, engaging the youngest in their story so that theater is primarily associated with pleasure and fun. The set design by Paulina Czernek refers to beloved childhood attributes: pop-up books, which feature three-dimensional elements that spring up when the next page is turned. The performance is meant to educate, entertain, and surprise, while catchy songs will give it a fairy-tale atmosphere that we all seem to long for in our daily lives. Directed by: Adam Biernacki. The cast includes: Matylda Damięcka, Katarzyna Kołeczek, Agata Sasinowska, Bartłomiej Mag.",
-          "title": "Little Red Riding Hood – Guest Performance (Och-Teatr)"
-        }
-      },
-      "scrapped_url": "https://www.teatrpolonia.pl/",
-      "url": "https://www.teatrpolonia.pl/",
-      "end_date": "2026-08-19T22:00:00+00:00",
-      "district": "Ochota",
-      "source": "teatrpolonia.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Ochota",
-        "name": "Och-Teatr   · ul. Grójecka 65"
-      },
-      "title": "„Czerwony Kapturek” – spektakl gościnny (Och-Teatr)",
-      "image": "https://cdn-netpr.pl/file/teaser-ci/872658/273378147/338-200.",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      }
     },
     "czerwony-kapturek-spektakl-go-cinny-och-teatr-2026-08-21T17:00:00": {
       "scrapped_timestamp": "2026-06-30T14:45:24.015337+00:00",
@@ -2634,43 +2594,6 @@
         "max": 5
       },
       "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1778229808.webp"
-    },
-    "lato-w-mie-cie-2026-wck-rado-2026-07-02": {
-      "scrapped_timestamp": "2026-06-23T18:54:30.018248+00:00",
-      "scrapped_url": "https://wawer.um.warszawa.pl/-/lato-w-miescie-2026-wck-radosc",
-      "category": "Workshops",
-      "description": "Zapraszamy na warsztaty realizowane w ramach Lata w mieście 2026 w tematyce Kultur świata",
-      "date": "2026-07-02T08:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Zapraszamy na warsztaty realizowane w ramach Lata w mieście 2026 w tematyce Kultur świata",
-          "title": "Lato w Mieście 2026 - WCK Radość"
-        },
-        "uk": {
-          "description": "Запрошуємо на майстер-класи, що проводяться в рамках Літа в місті 2026 на тему Культури світу",
-          "title": "Літо в Місті 2026 - ВКЦ Радість"
-        },
-        "en": {
-          "description": "We invite you to workshops held as part of Summer in the City 2026 on the theme of World Cultures.",
-          "title": "Summer in the City 2026 - WCK Radość"
-        }
-      },
-      "url": "https://wawer.um.warszawa.pl/-/lato-w-miescie-2026-wck-radosc",
-      "end_date": "2026-08-20T12:00:00+00:00",
-      "district": "Wawer",
-      "updated_at": "2026-06-29T08:44:08.789000+00:00",
-      "source": "um.warszawa.pl",
-      "startTimeKnown": true,
-      "location": {
-        "district": "Wawer",
-        "name": "Wawerskie Centrum Kultury Filia Radość, ul. Powojowa 2, 04-860"
-      },
-      "title": "Lato w Mieście 2026 - WCK Radość",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "image": "https://cdn.um.warszawa.pl/documents/47611/33919984/lato+w+miescie+wck+radosc.jpg/8b2b84fc-76e5-c1f2-41bc-4152405fcf9d?version=1.0&t=1781518098785&imagePreview=1"
     },
     "letnia-scena-teatralna-w-powsinie-kino-plenerowe-2026-08-30": {
       "scrapped_timestamp": "2026-06-19T07:16:22.473330+00:00",
@@ -4673,45 +4596,6 @@
       },
       "image": null
     },
-    "wianki-na-zawadach-2026-08-20": {
-      "real_source": "https://waw4free.pl/",
-      "category": "Music & Dance",
-      "description": "Zapraszamy na Wianki na Zawadach - koncert i potańcówkę na finał dnia 📅 20.06.2026 (sobota), godz. 18:30 📍 Filia CKW na Zawadach, pl. Vogla Wstęp wolny. Zagra dla Was LUDOVE, zespół łączący tradycyjną muzykę folkową Polski i krajów środkowej Europy ze współczesnymi aranżacjami oraz dużą dawką improwizacji i tanecznej energii. Współcześnie zaaranżowane podkarpackie polki, słowackie walczyki, spiskie czardasze, kujawiaki i oberki prosto spod Łowicza stanowią mianownik łączący najróżniejsze muzyczne poszukiwania zespołu zakorzenionego mentalnie w tradycji słowiańskiej. Muzycy pochodzący z Lubelszczyzny, Kujaw, Beskidu Śląskiego, Podkarpacia i Mazowsza z upodobaniem łączą własne inspiracje z zachowaniem zabawowej funkcji muzyki ludowej. Wystąpią: Jagna Malinowska - śpiew Marcin Maroszek - akordeon, śpiew Michał Michota - trąbka, śpiew Paweł Maruszak - perkusja, śpiew Przemysław Skałuba - klarnet Wianki na Zawadach to nie tylko potańcówka, wcześniej (16:00-18:00) zapraszamy na: - Warsztaty z Teatrem Walizka - „Kwiaty Mocy” łączą opowieść o symbolice kwiatów w kulturze europejskiej z doświadczeniem twórczym uczestników. Program pozwala odkryć rośliny nie tylko jako element natury, lecz także jako ważny motyw obecny w sztuce, ogrodach historycznych i tradycji kulturowej. Podczas spotkania uczestnicy poznają znaczenie wybranych kwiatów w kulturze, a następnie tworzą własne kwiaty z krepiny inspirowane formami natury. - Wyplatanie wianków z żywych kwiatów - warsztaty rodzinne - Pokaz tańca z wachlarzami bojowymi uczestniczek zajęć w choreografii Marty Suzin (Szkoła z Wachlarzami Bojowymi Juli Bui) - Animacje dla dzieci",
-      "date": "2026-08-20T14:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Zapraszamy na Wianki na Zawadach - koncert i potańcówkę na finał dnia 📅 20.06.2026 (sobota), godz. 18:30 📍 Filia CKW na Zawadach, pl. Vogla Wstęp wolny. Zagra dla Was LUDOVE, zespół łączący tradycyjną muzykę folkową Polski i krajów środkowej Europy ze współczesnymi aranżacjami oraz dużą dawką improwizacji i tanecznej energii. Współcześnie zaaranżowane podkarpackie polki, słowackie walczyki, spiskie czardasze, kujawiaki i oberki prosto spod Łowicza stanowią mianownik łączący najróżniejsze muzyczne poszukiwania zespołu zakorzenionego mentalnie w tradycji słowiańskiej. Muzycy pochodzący z Lubelszczyzny, Kujaw, Beskidu Śląskiego, Podkarpacia i Mazowsza z upodobaniem łączą własne inspiracje z zachowaniem zabawowej funkcji muzyki ludowej. Wystąpią: Jagna Malinowska - śpiew Marcin Maroszek - akordeon, śpiew Michał Michota - trąbka, śpiew Paweł Maruszak - perkusja, śpiew Przemysław Skałuba - klarnet Wianki na Zawadach to nie tylko potańcówka, wcześniej (16:00-18:00) zapraszamy na: - Warsztaty z Teatrem Walizka - „Kwiaty Mocy” łączą opowieść o symbolice kwiatów w kulturze europejskiej z doświadczeniem twórczym uczestników. Program pozwala odkryć rośliny nie tylko jako element natury, lecz także jako ważny motyw obecny w sztuce, ogrodach historycznych i tradycji kulturowej. Podczas spotkania uczestnicy poznają znaczenie wybranych kwiatów w kulturze, a następnie tworzą własne kwiaty z krepiny inspirowane formami natury. - Wyplatanie wianków z żywych kwiatów - warsztaty rodzinne - Pokaz tańca z wachlarzami bojowymi uczestniczek zajęć w choreografii Marty Suzin (Szkoła z Wachlarzami Bojowymi Juli Bui) - Animacje dla dzieci",
-          "title": "Wianki na Zawadach"
-        },
-        "uk": {
-          "description": "Запрошуємо на Вінки на Завадах - концерт і танцювальну вечірку на фінал дня 📅 20.06.2026 (субота), год. 18:30 📍 Філія CKW на Завадах, пл. Вогла Вхід вільний. Для вас виступить LUDOVE, гурт, що поєднує традиційну фольклорну музику Польщі та країн Центральної Європи з сучасними аранжуваннями та великою дозою імпровізації і танцювальної енергії. Сучасні аранжовані підкарпатські польки, словацькі вальси, спиські чардоші, куяв'яки та оберки прямо з-під Ловича становлять спільний знаменник, що поєднує найрізноманітніші музичні пошуки гурту, закоріненого ментально в традиції слов'ян. Музиканти, що походять з Люблінщини, Куяв, Бескиду Śląського, Підкарпаття та Мазовії, з задоволенням поєднують власні натхнення з збереженням ігрової функції народної музики. Виступлять: Яґна Маліновська - спів, Марцін Марошек - акордеон.",
-          "title": "Вінки на Завадах"
-        },
-        "en": {
-          "description": "We invite you to Wreaths at Zawady - a concert and dance party to conclude the day 📅 June 20, 2026 (Saturday), at 6:30 PM 📍 CKW Branch at Zawady, Vogla Square. Free admission. LUDOVE will perform for you, a band that combines traditional folk music from Poland and Central European countries with contemporary arrangements and a large dose of improvisation and dance energy. Modernly arranged Podkarpackie polkas, Slovak waltzes, Spisz czardas, Kujawiaks, and Oberks straight from Łowicz form the common denominator connecting the various musical explorations of the band rooted in Slavic tradition. Musicians from Lublin, Kujawy, Silesian Beskids, Podkarpacie, and Mazovia eagerly blend their own inspirations while maintaining the playful function of folk music. Performers include: Jagna Malinowska - vocals, Marcin Maroszek - accordion.",
-          "title": "Wreaths at Zawady"
-        }
-      },
-      "url": "https://www.facebook.com/events/1331915218828895/",
-      "end_date": "2026-08-19T22:00:00+00:00",
-      "district": "Wilanów",
-      "updated_at": "2026-06-29T08:44:09.696000+00:00",
-      "source": "waw4free.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Wilanów",
-        "name": "CKW na Zawadach, pl. Vogla"
-      },
-      "title": "Wianki na Zawadach",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1781514262.webp"
-    },
     "wielkie-artystki-frida-kahlo-arteterapeutyczna-moc-sztuki-2026-09-09T18:00:00": {
       "scrapped_timestamp": "2026-07-01T14:54:28.221597+00:00",
       "scrapped_url": "https://naszemiasto.pl/wielkie-artystki-frida-kahlo-arteterapeutyczna-moc-sztuki/kw/c5-2781827",
@@ -6122,47 +6006,6 @@
       },
       "updated_at": "2026-07-24T12:12:41.401851+00:00"
     },
-    "rembertowskie-kino-pod-gwiazdami-szcz-cie-miko-ajka-2026-08-20T20:30:00+02:00": {
-      "title": "Rembertowskie Kino pod Gwiazdami: Szczęście Mikołajka",
-      "date": "2026-08-20T20:30:00+02:00",
-      "end_date": "2026-08-20T20:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Szukacie pomysłu na letni wieczór w Warszawie?✨ Do Dzielnicy Rembertów wraca 𝐑𝐞𝐦𝐛𝐞𝐫𝐭𝐨𝐰𝐬𝐤𝐢𝐞 𝐊𝐢𝐧𝐨 𝐩𝐨𝐝 𝐆𝐰𝐢𝐚𝐳𝐝𝐚𝐦𝐢!🎬 W programie znajdziecie świetne filmy – od polskich komedii po familijne i nagradzane produkcje. Na miejscu czekają leżaki, popcorn i lemoniada🍋🍿, więc wystarczy zabrać dobry humor i bliskich!🥰 Wpadajcie i spędźcie miły wieczór pod rembertowskim niebem! Kto się wybiera? Organizator: Dom Kultury \"Wygoda\" Współorganizator: Dzielnica Rembertów m.st. Warszawy Projekt realizowany i finansowany w ramach Budżetu Obywatelskiego na rok 2026. Repertuar i  lokalizacje: Green Book – obyczajowy, komediodramat 4 sierpnia, godz. 21:00 - 23:10 Miejsce: teren zielony Dom Kultury “Wygoda”, ul. Koniecpolska 14 Poszukiwany, Poszukiwana – polska komedia 11 sierpnia, godz. 20:30 – 22.00 Miejsce: teren zielony Dom Kultury “Wygoda”, ul. Koniecpolska 14 Ozi: Głos Deszczowego Lasu – kino familijne 13 sierpnia, godz. 20:30 – 22.00 Miejsce: teren zielony Dom Kultury “Wygoda”, ul. Koniecpolska 14 Forrest Gump – obyczajowy, komediodramat 18 sierpnia, godz. 20:30 - 23:00 Miejsce: Parking Urzędu Dzielnicy Rembertów Aleja Generała A. Chruściela 28 Szczęście Mikołajka – kino familijne 20 sierpnia, godz. 20:30 - 22:00 Miejsce: Parking Urzędu Dzielnicy Rembertów Aleja Generała A. Chruściela 28 Chłopaki nie płaczą – polska komedia 25 sierpnia, godz. 20:00 – 21:30 Miejsce: Parking Urzędu Dzielnicy Rembertów Aleja Generała A. Chruściela 28 Wonka – kino familijne 27 sierpnia, godz. 20:00 - 22:00 Miejsce: Parking Urzędu Dzielnicy Rembertów Aleja Generała A. Chruściela 28 Hotel Transylwania – kino familijne 3 września, godz. 19:00 – 20.30 Miejsce: teren zielony Dom Kultury “Wygoda”, ul. Koniecpolska 14 Opisy filmów / regulamin: link Filmy z napisami w języku polskim. Wstęp wolny. Na miejscu będą dostępne leżaki. Na miejscu dostępna będzie lemoniada i popcorn bezpłatnie. Dobrze mieć przy sobie spray na komary, kocyk, bluzę. Jeśli potrzebujesz naszej pomocy na miejscu zgłoś nam taką potrzebę dzień wcześniej tel. 22 812 06 33 Dostępność: Na terenie zielonym przy Domu Kultury „Wygoda” - dostosowana toaleta w budynku, budynek parterowy z podjazdem - przewijak dla małych dzieci - dostęp do wody dla psa asystującego - przenośna pętla indukcyjna - słuchawki wygłuszające (rozmiar S i M) Na parkingu przy Urzędzie Dzielnicy: - dostosowana toaleta w budynku (100 metrów od miejsca seansu) budynek z podjazdem - dostęp do wody dla psa asystującego - słuchawki wygłuszające (rozmiar S i M)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-2100.1784886033.webp",
-      "location": {
-        "name": "Aleja Generała A. Chruściela 28",
-        "district": "Rembertów"
-      },
-      "url": "https://dkwygoda.waw.pl/events/miesiac/2026-08/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://dkwygoda.waw.pl/events/miesiac/2026-08/",
-      "scrapped_timestamp": "2026-07-24T12:12:01.526678+00:00",
-      "category": "Cinema",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Rembertowskie Kino pod Gwiazdami: Szczęście Mikołajka",
-          "description": "Szukacie pomysłu na letni wieczór w Warszawie?✨ Do Dzielnicy Rembertów wraca 𝐑𝐞𝐦𝐛𝐞𝐫𝐭𝐨𝐰𝐬𝐤𝐢𝐞 𝐊𝐢𝐧𝐨 𝐩𝐨𝐝 𝐆𝐰𝐢𝐚𝐳𝐝𝐚𝐦𝐢!🎬 W programie znajdziecie świetne filmy – od polskich komedii po familijne i nagradzane produkcje. Na miejscu czekają leżaki, popcorn i lemoniada🍋🍿, więc wystarczy zabrać dobry humor i bliskich!🥰 Wpadajcie i spędźcie miły wieczór pod rembertowskim niebem! Kto się wybiera? Organizator: Dom Kultury \"Wygoda\" Współorganizator: Dzielnica Rembertów m.st. Warszawy Projekt realizowany i finansowany w ramach Budżetu Obywatelskiego na rok 2026. Repertuar i  lokalizacje: Green Book – obyczajowy, komediodramat 4 sierpnia, godz. 21:00 - 23:10 Miejsce: teren zielony Dom Kultury “Wygoda”, ul. Koniecpolska 14 Poszukiwany, Poszukiwana – polska komedia 11 sierpnia, godz. 20:30 – 22.00 Miejsce: teren zielony Dom Kultury “Wygoda”, ul. Koniecpolska 14 Ozi: Głos Deszczowego Lasu – kino familijne 13 sierpnia, godz. 20:30 – 22.00 Miejsce: teren zielony Dom Kultury “Wygoda”, ul. Koniecpolska 14 Forrest Gump – obyczajowy, komediodramat 18 sierpnia, godz. 20:30 - 23:00 Miejsce: Parking Urzędu Dzielnicy Rembertów Aleja Generała A. Chruściela 28 Szczęście Mikołajka – kino familijne 20 sierpnia, godz. 20:30 - 22:00 Miejsce: Parking Urzędu Dzielnicy Rembertów Aleja Generała A. Chruściela 28 Chłopaki nie płaczą – polska komedia 25 sierpnia, godz. 20:00 – 21:30 Miejsce: Parking Urzędu Dzielnicy Rembertów Aleja Generała A. Chruściela 28 Wonka – kino familijne 27 sierpnia, godz. 20:00 - 22:00 Miejsce: Parking Urzędu Dzielnicy Rembertów Aleja Generała A. Chruściela 28 Hotel Transylwania – kino familijne 3 września, godz. 19:00 – 20.30 Miejsce: teren zielony Dom Kultury “Wygoda”, ul. Koniecpolska 14 Opisy filmów / regulamin: link Filmy z napisami w języku polskim. Wstęp wolny. Na miejscu będą dostępne leżaki. Na miejscu dostępna będzie lemoniada i popcorn bezpłatnie. Dobrze mieć przy sobie spray na komary, kocyk, bluzę. Jeśli potrzebujesz naszej pomocy na miejscu zgłoś nam taką potrzebę dzień wcześniej tel. 22 812 06 33 Dostępność: Na terenie zielonym przy Domu Kultury „Wygoda” - dostosowana toaleta w budynku, budynek parterowy z podjazdem - przewijak dla małych dzieci - dostęp do wody dla psa asystującego - przenośna pętla indukcyjna - słuchawki wygłuszające (rozmiar S i M) Na parkingu przy Urzędzie Dzielnicy: - dostosowana toaleta w budynku (100 metrów od miejsca seansu) budynek z podjazdem - dostęp do wody dla psa asystującego - słuchawki wygłuszające (rozmiar S i M)"
-        },
-        "en": {
-          "title": "Rembertów Cinema Under the Stars: The Happiness of Nicolas",
-          "description": "Looking for an idea for a summer evening in Warsaw?✨ The 𝐑𝐞𝐦𝐛𝐞𝐫𝐭𝐨𝐰 𝐂𝐢𝐧𝐞𝐦𝐚 𝐔𝐧𝐝𝐞𝐫 𝐭𝐡𝐞 𝐒𝐭𝐚𝐫𝐬 is back in the Rembertów District!🎬 The program features great films – from Polish comedies to family-friendly and award-winning productions. There will be deck chairs, popcorn, and lemonade🍋🍿 on site, so just bring your good mood and loved ones!🥰 Come and enjoy a lovely evening under the Rembertów sky! Who's coming? Organizer: Cultural Center \"Wygoda\" Co-organizer: Rembertów District of the Capital City of Warsaw Project implemented and funded as part of the Citizens' Budget for 2026. Schedule and locations: Green Book – drama, comedy-drama August 4, 9:00 PM - 11:10 PM Location: green area of the Cultural Center “Wygoda”, ul. Koniecpolska 14 Wanted, Wanted – Polish comedy August 11, 8:30 PM – 10:00 PM Location: green area"
-        },
-        "uk": {
-          "title": "Рембертівське Кіно під Зірками: Щастя Миколайка",
-          "description": "Шукаєте ідею для літнього вечора у Варшаві?✨ До Району Рембертів повертається 𝐑𝐞𝐦𝐛𝐞𝐫𝐭𝐨𝐰𝐬𝐤𝐢𝐞 𝐊𝐢𝐧𝐨 𝐩𝐨𝐝 𝐆𝐰𝐢𝐚𝐳𝐝𝐚𝐦𝐢!🎬 У програмі ви знайдете чудові фільми – від польських комедій до сімейних та нагороджених виробів. На місці чекають шезлонги, попкорн і лимонад🍋🍿, тож достатньо взяти з собою гарний настрій і близьких!🥰 Завітайте і проведіть приємний вечір під рембертівським небом! Хто збирається? Організатор: Будинок Культури \"Вигода\" Співорганізатор: Район Рембертів м. Варшава Проект реалізується та фінансується в рамках Громадського Бюджету на 2026 рік. Репертуар і локації: Green Book – соціальна драма, комедійна драма 4 серпня, год. 21:00 - 23:10 Місце: зелена зона Будинку Культури “Вигода”, вул. Конєцпольська 14 Послідовно, Послідовна – польська комедія 11 серпня, год. 20:30 – 22:00 Місце: територія"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Rembertów",
-      "updated_at": "2026-07-24T12:12:41.402235+00:00"
-    },
     "rembertowskie-kino-pod-gwiazdami-wonka-2026-08-27T20:00:00+02:00": {
       "title": "Rembertowskie Kino pod Gwiazdami: Wonka",
       "date": "2026-08-27T20:00:00+02:00",
@@ -6375,47 +6218,6 @@
       "district": "Mokotów",
       "updated_at": "2026-07-27T13:16:40.074855+00:00"
     },
-    "retro-kino-dla-dzieci-w-murowance-2026-08-20T12:00:00+02:00": {
-      "title": "Retro Kino dla Dzieci w Murowance",
-      "date": "2026-08-20T12:00:00+02:00",
-      "end_date": "2026-08-20T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy wszystkie dzieci wraz z rodzicami na kolejne spotkanie z klasyką polskiego kina dla najmłodszych! ❤️ Przeniesiemy się do czasów, gdy nie było smartfonów, internetu ani nawigacji GPS, a największe przygody zaczynały się od... odrobiny odwagi, dobrego humoru i chęci poznawania świata. Czeka na Was pełna ciepła, śmiechu i niezapomnianych przygód filmowa opowieść, która od pokoleń bawi młodych widzów. 🎥 Po seansie tradycyjnie porozmawiamy o filmie i sprawdzimy, czy udało Wam się wychwycić wszystkie najciekawsze momenty! 🕵️ Podpowiedź dla małych i dużych kinomanów: Dwóch chłopców, wyprawa i przekonanie, że czasem wystarczy... coś, by przeżyć największą przygodę. 😉 Zapraszamy do wspólnego odkrywania filmów, które od lat zachwycają kolejne pokolenia dzieci! 🌞🎞️ 📅 20 sierpnia 2026 (czwartek) 🕛 Godz. 12:00 📍 WCK Murowanka, ul. Płowiecka 77, Warszawa 🎟️ Wstęp wolny",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1200.1785147832.webp",
-      "location": {
-        "name": "Płowiecka 77, Murowanka",
-        "district": "Wawer"
-      },
-      "url": "https://www.facebook.com/events/1041504148349327",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1041504148349327",
-      "scrapped_timestamp": "2026-07-27T13:14:21.597088+00:00",
-      "category": "Cinema",
-      "age_range": {
-        "min": 0,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Retro Kino dla Dzieci w Murowance",
-          "description": "Zapraszamy wszystkie dzieci wraz z rodzicami na kolejne spotkanie z klasyką polskiego kina dla najmłodszych! ❤️ Przeniesiemy się do czasów, gdy nie było smartfonów, internetu ani nawigacji GPS, a największe przygody zaczynały się od... odrobiny odwagi, dobrego humoru i chęci poznawania świata. Czeka na Was pełna ciepła, śmiechu i niezapomnianych przygód filmowa opowieść, która od pokoleń bawi młodych widzów. 🎥 Po seansie tradycyjnie porozmawiamy o filmie i sprawdzimy, czy udało Wam się wychwycić wszystkie najciekawsze momenty! 🕵️ Podpowiedź dla małych i dużych kinomanów: Dwóch chłopców, wyprawa i przekonanie, że czasem wystarczy... coś, by przeżyć największą przygodę. 😉 Zapraszamy do wspólnego odkrywania filmów, które od lat zachwycają kolejne pokolenia dzieci! 🌞🎞️ 📅 20 sierpnia 2026 (czwartek) 🕛 Godz. 12:00 📍 WCK Murowanka, ul. Płowiecka 77, Warszawa 🎟️ Wstęp wolny"
-        },
-        "en": {
-          "title": "Retro Cinema for Children in Murowanka",
-          "description": "We invite all children along with their parents to another meeting with the classics of Polish cinema for the youngest! ❤️ We will take you back to the times when there were no smartphones, the internet, or GPS navigation, and the greatest adventures began with... a little courage, good humor, and a desire to explore the world. A film story full of warmth, laughter, and unforgettable adventures awaits you, which has entertained young viewers for generations. 🎥 After the screening, we will traditionally discuss the film and see if you managed to catch all the most interesting moments! 🕵️ A hint for small and big movie lovers: Two boys, an expedition, and the belief that sometimes all it takes is... something to experience the greatest adventure. 😉 We invite you to discover films that have delighted generations of children for years! 🌞🎞️ 📅 August 20, 2026 (Thursday)"
-        },
-        "uk": {
-          "title": "Ретро Кіно для Дітей в Мурованці",
-          "description": "Запрошуємо всіх дітей разом з батьками на наступну зустріч з класикою польського кіно для наймолодших! ❤️ Ми перенесемося в часи, коли не було смартфонів, інтернету чи навігаторів GPS, а найбільші пригоди починалися з... трохи відваги, доброго гумору та бажання пізнавати світ. На вас чекає повна тепла, сміху та незабутніх пригод кіноповість, яка з покоління в покоління радує молодих глядачів. 🎥 Після сеансу традиційно поговоримо про фільм і перевіримо, чи вдалося вам вловити всі найцікавіші моменти! 🕵️ Підказка для маленьких і великих кіноманів: Двоє хлопців, експедиція і переконання, що іноді достатньо... чогось, щоб пережити найбільшу пригоду. 😉 Запрошуємо до спільного відкриття фільмів, які вже багато років захоплюють наступні покоління дітей! 🌞🎞️ 📅 20 серпня 2026 (четвер)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wawer",
-      "updated_at": "2026-07-27T13:16:40.075819+00:00"
-    },
     "klimatyczni-architekci-piknik-rodzinny-2026-08-22T12:00:00+02:00": {
       "title": "Klimatyczni Architekci | Piknik Rodzinny",
       "date": "2026-08-22T12:00:00+02:00",
@@ -6620,252 +6422,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-07-31T07:17:07.925610+00:00"
-    },
-    "artystyczne-czwartki-na-wystawie-familijnej-2026-08-20T10:00:00+02:00": {
-      "title": "Artystyczne czwartki na wystawie familijnej",
-      "date": "2026-08-20T10:00:00+02:00",
-      "end_date": "2026-08-20T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Otwarte warsztaty artystyczne na wystawie familijnej – można dołączyć w dowolnym momencie trwania wydarzenia. Uczestnicy razem z artystami eksperymentują z dźwiękiem, zapachem i światłem, współtworząc przestrzeń wystawy i szukając odpowiedzi na pytanie, co sprawia, że dom staje się bezpiecznym i przyjaznym miejscem.",
-      "url": "https://ethnomuseum.pl/wydarzenia-lista/artystyczne-czwartki-na-wystawie-familijnej-7/",
-      "source": "ethnomuseum.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Educational",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Państwowe Muzeum Etnograficzne   · ul. Kredytowa 1",
-        "district": "Śródmieście"
-      },
-      "image": "https://ethnomuseum.pl/wp-content/uploads/2026/02/PME_3077_Walczak_1-www-1024x683.jpg",
-      "scrapped_url": "https://ethnomuseum.pl/wydarzenia-lista/artystyczne-czwartki-na-wystawie-familijnej-7/",
-      "scrapped_timestamp": "2026-07-31T07:13:17.304025+00:00",
-      "translations": {
-        "pl": {
-          "title": "Artystyczne czwartki na wystawie familijnej",
-          "description": "Otwarte warsztaty artystyczne na wystawie familijnej – można dołączyć w dowolnym momencie trwania wydarzenia. Uczestnicy razem z artystami eksperymentują z dźwiękiem, zapachem i światłem, współtworząc przestrzeń wystawy i szukając odpowiedzi na pytanie, co sprawia, że dom staje się bezpiecznym i przyjaznym miejscem."
-        },
-        "en": {
-          "title": "Artistic Thursdays at the Family Exhibition",
-          "description": "Open artistic workshops at the family exhibition – you can join at any time during the event. Participants, along with artists, experiment with sound, scent, and light, co-creating the exhibition space and seeking answers to the question of what makes a home a safe and welcoming place."
-        },
-        "uk": {
-          "title": "Художні четверги на сімейній виставці",
-          "description": "Відкриті художні майстерні на сімейній виставці – можна приєднатися в будь-який момент під час події. Учасники разом з художниками експериментують зі звуком, запахом і світлом, спільно створюючи простір виставки та шукаючи відповіді на питання, що робить дім безпечним і дружнім місцем."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-07-31T07:17:07.926931+00:00"
-    },
-    "tw-rcze-czwartki-na-wystawie-sta-ej-2026-08-20T11:00:00+02:00": {
-      "title": "Twórcze czwartki na wystawie stałej",
-      "date": "2026-08-20T11:00:00+02:00",
-      "end_date": "2026-08-20T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Podczas familijnych warsztatów na wystawie stałej przyjrzymy się strojom z różnych społeczności i stworzymy własne mini-stroje z materiałów z recyklingu.",
-      "url": "https://ethnomuseum.pl/wydarzenia-lista/tworcze-czwartki-na-wystawie-stalej-8/",
-      "source": "ethnomuseum.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Educational",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Państwowe Muzeum Etnograficzne   · ul. Kredytowa 1",
-        "district": "Śródmieście"
-      },
-      "image": "https://ethnomuseum.pl/wp-content/uploads/2026/06/PME_8827_Walczak_1-www-1024x683.jpg",
-      "scrapped_url": "https://ethnomuseum.pl/wydarzenia-lista/tworcze-czwartki-na-wystawie-stalej-8/",
-      "scrapped_timestamp": "2026-07-31T07:13:20.271293+00:00",
-      "translations": {
-        "pl": {
-          "title": "Twórcze czwartki na wystawie stałej",
-          "description": "Podczas familijnych warsztatów na wystawie stałej przyjrzymy się strojom z różnych społeczności i stworzymy własne mini-stroje z materiałów z recyklingu."
-        },
-        "en": {
-          "title": "Creative Thursdays at the Permanent Exhibition",
-          "description": "During family workshops at the permanent exhibition, we will take a look at costumes from various communities and create our own mini-costumes from recycled materials."
-        },
-        "uk": {
-          "title": "Творчі четверги на постійній виставці",
-          "description": "Під час сімейних майстер-класів на постійній виставці ми розглянемо костюми з різних спільнот і створимо власні міні-костюми з матеріалів з переробки."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-07-31T07:17:07.926954+00:00"
-    },
-    "nawzajem-mini-wysypisko-mieci-2026-08-20T12:30:00+02:00": {
-      "title": "NAWZAJEM! - Mini Wysypisko Śmieci",
-      "date": "2026-08-20T12:30:00+02:00",
-      "end_date": "2026-08-20T15:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty\" przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej\", wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie\" i jest finansowany ze środków m.st. Warszawy.",
-      "url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-mini-wysypisko-smieci#20-08",
-      "source": "zoliborskidomkultury.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 5,
-        "max": 6
-      },
-      "location": {
-        "name": "Centrum Lokalne Żoliborz   · ul. Ludwika Rydygiera 6b",
-        "district": "Żoliborz"
-      },
-      "image": "https://api.zdk.teapp.pl/uploads/2026-07/images/1783524266142_kto-w-kompoacie-piszczy-10.jpg",
-      "scrapped_url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-mini-wysypisko-smieci#20-08",
-      "scrapped_timestamp": "2026-07-31T07:13:22.607955+00:00",
-      "translations": {
-        "pl": {
-          "title": "NAWZAJEM! - Mini Wysypisko Śmieci",
-          "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty\" przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej\", wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie\" i jest finansowany ze środków m.st. Warszawy."
-        },
-        "en": {
-          "title": "TOGETHER! - Mini Trash Dump",
-          "description": "TOGETHER! is a project promoting ecological attitudes by developing the idea of a circular economy and second-hand usage among residents. We want to show that items do not have to become waste immediately – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. It is a space where we 'rescue items' from being thrown away, but we also build something more – we learn cooperation, knowledge exchange, and mutual support. One could say that in this process, we repair not only items but also relationships. The project is implemented as part of the 'Environmental Education Fund', a joint initiative of the Bureau of Air Protection and Climate Policy and the Old Town Cultural Center. The project also aims to achieve the educational goals of Green."
-        },
-        "uk": {
-          "title": "НАВЗАЄМ! - Міні Сміттєзвалище",
-          "description": "НАВЗАЄМ! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами – їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому ми «рятуємо предмети» від викидання, але також будуємо щось більше – навчаємося співпраці, обміну знаннями та взаємної підтримки. Можна сказати, що в цьому процесі ми ремонтуємо не лише предмети, але й стосунки. Проект реалізується в рамках «Фонду Екологічної Освіти», спільного підприємства Бюро Охорони Повітря та Політики Клімату та Староміського Будинку Культури. Проект також реалізує освітні цілі Зеленого"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Żoliborz",
-      "updated_at": "2026-07-31T07:17:07.926976+00:00"
-    },
-    "superfutrzak-i-z-o-liwa-wiewi-rka-letnie-kino-dla-dzieci-2026-08-20T17:00:00+02:00": {
-      "title": "Superfutrzak i złośliwa wiewiórka – letnie kino dla dzieci",
-      "date": "2026-08-20T17:00:00+02:00",
-      "end_date": "2026-08-20T00:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Dubbing polski, czas trwania: 90 minut.",
-      "url": "https://www.sdk.waw.pl/wydarzenia/rodzaj-wydarzenia/kino/superfutrzak-i-zlosliwa-wiewiorka-letnie-kino-dla-dzieci",
-      "source": "sdk.waw.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "Służewski Dom Kultury , Sala widowiskowa",
-        "district": "Mokotów"
-      },
-      "image": "https://www.sdk.waw.pl/images/wydarzenia/06-2026/2007-wiewior-ot.png",
-      "scrapped_url": "https://www.sdk.waw.pl/wydarzenia/rodzaj-wydarzenia/kino/superfutrzak-i-zlosliwa-wiewiorka-letnie-kino-dla-dzieci",
-      "scrapped_timestamp": "2026-07-31T07:13:29.559471+00:00",
-      "category": "Cinema",
-      "translations": {
-        "pl": {
-          "title": "Superfutrzak i złośliwa wiewiórka – letnie kino dla dzieci",
-          "description": "Dubbing polski, czas trwania: 90 minut."
-        },
-        "en": {
-          "title": "Superfurry and the Mischievous Squirrel – Summer Cinema for Kids",
-          "description": "Polish dubbing, duration: 90 minutes."
-        },
-        "uk": {
-          "title": "Суперфутрак і зла вівсянка – літнє кіно для дітей",
-          "description": "Дубляж польською, тривалість: 90 хвилин."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Mokotów",
-      "updated_at": "2026-07-31T07:17:07.927003+00:00"
-    },
-    "miecio-eko-baja-halo-lato-2026-08-20T18:00:00+02:00": {
-      "title": "Śmiecio Eko baja (HALO LATO!)",
-      "date": "2026-08-20T18:00:00+02:00",
-      "end_date": "2026-08-20T00:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W ramach cyklu HALO LATO! zapraszamy na bezpłatne wakacyjne spektakle i koncerty dla dzieci. Czeka na Was mnóstwo muzyki, zabawy i wyjątkowych atrakcji. Wstęp wolny.",
-      "url": "https://domkulturywesola.net/wydarzenie/wakacyjne-spektakle-i-koncerty-dla-dzieci/#20-08",
-      "source": "domkulturywesola.net",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Theater",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Ośrodek Kultury w Dzielnicy Wesoła , ODT Zielona  · ul. Wilanowska 3",
-        "district": "Wesoła"
-      },
-      "image": "https://domkulturywesola.net/wp-content/uploads/2026/05/POGODNA-sekcje-plakaty21.png",
-      "scrapped_url": "https://domkulturywesola.net/wydarzenie/wakacyjne-spektakle-i-koncerty-dla-dzieci/#20-08",
-      "scrapped_timestamp": "2026-07-31T07:13:32.373002+00:00",
-      "translations": {
-        "pl": {
-          "title": "Śmiecio Eko baja (HALO LATO!)",
-          "description": "W ramach cyklu HALO LATO! zapraszamy na bezpłatne wakacyjne spektakle i koncerty dla dzieci. Czeka na Was mnóstwo muzyki, zabawy i wyjątkowych atrakcji. Wstęp wolny."
-        },
-        "en": {
-          "title": "Eco Trash Tale (HELLO SUMMER!)",
-          "description": "As part of the HELLO SUMMER! series, we invite you to free summer performances and concerts for children. A lot of music, fun, and unique attractions await you. Free admission."
-        },
-        "uk": {
-          "title": "Сміттєво Еко байка (ХАЛО ЛІТО!)",
-          "description": "В рамках циклу ХАЛО ЛІТО! запрошуємо на безкоштовні літні спектаклі та концерти для дітей. Чекає на вас безліч музики, розваг та унікальних атракцій. Вхід вільний."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wesoła",
-      "updated_at": "2026-07-31T07:17:07.927025+00:00"
-    },
-    "rembertowskie-kino-pod-gwiazdami-2026-szcz-cie-miko-ajka-film-familijny-2026-08-20T20:30:00+02:00": {
-      "title": "Rembertowskie Kino Pod Gwiazdami 2026: „Szczęście Mikołajka\" – film familijny",
-      "date": "2026-08-20T20:30:00+02:00",
-      "end_date": "2026-08-20T22:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Każda ich przygoda wywołuje istne tsunami w szkole lub w domu, a kłótnia urasta do rozmiarów bitwy pod Waterloo. Nie sposób ich jednak nie kochać, bo wszystko czego dotkną zamieniają w radość i śmiech. Dzieje się to oczywiście za sprawą samego Mikołajka, który ma dryg do przygody i niekończącą się ciekawość. To właśnie ona pewnego dnia każe mu zakraść się do pracowni swoich twórców Renégo Goscinnego i Jean-Jacques'a Sempégo, którzy opowiedzą mu o swojej przyjaźni, dzieciństwie i o tym jak pewnego dnia go wymyślili.",
-      "url": "https://dkwygoda.waw.pl/event/rembertowskie-kino-pod-gwiazdami-2026-szczescie-mikolajka-film-familijny/",
-      "source": "dkwygoda.waw.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "Dom Kultury Wygoda , Parking Urzędu Dzielnicy Rembertów (plener)  · Al. Gen. A. Chruściela 28",
-        "district": "Rembertów"
-      },
-      "image": "https://dkwygoda.waw.pl/wp-content/uploads/2026/07/kino2026-1.png",
-      "scrapped_url": "https://dkwygoda.waw.pl/event/rembertowskie-kino-pod-gwiazdami-2026-szczescie-mikolajka-film-familijny/",
-      "scrapped_timestamp": "2026-07-31T07:13:35.271397+00:00",
-      "category": "Cinema",
-      "translations": {
-        "pl": {
-          "title": "Rembertowskie Kino Pod Gwiazdami 2026: „Szczęście Mikołajka\" – film familijny",
-          "description": "Każda ich przygoda wywołuje istne tsunami w szkole lub w domu, a kłótnia urasta do rozmiarów bitwy pod Waterloo. Nie sposób ich jednak nie kochać, bo wszystko czego dotkną zamieniają w radość i śmiech. Dzieje się to oczywiście za sprawą samego Mikołajka, który ma dryg do przygody i niekończącą się ciekawość. To właśnie ona pewnego dnia każe mu zakraść się do pracowni swoich twórców Renégo Goscinnego i Jean-Jacques'a Sempégo, którzy opowiedzą mu o swojej przyjaźni, dzieciństwie i o tym jak pewnego dnia go wymyślili."
-        },
-        "en": {
-          "title": "Rembertów Cinema Under the Stars 2026: 'The Happiness of Nicolas' – Family Film",
-          "description": "Every adventure they embark on creates a true tsunami at school or at home, and their arguments escalate to the scale of the Battle of Waterloo. However, it's impossible not to love them, as everything they touch turns into joy and laughter. This is, of course, thanks to Nicolas himself, who has a knack for adventure and an endless curiosity. One day, this curiosity leads him to sneak into the workshop of his creators, René Goscinny and Jean-Jacques Sempé, who will tell him about their friendship, childhood, and how they came to create him one day."
-        },
-        "uk": {
-          "title": "Рембертовське Кіно Під Зірками 2026: «Щастя Миколайка» – сімейний фільм",
-          "description": "Кожна їхня пригода викликає справжнє цунамі в школі або вдома, а суперечка перетворюється на битву під Ватерлоо. Проте їх неможливо не любити, адже все, до чого вони доторкаються, перетворюється на радість і сміх. Це, звичайно, завдяки самому Миколайку, який має хист до пригод і безкінечну цікавість. Саме вона одного дня змушує його прокрастися до майстерні своїх творців Рене Госінні та Жан-Жака Семпе, які розкажуть йому про свою дружбу, дитинство і про те, як одного дня його вигадали."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Rembertów",
-      "updated_at": "2026-07-31T07:17:07.927053+00:00"
     },
     "warsztaty-sensoryczne-konie-i-koniki-0-3-lat-2026-08-21T12:15:00+02:00": {
       "title": "Warsztaty sensoryczne: Konie i koniki (0-3 lat)",
@@ -8642,47 +8198,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-08-07T07:45:25.369069+00:00"
     },
-    "retro-kino-dla-dzieci-2026-08-20T12:00:00+02:00": {
-      "title": "Retro Kino dla Dzieci",
-      "date": "2026-08-20T12:00:00+02:00",
-      "end_date": "2026-08-20T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Po seansie tradycyjnie porozmawiamy o filmie i sprawdzimy, czy udało Wam się wychwycić wszystkie najciekawsze momenty!",
-      "url": "https://www.wck-wawer.pl/wck-murowanka/aktualnosci/archiwum-2026/retro-kino-dla-dzieci-2",
-      "source": "wck-wawer.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Wawerskie Centrum Kultury , Filia Murowanka  · ul. Płowiecka 77",
-        "district": "Wawer"
-      },
-      "image": "https://www.wck-wawer.pl/assets/cache/images/aktualnosci-murowanka/2026/Retro%20kino%20dla%20dzieci%20a3-684x-538.png",
-      "scrapped_url": "https://www.wck-wawer.pl/wck-murowanka/aktualnosci/archiwum-2026/retro-kino-dla-dzieci-2",
-      "scrapped_timestamp": "2026-08-07T07:42:05.773615+00:00",
-      "category": "Cinema",
-      "translations": {
-        "pl": {
-          "title": "Retro Kino dla Dzieci",
-          "description": "Po seansie tradycyjnie porozmawiamy o filmie i sprawdzimy, czy udało Wam się wychwycić wszystkie najciekawsze momenty!"
-        },
-        "en": {
-          "title": "Retro Cinema for Kids",
-          "description": "After the screening, we will traditionally discuss the film and see if you managed to catch all the most interesting moments!"
-        },
-        "uk": {
-          "title": "Ретро Кіно для Дітей",
-          "description": "Після сеансу традиційно поговоримо про фільм і перевіримо, чи вдалося вам вловити всі найцікавіші моменти!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wawer",
-      "updated_at": "2026-08-07T07:45:25.369187+00:00"
-    },
     "z-kulturk-na-trawie-wyspy-szcz-liwo-ci-2026-08-26T10:00:00+02:00": {
       "title": "Z kulturką na trawie | \"Wyspy Szczęśliwości\"",
       "date": "2026-08-26T10:00:00+02:00",
@@ -8977,47 +8492,6 @@
       },
       "district": "Praga-Południe",
       "updated_at": "2026-08-08T07:16:26.029743+00:00"
-    },
-    "wakacyjne-teatrzyki-chcecie-wierzy-czy-nie-chcecie-krasnoludki-s-na-wiecie-2026-08-20T18:00:00+02:00": {
-      "title": "Wakacyjne Teatrzyki: \"Chcecie wierzyć, czy nie chcecie, krasnoludki są na świecie\"",
-      "date": "2026-08-20T18:00:00+02:00",
-      "end_date": "2026-08-20T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wakacyjne Teatrzyki to cykl czwartkowych spektakli plenerowych dla dzieci. 20 sierpnia gościmy Teatr Gwitajcie ze spektaklem \"Chcecie wierzyć, czy nie chcecie, krasnoludki są na świecie\".",
-      "url": "https://ckia.waw.pl/?page_id=15064#20-08",
-      "source": "ckia.waw.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Theater",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "location": {
-        "name": "Centrum Kultury i Aktywności, Plener przy CKiA; w razie niesprzyjającej pogody sala widowiskowa · ul. Siarczana 6",
-        "district": "Targówek"
-      },
-      "image": "https://ckia.waw.pl/wp-content/uploads/2023/10/Warszawa-znak-RGB-instytucja_kultury-kolorowy-trans_tlo-small-300x170.png",
-      "scrapped_url": "https://ckia.waw.pl/?page_id=15064#20-08",
-      "scrapped_timestamp": "2026-08-09T07:18:33.261353+00:00",
-      "translations": {
-        "pl": {
-          "title": "Wakacyjne Teatrzyki: \"Chcecie wierzyć, czy nie chcecie, krasnoludki są na świecie\"",
-          "description": "Wakacyjne Teatrzyki to cykl czwartkowych spektakli plenerowych dla dzieci. 20 sierpnia gościmy Teatr Gwitajcie ze spektaklem \"Chcecie wierzyć, czy nie chcecie, krasnoludki są na świecie\"."
-        },
-        "en": {
-          "title": "Summer Theaters: \"Whether You Want to Believe or Not, Gnomes Are in the World\"",
-          "description": "Summer Theaters is a series of Thursday outdoor performances for children. On August 20, we will host the Gwitajcie Theater with the performance \"Whether You Want to Believe or Not, Gnomes Are in the World.\""
-        },
-        "uk": {
-          "title": "Літні театрики: \"Хочете вірити, чи не хочете, гноми є на світі\"",
-          "description": "Літні театрики - це цикл четвергових вуличних вистав для дітей. 20 серпня ми приймаємо Театр Гвітайте з виставою \"Хочете вірити, чи не хочете, гноми є на світі\"."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Targówek",
-      "updated_at": "2026-08-09T07:19:24.844359+00:00"
     },
     "gra-miejska-przystanek-pla-a-2026-08-22T11:00:00+02:00": {
       "title": "Gra miejska \"Przystanek Plaża\"",
@@ -9950,47 +9424,6 @@
       "district": "Wawer",
       "updated_at": "2026-08-11T07:39:13.927206+00:00"
     },
-    "warsztaty-roboty-ze-mieci-spontaniczny-teatr-robotyczny-oraz-spektakl-miecio-eko-baja-2026-08-20T15:00:00+02:00": {
-      "title": "Warsztaty “Roboty ze śmieci - spontaniczny teatr robotyczny” oraz spektakl \"Śmiecio Eko baja\"",
-      "date": "2026-08-20T15:00:00+02:00",
-      "end_date": "2026-08-20T15:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "20 sierpnia o godz. 18:00 zapraszamy na Spektakl familijny \"Śmiecio Eko baja\" Teatr La Lola (45 min.) \"Śmiecio Eko-baja\" Wesoła i pełna humoru opowieść o Szczurku Jurku, Musze Śmieciusze, Karaluchu i Gąsienicy, którzy żyją na... wysypisku śmieci. Ekologia? To nie ich bajka… A może jednak? Kto i dlaczego zdecyduje się zmienić swoje podejście do przyrody? Przekonajcie się sami – będzie śmiesznie, wzruszająco i bardzo ekologicznie! Spektakl familijny. Przed spektaklem w godz.15:00-18:00 zapraszamy dzieci na bezpłatne warsztaty “Roboty ze śmieci - spontaniczny teatr robotyczny” realizowane przez Fundację Działań Lokalnych Pobliże, projekt finansowany przez Dzielnicę Wesoła Wydarzenie odbędzie się na terenie zewnętrznym ODT „Zielona, ul. Wilanowska 3. Wstęp wolny.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1500.1786454979.webp",
-      "location": {
-        "name": "ul. Wilanowska3, Wesoła",
-        "district": "Wesoła"
-      },
-      "url": "https://www.facebook.com/events/1701458894392412",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1701458894392412",
-      "scrapped_timestamp": "2026-08-12T08:09:04.763761+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Warsztaty “Roboty ze śmieci - spontaniczny teatr robotyczny” oraz spektakl \"Śmiecio Eko baja\"",
-          "description": "20 sierpnia o godz. 18:00 zapraszamy na Spektakl familijny \"Śmiecio Eko baja\" Teatr La Lola (45 min.) \"Śmiecio Eko-baja\" Wesoła i pełna humoru opowieść o Szczurku Jurku, Musze Śmieciusze, Karaluchu i Gąsienicy, którzy żyją na... wysypisku śmieci. Ekologia? To nie ich bajka… A może jednak? Kto i dlaczego zdecyduje się zmienić swoje podejście do przyrody? Przekonajcie się sami – będzie śmiesznie, wzruszająco i bardzo ekologicznie! Spektakl familijny. Przed spektaklem w godz.15:00-18:00 zapraszamy dzieci na bezpłatne warsztaty “Roboty ze śmieci - spontaniczny teatr robotyczny” realizowane przez Fundację Działań Lokalnych Pobliże, projekt finansowany przez Dzielnicę Wesoła Wydarzenie odbędzie się na terenie zewnętrznym ODT „Zielona, ul. Wilanowska 3. Wstęp wolny."
-        },
-        "en": {
-          "title": "Workshops 'Robots from Trash - Spontaneous Robotic Theater' and the performance 'Trash Eco Tale'",
-          "description": "On August 20th at 6:00 PM, we invite you to the family performance 'Trash Eco Tale' by Teatr La Lola (45 min.). 'Trash Eco Tale' is a cheerful and humorous story about Rat Jurek, Fly Trashy, Cockroach, and Caterpillar, who live on... a garbage dump. Ecology? That's not their story... Or maybe it is? Who and why will decide to change their approach to nature? Find out for yourself – it will be funny, touching, and very ecological! Family performance. Before the show, from 3:00 PM to 6:00 PM, we invite children to free workshops 'Robots from Trash - Spontaneous Robotic Theater' conducted by the Local Actions Foundation Pobliże, a project funded by the Wesoła District. The event will take place in the outdoor area of ODT 'Zielona', ul. Wilanowska 3. Free admission."
-        },
-        "uk": {
-          "title": "Майстер-класи “Роботи з сміття - спонтанний робототехнічний театр” та спектакль \"Сміттєва Еко байка\"",
-          "description": "20 серпня о 18:00 запрошуємо на сімейний спектакль \"Сміттєва Еко байка\" Театр La Lola (45 хв.) \"Сміттєва Еко-байка\" Весела і повна гумору історія про Щурика Юрка, Муху Сміттюшу, Таракана і Гусеницю, які живуть на... сміттєзвалищі. Екологія? Це не їхня байка… А може все ж таки? Хто і чому вирішить змінити своє ставлення до природи? Переконайтеся самі – буде смішно, зворушливо і дуже екологічно! Сімейний спектакль. Перед спектаклем з 15:00 до 18:00 запрошуємо дітей на безкоштовні майстер-класи “Роботи з сміття - спонтанний робототехнічний театр”, які реалізуються Фондом Місцевих Дій Поблизу, проект фінансується Районом Весела. Подія відбудеться на зовнішній території ОДТ \"Зелена\", вул. Вілановська 3. Вхід вільний."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wesoła",
-      "updated_at": "2026-08-12T08:10:50.639607+00:00"
-    },
     "eko-sob-tki-warszawskie-zoo-2026-08-22T10:00:00+02:00": {
       "title": "Eko Sobótki - Warszawskie Zoo",
       "date": "2026-08-22T10:00:00+02:00",
@@ -10536,161 +9969,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-08-14T08:34:04.843746+00:00"
     },
-    "tw-rcze-czwartki-na-wystawie-sta-ej-warsztaty-familijne-2026-08-20T11:00:00+02:00": {
-      "title": "Twórcze czwartki na wystawie stałej / Warsztaty familijne",
-      "date": "2026-08-20T11:00:00+02:00",
-      "end_date": "2026-08-20T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Podczas familijnych warsztatów na wystawie stałej przyjrzymy się herbacie jako części codziennych rytuałów i wykonamy własne czarki do herbaty. Jakie znaczenia kryją herbata i naczynia herbaciane? Podczas familijnego spotkania na wystawie stałej „Afrykańskie wyprawy, azjatyckie drogi” przyjrzymy się obiektom związanym z herbatą, takim jak czarki i cegła herbaty. Odkryjemy, że herbata to nie tylko napój, ale także część codziennych rytuałów, pracy, podróży i spotkań między ludźmi. Towarzyszące jej naczynia często odzwierciedlają sposób jej przygotowania i podawania. Na początku osoby uczestniczące samodzielnie zwiedzą wystawę i przyjrzą się obiektom związanym z herbatą. Następnie przejdziemy do części plastycznej. Zainspirowani oglądanymi obiektami wykonamy własne czarki do herbaty. Wspólnie uformujemy naczynia, a następnie nadamy im indywidualny kształt i dekorację, tworząc osobiste interpretacje muzealnych obiektów.",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_972270691_original.jpg",
-      "location": {
-        "name": "Państwowe Muzeum Etnograficzne w Warszawie (Warszawa)",
-        "district": "Śródmieście"
-      },
-      "url": "https://warszawa.naszemiasto.pl/tworcze-czwartki-na-wystawie-stalej-warsztaty-familijne/kw/c5-2903687",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://warszawa.naszemiasto.pl/tworcze-czwartki-na-wystawie-stalej-warsztaty-familijne/kw/c5-2903687",
-      "scrapped_timestamp": "2026-08-14T08:31:58.046302+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Twórcze czwartki na wystawie stałej / Warsztaty familijne",
-          "description": "Podczas familijnych warsztatów na wystawie stałej przyjrzymy się herbacie jako części codziennych rytuałów i wykonamy własne czarki do herbaty. Jakie znaczenia kryją herbata i naczynia herbaciane? Podczas familijnego spotkania na wystawie stałej „Afrykańskie wyprawy, azjatyckie drogi” przyjrzymy się obiektom związanym z herbatą, takim jak czarki i cegła herbaty. Odkryjemy, że herbata to nie tylko napój, ale także część codziennych rytuałów, pracy, podróży i spotkań między ludźmi. Towarzyszące jej naczynia często odzwierciedlają sposób jej przygotowania i podawania. Na początku osoby uczestniczące samodzielnie zwiedzą wystawę i przyjrzą się obiektom związanym z herbatą. Następnie przejdziemy do części plastycznej. Zainspirowani oglądanymi obiektami wykonamy własne czarki do herbaty. Wspólnie uformujemy naczynia, a następnie nadamy im indywidualny kształt i dekorację, tworząc osobiste interpretacje muzealnych obiektów."
-        },
-        "en": {
-          "title": "Creative Thursdays at the Permanent Exhibition / Family Workshops",
-          "description": "During the family workshops at the permanent exhibition, we will explore tea as part of daily rituals and create our own tea bowls. What meanings do tea and tea vessels hold? In this family gathering at the permanent exhibition 'African Journeys, Asian Paths', we will look at objects related to tea, such as bowls and tea bricks. We will discover that tea is not just a beverage, but also a part of daily rituals, work, travel, and gatherings among people. The accompanying vessels often reflect the way tea is prepared and served. At the beginning, participants will independently explore the exhibition and examine the objects related to tea. Then we will move on to the artistic part. Inspired by the objects we have seen, we will create our own tea bowls together."
-        },
-        "uk": {
-          "title": "Творчі четверги на постійній виставці / Сімейні майстер-класи",
-          "description": "Під час сімейних майстер-класів на постійній виставці ми розглянемо чай як частину повсякденних ритуалів і виготовимо власні чашки для чаю. Які значення приховує чай та чайний посуд? Під час сімейної зустрічі на постійній виставці «Африканські подорожі, азійські шляхи» ми розглянемо об'єкти, пов'язані з чаєм, такі як чашки та брикет чаю. Відкриємо, що чай — це не лише напій, а й частина повсякденних ритуалів, праці, подорожей і зустрічей між людьми. Супутні йому посудини часто відображають спосіб його приготування та подавання. На початку учасники самостійно ознайомляться з виставкою та розглянуть об'єкти, пов'язані з чаєм. Потім ми перейдемо до творчої частини. Надихнувшись побаченими об'єктами, ми виготовимо власні чашки для чаю."
-        }
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-14T08:34:04.843767+00:00"
-    },
-    "warsztaty-roboty-ze-mieci-spontaniczny-teatr-robotyczny-oraz-spektakl-familijny-miecio-eko-baja-2026-08-20T15:00:00+02:00": {
-      "title": "Warsztaty  “Roboty ze śmieci-spontaniczny teatr robotyczny” oraz Spektakl familijny \"Śmiecio Eko baja\"",
-      "date": "2026-08-20T15:00:00+02:00",
-      "end_date": "2026-08-20T15:00:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://czasdzieci.pl/warszawa/wydarzenia/id,140886bdf.html",
-      "description": "20 sierpnia o godz. 18:00 zapraszamy na Spektakl familijny \"Śmiecio Eko baja\" Teatr La Lola (45 min.) \"Śmiecio Eko-baja\" Wesoła i pełna humoru opowieść o Szczurku Jurku, Musze Śmieciusze, Karaluchu i Gąsienicy, którzy żyją na... wysypisku śmieci. Ekologia? To nie ich bajka… A może jednak? Kto i dlaczego zdecyduje się zmienić swoje podejście do przyrody? Przekonajcie się sami – będzie śmiesznie, wzruszająco i bardzo ekologicznie! Spektakl familijny. Przed spektaklem w godz.15:00-18:00 zapraszamy dzieci na bezpłatne warsztaty “Roboty ze śmieci-spontaniczny teatr robotyczny” realizowane przez Fundację Działań Lokalnych Pobliże, projekt finansowany przez Dzielnicę Wesoła Wydarzenie odbędzie się na terenie zewnętrznym ODT „Zielona, ul. Wilanowska 3. Wstęp wolny.",
-      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/229-2-401-4016a7d9abd7822f1786616509i-insert-i.jpg",
-      "source": "czasdzieci.pl",
-      "location": {
-        "name": "Ośrodek Działań Twórczych \"Zielona\" ul. Wilanowska 3, 05-075 Warszawa Wesoła",
-        "district": "Wawer"
-      },
-      "age_range": {
-        "min": 1,
-        "max": 14
-      },
-      "scrapped_url": "https://czasdzieci.pl/warszawa/wydarzenia/id,140886bdf.html",
-      "scrapped_timestamp": "2026-08-14T08:32:14.981428+00:00",
-      "category": "Theater",
-      "translations": {
-        "pl": {
-          "title": "Warsztaty  “Roboty ze śmieci-spontaniczny teatr robotyczny” oraz Spektakl familijny \"Śmiecio Eko baja\"",
-          "description": "20 sierpnia o godz. 18:00 zapraszamy na Spektakl familijny \"Śmiecio Eko baja\" Teatr La Lola (45 min.) \"Śmiecio Eko-baja\" Wesoła i pełna humoru opowieść o Szczurku Jurku, Musze Śmieciusze, Karaluchu i Gąsienicy, którzy żyją na... wysypisku śmieci. Ekologia? To nie ich bajka… A może jednak? Kto i dlaczego zdecyduje się zmienić swoje podejście do przyrody? Przekonajcie się sami – będzie śmiesznie, wzruszająco i bardzo ekologicznie! Spektakl familijny. Przed spektaklem w godz.15:00-18:00 zapraszamy dzieci na bezpłatne warsztaty “Roboty ze śmieci-spontaniczny teatr robotyczny” realizowane przez Fundację Działań Lokalnych Pobliże, projekt finansowany przez Dzielnicę Wesoła Wydarzenie odbędzie się na terenie zewnętrznym ODT „Zielona, ul. Wilanowska 3. Wstęp wolny."
-        },
-        "en": {
-          "title": "Workshops 'Robots from Trash - Spontaneous Robotic Theater' and Family Show 'Trash Eco Tale'",
-          "description": "On August 20th at 6:00 PM, we invite you to the family show 'Trash Eco Tale' by Teatr La Lola (45 min.). 'Trash Eco Tale' is a cheerful and humorous story about Rat Jurek, Fly Smieciuszka, Cockroach, and Caterpillar, who live on... a garbage dump. Ecology? That's not their story... Or maybe it is? Who and why will decide to change their approach to nature? Find out for yourself – it will be funny, touching, and very ecological! Family show. Before the performance, from 3:00 PM to 6:00 PM, we invite children to free workshops 'Robots from Trash - Spontaneous Robotic Theater' conducted by the Local Actions Foundation Pobliże, a project funded by the Wesoła District. The event will take place in the outdoor area of ODT 'Zielona', ul. Wilanowska 3. Free admission."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wawer",
-      "updated_at": "2026-08-14T08:34:04.843815+00:00"
-    },
-    "bezp-atne-zaj-cia-sportowe-z-badmintona-dla-dzieci-i-m-odzie-y-2026-08-20T10:00:00+02:00": {
-      "title": "Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży",
-      "date": "2026-08-20T10:00:00+02:00",
-      "end_date": "2026-08-20T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Prze całe wakacje OSiR Mokotów oraz Zarząd MSM „Energetyka” wraz z Administracją i Radą Osiedla Sielce zapraszają na „Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży” na kortach przy ul. Czerniakowskiej 28A. Zajęcia odbywać się będą w każdy wtorek i czwartek od 2 lipca 2026 r. do 27 sierpnia 2026 r. w godzinach 10:00-12:00. Zajęcia są całkowicie bezpłatne i będą prowadzone przez wykwalifikowanych instruktorów badmintona. Zapraszamy!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1782740503.webp",
-      "location": {
-        "name": "Czerniakowskia 28A",
-        "district": "Mokotów"
-      },
-      "url": "https://waw4free.pl/wydarzenie-154898-bezplatne-zajecia-sportowe-z-badmintona-dla-dzieci-i-mlodziezy",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://waw4free.pl/wydarzenie-154898-bezplatne-zajecia-sportowe-z-badmintona-dla-dzieci-i-mlodziezy",
-      "scrapped_timestamp": "2026-08-14T08:32:37.352693+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 5,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży",
-          "description": "Prze całe wakacje OSiR Mokotów oraz Zarząd MSM „Energetyka” wraz z Administracją i Radą Osiedla Sielce zapraszają na „Bezpłatne zajęcia sportowe z badmintona dla dzieci i młodzieży” na kortach przy ul. Czerniakowskiej 28A. Zajęcia odbywać się będą w każdy wtorek i czwartek od 2 lipca 2026 r. do 27 sierpnia 2026 r. w godzinach 10:00-12:00. Zajęcia są całkowicie bezpłatne i będą prowadzone przez wykwalifikowanych instruktorów badmintona. Zapraszamy!"
-        },
-        "en": {
-          "title": "Free Badminton Sports Classes for Children and Youth",
-          "description": "Throughout the summer, OSiR Mokotów and the Management of MSM 'Energetyka' along with the Administration and the Council of the Sielce District invite you to 'Free Badminton Sports Classes for Children and Youth' at the courts located at 28A Czerniakowska Street. Classes will take place every Tuesday and Thursday from July 2, 2026, to August 27, 2026, from 10:00 AM to 12:00 PM. The classes are completely free and will be conducted by qualified badminton instructors. We invite you!"
-        },
-        "uk": {
-          "title": "Безкоштовні спортивні заняття з бадмінтону для дітей та молоді",
-          "description": "Протягом всього літа OSiR Mokotów та Управління MSM «Енергетика» разом з Адміністрацією та Радою Оселення Сілєць запрошують на «Безкоштовні спортивні заняття з бадмінтону для дітей та молоді» на кортах біля вул. Черняковської 28А. Заняття відбуватимуться кожного вівторка та четверга з 2 липня 2026 року до 27 серпня 2026 року з 10:00 до 12:00. Заняття є абсолютно безкоштовними і будуть проводитися кваліфікованими інструкторами з бадмінтону. Запрошуємо!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Mokotów",
-      "updated_at": "2026-08-14T08:34:04.843881+00:00"
-    },
-    "ultimate-frisbee-dla-pocz-tkuj-cych-2026-08-20T17:30:00+02:00": {
-      "title": "Ultimate frisbee dla początkujących",
-      "date": "2026-08-20T17:30:00+02:00",
-      "end_date": "2026-08-20T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia Ultimate frisbee dla początkujących, na których nauczycie się rzucać frisbee. Od kwietnia do października spotykamy się na Stadionie Podskarbińska na Pradze: ✅ Każdy czwartek w godz. 17:30 - 19:00 Wstęp wolny. Zajęcia są otwarte i bezpłatne dla każdego. Zapraszamy dzieci, młodzież szkolną, całe rodziny i dorosłych. ✅ Zapisy na zajęcia >> kontakt@skythis.pl Informacje dodatkowe: +48 793 157 177 Co czeka Was na zajęciach? 👉 nauka rzucania frisbee dla początkujących i doskonalenie techniki rzutu 👉 gry i zabawy z dyskiem integrujące uczestników 👉 mecze ultimate frisbee ✅ Zajęcia Ultimate frisbee dla początkujących w ramach projektu \"Aktywny Warszawiak\" współfinansuje Miasto Stołeczne Warszawa",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1778674441.webp",
-      "location": {
-        "name": "Stadion Podskarbińska OSiR Praga-Południe, ul. Chrzanowskiego 23",
-        "district": "Praga-Południe"
-      },
-      "url": "https://www.facebook.com/events/1265218758450626/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1265218758450626/",
-      "scrapped_timestamp": "2026-08-14T08:32:44.628818+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Ultimate frisbee dla początkujących",
-          "description": "Zapraszamy na zajęcia Ultimate frisbee dla początkujących, na których nauczycie się rzucać frisbee. Od kwietnia do października spotykamy się na Stadionie Podskarbińska na Pradze: ✅ Każdy czwartek w godz. 17:30 - 19:00 Wstęp wolny. Zajęcia są otwarte i bezpłatne dla każdego. Zapraszamy dzieci, młodzież szkolną, całe rodziny i dorosłych. ✅ Zapisy na zajęcia >> kontakt@skythis.pl Informacje dodatkowe: +48 793 157 177 Co czeka Was na zajęciach? 👉 nauka rzucania frisbee dla początkujących i doskonalenie techniki rzutu 👉 gry i zabawy z dyskiem integrujące uczestników 👉 mecze ultimate frisbee ✅ Zajęcia Ultimate frisbee dla początkujących w ramach projektu \"Aktywny Warszawiak\" współfinansuje Miasto Stołeczne Warszawa"
-        },
-        "en": {
-          "title": "Ultimate Frisbee for Beginners",
-          "description": "We invite you to Ultimate Frisbee classes for beginners, where you will learn how to throw a frisbee. From April to October, we meet at the Podskarbińska Stadium in Praga: ✅ Every Thursday from 5:30 PM to 7:00 PM. Free entry. The classes are open and free for everyone. We welcome children, school youth, entire families, and adults. ✅ Registration for classes >> kontakt@skythis.pl Additional information: +48 793 157 177 What awaits you in the classes? 👉 Learning to throw a frisbee for beginners and improving throwing technique 👉 Games and activities with the disc to integrate participants 👉 Ultimate frisbee matches ✅ The Ultimate Frisbee for Beginners classes are part of the 'Active Varsovian' project co-financed by the Capital City of Warsaw."
-        },
-        "uk": {
-          "title": "Ультимейт фрісбі для початківців",
-          "description": "Запрошуємо на заняття Ультимейт фрісбі для початківців, на яких ви навчитеся кидати фрісбі. Від квітня до жовтня зустрічаємося на Стадіоні Подскарбі́нська на Празі: ✅ Щочетверга з 17:30 до 19:00 Вхід вільний. Заняття відкриті та безкоштовні для всіх. Запрошуємо дітей, школярів, цілі сім'ї та дорослих. ✅ Запис на заняття >> kontakt@skythis.pl Додаткова інформація: +48 793 157 177 Що чекає вас на заняттях? 👉 навчання кидання фрісбі для початківців та вдосконалення техніки кидка 👉 ігри та розваги з диском, що інтегрують учасників 👉 матчі ультимейт фрісбі ✅ Заняття Ультимейт фрісбі для початківців в рамках проекту \"Активний Варшав'янин\" співфінансує Місто Столичне Варшава"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-08-14T08:34:04.843898+00:00"
-    },
     "hado-sport-przysz-o-ci-w-galerii-p-nocnej-2026-08-21T10:00:00+02:00": {
       "title": "Hado - sport przyszłości w Galerii Północnej",
       "date": "2026-08-21T10:00:00+02:00",
@@ -11177,47 +10455,6 @@
       "district": "Wola",
       "updated_at": "2026-08-17T07:40:38.393116+00:00"
     },
-    "park-akcji-burza-i-kopiec-powstania-warszawskiego-rodzinny-spacer-z-przewodnikiem-2026-08-20T18:00:00+02:00": {
-      "title": "Park Akcji \"Burza\" i Kopiec Powstania Warszawskiego - rodzinny spacer z przewodnikiem",
-      "date": "2026-08-20T18:00:00+02:00",
-      "end_date": "2026-08-20T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W czwartkowe popołudnie zapraszam rodziny z dziećmi na spacer z przewodnikiem po kolejnej zielonej perełce na mapie stolicy – Parku Akcji \"Burza\" i Kopcu Powstania Warszawskiego. Chcę stworzyć Wam okazję by eksplorować prawie 10ha tego ciekawego obszaru. Podczas naszego spaceru zobaczymy, jak wzniesienie usypane z gruzów zniszczonej stolicy zmieniło się w niezwykły, pełen pamięci i zieleni nowoczesny park miejski. Co czeka na nas podczas wydarzenia? 👉 Odkrywanie tajemnic przeszłości: Zobaczymy, jak żywa natura przeplata się z historią Powstania Warszawskiego i wydobytymi na światło dzienne, autentycznymi fragmentami dawnych kamienic ułożonymi w specjalnych koszach. 👉 Wędrówka na szczyt: Przejdziemy się po malowniczych, nowo wytyczonych ścieżkach i wąwozach, by dotrzeć na sam szczyt Kopca i podziwiać z platformy widokowej niezwykłą panoramę Warszawy. 👉 Czas na zabawę: Przetestujemy z dziećmi fantastyczny, wielopoziomowy plac zabaw wkomponowany w zbocze wzniesienia oraz ścianki wspinaczkowe. 👉 Zielone ciekawostki: Poznamy sekrety dzikiej przyrody, która przez lata opanowała to miejsce, i dowiemy się, jak dawne ruiny stały się bezpiecznym domem dla wielu gatunków roślin i zwierząt. Dla kogo? Wydarzenie jest przeznaczone dla rodzin z dziećmi w każdym wieku, ale także dla miłośników historii, przyrody oraz każdego, kto chce aktywnie spędzić czas, odkrywając zrewitalizowane, pełne znaczeń miejsca na mapie Warszawy. Dostosuję język i opowieści tak, by zaciekawić zarówno najmłodszych słuchaczy, jak i ich rodziców. Zabierzcie ze sobą wygodne buty (przydadzą się podczas wspinaczki na szczyt!), uśmiech i chęć do odkrywania! Przyjdźcie i przekonajcie się, jak wspaniale można spędzić czas w tym wyjątkowym parku, gdzie historia dosłownie łączy się z naturą. Start: Pomnik Batalionów Chłopskich (Czerniakowska róg Alei Polski Walczącej) Kiedy? 20 sierpnia 2026 Godzina? 18:00 Spacer jest bezpłatny, ale jeśli spodoba się Wam co zobaczycie i usłyszycie, to będzie mi bardzo miło jeśli zechcecie zostawić napiwek. Do zobaczenia!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1800.1786947832.webp",
-      "location": {
-        "name": "ul. Czerniakowska/al. Polski Walczącej, pomnik Batalionów Chłopskich",
-        "district": "Mokotów"
-      },
-      "url": "https://fb.me/e/d8l4h0ovr",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://fb.me/e/d8l4h0ovr",
-      "scrapped_timestamp": "2026-08-17T07:39:52.062707+00:00",
-      "category": "Outdoor Adventure",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Park Akcji \"Burza\" i Kopiec Powstania Warszawskiego - rodzinny spacer z przewodnikiem",
-          "description": "W czwartkowe popołudnie zapraszam rodziny z dziećmi na spacer z przewodnikiem po kolejnej zielonej perełce na mapie stolicy – Parku Akcji \"Burza\" i Kopcu Powstania Warszawskiego. Chcę stworzyć Wam okazję by eksplorować prawie 10ha tego ciekawego obszaru. Podczas naszego spaceru zobaczymy, jak wzniesienie usypane z gruzów zniszczonej stolicy zmieniło się w niezwykły, pełen pamięci i zieleni nowoczesny park miejski. Co czeka na nas podczas wydarzenia? 👉 Odkrywanie tajemnic przeszłości: Zobaczymy, jak żywa natura przeplata się z historią Powstania Warszawskiego i wydobytymi na światło dzienne, autentycznymi fragmentami dawnych kamienic ułożonymi w specjalnych koszach. 👉 Wędrówka na szczyt: Przejdziemy się po malowniczych, nowo wytyczonych ścieżkach i wąwozach, by dotrzeć na sam szczyt Kopca i podziwiać z platformy widokowej niezwykłą panoramę Warszawy. 👉 Czas na zabawę: Przetestujemy z dziećmi fantastyczny, wielopoziomowy plac zabaw wkomponowany w zbocze wzniesienia oraz ścianki wspinaczkowe. 👉 Zielone ciekawostki: Poznamy sekrety dzikiej przyrody, która przez lata opanowała to miejsce, i dowiemy się, jak dawne ruiny stały się bezpiecznym domem dla wielu gatunków roślin i zwierząt. Dla kogo? Wydarzenie jest przeznaczone dla rodzin z dziećmi w każdym wieku, ale także dla miłośników historii, przyrody oraz każdego, kto chce aktywnie spędzić czas, odkrywając zrewitalizowane, pełne znaczeń miejsca na mapie Warszawy. Dostosuję język i opowieści tak, by zaciekawić zarówno najmłodszych słuchaczy, jak i ich rodziców. Zabierzcie ze sobą wygodne buty (przydadzą się podczas wspinaczki na szczyt!), uśmiech i chęć do odkrywania! Przyjdźcie i przekonajcie się, jak wspaniale można spędzić czas w tym wyjątkowym parku, gdzie historia dosłownie łączy się z naturą. Start: Pomnik Batalionów Chłopskich (Czerniakowska róg Alei Polski Walczącej) Kiedy? 20 sierpnia 2026 Godzina? 18:00 Spacer jest bezpłatny, ale jeśli spodoba się Wam co zobaczycie i usłyszycie, to będzie mi bardzo miło jeśli zechcecie zostawić napiwek. Do zobaczenia!"
-        },
-        "en": {
-          "title": "Action 'Burza' Park and Warsaw Uprising Mound - Family Guided Walk",
-          "description": "On Thursday afternoon, I invite families with children to a guided walk through another green gem on the map of the capital – Action 'Burza' Park and the Warsaw Uprising Mound. I want to create an opportunity for you to explore nearly 10 hectares of this interesting area. During our walk, we will see how the mound made from the rubble of the destroyed capital has transformed into an extraordinary, memory-filled, and green modern urban park. What awaits us during the event? 👉 Discovering the secrets of the past: We will see how vibrant nature intertwines with the history of the Warsaw Uprising and the authentic fragments of former tenement houses brought to light, arranged in special baskets. 👉 Hiking to the top: We will stroll along picturesque, newly marked paths and ravines to reach the very top of the Mound."
-        },
-        "uk": {
-          "title": "Парк Акції \"Буря\" та Курган Повстання Варшавського - сімейна прогулянка з гідом",
-          "description": "У четвер ввечері запрошую родини з дітьми на прогулянку з гідом по ще одній зеленій перлині на карті столиці – Парку Акції \"Буря\" та Кургану Повстання Варшавського. Хочу створити вам можливість дослідити майже 10 га цієї цікавої території. Під час нашої прогулянки ми побачимо, як насип, утворений з уламків знищеної столиці, перетворився на надзвичайний, сповнений пам'яті та зелені сучасний міський парк. Що чекає на нас під час події? 👉 Відкриття таємниць минулого: Ми побачимо, як жива природа переплітається з історією Повстання Варшавського та виявленими на світло автентичними фрагментами давніх будинків, укладеними в спеціальних кошиках. 👉 Прогулянка на вершину: Ми пройдемося мальовничими, новообраними стежками та ярами, щоб дістатися на саму вершину Кургану."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Mokotów",
-      "updated_at": "2026-08-17T07:40:38.393165+00:00"
-    },
     "piknik-rodzinne-zamieszanie-na-bielanach-2026-08-23T11:00:00+02:00": {
       "title": "PIKNIK RODZINNE ZAMIESZANIE NA BIELANACH",
       "date": "2026-08-23T11:00:00+02:00",
@@ -11258,87 +10495,6 @@
       },
       "district": "Bielany",
       "updated_at": "2026-08-17T07:40:38.393183+00:00"
-    },
-    "lato-w-wytw-rni-2026-08-20T10:30:00+02:00": {
-      "title": "Lato w Wytwórni",
-      "date": "2026-08-20T10:30:00+02:00",
-      "end_date": "2026-08-20T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na wakacyjne warsztaty w Wytwórni! To doskonała okazja, aby twórczo spędzić czas, nauczyć się nowych umiejętności i stworzyć coś wyjątkowego. W kameralnej atmosferze, pod okiem doświadczonych prowadzących, poznasz ciekawe techniki i w sposób kreatywny wykorzystasz materiały z odzysku. Do wyboru w najbliższych tygodniach są zajęcia, na których można: uszyć kosmetyczkę, torbę lub workoplecak zbudować lampkę stworzyć obraz techniką fotografii słonecznej skonstruować kolorowy kalejdoskop Brzmi skomplikowanie? Wszystkiego Cię nauczymy! Prowadzący zajęcia wyjaśnią jak osiągnąć pożądany efekt i wesprą w procesie twórczym. To, co stworzysz, zabierzesz ze sobą do domu! Przyjdź sam(a), z partnerem/partnerką lub dzieckiem – spędźcie kreatywnie czas i stwórzcie coś własnymi rękami! Więcej informacji o zajęciach Informacje praktyczne Dla kogo: osoby w wieku 10+, 13+, 16+ w zależności od zajęć Terminy: wybrane czwartki, piątki, soboty i niedziele lipca i sierpnia; do wyboru zajęcia poranne (10:30–13:00) lub popołudniowe (14:00–16:30) Czas trwania: 2,5 godziny Liczba uczestników: maks. 16 osób Miejsce: Wytwórnia (Pracownia Przewrotu Kopernikańskiego), ul. Wybrzeże Kościuszkowskie 18, obok budynku głównego Centrum Nauki Kopernik, Warszawa Cena: 40 zł/os. Bilety",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F6e60e577-f6b9-4cd4-bb27-b1048d3eaca7.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/72c569e1-7ea9-4c56-8360-bae43bf416d8",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Wybrzeże Kościuszkowskie 20, 00-390 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/72c569e1-7ea9-4c56-8360-bae43bf416d8",
-      "scrapped_timestamp": "2026-08-17T07:40:08.710480+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 10,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Lato w Wytwórni",
-          "description": "Zapraszamy na wakacyjne warsztaty w Wytwórni! To doskonała okazja, aby twórczo spędzić czas, nauczyć się nowych umiejętności i stworzyć coś wyjątkowego. W kameralnej atmosferze, pod okiem doświadczonych prowadzących, poznasz ciekawe techniki i w sposób kreatywny wykorzystasz materiały z odzysku. Do wyboru w najbliższych tygodniach są zajęcia, na których można: uszyć kosmetyczkę, torbę lub workoplecak zbudować lampkę stworzyć obraz techniką fotografii słonecznej skonstruować kolorowy kalejdoskop Brzmi skomplikowanie? Wszystkiego Cię nauczymy! Prowadzący zajęcia wyjaśnią jak osiągnąć pożądany efekt i wesprą w procesie twórczym. To, co stworzysz, zabierzesz ze sobą do domu! Przyjdź sam(a), z partnerem/partnerką lub dzieckiem – spędźcie kreatywnie czas i stwórzcie coś własnymi rękami! Więcej informacji o zajęciach Informacje praktyczne Dla kogo: osoby w wieku 10+, 13+, 16+ w zależności od zajęć Terminy: wybrane czwartki, piątki, soboty i niedziele lipca i sierpnia; do wyboru zajęcia poranne (10:30–13:00) lub popołudniowe (14:00–16:30) Czas trwania: 2,5 godziny Liczba uczestników: maks. 16 osób Miejsce: Wytwórnia (Pracownia Przewrotu Kopernikańskiego), ul. Wybrzeże Kościuszkowskie 18, obok budynku głównego Centrum Nauki Kopernik, Warszawa Cena: 40 zł/os. Bilety"
-        },
-        "en": {
-          "title": "Summer at the Factory",
-          "description": "We invite you to summer workshops at the Factory! This is a great opportunity to spend time creatively, learn new skills, and create something unique. In an intimate atmosphere, under the guidance of experienced instructors, you will discover interesting techniques and creatively use recycled materials. In the coming weeks, you can choose from classes where you can: sew a cosmetic bag, a bag or a backpack, build a lamp, create a picture using solar photography, construct a colorful kaleidoscope. Sounds complicated? We will teach you everything! The instructors will explain how to achieve the desired effect and support you in the creative process. What you create, you will take home with you! Come alone, with a partner, or with a child – spend creative time and make something with your own hands!"
-        },
-        "uk": {
-          "title": "Літо у Витворні",
-          "description": "Запрошуємо на літні майстер-класи у Витворні! Це чудова можливість творчо провести час, навчитися новим навичкам і створити щось унікальне. У затишній атмосфері, під наглядом досвідчених ведучих, ви дізнаєтеся цікаві техніки та креативно використаєте матеріали з вторинних сировин. У найближчі тижні ви зможете обрати заняття, на яких можна: зшити косметичку, сумку або рюкзак, побудувати лампочку, створити картину технікою сонячної фотографії, сконструювати кольоровий калейдоскоп. Звучить складно? Ми вас всьому навчимо! Ведучі занять пояснять, як досягти бажаного ефекту та підтримають у творчому процесі. Те, що ви створите, ви заберете з собою додому! Приходьте самі, з партнером/партнеркою або дитиною – проведіть час творчо та створіть щось власними руками!"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.kopernik.org.pl/pl/login"
-      },
-      "updated_at": "2026-08-17T07:40:38.393222+00:00"
-    },
-    "zielone-s-siedztwo-ogr-d-spo-eczny-w-azienkach-kr-lewskich-2026-08-20T18:00:00+02:00": {
-      "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
-      "date": "2026-08-20T18:00:00+02:00",
-      "end_date": "2026-08-20T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Stwórz wspólnie z nami ogród społeczny Łazienek Królewskich — przestrzeń aktywnego działania, edukacji ekologicznej oraz integracji lokalnej społeczności! Zapisy do 3 lipca 2026 r.: Formularz zgłoszeniowy należy przesłać na adres e-mail: ogrod.spoleczny@lazienki-krolewskie.pl Formularz online Do 6 lipca (włącznie) potwierdzimy udział w projekcie. Decyduje kolejność zgłoszeń. Ekspertka ogrodnictwa: Zuzanna Molak — ogrodniczka, przyrodniczka, edukatorka. Absolwentka biologii i ogrodnictwa na SGGW. Obecnie edukuje dzieci i dorosłych w zakresie przyrody i ogrodnictwa. Fanpage: Facebook O projekcie: Inicjatywa skierowana do mieszkańców Warszawy — rodzin z dziećmi, młodzieży i dorosłych, w tym osób o szczególnych potrzebach. Uczestnicy aktywnie zaangażują się w tworzenie i pielęgnację ogrodu działającego jako obieg zamknięty: powstanie kompostownik, wprowadzimy rozwiązania wspierające retencję wody, posadzimy rośliny użytkowe, zioła oraz gatunki miododajne wspierające dzikie zapylacze, co wzmocni lokalną bioróżnorodność. Projekt ma na celu poprawę jakości środowiska, budowanie relacji społecznych i poczucia współodpowiedzialności za dziedzictwo przyrodnicze i kulturowe Łazienek Królewskich. W ramach przedsięwzięcia realizowane będą liczne działania edukacyjne i warsztaty DIY. Projekt obejmuje: Cykl spotkań edukacyjnych prowadzonych przez ekspertów z zakresu przyrody, ogrodnictwa, dendrologii oraz historii Łazienek Królewskich. Wspólne projektowanie ogrodu społecznego oraz dobór roślin z uwzględnieniem funkcji użytkowych i ekologicznych. Zakładanie ogrodu: nasadzenia roślin użytkowych, ziół i gatunków miododajnych. Utworzenie kompostownika oraz wdrożenie rozwiązań wspierających retencję wody. Warsztaty praktyczne typu DIY, m.in. tworzenie ceramicznych tabliczek opisujących rośliny. Regularne spotkania uczestników sprzyjające integracji, wymianie doświadczeń i budowaniu poczucia wspólnoty. Spotkanie podsumowujące projekt, obejmujące ewaluację działań oraz wzmocnienie trwałości inicjatywy. Harmonogram spotkań (spotkania z ekspertką ds. ogrodnictwa w Nowej Palmiarni): 9 lipca, godz. 18:00–20:00 — Spotkanie otwierające 16 lipca, godz. 18:00–20:00 — Kompost 23 lipca, godz. 18:00–20:00 — Uprawa warzyw cz. 1 25 lipca, godz. 15:00–16:30 — Spacer \"Dziko rosnące rośliny jadalne i lecznicze\" 6 sierpnia, godz. 18:00–20:00 — Uprawa warzyw cz. 2 13 sierpnia, godz. 18:00–20:00 — Permakultura 20 sierpnia, godz. 18:00–20:00 — Miejskie ogrodnictwo 1 września, godz. 18:00–20:00 — Bioróżnorodność 8 września, godz. 18:00–20:00 — Woda w ogrodzie 15 września, godz. 18:00–20:00 — Krzewy owocowe 1 października, godz. 18:00–20:00 — Naturalne metody ochrony roślin 8 października, godz. 18:00–20:00 — Bank nasion 15 października, godz. 18:00–20:00 Warsztaty tworzenia ceramicznych tabliczek (Nowa Palmiarnia): 21 lipca, godz. 18:00–20:00 — I część 30 lipca, godz. 18:00–20:00 — II część Spacery po łazienkowskich ogrodach (start: Nowa Palmiarnia): 27 lipca, godz. 17:00–18:30 — \"Zwierzęta Łazienek Królewskich\" 3 sierpnia, godz. 17:00–18:30 — \"Drzewa Łazienek Królewskich\" 7 września, godz. 17:00–18:30 — \"Historia ogrodów Łazienek Królewskich\" 14 września, godz. 17:00–18:30 — \"Zieleń niska Łazienek Królewskich\" Uwaga: poszczególne daty mogą ulec zmianie; o zmianach będziemy informować zapisanych uczestników. Projekt sfinansowano ze środków Fundacji Veolia Polska.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Ff5856f8b-dcef-4f40-b0ee-04f9b39c6fba.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/f5856f8b-dcef-4f40-b0ee-04f9b39c6fba",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/f5856f8b-dcef-4f40-b0ee-04f9b39c6fba",
-      "scrapped_timestamp": "2026-08-17T07:40:16.623422+00:00",
-      "category": "Nature & Wildlife",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
-          "description": "Stwórz wspólnie z nami ogród społeczny Łazienek Królewskich — przestrzeń aktywnego działania, edukacji ekologicznej oraz integracji lokalnej społeczności! Zapisy do 3 lipca 2026 r.: Formularz zgłoszeniowy należy przesłać na adres e-mail: ogrod.spoleczny@lazienki-krolewskie.pl Formularz online Do 6 lipca (włącznie) potwierdzimy udział w projekcie. Decyduje kolejność zgłoszeń. Ekspertka ogrodnictwa: Zuzanna Molak — ogrodniczka, przyrodniczka, edukatorka. Absolwentka biologii i ogrodnictwa na SGGW. Obecnie edukuje dzieci i dorosłych w zakresie przyrody i ogrodnictwa. Fanpage: Facebook O projekcie: Inicjatywa skierowana do mieszkańców Warszawy — rodzin z dziećmi, młodzieży i dorosłych, w tym osób o szczególnych potrzebach. Uczestnicy aktywnie zaangażują się w tworzenie i pielęgnację ogrodu działającego jako obieg zamknięty: powstanie kompostownik, wprowadzimy rozwiązania wspierające retencję wody, posadzimy rośliny użytkowe, zioła oraz gatunki miododajne wspierające dzikie zapylacze, co wzmocni lokalną bioróżnorodność. Projekt ma na celu poprawę jakości środowiska, budowanie relacji społecznych i poczucia współodpowiedzialności za dziedzictwo przyrodnicze i kulturowe Łazienek Królewskich. W ramach przedsięwzięcia realizowane będą liczne działania edukacyjne i warsztaty DIY. Projekt obejmuje: Cykl spotkań edukacyjnych prowadzonych przez ekspertów z zakresu przyrody, ogrodnictwa, dendrologii oraz historii Łazienek Królewskich. Wspólne projektowanie ogrodu społecznego oraz dobór roślin z uwzględnieniem funkcji użytkowych i ekologicznych. Zakładanie ogrodu: nasadzenia roślin użytkowych, ziół i gatunków miododajnych. Utworzenie kompostownika oraz wdrożenie rozwiązań wspierających retencję wody. Warsztaty praktyczne typu DIY, m.in. tworzenie ceramicznych tabliczek opisujących rośliny. Regularne spotkania uczestników sprzyjające integracji, wymianie doświadczeń i budowaniu poczucia wspólnoty. Spotkanie podsumowujące projekt, obejmujące ewaluację działań oraz wzmocnienie trwałości inicjatywy. Harmonogram spotkań (spotkania z ekspertką ds. ogrodnictwa w Nowej Palmiarni): 9 lipca, godz. 18:00–20:00 — Spotkanie otwierające 16 lipca, godz. 18:00–20:00 — Kompost 23 lipca, godz. 18:00–20:00 — Uprawa warzyw cz. 1 25 lipca, godz. 15:00–16:30 — Spacer \"Dziko rosnące rośliny jadalne i lecznicze\" 6 sierpnia, godz. 18:00–20:00 — Uprawa warzyw cz. 2 13 sierpnia, godz. 18:00–20:00 — Permakultura 20 sierpnia, godz. 18:00–20:00 — Miejskie ogrodnictwo 1 września, godz. 18:00–20:00 — Bioróżnorodność 8 września, godz. 18:00–20:00 — Woda w ogrodzie 15 września, godz. 18:00–20:00 — Krzewy owocowe 1 października, godz. 18:00–20:00 — Naturalne metody ochrony roślin 8 października, godz. 18:00–20:00 — Bank nasion 15 października, godz. 18:00–20:00 Warsztaty tworzenia ceramicznych tabliczek (Nowa Palmiarnia): 21 lipca, godz. 18:00–20:00 — I część 30 lipca, godz. 18:00–20:00 — II część Spacery po łazienkowskich ogrodach (start: Nowa Palmiarnia): 27 lipca, godz. 17:00–18:30 — \"Zwierzęta Łazienek Królewskich\" 3 sierpnia, godz. 17:00–18:30 — \"Drzewa Łazienek Królewskich\" 7 września, godz. 17:00–18:30 — \"Historia ogrodów Łazienek Królewskich\" 14 września, godz. 17:00–18:30 — \"Zieleń niska Łazienek Królewskich\" Uwaga: poszczególne daty mogą ulec zmianie; o zmianach będziemy informować zapisanych uczestników. Projekt sfinansowano ze środków Fundacji Veolia Polska."
-        },
-        "en": {
-          "title": "Green Neighborhood - Community Garden in the Royal Łazienki",
-          "description": "Join us in creating a community garden in the Royal Łazienki — a space for active engagement, ecological education, and integration of the local community! Registration is open until July 3, 2026: Please send the application form to the email address: ogrod.spoleczny@lazienki-krolewskie.pl. Online form. By July 6 (inclusive), we will confirm participation in the project. Registration is on a first-come, first-served basis. Gardening expert: Zuzanna Molak — gardener, naturalist, educator. Graduate in biology and horticulture from SGGW. Currently educating children and adults about nature and gardening. Fanpage: Facebook. About the project: This initiative is aimed at the residents of Warsaw — families with children, youth, and adults, including those with special needs. Participants will actively engage in the creation and maintenance of the garden."
-        },
-        "uk": {
-          "title": "Зелене сусідство - громадський сад у Лазенках Королівських",
-          "description": "Створіть разом з нами громадський сад Лазенок Королівських — простір активних дій, екологічної освіти та інтеграції місцевої громади! Реєстрація до 3 липня 2026 року: Форму заявки потрібно надіслати на електронну пошту: ogrod.spoleczny@lazienki-krolewskie.pl Онлайн форма До 6 липня (включно) ми підтвердимо участь у проекті. Визначає порядок подачі заявок. Експертка садівництва: Зузанна Молак — садівниця, природознавиця, освітянка. Випускниця біології та садівництва на SGGW. Наразі навчає дітей та дорослих у сфері природи та садівництва. Фансторінка: Facebook Про проект: Ініціатива спрямована на мешканців Варшави — родини з дітьми, молодь та дорослих, у тому числі осіб з особливими потребами. Учасники активно залучаться до створення та догляду за садом."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-08-17T07:40:38.393244+00:00"
     },
     "kr-l-maciu-i-2026-09-19T12:00:00+02:00": {
       "title": "Król Maciuś I",
@@ -13299,43 +12455,6 @@
       "district": "Ursynów",
       "updated_at": "2026-08-20T07:37:34.618747+00:00"
     },
-    "rembertowskie-kino-pod-gwiazdami-2026-szcz-cie-miko-ajka-film-familijny-2026-08-20T00:00:00+02:00": {
-      "title": "REMBERTOWSKIE KINO POD GWIAZDAMI 2026. „Szczęście Mikołajka” – film familijny.",
-      "date": "2026-08-20T00:00:00+02:00",
-      "end_date": "2026-08-20T00:00:00+02:00",
-      "startTimeKnown": false,
-      "url": "https://czasdzieci.pl/warszawa/wydarzenia/id,1408641ad.html",
-      "description": "Wszystko zaczęło się wiele lat temu w Paryżu, gdy w pewnej sympatycznej rodzinie przyszedł na świat mały chłopiec o imieniu Mikołajek. Niewiele wia­domo o jego najmłodszych latach, ale o czasach szkolnych usłyszał cały świat! Razem z paczką zwariowanych kumpli Mikołajek do perfekcji opanował nie­łatwą sztukę doprowadzania do szaleństwa nie tylko nauczycieli, ale także kochanych rodziców, sąsiadów, a nawet sklepikarzy. Każda ich przygoda wywołuje istne tsunami w szkole lub w domu, a kłótnia urasta do rozmiarów bitwy pod Waterloo. Nie sposób ich jednak nie kochać, bo wszystko czego dotkną zamieniają w radość i śmiech. Dzieje się to oczywiście za sprawą samego Mikołajka, który ma dryg do przygody i niekończącą się ciekawość. To właśnie ona pewnego dnia każe mu zakraść się do pracowni swoich twór­ców Renégo Goscinnego i Jean-Jacques’a Sempégo, którzy opowiedzą mu o swojej przyjaźni, dzieciństwie i o tym jak pewnego dnia go wymyślili.” Opis dystrybutora ze strony Filmweb.pl Miejsce seansu: Parking Urzędu Dzielnicy Rembertów, Aleja Generała A. Chruściela 28 Regulamin i dostępność: https://dkwygoda.waw.pl/event/rembertowskie-kino-pod-gwiazdami-2026-szczescie-mikolajka-film-familijny/",
-      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/9-0-822-8226a60802bbaf811784709163i-insert-i.png",
-      "source": "czasdzieci.pl",
-      "location": {
-        "name": "Parking Urzędu Dzielnicy Rembertów Aleja Generała A. Chruściela 28",
-        "district": "Rembertów"
-      },
-      "age_range": {
-        "min": 9,
-        "max": 14
-      },
-      "scrapped_url": "https://czasdzieci.pl/warszawa/wydarzenia/id,1408641ad.html",
-      "scrapped_timestamp": "2026-08-20T07:35:24.032141+00:00",
-      "category": "Cinema",
-      "translations": {
-        "pl": {
-          "title": "REMBERTOWSKIE KINO POD GWIAZDAMI 2026. „Szczęście Mikołajka” – film familijny.",
-          "description": "Wszystko zaczęło się wiele lat temu w Paryżu, gdy w pewnej sympatycznej rodzinie przyszedł na świat mały chłopiec o imieniu Mikołajek. Niewiele wia­domo o jego najmłodszych latach, ale o czasach szkolnych usłyszał cały świat! Razem z paczką zwariowanych kumpli Mikołajek do perfekcji opanował nie­łatwą sztukę doprowadzania do szaleństwa nie tylko nauczycieli, ale także kochanych rodziców, sąsiadów, a nawet sklepikarzy. Każda ich przygoda wywołuje istne tsunami w szkole lub w domu, a kłótnia urasta do rozmiarów bitwy pod Waterloo. Nie sposób ich jednak nie kochać, bo wszystko czego dotkną zamieniają w radość i śmiech. Dzieje się to oczywiście za sprawą samego Mikołajka, który ma dryg do przygody i niekończącą się ciekawość. To właśnie ona pewnego dnia każe mu zakraść się do pracowni swoich twór­ców Renégo Goscinnego i Jean-Jacques’a Sempégo, którzy opowiedzą mu o swojej przyjaźni, dzieciństwie i o tym jak pewnego dnia go wymyślili.” Opis dystrybutora ze strony Filmweb.pl Miejsce seansu: Parking Urzędu Dzielnicy Rembertów, Aleja Generała A. Chruściela 28 Regulamin i dostępność: https://dkwygoda.waw.pl/event/rembertowskie-kino-pod-gwiazdami-2026-szczescie-mikolajka-film-familijny/"
-        },
-        "en": {
-          "title": "REMBERTOWSKIE CINEMA UNDER THE STARS 2026. 'The Happiness of Nicolas' – Family Film.",
-          "description": "It all started many years ago in Paris, when a little boy named Nicolas was born into a lovely family. Not much is known about his early years, but the world has heard all about his school days! Together with a bunch of crazy friends, Nicolas mastered the difficult art of driving not only teachers but also beloved parents, neighbors, and even shopkeepers to madness. Every adventure they embark on creates a true tsunami at school or at home, and arguments escalate to the size of the Battle of Waterloo. However, it's impossible not to love them, as everything they touch turns into joy and laughter. This is, of course, thanks to Nicolas himself, who has a knack for adventure and an endless curiosity. One day, this curiosity leads him to sneak into his workshop..."
-        },
-        "uk": {
-          "title": "РЕМБЕРТОВСЬКЕ КІНО ПІД ЗІРКАМИ 2026. «Щастя Миколайка» – сімейний фільм.",
-          "description": "Все почалося багато років тому в Парижі, коли в одній симпатичній родині на світ з'явився маленький хлопчик на ім'я Миколайко. Невідомо багато про його наймолодші роки, але про шкільні часи дізнався весь світ! Разом з компанією божевільних друзів Миколайко до досконалості оволодів нелегким мистецтвом доведення до божевілля не лише вчителів, але й люблячих батьків, сусідів, а навіть продавців. Кожна їхня пригода викликає справжнє цунамі в школі або вдома, а суперечка перетворюється на битву під Ватерлоо. Неможливо їх не любити, адже все, до чого вони доторкаються, перетворюється на радість і сміх. Це відбувається, звичайно, завдяки самому Миколайку, який має хист до пригод і безкінечну цікавість. Саме вона одного дня змушує його прокрастися до майстерні своїх..."
-        }
-      },
-      "district": "Rembertów",
-      "updated_at": "2026-08-20T07:37:34.618778+00:00"
-    },
     "cuda-wianki-zaj-cia-plastyczne-dla-dzieci-2026-08-21T10:00:00+02:00": {
       "title": "Cuda-Wianki: zajęcia plastyczne dla dzieci",
       "date": "2026-08-21T10:00:00+02:00",
@@ -13894,50 +13013,6 @@
       },
       "district": "Targówek",
       "updated_at": "2026-08-20T07:37:34.619086+00:00"
-    },
-    "sztuka-na-wakacjach-warsztaty-dla-dzieci-5-10-lat-2026-08-20T12:00:00+02:00": {
-      "title": "SZTUKA NA WAKACJACH | warsztaty dla dzieci 5–10 lat",
-      "date": "2026-08-20T12:00:00+02:00",
-      "end_date": "2026-08-20T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Czy Muzeum może być miejscem wakacyjnego odpoczynku? Przekonajcie się sami, odwiedzając nas latem! Od początku lipca do końca sierpnia, w każdą środę i czwartek o godz. 12.00 zapraszamy na warsztaty wakacyjne. W swobodnej i twórczej atmosferze odkryjemy tajemnice przyrody i sztuki, zastanowimy się, w jaki sposób zbudować ciekawą opowieść, inspirowaną dziełami znajdującymi się w naszych galeriach. Termin: środa, czwartek / lipiec–sierpień / godz. 12.00 Czas trwania: ok. 80 minut Dla kogo: dzieci w wieku 5–10 lat wraz z opiekunami Miejsce zbiórki: Gmach Główny MNW – Hol Główny Miejsce zajęć: galerie stałe + sala edukacyjna Zasady udziału: bilet wstępu dla dziecka 25 zł, bilet dla kolejnego dziecka 10 zł, bilet wstępu dla opiekuna 25 zł; bilety dostępne w kasie i online od wtorku, od godz. 10.00 – dwa tygodnie przed wydarzeniem Prowadzący: Marta Drozd, Lena Lewandowska, Daria Olko, Julia Ruszkowska, Beata Staniszewska, Zuza Wcisło, Maja Żurawska Harmonogram spotkań 1 lipca, 22 lipca, 12 sierpnia / Sztuka ujęta w ramy Czy każdy obraz ma swoją ramę? Tylko jedną, a może kilka? Kto je wykonuje i jakie historie się w nich kryją? Na te i inne pytania poszukamy odpowiedzi, przyglądając się wybranym dziełom z muzealnej kolekcji. 2 lipca, 23 lipca, 13 sierpnia / Botaniczne inspiracje Na zajęciach zastanowimy się, jakie znaczenie mają rośliny dla dobrego funkcjonowania naszej planety i dla świata sztuki. Poznamy symbolikę roślin oraz ich praktyczne zastosowanie w malarstwie. Na koniec stworzymy swoje dzieło sztuki, wykorzystując ekologiczne materiały. 8 lipca, 29 lipca, 19 sierpnia / Pędzlem, kredką, palcem. O malowaniu na różne sposoby Patrząc na obraz, najpierw staramy się poznać jego temat, często zwracamy uwagę na kolory czy nastrój dzieła. Tym razem proponujemy inne spojrzenie – na technikę i sposób malowania. Przekonamy się, jak wiele można odczytać z powierzchni pokrytego farbami płótna, deski czy kartonu. Na koniec spróbujemy własnych sił w malowaniu i rysowaniu. Będziemy eksperymentować z kolorem, fakturą i narzędziami. To będzie czas wspólnej rodzinnej twórczości! 9 lipca, 30 lipca, 20 sierpnia / Na drugim planie Weźcie do ręki lupy, lornetki i coś do pisania! Czy jesteście gotowi wejść w rolę detektywów? Podczas zajęć w galeriach sprawdzimy, co kryje się na drugim, a nawet na trzecim planie obrazów. Nie powinien nam umknąć żaden szczegół! Zastanowimy się, czy te drobne elementy w tle mają jakieś znaczenie i czy zawsze tworzą przemyślaną całość. 15 lipca, 5 sierpnia, 26 sierpnia / Czy w sztuce jest miejsce na zabawę? Czy w muzeum można się bawić? Czy w dawnych epokach poświęcano dużo czasu na gry i zabawy towarzyskie? Podczas spotkania w Muzeum porozmawiamy o tym, jak można spędzać czas wolny, jakie rozrywki organizowano dawniej, a jakie dzisiaj. W dalszej części spróbujemy stworzyć swoją własną grę i jej zasady. 16 lipca, 6 sierpnia, 27 sierpnia / Kolorowe zabawy W Muzeum znajdziemy różne obrazy – jeden budzi uśmiech, a inny zadumę, czasem nawet smutek. Czy użyte przez artystów kolory wpływają na nasz odbiór i nastrój ich płócien? Jak wiele barw i odcieni należy użyć, aby wyczarować prawdziwe dzieło sztuki? Sprawdzimy to podczas wspólnej zabawy. Koordynacja: Marta Kochlewska / Dział Edukacji",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F0e063a43-411d-49a2-9d90-879c0a9a513c.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/4eb4909c-fe2f-4c9b-afd2-44aa5e266fd5",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Al. Jerozolimskie 3/7, 00-495 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/4eb4909c-fe2f-4c9b-afd2-44aa5e266fd5",
-      "scrapped_timestamp": "2026-08-20T07:37:16.423018+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Arts"
-      ],
-      "age_range": {
-        "min": 5,
-        "max": 10
-      },
-      "translations": {
-        "pl": {
-          "title": "SZTUKA NA WAKACJACH | warsztaty dla dzieci 5–10 lat",
-          "description": "Czy Muzeum może być miejscem wakacyjnego odpoczynku? Przekonajcie się sami, odwiedzając nas latem! Od początku lipca do końca sierpnia, w każdą środę i czwartek o godz. 12.00 zapraszamy na warsztaty wakacyjne. W swobodnej i twórczej atmosferze odkryjemy tajemnice przyrody i sztuki, zastanowimy się, w jaki sposób zbudować ciekawą opowieść, inspirowaną dziełami znajdującymi się w naszych galeriach. Termin: środa, czwartek / lipiec–sierpień / godz. 12.00 Czas trwania: ok. 80 minut Dla kogo: dzieci w wieku 5–10 lat wraz z opiekunami Miejsce zbiórki: Gmach Główny MNW – Hol Główny Miejsce zajęć: galerie stałe + sala edukacyjna Zasady udziału: bilet wstępu dla dziecka 25 zł, bilet dla kolejnego dziecka 10 zł, bilet wstępu dla opiekuna 25 zł; bilety dostępne w kasie i online od wtorku, od godz. 10.00 – dwa tygodnie przed wydarzeniem Prowadzący: Marta Drozd, Lena Lewandowska, Daria Olko, Julia Ruszkowska, Beata Staniszewska, Zuza Wcisło, Maja Żurawska Harmonogram spotkań 1 lipca, 22 lipca, 12 sierpnia / Sztuka ujęta w ramy Czy każdy obraz ma swoją ramę? Tylko jedną, a może kilka? Kto je wykonuje i jakie historie się w nich kryją? Na te i inne pytania poszukamy odpowiedzi, przyglądając się wybranym dziełom z muzealnej kolekcji. 2 lipca, 23 lipca, 13 sierpnia / Botaniczne inspiracje Na zajęciach zastanowimy się, jakie znaczenie mają rośliny dla dobrego funkcjonowania naszej planety i dla świata sztuki. Poznamy symbolikę roślin oraz ich praktyczne zastosowanie w malarstwie. Na koniec stworzymy swoje dzieło sztuki, wykorzystując ekologiczne materiały. 8 lipca, 29 lipca, 19 sierpnia / Pędzlem, kredką, palcem. O malowaniu na różne sposoby Patrząc na obraz, najpierw staramy się poznać jego temat, często zwracamy uwagę na kolory czy nastrój dzieła. Tym razem proponujemy inne spojrzenie – na technikę i sposób malowania. Przekonamy się, jak wiele można odczytać z powierzchni pokrytego farbami płótna, deski czy kartonu. Na koniec spróbujemy własnych sił w malowaniu i rysowaniu. Będziemy eksperymentować z kolorem, fakturą i narzędziami. To będzie czas wspólnej rodzinnej twórczości! 9 lipca, 30 lipca, 20 sierpnia / Na drugim planie Weźcie do ręki lupy, lornetki i coś do pisania! Czy jesteście gotowi wejść w rolę detektywów? Podczas zajęć w galeriach sprawdzimy, co kryje się na drugim, a nawet na trzecim planie obrazów. Nie powinien nam umknąć żaden szczegół! Zastanowimy się, czy te drobne elementy w tle mają jakieś znaczenie i czy zawsze tworzą przemyślaną całość. 15 lipca, 5 sierpnia, 26 sierpnia / Czy w sztuce jest miejsce na zabawę? Czy w muzeum można się bawić? Czy w dawnych epokach poświęcano dużo czasu na gry i zabawy towarzyskie? Podczas spotkania w Muzeum porozmawiamy o tym, jak można spędzać czas wolny, jakie rozrywki organizowano dawniej, a jakie dzisiaj. W dalszej części spróbujemy stworzyć swoją własną grę i jej zasady. 16 lipca, 6 sierpnia, 27 sierpnia / Kolorowe zabawy W Muzeum znajdziemy różne obrazy – jeden budzi uśmiech, a inny zadumę, czasem nawet smutek. Czy użyte przez artystów kolory wpływają na nasz odbiór i nastrój ich płócien? Jak wiele barw i odcieni należy użyć, aby wyczarować prawdziwe dzieło sztuki? Sprawdzimy to podczas wspólnej zabawy. Koordynacja: Marta Kochlewska / Dział Edukacji"
-        },
-        "en": {
-          "title": "ART ON VACATION | Workshops for Children Aged 5–10",
-          "description": "Can a museum be a place for summer relaxation? Find out for yourself by visiting us this summer! From early July to the end of August, every Wednesday and Thursday at 12:00 PM, we invite you to our summer workshops. In a relaxed and creative atmosphere, we will discover the secrets of nature and art, and think about how to build an interesting story inspired by the works in our galleries. Dates: Wednesday, Thursday / July–August / 12:00 PM Duration: approx. 80 minutes For whom: children aged 5–10 with guardians Meeting point: Main Building of the National Museum in Warsaw – Main Hall Workshop location: permanent galleries + educational room Participation rules: entrance ticket for a child 25 PLN, ticket for the next child 10 PLN, entrance ticket for a guardian 25 PLN; tickets available at the box office and online from Tuesday, starting at 10 AM."
-        },
-        "uk": {
-          "title": "МИСТЕЦТВО НА ВІДПУСКУ | майстер-класи для дітей 5–10 років",
-          "description": "Чи може Музей бути місцем літнього відпочинку? Переконайтеся самі, відвідавши нас влітку! З початку липня до кінця серпня, кожної середи та четверга о 12:00 запрошуємо на літні майстер-класи. У вільній та творчій атмосфері ми відкриємо таємниці природи та мистецтва, подумаємо, як побудувати цікаву оповідь, натхненну творами, що знаходяться в наших галереях. Дата: середа, четвер / липень–серпень / о 12:00 Тривалість: близько 80 хвилин Для кого: діти віком 5–10 років разом з опікунами Місце збору: Головний корпус MNW – Головний хол Місце занять: постійні галереї + навчальний клас Правила участі: квиток для дитини 25 грн, квиток для наступної дитини 10 грн, квиток для опікуна 25 грн; квитки доступні в касі та онлайн з вівторка, з 10:00"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.mnw.art.pl/termin.html"
-      },
-      "updated_at": "2026-08-20T07:37:34.619129+00:00"
     },
     "owady-i-inne-bezkr-gowce-w-azienkach-ogl-daj-pod-lup-2026-08-21T10:30:00+02:00": {
       "title": "Owady i inne bezkręgowce w Łazienkach - oglądaj pod lupą",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T07:49:57.759655+00:00",
+  "updated_at": "2026-08-22T07:40:50.082028+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1059,6 +1059,15 @@
       "lat": 51.1183985,
       "lng": 16.9568182,
       "updated_at": "2026-08-21T07:36:35.030044+00:00"
+    },
+    "wkf": {
+      "name": "WKF, Wrocław",
+      "district": "Stare Miasto",
+      "address": "WKF, Wrocław",
+      "normalized": "wkf",
+      "lat": 51.1079,
+      "lng": 17.0385,
+      "updated_at": "2026-08-22T07:31:10.292849+00:00"
     }
   }
 }

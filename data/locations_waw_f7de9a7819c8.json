@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T07:49:58.798428+00:00",
+  "updated_at": "2026-08-22T07:40:50.853960+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3778,6 +3778,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-21T07:36:21.903330+00:00"
+    },
+    "łazienki królewskie w warszawie (warszawa-czerniaków)": {
+      "name": "Łazienki Królewskie, Śródmieście, Warszawa, województwo mazowieckie, 00-460, Polska",
+      "district": "Śródmieście",
+      "address": "Łazienki Królewskie, Śródmieście, Warszawa, województwo mazowieckie, 00-460, Polska",
+      "normalized": "łazienki królewskie w warszawie (warszawa-czerniaków)",
+      "lat": 52.2126209,
+      "lng": 21.0339496,
+      "updated_at": "2026-08-22T07:30:43.247688+00:00"
+    },
+    "kołowa 24": {
+      "name": "Kołowa 24",
+      "district": "Targówek",
+      "address": "Kołowa 24",
+      "normalized": "kołowa 24",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-22T07:30:43.248378+00:00"
+    },
+    "stadion polonii warszawa": {
+      "name": "Stadion Polonii Warszawa, Konwiktorska 6",
+      "district": "Śródmieście",
+      "address": "Stadion Polonii Warszawa, Konwiktorska 6",
+      "normalized": "stadion polonii warszawa",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-22T07:30:43.248575+00:00"
+    },
+    "pkp powiśle": {
+      "name": "PKP Powiśle",
+      "district": "Śródmieście",
+      "address": "PKP Powiśle",
+      "normalized": "pkp powiśle",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-22T07:30:43.248821+00:00"
     }
   }
 }

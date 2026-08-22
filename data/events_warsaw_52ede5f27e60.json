@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T07:36:22.918355+00:00",
+  "updated_at": "2026-08-22T06:41:02.453482+00:00",
   "events": {
     "animacje-w-przestrzeni-edukacyjnej-kurka-2026-08-25": {
       "real_source": "https://www.malywarszawiak.pl/",
@@ -822,46 +822,6 @@
         "max": 18
       },
       "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240_134-0-900-900d-c64,f_w_140637_5a40c.webp"
-    },
-    "czerwony-kapturek-spektakl-go-cinny-och-teatr-2026-08-21T17:00:00": {
-      "scrapped_timestamp": "2026-06-30T14:45:24.015337+00:00",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Theater",
-      "description": "CZERWONY KAPTUREK to opowieść o strachu, który ma wielkie oczy i sile przyjaźni, która pokonuje największe przeszkody. O tym, że w najgorszej opresji zawsze można liczyć na wiernych przyjaciół. Twórcy spektaklu chcą przekraczać granice sceny, wciągać w swoją opowieść najmłodszych, aby teatr kojarzył im się przede wszystkim z przyjemnością i zabawą. Scenografia projektu Pauliny Czernek nawiązuje do ulubionych atrybutów dzieciństwa: książeczek pop-up, czyli trójwymiarowych elementów wyskakujących gdy otwiera się kolejną stronę. Spektakl ma uczyć, bawić i zaskakiwać, a wpadające w ucho piosenki nadadzą mu bajkowego nastroju, za którym chyba każdy z nas tęskni w codziennym życiu. Reżyseria: Adam Biernacki. W obsadzie m.in.: Matylda Damięcka, Katarzyna Kołeczek, Agata Sasinowska, Bartłomiej Magdziarz, Jarosław Sacharski.",
-      "date": "2026-08-21T15:00:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "CZERWONY KAPTUREK to opowieść o strachu, który ma wielkie oczy i sile przyjaźni, która pokonuje największe przeszkody. O tym, że w najgorszej opresji zawsze można liczyć na wiernych przyjaciół. Twórcy spektaklu chcą przekraczać granice sceny, wciągać w swoją opowieść najmłodszych, aby teatr kojarzył im się przede wszystkim z przyjemnością i zabawą. Scenografia projektu Pauliny Czernek nawiązuje do ulubionych atrybutów dzieciństwa: książeczek pop-up, czyli trójwymiarowych elementów wyskakujących gdy otwiera się kolejną stronę. Spektakl ma uczyć, bawić i zaskakiwać, a wpadające w ucho piosenki nadadzą mu bajkowego nastroju, za którym chyba każdy z nas tęskni w codziennym życiu. Reżyseria: Adam Biernacki. W obsadzie m.in.: Matylda Damięcka, Katarzyna Kołeczek, Agata Sasinowska, Bartłomiej Magdziarz, Jarosław Sacharski.",
-          "title": "„Czerwony Kapturek” – spektakl gościnny (Och-Teatr)"
-        },
-        "uk": {
-          "description": "ЧЕРВОНА ШАПОЧКА – це оповідь про страх, який має великі очі, і силу дружби, яка долає найбільші перешкоди. Про те, що в найгіршій ситуації завжди можна розраховувати на вірних друзів. Творці спектаклю прагнуть перевищити межі сцени, залучаючи наймолодших до своєї оповіді, щоб театр асоціювався у них насамперед з задоволенням і розвагою. Сценографія проекту Пауліни Чернек посилається на улюблені атрибути дитинства: книжки поп-ап, тобто тривимірні елементи, які вискакують, коли відкривається наступна сторінка. Спектакль має навчати, розважати і дивувати, а запам'ятовувані пісні нададуть йому казкового настрою, за яким, напевно, кожен з нас сумує в повсякденному житті. Режисура: Адам Бірнацький. У складі, зокрема: Матильда Дамієцька, Катажина Колечек, Агата Сасіновська, Бартош Маг.",
-          "title": "Червона Шапочка – гостьовий спектакль (Ох-театр)"
-        },
-        "en": {
-          "description": "LITTLE RED RIDING HOOD is a story about fear that has big eyes and the power of friendship that overcomes the greatest obstacles. It shows that in the worst oppression, one can always count on loyal friends. The creators of the performance aim to transcend the boundaries of the stage, engaging the youngest in their story so that theater is primarily associated with pleasure and fun. The set design by Paulina Czernek refers to beloved childhood attributes: pop-up books, which feature three-dimensional elements that spring up when the next page is turned. The performance is meant to educate, entertain, and surprise, while catchy songs will give it a fairy-tale atmosphere that we all seem to long for in our daily lives. Directed by: Adam Biernacki. The cast includes: Matylda Damięcka, Katarzyna Kołeczek, Agata Sasinowska, Bartłomiej Mag.",
-          "title": "Little Red Riding Hood – Guest Performance (Och-Teatr)"
-        }
-      },
-      "scrapped_url": "https://www.teatrpolonia.pl/",
-      "url": "https://www.teatrpolonia.pl/",
-      "end_date": "2026-08-20T22:00:00+00:00",
-      "district": "Ochota",
-      "source": "teatrpolonia.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": true
-      },
-      "location": {
-        "district": "Ochota",
-        "name": "Och-Teatr   · ul. Grójecka 65"
-      },
-      "title": "„Czerwony Kapturek” – spektakl gościnny (Och-Teatr)",
-      "image": "https://cdn-netpr.pl/file/teaser-ci/872658/273378147/338-200.",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      }
     },
     "czerwony-kapturek-spektakl-go-cinny-och-teatr-2026-08-22T15:00:00": {
       "scrapped_timestamp": "2026-06-30T14:45:31.687172+00:00",
@@ -5731,43 +5691,6 @@
       },
       "updated_at": "2026-07-23T13:39:11.494244+00:00"
     },
-    "akcja-lato-w-mie-cie-2026-08-10T08:30:00+02:00": {
-      "title": "Akcja \"Lato w mieście\"",
-      "date": "2026-08-10T08:30:00+02:00",
-      "end_date": "2026-08-21T13:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Serdecznie zapraszamy na",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/akcja-lato-w-miesci-2",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "DK Kolorowa, K. Sosnkowskiego 16, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/akcja-lato-w-miesci-2",
-      "scrapped_timestamp": "2026-07-23T13:36:22.130657+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Akcja \"Lato w mieście\"",
-          "description": "Serdecznie zapraszamy na"
-        },
-        "en": {
-          "title": "Action 'Summer in the City'",
-          "description": "We warmly invite you to"
-        },
-        "uk": {
-          "title": "Акція \"Літо в місті\"",
-          "description": "Щиро запрошуємо на"
-        }
-      },
-      "updated_at": "2026-07-23T13:39:11.494295+00:00"
-    },
     "koncert-plenerowy-ostatni-d-wi-k-wakacji-2026-08-30T15:00:00+02:00": {
       "title": "Koncert plenerowy \"Ostatni dźwięk wakacji\"",
       "date": "2026-08-30T15:00:00+02:00",
@@ -6419,88 +6342,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-07-31T07:17:07.925610+00:00"
-    },
-    "warsztaty-sensoryczne-konie-i-koniki-0-3-lat-2026-08-21T12:15:00+02:00": {
-      "title": "Warsztaty sensoryczne: Konie i koniki (0-3 lat)",
-      "date": "2026-08-21T12:15:00+02:00",
-      "end_date": "2026-08-21T00:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Muzyka i ruch: Najpierw sprawdzimy, czy w muzeum ukryły się jakieś konie. Za pomocą słuchu, dotyku i węchu zbadamy, czy zostawiły po sobie ślady. Zastanowimy się, jak wiele dźwięków kojarzy nam się z tymi zwierzętami. Jak brzmi mały, a jak duży koń? Spróbujemy wspólnie poruszać się tak jak one! Sensoplastyka: W drugiej części poszukamy inspiracji w szkicu hiszpańskiego malarza. Wykorzystamy nasze dłonie oraz stopy i stworzymy całkowicie autorski, wielkoformatowy błotny rysunek. Olga Dyjak – edukatorka w Muzeum Sztuki Nowoczesnej w Warszawie. Malarka, absolwentka Akademii Sztuk Pięknych w Warszawie. W swojej praktyce bada obszary wrażliwości zawieszone pomiędzy dojrzałością a dzieciństwem. Współpracuje z warszawskimi instytucjami kultury, prowadzi autorską pracownię malarską dla dzieci od 2 do 16 roku życia. Interesuje ją przywracanie dziecięcych perspektyw i czuła pedagogika.",
-      "url": "https://artmuseum.pl/wydarzenia/warsztaty-sensoryczne-konie-i-koniki-0-3-lat?term=019f84d1-6eb5-7165-aac2-94d67994f3d5",
-      "source": "artmuseum.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "Muzeum Sztuki Nowoczesnej , Sala C w pobliżu szatni  · ul. Marszałkowska 103",
-        "district": "Śródmieście"
-      },
-      "image": "https://api-sf.artmuseum.pl/uploads/files/6a5f6fe78c086157358086.jpg",
-      "scrapped_url": "https://artmuseum.pl/wydarzenia/warsztaty-sensoryczne-konie-i-koniki-0-3-lat?term=019f84d1-6eb5-7165-aac2-94d67994f3d5",
-      "scrapped_timestamp": "2026-07-31T07:13:41.015776+00:00",
-      "translations": {
-        "pl": {
-          "title": "Warsztaty sensoryczne: Konie i koniki (0-3 lat)",
-          "description": "Muzyka i ruch: Najpierw sprawdzimy, czy w muzeum ukryły się jakieś konie. Za pomocą słuchu, dotyku i węchu zbadamy, czy zostawiły po sobie ślady. Zastanowimy się, jak wiele dźwięków kojarzy nam się z tymi zwierzętami. Jak brzmi mały, a jak duży koń? Spróbujemy wspólnie poruszać się tak jak one! Sensoplastyka: W drugiej części poszukamy inspiracji w szkicu hiszpańskiego malarza. Wykorzystamy nasze dłonie oraz stopy i stworzymy całkowicie autorski, wielkoformatowy błotny rysunek. Olga Dyjak – edukatorka w Muzeum Sztuki Nowoczesnej w Warszawie. Malarka, absolwentka Akademii Sztuk Pięknych w Warszawie. W swojej praktyce bada obszary wrażliwości zawieszone pomiędzy dojrzałością a dzieciństwem. Współpracuje z warszawskimi instytucjami kultury, prowadzi autorską pracownię malarską dla dzieci od 2 do 16 roku życia. Interesuje ją przywracanie dziecięcych perspektyw i czuła pedagogika."
-        },
-        "en": {
-          "title": "Sensory Workshops: Horses and Ponies (0-3 years)",
-          "description": "Music and Movement: First, we will check if there are any horses hidden in the museum. Using our hearing, touch, and smell, we will explore if they left any traces behind. We will think about how many sounds we associate with these animals. What does a small horse sound like, and what about a large one? We will try to move together like they do! Sensory Art: In the second part, we will seek inspiration from a sketch by a Spanish painter. We will use our hands and feet to create a completely original, large-format mud drawing. Olga Dyjak – educator at the Museum of Modern Art in Warsaw. Painter, graduate of the Academy of Fine Arts in Warsaw. In her practice, she explores areas of sensitivity suspended between maturity and childhood. She collaborates with cultural institutions in Warsaw and runs a painting workshop for children from 2 years old."
-        },
-        "uk": {
-          "title": "Сенсорні майстер-класи: Коні та поні (0-3 роки)",
-          "description": "Музика та рух: Спочатку перевіримо, чи в музеї сховалися якісь коні. За допомогою слуху, дотику та нюху дослідимо, чи залишили вони по собі сліди. Подумаємо, скільки звуків асоціюється з цими тваринами. Як звучить маленький, а як великий кінь? Спробуємо разом рухатися так, як вони! Сенсопластика: У другій частині пошукаємо натхнення в ескізі іспанського художника. Використаємо наші руки та ноги і створимо абсолютно авторський, великоформатний грязьовий малюнок. Ольга Дьяк – освітниця в Музеї сучасного мистецтва у Варшаві. Художниця, випускниця Академії образотворчих мистецтв у Варшаві. У своїй практиці досліджує сфери чутливості, що перебувають між зрілістю та дитинством. Співпрацює з варшавськими культурними установами, веде авторську художню майстерню для дітей від 2 років."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-07-31T07:17:07.927076+00:00"
-    },
-    "dobranocka-pinokio-2026-08-21T18:00:00+02:00": {
-      "title": "Dobranocka: Pinokio",
-      "date": "2026-08-21T18:00:00+02:00",
-      "end_date": "2026-08-21T00:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Spektakl ma też współczesny wątek — pokazuje, że w dzisiejszych czasach również jest wiele pokus, które proponuje dzieciom np. internet. W sieci łatwo jest ulec pięknym słowom, czy barwnym obrazom na ekranie. Nie zawsze najmłodsi są w stanie uporać się z problemami naszych czasów: przemocą, hejtem, czy wykluczeniem. Ważne jest, by dzieci nie bały się rozmawiać i miały oparcie w najbliższych, którzy potrafią ochronić dziecko i przeprowadzić przez zawiły świat w sieci. W spektaklu występują duże formy teatralne, a akcję wzbogaca odpowiednio skomponowana muzyka.",
-      "url": "https://wck-wola.pl/repertuar/dobranocka-pinokio/",
-      "source": "wck-wola.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Theater",
-      "age_range": {
-        "min": 5,
-        "max": 6
-      },
-      "location": {
-        "name": "Wolskie Centrum Kultury , Działdowska 6  · ul. Działdowska 6",
-        "district": "Wola"
-      },
-      "image": "https://wck-wola.pl/wp-content/uploads/2026/06/pinokio-bajka6-scaled.jpg",
-      "scrapped_url": "https://wck-wola.pl/repertuar/dobranocka-pinokio/",
-      "scrapped_timestamp": "2026-07-31T07:13:48.135547+00:00",
-      "translations": {
-        "pl": {
-          "title": "Dobranocka: Pinokio",
-          "description": "Spektakl ma też współczesny wątek — pokazuje, że w dzisiejszych czasach również jest wiele pokus, które proponuje dzieciom np. internet. W sieci łatwo jest ulec pięknym słowom, czy barwnym obrazom na ekranie. Nie zawsze najmłodsi są w stanie uporać się z problemami naszych czasów: przemocą, hejtem, czy wykluczeniem. Ważne jest, by dzieci nie bały się rozmawiać i miały oparcie w najbliższych, którzy potrafią ochronić dziecko i przeprowadzić przez zawiły świat w sieci. W spektaklu występują duże formy teatralne, a akcję wzbogaca odpowiednio skomponowana muzyka."
-        },
-        "en": {
-          "title": "Good Night: Pinocchio",
-          "description": "The performance also has a contemporary thread — it shows that today there are many temptations that the internet offers to children. It is easy to succumb to beautiful words or colorful images on the screen. The youngest are not always able to cope with the problems of our times: violence, hate, or exclusion. It is important for children not to be afraid to talk and to have support from those close to them who can protect the child and guide them through the complex world of the internet. The performance features large theatrical forms, and the action is enriched by appropriately composed music."
-        },
-        "uk": {
-          "title": "Добраніч: Пінокіо",
-          "description": "Спектакль має також сучасний сюжет — показує, що в наш час існує багато спокус, які пропонує дітям, наприклад, інтернет. У мережі легко піддатися красивим словам чи яскравим зображенням на екрані. Не завжди наймолодші можуть впоратися з проблемами нашого часу: насильством, ненавистю чи виключенням. Важливо, щоб діти не боялися говорити і мали підтримку від найближчих, які можуть захистити дитину і провести через заплутаний світ в мережі. У спектаклі виступають великі театральні форми, а дію збагачує відповідно складена музика."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Wola",
-      "updated_at": "2026-07-31T07:17:07.927095+00:00"
     },
     "dzieci-ca-scena-teatralna-wielka-wyprawa-na-wysp-boom-boom-2026-08-22T12:00:00+02:00": {
       "title": "Dziecięca Scena Teatralna: „Wielka Wyprawa na wyspę Boom Boom”",
@@ -9965,88 +9806,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-08-14T08:34:04.843746+00:00"
     },
-    "hado-sport-przysz-o-ci-w-galerii-p-nocnej-2026-08-21T10:00:00+02:00": {
-      "title": "Hado - sport przyszłości w Galerii Północnej",
-      "date": "2026-08-21T10:00:00+02:00",
-      "end_date": "2026-08-21T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Co? HADO – nowoczesna, zespołowa dyscyplina sportowa łącząca aktywność fizyczną, rywalizację i technologię rozszerzonej rzeczywistości (AR). Kiedy? 21–22 sierpnia 2026, godz. 10:00–22:00 Gdzie? Galeria Północna, Białołęka Wstęp: bezpłatny Sport, technologia i dobra zabawa Jak wygląda sport przyszłości? Będziecie mogli przekonać się o tym już 21 i 22 sierpnia w Galerii Północnej. Na miejscu czekać będzie HADO – innowacyjna dyscyplina, w której świat rzeczywisty łączy się z wirtualnym dzięki technologii rozszerzonej rzeczywistości. Uczestnicy zakładają specjalne gogle AR oraz czujniki ruchu, dzielą się na drużyny i rozpoczynają dynamiczną rozgrywkę. Zadaniem zawodników jest m.in. atakowanie przeciwników wirtualnymi kulami energii, tworzenie tarcz ochronnych i zdobywanie przewagi nad rywalami. Wszystko dzieje się w realnej przestrzeni, ale dzięki technologii AR na własne oczy można zobaczyć cyfrowe elementy gry. W HADO liczą się nie tylko refleks i szybkość. Równie ważne są taktyka, spryt i współpraca z drużyną. Trzeba obserwować przeciwników, przewidywać ich ruchy, odpowiednio się ustawiać i zdecydować, kiedy lepiej zaatakować, a kiedy skupić się na obronie. Dla dzieci, młodzieży i dorosłych Do udziału nie potrzeba sportowego doświadczenia ani specjalnych umiejętności. Zasady gry można szybko poznać, a najważniejsze są chęć zabawy i odrobina ducha rywalizacji. HADO to propozycja dla dzieci, młodzieży, dorosłych, rodzin oraz grup znajomych. To dobry pomysł na aktywne spędzenie czasu i jednocześnie okazja do wypróbowania nietypowej formy rozrywki, w której sport spotyka się z nowymi technologiami. Na miejscu będzie dostępny niezbędny sprzęt, dlatego wystarczy przyjść i spróbować swoich sił.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1786624698.webp",
-      "location": {
-        "name": "ul. Światowida 17, Galeria Północna",
-        "district": "Białołęka"
-      },
-      "url": "https://www.galeriapolnocna.pl/wydarzenia/sport-przyszlosci-w-polnocnej",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.galeriapolnocna.pl/wydarzenia/sport-przyszlosci-w-polnocnej",
-      "scrapped_timestamp": "2026-08-14T08:32:51.603620+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Hado - sport przyszłości w Galerii Północnej",
-          "description": "Co? HADO – nowoczesna, zespołowa dyscyplina sportowa łącząca aktywność fizyczną, rywalizację i technologię rozszerzonej rzeczywistości (AR). Kiedy? 21–22 sierpnia 2026, godz. 10:00–22:00 Gdzie? Galeria Północna, Białołęka Wstęp: bezpłatny Sport, technologia i dobra zabawa Jak wygląda sport przyszłości? Będziecie mogli przekonać się o tym już 21 i 22 sierpnia w Galerii Północnej. Na miejscu czekać będzie HADO – innowacyjna dyscyplina, w której świat rzeczywisty łączy się z wirtualnym dzięki technologii rozszerzonej rzeczywistości. Uczestnicy zakładają specjalne gogle AR oraz czujniki ruchu, dzielą się na drużyny i rozpoczynają dynamiczną rozgrywkę. Zadaniem zawodników jest m.in. atakowanie przeciwników wirtualnymi kulami energii, tworzenie tarcz ochronnych i zdobywanie przewagi nad rywalami. Wszystko dzieje się w realnej przestrzeni, ale dzięki technologii AR na własne oczy można zobaczyć cyfrowe elementy gry. W HADO liczą się nie tylko refleks i szybkość. Równie ważne są taktyka, spryt i współpraca z drużyną. Trzeba obserwować przeciwników, przewidywać ich ruchy, odpowiednio się ustawiać i zdecydować, kiedy lepiej zaatakować, a kiedy skupić się na obronie. Dla dzieci, młodzieży i dorosłych Do udziału nie potrzeba sportowego doświadczenia ani specjalnych umiejętności. Zasady gry można szybko poznać, a najważniejsze są chęć zabawy i odrobina ducha rywalizacji. HADO to propozycja dla dzieci, młodzieży, dorosłych, rodzin oraz grup znajomych. To dobry pomysł na aktywne spędzenie czasu i jednocześnie okazja do wypróbowania nietypowej formy rozrywki, w której sport spotyka się z nowymi technologiami. Na miejscu będzie dostępny niezbędny sprzęt, dlatego wystarczy przyjść i spróbować swoich sił."
-        },
-        "en": {
-          "title": "Hado - The Sport of the Future at Galeria Północna",
-          "description": "What? HADO – a modern team sport that combines physical activity, competition, and augmented reality (AR) technology. When? August 21–22, 2026, from 10:00 AM to 10:00 PM. Where? Galeria Północna, Białołęka. Admission: free. Sport, technology, and good fun. What does the sport of the future look like? You will be able to find out on August 21 and 22 at Galeria Północna. HADO will be on site – an innovative discipline where the real world merges with the virtual through augmented reality technology. Participants wear special AR goggles and motion sensors, split into teams, and start dynamic gameplay. Players' tasks include attacking opponents with virtual energy balls, creating protective shields, and gaining an advantage over rivals."
-        },
-        "uk": {
-          "title": "Hado - спорт майбутнього в Галереї Північній",
-          "description": "Що? HADO – сучасна, командна спортивна дисципліна, що поєднує фізичну активність, змагання та технологію доповненої реальності (AR). Коли? 21–22 серпня 2026, год. 10:00–22:00 Де? Галерея Північна, Білогородка Вхід: безкоштовний Спорт, технологія та гарний настрій Як виглядає спорт майбутнього? Ви зможете в цьому переконатися вже 21 і 22 серпня в Галереї Північній. На місці вас чекатиме HADO – інноваційна дисципліна, в якій реальний світ поєднується з віртуальним завдяки технології доповненої реальності. Учасники надягають спеціальні AR-окуляри та датчики руху, діляться на команди та починають динамічну гру. Завдання гравців полягає, зокрема, в атаці на суперників віртуальними кулями енергії, створенні захисних щитів та здобутті переваги над суперниками."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Białołęka",
-      "updated_at": "2026-08-14T08:34:04.843917+00:00"
-    },
-    "bemowskie-kino-plenerowe-dla-dzieci-dzielna-banda-i-tajemnica-zaginionego-wujka-2026-08-21T20:00:00+02:00": {
-      "title": "Bemowskie Kino Plenerowe dla dzieci – „Dzielna banda i tajemnica zaginionego wujka”",
-      "date": "2026-08-21T20:00:00+02:00",
-      "end_date": "2026-08-21T20:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Nieustraszone rodzeństwo Tom i Mary przypływa do Nowego Jorku na spotkanie z wujkiem Niallem, który jednak nie zjawia się w porcie. Ukrywając się w transkontynentalnym pociągu, bez grosza przy duszy, dzieci wyruszają w niesamowitą podróż przez Dziki Zachód, by odnaleźć wujka. Wraz z nowo poznanym chłopcem i przygarniętym pieskiem muszą uratować nowych przyjaciół z rąk gangu poszukiwaczy złota. Wstęp wolny.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1786695660.webp",
-      "location": {
-        "name": "SM ROZŁOGI plac, studnia Oligoceńska, ul. Rozłogi 12a",
-        "district": "Bemowo"
-      },
-      "url": "https://bemowskie.pl/wydarzenia/bemowskie-kino-plenerowe-dla-dzieci-dzielna-banda-i-tajemnica-zaginionego-wujka/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://bemowskie.pl/wydarzenia/bemowskie-kino-plenerowe-dla-dzieci-dzielna-banda-i-tajemnica-zaginionego-wujka/",
-      "scrapped_timestamp": "2026-08-14T08:32:58.178130+00:00",
-      "category": "Cinema",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Bemowskie Kino Plenerowe dla dzieci – „Dzielna banda i tajemnica zaginionego wujka”",
-          "description": "Nieustraszone rodzeństwo Tom i Mary przypływa do Nowego Jorku na spotkanie z wujkiem Niallem, który jednak nie zjawia się w porcie. Ukrywając się w transkontynentalnym pociągu, bez grosza przy duszy, dzieci wyruszają w niesamowitą podróż przez Dziki Zachód, by odnaleźć wujka. Wraz z nowo poznanym chłopcem i przygarniętym pieskiem muszą uratować nowych przyjaciół z rąk gangu poszukiwaczy złota. Wstęp wolny."
-        },
-        "en": {
-          "title": "Bemowo Outdoor Cinema for Children – 'The Brave Gang and the Mystery of the Missing Uncle'",
-          "description": "Fearless siblings Tom and Mary arrive in New York to meet their uncle Niall, who, however, does not show up at the port. Hiding in a transcontinental train, with no money to their name, the children embark on an incredible journey through the Wild West to find their uncle. Along with a newly met boy and a rescued puppy, they must save their new friends from the clutches of a gang of gold seekers. Free admission."
-        },
-        "uk": {
-          "title": "Бемовське кінопоказ для дітей – «Смілива банда і таємниця зниклого дядька»",
-          "description": "Безстрашні брат і сестра Том і Мері прибувають до Нью-Йорка на зустріч з дядьком Ніалом, який, однак, не з'являється в порту. Ховаючись у трансконтинентальному поїзді, без гроша при собі, діти вирушають у неймовірну подорож через Дикий Захід, щоб знайти дядька. Разом з новим знайомим хлопчиком і підібраним песиком вони повинні врятувати нових друзів з рук банди шукачів золота. Вхід вільний."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-08-14T08:34:04.843940+00:00"
-    },
     "biela-skie-do-ynki-2026-2026-08-22T14:00:00+02:00": {
       "title": "Bielańskie Dożynki 2026",
       "date": "2026-08-22T14:00:00+02:00",
@@ -10211,46 +9970,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-08-14T08:34:04.844047+00:00"
     },
-    "warsztaty-przyjazne-sensorycznie-konie-i-konik-2026-08-21T12:15:00+02:00": {
-      "title": "Warsztaty przyjazne sensorycznie: Konie i konik",
-      "date": "2026-08-21T12:15:00+02:00",
-      "end_date": "2026-08-21T12:15:00+02:00",
-      "startTimeKnown": true,
-      "description": "Opis wydarzenia Muzeum Sztuki Nowoczesnej w Warszawie zaprasza na „Konie i koniki” – wspaniałe, sensoryczne warsztaty dla najmłodszych dzieci. Punktem wyjścia do naszej wspólnej zabawy będzie słynne dzieło Pabla Picassa Głowa konia. Szkic do „Guerniki”. Nasze spotkanie podzielimy na dwie angażujące części: Muzyka i ruch: Najpierw sprawdzimy, czy w muzeum ukryły się jakieś konie. Za pomocą słuchu, dotyku i węchu zbadamy, czy zostawiły po sobie ślady. Zastanowimy się, jak wiele dźwięków kojarzy nam się z tymi zwierzętami. Jak brzmi mały, a jak duży koń? Spróbujemy wspólnie poruszać się tak jak one! Sensoplastyka: W drugiej części poszukamy inspiracji w szkicu hiszpańskiego malarza. Wykorzystamy nasze dłonie oraz stopy i stworzymy całkowicie autorski, wielkoformatowy błotny rysunek. Olga Dyjak – edukatorka w Muzeum Sztuki Nowoczesnej w Warszawie. Malarka, absolwentka Akademii Sztuk Pięknych w Warszawie. W swojej praktyce bada obszary wrażliwości zawieszone pomiędzy dojrzałością a dzieciństwem. Współpracuje z warszawskimi instytucjami kultury, prowadzi autorską pracownię malarską dla dzieci od 2 do 16 roku życia. Interesuje ją przywracanie dziecięcych perspektyw i czuła pedagogika.",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_973654283_original.jpg",
-      "location": {
-        "name": "Muzeum Sztuki Nowoczesnej w Warszawie (Warszawa)",
-        "district": "Śródmieście"
-      },
-      "url": "https://warszawa.naszemiasto.pl/warsztaty-przyjazne-sensorycznie-konie-i-konik/kw/c5-3028597",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://warszawa.naszemiasto.pl/warsztaty-przyjazne-sensorycznie-konie-i-konik/kw/c5-3028597",
-      "scrapped_timestamp": "2026-08-15T07:40:13.484234+00:00",
-      "category": "Sensory Play",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "translations": {
-        "pl": {
-          "title": "Warsztaty przyjazne sensorycznie: Konie i konik",
-          "description": "Opis wydarzenia Muzeum Sztuki Nowoczesnej w Warszawie zaprasza na „Konie i koniki” – wspaniałe, sensoryczne warsztaty dla najmłodszych dzieci. Punktem wyjścia do naszej wspólnej zabawy będzie słynne dzieło Pabla Picassa Głowa konia. Szkic do „Guerniki”. Nasze spotkanie podzielimy na dwie angażujące części: Muzyka i ruch: Najpierw sprawdzimy, czy w muzeum ukryły się jakieś konie. Za pomocą słuchu, dotyku i węchu zbadamy, czy zostawiły po sobie ślady. Zastanowimy się, jak wiele dźwięków kojarzy nam się z tymi zwierzętami. Jak brzmi mały, a jak duży koń? Spróbujemy wspólnie poruszać się tak jak one! Sensoplastyka: W drugiej części poszukamy inspiracji w szkicu hiszpańskiego malarza. Wykorzystamy nasze dłonie oraz stopy i stworzymy całkowicie autorski, wielkoformatowy błotny rysunek. Olga Dyjak – edukatorka w Muzeum Sztuki Nowoczesnej w Warszawie. Malarka, absolwentka Akademii Sztuk Pięknych w Warszawie. W swojej praktyce bada obszary wrażliwości zawieszone pomiędzy dojrzałością a dzieciństwem. Współpracuje z warszawskimi instytucjami kultury, prowadzi autorską pracownię malarską dla dzieci od 2 do 16 roku życia. Interesuje ją przywracanie dziecięcych perspektyw i czuła pedagogika."
-        },
-        "en": {
-          "title": "Sensory-Friendly Workshop: Horses and Ponies",
-          "description": "Event description: The Museum of Modern Art in Warsaw invites you to \"Horses and Ponies\" – a wonderful, sensory workshop for young children. The starting point for our joint fun will be Pablo Picasso's famous work, Horse Head. Sketch for \"Guernica\". Our meeting will be divided into two engaging parts: Music and Movement: First, we will check if any horses are hiding in the museum. Using our hearing, touch, and smell, we will explore whether they left any traces behind. We will ponder how many sounds we associate with these animals. What does a small horse sound like, and what about a large one? We will try to move together like they do! Sensory Art: In the second part, we will seek inspiration from the sketch of the Spanish painter. We will use our hands and feet to create a completely original, large-scale mud drawing. Olga Dyja"
-        },
-        "uk": {
-          "title": "Сенсорні майстер-класи: Коні та поні",
-          "description": "Опис події: Музей сучасного мистецтва у Варшаві запрошує на «Коні та поні» – чудові, сенсорні майстер-класи для найменших дітей. Точкою відправлення для нашої спільної гри стане знамените твір Пабло Пікассо «Голова коня. Ескіз до «Герніки». Нашу зустріч ми поділимо на дві захоплюючі частини: Музика та рух: Спочатку перевіримо, чи сховалися в музеї якісь коні. За допомогою слуху, дотику та нюху ми дослідимо, чи залишили вони по собі сліди. Подумаємо, скільки звуків асоціюється з цими тваринами. Як звучить маленький, а як великий кінь? Спробуємо разом рухатися так, як вони! Сенсопластика: У другій частині ми шукатимемо натхнення в ескізі іспанського художника. Використаємо наші руки та ноги і створимо абсолютно авторський, великоформатний грязьовий малюнок. Ольга Дия"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-15T07:42:04.120988+00:00"
-    },
     "koncert-zespo-u-mazowsze-w-ho-dzie-andrzejowi-wajdzie-2026-08-22T16:00:00+02:00": {
       "title": "Koncert zespołu „Mazowsze” – w hołdzie Andrzejowi Wajdzie",
       "date": "2026-08-22T16:00:00+02:00",
@@ -10333,43 +10052,6 @@
       "district": "Wawer",
       "updated_at": "2026-08-15T07:42:04.121174+00:00"
     },
-    "lekcje-j-zyka-polskiego-2026-08-21T16:00:00+02:00": {
-      "title": "Lekcje Języka Polskiego",
-      "date": "2026-08-21T16:00:00+02:00",
-      "end_date": "2026-08-21T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy wszystkie dzieci na wesołe spotkania z językiem polskim! Przygotowaliśmy mnóstwo ciekawych gier i historyjek, które pomogą oswoić język w najbardziej naturalny sposób przez śmiech i integrację. Spędźmy ten czas razem w super klimacie. Czekamy na Was, przyjdźcie koniecznie!",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_973113745_original.jpg",
-      "location": {
-        "name": "Pół na Puł (Warszawa-Grabówek)",
-        "district": "Mokotów"
-      },
-      "url": "https://naszemiasto.pl/lekcje-jezyka-polskiego/kw/c5-2981531",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://naszemiasto.pl/lekcje-jezyka-polskiego/kw/c5-2981531",
-      "scrapped_timestamp": "2026-08-17T07:39:23.598727+00:00",
-      "category": "Educational",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Lekcje Języka Polskiego",
-          "description": "Zapraszamy wszystkie dzieci na wesołe spotkania z językiem polskim! Przygotowaliśmy mnóstwo ciekawych gier i historyjek, które pomogą oswoić język w najbardziej naturalny sposób przez śmiech i integrację. Spędźmy ten czas razem w super klimacie. Czekamy na Was, przyjdźcie koniecznie!"
-        },
-        "en": {
-          "title": "Polish Language Lessons",
-          "description": "We invite all children to fun meetings with the Polish language! We have prepared a lot of interesting games and stories that will help familiarize them with the language in the most natural way through laughter and integration. Let's spend this time together in a great atmosphere. We are waiting for you, be sure to come!"
-        },
-        "uk": {
-          "title": "Уроки польської мови",
-          "description": "Запрошуємо всіх дітей на веселі зустрічі з польською мовою! Ми підготували безліч цікавих ігор та історій, які допоможуть освоїти мову в найбільш природний спосіб через сміх та інтеграцію. Проведемо цей час разом у супер атмосфері. Чекаємо на вас, приходьте обов'язково!"
-        }
-      },
-      "district": "Mokotów",
-      "updated_at": "2026-08-17T07:40:38.393018+00:00"
-    },
     "warsztaty-dla-rodzin-z-dzie-mi-w-spektrum-2026-08-22T10:30:00+02:00": {
       "title": "Warsztaty dla rodzin z dziećmi w spektrum",
       "date": "2026-08-22T10:30:00+02:00",
@@ -10409,47 +10091,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-08-17T07:40:38.393043+00:00"
-    },
-    "warsztaty-r-kodzie-a-podczas-naszych-p-kolonii-w-kiepskiej-formie-2026-08-21T14:30:00+02:00": {
-      "title": "Warsztaty rękodzieła podczas naszych półkolonii w Kiepskiej Formie",
-      "date": "2026-08-21T14:30:00+02:00",
-      "end_date": "2026-08-21T14:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na darmowe warsztaty z rękodzieła dla dzieci 6-12. :) Podczas naszych półkolonii w pracowni Kiepska Forma okazuje się, że mamy wolne miejsca na nasze codzienne warsztaty z rękodzieła z Robótkowem. Codziennie dzieciaki tworzą prace, które zabierają do domu. Warsztat trwa 60 min., w godz. 14:30-15:30. Mamy kilka wolnych miejsc - fajnie, żeby się nie zmarnowały. Konieczne zapisy >> kiepska.forma@gmail.com",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1430.1786893920.webp",
-      "location": {
-        "name": "ul. Wolska 45",
-        "district": "Wola"
-      },
-      "url": "https://waw4free.pl/wydarzenie-157269-warsztaty-rekodziela-podczas-naszych-polkolonii-w-kiepskiej-formie",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://waw4free.pl/wydarzenie-157269-warsztaty-rekodziela-podczas-naszych-polkolonii-w-kiepskiej-formie",
-      "scrapped_timestamp": "2026-08-17T07:39:40.645720+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Warsztaty rękodzieła podczas naszych półkolonii w Kiepskiej Formie",
-          "description": "Zapraszamy na darmowe warsztaty z rękodzieła dla dzieci 6-12. :) Podczas naszych półkolonii w pracowni Kiepska Forma okazuje się, że mamy wolne miejsca na nasze codzienne warsztaty z rękodzieła z Robótkowem. Codziennie dzieciaki tworzą prace, które zabierają do domu. Warsztat trwa 60 min., w godz. 14:30-15:30. Mamy kilka wolnych miejsc - fajnie, żeby się nie zmarnowały. Konieczne zapisy >> kiepska.forma@gmail.com"
-        },
-        "en": {
-          "title": "Craft Workshops During Our Day Camps at Kiepska Forma",
-          "description": "We invite you to free craft workshops for children aged 6-12. :) During our day camps at the Kiepska Forma workshop, we have available spots for our daily craft workshops with Robótkow. Every day, kids create works that they take home. The workshop lasts 60 minutes, from 14:30 to 15:30. We have a few spots available - it would be great not to let them go to waste. Registration is necessary >> kiepska.forma@gmail.com"
-        },
-        "uk": {
-          "title": "Майстер-класи з рукоділля під час наших півколоній у Кіпській Формі",
-          "description": "Запрошуємо на безкоштовні майстер-класи з рукоділля для дітей 6-12 років. :) Під час наших півколоній у майстерні Кіпська Форма виявляється, що у нас є вільні місця на наші щоденні майстер-класи з рукоділля з Робітковим. Щодня діти створюють роботи, які забирають додому. Майстер-клас триває 60 хв., з 14:30 до 15:30. У нас є кілька вільних місць - було б чудово, щоб вони не пропали. Необхідна реєстрація >> kiepska.forma@gmail.com"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wola",
-      "updated_at": "2026-08-17T07:40:38.393116+00:00"
     },
     "piknik-rodzinne-zamieszanie-na-bielanach-2026-08-23T11:00:00+02:00": {
       "title": "PIKNIK RODZINNE ZAMIESZANIE NA BIELANACH",
@@ -10610,47 +10251,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-08-18T07:45:09.440528+00:00"
     },
-    "wielkie-serca-spektakle-w-multimedialnym-parku-fontann-2026-2026-08-21T21:00:00+02:00": {
-      "title": "„Wielkie Serca” – spektakle w Multimedialnym Parku Fontann 2026",
-      "date": "2026-08-21T21:00:00+02:00",
-      "end_date": "2026-08-21T21:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "„Wielkie Serca” – nowy sezon spektakli w Multimedialnym Parku Fontann Pokazy w Multimedialnym Parku Fontann to jedno z najbardziej widowiskowych wydarzeń plenerowych w stolicy. Setki dysz wodnych, dynamiczna choreografia fontann, lasery, światło i projekcje na gigantycznym ekranie wodnym tworzą spektakl, w którym obraz, dźwięk i ruch wody splatają się w niezwykłą, multimedialną opowieść. Synchronizacja muzyki, efektów świetlnych i animacji sprawia, że każdy pokaz jest intensywnym, emocjonalnym doświadczeniem oglądanym przez tysiące widzów. Tegoroczne widowisko „Wielkie Serca” niesie przesłanie o sile dobra, empatii i wzajemnej życzliwości. Animacje wyświetlane na ekranie wodnym przypomną, że nawet drobne gesty mogą zmieniać rzeczywistość, a dobro, kiedy się nim dzielimy, wraca z podwójną siłą. W tej symbolicznej opowieści pojawią się również postaci wybitnych Polaków związanych z Warszawą – ludzi, których talent, pasja i osiągnięcia przyniosły im światową sławę i stały się powodem do narodowej dumy. Wśród bohaterów widowiska znajdą się m.in. Tamara Łempicka, Fryderyk Chopin oraz współczesne gwiazdy sportu – Robert Lewandowski i Iga Świątek. Muzyczną oprawę widowiska stworzą znane kompozycje muzyki filmowej i popularne utwory światowych artystów. Wśród nich znajdzie się również piosenka „Tak jak Ty” w wykonaniu Mimi Wydrzyńskiej, skomponowana przez Stanisława Syrewicza – cenionego twórcę muzyki filmowej i teatralnej. Tegoroczne widowisko to opowieść o ludziach, których talent i postawa inspirują innych. Chcemy przypomnieć sylwetki wybitnych Polaków związanych z Warszawą – osób, z których jesteśmy dumni i które pokazują, że pasja, wytrwałość i wrażliwość mogą zmieniać świat. Mamy nadzieję, że ta historia opowiedziana wodą, światłem i muzyką poruszy publiczność tak samo jak poprzednie pokazy. – mówi Andrzej Matusiak, dyrektor Stołecznej Estrady. Pokazy w Multimedialnym Parku Fontann od lat przyciągają setki tysięcy widzów i należą do najpopularniejszych letnich atrakcji Warszawy – zarówno dla mieszkańców, jak i turystów z Polski i z zagranicy. Wstęp na pokazy w Multimedialnym Parku Fontann jest bezpłatny. Pokazy są współfinansowane ze środków Miasta st. Warszawy. Program pokazów w Multimedialnym Parku Fontann (w każdy piątek i sobotę): Maj/ Czerwiec* / Lipiec – godz. 21:30 Sierpień – godz. 21:00 Wrzesień – godz. 20:30 *w dniach 19 i 20 czerwca, ze względu na Wianki nad Wisłą pokazy fontann „Wielkie Serca” nie odbędą się. Pokaz trwa 30 minut. Dostępność W trakcie pierwszego pokazu inauguracyjnego (1 maja) na terenie Multimedialnego Parku Fontann zostanie wydzielona specjalna, oznakowana strefa dla osób z niepełnosprawnościami. Będzie wyposażona w podest dla osób poruszających się na wózkach. Osoby niedosłyszące będą miały zapewnioną pętle indukcyjną. Osoby niewidome i słabowidzące przez cały sezon będą mogły skorzystać z audiodeskrypcji, która będzie dostępna na stronie: link Głośna muzyka, migotanie i efekty świetlne wykorzystywane podczas pokazów mogą wywoływać bóle głowy, epilepsje i zaburzenia percepcji. ORGANIZATOR: Stołeczna Estrada PARTNERZY: Wodociągi Warszawskie, Totalizator Sportowy – właściciel marki LOTTO, Radio ESKA, Informator Stolicy, Nasze Miasto, TVP3 Warszawa",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1775563354.webp",
-      "location": {
-        "name": "Multimedialny Park Fontann w Warszawie",
-        "district": "Śródmieście"
-      },
-      "url": "https://estrada.com.pl/multimedialny_park/2026/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://estrada.com.pl/multimedialny_park/2026/",
-      "scrapped_timestamp": "2026-08-18T07:41:12.046801+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "„Wielkie Serca” – spektakle w Multimedialnym Parku Fontann 2026",
-          "description": "„Wielkie Serca” – nowy sezon spektakli w Multimedialnym Parku Fontann Pokazy w Multimedialnym Parku Fontann to jedno z najbardziej widowiskowych wydarzeń plenerowych w stolicy. Setki dysz wodnych, dynamiczna choreografia fontann, lasery, światło i projekcje na gigantycznym ekranie wodnym tworzą spektakl, w którym obraz, dźwięk i ruch wody splatają się w niezwykłą, multimedialną opowieść. Synchronizacja muzyki, efektów świetlnych i animacji sprawia, że każdy pokaz jest intensywnym, emocjonalnym doświadczeniem oglądanym przez tysiące widzów. Tegoroczne widowisko „Wielkie Serca” niesie przesłanie o sile dobra, empatii i wzajemnej życzliwości. Animacje wyświetlane na ekranie wodnym przypomną, że nawet drobne gesty mogą zmieniać rzeczywistość, a dobro, kiedy się nim dzielimy, wraca z podwójną siłą. W tej symbolicznej opowieści pojawią się również postaci wybitnych Polaków związanych z Warszawą – ludzi, których talent, pasja i osiągnięcia przyniosły im światową sławę i stały się powodem do narodowej dumy. Wśród bohaterów widowiska znajdą się m.in. Tamara Łempicka, Fryderyk Chopin oraz współczesne gwiazdy sportu – Robert Lewandowski i Iga Świątek. Muzyczną oprawę widowiska stworzą znane kompozycje muzyki filmowej i popularne utwory światowych artystów. Wśród nich znajdzie się również piosenka „Tak jak Ty” w wykonaniu Mimi Wydrzyńskiej, skomponowana przez Stanisława Syrewicza – cenionego twórcę muzyki filmowej i teatralnej. Tegoroczne widowisko to opowieść o ludziach, których talent i postawa inspirują innych. Chcemy przypomnieć sylwetki wybitnych Polaków związanych z Warszawą – osób, z których jesteśmy dumni i które pokazują, że pasja, wytrwałość i wrażliwość mogą zmieniać świat. Mamy nadzieję, że ta historia opowiedziana wodą, światłem i muzyką poruszy publiczność tak samo jak poprzednie pokazy. – mówi Andrzej Matusiak, dyrektor Stołecznej Estrady. Pokazy w Multimedialnym Parku Fontann od lat przyciągają setki tysięcy widzów i należą do najpopularniejszych letnich atrakcji Warszawy – zarówno dla mieszkańców, jak i turystów z Polski i z zagranicy. Wstęp na pokazy w Multimedialnym Parku Fontann jest bezpłatny. Pokazy są współfinansowane ze środków Miasta st. Warszawy. Program pokazów w Multimedialnym Parku Fontann (w każdy piątek i sobotę): Maj/ Czerwiec* / Lipiec – godz. 21:30 Sierpień – godz. 21:00 Wrzesień – godz. 20:30 *w dniach 19 i 20 czerwca, ze względu na Wianki nad Wisłą pokazy fontann „Wielkie Serca” nie odbędą się. Pokaz trwa 30 minut. Dostępność W trakcie pierwszego pokazu inauguracyjnego (1 maja) na terenie Multimedialnego Parku Fontann zostanie wydzielona specjalna, oznakowana strefa dla osób z niepełnosprawnościami. Będzie wyposażona w podest dla osób poruszających się na wózkach. Osoby niedosłyszące będą miały zapewnioną pętle indukcyjną. Osoby niewidome i słabowidzące przez cały sezon będą mogły skorzystać z audiodeskrypcji, która będzie dostępna na stronie: link Głośna muzyka, migotanie i efekty świetlne wykorzystywane podczas pokazów mogą wywoływać bóle głowy, epilepsje i zaburzenia percepcji. ORGANIZATOR: Stołeczna Estrada PARTNERZY: Wodociągi Warszawskie, Totalizator Sportowy – właściciel marki LOTTO, Radio ESKA, Informator Stolicy, Nasze Miasto, TVP3 Warszawa"
-        },
-        "en": {
-          "title": "Great Hearts – Shows at the Multimedia Fountain Park 2026",
-          "description": "Great Hearts – a new season of shows at the Multimedia Fountain Park. The shows at the Multimedia Fountain Park are one of the most spectacular outdoor events in the capital. Hundreds of water jets, dynamic choreography of the fountains, lasers, lights, and projections on a giant water screen create a spectacle where image, sound, and the movement of water intertwine into an extraordinary multimedia story. The synchronization of music, light effects, and animations makes each show an intense, emotional experience watched by thousands of spectators. This year's performance 'Great Hearts' carries a message about the power of goodness, empathy, and mutual kindness. The animations displayed on the water screen will remind us that even small gestures can change reality, and that goodness, when shared, returns doubly."
-        },
-        "uk": {
-          "title": "«Великі Серця» – спектаклі в Мультимедійному Парку Фонтанів 2026",
-          "description": "«Великі Серця» – новий сезон спектаклів у Мультимедійному Парку Фонтанів. Покажчики в Мультимедійному Парку Фонтанів – це одне з найвражаючих подій на відкритому повітрі в столиці. Сотні водяних струменів, динамічна хореографія фонтанів, лазери, світло та проекції на гігантському водяному екрані створюють спектакль, в якому образ, звук і рух води переплітаються в незвичайну, мультимедійну оповідь. Синхронізація музики, світлових ефектів і анімацій робить кожен показ інтенсивним, емоційним досвідом, який спостерігають тисячі глядачів. Цьогорічне видовище «Великі Серця» несе послання про силу добра, емпатії та взаємної доброзичливості. Анімації, що відображаються на водяному екрані, нагадають, що навіть дрібні жести можуть змінювати реальність, а добро, коли ми ним ділимося, повертається з подвійною силою."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-18T07:45:09.440551+00:00"
-    },
     "strefa-nowych-technologii-w-centralnym-przystanku-historia-2026-08-22T10:00:00+02:00": {
       "title": "Strefa Nowych Technologii w Centralnym Przystanku Historia",
       "date": "2026-08-22T10:00:00+02:00",
@@ -10691,129 +10291,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-08-18T07:45:09.440591+00:00"
-    },
-    "reksio-uszatek-i-sp-ka-co-rodzice-czytali-albo-s-uchali-gdy-byli-mali-2026-08-21T11:00:00+02:00": {
-      "title": "Reksio, Uszatek i spółka - co rodzice czytali, albo słuchali, gdy byli mali",
-      "date": "2026-08-21T11:00:00+02:00",
-      "end_date": "2026-08-21T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Cykl wspólnych, głośnych czytań przypominających,,małym i dużym\" czytelni(cz)kom o bohaterach książek, które czytali ich rodzice lub dziadkowie, a także warsztaty z tworzenia zakładek. Nie tylko wspólnie czytamy, ale także rysujemy, kolorujemy, tworzymy zakładki i przypinki! Zapraszamy w każdy piątek od 10 lipca do 28 sierpnia w godzinach 11:00-13:00. Wiek: 3-10 lat. Projekt powstał, dzięki wsparciu finansowemu Miasta Stołecznego Warszawy i Staromiejskiego Domu Kultury oraz towarzyszy konkursowi na Ulubioną Księgarnię Warszawy.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1784823659.webp",
-      "location": {
-        "name": "ul. Nowogrodzka 8",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/events/1044574931596036",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1044574931596036",
-      "scrapped_timestamp": "2026-08-18T07:41:55.274473+00:00",
-      "category": "Storytime",
-      "age_range": {
-        "min": 3,
-        "max": 10
-      },
-      "translations": {
-        "pl": {
-          "title": "Reksio, Uszatek i spółka - co rodzice czytali, albo słuchali, gdy byli mali",
-          "description": "Cykl wspólnych, głośnych czytań przypominających,,małym i dużym\" czytelni(cz)kom o bohaterach książek, które czytali ich rodzice lub dziadkowie, a także warsztaty z tworzenia zakładek. Nie tylko wspólnie czytamy, ale także rysujemy, kolorujemy, tworzymy zakładki i przypinki! Zapraszamy w każdy piątek od 10 lipca do 28 sierpnia w godzinach 11:00-13:00. Wiek: 3-10 lat. Projekt powstał, dzięki wsparciu finansowemu Miasta Stołecznego Warszawy i Staromiejskiego Domu Kultury oraz towarzyszy konkursowi na Ulubioną Księgarnię Warszawy."
-        },
-        "en": {
-          "title": "Reksio, Uszatek and Company - What Parents Read or Listened to When They Were Young",
-          "description": "A series of joint, loud readings reminding 'small and large' readers about the heroes of the books their parents or grandparents read, as well as workshops for creating bookmarks. We not only read together but also draw, color, create bookmarks, and pins! We invite you every Friday from July 10 to August 28 from 11:00 AM to 1:00 PM. Age: 3-10 years. The project was created with the financial support of the Capital City of Warsaw and the Old Town Cultural Center and accompanies the competition for the Favorite Bookstore of Warsaw."
-        },
-        "uk": {
-          "title": "Рексіо, Ушatek та компанія - що читали або слухали батьки, коли були маленькими",
-          "description": "Цикл спільних, гучних читань, які нагадують \"малим і великим\" читачам про героїв книг, які читали їхні батьки або дідусі та бабусі, а також майстер-класи зі створення закладок. Ми не лише читаємо разом, але й малюємо, розфарбовуємо, створюємо закладки та значки! Запрошуємо кожної п'ятниці з 10 липня до 28 серпня з 11:00 до 13:00. Вік: 3-10 років. Проект реалізовано завдяки фінансовій підтримці Міста Столичного Варшави та Староміського Будинку Культури, а також супроводжує конкурс на Улюблену Книгарню Варшави."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-18T07:45:09.440682+00:00"
-    },
-    "plansz-wkowe-pi-tki-pileckiego-klub-gier-historycznych-2026-08-21T15:30:00+02:00": {
-      "title": "Planszówkowe Piątki Pileckiego - KLUB GIER HISTORYCZNYCH",
-      "date": "2026-08-21T15:30:00+02:00",
-      "end_date": "2026-08-21T15:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Przez cały lipiec i sierpień w Galerii w Domu Bez Kantów (Krakowskie Przedmieście 11, Warszawa) w każdy piątek od 15:30 do 18:30 zagracie w dostępne na miejscu jak i przyniesione przez Was planszówki, karcianki i bitewniaki :D Wydarzenie odbędzie się w dni: 3 lipca 10 lipca 17 lipca 24 lipca 31 lipca 7 sierpnia 14 sierpnia 21 sierpnia 28 sierpnia Chętne osoby prosimy o zapisanie się przez formularz >> link Przykładowe pozycje na miejscu: Konspiracja, Dom Turka, This War of Mine, Timeline, Scythe, Bolt Action, Bogowie Wojny: Togo, Dust 1947, Czas Honoru: Operacja Most 3, Nieustraszeni: Afryka Północna...",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1530.1782907998.webp",
-      "location": {
-        "name": "Krakowskie Przedmieście 11, Instytut Pileckiego - Galeria Instytutu Pileckiego w Domu Bez Kantów",
-        "district": "Śródmieście"
-      },
-      "url": "https://instytutpileckiego.pl/pl/instytut/kalendarz/planszowkowe-piatki-wakacje-w-galerii-instytutu-pileckiego-w",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://instytutpileckiego.pl/pl/instytut/kalendarz/planszowkowe-piatki-wakacje-w-galerii-instytutu-pileckiego-w",
-      "scrapped_timestamp": "2026-08-18T07:41:59.883937+00:00",
-      "category": "Games",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Planszówkowe Piątki Pileckiego - KLUB GIER HISTORYCZNYCH",
-          "description": "Przez cały lipiec i sierpień w Galerii w Domu Bez Kantów (Krakowskie Przedmieście 11, Warszawa) w każdy piątek od 15:30 do 18:30 zagracie w dostępne na miejscu jak i przyniesione przez Was planszówki, karcianki i bitewniaki :D Wydarzenie odbędzie się w dni: 3 lipca 10 lipca 17 lipca 24 lipca 31 lipca 7 sierpnia 14 sierpnia 21 sierpnia 28 sierpnia Chętne osoby prosimy o zapisanie się przez formularz >> link Przykładowe pozycje na miejscu: Konspiracja, Dom Turka, This War of Mine, Timeline, Scythe, Bolt Action, Bogowie Wojny: Togo, Dust 1947, Czas Honoru: Operacja Most 3, Nieustraszeni: Afryka Północna..."
-        },
-        "en": {
-          "title": "Board Game Fridays at Pilecki - HISTORICAL GAMES CLUB",
-          "description": "Throughout July and August at the Gallery in the House Without Corners (Krakowskie Przedmieście 11, Warsaw) every Friday from 3:30 PM to 6:30 PM, you can play board games, card games, and war games available on-site as well as those you bring along :D The event will take place on the following dates: July 3, July 10, July 17, July 24, July 31, August 7, August 14, August 21, August 28. Interested individuals are asked to sign up via the form >> link. Sample games available on-site: Conspiracy, Turkish House, This War of Mine, Timeline, Scythe, Bolt Action, Gods of War: Togo, Dust 1947, Honor Time: Operation Bridge 3, The Unstoppable: North Africa..."
-        },
-        "uk": {
-          "title": "Настільні ігри П'ятниці Пілецького - КЛУБ ІСТОРИЧНИХ ІГР",
-          "description": "Протягом липня та серпня в Галереї в Домі Без Кантів (Краківське Передмістя 11, Варшава) кожної п'ятниці з 15:30 до 18:30 ви зможете грати в доступні на місці, а також принесені вами настільні ігри, карткові ігри та бойові ігри :D Подія відбудеться в дні: 3 липня, 10 липня, 17 липня, 24 липня, 31 липня, 7 серпня, 14 серпня, 21 серпня, 28 серпня. Бажаючих просимо записатися через форму >> посилання. Прикладові ігри на місці: Конспірація, Дім Турка, This War of Mine, Timeline, Scythe, Bolt Action, Боги Війни: Того, Dust 1947, Час Честі: Операція Міст 3, Неустрашні: Північна Африка..."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-18T07:45:09.440702+00:00"
-    },
-    "bezp-atne-zaj-cia-plenerowe-w-pi-tki-godz-18-00-19-00-i-20-00-2026-08-21T18:00:00+02:00": {
-      "title": "Bezpłatne zajęcia plenerowe w piątki [godz. 18:00, 19:00 i 20:00]",
-      "date": "2026-08-21T18:00:00+02:00",
-      "end_date": "2026-08-21T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "🧎‍♂️‍➡️🧎‍♀️‍➡️Od 5 do 28 sierpnia zapraszamy na plenerowe zajęcia zumby i stretchingu w dwóch pięknych lokalizacjach na Bemowie! Do wyboru: 🌳Park Górczewska (przy Amfiteatrze Bemowo), środy (05, 12, 19, 26 sierpnia) 18.00 – Zumba dla dzieci, 19.00 – Zumba, 20.00 – Stretching 🌳Fort Bema (polanka przy Cafe Jurta), piątki (07, 14, 21, 28 sierpnia) 18.00 – Zumba dla dzieci, 19.00 – Zumba, 20.00 – Stretching 🆓Wstęp jest wolny. Zachęcamy do udziału!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1785839430.webp",
-      "location": {
-        "name": "Fort Bema",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo/?fbid=1510842274418944&set=a.628649225971591",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo/?fbid=1510842274418944&set=a.628649225971591",
-      "scrapped_timestamp": "2026-08-18T07:42:05.995131+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia plenerowe w piątki [godz. 18:00, 19:00 i 20:00]",
-          "description": "🧎‍♂️‍➡️🧎‍♀️‍➡️Od 5 do 28 sierpnia zapraszamy na plenerowe zajęcia zumby i stretchingu w dwóch pięknych lokalizacjach na Bemowie! Do wyboru: 🌳Park Górczewska (przy Amfiteatrze Bemowo), środy (05, 12, 19, 26 sierpnia) 18.00 – Zumba dla dzieci, 19.00 – Zumba, 20.00 – Stretching 🌳Fort Bema (polanka przy Cafe Jurta), piątki (07, 14, 21, 28 sierpnia) 18.00 – Zumba dla dzieci, 19.00 – Zumba, 20.00 – Stretching 🆓Wstęp jest wolny. Zachęcamy do udziału!"
-        },
-        "en": {
-          "title": "Free Outdoor Classes on Fridays [6:00 PM, 7:00 PM, and 8:00 PM]",
-          "description": "🧎‍♂️‍➡️🧎‍♀️‍From August 5 to 28, we invite you to outdoor Zumba and stretching classes in two beautiful locations in Bemowo! Choose from: 🌳Górczewska Park (near the Bemowo Amphitheater), Wednesdays (August 5, 12, 19, 26) 6:00 PM – Zumba for kids, 7:00 PM – Zumba, 8:00 PM – Stretching 🌳Fort Bema (glade by Cafe Jurta), Fridays (August 7, 14, 21, 28) 6:00 PM – Zumba for kids, 7:00 PM – Zumba, 8:00 PM – Stretching 🆓Entry is free. We encourage participation!"
-        },
-        "uk": {
-          "title": "Безкоштовні заняття на свіжому повітрі по п'ятницях [18:00, 19:00 та 20:00]",
-          "description": "🧎‍♂️‍➡️🧎‍♀️‍➡️З 5 по 28 серпня запрошуємо на заняття з зумби та стретчингу на свіжому повітрі в двох красивих локаціях на Бемові! На вибір: 🌳Парк Гурчевська (біля Амфітеатру Бемово), середи (05, 12, 19, 26 серпня) 18:00 – Зумба для дітей, 19:00 – Зумба, 20:00 – Стретчинг 🌳Форт Бема (галявина біля Cafe Jurta), п'ятниці (07, 14, 21, 28 серпня) 18:00 – Зумба для дітей, 19:00 – Зумба, 20:00 – Стретчинг 🆓Вхід вільний. Запрошуємо до участі!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-08-18T07:45:09.440726+00:00"
     },
     "bajkowe-wakacje-z-teatrem-baza-2026-08-22T10:00:00+02:00": {
       "title": "Bajkowe wakacje z Teatrem Baza",
@@ -11635,47 +11112,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-08-19T07:52:35.118741+00:00"
     },
-    "warsztatownia-wakacyjne-spotkania-dla-dzieci-2026-08-21T11:00:00+02:00": {
-      "title": "WARSztatownia - wakacyjne spotkania dla dzieci",
-      "date": "2026-08-21T11:00:00+02:00",
-      "end_date": "2026-08-21T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "KIEDY: od 1 lipca do 28 sierpnia środy, czwartki i piątki w godz. 11.00 – 12.30 DLA KOGO: dzieci w wieku 5-10 lat WSTĘP WOLNY, zapisy na: rejestracjafw@1944.pl lub tel. 22 629 60 78 Przez całe wakacje Fotoplastikon Warszawski zamieni się w miejsce pełne wyobraźni, kolorów i miejskich historii. Zapraszamy dzieci na cykl twórczych warsztatów, podczas których będziemy odkrywać Warszawę wszystkimi zmysłami — rysować, malować, budować, fotografować, rzeźbić, szyć, tworzyć z klocków i poznawać niezwykłe legendy stolicy. Każde wakacyjny tydzień będzie podróżą do innej dzielnicy miasta. Raz spojrzymy na Warszawę z wysokości Pałacu Kultury, innym razem odwiedzimy praskie ZOO, stworzymy własny Stadion Narodowy albo zamienimy się w ulicznych artystów projektujących kolorowe murale Mokotowa. Wśród wakacyjnych inspiracji pojawią się także nowoczesne wieżowce Woli, zielone zakątki Bemowa, królewskie historie Wilanowa, tajemnicze uliczki Żoliborza a na koniec stworzymy własną wizję Warszawy przyszłości. Co tydzień „odwiedzimy” inną dzielnicę stolicy: 1-3.07 - ŚRÓDMIEŚCIE 8-10.07 - PRAGA PŁN 15-17.07 - PRAGA PŁD 22-24.07 - MOKOTÓW 29-31.07 - WOLA 5-7.08 - BEMOWO 12-14.08 - WILANÓW 19-21.08 - ŻOLIBORZ 26-28.08 – WARSZAWA PRZYSZŁOŚCI - ŚRODY – w każdą wakacyjną środę zapraszamy dzieci na niezwykłą podróż po dzielnicach Warszawy, podczas której poznają historię miasta, jego legendy poprzez ciekawe książki i artystyczne działania. Uczestnicy będą szyć owocowe broszki i zwierzęta, tworzyć gliniane medaliony, rzeźby, domy i modele dawnych fabryk, a także projektować papierowe samoloty, królewskie stroje oraz wizje Warszawy przyszłości z wykorzystaniem techniki poezji papieru. Zajęcia połączą czytanie inspirujących książek o stolicy z twórczymi warsztatami plastycznymi i rzeźbiarskimi. Warsztaty poprowadzą: Joanna Michalska – artystka, animatorka oraz Leszek Michalski – rzeźbiarz. - CZWARTKI- w lipcowe czwartki zapraszamy dzieci na warsztaty architektoniczne, podczas których będą odkrywać najciekawsze miejsca Warszawy poprzez zabawę, budowanie i działania artystyczne. Uczestnicy poznają historię m.in. Pałacu Kultury i Nauki, warszawskiego ZOO, Stadionu Narodowego, murali na Służewcu i Varso Tower, a następnie stworzą własne modele budynków, domy dla zwierząt, stadiony, wieżowce oraz prace inspirowane sztuką uliczną. To kreatywna podróż po architekturze i sztuce, rozwijająca wyobraźnię i twórcze myślenie. Warsztaty poprowadzą: Witomił Mendel - Architekt i edukator, twórca i główny prowadzący \"Architekturek\" zajęć z architektury i sztuki dla dzieci oraz Sylwia Miklaszewska - edukatorka, której wyobraźnia nigdy nie odpoczywa. W sierpniowe czwartki dzieci poznają niezwykły świat fotografii, eksperymentując z dawnymi technikami i twórczym przetwarzaniem obrazów. Uczestnicy wykonają własne odbitki w technice cyjanotypii, będą zmieniać ich kolory za pomocą naturalnych barwników, a także ręcznie kolorować archiwalne fotografie Warszawy. Na zakończenie stworzą autorskie fotokolaże inspirowane Śródmieściem, łącząc zdjęcia z wycinkami z gazet i czasopism. To okazja do rozwijania kreatywności oraz poznawania historii miasta poprzez fotografię i sztukę. Warsztaty poprowadzi: Michał Dziurkowski – fotograf i edukator. - PIĄTKI – w wakacyjne piątki zapraszamy dzieci na warsztaty, podczas których poznają stolicę poprzez kreatywną zabawę i budowanie z klocków. Uczestnicy będą tworzyć własne modele związane z warszawskimi dzielnicami – od środków transportu, zwierząt i sportowców po samoloty, maszyny budowlane czy elementy królewskich ogrodów. Wspólnie powstaną także imponujące konstrukcje jak lotnisko, Cytadela, sportowe miasteczko czy Warszawa przyszłości. Zajęcia rozwijają wyobraźnię, samodzielność i umiejętność współpracy, jednocześnie przybliżając historię i charakter miasta. Warsztaty poprowadzi: Bricks 4 Kidz. Zapraszamy!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1781893464.webp",
-      "location": {
-        "name": "FOTOPLASTIKON WARSZAWSKI, Al. Jerozolimskie 51",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/events/27751282274464994/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/27751282274464994/",
-      "scrapped_timestamp": "2026-08-19T07:49:55.405854+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 5,
-        "max": 10
-      },
-      "translations": {
-        "pl": {
-          "title": "WARSztatownia - wakacyjne spotkania dla dzieci",
-          "description": "KIEDY: od 1 lipca do 28 sierpnia środy, czwartki i piątki w godz. 11.00 – 12.30 DLA KOGO: dzieci w wieku 5-10 lat WSTĘP WOLNY, zapisy na: rejestracjafw@1944.pl lub tel. 22 629 60 78 Przez całe wakacje Fotoplastikon Warszawski zamieni się w miejsce pełne wyobraźni, kolorów i miejskich historii. Zapraszamy dzieci na cykl twórczych warsztatów, podczas których będziemy odkrywać Warszawę wszystkimi zmysłami — rysować, malować, budować, fotografować, rzeźbić, szyć, tworzyć z klocków i poznawać niezwykłe legendy stolicy. Każde wakacyjny tydzień będzie podróżą do innej dzielnicy miasta. Raz spojrzymy na Warszawę z wysokości Pałacu Kultury, innym razem odwiedzimy praskie ZOO, stworzymy własny Stadion Narodowy albo zamienimy się w ulicznych artystów projektujących kolorowe murale Mokotowa. Wśród wakacyjnych inspiracji pojawią się także nowoczesne wieżowce Woli, zielone zakątki Bemowa, królewskie historie Wilanowa, tajemnicze uliczki Żoliborza a na koniec stworzymy własną wizję Warszawy przyszłości. Co tydzień „odwiedzimy” inną dzielnicę stolicy: 1-3.07 - ŚRÓDMIEŚCIE 8-10.07 - PRAGA PŁN 15-17.07 - PRAGA PŁD 22-24.07 - MOKOTÓW 29-31.07 - WOLA 5-7.08 - BEMOWO 12-14.08 - WILANÓW 19-21.08 - ŻOLIBORZ 26-28.08 – WARSZAWA PRZYSZŁOŚCI - ŚRODY – w każdą wakacyjną środę zapraszamy dzieci na niezwykłą podróż po dzielnicach Warszawy, podczas której poznają historię miasta, jego legendy poprzez ciekawe książki i artystyczne działania. Uczestnicy będą szyć owocowe broszki i zwierzęta, tworzyć gliniane medaliony, rzeźby, domy i modele dawnych fabryk, a także projektować papierowe samoloty, królewskie stroje oraz wizje Warszawy przyszłości z wykorzystaniem techniki poezji papieru. Zajęcia połączą czytanie inspirujących książek o stolicy z twórczymi warsztatami plastycznymi i rzeźbiarskimi. Warsztaty poprowadzą: Joanna Michalska – artystka, animatorka oraz Leszek Michalski – rzeźbiarz. - CZWARTKI- w lipcowe czwartki zapraszamy dzieci na warsztaty architektoniczne, podczas których będą odkrywać najciekawsze miejsca Warszawy poprzez zabawę, budowanie i działania artystyczne. Uczestnicy poznają historię m.in. Pałacu Kultury i Nauki, warszawskiego ZOO, Stadionu Narodowego, murali na Służewcu i Varso Tower, a następnie stworzą własne modele budynków, domy dla zwierząt, stadiony, wieżowce oraz prace inspirowane sztuką uliczną. To kreatywna podróż po architekturze i sztuce, rozwijająca wyobraźnię i twórcze myślenie. Warsztaty poprowadzą: Witomił Mendel - Architekt i edukator, twórca i główny prowadzący \"Architekturek\" zajęć z architektury i sztuki dla dzieci oraz Sylwia Miklaszewska - edukatorka, której wyobraźnia nigdy nie odpoczywa. W sierpniowe czwartki dzieci poznają niezwykły świat fotografii, eksperymentując z dawnymi technikami i twórczym przetwarzaniem obrazów. Uczestnicy wykonają własne odbitki w technice cyjanotypii, będą zmieniać ich kolory za pomocą naturalnych barwników, a także ręcznie kolorować archiwalne fotografie Warszawy. Na zakończenie stworzą autorskie fotokolaże inspirowane Śródmieściem, łącząc zdjęcia z wycinkami z gazet i czasopism. To okazja do rozwijania kreatywności oraz poznawania historii miasta poprzez fotografię i sztukę. Warsztaty poprowadzi: Michał Dziurkowski – fotograf i edukator. - PIĄTKI – w wakacyjne piątki zapraszamy dzieci na warsztaty, podczas których poznają stolicę poprzez kreatywną zabawę i budowanie z klocków. Uczestnicy będą tworzyć własne modele związane z warszawskimi dzielnicami – od środków transportu, zwierząt i sportowców po samoloty, maszyny budowlane czy elementy królewskich ogrodów. Wspólnie powstaną także imponujące konstrukcje jak lotnisko, Cytadela, sportowe miasteczko czy Warszawa przyszłości. Zajęcia rozwijają wyobraźnię, samodzielność i umiejętność współpracy, jednocześnie przybliżając historię i charakter miasta. Warsztaty poprowadzi: Bricks 4 Kidz. Zapraszamy!"
-        },
-        "en": {
-          "title": "WARSztatownia - Summer Meetings for Children",
-          "description": "WHEN: From July 1 to August 28, Wednesdays, Thursdays, and Fridays from 11:00 AM to 12:30 PM FOR WHOM: Children aged 5-10 FREE ENTRY, registration at: rejestracjafw@1944.pl or call 22 629 60 78 Throughout the summer, the Photoplasticon in Warsaw will transform into a place full of imagination, colors, and urban stories. We invite children to a series of creative workshops where we will explore Warsaw with all our senses — drawing, painting, building, photographing, sculpting, sewing, creating with blocks, and discovering the extraordinary legends of the capital. Each summer week will be a journey to a different district of the city. One time we will look at Warsaw from the height of the Palace of Culture, another time we will visit the Praga Zoo, create our own National Stadium, or turn into street artists designing colorful murals in Mokotów. Among the summer..."
-        },
-        "uk": {
-          "title": "WARSztatownia - літні зустрічі для дітей",
-          "description": "КОЛИ: з 1 липня до 28 серпня, по середах, четвергах та п'ятницях з 11:00 до 12:30 ДЛЯ КОГО: діти віком 5-10 років ВХІД ВІЛЬНИЙ, реєстрація за адресою: rejestracjafw@1944.pl або за телефоном 22 629 60 78 Протягом всього літа Фотопластикон Варшави перетвориться на місце, наповнене уявою, кольорами та міськими історіями. Запрошуємо дітей на цикл творчих майстер-класів, під час яких ми будемо відкривати Варшаву всіма відчуттями — малювати, фарбувати, будувати, фотографувати, ліпити, шити, створювати з кубиків та знайомитися з незвичайними легендами столиці. Кожен літній тиждень буде подорожжю до іншого району міста. Один раз ми поглянемо на Варшаву з висоти Палацу Культури, іншим разом відвідаємо пражський ЗОО, створимо власний Національний стадіон або перетворимося на вуличних художників, які проектують кольорові мурали Мокотова."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-19T07:52:35.118757+00:00"
-    },
     "familiaki-spotkania-dla-rodzic-w-z-dzie-mi-do-6-lat-2026-08-22T10:00:00+02:00": {
       "title": "Familiaki - spotkania dla rodziców z dziećmi do 6 lat",
       "date": "2026-08-22T10:00:00+02:00",
@@ -12451,91 +11887,6 @@
       "district": "Ursynów",
       "updated_at": "2026-08-20T07:37:34.618747+00:00"
     },
-    "cuda-wianki-zaj-cia-plastyczne-dla-dzieci-2026-08-21T10:00:00+02:00": {
-      "title": "Cuda-Wianki: zajęcia plastyczne dla dzieci",
-      "date": "2026-08-21T10:00:00+02:00",
-      "end_date": "2026-08-21T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Cuda-Wianki w Komiksowie: Kid Zone 🌼 🎨 Zapraszamy na bezpłatne wakacyjne spotkania pełne kreatywnej zabawy inspirowanej polskim folklorem! 🌿 Wspólnie będziemy tworzyć prace plastyczne, poznawać ludowe motywy i rozwijać wyobraźnię poprzez różnorodne aktywności artystyczne. ✨ Każde spotkanie to nowy pomysł, mnóstwo kolorów i świetna okazja do twórczego spędzenia wakacyjnego poranka. 📅 Każdy wtorek i piątek podczas wakacji, godz. 10:00-11:00 📍 Biblioteka Komiksowo, Al. \"Solidarności\" 90 🙋‍♀️🙋‍♂️ Dla dzieci w wieku 9-12 lat Zapisy: 📩 bd21@bpwola.waw.pl ☎️ 22 529 09 40",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1783424178.webp",
-      "location": {
-        "name": "Aleja \"Solidarności\" 90",
-        "district": "Wola"
-      },
-      "url": "https://www.facebook.com/bibliotekakomiksowo/posts/pfbid02ovskqCzbZBtqTFcXbxcLBsEC6WrdrRKPWAgKJDRD39Gr7ywfY3yXwMAyBFJtSeetl",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/bibliotekakomiksowo/posts/pfbid02ovskqCzbZBtqTFcXbxcLBsEC6WrdrRKPWAgKJDRD39Gr7ywfY3yXwMAyBFJtSeetl",
-      "scrapped_timestamp": "2026-08-20T07:35:30.529245+00:00",
-      "category": "Arts",
-      "additional_categories": [
-        "Workshops"
-      ],
-      "age_range": {
-        "min": 9,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Cuda-Wianki: zajęcia plastyczne dla dzieci",
-          "description": "Cuda-Wianki w Komiksowie: Kid Zone 🌼 🎨 Zapraszamy na bezpłatne wakacyjne spotkania pełne kreatywnej zabawy inspirowanej polskim folklorem! 🌿 Wspólnie będziemy tworzyć prace plastyczne, poznawać ludowe motywy i rozwijać wyobraźnię poprzez różnorodne aktywności artystyczne. ✨ Każde spotkanie to nowy pomysł, mnóstwo kolorów i świetna okazja do twórczego spędzenia wakacyjnego poranka. 📅 Każdy wtorek i piątek podczas wakacji, godz. 10:00-11:00 📍 Biblioteka Komiksowo, Al. \"Solidarności\" 90 🙋‍♀️🙋‍♂️ Dla dzieci w wieku 9-12 lat Zapisy: 📩 bd21@bpwola.waw.pl ☎️ 22 529 09 40"
-        },
-        "en": {
-          "title": "Cuda-Wianki: Art Classes for Children",
-          "description": "Cuda-Wianki in Komiksowo: Kid Zone 🌼 🎨 We invite you to free summer meetings full of creative fun inspired by Polish folklore! 🌿 Together we will create artistic works, explore folk motifs, and develop our imagination through various artistic activities. ✨ Each meeting brings a new idea, lots of colors, and a great opportunity to spend a creative summer morning. 📅 Every Tuesday and Friday during the summer, from 10:00 AM to 11:00 AM 📍 Komiksowo Library, Al. 'Solidarności' 90 🙋‍♀️🙋‍♂️ For children aged 9-12 years Registration: 📩 bd21@bpwola.waw.pl ☎️ 22 529 09 40"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wola",
-      "updated_at": "2026-08-20T07:37:34.618801+00:00"
-    },
-    "ekoin-ynierowie-warsztaty-kreatywne-dla-dzieci-2026-08-21T12:00:00+02:00": {
-      "title": "EKOINŻYNIEROWIE warsztaty kreatywne dla dzieci",
-      "date": "2026-08-21T12:00:00+02:00",
-      "end_date": "2026-08-21T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Kolorowe węże z nakrętek, ruchome figurki i zabawki według własnych pomysłów stworzą dzieci podczas warsztatów „Ekoinżynierowie” w Forcie Wola. Już 21 i 22 sierpnia strefa przy Drzewie zamieni się w pracownię młodych konstruktorów, która połączy majsterkowanie z nauką ekologii i dobrą zabawą. Podczas warsztatów dzieci przekonają się, że do tworzenia nie zawsze potrzebne są nowe materiały. Czasem wystarczą rzeczy, które zwykle uznajemy za niepotrzebne, oraz dobry pomysł. Uczestnicy będą projektować i własnoręcznie wykonywać zabawki z materiałów, którym można nadać nowe życie. Nakrętki, rolki, papier i inne proste elementy staną się bazą do tworzenia własnych konstrukcji. Dzieci sprawdzą, jak zamienić swój pomysł w działający przedmiot, połączyć poszczególne części i wprawić zabawkę w ruch. Warsztaty pozwolą najmłodszym rozwijać kreatywność, zdolności manualne i techniczne myślenie, a przy okazji pokażą, że ekologia może iść w parze z zabawą. – Ekologii najlepiej uczyć przez działanie. Podczas warsztatów dzieci zobaczą, ile można stworzyć z prostych materiałów, które często mają pod ręką. Zaprojektują i zbudują własne zabawki, odkrywając przy tym nowe zastosowania dla różnych przedmiotów. Chcemy rozbudzić w nich wyobraźnię i pokazać, że dobry pomysł potrafi dać rzeczom drugie życie – mówi Magdalena Zawadzka-Mech, dyrektor centrum handlowego Fort Wola. „Ekoinżynierowie” uzupełniają ofertę wydarzeń, które Fort Wola przygotowuje dla mieszkańców Woli i Bemowa w ramach programu „Wolę mieć blisko”. Warsztaty odbędą się 21 i 22 sierpnia, w godzinach od 12.00 do 18.00 w strefie przy Drzewie. Liczba miejsc jest ograniczona. Każdy blok warsztatowy będzie poświęcony innej zabawce, a praca odbywać się będzie rotacyjnie, dzięki czemu kolejni uczestnicy będą mogli zajmować miejsca po zakończeniu swoich projektów. 📅 21 sierpnia 12:00–13:15 – Wesoły Ludzik 13:30–14:45 – Pełzająca Gąsienica 15:00–16:15 – Latający Samolocik 16:30–18:00 – Jeżdżący Robot 📅 22 sierpnia 12:00–13:15 – Wijący Wąż 13:30–14:45 – Obrotowy Lizak 15:00–16:15 – Odrzutowy Samochodzik 16:30–18:00 – Magiczna Pacynka 📍 Fort Wola, strefa przy drzewie 🕛 21–22 sierpnia, godz. 12:00–18:00 👉 WSTĘP WOLNY!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1200.1787135091.webp",
-      "location": {
-        "name": "Fort Wola, ul. Połczyńska 4",
-        "district": "Wola"
-      },
-      "url": "https://waw4free.pl/wydarzenie-157388-ekoinzynierowie-warsztaty-kreatywne-dla-dzieci",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://waw4free.pl/wydarzenie-157388-ekoinzynierowie-warsztaty-kreatywne-dla-dzieci",
-      "scrapped_timestamp": "2026-08-20T07:35:35.949512+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "STEM",
-        "Family Fun"
-      ],
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "EKOINŻYNIEROWIE warsztaty kreatywne dla dzieci",
-          "description": "Kolorowe węże z nakrętek, ruchome figurki i zabawki według własnych pomysłów stworzą dzieci podczas warsztatów „Ekoinżynierowie” w Forcie Wola. Już 21 i 22 sierpnia strefa przy Drzewie zamieni się w pracownię młodych konstruktorów, która połączy majsterkowanie z nauką ekologii i dobrą zabawą. Podczas warsztatów dzieci przekonają się, że do tworzenia nie zawsze potrzebne są nowe materiały. Czasem wystarczą rzeczy, które zwykle uznajemy za niepotrzebne, oraz dobry pomysł. Uczestnicy będą projektować i własnoręcznie wykonywać zabawki z materiałów, którym można nadać nowe życie. Nakrętki, rolki, papier i inne proste elementy staną się bazą do tworzenia własnych konstrukcji. Dzieci sprawdzą, jak zamienić swój pomysł w działający przedmiot, połączyć poszczególne części i wprawić zabawkę w ruch. Warsztaty pozwolą najmłodszym rozwijać kreatywność, zdolności manualne i techniczne myślenie, a przy okazji pokażą, że ekologia może iść w parze z zabawą. – Ekologii najlepiej uczyć przez działanie. Podczas warsztatów dzieci zobaczą, ile można stworzyć z prostych materiałów, które często mają pod ręką. Zaprojektują i zbudują własne zabawki, odkrywając przy tym nowe zastosowania dla różnych przedmiotów. Chcemy rozbudzić w nich wyobraźnię i pokazać, że dobry pomysł potrafi dać rzeczom drugie życie – mówi Magdalena Zawadzka-Mech, dyrektor centrum handlowego Fort Wola. „Ekoinżynierowie” uzupełniają ofertę wydarzeń, które Fort Wola przygotowuje dla mieszkańców Woli i Bemowa w ramach programu „Wolę mieć blisko”. Warsztaty odbędą się 21 i 22 sierpnia, w godzinach od 12.00 do 18.00 w strefie przy Drzewie. Liczba miejsc jest ograniczona. Każdy blok warsztatowy będzie poświęcony innej zabawce, a praca odbywać się będzie rotacyjnie, dzięki czemu kolejni uczestnicy będą mogli zajmować miejsca po zakończeniu swoich projektów. 📅 21 sierpnia 12:00–13:15 – Wesoły Ludzik 13:30–14:45 – Pełzająca Gąsienica 15:00–16:15 – Latający Samolocik 16:30–18:00 – Jeżdżący Robot 📅 22 sierpnia 12:00–13:15 – Wijący Wąż 13:30–14:45 – Obrotowy Lizak 15:00–16:15 – Odrzutowy Samochodzik 16:30–18:00 – Magiczna Pacynka 📍 Fort Wola, strefa przy drzewie 🕛 21–22 sierpnia, godz. 12:00–18:00 👉 WSTĘP WOLNY!"
-        },
-        "en": {
-          "title": "ECO ENGINEERS Creative Workshops for Children",
-          "description": "Colorful snakes made from bottle caps, movable figures, and toys based on their own ideas will be created by children during the 'Eco Engineers' workshops at Fort Wola. On August 21 and 22, the area by the Tree will transform into a workshop for young builders, combining DIY with learning about ecology and having fun. During the workshops, children will discover that creating does not always require new materials. Sometimes, all it takes are things we usually consider unnecessary and a good idea. Participants will design and create toys from materials that can be given new life. Caps, rolls, paper, and other simple elements will serve as the basis for their own constructions. Children will learn how to turn their ideas into functioning objects, connect different parts, and make their toys move."
-        },
-        "uk": {
-          "title": "ЕКОІНЖЕНЕРИ: креативні майстер-класи для дітей",
-          "description": "Яскраві змії з кришечок, рухомі фігурки та іграшки за власними ідеями створять діти під час майстер-класів «Екоінженери» у Фортеці Вола. Вже 21 та 22 серпня зона біля Дерева перетвориться на майстерню молодих конструкторів, яка поєднає майстрування з наукою екології та гарним настроєм. Під час майстер-класів діти переконаються, що для створення не завжди потрібні нові матеріали. Іноді достатньо речей, які зазвичай вважаємо непотрібними, та гарної ідеї. Учасники будуть проектувати та власноруч виготовляти іграшки з матеріалів, яким можна надати нове життя. Кришечки, рулони, папір та інші прості елементи стануть основою для створення власних конструкцій. Діти перевірять, як перетворити свою ідею на діючий предмет, з'єднати окремі частини та запустити іграшку в рух."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wola",
-      "updated_at": "2026-08-20T07:37:34.618821+00:00"
-    },
     "wielki-dzie-pszcz-w-pasiece-edukacyjnej-wilan-w-2026-08-22T12:00:00+02:00": {
       "title": "Wielki Dzień Pszczół w Pasiece Edukacyjnej Wilanów",
       "date": "2026-08-22T12:00:00+02:00",
@@ -13009,47 +12360,6 @@
       },
       "district": "Targówek",
       "updated_at": "2026-08-20T07:37:34.619086+00:00"
-    },
-    "owady-i-inne-bezkr-gowce-w-azienkach-ogl-daj-pod-lup-2026-08-21T10:30:00+02:00": {
-      "title": "Owady i inne bezkręgowce w Łazienkach - oglądaj pod lupą",
-      "date": "2026-08-21T10:30:00+02:00",
-      "end_date": "2026-08-21T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Owady i inne bezkręgowce w Łazienkach - oglądaj pod lupą Podczas letnich spotkań przyrodniczych w Nowej Palmiarni będziemy odkrywać za pomocą lup tajemnice małych bezkręgowców zamieszkujących łazienkowskie ogrody. Przyjrzymy się najmniejszym mieszkańcom łazienek, czyli owadom, ale też innym żyjącym tu bezkręgowcom: pajęczakom, wijom, skorupiakom i ślimakom. Lupy zapewniamy na miejscu. Będziemy posługiwać się także modelami bezkręgowców. Terminy Lipiec: wtorki i środy - 1, 7, 8, 14, 15, 21, 22, 28, 29 lipca 2026 r. Sierpień: wtorki, środy i piątki - 4, 5, 11, 12, 14, 18, 19, 21, 25, 26, 28 sierpnia 2026 r. Godziny Wtorki i środy: 14.00–15.30, 15.30–17.00 Piątki: 10.30–12.00, 12.00–13.30, 15.30–17.00 Dla kogo: dorośli, młodzież, rodziny z dziećmi od 6 r.ż. Bilety: 10 zł dorosły, 1 zł dziecko; bilety w kasach Muzeum oraz <a href=",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F007bf6da-a466-4eb9-ba86-9eb661abd1da.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/007bf6da-a466-4eb9-ba86-9eb661abd1da",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/007bf6da-a466-4eb9-ba86-9eb661abd1da",
-      "scrapped_timestamp": "2026-08-20T07:37:23.341954+00:00",
-      "category": "Nature & Wildlife",
-      "age_range": {
-        "min": 6,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Owady i inne bezkręgowce w Łazienkach - oglądaj pod lupą",
-          "description": "Owady i inne bezkręgowce w Łazienkach - oglądaj pod lupą Podczas letnich spotkań przyrodniczych w Nowej Palmiarni będziemy odkrywać za pomocą lup tajemnice małych bezkręgowców zamieszkujących łazienkowskie ogrody. Przyjrzymy się najmniejszym mieszkańcom łazienek, czyli owadom, ale też innym żyjącym tu bezkręgowcom: pajęczakom, wijom, skorupiakom i ślimakom. Lupy zapewniamy na miejscu. Będziemy posługiwać się także modelami bezkręgowców. Terminy Lipiec: wtorki i środy - 1, 7, 8, 14, 15, 21, 22, 28, 29 lipca 2026 r. Sierpień: wtorki, środy i piątki - 4, 5, 11, 12, 14, 18, 19, 21, 25, 26, 28 sierpnia 2026 r. Godziny Wtorki i środy: 14.00–15.30, 15.30–17.00 Piątki: 10.30–12.00, 12.00–13.30, 15.30–17.00 Dla kogo: dorośli, młodzież, rodziny z dziećmi od 6 r.ż. Bilety: 10 zł dorosły, 1 zł dziecko; bilety w kasach Muzeum oraz <a href="
-        },
-        "en": {
-          "title": "Insects and Other Invertebrates in Łazienki - Watch Under a Magnifying Glass",
-          "description": "Insects and Other Invertebrates in Łazienki - Watch Under a Magnifying Glass. During summer nature meetings at the New Palm House, we will discover the secrets of small invertebrates inhabiting the Łazienki gardens using magnifying glasses. We will take a closer look at the smallest residents of Łazienki, namely insects, as well as other invertebrates living here: arachnids, worms, crustaceans, and snails. Magnifying glasses will be provided on-site. We will also use models of invertebrates. Dates: July: Tuesdays and Wednesdays - July 1, 7, 8, 14, 15, 21, 22, 28, 29, 2026. August: Tuesdays, Wednesdays, and Fridays - August 4, 5, 11, 12, 14, 18, 19, 21, 25, 26, 28, 2026. Times: Tuesdays and Wednesdays: 2:00 PM–3:30 PM, 3:30 PM–5:00 PM. Fridays: 10:30 AM–12:00 PM, 12:00 PM–1:30 PM, 3:30 PM–5:00 PM. For whom: adults, youth, families with children from 6 years old. Tickets: 10 PLN for adults, 1 PLN for children."
-        },
-        "uk": {
-          "title": "Комахи та інші безхребетні в Лазенках - дивіться під лупою",
-          "description": "Комахи та інші безхребетні в Лазенках - дивіться під лупою. Під час літніх природничих зустрічей у Новій Пальмірі ми будемо відкривати за допомогою луп таємниці маленьких безхребетних, що мешкають у лазенківських садах. Ми розглянемо найменших мешканців Лазенок, тобто комах, а також інших безхребетних, що живуть тут: павукоподібних, черв'яків, ракоподібних та равликів. Лупи надаємо на місці. Ми також будемо користуватися моделями безхребетних. Дати: Липень: вівторки та середи - 1, 7, 8, 14, 15, 21, 22, 28, 29 липня 2026 р. Серпень: вівторки, середи та п'ятниці - 4, 5, 11, 12, 14, 18, 19, 21, 25, 26, 28 серпня 2026 р. Час: Вівторки та середи: 14:00–15:30, 15:30–17:00; П'ятниці: 10:30–12:00, 12:00–13:30, 15:30–17:00. Для кого: дорослі, молодь, сім'ї з дітьми від 6 років. Квитки: 10 зл дорослий, 1 зл дитина."
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html"
-      },
-      "updated_at": "2026-08-20T07:37:34.619151+00:00"
     },
     "dreamlive-concerts-koncerty-dla-dzieci-2026-09-26T09:30:00+02:00": {
       "title": "Dreamlive Concerts: Koncerty dla dzieci",
@@ -13921,128 +13231,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-08-21T07:36:22.734702+00:00"
-    },
-    "lato-w-wytw-rni-2026-08-21T10:30:00+02:00": {
-      "title": "Lato w Wytwórni",
-      "date": "2026-08-21T10:30:00+02:00",
-      "end_date": "2026-08-21T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na wakacyjne warsztaty w Wytwórni! To doskonała okazja, aby twórczo spędzić czas, nauczyć się nowych umiejętności i stworzyć coś wyjątkowego. W kameralnej atmosferze, pod okiem doświadczonych prowadzących, poznasz ciekawe techniki i w sposób kreatywny wykorzystasz materiały z odzysku. Do wyboru w najbliższych tygodniach są zajęcia, na których można: uszyć kosmetyczkę, torbę lub workoplecak zbudować lampkę stworzyć obraz techniką fotografii słonecznej skonstruować kolorowy kalejdoskop Brzmi skomplikowanie? Wszystkiego Cię nauczymy! Prowadzący zajęcia wyjaśnią jak osiągnąć pożądany efekt i wesprą w procesie twórczym. To, co stworzysz, zabierzesz ze sobą do domu! Przyjdź sam(a), z partnerem/partnerką lub dzieckiem – spędźcie kreatywnie czas i stwórzcie coś własnymi rękami! Więcej informacji o zajęciach Informacje praktyczne Dla kogo: osoby w wieku 10+, 13+, 16+ w zależności od zajęć Terminy: wybrane czwartki, piątki, soboty i niedziele lipca i sierpnia; do wyboru zajęcia poranne (10:30–13:00) lub popołudniowe (14:00–16:30) Czas trwania: 2,5 godziny Liczba uczestników: maks. 16 osób Miejsce: Wytwórnia (Pracownia Przewrotu Kopernikańskiego), ul. Wybrzeże Kościuszkowskie 18, obok budynku głównego Centrum Nauki Kopernik, Warszawa Cena: 40 zł/os. Bilety",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F6e60e577-f6b9-4cd4-bb27-b1048d3eaca7.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/72c569e1-7ea9-4c56-8360-bae43bf416d8",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Wybrzeże Kościuszkowskie 20, 00-390 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/72c569e1-7ea9-4c56-8360-bae43bf416d8",
-      "scrapped_timestamp": "2026-08-21T07:35:59.583304+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 10,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Lato w Wytwórni",
-          "description": "Zapraszamy na wakacyjne warsztaty w Wytwórni! To doskonała okazja, aby twórczo spędzić czas, nauczyć się nowych umiejętności i stworzyć coś wyjątkowego. W kameralnej atmosferze, pod okiem doświadczonych prowadzących, poznasz ciekawe techniki i w sposób kreatywny wykorzystasz materiały z odzysku. Do wyboru w najbliższych tygodniach są zajęcia, na których można: uszyć kosmetyczkę, torbę lub workoplecak zbudować lampkę stworzyć obraz techniką fotografii słonecznej skonstruować kolorowy kalejdoskop Brzmi skomplikowanie? Wszystkiego Cię nauczymy! Prowadzący zajęcia wyjaśnią jak osiągnąć pożądany efekt i wesprą w procesie twórczym. To, co stworzysz, zabierzesz ze sobą do domu! Przyjdź sam(a), z partnerem/partnerką lub dzieckiem – spędźcie kreatywnie czas i stwórzcie coś własnymi rękami! Więcej informacji o zajęciach Informacje praktyczne Dla kogo: osoby w wieku 10+, 13+, 16+ w zależności od zajęć Terminy: wybrane czwartki, piątki, soboty i niedziele lipca i sierpnia; do wyboru zajęcia poranne (10:30–13:00) lub popołudniowe (14:00–16:30) Czas trwania: 2,5 godziny Liczba uczestników: maks. 16 osób Miejsce: Wytwórnia (Pracownia Przewrotu Kopernikańskiego), ul. Wybrzeże Kościuszkowskie 18, obok budynku głównego Centrum Nauki Kopernik, Warszawa Cena: 40 zł/os. Bilety"
-        },
-        "en": {
-          "title": "Summer at the Factory",
-          "description": "We invite you to summer workshops at the Factory! This is a great opportunity to spend time creatively, learn new skills, and create something unique. In an intimate atmosphere, under the guidance of experienced instructors, you will discover interesting techniques and creatively use recycled materials. In the coming weeks, you can choose from classes where you can: sew a cosmetic bag, a bag or a backpack, build a lamp, create a picture using solar photography techniques, construct a colorful kaleidoscope. Sounds complicated? We will teach you everything! The instructors will explain how to achieve the desired effect and support you in the creative process. What you create, you will take home with you! Come alone, with a partner, or with a child – spend creative time and make something with your own hands!"
-        },
-        "uk": {
-          "title": "Літо у Витворні",
-          "description": "Запрошуємо на літні майстер-класи у Витворні! Це чудова можливість творчо провести час, навчитися новим навичкам і створити щось унікальне. У затишній атмосфері, під наглядом досвідчених ведучих, ви дізнаєтеся цікаві техніки та креативно використаєте матеріали з вторинних сировин. У найближчі тижні ви зможете обрати заняття, на яких можна: пошити косметичку, сумку або рюкзак, побудувати лампочку, створити картину технікою сонячної фотографії, сконструювати кольоровий калейдоскоп. Звучить складно? Ми вас навчимо! Ведучі занять пояснять, як досягти бажаного ефекту та підтримають у творчому процесі. Те, що ви створите, ви заберете з собою додому! Приходьте самі, з партнером/партнеркою або дитиною – проведіть час творчо та створіть щось власними руками!"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.kopernik.org.pl/pl/login"
-      },
-      "updated_at": "2026-08-21T07:36:22.734720+00:00"
-    },
-    "letnia-dobranocka-spektakl-teatru-forma-pinokio-2026-08-21T18:00:00+02:00": {
-      "title": "Letnia Dobranocka spektakl Teatru Forma „Pinokio”",
-      "date": "2026-08-21T18:00:00+02:00",
-      "end_date": "2026-08-21T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Letnia Dobranocka — spektakl Teatru Forma „Pinokio” Data i godzina 21 sierpnia (piątek), godz. 18:00 Miejsce Wolskie Centrum Kultury, ul. Działdowska 6, Warszawa Bilety 10 zł (dzieci i dorośli) Kup bilety Opis spektaklu Spektakl „Pinokio” Teatru Forma należy do ponadczasowej klasyki, świetnie znanej szerokiej publiczności — zarówno dziecięcej, jak i dorosłej. Ważnym przesłaniem spektaklu są wartości takie jak: miłość, przyjaźń, uczciwość. Pinokio zmaga się z wieloma pokusami otaczającego go świata. Ulegając im, otrzymuje życiową lekcję, by ostatecznie wrócić do swojego kochanego Taty. Po zrozumieniu, że miłość do najbliższych jest najwyższą wartością i że razem, przy wsparciu najbliższych, można pokonać swoje największe słabości. Spektakl ma też współczesny wątek — pokazuje, że w dzisiejszych czasach również jest wiele pokus, które proponuje dzieciom np. internet. W sieci łatwo jest ulec pięknym słowom czy barwnym obrazom na ekranie. Nie zawsze najmłodsi są w stanie uporać się z problemami naszych czasów: przemocą, hejtem czy wykluczeniem. Ważne jest, by dzieci nie bały się rozmawiać i miały oparcie w najbliższych, którzy potrafią ochronić dziecko i przeprowadzić przez zawiły świat w sieci. Forma przedstawienia W spektaklu występują duże formy teatralne. Akcję wzbogaca odpowiednio skomponowana muzyka. Dostępność wydarzenia i informacje praktyczne Dojazd: najbliższy przystanek transportu publicznego METRO PŁOCKA w odległości ok. 300 m; linie: 13, 26, 27, 103, 106, M2. Jeśli potrzebujesz pomocy w dotarciu na wydarzenie, prosimy o kontakt: m.bartsch@wck-wola.pl Do budynku prowadzą schody; w budynku nie ma windy ani podjazdów dla wózków. W placówce nie ma dostępnej toalety dla osób z niepełnosprawnością. W pobliżu budynku nie wyznaczono miejsc parkingowych dla osób z niepełnosprawnością. Najbliższe miejsca parkingowe znajdują się przy ul. Wawelberga, ok. 100 m od budynku. Nad wejściem głównym znajduje się znacznik TOTUPOINT. Do budynku i wszystkich jego pomieszczeń można wejść z psem asystującym i psem przewodnikiem. W budynku nie ma oznaczeń w alfabecie Braille’a ani oznaczeń kontrastowych lub w druku powiększonym dla osób niewidomych i słabowidzących. W recepcji jest dostępna pętla indukcyjna. Jeśli potrzebujesz skorzystać z pętli indukcyjnej podczas koncertu, spektaklu czy innego wydarzenia, skontaktuj się wcześniej: m.michnowska@wck-wola.pl, TEL/SMS: 609028424. W placówce można skorzystać z tłumacza polskiego języka migowego (PJM) online: Tłumacz PJM online Podczas wydarzenia można wypożyczyć słuchawki wyciszające dla dzieci i dorosłych. Kontakt w sprawie dostępności m.michnowska@wck-wola.pl, tel/SMS: 609028424",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F6534bdb4-1c6c-4803-8227-0f40f35bdf6e.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/6534bdb4-1c6c-4803-8227-0f40f35bdf6e",
-      "source": "gojammin.com",
-      "district": "Wola",
-      "location": {
-        "name": "Działdowska 6/6, 01-184 Warszawa, Poland",
-        "district": "Wola"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/6534bdb4-1c6c-4803-8227-0f40f35bdf6e",
-      "scrapped_timestamp": "2026-08-21T07:36:05.845885+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Letnia Dobranocka spektakl Teatru Forma „Pinokio”",
-          "description": "Letnia Dobranocka — spektakl Teatru Forma „Pinokio” Data i godzina 21 sierpnia (piątek), godz. 18:00 Miejsce Wolskie Centrum Kultury, ul. Działdowska 6, Warszawa Bilety 10 zł (dzieci i dorośli) Kup bilety Opis spektaklu Spektakl „Pinokio” Teatru Forma należy do ponadczasowej klasyki, świetnie znanej szerokiej publiczności — zarówno dziecięcej, jak i dorosłej. Ważnym przesłaniem spektaklu są wartości takie jak: miłość, przyjaźń, uczciwość. Pinokio zmaga się z wieloma pokusami otaczającego go świata. Ulegając im, otrzymuje życiową lekcję, by ostatecznie wrócić do swojego kochanego Taty. Po zrozumieniu, że miłość do najbliższych jest najwyższą wartością i że razem, przy wsparciu najbliższych, można pokonać swoje największe słabości. Spektakl ma też współczesny wątek — pokazuje, że w dzisiejszych czasach również jest wiele pokus, które proponuje dzieciom np. internet. W sieci łatwo jest ulec pięknym słowom czy barwnym obrazom na ekranie. Nie zawsze najmłodsi są w stanie uporać się z problemami naszych czasów: przemocą, hejtem czy wykluczeniem. Ważne jest, by dzieci nie bały się rozmawiać i miały oparcie w najbliższych, którzy potrafią ochronić dziecko i przeprowadzić przez zawiły świat w sieci. Forma przedstawienia W spektaklu występują duże formy teatralne. Akcję wzbogaca odpowiednio skomponowana muzyka. Dostępność wydarzenia i informacje praktyczne Dojazd: najbliższy przystanek transportu publicznego METRO PŁOCKA w odległości ok. 300 m; linie: 13, 26, 27, 103, 106, M2. Jeśli potrzebujesz pomocy w dotarciu na wydarzenie, prosimy o kontakt: m.bartsch@wck-wola.pl Do budynku prowadzą schody; w budynku nie ma windy ani podjazdów dla wózków. W placówce nie ma dostępnej toalety dla osób z niepełnosprawnością. W pobliżu budynku nie wyznaczono miejsc parkingowych dla osób z niepełnosprawnością. Najbliższe miejsca parkingowe znajdują się przy ul. Wawelberga, ok. 100 m od budynku. Nad wejściem głównym znajduje się znacznik TOTUPOINT. Do budynku i wszystkich jego pomieszczeń można wejść z psem asystującym i psem przewodnikiem. W budynku nie ma oznaczeń w alfabecie Braille’a ani oznaczeń kontrastowych lub w druku powiększonym dla osób niewidomych i słabowidzących. W recepcji jest dostępna pętla indukcyjna. Jeśli potrzebujesz skorzystać z pętli indukcyjnej podczas koncertu, spektaklu czy innego wydarzenia, skontaktuj się wcześniej: m.michnowska@wck-wola.pl, TEL/SMS: 609028424. W placówce można skorzystać z tłumacza polskiego języka migowego (PJM) online: Tłumacz PJM online Podczas wydarzenia można wypożyczyć słuchawki wyciszające dla dzieci i dorosłych. Kontakt w sprawie dostępności m.michnowska@wck-wola.pl, tel/SMS: 609028424"
-        },
-        "en": {
-          "title": "Summer Goodnight - Theatre Forma's 'Pinocchio'",
-          "description": "Summer Goodnight - Theatre Forma's 'Pinocchio' Date and time: August 21 (Friday), 6:00 PM Location: Wola Cultural Center, Działdowska 6, Warsaw Tickets: 10 PLN (children and adults) Buy tickets Description of the performance: The 'Pinocchio' performance by Theatre Forma is a timeless classic, well-known to a wide audience — both children and adults. An important message of the performance includes values such as love, friendship, and honesty. Pinocchio struggles with many temptations of the world around him. By succumbing to them, he learns a life lesson, ultimately returning to his beloved Father. He understands that love for those closest to him is the highest value and that together, with the support of loved ones, one can overcome their greatest weaknesses. The performance also has a contemporary thread — it shows that in today's..."
-        },
-        "uk": {
-          "title": "Літня Добраніч вистава Театру Форма «Пінокіо»",
-          "description": "Літня Добраніч — вистава Театру Форма «Пінокіо» Дата і час 21 серпня (п’ятниця), о 18:00 Місце Вольський Центр Культури, вул. Дзялдовська 6, Варшава Квитки 10 зл (діти та дорослі) Купити квитки Опис вистави Вистава «Пінокіо» Театру Форма належить до позачасової класики, добре відомої широкій публіці — як дитячій, так і дорослій. Важливим посланням вистави є цінності такі як: любов, дружба, чесність. Пінокіо бореться з багатьма спокусами навколишнього світу. Піддаючись їм, він отримує життєвий урок, щоб зрештою повернутися до свого улюбленого Тата. Після усвідомлення, що любов до близьких є найвищою цінністю і що разом, за підтримки близьких, можна подолати свої найбільші слабкості. Вистава також має сучасну сюжетну лінію — показує, що в сьогоднішньому"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.io/nrwPz"
-      },
-      "updated_at": "2026-08-21T07:36:22.734739+00:00"
-    },
-    "wa-ne-miejsce-bezp-atna-kawiarnia-spo-eczna-prowadzona-przez-mieszka-c-w-domu-malwa-2026-08-21T16:00:00+02:00": {
-      "title": "Ważne Miejsce - bezpłatna kawiarnia społeczna prowadzona przez mieszkańców domu Malwa",
-      "date": "2026-08-21T16:00:00+02:00",
-      "end_date": "2026-08-21T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "„Ważne Miejsce” — bezpłatna kawiarnia sąsiedzka w ogrodzie Domu Malwa. W każdy piątek od czerwca do września 2026, w godzinach 16:00–19:00, mieszkańcy Domu Malwa otwierają bramę dla sąsiadów, znajomych i nieznajomych. Dla mieszkańców to ich dom. Dla nas wszystkich — letnie popołudnie, którego nikt nie ma w kalendarzu, a które można sobie podarować. Jak to działa Gospodarzami spotkań są mieszkańcy Domu Malwa — oni witają gości, kroją ciasto, parzą kawę, nalewają lemoniadę. Nie pobieramy opłat; kawa, lemoniada i ciasto są bezpłatne. W zamian prosimy o chwilę uwagi, zwykłą rozmowę, uśmiech. Nie trzeba się zapisywać ani nic przynosić — wystarczy przyjść. Kiedy i gdzie Każdy piątek od czerwca do września 2026 Godziny: 16:00–19:00 Miejsce: Dom Malwa, ul. Józefa Balcerzaka 2, Warszawa-Bielany (ogród, wejście od ulicy) Dla kogo Sąsiadów z bloku obok i z drugiego końca Bielan Osób bez pomysłu na piątkowe popołudnie Rodzin z dziećmi — ogród jest bezpieczny Osób z psami — prosimy tylko o smycz Osób na wózkach — ogród jest w pełni dostępny Osób zastanawiających się nad wolontariatem Wszystkich innych — również Najczęstsze pytania Czy naprawdę nic nie muszę płacić? Naprawdę. Kawa, lemoniada i ciasto są bezpłatne. Czy mogę przyjść sam/sama? Tak — wielu gości przychodzi samemu; stoliki pozwalają dosiąść się lub zostać z książką. Czy to będzie niezręczne wobec mieszkańców z niepełnosprawnością intelektualną? Nie ma specjalnej etykiety — traktuj mieszkańców jak dorosłe osoby z imionami i charakterami. Co jeśli pada? Spotykamy się tak czy inaczej — mamy zadaszone miejsca. Mogę przynieść coś od siebie? Nie musisz; jeśli chcesz, daj znać wcześniej Angelice (alergie, diety mieszkańców). Kontakt Angelika tel. 514 080 471 O inicjatywie „Ważne Miejsce” to inicjatywa Fundacji Malwa, która od 1992 roku prowadzi na warszawskich Bielanach kameralny Dom Malwa — miejsce niezależnego życia ze wsparciem dla dorosłych osób z niepełnosprawnością intelektualną. Wierzymy, że dobrego sąsiedztwa nie da się zadekretować. Trzeba je upiec, zaparzyć i podać. Strona Fundacja Malwa",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F699b50c9-103c-41ac-8883-e8745e5c39a0.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/699b50c9-103c-41ac-8883-e8745e5c39a0",
-      "source": "gojammin.com",
-      "district": "Bielany",
-      "location": {
-        "name": "Józefa Balcerzaka 2/2, 01-944 Warszawa, Poland",
-        "district": "Bielany"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/699b50c9-103c-41ac-8883-e8745e5c39a0",
-      "scrapped_timestamp": "2026-08-21T07:36:12.867462+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Ważne Miejsce - bezpłatna kawiarnia społeczna prowadzona przez mieszkańców domu Malwa",
-          "description": "„Ważne Miejsce” — bezpłatna kawiarnia sąsiedzka w ogrodzie Domu Malwa. W każdy piątek od czerwca do września 2026, w godzinach 16:00–19:00, mieszkańcy Domu Malwa otwierają bramę dla sąsiadów, znajomych i nieznajomych. Dla mieszkańców to ich dom. Dla nas wszystkich — letnie popołudnie, którego nikt nie ma w kalendarzu, a które można sobie podarować. Jak to działa Gospodarzami spotkań są mieszkańcy Domu Malwa — oni witają gości, kroją ciasto, parzą kawę, nalewają lemoniadę. Nie pobieramy opłat; kawa, lemoniada i ciasto są bezpłatne. W zamian prosimy o chwilę uwagi, zwykłą rozmowę, uśmiech. Nie trzeba się zapisywać ani nic przynosić — wystarczy przyjść. Kiedy i gdzie Każdy piątek od czerwca do września 2026 Godziny: 16:00–19:00 Miejsce: Dom Malwa, ul. Józefa Balcerzaka 2, Warszawa-Bielany (ogród, wejście od ulicy) Dla kogo Sąsiadów z bloku obok i z drugiego końca Bielan Osób bez pomysłu na piątkowe popołudnie Rodzin z dziećmi — ogród jest bezpieczny Osób z psami — prosimy tylko o smycz Osób na wózkach — ogród jest w pełni dostępny Osób zastanawiających się nad wolontariatem Wszystkich innych — również Najczęstsze pytania Czy naprawdę nic nie muszę płacić? Naprawdę. Kawa, lemoniada i ciasto są bezpłatne. Czy mogę przyjść sam/sama? Tak — wielu gości przychodzi samemu; stoliki pozwalają dosiąść się lub zostać z książką. Czy to będzie niezręczne wobec mieszkańców z niepełnosprawnością intelektualną? Nie ma specjalnej etykiety — traktuj mieszkańców jak dorosłe osoby z imionami i charakterami. Co jeśli pada? Spotykamy się tak czy inaczej — mamy zadaszone miejsca. Mogę przynieść coś od siebie? Nie musisz; jeśli chcesz, daj znać wcześniej Angelice (alergie, diety mieszkańców). Kontakt Angelika tel. 514 080 471 O inicjatywie „Ważne Miejsce” to inicjatywa Fundacji Malwa, która od 1992 roku prowadzi na warszawskich Bielanach kameralny Dom Malwa — miejsce niezależnego życia ze wsparciem dla dorosłych osób z niepełnosprawnością intelektualną. Wierzymy, że dobrego sąsiedztwa nie da się zadekretować. Trzeba je upiec, zaparzyć i podać. Strona Fundacja Malwa"
-        },
-        "en": {
-          "title": "Important Place - Free Community Café Run by Residents of Malwa House",
-          "description": "\"Important Place\" - a free neighborhood café in the garden of Malwa House. Every Friday from June to September 2026, from 4:00 PM to 7:00 PM, the residents of Malwa House open the gate for neighbors, friends, and strangers. For the residents, it is their home. For all of us - a summer afternoon that no one has on their calendar, but which we can gift ourselves. How it works: The hosts of the meetings are the residents of Malwa House - they welcome guests, cut cake, brew coffee, and serve lemonade. We do not charge any fees; coffee, lemonade, and cake are free. In return, we ask for a moment of attention, a simple conversation, a smile. No need to register or bring anything - just come. When and where: Every Friday from June to September 2026. Hours: 4:00 PM - 7:00 PM. Location: Malwa House, Józefa Balcerzaka 2, Warsaw-Bielany (garden)."
-        },
-        "uk": {
-          "title": "Важливе Місце - безкоштовна соціальна кав'ярня, що проводиться мешканцями дому Малва",
-          "description": "«Важливе Місце» — безкоштовна сусідська кав'ярня в саду Дому Малва. Щоп'ятниці з червня по вересень 2026 року, з 16:00 до 19:00, мешканці Дому Малва відкривають ворота для сусідів, знайомих і незнайомих. Для мешканців це їхній дім. Для нас усіх — літнє післяобіддя, якого ніхто не має в календарі, а яке можна собі подарувати. Як це працює? Господарями зустрічей є мешканці Дому Малва — вони вітають гостей, ріжуть торт, готують каву, наливають лимонад. Ми не беремо плату; кава, лимонад і торт безкоштовні. Натомість просимо про хвилину уваги, звичайну розмову, усмішку. Не потрібно записуватись або щось приносити — достатньо прийти. Коли і де: Щоп'ятниці з червня по вересень 2026 року. Час: 16:00–19:00. Місце: Дім Малва, вул. Йозефа Балчерзака 2, Варшава-Біляни (сад)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-08-21T07:36:22.734764+00:00"
     }
   }
 }

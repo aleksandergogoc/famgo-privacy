@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T07:51:12.513209+00:00",
+  "updated_at": "2026-08-22T07:40:51.711825+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3175,6 +3175,33 @@
       "lat": 50.051,
       "lng": 19.944,
       "updated_at": "2026-08-20T06:53:25.223191+00:00"
+    },
+    "willa decjusza": {
+      "name": "Willa Decjusza, 17a, 28 Lipca 1943, Wola Justowska, Zwierzyniec, Kraków, województwo małopolskie, 30-233, Polska",
+      "district": "Zwierzyniec",
+      "address": "Willa Decjusza, 17a, 28 Lipca 1943, Wola Justowska, Zwierzyniec, Kraków, województwo małopolskie, 30-233, Polska",
+      "normalized": "willa decjusza",
+      "lat": 50.0636479,
+      "lng": 19.8715486,
+      "updated_at": "2026-08-22T06:46:27.105645+00:00"
+    },
+    "strych ul. masarska 14": {
+      "name": "Klub Strych ul. Masarska 14",
+      "district": "Stare Miasto",
+      "address": "Klub Strych ul. Masarska 14",
+      "normalized": "strych ul. masarska 14",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-08-22T07:25:57.398265+00:00"
+    },
+    "biblioteka kraków – filia nr 40": {
+      "name": "ul. Łużycka 55, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Łużycka 55, Kraków",
+      "normalized": "biblioteka kraków – filia nr 40",
+      "lat": 50.067,
+      "lng": 19.944,
+      "updated_at": "2026-08-22T07:25:59.939127+00:00"
     }
   }
 }

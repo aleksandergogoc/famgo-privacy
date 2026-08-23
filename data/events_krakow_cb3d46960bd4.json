@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T07:26:01.161706+00:00",
+  "updated_at": "2026-08-23T06:41:20.138141+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -36,47 +36,6 @@
         "max": 6
       },
       "image": "http://media.krakow.travel/photos/76238/m.jpg"
-    },
-    "bajka-o-szewczyku-2026-08-22T13:30:00": {
-      "scrapped_timestamp": "2026-07-11T11:57:05.631080+00:00",
-      "scrapped_url": "https://www.niesiedzwdomu.pl/wydarzenia/bajka-o-szewczyku-event-001188",
-      "category": "Theater",
-      "description": "Spektakl i działania interaktywne o Szewczyku, który pokonał Smoka Wawelskiego, dla dzieci od 3. roku życia.",
-      "date": "2026-08-22T11:30:00+00:00",
-      "translations": {
-        "pl": {
-          "description": "Spektakl i działania interaktywne o Szewczyku, który pokonał Smoka Wawelskiego, dla dzieci od 3. roku życia.",
-          "title": "Bajka o Szewczyku"
-        },
-        "uk": {
-          "description": "Спектакль та інтерактивні дії про Шевчика, який подолав Вавельського дракона, для дітей від 3 років.",
-          "title": "Байка про Шевчика"
-        },
-        "en": {
-          "description": "A performance and interactive activities about the Shoemaker who defeated the Wawel Dragon, for children aged 3 and up.",
-          "title": "The Tale of the Shoemaker"
-        }
-      },
-      "url": "https://www.groteska.pl/spektakle/dla-dzieci/bajka-o-szewczyku",
-      "age_hint": "3-18",
-      "end_date": "2026-08-21T22:00:00+00:00",
-      "district": "Stare Miasto",
-      "updated_at": "2026-07-11T11:57:28.256000+00:00",
-      "source": "groteska.pl",
-      "startTimeKnown": true,
-      "admission": {
-        "is_free": false
-      },
-      "location": {
-        "district": "Stare Miasto",
-        "name": "Skarbowa 2, Kraków"
-      },
-      "title": "Bajka o Szewczyku",
-      "image": "https://ssaptcphmeixyvukbbmk.supabase.co/storage/v1/object/public/event-library/dzieci/wydarzenia/EVENT-001188-cover.webp?v=1782192000470",
-      "age_range": {
-        "min": 3,
-        "max": 18
-      }
     },
     "calineczka-teatr-ludowy-2026-09-27T15:00:00": {
       "scrapped_timestamp": "2026-06-26T17:21:46.559212+00:00",
@@ -1156,43 +1115,6 @@
         "max": 12
       }
     },
-    "miasteczko-wawelskie-ladami-utraconego-miasta-gra-terenowa-2026-08-22T13:30:00+02:00": {
-      "title": "Miasteczko wawelskie | Śladami utraconego miasta | Gra terenowa",
-      "date": "2026-08-22T13:30:00+02:00",
-      "end_date": "2026-08-22T13:30:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://czasdzieci.pl/krakow/wydarzenia/id,140837b5b.html",
-      "description": "Jak wyglądało codzienne życie na Wawelu, zanim wzgórze stało się przede wszystkim symbolem królewskiej rezydencji? Odpowiedzi na to pytanie można poszukać podczas gry terenowej „Miasteczko wawelskie. Śladami utraconego miasta”, która prowadzi uczestników przez miejsca skrywające ślady dawnej osady istniejącej przez stulecia u stóp królewskiego zamku. Gra przybliża historię tzw. zamku dolnego – tętniącego życiem miasteczka zamieszkiwanego przez rzemieślników, kupców, służbę dworską, rycerzy i duchownych. Uczestnicy odkryją, jak rozwijała się ta niezwykła przestrzeń, która na przełomie XV i XVI wieku przypominała bardziej miasto niż zamek, oraz poznają losy jej mieszkańców. Wędrówka prowadzi do miejsc często pomijanych podczas tradycyjnego zwiedzania. Zachowane relikty dawnej zabudowy, ocalałe budynki i przestrzenie, które niegdyś wypełniały domy, ogrody, studnie i dwory, stają się punktami na mapie opowieści o utraconym mieście. Gra pozwala spojrzeć na Wawel z nowej perspektywy – nie tylko jako siedzibę królów, lecz także miejsce codziennego życia wielu pokoleń mieszkańców. To propozycja dla wszystkich, którzy lubią odkrywać historię poprzez działanie, rozwiązywanie zagadek i samodzielne poszukiwanie śladów przeszłości ukrytych w przestrzeni jednego z najważniejszych miejsc polskiego dziedzictwa. Miasteczko wawelskie | Śladami utraconego miasta | Gra terenowa",
-      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240_198-0-800-800d-00c,f_w_140837_2579b.webp",
-      "source": "czasdzieci.pl",
-      "location": {
-        "name": "31-001 Kraków, Wawel 5",
-        "district": "Stare Miasto"
-      },
-      "age_range": {
-        "min": 7,
-        "max": 14
-      },
-      "scrapped_url": "https://czasdzieci.pl/krakow/wydarzenia/id,140837b5b.html",
-      "scrapped_timestamp": "2026-07-14T14:03:24.005057+00:00",
-      "category": "Field Trips",
-      "translations": {
-        "pl": {
-          "title": "Miasteczko wawelskie | Śladami utraconego miasta | Gra terenowa",
-          "description": "Jak wyglądało codzienne życie na Wawelu, zanim wzgórze stało się przede wszystkim symbolem królewskiej rezydencji? Odpowiedzi na to pytanie można poszukać podczas gry terenowej „Miasteczko wawelskie. Śladami utraconego miasta”, która prowadzi uczestników przez miejsca skrywające ślady dawnej osady istniejącej przez stulecia u stóp królewskiego zamku. Gra przybliża historię tzw. zamku dolnego – tętniącego życiem miasteczka zamieszkiwanego przez rzemieślników, kupców, służbę dworską, rycerzy i duchownych. Uczestnicy odkryją, jak rozwijała się ta niezwykła przestrzeń, która na przełomie XV i XVI wieku przypominała bardziej miasto niż zamek, oraz poznają losy jej mieszkańców. Wędrówka prowadzi do miejsc często pomijanych podczas tradycyjnego zwiedzania. Zachowane relikty dawnej zabudowy, ocalałe budynki i przestrzenie, które niegdyś wypełniały domy, ogrody, studnie i dwory, stają się punktami na mapie opowieści o utraconym mieście. Gra pozwala spojrzeć na Wawel z nowej perspektywy – nie tylko jako siedzibę królów, lecz także miejsce codziennego życia wielu pokoleń mieszkańców. To propozycja dla wszystkich, którzy lubią odkrywać historię poprzez działanie, rozwiązywanie zagadek i samodzielne poszukiwanie śladów przeszłości ukrytych w przestrzeni jednego z najważniejszych miejsc polskiego dziedzictwa. Miasteczko wawelskie | Śladami utraconego miasta | Gra terenowa"
-        },
-        "en": {
-          "title": "Wawel Town | In the Footsteps of the Lost City | Outdoor Game",
-          "description": "What did daily life look like on Wawel before the hill became primarily a symbol of the royal residence? Answers to this question can be sought during the outdoor game 'Wawel Town. In the Footsteps of the Lost City', which guides participants through places that hide traces of the former settlement that existed for centuries at the foot of the royal castle. The game brings to life the history of the so-called lower castle – a vibrant town inhabited by craftsmen, merchants, court servants, knights, and clergy. Participants will discover how this extraordinary space developed, which at the turn of the 15th and 16th centuries resembled a city more than a castle, and learn about the fates of its inhabitants. The journey leads to places often overlooked during traditional sightseeing. Preserved relics of the former buildings, surviving..."
-        },
-        "uk": {
-          "title": "Вавельське містечко | Слідами втраченого міста | Польова гра",
-          "description": "Як виглядало повсякденне життя на Вавелі, перш ніж пагорб став, перш за все, символом королівської резиденції? Відповіді на це питання можна шукати під час польової гри «Вавельське містечко. Слідами втраченого міста», яка проводить учасників через місця, що приховують сліди давнього поселення, що існувало протягом століть у підніжжя королівського замку. Гра наближає історію так званого нижнього замку – жвавого містечка, населеного ремісниками, купцями, двірською службою, лицарями та духовенством. Учасники відкриють, як розвивалася ця незвичайна простір, яка на межі XV і XVI століть більше нагадувала місто, ніж замок, а також дізнаються про долі її мешканців. Подорож веде до місць, які часто пропускаються під час традиційного відвідування. Збережені релікти давньої забудови, що вціліли..."
-        }
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-07-14T14:04:33.254877+00:00"
-    },
     "miasteczko-wawelskie-ladami-utraconego-miasta-gra-terenowa-2026-08-29T13:30:00+02:00": {
       "title": "Miasteczko wawelskie | Śladami utraconego miasta | Gra terenowa",
       "date": "2026-08-29T13:30:00+02:00",
@@ -1266,44 +1188,6 @@
       },
       "district": "Czyżyny",
       "updated_at": "2026-07-16T12:05:11.404720+00:00"
-    },
-    "kino-plenerowe-przy-forcie-52-borek-2026-08-22T20:30:00+02:00": {
-      "title": "Kino plenerowe przy Forcie 52 „Borek”",
-      "date": "2026-08-22T20:30:00+02:00",
-      "url": "https://karnet.krakowculture.pl/64496-krakow-kino-plenerowe-przy-forcie-52-borek",
-      "description": "Letnie wieczory i kino w plenerze? Tak! Fort Borek zaprasza na seanse zarówno mieszkańców najbliższej okolicy, jak i tych, którzy na projekcje pod chmurką mają ochotę przyjechać z drugiego końca Krakowa.",
-      "image": "http://media.krakow.travel/photos/78293/m.jpg",
-      "startTimeKnown": true,
-      "location": {
-        "name": "Fort Borek, ul. Forteczna 146",
-        "district": "Swoszowice"
-      },
-      "scrapped_url": "https://karnet.krakowculture.pl/64496-krakow-kino-plenerowe-przy-forcie-52-borek",
-      "scrapped_timestamp": "2026-07-19T13:28:56.460687+00:00",
-      "category": "Cinema",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Kino plenerowe przy Forcie 52 „Borek”",
-          "description": "Letnie wieczory i kino w plenerze? Tak! Fort Borek zaprasza na seanse zarówno mieszkańców najbliższej okolicy, jak i tych, którzy na projekcje pod chmurką mają ochotę przyjechać z drugiego końca Krakowa."
-        },
-        "en": {
-          "title": "Open-Air Cinema at Fort 52 'Borek'",
-          "description": "Summer evenings and outdoor cinema? Yes! Fort Borek invites both local residents and those who wish to come from the other side of Krakow for screenings under the open sky."
-        },
-        "uk": {
-          "title": "Кіно просто неба біля Форту 52 «Борек»",
-          "description": "Літні вечори та кіно просто неба? Так! Форт Борек запрошує на сеанси як мешканців найближчої околиці, так і тих, хто хоче приїхати на покази під відкритим небом з іншого кінця Кракова."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Swoszowice",
-      "updated_at": "2026-07-19T13:29:21.397715+00:00"
     },
     "gino-i-suzi-sk-ad-spraw-niezwyczajnych-2026-12-06T16:00:00+01:00": {
       "title": "GINO I SUZI. SKŁAD SPRAW NIEZWYCZAJNYCH",
@@ -2361,44 +2245,6 @@
       },
       "district": "Nowa Huta",
       "updated_at": "2026-07-28T16:02:22.289057+00:00"
-    },
-    "art-piknik-2026-2026-08-22T12:00:00+02:00": {
-      "title": "Art-Piknik 2026",
-      "date": "2026-08-22T12:00:00+02:00",
-      "url": "https://karnet.krakowculture.pl/64554-krakow-art-piknik-2026",
-      "description": "To wydarzenie od kilku lat łączy ludzi, kultury i pomysły. Ideą organizatorów z Fundacji Widowisk Masowych jest stworzenie przestrzeni spotkań, inspiracji i dobrej zabawy oraz budowanie podwalin społeczeństwa obywatelskiego. Tym razem Art-Piknik potrwa aż trzy dni, od soboty do poniedziałku! W ten przedłużony weekend czeka nas mnóstwo atrakcji dla wszystkich: rodzin z dziećmi, młodzieży, seniorów, mieszkańców Krakowa, gości z Polski i zagranicy.\n\nNajmłodsi poskaczą w dmuchanych zamkach i pojeżdżą w elektrycznych samochodzikach. Na wszystkich odwiedzających czekać będą warsztaty artystyczne, rękodzielnicze i edukacyjne, koncerty, pokazy oraz występy sceniczne prezentujące różnorodność kultur i ich bogactwo ponad barierami językowymi. W specjalnie przygotowanej strefie organizacji pozarządowych będzie można poznać działalność fundacji, stowarzyszeń i inicjatyw społecznych działających w Krakowie i Małopolsce. Na łące na Wesołej powstanie także rozbudowana strefa gastronomiczna z ofertą kuchni z różnych stron świata oraz lokalnych przysmaków.\n\nJak zapewniają organizatorzy, „Art-Piknik będzie miejscem, do którego można przyjść z rodziną lub przyjaciółmi na cały dzień – odpocząć, dobrze zjeść, wziąć udział w warsztatach, posłuchać muzyki i po prostu spędzić wspólnie czas”.\n\nZdjęcie: Art-Piknik 2025, dzięki uprzejmości organizatora",
-      "image": "http://media.krakow.travel/photos/78361/m.jpg",
-      "startTimeKnown": true,
-      "location": {
-        "name": "Łąka na Wesołej, ul. Kopernika 19",
-        "district": "Grzegórzki"
-      },
-      "scrapped_url": "https://karnet.krakowculture.pl/64554-krakow-art-piknik-2026",
-      "scrapped_timestamp": "2026-07-29T14:34:05.252344+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 0,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Art-Piknik 2026",
-          "description": "To wydarzenie od kilku lat łączy ludzi, kultury i pomysły. Ideą organizatorów z Fundacji Widowisk Masowych jest stworzenie przestrzeni spotkań, inspiracji i dobrej zabawy oraz budowanie podwalin społeczeństwa obywatelskiego. Tym razem Art-Piknik potrwa aż trzy dni, od soboty do poniedziałku! W ten przedłużony weekend czeka nas mnóstwo atrakcji dla wszystkich: rodzin z dziećmi, młodzieży, seniorów, mieszkańców Krakowa, gości z Polski i zagranicy.\n\nNajmłodsi poskaczą w dmuchanych zamkach i pojeżdżą w elektrycznych samochodzikach. Na wszystkich odwiedzających czekać będą warsztaty artystyczne, rękodzielnicze i edukacyjne, koncerty, pokazy oraz występy sceniczne prezentujące różnorodność kultur i ich bogactwo ponad barierami językowymi. W specjalnie przygotowanej strefie organizacji pozarządowych będzie można poznać działalność fundacji, stowarzyszeń i inicjatyw społecznych działających w Krakowie i Małopolsce. Na łące na Wesołej powstanie także rozbudowana strefa gastronomiczna z ofertą kuchni z różnych stron świata oraz lokalnych przysmaków.\n\nJak zapewniają organizatorzy, „Art-Piknik będzie miejscem, do którego można przyjść z rodziną lub przyjaciółmi na cały dzień – odpocząć, dobrze zjeść, wziąć udział w warsztatach, posłuchać muzyki i po prostu spędzić wspólnie czas”.\n\nZdjęcie: Art-Piknik 2025, dzięki uprzejmości organizatora"
-        },
-        "en": {
-          "title": "Art-Piknik 2026",
-          "description": "This event has been bringing together people, cultures, and ideas for several years. The organizers from the Mass Spectacle Foundation aim to create a space for meetings, inspiration, and good fun, as well as to build the foundations of a civil society. This time, Art-Piknik will last for three days, from Saturday to Monday! During this extended weekend, there will be plenty of attractions for everyone: families with children, youth, seniors, residents of Krakow, and guests from Poland and abroad.\n\nThe youngest will jump in inflatable castles and ride in electric cars. All visitors will find artistic, craft, and educational workshops, concerts, shows, and stage performances showcasing the diversity of cultures and their richness beyond language barriers. In a specially prepared area for non-governmental organizations..."
-        },
-        "uk": {
-          "title": "Арт-Пікнік 2026",
-          "description": "Ця подія вже кілька років об'єднує людей, культури та ідеї. Ідеєю організаторів з Фонду Масових Виставок є створення простору для зустрічей, натхнення та гарного відпочинку, а також побудова основ громадянського суспільства. Цього разу Арт-Пікнік триватиме цілих три дні, з суботи по понеділок! У цей подовжений вікенд на нас чекає безліч розваг для всіх: сімей з дітьми, молоді, літніх людей, мешканців Кракова, гостей з Польщі та з-за кордону.\n\nНаймолодші стрибатимуть у надувних замках і кататимуться на електричних машинках. На всіх відвідувачів чекатимуть художні, ремісничі та освітні майстер-класи, концерти, покази та сценічні виступи, що демонструють різноманітність культур та їхнє багатство понад мовними бар'єрами. У спеціально підготовленій зоні організацій громадського сектору..."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Grzegórzki",
-      "updated_at": "2026-07-29T14:34:38.441165+00:00"
     },
     "bankructwo-ma-ego-d-eka-2026-10-06T12:00:00+02:00": {
       "title": "Bankructwo małego Dżeka",
@@ -3670,204 +3516,6 @@
       "district": "Podgórze",
       "updated_at": "2026-08-08T13:22:02.997647+00:00"
     },
-    "piknik-jagiello-ski-2026-08-22T10:00:00+02:00": {
-      "title": "Piknik Jagielloński",
-      "date": "2026-08-22T08:00:00+00:00",
-      "end_date": "2026-08-21T22:00:00+00:00",
-      "startTimeKnown": true,
-      "description": "21-23 sierpnia (pt.-niedz.), Plac Wielkiej Armii Napoleona, Bulwar Czerwieński Krakowskie Forum Kultury zaprasza na Piknik Jagielloński – trzy dni pełne muzyki, rękodzieła, warsztatów i historii. W dniach 21-23 sierpnia Plac Wielkiej Armii Napoleona oraz Bulwar Czerwieński zamienią się w otwartą, tętniącą życiem przestrzeń miejskiego jarmarku, na której coś dla siebie znajdą mieszkańcy Krakowa, rodziny z dziećmi, turyści oraz wszyscy zainteresowani lokalnym rzemiosłem, gastronomią i kulturą. Na Bulwarze Czerwieńskim powstanie strefa handlowa i gastronomiczna z drewnianymi domkami, w których będzie można znaleźć wyroby rzemieślnicze, rękodzieło oraz rozmaite smakołyki. Nie zabraknie także miejsca do odpoczynku – za domkami na uczestników czekać będzie strefa z leżakami , a także ławy i stoły, przy których będzie można spokojnie usiąść i skosztować festiwalowych przysmaków. Plac Wielkiej Armii Napoleona stanie się natomiast centrum wydarzeń artystycznych i warsztatowych. Codziennie na plenerowej scenie zabrzmi muzyka folkowa, dawna i inspirowana tradycjami. W programie koncerty zespołów Szelindek, Korale, Kapela zza Miedzy, Scyzoryki, Kapela Żmij, Ukoja oraz Daj Ognia . W piątek i sobotę muzycy zespołu Szelindek będą pojawiać się również w różnych miejscach na terenie Pikniku, tworząc muzyczną oprawę wydarzenia. Piknik Jagielloński to także spotkanie z historią i tradycją. W programie znajdą się elementy rekonstrukcji historycznej, muzyka na średniowiecznych instrumentach, tańce oraz opowieści o dawnym Krakowie. Międzynarodowy skład zespołu Szelindek przybliży uczestnikom dawne brzmienia i zwyczaje, natomiast Krakowskie Bractwo Grodzkie w niedzielę zaprosi na spotkanie ze średniowiecznym Krakowem – z pokazem dawnych zwyczajów, stołem biesiadnym, nauką tańca i opowieściami o życiu mieszkańców miasta w średniowieczu. Nie zabraknie również bezpłatnych warsztatów dla dzieci, dorosłych i całych rodzin . Uczestnicy będą mogli poznać podstawy tańców i zwyczajów średniowiecznych, ozdobić kubki motywami słowiańskimi i ludowymi, wykonać świece z suszonymi kwiatami, przygotować słowiańskie wianki czy stworzyć własną torbę zakupową ozdobioną ludowymi wzorami. PROGRAM: 21 sierpnia (pt.): 10:00-22:00 Strefa handlowa i gastronomiczna 13:00-14:30 Warsztaty tańca i średniowiecznych zwyczajów – Żmij (warsztaty rodzinne) 15:00-16:30 Malowanie kubków - motywy słowiańskie i ludowe – Maria Husarska (warsztaty dla osób pełnoletnich) 16:30-21:30 Program artystyczny 17:00-18:30 Torba zakupowa z motywem słowiańskim: linoryt, odbijane wzory słowiańskie – Maria Husarska (warsztaty dla osób pełnoletnich) 22 sierpnia (sob.): 10:00-22:00 Strefa handlowa i gastronomiczna 11:00-12:30 Motywy słowiańskie na plastrach drewna – Chodźcie się bawić (warsztaty rodzinne) 13:00-14:30 Świece z suszonymi kwiatami – Chodźcie się bawić (warsztaty rodzinne) 15:00-16:30 Suszone wianki ze zbóż – Babskie Duo (warsztaty dla osób pełnoletnich) 16:30-21:30 Program artystyczny 17:00-18:30 Słowiańskie wianki – Maria Husarska 23 sierpnia (niedz.): 10:00-22:00 Strefa handlowa i gastronomiczna 10:00-18:30 Średniowieczna strefa – Krakowskie Bractwo Grodzkie (warsztaty rodzinne) 16:30-21:30 Program artystyczny Wstęp na wszystkie wydarzenia jest bezpłatny. Organizator: Krakowskie Forum Kultury Partner: PINOCCHIO S.C.",
-      "image": "https://krakowskieforum.pl/uploads/temp/kali/impr_3555/zajawki/normal_08dc2ac99f57251c1af176140fb3efeebac7169a.jpg",
-      "location": {
-        "name": "Krakowskie Forum Kultury Mikołajska 2"
-      },
-      "url": "https://krakowskieforum.pl/wydarzenie-3555-piknik_jagiellonski-szczegoly-42438.html",
-      "source": "krakowskieforum.pl",
-      "scrapped_url": "https://krakowskieforum.pl/wydarzenie-3555-piknik_jagiellonski-szczegoly-42438.html",
-      "scrapped_timestamp": "2026-08-09T07:15:24.932614+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Piknik Jagielloński",
-          "description": "21-23 sierpnia (pt.-niedz.), Plac Wielkiej Armii Napoleona, Bulwar Czerwieński Krakowskie Forum Kultury zaprasza na Piknik Jagielloński – trzy dni pełne muzyki, rękodzieła, warsztatów i historii. W dniach 21-23 sierpnia Plac Wielkiej Armii Napoleona oraz Bulwar Czerwieński zamienią się w otwartą, tętniącą życiem przestrzeń miejskiego jarmarku, na której coś dla siebie znajdą mieszkańcy Krakowa, rodziny z dziećmi, turyści oraz wszyscy zainteresowani lokalnym rzemiosłem, gastronomią i kulturą. Na Bulwarze Czerwieńskim powstanie strefa handlowa i gastronomiczna z drewnianymi domkami, w których będzie można znaleźć wyroby rzemieślnicze, rękodzieło oraz rozmaite smakołyki. Nie zabraknie także miejsca do odpoczynku – za domkami na uczestników czekać będzie strefa z leżakami , a także ławy i stoły, przy których będzie można spokojnie usiąść i skosztować festiwalowych przysmaków. Plac Wielkiej Armii Napoleona stanie się natomiast centrum wydarzeń artystycznych i warsztatowych. Codziennie na plenerowej scenie zabrzmi muzyka folkowa, dawna i inspirowana tradycjami. W programie koncerty zespołów Szelindek, Korale, Kapela zza Miedzy, Scyzoryki, Kapela Żmij, Ukoja oraz Daj Ognia . W piątek i sobotę muzycy zespołu Szelindek będą pojawiać się również w różnych miejscach na terenie Pikniku, tworząc muzyczną oprawę wydarzenia. Piknik Jagielloński to także spotkanie z historią i tradycją. W programie znajdą się elementy rekonstrukcji historycznej, muzyka na średniowiecznych instrumentach, tańce oraz opowieści o dawnym Krakowie. Międzynarodowy skład zespołu Szelindek przybliży uczestnikom dawne brzmienia i zwyczaje, natomiast Krakowskie Bractwo Grodzkie w niedzielę zaprosi na spotkanie ze średniowiecznym Krakowem – z pokazem dawnych zwyczajów, stołem biesiadnym, nauką tańca i opowieściami o życiu mieszkańców miasta w średniowieczu. Nie zabraknie również bezpłatnych warsztatów dla dzieci, dorosłych i całych rodzin . Uczestnicy będą mogli poznać podstawy tańców i zwyczajów średniowiecznych, ozdobić kubki motywami słowiańskimi i ludowymi, wykonać świece z suszonymi kwiatami, przygotować słowiańskie wianki czy stworzyć własną torbę zakupową ozdobioną ludowymi wzorami. PROGRAM: 21 sierpnia (pt.): 10:00-22:00 Strefa handlowa i gastronomiczna 13:00-14:30 Warsztaty tańca i średniowiecznych zwyczajów – Żmij (warsztaty rodzinne) 15:00-16:30 Malowanie kubków - motywy słowiańskie i ludowe – Maria Husarska (warsztaty dla osób pełnoletnich) 16:30-21:30 Program artystyczny 17:00-18:30 Torba zakupowa z motywem słowiańskim: linoryt, odbijane wzory słowiańskie – Maria Husarska (warsztaty dla osób pełnoletnich) 22 sierpnia (sob.): 10:00-22:00 Strefa handlowa i gastronomiczna 11:00-12:30 Motywy słowiańskie na plastrach drewna – Chodźcie się bawić (warsztaty rodzinne) 13:00-14:30 Świece z suszonymi kwiatami – Chodźcie się bawić (warsztaty rodzinne) 15:00-16:30 Suszone wianki ze zbóż – Babskie Duo (warsztaty dla osób pełnoletnich) 16:30-21:30 Program artystyczny 17:00-18:30 Słowiańskie wianki – Maria Husarska 23 sierpnia (niedz.): 10:00-22:00 Strefa handlowa i gastronomiczna 10:00-18:30 Średniowieczna strefa – Krakowskie Bractwo Grodzkie (warsztaty rodzinne) 16:30-21:30 Program artystyczny Wstęp na wszystkie wydarzenia jest bezpłatny. Organizator: Krakowskie Forum Kultury Partner: PINOCCHIO S.C."
-        },
-        "en": {
-          "title": "Jagiellonian Picnic",
-          "description": "From August 21 to 23 (Fri-Sun), at the Square of the Great Army of Napoleon, the Krakow Cultural Forum invites you to the Jagiellonian Picnic – three days full of music, handicrafts, workshops, and history. During these days, the Square of the Great Army of Napoleon and the Czerwiński Boulevard will transform into an open, vibrant space of an urban market, where residents of Krakow, families with children, tourists, and everyone interested in local crafts, gastronomy, and culture will find something for themselves. A commercial and gastronomic zone will be created on the Czerwiński Boulevard with wooden houses, where you can find artisanal products, handicrafts, and various delicacies. There will also be a place to relax – behind the houses, participants will find a zone with deck chairs, as well as benches and tables."
-        },
-        "uk": {
-          "title": "Ягеллонський пікнік",
-          "description": "21-23 серпня (пт.-нед.), Площа Великої Армії Наполеона, Червоний бульвар. Краківський культурний форум запрошує на Ягеллонський пікнік – три дні, наповнені музикою, ремеслом, майстер-класами та історією. У дні з 21 по 23 серпня Площа Великої Армії Наполеона та Червоний бульвар перетворяться на відкритий, живий простір міського ярмарку, де щось для себе знайдуть мешканці Кракова, сім'ї з дітьми, туристи та всі, хто цікавиться місцевим ремеслом, гастрономією та культурою. На Червоному бульварі з'явиться торговельна та гастрономічна зона з дерев'яними будиночками, в яких можна буде знайти вироби ремесел, ручну роботу та різноманітні смаколики. Не бракуватиме також місця для відпочинку – за будиночками на учасників чекатиме зона з шезлонгами, а також лави та столи."
-        }
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-08-13T15:07:20.998401+00:00",
-      "source_url": "https://krakowskieforum.pl/wydarzenie-3555-piknik_jagiellonski-szczegoly-42438.html",
-      "featured": false,
-      "admission": {
-        "is_free": true,
-        "ticket_url": null
-      }
-    },
-    "koncerty-promenadowe-dla-dzieci-secret-quintet-2026-08-22T11:00:00+02:00": {
-      "title": "Koncerty Promenadowe dla dzieci: Secret Quintet",
-      "date": "2026-08-22T11:00:00+02:00",
-      "end_date": "2026-08-22T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "22 sierpnia (sob.), 11:00 Altana na Plantach, Skwer Zbigniewa Wodeckiego Bajkę symfoniczną Piotruś i wilk skomponował w 1936 Sergiusz Prokofiew na głos recytujący i orkiestrę symfoniczną. Ale, jak doskonale wiecie, tak duży zespół nie zmieściłby się w naszej altanie, zastąpi ją więc kwintet dęty, który wykona utwór w aranżacji Joachima Linckelmanna. Koncert zacznie się od przedstawienia publiczności instrumentów i postaci, a potem będzie granie i czytanie, i mnóstwo emocji. Dzielny i sprytny Piotruś stara się, by wszyscy żyli w zgodzie, tymczasem jego zaprzyjaźnionej Kaczuszce zagraża podstępny Wilk. Czy i jak chłopcu uda się go przechytrzyć? Secret Quintet: Paulina Łaciak – flet Jakub Koch – obój Dmytro Pylypchak – klarnet Oleh Malovichko – waltornia Katarzyna Jasińska – fagot Prowadzenie: Kamila Pawlik Wstęp wolny! W sytuacji wystąpienia złych warunków pogodowych (deszcz, silny wiatr etc.) wydarzenia zostaną przeniesione do Sali Teatralnej Krakowskiego Forum Kultury (ul. Mikołajska 2 – Mały Rynek) – liczba miejsc jest ograniczona. Regulamin uczestnictwa w Koncertach Promenadowych dostępny jest na stronie krakowskieforum.pl w zakładce Regulaminy i procedury.",
-      "image": "https://krakowskieforum.pl/uploads/temp/kali/impr_3477/zajawki/normal_0df51ff2638ccd123a38030c93ec34e33a09c4fb.jpg",
-      "location": {
-        "name": "Krakowskie Forum Kultury Mikołajska 2",
-        "district": "Stare Miasto"
-      },
-      "url": "https://krakowskieforum.pl/wydarzenie-3477-koncerty_promenadowe_dla_dzieci_secret-szczegoly-41906.html",
-      "source": "krakowskieforum.pl",
-      "scrapped_url": "https://krakowskieforum.pl/wydarzenie-3477-koncerty_promenadowe_dla_dzieci_secret-szczegoly-41906.html",
-      "scrapped_timestamp": "2026-08-09T07:15:30.856602+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Koncerty Promenadowe dla dzieci: Secret Quintet",
-          "description": "22 sierpnia (sob.), 11:00 Altana na Plantach, Skwer Zbigniewa Wodeckiego Bajkę symfoniczną Piotruś i wilk skomponował w 1936 Sergiusz Prokofiew na głos recytujący i orkiestrę symfoniczną. Ale, jak doskonale wiecie, tak duży zespół nie zmieściłby się w naszej altanie, zastąpi ją więc kwintet dęty, który wykona utwór w aranżacji Joachima Linckelmanna. Koncert zacznie się od przedstawienia publiczności instrumentów i postaci, a potem będzie granie i czytanie, i mnóstwo emocji. Dzielny i sprytny Piotruś stara się, by wszyscy żyli w zgodzie, tymczasem jego zaprzyjaźnionej Kaczuszce zagraża podstępny Wilk. Czy i jak chłopcu uda się go przechytrzyć? Secret Quintet: Paulina Łaciak – flet Jakub Koch – obój Dmytro Pylypchak – klarnet Oleh Malovichko – waltornia Katarzyna Jasińska – fagot Prowadzenie: Kamila Pawlik Wstęp wolny! W sytuacji wystąpienia złych warunków pogodowych (deszcz, silny wiatr etc.) wydarzenia zostaną przeniesione do Sali Teatralnej Krakowskiego Forum Kultury (ul. Mikołajska 2 – Mały Rynek) – liczba miejsc jest ograniczona. Regulamin uczestnictwa w Koncertach Promenadowych dostępny jest na stronie krakowskieforum.pl w zakładce Regulaminy i procedury."
-        },
-        "en": {
-          "title": "Promenade Concerts for Children: Secret Quintet",
-          "description": "August 22 (Sat.), 11:00 AM, Gazebo in the Planty, Zbigniew Wodecki Square. The symphonic fairy tale Peter and the Wolf was composed in 1936 by Sergei Prokofiev for reciting voice and symphony orchestra. However, as you well know, such a large ensemble would not fit in our gazebo, so it will be replaced by a wind quintet that will perform the piece in an arrangement by Joachim Linckelmann. The concert will begin with an introduction of the instruments and characters to the audience, followed by music and narration, and plenty of emotions. Brave and clever Peter tries to ensure that everyone lives in harmony, while his friend the Duck is threatened by the cunning Wolf. Will the boy manage to outsmart him? Secret Quintet: Paulina Łaciak – flute, Jakub Koch – oboe, Dmytro Pylypchak – clarinet, Oleh Malovichko – horn, Katarzyna Jasińska – bassoon. Hosted by."
-        },
-        "uk": {
-          "title": "Концерти Променадові для дітей: Секретний Квінтет",
-          "description": "22 серпня (суб.), 11:00 Альтанка на Плантах, Сквер Збігнєва Водецького Симфонічну казку \"Петя і Вовк\" написав у 1936 році Сергій Прокоф'єв для голосу, що читає, та симфонічного оркестру. Але, як ви добре знаєте, такий великий колектив не вміститься в нашій альтанці, тому його замінить духовий квінтет, який виконає твір в аранжуванні Йоахіма Лінкельмана. Концерт почнеться з представлення публіці інструментів та персонажів, а потім буде гратися та читатися, і багато емоцій. Сміливий і кмітливий Петя намагається, щоб усі жили в злагоді, тим часом його дружній Качечці загрожує підступний Вовк. Чи вдасться хлопчику його перехитрити? Секретний Квінтет: Пауліна Лаціак – флейта Якуб Кох – гобой Дмитро Пилипчак – кларнет Олег Маловичко – валторна Катерина Ясінська – фагот Ведучий"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-08-09T07:16:13.315456+00:00"
-    },
-    "letnie-koncerty-na-trawie-orkiestra-zespo-u-pie-ni-i-ta-ca-krakowiacy-2026-08-22T17:00:00+02:00": {
-      "title": "Letnie koncerty na trawie: Orkiestra Zespołu Pieśni i Tańca „Krakowiacy”",
-      "date": "2026-08-22T17:00:00+02:00",
-      "end_date": "2026-08-22T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "22 sierpnia (sob.), 17:00-18:00 Park im. Henryka Jordana, przy popiersiu Kościuszki Kameralne wydarzenie artystyczne w nienachalny sposób łączące promocję kultury wysokiej z elementami edukacji muzycznej, a przede wszystkim sprawiające mnóstwo przyjemności wielbicielom różnorodnych gatunków. Koncerty odbywają się na łące w Parku Jordana – miejscu spotkań, spacerów i wypoczynku – stanowiącej naturalne tło dla muzycznych doznań, a zarazem przestrzeń pełną tradycji i historii. Ciepłe letnie dni, mała scena, publiczność na kocach (zachęcamy do przyniesienia własnych!), spacerowicze zatrzymujący się na chwilę, a może i na całe popołudnie… *** Podróż przez barwne regiony etnograficzne Polski. Kameralny skład wykona dla nas melodie z okolic Krakowa, Lublina, Rzeszowa i Łowicza czy Kujaw. Wstęp wolny. Wydarzenie dla pełnoletnich. Informacje: michal.wisniowski@krakowskieforum.pl, 12 422 08 14 w. 26",
-      "image": "https://krakowskieforum.pl/uploads/temp/kali/impr_3505/zajawki/normal_acd9fb21ebc900bdfe32bbff507a72acba87fac7.jpg",
-      "location": {
-        "name": "Krakowskie Forum Kultury Mikołajska 2",
-        "district": "Stare Miasto"
-      },
-      "url": "https://krakowskieforum.pl/wydarzenie-3505-letnie_koncerty_na_trawie_orkiestra-szczegoly-42005.html",
-      "source": "krakowskieforum.pl",
-      "scrapped_url": "https://krakowskieforum.pl/wydarzenie-3505-letnie_koncerty_na_trawie_orkiestra-szczegoly-42005.html",
-      "scrapped_timestamp": "2026-08-09T07:15:38.498648+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 13,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Letnie koncerty na trawie: Orkiestra Zespołu Pieśni i Tańca „Krakowiacy”",
-          "description": "22 sierpnia (sob.), 17:00-18:00 Park im. Henryka Jordana, przy popiersiu Kościuszki Kameralne wydarzenie artystyczne w nienachalny sposób łączące promocję kultury wysokiej z elementami edukacji muzycznej, a przede wszystkim sprawiające mnóstwo przyjemności wielbicielom różnorodnych gatunków. Koncerty odbywają się na łące w Parku Jordana – miejscu spotkań, spacerów i wypoczynku – stanowiącej naturalne tło dla muzycznych doznań, a zarazem przestrzeń pełną tradycji i historii. Ciepłe letnie dni, mała scena, publiczność na kocach (zachęcamy do przyniesienia własnych!), spacerowicze zatrzymujący się na chwilę, a może i na całe popołudnie… *** Podróż przez barwne regiony etnograficzne Polski. Kameralny skład wykona dla nas melodie z okolic Krakowa, Lublina, Rzeszowa i Łowicza czy Kujaw. Wstęp wolny. Wydarzenie dla pełnoletnich. Informacje: michal.wisniowski@krakowskieforum.pl, 12 422 08 14 w. 26"
-        },
-        "en": {
-          "title": "Summer Concerts on the Grass: Orchestra of the Song and Dance Ensemble 'Krakowiacy'",
-          "description": "August 22 (Sat.), 5:00 PM - 6:00 PM, Henryk Jordan Park, near the Kościuszko bust. An intimate artistic event that subtly combines the promotion of high culture with elements of music education, while primarily providing great pleasure to fans of various genres. The concerts take place on the meadow in Jordan Park – a place for meetings, walks, and relaxation – serving as a natural backdrop for musical experiences, as well as a space full of tradition and history. Warm summer days, a small stage, an audience on blankets (we encourage you to bring your own!), passersby stopping for a moment, or perhaps for the whole afternoon... *** A journey through the colorful ethnographic regions of Poland. The chamber ensemble will perform melodies from the areas of Kraków, Lublin, Rzeszów, and Łowicz, as well as Kujawy. Admission is free."
-        },
-        "uk": {
-          "title": "Літні концерти на траві: Оркестр ансамблю пісні та танцю «Краков'яки»",
-          "description": "22 серпня (субота), 17:00-18:00 Парк ім. Генрика Йордана, біля бюста Костюшка. Камерна художня подія, яка ненав'язливо поєднує просування високої культури з елементами музичної освіти, а головне, приносить багато задоволення шанувальникам різноманітних жанрів. Концерти відбуваються на лузі в Парку Йордана – місці зустрічей, прогулянок і відпочинку – що є природним фоном для музичних вражень, а також простором, наповненим традиціями та історією. Теплі літні дні, мала сцена, публіка на ковдрах (заохочуємо приносити свої!), прогулянкові відвідувачі, які зупиняються на мить, а може й на ціле післяобіддя... *** Подорож через барвисті етнографічні регіони Польщі. Камерний склад виконає для нас мелодії з околиць Кракова, Любліна, Жешува та Ловича чи Куяв. Вхід вільний."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-08-09T07:16:13.315478+00:00"
-    },
-    "mrau-muzyczne-rondo-artystycznych-uciech-2026-08-22T20:00:00+02:00": {
-      "title": "MRAU! | Muzyczne Rondo Artystycznych Uciech!",
-      "date": "2026-08-22T20:00:00+02:00",
-      "end_date": "2026-08-22T20:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "22 sierpnia (sob.), 20:00-21:00 Rondo Mogilskie / dolna płyta W sierpniowe wieczory ożywimy w zupełnie odmienny od codziennego sposób sporadycznie wykorzystywaną kulturalnie przestrzeń Ronda Mogilskiego. Będzie to doskonała okazja dla mieszkańców dzielnicy i użytkowników komunikacji miejskiej do obcowania z różnorodną i wieloetniczną muzyką wykonywaną na żywo w oryginalnej i unikalnej scenerii. Opatrzony na co dzień miejski pejzaż wzbogacą tworzone na żywo wizualizacje Anny Chmiel. Anna Rzeka & Asia Nawojska w koncercie pełnym subtelności i refleksji. To pierwsze wspólne, po wielu latach od dzielenia szkolnej ławki, spotkanie dwóch światów, których muzyczne doświadczenia scalą się podczas wspólnie wykonywanych autorskich piosenek. Anna Rzeka – wokalistka poruszającej się w klimatach alternatywy z poetyckimi tekstami i wielowarstwowymi harmoniami. Jej muzyka jest pełna tęsknoty, a teksty opowiadają o miłości we wszystkich jej przejawach. Laureatka Nagrody Głównej 17. Ogólnopolskiego Konkursu Twórców i Wykonawców PIOSENKARNIA 2024. Pisze teksty, komponuje, gra. Pracuje intensywnie nad debiutancką płytą i kolejnymi teledyskami, których jest również autorką i reżyserką. Na Instagramie, YouTubie i Tik Toku jako @anna.rzeka. Asia Nawojska – pianistka, wokalistka, tekściarka, aranżerka. Szukająca i z radością błądząca gdzieś pomiędzy muzyką klasyczną, alternatywą a indie popem i folkiem. Na scenie od 2017; pojawiała się m.in na line-upach licznych festiwali, w 2025 wydała płytę długogrającą Opuszki . Koncertowo prezentowała się, śpiewając m.in. w duecie z Ralphem Kamińskim czy Jazz Bandem Młynarski-Masecki. Jej #zimowepiosenki z Misią Furtak, Basią Małecką czy Jackiem Sienkiewiczem chwyciły za serce tysiące słuchaczy. Anna Chmiel – malarka, ilustratorka i artystka multimedialna. Łączy klasyczne techniki wizualne z performansem audiowizualnym. Absolwentka krakowskiej ASP. Tworzy w technikach olejnych, akwareli oraz sumi-e, za którą otrzymała wyróżnienie w The National Art Center w Tokio. Rozwija analogowe Liquid Light Show – wizualizacje oparte na przenikaniu się światła i ciekłych farb. Współpracuje z muzykami sceny eksperymentalnej, występowała m.in. w Muzeum Narodowym w Warszawie, na Audio Art Festival, Etiudzie & Animie i SLOT Art Festivalu. Zaangażowana w oddolne inicjatywy artystyczne i aktywistyczne w Krakowie. Współtworzy kolektyw Siostry Rzeki, jest autorką etnograficznej mapy Myscowej w dolinie Wisłoki. Reprezentuje polskie rzeki w Network of European Water Bodies. Członkini Składu Solnego, gdzie współorganizuje wystawy, koncerty i debaty. 1.08: Wassim Ibrahim i Joachim Mencel : Mistyka dźwięku 8.08: Dominik Cichy Quartet : Echa Jazzowych Gigantów: Od Davisa do Garretta 22.08: Anna Rzeka i Asia Nawojska: Piosenki o miłości 29.08: Capella Cracoviensis : Święto trąbek Wstęp wolny! Informacje: 12 422 08 14 w. 24, igor.sikorski@krakowskieforum.pl Projekt realizowany w ramach Budżetu Obywatelskiego na 2025 rok. BO.D2.6/25. MRAU! Muzyczne Rondo Artystycznych Uciech!",
-      "image": "https://krakowskieforum.pl/uploads/temp/kali/impr_3521/zajawki/normal_ed024e8cfb98bcfc3198e86ee7df5533ff620419.jpg",
-      "location": {
-        "name": "Krakowskie Forum Kultury Mikołajska 2",
-        "district": "Stare Miasto"
-      },
-      "url": "https://krakowskieforum.pl/wydarzenie-3521-mrau_muzyczne_rondo_artystycznych_uciech-szczegoly-42261.html",
-      "source": "krakowskieforum.pl",
-      "scrapped_url": "https://krakowskieforum.pl/wydarzenie-3521-mrau_muzyczne_rondo_artystycznych_uciech-szczegoly-42261.html",
-      "scrapped_timestamp": "2026-08-09T07:15:46.938515+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "MRAU! | Muzyczne Rondo Artystycznych Uciech!",
-          "description": "22 sierpnia (sob.), 20:00-21:00 Rondo Mogilskie / dolna płyta W sierpniowe wieczory ożywimy w zupełnie odmienny od codziennego sposób sporadycznie wykorzystywaną kulturalnie przestrzeń Ronda Mogilskiego. Będzie to doskonała okazja dla mieszkańców dzielnicy i użytkowników komunikacji miejskiej do obcowania z różnorodną i wieloetniczną muzyką wykonywaną na żywo w oryginalnej i unikalnej scenerii. Opatrzony na co dzień miejski pejzaż wzbogacą tworzone na żywo wizualizacje Anny Chmiel. Anna Rzeka & Asia Nawojska w koncercie pełnym subtelności i refleksji. To pierwsze wspólne, po wielu latach od dzielenia szkolnej ławki, spotkanie dwóch światów, których muzyczne doświadczenia scalą się podczas wspólnie wykonywanych autorskich piosenek. Anna Rzeka – wokalistka poruszającej się w klimatach alternatywy z poetyckimi tekstami i wielowarstwowymi harmoniami. Jej muzyka jest pełna tęsknoty, a teksty opowiadają o miłości we wszystkich jej przejawach. Laureatka Nagrody Głównej 17. Ogólnopolskiego Konkursu Twórców i Wykonawców PIOSENKARNIA 2024. Pisze teksty, komponuje, gra. Pracuje intensywnie nad debiutancką płytą i kolejnymi teledyskami, których jest również autorką i reżyserką. Na Instagramie, YouTubie i Tik Toku jako @anna.rzeka. Asia Nawojska – pianistka, wokalistka, tekściarka, aranżerka. Szukająca i z radością błądząca gdzieś pomiędzy muzyką klasyczną, alternatywą a indie popem i folkiem. Na scenie od 2017; pojawiała się m.in na line-upach licznych festiwali, w 2025 wydała płytę długogrającą Opuszki . Koncertowo prezentowała się, śpiewając m.in. w duecie z Ralphem Kamińskim czy Jazz Bandem Młynarski-Masecki. Jej #zimowepiosenki z Misią Furtak, Basią Małecką czy Jackiem Sienkiewiczem chwyciły za serce tysiące słuchaczy. Anna Chmiel – malarka, ilustratorka i artystka multimedialna. Łączy klasyczne techniki wizualne z performansem audiowizualnym. Absolwentka krakowskiej ASP. Tworzy w technikach olejnych, akwareli oraz sumi-e, za którą otrzymała wyróżnienie w The National Art Center w Tokio. Rozwija analogowe Liquid Light Show – wizualizacje oparte na przenikaniu się światła i ciekłych farb. Współpracuje z muzykami sceny eksperymentalnej, występowała m.in. w Muzeum Narodowym w Warszawie, na Audio Art Festival, Etiudzie & Animie i SLOT Art Festivalu. Zaangażowana w oddolne inicjatywy artystyczne i aktywistyczne w Krakowie. Współtworzy kolektyw Siostry Rzeki, jest autorką etnograficznej mapy Myscowej w dolinie Wisłoki. Reprezentuje polskie rzeki w Network of European Water Bodies. Członkini Składu Solnego, gdzie współorganizuje wystawy, koncerty i debaty. 1.08: Wassim Ibrahim i Joachim Mencel : Mistyka dźwięku 8.08: Dominik Cichy Quartet : Echa Jazzowych Gigantów: Od Davisa do Garretta 22.08: Anna Rzeka i Asia Nawojska: Piosenki o miłości 29.08: Capella Cracoviensis : Święto trąbek Wstęp wolny! Informacje: 12 422 08 14 w. 24, igor.sikorski@krakowskieforum.pl Projekt realizowany w ramach Budżetu Obywatelskiego na 2025 rok. BO.D2.6/25. MRAU! Muzyczne Rondo Artystycznych Uciech!"
-        },
-        "en": {
-          "title": "MRAU! | Musical Round of Artistic Pleasures!",
-          "description": "On August 22 (Saturday), 20:00-21:00 at Rondo Mogilskie / lower level. On August evenings, we will bring to life a culturally underutilized space of Rondo Mogilskie in a completely different way than usual. This will be a great opportunity for local residents and public transport users to experience diverse and multicultural live music in an original and unique setting. The urban landscape, usually adorned with everyday sights, will be enhanced by live visualizations created by Anna Chmiel. Anna Rzeka & Asia Nawojska will perform in a concert full of subtlety and reflection. This is the first joint meeting after many years since sharing a school bench, bringing together two worlds whose musical experiences will merge during the performance of their original songs. Anna Rzeka – a vocalist moving in alternative music styles."
-        },
-        "uk": {
-          "title": "MRAU! | Музичне Рондо Артистичних Утіх!",
-          "description": "22 серпня (субота), 20:00-21:00 Рондо Могильське / нижня платформа. У серпневі вечори ми оживимо культурно рідко використовуваний простір Рондо Могильського зовсім іншим способом. Це буде чудова нагода для мешканців району та користувачів громадського транспорту насолодитися різноманітною та багатонаціональною музикою, виконуваною наживо в оригінальному та унікальному антуражі. Міський пейзаж, який зазвичай оточує нас, буде збагачений живими візуалізаціями Анни Хміль. Анна Ріка та Ася Навойська в концерті, сповненому тонкості та роздумів. Це перша спільна зустріч після багатьох років, коли вони ділили шкільну парту, двох світів, музичні досвіди яких зіллються під час спільного виконання авторських пісень. Анна Ріка – вокалістка, що працює в альтернативних жанрах."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-08-09T07:16:13.315496+00:00"
-    },
-    "redniowiecze-da-si-lubi-2026-2026-08-22T10:30:00+02:00": {
-      "title": "Średniowiecze da się lubić! 2026",
-      "date": "2026-08-22T10:30:00+02:00",
-      "url": "https://karnet.krakowculture.pl/64526-krakow-sredniowiecze-da-sie-lubic-2026",
-      "description": "Muzeum Krakowa zaprasza na cztery soboty sierpnia w Barbakanie wypełnione pokazami średniowiecznego rzemiosła, warsztatami i koncertami muzyki dawnej.\n\nUdział w wydarzeniach w cenie biletu wstępu do Barbakanu. Bilety można nabyć bezpośrednio w kasie Barbakanu.\n\nOd lat Muzeum Krakowa przekonuje, że Średniowiecze mimo tego, że jest to epoka stereotypowo kojarząca się z mrokiem, okrucieństwem i brakiem postępu miało swoje jasne strony i zdecydowanie przy bliższym poznaniu da się lubić. W tej edycji skupimy się na rzemiośle, czyli podstawowym zajęciu krakowskiego mieszczaństwa w tej epoce, a którego wyroby do dziś cieszą oko zwiedzających, także na trwającej w Pałacu Krzysztofory wystawie „Kunszt i fach”. My jednak postaramy się z pomocą rekonstruktorów zaprezentować średniowieczne rzemiosło w praktyce i na żywo. W tym roku zapraszamy Państwa do Barbakanu jedynie w sierpniowe soboty, ale mimo skróconego trwania będziemy mogli wypełnić te dni w najsłynniejszej krakowskiej fortecy jeszcze większą liczbą atrakcji.\n\nOk. 10:30 Rozpoczęcie po Ceremoniale otwarcia bram Barbakanu 10:30-16:30 Kuźnia Borzywoj: - kat – mistrz sprawiedliwości cz. 1 - stanowisko bartnicze i pszczele opowieści - rynsztunek rycerza z przełomu XIV-XV wieku – prezentacja z udziałem publiczności - w średniowiecznej łaźni - kowal – mistrz żywiołów - grzywna a moneta – warsztat mincerza - kat - mistrz sprawiedliwości cz. 2 - quiz wiedzy zdobytej podczas wydarzenia do dyspozycji zwiedzających będą zaaranżowane z replik zabytków i rekonstrukcji ekspozycje tematyczne dotyczące kowalstwa, higieny, rzemiosła katowskiego czy zbrojowni. Funkcjonować będzie także stanowisko mincerza i średniowiecznego pszczelarza. Kaligraf Grzegorz Barasiński: interaktywny warsztat średniowiecznego skryby, pokazy i lekcje kaligrafowania średniowiecznymi literami Oprawa muzyczna w ciągu dnia: Zespół Żmij\n\n16:30-17:30 Koncert zespołu Daj Ognia 18:00 Zakończenie\n\nOk. 10:30 Rozpoczęcie po Ceremoniale otwarcia bram Barbakanu 10:30-16:30 Bractwo Rycerskie Zamku Będzin: - pokazy bronioznawcze - nauka tańców dworskich - przymierzalnia strojów - pokaz czarnoprochowy – bombarda, piszczel - turniej rycerski Teatr Otwarty – Dariusz Cywka: dla dzieci –legendy krakowskie, układanie herbu 15:00-16:00 Koncert zespołu Cronica 18:00 Zakończenie\n\nOk. 10:30 Rozpoczęcie po Ceremoniale otwarcia bram Barbakanu 10:30-16:30 Cech Rzemiosł Metalowych w Krakowie: Prezentacja insygniów cechowych oraz prawdziwej kuszy bojowej Drużyna Wojów Wiślańskich Krak: - przyjęcie czeladnika do terminu (scenka rodzajowa - rychtowanie woja i przymiarki u płatnerza (scenka rodzajowa) - prezentacja stoiska garncarz - wykład historyczn - nadanie tytułu mistrza cechu (scenka rodzajowa - warsztaty garncarskie Kaligraf Grzegorz Barasiński: interaktywny warsztat średniowiecznego skryby, pokazy i lekcje kaligrafowania średniowiecznymi literami Salkworks: warsztat kaletnika i garbarza, warsztaty szycia i wybijania w skórze Teatr Otwarty – Dariusz Cywka: dla dzieci –legendy krakowskie, układanie herbu 16:30-17:30 Koncert zespołu Daj Ognia 18:00 Zakończenie\n\nOk. 10:30 Rozpoczęcie po Ceremoniale otwarcia bram Barbakanu 10:30-16:30 Cech Rzemiosł Metalowych w Krakowie: Prezentacja insygniów cechowych oraz prawdziwej kuszy bojowej Bractwo Rycerskie Zamku Będzin: - warsztaty bronioznawcze - pokazy alchemika – „woda” - pokaz czarnoprochowy – bombarda, hakownica - ludwisarz – odlewanie kul - pokazy alchemika – „ogień” Kaligraf Grzegorz Barasiński: interaktywny warsztat średniowiecznego skryby, pokazy i lekcje kaligrafowania średniowiecznymi literami Salkworks: warsztat kaletnika i garbarza, warsztaty szycia i wybijania w skórze 16:30-17:30 Koncert zespołu Dziwoludy 18:00 Zakończenie",
-      "image": "http://media.krakow.travel/photos/78334/m.jpg",
-      "startTimeKnown": true,
-      "location": {
-        "name": "Barbakan i Mury Obronne, Planty",
-        "district": "Stare Miasto"
-      },
-      "end_date": "2026-08-22T10:30:00+02:00",
-      "scrapped_url": "https://karnet.krakowculture.pl/64526-krakow-sredniowiecze-da-sie-lubic-2026",
-      "scrapped_timestamp": "2026-08-09T07:15:52.524392+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Średniowiecze da się lubić! 2026",
-          "description": "Muzeum Krakowa zaprasza na cztery soboty sierpnia w Barbakanie wypełnione pokazami średniowiecznego rzemiosła, warsztatami i koncertami muzyki dawnej.\n\nUdział w wydarzeniach w cenie biletu wstępu do Barbakanu. Bilety można nabyć bezpośrednio w kasie Barbakanu.\n\nOd lat Muzeum Krakowa przekonuje, że Średniowiecze mimo tego, że jest to epoka stereotypowo kojarząca się z mrokiem, okrucieństwem i brakiem postępu miało swoje jasne strony i zdecydowanie przy bliższym poznaniu da się lubić. W tej edycji skupimy się na rzemiośle, czyli podstawowym zajęciu krakowskiego mieszczaństwa w tej epoce, a którego wyroby do dziś cieszą oko zwiedzających, także na trwającej w Pałacu Krzysztofory wystawie „Kunszt i fach”. My jednak postaramy się z pomocą rekonstruktorów zaprezentować średniowieczne rzemiosło w praktyce i na żywo. W tym roku zapraszamy Państwa do Barbakanu jedynie w sierpniowe soboty, ale mimo skróconego trwania będziemy mogli wypełnić te dni w najsłynniejszej krakowskiej fortecy jeszcze większą liczbą atrakcji.\n\nOk. 10:30 Rozpoczęcie po Ceremoniale otwarcia bram Barbakanu 10:30-16:30 Kuźnia Borzywoj: - kat – mistrz sprawiedliwości cz. 1 - stanowisko bartnicze i pszczele opowieści - rynsztunek rycerza z przełomu XIV-XV wieku – prezentacja z udziałem publiczności - w średniowiecznej łaźni - kowal – mistrz żywiołów - grzywna a moneta – warsztat mincerza - kat - mistrz sprawiedliwości cz. 2 - quiz wiedzy zdobytej podczas wydarzenia do dyspozycji zwiedzających będą zaaranżowane z replik zabytków i rekonstrukcji ekspozycje tematyczne dotyczące kowalstwa, higieny, rzemiosła katowskiego czy zbrojowni. Funkcjonować będzie także stanowisko mincerza i średniowiecznego pszczelarza. Kaligraf Grzegorz Barasiński: interaktywny warsztat średniowiecznego skryby, pokazy i lekcje kaligrafowania średniowiecznymi literami Oprawa muzyczna w ciągu dnia: Zespół Żmij\n\n16:30-17:30 Koncert zespołu Daj Ognia 18:00 Zakończenie\n\nOk. 10:30 Rozpoczęcie po Ceremoniale otwarcia bram Barbakanu 10:30-16:30 Bractwo Rycerskie Zamku Będzin: - pokazy bronioznawcze - nauka tańców dworskich - przymierzalnia strojów - pokaz czarnoprochowy – bombarda, piszczel - turniej rycerski Teatr Otwarty – Dariusz Cywka: dla dzieci –legendy krakowskie, układanie herbu 15:00-16:00 Koncert zespołu Cronica 18:00 Zakończenie\n\nOk. 10:30 Rozpoczęcie po Ceremoniale otwarcia bram Barbakanu 10:30-16:30 Cech Rzemiosł Metalowych w Krakowie: Prezentacja insygniów cechowych oraz prawdziwej kuszy bojowej Drużyna Wojów Wiślańskich Krak: - przyjęcie czeladnika do terminu (scenka rodzajowa - rychtowanie woja i przymiarki u płatnerza (scenka rodzajowa) - prezentacja stoiska garncarz - wykład historyczn - nadanie tytułu mistrza cechu (scenka rodzajowa - warsztaty garncarskie Kaligraf Grzegorz Barasiński: interaktywny warsztat średniowiecznego skryby, pokazy i lekcje kaligrafowania średniowiecznymi literami Salkworks: warsztat kaletnika i garbarza, warsztaty szycia i wybijania w skórze Teatr Otwarty – Dariusz Cywka: dla dzieci –legendy krakowskie, układanie herbu 16:30-17:30 Koncert zespołu Daj Ognia 18:00 Zakończenie\n\nOk. 10:30 Rozpoczęcie po Ceremoniale otwarcia bram Barbakanu 10:30-16:30 Cech Rzemiosł Metalowych w Krakowie: Prezentacja insygniów cechowych oraz prawdziwej kuszy bojowej Bractwo Rycerskie Zamku Będzin: - warsztaty bronioznawcze - pokazy alchemika – „woda” - pokaz czarnoprochowy – bombarda, hakownica - ludwisarz – odlewanie kul - pokazy alchemika – „ogień” Kaligraf Grzegorz Barasiński: interaktywny warsztat średniowiecznego skryby, pokazy i lekcje kaligrafowania średniowiecznymi literami Salkworks: warsztat kaletnika i garbarza, warsztaty szycia i wybijania w skórze 16:30-17:30 Koncert zespołu Dziwoludy 18:00 Zakończenie"
-        },
-        "en": {
-          "title": "The Middle Ages Can Be Liked! 2026",
-          "description": "The Museum of Krakow invites you to four Saturdays in August at the Barbican filled with demonstrations of medieval crafts, workshops, and concerts of early music.\n\nParticipation in the events is included in the ticket price for entry to the Barbican. Tickets can be purchased directly at the Barbican's box office.\n\nFor years, the Museum of Krakow has been convincing that the Middle Ages, despite being an era stereotypically associated with darkness, cruelty, and lack of progress, had its bright sides and can definitely be appreciated upon closer examination. In this edition, we will focus on crafts, which were the primary occupation of the Krakow burghers during this period, and whose products still delight visitors today, also at the ongoing exhibition \"Craft and Trade\" at the Krzysztofory Palace. We will, however, strive to present medieval crafts with the help of reenactors."
-        },
-        "uk": {
-          "title": "Середньовіччя можна полюбити! 2026",
-          "description": "Музей Кракова запрошує на чотири суботи серпня в Барбакані, наповнені показами середньовічного ремесла, майстер-класами та концертами старовинної музики.\n\nУчасть у заходах входить у вартість квитка на вхід до Барбакану. Квитки можна придбати безпосередньо в касі Барбакану.\n\nПротягом багатьох років Музей Кракова переконує, що Середньовіччя, незважаючи на те, що це епоха, яка стереотипно асоціюється з темрявою, жорстокістю та відсутністю прогресу, мало свої світлі сторони і безумовно, при ближчому знайомстві, можна полюбити. У цій редакції ми зосередимося на ремеслі, тобто основному занятті краківського міщанства в цю епоху, вироби якого до сьогодні радують око відвідувачів, також на триваючій в Палаці Кшиштофорових виставці \"Мистецтво і ремесло\". Ми ж намагатимемося з допомогою реконструкторів представити середньовічне ремесло в"
-        }
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-08-09T07:16:13.315515+00:00"
-    },
     "czytanie-w-de-revolutionibus-books-2026-09-12T12:00:00+02:00": {
       "title": "Czytanie w De Revolutionibus Books",
       "date": "2026-09-12T12:00:00+02:00",
@@ -4060,46 +3708,6 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-08-10T08:02:11.385762+00:00"
-    },
-    "koncerty-promenadowe-dla-dzieci-secret-quintet-piotru-i-wilk-bajka-kt-ra-gra-2026-08-22T11:00:00+02:00": {
-      "title": "Koncerty Promenadowe dla dzieci: Secret Quintet „Piotruś i wilk. Bajka, która gra”",
-      "date": "2026-08-22T11:00:00+02:00",
-      "end_date": "2026-08-22T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Bajkę symfoniczną „Piotruś i wilk” skomponował w 1936 Sergiusz Prokofiew na głos recytujący i orkiestrę symfoniczną. Ponieważ duży zespół nie zmieściłby się w altanie, utwór wykona kwintet dęty w aranżacji Joachima Linckelmanna. Koncert zacznie się od przedstawienia publiczności instrumentów i postaci, a potem będzie granie i czytanie — i mnóstwo emocji. Dzielny i sprytny Piotruś stara się, by wszyscy żyli w zgodzie, tymczasem jego zaprzyjaźnionej Kaczuszce zagraża podstępny Wilk. Czy i jak chłopcu uda się go przechytrzyć? Data i godzina 22 sierpnia (sobota), 11:00 Miejsce Altana na Plantach, Skwer Zbigniewa Wodeckiego, Kraków Wstęp: wolny W razie złych warunków pogodowych (deszcz, silny wiatr itp.) wydarzenie zostanie przeniesione do Sali Teatralnej Krakowskiego Forum Kultury (ul. Mikołajska 2 – Mały Rynek) — liczba miejsc ograniczona. Secret Quintet Paulina Łaciak – flet Jakub Koch – obój Dmytro Pylypchak – klarnet Oleh Malovichko – waltornia Katarzyna Jasińska – fagot Prowadzenie: Kamila Pawlik Regulamin uczestnictwa Regulamin uczestnictwa w Koncertach Promenadowych dostępny na stronie: Więcej informacji",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Fc8973bfd-a81f-42b4-a18f-ecc6412ea0d4.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/c8973bfd-a81f-42b4-a18f-ecc6412ea0d4",
-      "source": "gojammin.com",
-      "district": "Stare Miasto",
-      "location": {
-        "name": "Skwer im. Zbigniewa Wodeckiego, 33-332 Kraków, Poland",
-        "district": "Stare Miasto"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/c8973bfd-a81f-42b4-a18f-ecc6412ea0d4",
-      "scrapped_timestamp": "2026-08-10T08:01:39.780438+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Koncerty Promenadowe dla dzieci: Secret Quintet „Piotruś i wilk. Bajka, która gra”",
-          "description": "Bajkę symfoniczną „Piotruś i wilk” skomponował w 1936 Sergiusz Prokofiew na głos recytujący i orkiestrę symfoniczną. Ponieważ duży zespół nie zmieściłby się w altanie, utwór wykona kwintet dęty w aranżacji Joachima Linckelmanna. Koncert zacznie się od przedstawienia publiczności instrumentów i postaci, a potem będzie granie i czytanie — i mnóstwo emocji. Dzielny i sprytny Piotruś stara się, by wszyscy żyli w zgodzie, tymczasem jego zaprzyjaźnionej Kaczuszce zagraża podstępny Wilk. Czy i jak chłopcu uda się go przechytrzyć? Data i godzina 22 sierpnia (sobota), 11:00 Miejsce Altana na Plantach, Skwer Zbigniewa Wodeckiego, Kraków Wstęp: wolny W razie złych warunków pogodowych (deszcz, silny wiatr itp.) wydarzenie zostanie przeniesione do Sali Teatralnej Krakowskiego Forum Kultury (ul. Mikołajska 2 – Mały Rynek) — liczba miejsc ograniczona. Secret Quintet Paulina Łaciak – flet Jakub Koch – obój Dmytro Pylypchak – klarnet Oleh Malovichko – waltornia Katarzyna Jasińska – fagot Prowadzenie: Kamila Pawlik Regulamin uczestnictwa Regulamin uczestnictwa w Koncertach Promenadowych dostępny na stronie: Więcej informacji"
-        },
-        "en": {
-          "title": "Promenade Concerts for Children: Secret Quintet \"Peter and the Wolf. A Tale that Plays\"",
-          "description": "The symphonic tale \"Peter and the Wolf\" was composed in 1936 by Sergei Prokofiev for a reciting voice and symphony orchestra. Since a large ensemble would not fit in the gazebo, the piece will be performed by a wind quintet arranged by Joachim Linckelmann. The concert will begin with an introduction of the instruments and characters to the audience, followed by music and narration — and plenty of emotions. Brave and clever Peter tries to ensure that everyone lives in harmony, while his friend the Duck is threatened by the cunning Wolf. Will the boy manage to outsmart him? Date and time: August 22 (Saturday), 11:00 AM. Location: Gazebo in the Planty Park, Zbigniew Wodecki Square, Kraków. Admission: free. In case of bad weather conditions (rain, strong wind, etc.), the event will be moved to the Theatre Hall of the Krakow Cultural Forum (ul. Mikołaja)."
-        },
-        "uk": {
-          "title": "Концерти Променадові для дітей: Секретний Квінтет «Петя і Вовк. Казка, яка грає»",
-          "description": "Казку симфонічну «Петя і Вовк» склав у 1936 році Сергій Прокоф'єв для голосу, що читає, та симфонічного оркестру. Оскільки великий ансамбль не вміститься в альтанці, твір виконає дерев'яний квінтет в аранжуванні Йоахіма Лінкельмана. Концерт почнеться з представлення публіці інструментів та персонажів, а потім буде гратися та читатися — і безліч емоцій. Сміливий і кмітливий Петя намагається, щоб усі жили в злагоді, тим часом його дружній Качці загрожує підступний Вовк. Чи вдасться хлопчику його перехитрити? Дата і час: 22 серпня (субота), 11:00. Місце: Альтанка на Плантах, Сквер Збігнєва Водецького, Краків. Вхід: вільний. У разі поганих погодних умов (дощ, сильний вітер тощо) подія буде перенесена до Театральної зали Краківського форуму культури (вул. Миколая)."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-08-10T08:02:11.385787+00:00"
     },
     "rodzinna-niedziela-synagogi-z-wyobra-ni-2026-08-23T11:00:00+02:00": {
       "title": "Rodzinna Niedziela: Synagogi z wyobraźni",
@@ -5499,84 +5107,6 @@
         "is_free": true
       },
       "updated_at": "2026-08-13T12:23:21.624359+00:00"
-    },
-    "folklor-od-najm-odszych-lat-o-rodek-ruczaj-zaprasza-na-rodzinne-warsztaty-2026-08-22T15:00:00+02:00": {
-      "title": "Folklor od najmłodszych lat. Ośrodek Ruczaj zaprasza na rodzinne warsztaty",
-      "description": "22 sierpnia Ośrodek Ruczaj, działający w strukturach Centrum Kultury Podgórza, zaprasza rodziców z dziećmi w wieku od 1,5 do 3 lat na warsztaty „Dzień folkloru: zabawy z folklorem”. Spotkanie będzie okazją do poznawania polskiej kultury ludowej poprzez wspólną zabawę, muzykę i ruch. Fot. Pexels.com Centrum Kultury Podgórza – Ośrodek Ruczaj organizuje rodzinne warsztaty „Dzień folkloru: zabawy z folklorem”, skierowane do rodziców z dziećmi w wieku od 1,5 do 3 lat. Wydarzenie odbędzie się 22 sierpnia o godz. 15.00 w siedzibie ośrodka. Podczas zajęć najmłodsi wraz z opiekunami będą odkrywać świat polskiego folkloru poprzez muzykę, śpiew, taniec, ruch oraz rymowanki. Program wzbogacą również aktywności sensoryczne inspirowane naturą, które pozwolą dzieciom poznawać tradycję w sposób dostosowany do ich wieku i możliwości. Warsztaty mają formę wspólnej, rodzinnej zabawy i stanowią okazję do pierwszego kontaktu z kulturą ludową w przyjaznej, swobodnej atmosferze. Zapisy prowadzone są za pośrednictwem portalu Strefa Zajęć. Organizatorzy informują, że wystarczy zgłosić jedną osobę – rodzica lub dziecko.",
-      "image": "https://plikimpi.krakow.pl/zalacznik/609521/frame_4_2338487594.webp",
-      "url": "https://krakow.pl/krakow_dla_dzieci/333203,2431,komunikat,folklor_od_najmlodszych_lat__osrodek_ruczaj_zaprasza_na_rodzinne_warsztaty.html",
-      "source": "krakow.pl",
-      "location": {
-        "name": "Ośrodek Ruczaj, Kraków",
-        "address": "Ośrodek Ruczaj, Kraków",
-        "district": "Dębniki"
-      },
-      "district": "Dębniki",
-      "date": "2026-08-22T15:00:00+02:00",
-      "end_date": "2026-08-22T15:00:00+02:00",
-      "startTimeKnown": true,
-      "source_url": "https://krakow.pl/krakow_dla_dzieci/333203,2431,komunikat,folklor_od_najmlodszych_lat__osrodek_ruczaj_zaprasza_na_rodzinne_warsztaty.html",
-      "scrapped_url": "https://krakow.pl/krakow_dla_dzieci/333203,2431,komunikat,folklor_od_najmlodszych_lat__osrodek_ruczaj_zaprasza_na_rodzinne_warsztaty.html",
-      "scrapped_timestamp": "2026-08-13T12:20:50.183117+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "translations": {
-        "pl": {
-          "title": "Folklor od najmłodszych lat. Ośrodek Ruczaj zaprasza na rodzinne warsztaty",
-          "description": "22 sierpnia Ośrodek Ruczaj, działający w strukturach Centrum Kultury Podgórza, zaprasza rodziców z dziećmi w wieku od 1,5 do 3 lat na warsztaty „Dzień folkloru: zabawy z folklorem”. Spotkanie będzie okazją do poznawania polskiej kultury ludowej poprzez wspólną zabawę, muzykę i ruch. Fot. Pexels.com Centrum Kultury Podgórza – Ośrodek Ruczaj organizuje rodzinne warsztaty „Dzień folkloru: zabawy z folklorem”, skierowane do rodziców z dziećmi w wieku od 1,5 do 3 lat. Wydarzenie odbędzie się 22 sierpnia o godz. 15.00 w siedzibie ośrodka. Podczas zajęć najmłodsi wraz z opiekunami będą odkrywać świat polskiego folkloru poprzez muzykę, śpiew, taniec, ruch oraz rymowanki. Program wzbogacą również aktywności sensoryczne inspirowane naturą, które pozwolą dzieciom poznawać tradycję w sposób dostosowany do ich wieku i możliwości. Warsztaty mają formę wspólnej, rodzinnej zabawy i stanowią okazję do pierwszego kontaktu z kulturą ludową w przyjaznej, swobodnej atmosferze. Zapisy prowadzone są za pośrednictwem portalu Strefa Zajęć. Organizatorzy informują, że wystarczy zgłosić jedną osobę – rodzica lub dziecko."
-        },
-        "en": {
-          "title": "Folklore from the Youngest Age. Ruczaj Center Invites You to Family Workshops",
-          "description": "On August 22, the Ruczaj Center, operating within the structure of the Podgórze Cultural Center, invites parents with children aged 1.5 to 3 years to the workshop \"Folklore Day: Fun with Folklore.\" The meeting will be an opportunity to explore Polish folk culture through play, music, and movement. The Podgórze Cultural Center – Ruczaj Center organizes family workshops \"Folklore Day: Fun with Folklore,\" aimed at parents with children aged 1.5 to 3 years. The event will take place on August 22 at 3:00 PM at the center's headquarters. During the activities, the youngest participants, along with their caregivers, will discover the world of Polish folklore through music, singing, dancing, movement, and rhymes. The program will also include sensory activities inspired by nature, allowing children to learn about tradition in an age-appropriate way."
-        },
-        "uk": {
-          "title": "Фольклор з наймолодших років. Центр Ручай запрошує на сімейні майстер-класи",
-          "description": "22 серпня Центр Ручай, що діє в структурі Центру культури Подгуржа, запрошує батьків з дітьми віком від 1,5 до 3 років на майстер-клас «День фольклору: ігри з фольклором». Зустріч стане можливістю познайомитися з польською народною культурою через спільні ігри, музику та рух. Фото: Pexels.com Центр культури Подгуржа – Центр Ручай організовує сімейні майстер-класи «День фольклору: ігри з фольклором», спрямовані на батьків з дітьми віком від 1,5 до 3 років. Подія відбудеться 22 серпня о 15:00 в приміщенні центру. Під час занять наймолодші разом з опікунами відкриватимуть світ польського фольклору через музику, спів, танець, рух та римівки. Програму також збагачуватимуть сенсорні активності, натхненні природою, які дозволять дітям знайомитися з традицією в адаптований спосіб."
-        }
-      },
-      "updated_at": "2026-08-13T12:23:21.624387+00:00"
-    },
-    "co-kryje-dzieci-ca-kiesze-kolekcja-2026-08-22T12:00:00+02:00": {
-      "title": "Co kryje dziecięca kieszeń? „Kolekcja”",
-      "description": "Co można zachować z wakacji, spaceru albo spotkania z naturą? Kamień, patyk, muszlę – a może wspomnienie, gest lub słowo? „Kolekcja” to spektakl dla dzieci w wieku 4–6 lat, który poprzez ruch, zabawę i pracę z przedmiotami przygląda się dziecięcej potrzebie zbierania i porządkowania świata. Fot. materiały prasowe Muszelka zabrana na pamiątkę wakacji. Patyk znaleziony podczas spaceru – dla zabawy. Kamienie upchane w kieszeniach, bo przyjemnie ich dotykać, oglądać i rzucać nimi. Te proste przedmioty mogą stać się małymi skarbami, a ich kolekcjonowanie – sposobem na zatrzymanie chwili i oswojenie tęsknoty za naturą. W spektaklu przyglądamy się dziecięcej potrzebie kolekcjonowania: naturalnej ciekawości, która każe zatrzymać się nad obłym kamieniem, idealnie prostym patykiem czy muszlą o niepowtarzalnym kształcie. Dwie bohaterki bawią się i zbierają skarby natury. Z ich spotkania powstaje kolekcja patyków, kamieni i muszli, którą współtworzyć może także publiczność, nadając jej własny porządek. Organizowanie i układanie przedmiotów staje się tutaj sposobem na poznawanie świata i odnajdywanie w nim swojego miejsca. „Kolekcja” czerpie z myślenia Tadeusza Kantora o kolekcji jako zapisie życia i pyta o to, co gromadzimy – zarówno w dzieciństwie, jak i w dorosłości. Spektakl oparty jest na języku ruchu i choreograficznej pracy z przedmiotami. To zaproszenie do wspólnego odkrywania, zabawy i przyglądania się temu, co na co dzień może wydawać się zupełnie zwyczajne. Pokaz premierowy odbędzie się 22 sierpnia o godz. 12.00, a kolejne 23 sierpnia o godz. 12.00 i godz. 13.30 w sali teatralnej Cricoteki, ul. Nadwiślańska 2–4. Bilety dostępne na stronie Cricoteki .",
-      "image": "https://plikimpi.krakow.pl/zalacznik/610553/4.webp",
-      "url": "https://krakow.pl/krakow_dla_dzieci/333590,2431,komunikat,co_kryje_dziecieca_kieszen___kolekcja_.html",
-      "source": "krakow.pl",
-      "location": {
-        "name": "Cricoteka, ul. Nadwiślańska 2–4, Kraków",
-        "address": "Cricoteka, ul. Nadwiślańska 2–4, Kraków",
-        "district": "Podgórze"
-      },
-      "district": "Podgórze",
-      "date": "2026-08-22T12:00:00+02:00",
-      "end_date": "2026-08-22T12:00:00+02:00",
-      "startTimeKnown": true,
-      "source_url": "https://krakow.pl/krakow_dla_dzieci/333590,2431,komunikat,co_kryje_dziecieca_kieszen___kolekcja_.html",
-      "scrapped_url": "https://krakow.pl/krakow_dla_dzieci/333590,2431,komunikat,co_kryje_dziecieca_kieszen___kolekcja_.html",
-      "scrapped_timestamp": "2026-08-13T12:20:58.194445+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 4,
-        "max": 6
-      },
-      "translations": {
-        "pl": {
-          "title": "Co kryje dziecięca kieszeń? „Kolekcja”",
-          "description": "Co można zachować z wakacji, spaceru albo spotkania z naturą? Kamień, patyk, muszlę – a może wspomnienie, gest lub słowo? „Kolekcja” to spektakl dla dzieci w wieku 4–6 lat, który poprzez ruch, zabawę i pracę z przedmiotami przygląda się dziecięcej potrzebie zbierania i porządkowania świata. Fot. materiały prasowe Muszelka zabrana na pamiątkę wakacji. Patyk znaleziony podczas spaceru – dla zabawy. Kamienie upchane w kieszeniach, bo przyjemnie ich dotykać, oglądać i rzucać nimi. Te proste przedmioty mogą stać się małymi skarbami, a ich kolekcjonowanie – sposobem na zatrzymanie chwili i oswojenie tęsknoty za naturą. W spektaklu przyglądamy się dziecięcej potrzebie kolekcjonowania: naturalnej ciekawości, która każe zatrzymać się nad obłym kamieniem, idealnie prostym patykiem czy muszlą o niepowtarzalnym kształcie. Dwie bohaterki bawią się i zbierają skarby natury. Z ich spotkania powstaje kolekcja patyków, kamieni i muszli, którą współtworzyć może także publiczność, nadając jej własny porządek. Organizowanie i układanie przedmiotów staje się tutaj sposobem na poznawanie świata i odnajdywanie w nim swojego miejsca. „Kolekcja” czerpie z myślenia Tadeusza Kantora o kolekcji jako zapisie życia i pyta o to, co gromadzimy – zarówno w dzieciństwie, jak i w dorosłości. Spektakl oparty jest na języku ruchu i choreograficznej pracy z przedmiotami. To zaproszenie do wspólnego odkrywania, zabawy i przyglądania się temu, co na co dzień może wydawać się zupełnie zwyczajne. Pokaz premierowy odbędzie się 22 sierpnia o godz. 12.00, a kolejne 23 sierpnia o godz. 12.00 i godz. 13.30 w sali teatralnej Cricoteki, ul. Nadwiślańska 2–4. Bilety dostępne na stronie Cricoteki ."
-        },
-        "en": {
-          "title": "What Does a Child's Pocket Hide? 'Collection'",
-          "description": "What can be kept from a vacation, a walk, or a meeting with nature? A stone, a stick, a shell – or perhaps a memory, a gesture, or a word? 'Collection' is a performance for children aged 4–6, which, through movement, play, and working with objects, examines the child's need to collect and organize the world. Photo: press materials. A shell taken as a souvenir from vacation. A stick found during a walk – for fun. Stones stuffed in pockets because they are pleasant to touch, to look at, and to throw. These simple objects can become little treasures, and their collection can be a way to capture a moment and tame the longing for nature. In the performance, we explore the child's need for collecting: a natural curiosity that makes one stop at a smooth stone, a perfectly straight stick, or a shell with an unusual shape."
-        },
-        "uk": {
-          "title": "Що ховає дитяча кишеня? «Колекція»",
-          "description": "Що можна зберегти з відпустки, прогулянки або зустрічі з природою? Камінь, паличка, мушля – а може спогад, жест чи слово? «Колекція» – це спектакль для дітей віком 4–6 років, який через рух, гру та роботу з предметами досліджує дитячу потребу збирати та впорядковувати світ. Фото: пресматеріали Мушля, взята на пам'ять з відпустки. Паличка, знайдена під час прогулянки – для розваги. Камені, запхнуті в кишені, бо приємно їх торкатися, розглядати та кидати ними. Ці прості предмети можуть стати маленькими скарбами, а їх колекціонування – способом зупинити момент і приручити тугу за природою. У спектаклі ми досліджуємо дитячу потребу колекціонування: природну цікавість, яка змушує зупинитися над округлим каменем, ідеально прямою паличкою чи мушлею з незвичайним малюнком."
-        }
-      },
-      "updated_at": "2026-08-13T12:23:21.624411+00:00"
     },
     "co-kryje-dzieci-ca-kiesze-kolekcja-2026-08-23T12:00:00+02:00": {
       "title": "Co kryje dziecięca kieszeń? „Kolekcja”",
@@ -7384,48 +6914,6 @@
       "district": "Stare Miasto",
       "updated_at": "2026-08-17T07:37:46.062711+00:00"
     },
-    "owady-zwi-zane-z-wod-ostatni-spacer-z-cyklu-parkobut-w-zieleni-2026-08-22T10:00:00+02:00": {
-      "title": "Owady związane z wodą – ostatni spacer z cyklu „ParkoBut w zieleni”",
-      "description": "22 sierpnia o godz. 10.00 w Parku Rzecznym Dłubnia odbędzie się ostatni w tym sezonie spacer z cyklu „ParkoBut w zieleni”. Spotkanie będzie poświęcone owadom związanym ze środowiskiem wodnym i ich roli w przyrodzie Krakowa. Fot. Zarząd Zieleni Miejskiej w Krakowie Podczas spaceru uczestnicy i uczestniczki przyjrzą się owadom, które swoje życie związują z wodą i jej najbliższym otoczeniem. Będzie można dowiedzieć się więcej o ich zwyczajach, sposobie funkcjonowania oraz znaczeniu dla przyrody. Spacer poprowadzi Łukasz Mielczarek z Zespołu ds. Lasów i Przyrody Zarządu Zieleni Miejskiej, który podczas terenowego spotkania opowie o owadach zamieszkujących wodne środowiska i pomoże uczestnikom dostrzec ich obecność w najbliższym otoczeniu. Udział w spacerze jest bezpłatny, jednak obowiązują wcześniejsze zapisy . Warto założyć wygodne obuwie oraz strój dostosowany do warunków terenowych. To ostatnia w tym sezonie okazja, by wybrać się na spacer z cyklu „ParkoBut w zieleni” i wspólnie odkrywać przyrodę Krakowa.",
-      "image": "https://plikimpi.krakow.pl/zalacznik/611933/4.webp",
-      "url": "https://krakow.pl/aktualnosci/334103,2163,komunikat,owady_zwiazane_z_woda___ostatni_spacer_z_cyklu__parkobut_w_zieleni_.html",
-      "source": "krakow.pl",
-      "location": {
-        "name": "Park Rzeczny Dłubnia, Kraków",
-        "address": "Park Rzeczny Dłubnia, Kraków",
-        "district": "Podgórze"
-      },
-      "district": "Podgórze",
-      "date": "2026-08-22T10:00:00+02:00",
-      "end_date": "2026-08-22T10:00:00+02:00",
-      "startTimeKnown": true,
-      "source_url": "https://krakow.pl/aktualnosci/334103,2163,komunikat,owady_zwiazane_z_woda___ostatni_spacer_z_cyklu__parkobut_w_zieleni_.html",
-      "scrapped_url": "https://krakow.pl/aktualnosci/334103,2163,komunikat,owady_zwiazane_z_woda___ostatni_spacer_z_cyklu__parkobut_w_zieleni_.html",
-      "scrapped_timestamp": "2026-08-17T07:37:37.460337+00:00",
-      "category": "Nature & Wildlife",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Owady związane z wodą – ostatni spacer z cyklu „ParkoBut w zieleni”",
-          "description": "22 sierpnia o godz. 10.00 w Parku Rzecznym Dłubnia odbędzie się ostatni w tym sezonie spacer z cyklu „ParkoBut w zieleni”. Spotkanie będzie poświęcone owadom związanym ze środowiskiem wodnym i ich roli w przyrodzie Krakowa. Fot. Zarząd Zieleni Miejskiej w Krakowie Podczas spaceru uczestnicy i uczestniczki przyjrzą się owadom, które swoje życie związują z wodą i jej najbliższym otoczeniem. Będzie można dowiedzieć się więcej o ich zwyczajach, sposobie funkcjonowania oraz znaczeniu dla przyrody. Spacer poprowadzi Łukasz Mielczarek z Zespołu ds. Lasów i Przyrody Zarządu Zieleni Miejskiej, który podczas terenowego spotkania opowie o owadach zamieszkujących wodne środowiska i pomoże uczestnikom dostrzec ich obecność w najbliższym otoczeniu. Udział w spacerze jest bezpłatny, jednak obowiązują wcześniejsze zapisy . Warto założyć wygodne obuwie oraz strój dostosowany do warunków terenowych. To ostatnia w tym sezonie okazja, by wybrać się na spacer z cyklu „ParkoBut w zieleni” i wspólnie odkrywać przyrodę Krakowa."
-        },
-        "en": {
-          "title": "Water-Associated Insects – Last Walk of the 'ParkoBut in Green' Series",
-          "description": "On August 22 at 10:00 AM, the last walk of the 'ParkoBut in Green' series will take place at the Dłubnia River Park. The meeting will focus on water-associated insects and their role in the nature of Krakow. Photo: Municipal Greenery Management in Krakow. During the walk, participants will observe insects that are linked to water and its immediate surroundings. They will learn more about their habits, functioning, and significance for nature. The walk will be led by Łukasz Mielczarek from the Forest and Nature Team of the Municipal Greenery Management, who will discuss insects inhabiting aquatic environments and help participants notice their presence in the immediate surroundings. Participation in the walk is free, but prior registration is required."
-        },
-        "uk": {
-          "title": "Комахи, пов'язані з водою – остання прогулянка з циклу «ParkoBut у зелені»",
-          "description": "22 серпня о 10:00 у Річковому парку Длубня відбудеться остання в цьому сезоні прогулянка з циклу «ParkoBut у зелені». Зустріч буде присвячена комахам, пов'язаним з водним середовищем, та їхній ролі в природі Кракова. Фото: Управління зелених насаджень у Кракові. Під час прогулянки учасники ознайомляться з комахами, які пов'язують своє життя з водою та її найближчим оточенням. Буде можливість дізнатися більше про їхні звички, спосіб функціонування та значення для природи. Прогулянку проведе Лукаш Мельчарек з Команди з лісів і природи Управління зелених насаджень, який під час виїзної зустрічі розповість про комах, що мешкають у водних середовищах, і допоможе учасникам помітити їх присутність у найближчому оточенні. Участь у прогулянці безкоштовна, однак необхідно зареєструватися заздалегідь."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-08-17T07:37:46.062734+00:00"
-    },
     "letnie-koncerty-promenadowe-wi-tuj-dziesi-te-urodziny-2026-08-28T19:00:00+02:00": {
       "title": "Letnie Koncerty Promenadowe świętują dziesiąte urodziny",
       "description": "Począwszy od 26 czerwca nadzwyczajne wydarzenia artystyczne dla starszych i młodszych wypełnią wszystkie wakacyjne weekendy aż do 30 sierpnia włącznie. W piątkowe wieczory altana na Plantach na Skwerze Zbigniewa Wodeckiego stanie się miejscem potańcówek. Sobotnie przedpołudnia zarezerwowane są dla najmłodszych: przygotowano dla nich koncerty, przedstawienia i angażujące zabawy. Niedzielne popołudnia poświęcone zostaną wielopokoleniowej artystycznej rodzinie Piwnicy pod Baranami. Fot. Krakowskie Forum Kultury Potańcówki w Altanie – piątki: 21, 28 sierpnia w godz. 19.00–21.30 Wieczory dla początkujących i zaawansowanych na parkiecie zmieniają charakter. Poprowadzą je, żonglując rytmami, Krakowskie Studio Tańców Swingowych KMiTa Swing, Stowarzyszenie Miłośników Kultury Góralskiej „Pod Cyrlom”, Szkoła Tańca Sempre oraz Zespół Pieśni i Tańca „Krakowiacy”. Koncerty dla Dzieci – soboty: 22, 29 sierpnia o godz. 11.00 Dla dzieci i opiekunów wystąpią w zróżnicowanym repertuarze Duo Performance, Sara Gawlik i Adam Szwajcowski, Anima Ensemble, Zuzanna Klekocińska, Secret Quintet i Kaszarka. Drzwi do świata baśni i bajek z muzyką na żywo ponownie otworzy najmłodszym Krystian Truchalski. O!Teatr oraz Amateatr oswoją zaś z magią sceny, na co nigdy nie jest za wcześnie. Koncerty Promenadowe – niedziele: 23, 30 sierpnia o godz. 15.00 Wysepką na morzu zieleni, stanie się altana w każde niedzielne popołudnie dzięki artystom świętującej siedemdziesiąty rok działalności Piwnicy pod Baranami. Rafał Jędrzejczyk przypomni nam, dzięki czemu Kraków jest tak niezwykłym miastem, Tamara Kalinowska zabierze w podróż po zakątkach duszy, a Jakub Zuckerman obróci kalejdoskop muzycznych gatunków. Gdzie nas powiedzie Kamila Klimczak, to się dopiero okaże, najmłodszy Piwniczanin, Michał Kamiński, przedstawi debiutancki autorski recital, natomiast Leszek Wójtowicz – recital jubileuszowy. Ola Maurer zaprowadzi w pobliże źródła, Agnieszka Chrzanowska podsumuje trzy dekady na scenie, natomiast Agata Ślazyk i Michał Półtorak wyśpiewają, co im od lat w duszy gra. Wstęp wolny. Potańcówki tylko dla pełnoletnich. Szczegółowy program . W sytuacji wystąpienia złych warunków pogodowych wydarzenia zostaną przeniesione do Sali Teatralnej Krakowskiego Forum Kultury (ul. Mikołajska 2 – Mały Rynek) – liczba miejsc ograniczona. Więcej: krakowskieforum.pl",
@@ -7826,46 +7314,6 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-08-18T07:39:14.704411+00:00"
-    },
-    "kabaret-piwnicy-pod-baranami-sierpie-2026-08-22T20:00:00+02:00": {
-      "title": "Kabaret Piwnicy pod Baranami – sierpień",
-      "date": "2026-08-22T20:00:00+02:00",
-      "end_date": "2026-08-22T20:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "22, 29 sierpnia (sob.), 20:00 –?... Piwnica pod Baranami, Rynek Główny 27 Ta zabawa miała trwać parę tygodni. Może parę miesięcy. Najwyżej rok. Nie dłużej. Trwa nieprzerwanie od lat sześćdziesięciu ośmiu. W dziejach kabaretu to rekord wszechświatowy. Niestety, nie ma już Piotra Skrzyneckiego. Ale magiczne miejsce w podziemiach Pałacu pod Baranami przy Rynku Głównym dalej żyje i przyciąga tłumy. Czy to zasługa legendy, genius loci, czy talentów coraz młodszych wykonawców? Przychodzi już trzecie pokolenie widzów: córki chcą zobaczyć gdzie bawiły się ich matki, dziadkowie przyprowadzają wnuki i opowiadają o euforycznej atmosferze piwnicznego szaleństwa. Bilety: 100 zł, dostępne po wcześniejszej rezerwacji telefonicznej (12 421 25 00) lub mailowej (bomicek@gmail.com)",
-      "image": "https://krakowskieforum.pl/uploads/temp/kali/impr_3563/zajawki/normal_3fdc3b38a0e1a852a8de8be7bc39360329e88423.jpg",
-      "location": {
-        "name": "Piwnica pod Baranami Ośrodek Dokumentacji i Inicjatyw Artystycznych Piwnica pod Baranami ul. Św. Tomasza 26",
-        "district": "Stare Miasto"
-      },
-      "url": "https://krakowskieforum.pl/wydarzenie-3563-kabaret_piwnicy_pod_baranami_sierpien-szczegoly-42774.html",
-      "source": "krakowskieforum.pl",
-      "scrapped_url": "https://krakowskieforum.pl/wydarzenie-3563-kabaret_piwnicy_pod_baranami_sierpien-szczegoly-42774.html",
-      "scrapped_timestamp": "2026-08-18T07:38:02.089325+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Kabaret Piwnicy pod Baranami – sierpień",
-          "description": "22, 29 sierpnia (sob.), 20:00 –?... Piwnica pod Baranami, Rynek Główny 27 Ta zabawa miała trwać parę tygodni. Może parę miesięcy. Najwyżej rok. Nie dłużej. Trwa nieprzerwanie od lat sześćdziesięciu ośmiu. W dziejach kabaretu to rekord wszechświatowy. Niestety, nie ma już Piotra Skrzyneckiego. Ale magiczne miejsce w podziemiach Pałacu pod Baranami przy Rynku Głównym dalej żyje i przyciąga tłumy. Czy to zasługa legendy, genius loci, czy talentów coraz młodszych wykonawców? Przychodzi już trzecie pokolenie widzów: córki chcą zobaczyć gdzie bawiły się ich matki, dziadkowie przyprowadzają wnuki i opowiadają o euforycznej atmosferze piwnicznego szaleństwa. Bilety: 100 zł, dostępne po wcześniejszej rezerwacji telefonicznej (12 421 25 00) lub mailowej (bomicek@gmail.com)"
-        },
-        "en": {
-          "title": "Cabaret Under the Rams – August",
-          "description": "August 22, 29 (Saturday), 20:00 –?... Cabaret Under the Rams, Main Market 27 This fun was supposed to last a few weeks. Maybe a few months. At most a year. No longer. It has been going continuously since 1968. In the history of cabaret, this is a world record. Unfortunately, Piotr Skrzynecki is no longer with us. But the magical place in the basement of the Palace Under the Rams at the Main Market still lives on and attracts crowds. Is it due to the legend, the genius loci, or the talents of increasingly younger performers? The third generation of viewers is already coming: daughters want to see where their mothers used to have fun, grandparents bring their grandchildren and tell them about the euphoric atmosphere of basement madness. Tickets: 100 PLN, available by prior phone reservation (12 421 25 00) or email (bomicek@gmail.com)"
-        },
-        "uk": {
-          "title": "Кабаре Півниці під Баранами – серпень",
-          "description": "22, 29 серпня (суб.), 20:00 –?... Півниця під Баранами, Ринок Головний 27 Ця розвага мала тривати кілька тижнів. Може кілька місяців. Найбільше рік. Не довше. Триває безперервно з 68-го року. У історії кабаре це рекорд всесвіту. На жаль, вже немає Петра Скржинцького. Але магічне місце в підземеллях Палацу під Баранами при Ринку Головному все ще живе і приваблює натовпи. Чи це заслуга легенди, генія місця, чи талантів все молодших виконавців? Приходить вже третє покоління глядачів: доньки хочуть побачити, де розважалися їхні матері, дідусі приводять онуків і розповідають про ейфорійну атмосферу підземного божевілля. Квитки: 100 зл, доступні за попереднім бронюванням по телефону (12 421 25 00) або електронною поштою (bomicek@gmail.com)"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-08-18T07:39:14.704462+00:00"
     },
     "piwniczne-anio-y-2026-08-28T19:00:00+02:00": {
       "title": "„Piwniczne Anioły”",
@@ -9027,52 +8475,6 @@
       "district": "Stare Miasto",
       "updated_at": "2026-08-21T07:31:43.076469+00:00"
     },
-    "piknik-jagiello-ski-muzyka-rzemios-o-i-historia-2026-08-23T00:00:00+02:00": {
-      "title": "Piknik Jagielloński – muzyka, rzemiosło i historia",
-      "description": "Od dziś, 21 sierpnia do 23 sierpnia Plac Wielkiej Armii Napoleona i Bulwar Czerwieński zamienią się w tętniącą życiem przestrzeń pełną muzyki, rękodzieła, warsztatów i smaków. Piknik Jagielloński to trzy dni spotkań z lokalnym rzemiosłem, tradycją oraz historią Krakowa. Wstęp na wszystkie wydarzenia jest bezpłatny. Fot. materiały prasowe Trzy dni pełne muzyki, tradycji i dobrej zabawy Piknik Jagielloński będzie okazją, by odpocząć w samym sercu miasta, posłuchać muzyki, spróbować regionalnych przysmaków i przyjrzeć się pracy twórców i rzemieślników. Na Bulwarze Czerwieńskim powstanie strefa handlowa i gastronomiczna z drewnianymi domkami, w których będzie można znaleźć rękodzieło, wyroby rzemieślnicze i rozmaite smakołyki. Nie zabraknie również miejsca na odpoczynek – na uczestników będą czekać leżaki oraz stoły i ławy. Centrum wydarzeń artystycznych i warsztatowych będzie Plac Wielkiej Armii Napoleona. Na plenerowej scenie codziennie zabrzmi muzyka folkowa, dawna i inspirowana tradycjami. W programie znalazły się koncerty zespołów Szelindek, Korale, Kapela zza Miedzy, Scyzoryki, Kapela Żmij, Ukoja oraz Daj Ognia. W piątek i sobotę muzycy Szelindek będą pojawiać się także w różnych miejscach pikniku, tworząc jego muzyczną oprawę. Spotkanie z historią Piknik Jagielloński będzie również podróżą w czasie. W programie znalazły się elementy rekonstrukcji historycznej, muzyka na średniowiecznych instrumentach, tańce oraz opowieści o dawnym Krakowie. Międzynarodowy skład zespołu Szelindek przybliży uczestnikom dawne brzmienia i zwyczaje. Z kolei w niedzielę Krakowskie Bractwo Grodzkie zaprosi do średniowiecznego Krakowa. W programie znajdą się pokazy dawnych zwyczajów, średniowieczny stół biesiadny, nauka tańca oraz opowieści o codziennym życiu mieszkańców miasta. Warsztaty dla małych i dużych Na uczestników czekają również bezpłatne warsztaty dla dzieci, dorosłych i całych rodzin. Będzie można nauczyć się podstaw średniowiecznych tańców i zwyczajów, ozdobić kubki słowiańskimi i ludowymi motywami, wykonać świece z suszonymi kwiatami, przygotować wianki ze zbóż i słowiańskie wianki, a także stworzyć własną torbę zakupową z ludowym wzorem. Program i więcej informacji o wydarzeniu na Facebooku wydarzenia.",
-      "image": "https://plikimpi.krakow.pl/zalacznik/610658/4.webp",
-      "url": "https://krakow.pl/krakow_dla_dzieci/333629,2431,komunikat,piknik_jagiellonski___muzyka__rzemioslo_i_historia.html",
-      "source": "krakow.pl",
-      "location": {
-        "name": "Plac Wielkiej Armii Napoleona, Kraków",
-        "address": "Plac Wielkiej Armii Napoleona, Kraków",
-        "district": "Stare Miasto"
-      },
-      "district": "Stare Miasto",
-      "date": "2026-08-23T00:00:00+02:00",
-      "end_date": "2026-08-23T00:00:00+02:00",
-      "startTimeKnown": false,
-      "source_url": "https://krakow.pl/krakow_dla_dzieci/333629,2431,komunikat,piknik_jagiellonski___muzyka__rzemioslo_i_historia.html",
-      "scrapped_url": "https://krakow.pl/krakow_dla_dzieci/333629,2431,komunikat,piknik_jagiellonski___muzyka__rzemioslo_i_historia.html",
-      "scrapped_timestamp": "2026-08-21T07:30:24.656026+00:00",
-      "category": "Seasonal Festival",
-      "additional_categories": [
-        "Music & Dance",
-        "Arts"
-      ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Piknik Jagielloński – muzyka, rzemiosło i historia",
-          "description": "Od dziś, 21 sierpnia do 23 sierpnia Plac Wielkiej Armii Napoleona i Bulwar Czerwieński zamienią się w tętniącą życiem przestrzeń pełną muzyki, rękodzieła, warsztatów i smaków. Piknik Jagielloński to trzy dni spotkań z lokalnym rzemiosłem, tradycją oraz historią Krakowa. Wstęp na wszystkie wydarzenia jest bezpłatny. Fot. materiały prasowe Trzy dni pełne muzyki, tradycji i dobrej zabawy Piknik Jagielloński będzie okazją, by odpocząć w samym sercu miasta, posłuchać muzyki, spróbować regionalnych przysmaków i przyjrzeć się pracy twórców i rzemieślników. Na Bulwarze Czerwieńskim powstanie strefa handlowa i gastronomiczna z drewnianymi domkami, w których będzie można znaleźć rękodzieło, wyroby rzemieślnicze i rozmaite smakołyki. Nie zabraknie również miejsca na odpoczynek – na uczestników będą czekać leżaki oraz stoły i ławy. Centrum wydarzeń artystycznych i warsztatowych będzie Plac Wielkiej Armii Napoleona. Na plenerowej scenie codziennie zabrzmi muzyka folkowa, dawna i inspirowana tradycjami. W programie znalazły się koncerty zespołów Szelindek, Korale, Kapela zza Miedzy, Scyzoryki, Kapela Żmij, Ukoja oraz Daj Ognia. W piątek i sobotę muzycy Szelindek będą pojawiać się także w różnych miejscach pikniku, tworząc jego muzyczną oprawę. Spotkanie z historią Piknik Jagielloński będzie również podróżą w czasie. W programie znalazły się elementy rekonstrukcji historycznej, muzyka na średniowiecznych instrumentach, tańce oraz opowieści o dawnym Krakowie. Międzynarodowy skład zespołu Szelindek przybliży uczestnikom dawne brzmienia i zwyczaje. Z kolei w niedzielę Krakowskie Bractwo Grodzkie zaprosi do średniowiecznego Krakowa. W programie znajdą się pokazy dawnych zwyczajów, średniowieczny stół biesiadny, nauka tańca oraz opowieści o codziennym życiu mieszkańców miasta. Warsztaty dla małych i dużych Na uczestników czekają również bezpłatne warsztaty dla dzieci, dorosłych i całych rodzin. Będzie można nauczyć się podstaw średniowiecznych tańców i zwyczajów, ozdobić kubki słowiańskimi i ludowymi motywami, wykonać świece z suszonymi kwiatami, przygotować wianki ze zbóż i słowiańskie wianki, a także stworzyć własną torbę zakupową z ludowym wzorem. Program i więcej informacji o wydarzeniu na Facebooku wydarzenia."
-        },
-        "en": {
-          "title": "Jagiellonian Picnic – Music, Crafts, and History",
-          "description": "From today, August 21 to August 23, the Square of the Great Army of Napoleon and the Czerwieński Boulevard will transform into a vibrant space full of music, handicrafts, workshops, and flavors. The Jagiellonian Picnic is a three-day event featuring local crafts, traditions, and the history of Krakow. Admission to all events is free. Photo: press materials. Three days full of music, tradition, and good fun. The Jagiellonian Picnic will be an opportunity to relax in the heart of the city, listen to music, taste regional delicacies, and observe the work of creators and artisans. A commercial and gastronomic zone will be created on the Czerwieński Boulevard with wooden houses where one can find handicrafts, artisanal products, and various treats. There will also be a place to relax – participants will have access to comfortable seating areas."
-        },
-        "uk": {
-          "title": "Ягеллонський пікнік – музика, ремесло та історія",
-          "description": "Від сьогодні, 21 серпня до 23 серпня Площа Великої Армії Наполеона та Червоний бульвар перетворяться на живу простір, наповнену музикою, ручною роботою, майстер-класами та смаками. Ягеллонський пікнік – це три дні зустрічей з місцевим ремеслом, традицією та історією Кракова. Вхід на всі події безкоштовний. Фото: прес-матеріали Три дні, наповнені музикою, традицією та гарним настроєм Ягеллонський пікнік стане можливістю відпочити в самому серці міста, послухати музику, спробувати регіональні смаколики та спостерігати за роботою творців і ремісників. На Червоному бульварі з'явиться торгово-гастрономічна зона з дерев'яними будиночками, в яких можна буде знайти ручну роботу, ремісничі вироби та різноманітні смаколики. Не бракуватиме також місця для відпочинку – для учасників будуть створені комфортні зони."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-08-21T07:31:43.076572+00:00"
-    },
     "kostium-na-ka-d-legend-st-pka-kr-lowej-jadwigi-2026-09-19T10:00:00+02:00": {
       "title": "Kostium na każdą legendę: Stópka królowej Jadwigi",
       "date": "2026-09-19T10:00:00+02:00",
@@ -9444,51 +8846,6 @@
         "is_free": true
       },
       "updated_at": "2026-08-21T07:31:43.076783+00:00"
-    },
-    "dzie-folkloru-2026-08-22T00:00:00+02:00": {
-      "title": "Dzień folkloru!",
-      "date": "2026-08-22T00:00:00+02:00",
-      "end_date": "2026-08-22T00:00:00+02:00",
-      "startTimeKnown": false,
-      "description": "Zapraszamy na wyjątkowe popołudnie pełne tradycji, muzyki, tańca i rękodzieła, inspirowane bogactwem polskiego folkloru! „Dzień z folklorem” to propozycja dla całych rodzin – zarówno dla najmłodszych, jak i dorosłych. W programie znalazły się kreatywne warsztaty, folkowe tańce, rękodzieło oraz koncert muzyki krakowskiej. Przez cały czas trwania wydarzenia zapraszamy do bezpłatnej strefy kreatywnej: folkowe kolorowanki Staropolskie Pachnidła: W naszej strefie kreatywnej odkryjesz tajemnice dawnej medycyny ludowej i samodzielnie stworzysz unikalny woreczek zapachowy. W ruch pójdzie autentyczna gliniana makutra oraz moździerze, w których utrzesz grubą sól kłodawską z najwspanialszymi skarbami naszych łąk i ogrodów. Aromatyczna macierzanka, łagodny rumianek, rześka mięta czy odstraszający mole wrotycz zamkną w płótnie zapach wiejskiego poranka i tradycji, który zabierzesz ze sobą do domu. To nie tylko wspaniała, sensoryczna zabawa dla każdego, ale też żywe spotkanie z mądrością naszych prababek. Zabawy z folklorem Zajęcia dla najmłodszych w wieku 18 miesięcy–3 lata. Wspólna zabawa dla dzieci i ich opiekunów, inspirowana muzyką, ruchem i tradycjami ludowymi. 10 zł – opiekun + dziecko Folkowe warsztaty taneczne dla dzieci Ruch, muzyka i dobra zabawa w folkowym wydaniu! Zajęcia dla dzieci w wieku 5–10 lat. 15 zł Warsztaty tworzenia wianków z żywych kwiatów dla dorosłych Kolorowe kwiaty, odrobina kreatywności i tradycyjna inspiracja – podczas warsztatów uczestnicy stworzą własne, niepowtarzalne wianki. 50 zł Folkowe warsztaty taneczne dla dorosłych Czas na spotkanie z polskim folklorem poprzez taniec! Zapraszamy wszystkich, którzy chcą poznać tradycyjne kroki i spędzić popołudnie w rytmie muzyki ludowej. 15 zł Malowanie eko toreb na ludowo – warsztaty rodzinne Kreatywne zajęcia dla całych rodzin. Uczestnicy ozdobią ekologiczne torby, wykorzystując motywy inspirowane polskim folklorem. 10 zł",
-      "image": null,
-      "location": {
-        "name": "Ośrodek Ruczaj",
-        "address": "Jana Kantego Przyzby 10A",
-        "district": "Dębniki"
-      },
-      "url": "https://www.ckpodgorza.pl/oferta/wydarzenie/dzien-folkloru",
-      "source": "ckpodgorza.pl",
-      "scrapped_url": "https://www.ckpodgorza.pl/oferta/wydarzenie/dzien-folkloru",
-      "scrapped_timestamp": "2026-08-22T07:24:39.851103+00:00",
-      "category": "Family Fun",
-      "additional_categories": [
-        "Arts",
-        "Music & Dance"
-      ],
-      "age_range": {
-        "min": 5,
-        "max": 10
-      },
-      "translations": {
-        "pl": {
-          "title": "Dzień folkloru!",
-          "description": "Zapraszamy na wyjątkowe popołudnie pełne tradycji, muzyki, tańca i rękodzieła, inspirowane bogactwem polskiego folkloru! „Dzień z folklorem” to propozycja dla całych rodzin – zarówno dla najmłodszych, jak i dorosłych. W programie znalazły się kreatywne warsztaty, folkowe tańce, rękodzieło oraz koncert muzyki krakowskiej. Przez cały czas trwania wydarzenia zapraszamy do bezpłatnej strefy kreatywnej: folkowe kolorowanki Staropolskie Pachnidła: W naszej strefie kreatywnej odkryjesz tajemnice dawnej medycyny ludowej i samodzielnie stworzysz unikalny woreczek zapachowy. W ruch pójdzie autentyczna gliniana makutra oraz moździerze, w których utrzesz grubą sól kłodawską z najwspanialszymi skarbami naszych łąk i ogrodów. Aromatyczna macierzanka, łagodny rumianek, rześka mięta czy odstraszający mole wrotycz zamkną w płótnie zapach wiejskiego poranka i tradycji, który zabierzesz ze sobą do domu. To nie tylko wspaniała, sensoryczna zabawa dla każdego, ale też żywe spotkanie z mądrością naszych prababek. Zabawy z folklorem Zajęcia dla najmłodszych w wieku 18 miesięcy–3 lata. Wspólna zabawa dla dzieci i ich opiekunów, inspirowana muzyką, ruchem i tradycjami ludowymi. 10 zł – opiekun + dziecko Folkowe warsztaty taneczne dla dzieci Ruch, muzyka i dobra zabawa w folkowym wydaniu! Zajęcia dla dzieci w wieku 5–10 lat. 15 zł Warsztaty tworzenia wianków z żywych kwiatów dla dorosłych Kolorowe kwiaty, odrobina kreatywności i tradycyjna inspiracja – podczas warsztatów uczestnicy stworzą własne, niepowtarzalne wianki. 50 zł Folkowe warsztaty taneczne dla dorosłych Czas na spotkanie z polskim folklorem poprzez taniec! Zapraszamy wszystkich, którzy chcą poznać tradycyjne kroki i spędzić popołudnie w rytmie muzyki ludowej. 15 zł Malowanie eko toreb na ludowo – warsztaty rodzinne Kreatywne zajęcia dla całych rodzin. Uczestnicy ozdobią ekologiczne torby, wykorzystując motywy inspirowane polskim folklorem. 10 zł"
-        },
-        "en": {
-          "title": "Folklore Day!",
-          "description": "We invite you to a unique afternoon full of tradition, music, dance, and handicrafts, inspired by the richness of Polish folklore! 'A Day with Folklore' is an offer for the whole family – for both the youngest and adults. The program includes creative workshops, folk dances, handicrafts, and a concert of Krakow music. Throughout the event, we invite you to the free creative zone: folk coloring pages and Staropolskie Pachnidła. In our creative zone, you will discover the secrets of ancient folk medicine and create your own unique scented sachet. Authentic clay mortars and pestles will be used to grind coarse Kłodawa salt with the most wonderful treasures from our meadows and gardens. Aromatic thyme, gentle chamomile, refreshing mint, or moth-repelling herbs."
-        },
-        "uk": {
-          "title": "День фольклору!",
-          "description": "Запрошуємо на унікальне післяобіддя, наповнене традиціями, музикою, танцями та ручною працею, натхненне багатством польського фольклору! «День з фольклором» - це пропозиція для цілих родин - як для найменших, так і для дорослих. У програмі заплановані креативні майстер-класи, народні танці, ручна праця та концерт краківської музики. Протягом всього заходу запрошуємо до безкоштовної креативної зони: народні розмальовки Staropolskie Pachnidła: У нашій креативній зоні ви відкриєте таємниці давньої народної медицини та самостійно створите унікальний ароматичний мішечок. В хід піде автентична глиняна макутра та ступки, в яких ви подрібните грубу сіль клодавську з найчудовішими скарбами наших луків та садів. Ароматна материнка, м'який ромашка, свіжий м'ята чи відлякувач молей."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Dębniki",
-      "updated_at": "2026-08-22T07:26:01.015010+00:00"
     },
     "relaks-dla-ka-dego-joga-adaptacyjna-2026-09-02T17:30:00+02:00": {
       "title": "Relaks dla każdego | Joga adaptacyjna",

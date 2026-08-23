@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T07:40:51.711825+00:00",
+  "updated_at": "2026-08-23T07:41:10.836620+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3202,6 +3202,15 @@
       "lat": 50.067,
       "lng": 19.944,
       "updated_at": "2026-08-22T07:25:59.939127+00:00"
+    },
+    "i obwodnica 8": {
+      "name": "I obwodnica 8, 31-033 Kraków, Poland",
+      "district": "Stare Miasto",
+      "address": "I obwodnica 8, 31-033 Kraków, Poland",
+      "normalized": "i obwodnica 8",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-23T07:29:06.549788+00:00"
     }
   }
 }

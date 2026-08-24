@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T07:49:56.806034+00:00",
+  "updated_at": "2026-08-24T07:50:15.176958+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -608,6 +608,15 @@
       "lat": 54.345041,
       "lng": 18.5990054,
       "updated_at": "2026-08-21T07:45:34.027820+00:00"
+    },
+    "plama": {
+      "name": "11, Pilotów, Zaspa-Młyniec, Gdańsk, województwo pomorskie, 80-460, Polska",
+      "district": "Dolny Taras",
+      "address": "11, Pilotów, Zaspa-Młyniec, Gdańsk, województwo pomorskie, 80-460, Polska",
+      "normalized": "plama",
+      "lat": 54.3923306,
+      "lng": 18.5915717,
+      "updated_at": "2026-08-24T07:46:44.712521+00:00"
     }
   }
 }

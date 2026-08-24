@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T07:40:50.853960+00:00",
+  "updated_at": "2026-08-24T07:50:17.054459+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3814,6 +3814,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-22T07:30:43.248821+00:00"
+    },
+    "bielańskie centrum edukacji kulturalnej": {
+      "name": "Bielańskie Centrum Edukacji Kulturalnej, ul. Szegedyńska 9a",
+      "district": "Bielany",
+      "address": "Bielańskie Centrum Edukacji Kulturalnej, ul. Szegedyńska 9a",
+      "normalized": "bielańskie centrum edukacji kulturalnej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-24T07:39:53.826316+00:00"
+    },
+    "estrady 128a_128a": {
+      "name": "Estrady 128A/128a, 01-932 Warszawa, Poland",
+      "district": "Bielany",
+      "address": "Estrady 128A/128a, 01-932 Warszawa, Poland",
+      "normalized": "estrady 128a_128a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-24T07:39:53.826705+00:00"
     }
   }
 }

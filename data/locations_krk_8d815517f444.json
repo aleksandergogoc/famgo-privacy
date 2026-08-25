@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T07:41:10.836620+00:00",
+  "updated_at": "2026-08-25T18:41:29.650096+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3211,6 +3211,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-23T07:29:06.549788+00:00"
+    },
+    "rybitwy": {
+      "name": "Centrum Kultury Podgórza - Klub Rybitwy, 61, Rybitwy, Ogrody, Rybitwy, Podgórze, Kraków, województwo małopolskie, 30-722, Polska",
+      "district": "Podgórze",
+      "address": "Centrum Kultury Podgórza - Klub Rybitwy, 61, Rybitwy, Ogrody, Rybitwy, Podgórze, Kraków, województwo małopolskie, 30-722, Polska",
+      "normalized": "rybitwy",
+      "lat": 50.0430313,
+      "lng": 20.0338751,
+      "updated_at": "2026-08-25T18:41:25.488921+00:00"
+    },
+    "30-543 kraków": {
+      "name": "30-543 Kraków, Poland",
+      "district": "Podgórze",
+      "address": "30-543 Kraków, Poland",
+      "normalized": "30-543 kraków",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-25T18:41:25.495789+00:00"
     }
   }
 }

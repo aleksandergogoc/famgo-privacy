@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T07:50:15.176958+00:00",
+  "updated_at": "2026-08-26T07:57:19.463158+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -617,6 +617,24 @@
       "lat": 54.3923306,
       "lng": 18.5915717,
       "updated_at": "2026-08-24T07:46:44.712521+00:00"
+    },
+    "nadwiślańska 79": {
+      "name": "Stara Wędzarnia, 79, Nadwiślańska, Górki Wschodnie, Wyspa Sobieszewska, Gdańsk, województwo pomorskie, 80-680, Polska",
+      "district": "Południe/Wschód",
+      "address": "Stara Wędzarnia, 79, Nadwiślańska, Górki Wschodnie, Wyspa Sobieszewska, Gdańsk, województwo pomorskie, 80-680, Polska",
+      "normalized": "nadwiślańska 79",
+      "lat": 54.3484046,
+      "lng": 18.8013023,
+      "updated_at": "2026-08-26T07:51:58.198061+00:00"
+    },
+    "ul. nadwiślańska 79": {
+      "name": "ul. Nadwiślańska 79",
+      "district": "Południe/Wschód",
+      "address": "ul. Nadwiślańska 79",
+      "normalized": "ul. nadwiślańska 79",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:53:35.434176+00:00"
     }
   }
 }

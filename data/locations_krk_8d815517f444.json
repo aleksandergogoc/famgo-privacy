@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T18:41:29.650096+00:00",
+  "updated_at": "2026-08-26T07:57:23.762386+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3229,6 +3229,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-25T18:41:25.495789+00:00"
+    },
+    "al. 3 maja 1_1": {
+      "name": "al. 3 Maja 1/1, 30-062 Kraków, Poland",
+      "district": "Krowodrza",
+      "address": "al. 3 Maja 1/1, 30-062 Kraków, Poland",
+      "normalized": "al. 3 maja 1_1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:35:47.800661+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T07:51:09.422864+00:00",
+  "updated_at": "2026-08-26T07:57:20.444798+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -322,6 +322,15 @@
       "lat": 51.7588686,
       "lng": 19.4644773,
       "updated_at": "2026-08-20T07:42:19.493741+00:00"
+    },
+    "ikea łódź (centrum handlowe port łódź - ul. pabianicka 255)": {
+      "name": "IKEA, 255, Pabianicka, Nad Nerem, Chocianowice, Łódź-Górna, Łódź, województwo łódzkie, 93-457, Polska",
+      "district": "Górna",
+      "address": "IKEA, 255, Pabianicka, Nad Nerem, Chocianowice, Łódź-Górna, Łódź, województwo łódzkie, 93-457, Polska",
+      "normalized": "ikea łódź (centrum handlowe port łódź - ul. pabianicka 255)",
+      "lat": 51.7022311,
+      "lng": 19.411784,
+      "updated_at": "2026-08-26T07:48:41.052364+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T07:50:16.056713+00:00",
+  "updated_at": "2026-08-26T07:57:21.535154+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1077,6 +1077,24 @@
       "lat": 51.153,
       "lng": 17.032,
       "updated_at": "2026-08-24T07:40:08.778648+00:00"
+    },
+    "zajezdnia tramwajowa borek powstańców śląskich 209": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Stare Miasto",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "zajezdnia tramwajowa borek powstańców śląskich 209",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-08-26T07:44:20.827161+00:00"
+    },
+    "nowodworska 70_82": {
+      "name": "Nowodworska 70/82, ZS 6, Wrocław",
+      "district": "Stare Miasto",
+      "address": "Nowodworska 70/82, ZS 6, Wrocław",
+      "normalized": "nowodworska 70_82",
+      "lat": 51.116,
+      "lng": 17.034,
+      "updated_at": "2026-08-26T07:44:39.504599+00:00"
     }
   }
 }

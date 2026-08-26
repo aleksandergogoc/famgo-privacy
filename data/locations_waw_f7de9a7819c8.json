@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T07:50:17.054459+00:00",
+  "updated_at": "2026-08-26T07:57:22.689809+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3832,6 +3832,159 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-24T07:39:53.826705+00:00"
+    },
+    "komitet ochrony praw dziecka": {
+      "name": "ul. Oleandrów 6, Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Oleandrów 6, Warszawa",
+      "normalized": "komitet ochrony praw dziecka",
+      "lat": 52.229,
+      "lng": 21.012,
+      "updated_at": "2026-08-26T07:44:10.142205+00:00"
+    },
+    "praga-południe": {
+      "name": "Praga-Południe",
+      "district": "Praga-Południe",
+      "address": "Praga-Południe",
+      "normalized": "praga-południe",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.142809+00:00"
+    },
+    "ogród błękitny": {
+      "name": "Ogród Błękitny, Senatorska 35/37",
+      "district": "Śródmieście",
+      "address": "Ogród Błękitny, Senatorska 35/37",
+      "normalized": "ogród błękitny",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.142962+00:00"
+    },
+    "aleje jerozolimskie 148": {
+      "name": "Aleje Jerozolimskie 148",
+      "district": "Ochota",
+      "address": "Aleje Jerozolimskie 148",
+      "normalized": "aleje jerozolimskie 148",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.143099+00:00"
+    },
+    "ostrobramska 75c": {
+      "name": "Ostrobramska 75C",
+      "district": "Praga-Południe",
+      "address": "Ostrobramska 75C",
+      "normalized": "ostrobramska 75c",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.143198+00:00"
+    },
+    "czerniakowska 73_79": {
+      "name": "Czerniakowska 73/79",
+      "district": "Mokotów",
+      "address": "Czerniakowska 73/79",
+      "normalized": "czerniakowska 73_79",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.143346+00:00"
+    },
+    "centrum nauki kopernik": {
+      "name": "Centrum Nauki Kopernik",
+      "district": "Śródmieście",
+      "address": "Centrum Nauki Kopernik",
+      "normalized": "centrum nauki kopernik",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.143519+00:00"
+    },
+    "plac pięciu rogów": {
+      "name": "Plac Pięciu Rogów",
+      "district": "Śródmieście",
+      "address": "Plac Pięciu Rogów",
+      "normalized": "plac pięciu rogów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.143658+00:00"
+    },
+    "borsucza": {
+      "name": "Borsucza",
+      "district": "Włochy",
+      "address": "Borsucza",
+      "normalized": "borsucza",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.143821+00:00"
+    },
+    "plażowa ursus": {
+      "name": "Plażowa Ursus, ul. Dzieci Warszawy 24",
+      "district": "Ursus",
+      "address": "Plażowa Ursus, ul. Dzieci Warszawy 24",
+      "normalized": "plażowa ursus",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.143968+00:00"
+    },
+    "ul. rozłogi 12a": {
+      "name": "ul. Rozłogi 12A",
+      "district": "Bemowo",
+      "address": "ul. Rozłogi 12A",
+      "normalized": "ul. rozłogi 12a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.144136+00:00"
+    },
+    "fundacja sensus vitae ul. rembielińska 20": {
+      "name": "Fundacja Sensus Vitae ul. Rembielińska 20",
+      "district": "Targówek",
+      "address": "Fundacja Sensus Vitae ul. Rembielińska 20",
+      "normalized": "fundacja sensus vitae ul. rembielińska 20",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.144257+00:00"
+    },
+    "zodiak warszawski pawilon architektury": {
+      "name": "ZODIAK Warszawski Pawilon Architektury, Pasaż S. Wiecha Wiecheckiego 4",
+      "district": "Śródmieście",
+      "address": "ZODIAK Warszawski Pawilon Architektury, Pasaż S. Wiecha Wiecheckiego 4",
+      "normalized": "zodiak warszawski pawilon architektury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.144366+00:00"
+    },
+    "serek bielański": {
+      "name": "Serek Bielański",
+      "district": "Bielany",
+      "address": "Serek Bielański",
+      "normalized": "serek bielański",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.144520+00:00"
+    },
+    "szkoła podstawowa nr 400": {
+      "name": "Szkoła Podstawowa nr 400, ul. Oś Królewska 25",
+      "district": "Wilanów",
+      "address": "Szkoła Podstawowa nr 400, ul. Oś Królewska 25",
+      "normalized": "szkoła podstawowa nr 400",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.144624+00:00"
+    },
+    "dawna stacja kolejki wilanowskiej w wilanowie": {
+      "name": "Dawna stacja kolejki wilanowskiej w Wilanowie",
+      "district": "Wilanów",
+      "address": "Dawna stacja kolejki wilanowskiej w Wilanowie",
+      "normalized": "dawna stacja kolejki wilanowskiej w wilanowie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.144742+00:00"
+    },
+    "rewita rynia": {
+      "name": "Rewita Rynia, Zalew Zegrzyński",
+      "district": "okolice Warszawy",
+      "address": "Rewita Rynia, Zalew Zegrzyński",
+      "normalized": "rewita rynia",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-26T07:44:10.144870+00:00"
     }
   }
 }

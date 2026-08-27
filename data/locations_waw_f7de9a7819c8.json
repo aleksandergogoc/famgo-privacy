@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T07:57:22.689809+00:00",
+  "updated_at": "2026-08-27T18:36:06.287943+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -3985,6 +3985,78 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-26T07:44:10.144870+00:00"
+    },
+    "wioska tu i teraz": {
+      "name": "Wioska Tu i Teraz, Klub Rodzica z Maluchem · ul. Estrady 128A",
+      "district": "Bielany",
+      "address": "Wioska Tu i Teraz, Klub Rodzica z Maluchem · ul. Estrady 128A",
+      "normalized": "wioska tu i teraz",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-27T18:17:52.041815+00:00"
+    },
+    "wileńska ul. targowa 72": {
+      "name": "Galeria Wileńska ul. Targowa 72",
+      "district": "Praga-Północ",
+      "address": "Galeria Wileńska ul. Targowa 72",
+      "normalized": "wileńska ul. targowa 72",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-27T18:17:52.042197+00:00"
+    },
+    "boisko": {
+      "name": "Boisko, ul. Puszczyka 8",
+      "district": "Ursynów",
+      "address": "Boisko, ul. Puszczyka 8",
+      "normalized": "boisko",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-27T18:17:52.042400+00:00"
+    },
+    "sinfonia varsovia": {
+      "name": "Sinfonia Varsovia, ul. Grochowska 272",
+      "district": "Praga-Południe",
+      "address": "Sinfonia Varsovia, ul. Grochowska 272",
+      "normalized": "sinfonia varsovia",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-27T18:17:52.042544+00:00"
+    },
+    "ochota": {
+      "name": "Ochota",
+      "district": "Ochota",
+      "address": "Ochota",
+      "normalized": "ochota",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-27T18:17:52.042662+00:00"
+    },
+    "domino wsbm chomiczówka": {
+      "name": "Klub Domino WSBM Chomiczówka, ul Bogusławskiego 6A",
+      "district": "Bielany",
+      "address": "Klub Domino WSBM Chomiczówka, ul Bogusławskiego 6A",
+      "normalized": "domino wsbm chomiczówka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-27T18:17:52.042783+00:00"
+    },
+    "praga-północ": {
+      "name": "Praga-Północ",
+      "district": "Praga-Północ",
+      "address": "Praga-Północ",
+      "normalized": "praga-północ",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-27T18:17:52.042899+00:00"
+    },
+    "bielany": {
+      "name": "Bielany",
+      "district": "Bielany",
+      "address": "Bielany",
+      "normalized": "bielany",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-27T18:17:52.043050+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T07:57:23.762386+00:00",
+  "updated_at": "2026-08-27T18:36:07.474361+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3238,6 +3238,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-26T07:35:47.800661+00:00"
+    },
+    "park wodny": {
+      "name": "Park Wodny, ul. Dobrego Pasterza 126, Kraków",
+      "district": "Prądnik Czerwony",
+      "address": "Park Wodny, ul. Dobrego Pasterza 126, Kraków",
+      "normalized": "park wodny",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-08-27T17:26:53.914726+00:00"
+    },
+    "centrum rekreacji i wypoczynku „przylasek rusiecki”": {
+      "name": "Przylasek Rusiecki, Kraków",
+      "district": "Zwierzyniec",
+      "address": "Przylasek Rusiecki, Kraków",
+      "normalized": "centrum rekreacji i wypoczynku „przylasek rusiecki”",
+      "lat": 50.062,
+      "lng": 19.832,
+      "updated_at": "2026-08-27T17:27:54.248534+00:00"
+    },
+    "fabryka schindlera": {
+      "name": "Fabryka Schindlera, ul. Lipowa 4, Kraków",
+      "district": "Stare Miasto",
+      "address": "Fabryka Schindlera, ul. Lipowa 4, Kraków",
+      "normalized": "fabryka schindlera",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-08-27T17:31:29.825987+00:00"
+    },
+    "manggha - muzeum sztuki i techniki japońskiej": {
+      "name": "Manggha - Muzeum Sztuki i Techniki Japońskiej",
+      "district": "Stare Miasto",
+      "address": "Manggha - Muzeum Sztuki i Techniki Japońskiej",
+      "normalized": "manggha - muzeum sztuki i techniki japońskiej",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-08-27T18:09:49.136062+00:00"
     }
   }
 }

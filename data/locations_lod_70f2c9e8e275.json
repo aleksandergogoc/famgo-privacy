@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T07:57:20.444798+00:00",
+  "updated_at": "2026-08-27T18:36:04.283234+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -331,6 +331,15 @@
       "lat": 51.7022311,
       "lng": 19.411784,
       "updated_at": "2026-08-26T07:48:41.052364+00:00"
+    },
+    "niebostan (łódź": {
+      "name": "Niebostan, 17, Piotrkowska, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-406, Polska",
+      "district": "Śródmieście",
+      "address": "Niebostan, 17, Piotrkowska, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-406, Polska",
+      "normalized": "niebostan (łódź",
+      "lat": 51.7741596,
+      "lng": 19.4545275,
+      "updated_at": "2026-08-27T18:23:35.436897+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T07:57:19.463158+00:00",
+  "updated_at": "2026-08-27T18:36:03.263419+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -635,6 +635,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-26T07:53:35.434176+00:00"
+    },
+    "strajku dokerów 5": {
+      "name": "5, Strajku Dokerów, Nowy Port, Gdańsk, województwo pomorskie, 80-544, Polska",
+      "district": "Dolny Taras",
+      "address": "5, Strajku Dokerów, Nowy Port, Gdańsk, województwo pomorskie, 80-544, Polska",
+      "normalized": "strajku dokerów 5",
+      "lat": 54.3999872,
+      "lng": 18.6716199,
+      "updated_at": "2026-08-27T18:28:25.391606+00:00"
+    },
+    "schuberta 102": {
+      "name": "Galeria Morena, 102A, Franciszka Schuberta, Suchanino, Gdańsk, województwo pomorskie, 80-172, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Galeria Morena, 102A, Franciszka Schuberta, Suchanino, Gdańsk, województwo pomorskie, 80-172, Polska",
+      "normalized": "schuberta 102",
+      "lat": 54.3524411,
+      "lng": 18.5929599,
+      "updated_at": "2026-08-27T18:28:26.702271+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T18:36:06.287943+00:00",
+  "updated_at": "2026-08-28T19:24:50.892335+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -4057,6 +4057,96 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-27T18:17:52.043050+00:00"
+    },
+    "fundacja sto pociech": {
+      "name": "Fundacja Sto Pociech, ogród fundacji · ul. Freta 20/24a",
+      "district": "Śródmieście",
+      "address": "Fundacja Sto Pociech, ogród fundacji · ul. Freta 20/24a",
+      "normalized": "fundacja sto pociech",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-28T19:09:29.064816+00:00"
+    },
+    "fundacja sto pociech · ul. freta 20_24a": {
+      "name": "Fundacja Sto Pociech · ul. Freta 20/24a",
+      "district": "Śródmieście",
+      "address": "Fundacja Sto Pociech · ul. Freta 20/24a",
+      "normalized": "fundacja sto pociech · ul. freta 20_24a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-28T19:09:29.065060+00:00"
+    },
+    "okęcka sala widowiskowa · ul. 1 sierpnia 36a": {
+      "name": "Okęcka Sala Widowiskowa · ul. 1 Sierpnia 36a",
+      "district": "Włochy",
+      "address": "Okęcka Sala Widowiskowa · ul. 1 Sierpnia 36a",
+      "normalized": "okęcka sala widowiskowa · ul. 1 sierpnia 36a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-28T19:09:29.065449+00:00"
+    },
+    "żoliborski dom kultury": {
+      "name": "Żoliborski Dom Kultury, Centrum Lokalne Żoliborz · ul. Ludwika Rydygiera 6b",
+      "district": "Żoliborz",
+      "address": "Żoliborski Dom Kultury, Centrum Lokalne Żoliborz · ul. Ludwika Rydygiera 6b",
+      "normalized": "żoliborski dom kultury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-28T19:09:29.065990+00:00"
+    },
+    "warszawskiej pragi · ul. targowa 50_52": {
+      "name": "Muzeum Warszawskiej Pragi · ul. Targowa 50/52",
+      "district": "Praga-Północ",
+      "address": "Muzeum Warszawskiej Pragi · ul. Targowa 50/52",
+      "normalized": "warszawskiej pragi · ul. targowa 50_52",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-28T19:09:29.066431+00:00"
+    },
+    "m1 marki": {
+      "name": "M1 Marki, al. Marszałka Józefa Piłsudskiego 1, Marki",
+      "district": "okolice Warszawy",
+      "address": "M1 Marki, al. Marszałka Józefa Piłsudskiego 1, Marki",
+      "normalized": "m1 marki",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-28T19:09:29.066997+00:00"
+    },
+    "żłobek nr 42 ul.chodecka 9": {
+      "name": "Żłobek nr 42 ul.Chodecka 9",
+      "district": "Targówek",
+      "address": "Żłobek nr 42 ul.Chodecka 9",
+      "normalized": "żłobek nr 42 ul.chodecka 9",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-28T19:09:29.067297+00:00"
+    },
+    "żłobeknr 11": {
+      "name": "Żłobeknr 11, ul. Szymanowskiego 3a",
+      "district": "Targówek",
+      "address": "Żłobeknr 11, ul. Szymanowskiego 3a",
+      "normalized": "żłobeknr 11",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-28T19:09:29.067507+00:00"
+    },
+    "kino cytadela": {
+      "name": "Kino Cytadela, Muzeum Historii Polski, ul. Gwardii 1",
+      "district": "Żoliborz",
+      "address": "Kino Cytadela, Muzeum Historii Polski, ul. Gwardii 1",
+      "normalized": "kino cytadela",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-28T19:09:29.067798+00:00"
+    },
+    "hard rock cafe": {
+      "name": "Hard Rock Cafe, ul. Złota 59",
+      "district": "Śródmieście",
+      "address": "Hard Rock Cafe, ul. Złota 59",
+      "normalized": "hard rock cafe",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-28T19:09:29.067998+00:00"
     }
   }
 }

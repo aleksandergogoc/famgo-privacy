@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T18:36:05.258858+00:00",
+  "updated_at": "2026-08-28T19:24:49.665202+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1104,6 +1104,24 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-08-27T18:18:14.335978+00:00"
+    },
+    "ul. ślęzoujście _ rędzińska": {
+      "name": "ul. Ślęzoujście / Rędzińska, Wrocław",
+      "district": "Stare Miasto",
+      "address": "ul. Ślęzoujście / Rędzińska, Wrocław",
+      "normalized": "ul. ślęzoujście _ rędzińska",
+      "lat": 51.116,
+      "lng": 17.071,
+      "updated_at": "2026-08-28T19:09:43.645955+00:00"
+    },
+    "pierk przystań maślice": {
+      "name": "Przystań Maślice, Rędzińska, Maślice, Wrocław, województwo dolnośląskie, 54-106, Polska",
+      "district": "Fabryczna",
+      "address": "Przystań Maślice, Rędzińska, Maślice, Wrocław, województwo dolnośląskie, 54-106, Polska",
+      "normalized": "pierk przystań maślice",
+      "lat": 51.1590546,
+      "lng": 16.9497852,
+      "updated_at": "2026-08-28T19:09:44.593797+00:00"
     }
   }
 }

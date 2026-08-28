@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T18:36:07.474361+00:00",
+  "updated_at": "2026-08-28T19:24:52.098991+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3274,6 +3274,33 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-08-27T18:09:49.136062+00:00"
+    },
+    "park im. anny i erazma jerzmanowskich": {
+      "name": "Park im. Anny i Erazma Jerzmanowskich, Kłodzka, Osiedle Medyków, Prokocim, Bieżanów-Prokocim, Kraków, województwo małopolskie, 30-663, Polska",
+      "district": "Bieżanów-Prokocim",
+      "address": "Park im. Anny i Erazma Jerzmanowskich, Kłodzka, Osiedle Medyków, Prokocim, Bieżanów-Prokocim, Kraków, województwo małopolskie, 30-663, Polska",
+      "normalized": "park im. anny i erazma jerzmanowskich",
+      "lat": 50.0179611,
+      "lng": 19.9950522,
+      "updated_at": "2026-08-28T18:21:30.449601+00:00"
+    },
+    "plac omłotowy": {
+      "name": "Plac Omłotowy, Bronowice Wielkie, Prądnik Biały, Kraków, województwo małopolskie, Polska",
+      "district": "Prądnik Biały",
+      "address": "Plac Omłotowy, Bronowice Wielkie, Prądnik Biały, Kraków, województwo małopolskie, Polska",
+      "normalized": "plac omłotowy",
+      "lat": 50.0974076,
+      "lng": 19.8826213,
+      "updated_at": "2026-08-28T18:22:38.206210+00:00"
+    },
+    "skład solny": {
+      "name": "Skład Solny, 8, Na Zjeździe, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-527, Polska",
+      "district": "Podgórze",
+      "address": "Skład Solny, 8, Na Zjeździe, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-527, Polska",
+      "normalized": "skład solny",
+      "lat": 50.047863,
+      "lng": 19.9553355,
+      "updated_at": "2026-08-28T18:58:58.579833+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T07:50:14.183136+00:00",
+  "updated_at": "2026-08-28T19:24:48.536296+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -659,6 +659,15 @@
       "lat": 52.3481993,
       "lng": 16.8972603,
       "updated_at": "2026-08-24T07:48:43.107840+00:00"
+    },
+    "komenda miejska...": {
+      "name": "Komenda Miejska Policji, Arnolda Szylinga, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-787, Polska",
+      "district": "Grunwald",
+      "address": "Komenda Miejska Policji, Arnolda Szylinga, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-787, Polska",
+      "normalized": "komenda miejska...",
+      "lat": 52.4065473,
+      "lng": 16.8996974,
+      "updated_at": "2026-08-28T19:22:30.000988+00:00"
     }
   }
 }

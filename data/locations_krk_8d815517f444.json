@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T19:24:52.098991+00:00",
+  "updated_at": "2026-08-29T13:22:56.678833+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3301,6 +3301,15 @@
       "lat": 50.047863,
       "lng": 19.9553355,
       "updated_at": "2026-08-28T18:58:58.579833+00:00"
+    },
+    "rynek główny 39": {
+      "name": "Rynek Główny 39, 31-013 Kraków, Poland",
+      "district": "Stare Miasto",
+      "address": "Rynek Główny 39, 31-013 Kraków, Poland",
+      "normalized": "rynek główny 39",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-29T12:59:29.385033+00:00"
     }
   }
 }

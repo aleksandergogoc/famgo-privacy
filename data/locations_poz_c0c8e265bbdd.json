@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T19:24:48.536296+00:00",
+  "updated_at": "2026-08-29T13:22:53.338689+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -668,6 +668,24 @@
       "lat": 52.4065473,
       "lng": 16.8996974,
       "updated_at": "2026-08-28T19:22:30.000988+00:00"
+    },
+    "park wilsona": {
+      "name": "ulica Grunwaldzka/Matejki, Jana Matejki, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-782, Polska",
+      "district": "Grunwald",
+      "address": "ulica Grunwaldzka/Matejki, Jana Matejki, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-782, Polska",
+      "normalized": "park wilsona",
+      "lat": 52.4052475,
+      "lng": 16.9000194,
+      "updated_at": "2026-08-29T13:20:00.224402+00:00"
+    },
+    "profilingua": {
+      "name": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "district": "Poznań - Pozostałe",
+      "address": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "normalized": "profilingua",
+      "lat": 52.4006632,
+      "lng": 16.9197326,
+      "updated_at": "2026-08-29T13:20:06.267148+00:00"
     }
   }
 }

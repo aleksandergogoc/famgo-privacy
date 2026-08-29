@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T19:24:50.892335+00:00",
+  "updated_at": "2026-08-29T13:22:55.433775+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -4147,6 +4147,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-28T19:09:29.067998+00:00"
+    },
+    "multimedialny park fontann": {
+      "name": "Multimedialny Park Fontann, Przestrzeń Kulturalna · Skwer 1 Dywizji Pancernej WP",
+      "district": "Śródmieście",
+      "address": "Multimedialny Park Fontann, Przestrzeń Kulturalna · Skwer 1 Dywizji Pancernej WP",
+      "normalized": "multimedialny park fontann",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-29T13:05:44.105240+00:00"
+    },
+    "ul. jazdów 1": {
+      "name": "ul. Jazdów 1",
+      "district": "Śródmieście",
+      "address": "ul. Jazdów 1",
+      "normalized": "ul. jazdów 1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-29T13:05:44.105574+00:00"
+    },
+    "jazdów 1": {
+      "name": "Jazdów 1, 00-467 Warszawa, Poland",
+      "district": "Śródmieście",
+      "address": "Jazdów 1, 00-467 Warszawa, Poland",
+      "normalized": "jazdów 1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-29T13:05:44.106292+00:00"
+    },
+    "02-625 warsaw": {
+      "name": "02-625 Warsaw, Poland",
+      "district": "Mokotów",
+      "address": "02-625 Warsaw, Poland",
+      "normalized": "02-625 warsaw",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-29T13:05:44.106626+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:22:54.404573+00:00",
+  "updated_at": "2026-08-30T12:12:14.577491+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -662,6 +662,15 @@
       "lat": 54.3483097,
       "lng": 18.6481609,
       "updated_at": "2026-08-29T13:16:54.217031+00:00"
+    },
+    "bałtycka": {
+      "name": "Polska Filharmonia Bałtycka im. Fryderyka Chopina, 1, Ołowianka, Zamczysko, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-751, Polska",
+      "district": "Śródmieście",
+      "address": "Polska Filharmonia Bałtycka im. Fryderyka Chopina, 1, Ołowianka, Zamczysko, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-751, Polska",
+      "normalized": "bałtycka",
+      "lat": 54.352477,
+      "lng": 18.659703,
+      "updated_at": "2026-08-30T12:07:21.093683+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:22:55.433775+00:00",
+  "updated_at": "2026-08-30T12:12:15.552131+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -4183,6 +4183,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-29T13:05:44.106626+00:00"
+    },
+    "franciszka klimczaka 1": {
+      "name": "Franciszka Klimczaka 1, 02-797 Warszawa, Poland",
+      "district": "Wilanów",
+      "address": "Franciszka Klimczaka 1, 02-797 Warszawa, Poland",
+      "normalized": "franciszka klimczaka 1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-30T12:00:37.180813+00:00"
+    },
+    "pl. defilad 1": {
+      "name": "pl. Defilad 1, 00-901 Warszawa, Poland",
+      "district": "Śródmieście",
+      "address": "pl. Defilad 1, 00-901 Warszawa, Poland",
+      "normalized": "pl. defilad 1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-30T12:00:37.181076+00:00"
     }
   }
 }

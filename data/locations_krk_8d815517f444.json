@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:22:56.678833+00:00",
+  "updated_at": "2026-08-30T12:12:16.714817+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3310,6 +3310,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-29T12:59:29.385033+00:00"
+    },
+    "osiedle szkolne 25": {
+      "name": "Osiedle Szkolne 25, 31-977 Kraków, Poland",
+      "district": "Nowa Huta",
+      "address": "Osiedle Szkolne 25, 31-977 Kraków, Poland",
+      "normalized": "osiedle szkolne 25",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-30T11:53:10.837402+00:00"
     }
   }
 }

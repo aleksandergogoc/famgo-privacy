@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T13:22:53.338689+00:00",
+  "updated_at": "2026-08-30T12:12:13.515417+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -686,6 +686,15 @@
       "lat": 52.4006632,
       "lng": 16.9197326,
       "updated_at": "2026-08-29T13:20:06.267148+00:00"
+    },
+    "ul. poznańska 102": {
+      "name": "Skórzewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-185, Polska",
+      "district": "Grunwald",
+      "address": "Skórzewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-185, Polska",
+      "normalized": "ul. poznańska 102",
+      "lat": 52.3920508,
+      "lng": 16.7908473,
+      "updated_at": "2026-08-30T12:10:01.473641+00:00"
     }
   }
 }

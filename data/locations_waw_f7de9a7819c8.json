@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:12:15.552131+00:00",
+  "updated_at": "2026-08-31T13:47:50.109721+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -4201,6 +4201,366 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-30T12:00:37.181076+00:00"
+    },
+    "mal kasprowicza 14 · ul. kasprowicza 14": {
+      "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
+      "district": "Bielany",
+      "address": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
+      "normalized": "mal kasprowicza 14 · ul. kasprowicza 14",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.715270+00:00"
+    },
+    "metroteka – wypożyczalnia nr 98": {
+      "name": "Metroteka – Wypożyczalnia nr 98, lokal 1015 · metro Kondratowicza, Warszawa",
+      "district": "Targówek",
+      "address": "Metroteka – Wypożyczalnia nr 98, lokal 1015 · metro Kondratowicza, Warszawa",
+      "normalized": "metroteka – wypożyczalnia nr 98",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.715907+00:00"
+    },
+    "dom kultury orion · ul. egipska 7": {
+      "name": "Dom Kultury ORION · ul. Egipska 7",
+      "district": "Praga-Południe",
+      "address": "Dom Kultury ORION · ul. Egipska 7",
+      "normalized": "dom kultury orion · ul. egipska 7",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.716213+00:00"
+    },
+    "skwer trzech pokoleń · u zbiegu ul. rozłuckiej i walewskiej": {
+      "name": "Skwer Trzech Pokoleń · u zbiegu ul. Rozłuckiej i Walewskiej",
+      "district": "Praga-Południe",
+      "address": "Skwer Trzech Pokoleń · u zbiegu ul. Rozłuckiej i Walewskiej",
+      "normalized": "skwer trzech pokoleń · u zbiegu ul. rozłuckiej i walewskiej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.716488+00:00"
+    },
+    "park im. księcia janusza · ul. księcia bolesława _ obozowa": {
+      "name": "Park im. Księcia Janusza · ul. Księcia Bolesława / Obozowa",
+      "district": "Wola",
+      "address": "Park im. Księcia Janusza · ul. Księcia Bolesława / Obozowa",
+      "normalized": "park im. księcia janusza · ul. księcia bolesława _ obozowa",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.716732+00:00"
+    },
+    "sportowy przyszłość": {
+      "name": "Klub Sportowy Przyszłość, Strefa piknikowa 14:00–20:00 · ul. Rybnicka 25",
+      "district": "Włochy",
+      "address": "Klub Sportowy Przyszłość, Strefa piknikowa 14:00–20:00 · ul. Rybnicka 25",
+      "normalized": "sportowy przyszłość",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.717043+00:00"
+    },
+    "park czechowicki · ul. spisaka": {
+      "name": "Park Czechowicki · ul. Spisaka, Warszawa",
+      "district": "Ursus",
+      "address": "Park Czechowicki · ul. Spisaka, Warszawa",
+      "normalized": "park czechowicki · ul. spisaka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.717254+00:00"
+    },
+    "teren rekreacyjny przy stacji metra słodowiec": {
+      "name": "Teren rekreacyjny przy stacji metra Słodowiec",
+      "district": "Bielany",
+      "address": "Teren rekreacyjny przy stacji metra Słodowiec",
+      "normalized": "teren rekreacyjny przy stacji metra słodowiec",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.717503+00:00"
+    },
+    "centrum kultury ursus": {
+      "name": "Centrum Kultury Ursus, Filia Portiernia 10:00–12:00, Filia Kolorowa 12:00–14:00, Filia Miś 14:00–16:00 · ul. Traktorzystów 20 / ul. gen. K. Sosnkowskiego 16 / ul. Zagłoby 17",
+      "district": "Ursus",
+      "address": "Centrum Kultury Ursus, Filia Portiernia 10:00–12:00, Filia Kolorowa 12:00–14:00, Filia Miś 14:00–16:00 · ul. Traktorzystów 20 / ul. gen. K. Sosnkowskiego 16 / ul. Zagłoby 17",
+      "normalized": "centrum kultury ursus",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.717758+00:00"
+    },
+    "dom kultury świt": {
+      "name": "Dom Kultury Świt, Dziedziniec · ul. Wysockiego 11",
+      "district": "Targówek",
+      "address": "Dom Kultury Świt, Dziedziniec · ul. Wysockiego 11",
+      "normalized": "dom kultury świt",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.717980+00:00"
+    },
+    "dom kultury „miś” · ul. zagłoby 17": {
+      "name": "Dom Kultury „Miś” · ul. Zagłoby 17",
+      "district": "Ursus",
+      "address": "Dom Kultury „Miś” · ul. Zagłoby 17",
+      "normalized": "dom kultury „miś” · ul. zagłoby 17",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.718398+00:00"
+    },
+    "artystyczny dom animacji · ul. ks. juliana chrościckiego 14": {
+      "name": "Artystyczny Dom Animacji · ul. ks. Juliana Chrościckiego 14",
+      "district": "Włochy",
+      "address": "Artystyczny Dom Animacji · ul. ks. Juliana Chrościckiego 14",
+      "normalized": "artystyczny dom animacji · ul. ks. juliana chrościckiego 14",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.718616+00:00"
+    },
+    "kino ada · ul. ks. juliana chrościckiego 14": {
+      "name": "Kino ADA · ul. ks. Juliana Chrościckiego 14",
+      "district": "Włochy",
+      "address": "Kino ADA · ul. ks. Juliana Chrościckiego 14",
+      "normalized": "kino ada · ul. ks. juliana chrościckiego 14",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.718880+00:00"
+    },
+    "plaża romantyczna · ul. rychnowska 15": {
+      "name": "Plaża Romantyczna · ul. Rychnowska 15",
+      "district": "Wawer",
+      "address": "Plaża Romantyczna · ul. Rychnowska 15",
+      "normalized": "plaża romantyczna · ul. rychnowska 15",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.719118+00:00"
+    },
+    "dom kultury wygoda · ul. koniecpolska 14": {
+      "name": "Dom Kultury Wygoda · ul. Koniecpolska 14",
+      "district": "Rembertów",
+      "address": "Dom Kultury Wygoda · ul. Koniecpolska 14",
+      "normalized": "dom kultury wygoda · ul. koniecpolska 14",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.719379+00:00"
+    },
+    "mal „kotłownia” · ul. jana olbrachta 7a": {
+      "name": "MAL „Kotłownia” · ul. Jana Olbrachta 7a",
+      "district": "Wola",
+      "address": "MAL „Kotłownia” · ul. Jana Olbrachta 7a",
+      "normalized": "mal „kotłownia” · ul. jana olbrachta 7a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.719671+00:00"
+    },
+    "biblioteka dla dzieci nr xx · ul. śmiała 24": {
+      "name": "Biblioteka dla Dzieci nr XX · ul. Śmiała 24",
+      "district": "Żoliborz",
+      "address": "Biblioteka dla Dzieci nr XX · ul. Śmiała 24",
+      "normalized": "biblioteka dla dzieci nr xx · ul. śmiała 24",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.720000+00:00"
+    },
+    "biblioteka publiczna w dzielnicy wesoła": {
+      "name": "Biblioteka Publiczna w Dzielnicy Wesoła, Filia nr 1 – Stara Miłosna · ul. Jana Pawła II 25",
+      "district": "Wesoła",
+      "address": "Biblioteka Publiczna w Dzielnicy Wesoła, Filia nr 1 – Stara Miłosna · ul. Jana Pawła II 25",
+      "normalized": "biblioteka publiczna w dzielnicy wesoła",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.720241+00:00"
+    },
+    "dzielnicowy ośrodek kultury ursynów · ul. kajakowa 12b": {
+      "name": "Dzielnicowy Ośrodek Kultury Ursynów · ul. Kajakowa 12b",
+      "district": "Ursynów",
+      "address": "Dzielnicowy Ośrodek Kultury Ursynów · ul. Kajakowa 12b",
+      "normalized": "dzielnicowy ośrodek kultury ursynów · ul. kajakowa 12b",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.720536+00:00"
+    },
+    "dom kultury wesoła": {
+      "name": "Dom Kultury Wesoła, Szkoła Podstawowa nr 173 · ul. Trakt Brzeski 18",
+      "district": "Wesoła",
+      "address": "Dom Kultury Wesoła, Szkoła Podstawowa nr 173 · ul. Trakt Brzeski 18",
+      "normalized": "dom kultury wesoła",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.720858+00:00"
+    },
+    "zabytkowa stacja kolei wilanowskiej · ul. kostki potockiego": {
+      "name": "Zabytkowa Stacja Kolei Wilanowskiej · ul. Kostki Potockiego",
+      "district": "Wilanów",
+      "address": "Zabytkowa Stacja Kolei Wilanowskiej · ul. Kostki Potockiego",
+      "normalized": "zabytkowa stacja kolei wilanowskiej · ul. kostki potockiego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.721075+00:00"
+    },
+    "dom kultury wesoła · ul. starzyńskiego 21": {
+      "name": "Dom Kultury Wesoła · ul. Starzyńskiego 21",
+      "district": "Wesoła",
+      "address": "Dom Kultury Wesoła · ul. Starzyńskiego 21",
+      "normalized": "dom kultury wesoła · ul. starzyńskiego 21",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.721396+00:00"
+    },
+    "centrum łowicka · ul. łowicka 21": {
+      "name": "Centrum Łowicka · ul. Łowicka 21",
+      "district": "Mokotów",
+      "address": "Centrum Łowicka · ul. Łowicka 21",
+      "normalized": "centrum łowicka · ul. łowicka 21",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.721767+00:00"
+    },
+    "centrum promocji kultury praga-południe · ul. podskarbińska 2": {
+      "name": "Centrum Promocji Kultury Praga-Południe · ul. Podskarbińska 2",
+      "district": "Praga-Południe",
+      "address": "Centrum Promocji Kultury Praga-Południe · ul. Podskarbińska 2",
+      "normalized": "centrum promocji kultury praga-południe · ul. podskarbińska 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.722009+00:00"
+    },
+    "dom kultury „portiernia” · ul. traktorzystów 20": {
+      "name": "Dom Kultury „Portiernia” · ul. Traktorzystów 20",
+      "district": "Ursus",
+      "address": "Dom Kultury „Portiernia” · ul. Traktorzystów 20",
+      "normalized": "dom kultury „portiernia” · ul. traktorzystów 20",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.722350+00:00"
+    },
+    "bielański ośrodek kultury · ul. carla goldoniego 1": {
+      "name": "Bielański Ośrodek Kultury · ul. Carla Goldoniego 1",
+      "district": "Bielany",
+      "address": "Bielański Ośrodek Kultury · ul. Carla Goldoniego 1",
+      "normalized": "bielański ośrodek kultury · ul. carla goldoniego 1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.722679+00:00"
+    },
+    "aleja sportów miejskich · ul. pełczyńskiego 22 (część terminów: teren zielony przy bibliotece": {
+      "name": "Aleja Sportów Miejskich · ul. Pełczyńskiego 22 (część terminów: teren zielony przy Bibliotece, ul. Konarskiego 6)",
+      "district": "Bemowo",
+      "address": "Aleja Sportów Miejskich · ul. Pełczyńskiego 22 (część terminów: teren zielony przy Bibliotece, ul. Konarskiego 6)",
+      "normalized": "aleja sportów miejskich · ul. pełczyńskiego 22 (część terminów: teren zielony przy bibliotece",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.723020+00:00"
+    },
+    "scena kocjana · ul. kocjana 3": {
+      "name": "Scena Kocjana · ul. Kocjana 3",
+      "district": "Bemowo",
+      "address": "Scena Kocjana · ul. Kocjana 3",
+      "normalized": "scena kocjana · ul. kocjana 3",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.723382+00:00"
+    },
+    "błonia pge narodowy · al. ks. j. poniatowskiego 1": {
+      "name": "Błonia PGE Narodowy · al. ks. J. Poniatowskiego 1",
+      "district": "Praga-Południe",
+      "address": "Błonia PGE Narodowy · al. ks. J. Poniatowskiego 1",
+      "normalized": "błonia pge narodowy · al. ks. j. poniatowskiego 1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.723742+00:00"
+    },
+    "dom kultury śródmieście": {
+      "name": "Dom Kultury Śródmieście, Scena na Smolnej · ul. Smolna 9",
+      "district": "Śródmieście",
+      "address": "Dom Kultury Śródmieście, Scena na Smolnej · ul. Smolna 9",
+      "normalized": "dom kultury śródmieście",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.724000+00:00"
+    },
+    "biblioteka publiczna – filia „szamoty” · ul. silnikowa 8a": {
+      "name": "Biblioteka Publiczna – Filia „Szamoty” · ul. Silnikowa 8A",
+      "district": "Ursus",
+      "address": "Biblioteka Publiczna – Filia „Szamoty” · ul. Silnikowa 8A",
+      "normalized": "biblioteka publiczna – filia „szamoty” · ul. silnikowa 8a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.724575+00:00"
+    },
+    "park jurajski · ul. puszczyka 18": {
+      "name": "Park Jurajski · ul. Puszczyka 18",
+      "district": "Ursynów",
+      "address": "Park Jurajski · ul. Puszczyka 18",
+      "normalized": "park jurajski · ul. puszczyka 18",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.724968+00:00"
+    },
+    "wypożyczalnia nr 47 w radości · ul. powojowa 2": {
+      "name": "Wypożyczalnia nr 47 w Radości · ul. Powojowa 2",
+      "district": "Wawer",
+      "address": "Wypożyczalnia nr 47 w Radości · ul. Powojowa 2",
+      "normalized": "wypożyczalnia nr 47 w radości · ul. powojowa 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.725430+00:00"
+    },
+    "waliców _ krochmalna": {
+      "name": "Waliców / Krochmalna",
+      "district": "Wola",
+      "address": "Waliców / Krochmalna",
+      "normalized": "waliców _ krochmalna",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.726111+00:00"
+    },
+    "plaża wilanów": {
+      "name": "Plaża Wilanów",
+      "district": "Wilanów",
+      "address": "Plaża Wilanów",
+      "normalized": "plaża wilanów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.726388+00:00"
+    },
+    "rynek nowego miasta": {
+      "name": "Rynek Nowego Miasta",
+      "district": "Śródmieście",
+      "address": "Rynek Nowego Miasta",
+      "normalized": "rynek nowego miasta",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.726679+00:00"
+    },
+    "pawilon edukacyjny kamień": {
+      "name": "Pawilon Edukacyjny Kamień, ul. Wybrzeże Puckie 1",
+      "district": "Praga-Północ",
+      "address": "Pawilon Edukacyjny Kamień, ul. Wybrzeże Puckie 1",
+      "normalized": "pawilon edukacyjny kamień",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.726899+00:00"
+    },
+    "plac zabaw": {
+      "name": "Plac zabaw, Park Edwarda Szymańskiego",
+      "district": "Wola",
+      "address": "Plac zabaw, Park Edwarda Szymańskiego",
+      "normalized": "plac zabaw",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.727233+00:00"
+    },
+    "puławska 266": {
+      "name": "Puławska 266",
+      "district": "Ursynów",
+      "address": "Puławska 266",
+      "normalized": "puławska 266",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.727554+00:00"
+    },
+    "wóycickiego 5": {
+      "name": "Wóycickiego 5, 01-938 Warszawa, Poland",
+      "district": "Bielany",
+      "address": "Wóycickiego 5, 01-938 Warszawa, Poland",
+      "normalized": "wóycickiego 5",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:38:41.727869+00:00"
     }
   }
 }

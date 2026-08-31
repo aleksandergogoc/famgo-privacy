@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:12:13.515417+00:00",
+  "updated_at": "2026-08-31T13:47:46.443822+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -695,6 +695,15 @@
       "lat": 52.3920508,
       "lng": 16.7908473,
       "updated_at": "2026-08-30T12:10:01.473641+00:00"
+    },
+    "małe fusy": {
+      "name": "Małe Fusy, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "district": "Jeżyce",
+      "address": "Małe Fusy, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "normalized": "małe fusy",
+      "lat": 52.4524044,
+      "lng": 16.9150152,
+      "updated_at": "2026-08-31T13:45:50.754124+00:00"
     }
   }
 }

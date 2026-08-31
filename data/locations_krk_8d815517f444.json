@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:12:16.714817+00:00",
+  "updated_at": "2026-08-31T13:47:51.640801+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3319,6 +3319,60 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-30T11:53:10.837402+00:00"
+    },
+    "akademia górniczo-hutnicza": {
+      "name": "Akademia Górniczo-Hutnicza, Stanisława Konarskiego, Nowa Wieś, Krowodrza, Kraków, województwo małopolskie, 30-048, Polska",
+      "district": "Krowodrza",
+      "address": "Akademia Górniczo-Hutnicza, Stanisława Konarskiego, Nowa Wieś, Krowodrza, Kraków, województwo małopolskie, 30-048, Polska",
+      "normalized": "akademia górniczo-hutnicza",
+      "lat": 50.0657583,
+      "lng": 19.9192221,
+      "updated_at": "2026-08-31T12:57:32.615119+00:00"
+    },
+    "plac niepodległości": {
+      "name": "Plac Niepodległości, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-509, Polska",
+      "district": "Podgórze",
+      "address": "Plac Niepodległości, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-509, Polska",
+      "normalized": "plac niepodległości",
+      "lat": 50.043274,
+      "lng": 19.9474109,
+      "updated_at": "2026-08-31T12:57:56.219251+00:00"
+    },
+    "bazylica św. floriana": {
+      "name": "Bazylika św. Floriana, Floriańska 3, 31-019 Kraków",
+      "district": "Stare Miasto",
+      "address": "Bazylika św. Floriana, Floriańska 3, 31-019 Kraków",
+      "normalized": "bazylica św. floriana",
+      "lat": 50.051,
+      "lng": 19.947,
+      "updated_at": "2026-08-31T12:58:34.804974+00:00"
+    },
+    "pałac pod baranami": {
+      "name": "Pałac Pod Baranami, 27, Rynek Główny, Stare Miasto, Kraków, województwo małopolskie, 31-008, Polska",
+      "district": "Stare Miasto",
+      "address": "Pałac Pod Baranami, 27, Rynek Główny, Stare Miasto, Kraków, województwo małopolskie, 31-008, Polska",
+      "normalized": "pałac pod baranami",
+      "lat": 50.0616292,
+      "lng": 19.935022,
+      "updated_at": "2026-08-31T13:00:07.285093+00:00"
+    },
+    "grzegórzecka 71": {
+      "name": "Grzegórzecka 71, 31-559 Kraków, Poland",
+      "district": "Grzegórzki",
+      "address": "Grzegórzecka 71, 31-559 Kraków, Poland",
+      "normalized": "grzegórzecka 71",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:21:15.887351+00:00"
+    },
+    "mikołajska 2": {
+      "name": "Mikołajska 2, 31-027 Kraków, Poland",
+      "district": "Stare Miasto",
+      "address": "Mikołajska 2, 31-027 Kraków, Poland",
+      "normalized": "mikołajska 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-08-31T13:21:15.887572+00:00"
     }
   }
 }

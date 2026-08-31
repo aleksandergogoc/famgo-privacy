@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T12:12:14.577491+00:00",
+  "updated_at": "2026-08-31T13:47:47.793499+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -671,6 +671,24 @@
       "lat": 54.352477,
       "lng": 18.659703,
       "updated_at": "2026-08-30T12:07:21.093683+00:00"
+    },
+    "roboplanet": {
+      "name": "Heleny Marusarzówny, D, Migowo, Piecki-Migowo, Gdańsk, województwo pomorskie, 80-288, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Heleny Marusarzówny, D, Migowo, Piecki-Migowo, Gdańsk, województwo pomorskie, 80-288, Polska",
+      "normalized": "roboplanet",
+      "lat": 54.3578137,
+      "lng": 18.5764825,
+      "updated_at": "2026-08-31T13:43:30.022952+00:00"
+    },
+    "wróbla 10": {
+      "name": "1/10B, Wróbla, Kłodno, Dolne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-769, Polska",
+      "district": "Śródmieście",
+      "address": "1/10B, Wróbla, Kłodno, Dolne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-769, Polska",
+      "normalized": "wróbla 10",
+      "lat": 54.3407565,
+      "lng": 18.6575827,
+      "updated_at": "2026-08-31T13:43:43.831934+00:00"
     }
   }
 }

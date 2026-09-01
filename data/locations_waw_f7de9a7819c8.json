@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:47:50.109721+00:00",
+  "updated_at": "2026-09-01T12:01:10.632722+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -4561,6 +4561,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-31T13:38:41.727869+00:00"
+    },
+    "białołęcki ośrodek kultury (głębocka) (warszawa-lewandów)": {
+      "name": "Białołęcki Ośrodek Kultury, 1, Vincenta van Gogha, Osiedle Tarchomin IIIB i Tarchomin IIIB Bis, Tarchomin, Białołęka, Warszawa, województwo mazowieckie, 03-188, Polska",
+      "district": "Białołęka",
+      "address": "Białołęcki Ośrodek Kultury, 1, Vincenta van Gogha, Osiedle Tarchomin IIIB i Tarchomin IIIB Bis, Tarchomin, Białołęka, Warszawa, województwo mazowieckie, 03-188, Polska",
+      "normalized": "białołęcki ośrodek kultury (głębocka) (warszawa-lewandów)",
+      "lat": 52.3135966,
+      "lng": 20.9532725,
+      "updated_at": "2026-09-01T11:52:02.264702+00:00"
+    },
+    "trocka 4": {
+      "name": "Trocka 4",
+      "district": "Targówek",
+      "address": "Trocka 4",
+      "normalized": "trocka 4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-01T11:52:04.995699+00:00"
+    },
+    "park im. jana pawła ii klub przy lasku": {
+      "name": "Park im. Jana Pawła II  Klub Przy Lasku, ul. Lasek Brzozowy 2",
+      "district": "Ursynów",
+      "address": "Park im. Jana Pawła II  Klub Przy Lasku, ul. Lasek Brzozowy 2",
+      "normalized": "park im. jana pawła ii klub przy lasku",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-01T11:52:04.995939+00:00"
+    },
+    "ul. głębocka 66": {
+      "name": "ul. Głębocka 66, Białołęcki Ośrodek Kultury",
+      "district": "Bielany",
+      "address": "ul. Głębocka 66, Białołęcki Ośrodek Kultury",
+      "normalized": "ul. głębocka 66",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-01T11:52:04.996213+00:00"
+    },
+    "wincentego rzymowskiego 32": {
+      "name": "Wincentego Rzymowskiego 32, 02-697 Warszawa, Poland",
+      "district": "Mokotów",
+      "address": "Wincentego Rzymowskiego 32, 02-697 Warszawa, Poland",
+      "normalized": "wincentego rzymowskiego 32",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-01T11:52:04.996418+00:00"
     }
   }
 }

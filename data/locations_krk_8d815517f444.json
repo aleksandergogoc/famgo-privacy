@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:47:51.640801+00:00",
+  "updated_at": "2026-09-01T12:01:12.000804+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3373,6 +3373,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-08-31T13:21:15.887572+00:00"
+    },
+    "ośrodek kultury im. c.k. norwida": {
+      "name": "Os. Górali 5, Kraków",
+      "district": "Podgórze",
+      "address": "Os. Górali 5, Kraków",
+      "normalized": "ośrodek kultury im. c.k. norwida",
+      "lat": 50.0345,
+      "lng": 19.9321,
+      "updated_at": "2026-09-01T11:49:10.915909+00:00"
+    },
+    "al. jana pawła ii 34": {
+      "name": "al. Jana Pawła II 34, 31-571 Kraków, Poland",
+      "district": "Prądnik Czerwony",
+      "address": "al. Jana Pawła II 34, 31-571 Kraków, Poland",
+      "normalized": "al. jana pawła ii 34",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-01T11:49:10.916350+00:00"
+    },
+    "aleja marszałka ferdynanda focha 39": {
+      "name": "Aleja Marszałka Ferdynanda Focha 39, 30-119 Kraków, Poland",
+      "district": "Zwierzyniec",
+      "address": "Aleja Marszałka Ferdynanda Focha 39, 30-119 Kraków, Poland",
+      "normalized": "aleja marszałka ferdynanda focha 39",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-01T11:49:10.916470+00:00"
     }
   }
 }

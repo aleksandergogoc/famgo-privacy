@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T11:14:55.779831+00:00",
+  "updated_at": "2026-09-01T11:52:05.894839+00:00",
   "events": {
     "biegaj-po-woli-bieg-nocny-2026-09-19": {
       "scrapped_timestamp": "2026-06-23T18:57:17.708340+00:00",
@@ -3162,49 +3162,45 @@
       "updated_at": "2026-07-24T12:12:41.402281+00:00"
     },
     "nawzajem-elektroprzygoda-2026-09-19T10:30:00+02:00": {
-      "title": "NAWZAJEM! - Elektroprzygoda",
+      "title": "NAWZAJEM! Elektroprzygoda",
       "date": "2026-09-19T10:30:00+02:00",
       "end_date": "2026-09-19T10:30:00+02:00",
       "startTimeKnown": true,
-      "description": "warsztaty / sobota / 19.09 / 10:30-13:00 / zapisy >> link Warsztaty majsterkowania, podczas których sprawdzimy czy da się zrobić coś z niczego. Przy okazji zajrzymy do środka zepsutych urządzeń, sprawdzimy do czego służą ich części i czy na pewno nadają się tylko do wyrzucenia. Jako materiału użyjemy elektrośmieci, które przynieśli nasi sąsiedzi. Odzyskane elementy zostaną wykorzystane twórczo - powstaną z nich figurki robotów. NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie” i jest finansowany ze środków m.st. Warszawy. Dojazd: - Najbliższy przystanek: Rydygiera (autobusy) – ok. 2 min pieszo, lub Plac Grunwaldzki (tramwaje, autobusy) ok 4 min pieszo - Dojście płaskie, chodnikiem, przed CLŻ droga prosta z drobnym żwirem - Dostępne miejsca parkingowe wzdłuż ul. Rydygiera, w tym miejsce dla osób z niepełnosprawnością - Na budynku Centrum Lokalnego Żoliborz funkcjonuje znacznik ToTuPoint, Dostępność: - w CLŻ jest toaleta dla osób z niepełnosprawnościami - przestrzenie wewnątrz CLŻ są bezprogowe, przyjazne sensorycznie - dostępne na miejscu słuchawki wyciszające. Szczegóły dostępności w Deklaracji Dostępności link Wszystkie wydarzenia w CLŻ są bezpłatne. Na miejscu czeka na Was herbata i kawa, ale miło nam będzie, jeśli przyniesiecie coś do wspólnych zapasów. Zastrzegamy sobie możliwość wprowadzania zmian w harmonogramie lub odwołania wydarzenia.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1030.1784913580.webp",
+      "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Przestrzenie wewnątrz Centrum Lokalnego Żoliborz są bezprogowe i przyjazne sensorycznie, dostępne są słuchawki wyciszające oraz toaleta dla osób z niepełnosprawnościami.",
+      "url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-elektroprzygoda",
+      "source": "zoliborskidomkultury.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 6
+      },
       "location": {
-        "name": "Centrum Lokalne Żoliborz, ul. Rydygiera 6b",
+        "name": "Żoliborski Dom Kultury, Centrum Lokalne Żoliborz · ul. Ludwika Rydygiera 6b",
         "district": "Żoliborz"
       },
-      "url": "https://fb.me/e/8817DRlO6",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://fb.me/e/8817DRlO6",
-      "scrapped_timestamp": "2026-08-31T13:37:54.470026+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "STEM",
-        "Arts"
-      ],
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
+      "image": "https://api.zdk.teapp.pl/uploads/2026-07/images/1783684547487_kto-w-kompoacie-piszczy-12.jpg",
+      "scrapped_url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-elektroprzygoda",
+      "scrapped_timestamp": "2026-09-01T11:51:13.847799+00:00",
       "translations": {
         "pl": {
-          "title": "NAWZAJEM! - Elektroprzygoda",
-          "description": "warsztaty / sobota / 19.09 / 10:30-13:00 / zapisy >> link Warsztaty majsterkowania, podczas których sprawdzimy czy da się zrobić coś z niczego. Przy okazji zajrzymy do środka zepsutych urządzeń, sprawdzimy do czego służą ich części i czy na pewno nadają się tylko do wyrzucenia. Jako materiału użyjemy elektrośmieci, które przynieśli nasi sąsiedzi. Odzyskane elementy zostaną wykorzystane twórczo - powstaną z nich figurki robotów. NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie” i jest finansowany ze środków m.st. Warszawy. Dojazd: - Najbliższy przystanek: Rydygiera (autobusy) – ok. 2 min pieszo, lub Plac Grunwaldzki (tramwaje, autobusy) ok 4 min pieszo - Dojście płaskie, chodnikiem, przed CLŻ droga prosta z drobnym żwirem - Dostępne miejsca parkingowe wzdłuż ul. Rydygiera, w tym miejsce dla osób z niepełnosprawnością - Na budynku Centrum Lokalnego Żoliborz funkcjonuje znacznik ToTuPoint, Dostępność: - w CLŻ jest toaleta dla osób z niepełnosprawnościami - przestrzenie wewnątrz CLŻ są bezprogowe, przyjazne sensorycznie - dostępne na miejscu słuchawki wyciszające. Szczegóły dostępności w Deklaracji Dostępności link Wszystkie wydarzenia w CLŻ są bezpłatne. Na miejscu czeka na Was herbata i kawa, ale miło nam będzie, jeśli przyniesiecie coś do wspólnych zapasów. Zastrzegamy sobie możliwość wprowadzania zmian w harmonogramie lub odwołania wydarzenia."
+          "title": "NAWZAJEM! Elektroprzygoda",
+          "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Przestrzenie wewnątrz Centrum Lokalnego Żoliborz są bezprogowe i przyjazne sensorycznie, dostępne są słuchawki wyciszające oraz toaleta dla osób z niepełnosprawnościami."
         },
         "en": {
-          "title": "TOGETHER! - Electro Adventure",
-          "description": "workshop / Saturday / 19.09 / 10:30-13:00 / registration >> link A DIY workshop where we will check if it's possible to make something out of nothing. Along the way, we will take a look inside broken devices, examine what their parts are for, and whether they are really only fit for disposal. We will use e-waste brought by our neighbors as material. The recovered elements will be creatively used to create robot figurines. TOGETHER! is a project promoting ecological attitudes by developing the idea of a second life and circular economy among residents. We want to show that items do not have to immediately become waste – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. This is a space where we 'save'"
+          "title": "TOGETHER! Electro-adventure",
+          "description": "TOGETHER! is a project promoting ecological attitudes by developing the idea of a second life and circular economy among residents. We want to show that items do not have to become waste immediately – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. This is a space where we 'rescue items' from being thrown away, but we also build something more – we learn cooperation, knowledge exchange, and mutual support. It can be said that in this process, we repair not only items but also relationships. The spaces inside the Local Center Żoliborz are barrier-free and sensory-friendly, with noise-canceling headphones and accessible restrooms for people with disabilities."
         },
         "uk": {
-          "title": "NAWZAJEM! - Електропригода",
-          "description": "майстер-класи / субота / 19.09 / 10:30-13:00 / реєстрація >> посилання Майстер-класи з ремонту, під час яких ми перевіримо, чи можна зробити щось з нічого. Заодно заглянемо всередину зламаних пристроїв, перевіримо, для чого слугують їхні частини і чи дійсно вони підходять лише для викидання. Як матеріал ми використаємо електронне сміття, яке принесли наші сусіди. Відновлені елементи будуть використані творчо - з них створять фігурки роботів. NAWZAJEM! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами - їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому \"рятуємо"
+          "title": "НАВЗАЄМ! Електропригода",
+          "description": "НАВЗАЄМ! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами - їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому ми «рятуємо предмети» від викидання, але також будуємо щось більше - навчаємося співпраці, обміну знаннями та взаємної підтримки. Можна сказати, що в цьому процесі ми ремонтуємо не лише предмети, але й стосунки. Простори всередині Центру місцевого Жолібожа безпорогові та чутливі до сприйняття, доступні навушники для приглушення звуку та туалет для осіб з інвалідністю."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Żoliborz",
-      "updated_at": "2026-08-31T13:38:42.691233+00:00"
+      "updated_at": "2026-09-01T11:52:05.659861+00:00"
     },
     "bajka-muzyczna-na-orkiestr-ch-r-i-solist-w-2026-09-19T12:00:00+02:00": {
       "title": "Bajka muzyczna na orkiestrę chór i solistów",
@@ -3457,45 +3453,44 @@
       "updated_at": "2026-08-05T09:03:08.496374+00:00"
     },
     "koncert-rodzinny-muzyczna-podr-do-krainy-wyobra-ni-2026-09-05T12:00:00+02:00": {
-      "title": "Koncert rodzinny - Muzyczna podróż do krainy wyobraźni",
+      "title": "Koncert rodzinny – Muzyczna podróż do krainy wyobraźni",
       "date": "2026-09-05T12:00:00+02:00",
       "end_date": "2026-09-05T12:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Zapraszamy dzieci i ich rodziców na opowiadanie muzycznych bajek i „Muzyczną podróż do krainy wyobraźni\". Tym razem spotkamy się w warszawskiej dzielnicy Wola w sobotę 05 września br. o godz. 12:00 w OKiE SM WOLA - Ośrodku Kultury i Edukacji Spółdzielni Mieszkaniowej Wola przy ul. Powstańców Śląskich 108A. Będzie to interaktywny koncert rodzinny (ok. 50 minut, dla dzieci 5+), który opiera się na historii opowiadanej przez aktora i publiczność, przy akompaniamencie improwizujących muzyków. Będziemy wspólnie wędrowali przez różne krainy wyobraźni, spotykając baśniowe postaci. Być może będziemy walczyli z potworami lub odkrywali skarby. Wszystko zależy od uczestników koncertu i ich wyobraźni. Każdy najdziwniejszy i najbardziej zwariowany pomysł podsunięty przez dzieci może zostać opowiedziany i zagrany, ponieważ będzie nam towarzyszyła powstająca na żywo muzyka, podkreślająca emocje i wprowadzająca w atmosferę tworzonych historii. Ze swojej strony obiecujemy mnóstwo improwizacji i dobrej zabawy. A jakie przygody nas czekają? Tego dowiemy się na koncercie. Udział w wydarzeniu jest bezpłatny. Do zobaczenia! * Koncert odbywa się w ramach projektu PTMW „Warszawa kreatywna\" i jest współfinansowany ze środków Miasta Stołecznego Warszawy. ** Zapraszamy również melomanów ze specjalnymi potrzebami. Prosimy o informację na adres ptmw@epistola.pl , jeśli będzie potrzebna pomoc w Waszym uczestnictwie w koncercie. Chętnie pomożemy. Organizator: Polskie Towarzystwo Muzyki Współczesnej | Współfinansowanie: Miasto Stołeczne Warszawa | Partnerzy: OKiE SM WOLA - Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola, Agencja Muzyczna Art Deco Group | Patronat medialny: Polskie Radio RDC, POLMIC.PL - Polskie Centrum Informacji Muzycznej, waw4free.pl, cameralmusic.pl i wolnasobota.pl",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1786706503.webp",
-      "location": {
-        "name": "OKiE SM WOLA, ul. Powstańców Śląskich 108A",
-        "district": "Wola"
-      },
-      "url": "https://www.facebook.com/events/2869997810009704/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/2869997810009704/",
-      "scrapped_timestamp": "2026-08-31T13:36:35.667392+00:00",
+      "description": "Zapraszamy dzieci i rodziców do OKiE SM WOLA na „Muzyczną podróż do krainy wyobraźni” i wspólne układanie muzycznych bajek.",
+      "url": "https://okie.smwola.com.pl/koncert-rodzinny-muzyczna-podroz-do-krainy-wyobrazni/",
+      "source": "okie.smwola.com.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
       "category": "Music & Dance",
       "age_range": {
-        "min": 5,
-        "max": 13
+        "min": 0,
+        "max": 6
       },
+      "location": {
+        "name": "OKiE SM WOLA · ul. Powstańców Śląskich 108A lok. 22",
+        "district": "Bemowo"
+      },
+      "scrapped_url": "https://okie.smwola.com.pl/koncert-rodzinny-muzyczna-podroz-do-krainy-wyobrazni/",
+      "scrapped_timestamp": "2026-09-01T11:51:11.709814+00:00",
       "translations": {
         "pl": {
-          "title": "Koncert rodzinny - Muzyczna podróż do krainy wyobraźni",
-          "description": "Zapraszamy dzieci i ich rodziców na opowiadanie muzycznych bajek i „Muzyczną podróż do krainy wyobraźni\". Tym razem spotkamy się w warszawskiej dzielnicy Wola w sobotę 05 września br. o godz. 12:00 w OKiE SM WOLA - Ośrodku Kultury i Edukacji Spółdzielni Mieszkaniowej Wola przy ul. Powstańców Śląskich 108A. Będzie to interaktywny koncert rodzinny (ok. 50 minut, dla dzieci 5+), który opiera się na historii opowiadanej przez aktora i publiczność, przy akompaniamencie improwizujących muzyków. Będziemy wspólnie wędrowali przez różne krainy wyobraźni, spotykając baśniowe postaci. Być może będziemy walczyli z potworami lub odkrywali skarby. Wszystko zależy od uczestników koncertu i ich wyobraźni. Każdy najdziwniejszy i najbardziej zwariowany pomysł podsunięty przez dzieci może zostać opowiedziany i zagrany, ponieważ będzie nam towarzyszyła powstająca na żywo muzyka, podkreślająca emocje i wprowadzająca w atmosferę tworzonych historii. Ze swojej strony obiecujemy mnóstwo improwizacji i dobrej zabawy. A jakie przygody nas czekają? Tego dowiemy się na koncercie. Udział w wydarzeniu jest bezpłatny. Do zobaczenia! * Koncert odbywa się w ramach projektu PTMW „Warszawa kreatywna\" i jest współfinansowany ze środków Miasta Stołecznego Warszawy. ** Zapraszamy również melomanów ze specjalnymi potrzebami. Prosimy o informację na adres ptmw@epistola.pl , jeśli będzie potrzebna pomoc w Waszym uczestnictwie w koncercie. Chętnie pomożemy. Organizator: Polskie Towarzystwo Muzyki Współczesnej | Współfinansowanie: Miasto Stołeczne Warszawa | Partnerzy: OKiE SM WOLA - Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola, Agencja Muzyczna Art Deco Group | Patronat medialny: Polskie Radio RDC, POLMIC.PL - Polskie Centrum Informacji Muzycznej, waw4free.pl, cameralmusic.pl i wolnasobota.pl"
+          "title": "Koncert rodzinny – Muzyczna podróż do krainy wyobraźni",
+          "description": "Zapraszamy dzieci i rodziców do OKiE SM WOLA na „Muzyczną podróż do krainy wyobraźni” i wspólne układanie muzycznych bajek."
         },
         "en": {
-          "title": "Family Concert - A Musical Journey to the Land of Imagination",
-          "description": "We invite children and their parents to a storytelling musical adventure and 'A Musical Journey to the Land of Imagination.' This time we will meet in the Wola district of Warsaw on Saturday, September 5th at 12:00 PM at OKiE SM WOLA - Cultural and Educational Center of the Wola Housing Cooperative at 108A Powstańców Śląskich Street. It will be an interactive family concert (approximately 50 minutes, for children aged 5 and up), based on a story told by an actor and the audience, accompanied by improvising musicians. Together, we will wander through various lands of imagination, meeting fairy-tale characters. We may fight monsters or discover treasures. Everything depends on the participants of the concert and their imagination. Every strangest and craziest idea suggested by the children can be told."
+          "title": "Family Concert – Musical Journey to the Land of Imagination",
+          "description": "We invite children and parents to OKiE SM WOLA for a 'Musical Journey to the Land of Imagination' and to create musical fairy tales together."
         },
         "uk": {
-          "title": "Сімейний концерт - Музична подорож до країни уяви",
-          "description": "Запрошуємо дітей та їхніх батьків на розповідання музичних казок та «Музичну подорож до країни уяви». Цього разу ми зустрінемося у варшавському районі Вола в суботу, 5 вересня, о 12:00 в OKiE SM WOLA - Центрі культури та освіти житлового кооперативу Вола за адресою вул. Повстанців Сілезьких 108А. Це буде інтерактивний сімейний концерт (приблизно 50 хвилин, для дітей 5+), який базується на історії, що розповідається актором та публікою, під акомпанемент імпровізуючих музикантів. Ми разом подорожуватимемо через різні країни уяви, зустрічаючи казкових персонажів. Можливо, ми будемо боротися з монстрами або відкривати скарби. Все залежить від учасників концерту та їхньої уяви. Кожна найдивніша та найбожевільніша ідея, запропонована дітьми, може бути розказана."
+          "title": "Сімейний концерт – Музична подорож до країни уяви",
+          "description": "Запрошуємо дітей та батьків до ОКіЕ СМ ВОЛЯ на «Музичну подорож до країни уяви» та спільне складання музичних казок."
         }
       },
       "admission": {
         "is_free": true
       },
-      "district": "Wola",
-      "updated_at": "2026-08-31T13:38:42.691001+00:00"
+      "district": "Bemowo",
+      "updated_at": "2026-09-01T11:52:05.659840+00:00"
     },
     "akademia-pani-nutki-ma-a-symfonia-natury-0-3-lata-2026-09-26T09:30:00+02:00": {
       "title": "Akademia Pani Nutki: Mała Symfonia Natury (0-3 lata)",
@@ -15824,6 +15819,584 @@
         "ticket_url": "https://bilety.io/QFcTL"
       },
       "updated_at": "2026-08-31T13:38:42.691372+00:00"
+    },
+    "jak-zosta-o-nierzem-armii-krajowej-cz-2-wyk-ad-juliana-borkowskiego-2026-09-05T16:00:00+02:00": {
+      "title": "Jak zostać żołnierzem Armii Krajowej cz.2. Wykład Juliana Borkowskiego",
+      "date": "2026-09-05T16:00:00+02:00",
+      "end_date": "2026-09-05T16:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Druga część wykładu poświęconego etapom, przez które musi przejść kandydat na żołnierza AK w strukturach konspiracji. Poruszone zostaną kwestie przygotowania do powstania powszechnego, obejmujące nauki o łączności, terenoznawstwo, znajomość obsługi broni. Przedstawione zostaną również sylwetki twórców regulaminów. Wykład będzie wzbogacony prezentacją multimedialną, w której znajdą się dokumenty archiwalne, fotografie i pamiątki, pochodzące między innymi ze zbiorów Muzeum Warszawy. Wykład poprowadzi Julian Borkowski, historyk, kustosz Działu Badań nad Warszawą w Muzeum Warszawy. Zajmuje się dziejami Warszawy w XX w., w jego zakresie zainteresowań znajdują się: propaganda antyhitlerowska w ramach akcji „N”, historia Armii Krajowej, dzieje warszawskiego harcerstwa ze szczególnym uwzględnieniem okresu okupacji i Powstania Warszawskiego. Współautor wystaw o tematyce warszawskiej, autor i współautor publikacji oraz artykułów. Odznaczony medalami „Pro Patria” i „Zasłużony Działacz Kultury”.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_973654229_original.jpg",
+      "location": {
+        "name": "Izba Pamięci przy Cmentarzu Powstańców Warszawy (Warszawa-Koło)",
+        "district": "Wola"
+      },
+      "url": "https://naszemiasto.pl/jak-zostac-zolnierzem-armii-krajowej-cz-2-wyklad-juliana-borkowskiego/kw/c5-3028549",
+      "source": "naszemiasto.pl",
+      "scrapped_url": "https://naszemiasto.pl/jak-zostac-zolnierzem-armii-krajowej-cz-2-wyklad-juliana-borkowskiego/kw/c5-3028549",
+      "scrapped_timestamp": "2026-09-01T11:50:40.384725+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 13,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Jak zostać żołnierzem Armii Krajowej cz.2. Wykład Juliana Borkowskiego",
+          "description": "Druga część wykładu poświęconego etapom, przez które musi przejść kandydat na żołnierza AK w strukturach konspiracji. Poruszone zostaną kwestie przygotowania do powstania powszechnego, obejmujące nauki o łączności, terenoznawstwo, znajomość obsługi broni. Przedstawione zostaną również sylwetki twórców regulaminów. Wykład będzie wzbogacony prezentacją multimedialną, w której znajdą się dokumenty archiwalne, fotografie i pamiątki, pochodzące między innymi ze zbiorów Muzeum Warszawy. Wykład poprowadzi Julian Borkowski, historyk, kustosz Działu Badań nad Warszawą w Muzeum Warszawy. Zajmuje się dziejami Warszawy w XX w., w jego zakresie zainteresowań znajdują się: propaganda antyhitlerowska w ramach akcji „N”, historia Armii Krajowej, dzieje warszawskiego harcerstwa ze szczególnym uwzględnieniem okresu okupacji i Powstania Warszawskiego. Współautor wystaw o tematyce warszawskiej, autor i współautor publikacji oraz artykułów. Odznaczony medalami „Pro Patria” i „Zasłużony Działacz Kultury”."
+        },
+        "en": {
+          "title": "How to Become a Soldier of the Home Army Part 2. Lecture by Julian Borkowski",
+          "description": "The second part of the lecture dedicated to the stages that a candidate for a soldier of the Home Army must go through within the structures of the conspiracy. Issues related to preparation for the general uprising will be discussed, including communication studies, terrain navigation, and knowledge of weapon handling. The profiles of the creators of the regulations will also be presented. The lecture will be enriched with a multimedia presentation featuring archival documents, photographs, and memorabilia, including items from the collections of the Museum of Warsaw. The lecture will be led by Julian Borkowski, a historian and curator of the Department of Research on Warsaw at the Museum of Warsaw. He focuses on the history of Warsaw in the 20th century, with interests including anti-Hitler propaganda within the framework of action 'N', the history of the Home Army, and the history of Warsaw scouting with particular emphasis."
+        },
+        "uk": {
+          "title": "Як стати солдатом Армії Крайової ч.2. Лекція Юліана Борковського",
+          "description": "Друга частина лекції, присвячена етапам, через які повинен пройти кандидат на солдата АК у структурах конспірації. Будуть розглянуті питання підготовки до повстання, що включають навчання з комунікацій, топографії, знання обслуговування зброї. Також будуть представлені постаті творців регламентів. Лекція буде доповнена мультимедійною презентацією, в якій міститимуться архівні документи, фотографії та пам'ятки, що походять, зокрема, зі зборів Музею Варшави. Лекцію проведе Юліан Борковський, історик, куратор Відділу досліджень Варшави в Музеї Варшави. Він займається історією Варшави XX століття, в його коло інтересів входять: антигітлерівська пропаганда в рамках акції «N», історія Армії Крайової, історія варшавського скаутства з особливим акцентом."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Wola",
+      "updated_at": "2026-09-01T11:52:05.659662+00:00"
+    },
+    "lekcje-j-zyka-polskiego-2026-09-11T16:00:00+02:00": {
+      "title": "Lekcje Języka Polskiego",
+      "date": "2026-09-11T16:00:00+02:00",
+      "end_date": "2026-09-11T16:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy wszystkie dzieci na wesołe spotkania z językiem polskim! Przygotowaliśmy mnóstwo ciekawych gier i historyjek, które pomogą oswoić język w najbardziej naturalny sposób przez śmiech i integrację. Spędźmy ten czas razem w super klimacie. Czekamy na Was, przyjdźcie koniecznie!",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_973113751_original.jpg",
+      "location": {
+        "name": "Pół na Puł (Warszawa-Grabówek)",
+        "district": "Mokotów"
+      },
+      "url": "https://naszemiasto.pl/lekcje-jezyka-polskiego/kw/c5-2981537",
+      "source": "naszemiasto.pl",
+      "scrapped_url": "https://naszemiasto.pl/lekcje-jezyka-polskiego/kw/c5-2981537",
+      "scrapped_timestamp": "2026-09-01T11:50:46.541681+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Games"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Lekcje Języka Polskiego",
+          "description": "Zapraszamy wszystkie dzieci na wesołe spotkania z językiem polskim! Przygotowaliśmy mnóstwo ciekawych gier i historyjek, które pomogą oswoić język w najbardziej naturalny sposób przez śmiech i integrację. Spędźmy ten czas razem w super klimacie. Czekamy na Was, przyjdźcie koniecznie!"
+        },
+        "en": {
+          "title": "Polish Language Lessons",
+          "description": "We invite all children to fun meetings with the Polish language! We have prepared a lot of interesting games and stories that will help familiarize them with the language in the most natural way through laughter and integration. Let's spend this time together in a great atmosphere. We are waiting for you, be sure to come!"
+        },
+        "uk": {
+          "title": "Уроки польської мови",
+          "description": "Запрошуємо всіх дітей на веселі зустрічі з польською мовою! Ми підготували безліч цікавих ігор та історій, які допоможуть освоїти мову в найбільш природний спосіб через сміх та інтеграцію. Проведемо цей час разом у супер атмосфері. Чекаємо на вас, приходьте обов'язково!"
+        }
+      },
+      "district": "Mokotów",
+      "updated_at": "2026-09-01T11:52:05.659691+00:00"
+    },
+    "szaza-gra-bolka-i-lolka-koncert-z-projekcj-filmu-animowanego-2026-09-12T16:00:00+02:00": {
+      "title": "SzaZa gra Bolka i Lolka - koncert z projekcją filmu animowanego",
+      "date": "2026-09-12T16:00:00+02:00",
+      "end_date": "2026-09-12T16:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "SzaZa gra Bolka i Lolka to wyjątkowe widowisko familijne, które łączy pokaz klasycznej polskiej animacji z koncertem muzyki improwizowanej na żywo. Artyści stworzą zupełnie nową oprawę muzyczną dla przygód Bolka i Lolka, zastępując oryginalną ścieżkę dźwiękową autorskimi aranżacjami. Koncert odbędzie się w ramach jubileuszu „10 lat BOK Głębocka 66”. To coś więcej niż seans filmowy, to niezwykła podróż w świat obrazu i dźwięku, która w naturalny i angażujący sposób wprowadza najmłodszych w świat muzyki. Dzieci będą mogły nie tylko śledzić przygody ulubionych bohaterów, ale także obserwować, jak na ich oczach powstaje muzyczna ilustracja filmu. To wyjątkowa lekcja wrażliwości, pokazująca, jak dźwięk może budować napięcie, wywoływać emocje i ożywiać obraz. Co usłyszymy? Zupełnie nową ścieżkę dźwiękową stworzoną przez Patryka Zakrockiego wraz z Pawłem Szamburskim. Artyści, wywodzący się ze sceny improwizowanej, zabiorą widzów w świat dźwięków wykraczających poza schematy. Dla dzieci będzie to okazja do poznania niezwykłych instrumentów i odkrycia, że muzyka może powstawać z niemal wszystkiego, co nas otacza. Dla dorosłych, sentymentalny powrót do ukochanych bajek z dzieciństwa, tym razem w świeżej, oryginalnej i ambitnej oprawie artystycznej. Zespół wystąpi w składzie: Paweł Szamburski – klarnet, elektronika Patryk Zakrocki – altówka, mbira, elektronika W programie pokaz czterech odcinków serialu animowanego Bolek i Lolek z muzyką na żywo: Wiosenne porządki Prima Aprilis Harcerska warta Na tropach Yeti Wstęp na koncert jest bezpłatny. Jedna wejściówka uprawnia do wejścia jednej osoby. Miejsca zostaną wskazane przez organizatora. Wejściówki będą dostępne od 28 sierpnia od godz. 17:00 w obu kasach BOK (ul. van Gogha 1 oraz ul. Głębocka 66). Wejściówki można odebrać w godzinach otwarcia kas. WAŻNE! Osoby spóźnione nie będą wpuszczane na salę widowiskową.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_974437547_original.jpg",
+      "location": {
+        "name": "Białołęcki Ośrodek Kultury (Głębocka) (Warszawa-Lewandów)",
+        "district": "Białołęka"
+      },
+      "url": "https://naszemiasto.pl/szaza-gra-bolka-i-lolka-koncert-z-projekcja-filmu-animowanego/kw/c5-3094295",
+      "source": "naszemiasto.pl",
+      "scrapped_url": "https://naszemiasto.pl/szaza-gra-bolka-i-lolka-koncert-z-projekcja-filmu-animowanego/kw/c5-3094295",
+      "scrapped_timestamp": "2026-09-01T11:50:49.824729+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Cinema",
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "SzaZa gra Bolka i Lolka - koncert z projekcją filmu animowanego",
+          "description": "SzaZa gra Bolka i Lolka to wyjątkowe widowisko familijne, które łączy pokaz klasycznej polskiej animacji z koncertem muzyki improwizowanej na żywo. Artyści stworzą zupełnie nową oprawę muzyczną dla przygód Bolka i Lolka, zastępując oryginalną ścieżkę dźwiękową autorskimi aranżacjami. Koncert odbędzie się w ramach jubileuszu „10 lat BOK Głębocka 66”. To coś więcej niż seans filmowy, to niezwykła podróż w świat obrazu i dźwięku, która w naturalny i angażujący sposób wprowadza najmłodszych w świat muzyki. Dzieci będą mogły nie tylko śledzić przygody ulubionych bohaterów, ale także obserwować, jak na ich oczach powstaje muzyczna ilustracja filmu. To wyjątkowa lekcja wrażliwości, pokazująca, jak dźwięk może budować napięcie, wywoływać emocje i ożywiać obraz. Co usłyszymy? Zupełnie nową ścieżkę dźwiękową stworzoną przez Patryka Zakrockiego wraz z Pawłem Szamburskim. Artyści, wywodzący się ze sceny improwizowanej, zabiorą widzów w świat dźwięków wykraczających poza schematy. Dla dzieci będzie to okazja do poznania niezwykłych instrumentów i odkrycia, że muzyka może powstawać z niemal wszystkiego, co nas otacza. Dla dorosłych, sentymentalny powrót do ukochanych bajek z dzieciństwa, tym razem w świeżej, oryginalnej i ambitnej oprawie artystycznej. Zespół wystąpi w składzie: Paweł Szamburski – klarnet, elektronika Patryk Zakrocki – altówka, mbira, elektronika W programie pokaz czterech odcinków serialu animowanego Bolek i Lolek z muzyką na żywo: Wiosenne porządki Prima Aprilis Harcerska warta Na tropach Yeti Wstęp na koncert jest bezpłatny. Jedna wejściówka uprawnia do wejścia jednej osoby. Miejsca zostaną wskazane przez organizatora. Wejściówki będą dostępne od 28 sierpnia od godz. 17:00 w obu kasach BOK (ul. van Gogha 1 oraz ul. Głębocka 66). Wejściówki można odebrać w godzinach otwarcia kas. WAŻNE! Osoby spóźnione nie będą wpuszczane na salę widowiskową."
+        },
+        "en": {
+          "title": "SzaZa Plays Bolek and Lolek - Concert with Animated Film Screening",
+          "description": "SzaZa Plays Bolek and Lolek is a unique family show that combines a screening of classic Polish animation with a live improvised music concert. The artists will create an entirely new musical backdrop for the adventures of Bolek and Lolek, replacing the original soundtrack with original arrangements. The concert is part of the anniversary celebration '10 Years of BOK Głębocka 66'. It is more than just a film screening; it is an extraordinary journey into the world of image and sound, naturally and engagingly introducing the youngest audiences to the world of music. Children will not only be able to follow the adventures of their favorite characters but also witness the creation of a musical illustration for the film right before their eyes. This is a unique lesson in sensitivity, demonstrating how sound can build tension, evoke emotions, and bring images to life. What will we hear? An entirely new soundtrack."
+        },
+        "uk": {
+          "title": "SzaZa гра Болка і Лолка - концерт з проекцією анімаційного фільму",
+          "description": "SzaZa гра Болка і Лолка - це унікальне сімейне шоу, яке поєднує показ класичної польської анімації з концертом живої імпровізованої музики. Артисти створять абсолютно новий музичний супровід для пригод Болка і Лолка, замінюючи оригінальну звукову доріжку авторськими аранжуваннями. Концерт відбудеться в рамках ювілею «10 років BOK Глибока 66». Це більше, ніж кінопоказ, це неймовірна подорож у світ образу і звуку, яка природним і захоплюючим чином вводить наймолодших у світ музики. Діти зможуть не лише стежити за пригодами улюблених героїв, але й спостерігати, як на їхніх очах створюється музична ілюстрація фільму. Це унікальний урок чутливості, що показує, як звук може створювати напругу, викликати емоції та оживляти образ. Що ми почуємо? Абсолютно нову звукову доріжку."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Białołęka",
+      "updated_at": "2026-09-01T11:52:05.659716+00:00"
+    },
+    "lekcje-j-zyka-polskiego-2026-09-18T16:00:00+02:00": {
+      "title": "Lekcje Języka Polskiego",
+      "date": "2026-09-18T16:00:00+02:00",
+      "end_date": "2026-09-18T16:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy wszystkie dzieci na wesołe spotkania z językiem polskim! Przygotowaliśmy mnóstwo ciekawych gier i historyjek, które pomogą oswoić język w najbardziej naturalny sposób przez śmiech i integrację. Spędźmy ten czas razem w super klimacie. Czekamy na Was, przyjdźcie koniecznie!",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_973113753_original.jpg",
+      "location": {
+        "name": "Pół na Puł (Warszawa-Grabówek)",
+        "district": "Mokotów"
+      },
+      "url": "https://naszemiasto.pl/lekcje-jezyka-polskiego/kw/c5-2981539",
+      "source": "naszemiasto.pl",
+      "scrapped_url": "https://naszemiasto.pl/lekcje-jezyka-polskiego/kw/c5-2981539",
+      "scrapped_timestamp": "2026-09-01T11:50:55.667301+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Games"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Lekcje Języka Polskiego",
+          "description": "Zapraszamy wszystkie dzieci na wesołe spotkania z językiem polskim! Przygotowaliśmy mnóstwo ciekawych gier i historyjek, które pomogą oswoić język w najbardziej naturalny sposób przez śmiech i integrację. Spędźmy ten czas razem w super klimacie. Czekamy na Was, przyjdźcie koniecznie!"
+        },
+        "en": {
+          "title": "Polish Language Lessons",
+          "description": "We invite all children to fun meetings with the Polish language! We have prepared a lot of interesting games and stories that will help familiarize them with the language in the most natural way through laughter and integration. Let's spend this time together in a great atmosphere. We are waiting for you, be sure to come!"
+        },
+        "uk": {
+          "title": "Уроки польської мови",
+          "description": "Запрошуємо всіх дітей на веселі зустрічі з польською мовою! Ми підготували безліч цікавих ігор та історій, які допоможуть освоїти мову в найбільш природний спосіб через сміх та інтеграцію. Проведемо цей час разом у супер атмосфері. Чекаємо на вас, приходьте обов'язково!"
+        }
+      },
+      "district": "Mokotów",
+      "updated_at": "2026-09-01T11:52:05.659735+00:00"
+    },
+    "back-to-school-z-bluey-galeria-omianki-zaprasza-na-pe-en-zabawy-powr-t-do-szko-y-2026-09-05T12:00:00+02:00": {
+      "title": "Back to school z Bluey. Galeria Łomianki zaprasza na pełen zabawy powrót do szkoły",
+      "date": "2026-09-05T12:00:00+02:00",
+      "end_date": "2026-09-05T12:00:00+02:00",
+      "startTimeKnown": true,
+      "url": "https://czasdzieci.pl/warszawa/wydarzenia/id,140917418.html",
+      "description": "Powrót do szkoły najlepiej zacząć z uśmiechem! Już w sobotę 5 września Galeria Łomianki zamieni się w pełną kolorów i dobrej energii przestrzeń inspirowaną światem popularnej kreskówki. Na uczestników czekać będą kreatywne zabawy, budowanie z klocków LEGO, spotkanie z Bluey, animacje i mnóstwo ruchu. Tego dnia odbędzie się również specjalna akcja, w ramach której za zakupy będzie można odebrać zestawy szkolnych gadżetów. Wszystkie atrakcje są bezpłatne. Świat Bluey będzie otwarty dla dzieci w godzinach 12:00–18:00. W programie zaplanowano wyjątkowe spotkanie z maskotką jednej z najpopularniejszych współczesnych kreskówek. Wesoła Bluey z radością zapozuje do zdjęć, przybije piątkę i zaprosi gości do wspólnej zabawy podczas atrakcji dopasowanych do różnych grup wiekowych. Najmłodsi będą mogli zajrzeć do strefy LEGO DUPLO – bezpiecznej przestrzeni do swobodnej, kreatywnej zabawy pod opieką animatorów. Starsze dzieci sprawdzą swoje konstrukcyjne umiejętności w strefie LEGO System, gdzie będą mogły budować z klasycznych klocków i podejmować tematyczne wyzwania inspirowane przygodami Bluey. Na fanów twórczej zabawy będzie czekać strefa plastyczna z kolorowankami z bohaterami Bluey. Z kolei basen z piłeczkami oraz multimedialna gra zapewnią chwilę swobodnej zabawy i relaksu. – Zapraszamy do świata Bluey całe rodziny. Chcemy, aby przygotowania do nowego roku szkolnego kojarzyły się dzieciom przede wszystkim z dobrą zabawą i pozytywnymi emocjami. Przygotowaliśmy wiele atrakcji, które umilą pierwsze dni września, a dodatkowo specjalna akcja ze szkolnymi gadżetami pozwoli praktycznie i przyjemnie rozpocząć przygotowania do szkoły – mówi Magdalena Glinka, Shopping Centre Manager Galerii Łomianki. Szkolne gadżety na dobry początek Podczas wydarzenia Galeria Łomianki przygotowała także specjalną akcję dla klientów. Osoby, które tego dnia zrobią zakupy w centrum, za minimum 200 zł (w tym maksymalnie 100 zł w Auchan), będą mogły odebrać zestaw szkolnych gadżetów. Wystarczy zachować paragon i zgłosić się z nim do stoiska promocyjnego. To propozycja, która łączy przyjemne z pożytecznym – podczas gdy najmłodsi będą odkrywać świat Bluey, rodzice będą mogli uzupełnić szkolną wyprawkę o praktyczne dodatki. Warto zajrzeć do Galerii Łomianki i rozpocząć nowy rok szkolny z uśmiechem i dobrą zabawą. Udział we wszystkich atrakcjach w ramach wydarzenia jest bezpłatny.",
+      "image": "https://czasdzieci.pl/pliki/ro_obr/2026/bluey_galeria_omianki-_1080x1080px_-.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "Galeria Łomianki"
+      },
+      "age_range": {
+        "min": 0,
+        "max": 18
+      },
+      "scrapped_url": "https://czasdzieci.pl/warszawa/wydarzenia/id,140917418.html",
+      "scrapped_timestamp": "2026-09-01T11:50:59.220138+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Games",
+        "Arts"
+      ],
+      "translations": {
+        "pl": {
+          "title": "Back to school z Bluey. Galeria Łomianki zaprasza na pełen zabawy powrót do szkoły",
+          "description": "Powrót do szkoły najlepiej zacząć z uśmiechem! Już w sobotę 5 września Galeria Łomianki zamieni się w pełną kolorów i dobrej energii przestrzeń inspirowaną światem popularnej kreskówki. Na uczestników czekać będą kreatywne zabawy, budowanie z klocków LEGO, spotkanie z Bluey, animacje i mnóstwo ruchu. Tego dnia odbędzie się również specjalna akcja, w ramach której za zakupy będzie można odebrać zestawy szkolnych gadżetów. Wszystkie atrakcje są bezpłatne. Świat Bluey będzie otwarty dla dzieci w godzinach 12:00–18:00. W programie zaplanowano wyjątkowe spotkanie z maskotką jednej z najpopularniejszych współczesnych kreskówek. Wesoła Bluey z radością zapozuje do zdjęć, przybije piątkę i zaprosi gości do wspólnej zabawy podczas atrakcji dopasowanych do różnych grup wiekowych. Najmłodsi będą mogli zajrzeć do strefy LEGO DUPLO – bezpiecznej przestrzeni do swobodnej, kreatywnej zabawy pod opieką animatorów. Starsze dzieci sprawdzą swoje konstrukcyjne umiejętności w strefie LEGO System, gdzie będą mogły budować z klasycznych klocków i podejmować tematyczne wyzwania inspirowane przygodami Bluey. Na fanów twórczej zabawy będzie czekać strefa plastyczna z kolorowankami z bohaterami Bluey. Z kolei basen z piłeczkami oraz multimedialna gra zapewnią chwilę swobodnej zabawy i relaksu. – Zapraszamy do świata Bluey całe rodziny. Chcemy, aby przygotowania do nowego roku szkolnego kojarzyły się dzieciom przede wszystkim z dobrą zabawą i pozytywnymi emocjami. Przygotowaliśmy wiele atrakcji, które umilą pierwsze dni września, a dodatkowo specjalna akcja ze szkolnymi gadżetami pozwoli praktycznie i przyjemnie rozpocząć przygotowania do szkoły – mówi Magdalena Glinka, Shopping Centre Manager Galerii Łomianki. Szkolne gadżety na dobry początek Podczas wydarzenia Galeria Łomianki przygotowała także specjalną akcję dla klientów. Osoby, które tego dnia zrobią zakupy w centrum, za minimum 200 zł (w tym maksymalnie 100 zł w Auchan), będą mogły odebrać zestaw szkolnych gadżetów. Wystarczy zachować paragon i zgłosić się z nim do stoiska promocyjnego. To propozycja, która łączy przyjemne z pożytecznym – podczas gdy najmłodsi będą odkrywać świat Bluey, rodzice będą mogli uzupełnić szkolną wyprawkę o praktyczne dodatki. Warto zajrzeć do Galerii Łomianki i rozpocząć nowy rok szkolny z uśmiechem i dobrą zabawą. Udział we wszystkich atrakcjach w ramach wydarzenia jest bezpłatny."
+        },
+        "en": {
+          "title": "Back to School with Bluey. Galeria Łomianki invites you to a fun-filled return to school",
+          "description": "The best way to start back to school is with a smile! On Saturday, September 5th, Galeria Łomianki will transform into a colorful and energetic space inspired by the world of the popular cartoon. Participants can look forward to creative activities, building with LEGO bricks, a meet-and-greet with Bluey, animations, and plenty of movement. On this day, there will also be a special promotion where shoppers can receive sets of school gadgets with their purchases. All attractions are free. The world of Bluey will be open for children from 12:00 PM to 6:00 PM. The program includes a special meeting with the mascot of one of the most popular contemporary cartoons. Cheerful Bluey will happily pose for photos, give high-fives, and invite guests to join in the fun with activities tailored to different age groups."
+        },
+        "uk": {
+          "title": "Повернення до школи з Bluey. Галерея Ломянки запрошує на повний веселощів повернення до школи",
+          "description": "Повернення до школи найкраще почати з усмішкою! Уже в суботу, 5 вересня, Галерея Ломянки перетвориться на яскравий і енергійний простір, натхненний світом популярного мультфільму. На учасників чекають креативні ігри, будівництво з LEGO, зустріч з Bluey, анімації та безліч руху. Цього дня також відбудеться спеціальна акція, в рамках якої за покупки можна буде отримати набори шкільних гаджетів. Усі атракції безкоштовні. Світ Bluey буде відкритий для дітей з 12:00 до 18:00. У програмі заплановано унікальну зустріч з маскотом одного з найпопулярніших сучасних мультфільмів. Весела Bluey з радістю позує для фото, дає п'ять і запрошує гостей до спільної гри під час атракцій, адаптованих для різних вікових груп."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-01T11:52:05.659765+00:00"
+    },
+    "zaj-cia-rytmiczne-dla-dzieci-w-wieku-20-miesi-cy-3-lat-2026-09-01T10:00:00+02:00": {
+      "title": "Zajęcia rytmiczne dla dzieci w wieku 20 miesięcy - 3 lat",
+      "date": "2026-09-01T10:00:00+02:00",
+      "end_date": "2026-09-01T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zajęcia obejmują różne gatunki muzyki, od klasycznej po współczesne standardy, aby dzieci mogły stawiać pierwsze kroki w świecie muzyki i uczyć się podstawowych postaw społecznych. Projekt realizowany w ramach Budżetu Obywatelskiego „Rytmika i spotkania z muzyką dla dzieci\" nr 1530. Uprzejmie prosimy o parkowanie na ul. Kleeberga.",
+      "url": "https://bemowskie.pl/wydarzenia/zajecia-rytmiczne-dla-dzieci-w-wieku-20-miesiecy-3-lat-1-09/",
+      "source": "bemowskie.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 1,
+        "max": 3
+      },
+      "location": {
+        "name": "Bemowskie Centrum Kultury, Miejsce Aktywności Lokalnej „Boernerowo\" · ul. Sobczaka 5",
+        "district": "Bemowo"
+      },
+      "image": "https://bemowskie.pl/wp-content/uploads/2026/05/rytmika.png",
+      "scrapped_url": "https://bemowskie.pl/wydarzenia/zajecia-rytmiczne-dla-dzieci-w-wieku-20-miesiecy-3-lat-1-09/",
+      "scrapped_timestamp": "2026-09-01T11:51:06.952834+00:00",
+      "translations": {
+        "pl": {
+          "title": "Zajęcia rytmiczne dla dzieci w wieku 20 miesięcy - 3 lat",
+          "description": "Zajęcia obejmują różne gatunki muzyki, od klasycznej po współczesne standardy, aby dzieci mogły stawiać pierwsze kroki w świecie muzyki i uczyć się podstawowych postaw społecznych. Projekt realizowany w ramach Budżetu Obywatelskiego „Rytmika i spotkania z muzyką dla dzieci\" nr 1530. Uprzejmie prosimy o parkowanie na ul. Kleeberga."
+        },
+        "en": {
+          "title": "Rhythmic Classes for Children Aged 20 Months to 3 Years",
+          "description": "The classes include various genres of music, from classical to contemporary standards, allowing children to take their first steps into the world of music and learn basic social skills. This project is implemented as part of the Civic Budget 'Rhythm and Meetings with Music for Children' no. 1530. We kindly ask you to park on Kleeberga Street."
+        },
+        "uk": {
+          "title": "Ритмічні заняття для дітей віком 20 місяців - 3 роки",
+          "description": "Заняття охоплюють різні жанри музики, від класичної до сучасних стандартів, щоб діти могли робити перші кроки у світі музики та вчитися основним соціальним навичкам. Проект реалізується в рамках Громадського бюджету \"Ритміка та зустрічі з музикою для дітей\" № 1530. Просимо паркуватися на вул. Кліберга."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-01T11:52:05.659792+00:00"
+    },
+    "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-09-01T11:00:00+02:00": {
+      "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
+      "date": "2026-09-01T11:00:00+02:00",
+      "end_date": "2026-09-01T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan.",
+      "url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#01-09",
+      "source": "bielany.um.warszawa.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location": {
+        "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
+        "district": "Bielany"
+      },
+      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
+      "scrapped_url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#01-09",
+      "scrapped_timestamp": "2026-09-01T11:51:09.766627+00:00",
+      "translations": {
+        "pl": {
+          "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
+          "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan."
+        },
+        "en": {
+          "title": "On the Carpet – Neighborhood Toddler Zone",
+          "description": "Every Tuesday, we roll out the carpet and open our space for spontaneous neighborhood gatherings for the youngest children and parents from Bielany."
+        },
+        "uk": {
+          "title": "Ми на килимку – сусідська зона для малюків",
+          "description": "Щовівторка ми розкриваємо килим і відкриваємо наш простір для спонтанних сусідських зустрічей для найменших дітей та батьків з Білянів."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bielany",
+      "updated_at": "2026-09-01T11:52:05.659815+00:00"
+    },
+    "literacki-piknik-kryminalny-dla-rodzin-sherlock-holmes-przenie-si-do-wiata-tajemnic-2026-09-27T15:00:00+02:00": {
+      "title": "Literacki Piknik Kryminalny dla rodzin „Sherlock Holmes - przenieś się do świata tajemnic\"",
+      "date": "2026-09-27T15:00:00+02:00",
+      "end_date": "2026-09-27T15:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Każdy uczestnik otrzyma „Książeczkę Tropów\" do zbierania pieczątek i wskazówek, z nagrodą na koniec. Wydarzenie organizowane wspólnie z Biblioteką Publiczną Dzielnicy Wawer. W przypadku złej pogody przeniesione do Kulturoteki.",
+      "url": "https://www.wck-wawer.pl/radosc/aktualnosci/archiwum-20262/sherlock-holmes-przenies-sie-do-swiata-tajemnic",
+      "source": "wck-wawer.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "age_range": {
+        "min": 0,
+        "max": 6
+      },
+      "location": {
+        "name": "Wawerskie Centrum Kultury, Filia Radość · ul. Powojowa 2",
+        "district": "Wawer"
+      },
+      "image": "https://www.wck-wawer.pl/assets/cache/images/aktualnosci-radosc/2026/IMG_0026-684x-904.jpg",
+      "scrapped_url": "https://www.wck-wawer.pl/radosc/aktualnosci/archiwum-20262/sherlock-holmes-przenies-sie-do-swiata-tajemnic",
+      "scrapped_timestamp": "2026-09-01T11:51:19.190031+00:00",
+      "category": "Storytime",
+      "translations": {
+        "pl": {
+          "title": "Literacki Piknik Kryminalny dla rodzin „Sherlock Holmes - przenieś się do świata tajemnic\"",
+          "description": "Każdy uczestnik otrzyma „Książeczkę Tropów\" do zbierania pieczątek i wskazówek, z nagrodą na koniec. Wydarzenie organizowane wspólnie z Biblioteką Publiczną Dzielnicy Wawer. W przypadku złej pogody przeniesione do Kulturoteki."
+        },
+        "en": {
+          "title": "Literary Criminal Picnic for Families \"Sherlock Holmes - Step into the World of Mysteries\"",
+          "description": "Each participant will receive a \"Clue Booklet\" to collect stamps and hints, with a prize at the end. The event is organized in collaboration with the Public Library of the Wawer District. In case of bad weather, it will be moved to the Culture Library."
+        },
+        "uk": {
+          "title": "Літературний кримінальний пікнік для родин «Шерлок Холмс - перенесіться у світ таємниць»",
+          "description": "Кожен учасник отримає «Книжечку слідів» для збору штампів і підказок, з нагородою наприкінці. Подія організована спільно з Публічною бібліотекою району Вавер. У разі поганої погоди перенесено до Культуротеки."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wawer",
+      "updated_at": "2026-09-01T11:52:05.659890+00:00"
+    },
+    "aktywnie-na-targ-wku-zaj-cia-z-jazdy-na-deskorolce-2026-09-02T16:00:00+02:00": {
+      "title": "Aktywnie na Targówku - zajęcia z jazdy na deskorolce",
+      "date": "2026-09-02T16:00:00+02:00",
+      "end_date": "2026-09-02T16:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🌬️ Wskakuj na deskę i poczuj wiatr we włosach! Już 2 września startują bezpłatne zajęcia z jazdy na deskorolce dla dzieci i młodzieży na Targówku! 🤩 Nieważne, czy stawiasz pierwsze kroki na desce, czy chcesz doskonalić swoje triki. Czeka na Ciebie świetna zabawa, aktywność na świeżym powietrzu 🌳 i mnóstwo sportowych emocji! 💪 📅 Zajęcia będą odbywać się w środy, czwartki i piątki w godzinach 16:00-19:00 na terenie skateparku przy Szkole Podstawowej nr 377, ul. Trocka 4. Grupy: Środy 16:00-17:00 (klasy 1-2) Środy 17:00-18:00 (klasy 3-4) Środy 18:00-19:00 (klasy 5-8) Czwartki 16:00-17:00 (klasy 1-2) Czwartki 17:00-18:00 (klasy 3-4) Czwartki 18:00-19:00 (klasy 5-8) Piątki 16:00-17:00 (klasy 1-2) Piątki 17:00-18:00 (klasy 3-4) Piątki 18:00-19:00 (klasy 5-8) 📝 Zapisy >> link 🎯 To doskonała okazja, by rozwijać koordynację, uczyć się nowych umiejętności i spędzać czas w gronie rówieśników. ❗Nie przegap! Zabierz deskę, dobry humor 😎 i dołącz do nas już od 2 września! 🤝 Zajęcia organizowane są przez Stowarzyszenie Sportowe Future w ramach programu „Aktywnie na Targówku” realizowanego z dotacji udzielonej dla organizacji pozarządowych na obszarze objętym Gminnym Programem Rewitalizacji m.st. Warszawy.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788186996.webp",
+      "location": {
+        "name": "Trocka 4",
+        "district": "Targówek"
+      },
+      "url": "https://www.facebook.com/photo/?fbid=1517349307099911&set=a.143006564534199",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo/?fbid=1517349307099911&set=a.143006564534199",
+      "scrapped_timestamp": "2026-09-01T11:51:22.481563+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Aktywnie na Targówku - zajęcia z jazdy na deskorolce",
+          "description": "🌬️ Wskakuj na deskę i poczuj wiatr we włosach! Już 2 września startują bezpłatne zajęcia z jazdy na deskorolce dla dzieci i młodzieży na Targówku! 🤩 Nieważne, czy stawiasz pierwsze kroki na desce, czy chcesz doskonalić swoje triki. Czeka na Ciebie świetna zabawa, aktywność na świeżym powietrzu 🌳 i mnóstwo sportowych emocji! 💪 📅 Zajęcia będą odbywać się w środy, czwartki i piątki w godzinach 16:00-19:00 na terenie skateparku przy Szkole Podstawowej nr 377, ul. Trocka 4. Grupy: Środy 16:00-17:00 (klasy 1-2) Środy 17:00-18:00 (klasy 3-4) Środy 18:00-19:00 (klasy 5-8) Czwartki 16:00-17:00 (klasy 1-2) Czwartki 17:00-18:00 (klasy 3-4) Czwartki 18:00-19:00 (klasy 5-8) Piątki 16:00-17:00 (klasy 1-2) Piątki 17:00-18:00 (klasy 3-4) Piątki 18:00-19:00 (klasy 5-8) 📝 Zapisy >> link 🎯 To doskonała okazja, by rozwijać koordynację, uczyć się nowych umiejętności i spędzać czas w gronie rówieśników. ❗Nie przegap! Zabierz deskę, dobry humor 😎 i dołącz do nas już od 2 września! 🤝 Zajęcia organizowane są przez Stowarzyszenie Sportowe Future w ramach programu „Aktywnie na Targówku” realizowanego z dotacji udzielonej dla organizacji pozarządowych na obszarze objętym Gminnym Programem Rewitalizacji m.st. Warszawy."
+        },
+        "en": {
+          "title": "Active in Targówek - Skateboarding Classes",
+          "description": "🌬️ Jump on the board and feel the wind in your hair! Starting September 2nd, free skateboarding classes for children and youth will be held in Targówek! 🤩 It doesn't matter if you're taking your first steps on the board or want to perfect your tricks. Great fun, outdoor activity 🌳, and plenty of sports excitement await you! 💪 📅 Classes will take place on Wednesdays, Thursdays, and Fridays from 4:00 PM to 7:00 PM at the skatepark near Primary School No. 377, ul. Trocka 4. Groups: Wednesdays 4:00 PM - 5:00 PM (grades 1-2) Wednesdays 5:00 PM - 6:00 PM (grades 3-4) Wednesdays 6:00 PM - 7:00 PM (grades 5-8) Thursdays 4:00 PM - 5:00 PM (grades 1-2) Thursdays 5:00 PM - 6:00 PM (grades 3-4) Thursdays 6:00 PM - 7:00 PM (grades 5-8) Fridays 4:00 PM - 5:00 PM (grades 1-2) Fridays 5:00 PM - 6:00 PM (grades 3-4) Fridays 6:00 PM - 7:00 PM (grades 5-8) 📝 Registration >> link 🎯 This is a great opportunity"
+        },
+        "uk": {
+          "title": "Активно на Тарговку - заняття з катання на скейтборді",
+          "description": "🌬️ Сідай на дошку і відчуй вітер у волоссі! Вже 2 вересня стартують безкоштовні заняття з катання на скейтборді для дітей та молоді на Тарговку! 🤩 Неважливо, чи ти робиш перші кроки на дошці, чи хочеш вдосконалити свої трюки. Тебе чекає чудове задоволення, активність на свіжому повітрі 🌳 і безліч спортивних емоцій! 💪 📅 Заняття відбуватимуться в середу, четвер і п'ятницю з 16:00 до 19:00 на території скейтпарку при Загальноосвітній школі № 377, вул. Троцька 4. Групи: Середи 16:00-17:00 (класи 1-2) Середи 17:00-18:00 (класи 3-4) Середи 18:00-19:00 (класи 5-8) Четверги 16:00-17:00 (класи 1-2) Четверги 17:00-18:00 (класи 3-4) Четверги 18:00-19:00 (класи 5-8) П'ятниці 16:00-17:00 (класи 1-2) П'ятниці 17:00-18:00 (класи 3-4) П'ятниці 18:00-19:00 (класи 5-8) 📝 Реєстрація >> посилання 🎯 Це чудова можливість"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Targówek",
+      "updated_at": "2026-09-01T11:52:05.659914+00:00"
+    },
+    "spektakl-wombat-nie-pi-teatru-sztuka-cia-a-2026-09-05T14:00:00+02:00": {
+      "title": "Spektakl „ Wombat nie śpi” Teatru Sztuka Ciała",
+      "date": "2026-09-05T14:00:00+02:00",
+      "end_date": "2026-09-05T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "5.09 (sobota), godz. 14.00 – Wombat nie śpi | Park im. Jana Pawła II | Klub Przy Lasku, ul. Lasek Brzozowy 2 | wstęp wolny! Wydarzenie odbywa się w ramach projektu „Latający Teatr Sztuka Ciała 2026 – Ursynów” współfinansowany przez m.st Warszawa, Dzielnicę Ursynów Czy u Was też poranki wyglądają jak kopia kopii? „Siup” z łóżka, czesanie, mycie zębów... Kochamy tę naszą rutynę, bo daje maluchom poczucie bezpieczeństwa, ale umówmy się – czasem i nam, i im brakuje w tym wszystkim iskierki magii. Tego błysku w oku, który mówi: „Mamo, patrz! To jest niesamowite!”. A czy zastanawialiście się kiedyś gdzie jest kraina Jaśniejącej Bieli? My też! Niestety jeszcze tego nie wiemy, ale z całą pewnością żyją tam Wombat i jego Mała Przyjaciółka. Otoczenie jest bezpiecznie znajome: siup-wyrko, dyndołyżki, grzebioszczotka i prysznicarium. Jednak wykonywane dzień po dniu czynności bywają nieznośnie powtarzalne. Jak by tu przyprawić rumieńce codzienności? Przypadkiem, tuż obok czai się tajemniczy świat Czerwonej Wieży pełen fascynujących przedmiotów, służących nie-wiadomo-czemu…",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1400.1788248655.webp",
+      "location": {
+        "name": "Park im. Jana Pawła II  Klub Przy Lasku, ul. Lasek Brzozowy 2",
+        "district": "Ursynów"
+      },
+      "url": "https://waw4free.pl/wydarzenie-158040-spektakl-wombat-nie-spi-teatru-sztuka-ciala",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://waw4free.pl/wydarzenie-158040-spektakl-wombat-nie-spi-teatru-sztuka-ciala",
+      "scrapped_timestamp": "2026-09-01T11:51:30.515503+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 6
+      },
+      "translations": {
+        "pl": {
+          "title": "Spektakl „ Wombat nie śpi” Teatru Sztuka Ciała",
+          "description": "5.09 (sobota), godz. 14.00 – Wombat nie śpi | Park im. Jana Pawła II | Klub Przy Lasku, ul. Lasek Brzozowy 2 | wstęp wolny! Wydarzenie odbywa się w ramach projektu „Latający Teatr Sztuka Ciała 2026 – Ursynów” współfinansowany przez m.st Warszawa, Dzielnicę Ursynów Czy u Was też poranki wyglądają jak kopia kopii? „Siup” z łóżka, czesanie, mycie zębów... Kochamy tę naszą rutynę, bo daje maluchom poczucie bezpieczeństwa, ale umówmy się – czasem i nam, i im brakuje w tym wszystkim iskierki magii. Tego błysku w oku, który mówi: „Mamo, patrz! To jest niesamowite!”. A czy zastanawialiście się kiedyś gdzie jest kraina Jaśniejącej Bieli? My też! Niestety jeszcze tego nie wiemy, ale z całą pewnością żyją tam Wombat i jego Mała Przyjaciółka. Otoczenie jest bezpiecznie znajome: siup-wyrko, dyndołyżki, grzebioszczotka i prysznicarium. Jednak wykonywane dzień po dniu czynności bywają nieznośnie powtarzalne. Jak by tu przyprawić rumieńce codzienności? Przypadkiem, tuż obok czai się tajemniczy świat Czerwonej Wieży pełen fascynujących przedmiotów, służących nie-wiadomo-czemu…"
+        },
+        "en": {
+          "title": "The Show 'Wombat Doesn't Sleep' by the Body Art Theatre",
+          "description": "September 5 (Saturday), 2:00 PM – Wombat Doesn't Sleep | John Paul II Park | Klub Przy Lasku, Lasek Brzozowy 2 | free admission! The event is part of the project 'Flying Theatre Body Art 2026 – Ursynów' co-financed by the City of Warsaw, Ursynów District. Do your mornings also look like a copy of a copy? 'Whoosh' out of bed, brushing hair, brushing teeth... We love our routine because it gives little ones a sense of security, but let's agree – sometimes both we and they miss a spark of magic in all of this. That sparkle in the eye that says: 'Mom, look! This is amazing!'. Have you ever wondered where the land of Shining White is? We have too! Unfortunately, we don't know yet, but for sure Wombat and his Little Friend live there. The surroundings are safely familiar: whoosh-bed, dindles..."
+        },
+        "uk": {
+          "title": "Спектакль „Вомбат не спить” Театру Сцена Тіла",
+          "description": "5.09 (субота), год. 14.00 – Вомбат не спить | Парк ім. Яна Павла II | Клуб При Ласку, вул. Ласек Брезовий 2 | вхід вільний! Подія відбувається в рамках проекту „Летючий Театр Сцена Тіла 2026 – Урсинов” за фінансової підтримки м. Варшава, Району Урсинов Чи у вас також ранки виглядають як копія копії? „Сіуп” з ліжка, розчісування, чистка зубів... Ми любимо цю нашу рутину, бо вона дає малюкам відчуття безпеки, але домовимося – іноді і нам, і їм не вистачає в усьому цьому іскри магії. Того блиску в оці, який говорить: „Мамо, дивись! Це неймовірно!”. А чи замислювалися ви колись, де знаходиться країна Яскравого Білу? Ми також! На жаль, ми ще цього не знаємо, але з упевненістю можемо сказати, що там живе Вомбат і його Мала Подруга. Оточення безпечно знайоме: сіуп-ліжко, диндоліжки,"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Ursynów",
+      "updated_at": "2026-09-01T11:52:05.659935+00:00"
+    },
+    "bezp-atne-zaj-cia-taneczne-dla-dzieci-4-8-lat-z-niepe-nosprawno-ciami-2026-09-07T17:00:00+02:00": {
+      "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
+      "date": "2026-09-07T17:00:00+02:00",
+      "end_date": "2026-09-07T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
+      "location": {
+        "name": "Powstańców Śląskich 126",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "scrapped_timestamp": "2026-09-01T11:51:37.389011+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 4,
+        "max": 8
+      },
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
+          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
+        },
+        "en": {
+          "title": "Free Dance Classes for Children Aged 4-8 with Disabilities",
+          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District. SCHEDULE: Mondays 5:00 PM - dance classes for children aged 4-8 Mondays 6:00 PM - dance classes for parents with children aged 3-8 Thursdays 12:00 PM - solo Latino Thursdays 1:00 PM - corrective gymnastics Location: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor) Registration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
+        },
+        "uk": {
+          "title": "Безкоштовні танцювальні заняття для дітей 4-8 років з інвалідністю",
+          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття частково фінансуються з коштів Району Бемово. ГРАФІК: Понеділки 17:00 - танцювальні заняття для дітей 4-8 років Понеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років Четверги 12:00 - латина соло Четверги 13:00 - гімнастика для покращення фізичної форми Локація: MAL Спотикальня, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх) Запис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-01T11:52:05.659959+00:00"
+    },
+    "bezp-atne-zaj-cia-taneczne-dla-rodzic-w-z-dzie-mi-3-8-lat-z-niepe-nosprawno-ciami-2026-09-07T18:00:00+02:00": {
+      "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
+      "date": "2026-09-07T18:00:00+02:00",
+      "end_date": "2026-09-07T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
+      "location": {
+        "name": "Powstańców Śląskich 126",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "scrapped_timestamp": "2026-09-01T11:51:42.670970+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 4,
+        "max": 8
+      },
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
+          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
+        },
+        "en": {
+          "title": "Free Dance Classes for Parents with Children Aged 3-8 with Disabilities",
+          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District. SCHEDULE: Mondays 5:00 PM - dance classes for children aged 4-8 Mondays 6:00 PM - dance classes for parents with children aged 3-8 Thursdays 12:00 PM - solo Latino Thursdays 1:00 PM - corrective gymnastics Location: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor) Registration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
+        },
+        "uk": {
+          "title": "Безкоштовні танцювальні заняття для батьків з дітьми 3-8 років з інвалідністю",
+          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово. ГАРМОНІЯ: Понеділки 17:00 - танцювальні заняття для дітей 4-8 років Понеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років Четверги 12:00 - латино соло Четверги 13:00 - гімнастика для покращення фізичної форми Локація: MAL Спотикальня, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх) Запис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-01T11:52:05.659994+00:00"
+    },
+    "dziesi-lat-spotka-z-kultur-bok-g-bocka-66-zaprasza-na-jubileuszowy-weekend-2026-09-11T19:00:00+02:00": {
+      "title": "Dziesięć lat spotkań z kulturą. BOK Głębocka 66 zaprasza na jubileuszowy weekend",
+      "date": "2026-09-11T19:00:00+02:00",
+      "end_date": "2026-09-11T19:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Trzy dni, trzy różne odsłony kultury i jedna okazja do wspólnego świętowania. Placówka Białołęckiego Ośrodka Kultury przy ul. Głębockiej 66 obchodzi 10-lecie działalności – od 11 do 13 września zaprasza mieszkańców Warszawy na jubileuszowy weekend pełen filmu, muzyki, spotkań z artystami, czyli wydarzeń dla całych rodzin. Trzydniowe obchody połączą różne formy spotkania z kulturą, a ich kulminacją będzie plenerowy koncert z udziałem znanych artystów polskiej sceny muzycznej. Dziesięć lat temu przy Głębockiej 66 pojawiło się nowe miejsce na kulturalnej mapie Białołęki. Od tamtej pory wydarzyły się tu tysiące koncertów, zajęć, spotkań i wspólnych chwil, których nie sposób zamknąć w liczbach. Historię BOK Głębocka 66 tworzą przede wszystkim ludzie – ci, którzy przez ostatnią dekadę przychodzili tu oglądać, słuchać, tworzyć, rozwijać swoje pasje i po prostu być razem. Dziś, po dziesięciu latach, BOK chce świętować ten jubileusz właśnie z nimi – mieszkańcami i wszystkimi, którzy przez lata współtworzyli charakter tego miejsca. Jubileuszowy weekend będzie odbiciem tego, czym Głębocka 66 żyła przez ostatnie lata: różnorodnością, spotkaniami i kulturą dostępną dla różnych pokoleń. Każdy z trzech dni przyniesie inny charakter i inne emocje, tworząc wspólnie program, który symbolicznie podsumuje pierwsze dziesięć lat działalności placówki. W piątkowy wieczór, 11 września o godz. 19:00, pierwszoplanową rolę zagra kino. W ramach cyklu „Rozmowy Łukasza Maciejewskiego” publiczność spotka się z Julią Pietruchą i Jakubem Gierszałem. Rozmowie prowadzonej przez krytyka filmowego, filmoznawcę i wykładowcę będzie towarzyszył pokaz filmu „Pojedynek”. Tegoroczna odsłona cyklu ma dodatkowy wymiar – wraz z 10-leciem BOK Głębocka 66 świętowane jest również pięciolecie Kina Głębocka 66. W sobotę kultura zmieni język i przemówi jednocześnie obrazem oraz dźwiękiem. 12 września o godz. 16:00 odbędzie się familijne widowisko „SzaZa gra Bolka i Lolka”. Cztery odcinki kultowej animacji zostaną pokazane bez oryginalnej ścieżki dźwiękowej, a ich nową muzyczną opowieść stworzą na żywo Paweł Szamburski i Patryk Zakrocki. Klarnet, altówka, mbira i elektronika nadadzą dobrze znanym historiom nowe brzmienie. Dla najmłodszych będzie to spotkanie z muzyką improwizowaną i możliwość zobaczenia, jak powstaje dźwięk. Dla dorosłych – powrót do jednej z najbardziej rozpoznawalnych polskich animacji, ale w zupełnie nowej interpretacji. Niedziela, 13 września, przyniesie muzyczny finał całego jubileuszowego weekendu. O godz. 19:00 rozpocznie się plenerowy koncert 10-lecia BOK Głębocka 66, podczas którego na jednej scenie spotkają się artyści reprezentujący różne pokolenia, gatunki i muzyczne doświadczenia. Wystąpią Bartek Królik, Natalia Kukulska, Klaudia Szafrańska, Paulina Przybysz, Łąki Łan, Alicja Szemplińska oraz Numer Raz. Soul i R&B będą przeplatać się z popem i elektroniką, alternatywą oraz hip-hopem. To zestawienie artystów, których łączy nie jeden gatunek, ale własny, rozpoznawalny język i doświadczenie zdobywane na bardzo różnych scenach. – Dziesięć lat działalności to dla nas ważny moment podsumowania, ale też impuls do dalszego rozwoju. Placówka BOK przy Głębockiej 66 przez lata rozwijała się razem z Białołęką i pozostawała otwarta na potrzeby mieszkańców, odbiorców w każdym wieku i różne sposoby uczestniczenia w kulturze. Chcemy zachować tę energię na kolejne lata, a jubileusz potraktować przede wszystkim jako okazję do spotkania. Dlatego zapraszamy mieszkańców i wszystkich, którzy przez ten czas byli lub chcą być częścią Głębockiej 66, do wspólnego świętowania – mówi Karolina Adelt-Jóźwiak, Dyrektor Białołęckiego Ośrodka Kultury. Obchody 10-lecia BOK Głębocka 66 odbywają się pod patronatem medialnym Radia Kolor oraz portalu Warszawa Nasze Miasto. Program jubileuszowego weekendu: 11 września, godz. 19:00 „Rozmowy Łukasza Maciejewskiego” | „Pojedynek” Goście: Julia Pietrucha i Jakub Gierszał Wstęp płatny, obowiązują bilety. Więcej informacji >> link 12 września, godz. 16:00 „SzaZa gra Bolka i Lolka” – koncert familijny z projekcją animacji Wstęp bezpłatny, obowiązują wejściówki. Więcej informacji >> link 13 września, godz. 19:00 Plenerowy koncert jubileuszowy 10-lecia BOK Głębocka 66 Wystąpią: Bartek Królik, Natalia Kukulska, Klaudia Szafrańska, Paulina Przybysz, Łąki Łan, Alicja Szemplińska oraz Numer Raz Wstęp wolny. Więcej informacji >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1900.1788252068.webp",
+      "location": {
+        "name": "ul. Głębocka 66, Białołęcki Ośrodek Kultury",
+        "district": "Bielany"
+      },
+      "url": "https://bok.waw.pl/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://bok.waw.pl/",
+      "scrapped_timestamp": "2026-09-01T11:51:46.987881+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Music & Dance",
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Dziesięć lat spotkań z kulturą. BOK Głębocka 66 zaprasza na jubileuszowy weekend",
+          "description": "Trzy dni, trzy różne odsłony kultury i jedna okazja do wspólnego świętowania. Placówka Białołęckiego Ośrodka Kultury przy ul. Głębockiej 66 obchodzi 10-lecie działalności – od 11 do 13 września zaprasza mieszkańców Warszawy na jubileuszowy weekend pełen filmu, muzyki, spotkań z artystami, czyli wydarzeń dla całych rodzin. Trzydniowe obchody połączą różne formy spotkania z kulturą, a ich kulminacją będzie plenerowy koncert z udziałem znanych artystów polskiej sceny muzycznej. Dziesięć lat temu przy Głębockiej 66 pojawiło się nowe miejsce na kulturalnej mapie Białołęki. Od tamtej pory wydarzyły się tu tysiące koncertów, zajęć, spotkań i wspólnych chwil, których nie sposób zamknąć w liczbach. Historię BOK Głębocka 66 tworzą przede wszystkim ludzie – ci, którzy przez ostatnią dekadę przychodzili tu oglądać, słuchać, tworzyć, rozwijać swoje pasje i po prostu być razem. Dziś, po dziesięciu latach, BOK chce świętować ten jubileusz właśnie z nimi – mieszkańcami i wszystkimi, którzy przez lata współtworzyli charakter tego miejsca. Jubileuszowy weekend będzie odbiciem tego, czym Głębocka 66 żyła przez ostatnie lata: różnorodnością, spotkaniami i kulturą dostępną dla różnych pokoleń. Każdy z trzech dni przyniesie inny charakter i inne emocje, tworząc wspólnie program, który symbolicznie podsumuje pierwsze dziesięć lat działalności placówki. W piątkowy wieczór, 11 września o godz. 19:00, pierwszoplanową rolę zagra kino. W ramach cyklu „Rozmowy Łukasza Maciejewskiego” publiczność spotka się z Julią Pietruchą i Jakubem Gierszałem. Rozmowie prowadzonej przez krytyka filmowego, filmoznawcę i wykładowcę będzie towarzyszył pokaz filmu „Pojedynek”. Tegoroczna odsłona cyklu ma dodatkowy wymiar – wraz z 10-leciem BOK Głębocka 66 świętowane jest również pięciolecie Kina Głębocka 66. W sobotę kultura zmieni język i przemówi jednocześnie obrazem oraz dźwiękiem. 12 września o godz. 16:00 odbędzie się familijne widowisko „SzaZa gra Bolka i Lolka”. Cztery odcinki kultowej animacji zostaną pokazane bez oryginalnej ścieżki dźwiękowej, a ich nową muzyczną opowieść stworzą na żywo Paweł Szamburski i Patryk Zakrocki. Klarnet, altówka, mbira i elektronika nadadzą dobrze znanym historiom nowe brzmienie. Dla najmłodszych będzie to spotkanie z muzyką improwizowaną i możliwość zobaczenia, jak powstaje dźwięk. Dla dorosłych – powrót do jednej z najbardziej rozpoznawalnych polskich animacji, ale w zupełnie nowej interpretacji. Niedziela, 13 września, przyniesie muzyczny finał całego jubileuszowego weekendu. O godz. 19:00 rozpocznie się plenerowy koncert 10-lecia BOK Głębocka 66, podczas którego na jednej scenie spotkają się artyści reprezentujący różne pokolenia, gatunki i muzyczne doświadczenia. Wystąpią Bartek Królik, Natalia Kukulska, Klaudia Szafrańska, Paulina Przybysz, Łąki Łan, Alicja Szemplińska oraz Numer Raz. Soul i R&B będą przeplatać się z popem i elektroniką, alternatywą oraz hip-hopem. To zestawienie artystów, których łączy nie jeden gatunek, ale własny, rozpoznawalny język i doświadczenie zdobywane na bardzo różnych scenach. – Dziesięć lat działalności to dla nas ważny moment podsumowania, ale też impuls do dalszego rozwoju. Placówka BOK przy Głębockiej 66 przez lata rozwijała się razem z Białołęką i pozostawała otwarta na potrzeby mieszkańców, odbiorców w każdym wieku i różne sposoby uczestniczenia w kulturze. Chcemy zachować tę energię na kolejne lata, a jubileusz potraktować przede wszystkim jako okazję do spotkania. Dlatego zapraszamy mieszkańców i wszystkich, którzy przez ten czas byli lub chcą być częścią Głębockiej 66, do wspólnego świętowania – mówi Karolina Adelt-Jóźwiak, Dyrektor Białołęckiego Ośrodka Kultury. Obchody 10-lecia BOK Głębocka 66 odbywają się pod patronatem medialnym Radia Kolor oraz portalu Warszawa Nasze Miasto. Program jubileuszowego weekendu: 11 września, godz. 19:00 „Rozmowy Łukasza Maciejewskiego” | „Pojedynek” Goście: Julia Pietrucha i Jakub Gierszał Wstęp płatny, obowiązują bilety. Więcej informacji >> link 12 września, godz. 16:00 „SzaZa gra Bolka i Lolka” – koncert familijny z projekcją animacji Wstęp bezpłatny, obowiązują wejściówki. Więcej informacji >> link 13 września, godz. 19:00 Plenerowy koncert jubileuszowy 10-lecia BOK Głębocka 66 Wystąpią: Bartek Królik, Natalia Kukulska, Klaudia Szafrańska, Paulina Przybysz, Łąki Łan, Alicja Szemplińska oraz Numer Raz Wstęp wolny. Więcej informacji >> link"
+        },
+        "en": {
+          "title": "Ten Years of Cultural Encounters. BOK Głębocka 66 Invites You to a Jubilee Weekend",
+          "description": "Three days, three different facets of culture, and one opportunity to celebrate together. The Białołęka Cultural Center at Głębocka 66 is celebrating its 10th anniversary – from September 11 to 13, it invites the residents of Warsaw to a jubilee weekend full of film, music, and meetings with artists, featuring events for the whole family. The three-day celebration will combine various forms of cultural engagement, culminating in an outdoor concert featuring well-known artists from the Polish music scene. Ten years ago, a new place appeared on the cultural map of Białołęka at Głębocka 66. Since then, thousands of concerts, activities, meetings, and shared moments have taken place here, which cannot be quantified. The history of BOK Głębocka 66 is primarily shaped by the people – those who have come here over the last decade."
+        },
+        "uk": {
+          "title": "Десять років зустрічей з культурою. BOK Глибока 66 запрошує на ювілейний вікенд",
+          "description": "Три дні, три різні прояви культури та одна нагода для спільного святкування. Установа Білоолеського культурного центру на вул. Глибокій 66 святкує 10-річчя своєї діяльності – з 11 по 13 вересня запрошує мешканців Варшави на ювілейний вікенд, наповнений фільмами, музикою, зустрічами з артистами, тобто подіями для цілих родин. Триденні святкування поєднають різні форми зустрічі з культурою, а їх кульмінацією стане виїзний концерт за участю відомих артистів польської музичної сцени. Десять років тому на Глибокій 66 з'явилося нове місце на культурній карті Білоолеська. Відтоді тут відбулося тисячі концертів, занять, зустрічей та спільних моментів, які неможливо втиснути в цифри. Історію BOK Глибока 66 створюють перш за все люди – ті, хто протягом останнього десятиліття приходять"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bielany",
+      "updated_at": "2026-09-01T11:52:05.660019+00:00"
+    },
+    "ba-o-wymy-lonym-ch-opcu-kadr-junior-spektakl-dla-dzieci-5-2026-09-06T12:00:00+02:00": {
+      "title": "Baśń o wymyślonym chłopcu | KADR JUNIOR | Spektakl dla dzieci (5+)",
+      "date": "2026-09-06T12:00:00+02:00",
+      "end_date": "2026-09-06T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Sala: Broadway Wstęp wolny, rezerwacja miejsc online lub w DK Kadr, od 20.08.2026 r. Czas trwania wydarzenia: ok. 50 minut Pełna humoru opowieść o odwadze i odkrywaniu siebie. Spektakl o wyborach i ich konsekwencjach, o sile i wpływie zła, o kształtowaniu własnego charakteru. Poznajcie Tadka – bohatera, który nie chce uczestniczyć w historii, którą dla niego przygotowano. Najchętniej nie robiłby nic. Na jego drodze pojawia się jednak pewien leniwiec, który pokazuje mu, że nawet nicnierobienie wymaga wysiłku. A kiedy ktoś potrzebuje pomocy, a w pobliżu czai się zło o wielu twarzach, trudno pozostać obojętnym. Spektakl wyróżniają imponujące lalki wielkości dorosłego człowieka, które tworzą niezwykły, baśniowy świat i zachwycają zarówno dzieci, jak i dorosłych. Grupa O!Teatr wywodzi się z krakowskiego środowiska artystyczno-kabaretowego, co wpłynęło na wypracowanie własnego charakterystycznego stylu i metody aktorskiej. Nie boją się improwizacji i interakcji z publicznością, zachęcając ją do aktywnego uczestnictwa w spektaklu. Spektakl przeznaczony dla dzieci w wieku 5+.",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Fa9565429-dea3-40b6-bf94-a3509f456d33.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/a9565429-dea3-40b6-bf94-a3509f456d33",
+      "source": "gojammin.com",
+      "district": "Mokotów",
+      "location": {
+        "name": "Wincentego Rzymowskiego 32, 02-697 Warszawa, Poland",
+        "district": "Mokotów"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/a9565429-dea3-40b6-bf94-a3509f456d33",
+      "scrapped_timestamp": "2026-09-01T11:51:55.722440+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 5,
+        "max": 13
+      },
+      "translations": {
+        "pl": {
+          "title": "Baśń o wymyślonym chłopcu | KADR JUNIOR | Spektakl dla dzieci (5+)",
+          "description": "Sala: Broadway Wstęp wolny, rezerwacja miejsc online lub w DK Kadr, od 20.08.2026 r. Czas trwania wydarzenia: ok. 50 minut Pełna humoru opowieść o odwadze i odkrywaniu siebie. Spektakl o wyborach i ich konsekwencjach, o sile i wpływie zła, o kształtowaniu własnego charakteru. Poznajcie Tadka – bohatera, który nie chce uczestniczyć w historii, którą dla niego przygotowano. Najchętniej nie robiłby nic. Na jego drodze pojawia się jednak pewien leniwiec, który pokazuje mu, że nawet nicnierobienie wymaga wysiłku. A kiedy ktoś potrzebuje pomocy, a w pobliżu czai się zło o wielu twarzach, trudno pozostać obojętnym. Spektakl wyróżniają imponujące lalki wielkości dorosłego człowieka, które tworzą niezwykły, baśniowy świat i zachwycają zarówno dzieci, jak i dorosłych. Grupa O!Teatr wywodzi się z krakowskiego środowiska artystyczno-kabaretowego, co wpłynęło na wypracowanie własnego charakterystycznego stylu i metody aktorskiej. Nie boją się improwizacji i interakcji z publicznością, zachęcając ją do aktywnego uczestnictwa w spektaklu. Spektakl przeznaczony dla dzieci w wieku 5+."
+        },
+        "en": {
+          "title": "The Tale of the Imaginary Boy | KADR JUNIOR | A Show for Children (5+)",
+          "description": "Room: Broadway Free admission, seat reservation online or at DK Kadr, starting from 20.08.2026. Duration of the event: approx. 50 minutes. A humorous story about courage and self-discovery. A performance about choices and their consequences, about the power and influence of evil, about shaping one's own character. Meet Tadek – a hero who does not want to participate in the story that has been prepared for him. He would rather do nothing. However, a certain sloth appears on his path, showing him that even doing nothing requires effort. And when someone needs help, and evil with many faces lurks nearby, it is hard to remain indifferent. The performance features impressive life-sized puppets that create an extraordinary, fairy-tale world and delight both children and adults. The O!Teatr group originates from the..."
+        },
+        "uk": {
+          "title": "Казка про вигаданого хлопчика | KADR JUNIOR | Вистава для дітей (5+)",
+          "description": "Зал: Бродвей Вхід вільний, бронювання місць онлайн або в ДК Кадр, з 20.08.2026 р. Тривалість події: близько 50 хвилин. Повна гумору оповідь про відвагу та відкриття себе. Вистава про вибори та їх наслідки, про силу та вплив зла, про формування власного характеру. Познайомтеся з Тадком – героєм, який не хоче брати участь в історії, яку для нього підготували. Найбільше він хотів би нічого не робити. Але на його шляху з'являється певний лінивий, який показує йому, що навіть нічого не роблення вимагає зусиль. А коли хтось потребує допомоги, а поруч підстерігає зло з багатьма обличчями, важко залишитися байдужим. Виставу вирізняють вражаючі ляльки розміром з дорослу людину, які створюють незвичайний, казковий світ і захоплюють як дітей, так і дорослих. Група O!Teatr походить з країни."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-01T11:52:05.660045+00:00"
     }
   }
 }

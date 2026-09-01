@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T11:15:02.623104+00:00",
+  "updated_at": "2026-09-01T12:01:08.469631+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-10-12T11:00:00+02:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -1851,6 +1851,48 @@
         "is_free": true
       },
       "updated_at": "2026-08-31T13:47:44.735145+00:00"
+    },
+    "warsztaty-dla-dzieci-ostr-w-lubra-ski-2026-09-12T12:00:00+02:00": {
+      "title": "Warsztaty dla dzieci - Ostrów Lubrański",
+      "date": "2026-09-12T12:00:00+02:00",
+      "end_date": "2026-09-12T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Organizatorzy zapraszają dzieci na podróż w świat historii Akademii Lubrańskiego! Podczas warsztatów uczestnicy wykonają własne tarcze herbowe, poznając przy okazji tajemnice dawnego Ostrowa Tumskiego. Na chętnych czeka również gra planszowa poświęcona Akademii Lubrańskiego i jej słynnych absolwentów. Udział w warsztatach bezplatny. _ Projekt dofinansowany ze środków budżetowych Samorządu Województwa Wielkopolskiego. Baner Pobierz baner (JPEG, 96,59 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,497638,with-dims,209,209.jpg?_sst=1788255998732",
+      "location": {
+        "name": "Muzeum Archidiecezjalne - Akademia Lubrańskiego, ul. Jana Lubrańskiego 1 (Ostrów Tumski)"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/warsztaty-dla-dzieci-ostrow-lubranski,185979.html",
+      "source": "poznan.pl",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/warsztaty-dla-dzieci-ostrow-lubranski,185979.html",
+      "scrapped_timestamp": "2026-09-01T12:00:59.900691+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Educational",
+        "Games"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Warsztaty dla dzieci - Ostrów Lubrański",
+          "description": "Organizatorzy zapraszają dzieci na podróż w świat historii Akademii Lubrańskiego! Podczas warsztatów uczestnicy wykonają własne tarcze herbowe, poznając przy okazji tajemnice dawnego Ostrowa Tumskiego. Na chętnych czeka również gra planszowa poświęcona Akademii Lubrańskiego i jej słynnych absolwentów. Udział w warsztatach bezplatny. _ Projekt dofinansowany ze środków budżetowych Samorządu Województwa Wielkopolskiego. Baner Pobierz baner (JPEG, 96,59 kB)"
+        },
+        "en": {
+          "title": "Workshops for Children - Ostrów Lubrański",
+          "description": "The organizers invite children on a journey into the history of the Lubrański Academy! During the workshops, participants will create their own coat of arms shields while discovering the secrets of the former Ostrów Tumski. There is also a board game dedicated to the Lubrański Academy and its famous alumni for those interested. Participation in the workshops is free of charge. _ The project is co-financed by the budgetary funds of the Greater Poland Voivodeship."
+        },
+        "uk": {
+          "title": "Майстер-класи для дітей - Острів Любранського",
+          "description": "Організатори запрошують дітей у подорож у світ історії Академії Любранського! Під час майстер-класів учасники виготовлять власні гербові щити, дізнаючись при цьому таємниці давнього Острова Тумського. На бажаючих також чекає настільна гра, присвячена Академії Любранського та її відомим випускникам. Участь у майстер-класах безкоштовна. _ Проект профінансовано з бюджетних коштів Самоврядування Військової області Великопольщі. Банер Завантажити банер (JPEG, 96,59 кБ)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-01T12:01:08.350610+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T11:28:01.118404+00:00",
+  "updated_at": "2026-09-02T12:12:14.971091+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -4660,6 +4660,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-02T11:19:00.673071+00:00"
+    },
+    "narodowe": {
+      "name": "Muzeum Narodowe",
+      "district": "Śródmieście",
+      "address": "Muzeum Narodowe",
+      "normalized": "narodowe",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-02T12:12:09.370832+00:00"
     }
   }
 }

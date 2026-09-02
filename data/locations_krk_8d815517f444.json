@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T12:01:12.000804+00:00",
+  "updated_at": "2026-09-02T11:28:02.594890+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3400,6 +3400,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-01T11:49:10.916470+00:00"
+    },
+    "szpital specjalistyczny im. stefana żeromskiego": {
+      "name": "ul. Odmętowa, Kraków",
+      "district": "Podgórze",
+      "address": "ul. Odmętowa, Kraków",
+      "normalized": "szpital specjalistyczny im. stefana żeromskiego",
+      "lat": 50.034,
+      "lng": 19.944,
+      "updated_at": "2026-09-02T10:50:14.753806+00:00"
+    },
+    "plac agnieszki jałbrzykowskiej": {
+      "name": "Plac Agnieszki Jałbrzykowskiej, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, Polska",
+      "district": "Podgórze",
+      "address": "Plac Agnieszki Jałbrzykowskiej, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, Polska",
+      "normalized": "plac agnieszki jałbrzykowskiej",
+      "lat": 50.0404857,
+      "lng": 19.9392138,
+      "updated_at": "2026-09-02T10:51:42.703749+00:00"
+    },
+    "park ratuszowy": {
+      "name": "Park Ratuszowy, Nowa Huta, Kraków, województwo małopolskie, Polska",
+      "district": "Nowa Huta",
+      "address": "Park Ratuszowy, Nowa Huta, Kraków, województwo małopolskie, Polska",
+      "normalized": "park ratuszowy",
+      "lat": 50.0756339,
+      "lng": 20.0397307,
+      "updated_at": "2026-09-02T10:52:40.736035+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:47:47.793499+00:00",
+  "updated_at": "2026-09-02T11:27:58.572358+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -689,6 +689,33 @@
       "lat": 54.3407565,
       "lng": 18.6575827,
       "updated_at": "2026-08-31T13:43:43.831934+00:00"
+    },
+    "sp 6": {
+      "name": "5, Lawendowe Wzgórze, Zakoniczyn, Ujeścisko - Łostowice, Gdańsk, województwo pomorskie, 80-175, Polska",
+      "district": "Górny Taras",
+      "address": "5, Lawendowe Wzgórze, Zakoniczyn, Ujeścisko - Łostowice, Gdańsk, województwo pomorskie, 80-175, Polska",
+      "normalized": "sp 6",
+      "lat": 54.326634,
+      "lng": 18.5668145,
+      "updated_at": "2026-09-02T11:24:10.315954+00:00"
+    },
+    "aleja zwycięstwa 15": {
+      "name": "Opera Bałtycka, 15, Aleja Zwycięstwa, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-219, Polska",
+      "district": "Wrzeszcz",
+      "address": "Opera Bałtycka, 15, Aleja Zwycięstwa, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-219, Polska",
+      "normalized": "aleja zwycięstwa 15",
+      "lat": 54.3726379,
+      "lng": 18.6251465,
+      "updated_at": "2026-09-02T11:24:24.578983+00:00"
+    },
+    "park ronalda reagana": {
+      "name": "Park imienia Ronalda Reagana, Przymorze Wielkie, Gdańsk, województwo pomorskie, Polska",
+      "district": "Oliwa",
+      "address": "Park imienia Ronalda Reagana, Przymorze Wielkie, Gdańsk, województwo pomorskie, Polska",
+      "normalized": "park ronalda reagana",
+      "lat": 54.4137038,
+      "lng": 18.6076777,
+      "updated_at": "2026-09-02T11:24:25.789952+00:00"
     }
   }
 }

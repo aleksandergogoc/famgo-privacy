@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T11:28:02.594890+00:00",
+  "updated_at": "2026-09-02T12:34:44.739678+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3427,6 +3427,15 @@
       "lat": 50.0756339,
       "lng": 20.0397307,
       "updated_at": "2026-09-02T10:52:40.736035+00:00"
+    },
+    "sztuki i techniki muzeum manggha": {
+      "name": "Muzeum Sztuki i Techniki Muzeum Manggha",
+      "district": "Stare Miasto",
+      "address": "Muzeum Sztuki i Techniki Muzeum Manggha",
+      "normalized": "sztuki i techniki muzeum manggha",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-02T12:34:40.736913+00:00"
     }
   }
 }

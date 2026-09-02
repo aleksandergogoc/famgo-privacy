@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T10:48:18.448331+00:00",
+  "updated_at": "2026-09-02T11:19:02.061118+00:00",
   "events": {
     "biegaj-po-woli-bieg-nocny-2026-09-19": {
       "scrapped_timestamp": "2026-06-23T18:57:17.708340+00:00",
@@ -3162,45 +3162,49 @@
       "updated_at": "2026-07-24T12:12:41.402281+00:00"
     },
     "nawzajem-elektroprzygoda-2026-09-19T10:30:00+02:00": {
-      "title": "NAWZAJEM! Elektroprzygoda",
+      "title": "NAWZAJEM! - Elektroprzygoda",
       "date": "2026-09-19T10:30:00+02:00",
       "end_date": "2026-09-19T10:30:00+02:00",
       "startTimeKnown": true,
-      "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Przestrzenie wewnątrz Centrum Lokalnego Żoliborz są bezprogowe i przyjazne sensorycznie, dostępne są słuchawki wyciszające oraz toaleta dla osób z niepełnosprawnościami.",
-      "url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-elektroprzygoda",
-      "source": "zoliborskidomkultury.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
+      "description": "warsztaty / sobota / 19.09 / 10:30-13:00 / zapisy >> link Warsztaty majsterkowania, podczas których sprawdzimy czy da się zrobić coś z niczego. Przy okazji zajrzymy do środka zepsutych urządzeń, sprawdzimy do czego służą ich części i czy na pewno nadają się tylko do wyrzucenia. Jako materiału użyjemy elektrośmieci, które przynieśli nasi sąsiedzi. Odzyskane elementy zostaną wykorzystane twórczo - powstaną z nich figurki robotów. NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie” i jest finansowany ze środków m.st. Warszawy. Dojazd: - Najbliższy przystanek: Rydygiera (autobusy) – ok. 2 min pieszo, lub Plac Grunwaldzki (tramwaje, autobusy) ok 4 min pieszo - Dojście płaskie, chodnikiem, przed CLŻ droga prosta z drobnym żwirem - Dostępne miejsca parkingowe wzdłuż ul. Rydygiera, w tym miejsce dla osób z niepełnosprawnością - Na budynku Centrum Lokalnego Żoliborz funkcjonuje znacznik ToTuPoint, Dostępność: - w CLŻ jest toaleta dla osób z niepełnosprawnościami - przestrzenie wewnątrz CLŻ są bezprogowe, przyjazne sensorycznie - dostępne na miejscu słuchawki wyciszające. Szczegóły dostępności w Deklaracji Dostępności link Wszystkie wydarzenia w CLŻ są bezpłatne. Na miejscu czeka na Was herbata i kawa, ale miło nam będzie, jeśli przyniesiecie coś do wspólnych zapasów. Zastrzegamy sobie możliwość wprowadzania zmian w harmonogramie lub odwołania wydarzenia.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1030.1784913580.webp",
       "location": {
-        "name": "Żoliborski Dom Kultury, Centrum Lokalne Żoliborz · ul. Ludwika Rydygiera 6b",
+        "name": "Centrum Lokalne Żoliborz, ul. Rydygiera 6b",
         "district": "Żoliborz"
       },
-      "image": "https://api.zdk.teapp.pl/uploads/2026-07/images/1783684547487_kto-w-kompoacie-piszczy-12.jpg",
-      "scrapped_url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-elektroprzygoda",
-      "scrapped_timestamp": "2026-09-01T11:51:13.847799+00:00",
+      "url": "https://fb.me/e/8817DRlO6",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://fb.me/e/8817DRlO6",
+      "scrapped_timestamp": "2026-09-02T11:18:38.130544+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "STEM",
+        "Arts"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
       "translations": {
         "pl": {
-          "title": "NAWZAJEM! Elektroprzygoda",
-          "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Przestrzenie wewnątrz Centrum Lokalnego Żoliborz są bezprogowe i przyjazne sensorycznie, dostępne są słuchawki wyciszające oraz toaleta dla osób z niepełnosprawnościami."
+          "title": "NAWZAJEM! - Elektroprzygoda",
+          "description": "warsztaty / sobota / 19.09 / 10:30-13:00 / zapisy >> link Warsztaty majsterkowania, podczas których sprawdzimy czy da się zrobić coś z niczego. Przy okazji zajrzymy do środka zepsutych urządzeń, sprawdzimy do czego służą ich części i czy na pewno nadają się tylko do wyrzucenia. Jako materiału użyjemy elektrośmieci, które przynieśli nasi sąsiedzi. Odzyskane elementy zostaną wykorzystane twórczo - powstaną z nich figurki robotów. NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie” i jest finansowany ze środków m.st. Warszawy. Dojazd: - Najbliższy przystanek: Rydygiera (autobusy) – ok. 2 min pieszo, lub Plac Grunwaldzki (tramwaje, autobusy) ok 4 min pieszo - Dojście płaskie, chodnikiem, przed CLŻ droga prosta z drobnym żwirem - Dostępne miejsca parkingowe wzdłuż ul. Rydygiera, w tym miejsce dla osób z niepełnosprawnością - Na budynku Centrum Lokalnego Żoliborz funkcjonuje znacznik ToTuPoint, Dostępność: - w CLŻ jest toaleta dla osób z niepełnosprawnościami - przestrzenie wewnątrz CLŻ są bezprogowe, przyjazne sensorycznie - dostępne na miejscu słuchawki wyciszające. Szczegóły dostępności w Deklaracji Dostępności link Wszystkie wydarzenia w CLŻ są bezpłatne. Na miejscu czeka na Was herbata i kawa, ale miło nam będzie, jeśli przyniesiecie coś do wspólnych zapasów. Zastrzegamy sobie możliwość wprowadzania zmian w harmonogramie lub odwołania wydarzenia."
         },
         "en": {
-          "title": "TOGETHER! Electro-adventure",
-          "description": "TOGETHER! is a project promoting ecological attitudes by developing the idea of a second life and circular economy among residents. We want to show that items do not have to become waste immediately – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. This is a space where we 'rescue items' from being thrown away, but we also build something more – we learn cooperation, knowledge exchange, and mutual support. It can be said that in this process, we repair not only items but also relationships. The spaces inside the Local Center Żoliborz are barrier-free and sensory-friendly, with noise-canceling headphones and accessible restrooms for people with disabilities."
+          "title": "TOGETHER! - Electro Adventure",
+          "description": "workshop / Saturday / 19.09 / 10:30-13:00 / registration >> link A DIY workshop where we will check if it's possible to make something out of nothing. Along the way, we will take a look inside broken devices, examine what their parts are for, and whether they are really only fit for disposal. We will use electronic waste brought by our neighbors as material. The recovered elements will be creatively used to create robot figurines. TOGETHER! is a project promoting ecological attitudes by developing the idea of a second life and circular economy among residents. We want to show that items do not have to immediately become waste – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. This is a space where we 'save'"
         },
         "uk": {
-          "title": "НАВЗАЄМ! Електропригода",
-          "description": "НАВЗАЄМ! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами - їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому ми «рятуємо предмети» від викидання, але також будуємо щось більше - навчаємося співпраці, обміну знаннями та взаємної підтримки. Можна сказати, що в цьому процесі ми ремонтуємо не лише предмети, але й стосунки. Простори всередині Центру місцевого Жолібожа безпорогові та чутливі до сприйняття, доступні навушники для приглушення звуку та туалет для осіб з інвалідністю."
+          "title": "NAWZAJEM! - Електропригода",
+          "description": "майстер-класи / субота / 19.09 / 10:30-13:00 / реєстрація >> посилання Майстер-класи з ремонту, під час яких ми перевіримо, чи можна зробити щось з нічого. Заодно заглянемо всередину зламаних пристроїв, перевіримо, для чого слугують їхні частини і чи дійсно вони підходять лише для викидання. Як матеріал ми використаємо електронне сміття, яке принесли наші сусіди. Відновлені елементи будуть використані творчо - з них створять фігурки роботів. NAWZAJEM! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами - їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому \"рятуємо"
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Żoliborz",
-      "updated_at": "2026-09-01T11:52:05.659861+00:00"
+      "updated_at": "2026-09-02T11:19:01.845816+00:00"
     },
     "bajka-muzyczna-na-orkiestr-ch-r-i-solist-w-2026-09-19T12:00:00+02:00": {
       "title": "Bajka muzyczna na orkiestrę chór i solistów",
@@ -3453,44 +3457,45 @@
       "updated_at": "2026-08-05T09:03:08.496374+00:00"
     },
     "koncert-rodzinny-muzyczna-podr-do-krainy-wyobra-ni-2026-09-05T12:00:00+02:00": {
-      "title": "Koncert rodzinny – Muzyczna podróż do krainy wyobraźni",
+      "title": "Koncert rodzinny - Muzyczna podróż do krainy wyobraźni",
       "date": "2026-09-05T12:00:00+02:00",
       "end_date": "2026-09-05T12:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Zapraszamy dzieci i rodziców do OKiE SM WOLA na „Muzyczną podróż do krainy wyobraźni” i wspólne układanie muzycznych bajek.",
-      "url": "https://okie.smwola.com.pl/koncert-rodzinny-muzyczna-podroz-do-krainy-wyobrazni/",
-      "source": "okie.smwola.com.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
+      "description": "Zapraszamy dzieci i ich rodziców na opowiadanie muzycznych bajek i „Muzyczną podróż do krainy wyobraźni\". Tym razem spotkamy się w warszawskiej dzielnicy Wola w sobotę 05 września br. o godz. 12:00 w OKiE SM WOLA - Ośrodku Kultury i Edukacji Spółdzielni Mieszkaniowej Wola przy ul. Powstańców Śląskich 108A. Będzie to interaktywny koncert rodzinny (ok. 50 minut, dla dzieci 5+), który opiera się na historii opowiadanej przez aktora i publiczność, przy akompaniamencie improwizujących muzyków. Będziemy wspólnie wędrowali przez różne krainy wyobraźni, spotykając baśniowe postaci. Być może będziemy walczyli z potworami lub odkrywali skarby. Wszystko zależy od uczestników koncertu i ich wyobraźni. Każdy najdziwniejszy i najbardziej zwariowany pomysł podsunięty przez dzieci może zostać opowiedziany i zagrany, ponieważ będzie nam towarzyszyła powstająca na żywo muzyka, podkreślająca emocje i wprowadzająca w atmosferę tworzonych historii. Ze swojej strony obiecujemy mnóstwo improwizacji i dobrej zabawy. A jakie przygody nas czekają? Tego dowiemy się na koncercie. Udział w wydarzeniu jest bezpłatny. Do zobaczenia! * Koncert odbywa się w ramach projektu PTMW „Warszawa kreatywna\" i jest współfinansowany ze środków Miasta Stołecznego Warszawy. ** Zapraszamy również melomanów ze specjalnymi potrzebami. Prosimy o informację na adres ptmw@epistola.pl , jeśli będzie potrzebna pomoc w Waszym uczestnictwie w koncercie. Chętnie pomożemy. Organizator: Polskie Towarzystwo Muzyki Współczesnej | Współfinansowanie: Miasto Stołeczne Warszawa | Partnerzy: OKiE SM WOLA - Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola, Agencja Muzyczna Art Deco Group | Patronat medialny: Polskie Radio RDC, POLMIC.PL - Polskie Centrum Informacji Muzycznej, waw4free.pl, cameralmusic.pl i wolnasobota.pl",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1786706503.webp",
+      "location": {
+        "name": "OKiE SM WOLA, ul. Powstańców Śląskich 108A",
+        "district": "Wola"
+      },
+      "url": "https://www.facebook.com/events/2869997810009704/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/2869997810009704/",
+      "scrapped_timestamp": "2026-09-02T11:18:03.695845+00:00",
       "category": "Music & Dance",
       "age_range": {
-        "min": 0,
-        "max": 6
+        "min": 5,
+        "max": 13
       },
-      "location": {
-        "name": "OKiE SM WOLA · ul. Powstańców Śląskich 108A lok. 22",
-        "district": "Bemowo"
-      },
-      "scrapped_url": "https://okie.smwola.com.pl/koncert-rodzinny-muzyczna-podroz-do-krainy-wyobrazni/",
-      "scrapped_timestamp": "2026-09-01T11:51:11.709814+00:00",
       "translations": {
         "pl": {
-          "title": "Koncert rodzinny – Muzyczna podróż do krainy wyobraźni",
-          "description": "Zapraszamy dzieci i rodziców do OKiE SM WOLA na „Muzyczną podróż do krainy wyobraźni” i wspólne układanie muzycznych bajek."
+          "title": "Koncert rodzinny - Muzyczna podróż do krainy wyobraźni",
+          "description": "Zapraszamy dzieci i ich rodziców na opowiadanie muzycznych bajek i „Muzyczną podróż do krainy wyobraźni\". Tym razem spotkamy się w warszawskiej dzielnicy Wola w sobotę 05 września br. o godz. 12:00 w OKiE SM WOLA - Ośrodku Kultury i Edukacji Spółdzielni Mieszkaniowej Wola przy ul. Powstańców Śląskich 108A. Będzie to interaktywny koncert rodzinny (ok. 50 minut, dla dzieci 5+), który opiera się na historii opowiadanej przez aktora i publiczność, przy akompaniamencie improwizujących muzyków. Będziemy wspólnie wędrowali przez różne krainy wyobraźni, spotykając baśniowe postaci. Być może będziemy walczyli z potworami lub odkrywali skarby. Wszystko zależy od uczestników koncertu i ich wyobraźni. Każdy najdziwniejszy i najbardziej zwariowany pomysł podsunięty przez dzieci może zostać opowiedziany i zagrany, ponieważ będzie nam towarzyszyła powstająca na żywo muzyka, podkreślająca emocje i wprowadzająca w atmosferę tworzonych historii. Ze swojej strony obiecujemy mnóstwo improwizacji i dobrej zabawy. A jakie przygody nas czekają? Tego dowiemy się na koncercie. Udział w wydarzeniu jest bezpłatny. Do zobaczenia! * Koncert odbywa się w ramach projektu PTMW „Warszawa kreatywna\" i jest współfinansowany ze środków Miasta Stołecznego Warszawy. ** Zapraszamy również melomanów ze specjalnymi potrzebami. Prosimy o informację na adres ptmw@epistola.pl , jeśli będzie potrzebna pomoc w Waszym uczestnictwie w koncercie. Chętnie pomożemy. Organizator: Polskie Towarzystwo Muzyki Współczesnej | Współfinansowanie: Miasto Stołeczne Warszawa | Partnerzy: OKiE SM WOLA - Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola, Agencja Muzyczna Art Deco Group | Patronat medialny: Polskie Radio RDC, POLMIC.PL - Polskie Centrum Informacji Muzycznej, waw4free.pl, cameralmusic.pl i wolnasobota.pl"
         },
         "en": {
-          "title": "Family Concert – Musical Journey to the Land of Imagination",
-          "description": "We invite children and parents to OKiE SM WOLA for a 'Musical Journey to the Land of Imagination' and to create musical fairy tales together."
+          "title": "Family Concert - A Musical Journey to the Land of Imagination",
+          "description": "We invite children and their parents to a storytelling musical adventure and 'A Musical Journey to the Land of Imagination.' This time we will meet in the Wola district of Warsaw on Saturday, September 5th at 12:00 PM at OKiE SM WOLA - the Cultural and Educational Center of the Wola Housing Cooperative at 108A Powstańców Śląskich Street. It will be an interactive family concert (approximately 50 minutes, for children aged 5 and up), based on a story told by an actor and the audience, accompanied by improvising musicians. We will wander together through various lands of imagination, meeting fairy-tale characters. Perhaps we will fight monsters or discover treasures. Everything depends on the participants of the concert and their imagination. Every strangest and most whimsical idea suggested by the children can be told."
         },
         "uk": {
-          "title": "Сімейний концерт – Музична подорож до країни уяви",
-          "description": "Запрошуємо дітей та батьків до ОКіЕ СМ ВОЛЯ на «Музичну подорож до країни уяви» та спільне складання музичних казок."
+          "title": "Сімейний концерт - Музична подорож до країни уяви",
+          "description": "Запрошуємо дітей та їхніх батьків на оповідання музичних казок та «Музичну подорож до країни уяви». Цього разу ми зустрінемося у варшавському районі Вола в суботу 5 вересня о 12:00 в OKiE SM WOLA - Центрі культури та освіти житлового кооперативу Вола за адресою вул. Повстанців Сілезьких 108А. Це буде інтерактивний сімейний концерт (приблизно 50 хвилин, для дітей 5+), який базується на історії, що розповідається актором та публікою, під акомпанемент імпровізуючих музикантів. Ми разом подорожуватимемо через різні країни уяви, зустрічаючи казкових персонажів. Можливо, ми будемо боротися з монстрами або відкривати скарби. Все залежить від учасників концерту та їхньої уяви. Кожна найдивніша та найбожевільніша ідея, запропонована дітьми, може бути розказана."
         }
       },
       "admission": {
         "is_free": true
       },
-      "district": "Bemowo",
-      "updated_at": "2026-09-01T11:52:05.659840+00:00"
+      "district": "Wola",
+      "updated_at": "2026-09-02T11:19:01.845689+00:00"
     },
     "akademia-pani-nutki-ma-a-symfonia-natury-0-3-lata-2026-09-26T09:30:00+02:00": {
       "title": "Akademia Pani Nutki: Mała Symfonia Natury (0-3 lata)",
@@ -16021,6 +16026,527 @@
         "is_free": true
       },
       "updated_at": "2026-09-01T11:52:05.660045+00:00"
+    },
+    "oprowadzanie-dla-rodzic-w-ma-ych-dzieci-2026-09-02T12:15:00+02:00": {
+      "title": "Oprowadzanie dla rodziców małych dzieci",
+      "date": "2026-09-02T12:15:00+02:00",
+      "end_date": "2026-09-02T12:15:00+02:00",
+      "startTimeKnown": true,
+      "description": "Spotkania odbywają się w spokojnej, przyjaznej atmosferze – bez pośpiechu, z uważnością na potrzeby uczestników w każdym wieku. Pierwsza część to oprowadzanie po wystawie w tempie dostosowanym do rytmu osób z wózkami, nosidłami i maluchami na rękach. Dzięki systemowi tour guide można swobodnie słuchać przewodniczki, nawet gdy trzeba na chwilę się zatrzymać, nakarmić dziecko, przewinąć je lub po prostu odpocząć. Druga część odbywa się w przestrzeni edukacyjnej MSN – to czas na rozmowę, zadawanie pytań, dzielenie się wrażeniami lub udział w krótkim miniwarsztacie. Można też po prostu pobyć razem z dzieckiem, w swoim tempie i bez presji. To propozycja dla wszystkich, którzy chcą zanurzyć się w świat sztuki z uważnością na potrzeby najmłodszych – i tych, którzy chcą po prostu miło spędzić czas i nawiązać nowe znajomości. Wiemy, że dzieci czasem płaczą, zasypiają, potrzebują przewinięcia czy karmienia – to naturalna część spotkania. Na miejscu dostępne są: winda, pokój rodzinny z przewijakiem i fotelem do karmienia, a także maty i zabawki w przestrzeni edukacyjnej.",
+      "url": "https://artmuseum.pl/wydarzenia/oprowadzanie-dla-rodzicow-malych-dzieci-2?term=01a000bd-2a3e-726c-a02c-7332db80e7bd",
+      "source": "artmuseum.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Educational",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location": {
+        "name": "Muzeum Sztuki Nowoczesnej, Zbiórka przy głównej klatce schodowej, naprzeciwko Audytorium · ul. Marszałkowska 103",
+        "district": "Śródmieście"
+      },
+      "image": "https://api-sf.artmuseum.pl/uploads/files/6a390d4238ae0016341632.jpg",
+      "scrapped_url": "https://artmuseum.pl/wydarzenia/oprowadzanie-dla-rodzicow-malych-dzieci-2?term=01a000bd-2a3e-726c-a02c-7332db80e7bd",
+      "scrapped_timestamp": "2026-09-02T11:17:36.984842+00:00",
+      "translations": {
+        "pl": {
+          "title": "Oprowadzanie dla rodziców małych dzieci",
+          "description": "Spotkania odbywają się w spokojnej, przyjaznej atmosferze – bez pośpiechu, z uważnością na potrzeby uczestników w każdym wieku. Pierwsza część to oprowadzanie po wystawie w tempie dostosowanym do rytmu osób z wózkami, nosidłami i maluchami na rękach. Dzięki systemowi tour guide można swobodnie słuchać przewodniczki, nawet gdy trzeba na chwilę się zatrzymać, nakarmić dziecko, przewinąć je lub po prostu odpocząć. Druga część odbywa się w przestrzeni edukacyjnej MSN – to czas na rozmowę, zadawanie pytań, dzielenie się wrażeniami lub udział w krótkim miniwarsztacie. Można też po prostu pobyć razem z dzieckiem, w swoim tempie i bez presji. To propozycja dla wszystkich, którzy chcą zanurzyć się w świat sztuki z uważnością na potrzeby najmłodszych – i tych, którzy chcą po prostu miło spędzić czas i nawiązać nowe znajomości. Wiemy, że dzieci czasem płaczą, zasypiają, potrzebują przewinięcia czy karmienia – to naturalna część spotkania. Na miejscu dostępne są: winda, pokój rodzinny z przewijakiem i fotelem do karmienia, a także maty i zabawki w przestrzeni edukacyjnej."
+        },
+        "en": {
+          "title": "Guided Tour for Parents with Young Children",
+          "description": "The meetings take place in a calm, friendly atmosphere – without rush, with attention to the needs of participants of all ages. The first part is a guided tour of the exhibition at a pace suited to those with strollers, carriers, and little ones in their arms. Thanks to the tour guide system, you can listen to the guide freely, even when you need to stop for a moment to feed, change, or simply rest with your child. The second part takes place in the educational space of MSN – this is a time for conversation, asking questions, sharing impressions, or participating in a short mini-workshop. You can also just spend time together with your child, at your own pace and without pressure. This is an offer for everyone who wants to immerse themselves in the world of art with attention to the needs of the youngest – and for those who simply want to enjoy their time."
+        },
+        "uk": {
+          "title": "Екскурсія для батьків маленьких дітей",
+          "description": "Зустрічі проходять у спокійній, дружній атмосфері – без поспіху, з увагою до потреб учасників будь-якого віку. Перша частина – це екскурсія по виставці в темпі, що відповідає ритму людей з візочками, слінгами та малюками на руках. Завдяки системі гіда можна вільно слухати екскурсовода, навіть коли потрібно на мить зупинитися, погодувати дитину, змінити її або просто відпочити. Друга частина проходить у навчальному просторі MSN – це час для розмови, запитань, обміну враженнями або участі в короткому міні-майстер-класі. Можна також просто провести час разом з дитиною, у своєму темпі і без тиску. Це пропозиція для всіх, хто хоче зануритися у світ мистецтва з увагою до потреб найменших – і тих, хто просто хоче приємно провести час."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-02T11:19:01.845596+00:00"
+    },
+    "warsztaty-kino-koncerty-i-spotkania-w-mercedes-benz-studio-warszawa-2026-09-05T10:00:00+02:00": {
+      "title": "Warsztaty, kino, koncerty i spotkania w Mercedes-Benz Studio Warszawa",
+      "date": "2026-09-05T10:00:00+02:00",
+      "end_date": "2026-09-05T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Mercedes-Benz Studio to wyjątkowa, sezonowa przestrzeń, która łączy inspirujące doświadczenia z miejskim stylem życia. W samym centrum Warszawy tworzymy miejsce spotkań – otwarte, dynamiczne i różnorodne. Przez całe lato zapraszamy na cykl wydarzeń, które integrują społeczność wokół designu, muzyki, ruchu i świadomego stylu życia. Program Mercedes-Benz Studio to starannie wyselekcjonowane aktywności – od koncertów i live actów, przez sesje wellness, aż po wydarzenia edukacyjne i rodzinne. Mercedes‑Benz Studio 9 lipca – 5 września Śr–Czw, Nd: 10:00–21:30 Pt–Sob: 10:00–23:00 Każda środa 10:00 | Mercedes-Benz x Peachy Studio: Dynamic Pilates 19:00 | Kino pod Gwiazdą x Kinads Każdy czwartek 20:00 | Koncerty Każdy piątek 10:00 | Mercedes-Benz x Peachy Studio: Stretch & Restore Pilates 18:00 | DJ-set Każda sobota 10:00 | Coffee & Groove 10:00 | Nice Run by Adidas 18:00 | Live Session Każda niedziela 10:00 | Classics & Coffee 19:00 | Kino pod Gwiazdą x Kinads Szczegółowy program na dany tydzień i zapisy na wydarzenia >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1783507505.webp",
+      "location": {
+        "name": "Plac Defilad",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.mercedes-benz.pl/passengercars/campaigns/mercedes-benz-studio-warsaw.html",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.mercedes-benz.pl/passengercars/campaigns/mercedes-benz-studio-warsaw.html",
+      "scrapped_timestamp": "2026-09-02T11:17:41.948075+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Music & Dance",
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Warsztaty, kino, koncerty i spotkania w Mercedes-Benz Studio Warszawa",
+          "description": "Mercedes-Benz Studio to wyjątkowa, sezonowa przestrzeń, która łączy inspirujące doświadczenia z miejskim stylem życia. W samym centrum Warszawy tworzymy miejsce spotkań – otwarte, dynamiczne i różnorodne. Przez całe lato zapraszamy na cykl wydarzeń, które integrują społeczność wokół designu, muzyki, ruchu i świadomego stylu życia. Program Mercedes-Benz Studio to starannie wyselekcjonowane aktywności – od koncertów i live actów, przez sesje wellness, aż po wydarzenia edukacyjne i rodzinne. Mercedes‑Benz Studio 9 lipca – 5 września Śr–Czw, Nd: 10:00–21:30 Pt–Sob: 10:00–23:00 Każda środa 10:00 | Mercedes-Benz x Peachy Studio: Dynamic Pilates 19:00 | Kino pod Gwiazdą x Kinads Każdy czwartek 20:00 | Koncerty Każdy piątek 10:00 | Mercedes-Benz x Peachy Studio: Stretch & Restore Pilates 18:00 | DJ-set Każda sobota 10:00 | Coffee & Groove 10:00 | Nice Run by Adidas 18:00 | Live Session Każda niedziela 10:00 | Classics & Coffee 19:00 | Kino pod Gwiazdą x Kinads Szczegółowy program na dany tydzień i zapisy na wydarzenia >> link"
+        },
+        "en": {
+          "title": "Workshops, Cinema, Concerts, and Meetings at Mercedes-Benz Studio Warsaw",
+          "description": "Mercedes-Benz Studio is a unique, seasonal space that combines inspiring experiences with urban lifestyle. In the heart of Warsaw, we create a meeting place – open, dynamic, and diverse. Throughout the summer, we invite you to a series of events that integrate the community around design, music, movement, and conscious living. The Mercedes-Benz Studio program features carefully selected activities – from concerts and live acts to wellness sessions and educational and family events. Mercedes-Benz Studio July 9 – September 5 Wednesday–Thursday, Sunday: 10:00 AM – 9:30 PM Friday–Saturday: 10:00 AM – 11:00 PM Every Wednesday 10:00 AM | Mercedes-Benz x Peachy Studio: Dynamic Pilates 7:00 PM | Cinema Under the Stars x Kinads Every Thursday 8:00 PM | Concerts Every Friday 10:00 AM | Mercedes-Benz x Peachy Studio: Stretch & Restore Pilates 6:00 PM | D"
+        },
+        "uk": {
+          "title": "Майстер-класи, кіно, концерти та зустрічі в Mercedes-Benz Studio Варшава",
+          "description": "Mercedes-Benz Studio – це унікальний, сезонний простір, який поєднує надихаючі враження з міським стилем життя. У самому центрі Варшави ми створюємо місце зустрічей – відкрите, динамічне та різноманітне. Протягом всього літа запрошуємо на цикл подій, які інтегрують спільноту навколо дизайну, музики, руху та свідомого стилю життя. Програма Mercedes-Benz Studio – це ретельно відібрані активності – від концертів і живих виступів до сесій wellness, а також освітніх і сімейних подій. Mercedes-Benz Studio 9 липня – 5 вересня Середа–Четвер, Неділя: 10:00–21:30 П’ятниця–Субота: 10:00–23:00 Кожна середа 10:00 | Mercedes-Benz x Peachy Studio: Динамічний Пілатес 19:00 | Кіно під Зіркою x Kinads Кожен четвер 20:00 | Концерти Кожна п’ятниця 10:00 | Mercedes-Benz x Peachy Studio: Розтяжка та Відновлення Пілатес 18:00 | Д"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-02T11:19:01.845624+00:00"
+    },
+    "aktywnie-na-targ-wku-zaj-cia-z-jazdy-na-deskorolce-2026-09-04T16:00:00+02:00": {
+      "title": "Aktywnie na Targówku - zajęcia z jazdy na deskorolce",
+      "date": "2026-09-04T16:00:00+02:00",
+      "end_date": "2026-09-04T16:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🌬️ Wskakuj na deskę i poczuj wiatr we włosach! Już 2 września startują bezpłatne zajęcia z jazdy na deskorolce dla dzieci i młodzieży na Targówku! 🤩 Nieważne, czy stawiasz pierwsze kroki na desce, czy chcesz doskonalić swoje triki. Czeka na Ciebie świetna zabawa, aktywność na świeżym powietrzu 🌳 i mnóstwo sportowych emocji! 💪 📅 Zajęcia będą odbywać się w środy, czwartki i piątki w godzinach 16:00-19:00 na terenie skateparku przy Szkole Podstawowej nr 377, ul. Trocka 4. Grupy: Środy 16:00-17:00 (klasy 1-2) Środy 17:00-18:00 (klasy 3-4) Środy 18:00-19:00 (klasy 5-8) Czwartki 16:00-17:00 (klasy 1-2) Czwartki 17:00-18:00 (klasy 3-4) Czwartki 18:00-19:00 (klasy 5-8) Piątki 16:00-17:00 (klasy 1-2) Piątki 17:00-18:00 (klasy 3-4) Piątki 18:00-19:00 (klasy 5-8) 📝 Zapisy >> link 🎯 To doskonała okazja, by rozwijać koordynację, uczyć się nowych umiejętności i spędzać czas w gronie rówieśników. ❗Nie przegap! Zabierz deskę, dobry humor 😎 i dołącz do nas już od 2 września! 🤝 Zajęcia organizowane są przez Stowarzyszenie Sportowe Future w ramach programu „Aktywnie na Targówku” realizowanego z dotacji udzielonej dla organizacji pozarządowych na obszarze objętym Gminnym Programem Rewitalizacji m.st. Warszawy.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788186996.webp",
+      "location": {
+        "name": "Trocka 4",
+        "district": "Targówek"
+      },
+      "url": "https://www.facebook.com/photo/?fbid=1517349307099911&set=a.143006564534199",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo/?fbid=1517349307099911&set=a.143006564534199",
+      "scrapped_timestamp": "2026-09-02T11:17:49.123266+00:00",
+      "category": "Sports",
+      "additional_categories": [
+        "Outdoor Adventure"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Aktywnie na Targówku - zajęcia z jazdy na deskorolce",
+          "description": "🌬️ Wskakuj na deskę i poczuj wiatr we włosach! Już 2 września startują bezpłatne zajęcia z jazdy na deskorolce dla dzieci i młodzieży na Targówku! 🤩 Nieważne, czy stawiasz pierwsze kroki na desce, czy chcesz doskonalić swoje triki. Czeka na Ciebie świetna zabawa, aktywność na świeżym powietrzu 🌳 i mnóstwo sportowych emocji! 💪 📅 Zajęcia będą odbywać się w środy, czwartki i piątki w godzinach 16:00-19:00 na terenie skateparku przy Szkole Podstawowej nr 377, ul. Trocka 4. Grupy: Środy 16:00-17:00 (klasy 1-2) Środy 17:00-18:00 (klasy 3-4) Środy 18:00-19:00 (klasy 5-8) Czwartki 16:00-17:00 (klasy 1-2) Czwartki 17:00-18:00 (klasy 3-4) Czwartki 18:00-19:00 (klasy 5-8) Piątki 16:00-17:00 (klasy 1-2) Piątki 17:00-18:00 (klasy 3-4) Piątki 18:00-19:00 (klasy 5-8) 📝 Zapisy >> link 🎯 To doskonała okazja, by rozwijać koordynację, uczyć się nowych umiejętności i spędzać czas w gronie rówieśników. ❗Nie przegap! Zabierz deskę, dobry humor 😎 i dołącz do nas już od 2 września! 🤝 Zajęcia organizowane są przez Stowarzyszenie Sportowe Future w ramach programu „Aktywnie na Targówku” realizowanego z dotacji udzielonej dla organizacji pozarządowych na obszarze objętym Gminnym Programem Rewitalizacji m.st. Warszawy."
+        },
+        "en": {
+          "title": "Active in Targówek - Skateboarding Classes",
+          "description": "🌬️ Jump on the board and feel the wind in your hair! Starting September 2nd, free skateboarding classes for children and youth will be held in Targówek! 🤩 It doesn't matter if you're taking your first steps on the board or want to perfect your tricks. Great fun, outdoor activity 🌳, and plenty of sports excitement await you! 💪 📅 Classes will take place on Wednesdays, Thursdays, and Fridays from 4:00 PM to 7:00 PM at the skatepark near Primary School No. 377, ul. Trocka 4. Groups: Wednesdays 4:00 PM - 5:00 PM (grades 1-2) Wednesdays 5:00 PM - 6:00 PM (grades 3-4) Wednesdays 6:00 PM - 7:00 PM (grades 5-8) Thursdays 4:00 PM - 5:00 PM (grades 1-2) Thursdays 5:00 PM - 6:00 PM (grades 3-4) Thursdays 6:00 PM - 7:00 PM (grades 5-8) Fridays 4:00 PM - 5:00 PM (grades 1-2) Fridays 5:00 PM - 6:00 PM (grades 3-4) Fridays 6:00 PM - 7:00 PM (grades 5-8) 📝 Registration >> link 🎯 This is a great opportunity"
+        },
+        "uk": {
+          "title": "Активно на Тарговку - заняття з катання на скейтборді",
+          "description": "🌬️ Сідай на дошку і відчуй вітер у волоссі! Вже 2 вересня стартують безкоштовні заняття з катання на скейтборді для дітей та молоді на Тарговку! 🤩 Неважливо, чи ти робиш перші кроки на дошці, чи хочеш вдосконалити свої трюки. Тебе чекає чудове задоволення, активність на свіжому повітрі 🌳 і безліч спортивних емоцій! 💪 📅 Заняття відбуватимуться в середу, четвер і п'ятницю з 16:00 до 19:00 на території скейтпарку при Загальноосвітній школі № 377, вул. Троцька 4. Групи: Середи 16:00-17:00 (класи 1-2) Середи 17:00-18:00 (класи 3-4) Середи 18:00-19:00 (класи 5-8) Четверги 16:00-17:00 (класи 1-2) Четверги 17:00-18:00 (класи 3-4) Четверги 18:00-19:00 (класи 5-8) П'ятниці 16:00-17:00 (класи 1-2) П'ятниці 17:00-18:00 (класи 3-4) П'ятниці 18:00-19:00 (класи 5-8) 📝 Реєстрація >> посилання 🎯 Це відмінна можливість"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Targówek",
+      "updated_at": "2026-09-02T11:19:01.845646+00:00"
+    },
+    "bezp-atne-warsztaty-dla-dzieci-w-wieku-9-12-lat-kompas-m-odego-obywatela-2026-09-03T17:00:00+02:00": {
+      "title": "Bezpłatne Warsztaty dla dzieci w wieku 9-12 lat - Kompas Młodego Obywatela",
+      "date": "2026-09-03T17:00:00+02:00",
+      "end_date": "2026-09-03T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy dzieci w wieku 9-12 lat na cykl bezpłatnych niezwykle ciekawych i odkrywczych warsztatów realizowanych w ramach projektu „Biblioteka – Portal Odkrywców. Poznajemy świat przez doświadczenie”. Zamienimy bibliotekę w prawdziwe laboratorium odkrywania! Będą eksperymenty, zagadki, doświadczenia, naukowe ciekawostki i mnóstwo okazji do samodzielnego poznawania świata. To zajęcia dla małych odkrywców, którzy lubią pytać „dlaczego?”, sprawdzać „jak to działa?” i przede wszystkim – uczyć się przez doświadczenie. Zajęcia prowadzone będą pod okiem Przemysława Kowalskiego w Filii nr 4, ul. Chopina 1A w Pruszkowie. Podczas zajęć będziemy: - odkrywać świat z książkami i materiałami popularnonaukowymi - przeprowadzać eksperymenty i doświadczenia - rozwiązywać praktyczne zadania i zagadki - ćwiczyć logiczne myślenie i samodzielność - pracować zespołowo Poniżej przedstawiamy cały plan warsztatów na wrzesień! Termin: 03.09.2026 i 08.09.2026, godz. 17:00 Termin: 10.09.2026 i 15.09.2026, godz. 17:00 Termin: 17.09.2026 i 22.09.2026, godz. 17:00 Termin: 24.09.2026 i 28.09.2026, godz. 17:00 Zapisy: 🟦 osobiście w Filii nr 4, ul. Chopina 1A, Pruszków 🟦 tel. (22) 728 31 32 🟦 mail: chopina@biblioteka.pruszkow.pl Liczba miejsc jest ograniczona! Pierwsze zajęcia już 3 września! Do zobaczenia!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1788268673.webp",
+      "location": {
+        "name": "F. Chopina 1A, Pruszków",
+        "district": "okolice Warszawy"
+      },
+      "url": "https://www.facebook.com/events/1515349380280997/1515349396947662",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1515349380280997/1515349396947662",
+      "scrapped_timestamp": "2026-09-02T11:17:57.571776+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "STEM"
+      ],
+      "age_range": {
+        "min": 9,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne Warsztaty dla dzieci w wieku 9-12 lat - Kompas Młodego Obywatela",
+          "description": "Zapraszamy dzieci w wieku 9-12 lat na cykl bezpłatnych niezwykle ciekawych i odkrywczych warsztatów realizowanych w ramach projektu „Biblioteka – Portal Odkrywców. Poznajemy świat przez doświadczenie”. Zamienimy bibliotekę w prawdziwe laboratorium odkrywania! Będą eksperymenty, zagadki, doświadczenia, naukowe ciekawostki i mnóstwo okazji do samodzielnego poznawania świata. To zajęcia dla małych odkrywców, którzy lubią pytać „dlaczego?”, sprawdzać „jak to działa?” i przede wszystkim – uczyć się przez doświadczenie. Zajęcia prowadzone będą pod okiem Przemysława Kowalskiego w Filii nr 4, ul. Chopina 1A w Pruszkowie. Podczas zajęć będziemy: - odkrywać świat z książkami i materiałami popularnonaukowymi - przeprowadzać eksperymenty i doświadczenia - rozwiązywać praktyczne zadania i zagadki - ćwiczyć logiczne myślenie i samodzielność - pracować zespołowo Poniżej przedstawiamy cały plan warsztatów na wrzesień! Termin: 03.09.2026 i 08.09.2026, godz. 17:00 Termin: 10.09.2026 i 15.09.2026, godz. 17:00 Termin: 17.09.2026 i 22.09.2026, godz. 17:00 Termin: 24.09.2026 i 28.09.2026, godz. 17:00 Zapisy: 🟦 osobiście w Filii nr 4, ul. Chopina 1A, Pruszków 🟦 tel. (22) 728 31 32 🟦 mail: chopina@biblioteka.pruszkow.pl Liczba miejsc jest ograniczona! Pierwsze zajęcia już 3 września! Do zobaczenia!"
+        },
+        "en": {
+          "title": "Free Workshops for Children Aged 9-12 - Young Citizen's Compass",
+          "description": "We invite children aged 9-12 to a series of free, incredibly interesting and exploratory workshops conducted as part of the project 'Library - Portal of Discoverers. Exploring the World Through Experience.' We will turn the library into a true laboratory of discovery! There will be experiments, puzzles, experiences, scientific curiosities, and plenty of opportunities for independent exploration of the world. These activities are for young explorers who like to ask 'why?', check 'how does it work?', and above all - learn through experience. The sessions will be led by Przemysław Kowalski at Branch No. 4, ul. Chopina 1A in Pruszków. During the sessions, we will: - explore the world with books and popular science materials - conduct experiments and experiences - solve practical tasks and puzzles - engage in hands-on activities."
+        },
+        "uk": {
+          "title": "Безкоштовні майстер-класи для дітей віком 9-12 років - Компас Молодого Громадянина",
+          "description": "Запрошуємо дітей віком 9-12 років на цикл безкоштовних надзвичайно цікавих і відкриваючих майстер-класів, що реалізуються в рамках проекту «Бібліотека – Портал Відкривачів. Пізнаємо світ через досвід». Перетворимо бібліотеку на справжню лабораторію відкриттів! Будуть експерименти, загадки, досліди, наукові цікавинці та безліч можливостей для самостійного пізнання світу. Це заняття для маленьких відкривачів, які люблять запитувати «чому?», перевіряти «як це працює?» і, перш за все, – вчитися через досвід. Заняття проводитимуться під наглядом Пржемислава Ковальського у Філії № 4, вул. Шопена 1А в Прушкові. Під час занять ми будемо: - відкривати світ з книгами та популярно-науковими матеріалами - проводити експерименти та досліди - розв'язувати практичні завдання та загадки - тренувати..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "okolice Warszawy",
+      "updated_at": "2026-09-02T11:19:01.845669+00:00"
+    },
+    "olimpiada-motoryczna-2026-09-06T10:30:00+02:00": {
+      "title": "Olimpiada Motoryczna",
+      "date": "2026-09-06T10:30:00+02:00",
+      "end_date": "2026-09-06T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "🥷 𝙕𝙤𝙨𝙩𝙖𝙣́ 𝙬𝙖𝙧𝙨𝙯𝙖𝙬𝙨𝙠𝙞𝙢 𝙉𝙞𝙣𝙟𝙖! 🤩 W najbliższą 𝙣𝙞𝙚𝙙𝙯𝙞𝙚𝙡𝙚̨, 𝟲 𝙬𝙧𝙯𝙚𝙨́𝙣𝙞𝙖 w godz. 10.30-17.30 na boisku Szkoły Podstawowej nr 405 przy ul. Na Uboczu 9, dzieci w wieku 6–12 lat będą mogły sprawdzić swoją zwinność, szybkość, celność i wytrzymałość podczas bezpłatnej „Olimpiady Motorycznej”. 🤸 👦👧 Na uczestników czeka pięć sportowych stacji oraz imponujący, 60-metrowy dmuchany tor przeszkód. Każde dziecko, które ukończy wyzwanie, otrzyma pamiątkowy dyplom i odznakę „Sprawność Ninja”. W wydarzeniu wezmą udział także wyjątkowi goście: Przemysław Cypryański, olimpijka z Tokio Paulina Paluch oraz mistrz Polski w dziesięcioboju Rafał Horbowicz. 🔔 Liczba miejsc jest ograniczona, dlatego obowiązują zapisy 👉 link Organizatorem wydarzenia jest Fundacja Training Zone Skills.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788267591.webp",
+      "location": {
+        "name": "SP 405, ul. Na Uboczu 9",
+        "district": "Ursynów"
+      },
+      "url": "https://www.facebook.com/photo?fbid=1509415931219733&set=a.630356592459009",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo?fbid=1509415931219733&set=a.630356592459009",
+      "scrapped_timestamp": "2026-09-02T11:18:09.455377+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Olimpiada Motoryczna",
+          "description": "🥷 𝙕𝙤𝙨𝙩𝙖𝙣́ 𝙬𝙖𝙧𝙨𝙯𝙖𝙬𝙨𝙠𝙞𝙢 𝙉𝙞𝙣𝙟𝙖! 🤩 W najbliższą 𝙣𝙞𝙚𝙙𝙯𝙞𝙚𝙡𝙚̨, 𝟲 𝙬𝙧𝙯𝙚𝙨́𝙣𝙞𝙖 w godz. 10.30-17.30 na boisku Szkoły Podstawowej nr 405 przy ul. Na Uboczu 9, dzieci w wieku 6–12 lat będą mogły sprawdzić swoją zwinność, szybkość, celność i wytrzymałość podczas bezpłatnej „Olimpiady Motorycznej”. 🤸 👦👧 Na uczestników czeka pięć sportowych stacji oraz imponujący, 60-metrowy dmuchany tor przeszkód. Każde dziecko, które ukończy wyzwanie, otrzyma pamiątkowy dyplom i odznakę „Sprawność Ninja”. W wydarzeniu wezmą udział także wyjątkowi goście: Przemysław Cypryański, olimpijka z Tokio Paulina Paluch oraz mistrz Polski w dziesięcioboju Rafał Horbowicz. 🔔 Liczba miejsc jest ograniczona, dlatego obowiązują zapisy 👉 link Organizatorem wydarzenia jest Fundacja Training Zone Skills."
+        },
+        "en": {
+          "title": "Motor Skills Olympics",
+          "description": "🥷 Become a Warsaw Ninja! 🤩 This upcoming Sunday, June 6, from 10:30 AM to 5:30 PM at the playground of Primary School No. 405 at Na Uboczu 9, children aged 6–12 will have the opportunity to test their agility, speed, accuracy, and endurance during the free 'Motor Skills Olympics'. 🤸 👦👧 Participants can look forward to five sports stations and an impressive 60-meter inflatable obstacle course. Every child who completes the challenge will receive a commemorative diploma and the 'Ninja Proficiency' badge. Special guests will also attend the event: Przemysław Cypryański, Tokyo Olympian Paulina Paluch, and Polish decathlon champion Rafał Horbowicz. 🔔 The number of spots is limited, so registration is required 👉 link The event is organized by the Training Zone Skills Foundation."
+        },
+        "uk": {
+          "title": "Олімпіада Моторики",
+          "description": "🥷 𝙕𝙤𝙨𝙩𝙖𝙣́ 𝙬𝙖𝙧𝙨𝙯𝙖𝙬𝙨𝙠𝙞𝙢 𝙉𝙞𝙣𝙟𝙖! 🤩 У найближчу 𝙣𝙞𝙚𝙙𝙯𝙞𝙚𝙡𝙚̨, 𝟲 𝙬𝙧𝙯𝙚𝙨́𝙣𝙞𝙖 з 10:30 до 17:30 на спортивному майданчику Школи № 405 на вул. На Убочі, діти віком 6–12 років зможуть перевірити свою спритність, швидкість, точність і витривалість під час безкоштовної «Олімпіади Моторики». 🤸 👦👧 На учасників чекає п’ять спортивних станцій та вражаюча, 60-метрова надувна перешкода. Кожна дитина, яка завершить виклик, отримає пам’ятний диплом і значок «Спортивність Ніндзя». У заході також візьмуть участь особливі гості: Пржемислав Ципрянський, олімпійка з Токіо Пауліна Палух та чемпіон Польщі з десятиборства Рафаł Хорбович. 🔔 Кількість місць обмежена, тому обов’язкові попередні записи 👉 посилання. Організатором заходу є Фундація Training Zone Skills."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Ursynów",
+      "updated_at": "2026-09-02T11:19:01.845722+00:00"
+    },
+    "funrun-przygoda-z-map-etap-3-2026-09-06T11:00:00+02:00": {
+      "title": "FUNRUN - Przygoda z mapą Etap 3",
+      "date": "2026-09-06T11:00:00+02:00",
+      "end_date": "2026-09-06T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Gorąco zapraszamy na imprezę skierowaną do wszystkich, którzy chcieliby spróbować swoich sił w biegu na orientację! Już 6 września w ramach powrotu po wakacjach odbędzie się na trzeci etap FUN RUN 2026 – tym razem pod Kopą Cwila. To idealny plan na aktywne spędzenie niedzieli! A co najlepsze? Udział jest całkowicie DARMOWY! Gdzie: Park Kultury Powsin Kiedy: 21.06.2025 (niedziela) Start: godz. 11:00-13:00 ZAPISY >> link FUNRUN jest rekreacyjną imprezą na orientację – jest otwarta dla wszystkich, osób w każdym wieku, niezależnie od kondycji i umiejętności. Orienteering, czyli aktywność z mapą na świeżym powietrzu nie bez powodu nazywany jest zielonym sportem. Nie ma chyba drugiego takiego sportu, który łączy całe rodziny i pokolenia. Na czym to wszystko polega? Chcesz wziąć udział, ale nie do końca wiesz czy to dla Ciebie? Tutaj dowiesz się wszystkiego! Każdy uczestnik otrzymuje przed startem mapę oraz specjalny elektroniczny chip. Na mapie zaznaczone są punkty, a Twoim zadaniem jest ich odnalezienie w terenie. Wybór wariantu, czyli drogi pomiędzy kolejnymi punktami, pozostaje w gestii uczestnika – możesz wybrać dowolną drogę między punktami. Gdy dotrzesz przy pomocy mapy w zaznaczone miejsce, czekać będzie na Ciebie punkt kontrolny. Przy pomocy chipa, w stacji elektronicznej potwierdzasz swoją obecność. Każdy start jest niepowtarzalny – trasy przed wydarzeniem objęte są tajemnicą. Gwarantujemy, że każdy start będzie wyjątkowy – aktywność na świeżym powietrzu i poznanie ciekawych zakątków Ursynowa to część każdego FunRun. Nie martw się, jeśli to będą Twoje pierwsze kroki – zgłoś się do naszego instruktora przed ruszeniem w teren, a dowiesz się, na czym to polega, jak zorientować mapę i jakie są jej najważniejsze elementy! Na każdym etapie będą dostępne cztery trasy o zróżnicowanym poziomie: • Początkujący (ok.1 km dla osób rozpoczynających przygodę z orientacją) • Zuchwali (ok. 2 km trochę dłużej i trudniej) • Odważni (ok. 3 km dla tych co nie boją się wyzwań) • Profesjonaliści (ok. 4 km skomplikowana trasa dla elity) Możliwość startu od 11:00 do 13:00, brak wpisowego oraz pomoc instruktorów - to czeka na Was podczas pozostałych dwóch etapów tegorocznego cyklu: • 06.09.2025 - Kopa Cwila • 11.10.2025 - Cynamonowa (SP 318)",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1788279253.webp",
+      "location": {
+        "name": "Kopa Cwila",
+        "district": "Ursynów"
+      },
+      "url": "https://funrun.waw.pl/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://funrun.waw.pl/",
+      "scrapped_timestamp": "2026-09-02T11:18:18.301825+00:00",
+      "category": "Outdoor Adventure",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "FUNRUN - Przygoda z mapą Etap 3",
+          "description": "Gorąco zapraszamy na imprezę skierowaną do wszystkich, którzy chcieliby spróbować swoich sił w biegu na orientację! Już 6 września w ramach powrotu po wakacjach odbędzie się na trzeci etap FUN RUN 2026 – tym razem pod Kopą Cwila. To idealny plan na aktywne spędzenie niedzieli! A co najlepsze? Udział jest całkowicie DARMOWY! Gdzie: Park Kultury Powsin Kiedy: 21.06.2025 (niedziela) Start: godz. 11:00-13:00 ZAPISY >> link FUNRUN jest rekreacyjną imprezą na orientację – jest otwarta dla wszystkich, osób w każdym wieku, niezależnie od kondycji i umiejętności. Orienteering, czyli aktywność z mapą na świeżym powietrzu nie bez powodu nazywany jest zielonym sportem. Nie ma chyba drugiego takiego sportu, który łączy całe rodziny i pokolenia. Na czym to wszystko polega? Chcesz wziąć udział, ale nie do końca wiesz czy to dla Ciebie? Tutaj dowiesz się wszystkiego! Każdy uczestnik otrzymuje przed startem mapę oraz specjalny elektroniczny chip. Na mapie zaznaczone są punkty, a Twoim zadaniem jest ich odnalezienie w terenie. Wybór wariantu, czyli drogi pomiędzy kolejnymi punktami, pozostaje w gestii uczestnika – możesz wybrać dowolną drogę między punktami. Gdy dotrzesz przy pomocy mapy w zaznaczone miejsce, czekać będzie na Ciebie punkt kontrolny. Przy pomocy chipa, w stacji elektronicznej potwierdzasz swoją obecność. Każdy start jest niepowtarzalny – trasy przed wydarzeniem objęte są tajemnicą. Gwarantujemy, że każdy start będzie wyjątkowy – aktywność na świeżym powietrzu i poznanie ciekawych zakątków Ursynowa to część każdego FunRun. Nie martw się, jeśli to będą Twoje pierwsze kroki – zgłoś się do naszego instruktora przed ruszeniem w teren, a dowiesz się, na czym to polega, jak zorientować mapę i jakie są jej najważniejsze elementy! Na każdym etapie będą dostępne cztery trasy o zróżnicowanym poziomie: • Początkujący (ok.1 km dla osób rozpoczynających przygodę z orientacją) • Zuchwali (ok. 2 km trochę dłużej i trudniej) • Odważni (ok. 3 km dla tych co nie boją się wyzwań) • Profesjonaliści (ok. 4 km skomplikowana trasa dla elity) Możliwość startu od 11:00 do 13:00, brak wpisowego oraz pomoc instruktorów - to czeka na Was podczas pozostałych dwóch etapów tegorocznego cyklu: • 06.09.2025 - Kopa Cwila • 11.10.2025 - Cynamonowa (SP 318)"
+        },
+        "en": {
+          "title": "FUNRUN - Adventure with a Map Stage 3",
+          "description": "We warmly invite everyone who would like to try their hand at orienteering! On September 6th, as part of the return from summer vacation, the third stage of FUN RUN 2026 will take place – this time under Kopa Cwila. It's the perfect plan for an active Sunday! And the best part? Participation is completely FREE! Where: Park Kultury Powsin When: 21.06.2025 (Sunday) Start: 11:00 AM - 1:00 PM REGISTRATION >> link FUNRUN is a recreational orienteering event – it is open to everyone, people of all ages, regardless of fitness and skills. Orienteering, or outdoor activity with a map, is rightly called a green sport. There is probably no other sport that brings together entire families and generations. What is it all about? Do you want to participate, but you don't..."
+        },
+        "uk": {
+          "title": "FUNRUN - Пригода з картою Етап 3",
+          "description": "Гарячо запрошуємо на захід, спрямований на всіх, хто хотів би спробувати свої сили в бігу на орієнтування! Вже 6 вересня в рамках повернення після канікул відбудеться третій етап FUN RUN 2026 – цього разу під Копою Цвіла. Це ідеальний план для активного проведення неділі! А що найкраще? Участь абсолютно БЕЗКОШТОВНА! Де: Парк Культури Повсін Коли: 21.06.2025 (неділя) Старт: з 11:00 до 13:00 РЕЄСТРАЦІЯ >> посилання FUNRUN є рекреаційним заходом на орієнтування – він відкритий для всіх, людей будь-якого віку, незалежно від фізичної підготовки та навичок. Орієнтування, тобто активність з картою на свіжому повітрі, не без причини називається зеленим спортом. Напевно, немає іншого такого спорту, який об'єднує цілі сім'ї та покоління. На чому все це базується? Хочеш взяти участь, але не д..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Ursynów",
+      "updated_at": "2026-09-02T11:19:01.845742+00:00"
+    },
+    "bezp-atne-zaj-cia-w-skatepark-jutrzenka-z-bmx-school-2026-09-06T11:00:00+02:00": {
+      "title": "Bezpłatne zajęcia w Skatepark Jutrzenka z BMX School",
+      "date": "2026-09-06T11:00:00+02:00",
+      "end_date": "2026-09-06T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Chcesz udoskonalić swoje umiejętności jazdy na BMX?🚲🔥 Mamy dla Ciebie świetną wiadomość! Ruszyły zapisy na bezpłatne zajęcia w Skatepark Jutrzenka AKTYWNA WARSZAWA z BMX School 🚴‍♀️ Na zajęciach poprawisz mobilność i koordynację ruchową, weźmiesz udział w szkoleniu z zakresu bezpieczeństwa w ruchu drogowym, dodatkowo odbędzie się szkolenie z BMX Freestyle ora Pumptrack, a także poznasz podstawy serwisowania roweru 🤩 Zapraszamy dzieci i młodzież w wieku 6-18 lat, które potrafią samodzielnie i pewnie jeździć na rowerze 💪 📅 Zapisz koniecznie terminy spotkań: 6.09, 13.09, 20.09 oraz 27.09. ⏱️ Zajęcia odbywa będą się w godzinach 11:00 -14:00. 👉 ZAPISY >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788338863.webp",
+      "location": {
+        "name": "Skatepark Jutrzenka AKTYWNA WARSZAWA, ul. Rozbrat 5",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/photo/?fbid=1100015252548609&set=a.207127245170752",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo/?fbid=1100015252548609&set=a.207127245170752",
+      "scrapped_timestamp": "2026-09-02T11:18:24.184010+00:00",
+      "category": "Sports",
+      "additional_categories": [
+        "Outdoor Adventure"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 18
+      },
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia w Skatepark Jutrzenka z BMX School",
+          "description": "Chcesz udoskonalić swoje umiejętności jazdy na BMX?🚲🔥 Mamy dla Ciebie świetną wiadomość! Ruszyły zapisy na bezpłatne zajęcia w Skatepark Jutrzenka AKTYWNA WARSZAWA z BMX School 🚴‍♀️ Na zajęciach poprawisz mobilność i koordynację ruchową, weźmiesz udział w szkoleniu z zakresu bezpieczeństwa w ruchu drogowym, dodatkowo odbędzie się szkolenie z BMX Freestyle ora Pumptrack, a także poznasz podstawy serwisowania roweru 🤩 Zapraszamy dzieci i młodzież w wieku 6-18 lat, które potrafią samodzielnie i pewnie jeździć na rowerze 💪 📅 Zapisz koniecznie terminy spotkań: 6.09, 13.09, 20.09 oraz 27.09. ⏱️ Zajęcia odbywa będą się w godzinach 11:00 -14:00. 👉 ZAPISY >> link"
+        },
+        "en": {
+          "title": "Free BMX Classes at Jutrzenka Skatepark with BMX School",
+          "description": "Do you want to improve your BMX riding skills?🚲🔥 We have great news for you! Registrations have opened for free classes at Jutrzenka Skatepark ACTIVE WARSAW with BMX School 🚴‍♀️ In the classes, you will enhance your mobility and coordination, participate in a training on road safety, and also take part in BMX Freestyle and Pumptrack training, as well as learn the basics of bike maintenance 🤩 We invite children and youth aged 6-18 who can ride a bike independently and confidently 💪 📅 Be sure to note the meeting dates: September 6, September 13, September 20, and September 27. ⏱️ Classes will take place from 11:00 AM to 2:00 PM. 👉 REGISTRATION >> link"
+        },
+        "uk": {
+          "title": "Безкоштовні заняття в Skatepark Jutrzenka з BMX School",
+          "description": "Хочеш вдосконалити свої навички їзди на BMX?🚲🔥 Маємо для тебе чудову новину! Розпочато запис на безкоштовні заняття в Skatepark Jutrzenka АКТИВНА ВАРШАВА з BMX School 🚴‍♀️ На заняттях покращиш мобільність і координацію рухів, візьмеш участь у навчанні з безпеки на дорозі, додатково відбудеться навчання з BMX Freestyle та Pumptrack, а також дізнаєшся основи обслуговування велосипеда 🤩 Запрошуємо дітей та молодь віком 6-18 років, які вміють самостійно і впевнено їздити на велосипеді 💪 📅 Запиши обов'язково дати зустрічей: 6.09, 13.09, 20.09 та 27.09. ⏱️ Заняття відбуватимуться з 11:00 до 14:00. 👉 ЗАПИС >> посилання"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-02T11:19:01.845762+00:00"
+    },
+    "bezp-atne-treningi-siatk-wki-oraz-zaj-cia-rodzinne-2026-09-15T13:15:00+02:00": {
+      "title": "BEZPŁATNE TRENINGI SIATKÓWKI ORAZ ZAJĘCIA RODZINNE",
+      "date": "2026-09-15T13:15:00+02:00",
+      "end_date": "2026-09-15T13:15:00+02:00",
+      "startTimeKnown": true,
+      "description": "Ogłaszamy grafik naszych bezpłatnych zajęć na zbliżający się rok szkolny w Dzielnicy Bemowo! 🏐ogólnorozwojowe z elementami gier zespołowych na czele z mini siatkówką - wtorek, godzina 13.15 – 15.00 – grupa zamknięta, dla uczniów szkoły SP 407, dla klas 1-4 - czwartek, godzina 15.00 – 16.00 – grupa zamknięta, dla uczniów szkoły SP407, dla klas 1-4 - piątek, godzina 15.00 – 17.00 – grupa otwarta, dla uczniów z klas 3-5 🏐podstawy mini siatkówki - środa, godzina 14.00 – 16.00 – grupa zamknięta, dla uczniów szkoły SP 407, dla klas 3-5 - środa, godzina 17.00 – 18.00  - grupa otwarta, dla klas 4-6 - sobota, godzina 10.00 – 11.00 – grupa otwarta, dla klas 3-5 🏐zajęcia rodzinne dla dzieci z klas 1-4 i ich dorosłych członków rodziny - sobota, godzina 9.00 – 10.00 – grupa otwarta 🏐treningi piłki siatkowej z trenerem + gra dla rodziców dzieci u nas trenujących - sobota, godzina 11.00 – 13.00 ZAPISY >> instytutaktywnosci@gmail.com Start zajęć 15 września.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0000.1788005722.webp",
+      "location": {
+        "name": "Heweliusza 3, Szkoła Podstawowa nr 407",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/instytutaktywnosci",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/instytutaktywnosci",
+      "scrapped_timestamp": "2026-09-02T11:18:29.162361+00:00",
+      "category": "Sports",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "BEZPŁATNE TRENINGI SIATKÓWKI ORAZ ZAJĘCIA RODZINNE",
+          "description": "Ogłaszamy grafik naszych bezpłatnych zajęć na zbliżający się rok szkolny w Dzielnicy Bemowo! 🏐ogólnorozwojowe z elementami gier zespołowych na czele z mini siatkówką - wtorek, godzina 13.15 – 15.00 – grupa zamknięta, dla uczniów szkoły SP 407, dla klas 1-4 - czwartek, godzina 15.00 – 16.00 – grupa zamknięta, dla uczniów szkoły SP407, dla klas 1-4 - piątek, godzina 15.00 – 17.00 – grupa otwarta, dla uczniów z klas 3-5 🏐podstawy mini siatkówki - środa, godzina 14.00 – 16.00 – grupa zamknięta, dla uczniów szkoły SP 407, dla klas 3-5 - środa, godzina 17.00 – 18.00  - grupa otwarta, dla klas 4-6 - sobota, godzina 10.00 – 11.00 – grupa otwarta, dla klas 3-5 🏐zajęcia rodzinne dla dzieci z klas 1-4 i ich dorosłych członków rodziny - sobota, godzina 9.00 – 10.00 – grupa otwarta 🏐treningi piłki siatkowej z trenerem + gra dla rodziców dzieci u nas trenujących - sobota, godzina 11.00 – 13.00 ZAPISY >> instytutaktywnosci@gmail.com Start zajęć 15 września."
+        },
+        "en": {
+          "title": "FREE VOLLEYBALL TRAINING AND FAMILY CLASSES",
+          "description": "We announce the schedule of our free classes for the upcoming school year in the Bemowo District! 🏐 General development activities with elements of team games, led by mini volleyball - Tuesday, 1:15 PM – 3:00 PM – closed group, for students of SP 407 school, grades 1-4 - Thursday, 3:00 PM – 4:00 PM – closed group, for students of SP 407 school, grades 1-4 - Friday, 3:00 PM – 5:00 PM – open group, for students in grades 3-5 🏐 Basics of mini volleyball - Wednesday, 2:00 PM – 4:00 PM – closed group, for students of SP 407 school, grades 3-5 - Wednesday, 5:00 PM – 6:00 PM - open group, for grades 4-6 - Saturday, 10:00 AM – 11:00 AM – open group, for grades 3-5 🏐 Family classes for children in grades 1-4 and their adult family members - Saturday, 9:00 AM – 10:00 AM – open group 🏐 Volleyball training"
+        },
+        "uk": {
+          "title": "БЕЗКОШТОВНІ ТРЕНУВАННЯ З ВОЛЕЙБОЛУ ТА СІМЕЙНІ ЗАНЯТТЯ",
+          "description": "Оголошуємо графік наших безкоштовних занять на наближаючийся навчальний рік у районі Бемово! 🏐 загальнорозвивальні заняття з елементами командних ігор на чолі з міні-волейболом - вівторок, година 13:15 – 15:00 – закрита група, для учнів школи SP 407, для класів 1-4 - четвер, година 15:00 – 16:00 – закрита група, для учнів школи SP 407, для класів 1-4 - п'ятниця, година 15:00 – 17:00 – відкрита група, для учнів з класів 3-5 🏐 основи міні-волейболу - середа, година 14:00 – 16:00 – закрита група, для учнів школи SP 407, для класів 3-5 - середа, година 17:00 – 18:00 - відкрита група, для класів 4-6 - субота, година 10:00 – 11:00 – відкрита група, для класів 3-5 🏐 сімейні заняття для дітей з класів 1-4 та їх дорослих членів родини - субота, година 9:00 – 10:00 – відкрита група 🏐 тренування з волейболу"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-02T11:19:01.845783+00:00"
+    },
+    "spotkajmy-si-pograjmy-2026-09-19T10:00:00+02:00": {
+      "title": "Spotkajmy się, pograjmy",
+      "date": "2026-09-19T10:00:00+02:00",
+      "end_date": "2026-09-19T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "19.09.2026 widzimy się na naszej lokalnej odsłonie Spotkajmy się, pograjmy. Czeka na Was świat fantastycznych gier, świetna atmosfera i okazja do poznania nowych ludzi. Wstęp wolny!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1788275037.webp",
+      "location": {
+        "name": "Anielewicza 2, Biblioteka dla Dzieci i Młodzieży nr 10",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/photo/?fbid=122217932624442264&set=a.122106251396442264",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo/?fbid=122217932624442264&set=a.122106251396442264",
+      "scrapped_timestamp": "2026-09-02T11:18:35.531477+00:00",
+      "category": "Games",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Spotkajmy się, pograjmy",
+          "description": "19.09.2026 widzimy się na naszej lokalnej odsłonie Spotkajmy się, pograjmy. Czeka na Was świat fantastycznych gier, świetna atmosfera i okazja do poznania nowych ludzi. Wstęp wolny!"
+        },
+        "en": {
+          "title": "Let's Meet, Let's Play",
+          "description": "On September 19, 2026, we will see you at our local edition of Let's Meet, Let's Play. A world of fantastic games awaits you, along with a great atmosphere and the opportunity to meet new people. Free entry!"
+        },
+        "uk": {
+          "title": "Зустріньмося, пограємо",
+          "description": "19.09.2026 ми зустрінемося на нашій місцевій версії Зустріньмося, пограємо. На вас чекає світ фантастичних ігор, чудова атмосфера та можливість познайомитися з новими людьми. Вхід вільний!"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-02T11:19:01.845800+00:00"
+    },
+    "casting-do-projektu-warsztaty-musicalove-2026-09-26T09:00:00+02:00": {
+      "title": "Casting do projektu Warsztaty MusicaLOVE",
+      "date": "2026-09-26T09:00:00+02:00",
+      "end_date": "2026-09-26T09:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zamień marzenia o scenie w prawdziwą pasję. Zapisz swoje dziecko na wyjątkowe warsztaty. Nie oczekujemy perfekcji - cenimy pasję. Resztę stworzymy razem. Szukamy osób, które nie boją się wyzwań, są wytrwałe i konsekwentnie dążą do celu. Udział w castingu jest całkowicie bezpłatny. Casting ma formę otwartych warsztatów (taniec, śpiew, aktorstwo). Podczas wspólnych ćwiczeń instruktorzy ocenią predyspozycje, zaangażowanie i potencjał uczestników. Na koniec dzieci zaprezentują efekty pracy, a komisja podejmie decyzję o kwalifikacji. Po przejściu castingu uczestnik jest automatycznie zapisywany na regularne warsztaty. Nasz dwuletni projekt musicalowy dla dzieci i młodzieży to wyjątkowa okazja do rozwoju talentów pod okiem profesjonalistów. Całość zwieńczy premiera musicalu na deskach Domu Kultury Zacisze w czerwcu 2028 roku. Zgłoszenia online do 20 września 2026 r. Szczegóły i zapisy >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0900.1788264603.webp",
+      "location": {
+        "name": "Dom Kultury Zacisze, ul. Blokowa 1",
+        "district": "Targówek"
+      },
+      "url": "https://zacisze.waw.pl/pl/casting_do_projektu_Warsztaty_Musicalove",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://zacisze.waw.pl/pl/casting_do_projektu_Warsztaty_Musicalove",
+      "scrapped_timestamp": "2026-09-02T11:18:43.953109+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Theater",
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Casting do projektu Warsztaty MusicaLOVE",
+          "description": "Zamień marzenia o scenie w prawdziwą pasję. Zapisz swoje dziecko na wyjątkowe warsztaty. Nie oczekujemy perfekcji - cenimy pasję. Resztę stworzymy razem. Szukamy osób, które nie boją się wyzwań, są wytrwałe i konsekwentnie dążą do celu. Udział w castingu jest całkowicie bezpłatny. Casting ma formę otwartych warsztatów (taniec, śpiew, aktorstwo). Podczas wspólnych ćwiczeń instruktorzy ocenią predyspozycje, zaangażowanie i potencjał uczestników. Na koniec dzieci zaprezentują efekty pracy, a komisja podejmie decyzję o kwalifikacji. Po przejściu castingu uczestnik jest automatycznie zapisywany na regularne warsztaty. Nasz dwuletni projekt musicalowy dla dzieci i młodzieży to wyjątkowa okazja do rozwoju talentów pod okiem profesjonalistów. Całość zwieńczy premiera musicalu na deskach Domu Kultury Zacisze w czerwcu 2028 roku. Zgłoszenia online do 20 września 2026 r. Szczegóły i zapisy >> link"
+        },
+        "en": {
+          "title": "Casting for the MusicaLOVE Workshops Project",
+          "description": "Turn dreams of the stage into a true passion. Enroll your child in a unique workshop. We do not expect perfection - we value passion. The rest we will create together. We are looking for individuals who are not afraid of challenges, are persistent, and consistently strive towards their goals. Participation in the casting is completely free. The casting takes the form of open workshops (dance, singing, acting). During the joint exercises, instructors will assess the predispositions, commitment, and potential of the participants. At the end, the children will present the results of their work, and the committee will make a decision regarding qualification. After passing the casting, the participant is automatically enrolled in regular workshops. Our two-year musical project for children and youth is a unique opportunity to develop talents under the guidance of professionals. The entire project will culminate in the premiere of the musical on the stage of the Cultural Center."
+        },
+        "uk": {
+          "title": "Кастинг до проекту Майстерні MusicaLOVE",
+          "description": "Перетворіть мрії про сцену на справжню пристрасть. Запишіть свою дитину на унікальні майстерні. Ми не очікуємо досконалості - ми цінуємо пристрасть. Решту створимо разом. Ми шукаємо людей, які не бояться викликів, є наполегливими та послідовно прагнуть до мети. Участь у кастингу є абсолютно безкоштовною. Кастинг має форму відкритих майстерень (танець, спів, акторська майстерність). Під час спільних вправ інструктори оцінять здібності, залученість та потенціал учасників. Наприкінці діти продемонструють результати роботи, а комісія ухвалить рішення про кваліфікацію. Після проходження кастингу учасник автоматично записується на регулярні майстерні. Наш дворічний музичний проект для дітей та молоді - це унікальна можливість для розвитку талантів під наглядом професіоналів. Завершить все прем'єра мюзиклу на сцені Будинку культури."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Targówek",
+      "updated_at": "2026-09-02T11:19:01.845836+00:00"
+    },
+    "xxii-rodzinny-piknik-integracyjny-szcz-liwice-2026-2026-09-27T12:00:00+02:00": {
+      "title": "XXII Rodzinny Piknik Integracyjny Szczęśliwice 2026",
+      "date": "2026-09-27T12:00:00+02:00",
+      "end_date": "2026-09-27T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🍂 Jesień zaczyna się na Szczęśliwicach! 🍂 Kolorowe alejki Parku Szczęśliwickiego, rozmowy przy wspólnym stole, muzyka, sport i atrakcje dla całych rodzin. Już 27 września odbędzie się XXII Rodzinny Piknik Integracyjny Szczęśliwice 2026, który w tym roku ma także szczególny wymiar. To okazja do świętowania 25-lecia Koalicja na Rzecz Ochoty. Od godziny 12:00 do 17:00 park zamieni się w tętniącą życiem przestrzeń spotkań mieszkańców. W programie znajdą się strefy edukacji i zabawy, sportu, zdrowia oraz kultury, a także występy sceniczne i liczne aktywności przygotowane przez organizacje i instytucje działające na rzecz lokalnej społeczności. To jedno z tych wydarzeń, które najlepiej pokazują, czym jest Ochota: sąsiedzką współpracą, otwartością i wspólnym spędzaniem czasu bez względu na wiek. 📍 Park Szczęśliwicki 📅 27 września 2026 r. 🕛 12:00-17:00 🎟️ Wstęp wolny Zarezerwujcie ten dzień w kalendarzu i spędźcie jesienne popołudnie razem z nami! 🍁☕🍐",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788339387.webp",
+      "location": {
+        "name": "Park Szczęśliwicki",
+        "district": "Ochota"
+      },
+      "url": "https://www.facebook.com/photo/?fbid=1921059055971456&set=a.807261034017936",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo/?fbid=1921059055971456&set=a.807261034017936",
+      "scrapped_timestamp": "2026-09-02T11:18:48.818614+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Sports",
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "XXII Rodzinny Piknik Integracyjny Szczęśliwice 2026",
+          "description": "🍂 Jesień zaczyna się na Szczęśliwicach! 🍂 Kolorowe alejki Parku Szczęśliwickiego, rozmowy przy wspólnym stole, muzyka, sport i atrakcje dla całych rodzin. Już 27 września odbędzie się XXII Rodzinny Piknik Integracyjny Szczęśliwice 2026, który w tym roku ma także szczególny wymiar. To okazja do świętowania 25-lecia Koalicja na Rzecz Ochoty. Od godziny 12:00 do 17:00 park zamieni się w tętniącą życiem przestrzeń spotkań mieszkańców. W programie znajdą się strefy edukacji i zabawy, sportu, zdrowia oraz kultury, a także występy sceniczne i liczne aktywności przygotowane przez organizacje i instytucje działające na rzecz lokalnej społeczności. To jedno z tych wydarzeń, które najlepiej pokazują, czym jest Ochota: sąsiedzką współpracą, otwartością i wspólnym spędzaniem czasu bez względu na wiek. 📍 Park Szczęśliwicki 📅 27 września 2026 r. 🕛 12:00-17:00 🎟️ Wstęp wolny Zarezerwujcie ten dzień w kalendarzu i spędźcie jesienne popołudnie razem z nami! 🍁☕🍐"
+        },
+        "en": {
+          "title": "XXII Family Integration Picnic Szczęśliwice 2026",
+          "description": "🍂 Autumn begins in Szczęśliwice! 🍂 Colorful paths of Szczęśliwicki Park, conversations at a shared table, music, sports, and attractions for the whole family. On September 27th, the XXII Family Integration Picnic Szczęśliwice 2026 will take place, which this year has a special significance. It is an opportunity to celebrate the 25th anniversary of the Coalition for Ochota. From 12:00 PM to 5:00 PM, the park will transform into a vibrant meeting space for residents. The program will include zones for education and fun, sports, health, and culture, as well as stage performances and numerous activities prepared by organizations and institutions working for the local community. This is one of those events that best shows what Ochota is all about: neighborly cooperation, openness, and spending time together regardless of age."
+        },
+        "uk": {
+          "title": "XXII Сімейний Інтеграційний Пікнік Щасливиці 2026",
+          "description": "🍂 Осінь починається на Щасливицях! 🍂 Яскраві алеї Парку Щасливицького, розмови за спільним столом, музика, спорт та розваги для цілих родин. Вже 27 вересня відбудеться XXII Сімейний Інтеграційний Пікнік Щасливиці 2026, який цього року має також особливий вимір. Це нагода святкувати 25-річчя Коаліції на захист Охоти. З 12:00 до 17:00 парк перетвориться на живу простір зустрічей мешканців. У програмі будуть зони освіти та розваг, спорту, здоров'я та культури, а також сценічні виступи та численні активності, підготовлені організаціями та установами, що працюють на користь місцевої громади. Це одне з тих подій, які найкраще показують, чим є Охота: сусідською співпрацею, відкритістю та спільним проведенням часу незалежно від віку."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Ochota",
+      "updated_at": "2026-09-02T11:19:01.845856+00:00"
+    },
+    "zielone-s-siedztwo-ogr-d-spo-eczny-w-azienkach-kr-lewskich-2026-09-07T17:00:00+02:00": {
+      "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
+      "date": "2026-09-07T17:00:00+02:00",
+      "end_date": "2026-09-07T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Stwórz wspólnie z nami ogród społeczny Łazienek Królewskich — przestrzeń aktywnego działania, edukacji ekologicznej oraz integracji lokalnej społeczności! Zapisy do 3 lipca 2026 r.: Formularz zgłoszeniowy należy przesłać na adres e-mail: ogrod.spoleczny@lazienki-krolewskie.pl Formularz online Do 6 lipca (włącznie) potwierdzimy udział w projekcie. Decyduje kolejność zgłoszeń. Ekspertka ogrodnictwa: Zuzanna Molak — ogrodniczka, przyrodniczka, edukatorka. Absolwentka biologii i ogrodnictwa na SGGW. Obecnie edukuje dzieci i dorosłych w zakresie przyrody i ogrodnictwa. Fanpage: Facebook O projekcie: Inicjatywa skierowana do mieszkańców Warszawy — rodzin z dziećmi, młodzieży i dorosłych, w tym osób o szczególnych potrzebach. Uczestnicy aktywnie zaangażują się w tworzenie i pielęgnację ogrodu działającego jako obieg zamknięty: powstanie kompostownik, wprowadzimy rozwiązania wspierające retencję wody, posadzimy rośliny użytkowe, zioła oraz gatunki miododajne wspierające dzikie zapylacze, co wzmocni lokalną bioróżnorodność. Projekt ma na celu poprawę jakości środowiska, budowanie relacji społecznych i poczucia współodpowiedzialności za dziedzictwo przyrodnicze i kulturowe Łazienek Królewskich. W ramach przedsięwzięcia realizowane będą liczne działania edukacyjne i warsztaty DIY. Projekt obejmuje: Cykl spotkań edukacyjnych prowadzonych przez ekspertów z zakresu przyrody, ogrodnictwa, dendrologii oraz historii Łazienek Królewskich. Wspólne projektowanie ogrodu społecznego oraz dobór roślin z uwzględnieniem funkcji użytkowych i ekologicznych. Zakładanie ogrodu: nasadzenia roślin użytkowych, ziół i gatunków miododajnych. Utworzenie kompostownika oraz wdrożenie rozwiązań wspierających retencję wody. Warsztaty praktyczne typu DIY, m.in. tworzenie ceramicznych tabliczek opisujących rośliny. Regularne spotkania uczestników sprzyjające integracji, wymianie doświadczeń i budowaniu poczucia wspólnoty. Spotkanie podsumowujące projekt, obejmujące ewaluację działań oraz wzmocnienie trwałości inicjatywy. Harmonogram spotkań (spotkania z ekspertką ds. ogrodnictwa w Nowej Palmiarni): 9 lipca, godz. 18:00–20:00 — Spotkanie otwierające 16 lipca, godz. 18:00–20:00 — Kompost 23 lipca, godz. 18:00–20:00 — Uprawa warzyw cz. 1 25 lipca, godz. 15:00–16:30 — Spacer \"Dziko rosnące rośliny jadalne i lecznicze\" 6 sierpnia, godz. 18:00–20:00 — Uprawa warzyw cz. 2 13 sierpnia, godz. 18:00–20:00 — Permakultura 20 sierpnia, godz. 18:00–20:00 — Miejskie ogrodnictwo 1 września, godz. 18:00–20:00 — Bioróżnorodność 8 września, godz. 18:00–20:00 — Woda w ogrodzie 15 września, godz. 18:00–20:00 — Krzewy owocowe 1 października, godz. 18:00–20:00 — Naturalne metody ochrony roślin 8 października, godz. 18:00–20:00 — Bank nasion 15 października, godz. 18:00–20:00 Warsztaty tworzenia ceramicznych tabliczek (Nowa Palmiarnia): 21 lipca, godz. 18:00–20:00 — I część 30 lipca, godz. 18:00–20:00 — II część Spacery po łazienkowskich ogrodach (start: Nowa Palmiarnia): 27 lipca, godz. 17:00–18:30 — \"Zwierzęta Łazienek Królewskich\" 3 sierpnia, godz. 17:00–18:30 — \"Drzewa Łazienek Królewskich\" 7 września, godz. 17:00–18:30 — \"Historia ogrodów Łazienek Królewskich\" 14 września, godz. 17:00–18:30 — \"Zieleń niska Łazienek Królewskich\" Uwaga: poszczególne daty mogą ulec zmianie; o zmianach będziemy informować zapisanych uczestników. Projekt sfinansowano ze środków Fundacji Veolia Polska.",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Ff5856f8b-dcef-4f40-b0ee-04f9b39c6fba.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/f5856f8b-dcef-4f40-b0ee-04f9b39c6fba",
+      "source": "gojammin.com",
+      "district": "Śródmieście",
+      "location": {
+        "name": "Agrykola 1, 00-460 Warszawa, Poland",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/f5856f8b-dcef-4f40-b0ee-04f9b39c6fba",
+      "scrapped_timestamp": "2026-09-02T11:18:54.897248+00:00",
+      "category": "Nature & Wildlife",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
+          "description": "Stwórz wspólnie z nami ogród społeczny Łazienek Królewskich — przestrzeń aktywnego działania, edukacji ekologicznej oraz integracji lokalnej społeczności! Zapisy do 3 lipca 2026 r.: Formularz zgłoszeniowy należy przesłać na adres e-mail: ogrod.spoleczny@lazienki-krolewskie.pl Formularz online Do 6 lipca (włącznie) potwierdzimy udział w projekcie. Decyduje kolejność zgłoszeń. Ekspertka ogrodnictwa: Zuzanna Molak — ogrodniczka, przyrodniczka, edukatorka. Absolwentka biologii i ogrodnictwa na SGGW. Obecnie edukuje dzieci i dorosłych w zakresie przyrody i ogrodnictwa. Fanpage: Facebook O projekcie: Inicjatywa skierowana do mieszkańców Warszawy — rodzin z dziećmi, młodzieży i dorosłych, w tym osób o szczególnych potrzebach. Uczestnicy aktywnie zaangażują się w tworzenie i pielęgnację ogrodu działającego jako obieg zamknięty: powstanie kompostownik, wprowadzimy rozwiązania wspierające retencję wody, posadzimy rośliny użytkowe, zioła oraz gatunki miododajne wspierające dzikie zapylacze, co wzmocni lokalną bioróżnorodność. Projekt ma na celu poprawę jakości środowiska, budowanie relacji społecznych i poczucia współodpowiedzialności za dziedzictwo przyrodnicze i kulturowe Łazienek Królewskich. W ramach przedsięwzięcia realizowane będą liczne działania edukacyjne i warsztaty DIY. Projekt obejmuje: Cykl spotkań edukacyjnych prowadzonych przez ekspertów z zakresu przyrody, ogrodnictwa, dendrologii oraz historii Łazienek Królewskich. Wspólne projektowanie ogrodu społecznego oraz dobór roślin z uwzględnieniem funkcji użytkowych i ekologicznych. Zakładanie ogrodu: nasadzenia roślin użytkowych, ziół i gatunków miododajnych. Utworzenie kompostownika oraz wdrożenie rozwiązań wspierających retencję wody. Warsztaty praktyczne typu DIY, m.in. tworzenie ceramicznych tabliczek opisujących rośliny. Regularne spotkania uczestników sprzyjające integracji, wymianie doświadczeń i budowaniu poczucia wspólnoty. Spotkanie podsumowujące projekt, obejmujące ewaluację działań oraz wzmocnienie trwałości inicjatywy. Harmonogram spotkań (spotkania z ekspertką ds. ogrodnictwa w Nowej Palmiarni): 9 lipca, godz. 18:00–20:00 — Spotkanie otwierające 16 lipca, godz. 18:00–20:00 — Kompost 23 lipca, godz. 18:00–20:00 — Uprawa warzyw cz. 1 25 lipca, godz. 15:00–16:30 — Spacer \"Dziko rosnące rośliny jadalne i lecznicze\" 6 sierpnia, godz. 18:00–20:00 — Uprawa warzyw cz. 2 13 sierpnia, godz. 18:00–20:00 — Permakultura 20 sierpnia, godz. 18:00–20:00 — Miejskie ogrodnictwo 1 września, godz. 18:00–20:00 — Bioróżnorodność 8 września, godz. 18:00–20:00 — Woda w ogrodzie 15 września, godz. 18:00–20:00 — Krzewy owocowe 1 października, godz. 18:00–20:00 — Naturalne metody ochrony roślin 8 października, godz. 18:00–20:00 — Bank nasion 15 października, godz. 18:00–20:00 Warsztaty tworzenia ceramicznych tabliczek (Nowa Palmiarnia): 21 lipca, godz. 18:00–20:00 — I część 30 lipca, godz. 18:00–20:00 — II część Spacery po łazienkowskich ogrodach (start: Nowa Palmiarnia): 27 lipca, godz. 17:00–18:30 — \"Zwierzęta Łazienek Królewskich\" 3 sierpnia, godz. 17:00–18:30 — \"Drzewa Łazienek Królewskich\" 7 września, godz. 17:00–18:30 — \"Historia ogrodów Łazienek Królewskich\" 14 września, godz. 17:00–18:30 — \"Zieleń niska Łazienek Królewskich\" Uwaga: poszczególne daty mogą ulec zmianie; o zmianach będziemy informować zapisanych uczestników. Projekt sfinansowano ze środków Fundacji Veolia Polska."
+        },
+        "en": {
+          "title": "Green Neighborhood - Community Garden in the Royal Łazienki",
+          "description": "Join us in creating a community garden in the Royal Łazienki — a space for active engagement, ecological education, and integration of the local community! Registration is open until July 3, 2026: Please send the application form to the email address: ogrod.spoleczny@lazienki-krolewskie.pl. Online form. By July 6 (inclusive), we will confirm participation in the project. Registration is on a first-come, first-served basis. Gardening expert: Zuzanna Molak — gardener, naturalist, educator. Graduate in biology and horticulture from SGGW. Currently educating children and adults about nature and gardening. Fanpage: Facebook. About the project: This initiative is aimed at the residents of Warsaw — families with children, youth, and adults, including those with special needs. Participants will actively engage in the creation and maintenance of the garden."
+        },
+        "uk": {
+          "title": "Зелене сусідство - громадський сад у Лазенках Королівських",
+          "description": "Створіть разом з нами громадський сад Лазенок Королівських — простір активних дій, екологічної освіти та інтеграції місцевої громади! Реєстрація до 3 липня 2026 року: Форму заявки потрібно надіслати на електронну адресу: ogrod.spoleczny@lazienki-krolewskie.pl Онлайн форма До 6 липня (включно) ми підтвердимо участь у проекті. Визначає порядок подачі заявок. Експертка садівництва: Зузанна Молак — садівниця, природознавиця, освітянка. Випускниця біології та садівництва на SGGW. Наразі навчає дітей та дорослих у сфері природи та садівництва. Фансторінка: Facebook Про проект: Ініціатива спрямована на мешканців Варшави — родини з дітьми, молодь та дорослих, у тому числі осіб з особливими потребами. Учасники активно залучаться до створення та догляду за садом."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-09-02T11:19:01.845877+00:00"
     }
   }
 }

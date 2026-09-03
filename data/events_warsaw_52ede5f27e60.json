@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T10:48:26.858863+00:00",
+  "updated_at": "2026-09-03T11:07:50.701596+00:00",
   "events": {
     "biegaj-po-woli-bieg-nocny-2026-09-19": {
       "scrapped_timestamp": "2026-06-23T18:57:17.708340+00:00",
@@ -3125,49 +3125,45 @@
       "updated_at": "2026-07-24T12:12:41.402281+00:00"
     },
     "nawzajem-elektroprzygoda-2026-09-19T10:30:00+02:00": {
-      "title": "NAWZAJEM! - Elektroprzygoda",
+      "title": "NAWZAJEM! Elektroprzygoda",
       "date": "2026-09-19T10:30:00+02:00",
       "end_date": "2026-09-19T10:30:00+02:00",
       "startTimeKnown": true,
-      "description": "warsztaty / sobota / 19.09 / 10:30-13:00 / zapisy >> link Warsztaty majsterkowania, podczas których sprawdzimy czy da się zrobić coś z niczego. Przy okazji zajrzymy do środka zepsutych urządzeń, sprawdzimy do czego służą ich części i czy na pewno nadają się tylko do wyrzucenia. Jako materiału użyjemy elektrośmieci, które przynieśli nasi sąsiedzi. Odzyskane elementy zostaną wykorzystane twórczo - powstaną z nich figurki robotów. NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie” i jest finansowany ze środków m.st. Warszawy. Dojazd: - Najbliższy przystanek: Rydygiera (autobusy) – ok. 2 min pieszo, lub Plac Grunwaldzki (tramwaje, autobusy) ok 4 min pieszo - Dojście płaskie, chodnikiem, przed CLŻ droga prosta z drobnym żwirem - Dostępne miejsca parkingowe wzdłuż ul. Rydygiera, w tym miejsce dla osób z niepełnosprawnością - Na budynku Centrum Lokalnego Żoliborz funkcjonuje znacznik ToTuPoint, Dostępność: - w CLŻ jest toaleta dla osób z niepełnosprawnościami - przestrzenie wewnątrz CLŻ są bezprogowe, przyjazne sensorycznie - dostępne na miejscu słuchawki wyciszające. Szczegóły dostępności w Deklaracji Dostępności link Wszystkie wydarzenia w CLŻ są bezpłatne. Na miejscu czeka na Was herbata i kawa, ale miło nam będzie, jeśli przyniesiecie coś do wspólnych zapasów. Zastrzegamy sobie możliwość wprowadzania zmian w harmonogramie lub odwołania wydarzenia.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1030.1784913580.webp",
+      "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Przestrzenie wewnątrz Centrum Lokalnego Żoliborz są bezprogowe i przyjazne sensorycznie, dostępne są słuchawki wyciszające oraz toaleta dla osób z niepełnosprawnościami.",
+      "url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-elektroprzygoda",
+      "source": "zoliborskidomkultury.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 6
+      },
       "location": {
-        "name": "Centrum Lokalne Żoliborz, ul. Rydygiera 6b",
+        "name": "Żoliborski Dom Kultury, Centrum Lokalne Żoliborz · ul. Ludwika Rydygiera 6b",
         "district": "Żoliborz"
       },
-      "url": "https://fb.me/e/8817DRlO6",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://fb.me/e/8817DRlO6",
-      "scrapped_timestamp": "2026-09-02T11:18:38.130544+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "STEM",
-        "Arts"
-      ],
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
+      "image": "https://api.zdk.teapp.pl/uploads/2026-07/images/1783684547487_kto-w-kompoacie-piszczy-12.jpg",
+      "scrapped_url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-elektroprzygoda",
+      "scrapped_timestamp": "2026-09-03T11:05:58.247474+00:00",
       "translations": {
         "pl": {
-          "title": "NAWZAJEM! - Elektroprzygoda",
-          "description": "warsztaty / sobota / 19.09 / 10:30-13:00 / zapisy >> link Warsztaty majsterkowania, podczas których sprawdzimy czy da się zrobić coś z niczego. Przy okazji zajrzymy do środka zepsutych urządzeń, sprawdzimy do czego służą ich części i czy na pewno nadają się tylko do wyrzucenia. Jako materiału użyjemy elektrośmieci, które przynieśli nasi sąsiedzi. Odzyskane elementy zostaną wykorzystane twórczo - powstaną z nich figurki robotów. NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie” i jest finansowany ze środków m.st. Warszawy. Dojazd: - Najbliższy przystanek: Rydygiera (autobusy) – ok. 2 min pieszo, lub Plac Grunwaldzki (tramwaje, autobusy) ok 4 min pieszo - Dojście płaskie, chodnikiem, przed CLŻ droga prosta z drobnym żwirem - Dostępne miejsca parkingowe wzdłuż ul. Rydygiera, w tym miejsce dla osób z niepełnosprawnością - Na budynku Centrum Lokalnego Żoliborz funkcjonuje znacznik ToTuPoint, Dostępność: - w CLŻ jest toaleta dla osób z niepełnosprawnościami - przestrzenie wewnątrz CLŻ są bezprogowe, przyjazne sensorycznie - dostępne na miejscu słuchawki wyciszające. Szczegóły dostępności w Deklaracji Dostępności link Wszystkie wydarzenia w CLŻ są bezpłatne. Na miejscu czeka na Was herbata i kawa, ale miło nam będzie, jeśli przyniesiecie coś do wspólnych zapasów. Zastrzegamy sobie możliwość wprowadzania zmian w harmonogramie lub odwołania wydarzenia."
+          "title": "NAWZAJEM! Elektroprzygoda",
+          "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Przestrzenie wewnątrz Centrum Lokalnego Żoliborz są bezprogowe i przyjazne sensorycznie, dostępne są słuchawki wyciszające oraz toaleta dla osób z niepełnosprawnościami."
         },
         "en": {
-          "title": "TOGETHER! - Electro Adventure",
-          "description": "workshop / Saturday / 19.09 / 10:30-13:00 / registration >> link A DIY workshop where we will check if it's possible to make something out of nothing. Along the way, we will take a look inside broken devices, examine what their parts are for, and whether they are really only fit for disposal. We will use electronic waste brought by our neighbors as material. The recovered elements will be creatively used to create robot figurines. TOGETHER! is a project promoting ecological attitudes by developing the idea of a second life and circular economy among residents. We want to show that items do not have to immediately become waste – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. This is a space where we 'save'"
+          "title": "TOGETHER! Electro Adventure",
+          "description": "TOGETHER! is a project promoting ecological attitudes by developing the idea of a second life and circular economy among residents. We want to show that items do not have to become waste immediately – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. This is a space where we 'rescue items' from being thrown away, but we also build something more – we learn cooperation, knowledge exchange, and mutual support. It can be said that in this process, we repair not only items but also relationships. The spaces inside the Local Center Żoliborz are barrier-free and sensory-friendly, with noise-canceling headphones and accessible restrooms for people with disabilities."
         },
         "uk": {
-          "title": "NAWZAJEM! - Електропригода",
-          "description": "майстер-класи / субота / 19.09 / 10:30-13:00 / реєстрація >> посилання Майстер-класи з ремонту, під час яких ми перевіримо, чи можна зробити щось з нічого. Заодно заглянемо всередину зламаних пристроїв, перевіримо, для чого слугують їхні частини і чи дійсно вони підходять лише для викидання. Як матеріал ми використаємо електронне сміття, яке принесли наші сусіди. Відновлені елементи будуть використані творчо - з них створять фігурки роботів. NAWZAJEM! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами - їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому \"рятуємо"
+          "title": "НАВЗАЄМ! Електропригода",
+          "description": "НАВЗАЄМ! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами - їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому ми «рятуємо предмети» від викидання, але також будуємо щось більше - навчаємося співпраці, обміну знаннями та взаємної підтримки. Можна сказати, що в цьому процесі ми ремонтуємо не лише предмети, але й стосунки. Простори всередині Центру місцевого Жолібожа безпорогові та чутливі до сприйняття, доступні навушники для приглушення звуку та туалет для осіб з інвалідністю."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Żoliborz",
-      "updated_at": "2026-09-02T11:19:01.845816+00:00"
+      "updated_at": "2026-09-03T11:07:50.524007+00:00"
     },
     "bajka-muzyczna-na-orkiestr-ch-r-i-solist-w-2026-09-19T12:00:00+02:00": {
       "title": "Bajka muzyczna na orkiestrę chór i solistów",
@@ -3420,45 +3416,44 @@
       "updated_at": "2026-08-05T09:03:08.496374+00:00"
     },
     "koncert-rodzinny-muzyczna-podr-do-krainy-wyobra-ni-2026-09-05T12:00:00+02:00": {
-      "title": "Koncert rodzinny - Muzyczna podróż do krainy wyobraźni",
+      "title": "Koncert rodzinny – Muzyczna podróż do krainy wyobraźni",
       "date": "2026-09-05T12:00:00+02:00",
       "end_date": "2026-09-05T12:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Zapraszamy dzieci i ich rodziców na opowiadanie muzycznych bajek i „Muzyczną podróż do krainy wyobraźni\". Tym razem spotkamy się w warszawskiej dzielnicy Wola w sobotę 05 września br. o godz. 12:00 w OKiE SM WOLA - Ośrodku Kultury i Edukacji Spółdzielni Mieszkaniowej Wola przy ul. Powstańców Śląskich 108A. Będzie to interaktywny koncert rodzinny (ok. 50 minut, dla dzieci 5+), który opiera się na historii opowiadanej przez aktora i publiczność, przy akompaniamencie improwizujących muzyków. Będziemy wspólnie wędrowali przez różne krainy wyobraźni, spotykając baśniowe postaci. Być może będziemy walczyli z potworami lub odkrywali skarby. Wszystko zależy od uczestników koncertu i ich wyobraźni. Każdy najdziwniejszy i najbardziej zwariowany pomysł podsunięty przez dzieci może zostać opowiedziany i zagrany, ponieważ będzie nam towarzyszyła powstająca na żywo muzyka, podkreślająca emocje i wprowadzająca w atmosferę tworzonych historii. Ze swojej strony obiecujemy mnóstwo improwizacji i dobrej zabawy. A jakie przygody nas czekają? Tego dowiemy się na koncercie. Udział w wydarzeniu jest bezpłatny. Do zobaczenia! * Koncert odbywa się w ramach projektu PTMW „Warszawa kreatywna\" i jest współfinansowany ze środków Miasta Stołecznego Warszawy. ** Zapraszamy również melomanów ze specjalnymi potrzebami. Prosimy o informację na adres ptmw@epistola.pl , jeśli będzie potrzebna pomoc w Waszym uczestnictwie w koncercie. Chętnie pomożemy. Organizator: Polskie Towarzystwo Muzyki Współczesnej | Współfinansowanie: Miasto Stołeczne Warszawa | Partnerzy: OKiE SM WOLA - Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola, Agencja Muzyczna Art Deco Group | Patronat medialny: Polskie Radio RDC, POLMIC.PL - Polskie Centrum Informacji Muzycznej, waw4free.pl, cameralmusic.pl i wolnasobota.pl",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1786706503.webp",
-      "location": {
-        "name": "OKiE SM WOLA, ul. Powstańców Śląskich 108A",
-        "district": "Wola"
-      },
-      "url": "https://www.facebook.com/events/2869997810009704/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/2869997810009704/",
-      "scrapped_timestamp": "2026-09-02T11:18:03.695845+00:00",
+      "description": "Zapraszamy dzieci i rodziców do OKiE SM WOLA na „Muzyczną podróż do krainy wyobraźni” i wspólne układanie muzycznych bajek.",
+      "url": "https://okie.smwola.com.pl/koncert-rodzinny-muzyczna-podroz-do-krainy-wyobrazni/",
+      "source": "okie.smwola.com.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
       "category": "Music & Dance",
       "age_range": {
-        "min": 5,
-        "max": 13
+        "min": 0,
+        "max": 6
       },
+      "location": {
+        "name": "OKiE SM WOLA · ul. Powstańców Śląskich 108A lok. 22",
+        "district": "Bemowo"
+      },
+      "scrapped_url": "https://okie.smwola.com.pl/koncert-rodzinny-muzyczna-podroz-do-krainy-wyobrazni/",
+      "scrapped_timestamp": "2026-09-03T11:05:56.612251+00:00",
       "translations": {
         "pl": {
-          "title": "Koncert rodzinny - Muzyczna podróż do krainy wyobraźni",
-          "description": "Zapraszamy dzieci i ich rodziców na opowiadanie muzycznych bajek i „Muzyczną podróż do krainy wyobraźni\". Tym razem spotkamy się w warszawskiej dzielnicy Wola w sobotę 05 września br. o godz. 12:00 w OKiE SM WOLA - Ośrodku Kultury i Edukacji Spółdzielni Mieszkaniowej Wola przy ul. Powstańców Śląskich 108A. Będzie to interaktywny koncert rodzinny (ok. 50 minut, dla dzieci 5+), który opiera się na historii opowiadanej przez aktora i publiczność, przy akompaniamencie improwizujących muzyków. Będziemy wspólnie wędrowali przez różne krainy wyobraźni, spotykając baśniowe postaci. Być może będziemy walczyli z potworami lub odkrywali skarby. Wszystko zależy od uczestników koncertu i ich wyobraźni. Każdy najdziwniejszy i najbardziej zwariowany pomysł podsunięty przez dzieci może zostać opowiedziany i zagrany, ponieważ będzie nam towarzyszyła powstająca na żywo muzyka, podkreślająca emocje i wprowadzająca w atmosferę tworzonych historii. Ze swojej strony obiecujemy mnóstwo improwizacji i dobrej zabawy. A jakie przygody nas czekają? Tego dowiemy się na koncercie. Udział w wydarzeniu jest bezpłatny. Do zobaczenia! * Koncert odbywa się w ramach projektu PTMW „Warszawa kreatywna\" i jest współfinansowany ze środków Miasta Stołecznego Warszawy. ** Zapraszamy również melomanów ze specjalnymi potrzebami. Prosimy o informację na adres ptmw@epistola.pl , jeśli będzie potrzebna pomoc w Waszym uczestnictwie w koncercie. Chętnie pomożemy. Organizator: Polskie Towarzystwo Muzyki Współczesnej | Współfinansowanie: Miasto Stołeczne Warszawa | Partnerzy: OKiE SM WOLA - Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola, Agencja Muzyczna Art Deco Group | Patronat medialny: Polskie Radio RDC, POLMIC.PL - Polskie Centrum Informacji Muzycznej, waw4free.pl, cameralmusic.pl i wolnasobota.pl"
+          "title": "Koncert rodzinny – Muzyczna podróż do krainy wyobraźni",
+          "description": "Zapraszamy dzieci i rodziców do OKiE SM WOLA na „Muzyczną podróż do krainy wyobraźni” i wspólne układanie muzycznych bajek."
         },
         "en": {
-          "title": "Family Concert - A Musical Journey to the Land of Imagination",
-          "description": "We invite children and their parents to a storytelling musical adventure and 'A Musical Journey to the Land of Imagination.' This time we will meet in the Wola district of Warsaw on Saturday, September 5th at 12:00 PM at OKiE SM WOLA - the Cultural and Educational Center of the Wola Housing Cooperative at 108A Powstańców Śląskich Street. It will be an interactive family concert (approximately 50 minutes, for children aged 5 and up), based on a story told by an actor and the audience, accompanied by improvising musicians. We will wander together through various lands of imagination, meeting fairy-tale characters. Perhaps we will fight monsters or discover treasures. Everything depends on the participants of the concert and their imagination. Every strangest and most whimsical idea suggested by the children can be told."
+          "title": "Family Concert – Musical Journey to the Land of Imagination",
+          "description": "We invite children and parents to OKiE SM WOLA for a 'Musical Journey to the Land of Imagination' and to create musical fairy tales together."
         },
         "uk": {
-          "title": "Сімейний концерт - Музична подорож до країни уяви",
-          "description": "Запрошуємо дітей та їхніх батьків на оповідання музичних казок та «Музичну подорож до країни уяви». Цього разу ми зустрінемося у варшавському районі Вола в суботу 5 вересня о 12:00 в OKiE SM WOLA - Центрі культури та освіти житлового кооперативу Вола за адресою вул. Повстанців Сілезьких 108А. Це буде інтерактивний сімейний концерт (приблизно 50 хвилин, для дітей 5+), який базується на історії, що розповідається актором та публікою, під акомпанемент імпровізуючих музикантів. Ми разом подорожуватимемо через різні країни уяви, зустрічаючи казкових персонажів. Можливо, ми будемо боротися з монстрами або відкривати скарби. Все залежить від учасників концерту та їхньої уяви. Кожна найдивніша та найбожевільніша ідея, запропонована дітьми, може бути розказана."
+          "title": "Сімейний концерт – Музична подорож до країни уяви",
+          "description": "Запрошуємо дітей та батьків до ОКіЕ СМ ВОЛЯ на «Музичну подорож до країни уяви» та спільне складання музичних казок."
         }
       },
       "admission": {
         "is_free": true
       },
-      "district": "Wola",
-      "updated_at": "2026-09-02T11:19:01.845689+00:00"
+      "district": "Bemowo",
+      "updated_at": "2026-09-03T11:07:50.523986+00:00"
     },
     "akademia-pani-nutki-ma-a-symfonia-natury-0-3-lata-2026-09-26T09:30:00+02:00": {
       "title": "Akademia Pani Nutki: Mała Symfonia Natury (0-3 lata)",
@@ -9909,48 +9904,49 @@
       "updated_at": "2026-08-31T13:38:42.688713+00:00"
     },
     "ekopower-piknik-ekologiczny-2026-09-06T15:00:00+02:00": {
-      "title": "EkoPower – piknik ekologiczny",
+      "title": "EKOPOWER - piknik ekologiczny",
       "date": "2026-09-06T15:00:00+02:00",
       "end_date": "2026-09-06T15:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Zużyte baterie i sprzęt elektroniczny można bezpłatnie wymienić na rośliny. Na finał spektakl poprowadzony przez Joannę Jabłczyńską. Wstęp bezpłatny.",
-      "url": "https://wawer.um.warszawa.pl/-/ekopower-piknik-ekologiczny-2026",
-      "source": "wawer.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
+      "description": "🍃 𝗪𝘆𝗺𝗶𝗲𝗻́ 𝗲𝗹𝗲𝗸𝘁𝗿𝗼𝗼𝗱𝗽𝗮𝗱𝘆 𝗻𝗮 𝗿𝗼𝘀́𝗹𝗶𝗻𝘆! 𝗪𝗲𝘇́ 𝘂𝗱𝘇𝗶𝗮ł 𝘄 𝗽𝗿𝘇𝘆𝗿𝗼𝗱𝗻𝗶𝗰𝘇𝘆𝗰𝗵 𝘄𝗮𝗿𝘀𝘇𝘁𝗮𝘁𝗮𝗰𝗵! 𝗗𝗼𝘄𝗶𝗲𝗱𝘇 𝘀𝗶𝗲̨ 𝗰𝘇𝗲𝗴𝗼𝘀́ 𝘄𝗶𝗲̨𝗰𝗲𝗷 𝗼 𝗘𝗞𝗢 𝗽𝗼𝗱𝗲𝗷𝘀́𝗰𝗶𝘂 𝗱𝗼 𝘇̇𝘆𝗰𝗶𝗮 𝗶 𝗽𝗼 𝗽𝗿𝗼𝘀𝘁𝘂 𝗽𝗿𝘇𝘆𝗷𝗱𝘇́ 𝗻𝗮 𝗻𝗮𝘀𝘇 𝗰𝗼𝗿𝗼𝗰𝘇𝗻𝘆 𝗽𝗶𝗸𝗻𝗶𝗸 𝗲𝗸𝗼𝗹𝗼𝗴𝗶𝗰𝘇𝗻𝘆 #EKOPOWER! Czeka Cię masa atrakcji i piękne rośliny 🪴. 📅 6 września, w godz. 15:00 - 20:00 📌 Plaża Romantyczna Wawer wstęp wolny Program: 15:00- 19:00 - stanowiska edukacyjno-warsztatowe, stanowiska „zrób to sam” i stanowiska ekologiczno- rozrywkowe; 15:00 -20:00 - animacje dla dzieci (dmuchańce, malowanie buziek tatuaże, warkoczyki i bańki, zwierzątka z balonów) 16:00 - 17:00 - „Fu-Turyści” - happening (parada) Teatru Akt / szczegóły >> link 18:00 -19:00 - koncert Warszawskiej Orkiestry Sentymentalnej (druga polana) 19:00 - 20:00- spektakl teatralny Teatru Akt pn. „Kalos kaghatos” / szczegóły >> link 20:00 - koncert zespołu PECTUS (druga polana) / szczegóły >> link Podczas pikniku będziecie mogli skorzystać również z tego, co przygotowali partnerzy wydarzenia: ✅ Lasy Miejskie - Warszawa - przyrodnicze zagadki i wyzwania z atrakcyjnymi nagrodami ✅ #MPO - quizy i nagrody z gadżetami, edukacyjne \"małe wysypisko odpadów\" ✅ Wodociągi Warszawskie ✅ Mazowiecki Zespół Parków Krajobrazowych - konkursy o tematyce ekologicznej dla dzieci i dorosłych, warsztaty plastyczne, puzzle, gra koło fortuny, tablice magnetyczne ✅ Straż Miejska w Warszawie - smogowóz ✅ OSP Warszawa Radość ✅ Elektrośmieci - quiz z nagrodami, warsztaty dekorowania toreb, eko-rebusy ✅ Mazowiecka Agencja Energetyczna - konkursy i quizy z nagrodami dotyczące efektywności energetycznej, oszczędzania energii i ekologicznych nawyków, „Gra w Węgiel” – warsztat o cyklu węglowym ✅ Wody Polskie - drobne upominki, zabawa w formie koła fortuny 🚌 Zalecamy przyjazd komunikacją miejską lub rowerami.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788371627.webp",
       "location": {
-        "name": "Plaża Romantyczna · ul. Rychnowska 15",
+        "name": "Plaża Romantyczna",
         "district": "Wawer"
       },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://wawer.um.warszawa.pl/-/ekopower-piknik-ekologiczny-2026",
-      "scrapped_timestamp": "2026-08-31T13:30:35.271153+00:00",
+      "url": "https://www.facebook.com/events/1371093878487801/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1371093878487801/",
+      "scrapped_timestamp": "2026-09-03T11:06:33.678377+00:00",
       "category": "Family Fun",
       "additional_categories": [
-        "Nature & Wildlife"
+        "Educational",
+        "Outdoor Adventure"
       ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "translations": {
         "pl": {
-          "title": "EkoPower – piknik ekologiczny",
-          "description": "Zużyte baterie i sprzęt elektroniczny można bezpłatnie wymienić na rośliny. Na finał spektakl poprowadzony przez Joannę Jabłczyńską. Wstęp bezpłatny."
+          "title": "EKOPOWER - piknik ekologiczny",
+          "description": "🍃 𝗪𝘆𝗺𝗶𝗲𝗻́ 𝗲𝗹𝗲𝗸𝘁𝗿𝗼𝗼𝗱𝗽𝗮𝗱𝘆 𝗻𝗮 𝗿𝗼𝘀́𝗹𝗶𝗻𝘆! 𝗪𝗲𝘇́ 𝘂𝗱𝘇𝗶𝗮ł 𝘄 𝗽𝗿𝘇𝘆𝗿𝗼𝗱𝗻𝗶𝗰𝘇𝘆𝗰𝗵 𝘄𝗮𝗿𝘀𝘇𝘁𝗮𝘁𝗮𝗰𝗵! 𝗗𝗼𝘄𝗶𝗲𝗱𝘇 𝘀𝗶𝗲̨ 𝗰𝘇𝗲𝗴𝗼𝘀́ 𝘄𝗶𝗲̨𝗰𝗲𝗷 𝗼 𝗘𝗞𝗢 𝗽𝗼𝗱𝗲𝗷𝘀́𝗰𝗶𝘂 𝗱𝗼 𝘇̇𝘆𝗰𝗶𝗮 𝗶 𝗽𝗼 𝗽𝗿𝗼𝘀𝘁𝘂 𝗽𝗿𝘇𝘆𝗷𝗱𝘇́ 𝗻𝗮 𝗻𝗮𝘀𝘇 𝗰𝗼𝗿𝗼𝗰𝘇𝗻𝘆 𝗽𝗶𝗸𝗻𝗶𝗸 𝗲𝗸𝗼𝗹𝗼𝗴𝗶𝗰𝘇𝗻𝘆 #EKOPOWER! Czeka Cię masa atrakcji i piękne rośliny 🪴. 📅 6 września, w godz. 15:00 - 20:00 📌 Plaża Romantyczna Wawer wstęp wolny Program: 15:00- 19:00 - stanowiska edukacyjno-warsztatowe, stanowiska „zrób to sam” i stanowiska ekologiczno- rozrywkowe; 15:00 -20:00 - animacje dla dzieci (dmuchańce, malowanie buziek tatuaże, warkoczyki i bańki, zwierzątka z balonów) 16:00 - 17:00 - „Fu-Turyści” - happening (parada) Teatru Akt / szczegóły >> link 18:00 -19:00 - koncert Warszawskiej Orkiestry Sentymentalnej (druga polana) 19:00 - 20:00- spektakl teatralny Teatru Akt pn. „Kalos kaghatos” / szczegóły >> link 20:00 - koncert zespołu PECTUS (druga polana) / szczegóły >> link Podczas pikniku będziecie mogli skorzystać również z tego, co przygotowali partnerzy wydarzenia: ✅ Lasy Miejskie - Warszawa - przyrodnicze zagadki i wyzwania z atrakcyjnymi nagrodami ✅ #MPO - quizy i nagrody z gadżetami, edukacyjne \"małe wysypisko odpadów\" ✅ Wodociągi Warszawskie ✅ Mazowiecki Zespół Parków Krajobrazowych - konkursy o tematyce ekologicznej dla dzieci i dorosłych, warsztaty plastyczne, puzzle, gra koło fortuny, tablice magnetyczne ✅ Straż Miejska w Warszawie - smogowóz ✅ OSP Warszawa Radość ✅ Elektrośmieci - quiz z nagrodami, warsztaty dekorowania toreb, eko-rebusy ✅ Mazowiecka Agencja Energetyczna - konkursy i quizy z nagrodami dotyczące efektywności energetycznej, oszczędzania energii i ekologicznych nawyków, „Gra w Węgiel” – warsztat o cyklu węglowym ✅ Wody Polskie - drobne upominki, zabawa w formie koła fortuny 🚌 Zalecamy przyjazd komunikacją miejską lub rowerami."
         },
         "en": {
-          "title": "EkoPower – Ecological Picnic",
-          "description": "Used batteries and electronic equipment can be exchanged for plants for free. The finale will feature a performance led by Joanna Jabłczyńska. Admission is free."
+          "title": "EKOPOWER - Ecological Picnic",
+          "description": "🍃 𝗘𝗹𝗲𝗰𝘁𝗿𝗼𝗼𝗱𝗽𝗮𝗱𝘆 𝗲𝗻𝗰𝗵𝗮𝗻𝗴𝗲 𝗳𝗼𝗿 𝗽𝗹𝗮𝗻𝘁𝘀! 𝗝𝗼𝗶𝗻 𝘂𝘀 𝗳𝗼𝗿 𝗮 𝗻𝗮𝘁𝘂𝗿𝗮𝗹 𝗲𝗻𝗰𝗵𝗮𝗻𝘁𝗺𝗲𝗻𝘁! 𝗟𝗲𝗮𝗿𝗻 𝗺𝗼𝗿𝗲 𝗮𝗯𝗼𝘂𝘁 𝗘𝗞𝗢 𝗮𝗽𝗽𝗿𝗼𝗮𝗰𝗵𝗲𝘀 𝘁𝗼 𝗹𝗶𝗳𝗲 𝗮𝗻𝗱 𝗷𝘂𝘀𝘁 𝗰𝗼𝗺𝗲 𝘁𝗼 𝗼𝘂𝗿 𝗮𝗻𝗻𝘂𝗮𝗹 𝗲𝗰𝗼𝗹𝗼𝗴𝗶𝗰𝗮𝗹 𝗽𝗶𝗰𝗻𝗶𝗰 #EKOPOWER! 𝗬𝗼𝘂'𝗹𝗹 𝗲𝗻𝗰𝗼𝘂𝗻𝘁𝗲𝗿 𝗮 𝗹𝗼𝘁 𝗼𝗳 𝗮𝘁𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝗯𝗲𝗮𝘂𝘁𝗶𝗳𝘂𝗹 𝗽𝗹𝗮𝗻𝘁𝘀 🪴. 📅 September 6, from 3:00 PM to 8:00 PM 📌 Romantyczna Beach Wawer free entry Program: 3:00 PM - 7:00 PM - educational and workshop stations, DIY stations, and ecological entertainment stations; 3:00 PM - 8:00 PM - children's animations (bouncy castles, face painting, tattoos, braids, and bubbles, balloon animals) 4:00 PM - 5:00 PM - \"Fu-Turists\" - happening (parade) by Teatr Akt / details >> link 6:00 PM - 7:00 PM - concert by the Warsaw Sentimental Orchestra (second glade) 7:00 PM - 8:00 PM - theater performance by Teatr Akt titled \"Kalos kaghatos\" / details >> link"
         },
         "uk": {
-          "title": "EkoPower – екологічний пікнік",
-          "description": "Використані батареї та електронне обладнання можна безкоштовно обміняти на рослини. На фінал вистави веде Joanna Jabłczyńska. Вхід безкоштовний."
+          "title": "EKOPOWER - екологічний пікнік",
+          "description": "🍃 𝗘𝗹𝗲𝗸𝘁𝗿𝗼𝗼𝗱𝗽𝗮𝗱𝘆 𝗻𝗮 𝗿𝗼𝘀́𝗹𝗶𝗻𝘆! 𝗪𝗲𝘇́ 𝘂𝗱𝘇𝗶𝗮ł 𝘄 𝗽𝗿𝘇𝘆𝗿𝗼𝗱𝗻𝗶𝗰𝘇𝗵 𝘄𝗮𝗿𝘀𝘁𝗮𝘁𝗮𝗰𝗵! 𝗗𝗼𝘄𝗶𝗲𝗱𝘇 𝘀𝗶𝗲̨ 𝗰𝘇𝗲𝗴𝗼𝘀́ 𝘄𝗶𝗲̨𝗰𝗲𝗷 𝗼 𝗘𝗞𝗢 𝗽𝗼𝗱𝗲𝗷𝘀́𝗰𝗶𝘂 𝗱𝗼 𝘇̇𝘆𝗰𝗶𝗮 𝗶 𝗽𝗼 𝗽𝗿𝗼𝘀𝘁у 𝗽𝗿𝘇𝘆𝗷𝗱𝘇́ 𝗻𝗮 𝗻𝗮𝘀𝘇 𝗰𝗼𝗿𝗼𝗰𝘇𝗻𝘆 𝗽𝗶𝗸𝗻𝗶𝗸 𝗲𝗸𝗼𝗹𝗼𝗴𝗶𝗰𝘇𝗻𝘆 #EKOPOWER! Тебе чекає маса атракцій та красиві рослини 🪴. 📅 6 вересня, з 15:00 до 20:00 📌 Пляж Романтичний Вавер, вхід вільний Програма: 15:00-19:00 - освітні та майстер-класові станції, станції «зроби це сам» та екологічно-розважальні станції; 15:00-20:00 - анімації для дітей (надувні гірки, розмальовування облич, татуювання, косички та мильні бульбашки, тваринки з повітряних кульок) 16:00-17:00 - «Fu-Turyści» - хепенінг (парад) Театру Акт / деталі >> посилання 18:00-19:00 - концерт Варшавського сентиментального оркестру (друга поляна) 19:00-20:00 - театральна вистава Театру Акт під назвою «Kalos kaghatos» / деталі >> посилання"
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Wawer",
-      "updated_at": "2026-08-31T13:38:42.688731+00:00"
+      "updated_at": "2026-09-03T11:07:50.524144+00:00"
     },
     "dzie-otwarty-w-wck-anin-2026-09-07T16:00:00+02:00": {
       "title": "Dzień Otwarty w WCK Anin",
@@ -16135,6 +16131,740 @@
         "is_free": false
       },
       "updated_at": "2026-09-02T11:19:01.845877+00:00"
+    },
+    "rembertowskie-kino-pod-gwiazdami-2026-hotel-transylwania-film-familijny-2026-09-03T00:00:00+02:00": {
+      "title": "REMBERTOWSKIE KINO POD GWIAZDAMI 2026. „Hotel Transylwania” – film familijny.",
+      "date": "2026-09-03T00:00:00+02:00",
+      "end_date": "2026-09-03T00:00:00+02:00",
+      "startTimeKnown": false,
+      "url": "https://czasdzieci.pl/warszawa/wydarzenia/id,140866536.html",
+      "description": "Hrabia Drakula i jego 118-letnia córka prowadzą hotel w Transylwanii. Przyjaźń dziewczynki z ludzkim chłopcem wpędza rodzinę w nielada kłopoty i przysparza wielu przezabawnych sytuacji! Opis dystrybutora ze strony Filmweb.pl Regulamin i dostępność: https://dkwygoda.waw.pl/event/rembertowskie-kino-pod-gwiazdami-2026-hotel-transylwania-film-familijny/ Projekt realizowany i finansowany w ramach Budżetu Obywatelskiego na rok 2026. Współorganizator: Dzielnica Rembertów m.st. Warszawy. Miejsce seansu: teren zielony przy Domu Kultury „Wygoda”, ul. Koniecpolska 14",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/11-105-836-8366a6080c364c421784709315i-insert-i.png",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul. Koniecpolska 14",
+        "district": "Śródmieście"
+      },
+      "age_range": {
+        "min": 2,
+        "max": 4
+      },
+      "scrapped_url": "https://czasdzieci.pl/warszawa/wydarzenia/id,140866536.html",
+      "scrapped_timestamp": "2026-09-03T11:05:51.692273+00:00",
+      "category": "Cinema",
+      "translations": {
+        "pl": {
+          "title": "REMBERTOWSKIE KINO POD GWIAZDAMI 2026. „Hotel Transylwania” – film familijny.",
+          "description": "Hrabia Drakula i jego 118-letnia córka prowadzą hotel w Transylwanii. Przyjaźń dziewczynki z ludzkim chłopcem wpędza rodzinę w nielada kłopoty i przysparza wielu przezabawnych sytuacji! Opis dystrybutora ze strony Filmweb.pl Regulamin i dostępność: https://dkwygoda.waw.pl/event/rembertowskie-kino-pod-gwiazdami-2026-hotel-transylwania-film-familijny/ Projekt realizowany i finansowany w ramach Budżetu Obywatelskiego na rok 2026. Współorganizator: Dzielnica Rembertów m.st. Warszawy. Miejsce seansu: teren zielony przy Domu Kultury „Wygoda”, ul. Koniecpolska 14"
+        },
+        "en": {
+          "title": "REMBERTÓW CINEMA UNDER THE STARS 2026. 'Hotel Transylvania' – family film.",
+          "description": "Count Dracula and his 118-year-old daughter run a hotel in Transylvania. The friendship between the girl and a human boy gets the family into quite a bit of trouble and leads to many hilarious situations! Distributor's description from Filmweb.pl. Terms and availability: https://dkwygoda.waw.pl/event/rembertowskie-kino-pod-gwiazdami-2026-hotel-transylwania-film-familijny/ Project implemented and funded as part of the Citizen Budget for 2026. Co-organizer: Rembertów District of the Capital City of Warsaw. Screening location: green area by the 'Wygoda' Cultural Center, ul. Koniecpolska 14."
+        },
+        "uk": {
+          "title": "РЕМБЕРТОВСЬКЕ КІНО ПІД ЗІРКАМИ 2026. «Готель Трансильванія» – сімейний фільм.",
+          "description": "Граф Дракула та його 118-річна донька керують готелем у Трансильванії. Дружба дівчинки з людським хлопчиком потрапляє родину в неабиякі неприємності та приносить багато кумедних ситуацій! Опис дистриб'ютора з сайту Filmweb.pl Правила та доступність: https://dkwygoda.waw.pl/event/rembertowskie-kino-pod-gwiazdami-2026-hotel-transylwania-film-familijny/ Проект реалізується та фінансується в рамках Бюджету Громади на 2026 рік. Співорганізатор: Район Рембертів м. Варшави. Місце сеансу: зелена зона біля Будинку Культури «Вигода», вул. Конєцпольська 14"
+        }
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-03T11:07:50.523957+00:00"
+    },
+    "witamy-szko-czyli-wielki-antykwariat-w-blue-city-2026-09-05T10:00:00+02:00": {
+      "title": "Witamy szkołę czyli Wielki Antykwariat w Blue City",
+      "date": "2026-09-05T10:00:00+02:00",
+      "end_date": "2026-09-05T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Rok szkolny zapukał do drzwi, a wraz z nim nieuchronny koniec lata. Z tej okazji zapraszamy do Blue City na kolejną edycję Wielkiego Antykwariatu – książkowo-płytowej imprezy, na której będzie można zaopatrzyć się w lektury szkolne oraz te umilające jesień. Czekamy przez 3 dni! Na początku roku szkolnego, od czwartku do soboty – 03-05 września, zapraszamy na łowy książek i płyt z drugiej ręki. Znana warszawska Księgarnia i Antykwariat Unikat połączyła swoje siły z podobnymi placówkami, sklepami z płytami winylowymi oraz prywatnymi wystawcami, tak by przez 3 dni można było w jednym miejscu poszukać lektur szkolnych oraz lektur i muzyki na jesień! Gwarantujemy, że każdy znajdzie coś dla siebie. Szczególnie ciepło organizatorzy zapraszają dzieci i młodzież. Warto w sobie od najmłodszych lat wyrabiać nawyk czytania. Ceny już od 5 złotych! Czekamy na poziomie -1 przy fontannie w godzinach pracy centrum! Zapraszamy! Wstęp wolny.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1788344119.webp",
+      "location": {
+        "name": "Blue City, Aleje Jerozolimskie 179",
+        "district": "Ochota"
+      },
+      "url": "https://bluecity.pl/wydarzenia/wielki-antykwariat-wrzesien-2026/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://bluecity.pl/wydarzenia/wielki-antykwariat-wrzesien-2026/",
+      "scrapped_timestamp": "2026-09-03T11:06:02.048532+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Witamy szkołę czyli Wielki Antykwariat w Blue City",
+          "description": "Rok szkolny zapukał do drzwi, a wraz z nim nieuchronny koniec lata. Z tej okazji zapraszamy do Blue City na kolejną edycję Wielkiego Antykwariatu – książkowo-płytowej imprezy, na której będzie można zaopatrzyć się w lektury szkolne oraz te umilające jesień. Czekamy przez 3 dni! Na początku roku szkolnego, od czwartku do soboty – 03-05 września, zapraszamy na łowy książek i płyt z drugiej ręki. Znana warszawska Księgarnia i Antykwariat Unikat połączyła swoje siły z podobnymi placówkami, sklepami z płytami winylowymi oraz prywatnymi wystawcami, tak by przez 3 dni można było w jednym miejscu poszukać lektur szkolnych oraz lektur i muzyki na jesień! Gwarantujemy, że każdy znajdzie coś dla siebie. Szczególnie ciepło organizatorzy zapraszają dzieci i młodzież. Warto w sobie od najmłodszych lat wyrabiać nawyk czytania. Ceny już od 5 złotych! Czekamy na poziomie -1 przy fontannie w godzinach pracy centrum! Zapraszamy! Wstęp wolny."
+        },
+        "en": {
+          "title": "Welcome to School: The Great Antiquarian Book Fair at Blue City",
+          "description": "The school year has knocked on the door, bringing with it the inevitable end of summer. To celebrate this occasion, we invite you to Blue City for another edition of the Great Antiquarian Book Fair – a book and record event where you can stock up on school readings and those that make autumn more enjoyable. We are waiting for you for 3 days! At the beginning of the school year, from Thursday to Saturday – September 3-5, we invite you to hunt for second-hand books and records. The well-known Warsaw bookstore and antiquarian shop Unikat has joined forces with similar establishments, vinyl record shops, and private exhibitors, so that for 3 days you can search for school readings as well as literature and music for autumn all in one place! We guarantee that everyone will find something for themselves. The organizers especially warmly invite children and youth. It is worth cultivating a love for reading from a young age."
+        },
+        "uk": {
+          "title": "Ласкаво просимо до школи, або Великий Антикваріат у Blue City",
+          "description": "Шкільний рік постукав у двері, а разом з ним неминучий кінець літа. З цієї нагоди запрошуємо до Blue City на чергову редакцію Великого Антикваріату – книжково-музичної події, на якій можна буде придбати шкільні читання та ті, що зроблять осінь приємнішою. Чекаємо протягом 3 днів! На початку шкільного року, з четверга по суботу – 03-05 вересня, запрошуємо на полювання за книгами та платівками з другої руки. Відома варшавська Книгарня та Антикваріат Unikat об'єднали свої сили з подібними закладами, магазинами вінілових платівок та приватними виставцями, щоб протягом 3 днів можна було в одному місці знайти шкільні читання, а також літературу та музику на осінь! Гарантуємо, що кожен знайде щось для себе. Особливо тепло організатори запрошують дітей та молодь. Варто в собі з наймолодших років..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Ochota",
+      "updated_at": "2026-09-03T11:07:50.524031+00:00"
+    },
+    "dzieci-cy-wrzesie-w-parku-pi-ciu-si-str-2026-09-30T10:00:00+02:00": {
+      "title": "Dziecięcy Wrzesień w Parku Pięciu Sióstr",
+      "date": "2026-09-30T10:00:00+02:00",
+      "end_date": "2026-09-30T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Wrzesień wcale nie musi oznaczać końca dobrej zabawy! Choć dzwonek szkolny powoli wzywa do ławek, w Parku Pięciu Sióstr małe i duże uśmiechy wciąż będą na pierwszym miejscu. Przez cały miesiąc na wszystkie dzieci i ich rodziców czeka mnóstwo bezpłatnych atrakcji, które osłodzą powrót do codziennych obowiązków. Chono Lulu serdecznie zaprasza na cykl wydarzeń pod hasłem „Dziecięcy Wrzesień”. To wyjątkowa okazja, by spędzić wartościowy, pełen radości czas w rodzinnym gronie na świeżym powietrzu. Co czeka na najmłodszych? 🏰 Wielki dmuchaniec – Nielimitowany czas zabawy dla wszystkich odwiedzających park 🎨 Kącik Małego Artysty – Narysuj i przynieś dowolny obrazek pt: “Wrzesień” i wymień go na kolorowankę 🏐 Darmowa wypożyczalnia sprzętu –Boisko do siatkówki, badmintona, rakietki, piłki i inne... 🍦 Słodki bonus – w każdy wrześniowy weekend 3. gałka lodów dla dzieci gratis! Gdzie: Chono Lulu Bistro & Bar w Parku Pięciu Sióstr Kiedy: Cały wrzesień Zabierzcie dzieciaki, dobry humor i wpadajcie spędzić z nami czas na świeżym powietrzu! Do zobaczenia!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0000.1788426865.webp",
+      "location": {
+        "name": "Park Pięciu Sióstr, Chono Lulu Bistro & Bar",
+        "district": "Ochota"
+      },
+      "url": "https://fb.me/e/6kuagEtCS",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://fb.me/e/6kuagEtCS",
+      "scrapped_timestamp": "2026-09-03T11:06:06.875246+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Arts",
+        "Outdoor Adventure"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Dziecięcy Wrzesień w Parku Pięciu Sióstr",
+          "description": "Wrzesień wcale nie musi oznaczać końca dobrej zabawy! Choć dzwonek szkolny powoli wzywa do ławek, w Parku Pięciu Sióstr małe i duże uśmiechy wciąż będą na pierwszym miejscu. Przez cały miesiąc na wszystkie dzieci i ich rodziców czeka mnóstwo bezpłatnych atrakcji, które osłodzą powrót do codziennych obowiązków. Chono Lulu serdecznie zaprasza na cykl wydarzeń pod hasłem „Dziecięcy Wrzesień”. To wyjątkowa okazja, by spędzić wartościowy, pełen radości czas w rodzinnym gronie na świeżym powietrzu. Co czeka na najmłodszych? 🏰 Wielki dmuchaniec – Nielimitowany czas zabawy dla wszystkich odwiedzających park 🎨 Kącik Małego Artysty – Narysuj i przynieś dowolny obrazek pt: “Wrzesień” i wymień go na kolorowankę 🏐 Darmowa wypożyczalnia sprzętu –Boisko do siatkówki, badmintona, rakietki, piłki i inne... 🍦 Słodki bonus – w każdy wrześniowy weekend 3. gałka lodów dla dzieci gratis! Gdzie: Chono Lulu Bistro & Bar w Parku Pięciu Sióstr Kiedy: Cały wrzesień Zabierzcie dzieciaki, dobry humor i wpadajcie spędzić z nami czas na świeżym powietrzu! Do zobaczenia!"
+        },
+        "en": {
+          "title": "Children's September in the Park of Five Sisters",
+          "description": "September doesn't have to mean the end of fun! Although the school bell is slowly calling students back to their desks, in the Park of Five Sisters, big and small smiles will still be the priority. Throughout the month, there will be plenty of free attractions waiting for all children and their parents to sweeten the return to daily responsibilities. Chono Lulu warmly invites you to a series of events under the slogan 'Children's September.' This is a unique opportunity to spend valuable, joyful time with family outdoors. What awaits the youngest? 🏰 A giant bouncy castle – Unlimited playtime for all park visitors 🎨 Little Artist Corner – Draw and bring any picture titled 'September' and exchange it for a coloring book 🏐 Free equipment rental – Volleyball court, badminton, rackets, balls, and more..."
+        },
+        "uk": {
+          "title": "Дитячий Вересень у Парку П'яти Сестер",
+          "description": "Вересень зовсім не обов'язково означає кінець гарного відпочинку! Хоча шкільний дзвоник повільно закликає до парт, у Парку П'яти Сестер усмішки малих і великих все ще будуть на першому місці. Протягом усього місяця на всіх дітей та їхніх батьків чекає безліч безкоштовних розваг, які зроблять повернення до повсякденних обов'язків солодшим. Chono Lulu щиро запрошує на цикл подій під гаслом «Дитячий Вересень». Це унікальна можливість провести цінний, сповнений радості час у родинному колі на свіжому повітрі. Що чекає на найменших? 🏰 Великий надувний атракціон – Безлімітний час розваг для всіх відвідувачів парку 🎨 Куточок Малого Художника – Намалюй і принеси будь-який малюнок на тему: “Вересень” і обміняй його на розмальовку 🏐 Безкоштовна оренда обладнання – Майданчик для волейболу, бадмінтону, ракеток, м'ячів та інших..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Ochota",
+      "updated_at": "2026-09-03T11:07:50.524052+00:00"
+    },
+    "game-zone-w-g-city-targ-wek-2026-09-04T11:00:00+02:00": {
+      "title": "GAME ZONE w G City Targówek",
+      "date": "2026-09-04T11:00:00+02:00",
+      "end_date": "2026-09-04T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Fortnite, VR i simracing – G City Targówek zaprasza na wielkie święto gamingu. We wrześniu odbędzie się kolejna edycja GAME ZONE. Już 4 i 5 września G City Targówek ponownie stanie się miejscem spotkań fanów gamingu. W ramach wydarzenia GAME ZONE na odwiedzających czekać będą strefy PC, konsol, VR i simracingu, a największe emocje przyniesie turniej FORTNITE, w którym zmierzy się kilkuset graczy. To propozycja zarówno dla doświadczonych gamerów, jak i osób, które po prostu chcą dobrze spędzić czas w świecie nowych technologii. Fani gamingu mogą już rezerwować pierwszy weekend września. 4 i 5 września G City Targówek zamieni się w centrum wirtualnych emocji – podczas wydarzenia GAME ZONE na uczestników czekać będą strefy PC, konsol, VR oraz simracingu. Największą atrakcją będzie turniej FORTNITE, w którym zmierzy się kilkuset graczy. Zapisy już trwają. Gaming to dziś nie tylko rozrywka, ale także przestrzeń spotkań, rywalizacji i wspólnego przeżywania emocji. Doskonałą okazją, by zanurzyć się w świecie gier, będzie wrześniowa edycja GAME ZONE w G City Targówek. Przez dwa dni centrum zaprosi dzieci, młodzież, dorosłych graczy oraz wszystkich, którzy chcą sprawdzić swoje umiejętności i poznać najnowsze technologie gamingowe. Fortnite na pierwszym planie Kulminacją wydarzenia będzie turniej FORTNITE, zaplanowany na 5 września. Do rywalizacji może dołączyć kilkuset uczestników, którzy zmierzą się w jednej z najpopularniejszych gier typu battle royale na świecie. To doskonała okazja, by sprawdzić swoje umiejętności, zawalczyć o zwycięstwo i poczuć atmosferę profesjonalnych rozgrywek e-sportowych. Na GAME ZONE nie zabraknie również atrakcji dla osób, które wolą swobodną zabawę od turniejowej rywalizacji. Przez dwa dni odwiedzający będą mogli korzystać z rozbudowanej strefy komputerowej oraz konsolowej, gdzie dostępne będą popularne tytuły dla graczy w różnym wieku. Na fanów nowych technologii czekać będzie także strefa wirtualnej rzeczywistości, pozwalająca zanurzyć się w świecie VR, a miłośnicy motoryzacyjnych emocji będą mogli sprawdzić swoje umiejętności za kierownicą profesjonalnych symulatorów wyścigowych w strefie simracingu. Dodatkową atrakcją wydarzenia będzie spotkanie z popularnym twórcą internetowym związanym ze światem gamingu, Kebciem. Będzie to okazja do wspólnych zdjęć, zdobycia autografu i rozmowy z jednym z ulubionych internetowych twórców. GAME ZONE odbędzie się 4 i 5 września w G City Targówek. Wszystkie atrakcje będą dostępne przy wejściu B, a udział w wydarzeniu jest bezpłatny. Osoby chcące wziąć udział w turnieju FORTNITE powinny wcześniej zarejestrować się na dedykowanej stronie >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1788422630.webp",
+      "location": {
+        "name": "Głębocka 15",
+        "district": "Targówek"
+      },
+      "url": "https://targowek.gcity.pl/aktualnosci/game-zone-w-g-city-targowek-2/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://targowek.gcity.pl/aktualnosci/game-zone-w-g-city-targowek-2/",
+      "scrapped_timestamp": "2026-09-03T11:06:12.804224+00:00",
+      "category": "Games",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "GAME ZONE w G City Targówek",
+          "description": "Fortnite, VR i simracing – G City Targówek zaprasza na wielkie święto gamingu. We wrześniu odbędzie się kolejna edycja GAME ZONE. Już 4 i 5 września G City Targówek ponownie stanie się miejscem spotkań fanów gamingu. W ramach wydarzenia GAME ZONE na odwiedzających czekać będą strefy PC, konsol, VR i simracingu, a największe emocje przyniesie turniej FORTNITE, w którym zmierzy się kilkuset graczy. To propozycja zarówno dla doświadczonych gamerów, jak i osób, które po prostu chcą dobrze spędzić czas w świecie nowych technologii. Fani gamingu mogą już rezerwować pierwszy weekend września. 4 i 5 września G City Targówek zamieni się w centrum wirtualnych emocji – podczas wydarzenia GAME ZONE na uczestników czekać będą strefy PC, konsol, VR oraz simracingu. Największą atrakcją będzie turniej FORTNITE, w którym zmierzy się kilkuset graczy. Zapisy już trwają. Gaming to dziś nie tylko rozrywka, ale także przestrzeń spotkań, rywalizacji i wspólnego przeżywania emocji. Doskonałą okazją, by zanurzyć się w świecie gier, będzie wrześniowa edycja GAME ZONE w G City Targówek. Przez dwa dni centrum zaprosi dzieci, młodzież, dorosłych graczy oraz wszystkich, którzy chcą sprawdzić swoje umiejętności i poznać najnowsze technologie gamingowe. Fortnite na pierwszym planie Kulminacją wydarzenia będzie turniej FORTNITE, zaplanowany na 5 września. Do rywalizacji może dołączyć kilkuset uczestników, którzy zmierzą się w jednej z najpopularniejszych gier typu battle royale na świecie. To doskonała okazja, by sprawdzić swoje umiejętności, zawalczyć o zwycięstwo i poczuć atmosferę profesjonalnych rozgrywek e-sportowych. Na GAME ZONE nie zabraknie również atrakcji dla osób, które wolą swobodną zabawę od turniejowej rywalizacji. Przez dwa dni odwiedzający będą mogli korzystać z rozbudowanej strefy komputerowej oraz konsolowej, gdzie dostępne będą popularne tytuły dla graczy w różnym wieku. Na fanów nowych technologii czekać będzie także strefa wirtualnej rzeczywistości, pozwalająca zanurzyć się w świecie VR, a miłośnicy motoryzacyjnych emocji będą mogli sprawdzić swoje umiejętności za kierownicą profesjonalnych symulatorów wyścigowych w strefie simracingu. Dodatkową atrakcją wydarzenia będzie spotkanie z popularnym twórcą internetowym związanym ze światem gamingu, Kebciem. Będzie to okazja do wspólnych zdjęć, zdobycia autografu i rozmowy z jednym z ulubionych internetowych twórców. GAME ZONE odbędzie się 4 i 5 września w G City Targówek. Wszystkie atrakcje będą dostępne przy wejściu B, a udział w wydarzeniu jest bezpłatny. Osoby chcące wziąć udział w turnieju FORTNITE powinny wcześniej zarejestrować się na dedykowanej stronie >> link"
+        },
+        "en": {
+          "title": "GAME ZONE at G City Targówek",
+          "description": "Fortnite, VR, and sim racing – G City Targówek invites you to a grand gaming celebration. The next edition of GAME ZONE will take place in September. On September 4th and 5th, G City Targówek will once again become a meeting place for gaming fans. As part of the GAME ZONE event, visitors will find areas for PC gaming, consoles, VR, and sim racing, with the biggest excitement coming from the FORTNITE tournament, where hundreds of players will compete. This event is suitable for both experienced gamers and those who simply want to enjoy their time in the world of new technologies. Gaming fans can already reserve the first weekend of September. On September 4th and 5th, G City Targówek will transform into a center of virtual excitement – during the GAME ZONE event, participants will have access to PC, console, VR, and sim racing zones. The main attraction will be the FORTNITE tournament."
+        },
+        "uk": {
+          "title": "ІГРОВА ЗОНА в G City Targówek",
+          "description": "Fortnite, VR та симрейсинг – G City Targówek запрошує на велике свято геймінгу. У вересні відбудеться наступна редакція ІГРОВОЇ ЗОНИ. Вже 4 та 5 вересня G City Targówek знову стане місцем зустрічі фанатів геймінгу. У рамках події ІГРОВА ЗОНА на відвідувачів чекатимуть зони PC, консолей, VR та симрейсингу, а найбільші емоції принесе турнір FORTNITE, в якому змагатимуться кілька сотень гравців. Це пропозиція як для досвідчених геймерів, так і для тих, хто просто хоче добре провести час у світі нових технологій. Фани геймінгу можуть вже бронювати перший вікенд вересня. 4 та 5 вересня G City Targówek перетвориться на центр віртуальних емоцій – під час події ІГРОВА ЗОНА на учасників чекатимуть зони PC, консолей, VR та симрейсингу. Найбільшою атракцією буде турнір FOR"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Targówek",
+      "updated_at": "2026-09-03T11:07:50.524072+00:00"
+    },
+    "rodzinny-rajd-rowerowy-2026-09-05T11:00:00+02:00": {
+      "title": "Rodzinny Rajd Rowerowy",
+      "date": "2026-09-05T11:00:00+02:00",
+      "end_date": "2026-09-05T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Wsiadamy na rowery i ruszamy w teren! Zapraszamy na rodzinny rajd rowerowy „Naturalne Wybory”, realizowany w ramach projektu „MAL Boernerowo – Miejsce Aktywności Leśnej – społeczność dla natury”. Tym razem połączymy aktywność na świeżym powietrzu z rowerową grą terenową i przekonamy się, jak nasze codzienne wybory transportowe wpływają na jakość powietrza, środowisko i nasze najbliższe otoczenie. Uczestnicy będą wyruszać na trasę w mniejszych grupach, w dowolnym momencie między godz. 11:00 a 12:00. Na trasie prowadzącej przez Boernerowo i Las Bemowski czekać będą punkty edukacyjne, zadania i rodzinne wyzwania. Wspólnie odkryjemy okolicę i sprawdzimy, dlaczego wybór roweru zamiast samochodu może mieć znaczenie dla środowiska i jakości powietrza. Nie zabraknie również praktycznej części rowerowej – dowiemy się, jak przygotować rower do jazdy i zadbać o jego podstawową sprawność. Na mecie spotkamy się na wspólnym pikniku integracyjnym. Zachęcamy do zabrania koca, drobnych przekąsek i czegoś do picia – najlepiej tego, co bez problemu zmieści się w małym plecaku. To wydarzenie dla rodzin, które lubią aktywnie spędzać czas, odkrywać swoją okolicę i przy okazji dowiedzieć się czegoś nowego. Na rajd przyjeżdżamy na własnych rowerach. Start rajdu: Pomnik Poległych Powstańców na Boernerowie. Na trasę można wyruszyć w dowolnym momencie między godz. 11:00 a 12:00. Udział jest bezpłatny, obowiązują zapisy poprzez formularz. Zapisy >> link WAŻNE! Każdy uczestnik rajdu musi zostać zapisany oddzielnie. Oznacza to, że osobnego zgłoszenia należy dokonać zarówno dla każdego rodzica/opiekuna, jak i dla każdego dziecka biorącego udział w wydarzeniu. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Środki na FEE pochodzą z budżetu m.st. Warszawy.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1788417871.webp",
+      "location": {
+        "name": "Pomnik Poległych Powstańców na Boernerowie",
+        "district": "Bemowo"
+      },
+      "url": "https://fb.me/e/6Mxt9IxYu",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://fb.me/e/6Mxt9IxYu",
+      "scrapped_timestamp": "2026-09-03T11:06:18.329476+00:00",
+      "category": "Outdoor Adventure",
+      "additional_categories": [
+        "Family Fun",
+        "Nature & Wildlife"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Rodzinny Rajd Rowerowy",
+          "description": "Wsiadamy na rowery i ruszamy w teren! Zapraszamy na rodzinny rajd rowerowy „Naturalne Wybory”, realizowany w ramach projektu „MAL Boernerowo – Miejsce Aktywności Leśnej – społeczność dla natury”. Tym razem połączymy aktywność na świeżym powietrzu z rowerową grą terenową i przekonamy się, jak nasze codzienne wybory transportowe wpływają na jakość powietrza, środowisko i nasze najbliższe otoczenie. Uczestnicy będą wyruszać na trasę w mniejszych grupach, w dowolnym momencie między godz. 11:00 a 12:00. Na trasie prowadzącej przez Boernerowo i Las Bemowski czekać będą punkty edukacyjne, zadania i rodzinne wyzwania. Wspólnie odkryjemy okolicę i sprawdzimy, dlaczego wybór roweru zamiast samochodu może mieć znaczenie dla środowiska i jakości powietrza. Nie zabraknie również praktycznej części rowerowej – dowiemy się, jak przygotować rower do jazdy i zadbać o jego podstawową sprawność. Na mecie spotkamy się na wspólnym pikniku integracyjnym. Zachęcamy do zabrania koca, drobnych przekąsek i czegoś do picia – najlepiej tego, co bez problemu zmieści się w małym plecaku. To wydarzenie dla rodzin, które lubią aktywnie spędzać czas, odkrywać swoją okolicę i przy okazji dowiedzieć się czegoś nowego. Na rajd przyjeżdżamy na własnych rowerach. Start rajdu: Pomnik Poległych Powstańców na Boernerowie. Na trasę można wyruszyć w dowolnym momencie między godz. 11:00 a 12:00. Udział jest bezpłatny, obowiązują zapisy poprzez formularz. Zapisy >> link WAŻNE! Każdy uczestnik rajdu musi zostać zapisany oddzielnie. Oznacza to, że osobnego zgłoszenia należy dokonać zarówno dla każdego rodzica/opiekuna, jak i dla każdego dziecka biorącego udział w wydarzeniu. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Środki na FEE pochodzą z budżetu m.st. Warszawy."
+        },
+        "en": {
+          "title": "Family Bike Rally",
+          "description": "We hop on our bikes and head out! We invite you to the family bike rally 'Natural Choices', organized as part of the project 'MAL Boernerowo – Place of Forest Activity – a community for nature'. This time, we will combine outdoor activity with a bike scavenger hunt and discover how our daily transportation choices affect air quality, the environment, and our immediate surroundings. Participants will set off on the route in smaller groups at any time between 11:00 AM and 12:00 PM. Along the route through Boernerowo and Bemowski Forest, there will be educational points, tasks, and family challenges. Together, we will explore the area and find out why choosing a bike instead of a car can make a difference for the environment and air quality. There will also be a practical cycling part."
+        },
+        "uk": {
+          "title": "Сімейний велопробіг",
+          "description": "Сідаємо на велосипеди і вирушаємо в подорож! Запрошуємо на сімейний велопробіг «Природні Вибори», що реалізується в рамках проекту «MAL Boernerowo – Місце Активності Лісової – спільнота для природи». Цього разу ми поєднаємо активність на свіжому повітрі з велогрою на місцевості і дізнаємося, як наші щоденні транспортні вибори впливають на якість повітря, навколишнє середовище та наше найближче оточення. Учасники вирушатимуть на маршрут у менших групах, у будь-який момент між 11:00 та 12:00. На маршруті, що проходить через Boernerowo та Ліс Бемовський, на вас чекатимуть освітні пункти, завдання та сімейні виклики. Разом ми відкриємо околиці і перевіримо, чому вибір велосипеда замість автомобіля може мати значення для навколишнього середовища та якості повітря. Не обійдеться також без практичної частини велопробігу."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-03T11:07:50.524089+00:00"
+    },
+    "zaj-cia-pokazowe-z-j-zyka-angielskiego-2026-09-05T12:00:00+02:00": {
+      "title": "Zajęcia pokazowe z języka angielskiego",
+      "date": "2026-09-05T12:00:00+02:00",
+      "end_date": "2026-09-05T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🎉 Zapraszam dzieci na zajęcia pokazowe 5 i 12 września. ✨ Jolly Phonics – brytyjska metoda nauki języka angielskiego 🧱 LEGO 🗺️ metoda projektowa ❤️ zajęcia dopasowane do możliwości i potrzeb dziecka 🍀 przyjazną atmosfera 📚 przygotowanie do egzaminów Cambridge zgodnie z wytycznymi British Council ❗ Obowiązują zapisy! 👉 Chcesz sprawdzić, czy takie zajęcia będą odpowiednie dla Twojego dziecka? 📩 Napisz wiadomość lub zadzwoń i zarezerwuj miejsce dla swojego dziecka: +48 537 785 397 kontakt@jollykids.edu.pl",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788423381.webp",
+      "location": {
+        "name": "Jolly Kids, Wołodyjowskiego 63",
+        "district": "Mokotów"
+      },
+      "url": "https://www.facebook.com/events/1099723092578274/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1099723092578274/",
+      "scrapped_timestamp": "2026-09-03T11:06:23.804548+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Zajęcia pokazowe z języka angielskiego",
+          "description": "🎉 Zapraszam dzieci na zajęcia pokazowe 5 i 12 września. ✨ Jolly Phonics – brytyjska metoda nauki języka angielskiego 🧱 LEGO 🗺️ metoda projektowa ❤️ zajęcia dopasowane do możliwości i potrzeb dziecka 🍀 przyjazną atmosfera 📚 przygotowanie do egzaminów Cambridge zgodnie z wytycznymi British Council ❗ Obowiązują zapisy! 👉 Chcesz sprawdzić, czy takie zajęcia będą odpowiednie dla Twojego dziecka? 📩 Napisz wiadomość lub zadzwoń i zarezerwuj miejsce dla swojego dziecka: +48 537 785 397 kontakt@jollykids.edu.pl"
+        },
+        "en": {
+          "title": "Demonstration English Classes",
+          "description": "🎉 I invite children to demonstration classes on September 5 and 12. ✨ Jolly Phonics – a British method of learning English 🧱 LEGO 🗺️ project-based method ❤️ classes tailored to the child's abilities and needs 🍀 friendly atmosphere 📚 preparation for Cambridge exams according to British Council guidelines ❗ Registration is required! 👉 Do you want to check if these classes will be suitable for your child? 📩 Send a message or call to reserve a spot for your child: +48 537 785 397 contact@jollykids.edu.pl"
+        },
+        "uk": {
+          "title": "Демонстраційні заняття з англійської мови",
+          "description": "🎉 Запрошую дітей на демонстраційні заняття 5 та 12 вересня. ✨ Jolly Phonics – британський метод вивчення англійської мови 🧱 LEGO 🗺️ проектний метод ❤️ заняття, адаптовані до можливостей та потреб дитини 🍀 дружня атмосфера 📚 підготовка до іспитів Cambridge відповідно до рекомендацій British Council ❗ Обов'язкова реєстрація! 👉 Хочете перевірити, чи підходять такі заняття для вашої дитини? 📩 Напишіть повідомлення або зателефонуйте та забронюйте місце для вашої дитини: +48 537 785 397 kontakt@jollykids.edu.pl"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Mokotów",
+      "updated_at": "2026-09-03T11:07:50.524109+00:00"
+    },
+    "piknik-po-egnanie-lata-z-dosir-2026-09-06T11:00:00+02:00": {
+      "title": "Piknik Pożegnanie Lata z DOSiR",
+      "date": "2026-09-06T11:00:00+02:00",
+      "end_date": "2026-09-06T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "POŻEGNANIE LATA Z DOSiR! 🌞⛱️ Lato powoli dobiega końca, ale my nie zamierzamy żegnać go spokojnie! 😎 Zapraszamy dzieci, młodzież, dorosłych i całe rodziny na wyjątkowy piknik „Pożegnanie Lata”! 📅 6 września ⏰ 11:00–17:00 📍 Orlik, ul. Targowa 86 Przygotowaliśmy dla Was mnóstwo atrakcji, dzięki którym spędzicie ten dzień aktywnie, rodzinnie i przede wszystkim świetnie się bawiąc! 👧 DLA DZIECI: 🎨 kreatywne warsztaty 🧗 dmuchany tor przeszkód i ścianka wspinaczkowa 🛝 plac zabaw i zjeżdżalnia 🤸 euro bungee 🎭 malowanie twarzy i tatuaże 👮 warsztaty z Policją i Strażą Pożarną 📸 foto lustro i zdjęcia z maskotką 🚴 blender bike ⚽ gry i zabawy rekreacyjno-sportowe 🏆 turniej piłki nożnej praskich drużyn 🧑 DLA DOROSŁYCH: 🥽 tor przeszkód w alkogoglach 👂 pomiary słuchu ❤️ pomiary ciśnienia i poziomu cukru 🧬 możliwość rejestracji potencjalnych dawców komórek macierzystych 💃 potańcówka i wspólne śpiewanie 👨‍👩‍👧‍👦 DLA WSZYSTKICH: 🥊 pokaz boksu 🚗 symulatory dachowania 💥 symulator wybuchu poduszki powietrznej ⚡ trenażery czasu reakcji 🔥 smakołyki z grilla 🎈 Nie może Cię zabraknąć! Zabierz rodzinę, znajomych, koc, leżak, dobry humor i spędź z nami niedzielę pełną atrakcji, ruchu, radości i dobrej zabawy! ❤️ 🎟️ WSTĘP WOLNY! 📍 Widzimy się 6 września na Targowej 86! 🌧️ W razie opadów deszczu impreza zostanie przeniesiona do hali DOSiR przy ul. Szanajcy 17/19. Do zobaczenia! 👋☀️",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788358205.webp",
+      "location": {
+        "name": "Targowa 86",
+        "district": "Praga-Północ"
+      },
+      "url": "https://sport.um.warszawa.pl/waw/dosir-pragapn/-/piknik-pozegnanie-lata-1",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://sport.um.warszawa.pl/waw/dosir-pragapn/-/piknik-pozegnanie-lata-1",
+      "scrapped_timestamp": "2026-09-03T11:06:27.574726+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Workshops",
+        "Sports"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Piknik Pożegnanie Lata z DOSiR",
+          "description": "POŻEGNANIE LATA Z DOSiR! 🌞⛱️ Lato powoli dobiega końca, ale my nie zamierzamy żegnać go spokojnie! 😎 Zapraszamy dzieci, młodzież, dorosłych i całe rodziny na wyjątkowy piknik „Pożegnanie Lata”! 📅 6 września ⏰ 11:00–17:00 📍 Orlik, ul. Targowa 86 Przygotowaliśmy dla Was mnóstwo atrakcji, dzięki którym spędzicie ten dzień aktywnie, rodzinnie i przede wszystkim świetnie się bawiąc! 👧 DLA DZIECI: 🎨 kreatywne warsztaty 🧗 dmuchany tor przeszkód i ścianka wspinaczkowa 🛝 plac zabaw i zjeżdżalnia 🤸 euro bungee 🎭 malowanie twarzy i tatuaże 👮 warsztaty z Policją i Strażą Pożarną 📸 foto lustro i zdjęcia z maskotką 🚴 blender bike ⚽ gry i zabawy rekreacyjno-sportowe 🏆 turniej piłki nożnej praskich drużyn 🧑 DLA DOROSŁYCH: 🥽 tor przeszkód w alkogoglach 👂 pomiary słuchu ❤️ pomiary ciśnienia i poziomu cukru 🧬 możliwość rejestracji potencjalnych dawców komórek macierzystych 💃 potańcówka i wspólne śpiewanie 👨‍👩‍👧‍👦 DLA WSZYSTKICH: 🥊 pokaz boksu 🚗 symulatory dachowania 💥 symulator wybuchu poduszki powietrznej ⚡ trenażery czasu reakcji 🔥 smakołyki z grilla 🎈 Nie może Cię zabraknąć! Zabierz rodzinę, znajomych, koc, leżak, dobry humor i spędź z nami niedzielę pełną atrakcji, ruchu, radości i dobrej zabawy! ❤️ 🎟️ WSTĘP WOLNY! 📍 Widzimy się 6 września na Targowej 86! 🌧️ W razie opadów deszczu impreza zostanie przeniesiona do hali DOSiR przy ul. Szanajcy 17/19. Do zobaczenia! 👋☀️"
+        },
+        "en": {
+          "title": "Goodbye Summer Picnic with DOSiR",
+          "description": "GOODBYE SUMMER WITH DOSiR! 🌞⛱️ Summer is slowly coming to an end, but we do not intend to say goodbye quietly! 😎 We invite children, youth, adults, and entire families to a special picnic \"Goodbye Summer\"! 📅 September 6th ⏰ 11:00 AM – 5:00 PM 📍 Orlik, Targowa Street 86 We have prepared a lot of attractions for you, so you can spend this day actively, with family, and most importantly, having a great time! 👧 FOR CHILDREN: 🎨 creative workshops 🧗 inflatable obstacle course and climbing wall 🛝 playground and slide 🤸 euro bungee 🎭 face painting and tattoos 👮 workshops with the Police and Fire Brigade 📸 photo mirror and pictures with a mascot 🚴 blender bike ⚽ recreational and sports games 🏆 football tournament of Prague teams 🧑 FOR ADULTS: 🥽 obstacle course in alcohol goggles 👂 hearing tests ❤️ blood pressure and sugar level measurements"
+        },
+        "uk": {
+          "title": "Пікнік Прощання з Літом з DOSiR",
+          "description": "ПРОЩАННЯ З ЛІТОМ З DOSiR! 🌞⛱️ Літо повільно добігає кінця, але ми не збираємося прощатися з ним спокійно! 😎 Запрошуємо дітей, молодь, дорослих і цілі сім'ї на унікальний пікнік «Прощання з Літом»! 📅 6 вересня ⏰ 11:00–17:00 📍 Орлік, вул. Таргова 86 Ми підготували для вас безліч розваг, завдяки яким ви проведете цей день активно, сімейно і, перш за все, чудово розважаючись! 👧 ДЛЯ ДІТЕЙ: 🎨 креативні майстер-класи 🧗 надувний перешкодний курс і скеледром 🛝 дитячий майданчик і гірка 🤸 євро банджі 🎭 малювання обличчя та татуювання 👮 майстер-класи з поліцією та пожежною службою 📸 фото дзеркало та фотографії з маскотом 🚴 велосипед-блендер ⚽ ігри та спортивні розваги 🏆 турнір з футболу пражських команд 🧑 ДЛЯ ДОРОСЛИХ: 🥽 перешкодний курс в алкозахисниках 👂 вимірювання слуху ❤️ вимірювання тиску та рівня цукру"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Północ",
+      "updated_at": "2026-09-03T11:07:50.524127+00:00"
+    },
+    "mi-dzypokoleniowy-ogr-d-sztuk-2026-09-06T15:30:00+02:00": {
+      "title": "MIĘDZYPOKOLENIOWY OGRÓD SZTUK",
+      "date": "2026-09-06T15:30:00+02:00",
+      "end_date": "2026-09-06T15:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "🌳 Zapraszamy na „MIĘDZYPOKOLENIOWY OGRÓD SZTUK” - Pikniki Rodzinne w Śródmieściu W programie pikników - animacje artystyczne oraz koncert. Przedsięwzięcie skierowane jest do mieszkańców Dzielnicy Śródmieście i Warszawy (dorosłych i dzieci) oraz do rodzin odpoczywających w miesiącach letnich w stolicy. W trakcie imprez w zaaranżowanym amfiteatrze, będziemy mogli przenieść się dzięki zaproszonym artystom do słonecznej Francji, Ameryki Południowej, posłuchać przebojów okresu międzywojennego oraz folkloru miejskiego. Atutem projektu, oprócz atrakcyjnych scenicznych prezentacji muzycznych są warsztaty - działania artystyczno – rękodzielnicze 🎨 prowadzone przez animatorów - specjalistów z wybranych dziedzin sztuki i animacji (papieroplastyka, biżuteria dziecięca, \"slime - glut”). Pod ich kierunkiem będzie można wykonać prace inspirowane rękodziełem. W trakcie zajęć uczestnicy będą mieli możliwość uczenia się umiejętności kreatywnego myślenia oraz rozwijanie aktywności twórczej. 🎶 Koncerty: 📅 6 września wystąpi Kapela Warszawska (folklor miejski) 📅 13 września zagra Siesta Trio (muzyka Ameryki Południowej) 📅 19 września wystąpi Kapela z Targówka (przeboje okresu międzywojennego) 📍 Na pikniki zapraszamy w godzinach 15.30 - 18.00. • godz. 15.30 - 18.00 - animacje artystyczne • godz. 16.30 - koncert 📍 Miejsce: Skwer - trawnik u zbiegu ulic Anielewicza i Karmelickiej. 🎟 Wstęp wolny. ℹ️☔ W razie złych warunków atmosferycznych impreza odbędzie się pod namiotami. Organizator: Stowarzyszenie Akademia Łucznica Projekt współfinansuje Miasto Stołeczne Warszawa Dzielnica Śródmieście.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788350456.webp",
+      "location": {
+        "name": "Anielewicza / Karmelicka",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/photo/?fbid=1491763606326383&set=a.623935803109172",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo/?fbid=1491763606326383&set=a.623935803109172",
+      "scrapped_timestamp": "2026-09-03T11:06:45.129507+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Music & Dance",
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "MIĘDZYPOKOLENIOWY OGRÓD SZTUK",
+          "description": "🌳 Zapraszamy na „MIĘDZYPOKOLENIOWY OGRÓD SZTUK” - Pikniki Rodzinne w Śródmieściu W programie pikników - animacje artystyczne oraz koncert. Przedsięwzięcie skierowane jest do mieszkańców Dzielnicy Śródmieście i Warszawy (dorosłych i dzieci) oraz do rodzin odpoczywających w miesiącach letnich w stolicy. W trakcie imprez w zaaranżowanym amfiteatrze, będziemy mogli przenieść się dzięki zaproszonym artystom do słonecznej Francji, Ameryki Południowej, posłuchać przebojów okresu międzywojennego oraz folkloru miejskiego. Atutem projektu, oprócz atrakcyjnych scenicznych prezentacji muzycznych są warsztaty - działania artystyczno – rękodzielnicze 🎨 prowadzone przez animatorów - specjalistów z wybranych dziedzin sztuki i animacji (papieroplastyka, biżuteria dziecięca, \"slime - glut”). Pod ich kierunkiem będzie można wykonać prace inspirowane rękodziełem. W trakcie zajęć uczestnicy będą mieli możliwość uczenia się umiejętności kreatywnego myślenia oraz rozwijanie aktywności twórczej. 🎶 Koncerty: 📅 6 września wystąpi Kapela Warszawska (folklor miejski) 📅 13 września zagra Siesta Trio (muzyka Ameryki Południowej) 📅 19 września wystąpi Kapela z Targówka (przeboje okresu międzywojennego) 📍 Na pikniki zapraszamy w godzinach 15.30 - 18.00. • godz. 15.30 - 18.00 - animacje artystyczne • godz. 16.30 - koncert 📍 Miejsce: Skwer - trawnik u zbiegu ulic Anielewicza i Karmelickiej. 🎟 Wstęp wolny. ℹ️☔ W razie złych warunków atmosferycznych impreza odbędzie się pod namiotami. Organizator: Stowarzyszenie Akademia Łucznica Projekt współfinansuje Miasto Stołeczne Warszawa Dzielnica Śródmieście."
+        },
+        "en": {
+          "title": "INTERGENERATIONAL GARDEN OF ARTS",
+          "description": "🌳 We invite you to the \"INTERGENERATIONAL GARDEN OF ARTS\" - Family Picnics in the City Center. The program includes artistic animations and a concert. This initiative is aimed at the residents of the City Center District and Warsaw (adults and children) as well as families relaxing in the capital during the summer months. During the events in the arranged amphitheater, we will be able to be transported by invited artists to sunny France, South America, listen to hits from the interwar period, and enjoy urban folklore. The project's highlight, in addition to attractive musical stage presentations, are workshops - artistic and craft activities 🎨 led by animators - specialists from selected fields of art and animation (paper craft, children's jewelry, \"slime\"). Under their guidance, participants will..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-03T11:07:50.524163+00:00"
+    },
+    "rusz-g-ow-jak-uczy-si-efektywnie-i-skutecznie-zapami-tywa-godz-10-00-i-11-45-2026-09-12T10:00:00+02:00": {
+      "title": "Rusz głową – jak uczyć się efektywnie i skutecznie zapamiętywać [godz. 10:00 i 11:45]",
+      "date": "2026-09-12T10:00:00+02:00",
+      "end_date": "2026-09-12T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na cykl czterech spotkań (stanowiących całość), każde z nich trwa 1,5 h. Na warsztaty zapraszamy dzieci/młodzież w wieku 10-14 lat (4-8 klasa) wraz z chętnym rodzicem/opiekunem (obecność opiekuna nie jest wymagana, ale polecana :)). Wspólne poznawanie i ćwiczenie mnemotechnik jest nie tylko świetną i przydatną zabawą, okazją do bycia razem w nowym doświadczeniu, ale także zwiększa szanse na skuteczne stosowanie przez dzieci/młodzież poznanych technik w codziennej nauce. Co będziemy robić? W formie kreatywnych wyzwań poznamy kilka technik pamięciowych (mnemotechnik) pozwalających łatwo i trwale zapamiętać daty, słowa, skomplikowane, bezpieczne hasła i inne informacje pomocne w nauce szkolnej, ale i w codziennym życiu. Dowiemy się przy okazji jak działa pamięć, czym jest uwaga i jaki mamy na nie wpływ, jak się uczyć, jak powtarzać, po co i jak robić notatki… Przy tym wszystkim pozwolimy naszym umysłom na odrobinę szaleństwa i nieszablonowe myślenie. Poćwiczymy uwagę, szybkość reakcji, pamięć, logiczne myślenie i kreatywność. Cykl może być inspiracją do dalszego rozwoju, ale zostawi każdego z uważnych uczestników z pakietem bardzo praktycznych narzędzi ułatwiających naukę i codzienne funkcjonowanie. Kiedy: soboty: 12, 19, 26 września oraz 3 października 2026, w godzinach do wyboru: - grupa \"po śniadaniu\": 10:00-11:30 - grupa \"przed obiadem\":  11:45-13:15 Gdzie: Biblioteka „Pod Skrzydłami”, Wypożyczalnia dla Dorosłych i Młodzieży Nr 75, ul Grójecka 109, Warszawa Dla kogo: dzieci i młodzież w wieku szkolnym (4-8 klasa, około 10-14 lat) i ich rodzice/ opiekunowie Szczegóły i zapisy >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1788340372.webp",
+      "location": {
+        "name": "Biblioteka „Pod Skrzydłami”, Wypożyczalnia dla Dorosłych i Młodzieży Nr 75, ul Grójecka 109",
+        "district": "Ochota"
+      },
+      "url": "https://fundacjaroro.org/rusz-glowa/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://fundacjaroro.org/rusz-glowa/",
+      "scrapped_timestamp": "2026-09-03T11:06:50.727218+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 10,
+        "max": 14
+      },
+      "translations": {
+        "pl": {
+          "title": "Rusz głową – jak uczyć się efektywnie i skutecznie zapamiętywać [godz. 10:00 i 11:45]",
+          "description": "Zapraszamy na cykl czterech spotkań (stanowiących całość), każde z nich trwa 1,5 h. Na warsztaty zapraszamy dzieci/młodzież w wieku 10-14 lat (4-8 klasa) wraz z chętnym rodzicem/opiekunem (obecność opiekuna nie jest wymagana, ale polecana :)). Wspólne poznawanie i ćwiczenie mnemotechnik jest nie tylko świetną i przydatną zabawą, okazją do bycia razem w nowym doświadczeniu, ale także zwiększa szanse na skuteczne stosowanie przez dzieci/młodzież poznanych technik w codziennej nauce. Co będziemy robić? W formie kreatywnych wyzwań poznamy kilka technik pamięciowych (mnemotechnik) pozwalających łatwo i trwale zapamiętać daty, słowa, skomplikowane, bezpieczne hasła i inne informacje pomocne w nauce szkolnej, ale i w codziennym życiu. Dowiemy się przy okazji jak działa pamięć, czym jest uwaga i jaki mamy na nie wpływ, jak się uczyć, jak powtarzać, po co i jak robić notatki… Przy tym wszystkim pozwolimy naszym umysłom na odrobinę szaleństwa i nieszablonowe myślenie. Poćwiczymy uwagę, szybkość reakcji, pamięć, logiczne myślenie i kreatywność. Cykl może być inspiracją do dalszego rozwoju, ale zostawi każdego z uważnych uczestników z pakietem bardzo praktycznych narzędzi ułatwiających naukę i codzienne funkcjonowanie. Kiedy: soboty: 12, 19, 26 września oraz 3 października 2026, w godzinach do wyboru: - grupa \"po śniadaniu\": 10:00-11:30 - grupa \"przed obiadem\":  11:45-13:15 Gdzie: Biblioteka „Pod Skrzydłami”, Wypożyczalnia dla Dorosłych i Młodzieży Nr 75, ul Grójecka 109, Warszawa Dla kogo: dzieci i młodzież w wieku szkolnym (4-8 klasa, około 10-14 lat) i ich rodzice/ opiekunowie Szczegóły i zapisy >> link"
+        },
+        "en": {
+          "title": "Use Your Head – How to Learn Effectively and Remember Successfully [10:00 AM and 11:45 AM]",
+          "description": "We invite you to a series of four meetings (which form a whole), each lasting 1.5 hours. The workshops are aimed at children/youth aged 10-14 years (grades 4-8) along with a willing parent/guardian (the presence of a guardian is not required but recommended :)). Jointly exploring and practicing mnemonic techniques is not only a great and useful fun activity, an opportunity to be together in a new experience, but it also increases the chances of children/youth effectively applying the techniques learned in their daily studies. What will we be doing? In the form of creative challenges, we will learn several memory techniques (mnemonics) that allow us to easily and permanently remember dates, words, complicated secure passwords, and other information helpful in school learning as well as in everyday life. We will also find out how memory works, what attention is, and..."
+        },
+        "uk": {
+          "title": "Розумійте головою – як ефективно навчатися та запам'ятовувати",
+          "description": "Запрошуємо на цикл з чотирьох зустрічей (які становлять єдине ціле), кожна з яких триває 1,5 години. На майстер-класи запрошуємо дітей/підлітків віком 10-14 років (4-8 клас) разом з охочим батьком/опікуном (присутність опікуна не є обов'язковою, але рекомендована :)). Спільне вивчення та практикування мнемотехнік є не лише чудовою та корисною розвагою, можливістю бути разом у новому досвіді, але й підвищує шанси на ефективне застосування дітьми/підлітками вивчених технік у повсякденному навчанні. Що ми будемо робити? У формі креативних викликів ми познайомимося з кількома пам'ятними техніками (мнемотехніками), які дозволяють легко та надійно запам'ятовувати дати, слова, складні, безпечні паролі та іншу інформацію, корисну в навчанні, а також у повсякденному житті. Дізнаємося, як працює пам'ять, що таке увага та інші аспекти."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Ochota",
+      "updated_at": "2026-09-03T11:07:50.524189+00:00"
+    },
+    "le-ne-spotkania-rodzinne-spacer-i-ognisko-2026-09-12T14:00:00+02:00": {
+      "title": "LEŚNE SPOTKANIA RODZINNE - SPACER I OGNISKO",
+      "date": "2026-09-12T14:00:00+02:00",
+      "end_date": "2026-09-12T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🌲 Leśne spotkanie rodzinne – Wilanów 🌲 Masz ochotę na sobotę z dala od miejskiego zgiełku? Nie chcesz leżeć na kanapie? Zapraszamy Cię na leśne spotkanie - ze spacerem i ogniskiem. 📅 Kiedy: sobota, 12 września 2026, godz. 14:00 📍 Gdzie: Polana widokowa, ul. Maślaków 2, Warszawa (Park Kultury w Powsinie) ZOBACZ NA MAPIE: link 💰 Koszt: udział bezpłatny 👨‍👩‍👧‍👦 Prowadzi: Jacek Stec, Warszawski Animator Rodzinny W programie: 🍃 spacer i zabawy w lesie 🎨 warsztaty „Leśna Galeria Sztuki\" 🧠 zajęcia z uważności i gra terenowa 🔥 ognisko z kiełbaskami 😊 mnóstwo dobrej zabawy na świeżym powietrzu Weźcie ze sobą ubranie, którego nie szkoda pobrudzić, termos z ciepłym napojem i dobry humor – resztę zapewniamy! ⚠️ Liczba miejsc ograniczona do 30 osób – obowiązują zapisy (każdy uczestnik zapisuje się osobno). 👉 Zapisy przez formularz >> link Wydarzenie w ramach projektu „Wspólne godziny dla rodziny\", współfinansowanego przez Miasto Stołeczne Warszawę. DO ZOBACZENIA!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1400.1788424147.webp",
+      "location": {
+        "name": "ul. Maślana 2",
+        "district": "Wilanów"
+      },
+      "url": "https://warszawa.3plus.pl/pl/Za-pisy-na-warsztaty-lesne/show/65",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://warszawa.3plus.pl/pl/Za-pisy-na-warsztaty-lesne/show/65",
+      "scrapped_timestamp": "2026-09-03T11:06:57.628253+00:00",
+      "category": "Outdoor Adventure",
+      "additional_categories": [
+        "Family Fun",
+        "Nature & Wildlife"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "LEŚNE SPOTKANIA RODZINNE - SPACER I OGNISKO",
+          "description": "🌲 Leśne spotkanie rodzinne – Wilanów 🌲 Masz ochotę na sobotę z dala od miejskiego zgiełku? Nie chcesz leżeć na kanapie? Zapraszamy Cię na leśne spotkanie - ze spacerem i ogniskiem. 📅 Kiedy: sobota, 12 września 2026, godz. 14:00 📍 Gdzie: Polana widokowa, ul. Maślaków 2, Warszawa (Park Kultury w Powsinie) ZOBACZ NA MAPIE: link 💰 Koszt: udział bezpłatny 👨‍👩‍👧‍👦 Prowadzi: Jacek Stec, Warszawski Animator Rodzinny W programie: 🍃 spacer i zabawy w lesie 🎨 warsztaty „Leśna Galeria Sztuki\" 🧠 zajęcia z uważności i gra terenowa 🔥 ognisko z kiełbaskami 😊 mnóstwo dobrej zabawy na świeżym powietrzu Weźcie ze sobą ubranie, którego nie szkoda pobrudzić, termos z ciepłym napojem i dobry humor – resztę zapewniamy! ⚠️ Liczba miejsc ograniczona do 30 osób – obowiązują zapisy (każdy uczestnik zapisuje się osobno). 👉 Zapisy przez formularz >> link Wydarzenie w ramach projektu „Wspólne godziny dla rodziny\", współfinansowanego przez Miasto Stołeczne Warszawę. DO ZOBACZENIA!"
+        },
+        "en": {
+          "title": "FAMILY FOREST MEETINGS - WALK AND CAMPFIRE",
+          "description": "🌲 Family forest meeting - Wilanów 🌲 Do you want to spend Saturday away from the city hustle? Don't want to lie on the couch? We invite you to a forest meeting - with a walk and a campfire. 📅 When: Saturday, September 12, 2026, at 2:00 PM 📍 Where: Viewpoint clearing, ul. Maślaków 2, Warsaw (Cultural Park in Powsin) SEE ON MAP: link 💰 Cost: free participation 👨‍👩‍👧‍👦 Led by: Jacek Stec, Warsaw Family Animator Program includes: 🍃 walk and games in the forest 🎨 workshop \"Forest Art Gallery\" 🧠 mindfulness activities and a treasure hunt 🔥 campfire with sausages 😊 lots of fun outdoors Bring clothes you don't mind getting dirty, a thermos with a warm drink, and good humor - we provide the rest! ⚠️ Limited to 30 participants - registration is required (each participant registers individually)"
+        },
+        "uk": {
+          "title": "СІМЕЙНІ ЗУСТРІЧІ В ЛІСІ - ПРОГУЛЯНКА І ВОГНИЩЕ",
+          "description": "🌲 Сімейна зустріч в лісі – Віланов 🌲 Хочеш провести суботу подалі від міського шуму? Не хочеш лежати на дивані? Запрошуємо тебе на лісову зустріч - з прогулянкою та вогнищем. 📅 Коли: субота, 12 вересня 2026, о 14:00 📍 Де: Поляна з видом, вул. Масяків 2, Варшава (Парк Культури в Повсині) ПОГЛЯНУТИ НА КАРТІ: посилання 💰 Вартість: участь безкоштовна 👨‍👩‍👧‍👦 Веде: Яцек Стек, Варшавський аніматор для сімей У програмі: 🍃 прогулянка та ігри в лісі 🎨 майстер-клас «Лісова галерея мистецтв» 🧠 заняття з уважності та гра на місцевості 🔥 вогнище з ковбасками 😊 безліч веселощів на свіжому повітрі Візьміть з собою одяг, який не шкода забруднити, термос з гарячим напоєм і гарний настрій – решту забезпечимо! ⚠️ Кількість місць обмежена до 30 осіб – обов'язкова реєстрація (кожен учасник реєструється окремо)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wilanów",
+      "updated_at": "2026-09-03T11:07:50.524209+00:00"
+    },
+    "orszak-dziej-w-2026-pi-kne-dobre-m-dre-2026-09-12T16:00:00+02:00": {
+      "title": "Orszak Dziejów 2026 Piękne Dobre Mądre",
+      "date": "2026-09-12T16:00:00+02:00",
+      "end_date": "2026-09-12T16:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Przemarsz 150 postaci z historii Polski (królów i królowych, rycerzy i żołnierzy, poetów i pisarzy, odkrywców i naukowców) Krakowskim Przedmieściem, w strojach z epoki, z rekwizytami obrazującymi osiągnięcie danej postaci, prezentacja postaci na scenie na Placu Zamkowym i spotkania z widzami, kolekcjonowanie wizytówek od postaci, wspólny polonez, nauka tańców dworskich, etiuda teatralna \"Spotkanie kobiecych serc\", opowiadająca o Dobrawie - żonie Mieszka I, Marii Skłodowskiej Curie - laureatce Nagrody Nobla, Matce Róży Czackiej - twórczyni Zakładu dla Niewidomych, Halinie Konopackiej - pierwszej złotej medalistce olimpijskiej i Stanisławie Leszczyńskiej - położnej z Auschwitz. Organizatorzy przygotowują również pokaz orłów przednich, gry historyczne z nagrodami dla dzieci, młodzieży, rodzin i osób starszych. W postaci historyczne wcielają się wolontariusze - rodzice i młodzież, a przed postaciami idą dzieci i harcerze niosąc tabliczki z imieniem i nazwiskiem postaci. Wielkie widowisko historyczne, międzypokoleniowe i rodzinne to nauka przez teatr i zabawę, wzbudzanie zainteresowania historią i dumy z naszych przodków. KRAKOWSKIE PRZEDMIEŚCIE: 16.00 – powitanie Orszaku Dziejów 2026 przed kościołem Sióstr Wizytek w Warszawie 16.00 – 16.30 – przemarsz 150 postaci w strojach z epoki spod kościoła Sióstr Wizytek Krakowskim Przedmieściem w kierunku Placu Zamkowego PLAC ZAMKOWY: 16.00 – powitanie zgromadzonych widzów i turystów oczekujących na przybycie orszaku postaci historycznych, przedstawienie programu 16.20 – występ Michała Dzimira „Michael D” z piosenką „Mamy króla – to Bolesław Chrobry” nawiązującą do zeszłorocznego Orszaku Dziejów 16.30 – prezentacja postaci z każdej epoki na scenie 17.15 – Etiuda Teatralna „Spotkanie kobiecych serc” z Dobrawą, Marią Skłodowską Curie, Matką Różą Czacką, Haliną Konopacką i Stanisława Leszczyńską w rolach głównych. 17.30 – Polonez Wszech Czasów i Nauka Tańców Dworskich 17.15 – 18.30 – gry historyczne dla dzieci, rodzin, młodzieży i dorosłych 17.45 – 18.30 – spotkania postaci z widzami Podczas wydarzenia na pl. Zamkowym można podejść do 150 postaci historycznych, porozmawiać, dowiedzieć się o osiągnięciach wielkich Polaków, zrobić sobie fotografie i otrzymać pamiątkowe wizytówki. Wstęp na wydarzenie jest bezpłatny.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1600.1788382667.webp",
+      "location": {
+        "name": "Śródmieście",
+        "district": "Śródmieście"
+      },
+      "url": "http://orszakdziejow.pl",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "http://orszakdziejow.pl",
+      "scrapped_timestamp": "2026-09-03T11:07:04.686417+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Educational",
+        "Theater"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Orszak Dziejów 2026 Piękne Dobre Mądre",
+          "description": "Przemarsz 150 postaci z historii Polski (królów i królowych, rycerzy i żołnierzy, poetów i pisarzy, odkrywców i naukowców) Krakowskim Przedmieściem, w strojach z epoki, z rekwizytami obrazującymi osiągnięcie danej postaci, prezentacja postaci na scenie na Placu Zamkowym i spotkania z widzami, kolekcjonowanie wizytówek od postaci, wspólny polonez, nauka tańców dworskich, etiuda teatralna \"Spotkanie kobiecych serc\", opowiadająca o Dobrawie - żonie Mieszka I, Marii Skłodowskiej Curie - laureatce Nagrody Nobla, Matce Róży Czackiej - twórczyni Zakładu dla Niewidomych, Halinie Konopackiej - pierwszej złotej medalistce olimpijskiej i Stanisławie Leszczyńskiej - położnej z Auschwitz. Organizatorzy przygotowują również pokaz orłów przednich, gry historyczne z nagrodami dla dzieci, młodzieży, rodzin i osób starszych. W postaci historyczne wcielają się wolontariusze - rodzice i młodzież, a przed postaciami idą dzieci i harcerze niosąc tabliczki z imieniem i nazwiskiem postaci. Wielkie widowisko historyczne, międzypokoleniowe i rodzinne to nauka przez teatr i zabawę, wzbudzanie zainteresowania historią i dumy z naszych przodków. KRAKOWSKIE PRZEDMIEŚCIE: 16.00 – powitanie Orszaku Dziejów 2026 przed kościołem Sióstr Wizytek w Warszawie 16.00 – 16.30 – przemarsz 150 postaci w strojach z epoki spod kościoła Sióstr Wizytek Krakowskim Przedmieściem w kierunku Placu Zamkowego PLAC ZAMKOWY: 16.00 – powitanie zgromadzonych widzów i turystów oczekujących na przybycie orszaku postaci historycznych, przedstawienie programu 16.20 – występ Michała Dzimira „Michael D” z piosenką „Mamy króla – to Bolesław Chrobry” nawiązującą do zeszłorocznego Orszaku Dziejów 16.30 – prezentacja postaci z każdej epoki na scenie 17.15 – Etiuda Teatralna „Spotkanie kobiecych serc” z Dobrawą, Marią Skłodowską Curie, Matką Różą Czacką, Haliną Konopacką i Stanisława Leszczyńską w rolach głównych. 17.30 – Polonez Wszech Czasów i Nauka Tańców Dworskich 17.15 – 18.30 – gry historyczne dla dzieci, rodzin, młodzieży i dorosłych 17.45 – 18.30 – spotkania postaci z widzami Podczas wydarzenia na pl. Zamkowym można podejść do 150 postaci historycznych, porozmawiać, dowiedzieć się o osiągnięciach wielkich Polaków, zrobić sobie fotografie i otrzymać pamiątkowe wizytówki. Wstęp na wydarzenie jest bezpłatny."
+        },
+        "en": {
+          "title": "Historical Parade 2026 Beautiful Good Wise",
+          "description": "A parade of 150 figures from Polish history (kings and queens, knights and soldiers, poets and writers, explorers and scientists) along Krakowskie Przedmieście, dressed in period costumes, with props illustrating the achievements of each figure, a presentation of characters on stage at Castle Square, and interactions with the audience, collecting business cards from the characters, a joint polonaise, learning court dances, a theatrical piece 'Meeting of Women's Hearts', telling the story of Dobrawa - wife of Mieszko I, Maria Skłodowska Curie - Nobel Prize laureate, Mother Róża Czacka - founder of the Institute for the Blind, Halina Konopacka - the first Olympic gold medalist, and Stanisława Leszczyńska - a midwife from Auschwitz. The organizers are also preparing a display of golden eagles, historical games with prizes for children, youth, and families."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-03T11:07:50.524229+00:00"
+    },
+    "piknik-rodzinne-zamieszanie-w-r-dmie-ciu-2026-09-13T11:00:00+02:00": {
+      "title": "PIKNIK RODZINNE ZAMIESZANIE W ŚRÓDMIEŚCIU",
+      "date": "2026-09-13T11:00:00+02:00",
+      "end_date": "2026-09-13T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🎪 Piknik \"Rodzinne Zamieszanie\" w Śródmieściu – 13 września, wstęp wolny 📅 Kiedy: niedziela, 13 września 2026, godz. 11:00–15:00 📍 Gdzie: Warszawska Strefa Rodziny, ul. Stara 4 (Podzamcze / Nowe Miasto) – wejście od strony Multimedialnego Parku Fontann 🎟️ Wstęp: bezpłatny Rodziny ze Śródmieścia i okolic zapraszamy na kolejną odsłonę cyklu \"Rodzinne Zamieszanie\" 🙌 – tym razem impreza zawita na Podzamcze, do Warszawskiej Strefy Rodziny prowadzonej przez Centrum Wspierania Rodzin \"Rodzinna Warszawa\". To kilka godzin ruchu, wspólnej zabawy i czasu spędzonego bez ekranów 📵 – dla dzieci w każdym wieku i dla dorosłych, którzy chętnie do tej zabawy dołączą. 🎈 Co będzie się działo Program animacji rozpisany jest na cały czas trwania pikniku: 🕚 11:00 – uroczyste otwarcie, gry integracyjne, start Rodzinnej Gry Terenowej 💃 11:30 – \"Roztańczone Maluchy\" – warsztaty taneczne dla najmłodszych 🕺 12:00 – Zumba Kids 🧩 12:40 – rodzinne quizy i zagadki z nagrodami ⭐ 13:30 – Mini Talent Show 🎪 14:15 – pokaz cyrkowy z warsztatami, poprowadzi Mateusz Poterański Równolegle przez cały czas trwania imprezy czynne będą strefy tematyczne: warsztaty kreatywne z tworzenia masek fotostworków 🎭, strefa eko-twórcza pod hasłem \"zero plastiku\" ♻️, kącik dla maluchów z klockami 🧱, Koło Fortuny z pytaniami o Warszawę, ekologię i bezpieczeństwo 🎡, a także strefa relaksu – leżaki, koce, gry planszowe i darmowa kranówka 🛋️. Prosimy nie przynosić plastikowych butelek – organizatorzy stawiają na ideę zero-waste 🌍. 🏞️ Miejsce warte poznania Warszawska Strefa Rodziny to przestrzeń pomyślana z myślą o wielu pokoleniach naraz: plac zabaw z piaskownicą, zjeżdżalniami i elementami linowymi dla najmłodszych 🧒, wielofunkcyjne boisko ze sztuczną nawierzchnią do piłki nożnej, siatkówki i badmintona ⚽🏐, a do tego siłownia plenerowa dla młodzieży i dorosłych 💪 oraz zielona część piknikowa z wypożyczalnią gier planszowych i sprzętu rekreacyjnego 🎲. ♿ Dostępność Miejsce jest przygotowane pod kątem osób z niepełnosprawnościami – w pełni dostosowane toalety z szerokimi drzwiami i płaskim dojazdem, jedno oznaczone miejsce parkingowe przed budynkiem od strony ul. Starej 4 🚗 oraz możliwość skorzystania z tłumacza Polskiego Języka Migowego online. Na teren strefy można wejść z psem asystującym lub przewodnikiem 🐕‍🦺. Pytania dotyczące dostępności można kierować do Agaty Arciszewskiej, koordynatorki ds. dostępności (warszawa@3plus.pl) ✉️. 🤝 Organizator Wydarzenie organizuje Związek Dużych Rodzin \"Trzy Plus\" w ramach projektu \"Wspólne godziny dla rodziny\", współfinansowanego przez m.st. Warszawę. Partnerami pikniku są Fundacja TeDeKa, Edu Flow Kids Planeta Zabaw i Edukacji oraz Centrum Wspierania Rodzin \"Rodzinna Warszawa\".",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1788426448.webp",
+      "location": {
+        "name": "Warszawska Strefa  Rodziny, ul. Stara 3",
+        "district": "Śródmieście"
+      },
+      "url": "https://warszawa.3plus.pl/pl/Aktualnosci/5797,PIKNIK-RODZINNE-ZAMIESZANIE-W-SRODMIESCIU",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://warszawa.3plus.pl/pl/Aktualnosci/5797,PIKNIK-RODZINNE-ZAMIESZANIE-W-SRODMIESCIU",
+      "scrapped_timestamp": "2026-09-03T11:07:10.841802+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Music & Dance",
+        "Games"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "PIKNIK RODZINNE ZAMIESZANIE W ŚRÓDMIEŚCIU",
+          "description": "🎪 Piknik \"Rodzinne Zamieszanie\" w Śródmieściu – 13 września, wstęp wolny 📅 Kiedy: niedziela, 13 września 2026, godz. 11:00–15:00 📍 Gdzie: Warszawska Strefa Rodziny, ul. Stara 4 (Podzamcze / Nowe Miasto) – wejście od strony Multimedialnego Parku Fontann 🎟️ Wstęp: bezpłatny Rodziny ze Śródmieścia i okolic zapraszamy na kolejną odsłonę cyklu \"Rodzinne Zamieszanie\" 🙌 – tym razem impreza zawita na Podzamcze, do Warszawskiej Strefy Rodziny prowadzonej przez Centrum Wspierania Rodzin \"Rodzinna Warszawa\". To kilka godzin ruchu, wspólnej zabawy i czasu spędzonego bez ekranów 📵 – dla dzieci w każdym wieku i dla dorosłych, którzy chętnie do tej zabawy dołączą. 🎈 Co będzie się działo Program animacji rozpisany jest na cały czas trwania pikniku: 🕚 11:00 – uroczyste otwarcie, gry integracyjne, start Rodzinnej Gry Terenowej 💃 11:30 – \"Roztańczone Maluchy\" – warsztaty taneczne dla najmłodszych 🕺 12:00 – Zumba Kids 🧩 12:40 – rodzinne quizy i zagadki z nagrodami ⭐ 13:30 – Mini Talent Show 🎪 14:15 – pokaz cyrkowy z warsztatami, poprowadzi Mateusz Poterański Równolegle przez cały czas trwania imprezy czynne będą strefy tematyczne: warsztaty kreatywne z tworzenia masek fotostworków 🎭, strefa eko-twórcza pod hasłem \"zero plastiku\" ♻️, kącik dla maluchów z klockami 🧱, Koło Fortuny z pytaniami o Warszawę, ekologię i bezpieczeństwo 🎡, a także strefa relaksu – leżaki, koce, gry planszowe i darmowa kranówka 🛋️. Prosimy nie przynosić plastikowych butelek – organizatorzy stawiają na ideę zero-waste 🌍. 🏞️ Miejsce warte poznania Warszawska Strefa Rodziny to przestrzeń pomyślana z myślą o wielu pokoleniach naraz: plac zabaw z piaskownicą, zjeżdżalniami i elementami linowymi dla najmłodszych 🧒, wielofunkcyjne boisko ze sztuczną nawierzchnią do piłki nożnej, siatkówki i badmintona ⚽🏐, a do tego siłownia plenerowa dla młodzieży i dorosłych 💪 oraz zielona część piknikowa z wypożyczalnią gier planszowych i sprzętu rekreacyjnego 🎲. ♿ Dostępność Miejsce jest przygotowane pod kątem osób z niepełnosprawnościami – w pełni dostosowane toalety z szerokimi drzwiami i płaskim dojazdem, jedno oznaczone miejsce parkingowe przed budynkiem od strony ul. Starej 4 🚗 oraz możliwość skorzystania z tłumacza Polskiego Języka Migowego online. Na teren strefy można wejść z psem asystującym lub przewodnikiem 🐕‍🦺. Pytania dotyczące dostępności można kierować do Agaty Arciszewskiej, koordynatorki ds. dostępności (warszawa@3plus.pl) ✉️. 🤝 Organizator Wydarzenie organizuje Związek Dużych Rodzin \"Trzy Plus\" w ramach projektu \"Wspólne godziny dla rodziny\", współfinansowanego przez m.st. Warszawę. Partnerami pikniku są Fundacja TeDeKa, Edu Flow Kids Planeta Zabaw i Edukacji oraz Centrum Wspierania Rodzin \"Rodzinna Warszawa\"."
+        },
+        "en": {
+          "title": "Family Picnic: Family Frenzy in the City Center",
+          "description": "🎪 The \"Family Frenzy\" picnic in the City Center – September 13, free entry 📅 When: Sunday, September 13, 2026, from 11:00 AM to 3:00 PM 📍 Where: Warsaw Family Zone, Stara 4 Street (Podzamcze / New Town) – entrance from the Multimedia Fountain Park 🎟️ Admission: free Families from the City Center and surrounding areas are invited to the next edition of the \"Family Frenzy\" series 🙌 – this time the event will take place at Podzamcze, in the Warsaw Family Zone run by the Family Support Center \"Family Warsaw\". It will be a few hours of movement, fun, and screen-free time 📵 – for children of all ages and for adults who are eager to join in the fun. 🎈 What will happen The animation program is scheduled for the entire duration of the picnic: 🕚 11:00 AM – official opening, integration games, start of activities."
+        },
+        "uk": {
+          "title": "СІМЕЙНИЙ ПІКНІК У ЦЕНТРІ МІСТА",
+          "description": "🎪 Пікнік \"Сімейне Замішання\" у Центрі Міста – 13 вересня, вхід вільний 📅 Коли: неділя, 13 вересня 2026 року, з 11:00 до 15:00 📍 Де: Варшавська Сімейна Зона, вул. Стара 4 (Подзамче / Нове Місто) – вхід з боку Мультимедійного Парку Фонтанів 🎟️ Вхід: безкоштовний Запрошуємо сім'ї з Центру Міста та околиць на чергову частину циклу \"Сімейне Замішання\" 🙌 – цього разу захід відбудеться на Подзамчі, у Варшавській Сімейній Зоні, що керується Центром Підтримки Сімей \"Сімейна Варшава\". Це кілька годин руху, спільних ігор та часу, проведеного без екранів 📵 – для дітей будь-якого віку та для дорослих, які охоче приєднаються до цієї розваги. 🎈 Що буде відбуватися Програма анімацій розписана на весь час проведення пікніка: 🕚 11:00 – урочисте відкриття, інтеграційні ігри, старт Род"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-03T11:07:50.524248+00:00"
+    },
+    "semestralne-warsztaty-rysunkowe-dla-dzieci-2026-09-14T16:30:00+02:00": {
+      "title": "Semestralne warsztaty rysunkowe dla dzieci",
+      "date": "2026-09-14T16:30:00+02:00",
+      "end_date": "2026-09-14T16:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "𝗞𝗮𝘇̇𝗱𝗲 𝗱𝘇𝗶𝗲𝗰𝗸𝗼 𝗺𝗮 𝘄 𝘀𝗼𝗯𝗶𝗲 𝘁𝗮𝗹𝗲𝗻𝘁, 𝗮𝗹𝗲 𝗼𝗱𝗽𝗼𝘄𝗶𝗲𝗱𝗻𝗶𝗲 𝘄𝘀𝗽𝗮𝗿𝗰𝗶𝗲 𝗽𝗼𝘇𝘄𝗮𝗹𝗮 𝗿𝗼𝘇𝘄𝗶𝗻𝗮̨𝗰́ 𝗴𝗼 𝘄 𝗽𝗿𝗮𝘄𝗱𝘇𝗶𝘄𝗮̨ 𝗽𝗮𝘀𝗷𝗲̨. 𝗝𝗲𝘀́𝗹𝗶 𝗧𝘄𝗼𝗷𝗲 𝗱𝘇𝗶𝗲𝗰𝗸𝗼 𝗹𝘂𝗯𝗶 𝗿𝘆𝘀𝗼𝘄𝗮𝗰́ 𝗶 𝗰𝗵𝗲̨𝘁𝗻𝗶𝗲 𝘀𝗽𝗲̨𝗱𝘇𝗮 𝗰𝘇𝗮𝘀 𝘇 𝗼ł𝗼́𝘄𝗸𝗶𝗲𝗺 𝘄 𝗿𝗲̨𝗸𝘂, 𝘇𝗮𝗽𝗿𝗮𝘀𝘇𝗮𝗺𝘆 𝗻𝗮 𝗰𝘆𝗸𝗹 𝘄𝗮𝗿𝘀𝘇𝘁𝗮𝘁𝗼́𝘄 𝗿𝘆𝘀𝘂𝗻𝗸𝗼𝘄𝘆𝗰𝗵. Podczas spotkań uczestnicy przejdą od spontanicznej twórczości do świadomego, praktycznego rysowania. Nie będziemy wyłącznie odrysowywać rzeczywistości, a skupimy się na nauce umiejętności, które stanowią fundament każdego artysty: ◾️ 𝗡𝗮𝘂𝗸𝗮 𝘂𝘄𝗮𝘇̇𝗻𝗲𝗴𝗼 𝗽𝗮𝘁𝗿𝘇𝗲𝗻𝗶𝗮: Dzieci dowiedzą się, jak obserwować świat jak prawdziwi artyści. Zauważą, na czym polega światłocień, przestrzeń, faktura czy plama oraz jak prawidłowo uchwycić kształty przedmiotów. ◾️ 𝗥𝘆𝘀𝗼𝘄𝗮𝗻𝗶𝗲 𝗽𝗿𝗼𝘀𝘁𝘆𝗺𝗶 𝗸𝗿𝗼𝗸𝗮𝗺𝗶: Pokażemy, że nawet najtrudniejszy rysunek taki jak zwierzak, postać czy budynek, składa się z prostych figur. Dzięki tej technice przeniesienie pomysłu na kartkę stanie się znacznie łatwiejsze! ◾️ 𝗢𝗱𝗸𝗿𝘆𝘄𝗮𝗻𝗶𝗲 𝘁𝗿𝗼́𝗷𝘄𝘆𝗺𝗶𝗮𝗿𝗼𝘄𝗲𝗴𝗼 𝘀́𝘄𝗶𝗮𝘁𝗮: Poprzez zabawę z geometrią dzieci nauczą się dodawać swoim rysunkom głębi i tworzyć wrażenie przestrzeni. ...a to dopiero początek! Przed nami cała masa rysunkowych wyzwań, artystycznych eksperymentów i odkrywania nowych technik w twórczej atmosferze. Warsztaty są skierowane do 𝗱𝘇𝗶𝗲𝗰𝗶 𝘄 𝘄𝗶𝗲𝗸𝘂 𝟳-𝟭𝟬 𝗹𝗮𝘁. Zajęcia odbywają się 𝗰𝗼 𝗽𝗼𝗻𝗶𝗲𝗱𝘇𝗶𝗮ł𝗲𝗸 w godz. 𝟭𝟲:𝟯𝟬-𝟭𝟴:𝟯𝟬 od 𝟭𝟰 𝘄𝗿𝘇𝗲𝘀́𝗻𝗶𝗮 𝟮𝟬𝟮𝟲 do 𝟮𝟱 𝘀𝘁𝘆𝗰𝘇𝗻𝗶𝗮 𝟮𝟬𝟮𝟳. Obowiązują zapisy na cały cykl (semestr). 𝗭𝗮𝗽𝗶𝘀𝘇 𝘀𝗶𝗲̨ 𝗻𝗮 𝘇𝗮𝗷𝗲̨𝗰𝗶𝗮 ➡️ link 𝗪𝗮𝗿𝘀𝘇𝘁𝗮𝘁𝘆 𝗽𝗼𝗽𝗿𝗼𝘄𝗮𝗱𝘇𝗶 𝗝𝘂𝘀𝘁𝘆𝗻𝗮 𝗞𝗿𝗮𝘂𝘇𝗲 𝘇 𝗬𝘂’𝗮𝗿𝘁 𝘀𝘁𝘂𝗱𝗶𝗼. 𝗝𝘂𝘀𝘁𝘆𝗻𝗮 𝗞𝗿𝗮𝘂𝘇𝗲 – założycielka Yu’art studio, architektka, a także edukatorka w zakresie rysunku i malarstwa. Ukończyła Wydział Architektury Politechniki Warszawskiej. Od 2018 aktywnie przygotowuje przyszłe architektki i przyszłych architektów do egzaminów na studia wyższe. Yu’art studio jest nową szkołą rysunku w Warszawie. Jej celem jest nauka logicznego rysunku popartego rozbudowaną teorią i praktyką. Szkoła prowadzi kursy rysunku dla hobbystów i osób przygotowujących się do procesów rekrutacyjnych na studia wyższe architektoniczne oraz artystyczne.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788372794.webp",
+      "location": {
+        "name": "ZODIAK Warszawski Pawilon Architektury, Pasaż Stefana Wiecheckiego Wiecha 4",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/events/1623933272784168/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1623933272784168/",
+      "scrapped_timestamp": "2026-09-03T11:07:17.102866+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Semestralne warsztaty rysunkowe dla dzieci",
+          "description": "𝗞𝗮𝘇̇𝗱𝗲 𝗱𝘇𝗶𝗲𝗰𝗸𝗼 𝗺𝗮 𝘄 𝘀𝗼𝗯𝗶𝗲 𝘁𝗮𝗹𝗲𝗻𝘁, 𝗮𝗹𝗲 𝗼𝗱𝗽𝗼𝘄𝗶𝗲𝗱𝗻𝗶𝗲 𝘄𝘀𝗽𝗮𝗿𝗰𝗶𝗲 𝗽𝗼𝘇𝘄𝗮𝗹𝗮 𝗿𝗼𝘇𝘄𝗶𝗻𝗮̨𝗰́ 𝗴𝗼 𝘄 𝗽𝗿𝗮𝘄𝗱𝘇𝗶𝘄𝗮̨ 𝗽𝗮𝘀𝗷𝗲̨. 𝗝𝗲𝘀́𝗹𝗶 𝗧𝘄𝗼𝗷𝗲 𝗱𝘇𝗶𝗲𝗰𝗸𝗼 𝗹𝘂𝗯𝗶 𝗿𝘆𝘀𝗼𝘄𝗮𝗰́ 𝗶 𝗰𝗵𝗲̨𝘁𝗻𝗶𝗲 𝘀𝗽𝗲̨𝗱𝘇𝗮 𝗰𝘇𝗮𝘀 𝘇 𝗼ł𝗼́𝘄𝗸𝗶𝗲𝗺 𝘄 𝗿𝗲̨𝗸𝘂, 𝘇𝗮𝗽𝗿𝗮𝘀𝘇𝗮𝗺𝘆 𝗻𝗮 𝗰𝘆𝗸𝗹 𝘄𝗮𝗿𝘀𝘇𝘁𝗮𝘁𝗼́𝘄 𝗿𝘆𝘀𝘂𝗻𝗸𝗼𝘄𝘆𝗰𝗵. Podczas spotkań uczestnicy przejdą od spontanicznej twórczości do świadomego, praktycznego rysowania. Nie będziemy wyłącznie odrysowywać rzeczywistości, a skupimy się na nauce umiejętności, które stanowią fundament każdego artysty: ◾️ 𝗡𝗮𝘂𝗸𝗮 𝘂𝘄𝗮𝘇̇𝗻𝗲𝗴𝗼 𝗽𝗮𝘁𝗿𝘇𝗲𝗻𝗶𝗮: Dzieci dowiedzą się, jak obserwować świat jak prawdziwi artyści. Zauważą, na czym polega światłocień, przestrzeń, faktura czy plama oraz jak prawidłowo uchwycić kształty przedmiotów. ◾️ 𝗥𝘆𝘀𝗼𝘄𝗮𝗻𝗶𝗲 𝗽𝗿𝗼𝘀𝘁𝘆𝗺𝗶 𝗸𝗿𝗼𝗸𝗮𝗺𝗶: Pokażemy, że nawet najtrudniejszy rysunek taki jak zwierzak, postać czy budynek, składa się z prostych figur. Dzięki tej technice przeniesienie pomysłu na kartkę stanie się znacznie łatwiejsze! ◾️ 𝗢𝗱𝗸𝗿𝘆𝘄𝗮𝗻𝗶𝗲 𝘁𝗿𝗼́𝗷𝘄𝘆𝗺𝗶𝗮𝗿𝗼𝘄𝗲𝗴𝗼 𝘀́𝘄𝗶𝗮𝘁𝗮: Poprzez zabawę z geometrią dzieci nauczą się dodawać swoim rysunkom głębi i tworzyć wrażenie przestrzeni. ...a to dopiero początek! Przed nami cała masa rysunkowych wyzwań, artystycznych eksperymentów i odkrywania nowych technik w twórczej atmosferze. Warsztaty są skierowane do 𝗱𝘇𝗶𝗲𝗰𝗶 𝘄 𝘄𝗶𝗲𝗸𝘂 𝟳-𝟭𝟬 𝗹𝗮𝘁. Zajęcia odbywają się 𝗰𝗼 𝗽𝗼𝗻𝗶𝗲𝗱𝘇𝗶𝗮ł𝗲𝗸 w godz. 𝟭𝟲:𝟯𝟬-𝟭𝟴:𝟯𝟬 od 𝟭𝟰 𝘄𝗿𝘇𝗲𝘀́𝗻𝗶𝗮 𝟮𝟬𝟮𝟲 do 𝟮𝟱 𝘀𝘁𝘆𝗰𝘇𝗻𝗶𝗮 𝟮𝟬𝟮𝟳. Obowiązują zapisy na cały cykl (semestr). 𝗭𝗮𝗽𝗶𝘀𝘇 𝘀𝗶𝗲̨ 𝗻𝗮 𝘇𝗮𝗷𝗲̨𝗰𝗶𝗮 ➡️ link 𝗪𝗮𝗿𝘀𝘇𝘁𝗮𝘁𝘆 𝗽𝗼𝗽𝗿𝗼𝘄𝗮𝗱𝘇𝗶 𝗝𝘂𝘀𝘁𝘆𝗻𝗮 𝗞𝗿𝗮𝘂𝘇𝗲 𝘇 𝗬𝘂’𝗮𝗿𝘁 𝘀𝘁𝘂𝗱𝗶𝗼. 𝗝𝘂𝘀𝘁𝘆𝗻𝗮 𝗞𝗿𝗮𝘂𝘇𝗲 – założycielka Yu’art studio, architektka, a także edukatorka w zakresie rysunku i malarstwa. Ukończyła Wydział Architektury Politechniki Warszawskiej. Od 2018 aktywnie przygotowuje przyszłe architektki i przyszłych architektów do egzaminów na studia wyższe. Yu’art studio jest nową szkołą rysunku w Warszawie. Jej celem jest nauka logicznego rysunku popartego rozbudowaną teorią i praktyką. Szkoła prowadzi kursy rysunku dla hobbystów i osób przygotowujących się do procesów rekrutacyjnych na studia wyższe architektoniczne oraz artystyczne."
+        },
+        "en": {
+          "title": "Semester Drawing Workshops for Children",
+          "description": "Every child has a talent, but appropriate support allows it to develop in the right direction. If your child loves to draw and wants to spend time with a pencil in hand, we invite you to a series of drawing workshops. During the meetings, participants will transition from spontaneous creativity to conscious, practical drawing. We will not just copy reality; instead, we will focus on learning the skills that form the foundation of every artist: ◾️ Learning to observe: Children will learn how to observe the world like true artists. They will notice what chiaroscuro, space, texture, and shape are, and how to accurately capture the shapes of objects. ◾️ Drawing with simple lines: We will show that even the most difficult drawing, such as an animal, a figure, or a building, consists of simple shapes."
+        },
+        "uk": {
+          "title": "Семестрові малювальні майстер-класи для дітей",
+          "description": "𝗞𝗮𝘇̇𝗱𝗲 𝗱𝘇𝗶𝗲𝗰𝗸𝗼 𝗺𝗮 𝘄 𝘀𝗼𝗯𝗶𝗲 𝘁𝗮𝗹𝗲𝗻𝘁, 𝗮𝗹𝗲 𝗼𝗱𝗽𝗼𝘄𝗶𝗲𝗱𝗻𝗶𝗲 𝘄𝘀𝗽𝗮𝗿𝗰𝗶𝗲 𝗽𝗼𝘇𝘄𝗮𝗹𝗮 𝗿𝗼𝘇𝘄𝗶𝗻𝗮̨𝗰́ 𝗴𝗼 𝘄 𝗽𝗿𝗮𝘄𝗱𝘇𝗶𝘄𝗮̨ 𝗽𝗮𝘀𝗷𝗲̨. 𝗝𝗲𝘀́𝗹𝗶 𝗧𝘄𝗼𝗷𝗲 𝗱𝘇𝗶𝗲𝗰𝗸𝗼 𝗹𝘂𝗯𝗶 𝗿𝘆𝘀𝗼𝘄𝗮𝗰́ 𝗶 𝗰𝗵𝗲̨𝘁𝗻𝗶𝗲 𝘀𝗽𝗲̨𝗱𝘇𝗮 𝗰𝘇𝗮𝘀 𝘇 𝗼ł𝗼́𝘄𝗸𝗶𝗲𝗺 𝘄 𝗿𝗲̨𝗸𝘂, 𝘇𝗮𝗽𝗿𝗮𝘀𝗻𝗮 𝗻𝗮 𝗰𝘆𝗸𝗹 𝘄𝗮𝗿𝘀𝘇𝘁𝗮𝘁𝗼́𝘄 𝗿𝘆𝘀𝘂𝗻𝗸𝗼𝘄𝘆𝗰𝗵. Подчас зустрічей учасники пройдуть від спонтанної творчості до свідомого, практичного малювання. Ми не будемо виключно відтворювати реальність, а зосередимося на навчанні навичок, які становлять фундамент кожного художника: ◾️ 𝗡𝗮𝘂𝗸𝗮 𝘂𝘄𝗮𝘇̇𝗻𝗲𝗴𝗼 𝗽𝗮𝘁𝗿𝘇𝗲𝗻𝗶𝗮: Діти дізнаються, як спостерігати світ як справжні художники. Вони помітять, на чому полягає світлотінь, простір, текстура чи пляма, а також як правильно захопити форми предметів. ◾️ 𝗥𝘆𝘀𝗼𝘄𝗮𝗻𝗶𝗲 𝗽𝗿𝗼𝘀𝘁𝘆𝗺𝗶 𝗸𝗿𝗼𝗸𝗮𝗺𝗶: Показуємо, що навіть найскладніший малюнок, такий як звір, персонаж чи будівля, складається з простих форм."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-03T11:07:50.524266+00:00"
+    },
+    "30-festiwal-nauki-w-warszawie-2026-09-18T18:00:00+02:00": {
+      "title": "30. Festiwal Nauki w Warszawie",
+      "date": "2026-09-18T18:00:00+02:00",
+      "end_date": "2026-09-18T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Największe i najstarsze święto nauki w Polsce ponownie ogarnia całą Warszawę! Przed nami jubileuszowa 30. edycja Festiwalu Nauki – z niemal 1000 wydarzeniami przygotowanymi przez ponad 113 instytucji naukowych, edukacyjnych i kulturalnych. To wyjątkowe 10 dni w roku, w którym nauka jest dostępna dla wszystkich! Spotkajmy się, by porozmawiać o najnowszych odkryciach, wyzwaniach współczesnej nauki i pytaniach, na które wciąż szukamy odpowiedzi. Czekają nas debaty, wykłady, warsztaty, pokazy, wystawy, wizyty w laboratoriach, wycieczki i interaktywne gry edukacyjne! Z myślą o najmłodszych przygotowaliśmy specjalną ofertę – atrakcyjne zajęcia popularnonaukowe dla dzieci i całych rodzin. Tradycyjnie też zapraszamy szkoły – dla uczniów wszystkich poziomów organizujemy lekcje festiwalowe. W 2026 roku Festiwal Nauki dedykujemy wyjątkowej postaci – prof. Stanisławowi Staszicowi, który jest patronem roku 2026 ustanowionym przez Sejm RP. Zaczniemy debatą inauguracyjną poświęconą innemu patronowi roku 2026 - Jerzemu Giedroyciowi - założycielowi i redaktorowi naczelnemu paryskiej \"Kultury\" oraz wieloletniemu współpracownikowi wielu polskich i międzynarodowych instytucji. Z okazji 30-lecia odbędą się też: 🎥 Festiwal Filmowy pt. \"Kadr na Naukę!\", który rozpocznie się w kinie Iluzjon, a pozostałe seanse odbędą się w kinie Atlantic. Filmy związane będą z polskimi naukowcami, a po seansach naukowcy będą opowiadać o zmianach i szczegółach w danej dziedzinie nauki. [wstęp na seanse płatny] 👩‍🔬 Wyjątkowe wykłady, prowadzone przez wybitnych specjalistów, związanych w przeszłości z Radą Programową Festiwalu. 🎼 Koncert z okazji naszego jubileuszu i 200-lecia Politechniki Warszawskiej, zrealizowany przez Chór PW. Jak co roku zachęcamy do udziału w zabawie terenowej, która będzie dostępna przez cały wrzesień. Zaproście naukę do swojego kalendarza – odkrywajcie, pytajcie, eksperymentujcie. Bo nauka to nie tylko wiedza – to sposób na lepsze zrozumienie świata i realne narzędzie zmiany. Do zobaczenia na Festiwalu Nauki w Warszawie! 30. Festiwal Nauki w Warszawie! 18-27 września 2026 PROGRAM >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788351002.webp",
+      "location": {
+        "name": "różne lokalizacje",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/events/1541523737439287/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1541523737439287/",
+      "scrapped_timestamp": "2026-09-03T11:07:27.486327+00:00",
+      "category": "STEM",
+      "additional_categories": [
+        "Workshops",
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "30. Festiwal Nauki w Warszawie",
+          "description": "Największe i najstarsze święto nauki w Polsce ponownie ogarnia całą Warszawę! Przed nami jubileuszowa 30. edycja Festiwalu Nauki – z niemal 1000 wydarzeniami przygotowanymi przez ponad 113 instytucji naukowych, edukacyjnych i kulturalnych. To wyjątkowe 10 dni w roku, w którym nauka jest dostępna dla wszystkich! Spotkajmy się, by porozmawiać o najnowszych odkryciach, wyzwaniach współczesnej nauki i pytaniach, na które wciąż szukamy odpowiedzi. Czekają nas debaty, wykłady, warsztaty, pokazy, wystawy, wizyty w laboratoriach, wycieczki i interaktywne gry edukacyjne! Z myślą o najmłodszych przygotowaliśmy specjalną ofertę – atrakcyjne zajęcia popularnonaukowe dla dzieci i całych rodzin. Tradycyjnie też zapraszamy szkoły – dla uczniów wszystkich poziomów organizujemy lekcje festiwalowe. W 2026 roku Festiwal Nauki dedykujemy wyjątkowej postaci – prof. Stanisławowi Staszicowi, który jest patronem roku 2026 ustanowionym przez Sejm RP. Zaczniemy debatą inauguracyjną poświęconą innemu patronowi roku 2026 - Jerzemu Giedroyciowi - założycielowi i redaktorowi naczelnemu paryskiej \"Kultury\" oraz wieloletniemu współpracownikowi wielu polskich i międzynarodowych instytucji. Z okazji 30-lecia odbędą się też: 🎥 Festiwal Filmowy pt. \"Kadr na Naukę!\", który rozpocznie się w kinie Iluzjon, a pozostałe seanse odbędą się w kinie Atlantic. Filmy związane będą z polskimi naukowcami, a po seansach naukowcy będą opowiadać o zmianach i szczegółach w danej dziedzinie nauki. [wstęp na seanse płatny] 👩‍🔬 Wyjątkowe wykłady, prowadzone przez wybitnych specjalistów, związanych w przeszłości z Radą Programową Festiwalu. 🎼 Koncert z okazji naszego jubileuszu i 200-lecia Politechniki Warszawskiej, zrealizowany przez Chór PW. Jak co roku zachęcamy do udziału w zabawie terenowej, która będzie dostępna przez cały wrzesień. Zaproście naukę do swojego kalendarza – odkrywajcie, pytajcie, eksperymentujcie. Bo nauka to nie tylko wiedza – to sposób na lepsze zrozumienie świata i realne narzędzie zmiany. Do zobaczenia na Festiwalu Nauki w Warszawie! 30. Festiwal Nauki w Warszawie! 18-27 września 2026 PROGRAM >> link"
+        },
+        "en": {
+          "title": "30th Science Festival in Warsaw",
+          "description": "The largest and oldest celebration of science in Poland is once again taking over the whole of Warsaw! We are looking forward to the jubilee 30th edition of the Science Festival – with nearly 1000 events prepared by over 113 scientific, educational, and cultural institutions. This is a unique 10 days of the year when science is accessible to everyone! Let's meet to discuss the latest discoveries, the challenges of contemporary science, and the questions we are still seeking answers to. We have debates, lectures, workshops, demonstrations, exhibitions, lab visits, excursions, and interactive educational games waiting for us! With the youngest in mind, we have prepared a special offer – attractive popular science activities for children and whole families. Traditionally, we also invite schools – we organize festival lessons for students of all levels."
+        },
+        "uk": {
+          "title": "30-й Фестиваль науки у Варшаві",
+          "description": "Найбільше і найстаріше свято науки в Польщі знову охоплює всю Варшаву! Попереду ювілейний 30-й випуск Фестивалю науки – з майже 1000 подій, підготовлених понад 113 науковими, освітніми та культурними установами. Це унікальні 10 днів на рік, коли наука доступна для всіх! Зустріньмося, щоб поговорити про найновіші відкриття, виклики сучасної науки та питання, на які ми все ще шукаємо відповіді. Нас чекають дебати, лекції, майстер-класи, покази, виставки, відвідування лабораторій, екскурсії та інтерактивні навчальні ігри! З думкою про найменших ми підготували спеціальну пропозицію – привабливі наукові заняття для дітей та цілих родин. Традиційно також запрошуємо школи – для учнів усіх рівнів організовуємо фестивальні уроки."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-03T11:07:50.524283+00:00"
+    },
+    "rozpoczynamy-nowy-sezon-piknik-s-siedzki-2026-09-20T13:00:00+02:00": {
+      "title": "Rozpoczynamy nowy sezon! Piknik sąsiedzki",
+      "date": "2026-09-20T13:00:00+02:00",
+      "end_date": "2026-09-20T13:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Według naszej wieloletniej tradycji, każdy nowy sezon programowy Filii BOK zaczynamy hucznie! Zapraszamy Was na wyjątkowy piknik sąsiedzki, podczas którego wspólnie, w ciepłej i rodzinnej atmosferze, przywitamy nadchodzące miesiące pełne kultury. To idealna okazja, aby po wakacjach spotkać się z bliskimi, poznać sąsiadów i wspólnie spędzić czas na świeżym powietrzu. Przygotowaliśmy dla Was wiele atrakcji, w tym m.in.: warsztaty architektoniczne dla dzieci występy muzyków zespołu The Mleko warsztaty z makramy warsztaty tworzenia biżuterii animacje dla dzieci popcorn i wata cukrowa poczęstunek, grill oraz wspólny stół! Nie zapomnijcie wziąć ze sobą swoich ulubionych potraw, ciast i przekąsek. Sąsiedzkie spotkanie jest idealnym miejscem do podzielenia się ze sobą swoimi przepisami! Podczas pikniku będziecie mogli zaznajomić się z naszą ofertą zajęć oraz wydarzeń, które przygotowaliśmy dla Was w tym sezonie. 20.09 (niedziela) 13:00-16:00 Do zobaczenia! Wstęp wolny",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1300.1788340730.webp",
+      "location": {
+        "name": "Filia Bielańskiego Ośrodka Kultury, ul. Estrady 112A",
+        "district": "Bielany"
+      },
+      "url": "https://bielanski-estrady.waw.pl/08/rozpoczynamy-nowy-sezon-piknik-sasiedzki/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://bielanski-estrady.waw.pl/08/rozpoczynamy-nowy-sezon-piknik-sasiedzki/",
+      "scrapped_timestamp": "2026-09-03T11:07:32.191878+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Workshops",
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Rozpoczynamy nowy sezon! Piknik sąsiedzki",
+          "description": "Według naszej wieloletniej tradycji, każdy nowy sezon programowy Filii BOK zaczynamy hucznie! Zapraszamy Was na wyjątkowy piknik sąsiedzki, podczas którego wspólnie, w ciepłej i rodzinnej atmosferze, przywitamy nadchodzące miesiące pełne kultury. To idealna okazja, aby po wakacjach spotkać się z bliskimi, poznać sąsiadów i wspólnie spędzić czas na świeżym powietrzu. Przygotowaliśmy dla Was wiele atrakcji, w tym m.in.: warsztaty architektoniczne dla dzieci występy muzyków zespołu The Mleko warsztaty z makramy warsztaty tworzenia biżuterii animacje dla dzieci popcorn i wata cukrowa poczęstunek, grill oraz wspólny stół! Nie zapomnijcie wziąć ze sobą swoich ulubionych potraw, ciast i przekąsek. Sąsiedzkie spotkanie jest idealnym miejscem do podzielenia się ze sobą swoimi przepisami! Podczas pikniku będziecie mogli zaznajomić się z naszą ofertą zajęć oraz wydarzeń, które przygotowaliśmy dla Was w tym sezonie. 20.09 (niedziela) 13:00-16:00 Do zobaczenia! Wstęp wolny"
+        },
+        "en": {
+          "title": "We Are Starting a New Season! Neighborhood Picnic",
+          "description": "According to our long-standing tradition, we kick off each new program season at the BOK Branch with a bang! We invite you to a special neighborhood picnic, where together, in a warm and family-friendly atmosphere, we will welcome the upcoming months full of culture. This is the perfect opportunity to meet with loved ones after the summer, get to know your neighbors, and spend time outdoors. We have prepared many attractions for you, including: architectural workshops for children, performances by the band The Mleko, macramé workshops, jewelry-making workshops, children's animations, popcorn and cotton candy, refreshments, a grill, and a communal table! Don't forget to bring your favorite dishes, cakes, and snacks. The neighborhood gathering is the perfect place to share your recipes with each other!"
+        },
+        "uk": {
+          "title": "Розпочинаємо новий сезон! Сусідський пікнік",
+          "description": "Згідно з нашою багаторічною традицією, кожен новий сезон програмної філії БОК ми починаємо гучно! Запрошуємо вас на унікальний сусідський пікнік, під час якого разом, в теплій і родинній атмосфері, привітаємо наступні місяці, наповнені культурою. Це ідеальна нагода, щоб після канікул зустрітися з близькими, познайомитися з сусідами та разом провести час на свіжому повітрі. Ми підготували для вас багато розваг, зокрема: архітектурні майстер-класи для дітей, виступи музикантів гурту The Mleko, майстер-класи з макраме, майстер-класи зі створення прикрас, анімації для дітей, попкорн і цукрову вату, частування, гриль та спільний стіл! Не забудьте взяти з собою свої улюблені страви, торти та закуски. Сусідська зустріч є ідеальним місцем, щоб поділитися своїми рецептами!"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bielany",
+      "updated_at": "2026-09-03T11:07:50.524302+00:00"
+    },
+    "bajeczna-fiesta-spektakl-dla-dzieci-teatru-kultureska-2026-09-27T10:00:00+02:00": {
+      "title": "Bajeczna Fiesta - spektakl dla dzieci Teatru Kultureska",
+      "date": "2026-09-27T10:00:00+02:00",
+      "end_date": "2026-09-27T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🎉🌿 BAJECZNA FIESTA – to zabawa dla najmłodszych! 🌿🎉 📅 27 września 2026 (niedziela) 🕙 godz. 10:00 🎟 Wstęp bezpłatny – obowiązują wejściówki 🎟 BEZPŁATNE WEJŚCIÓWKI Dostępne od 22 września (wtorek) od godz. 16:00. 👉 Limit: maksymalnie 5 wejściówek na osobę. Szykujcie się na prawdziwie bajeczną fiestę! 🎶💃🕺 „Bajeczna Fiesta” to interaktywny spektakl Teatru Kultureska, który łączy ekologię z mnóstwem dobrej zabawy! Na najmłodszych czekają muzyka, taniec, animacje i wspólne zabawy, a wszystko w kolorowym, pełnym energii wydaniu. 🌎💚 Na scenie pojawi się światowej sławy ekokapela The Jelonband! 🎸🎤🥁 🦌 Jelonek Bronek – gwiazda rock’nd’jelona i król ekotańca połamańca, 🐞 Biedronka Ilonka – niezastąpiona gitarzystka, 🐝 Pszczółka Julka – wokalistka, której nie sposób nie słuchać! Będzie wesoło, muzycznie i… bardzo ekologicznie! 🌱🎵 Biedronka Ilonka i Pszczółka Julka to najbardziej rozśpiewane owady na łące. Natomiast królem tańca jest jedyny w swoim rodzaju – Jelonek Bronek. Razem tworzą oni wyjątkowo zabawny zespół rock’nd’jelonowy – The Jelonband! Ta wesoła zwierzęca kompania codziennie urządza Bajeczną Fiestę z okazji Święta Przyrody. A dlaczego codziennie? Bo codziennie powinniśmy urządzać święto naturze – dbając o nią i ciesząc się z jej piękna. Fiesta będzie doskonałą okazją, aby przypomnieć sobie, jak możemy uczynić nasz świat czystym i ekologicznym. Bohaterami spektaklu staną się też same dzieci, które będą miały okazję wziąć udział w wesołych konkurencjach. Pozostaje tylko pytanie: Kto zostanie EkoKrólem tej Bajecznej Ekologicznej Fiesty? Zabierzcie dzieciaki i dołączcie do naszej Bajecznej Fiesty! 🎊 Do zobaczenia! 💚 Zadanie finansowane z Gminnego Programu Rewitalizacji m.st. Warszawy do roku 2030.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788351609.webp",
+      "location": {
+        "name": "Centrum Promocji Kultury, ul. Podskarbińska 2",
+        "district": "Praga-Południe"
+      },
+      "url": "https://www.facebook.com/events/1081646098069480/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1081646098069480/",
+      "scrapped_timestamp": "2026-09-03T11:07:36.804289+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance",
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Bajeczna Fiesta - spektakl dla dzieci Teatru Kultureska",
+          "description": "🎉🌿 BAJECZNA FIESTA – to zabawa dla najmłodszych! 🌿🎉 📅 27 września 2026 (niedziela) 🕙 godz. 10:00 🎟 Wstęp bezpłatny – obowiązują wejściówki 🎟 BEZPŁATNE WEJŚCIÓWKI Dostępne od 22 września (wtorek) od godz. 16:00. 👉 Limit: maksymalnie 5 wejściówek na osobę. Szykujcie się na prawdziwie bajeczną fiestę! 🎶💃🕺 „Bajeczna Fiesta” to interaktywny spektakl Teatru Kultureska, który łączy ekologię z mnóstwem dobrej zabawy! Na najmłodszych czekają muzyka, taniec, animacje i wspólne zabawy, a wszystko w kolorowym, pełnym energii wydaniu. 🌎💚 Na scenie pojawi się światowej sławy ekokapela The Jelonband! 🎸🎤🥁 🦌 Jelonek Bronek – gwiazda rock’nd’jelona i król ekotańca połamańca, 🐞 Biedronka Ilonka – niezastąpiona gitarzystka, 🐝 Pszczółka Julka – wokalistka, której nie sposób nie słuchać! Będzie wesoło, muzycznie i… bardzo ekologicznie! 🌱🎵 Biedronka Ilonka i Pszczółka Julka to najbardziej rozśpiewane owady na łące. Natomiast królem tańca jest jedyny w swoim rodzaju – Jelonek Bronek. Razem tworzą oni wyjątkowo zabawny zespół rock’nd’jelonowy – The Jelonband! Ta wesoła zwierzęca kompania codziennie urządza Bajeczną Fiestę z okazji Święta Przyrody. A dlaczego codziennie? Bo codziennie powinniśmy urządzać święto naturze – dbając o nią i ciesząc się z jej piękna. Fiesta będzie doskonałą okazją, aby przypomnieć sobie, jak możemy uczynić nasz świat czystym i ekologicznym. Bohaterami spektaklu staną się też same dzieci, które będą miały okazję wziąć udział w wesołych konkurencjach. Pozostaje tylko pytanie: Kto zostanie EkoKrólem tej Bajecznej Ekologicznej Fiesty? Zabierzcie dzieciaki i dołączcie do naszej Bajecznej Fiesty! 🎊 Do zobaczenia! 💚 Zadanie finansowane z Gminnego Programu Rewitalizacji m.st. Warszawy do roku 2030."
+        },
+        "en": {
+          "title": "Fairy Tale Fiesta - a show for children by Teatr Kultureska",
+          "description": "🎉🌿 FAIRY TALE FIESTA – a fun event for the little ones! 🌿🎉 📅 September 27, 2026 (Sunday) 🕙 10:00 AM 🎟 Free admission – tickets are required 🎟 FREE TICKETS Available from September 22 (Tuesday) at 4:00 PM. 👉 Limit: a maximum of 5 tickets per person. Get ready for a truly fairy tale fiesta! 🎶💃🕺 \"Fairy Tale Fiesta\" is an interactive show by Teatr Kultureska that combines ecology with lots of fun! There will be music, dance, animations, and group games for the little ones, all in a colorful, energetic setting. 🌎💚 The world-famous eco-band The Jelonband will perform on stage! 🎸🎤🥁 🦌 Little Deer Bronek – the star of rock'n'deer and king of eco-dance, 🐞 Ladybug Ilonka – the indispensable guitarist, 🐝 Bee Julka – the vocalist you can't help but listen to! It will be joyful, musical."
+        },
+        "uk": {
+          "title": "Байєчна Фієста - спектакль для дітей Театру Культуреска",
+          "description": "🎉🌿 БАЙЄЧНА ФІЄСТА – це розвага для найменших! 🌿🎉 📅 27 вересня 2026 (неділя) 🕙 о 10:00 🎟 Вхід безкоштовний – діють квитки 🎟 БЕЗКОШТОВНІ КВИТКИ Доступні з 22 вересня (вівторок) з 16:00. 👉 Ліміт: максимум 5 квитків на особу. Готуйтеся до справжньої байєчної фієсти! 🎶💃🕺 «Байєчна Фієста» – це інтерактивний спектакль Театру Культуреска, який поєднує екологію з безліччю гарного настрою! На найменших чекають музика, танці, анімації та спільні ігри, а все в кольоровому, енергійному виконанні. 🌎💚 На сцені з'явиться світової слави еко-капіла The Jelonband! 🎸🎤🥁 🦌 Олень Бронек – зірка рок-н-джелона і король еко-танцю, 🐞 Сорока Ілонка – незамінна гітаристка, 🐝 Бджілка Юля – вокалістка, яку неможливо не слухати! Буде весело, музично!"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Południe",
+      "updated_at": "2026-09-03T11:07:50.524322+00:00"
+    },
+    "dzie-z-ycia-jego-kr-lewskiej-mo-ci-rodzinne-oprowadzanie-po-pa-acu-2026-09-13T10:00:00+02:00": {
+      "title": "Dzień z życia Jego Królewskiej Mości | rodzinne oprowadzanie po pałacu",
+      "date": "2026-09-13T10:00:00+02:00",
+      "end_date": "2026-09-13T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Dawno, dawno temu, w pięknym pałacu żyli król Jan III i królowa Marysieńka. Zapraszamy na rodzinne zwiedzanie z edukatorem, podczas którego dowiecie się jak wyglądało życie codzienne w Pałacu w Wilanowie! Dla kogo rodziny z dziećmi Kiedy 8 lutego, 15 marca, 12 kwietnia, 10 maja, 14 czerwca, 19 lipca, 16 sierpnia, 13 września, 11 października, 15 listopada, 13 grudnia 2026 r., godz. 10:00 Gdzie zbiórka w pałacowej szatni Bilet* 60 zł normalny, 30 zł ulgowy, 1 zł dziecko/młodzież do 16 r. ż. (dostępne online i w kasie muzeum) * bilety dostępne na miesiąc przed wydarzeniem; listopadowe spotkanie jest bezpłatne – bilety włączą się dwa tygodnie przed wydarzeniem Więcej informacji",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F5bf34002-b142-42fb-bbd9-a1bbe198aa8f.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/c34a21b8-f5d8-4d8a-b287-1d5e7a78a663",
+      "source": "gojammin.com",
+      "district": "Wilanów",
+      "location": {
+        "name": "Stanisława Kostki Potockiego 10/16, 02-958 Warszawa, Poland",
+        "district": "Wilanów"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/c34a21b8-f5d8-4d8a-b287-1d5e7a78a663",
+      "scrapped_timestamp": "2026-09-03T11:07:43.535169+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "translations": {
+        "pl": {
+          "title": "Dzień z życia Jego Królewskiej Mości | rodzinne oprowadzanie po pałacu",
+          "description": "Dawno, dawno temu, w pięknym pałacu żyli król Jan III i królowa Marysieńka. Zapraszamy na rodzinne zwiedzanie z edukatorem, podczas którego dowiecie się jak wyglądało życie codzienne w Pałacu w Wilanowie! Dla kogo rodziny z dziećmi Kiedy 8 lutego, 15 marca, 12 kwietnia, 10 maja, 14 czerwca, 19 lipca, 16 sierpnia, 13 września, 11 października, 15 listopada, 13 grudnia 2026 r., godz. 10:00 Gdzie zbiórka w pałacowej szatni Bilet* 60 zł normalny, 30 zł ulgowy, 1 zł dziecko/młodzież do 16 r. ż. (dostępne online i w kasie muzeum) * bilety dostępne na miesiąc przed wydarzeniem; listopadowe spotkanie jest bezpłatne – bilety włączą się dwa tygodnie przed wydarzeniem Więcej informacji"
+        },
+        "en": {
+          "title": "A Day in the Life of His Royal Majesty | Family Tour of the Palace",
+          "description": "Once upon a time, in a beautiful palace, lived King John III and Queen Marysieńka. We invite you to a family tour with an educator, during which you will learn what daily life was like in the Wilanów Palace! For whom: families with children When: February 8, March 15, April 12, May 10, June 14, July 19, August 16, September 13, October 11, November 15, December 13, 2026, at 10:00 AM Where: meeting point at the palace cloakroom Ticket*: 60 PLN regular, 30 PLN reduced, 1 PLN child/youth up to 16 years old (available online and at the museum box office) * tickets available one month before the event; the November meeting is free – tickets will be available two weeks before the event More information"
+        },
+        "uk": {
+          "title": "День з життя Його Королівської Величності | сімейна екскурсія по палацу",
+          "description": "Давним-давно, в прекрасному палаці жили король Ян III та королева Марисенька. Запрошуємо на сімейне відвідування з освітнім працівником, під час якого ви дізнаєтеся, як виглядало повсякденне життя в Палаці у Віланові! Для кого: родини з дітьми Коли: 8 лютого, 15 березня, 12 квітня, 10 травня, 14 червня, 19 липня, 16 серпня, 13 вересня, 11 жовтня, 15 листопада, 13 грудня 2026 року, о 10:00 Де: збір у палацовій гардеробній Квиток*: 60 зл звичайний, 30 зл пільговий, 1 зл дитина/молодь до 16 років (доступні онлайн та в касі музею) * квитки доступні за місяць до події; листопадова зустріч безкоштовна – квитки з'являться за два тижні до події Більше інформації"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://wilanow-palac.pl/bilety/indywidualne/termin/72/1116/346267"
+      },
+      "updated_at": "2026-09-03T11:07:50.524345+00:00"
     }
   }
 }

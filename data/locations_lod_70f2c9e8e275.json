@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T11:27:59.982210+00:00",
+  "updated_at": "2026-09-03T11:18:19.489798+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -349,6 +349,24 @@
       "lat": 51.8052557,
       "lng": 19.4244528,
       "updated_at": "2026-09-02T11:22:22.738208+00:00"
+    },
+    "łódzkie centrum wydarzeń (ul. zachodnia 54_56)": {
+      "name": "Łódzkie Centrum Wydarzeń, 54/56, Zachodnia, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-403, Polska",
+      "district": "Śródmieście",
+      "address": "Łódzkie Centrum Wydarzeń, 54/56, Zachodnia, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-403, Polska",
+      "normalized": "łódzkie centrum wydarzeń (ul. zachodnia 54_56)",
+      "lat": 51.7755244,
+      "lng": 19.4529487,
+      "updated_at": "2026-09-03T11:11:55.969679+00:00"
+    },
+    "centrum handlowe pasaż łódzki (al. jana pawła ii 30)": {
+      "name": "Apteka Dbam O Zdrowie, Aleja Jana Pawła II, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 93-570, Polska",
+      "district": "Polesie",
+      "address": "Apteka Dbam O Zdrowie, Aleja Jana Pawła II, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 93-570, Polska",
+      "normalized": "centrum handlowe pasaż łódzki (al. jana pawła ii 30)",
+      "lat": 51.7507732,
+      "lng": 19.439444,
+      "updated_at": "2026-09-03T11:12:09.479392+00:00"
     }
   }
 }

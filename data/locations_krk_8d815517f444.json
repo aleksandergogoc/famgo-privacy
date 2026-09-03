@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T12:34:44.739678+00:00",
+  "updated_at": "2026-09-03T11:18:22.099994+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3436,6 +3436,15 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-09-02T12:34:40.736913+00:00"
+    },
+    "parking przy ul. włodzimierza tetmajera": {
+      "name": "Parking przy ul. Włodzimierza Tetmajera, Kraków",
+      "district": "Stare Miasto",
+      "address": "Parking przy ul. Włodzimierza Tetmajera, Kraków",
+      "normalized": "parking przy ul. włodzimierza tetmajera",
+      "lat": 50.0496,
+      "lng": 19.9379,
+      "updated_at": "2026-09-03T10:50:40.775124+00:00"
     }
   }
 }

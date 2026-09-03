@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T12:12:14.971091+00:00",
+  "updated_at": "2026-09-03T11:18:20.534526+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -4669,6 +4669,87 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-02T12:12:09.370832+00:00"
+    },
+    "blue city": {
+      "name": "Blue City, Aleje Jerozolimskie 179",
+      "district": "Ochota",
+      "address": "Blue City, Aleje Jerozolimskie 179",
+      "normalized": "blue city",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-03T11:07:49.469576+00:00"
+    },
+    "pomnik poległych powstańców na boernerowie": {
+      "name": "Pomnik Poległych Powstańców na Boernerowie",
+      "district": "Bemowo",
+      "address": "Pomnik Poległych Powstańców na Boernerowie",
+      "normalized": "pomnik poległych powstańców na boernerowie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-03T11:07:49.469880+00:00"
+    },
+    "jolly kids": {
+      "name": "Jolly Kids, Wołodyjowskiego 63",
+      "district": "Mokotów",
+      "address": "Jolly Kids, Wołodyjowskiego 63",
+      "normalized": "jolly kids",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-03T11:07:49.470099+00:00"
+    },
+    "targowa 86": {
+      "name": "Targowa 86",
+      "district": "Praga-Północ",
+      "address": "Targowa 86",
+      "normalized": "targowa 86",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-03T11:07:49.470324+00:00"
+    },
+    "anielewicza _ karmelicka": {
+      "name": "Anielewicza / Karmelicka",
+      "district": "Śródmieście",
+      "address": "Anielewicza / Karmelicka",
+      "normalized": "anielewicza _ karmelicka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-03T11:07:49.470612+00:00"
+    },
+    "biblioteka „pod skrzydłami”": {
+      "name": "Biblioteka „Pod Skrzydłami”, Wypożyczalnia dla Dorosłych i Młodzieży Nr 75, ul Grójecka 109",
+      "district": "Ochota",
+      "address": "Biblioteka „Pod Skrzydłami”, Wypożyczalnia dla Dorosłych i Młodzieży Nr 75, ul Grójecka 109",
+      "normalized": "biblioteka „pod skrzydłami”",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-03T11:07:49.470830+00:00"
+    },
+    "ul. maślana 2": {
+      "name": "ul. Maślana 2",
+      "district": "Wilanów",
+      "address": "ul. Maślana 2",
+      "normalized": "ul. maślana 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-03T11:07:49.471052+00:00"
+    },
+    "warszawska strefa rodziny": {
+      "name": "Warszawska Strefa  Rodziny, ul. Stara 3",
+      "district": "Śródmieście",
+      "address": "Warszawska Strefa  Rodziny, ul. Stara 3",
+      "normalized": "warszawska strefa rodziny",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-03T11:07:49.471301+00:00"
+    },
+    "filia bielańskiego ośrodka kultury": {
+      "name": "Filia Bielańskiego Ośrodka Kultury, ul. Estrady 112A",
+      "district": "Bielany",
+      "address": "Filia Bielańskiego Ośrodka Kultury, ul. Estrady 112A",
+      "normalized": "filia bielańskiego ośrodka kultury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-03T11:07:49.471594+00:00"
     }
   }
 }

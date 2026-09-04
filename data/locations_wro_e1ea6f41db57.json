@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T13:47:48.859124+00:00",
+  "updated_at": "2026-09-04T11:17:39.186572+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1131,6 +1131,24 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-08-31T13:39:01.508298+00:00"
+    },
+    "wrocławski teatr lalek pl. teatralny 4": {
+      "name": "Wrocławski Teatr Lalek, 4, plac Teatralny, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-051, Polska",
+      "district": "Stare Miasto",
+      "address": "Wrocławski Teatr Lalek, 4, plac Teatralny, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-051, Polska",
+      "normalized": "wrocławski teatr lalek pl. teatralny 4",
+      "lat": 51.105053,
+      "lng": 17.033054,
+      "updated_at": "2026-09-04T11:08:50.727108+00:00"
+    },
+    "park tadeusza różewicza sztabowa": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Stare Miasto",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "park tadeusza różewicza sztabowa",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-09-04T11:08:53.397773+00:00"
     }
   }
 }

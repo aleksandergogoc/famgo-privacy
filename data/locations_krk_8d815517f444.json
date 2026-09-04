@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:18:22.099994+00:00",
+  "updated_at": "2026-09-04T11:17:41.895785+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3445,6 +3445,42 @@
       "lat": 50.0496,
       "lng": 19.9379,
       "updated_at": "2026-09-03T10:50:40.775124+00:00"
+    },
+    "park im. tadeusza kościuszki": {
+      "name": "Park im. Tadeusza Kościuszki, Prądnik Biały, Kraków, województwo małopolskie, Polska",
+      "district": "Prądnik Biały",
+      "address": "Park im. Tadeusza Kościuszki, Prądnik Biały, Kraków, województwo małopolskie, Polska",
+      "normalized": "park im. tadeusza kościuszki",
+      "lat": 50.0934997,
+      "lng": 19.9413327,
+      "updated_at": "2026-09-04T10:51:37.411386+00:00"
+    },
+    "plac targowy nowy kleparz": {
+      "name": "Plac Nowy Kleparz, Spółka Kupiecka Sp. z o.o. Nowy Kleparz Plac Targowy, Kleparz, Stare Miasto, Kraków, województwo małopolskie, Polska",
+      "district": "Stare Miasto",
+      "address": "Plac Nowy Kleparz, Spółka Kupiecka Sp. z o.o. Nowy Kleparz Plac Targowy, Kleparz, Stare Miasto, Kraków, województwo małopolskie, Polska",
+      "normalized": "plac targowy nowy kleparz",
+      "lat": 50.0728952,
+      "lng": 19.9354353,
+      "updated_at": "2026-09-04T10:52:12.716721+00:00"
+    },
+    "centrum kongresowe ice kraków": {
+      "name": "Centrum Kongresowe ICE Kraków, 17, Marii Konopnickiej, Osiedle Podwawelskie, Ludwinów, Dębniki, Kraków, województwo małopolskie, 30-302, Polska",
+      "district": "Dębniki",
+      "address": "Centrum Kongresowe ICE Kraków, 17, Marii Konopnickiej, Osiedle Podwawelskie, Ludwinów, Dębniki, Kraków, województwo małopolskie, 30-302, Polska",
+      "normalized": "centrum kongresowe ice kraków",
+      "lat": 50.0479548,
+      "lng": 19.9314617,
+      "updated_at": "2026-09-04T10:53:38.674207+00:00"
+    },
+    "forum fun & food": {
+      "name": "Forum Fun & Food, Bulwar Wołyński, Osiedle Podwawelskie, Ludwinów, Dębniki, Kraków, województwo małopolskie, 30-302, Polska",
+      "district": "Dębniki",
+      "address": "Forum Fun & Food, Bulwar Wołyński, Osiedle Podwawelskie, Ludwinów, Dębniki, Kraków, województwo małopolskie, 30-302, Polska",
+      "normalized": "forum fun & food",
+      "lat": 50.0450806,
+      "lng": 19.9363221,
+      "updated_at": "2026-09-04T11:03:55.698307+00:00"
     }
   }
 }

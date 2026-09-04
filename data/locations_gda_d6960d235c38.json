@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T11:27:58.572358+00:00",
+  "updated_at": "2026-09-04T11:17:37.827344+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -716,6 +716,33 @@
       "lat": 54.4137038,
       "lng": 18.6076777,
       "updated_at": "2026-09-02T11:24:25.789952+00:00"
+    },
+    "europejskie centrum solidarności": {
+      "name": "Europejskie Centrum Solidarności, 1, Plac Solidarności, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "district": "Śródmieście",
+      "address": "Europejskie Centrum Solidarności, 1, Plac Solidarności, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "normalized": "europejskie centrum solidarności",
+      "lat": 54.3613609,
+      "lng": 18.6494189,
+      "updated_at": "2026-09-04T11:13:25.519653+00:00"
+    },
+    "schuberta 102 a": {
+      "name": "Galeria Morena, 102A, Franciszka Schuberta, Suchanino, Gdańsk, województwo pomorskie, 80-172, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Galeria Morena, 102A, Franciszka Schuberta, Suchanino, Gdańsk, województwo pomorskie, 80-172, Polska",
+      "normalized": "schuberta 102 a",
+      "lat": 54.3524411,
+      "lng": 18.5929599,
+      "updated_at": "2026-09-04T11:13:44.017248+00:00"
+    },
+    "warneńska 3b": {
+      "name": "3B, Warneńska, C, Piecki, Piecki-Migowo, Gdańsk, województwo pomorskie, 80-288, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "3B, Warneńska, C, Piecki, Piecki-Migowo, Gdańsk, województwo pomorskie, 80-288, Polska",
+      "normalized": "warneńska 3b",
+      "lat": 54.3571309,
+      "lng": 18.5816091,
+      "updated_at": "2026-09-04T11:13:46.832272+00:00"
     }
   }
 }

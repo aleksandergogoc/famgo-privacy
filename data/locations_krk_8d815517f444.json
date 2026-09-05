@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:04:35.084685+00:00",
+  "updated_at": "2026-09-05T06:05:17.083765+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3489,6 +3489,14 @@
       "normalized": "pleszów ul. nadbrzezie 18",
       "updated_at": "2026-09-05T06:04:35.006362+00:00",
       "created_at": "2026-09-05T06:04:35.006362+00:00"
+    },
+    "zgody": {
+      "name": "Klub Zgody, os. Słoneczne 16",
+      "district": "Nowa Huta",
+      "address": "os. Słoneczne 16",
+      "normalized": "zgody",
+      "updated_at": "2026-09-05T06:05:16.987389+00:00",
+      "created_at": "2026-09-05T06:05:16.987389+00:00"
     }
   }
 }

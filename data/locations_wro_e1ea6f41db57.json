@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T10:37:34.907026+00:00",
+  "updated_at": "2026-09-05T16:13:47.537020+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1158,6 +1158,231 @@
       "lat": 51.1074,
       "lng": 17.0385,
       "updated_at": "2026-09-05T10:27:01.883830+00:00"
+    },
+    "mww muzeum współczesne wrocław": {
+      "name": "2a, plac Strzegomski, Szczepin, Wrocław, województwo dolnośląskie, 53-681, Polska",
+      "district": "Krzyki",
+      "address": "2a, plac Strzegomski, Szczepin, Wrocław, województwo dolnośląskie, 53-681, Polska",
+      "normalized": "mww muzeum współczesne wrocław",
+      "lat": 51.113059,
+      "lng": 17.0047051,
+      "updated_at": "2026-09-05T16:12:21.210935+00:00"
+    },
+    "plac wolności": {
+      "name": "Plac Wolności, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Stare Miasto",
+      "address": "Plac Wolności, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "plac wolności",
+      "lat": 51.1062547,
+      "lng": 17.0285759,
+      "updated_at": "2026-09-05T16:12:22.637093+00:00"
+    },
+    "park tarnogajski": {
+      "name": "Park Tarnogajski, Tarnogaj, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Krzyki",
+      "address": "Park Tarnogajski, Tarnogaj, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "park tarnogajski",
+      "lat": 51.0833229,
+      "lng": 17.0677573,
+      "updated_at": "2026-09-05T16:12:23.897300+00:00"
+    },
+    "gojump park trampolin wrocław": {
+      "name": "59-75, Jana Długosza, Karłowice, Karłowice-Różanka, Wrocław, województwo dolnośląskie, 51-162, Polska",
+      "district": "Śródmieście",
+      "address": "59-75, Jana Długosza, Karłowice, Karłowice-Różanka, Wrocław, województwo dolnośląskie, 51-162, Polska",
+      "normalized": "gojump park trampolin wrocław",
+      "lat": 51.1353441,
+      "lng": 17.067085,
+      "updated_at": "2026-09-05T16:12:31.860487+00:00"
+    },
+    "wrocławskie centrum kongresowe": {
+      "name": "Hala Stulecia, 1, Wystawowa, Dąbie, Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, województwo dolnośląskie, 51-618, Polska",
+      "district": "Śródmieście",
+      "address": "Hala Stulecia, 1, Wystawowa, Dąbie, Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, województwo dolnośląskie, 51-618, Polska",
+      "normalized": "wrocławskie centrum kongresowe",
+      "lat": 51.1068875,
+      "lng": 17.0773185,
+      "updated_at": "2026-09-05T16:12:34.819375+00:00"
+    },
+    "nfm": {
+      "name": "Narodowe Forum Muzyki, 1, Plac Wolności, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-071, Polska",
+      "district": "Stare Miasto",
+      "address": "Narodowe Forum Muzyki, 1, Plac Wolności, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-071, Polska",
+      "normalized": "nfm",
+      "lat": 51.1069844,
+      "lng": 17.0265381,
+      "updated_at": "2026-09-05T16:12:37.617028+00:00"
+    },
+    "cal chopina wrocław": {
+      "name": "CAL Chopina, 9a, Fryderyka Chopina, Zalesie, Zacisze-Zalesie-Szczytniki, Wrocław, województwo dolnośląskie, 51-609, Polska",
+      "district": "Śródmieście",
+      "address": "CAL Chopina, 9a, Fryderyka Chopina, Zalesie, Zacisze-Zalesie-Szczytniki, Wrocław, województwo dolnośląskie, 51-609, Polska",
+      "normalized": "cal chopina wrocław",
+      "lat": 51.119778,
+      "lng": 17.0821519,
+      "updated_at": "2026-09-05T16:12:43.587884+00:00"
+    },
+    "odra centrum": {
+      "name": "Odra Centrum, 5b, wybrzeże Juliusza Słowackiego, Trójkąt, Przedmieście Oławskie, Wrocław, województwo dolnośląskie, 50-406, Polska",
+      "district": "Stare Miasto",
+      "address": "Odra Centrum, 5b, wybrzeże Juliusza Słowackiego, Trójkąt, Przedmieście Oławskie, Wrocław, województwo dolnośląskie, 50-406, Polska",
+      "normalized": "odra centrum",
+      "lat": 51.1088648,
+      "lng": 17.0523158,
+      "updated_at": "2026-09-05T16:12:46.120129+00:00"
+    },
+    "czasoprzestrzeń": {
+      "name": "Czasoprzestrzeń, Tramwajowa, Wittigowo, Dąbie, Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, województwo dolnośląskie, 51-621, Polska",
+      "district": "Śródmieście",
+      "address": "Czasoprzestrzeń, Tramwajowa, Wittigowo, Dąbie, Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, województwo dolnośląskie, 51-621, Polska",
+      "normalized": "czasoprzestrzeń",
+      "lat": 51.1049674,
+      "lng": 17.0869859,
+      "updated_at": "2026-09-05T16:12:49.884439+00:00"
+    },
+    "hala stulecia we wrocławiu": {
+      "name": "Hala Stulecia, 1, Wystawowa, Dąbie, Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, województwo dolnośląskie, 51-618, Polska",
+      "district": "Śródmieście",
+      "address": "Hala Stulecia, 1, Wystawowa, Dąbie, Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, województwo dolnośląskie, 51-618, Polska",
+      "normalized": "hala stulecia we wrocławiu",
+      "lat": 51.1068875,
+      "lng": 17.0773185,
+      "updated_at": "2026-09-05T16:12:52.341748+00:00"
+    },
+    "plac solny": {
+      "name": "Plac Solny, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Stare Miasto",
+      "address": "Plac Solny, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "plac solny",
+      "lat": 51.1094086,
+      "lng": 17.0294577,
+      "updated_at": "2026-09-05T16:12:54.841763+00:00"
+    },
+    "not wrocław": {
+      "name": "Naczelna Organizacja Techniczna, 74, Marszałka Józefa Piłsudskiego, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-020, Polska",
+      "district": "Stare Miasto",
+      "address": "Naczelna Organizacja Techniczna, 74, Marszałka Józefa Piłsudskiego, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-020, Polska",
+      "normalized": "not wrocław",
+      "lat": 51.1009827,
+      "lng": 17.0321519,
+      "updated_at": "2026-09-05T16:12:56.099370+00:00"
+    },
+    "polana popowicka": {
+      "name": "Elektrownia Wodna Wrocław I, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Stare Miasto",
+      "address": "Elektrownia Wodna Wrocław I, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "polana popowicka",
+      "lat": 51.1134429,
+      "lng": 17.0292737,
+      "updated_at": "2026-09-05T16:12:58.836884+00:00"
+    },
+    "dialogu": {
+      "name": "Teatr Dialogu, 180/K1A-K02, Krakowska, Księże Małe, Księże, Wrocław, województwo dolnośląskie, 52-015, Polska",
+      "district": "Krzyki",
+      "address": "Teatr Dialogu, 180/K1A-K02, Krakowska, Księże Małe, Księże, Wrocław, województwo dolnośląskie, 52-015, Polska",
+      "normalized": "dialogu",
+      "lat": 51.0816591,
+      "lng": 17.0795827,
+      "updated_at": "2026-09-05T16:13:04.945956+00:00"
+    },
+    "centrum kultury agora": {
+      "name": "Centrum Kultury \"Agora\", 5a, Serbska, Ligota, Różanka, Karłowice-Różanka, Wrocław, województwo dolnośląskie, 51-111, Polska",
+      "district": "Śródmieście",
+      "address": "Centrum Kultury \"Agora\", 5a, Serbska, Ligota, Różanka, Karłowice-Różanka, Wrocław, województwo dolnośląskie, 51-111, Polska",
+      "normalized": "centrum kultury agora",
+      "lat": 51.1348935,
+      "lng": 17.0216432,
+      "updated_at": "2026-09-05T16:13:07.944042+00:00"
+    },
+    "wrocławski teatr lalek - duża scena": {
+      "name": "Wrocławski Teatr Lalek, 4, plac Teatralny, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-051, Polska",
+      "district": "Stare Miasto",
+      "address": "Wrocławski Teatr Lalek, 4, plac Teatralny, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-051, Polska",
+      "normalized": "wrocławski teatr lalek - duża scena",
+      "lat": 51.105053,
+      "lng": 17.033054,
+      "updated_at": "2026-09-05T16:13:11.104741+00:00"
+    },
+    "browar mieszczański": {
+      "name": "Hubska, Glinianki, Huby, Wrocław, województwo dolnośląskie, 50-451, Polska",
+      "district": "Stare Miasto",
+      "address": "Hubska, Glinianki, Huby, Wrocław, województwo dolnośląskie, 50-451, Polska",
+      "normalized": "browar mieszczański",
+      "lat": 51.0957565,
+      "lng": 17.041843,
+      "updated_at": "2026-09-05T16:13:16.077312+00:00"
+    },
+    "oporów": {
+      "name": "Oporów, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Fabryczna",
+      "address": "Oporów, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "oporów",
+      "lat": 51.0781996,
+      "lng": 16.9612785,
+      "updated_at": "2026-09-05T16:13:17.271577+00:00"
+    },
+    "stadion olimpijski we wrocławiu": {
+      "name": "35, aleja Ignacego Jana Paderewskiego, Zalesie, Zacisze-Zalesie-Szczytniki, Wrocław, województwo dolnośląskie, 51-612, Polska",
+      "district": "Śródmieście",
+      "address": "35, aleja Ignacego Jana Paderewskiego, Zalesie, Zacisze-Zalesie-Szczytniki, Wrocław, województwo dolnośląskie, 51-612, Polska",
+      "normalized": "stadion olimpijski we wrocławiu",
+      "lat": 51.1183132,
+      "lng": 17.0971951,
+      "updated_at": "2026-09-05T16:13:22.049775+00:00"
+    },
+    "tarczyński arena wrocław": {
+      "name": "Tarczyński Arena, 1, aleja Śląska, Pilczyce, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 54-118, Polska",
+      "district": "Fabryczna",
+      "address": "Tarczyński Arena, 1, aleja Śląska, Pilczyce, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 54-118, Polska",
+      "normalized": "tarczyński arena wrocław",
+      "lat": 51.1411861,
+      "lng": 16.9438067,
+      "updated_at": "2026-09-05T16:13:25.797461+00:00"
+    },
+    "parafia pw. św. andrzeja apostoła": {
+      "name": "Lądowisko Wrocław-Nowy Szpital, Kosmonautów, Nowe Żerniki, Stabłowice, Leśnica, Wrocław, województwo dolnośląskie, 50-996, Polska",
+      "district": "Stare Miasto",
+      "address": "Lądowisko Wrocław-Nowy Szpital, Kosmonautów, Nowe Żerniki, Stabłowice, Leśnica, Wrocław, województwo dolnośląskie, 50-996, Polska",
+      "normalized": "parafia pw. św. andrzeja apostoła",
+      "lat": 51.1424974,
+      "lng": 16.9091172,
+      "updated_at": "2026-09-05T16:13:30.591257+00:00"
+    },
+    "tor wyścigów konnych - partynice": {
+      "name": "Wrocławski Tor Wyścigów Konnych Partynice, Partynice, Krzyki-Partynice, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Krzyki",
+      "address": "Wrocławski Tor Wyścigów Konnych Partynice, Partynice, Krzyki-Partynice, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "tor wyścigów konnych - partynice",
+      "lat": 51.0560595,
+      "lng": 16.9990938,
+      "updated_at": "2026-09-05T16:13:36.940736+00:00"
+    },
+    "morskie oko wrocław": {
+      "name": "Kąpielisko Morskie Oko, Zalesie, Zacisze-Zalesie-Szczytniki, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Śródmieście",
+      "address": "Kąpielisko Morskie Oko, Zalesie, Zacisze-Zalesie-Szczytniki, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "morskie oko wrocław",
+      "lat": 51.1232536,
+      "lng": 17.0828961,
+      "updated_at": "2026-09-05T16:13:38.181382+00:00"
+    },
+    "kępa mieszczańska": {
+      "name": "Kępa Mieszczańska, Nadodrze, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Śródmieście",
+      "address": "Kępa Mieszczańska, Nadodrze, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "kępa mieszczańska",
+      "lat": 51.1182708,
+      "lng": 17.0219215,
+      "updated_at": "2026-09-05T16:13:42.562467+00:00"
+    },
+    "park szczytnicki": {
+      "name": "Park Szczytnicki, Zacisze-Zalesie-Szczytniki, Wrocław, województwo dolnośląskie, 51-622, Polska",
+      "district": "Śródmieście",
+      "address": "Park Szczytnicki, Zacisze-Zalesie-Szczytniki, Wrocław, województwo dolnośląskie, 51-622, Polska",
+      "normalized": "park szczytnicki",
+      "lat": 51.1149755,
+      "lng": 17.082114,
+      "updated_at": "2026-09-05T16:13:45.555370+00:00"
     }
   }
 }

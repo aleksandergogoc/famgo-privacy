@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T16:41:08.562378+00:00",
+  "updated_at": "2026-09-05T17:22:49.666473+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1365,6 +1365,78 @@
       "lat": 51.1149755,
       "lng": 17.082114,
       "updated_at": "2026-09-05T16:13:45.555370+00:00"
+    },
+    "park grabiszyński": {
+      "name": "Park Grabiszyński, przy kawiarni Równa Babka, pętla Wzgórze Oporowskie",
+      "district": "Fabryczna",
+      "address": "Park Grabiszyński, przy kawiarni Równa Babka, pętla Wzgórze Oporowskie",
+      "normalized": "park grabiszyński",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:27.004298+00:00"
+    },
+    "ośrodek szkolenia psów": {
+      "name": "Ośrodek Szkolenia Psów, Związek Kynologiczny w Polsce o/Wrocław, Na Niskich Łąkach, Wrocław",
+      "district": "Śródmieście",
+      "address": "Ośrodek Szkolenia Psów, Związek Kynologiczny w Polsce o/Wrocław, Na Niskich Łąkach, Wrocław",
+      "normalized": "ośrodek szkolenia psów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:34.436117+00:00"
+    },
+    "polana popowicka": {
+      "name": "Polana Popowicka, Polana Popowicka, 54-237 Wrocław",
+      "district": "Fabryczna",
+      "address": "Polana Popowicka, Polana Popowicka, 54-237 Wrocław",
+      "normalized": "polana popowicka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:34.436877+00:00"
+    },
+    "hala orbita spartan": {
+      "name": "Hala Orbita Spartan",
+      "district": "Śródmieście",
+      "address": "Hala Orbita Spartan",
+      "normalized": "hala orbita spartan",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:41.043543+00:00"
+    },
+    "parafia pw. św. andrzeja apostoła": {
+      "name": "Parafia pw. św. Andrzeja Apostoła, Wrocław - Stabłowice",
+      "district": "Fabryczna",
+      "address": "Parafia pw. św. Andrzeja Apostoła, Wrocław - Stabłowice",
+      "normalized": "parafia pw. św. andrzeja apostoła",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:41.044139+00:00"
+    },
+    "ośrodek działań twórczych światowid": {
+      "name": "Ośrodek Działań Twórczych Światowid, ul. Stefanii Sempołowskiej 54a, Wrocław",
+      "district": "Fabryczna",
+      "address": "Ośrodek Działań Twórczych Światowid, ul. Stefanii Sempołowskiej 54a, Wrocław",
+      "normalized": "ośrodek działań twórczych światowid",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:43.595418+00:00"
+    },
+    "zajezdnia popowice": {
+      "name": "Zajezdnia Popowice, ul. Legnicka 65A, Wrocław",
+      "district": "Fabryczna",
+      "address": "Zajezdnia Popowice, ul. Legnicka 65A, Wrocław",
+      "normalized": "zajezdnia popowice",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:43.596147+00:00"
+    },
+    "strefa kultury firlej": {
+      "name": "Strefa Kultury Firlej",
+      "district": "Fabryczna",
+      "address": "Strefa Kultury Firlej",
+      "normalized": "strefa kultury firlej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:46.207484+00:00"
     }
   }
 }

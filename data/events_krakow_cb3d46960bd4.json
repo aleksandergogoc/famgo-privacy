@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T18:28:21.302511+00:00",
+  "updated_at": "2026-09-05T19:01:20.839593+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -11949,14 +11949,13 @@
     },
     "piknik-misyjny-misja-zdrowie-2026-09-06T11:00:00+02:00": {
       "title": "Piknik Misyjny – Misja: Zdrowie!",
-      "date": "2026-09-06T11:00:00+02:00",
-      "end_date": "2026-09-06T11:00:00+02:00",
+      "date": "2026-09-06T09:00:00+00:00",
+      "end_date": "2026-09-05T22:00:00+00:00",
       "startTimeKnown": true,
       "description": "Piknik Misyjny 2026 pod hasłem Misja: Zdrowie! to wydarzenie charytatywne, które już po raz czwarty łączy mieszkańców Krakowa wokół idei solidarności z krajami misyjnymi. Cały dochód z imprezy zostanie przekazany na wsparcie lokalnych społeczności, ze szczególnym uwzględnieniem dzieci i młodzieży w Afryce oraz Ameryce Południowej.\n\nSzczegóły wydarzenia:\n• Data: 6 września 2026\n• Godzina: od 11:00\n• Miejsce: ul. Skośna 4, Kraków (u Misjonarzy Kombonianów)\n\nProgram i atrakcje:\n• Część edukacyjna i artystyczna: świadectwa misjonarzy, koncerty, warsztaty oraz quizy\n• Strefa handlowa i charytatywna: rękodzieła misyjne oraz loteria fantowa\n• Strefa dla dzieci: dmuchańce, balony, tor sensoryczny i zręcznościowy, malowanie twarzy oraz plecenie warkoczyków\n• Strefa gastronomiczna: grill, popcorn, wata cukrowa, lemoniada, ciasta oraz kawiarnia\n\nW ubiegłym roku w pikniku uczestniczyło ponad 1500 osób. Dzięki wspólnemu zaangażowaniu udało się zrealizować m.in. zakup wyposażenia dla szkoły i przedszkola w Kenii oraz wyprawek dla uczniów w Etiopii i Mozambiku. Organizatorzy zachęcają do udziału całe rodziny.",
       "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/3ef22b21-3805-42b7-bb69-d37c06db9d32/69d5ba7e-ca17-4b21-b350-08636f233a31.jpg",
       "location": {
-        "name": "ulica Skośna 4",
-        "district": null
+        "name": "ulica Skośna 4"
       },
       "url": "https://simplygo.pl/wydarzenia/krakow/dla-dzieci/wydarzenie/piknik-misyjny-misja-zdrowie-3ef22b21-3805-42b7-bb69-d37c06db9d32",
       "source": "simplygo.pl",
@@ -11988,9 +11987,13 @@
         }
       },
       "admission": {
-        "is_free": true
+        "is_free": true,
+        "ticket_url": null
       },
-      "updated_at": "2026-09-05T17:41:28.155177+00:00"
+      "updated_at": "2026-09-05T19:01:20.771438+00:00",
+      "district": "Dębniki",
+      "source_url": "https://simplygo.pl/wydarzenia/krakow/dla-dzieci/wydarzenie/piknik-misyjny-misja-zdrowie-3ef22b21-3805-42b7-bb69-d37c06db9d32",
+      "featured": false
     },
     "wawel-zwiedzanie-z-przewodnikiem-2026-09-06T11:00:00+02:00": {
       "title": "Wawel – zwiedzanie z przewodnikiem",

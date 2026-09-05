@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:08:53.084157+00:00",
+  "updated_at": "2026-09-05T06:15:50.708798+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3537,6 +3537,14 @@
       "normalized": "jedność",
       "updated_at": "2026-09-05T06:08:53.000136+00:00",
       "created_at": "2026-09-05T06:08:53.000136+00:00"
+    },
+    "park ratuszowy w nowej hucie": {
+      "name": "Park Ratuszowy w Nowej Hucie",
+      "district": "Nowa Huta",
+      "address": "",
+      "normalized": "park ratuszowy w nowej hucie",
+      "updated_at": "2026-09-05T06:15:50.558396+00:00",
+      "created_at": "2026-09-05T06:15:50.558396+00:00"
     }
   }
 }

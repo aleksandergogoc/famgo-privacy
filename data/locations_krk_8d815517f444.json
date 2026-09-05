@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:06:35.769394+00:00",
+  "updated_at": "2026-09-05T06:07:14.270783+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3513,6 +3513,14 @@
       "normalized": "jędruś",
       "updated_at": "2026-09-05T06:06:35.670712+00:00",
       "created_at": "2026-09-05T06:06:35.670712+00:00"
+    },
+    "karino": {
+      "name": "Klub Karino, os. Chałupki ul. Truskawkowa 4",
+      "district": "Nowa Huta",
+      "address": "os. Chałupki ul. Truskawkowa 4",
+      "normalized": "karino",
+      "updated_at": "2026-09-05T06:07:14.173396+00:00",
+      "created_at": "2026-09-05T06:07:14.173396+00:00"
     }
   }
 }

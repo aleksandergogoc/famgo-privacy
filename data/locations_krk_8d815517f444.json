@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T07:00:22.004589+00:00",
+  "updated_at": "2026-09-05T17:22:52.344394+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3593,6 +3593,114 @@
       "normalized": "wersalik",
       "updated_at": "2026-09-05T07:00:21.890689+00:00",
       "created_at": "2026-09-05T07:00:21.890689+00:00"
+    },
+    "moto park kraków": {
+      "name": "Moto Park Kraków",
+      "district": "Nowa Huta",
+      "address": "Moto Park Kraków",
+      "normalized": "moto park kraków",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:03.500985+00:00"
+    },
+    "park jordana - przy bramie w pobliżu figurki smok z latawcem.": {
+      "name": "Park Jordana - przy bramie w pobliżu figurki Smok z Latawcem.",
+      "district": "Krowodrza",
+      "address": "Park Jordana - przy bramie w pobliżu figurki Smok z Latawcem.",
+      "normalized": "park jordana - przy bramie w pobliżu figurki smok z latawcem.",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:03.501690+00:00"
+    },
+    "ogród doświadczeń": {
+      "name": "Ogród Doświadczeń",
+      "district": "Czyżyny",
+      "address": "Ogród Doświadczeń",
+      "normalized": "ogród doświadczeń",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:08.070165+00:00"
+    },
+    "narodowe w krakowie": {
+      "name": "Muzeum Narodowe w Krakowie",
+      "district": "Stare Miasto",
+      "address": "Muzeum Narodowe w Krakowie",
+      "normalized": "narodowe w krakowie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:08.070953+00:00"
+    },
+    "auditorium maximum uj": {
+      "name": "Auditorium Maximum UJ, Krupnicza 33, Kraków",
+      "district": "Stare Miasto",
+      "address": "Auditorium Maximum UJ, Krupnicza 33, Kraków",
+      "normalized": "auditorium maximum uj",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:10.353785+00:00"
+    },
+    "wadowicka 1b": {
+      "name": "Wadowicka 1b",
+      "district": "Podgórze",
+      "address": "Wadowicka 1b",
+      "normalized": "wadowicka 1b",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:10.354573+00:00"
+    },
+    "fabryczna 13": {
+      "name": "Fabryczna 13",
+      "district": "Grzegórzki",
+      "address": "Fabryczna 13",
+      "normalized": "fabryczna 13",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:11.494980+00:00"
+    },
+    "krakowski teatr variete": {
+      "name": "Krakowski Teatr VARIETE",
+      "district": "Grzegórzki",
+      "address": "Krakowski Teatr VARIETE",
+      "normalized": "krakowski teatr variete",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:11.495748+00:00"
+    },
+    "łaźnia nowa": {
+      "name": "Teatr Łaźnia Nowa",
+      "district": "Nowa Huta",
+      "address": "Teatr Łaźnia Nowa",
+      "normalized": "łaźnia nowa",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:11.496621+00:00"
+    },
+    "zamek królewski na wawelu": {
+      "name": "Zamek Królewski na Wawelu, Wawel 5, 31-001 Kraków",
+      "district": "Stare Miasto",
+      "address": "Zamek Królewski na Wawelu, Wawel 5, 31-001 Kraków",
+      "normalized": "zamek królewski na wawelu",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:11.497378+00:00"
+    },
+    "studio koncertowe radia kraków im. r. bobrowskiej": {
+      "name": "Studio Koncertowe Radia Kraków im. R. Bobrowskiej, Al. Słowackiego 22",
+      "district": "Stare Miasto",
+      "address": "Studio Koncertowe Radia Kraków im. R. Bobrowskiej, Al. Słowackiego 22",
+      "normalized": "studio koncertowe radia kraków im. r. bobrowskiej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:13.786651+00:00"
+    },
+    "krakowskie forum kultury": {
+      "name": "Krakowskie Forum Kultury, Kraków",
+      "district": "Stare Miasto",
+      "address": "Krakowskie Forum Kultury, Kraków",
+      "normalized": "krakowskie forum kultury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:20:17.213986+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T11:18:19.489798+00:00",
+  "updated_at": "2026-09-05T17:22:48.446514+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -367,6 +367,96 @@
       "lat": 51.7507732,
       "lng": 19.439444,
       "updated_at": "2026-09-03T11:12:09.479392+00:00"
+    },
+    "ogrody geyera": {
+      "name": "Ogrody Geyera",
+      "district": "Górna",
+      "address": "Ogrody Geyera",
+      "normalized": "ogrody geyera",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:49.752893+00:00"
+    },
+    "fuzja": {
+      "name": "Fuzja, Tymienieckiego 5/7, Łódź",
+      "district": "Widzew",
+      "address": "Fuzja, Tymienieckiego 5/7, Łódź",
+      "normalized": "fuzja",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:49.753529+00:00"
+    },
+    "orla 13": {
+      "name": "Orla 13",
+      "district": "Śródmieście",
+      "address": "Orla 13",
+      "normalized": "orla 13",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:49.754199+00:00"
+    },
+    "pl. wolności 12 _ 300 (3 piętro)": {
+      "name": "pl. Wolności 12 / 300 (3 piętro)",
+      "district": "Śródmieście",
+      "address": "pl. Wolności 12 / 300 (3 piętro)",
+      "normalized": "pl. wolności 12 _ 300 (3 piętro)",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:52.214551+00:00"
+    },
+    "pasaż łódzki": {
+      "name": "Pasaż Łódzki, Aleja Jana Pawła II 30, Łódź",
+      "district": "Polesie",
+      "address": "Pasaż Łódzki, Aleja Jana Pawła II 30, Łódź",
+      "normalized": "pasaż łódzki",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:54.497399+00:00"
+    },
+    "expo-łódź": {
+      "name": "Expo-Łódź",
+      "district": "Polesie",
+      "address": "Expo-Łódź",
+      "normalized": "expo-łódź",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:57.911844+00:00"
+    },
+    "hala mosir": {
+      "name": "Hala MOSiR, ks. Skorupki 21, Łódź",
+      "district": "Polesie",
+      "address": "Hala MOSiR, ks. Skorupki 21, Łódź",
+      "normalized": "hala mosir",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:21:57.912530+00:00"
+    },
+    "ogród botaniczny w łodzi": {
+      "name": "Ogród Botaniczny w Łodzi, Krzemieniecka 36/38, Łódź",
+      "district": "Polesie",
+      "address": "Ogród Botaniczny w Łodzi, Krzemieniecka 36/38, Łódź",
+      "normalized": "ogród botaniczny w łodzi",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:00.193593+00:00"
+    },
+    "ul. lumumby 12": {
+      "name": "ul. Lumumby 12",
+      "district": "Śródmieście",
+      "address": "ul. Lumumby 12",
+      "normalized": "ul. lumumby 12",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:01.332144+00:00"
+    },
+    "księży młyn (łódź)": {
+      "name": "Księży Młyn (Łódź)",
+      "district": "Widzew",
+      "address": "Księży Młyn (Łódź)",
+      "normalized": "księży młyn (łódź)",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:03.610328+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T18:33:43.044081+00:00",
+  "updated_at": "2026-09-05T18:34:47.849595+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3741,6 +3741,14 @@
       "normalized": "styczna1",
       "updated_at": "2026-09-05T18:33:42.961028+00:00",
       "created_at": "2026-09-05T18:33:42.961028+00:00"
+    },
+    "ulica skośna 4": {
+      "name": "ulica Skośna 4",
+      "district": "Dębniki",
+      "address": "ul. Skośna 4",
+      "normalized": "ulica skośna 4",
+      "updated_at": "2026-09-05T18:34:47.726717+00:00",
+      "created_at": "2026-09-05T18:34:47.726717+00:00"
     }
   }
 }

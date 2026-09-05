@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:17:41.895785+00:00",
+  "updated_at": "2026-09-05T06:04:35.084685+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3481,6 +3481,14 @@
       "lat": 50.0450806,
       "lng": 19.9363221,
       "updated_at": "2026-09-04T11:03:55.698307+00:00"
+    },
+    "pleszów ul. nadbrzezie 18": {
+      "name": "Pleszów ul. Nadbrzezie 18",
+      "district": "Nowa Huta",
+      "address": "ul. Nadbrzezie 18",
+      "normalized": "pleszów ul. nadbrzezie 18",
+      "updated_at": "2026-09-05T06:04:35.006362+00:00",
+      "created_at": "2026-09-05T06:04:35.006362+00:00"
     }
   }
 }

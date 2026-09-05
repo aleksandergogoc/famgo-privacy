@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T12:01:09.528954+00:00",
+  "updated_at": "2026-09-05T17:22:46.916401+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -713,6 +713,258 @@
       "lat": 52.4117097,
       "lng": 16.9280716,
       "updated_at": "2026-09-01T12:00:05.711414+00:00"
+    },
+    "smardzewska 25": {
+      "name": "Smardzewska 25",
+      "district": "Grunwald",
+      "address": "Smardzewska 25",
+      "normalized": "smardzewska 25",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:08.678620+00:00"
+    },
+    "osiedle kosmonautów 15": {
+      "name": "osiedle Kosmonautów 15",
+      "district": "Nowe Miasto",
+      "address": "osiedle Kosmonautów 15",
+      "normalized": "osiedle kosmonautów 15",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:08.679257+00:00"
+    },
+    "poznań": {
+      "name": "Poznań",
+      "district": "Poznań - Pozostałe",
+      "address": "Poznań",
+      "normalized": "poznań",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:12.240086+00:00"
+    },
+    "aula artis": {
+      "name": "Aula Artis, Kutrzeby 10, Poznań",
+      "district": "Stare Miasto",
+      "address": "Aula Artis, Kutrzeby 10, Poznań",
+      "normalized": "aula artis",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:14.517615+00:00"
+    },
+    "enea stadion": {
+      "name": "Enea Stadion, ul. Bułgarska 17, 60-320 Poznań",
+      "district": "Grunwald",
+      "address": "Enea Stadion, ul. Bułgarska 17, 60-320 Poznań",
+      "normalized": "enea stadion",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:14.518114+00:00"
+    },
+    "dom sąsiedzki ul. bukowa 2a": {
+      "name": "Dom Sąsiedzki ul. Bukowa 2a, Poznan, Poland",
+      "district": "Poznań - Pozostałe",
+      "address": "Dom Sąsiedzki ul. Bukowa 2a, Poznan, Poland",
+      "normalized": "dom sąsiedzki ul. bukowa 2a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:15.662134+00:00"
+    },
+    "animacji w poznaniu - sala witraż": {
+      "name": "Teatr Animacji w Poznaniu - Sala Witraż, św. Marcin 80/82, Poznań",
+      "district": "Stare Miasto",
+      "address": "Teatr Animacji w Poznaniu - Sala Witraż, św. Marcin 80/82, Poznań",
+      "normalized": "animacji w poznaniu - sala witraż",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:15.662790+00:00"
+    },
+    "aula nova akademii muzycznej": {
+      "name": "Aula Nova Akademii Muzycznej, Święty Marcin 87, Poznań",
+      "district": "Stare Miasto",
+      "address": "Aula Nova Akademii Muzycznej, Święty Marcin 87, Poznań",
+      "normalized": "aula nova akademii muzycznej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:15.663352+00:00"
+    },
+    "muzyczny w poznaniu": {
+      "name": "Teatr Muzyczny w Poznaniu, Niezłomnych 1e, Poznań",
+      "district": "Stare Miasto",
+      "address": "Teatr Muzyczny w Poznaniu, Niezłomnych 1e, Poznań",
+      "normalized": "muzyczny w poznaniu",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:21.350899+00:00"
+    },
+    "akademia fundacji fabryka sztuki": {
+      "name": "Akademia Fundacji Fabryka Sztuki, Kościuszki 86/5, Poznań",
+      "district": "Grunwald",
+      "address": "Akademia Fundacji Fabryka Sztuki, Kościuszki 86/5, Poznań",
+      "normalized": "akademia fundacji fabryka sztuki",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:22.489170+00:00"
+    },
+    "concordia design": {
+      "name": "Concordia Design, Zwierzyniecka 3, Poznań",
+      "district": "Jeżyce",
+      "address": "Concordia Design, Zwierzyniecka 3, Poznań",
+      "normalized": "concordia design",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:22.489757+00:00"
+    },
+    "scena duża": {
+      "name": "Scena Duża, Teatr Wielki im. Stanisława Moniuszki, ul. Fredry 9, 61-701 Poznań",
+      "district": "Stare Miasto",
+      "address": "Scena Duża, Teatr Wielki im. Stanisława Moniuszki, ul. Fredry 9, 61-701 Poznań",
+      "normalized": "scena duża",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:22.490294+00:00"
+    },
+    "andersia hotel&spa poznań": {
+      "name": "Andersia Hotel&Spa Poznań, Władysława Andersa 3",
+      "district": "Stare Miasto",
+      "address": "Andersia Hotel&Spa Poznań, Władysława Andersa 3",
+      "normalized": "andersia hotel&spa poznań",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:22.490762+00:00"
+    },
+    "animacji w poznaniu": {
+      "name": "Teatr Animacji w Poznaniu, ul. Św. Marcin 80/82, 61-809 Poznań",
+      "district": "Stare Miasto",
+      "address": "Teatr Animacji w Poznaniu, ul. Św. Marcin 80/82, 61-809 Poznań",
+      "normalized": "animacji w poznaniu",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:30.623946+00:00"
+    },
+    "dominikanie poznań": {
+      "name": "Dominikanie Poznań",
+      "district": "Stare Miasto",
+      "address": "Dominikanie Poznań",
+      "normalized": "dominikanie poznań",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:30.624551+00:00"
+    },
+    "cortiqué anny niedźwiedź": {
+      "name": "Teatr Cortiqué Anny Niedźwiedź",
+      "district": "Jeżyce",
+      "address": "Teatr Cortiqué Anny Niedźwiedź",
+      "normalized": "cortiqué anny niedźwiedź",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:31.763463+00:00"
+    },
+    "narodowe w poznaniu": {
+      "name": "Muzeum Narodowe w Poznaniu, Al. Marcinkowskiego 9",
+      "district": "Stare Miasto",
+      "address": "Muzeum Narodowe w Poznaniu, Al. Marcinkowskiego 9",
+      "normalized": "narodowe w poznaniu",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:31.763978+00:00"
+    },
+    "scena główna sta": {
+      "name": "Scena Główna STA, Ratajczaka 18, klatka A, 2 piętro, Poznań",
+      "district": "Stare Miasto",
+      "address": "Scena Główna STA, Ratajczaka 18, klatka A, 2 piętro, Poznań",
+      "normalized": "scena główna sta",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:31.764473+00:00"
+    },
+    "międzynarodowe targi poznańskie": {
+      "name": "Międzynarodowe Targi Poznańskie",
+      "district": "Grunwald",
+      "address": "Międzynarodowe Targi Poznańskie",
+      "normalized": "międzynarodowe targi poznańskie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:31.764983+00:00"
+    },
+    "odk pod lipami": {
+      "name": "ODK Pod Lipami, os. Pod Lipami 108A",
+      "district": "Nowe Miasto",
+      "address": "ODK Pod Lipami, os. Pod Lipami 108A",
+      "normalized": "odk pod lipami",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:31.765424+00:00"
+    },
+    "żegrze": {
+      "name": "Żegrze",
+      "district": "Nowe Miasto",
+      "address": "Żegrze",
+      "normalized": "żegrze",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:31.765857+00:00"
+    },
+    "mtp - międzynarodowe targi poznańskie": {
+      "name": "MTP - Międzynarodowe Targi Poznańskie, Głogowska 14",
+      "district": "Grunwald",
+      "address": "MTP - Międzynarodowe Targi Poznańskie, Głogowska 14",
+      "normalized": "mtp - międzynarodowe targi poznańskie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:31.766534+00:00"
+    },
+    "malta poznań": {
+      "name": "Malta Poznań",
+      "district": "Nowe Miasto",
+      "address": "Malta Poznań",
+      "normalized": "malta poznań",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:31.767116+00:00"
+    },
+    "kleszczewo": {
+      "name": "Kleszczewo, Poland",
+      "district": "Poznań - Pozostałe",
+      "address": "Kleszczewo, Poland",
+      "normalized": "kleszczewo",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:31.767596+00:00"
+    },
+    "aula uniwersytecka": {
+      "name": "Aula Uniwersytecka, Poznań",
+      "district": "Stare Miasto",
+      "address": "Aula Uniwersytecka, Poznań",
+      "normalized": "aula uniwersytecka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:31.768047+00:00"
+    },
+    "junikowska 35": {
+      "name": "Junikowska 35",
+      "district": "Grunwald",
+      "address": "Junikowska 35",
+      "normalized": "junikowska 35",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:32.936787+00:00"
+    },
+    "cytadela poznan": {
+      "name": "Cytadela Poznan",
+      "district": "Stare Miasto",
+      "address": "Cytadela Poznan",
+      "normalized": "cytadela poznan",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:34.094857+00:00"
+    },
+    "dom kultury „jędruś”": {
+      "name": "Dom Kultury „Jędruś”, os. Armii Krajowej 101, 61-381 Poznań",
+      "district": "Nowe Miasto",
+      "address": "Dom Kultury „Jędruś”, os. Armii Krajowej 101, 61-381 Poznań",
+      "normalized": "dom kultury „jędruś”",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-05T17:22:38.655078+00:00"
     }
   }
 }

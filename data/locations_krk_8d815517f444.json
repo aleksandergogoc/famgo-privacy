@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:08:07.877279+00:00",
+  "updated_at": "2026-09-05T06:08:53.084157+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3529,6 +3529,14 @@
       "normalized": "aneks",
       "updated_at": "2026-09-05T06:08:07.730252+00:00",
       "created_at": "2026-09-05T06:08:07.730252+00:00"
+    },
+    "jedność": {
+      "name": "Klub Jedność, os. Wolica ul. Drożyska 3c",
+      "district": "Nowa Huta",
+      "address": "os. Wolica ul. Drożyska 3c",
+      "normalized": "jedność",
+      "updated_at": "2026-09-05T06:08:53.000136+00:00",
+      "created_at": "2026-09-05T06:08:53.000136+00:00"
     }
   }
 }

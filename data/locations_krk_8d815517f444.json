@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:17:11.053843+00:00",
+  "updated_at": "2026-09-05T06:17:59.100609+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3553,6 +3553,14 @@
       "normalized": "dukat",
       "updated_at": "2026-09-05T06:16:28.905804+00:00",
       "created_at": "2026-09-05T06:16:28.905804+00:00"
+    },
+    "mirage": {
+      "name": "Klub Mirage, os. Bohaterów Września 26",
+      "district": "Mistrzejowice",
+      "address": "os. Bohaterów Września 26",
+      "normalized": "mirage",
+      "updated_at": "2026-09-05T06:17:58.998339+00:00",
+      "created_at": "2026-09-05T06:17:58.998339+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:05:59.547610+00:00",
+  "updated_at": "2026-09-05T06:06:35.769394+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3505,6 +3505,14 @@
       "normalized": "pod kasztanami",
       "updated_at": "2026-09-05T06:05:59.459471+00:00",
       "created_at": "2026-09-05T06:05:59.459471+00:00"
+    },
+    "jędruś": {
+      "name": "Klub Jędruś, os. Centrum A 6a",
+      "district": "Nowa Huta",
+      "address": "os. Centrum A 6a",
+      "normalized": "jędruś",
+      "updated_at": "2026-09-05T06:06:35.670712+00:00",
+      "created_at": "2026-09-05T06:06:35.670712+00:00"
     }
   }
 }

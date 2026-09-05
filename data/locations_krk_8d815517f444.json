@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:05:17.083765+00:00",
+  "updated_at": "2026-09-05T06:05:59.547610+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3497,6 +3497,14 @@
       "normalized": "zgody",
       "updated_at": "2026-09-05T06:05:16.987389+00:00",
       "created_at": "2026-09-05T06:05:16.987389+00:00"
+    },
+    "pod kasztanami": {
+      "name": "Klub Pod Kasztanami, os. Kościelniki ul. Płoszczyny 1",
+      "district": "Nowa Huta",
+      "address": "os. Kościelniki ul. Płoszczyny 1",
+      "normalized": "pod kasztanami",
+      "updated_at": "2026-09-05T06:05:59.459471+00:00",
+      "created_at": "2026-09-05T06:05:59.459471+00:00"
     }
   }
 }

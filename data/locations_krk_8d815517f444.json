@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:07:14.270783+00:00",
+  "updated_at": "2026-09-05T06:08:07.877279+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3521,6 +3521,14 @@
       "normalized": "karino",
       "updated_at": "2026-09-05T06:07:14.173396+00:00",
       "created_at": "2026-09-05T06:07:14.173396+00:00"
+    },
+    "aneks": {
+      "name": "Klub Aneks, ul. Mycielskiego 10",
+      "district": "Wzgórza Krzesławickie",
+      "address": "ul. Mycielskiego 10",
+      "normalized": "aneks",
+      "updated_at": "2026-09-05T06:08:07.730252+00:00",
+      "created_at": "2026-09-05T06:08:07.730252+00:00"
     }
   }
 }

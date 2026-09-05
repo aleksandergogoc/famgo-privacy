@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:17:39.186572+00:00",
+  "updated_at": "2026-09-05T10:37:34.907026+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1149,6 +1149,15 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-09-04T11:08:53.397773+00:00"
+    },
+    "pod żółtym parasolem": {
+      "name": "Pod żółtym parasolem, Wrocław",
+      "district": "Stare Miasto",
+      "address": "Pod żółtym parasolem, Wrocław",
+      "normalized": "pod żółtym parasolem",
+      "lat": 51.1074,
+      "lng": 17.0385,
+      "updated_at": "2026-09-05T10:27:01.883830+00:00"
     }
   }
 }

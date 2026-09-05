@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:18:42.873781+00:00",
+  "updated_at": "2026-09-05T06:19:50.952878+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3569,6 +3569,14 @@
       "normalized": "herkules",
       "updated_at": "2026-09-05T06:18:42.784066+00:00",
       "created_at": "2026-09-05T06:18:42.784066+00:00"
+    },
+    "krzesławice": {
+      "name": "Klub Krzesławice, os. Krzesławice ul. M. Wańkowicza 17",
+      "district": "Wzgórza Krzesławickie",
+      "address": "os. Krzesławice ul. M. Wańkowicza 17",
+      "normalized": "krzesławice",
+      "updated_at": "2026-09-05T06:19:50.770425+00:00",
+      "created_at": "2026-09-05T06:19:50.770425+00:00"
     }
   }
 }

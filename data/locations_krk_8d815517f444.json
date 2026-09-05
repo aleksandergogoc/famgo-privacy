@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T06:15:50.708798+00:00",
+  "updated_at": "2026-09-05T06:16:29.007134+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3545,6 +3545,14 @@
       "normalized": "park ratuszowy w nowej hucie",
       "updated_at": "2026-09-05T06:15:50.558396+00:00",
       "created_at": "2026-09-05T06:15:50.558396+00:00"
+    },
+    "dukat": {
+      "name": "Klub Dukat, os. Grębałów ul. Styczna 1",
+      "district": "Wzgórza Krzesławickie",
+      "address": "os. Grębałów ul. Styczna 1",
+      "normalized": "dukat",
+      "updated_at": "2026-09-05T06:16:28.905804+00:00",
+      "created_at": "2026-09-05T06:16:28.905804+00:00"
     }
   }
 }

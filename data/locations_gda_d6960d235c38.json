@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T11:17:37.827344+00:00",
+  "updated_at": "2026-09-06T10:57:31.047157+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -743,6 +743,15 @@
       "lat": 54.3571309,
       "lng": 18.5816091,
       "updated_at": "2026-09-04T11:13:46.832272+00:00"
+    },
+    "błotnik": {
+      "name": "Nadwiślańska, Górki Wschodnie, Wyspa Sobieszewska, Gdańsk, województwo pomorskie, 80-643, Polska",
+      "district": "Południe/Wschód",
+      "address": "Nadwiślańska, Górki Wschodnie, Wyspa Sobieszewska, Gdańsk, województwo pomorskie, 80-643, Polska",
+      "normalized": "błotnik",
+      "lat": 54.3509514,
+      "lng": 18.7911152,
+      "updated_at": "2026-09-06T10:52:36.600835+00:00"
     }
   }
 }

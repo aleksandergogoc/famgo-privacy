@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T10:57:31.047157+00:00",
+  "updated_at": "2026-09-07T12:22:17.776221+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -752,6 +752,78 @@
       "lat": 54.3509514,
       "lng": 18.7911152,
       "updated_at": "2026-09-06T10:52:36.600835+00:00"
+    },
+    "j. słowackiego 23": {
+      "name": "Gdańsk, województwo pomorskie, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Gdańsk, województwo pomorskie, Polska",
+      "normalized": "j. słowackiego 23",
+      "lat": 54.3706858,
+      "lng": 18.6129831,
+      "updated_at": "2026-09-07T12:16:46.614727+00:00"
+    },
+    "opata jacka rybińskiego 25": {
+      "name": "25, Opata Jacka Rybińskiego, Oliwa, Gdańsk, województwo pomorskie, 80-320, Polska",
+      "district": "Oliwa",
+      "address": "25, Opata Jacka Rybińskiego, Oliwa, Gdańsk, województwo pomorskie, 80-320, Polska",
+      "normalized": "opata jacka rybińskiego 25",
+      "lat": 54.4088889,
+      "lng": 18.5592231,
+      "updated_at": "2026-09-07T12:16:48.151995+00:00"
+    },
+    "księdza jerzego popiełuszki": {
+      "name": "Księdza Jerzego Popiełuszki, Stocznia Cesarska, Młode Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-860, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Księdza Jerzego Popiełuszki, Stocznia Cesarska, Młode Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-860, Polska",
+      "normalized": "księdza jerzego popiełuszki",
+      "lat": 54.3609743,
+      "lng": 18.6545673,
+      "updated_at": "2026-09-07T12:16:49.540638+00:00"
+    },
+    "ministerstwo magii": {
+      "name": "Dom Pod Łososiem, 52/54, Szeroka, Zamczysko, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-835, Polska",
+      "district": "Śródmieście",
+      "address": "Dom Pod Łososiem, 52/54, Szeroka, Zamczysko, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-835, Polska",
+      "normalized": "ministerstwo magii",
+      "lat": 54.3507049,
+      "lng": 18.6556816,
+      "updated_at": "2026-09-07T12:17:15.450640+00:00"
+    },
+    "stary maneż": {
+      "name": "Stary Maneż",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Stary Maneż",
+      "normalized": "stary maneż",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-07T12:18:42.491922+00:00"
+    },
+    "oliwski ratusz kultury": {
+      "name": "Oliwski Ratusz Kultury",
+      "district": "Oliwa",
+      "address": "Oliwski Ratusz Kultury",
+      "normalized": "oliwski ratusz kultury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-07T12:18:42.492082+00:00"
+    },
+    "przestrzeń sztuki wl4 mleczny piotr": {
+      "name": "Przestrzeń Sztuki WL4 Mleczny Piotr",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Przestrzeń Sztuki WL4 Mleczny Piotr",
+      "normalized": "przestrzeń sztuki wl4 mleczny piotr",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-07T12:18:42.492209+00:00"
+    },
+    "gdański teatr szekspirowski": {
+      "name": "Gdański Teatr Szekspirowski",
+      "district": "Śródmieście",
+      "address": "Gdański Teatr Szekspirowski",
+      "normalized": "gdański teatr szekspirowski",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-07T12:18:42.492359+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T10:57:32.159863+00:00",
+  "updated_at": "2026-09-07T12:22:20.965200+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -5353,6 +5353,69 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-06T10:48:02.588456+00:00"
+    },
+    "arena ursynów": {
+      "name": "Arena Ursynów, 122, Rotmistrza Witolda Pileckiego, Wysoki Ursynów, Ursynów Centrum, Ursynów, Warszawa, województwo mazowieckie, 02-781, Polska",
+      "district": "Ursynów",
+      "address": "Arena Ursynów, 122, Rotmistrza Witolda Pileckiego, Wysoki Ursynów, Ursynów Centrum, Ursynów, Warszawa, województwo mazowieckie, 02-781, Polska",
+      "normalized": "arena ursynów",
+      "lat": 52.1433742,
+      "lng": 21.039348,
+      "updated_at": "2026-09-07T12:09:48.495653+00:00"
+    },
+    "capitol - scena mniejsza": {
+      "name": "ul. Marszałkowska 115, Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Marszałkowska 115, Warszawa",
+      "normalized": "capitol - scena mniejsza",
+      "lat": 52.2386,
+      "lng": 21.0135,
+      "updated_at": "2026-09-07T12:09:53.084018+00:00"
+    },
+    "kamienica - scena orla": {
+      "name": "Plac Defilad 1, Warszawa",
+      "district": "Śródmieście",
+      "address": "Plac Defilad 1, Warszawa",
+      "normalized": "kamienica - scena orla",
+      "lat": 52.239,
+      "lng": 21.013,
+      "updated_at": "2026-09-07T12:09:56.140753+00:00"
+    },
+    "ul. o. m. kolbego 5": {
+      "name": "ul. o. M. Kolbego 5, Teresin",
+      "district": "okolice Warszawy",
+      "address": "ul. o. M. Kolbego 5, Teresin",
+      "normalized": "ul. o. m. kolbego 5",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-07T12:09:56.142126+00:00"
+    },
+    "plac hallera": {
+      "name": "Plac Hallera",
+      "district": "Praga-Północ",
+      "address": "Plac Hallera",
+      "normalized": "plac hallera",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-07T12:09:56.142432+00:00"
+    },
+    "ul. targowa 50_52 - muzeum warszawskiej pragi": {
+      "name": "ul. Targowa 50/52 - Muzeum Warszawskiej Pragi",
+      "district": "Praga-Północ",
+      "address": "ul. Targowa 50/52 - Muzeum Warszawskiej Pragi",
+      "normalized": "ul. targowa 50_52 - muzeum warszawskiej pragi",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-07T12:09:56.142852+00:00"
+    },
+    "parking": {
+      "name": "Parking, Wołoska 141, 02-507 Warszawa, Poland",
+      "district": "Mokotów",
+      "address": "Parking, Wołoska 141, 02-507 Warszawa, Poland",
+      "normalized": "parking",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-07T12:09:56.143137+00:00"
     }
   }
 }

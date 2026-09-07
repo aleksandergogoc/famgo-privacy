@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:22:49.666473+00:00",
+  "updated_at": "2026-09-07T12:22:19.861324+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1437,6 +1437,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-05T17:21:46.207484+00:00"
+    },
+    "park kleciński": {
+      "name": "Park Kleciński, Klecina, Krzyki-Partynice, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Krzyki",
+      "address": "Park Kleciński, Klecina, Krzyki-Partynice, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "park kleciński",
+      "lat": 51.0625702,
+      "lng": 16.9884082,
+      "updated_at": "2026-09-07T12:10:18.289845+00:00"
+    },
+    "centrum kultury nowy pafawag": {
+      "name": "Centrum Kultury Nowy Pafawag, Nowodworska, Nowy Dwór, Wrocław, województwo dolnośląskie, 54-433, Polska",
+      "district": "Fabryczna",
+      "address": "Centrum Kultury Nowy Pafawag, Nowodworska, Nowy Dwór, Wrocław, województwo dolnośląskie, 54-433, Polska",
+      "normalized": "centrum kultury nowy pafawag",
+      "lat": 51.1157554,
+      "lng": 16.9580257,
+      "updated_at": "2026-09-07T12:12:43.386244+00:00"
+    },
+    "hala orbita": {
+      "name": "Hala Orbita, most Milenijny, Popowice Północne, Popowice, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 52-236, Polska",
+      "district": "Krzyki",
+      "address": "Hala Orbita, most Milenijny, Popowice Północne, Popowice, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 52-236, Polska",
+      "normalized": "hala orbita",
+      "lat": 51.1325055,
+      "lng": 16.9871101,
+      "updated_at": "2026-09-07T12:12:44.753009+00:00"
     }
   }
 }

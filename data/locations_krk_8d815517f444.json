@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T18:35:23.479996+00:00",
+  "updated_at": "2026-09-07T12:22:22.286654+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3757,6 +3757,51 @@
       "normalized": "gift & souvenir shop _ krakow",
       "updated_at": "2026-09-05T18:35:23.402400+00:00",
       "created_at": "2026-09-05T18:35:23.402400+00:00"
+    },
+    "młodzieżowy dom kultury im. janusza korczaka": {
+      "name": "Os. Kalinowym 18, Kraków",
+      "district": "Podgórze",
+      "address": "Os. Kalinowym 18, Kraków",
+      "normalized": "młodzieżowy dom kultury im. janusza korczaka",
+      "lat": 50.034,
+      "lng": 19.932,
+      "updated_at": "2026-09-07T11:52:52.627528+00:00"
+    },
+    "ice kraków congress centre - sala teatralna": {
+      "name": "Marii Konopnickiej 17, Kraków",
+      "district": "Stare Miasto",
+      "address": "Marii Konopnickiej 17, Kraków",
+      "normalized": "ice kraków congress centre - sala teatralna",
+      "lat": 50.062,
+      "lng": 19.936,
+      "updated_at": "2026-09-07T12:03:52.443939+00:00"
+    },
+    "centrum kultury podgórza - klub płaszów": {
+      "name": "Centrum Kultury Podgórza - Klub Płaszów, 32, Gumniska, Ogrody Płaszów, Płaszów, Podgórze, Kraków, województwo małopolskie, 30-718, Polska",
+      "district": "Podgórze",
+      "address": "Centrum Kultury Podgórza - Klub Płaszów, 32, Gumniska, Ogrody Płaszów, Płaszów, Podgórze, Kraków, województwo małopolskie, 30-718, Polska",
+      "normalized": "centrum kultury podgórza - klub płaszów",
+      "lat": 50.0496637,
+      "lng": 19.9913466,
+      "updated_at": "2026-09-07T12:03:52.925553+00:00"
+    },
+    "forum horyzonty": {
+      "name": "Forum Horyzonty, Bulwar Wołyński, Osiedle Podwawelskie, Ludwinów, Dębniki, Kraków, województwo małopolskie, 30-302, Polska",
+      "district": "Dębniki",
+      "address": "Forum Horyzonty, Bulwar Wołyński, Osiedle Podwawelskie, Ludwinów, Dębniki, Kraków, województwo małopolskie, 30-302, Polska",
+      "normalized": "forum horyzonty",
+      "lat": 50.0452836,
+      "lng": 19.9356959,
+      "updated_at": "2026-09-07T12:03:54.273609+00:00"
+    },
+    "rynek podgórski": {
+      "name": "Rynek Podgórski, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-518, Polska",
+      "district": "Podgórze",
+      "address": "Rynek Podgórski, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-518, Polska",
+      "normalized": "rynek podgórski",
+      "lat": 50.0442195,
+      "lng": 19.9492063,
+      "updated_at": "2026-09-07T12:03:55.827563+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:22:48.446514+00:00",
+  "updated_at": "2026-09-07T12:22:18.915741+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -457,6 +457,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-05T17:22:03.610328+00:00"
+    },
+    "łódzka": {
+      "name": "Filharmonia Łódzka, 20/22, Prezydenta Gabriela Narutowicza, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-135, Polska",
+      "district": "Śródmieście",
+      "address": "Filharmonia Łódzka, 20/22, Prezydenta Gabriela Narutowicza, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-135, Polska",
+      "normalized": "łódzka",
+      "lat": 51.7713322,
+      "lng": 19.4598741,
+      "updated_at": "2026-09-07T12:16:28.409002+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:22:22.286654+00:00",
+  "updated_at": "2026-09-08T11:12:41.400675+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3802,6 +3802,15 @@
       "lat": 50.0442195,
       "lng": 19.9492063,
       "updated_at": "2026-09-07T12:03:55.827563+00:00"
+    },
+    "teren zielony przy ul. aleksandry 11": {
+      "name": "Teren Zielony przy ul. Aleksandry 11, Kraków",
+      "district": "Stare Miasto",
+      "address": "Teren Zielony przy ul. Aleksandry 11, Kraków",
+      "normalized": "teren zielony przy ul. aleksandry 11",
+      "lat": 50.064,
+      "lng": 19.937,
+      "updated_at": "2026-09-08T10:47:53.262690+00:00"
     }
   }
 }

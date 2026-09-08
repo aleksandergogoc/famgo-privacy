@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:22:20.965200+00:00",
+  "updated_at": "2026-09-08T11:12:39.997629+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -5416,6 +5416,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-07T12:09:56.143137+00:00"
+    },
+    "północna": {
+      "name": "Galeria Północna, ul. Światowida 17",
+      "district": "Białołęka",
+      "address": "Galeria Północna, ul. Światowida 17",
+      "normalized": "północna",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-08T11:04:45.121041+00:00"
+    },
+    "biblioteka wielokulturowa": {
+      "name": "Biblioteka Wielokulturowa, ul. Jana Nowaka-Jeziorańskiego 24",
+      "district": "Praga-Południe",
+      "address": "Biblioteka Wielokulturowa, ul. Jana Nowaka-Jeziorańskiego 24",
+      "normalized": "biblioteka wielokulturowa",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-08T11:04:45.121374+00:00"
+    },
+    "pałac w jabłonnie": {
+      "name": "Pałac w Jabłonnie, Modlińska 105, Jabłonna",
+      "district": "okolice Warszawy",
+      "address": "Pałac w Jabłonnie, Modlińska 105, Jabłonna",
+      "normalized": "pałac w jabłonnie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-08T11:04:45.121661+00:00"
+    },
+    "las kabacki": {
+      "name": "LAS KABACKI",
+      "district": "Ursynów",
+      "address": "LAS KABACKI",
+      "normalized": "las kabacki",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-08T11:04:45.121923+00:00"
+    },
+    "las rembertowski": {
+      "name": "LAS REMBERTOWSKI",
+      "district": "Rembertów",
+      "address": "LAS REMBERTOWSKI",
+      "normalized": "las rembertowski",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-08T11:04:45.122152+00:00"
     }
   }
 }

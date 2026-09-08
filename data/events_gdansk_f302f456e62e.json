@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T10:45:52.459759+00:00",
+  "updated_at": "2026-09-08T11:09:31.121407+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-12-01T11:00:00+01:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -4255,6 +4255,173 @@
         "is_free": true
       },
       "updated_at": "2026-09-07T12:18:43.113444+00:00"
+    },
+    "z-orlika-na-stadion-2026-09-09T10:00:00+02:00": {
+      "title": "Z Orlika na Stadion",
+      "date": "2026-09-09T10:00:00+02:00",
+      "end_date": "2026-09-09T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W środę, **9 września o godz. 10.00**, na płycie stadionu Polsat Plus Arenie Gdańsk (wejście przez sekretariat stadionu, od strony parkingu P1) odbędzie się konferencja prasowa Ministerstwa Sportu i Turystyki inaugurująca **trzecią edycję największego w Polsce turnieju piłkarskiego dla młodzieży \"Z Orlika na Stadion\"**.\n\nW briefingu udział wezmą:\n\n• Jakub Rutnicki, Minister Sportu i Turystyki,\n\n• Piotr Borawski, zastępca prezydenta Gdańska ds. mobilności i bezpieczeństwa,\n\n• Sylwia Snopkiewicz, Dyrektor Wykonawcza ds. Sponsoringu ORLEN S.A.,\n\n• Nina Patalon, selekcjonerka reprezentacji Polski kobiet w piłce nożnej i ambasadorka \"Z ORLIKA NA STADION\".\n\nPo konferencji rozegrany zostanie **pierwszy oficjalny mecz \"Z Orlika na Stadion 2026\"**, w którym wezmą udział zwycięzcy z zeszłego roku z Gdańska. Mecz potrwa 20 minut.",
+      "image": "https://s-trojmiasto.pl/zdj/c/n/3/4417/600x0/4417169__kr.webp",
+      "location": {
+        "name": "Polsat Plus Arena Gdańsk, Gdańsk, Pokoleń Lechii Gdańsk 1 (Letnica)",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.trojmiasto.pl/imprezy/Z-Orlika-na-Stadion-imp602044.html",
+      "source": "trojmiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://www.trojmiasto.pl/imprezy/Z-Orlika-na-Stadion-imp602044.html",
+      "scrapped_timestamp": "2026-09-08T11:09:14.509192+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Z Orlika na Stadion",
+          "description": "W środę, **9 września o godz. 10.00**, na płycie stadionu Polsat Plus Arenie Gdańsk (wejście przez sekretariat stadionu, od strony parkingu P1) odbędzie się konferencja prasowa Ministerstwa Sportu i Turystyki inaugurująca **trzecią edycję największego w Polsce turnieju piłkarskiego dla młodzieży \"Z Orlika na Stadion\"**.\n\nW briefingu udział wezmą:\n\n• Jakub Rutnicki, Minister Sportu i Turystyki,\n\n• Piotr Borawski, zastępca prezydenta Gdańska ds. mobilności i bezpieczeństwa,\n\n• Sylwia Snopkiewicz, Dyrektor Wykonawcza ds. Sponsoringu ORLEN S.A.,\n\n• Nina Patalon, selekcjonerka reprezentacji Polski kobiet w piłce nożnej i ambasadorka \"Z ORLIKA NA STADION\".\n\nPo konferencji rozegrany zostanie **pierwszy oficjalny mecz \"Z Orlika na Stadion 2026\"**, w którym wezmą udział zwycięzcy z zeszłego roku z Gdańska. Mecz potrwa 20 minut."
+        },
+        "en": {
+          "title": "From Orlik to the Stadium",
+          "description": "On Wednesday, **September 9 at 10:00 AM**, a press conference by the Ministry of Sport and Tourism will take place on the pitch of the Polsat Plus Arena Gdańsk (entrance through the stadium's secretariat, from the P1 parking lot) inaugurating the **third edition of the largest youth football tournament in Poland 'From Orlik to the Stadium'**.\n\nThe briefing will feature:\n\n• Jakub Rutnicki, Minister of Sport and Tourism,\n\n• Piotr Borawski, Deputy Mayor of Gdańsk for Mobility and Safety,\n\n• Sylwia Snopkiewicz, Executive Director of Sponsorship at ORLEN S.A.,\n\n• Nina Patalon, coach of the Polish women's national football team and ambassador of 'FROM ORLIK TO THE STADIUM'.\n\nAfter the conference, the **first official match of 'From Orlik to the Stadium 2026'** will be held, featuring last year's winners."
+        },
+        "uk": {
+          "title": "З Орлика на Стадіон",
+          "description": "У середу, **9 вересня о 10:00**, на полі стадіону Polsat Plus Arena Gdańsk (вхід через секретаріат стадіону, з боку паркінгу P1) відбудеться прес-конференція Міністерства спорту та туризму, що відкриває **третій етап найбільшого в Польщі футбольного турніру для молоді \"З Орлика на Стадіон\"**.\n\nУ брифінгу візьмуть участь:\n\n• Якуб Рутницький, Міністр спорту та туризму,\n\n• Пйотр Бораўський, заступник президента Гданська з питань мобільності та безпеки,\n\n• Сильвія Снопкевич, Виконавчий директор з питань спонсорства ORLEN S.A.,\n\n• Ніна Паталон, селекціонерка жіночої збірної Польщі з футболу та амбасадор \"З Орлика на Стадіон\".\n\nПісля конференції відбудеться **перший офіційний матч \"З Орлика на Стадіон 2026\"**, в якому візьмуть участь переможці з минулого року."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-08T11:09:30.930579+00:00"
+    },
+    "warsztat-malarski-dla-dzieci-od-8-lat-2026-10-28T17:00:00+01:00": {
+      "title": "Warsztat malarski dla dzieci od 8 lat",
+      "date": "2026-10-28T17:00:00+01:00",
+      "end_date": "2026-10-28T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Czas na twórczą przygodę w Gdańsku! Dzieci wyruszą w malarski świat pełen kolorów i wyobraźni, tworząc własny obrazek w atmosferze dobrej zabawy i inspiracji. Good Time Art Studio zaprasza dzieci od 8 lat na malowanie obrazu \"Pszczółka\" - dzieci od 8 lat.\n\nCzy trzeba umieć malować, by do nas dołączyć? Nie! Bez żadnego doświadczenia i umiejętności pomożemy dzieciom stworzyć ich pierwsze obrazki w zaledwie 2,5 godziny.\n\nDołącz do nas, weź udział w dobrej zabawie i znajdź swoją nową pasję! Wszystkie materiały w cenie spotkania. Ilość miejsc ograniczona.\n\nRejestracja odbywa się przez stronę internetową: goodtimeart.net",
+      "image": "https://s-trojmiasto.pl/zdj/c/n/3/4415/600x0/4415028__kr.webp",
+      "location": {
+        "name": "Good Time, Gdańsk, Franciszka Rakoczego 11/U3",
+        "district": "Gdańsk - Pozostałe"
+      },
+      "url": "https://www.trojmiasto.pl/imprezy/Warsztat-malarski-dla-dzieci-od-8-lat-imp601871.html",
+      "source": "trojmiasto.pl",
+      "district": "Gdańsk - Pozostałe",
+      "scrapped_url": "https://www.trojmiasto.pl/imprezy/Warsztat-malarski-dla-dzieci-od-8-lat-imp601871.html",
+      "scrapped_timestamp": "2026-09-08T11:09:19.752626+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 8,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Warsztat malarski dla dzieci od 8 lat",
+          "description": "Czas na twórczą przygodę w Gdańsku! Dzieci wyruszą w malarski świat pełen kolorów i wyobraźni, tworząc własny obrazek w atmosferze dobrej zabawy i inspiracji. Good Time Art Studio zaprasza dzieci od 8 lat na malowanie obrazu \"Pszczółka\" - dzieci od 8 lat.\n\nCzy trzeba umieć malować, by do nas dołączyć? Nie! Bez żadnego doświadczenia i umiejętności pomożemy dzieciom stworzyć ich pierwsze obrazki w zaledwie 2,5 godziny.\n\nDołącz do nas, weź udział w dobrej zabawie i znajdź swoją nową pasję! Wszystkie materiały w cenie spotkania. Ilość miejsc ograniczona.\n\nRejestracja odbywa się przez stronę internetową: goodtimeart.net"
+        },
+        "en": {
+          "title": "Painting Workshop for Children Aged 8 and Up",
+          "description": "Time for a creative adventure in Gdańsk! Children will embark on a colorful and imaginative painting journey, creating their own artwork in an atmosphere of fun and inspiration. Good Time Art Studio invites children aged 8 and up to paint the picture 'Bee' - children aged 8 and up.\n\nDo you need to know how to paint to join us? No! With no prior experience or skills, we will help children create their first artworks in just 2.5 hours.\n\nJoin us, take part in the fun, and discover your new passion! All materials are included in the price of the event. Limited spots available.\n\nRegistration is available through the website: goodtimeart.net"
+        },
+        "uk": {
+          "title": "Малярський майстер-клас для дітей від 8 років",
+          "description": "Час для творчої пригоди в Гданську! Діти вирушать у малярський світ, наповнений кольорами та уявою, створюючи власну картину в атмосфері гарного настрою та натхнення. Good Time Art Studio запрошує дітей від 8 років на малювання картини \"Бджілка\" - дітей від 8 років.\n\nЧи потрібно вміти малювати, щоб приєднатися до нас? Ні! Без жодного досвіду та навичок ми допоможемо дітям створити їхні перші малюнки всього за 2,5 години.\n\nПриєднуйтесь до нас, візьміть участь у гарному настрої та знайдіть свою нову пристрасть! Усі матеріали включені у вартість зустрічі. Кількість місць обмежена.\n\nРеєстрація відбувається через веб-сайт: goodtimeart.net"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-09-08T11:09:30.930604+00:00"
+    },
+    "gda-sk-pod-aglami-p-ywania-dla-mieszka-c-w-2026-09-12T10:00:00+02:00": {
+      "title": "Gdańsk pod żaglami. Pływania dla mieszkańców",
+      "date": "2026-09-12T10:00:00+02:00",
+      "end_date": "2026-09-12T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W weekend 12-13 września mieszkańcy Gdańska będą mieli wyjątkową okazję, by spróbować swoich sił na wodzie i wziąć udział w bezpłatnych rejsach jachtami żaglowymi na Wyspie Sobieszewskiej. Rejsy potrwają godzinę, z wyjątkiem ostatniej tury o godzinie 15:00, która zaplanowana jest na dwie godziny. Pływania odbywać się będą w godzinach 10:00–17:00.\n\nDo udziału zapraszamy zarówno osoby indywidualne, jak i grupy przyjaciół czy całe rodziny. Dzieci do lat 16 mogą uczestniczyć w wydarzeniu wyłącznie pod opieką dorosłych. Ze względu na charakter jachtów, w jednym rejsie może uczestniczyć maksymalnie 4 osoby. W przypadku większej grupy Organizatorzy proszą o wcześniejszy kontakt mailowy.\n\n**Uwaga! Liczba miejsc jest ograniczona. Decyduje kolejność zgłoszeń.** Samo wypełnienie formularza zgłoszeniowego nie jest równoznaczne z rezerwacją – potwierdzeniem udziału jest jedynie mail wysłany przez Organizatora.\n\n**ZAPISY NA WARSZTATY** https://forms.cloud.microsoft/e/1Ap80kGvZd\n\n**ZAPISY NA PŁYWANIA** https://forms.cloud.microsoft/e/emEj8LZSZC",
+      "image": "https://jestemzgdanska.pl/res/165016007/165016235/114-20250913_62A1203a.jpg?width=1200",
+      "location": {
+        "name": "ul. Nadwiślańska 39",
+        "district": "Południe/Wschód"
+      },
+      "url": "https://jestemzgdanska.pl/pl/wydarzenia/gdansk-pod-zaglami.-plywania-dla-mieszkancow-165016120?dataFiltra=2026-09-08",
+      "source": "jestemzgdanska.pl",
+      "district": "Południe/Wschód",
+      "scrapped_url": "https://jestemzgdanska.pl/pl/wydarzenia/gdansk-pod-zaglami.-plywania-dla-mieszkancow-165016120?dataFiltra=2026-09-08",
+      "scrapped_timestamp": "2026-09-08T11:09:24.118921+00:00",
+      "category": "Outdoor Adventure",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Gdańsk pod żaglami. Pływania dla mieszkańców",
+          "description": "W weekend 12-13 września mieszkańcy Gdańska będą mieli wyjątkową okazję, by spróbować swoich sił na wodzie i wziąć udział w bezpłatnych rejsach jachtami żaglowymi na Wyspie Sobieszewskiej. Rejsy potrwają godzinę, z wyjątkiem ostatniej tury o godzinie 15:00, która zaplanowana jest na dwie godziny. Pływania odbywać się będą w godzinach 10:00–17:00.\n\nDo udziału zapraszamy zarówno osoby indywidualne, jak i grupy przyjaciół czy całe rodziny. Dzieci do lat 16 mogą uczestniczyć w wydarzeniu wyłącznie pod opieką dorosłych. Ze względu na charakter jachtów, w jednym rejsie może uczestniczyć maksymalnie 4 osoby. W przypadku większej grupy Organizatorzy proszą o wcześniejszy kontakt mailowy.\n\n**Uwaga! Liczba miejsc jest ograniczona. Decyduje kolejność zgłoszeń.** Samo wypełnienie formularza zgłoszeniowego nie jest równoznaczne z rezerwacją – potwierdzeniem udziału jest jedynie mail wysłany przez Organizatora.\n\n**ZAPISY NA WARSZTATY** https://forms.cloud.microsoft/e/1Ap80kGvZd\n\n**ZAPISY NA PŁYWANIA** https://forms.cloud.microsoft/e/emEj8LZSZC"
+        },
+        "en": {
+          "title": "Gdańsk Under Sails. Sailing for Residents",
+          "description": "On the weekend of September 12-13, residents of Gdańsk will have a unique opportunity to try their hand on the water and participate in free sailing trips on sailing yachts at Sobieszewo Island. The trips will last one hour, except for the last round at 3:00 PM, which is scheduled for two hours. Sailing will take place from 10:00 AM to 5:00 PM.\n\nWe invite both individuals and groups of friends or entire families to participate. Children under 16 can only attend the event under the supervision of adults. Due to the nature of the yachts, a maximum of 4 people can participate in one trip. For larger groups, the organizers request prior contact via email.\n\n**Note! The number of places is limited. Registration is on a first-come, first-served basis.** Filling out the registration form alone does not guarantee participation."
+        },
+        "uk": {
+          "title": "Гданськ під вітрилами. Плавання для мешканців",
+          "description": "У вихідні 12-13 вересня мешканці Гданська матимуть унікальну можливість спробувати свої сили на воді та взяти участь у безкоштовних рейсах яхтами під вітрилами на острові Собешевській. Рейси триватимуть годину, за винятком останньої групи о 15:00, яка запланована на дві години. Плавання відбуватимуться з 10:00 до 17:00.\n\nДо участі запрошуємо як окремих осіб, так і групи друзів чи цілі сім'ї. Діти до 16 років можуть брати участь у заході лише під наглядом дорослих. Через характер яхт у одному рейсі може брати участь максимум 4 особи. У разі більшої групи організатори просять про попередній контакт електронною поштою.\n\n**Увага! Кількість місць обмежена. Визначає черговість заявок.** Заповнення форми заявки не є гарантією участі."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-08T11:09:30.930626+00:00"
+    },
+    "gda-sk-pod-aglami-p-ywania-dla-mieszka-c-w-2026-09-13T10:00:00+02:00": {
+      "title": "Gdańsk pod żaglami. Pływania dla mieszkańców",
+      "date": "2026-09-13T10:00:00+02:00",
+      "end_date": "2026-09-13T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W weekend 12-13 września mieszkańcy Gdańska będą mieli wyjątkową okazję, by spróbować swoich sił na wodzie i wziąć udział w bezpłatnych rejsach jachtami żaglowymi na Wyspie Sobieszewskiej. Rejsy potrwają godzinę, z wyjątkiem ostatniej tury o godzinie 15:00, która zaplanowana jest na dwie godziny. Pływania odbywać się będą w godzinach 10:00–17:00.\n\nDo udziału zapraszamy zarówno osoby indywidualne, jak i grupy przyjaciół czy całe rodziny. Dzieci do lat 16 mogą uczestniczyć w wydarzeniu wyłącznie pod opieką dorosłych. Ze względu na charakter jachtów, w jednym rejsie może uczestniczyć maksymalnie 4 osoby. W przypadku większej grupy Organizatorzy proszą o wcześniejszy kontakt mailowy.\n\n**Uwaga! Liczba miejsc jest ograniczona. Decyduje kolejność zgłoszeń.** Samo wypełnienie formularza zgłoszeniowego nie jest równoznaczne z rezerwacją – potwierdzeniem udziału jest jedynie mail wysłany przez Organizatora.\n\n**ZAPISY NA WARSZTATY** https://forms.cloud.microsoft/e/1Ap80kGvZd\n\n**ZAPISY NA PŁYWANIA** https://forms.cloud.microsoft/e/emEj8LZSZC",
+      "image": "https://jestemzgdanska.pl/res/165016007/165016235/114-20250913_62A1203a.jpg?width=1200",
+      "location": {
+        "name": "ul. Nadwiślańska 39",
+        "district": "Południe/Wschód"
+      },
+      "url": "https://jestemzgdanska.pl/pl/wydarzenia/gdansk-pod-zaglami.-plywania-dla-mieszkancow-165016120?dataFiltra=2026-09-08",
+      "source": "jestemzgdanska.pl",
+      "district": "Południe/Wschód",
+      "scrapped_url": "https://jestemzgdanska.pl/pl/wydarzenia/gdansk-pod-zaglami.-plywania-dla-mieszkancow-165016120?dataFiltra=2026-09-08",
+      "scrapped_timestamp": "2026-09-08T11:09:24.118921+00:00",
+      "category": "Outdoor Adventure",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Gdańsk pod żaglami. Pływania dla mieszkańców",
+          "description": "W weekend 12-13 września mieszkańcy Gdańska będą mieli wyjątkową okazję, by spróbować swoich sił na wodzie i wziąć udział w bezpłatnych rejsach jachtami żaglowymi na Wyspie Sobieszewskiej. Rejsy potrwają godzinę, z wyjątkiem ostatniej tury o godzinie 15:00, która zaplanowana jest na dwie godziny. Pływania odbywać się będą w godzinach 10:00–17:00.\n\nDo udziału zapraszamy zarówno osoby indywidualne, jak i grupy przyjaciół czy całe rodziny. Dzieci do lat 16 mogą uczestniczyć w wydarzeniu wyłącznie pod opieką dorosłych. Ze względu na charakter jachtów, w jednym rejsie może uczestniczyć maksymalnie 4 osoby. W przypadku większej grupy Organizatorzy proszą o wcześniejszy kontakt mailowy.\n\n**Uwaga! Liczba miejsc jest ograniczona. Decyduje kolejność zgłoszeń.** Samo wypełnienie formularza zgłoszeniowego nie jest równoznaczne z rezerwacją – potwierdzeniem udziału jest jedynie mail wysłany przez Organizatora.\n\n**ZAPISY NA WARSZTATY** https://forms.cloud.microsoft/e/1Ap80kGvZd\n\n**ZAPISY NA PŁYWANIA** https://forms.cloud.microsoft/e/emEj8LZSZC"
+        },
+        "en": {
+          "title": "Gdańsk Under Sails. Sailing for Residents",
+          "description": "On the weekend of September 12-13, residents of Gdańsk will have a unique opportunity to try their hand on the water and participate in free sailing trips on sailing yachts at Sobieszewo Island. The trips will last one hour, except for the last round at 3:00 PM, which is scheduled for two hours. Sailing will take place from 10:00 AM to 5:00 PM.\n\nWe invite both individuals and groups of friends or entire families to participate. Children under 16 can only attend the event under the supervision of adults. Due to the nature of the yachts, a maximum of 4 people can participate in one trip. For larger groups, the organizers request prior contact via email.\n\n**Note! The number of places is limited. Registration is on a first-come, first-served basis.** Filling out the registration form alone does not guarantee participation."
+        },
+        "uk": {
+          "title": "Гданськ під вітрилами. Плавання для мешканців",
+          "description": "У вихідні 12-13 вересня мешканці Гданська матимуть унікальну можливість спробувати свої сили на воді та взяти участь у безкоштовних рейсах яхтами під вітрилами на острові Собешевській. Рейси триватимуть годину, за винятком останньої групи о 15:00, яка запланована на дві години. Плавання відбуватимуться з 10:00 до 17:00.\n\nДо участі запрошуємо як окремих осіб, так і групи друзів чи цілі сім'ї. Діти до 16 років можуть брати участь у заході лише під наглядом дорослих. Через характер яхт у одному рейсі може брати участь максимум 4 особи. У разі більшої групи організатори просять про попередній контакт електронною поштою.\n\n**Увага! Кількість місць обмежена. Визначає черговість заявок.** Заповнення форми заявки не є гарантією участі."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-08T11:09:30.930646+00:00"
     }
   }
 }

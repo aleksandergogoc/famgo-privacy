@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T10:45:43.809945+00:00",
+  "updated_at": "2026-09-08T11:04:46.407545+00:00",
   "events": {
     "biegaj-po-woli-bieg-nocny-2026-09-19": {
       "scrapped_timestamp": "2026-06-23T18:57:17.708340+00:00",
@@ -2298,49 +2298,45 @@
       "updated_at": "2026-07-22T08:57:19.745921+00:00"
     },
     "nawzajem-elektroprzygoda-2026-09-19T10:30:00+02:00": {
-      "title": "NAWZAJEM! - Elektroprzygoda",
+      "title": "NAWZAJEM! Elektroprzygoda",
       "date": "2026-09-19T10:30:00+02:00",
       "end_date": "2026-09-19T10:30:00+02:00",
       "startTimeKnown": true,
-      "description": "warsztaty / sobota / 19.09 / 10:30-13:00 / zapisy >> link Warsztaty majsterkowania, podczas których sprawdzimy czy da się zrobić coś z niczego. Przy okazji zajrzymy do środka zepsutych urządzeń, sprawdzimy do czego służą ich części i czy na pewno nadają się tylko do wyrzucenia. Jako materiału użyjemy elektrośmieci, które przynieśli nasi sąsiedzi. Odzyskane elementy zostaną wykorzystane twórczo - powstaną z nich figurki robotów. NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie” i jest finansowany ze środków m.st. Warszawy. Dojazd: - Najbliższy przystanek: Rydygiera (autobusy) – ok. 2 min pieszo, lub Plac Grunwaldzki (tramwaje, autobusy) ok 4 min pieszo - Dojście płaskie, chodnikiem, przed CLŻ droga prosta z drobnym żwirem - Dostępne miejsca parkingowe wzdłuż ul. Rydygiera, w tym miejsce dla osób z niepełnosprawnością - Na budynku Centrum Lokalnego Żoliborz funkcjonuje znacznik ToTuPoint, Dostępność: - w CLŻ jest toaleta dla osób z niepełnosprawnościami - przestrzenie wewnątrz CLŻ są bezprogowe, przyjazne sensorycznie - dostępne na miejscu słuchawki wyciszające. Szczegóły dostępności w Deklaracji Dostępności link Wszystkie wydarzenia w CLŻ są bezpłatne. Na miejscu czeka na Was herbata i kawa, ale miło nam będzie, jeśli przyniesiecie coś do wspólnych zapasów. Zastrzegamy sobie możliwość wprowadzania zmian w harmonogramie lub odwołania wydarzenia.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1030.1784913580.webp",
+      "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Przestrzenie wewnątrz Centrum Lokalnego Żoliborz są bezprogowe i przyjazne sensorycznie, dostępne są słuchawki wyciszające oraz toaleta dla osób z niepełnosprawnościami.",
+      "url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-elektroprzygoda",
+      "source": "zoliborskidomkultury.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 6
+      },
       "location": {
-        "name": "Centrum Lokalne Żoliborz, ul. Rydygiera 6b",
+        "name": "Żoliborski Dom Kultury, Centrum Lokalne Żoliborz · ul. Ludwika Rydygiera 6b",
         "district": "Żoliborz"
       },
-      "url": "https://fb.me/e/8817DRlO6",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://fb.me/e/8817DRlO6",
-      "scrapped_timestamp": "2026-09-07T12:09:21.426279+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "STEM"
-      ],
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "location_type": "indoor",
+      "image": "https://api.zdk.teapp.pl/uploads/2026-07/images/1783684547487_kto-w-kompoacie-piszczy-12.jpg",
+      "scrapped_url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-elektroprzygoda",
+      "scrapped_timestamp": "2026-09-08T11:03:28.097768+00:00",
       "translations": {
         "pl": {
-          "title": "NAWZAJEM! - Elektroprzygoda",
-          "description": "warsztaty / sobota / 19.09 / 10:30-13:00 / zapisy >> link Warsztaty majsterkowania, podczas których sprawdzimy czy da się zrobić coś z niczego. Przy okazji zajrzymy do środka zepsutych urządzeń, sprawdzimy do czego służą ich części i czy na pewno nadają się tylko do wyrzucenia. Jako materiału użyjemy elektrośmieci, które przynieśli nasi sąsiedzi. Odzyskane elementy zostaną wykorzystane twórczo - powstaną z nich figurki robotów. NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie” i jest finansowany ze środków m.st. Warszawy. Dojazd: - Najbliższy przystanek: Rydygiera (autobusy) – ok. 2 min pieszo, lub Plac Grunwaldzki (tramwaje, autobusy) ok 4 min pieszo - Dojście płaskie, chodnikiem, przed CLŻ droga prosta z drobnym żwirem - Dostępne miejsca parkingowe wzdłuż ul. Rydygiera, w tym miejsce dla osób z niepełnosprawnością - Na budynku Centrum Lokalnego Żoliborz funkcjonuje znacznik ToTuPoint, Dostępność: - w CLŻ jest toaleta dla osób z niepełnosprawnościami - przestrzenie wewnątrz CLŻ są bezprogowe, przyjazne sensorycznie - dostępne na miejscu słuchawki wyciszające. Szczegóły dostępności w Deklaracji Dostępności link Wszystkie wydarzenia w CLŻ są bezpłatne. Na miejscu czeka na Was herbata i kawa, ale miło nam będzie, jeśli przyniesiecie coś do wspólnych zapasów. Zastrzegamy sobie możliwość wprowadzania zmian w harmonogramie lub odwołania wydarzenia."
+          "title": "NAWZAJEM! Elektroprzygoda",
+          "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Przestrzenie wewnątrz Centrum Lokalnego Żoliborz są bezprogowe i przyjazne sensorycznie, dostępne są słuchawki wyciszające oraz toaleta dla osób z niepełnosprawnościami."
         },
         "en": {
-          "title": "TOGETHER! - Electro Adventure",
-          "description": "workshop / Saturday / 19.09 / 10:30-13:00 / registration >> link A DIY workshop where we will check if it's possible to make something out of nothing. Along the way, we will take a look inside broken devices, examine what their parts are for, and whether they are really only fit for disposal. We will use electronic waste brought by our neighbors as material. The recovered elements will be creatively used to create robot figurines. TOGETHER! is a project promoting ecological attitudes by developing the idea of a second life and circular economy among residents. We want to show that items do not have to immediately become waste – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. This is a space where we 'save'"
+          "title": "TOGETHER! Electro-adventure",
+          "description": "TOGETHER! is a project promoting ecological attitudes by developing the idea of a second life and circular economy among residents. We want to show that items do not have to become waste immediately – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. This is a space where we 'rescue items' from being thrown away, but we also build something more – we learn cooperation, knowledge exchange, and mutual support. It can be said that in this process, we repair not only items but also relationships. The spaces inside the Local Center Żoliborz are barrier-free and sensory-friendly, with noise-canceling headphones and accessible restrooms for people with disabilities."
         },
         "uk": {
-          "title": "NAWZAJEM! - Електропригода",
-          "description": "майстер-класи / субота / 19.09 / 10:30-13:00 / реєстрація >> посилання Майстер-класи з ремонту, під час яких ми перевіримо, чи можна зробити щось з нічого. Заодно заглянемо всередину зламаних пристроїв, перевіримо, для чого слугують їхні частини і чи дійсно вони підходять лише для викидання. Як матеріал ми використаємо електронне сміття, яке принесли наші сусіди. Відновлені елементи будуть використані творчо - з них створять фігурки роботів. NAWZAJEM! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами - їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому \"рятуємо"
+          "title": "NAWZAJEM! Електропригода",
+          "description": "NAWZAJEM! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами - їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому ми \"рятуємо предмети\" від викидання, але також будуємо щось більше - вчимося співпраці, обміну знаннями та взаємної підтримки. Можна сказати, що в цьому процесі ми ремонтуємо не лише предмети, але й стосунки. Простори всередині Центру місцевого Жолібожа безпорогові та чутливі до сенсорних потреб, доступні навушники для приглушення звуку та туалет для осіб з інвалідністю."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Żoliborz",
-      "updated_at": "2026-09-07T12:09:57.252061+00:00"
+      "updated_at": "2026-09-08T11:04:46.195884+00:00"
     },
     "bajka-muzyczna-na-orkiestr-ch-r-i-solist-w-2026-09-19T12:00:00+02:00": {
       "title": "Bajka muzyczna na orkiestrę chór i solistów",
@@ -19282,6 +19278,613 @@
         }
       },
       "updated_at": "2026-09-07T12:09:57.252159+00:00"
+    },
+    "zaj-cia-rytmiczne-dla-dzieci-2026-09-08T10:00:00+02:00": {
+      "title": "Zajęcia rytmiczne dla dzieci",
+      "date": "2026-09-08T10:00:00+02:00",
+      "end_date": "2026-09-08T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Program obejmuje elementy logopedyczne, jogę oraz różne gatunki muzyki, od klasycznej po współczesne standardy. Celem zajęć jest też rozwijanie podstawowych postaw społecznych: bycia razem, wspólnej zabawy, wzajemnego szacunku. Projekt realizowany z Budżetu Obywatelskiego. Prosimy o parkowanie na ul. Kleeberga. Kontakt: 519 047 136.",
+      "url": "https://bemowskie.pl/wydarzenia/zajcia-rytmiczne-dla-dzieci-w-wieku-10-20-miesicy-8-09/",
+      "source": "bemowskie.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 1
+      },
+      "location": {
+        "name": "Bemowskie Centrum Kultury, Miejsce Aktywności Lokalnej „Boernerowo\" · ul. Sobczaka 5",
+        "district": "Bemowo"
+      },
+      "image": "https://bemowskie.pl/wp-content/uploads/2026/05/rytmika.png",
+      "scrapped_url": "https://bemowskie.pl/wydarzenia/zajcia-rytmiczne-dla-dzieci-w-wieku-10-20-miesicy-8-09/",
+      "scrapped_timestamp": "2026-09-08T11:03:23.344810+00:00",
+      "translations": {
+        "pl": {
+          "title": "Zajęcia rytmiczne dla dzieci",
+          "description": "Program obejmuje elementy logopedyczne, jogę oraz różne gatunki muzyki, od klasycznej po współczesne standardy. Celem zajęć jest też rozwijanie podstawowych postaw społecznych: bycia razem, wspólnej zabawy, wzajemnego szacunku. Projekt realizowany z Budżetu Obywatelskiego. Prosimy o parkowanie na ul. Kleeberga. Kontakt: 519 047 136."
+        },
+        "en": {
+          "title": "Rhythmic Classes for Children",
+          "description": "The program includes speech therapy elements, yoga, and various genres of music, from classical to contemporary standards. The aim of the classes is also to develop basic social attitudes: being together, playing together, and mutual respect. The project is funded by the Civic Budget. Please park on Kleeberga Street. Contact: 519 047 136."
+        },
+        "uk": {
+          "title": "Ритмічні заняття для дітей",
+          "description": "Програма включає елементи логопедії, йогу та різні жанри музики, від класичної до сучасних стандартів. Метою занять є також розвиток основних соціальних навичок: бути разом, спільно грати, взаємна повага. Проект реалізується з Громадського бюджету. Просимо паркуватися на вул. Кліберга. Контакт: 519 047 136."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-08T11:04:46.195837+00:00"
+    },
+    "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-09-08T11:00:00+02:00": {
+      "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
+      "date": "2026-09-08T11:00:00+02:00",
+      "end_date": "2026-09-08T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan.",
+      "url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#08-09",
+      "source": "bielany.um.warszawa.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location": {
+        "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
+        "district": "Bielany"
+      },
+      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
+      "scrapped_url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#08-09",
+      "scrapped_timestamp": "2026-09-08T11:03:26.065608+00:00",
+      "translations": {
+        "pl": {
+          "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
+          "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan."
+        },
+        "en": {
+          "title": "On the Carpet – Neighborhood Toddler Zone",
+          "description": "Every Tuesday, we roll out the carpet and open our space for spontaneous neighborhood gatherings for the youngest children and parents from Bielany."
+        },
+        "uk": {
+          "title": "Ми на килимку – сусідська зона для малюків",
+          "description": "Щовівторка ми розкриваємо килим і відкриваємо наш простір для спонтанних сусідських зустрічей для найменших дітей та батьків з Білянів."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bielany",
+      "updated_at": "2026-09-08T11:04:46.195865+00:00"
+    },
+    "turlanki-18-msc-2026-09-08T09:30:00+02:00": {
+      "title": "Turlanki (18 msc +)",
+      "date": "2026-09-08T09:30:00+02:00",
+      "end_date": "2026-09-08T09:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na regularne zajęcia dla dzieci w wieku od 18 miesiąca życia (do 2 lat) , razem z opiekunem. :) Turlanki, bo tak nazywają się nasze sensoryczno logiczno rozwijające zajęcia startują 8.09 o 9.30 w Fundacji Pomocownia. Zajęcia odbywają się cyklicznie co wtorki i zapisy przyjmujemy na cały sezon/rok. Zostało nam jeszcze kilka miejsc. :) Zgłoszenia (razem z wiekiem dziecka) przyjmujemy na adres >> zapisydladzieci@gmail.com (nie przyjmujemy dzieci bez zapisu) *Zajęcia w Fundacji są bezpłatne, realizowane z Projektu Pomocownia dla Rodzin 2. Projekt jest współfinansowany przez miasto stołeczne Warszawa",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0930.1788519972.webp",
+      "location": {
+        "name": "ul. Staszica 7/9B",
+        "district": "Wola"
+      },
+      "url": "https://waw4free.pl/wydarzenie-158292-turlanki-18-msc",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://waw4free.pl/wydarzenie-158292-turlanki-18-msc",
+      "scrapped_timestamp": "2026-09-08T11:03:32.887995+00:00",
+      "category": "Sensory Play",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Turlanki (18 msc +)",
+          "description": "Zapraszamy na regularne zajęcia dla dzieci w wieku od 18 miesiąca życia (do 2 lat) , razem z opiekunem. :) Turlanki, bo tak nazywają się nasze sensoryczno logiczno rozwijające zajęcia startują 8.09 o 9.30 w Fundacji Pomocownia. Zajęcia odbywają się cyklicznie co wtorki i zapisy przyjmujemy na cały sezon/rok. Zostało nam jeszcze kilka miejsc. :) Zgłoszenia (razem z wiekiem dziecka) przyjmujemy na adres >> zapisydladzieci@gmail.com (nie przyjmujemy dzieci bez zapisu) *Zajęcia w Fundacji są bezpłatne, realizowane z Projektu Pomocownia dla Rodzin 2. Projekt jest współfinansowany przez miasto stołeczne Warszawa"
+        },
+        "en": {
+          "title": "Rolling Activities (18 months +)",
+          "description": "We invite you to regular classes for children aged 18 months to 2 years, together with a caregiver. :) Rolling Activities, as our sensory and logic development classes are called, start on September 8th at 9:30 AM at the Pomocownia Foundation. Classes are held every Tuesday, and we are accepting registrations for the entire season/year. We still have a few spots left. :) Please send your applications (along with the child's age) to >> zapisydladzieci@gmail.com (we do not accept children without registration). *Classes at the Foundation are free of charge, implemented as part of the Pomocownia for Families 2 Project, which is co-financed by the capital city of Warsaw."
+        },
+        "uk": {
+          "title": "Турланки (18 міс +)",
+          "description": "Запрошуємо на регулярні заняття для дітей віком від 18 місяців (до 2 років), разом з опікуном. :) Турланки, бо так називаються наші сенсорні, логічні та розвиваючі заняття, стартують 8.09 о 9:30 у Фундації Помічниця. Заняття відбуваються циклічно щовівторка, і ми приймаємо заявки на весь сезон/рік. У нас залишилося ще кілька місць. :) Заявки (разом з віком дитини) приймаємо на адресу >> zapisydladzieci@gmail.com (не приймаємо дітей без запису) *Заняття у Фундації безкоштовні, реалізуються в рамках Проекту Помічниця для Родин 2. Проект співфінансується містом столичним Варшава."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wola",
+      "updated_at": "2026-09-08T11:04:46.195906+00:00"
+    },
+    "spektakl-teatralny-w-p-nocnej-2026-09-12T12:00:00+02:00": {
+      "title": "Spektakl teatralny w Północnej",
+      "date": "2026-09-12T12:00:00+02:00",
+      "end_date": "2026-09-12T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🎭🌿 Bajeczna Fiesta w Galerii Północnej! 🌿🎭 Gotowi na 60 minut fantastycznej zabawy pełnej humoru, muzyki i tańca❓🎭 W sobotę, 12 września, na Scenie Niewielkiej Wielkich Rzeczy wystąpi kapela The Jelonband, a w rolach głównych zobaczymy m.in. 🐞 Ilonkę 🐝 Julkę. Razem z dziećmi wyruszymy w niezwykłą podróż pełną przygód i tajników dbania o przyrodę 🍀💧 To spektakl łączący edukację i zabawę dla całej rodziny. ‼ WSTĘP BEZPŁATNY ‼ 📅 12 września, od godz. 12:00 📍 Scena Niewielka Wielkich Rzeczy, 1 piętro obok Carry Zabierzcie maluchy i widzimy się na Scenie 💚",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788793352.webp",
+      "location": {
+        "name": "Galeria Północna, ul. Światowida 17",
+        "district": "Białołęka"
+      },
+      "url": "https://www.facebook.com/events/2177373932819835/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/2177373932819835/",
+      "scrapped_timestamp": "2026-09-08T11:03:37.710548+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun",
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Spektakl teatralny w Północnej",
+          "description": "🎭🌿 Bajeczna Fiesta w Galerii Północnej! 🌿🎭 Gotowi na 60 minut fantastycznej zabawy pełnej humoru, muzyki i tańca❓🎭 W sobotę, 12 września, na Scenie Niewielkiej Wielkich Rzeczy wystąpi kapela The Jelonband, a w rolach głównych zobaczymy m.in. 🐞 Ilonkę 🐝 Julkę. Razem z dziećmi wyruszymy w niezwykłą podróż pełną przygód i tajników dbania o przyrodę 🍀💧 To spektakl łączący edukację i zabawę dla całej rodziny. ‼ WSTĘP BEZPŁATNY ‼ 📅 12 września, od godz. 12:00 📍 Scena Niewielka Wielkich Rzeczy, 1 piętro obok Carry Zabierzcie maluchy i widzimy się na Scenie 💚"
+        },
+        "en": {
+          "title": "Theatrical Performance at Północna",
+          "description": "🎭🌿 Magical Fiesta at Galeria Północna! 🌿🎭 Ready for 60 minutes of fantastic fun filled with humor, music, and dance❓🎭 On Saturday, September 12th, The Jelonband will perform on the Small Stage of Great Things, featuring stars like 🐞 Ilonka and 🐝 Julka. Together with the children, we will embark on an extraordinary journey full of adventures and secrets of caring for nature 🍀💧 This performance combines education and fun for the whole family. ‼ FREE ENTRY ‼ 📅 September 12th, starting at 12:00 📍 Small Stage of Great Things, 1st floor next to Carry Bring the little ones and see you at the Stage 💚"
+        },
+        "uk": {
+          "title": "Театральний спектакль у Північній",
+          "description": "🎭🌿 Казкова Фієста в Галереї Північній! 🌿🎭 Готові до 60 хвилин фантастичних розваг, сповнених гумору, музики та танців❓🎭 У суботу, 12 вересня, на Сцені Невеликої Великих Речей виступить капела The Jelonband, а в головних ролях ми побачимо, зокрема, 🐞 Ілонку 🐝 Юлку. Разом з дітьми вирушимо в неймовірну подорож, сповнену пригод і таємниць догляду за природою 🍀💧 Це спектакль, що поєднує освіту та розваги для всієї родини. ‼ ВХІД БЕЗКОШТОВНИЙ ‼ 📅 12 вересня, з 12:00 📍 Сцена Невелика Великих Речей, 1 поверх біля Carry Заберіть малюків і побачимося на Сцені 💚"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Białołęka",
+      "updated_at": "2026-09-08T11:04:46.195927+00:00"
+    },
+    "legendy-warszawskie-spacer-rodzinny-z-prezentami-dla-dzieci-2026-09-13T12:00:00+02:00": {
+      "title": "Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci",
+      "date": "2026-09-13T12:00:00+02:00",
+      "end_date": "2026-09-13T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy małych i dużych miłośników legend na wesoły spacer z legendami po Starym i Nowym Mieście w Warszawie. W jego trakcie usłyszycie najlepsze warszawskie legendy. Na koniec spaceru wszystkie dzieci otrzymają zestawy wodnych tatuaży, które świecą w ciemności. Łał! A oto czego m.in. dowiecie się na naszym spacerze: – Dlaczego należy pilnować swojego cienia? – Jak garnek pomógł pokonać Bazyliszka? – Gdzie latem padał śnieg? – Jak diabeł wcielony przegrał pewien zakład? – Kto może uratować zaklętego księcia? – Gdzie spoczywają zamienieni w kamień rycerze mazowieccy? – Jak służąca zbójów strasznych przechytrzyła? – Gdzie znajduje się najkrótsza ulica w Polsce? – i wiele więcej… Cena: dobrowolna zrzutka. SPACER Z ZAPISAMI. Spacer poprowadzi Aleksander Łamek. Termin spaceru: Niedziela 13 września 2026 r. godz. 12:00. Zapisy przyjmujemy na stronie >> link Zbiórka na Placu Zamkowym przed bramą Zamku Królewskiego. Miejsce zbiórki pokazuje mapka: link Po zebraniu się grupy wejdziemy na dziedziniec zamku. Spacer potrwa ok 80 minut i zakończy się przed kościołem Nawiedzenia Najświętszej Marii Panny (ul. Przyrynek 2).",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1200.1788791018.webp",
+      "location": {
+        "name": "Plac Zamkowy",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/events/893752793611022",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/893752793611022",
+      "scrapped_timestamp": "2026-09-08T11:03:42.917316+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Storytime"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci",
+          "description": "Zapraszamy małych i dużych miłośników legend na wesoły spacer z legendami po Starym i Nowym Mieście w Warszawie. W jego trakcie usłyszycie najlepsze warszawskie legendy. Na koniec spaceru wszystkie dzieci otrzymają zestawy wodnych tatuaży, które świecą w ciemności. Łał! A oto czego m.in. dowiecie się na naszym spacerze: – Dlaczego należy pilnować swojego cienia? – Jak garnek pomógł pokonać Bazyliszka? – Gdzie latem padał śnieg? – Jak diabeł wcielony przegrał pewien zakład? – Kto może uratować zaklętego księcia? – Gdzie spoczywają zamienieni w kamień rycerze mazowieccy? – Jak służąca zbójów strasznych przechytrzyła? – Gdzie znajduje się najkrótsza ulica w Polsce? – i wiele więcej… Cena: dobrowolna zrzutka. SPACER Z ZAPISAMI. Spacer poprowadzi Aleksander Łamek. Termin spaceru: Niedziela 13 września 2026 r. godz. 12:00. Zapisy przyjmujemy na stronie >> link Zbiórka na Placu Zamkowym przed bramą Zamku Królewskiego. Miejsce zbiórki pokazuje mapka: link Po zebraniu się grupy wejdziemy na dziedziniec zamku. Spacer potrwa ok 80 minut i zakończy się przed kościołem Nawiedzenia Najświętszej Marii Panny (ul. Przyrynek 2)."
+        },
+        "en": {
+          "title": "Warsaw Legends. Family Walk with Gifts for Children",
+          "description": "We invite small and large lovers of legends to a cheerful walk with legends through the Old and New Town in Warsaw. During the walk, you will hear the best Warsaw legends. At the end of the walk, all children will receive sets of water tattoos that glow in the dark. Wow! Here’s what you will learn on our walk: – Why you should keep an eye on your shadow? – How a pot helped defeat the Basilisk? – Where did it snow in summer? – How the incarnate devil lost a bet? – Who can save the enchanted prince? – Where do the knights of Mazovia turned to stone rest? – How did a servant outsmart terrible robbers? – Where is the shortest street in Poland? – and much more… Price: voluntary donation. WALK WITH REGISTRATION. The walk will be led by Aleksander Łamek. Date of the walk: Sunday the 13th."
+        },
+        "uk": {
+          "title": "Легенди Варшави. Сімейна прогулянка з подарунками для дітей",
+          "description": "Запрошуємо маленьких і великих шанувальників легенд на веселу прогулянку з легендами по Старому та Новому Місту у Варшаві. Під час неї ви почуєте найкращі варшавські легенди. Наприкінці прогулянки всі діти отримають набори водяних татуювань, які світяться в темряві. Вау! А ось чого, зокрема, ви дізнаєтеся на нашій прогулянці: – Чому потрібно стежити за своєю тінню? – Як горщик допоміг подолати Базиліска? – Де влітку падав сніг? – Як диявол втілений програв певну ставку? – Хто може врятувати заклятого принца? – Де спочивають перетворені на камінь мазовецькі лицарі? – Як служниця страшних розбійників перехитрила? – Де знаходиться найкоротша вулиця в Польщі? – і багато іншого… Ціна: добровільний внесок. ПРОГУЛЯНКА З РЕЄСТРАЦІЄЮ. Прогулюватиме Олександр Ламек. Дата прогулянки: Неділя 13"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-08T11:04:46.195949+00:00"
+    },
+    "bezp-atne-zaj-cia-taneczne-dla-dzieci-4-8-lat-z-niepe-nosprawno-ciami-2026-09-14T17:00:00+02:00": {
+      "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
+      "date": "2026-09-14T17:00:00+02:00",
+      "end_date": "2026-09-14T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
+      "location": {
+        "name": "Powstańców Śląskich 126",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "scrapped_timestamp": "2026-09-08T11:03:49.250122+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 4,
+        "max": 8
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
+          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
+        },
+        "en": {
+          "title": "Free Dance Classes for Children Aged 4-8 with Disabilities",
+          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District. SCHEDULE: Mondays 5:00 PM - dance classes for children aged 4-8 Mondays 6:00 PM - dance classes for parents with children aged 3-8 Thursdays 12:00 PM - solo Latino Thursdays 1:00 PM - corrective gymnastics Location: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor) Registration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
+        },
+        "uk": {
+          "title": "Безкоштовні танцювальні заняття для дітей 4-8 років з інвалідністю",
+          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття частково фінансуються з коштів Району Бемово. ГРАФІК: Понеділок 17:00 - танцювальні заняття для дітей 4-8 років Понеділок 18:00 - танцювальні заняття для батьків з дітьми 3-8 років Четвер 12:00 - латина соло Четвер 13:00 - гімнастика для покращення фізичної форми Локація: MAL Спотикальня, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх) Запис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-08T11:04:46.195974+00:00"
+    },
+    "bezp-atne-zaj-cia-taneczne-dla-rodzic-w-z-dzie-mi-3-8-lat-z-niepe-nosprawno-ciami-2026-09-14T18:00:00+02:00": {
+      "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
+      "date": "2026-09-14T18:00:00+02:00",
+      "end_date": "2026-09-14T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
+      "location": {
+        "name": "Powstańców Śląskich 126",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "scrapped_timestamp": "2026-09-08T11:03:53.798455+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 4,
+        "max": 8
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
+          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
+        },
+        "en": {
+          "title": "Free Dance Classes for Parents with Children Aged 3-8 with Disabilities",
+          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District. SCHEDULE: Mondays 5:00 PM - dance classes for children aged 4-8 Mondays 6:00 PM - dance classes for parents with children aged 3-8 Thursdays 12:00 PM - solo latino Thursdays 1:00 PM - rehabilitation gymnastics Location: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor) Registration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
+        },
+        "uk": {
+          "title": "Безкоштовні танцювальні заняття для батьків з дітьми 3-8 років з інвалідністю",
+          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово. ГАРМОНІЯ: Понеділки 17:00 - танцювальні заняття для дітей 4-8 років Понеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років Четверги 12:00 - латино соло Четверги 13:00 - гімнастика для покращення фізичної форми Локація: MAL Спотикальня, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх) Запис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-08T11:04:46.195999+00:00"
+    },
+    "kid-book-club-for-ages-9-13-2026-09-17T17:30:00+02:00": {
+      "title": "Kid Book Club (for ages 9-13)",
+      "date": "2026-09-17T17:30:00+02:00",
+      "end_date": "2026-09-17T17:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "[English version below] Nasz Kid Book Club nie ma listy obowiązkowych lektur! Spotykamy się dwa razy w miesiącu, by wspólnie czytać, cieszyć się literaturą i zarażać pasją do książek. W programie: opowiadania, komiksy, krótkie formy, literackie gry i zabawy, a przede wszystkim - dużo rozmów i działająca na pełnych obrotach wyobraźnia. Zajęcia przeznaczone są dla uczestników w wieku 9-13 lat. Na spotkaniach mówimy po angielsku, ale nikt nie wymaga pełnej biegłości. To świetna okazja dla dzieci, które dopiero uczą się języka, żeby bez stresu i w przyjaznej atmosferze potrenować angielski. Prowadzenie: Andrew Baronet, nauczyciel i native speaker języka angielskiego. 📅 Start: 17.09, godz. 17:30 📅 Najbliższe spotkania: 01.10, 15.10, 05.11, 19.11, 03.12. 📝Zapisy >> link -----ENG---- Our Kid Book Club doesn’t have a required reading list! We meet twice a month to read together, have fun with stories, and share our love of books. What’s in store? Short stories, comics, exciting literary games and activities - and, most importantly, lots of chatting and plenty of room for creativity and imagination. The club is for kids aged 9-13. We speak and read in English, but full fluency is not required. It’s a great opportunity for kids who are still learning the language to get some extra English practice in a fun, relaxed atmosphere. Host: Andrew Baronet 📅 Start: 17 September, 5:30 PM 📅 Upcoming sessions: 1 October, 15 October, 5 November, 19 November, 3 December 📝Sign-ups >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1730.1788854683.webp",
+      "location": {
+        "name": "Biblioteka Wielokulturowa, ul. Jana Nowaka-Jeziorańskiego 24",
+        "district": "Praga-Południe"
+      },
+      "url": "https://www.facebook.com/events/1108175704970631/1108178044970397/?event_time_id=1108178044970397",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1108175704970631/1108178044970397/?event_time_id=1108178044970397",
+      "scrapped_timestamp": "2026-09-08T11:03:59.261993+00:00",
+      "category": "Storytime",
+      "age_range": {
+        "min": 9,
+        "max": 13
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kid Book Club (for ages 9-13)",
+          "description": "[English version below] Nasz Kid Book Club nie ma listy obowiązkowych lektur! Spotykamy się dwa razy w miesiącu, by wspólnie czytać, cieszyć się literaturą i zarażać pasją do książek. W programie: opowiadania, komiksy, krótkie formy, literackie gry i zabawy, a przede wszystkim - dużo rozmów i działająca na pełnych obrotach wyobraźnia. Zajęcia przeznaczone są dla uczestników w wieku 9-13 lat. Na spotkaniach mówimy po angielsku, ale nikt nie wymaga pełnej biegłości. To świetna okazja dla dzieci, które dopiero uczą się języka, żeby bez stresu i w przyjaznej atmosferze potrenować angielski. Prowadzenie: Andrew Baronet, nauczyciel i native speaker języka angielskiego. 📅 Start: 17.09, godz. 17:30 📅 Najbliższe spotkania: 01.10, 15.10, 05.11, 19.11, 03.12. 📝Zapisy >> link -----ENG---- Our Kid Book Club doesn’t have a required reading list! We meet twice a month to read together, have fun with stories, and share our love of books. What’s in store? Short stories, comics, exciting literary games and activities - and, most importantly, lots of chatting and plenty of room for creativity and imagination. The club is for kids aged 9-13. We speak and read in English, but full fluency is not required. It’s a great opportunity for kids who are still learning the language to get some extra English practice in a fun, relaxed atmosphere. Host: Andrew Baronet 📅 Start: 17 September, 5:30 PM 📅 Upcoming sessions: 1 October, 15 October, 5 November, 19 November, 3 December 📝Sign-ups >> link"
+        },
+        "en": {
+          "title": "Kid Book Club (for ages 9-13)",
+          "description": "Our Kid Book Club does not have a list of required readings! We meet twice a month to read together, enjoy literature, and spread the passion for books. The program includes stories, comics, short forms, literary games and activities, and above all - lots of conversations and a fully engaged imagination. The sessions are intended for participants aged 9-13. We speak in English during the meetings, but full fluency is not required. It’s a great opportunity for children who are just learning the language to practice English in a stress-free and friendly atmosphere. Led by: Andrew Baronet, teacher and native English speaker. 📅 Start: 17.09, 5:30 PM 📅 Upcoming meetings: 01.10, 15.10, 05.11, 19.11, 03.12. 📝Registration >> link"
+        },
+        "uk": {
+          "title": "Клуб книг для дітей (для віку 9-13 років)",
+          "description": "[Англійська версія нижче] Наш Клуб книг для дітей не має списку обов'язкових читань! Ми зустрічаємося двічі на місяць, щоб разом читати, насолоджуватися літературою та заражати пристрастю до книг. У програмі: оповідання, комікси, короткі форми, літературні ігри та розваги, а головне - багато розмов і активна уява. Заняття призначені для учасників віком 9-13 років. На зустрічах ми говоримо англійською, але ніхто не вимагає повної вільності. Це чудова можливість для дітей, які тільки починають вивчати мову, щоб без стресу та в дружній атмосфері попрактикувати англійську. Ведучий: Ендрю Баронет, вчитель та носій англійської мови. 📅 Початок: 17.09, о 17:30 📅 Найближчі зустрічі: 01.10, 15.10, 05.11, 19.11, 03.12. 📝Записи >> посилання -----ENG---- Наш Клуб книг для дітей"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Południe",
+      "updated_at": "2026-09-08T11:04:46.196018+00:00"
+    },
+    "xxiv-festiwal-nauka-z-pa-acem-w-tle-2026-09-19T11:00:00+02:00": {
+      "title": "XXIV Festiwal \"Nauka z Pałacem w tle\"",
+      "date": "2026-09-19T11:00:00+02:00",
+      "end_date": "2026-09-19T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy do udziału w XXIV Festiwal „Nauka z Pałacem w tle” organizowanym przez Dom Zjazdów i Konferencji Polskiej Akademii Nauk (Pałac w Jabłonnie). W tym roku po raz dwudziesty czwarty Pałac w Jabłonnie będzie organizatorem Festiwalu „Nauka z Pałacem w tle” odbywającego się pod honorowym patronatem Prezesa Polskiej Akademii Nauk, Marszałka Województwa Mazowieckiego, Starosty Legionowskiego, Wójta Gminy Jabłonna oraz Prezesa Zarządu Mazowieckiej Regionalnej Organizacji Turystycznej. Dwudniowe święto nauki odbędzie się 19 i 20 września w godzinach 11.00-17.00 na terenie parku i Pałacu w Jabłonnie. Celem Festiwalu jest popularyzacja polskich osiągnieć naukowych wśród dzieci, młodzieży i dorosłych. Atrakcyjna formuła dwudniowego wydarzenia pozwala uczestnikom zarówno poznać i zrozumieć różne dziedziny nauki, ale także zaangażować uczestników w prowadzone eksperymenty i doświadczenia. Wierzymy, że zaproszeni naukowcy i eksperci w atmosferze zabawy, w bezpośrednim kontakcie z młodzieżą pokażą, że nauka nie jest trudna oraz że może być ciekawa i inspirująca. Organizowany przez nas Festiwal Nauki od lat cieszy się ogromnym zainteresowaniem i uznaniem wśród mieszkańców powiatu legionowskiego, północnej części Mazowsza oraz Warszawy. Co roku odwiedza nas ponad 3 000 osób aktywnie uczestniczących w prowadzonych zajęciach, wykładach, doświadczeniach i pokazach. Podobnie jak w ubiegłym roku zaplanowaliśmy wiele atrakcji naukowych dla wszystkich odwiedzających Festiwal gości. Wśród wystawców obok instytutów naukowych Polskiej Akademii Nauk z bardzo ciekawą propozycją warsztatów i wykładów, pojawią uczelnie wyższe i instytucje, które opowiedzą o wszystkich najciekawszych i najnowszych zagadnieniach naukowych i technologicznych wykorzystywanych w codziennym życiu. W trakcie Festiwalu będziemy mówić o bardzo aktualnych tematach jak: sztuczna inteligencja, funkcjonowanie mikrobiomów w naszych organizmach, promieniowaniu UV, wiedza o wszechświecie, o wędrówkach ludzi, zwierząt i roślin, zagadki i rekonstrukcje archeologiczne, pochodzenie nazwisk i wiele innych niezwykle ciekawych tematów przedstawionych za pomocą eksperymentów, obserwacji mikroskopowych, pokazów i warsztatów. Będzie wiele niespodzianek dla dzieci, młodzieży i dorosłych. Po raz kolejny przygotujemy blok zajęć dla seniorów. Nie zabraknie również solidnej dawki wiedzy o środowisku naturalnym, przyrodzie i ekologii oraz warsztatów plastycznych dla najmłodszych. Jak co roku odbędzie się wernisaż wystawy w Galerii Sztuki Współczesnej „Oranżeria” a także koncert z cyklu Pałacowe Spotkania z Muzyką. Wydarzenie jest bezpłatne i dostępne dla wszystkich odwiedzających, mieszkańców powiatu legionowskiego, Mazowsza i gości z całego kraju. PROGRAM FESTIWALU  >> link Do zobaczenia w Pałacu w Jabłonnie!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788792076.webp",
+      "location": {
+        "name": "Pałac w Jabłonnie, Modlińska 105, Jabłonna",
+        "district": "okolice Warszawy"
+      },
+      "url": "https://www.palacjablonna.pl/aktualnosci",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.palacjablonna.pl/aktualnosci",
+      "scrapped_timestamp": "2026-09-08T11:04:04.899275+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "XXIV Festiwal \"Nauka z Pałacem w tle\"",
+          "description": "Zapraszamy do udziału w XXIV Festiwal „Nauka z Pałacem w tle” organizowanym przez Dom Zjazdów i Konferencji Polskiej Akademii Nauk (Pałac w Jabłonnie). W tym roku po raz dwudziesty czwarty Pałac w Jabłonnie będzie organizatorem Festiwalu „Nauka z Pałacem w tle” odbywającego się pod honorowym patronatem Prezesa Polskiej Akademii Nauk, Marszałka Województwa Mazowieckiego, Starosty Legionowskiego, Wójta Gminy Jabłonna oraz Prezesa Zarządu Mazowieckiej Regionalnej Organizacji Turystycznej. Dwudniowe święto nauki odbędzie się 19 i 20 września w godzinach 11.00-17.00 na terenie parku i Pałacu w Jabłonnie. Celem Festiwalu jest popularyzacja polskich osiągnieć naukowych wśród dzieci, młodzieży i dorosłych. Atrakcyjna formuła dwudniowego wydarzenia pozwala uczestnikom zarówno poznać i zrozumieć różne dziedziny nauki, ale także zaangażować uczestników w prowadzone eksperymenty i doświadczenia. Wierzymy, że zaproszeni naukowcy i eksperci w atmosferze zabawy, w bezpośrednim kontakcie z młodzieżą pokażą, że nauka nie jest trudna oraz że może być ciekawa i inspirująca. Organizowany przez nas Festiwal Nauki od lat cieszy się ogromnym zainteresowaniem i uznaniem wśród mieszkańców powiatu legionowskiego, północnej części Mazowsza oraz Warszawy. Co roku odwiedza nas ponad 3 000 osób aktywnie uczestniczących w prowadzonych zajęciach, wykładach, doświadczeniach i pokazach. Podobnie jak w ubiegłym roku zaplanowaliśmy wiele atrakcji naukowych dla wszystkich odwiedzających Festiwal gości. Wśród wystawców obok instytutów naukowych Polskiej Akademii Nauk z bardzo ciekawą propozycją warsztatów i wykładów, pojawią uczelnie wyższe i instytucje, które opowiedzą o wszystkich najciekawszych i najnowszych zagadnieniach naukowych i technologicznych wykorzystywanych w codziennym życiu. W trakcie Festiwalu będziemy mówić o bardzo aktualnych tematach jak: sztuczna inteligencja, funkcjonowanie mikrobiomów w naszych organizmach, promieniowaniu UV, wiedza o wszechświecie, o wędrówkach ludzi, zwierząt i roślin, zagadki i rekonstrukcje archeologiczne, pochodzenie nazwisk i wiele innych niezwykle ciekawych tematów przedstawionych za pomocą eksperymentów, obserwacji mikroskopowych, pokazów i warsztatów. Będzie wiele niespodzianek dla dzieci, młodzieży i dorosłych. Po raz kolejny przygotujemy blok zajęć dla seniorów. Nie zabraknie również solidnej dawki wiedzy o środowisku naturalnym, przyrodzie i ekologii oraz warsztatów plastycznych dla najmłodszych. Jak co roku odbędzie się wernisaż wystawy w Galerii Sztuki Współczesnej „Oranżeria” a także koncert z cyklu Pałacowe Spotkania z Muzyką. Wydarzenie jest bezpłatne i dostępne dla wszystkich odwiedzających, mieszkańców powiatu legionowskiego, Mazowsza i gości z całego kraju. PROGRAM FESTIWALU  >> link Do zobaczenia w Pałacu w Jabłonnie!"
+        },
+        "en": {
+          "title": "XXIV Festival 'Science with the Palace in the Background'",
+          "description": "We invite you to participate in the XXIV Festival 'Science with the Palace in the Background' organized by the Conference and Meeting Center of the Polish Academy of Sciences (Palace in Jabłonna). This year, for the twenty-fourth time, the Palace in Jabłonna will host the Festival 'Science with the Palace in the Background', held under the honorary patronage of the President of the Polish Academy of Sciences, the Marshal of the Mazowieckie Voivodeship, the Starost of Legionowo, the Mayor of Jabłonna, and the President of the Board of the Mazovian Regional Tourist Organization. This two-day celebration of science will take place on September 19 and 20 from 11:00 AM to 5:00 PM in the park and Palace in Jabłonna. The aim of the Festival is to popularize Polish scientific achievements among children, youth, and adults. The attractive format of the two-day event allows participants to both learn about and understand various scientific topics."
+        },
+        "uk": {
+          "title": "XXIV Фестиваль \"Наука з Палацом на фоні\"",
+          "description": "Запрошуємо до участі в XXIV Фестивалі \"Наука з Палацом на фоні\", організованому Домом З'їздів та Конференцій Польської Академії Наук (Палац у Яблонні). Цього року вперше за двадцять четвертий раз Палац у Яблонні буде організатором Фестивалю \"Наука з Палацом на фоні\", що проходить під почесним патронатом Президента Польської Академії Наук, Маршалка Мазовецького воєводства, Старости Легіоновського, Сільського голови Гміни Яблонна та Президента Правління Мазовецької Регіональної Організації Туризму. Дводенне свято науки відбудеться 19 та 20 вересня з 11:00 до 17:00 на території парку та Палацу в Яблонні. Метою Фестивалю є популяризація польських наукових досягнень серед дітей, молоді та дорослих. Приваблива форма дводенного заходу дозволяє учасникам як познайомитися, так і зрозуміти різні..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "okolice Warszawy",
+      "updated_at": "2026-09-08T11:04:46.196038+00:00"
+    },
+    "wielki-festyn-mi-dzypokoleniowy-po-udniowo-praskie-senioralia-2026-09-19T13:00:00+02:00": {
+      "title": "Wielki festyn międzypokoleniowy POŁUDNIOWO PRASKIE SENIORALIA",
+      "date": "2026-09-19T13:00:00+02:00",
+      "end_date": "2026-09-19T13:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Serdecznie zapraszamy na wielki festyn międzypokoleniowy - POŁUDNIOWO PRASKIE SENIORALIA, który już na stałe wpisał się do kalendarza imprez organizowanych w Dzielnicy Praga-Południe m.st. Warszawy. W tym roku Południowo-Praskie Senioralia będą częścią Warszawskich Dni Rewitalizacji. Jest to miejskie wydarzenie poświęcone przemianom przestrzeni Warszawy oraz działaniom społecznym, kulturalnym i urbanistycznym związanym z rewitalizacją. Zapraszamy w sobotę 19 września do Parku im. Józefa Polińskiego w godzinach 13:00 - 20:30. Podczas wydarzenia przewidziano dla uczestników wiele atrakcji, m.in.: • „dmuchańce” dla dzieci, • grill i pyszne smakołyki, w tym pączki, popcorn, hot-dogi, lemoniadę, • bezpłatne badania profilaktyczne, konsultacje z dietetykiem i psychologiem, masaże, • atrakcje na scenie, m.in. występy dzieci i seniorów, pokaz iluzji, konkursy, • wielu wystawców i stoiska z różnorodnymi ofertami. GWIAZDĄ WIECZORU będzie zespół CZERWONE GITARY! Piknik zakończymy z przytupem - dyskoteką pod gwiazdami z DJ-em.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788786727.webp",
+      "location": {
+        "name": "Park Polińskiego",
+        "district": "Praga-Południe"
+      },
+      "url": "https://www.facebook.com/photo/?fbid=1517424577080221&set=a.467766328712723",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo/?fbid=1517424577080221&set=a.467766328712723",
+      "scrapped_timestamp": "2026-09-08T11:04:12.132168+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Seasonal Festival",
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Wielki festyn międzypokoleniowy POŁUDNIOWO PRASKIE SENIORALIA",
+          "description": "Serdecznie zapraszamy na wielki festyn międzypokoleniowy - POŁUDNIOWO PRASKIE SENIORALIA, który już na stałe wpisał się do kalendarza imprez organizowanych w Dzielnicy Praga-Południe m.st. Warszawy. W tym roku Południowo-Praskie Senioralia będą częścią Warszawskich Dni Rewitalizacji. Jest to miejskie wydarzenie poświęcone przemianom przestrzeni Warszawy oraz działaniom społecznym, kulturalnym i urbanistycznym związanym z rewitalizacją. Zapraszamy w sobotę 19 września do Parku im. Józefa Polińskiego w godzinach 13:00 - 20:30. Podczas wydarzenia przewidziano dla uczestników wiele atrakcji, m.in.: • „dmuchańce” dla dzieci, • grill i pyszne smakołyki, w tym pączki, popcorn, hot-dogi, lemoniadę, • bezpłatne badania profilaktyczne, konsultacje z dietetykiem i psychologiem, masaże, • atrakcje na scenie, m.in. występy dzieci i seniorów, pokaz iluzji, konkursy, • wielu wystawców i stoiska z różnorodnymi ofertami. GWIAZDĄ WIECZORU będzie zespół CZERWONE GITARY! Piknik zakończymy z przytupem - dyskoteką pod gwiazdami z DJ-em."
+        },
+        "en": {
+          "title": "Great Intergenerational Festival SOUTH PRAGUE SENIORALIA",
+          "description": "We warmly invite you to the great intergenerational festival - SOUTH PRAGUE SENIORALIA, which has already become a permanent fixture in the calendar of events organized in the Praga-Południe District of Warsaw. This year, the South Prague Senioralia will be part of the Warsaw Days of Revitalization. It is a city event dedicated to the transformations of Warsaw's spaces and social, cultural, and urban activities related to revitalization. Join us on Saturday, September 19, at the Józef Poliński Park from 1:00 PM to 8:30 PM. The event will feature many attractions for participants, including: • inflatables for children, • a grill and delicious treats, including donuts, popcorn, hot dogs, lemonade, • free preventive health screenings, consultations with a dietitian and psychologist, massages, • attractions for..."
+        },
+        "uk": {
+          "title": "Великий міжпоколінний фестиваль ПІВДЕННО-ПРАСЬКІ СЕНІОРАЛІЇ",
+          "description": "Щиро запрошуємо на великий міжпоколінний фестиваль - ПІВДЕННО-ПРАСЬКІ СЕНІОРАЛІЇ, який вже на постійно вписався до календаря заходів, що організовуються в районі Прага-Південь м. Варшави. Цього року Південно-Празькі Сеноралії стануть частиною Варшавських Днів Ревіталізації. Це міська подія, присвячена змінам у просторі Варшави, а також соціальним, культурним і урбаністичним діям, пов'язаним з ревіталізацією. Запрошуємо в суботу, 19 вересня, до парку ім. Йозефа Полінського з 13:00 до 20:30. Під час заходу для учасників передбачено багато розваг, зокрема: • «надувні» атракціони для дітей, • гриль та смачні ласощі, зокрема пончики, попкорн, хот-доги, лимонад, • безкоштовні профілактичні обстеження, консультації з дієтологом і психологом, масажі, • атракції на"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Południe",
+      "updated_at": "2026-09-08T11:04:46.196059+00:00"
+    },
+    "le-ne-spotkanai-rodzinne-ursyn-w-2026-09-26T14:00:00+02:00": {
+      "title": "LEŚNE SPOTKANAI RODZINNE - URSYNÓW",
+      "date": "2026-09-26T14:00:00+02:00",
+      "end_date": "2026-09-26T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🌳 LEŚNE SPOTKANIE RODZINNE — URSYNÓW 🌳 Sobota, 26 września, godz. 14:00–17:00 | Las Kabacki 🌲 Zabierzcie dzieci, termos z ciepłą herbatą i dobry humor — idziemy do lasu! 🍂 ⏰ HARMONOGRAM 14:00 — zbiórka grupy 14:15 — start spaceru i leśnych zabaw 15:30 — wspólne ognisko z kiełbaskami 16:15 — gry i zabawy ruchowe na placu zabaw 17:00 — zakończenie 🎉 CO WAS CZEKA? 🧘‍♀️ Zajęcia z uważności — chwila wyciszenia wśród drzew, ćwiczenia uważnej obserwacji lasu wszystkimi zmysłami. 🎨 Warsztaty „Leśna Galeria Sztuki\" — tworzymy sztukę z tego, co daje las: szyszek, liści, kory i patyków. 🕵️ Gra terenowa — zabawa w odkrywanie leśnych zagadek i tropienie śladów, świetna dla całej rodziny. 🔥 Ognisko z kiełbaskami — pieczenie kiełbasek przy ognisku, klasyka każdego leśnego spotkania. 🌿 Kreatywna nuda — czas bez telefonów i planu, kiedy dzieci same wymyślają zabawy. Prowadzi nasz sprawdzony Animator Rodzinny — Jacek Stec 😄 📍 Zbiórka: plac zabaw w Parku Motyli, przy Metrze Warszawskim (koniec al. KEN) 🚌 Dojazd: autobus 166 (Kabaty-STP) lub 172 (Osiedla Kabaty) 🆓 Udział bezpłatny ⚠️ Liczba miejsc ograniczona (max 30 osób) — obowiązują zapisy! 👉 Zapisy >> link Projekt „Wspólne godziny dla rodziny\" współfinansuje m.st. Warszawa 🏙️",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1400.1788817700.webp",
+      "location": {
+        "name": "LAS KABACKI",
+        "district": "Ursynów"
+      },
+      "url": "https://warszawa.3plus.pl/pl/Za-pisy-na-warsztaty-lesne/show/60",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://warszawa.3plus.pl/pl/Za-pisy-na-warsztaty-lesne/show/60",
+      "scrapped_timestamp": "2026-09-08T11:04:18.404055+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Nature & Wildlife",
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "LEŚNE SPOTKANAI RODZINNE - URSYNÓW",
+          "description": "🌳 LEŚNE SPOTKANIE RODZINNE — URSYNÓW 🌳 Sobota, 26 września, godz. 14:00–17:00 | Las Kabacki 🌲 Zabierzcie dzieci, termos z ciepłą herbatą i dobry humor — idziemy do lasu! 🍂 ⏰ HARMONOGRAM 14:00 — zbiórka grupy 14:15 — start spaceru i leśnych zabaw 15:30 — wspólne ognisko z kiełbaskami 16:15 — gry i zabawy ruchowe na placu zabaw 17:00 — zakończenie 🎉 CO WAS CZEKA? 🧘‍♀️ Zajęcia z uważności — chwila wyciszenia wśród drzew, ćwiczenia uważnej obserwacji lasu wszystkimi zmysłami. 🎨 Warsztaty „Leśna Galeria Sztuki\" — tworzymy sztukę z tego, co daje las: szyszek, liści, kory i patyków. 🕵️ Gra terenowa — zabawa w odkrywanie leśnych zagadek i tropienie śladów, świetna dla całej rodziny. 🔥 Ognisko z kiełbaskami — pieczenie kiełbasek przy ognisku, klasyka każdego leśnego spotkania. 🌿 Kreatywna nuda — czas bez telefonów i planu, kiedy dzieci same wymyślają zabawy. Prowadzi nasz sprawdzony Animator Rodzinny — Jacek Stec 😄 📍 Zbiórka: plac zabaw w Parku Motyli, przy Metrze Warszawskim (koniec al. KEN) 🚌 Dojazd: autobus 166 (Kabaty-STP) lub 172 (Osiedla Kabaty) 🆓 Udział bezpłatny ⚠️ Liczba miejsc ograniczona (max 30 osób) — obowiązują zapisy! 👉 Zapisy >> link Projekt „Wspólne godziny dla rodziny\" współfinansuje m.st. Warszawa 🏙️"
+        },
+        "en": {
+          "title": "FOREST FAMILY MEETING - URSYNÓW",
+          "description": "🌳 FOREST FAMILY MEETING — URSYNÓW 🌳 Saturday, September 26, 2:00 PM – 5:00 PM | Kabacki Forest 🌲 Bring your children, a thermos of warm tea, and good humor — we are going to the forest! 🍂 ⏰ SCHEDULE 2:00 PM — group gathering 2:15 PM — start of the walk and forest games 3:30 PM — communal bonfire with sausages 4:15 PM — physical games and activities at the playground 5:00 PM — conclusion 🎉 WHAT AWAITS YOU? 🧘‍♀️ Mindfulness activities — a moment of calm among the trees, exercises in mindful observation of the forest with all senses. 🎨 \"Forest Art Gallery\" workshops — creating art from what the forest provides: pine cones, leaves, bark, and sticks. 🕵️ Treasure hunt — a fun game of discovering forest puzzles and tracking clues, great for the whole family. 🔥 Bonfire with sausages — roasting sausages by the bonfire, a classic of every forest meeting. 🌿 Creative boredom —"
+        },
+        "uk": {
+          "title": "ЛІСОВІ СІМЕЙНІ ЗУСТРІЧІ - УРСИНОВ",
+          "description": "🌳 ЛІСОВА СІМЕЙНА ЗУСТРІЧ — УРСИНОВ 🌳 Субота, 26 вересня, год. 14:00–17:00 | Ліс Кабацький 🌲 Візьміть дітей, термос з гарячим чаєм і гарний настрій — йдемо до лісу! 🍂 ⏰ РОЗКЛАД 14:00 — збір групи 14:15 — початок прогулянки та лісових ігор 15:30 — спільне вогнище з ковбасками 16:15 — ігри та рухливі забави на дитячому майданчику 17:00 — закінчення 🎉 ЩО ВАС ЧЕКАЄ? 🧘‍♀️ Заняття з усвідомленості — мить спокою серед дерев, вправи уважного спостереження за лісом всіма органами чуття. 🎨 Майстер-клас «Лісова Галерея Мистецтв» — створюємо мистецтво з того, що дає ліс: шишок, листя, кори та паличок. 🕵️ Полева гра — гра в відкриття лісових загадок і слідкування за слідами, чудова для всієї родини. 🔥 Вогнище з ковбасками — смаження ковбасок на вогнищі, класика кожної лісової зустрічі. 🌿 Креативна нудьга — ч"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Ursynów",
+      "updated_at": "2026-09-08T11:04:46.196078+00:00"
+    },
+    "le-ne-spotkania-rodzinne-spacer-i-ognisko-las-rembertowski-2026-09-27T14:00:00+02:00": {
+      "title": "LEŚNE SPOTKANIA RODZINNE - SPACER I OGNISKO. LAS REMBERTOWSKI",
+      "date": "2026-09-27T14:00:00+02:00",
+      "end_date": "2026-09-27T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🌲 LEŚNE SPOTKANIE RODZINNE — REMBERTÓW 🌲 Niedziela, 27 września, godz. 14:00–17:00 | Las Rembertowski 🍁 Rembertów, szykuj się — wchodzimy do lasu całą rodziną! 👨‍👩‍👧‍👦🌳 ⏰ HARMONOGRAM 14:00 — zbiórka grupy 14:15 — start spaceru i leśnych zabaw 15:30 — wspólne ognisko z kiełbaskami 16:15 — swobodne zabawy ruchowe 17:00 — zakończenie 🎉 PROGRAM SPOTKANIA 🧘 Zajęcia z uważności — spokojna chwila w lesie, ćwiczenia uważnego obserwowania otoczenia. 🎨 Warsztaty „Leśna Galeria Sztuki\" — leśne materiały (szyszki, liście, kora) zamieniamy w małe dzieła sztuki. 🕵️‍♂️ Gra terenowa — wspólne szukanie leśnych zagadek i tropienie śladów w lesie. 🔥 Ognisko z kiełbaskami — drewno, kiełbaski, pieczywo i ketchup zapewniamy, Wy przynosicie tylko apetyt. 🌿 Kreatywna nuda — czas na spontaniczną zabawę bez gotowego scenariusza. Poprowadzi Jacek Stec — Warszawski Animator Rodzinny i miłośnik lasu 🌳😊 📍 Zbiórka: wejście do lasu od ul. Stężyckiej, róg Strażackiej, godz. 14:00 🆓 Udział bezpłatny ⚠️ Tylko 30 miejsc — obowiązują zapisy! 👉 Zapisy >> link Projekt „Wspólne godziny dla rodziny\" współfinansuje m.st. Warszawa 🏙️",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1400.1788817879.webp",
+      "location": {
+        "name": "LAS REMBERTOWSKI",
+        "district": "Rembertów"
+      },
+      "url": "https://warszawa.3plus.pl/pl/Za-pisy-na-warsztaty-lesne/show/61",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://warszawa.3plus.pl/pl/Za-pisy-na-warsztaty-lesne/show/61",
+      "scrapped_timestamp": "2026-09-08T11:04:26.778697+00:00",
+      "category": "Nature & Wildlife",
+      "additional_categories": [
+        "Family Fun",
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "LEŚNE SPOTKANIA RODZINNE - SPACER I OGNISKO. LAS REMBERTOWSKI",
+          "description": "🌲 LEŚNE SPOTKANIE RODZINNE — REMBERTÓW 🌲 Niedziela, 27 września, godz. 14:00–17:00 | Las Rembertowski 🍁 Rembertów, szykuj się — wchodzimy do lasu całą rodziną! 👨‍👩‍👧‍👦🌳 ⏰ HARMONOGRAM 14:00 — zbiórka grupy 14:15 — start spaceru i leśnych zabaw 15:30 — wspólne ognisko z kiełbaskami 16:15 — swobodne zabawy ruchowe 17:00 — zakończenie 🎉 PROGRAM SPOTKANIA 🧘 Zajęcia z uważności — spokojna chwila w lesie, ćwiczenia uważnego obserwowania otoczenia. 🎨 Warsztaty „Leśna Galeria Sztuki\" — leśne materiały (szyszki, liście, kora) zamieniamy w małe dzieła sztuki. 🕵️‍♂️ Gra terenowa — wspólne szukanie leśnych zagadek i tropienie śladów w lesie. 🔥 Ognisko z kiełbaskami — drewno, kiełbaski, pieczywo i ketchup zapewniamy, Wy przynosicie tylko apetyt. 🌿 Kreatywna nuda — czas na spontaniczną zabawę bez gotowego scenariusza. Poprowadzi Jacek Stec — Warszawski Animator Rodzinny i miłośnik lasu 🌳😊 📍 Zbiórka: wejście do lasu od ul. Stężyckiej, róg Strażackiej, godz. 14:00 🆓 Udział bezpłatny ⚠️ Tylko 30 miejsc — obowiązują zapisy! 👉 Zapisy >> link Projekt „Wspólne godziny dla rodziny\" współfinansuje m.st. Warszawa 🏙️"
+        },
+        "en": {
+          "title": "FAMILY FOREST MEETING - WALK AND CAMPFIRE. REMBERTÓW FOREST",
+          "description": "🌲 FAMILY FOREST MEETING — REMBERTÓW 🌲 Sunday, September 27, 2:00 PM – 5:00 PM | Rembertów Forest 🍁 Rembertów, get ready — we are entering the forest as a whole family! 👨‍👩‍👧‍👦🌳 ⏰ SCHEDULE 2:00 PM — group gathering 2:15 PM — start of the walk and forest games 3:30 PM — joint campfire with sausages 4:15 PM — free movement games 5:00 PM — conclusion 🎉 MEETING PROGRAM 🧘 Mindfulness activities — a quiet moment in the forest, exercises in mindful observation of the surroundings. 🎨 Workshop \"Forest Art Gallery\" — turning forest materials (cones, leaves, bark) into small works of art. 🕵️‍♂️ Treasure hunt — searching for forest puzzles and tracking signs in the forest together. 🔥 Campfire with sausages — we provide wood, sausages, bread, and ketchup; you just bring your appetite. 🌿 Creative boredom — time for spontaneous fun without prepared activities."
+        },
+        "uk": {
+          "title": "СІМЕЙНІ ЗУСТРІЧІ В ЛІСІ - ПРОГУЛЯНКА І ВОГНИЩЕ. ЛІС РЕМБЕРТОВСЬКИЙ",
+          "description": "🌲 СІМЕЙНЕ ЗУСТРІЧ В ЛІСІ — РЕМБЕРТОВ 🌲 Неділя, 27 вересня, год. 14:00–17:00 | Ліс Рембертовський 🍁 Рембертів, готуйтесь — йдемо до лісу всією родиною! 👨‍👩‍👧‍👦🌳 ⏰ ГРАФІК 14:00 — збір групи 14:15 — початок прогулянки та лісових ігор 15:30 — спільне вогнище з ковбасками 16:15 — вільні рухливі ігри 17:00 — закінчення 🎉 ПРОГРАМА ЗУСТРІЧІ 🧘 Заняття з усвідомленості — спокійна мить у лісі, вправи уважного спостереження за оточенням. 🎨 Майстер-клас «Лісова Галерея Мистецтв» — лісові матеріали (шишки, листя, кора) перетворюємо на маленькі витвори мистецтва. 🕵️‍♂️ Полева гра — спільний пошук лісових загадок і слідів у лісі. 🔥 Вогнище з ковбасками — дрова, ковбаски, хліб і кетчуп забезпечуємо, ви приносите лише апетит. 🌿 Креативна нудьга — час для спонтанної гри без готових"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Rembertów",
+      "updated_at": "2026-09-08T11:04:46.196100+00:00"
+    },
+    "koncert-rodzinny-dominobajki-2026-10-03T12:00:00+02:00": {
+      "title": "Koncert rodzinny - Dominobajki",
+      "date": "2026-10-03T12:00:00+02:00",
+      "end_date": "2026-10-03T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy dzieci (4+ lat) wraz z rodzicami na rodzinny koncert „Dominobajki\", który odbędzie się w sobotę 3 października br. o godz. 12:00 w warszawskiej dzielnicy Wola. Gościć nas będzie OKiE SM WOLA - Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola przy ul. Powstańców Śląskich 108A. „Dominobajki” Jarosława Siwińskiego na fortepian, perkusję, showmana i publiczność dziecięcą to niezwykły utwór składający się z 15 abstrakcyjnych, bajkowych miniatur, takich jak: Rycerz Atanazy, Srebrne Orzechy, Rakieta Kosmiczna, Drzwi czy Gonitwa. Z tych muzycznych elementów uczestnicy koncertu tworzą własne mikroopowieści. Następnie muzycy ożywiają je dźwiękami, wykonując wybrane fragmenty w kolejności ustalonej przez dzieci. W niektórych częściach aktywny udział bierze również publiczność, stając się współtwórcą koncertowego wydarzenia. Wykonawcy: Jarosław Siwiński (fortepian), Leszek Lorent (perkusja), Małgorzata Kołcz (przewodnik publiczności). Kompozycja powstała na zamówienie poznańskiego Centrum Sztuki Dziecka i była wielokrotnie prezentowana z dużym powodzeniem, dostarczając najmłodszym słuchaczom wielu radości. Jest jednym z licznych utworów zamówionych przez tę instytucję z myślą o przybliżaniu dzieciom świata muzyki współczesnej w atrakcyjny i angażujący sposób. 🍁 Wstęp wolny W razie dodatkowych pytań prosimy o kontakt >> m.kolcz@ptmw.art Do zobaczenia! ARTYŚCI: Leszek Lorent perkusja Jest wybitnym perkusistą, profesorem Uniwersytetu Muzycznego Fryderyka Chopina w Warszawie, laureatem licznych krajowych i międzynarodowych konkursów, a także autorem monografii naukowych i artykułów z pogranicza muzyki i filozofii. Ma na swoim koncie prawykonania dzieł wielu współczesnych kompozytorów, a z jego inspiracji powstało kilkadziesiąt kompozycji przeznaczonych na perkusję, w tym dzieła na perkusję solo i orkiestrę. Jego dorobek fonograficzny obejmuje kilkanaście płyt, w których występuje jako solista i kameralista. Jarosław Siwiński syntezator Kompozytor, pianista, organizator wydarzeń artystycznych, absolwent UMFC w Warszawie. Często działa na pograniczu teatru, muzyki i sztuk wizualnych. Współpracował m.in. z Eugeniuszem Rudnikiem, Fryderykiem Rzewskim, Grupą Azorro, orkest de ereprijs (Appeldorn), Bang on a Can (Nowy Jork) i Forbidden City Chamber Orchestra (Pekin). Jest autorem hejnału Rzeszowa, tworzył także muzykę do filmów animowanych (m.in. Jana Lenicy i Daniela Szczechury), teatru i gier komputerowych. Przez wiele lat współpracował z poznańskim Centrum Sztuki Dziecka. Jest dyrektorem artystycznym festiwalu Warszawskie Spotkania Muzyczne. Małgorzata Kołcz prowadzenie koncertu Absolwentka AM w Gdańsku oraz UAM w Poznaniu. Stypendystka MKiDN oraz Stowarzyszenia Autorów ZAiKS. Laureatka nagrody ZKP w dziedzinie edukacji. Występuje z zespołami kameralnymi i orkiestrami. Specjalizuje się w wykonawstwie muzyki współczesnej. Działa na rzecz upowszechniania muzyki poważnej oraz jej twórców. Projektuje, organizuje i promuje różnorodne wydarzenia artystyczne (m.in.: Festiwal „Obrazy z Conrada”, „Letni Festiwal Nowego Miasta”, „Obrazy z Warszawy”, „Audio Stage”). Jest inicjatorką warsztatów dla dzieci „Opowiedz mi bajkę”, „Co słychać w muzyce?” i „Nie bój się improwizować!\". Tworzy również teksty poetyckie. * Koncert odbywa się w ramach projektu PTMW „Warszawa kreatywna\" i jest współfinansowany ze środków Miasta Stołecznego Warszawy. ** Zapraszamy również melomanów ze specjalnymi potrzebami. Prosimy o informację na adres ptmw@epistola.pl , jeśli będzie potrzebna pomoc w Waszym uczestnictwie w miejscu koncertu. Chętnie pomożemy. Organizator: Polskie Towarzystwo Muzyki Współczesnej | Współfinansowanie: Miasto Stołeczne Warszawa | Partnerzy: OKiE SM WOLA - Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola, Agencja Muzyczna Art Deco Group | Patronat medialny: Polskie Radio RDC, TVP 3 Warszawa, POLMIC.PL - Polskie Centrum Informacji Muzycznej, waw4free.pl, cameralmusic.pl i wolnasobota.pl",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788790893.webp",
+      "location": {
+        "name": "OKiE SM WOLA, ul. Powstańców Śląskich 108A",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/events/2292293104902039/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/2292293104902039/",
+      "scrapped_timestamp": "2026-09-08T11:04:33.877218+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 4,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Koncert rodzinny - Dominobajki",
+          "description": "Zapraszamy dzieci (4+ lat) wraz z rodzicami na rodzinny koncert „Dominobajki\", który odbędzie się w sobotę 3 października br. o godz. 12:00 w warszawskiej dzielnicy Wola. Gościć nas będzie OKiE SM WOLA - Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola przy ul. Powstańców Śląskich 108A. „Dominobajki” Jarosława Siwińskiego na fortepian, perkusję, showmana i publiczność dziecięcą to niezwykły utwór składający się z 15 abstrakcyjnych, bajkowych miniatur, takich jak: Rycerz Atanazy, Srebrne Orzechy, Rakieta Kosmiczna, Drzwi czy Gonitwa. Z tych muzycznych elementów uczestnicy koncertu tworzą własne mikroopowieści. Następnie muzycy ożywiają je dźwiękami, wykonując wybrane fragmenty w kolejności ustalonej przez dzieci. W niektórych częściach aktywny udział bierze również publiczność, stając się współtwórcą koncertowego wydarzenia. Wykonawcy: Jarosław Siwiński (fortepian), Leszek Lorent (perkusja), Małgorzata Kołcz (przewodnik publiczności). Kompozycja powstała na zamówienie poznańskiego Centrum Sztuki Dziecka i była wielokrotnie prezentowana z dużym powodzeniem, dostarczając najmłodszym słuchaczom wielu radości. Jest jednym z licznych utworów zamówionych przez tę instytucję z myślą o przybliżaniu dzieciom świata muzyki współczesnej w atrakcyjny i angażujący sposób. 🍁 Wstęp wolny W razie dodatkowych pytań prosimy o kontakt >> m.kolcz@ptmw.art Do zobaczenia! ARTYŚCI: Leszek Lorent perkusja Jest wybitnym perkusistą, profesorem Uniwersytetu Muzycznego Fryderyka Chopina w Warszawie, laureatem licznych krajowych i międzynarodowych konkursów, a także autorem monografii naukowych i artykułów z pogranicza muzyki i filozofii. Ma na swoim koncie prawykonania dzieł wielu współczesnych kompozytorów, a z jego inspiracji powstało kilkadziesiąt kompozycji przeznaczonych na perkusję, w tym dzieła na perkusję solo i orkiestrę. Jego dorobek fonograficzny obejmuje kilkanaście płyt, w których występuje jako solista i kameralista. Jarosław Siwiński syntezator Kompozytor, pianista, organizator wydarzeń artystycznych, absolwent UMFC w Warszawie. Często działa na pograniczu teatru, muzyki i sztuk wizualnych. Współpracował m.in. z Eugeniuszem Rudnikiem, Fryderykiem Rzewskim, Grupą Azorro, orkest de ereprijs (Appeldorn), Bang on a Can (Nowy Jork) i Forbidden City Chamber Orchestra (Pekin). Jest autorem hejnału Rzeszowa, tworzył także muzykę do filmów animowanych (m.in. Jana Lenicy i Daniela Szczechury), teatru i gier komputerowych. Przez wiele lat współpracował z poznańskim Centrum Sztuki Dziecka. Jest dyrektorem artystycznym festiwalu Warszawskie Spotkania Muzyczne. Małgorzata Kołcz prowadzenie koncertu Absolwentka AM w Gdańsku oraz UAM w Poznaniu. Stypendystka MKiDN oraz Stowarzyszenia Autorów ZAiKS. Laureatka nagrody ZKP w dziedzinie edukacji. Występuje z zespołami kameralnymi i orkiestrami. Specjalizuje się w wykonawstwie muzyki współczesnej. Działa na rzecz upowszechniania muzyki poważnej oraz jej twórców. Projektuje, organizuje i promuje różnorodne wydarzenia artystyczne (m.in.: Festiwal „Obrazy z Conrada”, „Letni Festiwal Nowego Miasta”, „Obrazy z Warszawy”, „Audio Stage”). Jest inicjatorką warsztatów dla dzieci „Opowiedz mi bajkę”, „Co słychać w muzyce?” i „Nie bój się improwizować!\". Tworzy również teksty poetyckie. * Koncert odbywa się w ramach projektu PTMW „Warszawa kreatywna\" i jest współfinansowany ze środków Miasta Stołecznego Warszawy. ** Zapraszamy również melomanów ze specjalnymi potrzebami. Prosimy o informację na adres ptmw@epistola.pl , jeśli będzie potrzebna pomoc w Waszym uczestnictwie w miejscu koncertu. Chętnie pomożemy. Organizator: Polskie Towarzystwo Muzyki Współczesnej | Współfinansowanie: Miasto Stołeczne Warszawa | Partnerzy: OKiE SM WOLA - Ośrodek Kultury i Edukacji Spółdzielni Mieszkaniowej Wola, Agencja Muzyczna Art Deco Group | Patronat medialny: Polskie Radio RDC, TVP 3 Warszawa, POLMIC.PL - Polskie Centrum Informacji Muzycznej, waw4free.pl, cameralmusic.pl i wolnasobota.pl"
+        },
+        "en": {
+          "title": "Family Concert - Dominobajki",
+          "description": "We invite children (4+ years) along with their parents to the family concert 'Dominobajki', which will take place on Saturday, October 3rd at 12:00 PM in the Wola district of Warsaw. We will be hosted by OKiE SM WOLA - Cultural and Educational Center of the Wola Housing Cooperative at 108A Powstańców Śląskich Street. 'Dominobajki' by Jarosław Siwiński for piano, percussion, a showman, and a children's audience is an extraordinary piece consisting of 15 abstract, fairy-tale miniatures, such as: Knight Atanazy, Silver Nuts, Space Rocket, Doors, or The Chase. From these musical elements, concert participants create their own micro-stories. The musicians then bring them to life with sounds, performing selected fragments in the order determined by the children. In some parts, the audience also actively participates."
+        },
+        "uk": {
+          "title": "Сімейний концерт - Домінобайки",
+          "description": "Запрошуємо дітей (4+ роки) разом з батьками на сімейний концерт «Домінобайки», який відбудеться в суботу 3 жовтня о 12:00 у варшавському районі Вола. Нас прийматиме OKiE SM WOLA - Центр культури та освіти житлово-кооперативу Вола за адресою вул. Повстанців Сілезьких 108А. «Домінобайки» Ярослава Сівінського для фортепіано, ударних, шоумена та дитячої аудиторії - це незвичайний твір, що складається з 15 абстрактних, казкових мініатюр, таких як: Лицар Атаназій, Срібні Горошки, Космічна Ракета, Двері чи Перегони. З цих музичних елементів учасники концерту створюють власні мікрооповідання. Потім музиканти оживляють їх звуками, виконуючи вибрані фрагменти в порядку, визначеному дітьми. У деяких частинах активну участь також бере публіка."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-08T11:04:46.196118+00:00"
+    },
+    "zielone-s-siedztwo-ogr-d-spo-eczny-w-azienkach-kr-lewskich-2026-09-08T18:00:00+02:00": {
+      "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
+      "date": "2026-09-08T18:00:00+02:00",
+      "end_date": "2026-09-08T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Stwórz wspólnie z nami ogród społeczny Łazienek Królewskich — przestrzeń aktywnego działania, edukacji ekologicznej oraz integracji lokalnej społeczności! Zapisy do 3 lipca 2026 r.: Formularz zgłoszeniowy należy przesłać na adres e-mail: ogrod.spoleczny@lazienki-krolewskie.pl Formularz online Do 6 lipca (włącznie) potwierdzimy udział w projekcie. Decyduje kolejność zgłoszeń. Ekspertka ogrodnictwa: Zuzanna Molak — ogrodniczka, przyrodniczka, edukatorka. Absolwentka biologii i ogrodnictwa na SGGW. Obecnie edukuje dzieci i dorosłych w zakresie przyrody i ogrodnictwa. Fanpage: Facebook O projekcie: Inicjatywa skierowana do mieszkańców Warszawy — rodzin z dziećmi, młodzieży i dorosłych, w tym osób o szczególnych potrzebach. Uczestnicy aktywnie zaangażują się w tworzenie i pielęgnację ogrodu działającego jako obieg zamknięty: powstanie kompostownik, wprowadzimy rozwiązania wspierające retencję wody, posadzimy rośliny użytkowe, zioła oraz gatunki miododajne wspierające dzikie zapylacze, co wzmocni lokalną bioróżnorodność. Projekt ma na celu poprawę jakości środowiska, budowanie relacji społecznych i poczucia współodpowiedzialności za dziedzictwo przyrodnicze i kulturowe Łazienek Królewskich. W ramach przedsięwzięcia realizowane będą liczne działania edukacyjne i warsztaty DIY. Projekt obejmuje: Cykl spotkań edukacyjnych prowadzonych przez ekspertów z zakresu przyrody, ogrodnictwa, dendrologii oraz historii Łazienek Królewskich. Wspólne projektowanie ogrodu społecznego oraz dobór roślin z uwzględnieniem funkcji użytkowych i ekologicznych. Zakładanie ogrodu: nasadzenia roślin użytkowych, ziół i gatunków miododajnych. Utworzenie kompostownika oraz wdrożenie rozwiązań wspierających retencję wody. Warsztaty praktyczne typu DIY, m.in. tworzenie ceramicznych tabliczek opisujących rośliny. Regularne spotkania uczestników sprzyjające integracji, wymianie doświadczeń i budowaniu poczucia wspólnoty. Spotkanie podsumowujące projekt, obejmujące ewaluację działań oraz wzmocnienie trwałości inicjatywy. Harmonogram spotkań (spotkania z ekspertką ds. ogrodnictwa w Nowej Palmiarni): 9 lipca, godz. 18:00–20:00 — Spotkanie otwierające 16 lipca, godz. 18:00–20:00 — Kompost 23 lipca, godz. 18:00–20:00 — Uprawa warzyw cz. 1 25 lipca, godz. 15:00–16:30 — Spacer \"Dziko rosnące rośliny jadalne i lecznicze\" 6 sierpnia, godz. 18:00–20:00 — Uprawa warzyw cz. 2 13 sierpnia, godz. 18:00–20:00 — Permakultura 20 sierpnia, godz. 18:00–20:00 — Miejskie ogrodnictwo 1 września, godz. 18:00–20:00 — Bioróżnorodność 8 września, godz. 18:00–20:00 — Woda w ogrodzie 15 września, godz. 18:00–20:00 — Krzewy owocowe 1 października, godz. 18:00–20:00 — Naturalne metody ochrony roślin 8 października, godz. 18:00–20:00 — Bank nasion 15 października, godz. 18:00–20:00 Warsztaty tworzenia ceramicznych tabliczek (Nowa Palmiarnia): 21 lipca, godz. 18:00–20:00 — I część 30 lipca, godz. 18:00–20:00 — II część Spacery po łazienkowskich ogrodach (start: Nowa Palmiarnia): 27 lipca, godz. 17:00–18:30 — \"Zwierzęta Łazienek Królewskich\" 3 sierpnia, godz. 17:00–18:30 — \"Drzewa Łazienek Królewskich\" 7 września, godz. 17:00–18:30 — \"Historia ogrodów Łazienek Królewskich\" 14 września, godz. 17:00–18:30 — \"Zieleń niska Łazienek Królewskich\" Uwaga: poszczególne daty mogą ulec zmianie; o zmianach będziemy informować zapisanych uczestników. Projekt sfinansowano ze środków Fundacji Veolia Polska.",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Ff5856f8b-dcef-4f40-b0ee-04f9b39c6fba.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/f5856f8b-dcef-4f40-b0ee-04f9b39c6fba",
+      "source": "gojammin.com",
+      "district": "Śródmieście",
+      "location": {
+        "name": "Agrykola 1, 00-460 Warszawa, Poland",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/f5856f8b-dcef-4f40-b0ee-04f9b39c6fba",
+      "scrapped_timestamp": "2026-09-08T11:04:39.709347+00:00",
+      "category": "Nature & Wildlife",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
+          "description": "Stwórz wspólnie z nami ogród społeczny Łazienek Królewskich — przestrzeń aktywnego działania, edukacji ekologicznej oraz integracji lokalnej społeczności! Zapisy do 3 lipca 2026 r.: Formularz zgłoszeniowy należy przesłać na adres e-mail: ogrod.spoleczny@lazienki-krolewskie.pl Formularz online Do 6 lipca (włącznie) potwierdzimy udział w projekcie. Decyduje kolejność zgłoszeń. Ekspertka ogrodnictwa: Zuzanna Molak — ogrodniczka, przyrodniczka, edukatorka. Absolwentka biologii i ogrodnictwa na SGGW. Obecnie edukuje dzieci i dorosłych w zakresie przyrody i ogrodnictwa. Fanpage: Facebook O projekcie: Inicjatywa skierowana do mieszkańców Warszawy — rodzin z dziećmi, młodzieży i dorosłych, w tym osób o szczególnych potrzebach. Uczestnicy aktywnie zaangażują się w tworzenie i pielęgnację ogrodu działającego jako obieg zamknięty: powstanie kompostownik, wprowadzimy rozwiązania wspierające retencję wody, posadzimy rośliny użytkowe, zioła oraz gatunki miododajne wspierające dzikie zapylacze, co wzmocni lokalną bioróżnorodność. Projekt ma na celu poprawę jakości środowiska, budowanie relacji społecznych i poczucia współodpowiedzialności za dziedzictwo przyrodnicze i kulturowe Łazienek Królewskich. W ramach przedsięwzięcia realizowane będą liczne działania edukacyjne i warsztaty DIY. Projekt obejmuje: Cykl spotkań edukacyjnych prowadzonych przez ekspertów z zakresu przyrody, ogrodnictwa, dendrologii oraz historii Łazienek Królewskich. Wspólne projektowanie ogrodu społecznego oraz dobór roślin z uwzględnieniem funkcji użytkowych i ekologicznych. Zakładanie ogrodu: nasadzenia roślin użytkowych, ziół i gatunków miododajnych. Utworzenie kompostownika oraz wdrożenie rozwiązań wspierających retencję wody. Warsztaty praktyczne typu DIY, m.in. tworzenie ceramicznych tabliczek opisujących rośliny. Regularne spotkania uczestników sprzyjające integracji, wymianie doświadczeń i budowaniu poczucia wspólnoty. Spotkanie podsumowujące projekt, obejmujące ewaluację działań oraz wzmocnienie trwałości inicjatywy. Harmonogram spotkań (spotkania z ekspertką ds. ogrodnictwa w Nowej Palmiarni): 9 lipca, godz. 18:00–20:00 — Spotkanie otwierające 16 lipca, godz. 18:00–20:00 — Kompost 23 lipca, godz. 18:00–20:00 — Uprawa warzyw cz. 1 25 lipca, godz. 15:00–16:30 — Spacer \"Dziko rosnące rośliny jadalne i lecznicze\" 6 sierpnia, godz. 18:00–20:00 — Uprawa warzyw cz. 2 13 sierpnia, godz. 18:00–20:00 — Permakultura 20 sierpnia, godz. 18:00–20:00 — Miejskie ogrodnictwo 1 września, godz. 18:00–20:00 — Bioróżnorodność 8 września, godz. 18:00–20:00 — Woda w ogrodzie 15 września, godz. 18:00–20:00 — Krzewy owocowe 1 października, godz. 18:00–20:00 — Naturalne metody ochrony roślin 8 października, godz. 18:00–20:00 — Bank nasion 15 października, godz. 18:00–20:00 Warsztaty tworzenia ceramicznych tabliczek (Nowa Palmiarnia): 21 lipca, godz. 18:00–20:00 — I część 30 lipca, godz. 18:00–20:00 — II część Spacery po łazienkowskich ogrodach (start: Nowa Palmiarnia): 27 lipca, godz. 17:00–18:30 — \"Zwierzęta Łazienek Królewskich\" 3 sierpnia, godz. 17:00–18:30 — \"Drzewa Łazienek Królewskich\" 7 września, godz. 17:00–18:30 — \"Historia ogrodów Łazienek Królewskich\" 14 września, godz. 17:00–18:30 — \"Zieleń niska Łazienek Królewskich\" Uwaga: poszczególne daty mogą ulec zmianie; o zmianach będziemy informować zapisanych uczestników. Projekt sfinansowano ze środków Fundacji Veolia Polska."
+        },
+        "en": {
+          "title": "Green Neighborhood - Community Garden in the Royal Łazienki",
+          "description": "Join us in creating a community garden in the Royal Łazienki — a space for active engagement, ecological education, and integration of the local community! Registration is open until July 3, 2026: Please send the application form to the email address: ogrod.spoleczny@lazienki-krolewskie.pl. Online form. By July 6 (inclusive), we will confirm participation in the project. Registration is on a first-come, first-served basis. Gardening expert: Zuzanna Molak — gardener, naturalist, educator. Graduate in biology and horticulture from SGGW. Currently educating children and adults about nature and gardening. Fanpage: Facebook. About the project: This initiative is aimed at the residents of Warsaw — families with children, youth, and adults, including those with special needs. Participants will actively engage in the creation and maintenance of the garden."
+        },
+        "uk": {
+          "title": "Зелене сусідство - громадський сад у Лазенках Королівських",
+          "description": "Створіть разом з нами громадський сад Лазенок Королівських — простір активних дій, екологічної освіти та інтеграції місцевої громади! Реєстрація до 3 липня 2026 року: Форму заявки потрібно надіслати на електронну адресу: ogrod.spoleczny@lazienki-krolewskie.pl Онлайн форма До 6 липня (включно) ми підтвердимо участь у проекті. Визначає порядок подачі заявок. Експертка садівництва: Зузанна Молак — садівниця, природознавиця, освітянка. Випускниця біології та садівництва на SGGW. Наразі навчає дітей та дорослих у сфері природи та садівництва. Фансторінка: Facebook Про проект: Ініціатива спрямована на мешканців Варшави — родини з дітьми, молодь та дорослих, у тому числі осіб з особливими потребами. Учасники активно залучаться до створення та догляду за садом."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-09-08T11:04:46.196140+00:00"
     }
   }
 }

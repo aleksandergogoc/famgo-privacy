@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:09:57.417283+00:00",
+  "updated_at": "2026-09-08T10:45:43.809945+00:00",
   "events": {
     "biegaj-po-woli-bieg-nocny-2026-09-19": {
       "scrapped_timestamp": "2026-06-23T18:57:17.708340+00:00",
@@ -5683,170 +5683,6 @@
       "district": "Żoliborz",
       "updated_at": "2026-08-28T19:09:30.086352+00:00"
     },
-    "dzie-otwarty-w-wck-anin-2026-09-07T16:00:00+02:00": {
-      "title": "Dzień Otwarty w WCK Anin",
-      "date": "2026-09-07T16:00:00+02:00",
-      "end_date": "2026-09-07T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Dzień otwarty w WCK Anin - odkryj swoją pasję i zapisz się na zajęcia.",
-      "url": "https://www.wck-wawer.pl/anin/aktualnosci/archiwum-2026/dzien-otwarty-w-wck-anin",
-      "source": "wck-wawer.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Wawerskie Centrum Kultury, Filia Anin",
-        "district": "Wawer"
-      },
-      "image": "https://www.wck-wawer.pl/assets/cache/images/aktualnosci-anin/2026/IX%202026%20WCK%20Anin%20B1%20%20%281%29%281%29-684x-053.jpg",
-      "scrapped_url": "https://www.wck-wawer.pl/anin/aktualnosci/archiwum-2026/dzien-otwarty-w-wck-anin",
-      "scrapped_timestamp": "2026-08-31T13:30:38.636487+00:00",
-      "category": "Family Fun",
-      "translations": {
-        "pl": {
-          "title": "Dzień Otwarty w WCK Anin",
-          "description": "Dzień otwarty w WCK Anin - odkryj swoją pasję i zapisz się na zajęcia."
-        },
-        "en": {
-          "title": "Open Day at WCK Anin",
-          "description": "Open day at WCK Anin - discover your passion and sign up for classes."
-        },
-        "uk": {
-          "title": "День відкритих дверей у WCK Anin",
-          "description": "День відкритих дверей у WCK Anin - відкрийте свою пристрасть і запишіться на заняття."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wawer",
-      "updated_at": "2026-08-31T13:38:42.688749+00:00"
-    },
-    "dzie-otwarty-w-dk-wygoda-2026-09-07T17:00:00+02:00": {
-      "title": "Dzień otwarty w DK „Wygoda”",
-      "date": "2026-09-07T17:00:00+02:00",
-      "end_date": "2026-09-07T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy całe rodziny na dzień otwarty, podczas którego przedstawimy ofertę zajęć na nowy sezon i uruchomimy zapisy.",
-      "url": "https://dkwygoda.waw.pl/event/dzien-otwarty-w-dk-wygoda-3/",
-      "source": "dkwygoda.waw.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Dom Kultury Wygoda · ul. Koniecpolska 14",
-        "district": "Rembertów"
-      },
-      "image": "https://dkwygoda.waw.pl/wp-content/uploads/2026/08/DOM-KULTURY-WYGODA.jpg",
-      "scrapped_url": "https://dkwygoda.waw.pl/event/dzien-otwarty-w-dk-wygoda-3/",
-      "scrapped_timestamp": "2026-08-31T13:30:41.346196+00:00",
-      "category": "Family Fun",
-      "translations": {
-        "pl": {
-          "title": "Dzień otwarty w DK „Wygoda”",
-          "description": "Zapraszamy całe rodziny na dzień otwarty, podczas którego przedstawimy ofertę zajęć na nowy sezon i uruchomimy zapisy."
-        },
-        "en": {
-          "title": "Open Day at the Cultural Center 'Wygoda'",
-          "description": "We invite whole families to an open day, during which we will present the program of activities for the new season and start registrations."
-        },
-        "uk": {
-          "title": "Відкритий день у ДК «Вигода»",
-          "description": "Запрошуємо всі родини на відкритий день, під час якого представимо пропозицію занять на новий сезон і розпочнемо запис."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Rembertów",
-      "updated_at": "2026-08-31T13:38:42.688767+00:00"
-    },
-    "zaj-cia-rytmiczne-dla-dzieci-w-wieku-10-20-miesi-cy-2026-09-08T10:00:00+02:00": {
-      "title": "Zajęcia rytmiczne dla dzieci w wieku 10-20 miesięcy",
-      "date": "2026-09-08T10:00:00+02:00",
-      "end_date": "2026-09-08T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Program obejmuje elementy logopedyczne, jogę oraz różne gatunki muzyki, od klasycznej po współczesne standardy. Celem zajęć jest też rozwijanie podstawowych postaw społecznych: bycia razem, wspólnej zabawy, wzajemnego szacunku. Projekt realizowany z Budżetu Obywatelskiego. Prosimy o parkowanie na ul. Kleeberga. Kontakt: 519 047 136.",
-      "url": "https://bemowskie.pl/wydarzenia/zajcia-rytmiczne-dla-dzieci-w-wieku-10-20-miesicy-8-09/",
-      "source": "bemowskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 1
-      },
-      "location": {
-        "name": "Bemowskie Centrum Kultury, Miejsce Aktywności Lokalnej „Boernerowo\" · ul. Sobczaka 5",
-        "district": "Bemowo"
-      },
-      "image": "https://bemowskie.pl/wp-content/uploads/2026/05/rytmika.png",
-      "scrapped_url": "https://bemowskie.pl/wydarzenia/zajcia-rytmiczne-dla-dzieci-w-wieku-10-20-miesicy-8-09/",
-      "scrapped_timestamp": "2026-08-31T13:30:44.656472+00:00",
-      "translations": {
-        "pl": {
-          "title": "Zajęcia rytmiczne dla dzieci w wieku 10-20 miesięcy",
-          "description": "Program obejmuje elementy logopedyczne, jogę oraz różne gatunki muzyki, od klasycznej po współczesne standardy. Celem zajęć jest też rozwijanie podstawowych postaw społecznych: bycia razem, wspólnej zabawy, wzajemnego szacunku. Projekt realizowany z Budżetu Obywatelskiego. Prosimy o parkowanie na ul. Kleeberga. Kontakt: 519 047 136."
-        },
-        "en": {
-          "title": "Rhythmic Classes for Children Aged 10-20 Months",
-          "description": "The program includes elements of speech therapy, yoga, and various genres of music, from classical to contemporary standards. The aim of the classes is also to develop basic social attitudes: being together, playing together, and mutual respect. The project is funded by the Civic Budget. Please park on Kleeberga Street. Contact: 519 047 136."
-        },
-        "uk": {
-          "title": "Ритмічні заняття для дітей віком 10-20 місяців",
-          "description": "Програма включає елементи логопедії, йоги та різні жанри музики, від класичної до сучасних стандартів. Метою занять є також розвиток основних соціальних навичок: бути разом, спільно грати, взаємна повага. Проект реалізується з Громадського бюджету. Просимо паркуватися на вул. Кліберга. Контакт: 519 047 136."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-08-31T13:38:42.688788+00:00"
-    },
-    "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-09-08T11:00:00+02:00": {
-      "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-      "date": "2026-09-08T11:00:00+02:00",
-      "end_date": "2026-09-08T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan.",
-      "url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#08-09",
-      "source": "bielany.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
-        "district": "Bielany"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#08-09",
-      "scrapped_timestamp": "2026-08-31T13:30:47.579283+00:00",
-      "translations": {
-        "pl": {
-          "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-          "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan."
-        },
-        "en": {
-          "title": "On the Carpet – Neighborhood Toddler Zone",
-          "description": "Every Tuesday, we roll out the carpet and open our space for spontaneous neighborhood gatherings for the youngest children and parents from Bielany."
-        },
-        "uk": {
-          "title": "Ми на килимку – сусідська зона для малюків",
-          "description": "Щовівторка ми розкриваємо килим і відкриваємо наш простір для спонтанних сусідських зустрічей для найменших дітей та батьків з Білянів."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bielany",
-      "updated_at": "2026-08-31T13:38:42.688807+00:00"
-    },
     "tajemnice-drzew-spotkania-przyrodnicze-2026-09-08T14:00:00+02:00": {
       "title": "Tajemnice drzew. Spotkania przyrodnicze",
       "date": "2026-09-08T14:00:00+02:00",
@@ -10412,88 +10248,6 @@
       "district": "Wawer",
       "updated_at": "2026-09-01T11:52:05.659890+00:00"
     },
-    "bezp-atne-zaj-cia-taneczne-dla-dzieci-4-8-lat-z-niepe-nosprawno-ciami-2026-09-07T17:00:00+02:00": {
-      "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-      "date": "2026-09-07T17:00:00+02:00",
-      "end_date": "2026-09-07T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-09-01T11:51:37.389011+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Children Aged 4-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District. SCHEDULE: Mondays 5:00 PM - dance classes for children aged 4-8 Mondays 6:00 PM - dance classes for parents with children aged 3-8 Thursdays 12:00 PM - solo Latino Thursdays 1:00 PM - corrective gymnastics Location: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor) Registration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для дітей 4-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття частково фінансуються з коштів Району Бемово. ГРАФІК: Понеділки 17:00 - танцювальні заняття для дітей 4-8 років Понеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років Четверги 12:00 - латина соло Четверги 13:00 - гімнастика для покращення фізичної форми Локація: MAL Спотикальня, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх) Запис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-09-01T11:52:05.659959+00:00"
-    },
-    "bezp-atne-zaj-cia-taneczne-dla-rodzic-w-z-dzie-mi-3-8-lat-z-niepe-nosprawno-ciami-2026-09-07T18:00:00+02:00": {
-      "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-      "date": "2026-09-07T18:00:00+02:00",
-      "end_date": "2026-09-07T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-09-01T11:51:42.670970+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Parents with Children Aged 3-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District. SCHEDULE: Mondays 5:00 PM - dance classes for children aged 4-8 Mondays 6:00 PM - dance classes for parents with children aged 3-8 Thursdays 12:00 PM - solo Latino Thursdays 1:00 PM - corrective gymnastics Location: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor) Registration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для батьків з дітьми 3-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово. ГАРМОНІЯ: Понеділки 17:00 - танцювальні заняття для дітей 4-8 років Понеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років Четверги 12:00 - латино соло Четверги 13:00 - гімнастика для покращення фізичної форми Локація: MAL Спотикальня, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх) Запис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-09-01T11:52:05.659994+00:00"
-    },
     "dziesi-lat-spotka-z-kultur-bok-g-bocka-66-zaprasza-na-jubileuszowy-weekend-2026-09-11T19:00:00+02:00": {
       "title": "Dziesięć lat spotkań z kulturą. BOK Głębocka 66 zaprasza na jubileuszowy weekend",
       "date": "2026-09-11T19:00:00+02:00",
@@ -10713,49 +10467,6 @@
       },
       "district": "Ochota",
       "updated_at": "2026-09-02T11:19:01.845856+00:00"
-    },
-    "zielone-s-siedztwo-ogr-d-spo-eczny-w-azienkach-kr-lewskich-2026-09-07T17:00:00+02:00": {
-      "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
-      "date": "2026-09-07T17:00:00+02:00",
-      "end_date": "2026-09-07T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Stwórz wspólnie z nami ogród społeczny Łazienek Królewskich — przestrzeń aktywnego działania, edukacji ekologicznej oraz integracji lokalnej społeczności! Zapisy do 3 lipca 2026 r.: Formularz zgłoszeniowy należy przesłać na adres e-mail: ogrod.spoleczny@lazienki-krolewskie.pl Formularz online Do 6 lipca (włącznie) potwierdzimy udział w projekcie. Decyduje kolejność zgłoszeń. Ekspertka ogrodnictwa: Zuzanna Molak — ogrodniczka, przyrodniczka, edukatorka. Absolwentka biologii i ogrodnictwa na SGGW. Obecnie edukuje dzieci i dorosłych w zakresie przyrody i ogrodnictwa. Fanpage: Facebook O projekcie: Inicjatywa skierowana do mieszkańców Warszawy — rodzin z dziećmi, młodzieży i dorosłych, w tym osób o szczególnych potrzebach. Uczestnicy aktywnie zaangażują się w tworzenie i pielęgnację ogrodu działającego jako obieg zamknięty: powstanie kompostownik, wprowadzimy rozwiązania wspierające retencję wody, posadzimy rośliny użytkowe, zioła oraz gatunki miododajne wspierające dzikie zapylacze, co wzmocni lokalną bioróżnorodność. Projekt ma na celu poprawę jakości środowiska, budowanie relacji społecznych i poczucia współodpowiedzialności za dziedzictwo przyrodnicze i kulturowe Łazienek Królewskich. W ramach przedsięwzięcia realizowane będą liczne działania edukacyjne i warsztaty DIY. Projekt obejmuje: Cykl spotkań edukacyjnych prowadzonych przez ekspertów z zakresu przyrody, ogrodnictwa, dendrologii oraz historii Łazienek Królewskich. Wspólne projektowanie ogrodu społecznego oraz dobór roślin z uwzględnieniem funkcji użytkowych i ekologicznych. Zakładanie ogrodu: nasadzenia roślin użytkowych, ziół i gatunków miododajnych. Utworzenie kompostownika oraz wdrożenie rozwiązań wspierających retencję wody. Warsztaty praktyczne typu DIY, m.in. tworzenie ceramicznych tabliczek opisujących rośliny. Regularne spotkania uczestników sprzyjające integracji, wymianie doświadczeń i budowaniu poczucia wspólnoty. Spotkanie podsumowujące projekt, obejmujące ewaluację działań oraz wzmocnienie trwałości inicjatywy. Harmonogram spotkań (spotkania z ekspertką ds. ogrodnictwa w Nowej Palmiarni): 9 lipca, godz. 18:00–20:00 — Spotkanie otwierające 16 lipca, godz. 18:00–20:00 — Kompost 23 lipca, godz. 18:00–20:00 — Uprawa warzyw cz. 1 25 lipca, godz. 15:00–16:30 — Spacer \"Dziko rosnące rośliny jadalne i lecznicze\" 6 sierpnia, godz. 18:00–20:00 — Uprawa warzyw cz. 2 13 sierpnia, godz. 18:00–20:00 — Permakultura 20 sierpnia, godz. 18:00–20:00 — Miejskie ogrodnictwo 1 września, godz. 18:00–20:00 — Bioróżnorodność 8 września, godz. 18:00–20:00 — Woda w ogrodzie 15 września, godz. 18:00–20:00 — Krzewy owocowe 1 października, godz. 18:00–20:00 — Naturalne metody ochrony roślin 8 października, godz. 18:00–20:00 — Bank nasion 15 października, godz. 18:00–20:00 Warsztaty tworzenia ceramicznych tabliczek (Nowa Palmiarnia): 21 lipca, godz. 18:00–20:00 — I część 30 lipca, godz. 18:00–20:00 — II część Spacery po łazienkowskich ogrodach (start: Nowa Palmiarnia): 27 lipca, godz. 17:00–18:30 — \"Zwierzęta Łazienek Królewskich\" 3 sierpnia, godz. 17:00–18:30 — \"Drzewa Łazienek Królewskich\" 7 września, godz. 17:00–18:30 — \"Historia ogrodów Łazienek Królewskich\" 14 września, godz. 17:00–18:30 — \"Zieleń niska Łazienek Królewskich\" Uwaga: poszczególne daty mogą ulec zmianie; o zmianach będziemy informować zapisanych uczestników. Projekt sfinansowano ze środków Fundacji Veolia Polska.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Ff5856f8b-dcef-4f40-b0ee-04f9b39c6fba.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/f5856f8b-dcef-4f40-b0ee-04f9b39c6fba",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/f5856f8b-dcef-4f40-b0ee-04f9b39c6fba",
-      "scrapped_timestamp": "2026-09-02T11:18:54.897248+00:00",
-      "category": "Nature & Wildlife",
-      "additional_categories": [
-        "Educational"
-      ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "translations": {
-        "pl": {
-          "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
-          "description": "Stwórz wspólnie z nami ogród społeczny Łazienek Królewskich — przestrzeń aktywnego działania, edukacji ekologicznej oraz integracji lokalnej społeczności! Zapisy do 3 lipca 2026 r.: Formularz zgłoszeniowy należy przesłać na adres e-mail: ogrod.spoleczny@lazienki-krolewskie.pl Formularz online Do 6 lipca (włącznie) potwierdzimy udział w projekcie. Decyduje kolejność zgłoszeń. Ekspertka ogrodnictwa: Zuzanna Molak — ogrodniczka, przyrodniczka, edukatorka. Absolwentka biologii i ogrodnictwa na SGGW. Obecnie edukuje dzieci i dorosłych w zakresie przyrody i ogrodnictwa. Fanpage: Facebook O projekcie: Inicjatywa skierowana do mieszkańców Warszawy — rodzin z dziećmi, młodzieży i dorosłych, w tym osób o szczególnych potrzebach. Uczestnicy aktywnie zaangażują się w tworzenie i pielęgnację ogrodu działającego jako obieg zamknięty: powstanie kompostownik, wprowadzimy rozwiązania wspierające retencję wody, posadzimy rośliny użytkowe, zioła oraz gatunki miododajne wspierające dzikie zapylacze, co wzmocni lokalną bioróżnorodność. Projekt ma na celu poprawę jakości środowiska, budowanie relacji społecznych i poczucia współodpowiedzialności za dziedzictwo przyrodnicze i kulturowe Łazienek Królewskich. W ramach przedsięwzięcia realizowane będą liczne działania edukacyjne i warsztaty DIY. Projekt obejmuje: Cykl spotkań edukacyjnych prowadzonych przez ekspertów z zakresu przyrody, ogrodnictwa, dendrologii oraz historii Łazienek Królewskich. Wspólne projektowanie ogrodu społecznego oraz dobór roślin z uwzględnieniem funkcji użytkowych i ekologicznych. Zakładanie ogrodu: nasadzenia roślin użytkowych, ziół i gatunków miododajnych. Utworzenie kompostownika oraz wdrożenie rozwiązań wspierających retencję wody. Warsztaty praktyczne typu DIY, m.in. tworzenie ceramicznych tabliczek opisujących rośliny. Regularne spotkania uczestników sprzyjające integracji, wymianie doświadczeń i budowaniu poczucia wspólnoty. Spotkanie podsumowujące projekt, obejmujące ewaluację działań oraz wzmocnienie trwałości inicjatywy. Harmonogram spotkań (spotkania z ekspertką ds. ogrodnictwa w Nowej Palmiarni): 9 lipca, godz. 18:00–20:00 — Spotkanie otwierające 16 lipca, godz. 18:00–20:00 — Kompost 23 lipca, godz. 18:00–20:00 — Uprawa warzyw cz. 1 25 lipca, godz. 15:00–16:30 — Spacer \"Dziko rosnące rośliny jadalne i lecznicze\" 6 sierpnia, godz. 18:00–20:00 — Uprawa warzyw cz. 2 13 sierpnia, godz. 18:00–20:00 — Permakultura 20 sierpnia, godz. 18:00–20:00 — Miejskie ogrodnictwo 1 września, godz. 18:00–20:00 — Bioróżnorodność 8 września, godz. 18:00–20:00 — Woda w ogrodzie 15 września, godz. 18:00–20:00 — Krzewy owocowe 1 października, godz. 18:00–20:00 — Naturalne metody ochrony roślin 8 października, godz. 18:00–20:00 — Bank nasion 15 października, godz. 18:00–20:00 Warsztaty tworzenia ceramicznych tabliczek (Nowa Palmiarnia): 21 lipca, godz. 18:00–20:00 — I część 30 lipca, godz. 18:00–20:00 — II część Spacery po łazienkowskich ogrodach (start: Nowa Palmiarnia): 27 lipca, godz. 17:00–18:30 — \"Zwierzęta Łazienek Królewskich\" 3 sierpnia, godz. 17:00–18:30 — \"Drzewa Łazienek Królewskich\" 7 września, godz. 17:00–18:30 — \"Historia ogrodów Łazienek Królewskich\" 14 września, godz. 17:00–18:30 — \"Zieleń niska Łazienek Królewskich\" Uwaga: poszczególne daty mogą ulec zmianie; o zmianach będziemy informować zapisanych uczestników. Projekt sfinansowano ze środków Fundacji Veolia Polska."
-        },
-        "en": {
-          "title": "Green Neighborhood - Community Garden in the Royal Łazienki",
-          "description": "Join us in creating a community garden in the Royal Łazienki — a space for active engagement, ecological education, and integration of the local community! Registration is open until July 3, 2026: Please send the application form to the email address: ogrod.spoleczny@lazienki-krolewskie.pl. Online form. By July 6 (inclusive), we will confirm participation in the project. Registration is on a first-come, first-served basis. Gardening expert: Zuzanna Molak — gardener, naturalist, educator. Graduate in biology and horticulture from SGGW. Currently educating children and adults about nature and gardening. Fanpage: Facebook. About the project: This initiative is aimed at the residents of Warsaw — families with children, youth, and adults, including those with special needs. Participants will actively engage in the creation and maintenance of the garden."
-        },
-        "uk": {
-          "title": "Зелене сусідство - громадський сад у Лазенках Королівських",
-          "description": "Створіть разом з нами громадський сад Лазенок Королівських — простір активних дій, екологічної освіти та інтеграції місцевої громади! Реєстрація до 3 липня 2026 року: Форму заявки потрібно надіслати на електронну адресу: ogrod.spoleczny@lazienki-krolewskie.pl Онлайн форма До 6 липня (включно) ми підтвердимо участь у проекті. Визначає порядок подачі заявок. Експертка садівництва: Зузанна Молак — садівниця, природознавиця, освітянка. Випускниця біології та садівництва на SGGW. Наразі навчає дітей та дорослих у сфері природи та садівництва. Фансторінка: Facebook Про проект: Ініціатива спрямована на мешканців Варшави — родини з дітьми, молодь та дорослих, у тому числі осіб з особливими потребами. Учасники активно залучаться до створення та догляду за садом."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "updated_at": "2026-09-02T11:19:01.845877+00:00"
     },
     "dzieci-cy-wrzesie-w-parku-pi-ciu-si-str-2026-09-30T10:00:00+02:00": {
       "title": "Dziecięcy Wrzesień w Parku Pięciu Sióstr",
@@ -12208,47 +11919,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-09-05T10:26:42.475010+00:00"
     },
-    "turlanki-18-msc-2026-09-08T09:30:00+02:00": {
-      "title": "Turlanki (18 msc +)",
-      "date": "2026-09-08T09:30:00+02:00",
-      "end_date": "2026-09-08T09:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na regularne zajęcia dla dzieci w wieku od 18 miesiąca życia (do 2 lat) , razem z opiekunem. :) Turlanki, bo tak nazywają się nasze sensoryczno logiczno rozwijające zajęcia startują 8.09 o 9.30 w Fundacji Pomocownia. Zajęcia odbywają się cyklicznie co wtorki i zapisy przyjmujemy na cały sezon/rok. Zostało nam jeszcze kilka miejsc. :) Zgłoszenia (razem z wiekiem dziecka) przyjmujemy na adres >> zapisydladzieci@gmail.com (nie przyjmujemy dzieci bez zapisu) *Zajęcia w Fundacji są bezpłatne, realizowane z Projektu Pomocownia dla Rodzin 2. Projekt jest współfinansowany przez miasto stołeczne Warszawa",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0930.1788519972.webp",
-      "location": {
-        "name": "ul. Staszica 7/9B",
-        "district": "Wola"
-      },
-      "url": "https://waw4free.pl/wydarzenie-158292-turlanki-18-msc",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://waw4free.pl/wydarzenie-158292-turlanki-18-msc",
-      "scrapped_timestamp": "2026-09-05T10:26:00.459134+00:00",
-      "category": "Sensory Play",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "translations": {
-        "pl": {
-          "title": "Turlanki (18 msc +)",
-          "description": "Zapraszamy na regularne zajęcia dla dzieci w wieku od 18 miesiąca życia (do 2 lat) , razem z opiekunem. :) Turlanki, bo tak nazywają się nasze sensoryczno logiczno rozwijające zajęcia startują 8.09 o 9.30 w Fundacji Pomocownia. Zajęcia odbywają się cyklicznie co wtorki i zapisy przyjmujemy na cały sezon/rok. Zostało nam jeszcze kilka miejsc. :) Zgłoszenia (razem z wiekiem dziecka) przyjmujemy na adres >> zapisydladzieci@gmail.com (nie przyjmujemy dzieci bez zapisu) *Zajęcia w Fundacji są bezpłatne, realizowane z Projektu Pomocownia dla Rodzin 2. Projekt jest współfinansowany przez miasto stołeczne Warszawa"
-        },
-        "en": {
-          "title": "Rolling Activities (18 months +)",
-          "description": "We invite you to regular classes for children aged 18 months to 2 years, together with a caregiver. :) Rolling Activities, as our sensory and logic development classes are called, start on September 8th at 9:30 AM at the Pomocownia Foundation. Classes are held every Tuesday, and we are accepting registrations for the entire season/year. We still have a few spots left. :) Please send your applications (along with the child's age) to >> zapisydladzieci@gmail.com (we do not accept children without registration). *Classes at the Foundation are free of charge, implemented as part of the Pomocownia for Families 2 Project, which is co-financed by the capital city of Warsaw."
-        },
-        "uk": {
-          "title": "Турланки (18 міс +)",
-          "description": "Запрошуємо на регулярні заняття для дітей віком від 18 місяців (до 2 років), разом з опікуном. :) Турланки, бо так називаються наші сенсорні, логічні та розвиваючі заняття, стартують 8.09 о 9:30 у Фундації Помічниця. Заняття відбуваються циклічно щовівторка, і ми приймаємо заявки на весь сезон/рік. У нас залишилося ще кілька місць. :) Заявки (разом з віком дитини) приймаємо на адресу >> zapisydladzieci@gmail.com (не приймаємо дітей без запису) *Заняття у Фундації безкоштовні, реалізуються в рамках Проекту Помічниця для Сімей 2. Проект співфінансується містом столичним Варшава."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wola",
-      "updated_at": "2026-09-05T10:26:42.475825+00:00"
-    },
     "rodzinne-warsztaty-fotograficzne-pt-cyjanotypia-portret-2026-09-13T11:00:00+02:00": {
       "title": "RODZINNE WARSZTATY FOTOGRAFICZNE pt. \"Cyjanotypia - PORTRET\"",
       "date": "2026-09-13T11:00:00+02:00",
@@ -12373,44 +12043,6 @@
         "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=6&back=1&idw=126&idg=20"
       },
       "updated_at": "2026-09-05T10:26:42.475947+00:00"
-    },
-    "dzie-otwarty-w-wck-filia-anin-2026-09-07T16:00:00+02:00": {
-      "title": "Dzień otwarty w WCK Filia Anin",
-      "date": "2026-09-07T16:00:00+02:00",
-      "end_date": "2026-09-07T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na Dzień Otwarty do WCK Anin!",
-      "image": "https://cdn.um.warszawa.pl/documents/47611/152107072/Miniaturka+-+Dzie%C5%84+otwarty%2C+wykona%C5%82a+Natalia+Koperkiewicz-Gr%C4%85dek.png/00d5d276-e61a-f1ad-a464-65958a8bdd0f?version=1.0&t=1787655209833&imagePreview=1",
-      "url": "https://wawer.um.warszawa.pl/-/dzien-otwarty-w-wck-filia-anin",
-      "source": "um.warszawa.pl",
-      "district": "Wawer",
-      "location": {
-        "name": "WCK Filia Anin, V Poprzeczna 13, 04-611 Warszawa",
-        "district": "Wawer"
-      },
-      "scrapped_url": "https://wawer.um.warszawa.pl/-/dzien-otwarty-w-wck-filia-anin",
-      "scrapped_timestamp": "2026-09-05T18:33:42.297575+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Dzień otwarty w WCK Filia Anin",
-          "description": "Zapraszamy na Dzień Otwarty do WCK Anin!"
-        },
-        "en": {
-          "title": "Open Day at WCK Anin Branch",
-          "description": "We invite you to the Open Day at WCK Anin!"
-        },
-        "uk": {
-          "title": "День відкритих дверей у WCK Філія Аніна",
-          "description": "Запрошуємо на День відкритих дверей до WCK Аніна!"
-        }
-      },
-      "updated_at": "2026-09-05T18:53:01.822403+00:00"
     },
     "mali-wielcy-czyli-pi-spotka-ze-sztuk-2026-09-08T17:00:00+02:00": {
       "title": "Mali Wielcy, czyli pięć spotkań ze sztuką",
@@ -14021,48 +13653,6 @@
         }
       },
       "updated_at": "2026-09-05T18:53:01.823706+00:00"
-    },
-    "zielone-s-siedztwo-warsztaty-i-spacery-w-azienkach-kr-lewskich-2026-09-07T17:00:00+02:00": {
-      "title": "Zielone Sąsiedztwo – warsztaty i spacery w Łazienkach Królewskich",
-      "date": "2026-09-07T17:00:00+02:00",
-      "end_date": "2026-09-07T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Cykl otwartych spotkań edukacyjnych w ramach projektu „Zielone sąsiedztwo”, prowadzony przez ogrodniczkę i edukatorkę Zuzannę Molak (Green Concept). Uczestnicy wspólnie tworzą ogród społeczny, ucząc się permakultury, uprawy warzyw oraz dbania o bioróżnorodność.\n\nSpotkania odbywają się w Nowej Palmiarni w Łazienkach Królewskich. Wymagane jest pobranie bezpłatnej wejściówki na wybrane wydarzenie.\n\nHarmonogram spotkań z ekspertką:\n• 9 lipca, 18.00-20.00: Spotkanie otwierające\n• 16 lipca, 18.00-20.00: Kompost\n• 23 lipca, 18.00-20.00: Uprawa warzyw cz. 1\n• 25 lipca, 15.00-16.30: Spacer „Dziko rosnące rośliny jadalne i lecznicze”\n• 6 sierpnia, 18.00-20.00: Uprawa warzyw cz. 2\n• 20 sierpnia, 18.00-20.00: Miejskie ogrodnictwo\n• 29 sierpnia, 18.00-20.00: Permakultura\n• 1 września, 18.00-20.00: Bioróżnorodność\n• 8 września, 18.00-20.00: Woda w ogrodzie\n• 15 września, 18.00-20.00: Krzewy owocowe\n• 1 października, 18.00-20.00: Naturalne metody ochrony roślin\n• 8 października, 18.00-20.00: Bank nasion\n\nSpacery po ogrodach (start: Nowa Palmiarnia):\n• 27 lipca, 17.00-18.30: „Zwierzęta Łazienek Królewskich”\n• 3 sierpnia, 17.00-18.30: „Drzewa Łazienek Królewskich”\n• 7 września, 17.00-18.30: „Historia ogrodów Łazienek Królewskich”\n• 14 września, 17.00-18.30: „Zieleń niska Łazienek Królewskich”\n\nBezpłatne wejściówki na spotkania: https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?idl=0&idg=24&idw=578&d=3\nBezpłatne wejściówki na spacery: https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?idl=0&idg=24&idw=579&d=3",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/75c38628-cd4d-463d-ad87-c9e81b3a6b0f/78eeb680-d7a1-4914-8363-748acf295e67.jpg",
-      "location": {
-        "name": "Łazienki Królewskie / Royal Lazienki",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/zielone-sasiedztwo-warsztaty-i-spacery-w-lazienkach-krolewskich-75c38628-cd4d-463d-ad87-c9e81b3a6b0f",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/zielone-sasiedztwo-warsztaty-i-spacery-w-lazienkach-krolewskich-75c38628-cd4d-463d-ad87-c9e81b3a6b0f",
-      "scrapped_timestamp": "2026-09-05T18:44:07.802233+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Nature & Wildlife"
-      ],
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Zielone Sąsiedztwo – warsztaty i spacery w Łazienkach Królewskich",
-          "description": "Cykl otwartych spotkań edukacyjnych w ramach projektu „Zielone sąsiedztwo”, prowadzony przez ogrodniczkę i edukatorkę Zuzannę Molak (Green Concept). Uczestnicy wspólnie tworzą ogród społeczny, ucząc się permakultury, uprawy warzyw oraz dbania o bioróżnorodność.\n\nSpotkania odbywają się w Nowej Palmiarni w Łazienkach Królewskich. Wymagane jest pobranie bezpłatnej wejściówki na wybrane wydarzenie.\n\nHarmonogram spotkań z ekspertką:\n• 9 lipca, 18.00-20.00: Spotkanie otwierające\n• 16 lipca, 18.00-20.00: Kompost\n• 23 lipca, 18.00-20.00: Uprawa warzyw cz. 1\n• 25 lipca, 15.00-16.30: Spacer „Dziko rosnące rośliny jadalne i lecznicze”\n• 6 sierpnia, 18.00-20.00: Uprawa warzyw cz. 2\n• 20 sierpnia, 18.00-20.00: Miejskie ogrodnictwo\n• 29 sierpnia, 18.00-20.00: Permakultura\n• 1 września, 18.00-20.00: Bioróżnorodność\n• 8 września, 18.00-20.00: Woda w ogrodzie\n• 15 września, 18.00-20.00: Krzewy owocowe\n• 1 października, 18.00-20.00: Naturalne metody ochrony roślin\n• 8 października, 18.00-20.00: Bank nasion\n\nSpacery po ogrodach (start: Nowa Palmiarnia):\n• 27 lipca, 17.00-18.30: „Zwierzęta Łazienek Królewskich”\n• 3 sierpnia, 17.00-18.30: „Drzewa Łazienek Królewskich”\n• 7 września, 17.00-18.30: „Historia ogrodów Łazienek Królewskich”\n• 14 września, 17.00-18.30: „Zieleń niska Łazienek Królewskich”\n\nBezpłatne wejściówki na spotkania: https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?idl=0&idg=24&idw=578&d=3\nBezpłatne wejściówki na spacery: https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?idl=0&idg=24&idw=579&d=3"
-        },
-        "en": {
-          "title": "Green Neighborhood – Workshops and Walks in the Royal Łazienki",
-          "description": "A series of open educational meetings as part of the 'Green Neighborhood' project, led by gardener and educator Zuzanna Molak (Green Concept). Participants collaboratively create a community garden, learning about permaculture, vegetable cultivation, and caring for biodiversity.\n\nMeetings take place in the New Palm House in the Royal Łazienki. A free ticket for the selected event is required.\n\nSchedule of meetings with the expert:\n• July 9, 6:00 PM - 8:00 PM: Opening meeting\n• July 16, 6:00 PM - 8:00 PM: Compost\n• July 23, 6:00 PM - 8:00 PM: Vegetable cultivation part 1\n• July 25, 3:00 PM - 4:30 PM: Walk 'Wild Edible and Medicinal Plants'\n• August 6, 6:00 PM - 8:00 PM: Vegetable cultivation part 2\n• August 20, 6:00 PM - 8:00 PM: Urban gardening\n• August 29, 6:00 PM - 8:00 PM: Permaculture\n• September 1, 6:00 PM - 8:00 PM: Biodiversity"
-        },
-        "uk": {
-          "title": "Зелене сусідство – майстер-класи та прогулянки в Лазенках Королівських",
-          "description": "Цикл відкритих освітніх зустрічей в рамках проєкту «Зелене сусідство», який проводить садівниця та освітянка Зузанна Молак (Green Concept). Учасники спільно створюють соціальний сад, вивчаючи пермакультуру, вирощування овочів та догляд за біорізноманіттям.\n\nЗустрічі проходять у Новій Пальмярні в Лазенках Королівських. Необхідно отримати безкоштовний квиток на обране подію.\n\nГрафік зустрічей з експерткою:\n• 9 липня, 18:00-20:00: Відкриваюча зустріч\n• 16 липня, 18:00-20:00: Компост\n• 23 липня, 18:00-20:00: Вирощування овочів ч. 1\n• 25 липня, 15:00-16:30: Прогулянка «Дикорослі їстівні та лікарські рослини»\n• 6 серпня, 18:00-20:00: Вирощування овочів ч. 2\n• 20 серпня, 18:00-20:00: Міське садівництво\n• 29 серпня, 18:00-20:00: Пермакультура\n• 1 вересня, 18:00-20:00: Біорізноманіття"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-05T18:53:01.826094+00:00"
     },
     "pracownia-zapach-w-warsztaty-tworzenia-kompozycji-2026-09-09T14:30:00+02:00": {
       "title": "Pracownia Zapachów – warsztaty tworzenia kompozycji",

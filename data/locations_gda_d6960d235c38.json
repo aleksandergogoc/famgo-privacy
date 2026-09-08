@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:22:17.776221+00:00",
+  "updated_at": "2026-09-08T11:12:37.675571+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -824,6 +824,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-07T12:18:42.492359+00:00"
+    },
+    "polsat plus arena gdańsk": {
+      "name": "PitStop, 1, Pokoleń Lechii Gdańsk, Letnica, Gdańsk, województwo pomorskie, 80-560, Polska",
+      "district": "Śródmieście",
+      "address": "PitStop, 1, Pokoleń Lechii Gdańsk, Letnica, Gdańsk, województwo pomorskie, 80-560, Polska",
+      "normalized": "polsat plus arena gdańsk",
+      "lat": 54.3896298,
+      "lng": 18.6372036,
+      "updated_at": "2026-09-08T11:08:54.481234+00:00"
+    },
+    "nadwiślańska 39": {
+      "name": "39, Nadwiślańska, Górki Wschodnie, Wyspa Sobieszewska, Gdańsk, województwo pomorskie, 80-680, Polska",
+      "district": "Południe/Wschód",
+      "address": "39, Nadwiślańska, Górki Wschodnie, Wyspa Sobieszewska, Gdańsk, województwo pomorskie, 80-680, Polska",
+      "normalized": "nadwiślańska 39",
+      "lat": 54.3470285,
+      "lng": 18.813671,
+      "updated_at": "2026-09-08T11:09:05.247878+00:00"
+    },
+    "ul. nadwiślańska 39": {
+      "name": "ul. Nadwiślańska 39",
+      "district": "Południe/Wschód",
+      "address": "ul. Nadwiślańska 39",
+      "normalized": "ul. nadwiślańska 39",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-08T11:09:30.220094+00:00"
     }
   }
 }

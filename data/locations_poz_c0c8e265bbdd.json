@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T17:22:46.916401+00:00",
+  "updated_at": "2026-09-08T11:12:36.489866+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -965,6 +965,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-05T17:22:38.655078+00:00"
+    },
+    "szkoła \"otwarte drzwi\"": {
+      "name": "Szkoła \"Otwarte drzwi\", ul. Strzelecka 11, 61-845 Poznań",
+      "district": "Stare Miasto",
+      "address": "Szkoła \"Otwarte drzwi\", ul. Strzelecka 11, 61-845 Poznań",
+      "normalized": "szkoła \"otwarte drzwi\"",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-08T11:11:46.666599+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:12:37.675571+00:00",
+  "updated_at": "2026-09-09T11:50:19.116467+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -851,6 +851,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-08T11:09:30.220094+00:00"
+    },
+    "żak": {
+      "name": "Klub Żak, 195/197, Aleja Grunwaldzka, Strzyża, Gdańsk, województwo pomorskie, 80-266, Polska",
+      "district": "Wrzeszcz",
+      "address": "Klub Żak, 195/197, Aleja Grunwaldzka, Strzyża, Gdańsk, województwo pomorskie, 80-266, Polska",
+      "normalized": "żak",
+      "lat": 54.3869957,
+      "lng": 18.5922208,
+      "updated_at": "2026-09-09T11:41:51.099368+00:00"
     }
   }
 }

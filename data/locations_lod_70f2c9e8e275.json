@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:12:38.957140+00:00",
+  "updated_at": "2026-09-09T11:50:21.185807+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -475,6 +475,69 @@
       "lat": 51.7737937,
       "lng": 19.4701862,
       "updated_at": "2026-09-08T11:07:44.157290+00:00"
+    },
+    "dom literatury w łodzi": {
+      "name": "17, Franklina Delano Roosevelta, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-056, Polska",
+      "district": "Śródmieście",
+      "address": "17, Franklina Delano Roosevelta, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-056, Polska",
+      "normalized": "dom literatury w łodzi",
+      "lat": 51.760689,
+      "lng": 19.4618034,
+      "updated_at": "2026-09-09T11:39:22.629806+00:00"
+    },
+    "fabryka sztuki w łodzi (art_inkubator)": {
+      "name": "Fabryka Sztuki w Łodzi, 3, Księdza Biskupa Wincentego Tymienieckiego, Centrum, Stary Widzew, Księży Młyn, Łódź-Widzew, Łódź, województwo łódzkie, 90-365, Polska",
+      "district": "Widzew",
+      "address": "Fabryka Sztuki w Łodzi, 3, Księdza Biskupa Wincentego Tymienieckiego, Centrum, Stary Widzew, Księży Młyn, Łódź-Widzew, Łódź, województwo łódzkie, 90-365, Polska",
+      "normalized": "fabryka sztuki w łodzi (art_inkubator)",
+      "lat": 51.7485453,
+      "lng": 19.4634312,
+      "updated_at": "2026-09-09T11:39:33.418125+00:00"
+    },
+    "łódzkie centrum wydarzeń _ dawnej akademicki ośrodek inicjatyw artystycznych": {
+      "name": "Łódzkie Centrum Wydarzeń, 54/56, Zachodnia, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-403, Polska",
+      "district": "Śródmieście",
+      "address": "Łódzkie Centrum Wydarzeń, 54/56, Zachodnia, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-403, Polska",
+      "normalized": "łódzkie centrum wydarzeń _ dawnej akademicki ośrodek inicjatyw artystycznych",
+      "lat": 51.7755244,
+      "lng": 19.4529487,
+      "updated_at": "2026-09-09T11:39:41.981958+00:00"
+    },
+    "ec-1": {
+      "name": "EC1 Łódź, 1/3, Targowa, Fabryczna, Stary Widzew, Łódź-Śródmieście, Łódź-Widzew, Łódź, województwo łódzkie, 90-022, Polska",
+      "district": "Widzew",
+      "address": "EC1 Łódź, 1/3, Targowa, Fabryczna, Stary Widzew, Łódź-Śródmieście, Łódź-Widzew, Łódź, województwo łódzkie, 90-022, Polska",
+      "normalized": "ec-1",
+      "lat": 51.7674784,
+      "lng": 19.4686027,
+      "updated_at": "2026-09-09T11:39:47.965520+00:00"
+    },
+    "park baden powella": {
+      "name": "Park im. gen. Roberta Baden-Powella – Naczelnego Skauta Świata, Łódź-Widzew, Łódź, województwo łódzkie, 90-242, Polska",
+      "district": "Widzew",
+      "address": "Park im. gen. Roberta Baden-Powella – Naczelnego Skauta Świata, Łódź-Widzew, Łódź, województwo łódzkie, 90-242, Polska",
+      "normalized": "park baden powella",
+      "lat": 51.7691357,
+      "lng": 19.5019013,
+      "updated_at": "2026-09-09T11:39:50.307526+00:00"
+    },
+    "mosir łódź": {
+      "name": "MOSIR, Organizacji „Wolność i Niezawisłość”, Marysin Doły, Łódź-Bałuty, Łódź, województwo łódzkie, 91-811, Polska",
+      "district": "Bałuty",
+      "address": "MOSIR, Organizacji „Wolność i Niezawisłość”, Marysin Doły, Łódź-Bałuty, Łódź, województwo łódzkie, 91-811, Polska",
+      "normalized": "mosir łódź",
+      "lat": 51.7890971,
+      "lng": 19.4694273,
+      "updated_at": "2026-09-09T11:39:52.318759+00:00"
+    },
+    "racing center łódź": {
+      "name": "Racing Center Łódź, 5, Wydawnicza, Polesie Widzewskie, Stary Widzew, Łódź-Widzew, Łódź, województwo łódzkie, 92-333, Polska",
+      "district": "Widzew",
+      "address": "Racing Center Łódź, 5, Wydawnicza, Polesie Widzewskie, Stary Widzew, Łódź-Widzew, Łódź, województwo łódzkie, 92-333, Polska",
+      "normalized": "racing center łódź",
+      "lat": 51.7635592,
+      "lng": 19.4916387,
+      "updated_at": "2026-09-09T11:39:54.681423+00:00"
     }
   }
 }

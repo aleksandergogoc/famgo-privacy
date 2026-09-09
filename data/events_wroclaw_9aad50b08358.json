@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:53:38.332828+00:00",
+  "updated_at": "2026-09-09T11:37:19.426162+00:00",
   "events": {
     "12-mi-dzynarodowe-zawody-w-je-dzie-bez-og-owia-euro-equus-2026-2026-09-25T00:00:00": {
       "scrapped_timestamp": "2026-06-26T16:36:24.805343+00:00",
@@ -5486,49 +5486,50 @@
       "updated_at": "2026-09-07T12:12:45.441784+00:00"
     },
     "festyn-osiedlowy-w-parku-kleci-skim-witaj-jesieni-2026-09-19T15:00:00+02:00": {
-      "title": "Festyn osiedlowy w Parku Klecińskim — Witaj, jesieni!",
+      "title": "Festyn osiedlowy w Parku Klecińskim – Witaj, jesieni!",
       "date": "2026-09-19T15:00:00+02:00",
       "end_date": "2026-09-19T15:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Jesień wcale nie musi być szara i ponura! Po raz kolejny zapraszamy Was do wspólnego, radosnego powitania tej wyjątkowej pory roku. Spotkajmy się w Parku Klecińskim i spędźmy ten dzień razem! Rada Osiedla Krzyki-Partynice przygotowała mnóstwo atrakcji dla małych i dużych. Czeka na Was moc dobrej zabawy, twórczych aktywności i okazji do wspólnego spędzenia czasu.\n\n15:00–19:00 | teren parku w okolicy placu zabaw\n\n• gry i klocki XXL,\n\n• fotobudka,\n\n• warsztaty plastyczne,\n\n• gra terenowa,\n\n• sportowa platforma balansowa,\n\n• mobilny serwis rowerowy,\n\n• osiedlowy zakład fotograficzny,\n\n• stoiska edukacyjne, promocyjne i animacyjne partnerów,\n\n• strefa gastronomiczna.\n\n19:00 | amfiteatr kino plenerowe: „Flow” – oscarowa animacja dla całej rodziny\n\nPartnerzy wydarzenia: Miejski Ośrodek Pomocy Społecznej, Wrocławskie Centrum Rozwoju Społecznego, Miejskie Przedsiębiorstwo Komunikacyjne, Wroclaw.pl, Zespół Szkolno-Przedszkolny nr 16, Straż Miejska Wrocławia, Fundacja Bubble of Good, Twój Lekarz, Early Stage, AMAkids, Akademia Marzeń.\n\nWydarzenie organizowane przez Osiedle Krzyki-Partynice z wykorzystaniem środków finansowych wyodrębnionych dla Osiedla w budżecie miasta Wrocławia oraz dofinansowania na realizację zadań społecznych (festyn osiedlowy, kino plenerowe – Fundusz Czasu Wolnego).\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-54cc84c2ac110002420df45a739a9be5/public-form-image",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1415624-festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni",
-      "source": "wroclaw.pl",
+      "description": "Rada Osiedla Krzyki-Partynice zaprasza na wspólne powitanie jesieni w Parku Klecińskim. Wydarzenie obejmuje szereg aktywności dla dzieci i dorosłych.\n\nProgram (15:00–19:00, teren przy placu zabaw):\n• Gry i klocki XXL, fotobudka, warsztaty plastyczne\n• Gra terenowa, sportowa platforma balansowa\n• Mobilny serwis rowerowy, osiedlowy zakład fotograficzny\n• Stoiska edukacyjne i strefa gastronomiczna\n\nKino plenerowe (19:00, amfiteatr):\n• Pokaz oscarowej animacji „Flow” dla całej rodziny.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/72b1c88a-d863-4c20-8c3a-2dfdcd72de49/94b42974-418f-49c4-a191-2ea3037d8290.jpg",
       "location": {
-        "name": "Park Kleciński",
+        "name": "Park Kleciński, Wrocław",
         "district": "Krzyki"
       },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1415624-festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni",
-      "scrapped_timestamp": "2026-09-07T12:12:37.489903+00:00",
-      "category": "Seasonal Festival",
-      "additional_categories": [
-        "Family Fun",
-        "Workshops"
-      ],
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni-72b1c88a-d863-4c20-8c3a-2dfdcd72de49",
+      "source": "simplygo.pl",
+      "age_hint": "3-18",
       "age_range": {
         "min": 3,
-        "max": 12
+        "max": 18
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni-72b1c88a-d863-4c20-8c3a-2dfdcd72de49",
+      "scrapped_timestamp": "2026-09-09T11:35:43.510182+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Games",
+        "Arts"
+      ],
       "location_type": "outdoor",
       "translations": {
         "pl": {
-          "title": "Festyn osiedlowy w Parku Klecińskim — Witaj, jesieni!",
-          "description": "Jesień wcale nie musi być szara i ponura! Po raz kolejny zapraszamy Was do wspólnego, radosnego powitania tej wyjątkowej pory roku. Spotkajmy się w Parku Klecińskim i spędźmy ten dzień razem! Rada Osiedla Krzyki-Partynice przygotowała mnóstwo atrakcji dla małych i dużych. Czeka na Was moc dobrej zabawy, twórczych aktywności i okazji do wspólnego spędzenia czasu.\n\n15:00–19:00 | teren parku w okolicy placu zabaw\n\n• gry i klocki XXL,\n\n• fotobudka,\n\n• warsztaty plastyczne,\n\n• gra terenowa,\n\n• sportowa platforma balansowa,\n\n• mobilny serwis rowerowy,\n\n• osiedlowy zakład fotograficzny,\n\n• stoiska edukacyjne, promocyjne i animacyjne partnerów,\n\n• strefa gastronomiczna.\n\n19:00 | amfiteatr kino plenerowe: „Flow” – oscarowa animacja dla całej rodziny\n\nPartnerzy wydarzenia: Miejski Ośrodek Pomocy Społecznej, Wrocławskie Centrum Rozwoju Społecznego, Miejskie Przedsiębiorstwo Komunikacyjne, Wroclaw.pl, Zespół Szkolno-Przedszkolny nr 16, Straż Miejska Wrocławia, Fundacja Bubble of Good, Twój Lekarz, Early Stage, AMAkids, Akademia Marzeń.\n\nWydarzenie organizowane przez Osiedle Krzyki-Partynice z wykorzystaniem środków finansowych wyodrębnionych dla Osiedla w budżecie miasta Wrocławia oraz dofinansowania na realizację zadań społecznych (festyn osiedlowy, kino plenerowe – Fundusz Czasu Wolnego).\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook"
+          "title": "Festyn osiedlowy w Parku Klecińskim – Witaj, jesieni!",
+          "description": "Rada Osiedla Krzyki-Partynice zaprasza na wspólne powitanie jesieni w Parku Klecińskim. Wydarzenie obejmuje szereg aktywności dla dzieci i dorosłych.\n\nProgram (15:00–19:00, teren przy placu zabaw):\n• Gry i klocki XXL, fotobudka, warsztaty plastyczne\n• Gra terenowa, sportowa platforma balansowa\n• Mobilny serwis rowerowy, osiedlowy zakład fotograficzny\n• Stoiska edukacyjne i strefa gastronomiczna\n\nKino plenerowe (19:00, amfiteatr):\n• Pokaz oscarowej animacji „Flow” dla całej rodziny."
         },
         "en": {
-          "title": "Neighborhood Festival in Kleciński Park — Welcome, Autumn!",
-          "description": "Autumn doesn't have to be gray and gloomy! Once again, we invite you to joyfully welcome this special season together. Let's meet in Kleciński Park and spend this day together! The Krzyki-Partynice Neighborhood Council has prepared plenty of attractions for both young and old. A lot of fun, creative activities, and opportunities to spend time together await you.\n\n15:00–19:00 | park area near the playground\n\n• XXL games and blocks,\n\n• photo booth,\n\n• art workshops,\n\n• outdoor game,\n\n• sports balance platform,\n\n• mobile bike service,\n\n• neighborhood photography studio,\n\n• educational, promotional, and animation booths from partners,\n\n• food zone.\n\n19:00 | amphitheater outdoor cinema: \"Flow\" – an Oscar-winning animation for the whole family.\n\nEvent partners: Municipal Center for Social Assistance"
+          "title": "Neighborhood Festival in Kleciński Park – Welcome, Autumn!",
+          "description": "The Krzyki-Partynice Neighborhood Council invites you to a joint welcome of autumn in Kleciński Park. The event includes a range of activities for children and adults.\n\nProgram (3:00 PM – 7:00 PM, area near the playground):\n• XXL games and blocks, photo booth, art workshops\n• Treasure hunt, sports balance platform\n• Mobile bike service, neighborhood photography studio\n• Educational booths and food zone\n\nOutdoor cinema (7:00 PM, amphitheater):\n• Screening of the Oscar-winning animation \"Flow\" for the whole family."
         },
         "uk": {
-          "title": "Осінній фестиваль у парку Клецінському — Ласкаво просимо, осінь!",
-          "description": "Осінь зовсім не повинна бути сірою та похмурою! Ще раз запрошуємо вас до спільного, радісного вітання цієї особливої пори року. Зустрінемося в парку Клецінському та проведемо цей день разом! Рада оселення Кжики-Партиніце підготувала безліч розваг для малих і великих. На вас чекає море гарного настрою, творчих активностей та можливостей провести час разом.\n\n15:00–19:00 | територія парку в районі дитячого майданчика\n\n• ігри та блоки XXL,\n\n• фотобудка,\n\n• художні майстерні,\n\n• гра на місцевості,\n\n• спортивна балансувальна платформа,\n\n• мобільний велосипедний сервіс,\n\n• осередок фотографії,\n\n• освітні, промоційні та анімаційні стенди партнерів,\n\n• гастрономічна зона.\n\n19:00 | амфітеатр, відкритий кінопоказ: «Flow» – оскарівська анімація для всієї родини\n\nПартнери події: Міський центр допомоги"
+          "title": "Осінній фестиваль у парку Клецінському – Ласкаво просимо, осінь!",
+          "description": "Рада Оселення Кжики-Партиніце запрошує на спільне привітання осені в парку Клецінському. Подія включає ряд активностей для дітей та дорослих.\n\nПрограма (15:00–19:00, територія біля дитячого майданчика):\n• Ігри та великі кубики, фотобудка, художні майстерні\n• Поле для гри, спортивна балансувальна платформа\n• Мобільний велосипедний сервіс, оселений фотосалон\n• Освітні стенди та гастрономічна зона\n\nВідкритий кінотеатр (19:00, амфітеатр):\n• Показ оскарівської анімації «Flow» для всієї родини."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Krzyki",
-      "updated_at": "2026-09-07T12:12:45.441804+00:00"
+      "updated_at": "2026-09-09T11:37:19.189113+00:00"
     },
     "kacz-tko-4-2026-09-10T17:30:00+02:00": {
       "title": "Kaczątko | 4+",
@@ -5570,6 +5571,1765 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-09-08T11:05:45.757499+00:00"
+    },
+    "bezp-atne-zaj-cia-og-lnorozwojowe-z-elementami-koszyk-wki-dla-dzieci-od-2-roku-ycia-2026-09-12T09:15:00+02:00": {
+      "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci od 2 roku życia",
+      "date": "2026-09-12T09:15:00+02:00",
+      "end_date": "2026-09-12T09:15:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na zajęcia ogólnorozwojowe z elementami koszykówki - sobota w centrum Wrocławia IX LO, ul. ks. P. Skargi 31 (wjazd od ul. Nowej).\n\n**HARMONOGRAM:**\n\n• 09:15-10:00: 2-3 lata,\n\n• 10:00-10:45: 3-3,5 lat,\n\n• 10:45-11:45: 3,5-4,5 lat,\n\n• 11:45-12:45: 4,5-6 lat,\n\n• 12:45-13:45: 6,5-8,0 lat.\n\n**Drogi rodzicu:**\n\n• Chcesz rozwijać motywację i pewność siebie u swojego dziecka?\n\n• Chcesz poprawić intuicję i koncentracje swojego malucha?\n\n• Twoje dziecko jest spragnione pozytywnych wrażeń i nie cierpi nudy?\n\n• Pragniesz poprawić dziecku kondycję i ogólną sprawność fizyczną?\n\n• Zależy ci na znalezieniu dla swojej pociechy przyjaźni na całe życie poprzez kształtowanie jego kompetencji, intencji i współpracy w grupie?\n\nJeśli chociaż raz odpowiedziałeś TAK, to nasza propozycja jest właśnie dla ciebie! Przyjdź na pierwsze bezpłatne i niezobowiązujące zajęcia i przekonaj się, jak świetnie twoje dziecko może spędzić czas.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-ad9e0708ac1100026d1ae29d85b928f4/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415734-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci-od-2-roku-zycia-wroclaw",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "IX LO ul. ks. P. Skargi 31"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415734-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci-od-2-roku-zycia-wroclaw",
+      "scrapped_timestamp": "2026-09-09T11:33:07.417814+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 2,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci od 2 roku życia",
+          "description": "Zapraszamy na zajęcia ogólnorozwojowe z elementami koszykówki - sobota w centrum Wrocławia IX LO, ul. ks. P. Skargi 31 (wjazd od ul. Nowej).\n\n**HARMONOGRAM:**\n\n• 09:15-10:00: 2-3 lata,\n\n• 10:00-10:45: 3-3,5 lat,\n\n• 10:45-11:45: 3,5-4,5 lat,\n\n• 11:45-12:45: 4,5-6 lat,\n\n• 12:45-13:45: 6,5-8,0 lat.\n\n**Drogi rodzicu:**\n\n• Chcesz rozwijać motywację i pewność siebie u swojego dziecka?\n\n• Chcesz poprawić intuicję i koncentracje swojego malucha?\n\n• Twoje dziecko jest spragnione pozytywnych wrażeń i nie cierpi nudy?\n\n• Pragniesz poprawić dziecku kondycję i ogólną sprawność fizyczną?\n\n• Zależy ci na znalezieniu dla swojej pociechy przyjaźni na całe życie poprzez kształtowanie jego kompetencji, intencji i współpracy w grupie?\n\nJeśli chociaż raz odpowiedziałeś TAK, to nasza propozycja jest właśnie dla ciebie! Przyjdź na pierwsze bezpłatne i niezobowiązujące zajęcia i przekonaj się, jak świetnie twoje dziecko może spędzić czas.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Free Development Classes with Elements of Basketball for Children from 2 Years Old",
+          "description": "We invite you to development classes with elements of basketball - Saturday in the center of Wrocław at IX LO, ul. ks. P. Skargi 31 (entrance from ul. Nowa).\n\n**SCHEDULE:**\n\n• 09:15-10:00: 2-3 years,\n\n• 10:00-10:45: 3-3.5 years,\n\n• 10:45-11:45: 3.5-4.5 years,\n\n• 11:45-12:45: 4.5-6 years,\n\n• 12:45-13:45: 6.5-8.0 years.\n\n**Dear Parent:**\n\n• Do you want to develop your child's motivation and self-confidence?\n\n• Do you want to improve your little one's intuition and concentration?\n\n• Is your child thirsty for positive experiences and does not suffer from boredom?\n\n• Do you wish to improve your child's fitness and overall physical condition?\n\n• Do you care about finding lifelong friendships for your child by shaping their competencies, intentions, and cooperation in a group?\n\nIf you answered YES at least once, then our proposal is just for you."
+        },
+        "uk": {
+          "title": "Безкоштовні загальноосвітні заняття з елементами баскетболу для дітей від 2 років",
+          "description": "Запрошуємо на загальноосвітні заняття з елементами баскетболу - субота в центрі Вроцлава IX LO, вул. кс. П. Скарги 31 (в'їзд з вул. Нової).\n\n**ГАРМОНІГРАМ:**\n\n• 09:15-10:00: 2-3 роки,\n\n• 10:00-10:45: 3-3,5 роки,\n\n• 10:45-11:45: 3,5-4,5 роки,\n\n• 11:45-12:45: 4,5-6 років,\n\n• 12:45-13:45: 6,5-8,0 років.\n\n**Шановні батьки:**\n\n• Хочете розвивати мотивацію та впевненість у вашій дитині?\n\n• Хочете покращити інтуїцію та концентрацію вашого малюка?\n\n• Ваша дитина прагне позитивних вражень і не страждає від нудьги?\n\n• Бажаєте покращити фізичну форму та загальну фізичну підготовку вашої дитини?\n\n• Вам важливо знайти для своєї дитини дружбу на все життя, формуючи її компетенції, наміри та співпрацю в групі?\n\nЯкщо хоча б раз ви відповіли ТАК, то наша пропозиція саме для вас."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-09T11:37:19.188518+00:00"
+    },
+    "sesja-zdj-ciowa-i-kreatywna-zabawa-z-lego-bluey-w-alei-bielany-2026-09-11T00:00:00+02:00": {
+      "title": "Sesja zdjęciowa i kreatywna zabawa z LEGO® Bluey w Alei Bielany",
+      "date": "2026-09-11T00:00:00+02:00",
+      "end_date": "2026-09-11T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "Aleja Bielany zaprasza do wspólnej zabawy rodziny z maluchami. Już 11 i 12 września odwiedzi nas wyjątkowy gość – uwielbiana przez dzieci Bluey!\n\n**Szczegóły wydarzenia:**\n\n• **Kiedy:**11 września godz. 14:00-20:00, 12 września godz. 11:00-19:00\n\n• **Gdzie:** przy wejściu środkowym\n\n• **Wstęp:** bezpłatny!\n\nNa najmłodszych czeka niezapomniana podróż do bajkowego świata pełnego radości, kreatywności i rodzinnych emocji. Bluey po raz pierwszy zadebiutowała w Australii na telewizyjnych ekranach 1 października 2018 roku i natychmiast podbiła serca najmłodszych widzów. Niezwykle uroczy i zabawny serial o rodzinie czterech piesków pokazuje, jak kreatywna zabawa rozwija dziecięcą wyobraźnię.\n\nBluey – suczka australijskiej rasy Blue Heeler – ma mnóstwo pomysłów i uwielbia, gdy codzienność wypełniają wesołe przygody. Podczas wydarzenia świat Bluey połączy się z kreatywną mocą LEGO®, tworząc przestrzeń, w której animacja spotyka się z budowaniem i swobodną zabawą. Na dzieci czekać będą specjalne strefy konstrukcyjne LEGO® – zarówno dla najmłodszych, jak i starszych uczestników.\n\nStrefa foto, basen z kulkami oraz kreatywne budowanie z klocków LEGO® to tylko część atrakcji przewidzianych dla dzieci, które zdecydują się odwiedzić z rodzicami Aleję Bielany w ten wyjątkowy weekend. Dla małych i dużych fanów psiej rodzinki – dobra zabawa gwarantowana!\n\n**Wśród atrakcji czekają m.in.:**\n\n• Spotkanie z bohaterem w strefie fotograficznej – wyjątkowa okazja, by spotkać Bluey na żywo i zrobić wspólne zdjęcie.\n\n• Rodzinne kalambury – wspólna zabawa inspirowana przygodami Bluey i jej przyjaciół.\n\n• Basen z kulkami – kolorowa przestrzeń pełna radości dla najmłodszych.\n\n• Interaktywne wyzwania – multimedialna zabawa ruchowa dla całej rodziny.\n\n• Strefa kreatywna – tworzenie uszu Bluey i wcielanie się w bohaterów bajki.\n\n• Strefa LEGO® DUPLO® – bezpieczna przestrzeń z dużymi klockami dla najmłodszych dzieci, wyposażona w basen z klockami oraz stoliki z matami do budowania.\n\n• Strefa LEGO® System – wydzielona strefa dla starszych dzieci z klasycznymi klockami LEGO, umożliwiająca tworzenie własnych konstrukcji i udział w tematycznych wyzwaniach.\n\nOdwiedźcie Aleję Bielany w dniach 11-12 września – świetna zabawa razem z Bluey i LEGO gwarantowana!\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-ab96432cac1100020035ef95817c3d84/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1415701-sesja-zdjeciowa-i-kreatywna-zabawa-z-lego-bluey-w-alei-bielany",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Aleja Bielany Czekoladowa 7-9, Kobierzyce 55-040"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1415701-sesja-zdjeciowa-i-kreatywna-zabawa-z-lego-bluey-w-alei-bielany",
+      "scrapped_timestamp": "2026-09-09T11:33:13.122729+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Sesja zdjęciowa i kreatywna zabawa z LEGO® Bluey w Alei Bielany",
+          "description": "Aleja Bielany zaprasza do wspólnej zabawy rodziny z maluchami. Już 11 i 12 września odwiedzi nas wyjątkowy gość – uwielbiana przez dzieci Bluey!\n\n**Szczegóły wydarzenia:**\n\n• **Kiedy:**11 września godz. 14:00-20:00, 12 września godz. 11:00-19:00\n\n• **Gdzie:** przy wejściu środkowym\n\n• **Wstęp:** bezpłatny!\n\nNa najmłodszych czeka niezapomniana podróż do bajkowego świata pełnego radości, kreatywności i rodzinnych emocji. Bluey po raz pierwszy zadebiutowała w Australii na telewizyjnych ekranach 1 października 2018 roku i natychmiast podbiła serca najmłodszych widzów. Niezwykle uroczy i zabawny serial o rodzinie czterech piesków pokazuje, jak kreatywna zabawa rozwija dziecięcą wyobraźnię.\n\nBluey – suczka australijskiej rasy Blue Heeler – ma mnóstwo pomysłów i uwielbia, gdy codzienność wypełniają wesołe przygody. Podczas wydarzenia świat Bluey połączy się z kreatywną mocą LEGO®, tworząc przestrzeń, w której animacja spotyka się z budowaniem i swobodną zabawą. Na dzieci czekać będą specjalne strefy konstrukcyjne LEGO® – zarówno dla najmłodszych, jak i starszych uczestników.\n\nStrefa foto, basen z kulkami oraz kreatywne budowanie z klocków LEGO® to tylko część atrakcji przewidzianych dla dzieci, które zdecydują się odwiedzić z rodzicami Aleję Bielany w ten wyjątkowy weekend. Dla małych i dużych fanów psiej rodzinki – dobra zabawa gwarantowana!\n\n**Wśród atrakcji czekają m.in.:**\n\n• Spotkanie z bohaterem w strefie fotograficznej – wyjątkowa okazja, by spotkać Bluey na żywo i zrobić wspólne zdjęcie.\n\n• Rodzinne kalambury – wspólna zabawa inspirowana przygodami Bluey i jej przyjaciół.\n\n• Basen z kulkami – kolorowa przestrzeń pełna radości dla najmłodszych.\n\n• Interaktywne wyzwania – multimedialna zabawa ruchowa dla całej rodziny.\n\n• Strefa kreatywna – tworzenie uszu Bluey i wcielanie się w bohaterów bajki.\n\n• Strefa LEGO® DUPLO® – bezpieczna przestrzeń z dużymi klockami dla najmłodszych dzieci, wyposażona w basen z klockami oraz stoliki z matami do budowania.\n\n• Strefa LEGO® System – wydzielona strefa dla starszych dzieci z klasycznymi klockami LEGO, umożliwiająca tworzenie własnych konstrukcji i udział w tematycznych wyzwaniach.\n\nOdwiedźcie Aleję Bielany w dniach 11-12 września – świetna zabawa razem z Bluey i LEGO gwarantowana!\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Photo Session and Creative Fun with LEGO® Bluey at Aleja Bielany",
+          "description": "Aleja Bielany invites families with little ones to join in the fun. On September 11 and 12, we will be visited by a special guest – the beloved Bluey!\n\n**Event Details:**\n\n• **When:** September 11 from 2:00 PM to 8:00 PM, September 12 from 11:00 AM to 7:00 PM\n\n• **Where:** at the central entrance\n\n• **Admission:** free!\n\nThe youngest will embark on an unforgettable journey to a fairy-tale world full of joy, creativity, and family emotions. Bluey made her debut in Australia on television screens on October 1, 2018, and immediately won the hearts of young viewers. This incredibly charming and funny series about a family of four dogs shows how creative play develops children's imagination.\n\nBluey – an Australian Blue Heeler puppy – has plenty of ideas and loves when everyday life is filled with"
+        },
+        "uk": {
+          "title": "Фотосесія та креативні розваги з LEGO® Bluey в Алії Біляни",
+          "description": "Алія Біляни запрошує до спільних розваг родини з малюками. Уже 11 та 12 вересня нас відвідає особливий гість – улюблена дітьми Bluey!\n\n**Деталі події:**\n\n• **Коли:** 11 вересня з 14:00 до 20:00, 12 вересня з 11:00 до 19:00\n\n• **Де:** біля центрального входу\n\n• **Вхід:** безкоштовний!\n\nНа найменших чекає незабутня подорож до казкового світу, сповненого радості, креативності та сімейних емоцій. Bluey вперше дебютувала в Австралії на телевізійних екранах 1 жовтня 2018 року і відразу ж завоювала серця найменших глядачів. Неймовірно милий і веселий серіал про родину чотирьох собак показує, як креативні розваги розвивають дитячу уяву.\n\nBluey – собачка австралійської породи Blue Heeler – має безліч ідей і обожнює, коли повсякденність наповнена"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-09T11:37:19.188548+00:00"
+    },
+    "lotnicza-misja-dla-dzieci-i-rodzic-w-zabawa-2026-09-11T00:00:00+02:00": {
+      "title": "Lotnicza misja dla dzieci i rodziców [zabawa]",
+      "date": "2026-09-11T00:00:00+02:00",
+      "end_date": "2026-09-11T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "A gdyby tak zamiast kolejnej zwykłej weekendowej atrakcji przeżyć z dzieckiem prawdziwą lotniczą przygodę? Zapraszamy dzieci wraz z rodzicami i opiekunami na wyjątkową rodzinną misję lotniczą, która rozpoczyna się już w piątek we Wrocławiu.\n\n• **Piątek – rozpoczęcie misji – 11 września 2026, godz. 17:00–18:00 Modelarnia, Wrocław, ul. Jana Stanki 5A.**\n\nTo właśnie tutaj rozpoczniemy naszą misję. Podczas godzinnego spotkania uczestnicy poznają cel wyprawy, otrzymają pierwsze zadania i wskazówki oraz przygotują się do dalszej części przygody. Ale to dopiero początek.\n\n• **Sobota i niedziela – misja na lotnisku w Mirosławicach 12–13 września 2026. Lotnisko sportowe Mirosławice**.\n\nNa uczestników czeka 50-minutowa misja poszukiwawcza, podczas której wspólnie będą odkrywać tajemnice lotniska i wykonywać przygotowane zadania. W programie między innymi: poszukiwanie ukrytych wskazówek, odkrywanie tajemnic starego lotniska, wizyta w starym hangarze, możliwość zajrzenia do kabiny samolotu, wspólne rozwiązywanie zagadek i wykonywanie zadań. To przygoda, w której dzieci nie tylko patrzą i słuchają. Szukają, odkrywają, kombinują, rozwiązują zagadki i współpracują z rodzicami. Wydarzenie przeznaczone jest dla dzieci od 6. roku życia, bez górnej granicy wieku.\n\n**Godziny grup:**\n\n• Sobota, 12 września I grupa: 11:00–11:50, II grupa: 12:05–12:55\n\n• Niedziela, 13 września III grupa: 11:00–11:50 IV grupa: 12:05–12:55\n\nTo będzie weekend pełen odkrywania, emocji i wspólnego działania w wyjątkowym miejscu, do którego na co dzień nie zagląda się podczas zwykłej rodzinnej wycieczki.\n\n**Rezerwacje:**515 387 693\n\n**Strona:**www.mrmodelarnia.pl⁠\n\n5 tajemnic. 1 lotnisko. 1 wielka rodzinna misja. Czy podejmiecie wyzwanie?\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-ea0adebbac11000263ef747c805adc82/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415660-lotnicza-misja-dla-dzieci-i-rodzicow",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocław,  ul. Stanki 5A",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415660-lotnicza-misja-dla-dzieci-i-rodzicow",
+      "scrapped_timestamp": "2026-09-09T11:33:19.049646+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Outdoor Adventure"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "both",
+      "translations": {
+        "pl": {
+          "title": "Lotnicza misja dla dzieci i rodziców [zabawa]",
+          "description": "A gdyby tak zamiast kolejnej zwykłej weekendowej atrakcji przeżyć z dzieckiem prawdziwą lotniczą przygodę? Zapraszamy dzieci wraz z rodzicami i opiekunami na wyjątkową rodzinną misję lotniczą, która rozpoczyna się już w piątek we Wrocławiu.\n\n• **Piątek – rozpoczęcie misji – 11 września 2026, godz. 17:00–18:00 Modelarnia, Wrocław, ul. Jana Stanki 5A.**\n\nTo właśnie tutaj rozpoczniemy naszą misję. Podczas godzinnego spotkania uczestnicy poznają cel wyprawy, otrzymają pierwsze zadania i wskazówki oraz przygotują się do dalszej części przygody. Ale to dopiero początek.\n\n• **Sobota i niedziela – misja na lotnisku w Mirosławicach 12–13 września 2026. Lotnisko sportowe Mirosławice**.\n\nNa uczestników czeka 50-minutowa misja poszukiwawcza, podczas której wspólnie będą odkrywać tajemnice lotniska i wykonywać przygotowane zadania. W programie między innymi: poszukiwanie ukrytych wskazówek, odkrywanie tajemnic starego lotniska, wizyta w starym hangarze, możliwość zajrzenia do kabiny samolotu, wspólne rozwiązywanie zagadek i wykonywanie zadań. To przygoda, w której dzieci nie tylko patrzą i słuchają. Szukają, odkrywają, kombinują, rozwiązują zagadki i współpracują z rodzicami. Wydarzenie przeznaczone jest dla dzieci od 6. roku życia, bez górnej granicy wieku.\n\n**Godziny grup:**\n\n• Sobota, 12 września I grupa: 11:00–11:50, II grupa: 12:05–12:55\n\n• Niedziela, 13 września III grupa: 11:00–11:50 IV grupa: 12:05–12:55\n\nTo będzie weekend pełen odkrywania, emocji i wspólnego działania w wyjątkowym miejscu, do którego na co dzień nie zagląda się podczas zwykłej rodzinnej wycieczki.\n\n**Rezerwacje:**515 387 693\n\n**Strona:**www.mrmodelarnia.pl⁠\n\n5 tajemnic. 1 lotnisko. 1 wielka rodzinna misja. Czy podejmiecie wyzwanie?\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Aviation Mission for Children and Parents [Fun]",
+          "description": "What if instead of another ordinary weekend attraction, you could experience a real aviation adventure with your child? We invite children along with their parents and guardians to a unique family aviation mission, which begins this Friday in Wrocław.\n\n• **Friday – Mission Kick-off – September 11, 2026, 5:00 PM–6:00 PM Modelarnia, Wrocław, ul. Jana Stanki 5A.**\n\nThis is where we will start our mission. During the one-hour meeting, participants will learn the purpose of the expedition, receive their first tasks and clues, and prepare for the next part of the adventure. But this is just the beginning.\n\n• **Saturday and Sunday – Mission at the Mirosławice Airport September 12–13, 2026. Mirosławice Sports Airport**.\n\nParticipants will embark on a 50-minute search mission, during which they will collectively uncover the secrets of the airport and..."
+        },
+        "uk": {
+          "title": "Авіаційна місія для дітей та батьків [розвага]",
+          "description": "А що як замість чергової звичайної вихідної розваги пережити з дитиною справжню авіаційну пригоду? Запрошуємо дітей разом з батьками та опікунами на унікальну сімейну авіаційну місію, яка розпочнеться вже в п'ятницю у Вроцлаві.\n\n• **П'ятниця – початок місії – 11 вересня 2026, год. 17:00–18:00 Модельня, Вроцлав, вул. Яна Станьки 5А.**\n\nСаме тут ми розпочнемо нашу місію. Під час годинної зустрічі учасники дізнаються мету експедиції, отримають перші завдання та вказівки, а також підготуються до подальшої частини пригоди. Але це лише початок.\n\n• **Субота та неділя – місія в аеропорту в Мірославіцах 12–13 вересня 2026. Спортивний аеропорт Мірославіце**.\n\nНа учасників чекає 50-хвилинна пошукова місія, під час якої вони разом відкриватимуть таємниці аеропорту та в..."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.188571+00:00"
+    },
+    "auta-pokaz-filmu-2026-09-10T10:20:00+02:00": {
+      "title": "Auta – pokaz filmu",
+      "date": "2026-09-10T10:20:00+02:00",
+      "end_date": "2026-09-10T10:20:00+02:00",
+      "startTimeKnown": true,
+      "description": "Historia młodego i ambitnego samochodu wyścigowego, Zygzaka McQueena, który w drodze na wyścig o Mistrzostwo Złotego Tłoka trafia do miasteczka Chłodnica Górska. Poznając lokalnych mieszkańców, takich jak Sally, Wójt Hudson czy Złomek, bohater odkrywa, że w życiu istnieją wartości ważniejsze niż sukces i puchary.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/91945e35-b887-45c9-99e6-acfb516d506c/5d63440c-d7c8-4059-b095-841dc9d45d2f.jpg",
+      "location": {
+        "name": "Multikino Wrocław Pasaż Grunwaldzki, Plac Grunwaldzki 22, 50-363 Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/auta-pokaz-filmu-91945e35-b887-45c9-99e6-acfb516d506c",
+      "source": "simplygo.pl",
+      "age_hint": "3-12",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/auta-pokaz-filmu-91945e35-b887-45c9-99e6-acfb516d506c",
+      "scrapped_timestamp": "2026-09-09T11:33:24.539218+00:00",
+      "category": "Cinema",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Auta – pokaz filmu",
+          "description": "Historia młodego i ambitnego samochodu wyścigowego, Zygzaka McQueena, który w drodze na wyścig o Mistrzostwo Złotego Tłoka trafia do miasteczka Chłodnica Górska. Poznając lokalnych mieszkańców, takich jak Sally, Wójt Hudson czy Złomek, bohater odkrywa, że w życiu istnieją wartości ważniejsze niż sukces i puchary."
+        },
+        "en": {
+          "title": "Cars – Movie Screening",
+          "description": "The story of a young and ambitious race car, Lightning McQueen, who, on his way to the Piston Cup Championship, ends up in the town of Radiator Springs. By getting to know the local residents, such as Sally, Sheriff Hudson, and Mater, the hero discovers that there are values in life that are more important than success and trophies."
+        },
+        "uk": {
+          "title": "Автомобілі – показ фільму",
+          "description": "Історія молодого та амбіційного гоночного автомобіля, Зігзака МакКвіна, який на шляху до гонки за Чемпіонат Золотого Підшипника потрапляє до містечка Охолоджувач Гірський. Знайомлячись з місцевими жителями, такими як Саллі, мер Хадсон та Злом, герой відкриває, що в житті існують цінності важливіші за успіх і трофеї."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-09T11:37:19.188590+00:00"
+    },
+    "bezp-atna-wietlica-odrza-ska-2026-09-10T14:00:00+02:00": {
+      "title": "Bezpłatna Świetlica Odrzańska",
+      "date": "2026-09-10T14:00:00+02:00",
+      "end_date": "2026-09-10T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Bezpłatna Odrzańska Świetlica to przestrzeń edukacyjno-kulturalna w Odra Centrum, dedykowana dzieciom i młodzieży. Miejsce oferuje warsztaty rozwijające umiejętności manualne, wiedzę o ekologii, historii żeglugi oraz ochronie środowiska.\n\nPlan zajęć:\n• Rozgrzewka (zbiórka i zapoznanie)\n• Warsztat edukacyjny w wybranej tematyce\n• Gry i zabawy integracyjne, pogadanka, kreacja\n\nInformacje organizacyjne:\n• Termin: wtorki i czwartki w godz. 14:00-18:00\n• Miejsce: Odra Centrum, Wybrzeże Juliusza Słowackiego 5B (obok Mostu Grunwaldzkiego)\n• Wiek uczestników: 6-19 lat (osoby z niepełnosprawnościami do 26 lat)\n• Zapisy: obowiązują zapisy na kolejny tydzień, przyjmowane od poniedziałku od godz. 00:01 pod adresem: https://odracentrum.asysto.pl/\n\nSzczegóły dotyczące warsztatów dla grup szkolnych: https://odracentrum.org/warsztaty/\nStrona główna: https://odracentrum.org/",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c4530a04-384c-49bf-96f8-e95e3d727585/a35d11ca-60a6-4928-af8a-f466cb4fe273.jpg",
+      "location": {
+        "name": "Odra Centrum",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/bezplatna-swietlica-odrzanska-c4530a04-384c-49bf-96f8-e95e3d727585",
+      "source": "simplygo.pl",
+      "age_hint": "6-18",
+      "age_range": {
+        "min": 6,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/bezplatna-swietlica-odrzanska-c4530a04-384c-49bf-96f8-e95e3d727585",
+      "scrapped_timestamp": "2026-09-09T11:33:28.241918+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Educational"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatna Świetlica Odrzańska",
+          "description": "Bezpłatna Odrzańska Świetlica to przestrzeń edukacyjno-kulturalna w Odra Centrum, dedykowana dzieciom i młodzieży. Miejsce oferuje warsztaty rozwijające umiejętności manualne, wiedzę o ekologii, historii żeglugi oraz ochronie środowiska.\n\nPlan zajęć:\n• Rozgrzewka (zbiórka i zapoznanie)\n• Warsztat edukacyjny w wybranej tematyce\n• Gry i zabawy integracyjne, pogadanka, kreacja\n\nInformacje organizacyjne:\n• Termin: wtorki i czwartki w godz. 14:00-18:00\n• Miejsce: Odra Centrum, Wybrzeże Juliusza Słowackiego 5B (obok Mostu Grunwaldzkiego)\n• Wiek uczestników: 6-19 lat (osoby z niepełnosprawnościami do 26 lat)\n• Zapisy: obowiązują zapisy na kolejny tydzień, przyjmowane od poniedziałku od godz. 00:01 pod adresem: https://odracentrum.asysto.pl/\n\nSzczegóły dotyczące warsztatów dla grup szkolnych: https://odracentrum.org/warsztaty/\nStrona główna: https://odracentrum.org/"
+        },
+        "en": {
+          "title": "Free Odra Daycare",
+          "description": "The Free Odra Daycare is an educational and cultural space at Odra Centrum, dedicated to children and youth. The place offers workshops that develop manual skills, knowledge about ecology, the history of navigation, and environmental protection.\n\nSchedule:\n• Warm-up (gathering and introduction)\n• Educational workshop on a selected topic\n• Integration games and activities, discussion, creation\n\nOrganizational Information:\n• Dates: Tuesdays and Thursdays from 14:00 to 18:00\n• Location: Odra Centrum, Wybrzeże Juliusza Słowackiego 5B (next to the Grunwald Bridge)\n• Age of participants: 6-19 years (people with disabilities up to 26 years)\n• Registration: Registration is required for the following week, accepted from Monday at 00:01 at: https://odracentrum.asysto.pl/\n\nDetails regarding workshops for school groups: http"
+        },
+        "uk": {
+          "title": "Безкоштовна Світлиця Одерська",
+          "description": "Безкоштовна Одерська Світлиця - це освітньо-культурний простір в Одер Центрі, присвячений дітям та молоді. Місце пропонує майстер-класи, що розвивають ручні навички, знання про екологію, історію судноплавства та охорону навколишнього середовища.\n\nПлан занять:\n• Розминка (збір та знайомство)\n• Освітній майстер-клас на обрану тематику\n• Ігри та інтеграційні забави, бесіда, креатив\n\nОрганізаційна інформація:\n• Дати: вівторки та четверги з 14:00 до 18:00\n• Місце: Одер Центр, Набережна Юліуша Словацького 5B (поруч з Грунвальдським мостом)\n• Вік учасників: 6-19 років (особи з інвалідністю до 26 років)\n• Запис: обов'язковий запис на наступний тиждень, приймається з понеділка з 00:01 за адресою: https://odracentrum.asysto.pl/\n\nДеталі щодо майстер-класів для шкільних груп: http"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.188608+00:00"
+    },
+    "warsztaty-krawieckie-w-cal-kowale-2026-09-10T14:30:00+02:00": {
+      "title": "Warsztaty krawieckie w CAL Kowale",
+      "date": "2026-09-10T14:30:00+02:00",
+      "end_date": "2026-09-10T14:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Warsztaty krawieckie przeznaczone dla dorosłych, młodzieży oraz dzieci. Organizator zapewnia na miejscu wszystkie niezbędne szablony oraz materiały. W przypadku młodszych dzieci wymagana jest obecność Rodzica lub Opiekuna.\n\nLogistyka:\n• Termin: czwartek, 10 września 2026, godz. 14:30–17:00\n• Miejsce: Centrum Kowale, ul. Ełcka 34, Wrocław\n• Obowiązują zapisy\n\nCentrum Aktywności Lokalnej Kowale realizowane jest przez Stowarzyszenie Światło Otwarci na przyszłość, a współfinansowane przez Gminę Wrocław.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/9fe4713e-1c15-4efa-87cf-9bb569f5d0d4/9bc181cc-a8d9-497f-b126-4139f5b685fb.jpg",
+      "location": {
+        "name": "Ełcka 34",
+        "district": "Psie Pole"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/warsztaty-krawieckie-w-cal-kowale-9fe4713e-1c15-4efa-87cf-9bb569f5d0d4",
+      "source": "simplygo.pl",
+      "age_hint": "3-18",
+      "age_range": {
+        "min": 3,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/warsztaty-krawieckie-w-cal-kowale-9fe4713e-1c15-4efa-87cf-9bb569f5d0d4",
+      "scrapped_timestamp": "2026-09-09T11:33:33.573211+00:00",
+      "category": "Workshops",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Warsztaty krawieckie w CAL Kowale",
+          "description": "Warsztaty krawieckie przeznaczone dla dorosłych, młodzieży oraz dzieci. Organizator zapewnia na miejscu wszystkie niezbędne szablony oraz materiały. W przypadku młodszych dzieci wymagana jest obecność Rodzica lub Opiekuna.\n\nLogistyka:\n• Termin: czwartek, 10 września 2026, godz. 14:30–17:00\n• Miejsce: Centrum Kowale, ul. Ełcka 34, Wrocław\n• Obowiązują zapisy\n\nCentrum Aktywności Lokalnej Kowale realizowane jest przez Stowarzyszenie Światło Otwarci na przyszłość, a współfinansowane przez Gminę Wrocław."
+        },
+        "en": {
+          "title": "Sewing Workshops at CAL Kowale",
+          "description": "Sewing workshops intended for adults, youth, and children. The organizer provides all necessary templates and materials on-site. For younger children, the presence of a Parent or Guardian is required.\n\nLogistics:\n• Date: Thursday, September 10, 2026, from 2:30 PM to 5:00 PM\n• Location: Kowale Activity Center, Ełcka 34, Wrocław\n• Registration is required.\n\nThe Kowale Local Activity Center is implemented by the Light Association Open to the Future and co-financed by the Municipality of Wrocław."
+        },
+        "uk": {
+          "title": "Швейні майстер-класи в CAL Ковалеві",
+          "description": "Швейні майстер-класи призначені для дорослих, підлітків та дітей. Організатор забезпечує на місці всі необхідні шаблони та матеріали. У випадку з молодшими дітьми присутність батьків або опікунів є обов'язковою.\n\nЛогістика:\n• Дата: четвер, 10 вересня 2026 року, 14:30–17:00\n• Місце: Центр Ковалів, вул. Ельцька 34, Вроцлав\n• Обов'язкова реєстрація\n\nЦентр Активності Місцевої Ковалів реалізується асоціацією Світло Відкриті на майбутнє та співфінансується Гміною Вроцлав."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Psie Pole",
+      "updated_at": "2026-09-09T11:37:19.188627+00:00"
+    },
+    "asterix-i-obelix-misja-kleopatra-film-animowany-2026-09-10T15:00:00+02:00": {
+      "title": "Asterix i Obelix: Misja Kleopatra – film animowany",
+      "date": "2026-09-10T15:00:00+02:00",
+      "end_date": "2026-09-10T15:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Kleopatra rzuca wyzwanie Juliuszowi Cezarowi, obiecując wybudowanie wspaniałego pałacu w zaledwie trzy miesiące. Zadanie to otrzymuje architekt Numernabis, który w obliczu trudności prosi o pomoc Panoramixa.\n\nDo budowy włączają się również Asterix i Obelix, którzy wspierają Egipcjan w realizacji tego ambitnego projektu. Film prezentowany jest w wersji z polskim dubbingiem.",
+      "image": null,
+      "location": {
+        "name": "Cinema City Korona, Bolesława Krzywoustego 126, 51-421 Wrocław",
+        "district": "Psie Pole"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/asterix-i-obelix-misja-kleopatra-film-animowany-594fc72c-a1ee-47ca-b557-2efd62b4e4d6",
+      "source": "simplygo.pl",
+      "age_hint": "6-14",
+      "age_range": {
+        "min": 6,
+        "max": 14
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/asterix-i-obelix-misja-kleopatra-film-animowany-594fc72c-a1ee-47ca-b557-2efd62b4e4d6",
+      "scrapped_timestamp": "2026-09-09T11:33:39.868616+00:00",
+      "category": "Cinema",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Asterix i Obelix: Misja Kleopatra – film animowany",
+          "description": "Kleopatra rzuca wyzwanie Juliuszowi Cezarowi, obiecując wybudowanie wspaniałego pałacu w zaledwie trzy miesiące. Zadanie to otrzymuje architekt Numernabis, który w obliczu trudności prosi o pomoc Panoramixa.\n\nDo budowy włączają się również Asterix i Obelix, którzy wspierają Egipcjan w realizacji tego ambitnego projektu. Film prezentowany jest w wersji z polskim dubbingiem."
+        },
+        "en": {
+          "title": "Asterix and Obelix: Mission Cleopatra – Animated Film",
+          "description": "Cleopatra challenges Julius Caesar, promising to build a magnificent palace in just three months. The task is assigned to the architect Numernabis, who, faced with difficulties, asks for help from Panoramix. Asterix and Obelix also join the construction, supporting the Egyptians in realizing this ambitious project. The film is presented in a version with Polish dubbing."
+        },
+        "uk": {
+          "title": "Астерікс і Обелікс: Місія Клеопатра – анімаційний фільм",
+          "description": "Клеопатра кидає виклик Юлію Цезарю, обіцяючи збудувати величезний палац всього за три місяці. Це завдання отримує архітектор Нумерабіса, який, стикаючись із труднощами, просить про допомогу Панорамікса.\n\nДо будівництва також приєднуються Астерікс і Обелікс, які підтримують єгиптян у реалізації цього амбітного проекту. Фільм представлений у версії з українським дубляжем."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Psie Pole",
+      "updated_at": "2026-09-09T11:37:19.188648+00:00"
+    },
+    "kacz-tko-spektakl-2026-09-10T17:30:00+02:00": {
+      "title": "Kaczątko – spektakl",
+      "date": "2026-09-10T17:30:00+02:00",
+      "end_date": "2026-09-10T17:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Kaczątko to kameralny spektakl teatralny skierowany do widzów od 4. roku życia, będący autorską interpretacją klasycznej baśni Hansa Christiana Andersena o brzydkim kaczątku. Przedstawienie w formie teatru przedmiotu i teatru formy skupia się na tematyce poszukiwania własnego miejsca w świecie, samoakceptacji oraz emocjach towarzyszących dorastaniu.\n\nKluczowe informacje o spektaklu:\n• Forma: monodram, w którym wszystkie role odgrywa jedna aktorka.\n• Narracja: głównym bohaterem jest klaun wyrzucony z cyrku, który w swoich walizkach przechowuje miniaturowe światy wyczarowywane na oczach publiczności.\n• Przesłanie: historia o kaczątku staje się pretekstem do rozmowy o uczuciu bycia niezrozumianym, niewystarczającym oraz o potencjale do zmiany, jaki drzemie w każdym człowieku.\n\nSpektakl adresowany jest nie tylko do dzieci, ale również do dorosłych, pozwalając każdemu widzowi utożsamić się z bohaterem, który czuje się nieprzystający do otoczenia. Twórcy spektaklu stawiają przed publicznością ważne pytanie: czy konieczna jest zmiana samego siebie, aby zyskać akceptację innych?",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/2fce7105-3afb-489f-b379-f0d020169e3e/81da8776-d48e-4da3-9cc1-f03f5e58f8c4.jpg",
+      "location": {
+        "name": "Wrocławski Teatr Lalek, Pl. Teatralny 4, 50-051 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/kaczatko-spektakl-2fce7105-3afb-489f-b379-f0d020169e3e",
+      "source": "simplygo.pl",
+      "age_hint": "4-12",
+      "age_range": {
+        "min": 4,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/kaczatko-spektakl-2fce7105-3afb-489f-b379-f0d020169e3e",
+      "scrapped_timestamp": "2026-09-09T11:33:43.912355+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kaczątko – spektakl",
+          "description": "Kaczątko to kameralny spektakl teatralny skierowany do widzów od 4. roku życia, będący autorską interpretacją klasycznej baśni Hansa Christiana Andersena o brzydkim kaczątku. Przedstawienie w formie teatru przedmiotu i teatru formy skupia się na tematyce poszukiwania własnego miejsca w świecie, samoakceptacji oraz emocjach towarzyszących dorastaniu.\n\nKluczowe informacje o spektaklu:\n• Forma: monodram, w którym wszystkie role odgrywa jedna aktorka.\n• Narracja: głównym bohaterem jest klaun wyrzucony z cyrku, który w swoich walizkach przechowuje miniaturowe światy wyczarowywane na oczach publiczności.\n• Przesłanie: historia o kaczątku staje się pretekstem do rozmowy o uczuciu bycia niezrozumianym, niewystarczającym oraz o potencjale do zmiany, jaki drzemie w każdym człowieku.\n\nSpektakl adresowany jest nie tylko do dzieci, ale również do dorosłych, pozwalając każdemu widzowi utożsamić się z bohaterem, który czuje się nieprzystający do otoczenia. Twórcy spektaklu stawiają przed publicznością ważne pytanie: czy konieczna jest zmiana samego siebie, aby zyskać akceptację innych?"
+        },
+        "en": {
+          "title": "The Duckling – A Play",
+          "description": "The Duckling is an intimate theatrical performance aimed at audiences aged 4 and up, serving as an original interpretation of Hans Christian Andersen's classic fairy tale about the ugly duckling. The presentation, in the form of object theater and form theater, focuses on themes of finding one's place in the world, self-acceptance, and the emotions associated with growing up.\n\nKey information about the performance:\n• Form: a monodrama in which all roles are played by a single actress.\n• Narration: the main character is a clown who has been expelled from the circus, and who keeps miniature worlds in her suitcases, conjured before the audience's eyes.\n• Message: the story of the duckling serves as a pretext for a conversation about the feeling of being misunderstood, inadequate, and the potential for change that lies within every person."
+        },
+        "uk": {
+          "title": "Каченя – спектакль",
+          "description": "Каченя – це камерний театральний спектакль, спрямований на глядачів від 4 років, який є авторською інтерпретацією класичної казки Ганса Християна Андерсена про потворне каченя. Вистава у формі театру предметів та театру форми зосереджується на тематиці пошуку власного місця у світі, самоакцептації та емоціях, що супроводжують дорослішання.\n\nКлючова інформація про спектакль:\n• Форма: монодрама, в якій всі ролі виконує одна акторка.\n• Нарація: головним героєм є клоун, вигнаний з цирку, який у своїх валізах зберігає мініатюрні світи, що створюються на очах у публіки.\n• Послання: історія про каченя стає приводом для розмови про відчуття непорозуміння, недостатності та про потенціал до змін, який прихований у кожній людині."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.188665+00:00"
+    },
+    "warsztaty-plastyczne-dla-dzieci-2026-09-10T18:00:00+02:00": {
+      "title": "Warsztaty plastyczne dla dzieci",
+      "date": "2026-09-10T18:00:00+02:00",
+      "end_date": "2026-09-10T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Warsztaty plastyczne wspierające rozwój poznawczy, emocjonalny i działaniowy dzieci. Zajęcia pozwalają najmłodszym na samodzielne badanie i odkrywanie otaczającej rzeczywistości poprzez twórczość artystyczną.\n\nSzczegóły organizacyjne:\n• Miejsce: CAL ZZS, ul. Chopina 9A, Wrocław\n• Termin: każdy czwartek\n• Godzina: 18:00 – 19:00\n• Koszt: 20 zł za pojedyncze zajęcia lub 50 zł za karnet miesięczny",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/42dfb5b0-4a66-41db-98d1-4e36684cd9a0/a517707d-0080-479d-ae81-e327bb7e0da9.jpg",
+      "location": {
+        "name": "CAL Chopina Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/warsztaty-plastyczne-dla-dzieci-42dfb5b0-4a66-41db-98d1-4e36684cd9a0",
+      "source": "simplygo.pl",
+      "age_hint": "3-12",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/warsztaty-plastyczne-dla-dzieci-42dfb5b0-4a66-41db-98d1-4e36684cd9a0",
+      "scrapped_timestamp": "2026-09-09T11:33:49.068893+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Warsztaty plastyczne dla dzieci",
+          "description": "Warsztaty plastyczne wspierające rozwój poznawczy, emocjonalny i działaniowy dzieci. Zajęcia pozwalają najmłodszym na samodzielne badanie i odkrywanie otaczającej rzeczywistości poprzez twórczość artystyczną.\n\nSzczegóły organizacyjne:\n• Miejsce: CAL ZZS, ul. Chopina 9A, Wrocław\n• Termin: każdy czwartek\n• Godzina: 18:00 – 19:00\n• Koszt: 20 zł za pojedyncze zajęcia lub 50 zł za karnet miesięczny"
+        },
+        "en": {
+          "title": "Art Workshops for Children",
+          "description": "Art workshops supporting the cognitive, emotional, and practical development of children. The activities allow the youngest to independently explore and discover the surrounding reality through artistic creativity.\n\nOrganizational details:\n• Location: CAL ZZS, Chopin Street 9A, Wrocław\n• Date: every Thursday\n• Time: 6:00 PM – 7:00 PM\n• Cost: 20 PLN for a single session or 50 PLN for a monthly pass"
+        },
+        "uk": {
+          "title": "Майстер-класи з образотворчого мистецтва для дітей",
+          "description": "Майстер-класи з образотворчого мистецтва, що підтримують когнітивний, емоційний та діяльнісний розвиток дітей. Заняття дозволяють найменшим самостійно досліджувати та відкривати навколишню реальність через художню творчість.\n\nОрганізаційні деталі:\n• Місце: CAL ZZS, вул. Шопена 9A, Вроцлав\n• Дата: кожен четвер\n• Час: 18:00 – 19:00\n• Вартість: 20 зл за одне заняття або 50 зл за місячний абонемент"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-09T11:37:19.188683+00:00"
+    },
+    "klub-szczepi-skich-mamusiek-spotkania-dla-rodzic-w-2026-09-11T09:00:00+02:00": {
+      "title": "Klub Szczepińskich Mamusiek – spotkania dla rodziców",
+      "date": "2026-09-11T09:00:00+02:00",
+      "end_date": "2026-09-11T09:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Klub Szczepińskich Mamusiek to przestrzeń dla rodziców małych dzieci, którzy chcą nawiązać nowe znajomości, wymienić się doświadczeniami lub po prostu odpocząć przy kawie. Podczas gdy mamy i ojcowie integrują się, dzieci mają okazję do zabawy z rówieśnikami w nowym otoczeniu.\n\nSzczegóły spotkań:\n• Termin: piątki, godz. 9:00–12:00\n• Możliwość dołączenia o dowolnej godzinie\n• Grupa docelowa: rodzice dzieci w wieku żłobkowym i przedszkolnym oraz wszyscy rodzice ze Szczepina",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/6ec178c0-1c57-48a1-ba0a-8a9733498589/3f8d84fb-e180-43ae-808c-b2bb9cc99452.jpg",
+      "location": {
+        "name": "CAL Szczepin, Zachodnia 1, 53-643 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/klub-szczepinskich-mamusiek-spotkania-dla-rodzicow-6ec178c0-1c57-48a1-ba0a-8a9733498589",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/klub-szczepinskich-mamusiek-spotkania-dla-rodzicow-6ec178c0-1c57-48a1-ba0a-8a9733498589",
+      "scrapped_timestamp": "2026-09-09T11:33:52.853901+00:00",
+      "category": "Family Fun",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Klub Szczepińskich Mamusiek – spotkania dla rodziców",
+          "description": "Klub Szczepińskich Mamusiek to przestrzeń dla rodziców małych dzieci, którzy chcą nawiązać nowe znajomości, wymienić się doświadczeniami lub po prostu odpocząć przy kawie. Podczas gdy mamy i ojcowie integrują się, dzieci mają okazję do zabawy z rówieśnikami w nowym otoczeniu.\n\nSzczegóły spotkań:\n• Termin: piątki, godz. 9:00–12:00\n• Możliwość dołączenia o dowolnej godzinie\n• Grupa docelowa: rodzice dzieci w wieku żłobkowym i przedszkolnym oraz wszyscy rodzice ze Szczepina"
+        },
+        "en": {
+          "title": "Szczepińskie Mums Club – Meetings for Parents",
+          "description": "The Szczepińskie Mums Club is a space for parents of young children who want to make new acquaintances, share experiences, or simply relax over coffee. While mothers and fathers socialize, children have the opportunity to play with peers in a new environment.\n\nMeeting Details:\n• Date: Fridays, 9:00 AM – 12:00 PM\n• You can join at any time\n• Target group: parents of toddlers and preschoolers, as well as all parents from Szczepin"
+        },
+        "uk": {
+          "title": "Клуб Щепінських Мамусік – зустрічі для батьків",
+          "description": "Клуб Щепінських Мамусік – це простір для батьків маленьких дітей, які хочуть завести нові знайомства, обмінятися досвідом або просто відпочити за кавою. Поки мами та тати інтегруються, діти мають можливість грати з однолітками в новому середовищі.\n\nДеталі зустрічей:\n• Дата: п’ятниці, з 9:00 до 12:00\n• Можливість приєднатися в будь-який час\n• Цільова група: батьки дітей віком до ясел та дошкільнят, а також усі батьки зі Щепіна"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.188704+00:00"
+    },
+    "marsupilami-film-2026-09-11T10:00:00+02:00": {
+      "title": "Marsupilami – film",
+      "date": "2026-09-11T10:00:00+02:00",
+      "end_date": "2026-09-11T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Komedia familijna o przygodach żółtego stworka z długim ogonem, który trafia do bagażu rodziny podczas wakacji all-inclusive. Obecność tajemniczego stworzenia wywołuje serię zabawnych zdarzeń i chaosu.\n\nW polskiej wersji językowej wystąpili:\n• Cezary Pazura\n• Magdalena Boczarska\n• Mateusz Banasiuk\n• Tomasz Oświeciński\n• Henio Boczarski-Banasiuk",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/7fbedd4a-b3bf-4365-922c-6d6599897eef/77f5bd73-75ff-4305-9be6-48a353e52d20.jpg",
+      "location": {
+        "name": "Cinema City Wroclavia, Sucha 1, 50-529 Wrocław",
+        "district": "Krzyki"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/marsupilami-film-7fbedd4a-b3bf-4365-922c-6d6599897eef",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/marsupilami-film-7fbedd4a-b3bf-4365-922c-6d6599897eef",
+      "scrapped_timestamp": "2026-09-09T11:33:56.821442+00:00",
+      "category": "Cinema",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Marsupilami – film",
+          "description": "Komedia familijna o przygodach żółtego stworka z długim ogonem, który trafia do bagażu rodziny podczas wakacji all-inclusive. Obecność tajemniczego stworzenia wywołuje serię zabawnych zdarzeń i chaosu.\n\nW polskiej wersji językowej wystąpili:\n• Cezary Pazura\n• Magdalena Boczarska\n• Mateusz Banasiuk\n• Tomasz Oświeciński\n• Henio Boczarski-Banasiuk"
+        },
+        "en": {
+          "title": "Marsupilami – film",
+          "description": "A family comedy about the adventures of a yellow creature with a long tail that ends up in the luggage of a family during an all-inclusive vacation. The presence of the mysterious creature triggers a series of funny events and chaos.\n\nThe Polish voice cast includes:\n• Cezary Pazura\n• Magdalena Boczarska\n• Mateusz Banasiuk\n• Tomasz Oświeciński\n• Henio Boczarski-Banasiuk"
+        },
+        "uk": {
+          "title": "Марсупіламi – фільм",
+          "description": "Сімейна комедія про пригоди жовтого створіння з довгим хвостом, яке потрапляє до багажу родини під час відпустки все-включено. Присутність таємничого створіння викликає серію кумедних подій і хаосу.\n\nУ польській версії мовлення виступили:\n• Цезарій Пазура\n• Магдалена Бочарська\n• Матей Банасюк\n• Томаш Освєцінський\n• Геніо Бочарський-Банасюк"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-09-09T11:37:19.188720+00:00"
+    },
+    "lotnicza-misja-rodzinna-przygoda-2026-09-11T17:00:00+02:00": {
+      "title": "Lotnicza misja – rodzinna przygoda",
+      "date": "2026-09-11T17:00:00+02:00",
+      "end_date": "2026-09-11T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy dzieci od 6. roku życia wraz z rodzicami i opiekunami na rodzinną misję lotniczą. To wydarzenie, w którym uczestnicy nie tylko obserwują, ale aktywnie poszukują wskazówek, rozwiązują zagadki i współpracują, odkrywając tajemnice lotnictwa w miejscach niedostępnych podczas zwykłych wycieczek.\n\nHarmonogram misji:\n\n• Piątek, 11 września 2026 (godz. 17:00–18:00): Modelarnia, Wrocław, ul. Jana Stanki 5A. Podczas tego spotkania uczestnicy poznają cel wyprawy, otrzymają pierwsze zadania oraz wskazówki przygotowujące do dalszej części przygody.\n• Sobota, 12 września 2026 oraz niedziela, 13 września 2026: Lotnisko sportowe Mirosławice. W tym miejscu odbędzie się 50-minutowa misja poszukiwawcza.\n\nProgram misji na lotnisku obejmuje:\n\n• Poszukiwanie ukrytych wskazówek.\n• Odkrywanie tajemnic starego lotniska.\n• Wizytę w starym hangarze.\n• Możliwość zajrzenia do kabiny samolotu.\n• Wspólne rozwiązywanie zagadek i wykonywanie zadań.\n\nGodziny grup na lotnisku w Mirosławicach:\n\n• Sobota, 12 września: I grupa (11:00–11:50), II grupa (12:05–12:55).\n• Niedziela, 13 września: III grupa (11:00–11:50), IV grupa (12:05–12:55).\n\nRezerwacje miejsc prowadzone są pod numerem telefonu: 515 387 693. Więcej informacji o wydarzeniu znajduje się na stronie: www.mrmodelarnia.pl",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/2360281f-7e3e-4f0c-92c6-ca4418ef2939/f82ef800-c858-4e47-8ae2-7a530edf1672.jpg",
+      "location": {
+        "name": "Wrocław, ul. Stanki 5A, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/lotnicza-misja-rodzinna-przygoda-2360281f-7e3e-4f0c-92c6-ca4418ef2939",
+      "source": "simplygo.pl",
+      "age_hint": "6-18",
+      "age_range": {
+        "min": 6,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/lotnicza-misja-rodzinna-przygoda-2360281f-7e3e-4f0c-92c6-ca4418ef2939",
+      "scrapped_timestamp": "2026-09-09T11:34:01.164072+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "STEM"
+      ],
+      "location_type": "both",
+      "translations": {
+        "pl": {
+          "title": "Lotnicza misja – rodzinna przygoda",
+          "description": "Zapraszamy dzieci od 6. roku życia wraz z rodzicami i opiekunami na rodzinną misję lotniczą. To wydarzenie, w którym uczestnicy nie tylko obserwują, ale aktywnie poszukują wskazówek, rozwiązują zagadki i współpracują, odkrywając tajemnice lotnictwa w miejscach niedostępnych podczas zwykłych wycieczek.\n\nHarmonogram misji:\n\n• Piątek, 11 września 2026 (godz. 17:00–18:00): Modelarnia, Wrocław, ul. Jana Stanki 5A. Podczas tego spotkania uczestnicy poznają cel wyprawy, otrzymają pierwsze zadania oraz wskazówki przygotowujące do dalszej części przygody.\n• Sobota, 12 września 2026 oraz niedziela, 13 września 2026: Lotnisko sportowe Mirosławice. W tym miejscu odbędzie się 50-minutowa misja poszukiwawcza.\n\nProgram misji na lotnisku obejmuje:\n\n• Poszukiwanie ukrytych wskazówek.\n• Odkrywanie tajemnic starego lotniska.\n• Wizytę w starym hangarze.\n• Możliwość zajrzenia do kabiny samolotu.\n• Wspólne rozwiązywanie zagadek i wykonywanie zadań.\n\nGodziny grup na lotnisku w Mirosławicach:\n\n• Sobota, 12 września: I grupa (11:00–11:50), II grupa (12:05–12:55).\n• Niedziela, 13 września: III grupa (11:00–11:50), IV grupa (12:05–12:55).\n\nRezerwacje miejsc prowadzone są pod numerem telefonu: 515 387 693. Więcej informacji o wydarzeniu znajduje się na stronie: www.mrmodelarnia.pl"
+        },
+        "en": {
+          "title": "Aerial Mission – Family Adventure",
+          "description": "We invite children from the age of 6 along with their parents and guardians to a family aerial mission. This event allows participants not only to observe but also to actively search for clues, solve puzzles, and collaborate while uncovering the secrets of aviation in places that are not accessible during regular trips.\n\nMission Schedule:\n\n• Friday, September 11, 2026 (5:00 PM – 6:00 PM): Modelarnia, Wrocław, ul. Jana Stanki 5A. During this meeting, participants will learn the purpose of the expedition, receive the first tasks, and hints to prepare for the next part of the adventure.\n• Saturday, September 12, 2026, and Sunday, September 13, 2026: Mirosławice Sports Airport. A 50-minute search mission will take place at this location.\n\nThe program of the mission at the airport includes:\n\n• Searching for hidden clues.\n• Discovering secrets."
+        },
+        "uk": {
+          "title": "Авіаційна місія – сімейна пригода",
+          "description": "Запрошуємо дітей від 6 років разом з батьками та опікунами на сімейну авіаційну місію. Це подія, в якій учасники не лише спостерігають, але й активно шукають підказки, розв'язують загадки та співпрацюють, відкриваючи таємниці авіації в місцях, недоступних під час звичайних екскурсій.\n\nГрафік місії:\n\n• П'ятниця, 11 вересня 2026 (17:00–18:00): Модельня, Вроцлав, вул. Яна Станьки 5А. Під час цієї зустрічі учасники дізнаються мету експедиції, отримають перші завдання та підказки, що готують до подальшої частини пригоди.\n• Субота, 12 вересня 2026 та неділя, 13 вересня 2026: Спортивний аеродром Мірославіце. У цьому місці відбудеться 50-хвилинна місія пошуку.\n\nПрограма місії на аеродромі включає:\n\n• Пошук прихованих підказок.\n• Відкриття таємниць"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.188739+00:00"
+    },
+    "dzieci-ca-wyprzeda-gara-owa-i-dzie-otwarty-beeready-2026-09-12T09:30:00+02:00": {
+      "title": "Dziecięca Wyprzedaż Garażowa i dzień otwarty BeeReady",
+      "date": "2026-09-12T09:30:00+02:00",
+      "end_date": "2026-09-12T09:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Dzień otwarty w szkole BeeReady to okazja do poznania nauczycieli, obejrzenia sal oraz udziału w lekcjach pokazowych. Wydarzenie obejmuje również wyprzedaż garażową prowadzoną przez uczniów.\n\nPlan dnia (12 września):\n• 9:30–14:00: Dziecięca Wyprzedaż Garażowa\n• 10:00, 11:00, 12:00, 13:00: Lekcje pokazowe angielskiego (Teddy Eddie)\n• 10:00, 11:00, 12:00, 13:00: Zajęcia Superminds Academy\n\nDodatkowe informacje:\n• Kontakt: 576 151 305 lub biuro@beeready.pl\n• Dodatkowe lekcje pokazowe dla dzieci 2-7 lat oraz spotkania kwalifikacyjne dla dzieci 8+ odbędą się 9 września po 15:30 (wymagany kontakt telefoniczny lub mailowy).\n\nZapisy na lekcje pokazowe 12 września dostępne pod adresem: link\nWięcej informacji o programie: link",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/da0e5446-0443-4fe0-b81d-4b3a95c7577a/dabf5e3b-2c76-40c4-9850-750fdbbb7606.jpg",
+      "location": {
+        "name": "BeeReady Wrocław, Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/dziecieca-wyprzedaz-garazowa-i-dzien-otwarty-beeready-da0e5446-0443-4fe0-b81d-4b3a95c7577a",
+      "source": "simplygo.pl",
+      "age_hint": "2-14",
+      "age_range": {
+        "min": 2,
+        "max": 14
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/dziecieca-wyprzedaz-garazowa-i-dzien-otwarty-beeready-da0e5446-0443-4fe0-b81d-4b3a95c7577a",
+      "scrapped_timestamp": "2026-09-09T11:34:08.981381+00:00",
+      "category": "Educational",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dziecięca Wyprzedaż Garażowa i dzień otwarty BeeReady",
+          "description": "Dzień otwarty w szkole BeeReady to okazja do poznania nauczycieli, obejrzenia sal oraz udziału w lekcjach pokazowych. Wydarzenie obejmuje również wyprzedaż garażową prowadzoną przez uczniów.\n\nPlan dnia (12 września):\n• 9:30–14:00: Dziecięca Wyprzedaż Garażowa\n• 10:00, 11:00, 12:00, 13:00: Lekcje pokazowe angielskiego (Teddy Eddie)\n• 10:00, 11:00, 12:00, 13:00: Zajęcia Superminds Academy\n\nDodatkowe informacje:\n• Kontakt: 576 151 305 lub biuro@beeready.pl\n• Dodatkowe lekcje pokazowe dla dzieci 2-7 lat oraz spotkania kwalifikacyjne dla dzieci 8+ odbędą się 9 września po 15:30 (wymagany kontakt telefoniczny lub mailowy).\n\nZapisy na lekcje pokazowe 12 września dostępne pod adresem: link\nWięcej informacji o programie: link"
+        },
+        "en": {
+          "title": "Children's Garage Sale and Open Day at BeeReady",
+          "description": "The open day at BeeReady school is an opportunity to meet the teachers, tour the classrooms, and participate in demonstration lessons. The event also includes a garage sale run by the students.\n\nSchedule for the day (September 12):\n• 9:30 AM – 2:00 PM: Children's Garage Sale\n• 10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM: English demonstration lessons (Teddy Eddie)\n• 10:00 AM, 11:00 AM, 12:00 PM, 1:00 PM: Superminds Academy activities\n\nAdditional information:\n• Contact: 576 151 305 or biuro@beeready.pl\n• Additional demonstration lessons for children aged 2-7 and qualification meetings for children aged 8+ will take place on September 9 after 3:30 PM (phone or email contact required).\n\nRegistration for demonstration lessons on September 12 is available at: link\nMore information about the program: link"
+        },
+        "uk": {
+          "title": "Дитячий гаражний розпродаж та день відкритих дверей BeeReady",
+          "description": "День відкритих дверей у школі BeeReady - це можливість познайомитися з вчителями, оглянути класи та взяти участь у показових уроках. Подія також включає гаражний розпродаж, організований учнями.\n\nПлан дня (12 вересня):\n• 9:30–14:00: Дитячий гаражний розпродаж\n• 10:00, 11:00, 12:00, 13:00: Показові уроки англійської (Teddy Eddie)\n• 10:00, 11:00, 12:00, 13:00: Заняття Superminds Academy\n\nДодаткова інформація:\n• Контакт: 576 151 305 або biuro@beeready.pl\n• Додаткові показові уроки для дітей 2-7 років та кваліфікаційні зустрічі для дітей 8+ відбудуться 9 вересня після 15:30 (необхідний телефонний або електронний контакт).\n\nЗапис на показові уроки 12 вересня доступний за адресою: посилання\nБільше інформації про програму: посилання"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-09T11:37:19.188759+00:00"
+    },
+    "wroc-aw-w-pigu-ce-spacer-z-przewodnikiem-2026-09-12T11:00:00+02:00": {
+      "title": "Wrocław w pigułce – spacer z przewodnikiem",
+      "date": "2026-09-12T11:00:00+02:00",
+      "end_date": "2026-09-12T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Poznaj najważniejsze zabytki stolicy Dolnego Śląska podczas dwugodzinnego spaceru z licencjonowanym przewodnikiem. Trasa obejmuje najpiękniejsze zakątki miasta, w tym Rynek, Uniwersytet Wrocławski, Ostrów Tumski oraz Promenadę nad Odrą.\n\nPodczas wycieczki zobaczysz:\n• Średniowieczny Ratusz\n• Organy Englera w Bazylice Św. Elżbiety\n• Uniwersytet Wrocławski\n• Archikatedrę Św. Jana Chrzciciela\n• Widok na Ostrów Tumski z Promenady Staromiejskiej\n\nLogistyka:\n• Termin: każda sobota o godz. 11:00\n• Start: Rynek, przy Starym Ratuszu (obok niedźwiadka malajskiego)\n• Koszt: 30 zł (dzieci do lat 14), 40 zł (dorośli)\n• Płatność: gotówka na miejscu lub online przez Evently\n• Rezerwacja: wymagana pod numerem 513 946 946 (SMS lub WhatsApp)",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/eb00a953-2721-46d2-a768-958436eddb1c/d7278f14-044f-4cdd-b82d-1070534f259c.jpg",
+      "location": {
+        "name": "Rynek we Wrocławiu, Rynek, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/wroclaw-w-pigulce-spacer-z-przewodnikiem-eb00a953-2721-46d2-a768-958436eddb1c",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/wroclaw-w-pigulce-spacer-z-przewodnikiem-eb00a953-2721-46d2-a768-958436eddb1c",
+      "scrapped_timestamp": "2026-09-09T11:34:14.337225+00:00",
+      "category": "Field Trips",
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Wrocław w pigułce – spacer z przewodnikiem",
+          "description": "Poznaj najważniejsze zabytki stolicy Dolnego Śląska podczas dwugodzinnego spaceru z licencjonowanym przewodnikiem. Trasa obejmuje najpiękniejsze zakątki miasta, w tym Rynek, Uniwersytet Wrocławski, Ostrów Tumski oraz Promenadę nad Odrą.\n\nPodczas wycieczki zobaczysz:\n• Średniowieczny Ratusz\n• Organy Englera w Bazylice Św. Elżbiety\n• Uniwersytet Wrocławski\n• Archikatedrę Św. Jana Chrzciciela\n• Widok na Ostrów Tumski z Promenady Staromiejskiej\n\nLogistyka:\n• Termin: każda sobota o godz. 11:00\n• Start: Rynek, przy Starym Ratuszu (obok niedźwiadka malajskiego)\n• Koszt: 30 zł (dzieci do lat 14), 40 zł (dorośli)\n• Płatność: gotówka na miejscu lub online przez Evently\n• Rezerwacja: wymagana pod numerem 513 946 946 (SMS lub WhatsApp)"
+        },
+        "en": {
+          "title": "Wrocław in a Nutshell – Guided Tour",
+          "description": "Discover the most important monuments of the capital of Lower Silesia during a two-hour walk with a licensed guide. The route includes the most beautiful corners of the city, including the Market Square, Wrocław University, Ostrów Tumski, and the Promenade along the Oder.\n\nDuring the tour, you will see:\n• The Medieval Town Hall\n• Engler's Organ in St. Elizabeth's Basilica\n• Wrocław University\n• The Archcathedral of St. John the Baptist\n• View of Ostrów Tumski from the Old Town Promenade\n\nLogistics:\n• Date: every Saturday at 11:00 AM\n• Start: Market Square, by the Old Town Hall (next to the Malayan bear)\n• Cost: 30 PLN (children under 14), 40 PLN (adults)\n• Payment: cash on site or online via Evently\n• Reservation: required at 513 946 946 (SMS or WhatsApp)"
+        },
+        "uk": {
+          "title": "Вроцлав в пікулці – прогулянка з гідом",
+          "description": "Познайомтеся з найважливішими пам'ятками столиці Нижньої Сілезії під час двогодинної прогулянки з ліцензованим гідом. Маршрут охоплює найкрасивіші куточки міста, включаючи Ринок, Вроцлавський університет, Острів Тумський та Променад над Одером.\n\nПід час екскурсії ви побачите:\n• Середньовічну Ратушу\n• Органи Енглера в Базиліці Св. Єлизавети\n• Вроцлавський університет\n• Архікатедру Св. Івана Хрестителя\n• Вид на Острів Тумський з Променади Староміської\n\nЛогістика:\n• Дата: кожна субота о 11:00\n• Початок: Ринок, біля Старої Ратуші (поруч з малайським ведмедем)\n• Вартість: 30 зл (діти до 14 років), 40 зл (дорослі)\n• Оплата: готівка на місці або онлайн через Evently\n• Резервування: обов'язкове за номером 513 946 946 (SMS або WhatsApp)"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.188778+00:00"
+    },
+    "parki-esk-park-tarnogajski-2026-09-12T15:00:00+02:00": {
+      "title": "Parki ESK – Park Tarnogajski",
+      "date": "2026-09-12T15:00:00+02:00",
+      "end_date": "2026-09-12T15:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Pawilon ESK w Parku Tarnogajskim, prowadzony przez Stowarzyszenie Druga Runda, zaprasza mieszkańców do udziału w aktywnościach kulturalnych i ruchowych.\n\nOferta pawilonu:\n• minikoncerty muzyczne\n• występy taneczne\n• zajęcia ruchowe (pilates, Zumba, samoobrona)\n• warsztaty (florystyczne, aromaterapia, plastyczne)\n• gry planszowe\n\nGodziny otwarcia: 15:00–19:00 (wrzesień–październik). Mieszkańcy mogą zgłaszać własne inicjatywy do realizacji w pawilonie. Część aktywności może zostać odwołana w przypadku złej pogody. Projekt jest współfinansowany ze środków Gminy Wrocław.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/8f66f465-9dcb-4190-bf88-f4f740a088a4/8f7062c3-0a86-449f-8a21-e3b5d71e3abc.jpg",
+      "location": {
+        "name": "Park Tarnogajski, Wrocław",
+        "district": "Krzyki"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/parki-esk-park-tarnogajski-8f66f465-9dcb-4190-bf88-f4f740a088a4",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/parki-esk-park-tarnogajski-8f66f465-9dcb-4190-bf88-f4f740a088a4",
+      "scrapped_timestamp": "2026-09-09T11:34:20.366270+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Music & Dance",
+        "Workshops"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Parki ESK – Park Tarnogajski",
+          "description": "Pawilon ESK w Parku Tarnogajskim, prowadzony przez Stowarzyszenie Druga Runda, zaprasza mieszkańców do udziału w aktywnościach kulturalnych i ruchowych.\n\nOferta pawilonu:\n• minikoncerty muzyczne\n• występy taneczne\n• zajęcia ruchowe (pilates, Zumba, samoobrona)\n• warsztaty (florystyczne, aromaterapia, plastyczne)\n• gry planszowe\n\nGodziny otwarcia: 15:00–19:00 (wrzesień–październik). Mieszkańcy mogą zgłaszać własne inicjatywy do realizacji w pawilonie. Część aktywności może zostać odwołana w przypadku złej pogody. Projekt jest współfinansowany ze środków Gminy Wrocław."
+        },
+        "en": {
+          "title": "ESK Pavilion – Tarnogaj Park",
+          "description": "The ESK Pavilion in Tarnogaj Park, run by the Second Round Association, invites residents to participate in cultural and physical activities.\n\nPavilion offerings:\n• mini music concerts\n• dance performances\n• physical activities (pilates, Zumba, self-defense)\n• workshops (floral, aromatherapy, arts and crafts)\n• board games\n\nOpening hours: 3:00 PM – 7:00 PM (September – October). Residents can submit their own initiatives for implementation in the pavilion. Some activities may be canceled in case of bad weather. The project is co-financed by the Municipality of Wrocław."
+        },
+        "uk": {
+          "title": "Парки ESK – Парк Тарногайський",
+          "description": "Павільйон ESK у Парку Тарногайському, що проводиться Товариством Друга Рунда, запрошує мешканців взяти участь в культурних та рухових активностях.\n\nПропозиція павільйону:\n• мініконцерти музичні\n• танцювальні виступи\n• рухові заняття (пілатес, зумба, самооборона)\n• майстер-класи (флористика, аромотерапія, образотворче мистецтво)\n• настільні ігри\n\nГодини роботи: 15:00–19:00 (вересень–жовтень). Мешканці можуть подавати власні ініціативи для реалізації в павільйоні. Частина активностей може бути скасована у разі поганої погоди. Проект співфінансується з коштів Гміни Вроцлав."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-09-09T11:37:19.188795+00:00"
+    },
+    "filmowe-poranki-bob-budowniczy-pokaz-bajek-2026-09-13T10:30:00+02:00": {
+      "title": "Filmowe Poranki: Bob Budowniczy – pokaz bajek",
+      "date": "2026-09-13T10:30:00+02:00",
+      "end_date": "2026-09-13T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Kina Helios Wrocław Magnolia Park oraz Helios Wrocław Aleja Bielany zapraszają na Filmowe Poranki z serialem Bob Budowniczy (część 4). Wydarzenie odbędzie się w niedzielę 13 września o godzinie 10:30.\n\nZestaw bajek:\n• Elf Spychacz\n• Betoniarka i motylek\n• Gwiazdkowa akcja\n• Dinocoaster\n• Bolączka Dźwiga\n\nScenariusz wydarzenia:\n• 10–15 minut: zabawy i konkursy z animatorem\n• 50–60 minut: projekcja zestawu bajek\n\nSeans przeznaczony jest dla dzieci od 3. roku życia w towarzystwie opiekunów. Dźwięk podczas projekcji jest ściszony. Uczestnicy mogą brać udział w zabawie Łamigłówki HelioSówki.\n\nCennik biletów:\n• 4 i więcej dni przed seansem: 22,90 zł\n• 3 dni przed seansem: 26,90 zł\n• 2 dni przed seansem: 29,90 zł\n• 1 dzień przed seansem: 31,90 zł\n• w dniu seansu: 33,90 zł",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c0fd6469-1257-4537-86dc-e779b42e12fe/426b40ec-07e2-451e-901c-095bcfb0340a.jpg",
+      "location": {
+        "name": "Helios Magnolia Park, Legnicka 58, 54-202 Wrocław",
+        "district": "Krzyki"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/filmowe-poranki-bob-budowniczy-pokaz-bajek-c0fd6469-1257-4537-86dc-e779b42e12fe",
+      "source": "simplygo.pl",
+      "age_hint": "3-10",
+      "age_range": {
+        "min": 3,
+        "max": 10
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/filmowe-poranki-bob-budowniczy-pokaz-bajek-c0fd6469-1257-4537-86dc-e779b42e12fe",
+      "scrapped_timestamp": "2026-09-09T11:34:30.166295+00:00",
+      "category": "Cinema",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Filmowe Poranki: Bob Budowniczy – pokaz bajek",
+          "description": "Kina Helios Wrocław Magnolia Park oraz Helios Wrocław Aleja Bielany zapraszają na Filmowe Poranki z serialem Bob Budowniczy (część 4). Wydarzenie odbędzie się w niedzielę 13 września o godzinie 10:30.\n\nZestaw bajek:\n• Elf Spychacz\n• Betoniarka i motylek\n• Gwiazdkowa akcja\n• Dinocoaster\n• Bolączka Dźwiga\n\nScenariusz wydarzenia:\n• 10–15 minut: zabawy i konkursy z animatorem\n• 50–60 minut: projekcja zestawu bajek\n\nSeans przeznaczony jest dla dzieci od 3. roku życia w towarzystwie opiekunów. Dźwięk podczas projekcji jest ściszony. Uczestnicy mogą brać udział w zabawie Łamigłówki HelioSówki.\n\nCennik biletów:\n• 4 i więcej dni przed seansem: 22,90 zł\n• 3 dni przed seansem: 26,90 zł\n• 2 dni przed seansem: 29,90 zł\n• 1 dzień przed seansem: 31,90 zł\n• w dniu seansu: 33,90 zł"
+        },
+        "en": {
+          "title": "Film Mornings: Bob the Builder – Cartoon Screening",
+          "description": "Helios Cinema Wrocław Magnolia Park and Helios Wrocław Aleja Bielany invite you to Film Mornings featuring the series Bob the Builder (Part 4). The event will take place on Sunday, September 13th at 10:30 AM.\n\nSet of cartoons:\n• Elf Digger\n• Concrete Mixer and Butterfly\n• Christmas Action\n• Dinocoaster\n• Crane's Trouble\n\nEvent schedule:\n• 10–15 minutes: games and contests with an animator\n• 50–60 minutes: screening of the cartoon set\n\nThe screening is intended for children aged 3 and older accompanied by guardians. The sound during the screening is muted. Participants can join in the HelioSówki Puzzle fun.\n\nTicket pricing:\n• 4 or more days before the screening: 22.90 PLN\n• 3 days before the screening: 26.90 PLN\n• 2 days before the screening: 29.90 PLN\n• 1 day before the screening: 31.90 PLN\n• on the day of the screening: 33.90 PLN"
+        },
+        "uk": {
+          "title": "Кіноранки: Боб Будівельник – показ мультфільмів",
+          "description": "Кінотеатри Helios Wrocław Magnolia Park та Helios Wrocław Aleja Bielany запрошують на Кіноранки з серіалом Боб Будівельник (частина 4). Подія відбудеться в неділю 13 вересня о 10:30.\n\nНабір мультфільмів:\n• Ельф Копач\n• Бетонозмішувач і метелик\n• Зіркова акція\n• Діноатракціон\n• Болячка Кранів\n\nСценарій події:\n• 10–15 хвилин: ігри та конкурси з аніматором\n• 50–60 хвилин: показ набору мультфільмів\n\nПоказ призначений для дітей від 3 років у супроводі опікунів. Звук під час показу знижений. Учасники можуть брати участь у грі Логічні завдання HelioSówki.\n\nЦіни на квитки:\n• 4 і більше днів до сеансу: 22,90 зл\n• 3 дні до сеансу: 26,90 зл\n• 2 дні до сеансу: 29,90 зл\n• 1 день до сеансу: 31,90 зл\n• в день сеансу: 33,90 зл"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-09-09T11:37:19.188814+00:00"
+    },
+    "filmowe-poranki-stra-acy-zestaw-bajek-2026-09-13T10:30:00+02:00": {
+      "title": "Filmowe poranki: Strażacy – zestaw bajek",
+      "date": "2026-09-13T10:30:00+02:00",
+      "end_date": "2026-09-13T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na Filmowe poranki poświęcone tematyce strażackiej. W programie znalazły się następujące produkcje:\n\n• I love this job – Brygada specjalna\n• Rodzinka Treflików – Strażacy\n• Przedszkolaki – Dym z ogniska\n• Reksio strażak\n• Bolek i Lolek – Na strażackim poligonie",
+      "image": null,
+      "location": {
+        "name": "Kino Nowe Horyzonty, Kazimierza Wielkiego 19a-21, 50-077 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/filmowe-poranki-strazacy-zestaw-bajek-1ea3ce8c-9478-4c0f-8fb5-4f9743a665f0",
+      "source": "simplygo.pl",
+      "age_hint": "3-10",
+      "age_range": {
+        "min": 3,
+        "max": 10
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/filmowe-poranki-strazacy-zestaw-bajek-1ea3ce8c-9478-4c0f-8fb5-4f9743a665f0",
+      "scrapped_timestamp": "2026-09-09T11:34:36.282185+00:00",
+      "category": "Cinema",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Filmowe poranki: Strażacy – zestaw bajek",
+          "description": "Zapraszamy na Filmowe poranki poświęcone tematyce strażackiej. W programie znalazły się następujące produkcje:\n\n• I love this job – Brygada specjalna\n• Rodzinka Treflików – Strażacy\n• Przedszkolaki – Dym z ogniska\n• Reksio strażak\n• Bolek i Lolek – Na strażackim poligonie"
+        },
+        "en": {
+          "title": "Film Mornings: Firefighters – A Set of Cartoons",
+          "description": "We invite you to Film Mornings dedicated to the theme of firefighting. The program includes the following productions:\n\n• I Love This Job – Special Brigade\n• The Treflik Family – Firefighters\n• Preschoolers – Smoke from the Campfire\n• Reksio the Firefighter\n• Bolek and Lolek – At the Firefighter Training Ground"
+        },
+        "uk": {
+          "title": "Кінематографічні ранки: Пожежники – набір казок",
+          "description": "Запрошуємо на Кінематографічні ранки, присвячені тематиці пожежників. У програмі представлені наступні виробництва:\n\n• Я люблю цю роботу – Спеціальний загін\n• Родина Трефліків – Пожежники\n• Дошкільнята – Дим з вогнища\n• Рексіо пожежник\n• Болек і Лолек – На пожежному полігоні"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.188832+00:00"
+    },
+    "kreatywne-poranki-w-malumice-warsztaty-ceramiczne-2026-09-13T11:00:00+02:00": {
+      "title": "Kreatywne poranki w Malumice – warsztaty ceramiczne",
+      "date": "2026-09-13T11:00:00+02:00",
+      "end_date": "2026-09-13T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Warsztaty malowania ceramiki dla dzieci od 6. roku życia oraz dorosłych. Uczestnicy mogą eksperymentować z kolorem i formą w swobodnej atmosferze.\n\nProgram:\n• 6 września: malowanie paluszkami\n• 13 września: bazgroły kawaii\n• 20 września: technika bąbelkowa\n• 27 września: ulubione bajki\n\nLogistyka:\n• Kiedy: każda niedziela we wrześniu, godz. 11:00–13:00\n• Cena: 10 zł plus koszt wybranej formy (średnio 90 zł)\n• Limit miejsc: 20 osób\n• Zapisy: kontakt@malumika.pl, tel. 728 401 209 lub Facebook\n\nPomalowane formy zostaną wypalone w piecu i będą gotowe do odbioru po około 10 dniach.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/7252931e-5410-444c-b6ab-56e247463051/6f3585d0-4789-4109-a61f-80039bd852ea.jpg",
+      "location": {
+        "name": "MaluMika, Władysława Jagiełły 3/5, 50-201 Wroclaw",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/kreatywne-poranki-w-malumice-warsztaty-ceramiczne-7252931e-5410-444c-b6ab-56e247463051",
+      "source": "simplygo.pl",
+      "age_hint": "6-18",
+      "age_range": {
+        "min": 6,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/kreatywne-poranki-w-malumice-warsztaty-ceramiczne-7252931e-5410-444c-b6ab-56e247463051",
+      "scrapped_timestamp": "2026-09-09T11:34:39.626682+00:00",
+      "category": "Workshops",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kreatywne poranki w Malumice – warsztaty ceramiczne",
+          "description": "Warsztaty malowania ceramiki dla dzieci od 6. roku życia oraz dorosłych. Uczestnicy mogą eksperymentować z kolorem i formą w swobodnej atmosferze.\n\nProgram:\n• 6 września: malowanie paluszkami\n• 13 września: bazgroły kawaii\n• 20 września: technika bąbelkowa\n• 27 września: ulubione bajki\n\nLogistyka:\n• Kiedy: każda niedziela we wrześniu, godz. 11:00–13:00\n• Cena: 10 zł plus koszt wybranej formy (średnio 90 zł)\n• Limit miejsc: 20 osób\n• Zapisy: kontakt@malumika.pl, tel. 728 401 209 lub Facebook\n\nPomalowane formy zostaną wypalone w piecu i będą gotowe do odbioru po około 10 dniach."
+        },
+        "en": {
+          "title": "Creative Mornings in Malumice – Ceramic Workshops",
+          "description": "Ceramic painting workshops for children aged 6 and up, as well as adults. Participants can experiment with color and form in a relaxed atmosphere.\n\nProgram:\n• September 6: Finger painting\n• September 13: Kawaii doodles\n• September 20: Bubble technique\n• September 27: Favorite fairy tales\n\nLogistics:\n• When: Every Sunday in September, 11:00 AM – 1:00 PM\n• Price: 10 PLN plus the cost of the chosen form (average 90 PLN)\n• Limit: 20 participants\n• Registration: contact@malumika.pl, phone 728 401 209 or Facebook\n\nPainted forms will be fired in a kiln and will be ready for pickup in about 10 days."
+        },
+        "uk": {
+          "title": "Креативні ранки в Малуміці – керамічні майстер-класи",
+          "description": "Майстер-класи з малювання кераміки для дітей від 6 років та дорослих. Учасники можуть експериментувати з кольором і формою в невимушеній атмосфері.\n\nПрограма:\n• 6 вересня: малювання пальчиками\n• 13 вересня: каракулі каваї\n• 20 вересня: бульбашкова техніка\n• 27 вересня: улюблені казки\n\nЛогістика:\n• Коли: кожної неділі у вересні, з 11:00 до 13:00\n• Ціна: 10 зл плюс вартість обраної форми (в середньому 90 зл)\n• Ліміт місць: 20 осіб\n• Запис: kontakt@malumika.pl, тел. 728 401 209 або Facebook\n\nРозмальовані форми будуть випалені в печі і будуть готові до отримання приблизно через 10 днів."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-09T11:37:19.188852+00:00"
+    },
+    "stary-cmentarz-ydowski-niedzielne-oprowadzania-2026-09-13T12:00:00+02:00": {
+      "title": "Stary Cmentarz Żydowski – niedzielne oprowadzania",
+      "date": "2026-09-13T12:00:00+02:00",
+      "end_date": "2026-09-13T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cykliczne spacery po Starym Cmentarzu Żydowskim przy ul. Ślężnej 37/39. Obiekt funkcjonuje jako Muzeum Sztuki Cmentarnej i stanowi unikalny zespół rzeźby nagrobnej z przełomu XIX i XX wieku.\n\nGodziny oprowadzań:\n• Kwiecień–Maj: 12:00\n• Czerwiec–Sierpień: 10:00\n• Wrzesień: 12:00\n\nSpacery odbywają się w każdą niedzielę, nie obowiązują zapisy. Wstęp płatny zgodnie z cennikiem biletów (15 PLN/10 PLN).",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/768a1c87-40ba-4f33-894d-5465b091474b/cfb52789-d4ba-4c58-805c-e069c58de08d.jpg",
+      "location": {
+        "name": "Stary Cmentarz Żydowski we Wrocławiu",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/stary-cmentarz-zydowski-niedzielne-oprowadzania-768a1c87-40ba-4f33-894d-5465b091474b",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/stary-cmentarz-zydowski-niedzielne-oprowadzania-768a1c87-40ba-4f33-894d-5465b091474b",
+      "scrapped_timestamp": "2026-09-09T11:34:43.991940+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Stary Cmentarz Żydowski – niedzielne oprowadzania",
+          "description": "Cykliczne spacery po Starym Cmentarzu Żydowskim przy ul. Ślężnej 37/39. Obiekt funkcjonuje jako Muzeum Sztuki Cmentarnej i stanowi unikalny zespół rzeźby nagrobnej z przełomu XIX i XX wieku.\n\nGodziny oprowadzań:\n• Kwiecień–Maj: 12:00\n• Czerwiec–Sierpień: 10:00\n• Wrzesień: 12:00\n\nSpacery odbywają się w każdą niedzielę, nie obowiązują zapisy. Wstęp płatny zgodnie z cennikiem biletów (15 PLN/10 PLN)."
+        },
+        "en": {
+          "title": "Old Jewish Cemetery – Sunday Tours",
+          "description": "Cyclical walks through the Old Jewish Cemetery at 37/39 Ślężna Street. The site operates as the Museum of Cemetery Art and features a unique collection of gravestone sculptures from the turn of the 19th and 20th centuries.\n\nTour hours:\n• April–May: 12:00 PM\n• June–August: 10:00 AM\n• September: 12:00 PM\n\nWalks take place every Sunday, no registration is required. Admission is paid according to the ticket price list (15 PLN/10 PLN)."
+        },
+        "uk": {
+          "title": "Старий єврейський цвинтар – недільні екскурсії",
+          "description": "Циклічні прогулянки по Старому єврейському цвинтарю на вулиці Шленжній 37/39. Об'єкт функціонує як Музей мистецтва цвинтаря і є унікальним ансамблем надгробної скульптури з кінця XIX та початку XX століття.\n\nГодини екскурсій:\n• Квітень–Травень: 12:00\n• Червень–Серпень: 10:00\n• Вересень: 12:00\n\nПрогулянки відбуваються кожної неділі, попередній запис не потрібен. Вхід платний відповідно до прейскуранту квитків (15 PLN/10 PLN)."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-09-09T11:37:19.188871+00:00"
+    },
+    "dziewi-ty-dzie-wy-cigowy-2026-2026-09-13T13:00:00+02:00": {
+      "title": "Dziewiąty dzień wyścigowy 2026",
+      "date": "2026-09-13T13:00:00+02:00",
+      "end_date": "2026-09-13T13:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Dziewiąty dzień wyścigowy na Torze Partynice odbędzie się 13 września 2026 roku. To wydarzenie łączące sportową rywalizację z rekreacją na świeżym powietrzu, skierowane do całych rodzin.\n\nProgram wyścigów obejmuje gonitwy na dystansach płaskich, w tym:\n• 2 gonitwy uczniowskie – przeznaczone dla młodych jeźdźców rozpoczynających karierę\n• Gonitwy handicapowe – rywalizacja dla doświadczonych koni\n• Starty koni czystej krwi arabskiej\n\nAtrakcje dodatkowe dla dzieci i rodzin:\n• Zwiedzanie stajni rekreacyjnych z instruktorem – możliwość poznania świata koni z bliska\n• Przejażdżki na kucykach",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d638bcaf-7a1f-41e5-abf7-8d6bd42f7179/ee684812-f769-4bcb-90dd-bbc583d9bc64.jpg",
+      "location": {
+        "name": "Wrocławski Tor Wyścigów Konnych – Partynice, Zwycięska 2, 53-033 Wrocław",
+        "district": "Krzyki"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/sport/wydarzenie/dziewiaty-dzien-wyscigowy-2026-d638bcaf-7a1f-41e5-abf7-8d6bd42f7179",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/sport/wydarzenie/dziewiaty-dzien-wyscigowy-2026-d638bcaf-7a1f-41e5-abf7-8d6bd42f7179",
+      "scrapped_timestamp": "2026-09-09T11:34:49.692758+00:00",
+      "category": "Sports",
+      "additional_categories": [
+        "Family Fun",
+        "Outdoor Adventure"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Dziewiąty dzień wyścigowy 2026",
+          "description": "Dziewiąty dzień wyścigowy na Torze Partynice odbędzie się 13 września 2026 roku. To wydarzenie łączące sportową rywalizację z rekreacją na świeżym powietrzu, skierowane do całych rodzin.\n\nProgram wyścigów obejmuje gonitwy na dystansach płaskich, w tym:\n• 2 gonitwy uczniowskie – przeznaczone dla młodych jeźdźców rozpoczynających karierę\n• Gonitwy handicapowe – rywalizacja dla doświadczonych koni\n• Starty koni czystej krwi arabskiej\n\nAtrakcje dodatkowe dla dzieci i rodzin:\n• Zwiedzanie stajni rekreacyjnych z instruktorem – możliwość poznania świata koni z bliska\n• Przejażdżki na kucykach"
+        },
+        "en": {
+          "title": "Ninth Racing Day 2026",
+          "description": "The Ninth Racing Day at the Partynice Track will take place on September 13, 2026. This event combines sports competition with outdoor recreation, aimed at families. \n\nThe racing program includes flat races, including: \n• 2 student races – intended for young riders starting their careers \n• Handicap races – competition for experienced horses \n• Starts of purebred Arabian horses \n\nAdditional attractions for children and families: \n• Tours of recreational stables with an instructor – an opportunity to get to know the world of horses up close \n• Pony rides"
+        },
+        "uk": {
+          "title": "Дев'ятий день перегони 2026",
+          "description": "Дев'ятий день перегони на Трасі Партиніце відбудеться 13 вересня 2026 року. Це подія, що поєднує спортивну конкуренцію з відпочинком на свіжому повітрі, спрямована на цілі сім'ї.\n\nПрограма перегонів включає гонки на рівних дистанціях, зокрема:\n• 2 гонки учнівські – призначені для молодих вершників, які починають кар'єру\n• Гонки з гандикапом – змагання для досвідчених коней\n• Старт коней чистокровної арабської породи\n\nДодаткові атракції для дітей та сімей:\n• Екскурсії по рекреаційних стайнях з інструктором – можливість познайомитися зі світом коней з близька\n• Прогулянки на поні"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-09-09T11:37:19.188889+00:00"
+    },
+    "warsztaty-gier-planszowych-2026-09-14T14:00:00+02:00": {
+      "title": "Warsztaty gier planszowych",
+      "date": "2026-09-14T14:00:00+02:00",
+      "end_date": "2026-09-14T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Warsztaty gier planszowych prowadzone przez Stowarzyszenie Druga Runda. Uczestnicy mogą liczyć na wsparcie w nauce zasad oraz doradztwo w wyborze gier. Zajęcia są otwarte dla osób w każdym wieku.\n\nHarmonogram:\n• Poniedziałek: Gry logiczne i łamigłówki\n• Wtorek: Gry ekonomiczne i strategiczne\n• Środa: Gry przygodowe i kooperacyjne\n• Czwartek: Gry zręcznościowe i abstrakcyjne\n• Piątek: Gry konsolowe (wideo)\n\nLogistyka:\n• Termin: codziennie\n• Godziny: 14:00 – 17:00\n• Miejsce: CAL Chopina, ul. Chopina 9A, Wrocław\n• Wstęp wolny",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/391395bf-3aab-42a9-8248-172c331f8d71/fe30b0d2-dc7d-4205-87b5-e43d646ef597.jpg",
+      "location": {
+        "name": "CAL Chopina Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/warsztaty-gier-planszowych-391395bf-3aab-42a9-8248-172c331f8d71",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/warsztaty-gier-planszowych-391395bf-3aab-42a9-8248-172c331f8d71",
+      "scrapped_timestamp": "2026-09-09T11:34:54.391032+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Games"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Warsztaty gier planszowych",
+          "description": "Warsztaty gier planszowych prowadzone przez Stowarzyszenie Druga Runda. Uczestnicy mogą liczyć na wsparcie w nauce zasad oraz doradztwo w wyborze gier. Zajęcia są otwarte dla osób w każdym wieku.\n\nHarmonogram:\n• Poniedziałek: Gry logiczne i łamigłówki\n• Wtorek: Gry ekonomiczne i strategiczne\n• Środa: Gry przygodowe i kooperacyjne\n• Czwartek: Gry zręcznościowe i abstrakcyjne\n• Piątek: Gry konsolowe (wideo)\n\nLogistyka:\n• Termin: codziennie\n• Godziny: 14:00 – 17:00\n• Miejsce: CAL Chopina, ul. Chopina 9A, Wrocław\n• Wstęp wolny"
+        },
+        "en": {
+          "title": "Board Game Workshops",
+          "description": "Board game workshops conducted by the Second Round Association. Participants can expect support in learning the rules and advice on game selection. The sessions are open to people of all ages.\n\nSchedule:\n• Monday: Logic and Puzzle Games\n• Tuesday: Economic and Strategic Games\n• Wednesday: Adventure and Cooperative Games\n• Thursday: Dexterity and Abstract Games\n• Friday: Console (Video) Games\n\nLogistics:\n• Date: Daily\n• Time: 2:00 PM – 5:00 PM\n• Location: CAL Chopina, ul. Chopina 9A, Wrocław\n• Free admission"
+        },
+        "uk": {
+          "title": "Майстер-класи з настільних ігор",
+          "description": "Майстер-класи з настільних ігор, які проводить Товариство «Друга Рунда». Учасники можуть розраховувати на підтримку в навчанні правилам та консультації щодо вибору ігор. Заняття відкриті для людей будь-якого віку.\n\nГрафік:\n• Понеділок: Логічні ігри та головоломки\n• Вівторок: Економічні та стратегічні ігри\n• Середа: Пригодницькі та кооперативні ігри\n• Четвер: Спортивні та абстрактні ігри\n• П’ятниця: Консольні ігри (відео)\n\nЛогістика:\n• Дата: щодня\n• Час: 14:00 – 17:00\n• Місце: CAL Chopina, вул. Чопіна 9A, Вроцлав\n• Вхід вільний"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-09T11:37:19.188906+00:00"
+    },
+    "klubowe-centrum-aktywno-ci-wszystko-gra-2026-09-14T19:00:00+02:00": {
+      "title": "Klubowe Centrum Aktywności Wszystko GRA",
+      "date": "2026-09-14T19:00:00+02:00",
+      "end_date": "2026-09-14T19:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Klubowe Centrum Aktywności Wszystko GRA to inicjatywa skierowana do dzieci i młodzieży, której celem jest urozmaicenie czasu wolnego oraz rozwijanie kreatywności, wiedzy i umiejętności interpersonalnych. Wszystkie zajęcia w ramach centrum są całkowicie bezpłatne. Zadanie jest dofinansowane z budżetu Gminy Wrocław: https://www.wroclaw.pl/\n\nHarmonogram zajęć:\n\nZespół Szkolno-Przedszkolny nr 3 (ul. Inflancka 13):\n• Gry planszowe (klasy I-III): poniedziałki, godz. 13:30 - 15:30\n• Gry planszowe (klasy IV-VIII): środy, godz. 13:30 - 15:30\n\nZespół Szkół nr 10 (ul. Wilanowska 31):\n• Gry planszowe (klasy IV-VIII): wtorki, godz. 13:50 - 15:50\n• Gry planszowe (klasy I-III): piątki, godz. 12:30 - 14:30\n\nSzkoła Podstawowa nr 98 (ul. Sycowska 22a):\n• Gry planszowe (klasy I-III): piątki, godz. 08:30 - 10:30\n\nStowarzyszenie Druga Runda (ul. Dworcowa 10):\n• Gry planszowe: poniedziałki i środy, godz. 17:30 - 19:30\n• Zajęcia kulturalne: wtorki, godz. 16:00 - 20:00\n• Zumba: czwartki, godz. 14:00 - 16:00\n\nMłodzieżowy Ośrodek Wychowawczy (ul. Borowska 101):\n• Zajęcia manualne: piątki, godz. 16:00 - 18:00\n\nZapisy i informacje:\nW celu uzyskania dodatkowych informacji lub dokonania zapisów prosimy o kontakt:\n• E-mail: zajecia@drugarunda.pl\n• Telefon: 691 698 282",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/b6bc258a-abaf-4121-bfc9-07f3a7405ea2/eacf2c64-32a1-4864-817d-304a899b447e.jpg",
+      "location": {
+        "name": "Stowarzyszenie Druga Runda",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/klubowe-centrum-aktywnosci-wszystko-gra-b6bc258a-abaf-4121-bfc9-07f3a7405ea2",
+      "source": "simplygo.pl",
+      "age_hint": "7-14",
+      "age_range": {
+        "min": 7,
+        "max": 14
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/klubowe-centrum-aktywnosci-wszystko-gra-b6bc258a-abaf-4121-bfc9-07f3a7405ea2",
+      "scrapped_timestamp": "2026-09-09T11:34:59.401750+00:00",
+      "category": "Games",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Klubowe Centrum Aktywności Wszystko GRA",
+          "description": "Klubowe Centrum Aktywności Wszystko GRA to inicjatywa skierowana do dzieci i młodzieży, której celem jest urozmaicenie czasu wolnego oraz rozwijanie kreatywności, wiedzy i umiejętności interpersonalnych. Wszystkie zajęcia w ramach centrum są całkowicie bezpłatne. Zadanie jest dofinansowane z budżetu Gminy Wrocław: https://www.wroclaw.pl/\n\nHarmonogram zajęć:\n\nZespół Szkolno-Przedszkolny nr 3 (ul. Inflancka 13):\n• Gry planszowe (klasy I-III): poniedziałki, godz. 13:30 - 15:30\n• Gry planszowe (klasy IV-VIII): środy, godz. 13:30 - 15:30\n\nZespół Szkół nr 10 (ul. Wilanowska 31):\n• Gry planszowe (klasy IV-VIII): wtorki, godz. 13:50 - 15:50\n• Gry planszowe (klasy I-III): piątki, godz. 12:30 - 14:30\n\nSzkoła Podstawowa nr 98 (ul. Sycowska 22a):\n• Gry planszowe (klasy I-III): piątki, godz. 08:30 - 10:30\n\nStowarzyszenie Druga Runda (ul. Dworcowa 10):\n• Gry planszowe: poniedziałki i środy, godz. 17:30 - 19:30\n• Zajęcia kulturalne: wtorki, godz. 16:00 - 20:00\n• Zumba: czwartki, godz. 14:00 - 16:00\n\nMłodzieżowy Ośrodek Wychowawczy (ul. Borowska 101):\n• Zajęcia manualne: piątki, godz. 16:00 - 18:00\n\nZapisy i informacje:\nW celu uzyskania dodatkowych informacji lub dokonania zapisów prosimy o kontakt:\n• E-mail: zajecia@drugarunda.pl\n• Telefon: 691 698 282"
+        },
+        "en": {
+          "title": "Club Activity Center Everything Plays",
+          "description": "The Club Activity Center Everything Plays is an initiative aimed at children and youth, designed to diversify leisure time and develop creativity, knowledge, and interpersonal skills. All activities within the center are completely free of charge. The project is funded by the budget of the City of Wrocław: https://www.wroclaw.pl/\n\nSchedule of activities:\n\nSchool and Kindergarten Team No. 3 (Inflancka Street 13):\n• Board games (grades I-III): Mondays, 1:30 PM - 3:30 PM\n• Board games (grades IV-VIII): Wednesdays, 1:30 PM - 3:30 PM\n\nSchool Team No. 10 (Wilanowska Street 31):\n• Board games (grades IV-VIII): Tuesdays, 1:50 PM - 3:50 PM\n• Board games (grades I-III): Fridays, 12:30 PM - 2:30 PM\n\nPrimary School No. 98 (Sycowska Street 22a):\n• Board games (grades I-III): Fridays, 8:30 AM - 10:00 AM"
+        },
+        "uk": {
+          "title": "Клубний Центр Активності Все ГРА",
+          "description": "Клубний Центр Активності Все ГРА - це ініціатива, спрямована на дітей та молодь, метою якої є урізноманітнення вільного часу та розвиток креативності, знань і міжособистісних навичок. Усі заняття в рамках центру є абсолютно безкоштовними. Завдання фінансується з бюджету Гміни Вроцлав: https://www.wroclaw.pl/\n\nГрафік занять:\n\nЗагальноосвітня школа № 3 (вул. Інфлянтська 13):\n• Настільні ігри (класи I-III): понеділки, 13:30 - 15:30\n• Настільні ігри (класи IV-VIII): середи, 13:30 - 15:30\n\nЗагальноосвітня школа № 10 (вул. Вілановська 31):\n• Настільні ігри (класи IV-VIII): вівторки, 13:50 - 15:50\n• Настільні ігри (класи I-III): п’ятниці, 12:30 - 14:30\n\nПочаткова школа № 98 (вул. Сиковська 22а):\n• Настільні ігри (класи I-III): п’ятниці, 08:30 - 10:00"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-09T11:37:19.188924+00:00"
+    },
+    "joga-dla-dzieci-warsztaty-2026-09-15T17:00:00+02:00": {
+      "title": "Joga dla dzieci – warsztaty",
+      "date": "2026-09-15T17:00:00+02:00",
+      "end_date": "2026-09-15T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zajęcia jogi dla dzieci w wieku 7–12 lat, prowadzone metodą Animal Kids Yoga. Warsztaty łączą ruch, zabawę i relaks, wspierając rozwój fizyczny oraz emocjonalny uczniów szkół podstawowych.\n\nLogistyka:\n• Cykl: zajęcia odbywają się regularnie aż do czerwca\n• Opłata: 20 zł miesięcznie\n• Zapisy: obowiązuje zapis na cały cykl, brak możliwości uczestnictwa w pojedynczych spotkaniach",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d2e27b94-a378-4a6c-abab-d6321f962cdc/ef4942b3-0151-4d60-9955-930933adc4d4.jpg",
+      "location": {
+        "name": "CAL Szczepin, Zachodnia 1, 53-643 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/joga-dla-dzieci-warsztaty-d2e27b94-a378-4a6c-abab-d6321f962cdc",
+      "source": "simplygo.pl",
+      "age_hint": "7-12",
+      "age_range": {
+        "min": 7,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/joga-dla-dzieci-warsztaty-d2e27b94-a378-4a6c-abab-d6321f962cdc",
+      "scrapped_timestamp": "2026-09-09T11:35:05.175453+00:00",
+      "category": "Workshops",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Joga dla dzieci – warsztaty",
+          "description": "Zajęcia jogi dla dzieci w wieku 7–12 lat, prowadzone metodą Animal Kids Yoga. Warsztaty łączą ruch, zabawę i relaks, wspierając rozwój fizyczny oraz emocjonalny uczniów szkół podstawowych.\n\nLogistyka:\n• Cykl: zajęcia odbywają się regularnie aż do czerwca\n• Opłata: 20 zł miesięcznie\n• Zapisy: obowiązuje zapis na cały cykl, brak możliwości uczestnictwa w pojedynczych spotkaniach"
+        },
+        "en": {
+          "title": "Yoga for Kids – Workshops",
+          "description": "Yoga classes for children aged 7–12, conducted using the Animal Kids Yoga method. The workshops combine movement, play, and relaxation, supporting the physical and emotional development of elementary school students.\n\nLogistics:\n• Cycle: classes take place regularly until June\n• Fee: 20 PLN per month\n• Registration: registration for the entire cycle is required, no possibility to participate in individual meetings"
+        },
+        "uk": {
+          "title": "Йога для дітей – майстер-клас",
+          "description": "Заняття йогою для дітей віком 7–12 років, проведені методом Animal Kids Yoga. Майстер-клас поєднує рух, гру та релаксацію, підтримуючи фізичний та емоційний розвиток учнів початкових шкіл.\n\nЛогістика:\n• Цикл: заняття відбуваються регулярно до червня\n• Оплата: 20 грн на місяць\n• Записи: обов'язковий запис на весь цикл, немає можливості участі в окремих зустрічах"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.188941+00:00"
+    },
+    "plenery-rysunkowe-post-p-a-sezony-w-parku-2026-09-15T17:00:00+02:00": {
+      "title": "Plenery rysunkowe – Postęp a Sezony w parku",
+      "date": "2026-09-15T17:00:00+02:00",
+      "end_date": "2026-09-15T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cykl spotkań rysunkowych pod hasłem adaptacja, prowadzony przez artystkę Magdę Weber. Uczestnicy będą korzystać z różnorodnych technik i narzędzi w otoczeniu przyrody.\n\nTerminy spotkań (wtorki, godz. 17:00):\n• 9.06, 23.06, 14.07, 21.07, 4.08, 25.08, 1.09, 8.09, 15.09, 29.09\n\nInformacje organizacyjne:\n• Miejsce: park im. Lesława Węgrzynowskiego, ul. Tęczowa 58, Wrocław\n• Wstęp: wolny, brak zapisów\n• Udogodnienia: materiały do tworzenia dostępne na miejscu\n\nWydarzenie jest częścią programu publicznego „Postęp a Sezony w parku. Adaptacja” https://bwa.wroc.pl/postep-a-sezony-w-parku-2026/",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/58c00675-0218-45bd-9ac2-40ea86d3b1bd/037d4316-0b17-4d67-be85-59ae4b9d86a6.jpg",
+      "location": {
+        "name": "park im. Lesława Węgrzynowskiego, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/plenery-rysunkowe-postep-a-sezony-w-parku-58c00675-0218-45bd-9ac2-40ea86d3b1bd",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/plenery-rysunkowe-postep-a-sezony-w-parku-58c00675-0218-45bd-9ac2-40ea86d3b1bd",
+      "scrapped_timestamp": "2026-09-09T11:35:08.589711+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Plenery rysunkowe – Postęp a Sezony w parku",
+          "description": "Cykl spotkań rysunkowych pod hasłem adaptacja, prowadzony przez artystkę Magdę Weber. Uczestnicy będą korzystać z różnorodnych technik i narzędzi w otoczeniu przyrody.\n\nTerminy spotkań (wtorki, godz. 17:00):\n• 9.06, 23.06, 14.07, 21.07, 4.08, 25.08, 1.09, 8.09, 15.09, 29.09\n\nInformacje organizacyjne:\n• Miejsce: park im. Lesława Węgrzynowskiego, ul. Tęczowa 58, Wrocław\n• Wstęp: wolny, brak zapisów\n• Udogodnienia: materiały do tworzenia dostępne na miejscu\n\nWydarzenie jest częścią programu publicznego „Postęp a Sezony w parku. Adaptacja” https://bwa.wroc.pl/postep-a-sezony-w-parku-2026/"
+        },
+        "en": {
+          "title": "Drawing Workshops – Progress and Seasons in the Park",
+          "description": "A series of drawing meetings under the theme of adaptation, led by artist Magda Weber. Participants will use various techniques and tools in a natural setting.\n\nMeeting dates (Tuesdays, 5:00 PM):\n• 9.06, 23.06, 14.07, 21.07, 4.08, 25.08, 1.09, 8.09, 15.09, 29.09\n\nOrganizational information:\n• Location: Lesław Węgrzynowski Park, Tęczowa 58, Wrocław\n• Admission: free, no registration required\n• Amenities: materials for creation available on-site\n\nThe event is part of the public program \"Progress and Seasons in the Park. Adaptation\" https://bwa.wroc.pl/postep-a-sezony-w-parku-2026/"
+        },
+        "uk": {
+          "title": "Пленерні малюнки – Прогрес та Сезони в парку",
+          "description": "Цикл зустрічей з малювання під гаслом адаптації, який проводить художниця Магда Вебер. Учасники будуть використовувати різноманітні техніки та інструменти в природному середовищі.\n\nДати зустрічей (вівторки, о 17:00):\n• 9.06, 23.06, 14.07, 21.07, 4.08, 25.08, 1.09, 8.09, 15.09, 29.09\n\nОрганізаційна інформація:\n• Місце: парк ім. Леслава Вегжинського, вул. Тенчова 58, Вроцлав\n• Вхід: вільний, без запису\n• Зручності: матеріали для творчості доступні на місці\n\nПодія є частиною публічної програми «Прогрес та Сезони в парку. Адаптація» https://bwa.wroc.pl/postep-a-sezony-w-parku-2026/"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.188961+00:00"
+    },
+    "europejski-tydzie-mobilno-ci-2026-2026-09-16T12:00:00+02:00": {
+      "title": "Europejski Tydzień Mobilności 2026",
+      "date": "2026-09-16T12:00:00+02:00",
+      "end_date": "2026-09-16T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Wydarzenie organizowane przez Fundację ART JTM oraz Fundację Przyjaźń Sztuka Edukacja pod hasłem „Mobilność dla każdego”. Program koncentruje się na potrzebach dzieci i młodzieży z niepełnosprawnościami.\n\nAtrakcje:\n• 16–22 września: Muzyczny Tramwaj z artystami Teatru Dialogu kursujący wieczorami po Wrocławiu.\n• 22 września (18:00–20:00): Muppetowy Happening na ul. Świdnickiej, połączony z prezentacją mapy mobilności Wrocławia.\n\nSzczegółowe informacje o trasach tramwaju będą publikowane na bieżąco. Wydarzenie jest współfinansowane ze środków Gminy Wrocław, dostępnych na stronie www.wroclaw.pl.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/f66297df-cc37-42cb-89c3-a0bbe265d20b/45ca1d76-c3dd-4d6e-82ea-e48a86261c9b.jpg",
+      "location": {
+        "name": "Ulica Świdnicka, Świdnicka, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/europejski-tydzien-mobilnosci-2026-f66297df-cc37-42cb-89c3-a0bbe265d20b",
+      "source": "simplygo.pl",
+      "age_hint": "3-18",
+      "age_range": {
+        "min": 3,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/europejski-tydzien-mobilnosci-2026-f66297df-cc37-42cb-89c3-a0bbe265d20b",
+      "scrapped_timestamp": "2026-09-09T11:35:13.316021+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Europejski Tydzień Mobilności 2026",
+          "description": "Wydarzenie organizowane przez Fundację ART JTM oraz Fundację Przyjaźń Sztuka Edukacja pod hasłem „Mobilność dla każdego”. Program koncentruje się na potrzebach dzieci i młodzieży z niepełnosprawnościami.\n\nAtrakcje:\n• 16–22 września: Muzyczny Tramwaj z artystami Teatru Dialogu kursujący wieczorami po Wrocławiu.\n• 22 września (18:00–20:00): Muppetowy Happening na ul. Świdnickiej, połączony z prezentacją mapy mobilności Wrocławia.\n\nSzczegółowe informacje o trasach tramwaju będą publikowane na bieżąco. Wydarzenie jest współfinansowane ze środków Gminy Wrocław, dostępnych na stronie www.wroclaw.pl."
+        },
+        "en": {
+          "title": "European Mobility Week 2026",
+          "description": "An event organized by the ART JTM Foundation and the Friendship Art Education Foundation under the slogan 'Mobility for Everyone'. The program focuses on the needs of children and youth with disabilities.\n\nAttractions:\n• September 16–22: Musical Tram with artists from the Dialogue Theatre operating in the evenings around Wrocław.\n• September 22 (6:00 PM–8:00 PM): Muppet Happening on Świdnicka Street, combined with the presentation of Wrocław's mobility map.\n\nDetailed information about the tram routes will be published regularly. The event is co-financed by the Municipality of Wrocław, available on the website www.wroclaw.pl."
+        },
+        "uk": {
+          "title": "Європейський тиждень мобільності 2026",
+          "description": "Подія, організована Фондом ART JTM та Фондом Дружба Мистецтво Освіта під гаслом «Мобільність для кожного». Програма зосереджена на потребах дітей та молоді з інвалідністю.\n\nАтракції:\n• 16–22 вересня: Музичний трамвай з артистами Театру Діалогу, що курсує вечорами по Вроцлаву.\n• 22 вересня (18:00–20:00): Ляльковий Хепенінг на вул. Свідницькій, поєднаний з презентацією карти мобільності Вроцлава.\n\nДетальна інформація про маршрути трамвая буде публікуватися в процесі. Подія частково фінансується з коштів Гміни Вроцлав, доступних на сайті www.wroclaw.pl."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.188978+00:00"
+    },
+    "gie-da-staroci-na-placu-pod-iglic-2026-09-19T08:00:00+02:00": {
+      "title": "Giełda Staroci na Placu pod Iglicą",
+      "date": "2026-09-19T08:00:00+02:00",
+      "end_date": "2026-09-19T08:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Giełda Staroci odbywa się na Placu pod Iglicą w pobliżu Hali Stulecia we Wrocławiu. Wydarzenie jest otwarte dla odwiedzających w godzinach 8:00 – 16:00.\n\nNa giełdzie można znaleźć szeroki asortyment przedmiotów kolekcjonerskich i użytkowych, w tym:\n• Sztukę i antyki (obrazy, rzeźby, porcelanę, zegary)\n• Muzykę (winyle, kasety, sprzęt retro)\n• Fotografię (stare aparaty, klisze)\n• Zabawki, militaria, oświetlenie vintage\n• Rzemiosło, narzędzia, modę retro oraz mapy i dokumenty\n\nKontakt z organizatorem: 733 618 174",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/5f495420-1740-4407-bfbb-bedf9333f101/9cacff19-9f2a-4a9a-a6a1-767938c1cca9.jpg",
+      "location": {
+        "name": "Wrocław, Wystawowa 1",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/gielda-staroci-na-placu-pod-iglica-5f495420-1740-4407-bfbb-bedf9333f101",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/gielda-staroci-na-placu-pod-iglica-5f495420-1740-4407-bfbb-bedf9333f101",
+      "scrapped_timestamp": "2026-09-09T11:35:17.775716+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Family Fun",
+        "Seasonal Festival"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Giełda Staroci na Placu pod Iglicą",
+          "description": "Giełda Staroci odbywa się na Placu pod Iglicą w pobliżu Hali Stulecia we Wrocławiu. Wydarzenie jest otwarte dla odwiedzających w godzinach 8:00 – 16:00.\n\nNa giełdzie można znaleźć szeroki asortyment przedmiotów kolekcjonerskich i użytkowych, w tym:\n• Sztukę i antyki (obrazy, rzeźby, porcelanę, zegary)\n• Muzykę (winyle, kasety, sprzęt retro)\n• Fotografię (stare aparaty, klisze)\n• Zabawki, militaria, oświetlenie vintage\n• Rzemiosło, narzędzia, modę retro oraz mapy i dokumenty\n\nKontakt z organizatorem: 733 618 174"
+        },
+        "en": {
+          "title": "Antique Fair at the Iglica Square",
+          "description": "The Antique Fair takes place at the Iglica Square near the Centennial Hall in Wrocław. The event is open to visitors from 8:00 AM to 4:00 PM.\n\nAt the fair, you can find a wide range of collectible and usable items, including:\n• Art and antiques (paintings, sculptures, porcelain, clocks)\n• Music (vinyl records, cassettes, retro equipment)\n• Photography (old cameras, film)\n• Toys, military items, vintage lighting\n• Crafts, tools, retro fashion, as well as maps and documents\n\nContact the organizer: 733 618 174"
+        },
+        "uk": {
+          "title": "Біржа антикваріату на Площі під Іглицею",
+          "description": "Біржа антикваріату відбувається на Площі під Іглицею поблизу Гали Столеття у Вроцлаві. Подія відкрита для відвідувачів з 8:00 до 16:00.\n\nНа біржі можна знайти широкий асортимент колекційних та ужиткових предметів, зокрема:\n• Мистецтво та антикваріат (картини, скульптури, порцеляна, годинники)\n• Музику (вініли, касети, ретро-обладнання)\n• Фотографію (старі камери, плівки)\n• Іграшки, військову атрибутику, вінтажне освітлення\n• Ремесло, інструменти, ретро-моду, а також карти та документи\n\nКонтакт з організатором: 733 618 174"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.189015+00:00"
+    },
+    "wok-starego-miasta-i-ostrowa-tumskiego-spacer-z-przewodnikiem-2026-09-19T10:00:00+02:00": {
+      "title": "Wokół Starego Miasta i Ostrowa Tumskiego – spacer z przewodnikiem",
+      "date": "2026-09-19T10:00:00+02:00",
+      "end_date": "2026-09-19T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Wyjątkowa podróż przez wrocławskie Stare Miasto i Ostrów Tumski, podczas której uczestnicy poznają mniej oczywiste historie, legendy i tajemnice miasta. Spacer obejmuje m.in. wizytę w Kościele Uniwersyteckim pw. Najświętszego Imienia Jezus.\n\nLogistyka:\n• Start 1. etapu: godz. 10.00, Plac Wolności (przed Narodowym Forum Muzyki).\n• Start 2. etapu: godz. 13.00, Plac Uniwersytecki (przed fontanną Szermierza).\n• Czas trwania: ok. 5 godzin (trasa ok. 5,5 km).\n\nCennik:\n• Dzieci do lat 7: bezpłatnie.\n• Młodzież (7-18 lat) oraz seniorzy (powyżej 60 lat): 20 zł.\n• Dorośli: 30 zł.\n\nObowiązują zapisy przez formularz zgłoszeniowy, telefon 693 145 674 lub e-mail kontakt@nieoczywistywroclaw.pl. Płatność gotówką lub BLIKiem na miejscu startu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/80136501-0acc-4a48-9344-3d45b15ed48a/8f91f88d-87dc-4b68-9303-2ce5f51c3eea.jpg",
+      "location": {
+        "name": "Plac Wolności, plac Wolności, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/wokol-starego-miasta-i-ostrowa-tumskiego-spacer-z-przewodnikiem-80136501-0acc-4a48-9344-3d45b15ed48a",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/wokol-starego-miasta-i-ostrowa-tumskiego-spacer-z-przewodnikiem-80136501-0acc-4a48-9344-3d45b15ed48a",
+      "scrapped_timestamp": "2026-09-09T11:35:22.737333+00:00",
+      "category": "Field Trips",
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Wokół Starego Miasta i Ostrowa Tumskiego – spacer z przewodnikiem",
+          "description": "Wyjątkowa podróż przez wrocławskie Stare Miasto i Ostrów Tumski, podczas której uczestnicy poznają mniej oczywiste historie, legendy i tajemnice miasta. Spacer obejmuje m.in. wizytę w Kościele Uniwersyteckim pw. Najświętszego Imienia Jezus.\n\nLogistyka:\n• Start 1. etapu: godz. 10.00, Plac Wolności (przed Narodowym Forum Muzyki).\n• Start 2. etapu: godz. 13.00, Plac Uniwersytecki (przed fontanną Szermierza).\n• Czas trwania: ok. 5 godzin (trasa ok. 5,5 km).\n\nCennik:\n• Dzieci do lat 7: bezpłatnie.\n• Młodzież (7-18 lat) oraz seniorzy (powyżej 60 lat): 20 zł.\n• Dorośli: 30 zł.\n\nObowiązują zapisy przez formularz zgłoszeniowy, telefon 693 145 674 lub e-mail kontakt@nieoczywistywroclaw.pl. Płatność gotówką lub BLIKiem na miejscu startu."
+        },
+        "en": {
+          "title": "Around the Old Town and Ostrów Tumski – Guided Tour",
+          "description": "A unique journey through Wrocław's Old Town and Ostrów Tumski, where participants will discover less obvious stories, legends, and secrets of the city. The walk includes a visit to the University Church of the Holy Name of Jesus.\n\nLogistics:\n• Start of Stage 1: 10:00 AM, Plac Wolności (in front of the National Forum of Music).\n• Start of Stage 2: 1:00 PM, Plac Uniwersytecki (in front of the Fencer Fountain).\n• Duration: approximately 5 hours (route about 5.5 km).\n\nPricing:\n• Children under 7: free.\n• Youth (7-18 years) and seniors (over 60 years): 20 PLN.\n• Adults: 30 PLN.\n\nRegistration is required via the registration form, phone 693 145 674, or email kontakt@nieoczywistywroclaw.pl. Payment in cash or via BLIK at the starting point."
+        },
+        "uk": {
+          "title": "Навколо Старого Міста та Острова Тумського – прогулянка з гідом",
+          "description": "Унікальна подорож через вроцлавське Старе Місто та Острів Тумський, під час якої учасники дізнаються про менш очевидні історії, легенди та таємниці міста. Прогулянка включає, зокрема, візит до Університетської церкви святого Імені Ісуса.\n\nЛогістика:\n• Початок 1-го етапу: о 10:00, Площа Свободи (перед Національним форумом музики).\n• Початок 2-го етапу: о 13:00, Університетська площа (перед фонтаном Шермієра).\n• Тривалість: близько 5 годин (маршрут близько 5,5 км).\n\nЦіни:\n• Діти до 7 років: безкоштовно.\n• Молодь (7-18 років) та пенсіонери (понад 60 років): 20 зл.\n• Дорослі: 30 зл.\n\nОбов'язкове попереднє записування через реєстраційну форму, телефон 693 145 674 або електронну пошту kontakt@nieoczywistywroclaw.pl. Оплата готівкою або BLIK на місці старту."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.189056+00:00"
+    },
+    "operanki-warsztaty-muzyczne-2026-09-19T10:00:00+02:00": {
+      "title": "OPERANKI – warsztaty muzyczne",
+      "date": "2026-09-19T10:00:00+02:00",
+      "end_date": "2026-09-19T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cykl edukacyjnych warsztatów muzycznych dla rodzin z dziećmi w wieku od 3 do 6 lat w Operze Wrocławskiej. W bieżącym sezonie uczestnicy wyruszą w muzyczną podróż po krajach Europy.\n\nProgram obejmuje:\n• wspólne śpiewanie, tańczenie i granie,\n• aktywności rozwijające wyobraźnię i wrażliwość artystyczną,\n• wsparcie integracji sensorycznej i kompetencji społecznych.\n\nLogistyka:\n• Miejsce: Foyer Opery (1 piętro), wejście główne.\n• Czas trwania: 45 minut.\n• Częstotliwość: raz w miesiącu (sobota).\n\nCeny biletów:\n• 40 zł – bilet ulgowy (poniżej 18 r.ż.)\n• 30 zł – bilet normalny (powyżej 18 r.ż.)",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/32a0f2bd-4bb7-4bf5-8477-e61bdfc2f53f/f1d108bb-5325-4189-9065-d62b9c436b3a.jpg",
+      "location": {
+        "name": "Opera Wrocławska, Świdnicka 35, 50-066 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/operanki-warsztaty-muzyczne-32a0f2bd-4bb7-4bf5-8477-e61bdfc2f53f",
+      "source": "simplygo.pl",
+      "age_hint": "3-6",
+      "age_range": {
+        "min": 3,
+        "max": 6
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/operanki-warsztaty-muzyczne-32a0f2bd-4bb7-4bf5-8477-e61bdfc2f53f",
+      "scrapped_timestamp": "2026-09-09T11:35:33.073590+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "OPERANKI – warsztaty muzyczne",
+          "description": "Cykl edukacyjnych warsztatów muzycznych dla rodzin z dziećmi w wieku od 3 do 6 lat w Operze Wrocławskiej. W bieżącym sezonie uczestnicy wyruszą w muzyczną podróż po krajach Europy.\n\nProgram obejmuje:\n• wspólne śpiewanie, tańczenie i granie,\n• aktywności rozwijające wyobraźnię i wrażliwość artystyczną,\n• wsparcie integracji sensorycznej i kompetencji społecznych.\n\nLogistyka:\n• Miejsce: Foyer Opery (1 piętro), wejście główne.\n• Czas trwania: 45 minut.\n• Częstotliwość: raz w miesiącu (sobota).\n\nCeny biletów:\n• 40 zł – bilet ulgowy (poniżej 18 r.ż.)\n• 30 zł – bilet normalny (powyżej 18 r.ż.)"
+        },
+        "en": {
+          "title": "OPERANKI – Music Workshops",
+          "description": "A series of educational music workshops for families with children aged 3 to 6 at the Wrocław Opera. In the current season, participants will embark on a musical journey through the countries of Europe.\n\nThe program includes:\n• singing, dancing, and playing together,\n• activities that develop imagination and artistic sensitivity,\n• support for sensory integration and social skills.\n\nLogistics:\n• Location: Foyer of the Opera (1st floor), main entrance.\n• Duration: 45 minutes.\n• Frequency: once a month (Saturday).\n\nTicket prices:\n• 40 PLN – reduced ticket (under 18 years old)\n• 30 PLN – regular ticket (over 18 years old)"
+        },
+        "uk": {
+          "title": "ОПЕРАНКИ – музичні майстер-класи",
+          "description": "Цикл освітніх музичних майстер-класів для сімей з дітьми віком від 3 до 6 років в Опері Вроцлава. У поточному сезоні учасники вирушать у музичну подорож країнами Європи.\n\nПрограма включає:\n• спільне співання, танцювання та гра на інструментах,\n• активності, що розвивають уяву та художню чутливість,\n• підтримка сенсорної інтеграції та соціальних навичок.\n\nЛогістика:\n• Місце: Фойє Опери (1 поверх), головний вхід.\n• Тривалість: 45 хвилин.\n• Частота: раз на місяць (субота).\n\nЦіни квитків:\n• 40 зл – пільговий квиток (до 18 років)\n• 30 зл – звичайний квиток (понад 18 років)"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.189073+00:00"
+    },
+    "zakrzowski-pchli-targ-na-osiedlu-sobieskiego-2026-09-19T10:00:00+02:00": {
+      "title": "Zakrzowski Pchli Targ na Osiedlu Sobieskiego",
+      "date": "2026-09-19T10:00:00+02:00",
+      "end_date": "2026-09-19T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Sąsiedzka inicjatywa wymiany i sprzedaży przedmiotów z drugiego obiegu, takich jak ubrania, książki czy zabawki. Wydarzenie organizowane jest przez Centrum Aktywności Lokalnej Zakrzów.\n\nInformacje dla uczestników:\n• Termin: sobota, 16 maja 2026 r., godz. 10:00-13:00 (wystawcy od 9:40).\n• Miejsce: plac przy Biedronce, ul. Wilanowska 25.\n• Kolejne terminy: 20 czerwca, 18 lipca, 22 sierpnia, 19 września.\n\nOsoby zainteresowane wystawieniem swoich rzeczy proszone są o zgłoszenia przez formularz - link do formularza. Inicjatywa jest współfinansowana ze środków Gminy Wrocław (www.wroclaw.pl).",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c3089b96-4d19-4923-8deb-981377bf822d/fbadaa80-bee9-44e5-908f-cbd26998ec7f.jpg",
+      "location": {
+        "name": "Plac przed sklepem Biedronka ul. Wilanowska 25, Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/zakrzowski-pchli-targ-na-osiedlu-sobieskiego-c3089b96-4d19-4923-8deb-981377bf822d",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/zakrzowski-pchli-targ-na-osiedlu-sobieskiego-c3089b96-4d19-4923-8deb-981377bf822d",
+      "scrapped_timestamp": "2026-09-09T11:35:37.542979+00:00",
+      "category": "Family Fun",
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Zakrzowski Pchli Targ na Osiedlu Sobieskiego",
+          "description": "Sąsiedzka inicjatywa wymiany i sprzedaży przedmiotów z drugiego obiegu, takich jak ubrania, książki czy zabawki. Wydarzenie organizowane jest przez Centrum Aktywności Lokalnej Zakrzów.\n\nInformacje dla uczestników:\n• Termin: sobota, 16 maja 2026 r., godz. 10:00-13:00 (wystawcy od 9:40).\n• Miejsce: plac przy Biedronce, ul. Wilanowska 25.\n• Kolejne terminy: 20 czerwca, 18 lipca, 22 sierpnia, 19 września.\n\nOsoby zainteresowane wystawieniem swoich rzeczy proszone są o zgłoszenia przez formularz - link do formularza. Inicjatywa jest współfinansowana ze środków Gminy Wrocław (www.wroclaw.pl)."
+        },
+        "en": {
+          "title": "Zakrzów Flea Market in Sobieski Estate",
+          "description": "A neighborhood initiative for the exchange and sale of second-hand items such as clothes, books, and toys. The event is organized by the Zakrzów Local Activity Center.\n\nInformation for participants:\n• Date: Saturday, May 16, 2026, from 10:00 AM to 1:00 PM (exhibitors from 9:40 AM).\n• Location: Square by Biedronka, 25 Wilanowska Street.\n• Upcoming dates: June 20, July 18, August 22, September 19.\n\nThose interested in exhibiting their items are asked to register via the form - link to the form. The initiative is co-financed by the Municipality of Wrocław (www.wroclaw.pl)."
+        },
+        "uk": {
+          "title": "Закржовський Блошиний Ринок на Оселі Собєського",
+          "description": "Сусідська ініціатива обміну та продажу предметів з другого обігу, таких як одяг, книги чи іграшки. Подія організована Центром Активності Місцевості Закржів.\n\nІнформація для учасників:\n• Дата: субота, 16 травня 2026 р., з 10:00 до 13:00 (виставці з 9:40).\n• Місце: площа біля Бідронки, вул. Вілановська 25.\n• Наступні дати: 20 червня, 18 липня, 22 серпня, 19 вересня.\n\nОсоби, зацікавлені у виставленні своїх речей, просять подавати заявки через форму - посилання на форму. Ініціатива частково фінансується з коштів Гміни Вроцлав (www.wroclaw.pl)."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-09T11:37:19.189091+00:00"
+    },
+    "popowicka-biesiada-s-siedzka-2026-09-19T16:00:00+02:00": {
+      "title": "Popowicka Biesiada Sąsiedzka",
+      "date": "2026-09-19T16:00:00+02:00",
+      "end_date": "2026-09-19T16:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Wydarzenie wieńczące społeczny projekt rewitalizacji przestrzeni przy ul. Białowieskiej (róg Popowickiej). Biesiada łączy atrakcje plenerowe z częścią muzyczno-kulinarną.\n\nStrefa plenerowa (16:00-19:00):\n• Atrakcje dla dzieci: piana party, dmuchańce, malowanie buziek\n• Warsztaty szydełkowania i rysunku\n• Wspólne malowanie murali\n• Spotkania edukacyjne z Wrocławskim Centrum Zdrowia i ratownikami\n\nStrefa biesiadna (16:00-20:00):\n• Występy: Gentlemen’s Jazz, CK Prezenterzy, kabaret Mimoza\n• Oferta kulinarna: grill, kuchnia grecka, lody rzemieślnicze\n• Woda z owocami od #PijKranówkę",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/9ec6b9ac-a635-40ed-bb29-14a189f6fbc0/9e6d1e8f-0bac-4cdc-9785-95c0b17e35b7.jpg",
+      "location": {
+        "name": "Białowieska, Wrocław",
+        "district": "Krzyki"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/popowicka-biesiada-sasiedzka-9ec6b9ac-a635-40ed-bb29-14a189f6fbc0",
+      "source": "simplygo.pl",
+      "age_hint": "3-18",
+      "age_range": {
+        "min": 3,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/popowicka-biesiada-sasiedzka-9ec6b9ac-a635-40ed-bb29-14a189f6fbc0",
+      "scrapped_timestamp": "2026-09-09T11:35:48.006995+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Workshops",
+        "Music & Dance"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Popowicka Biesiada Sąsiedzka",
+          "description": "Wydarzenie wieńczące społeczny projekt rewitalizacji przestrzeni przy ul. Białowieskiej (róg Popowickiej). Biesiada łączy atrakcje plenerowe z częścią muzyczno-kulinarną.\n\nStrefa plenerowa (16:00-19:00):\n• Atrakcje dla dzieci: piana party, dmuchańce, malowanie buziek\n• Warsztaty szydełkowania i rysunku\n• Wspólne malowanie murali\n• Spotkania edukacyjne z Wrocławskim Centrum Zdrowia i ratownikami\n\nStrefa biesiadna (16:00-20:00):\n• Występy: Gentlemen’s Jazz, CK Prezenterzy, kabaret Mimoza\n• Oferta kulinarna: grill, kuchnia grecka, lody rzemieślnicze\n• Woda z owocami od #PijKranówkę"
+        },
+        "en": {
+          "title": "Popowicka Neighborhood Feast",
+          "description": "An event concluding the community project for the revitalization of the space at Białowieska Street (corner of Popowicka). The feast combines outdoor attractions with a musical and culinary part.\n\nOutdoor Zone (4:00 PM - 7:00 PM):\n• Attractions for children: foam party, inflatables, face painting\n• Crochet and drawing workshops\n• Collaborative mural painting\n• Educational meetings with the Wrocław Health Center and rescuers\n\nFeasting Zone (4:00 PM - 8:00 PM):\n• Performances: Gentlemen’s Jazz, CK Presenters, Mimoza Cabaret\n• Culinary offerings: barbecue, Greek cuisine, artisan ice cream\n• Fruit-infused water from #DrinkTapWater"
+        },
+        "uk": {
+          "title": "Поповицька Бесіда Сусідів",
+          "description": "Подія, що завершує соціальний проект ревіталізації простору на вулиці Біловезькій (кут Поповицької). Бесіда поєднує в собі атракції на свіжому повітрі з музично-кулінарною частиною.\n\nЗона на свіжому повітрі (16:00-19:00):\n• Атракції для дітей: пінна вечірка, надувні гірки, малювання обличчя\n• Майстер-класи з в'язання гачком та малювання\n• Спільне малювання муралів\n• Освітні зустрічі з Вроцлавським Центром Здоров'я та рятувальниками\n\nЗона бесіди (16:00-20:00):\n• Виступи: Gentlemen’s Jazz, CK Презентери, кабаре Мімоза\n• Кулінарна пропозиція: гриль, грецька кухня, ремісниче морозиво\n• Вода з фруктами від #ПийКранівку"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-09-09T11:37:19.189132+00:00"
+    },
+    "pchli-targ-w-sercu-szczepina-2026-09-20T11:00:00+02:00": {
+      "title": "Pchli Targ w Sercu Szczepina",
+      "date": "2026-09-20T11:00:00+02:00",
+      "end_date": "2026-09-20T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Pchli Targ w Sercu Szczepina to sąsiedzkie wydarzenie, podczas którego można sprzedać lub wymienić niepotrzebne przedmioty. Udział dla wystawców jest bezpłatny, wymagane jest jedynie wcześniejsze zgłoszenie stanowiska.\n\nTerminy spotkań:\n• 19 kwietnia\n• 17 maja\n• 21 czerwca\n• 19 lipca\n• 20 września\n• 18 października\n\nZgłoszenia dla wystawców przyjmowane są pod adresem serceszczepina@gmail.com lub poprzez wiadomość na Facebooku.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/658bef99-0f26-4dae-95dd-341ca79cde1d/1d9e6bed-a068-4207-afac-7bdff24b1a94.jpg",
+      "location": {
+        "name": "Skwer św. Damiana de Veuster, Zachodnia, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/pchli-targ-w-sercu-szczepina-658bef99-0f26-4dae-95dd-341ca79cde1d",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/pchli-targ-w-sercu-szczepina-658bef99-0f26-4dae-95dd-341ca79cde1d",
+      "scrapped_timestamp": "2026-09-09T11:35:54.276706+00:00",
+      "category": "Family Fun",
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Pchli Targ w Sercu Szczepina",
+          "description": "Pchli Targ w Sercu Szczepina to sąsiedzkie wydarzenie, podczas którego można sprzedać lub wymienić niepotrzebne przedmioty. Udział dla wystawców jest bezpłatny, wymagane jest jedynie wcześniejsze zgłoszenie stanowiska.\n\nTerminy spotkań:\n• 19 kwietnia\n• 17 maja\n• 21 czerwca\n• 19 lipca\n• 20 września\n• 18 października\n\nZgłoszenia dla wystawców przyjmowane są pod adresem serceszczepina@gmail.com lub poprzez wiadomość na Facebooku."
+        },
+        "en": {
+          "title": "Flea Market in the Heart of Szczepin",
+          "description": "The Flea Market in the Heart of Szczepin is a neighborhood event where you can sell or exchange unwanted items. Participation for exhibitors is free, but prior registration of the booth is required.\n\nMeeting dates:\n• April 19\n• May 17\n• June 21\n• July 19\n• September 20\n• October 18\n\nRegistrations for exhibitors are accepted at serceszczepina@gmail.com or via a message on Facebook."
+        },
+        "uk": {
+          "title": "Блошиний ринок у Серці Щепіна",
+          "description": "Блошиний ринок у Серці Щепіна - це сусідська подія, під час якої можна продати або обміняти непотрібні речі. Участь для виставців безкоштовна, потрібно лише попередньо зареєструвати своє місце.\n\nДати зустрічей:\n• 19 квітня\n• 17 травня\n• 21 червня\n• 19 липня\n• 20 вересня\n• 18 жовтня\n\nЗаявки для виставців приймаються за адресою serceszczepina@gmail.com або через повідомлення у Facebook."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.189149+00:00"
+    },
+    "zagrajmy-z-natur-warsztaty-tworzenia-gier-2026-09-24T18:30:00+02:00": {
+      "title": "Zagrajmy z naturą – warsztaty tworzenia gier",
+      "date": "2026-09-24T18:30:00+02:00",
+      "end_date": "2026-09-24T18:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Kreatywne warsztaty dla dzieci, podczas których uczestnicy stworzą własną wersję gry w kółko i krzyżyk. Do wykonania planszy i pionków wykorzystane zostaną naturalne materiały, takie jak drewienka, kamyczki i szyszki.\n\nInformacje organizacyjne:\n• Wiek uczestników: 6-10 lat\n• Obowiązuje jeden bilet dla pary: dziecko i opiekun\n• Bilety ulgowe dostępne dla posiadaczy karty bibliotecznej MBP Wrocław\n• Miejsce przyjazne osobom z niepełnosprawnością ruchową\n• Wydarzenie odbywa się w ramach cyklu Klub Rodzica w Miejskiej Bibliotece Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/e05487dd-30de-4467-9913-4b49aae6b79e/ca65aa95-5712-4284-aa4a-a55e55c4e326.jpg",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 5, ul. Namysłowska 8, Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/zagrajmy-z-natura-warsztaty-tworzenia-gier-e05487dd-30de-4467-9913-4b49aae6b79e",
+      "source": "simplygo.pl",
+      "age_hint": "6-10",
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/zagrajmy-z-natura-warsztaty-tworzenia-gier-e05487dd-30de-4467-9913-4b49aae6b79e",
+      "scrapped_timestamp": "2026-09-09T11:36:02.797170+00:00",
+      "category": "Workshops",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Zagrajmy z naturą – warsztaty tworzenia gier",
+          "description": "Kreatywne warsztaty dla dzieci, podczas których uczestnicy stworzą własną wersję gry w kółko i krzyżyk. Do wykonania planszy i pionków wykorzystane zostaną naturalne materiały, takie jak drewienka, kamyczki i szyszki.\n\nInformacje organizacyjne:\n• Wiek uczestników: 6-10 lat\n• Obowiązuje jeden bilet dla pary: dziecko i opiekun\n• Bilety ulgowe dostępne dla posiadaczy karty bibliotecznej MBP Wrocław\n• Miejsce przyjazne osobom z niepełnosprawnością ruchową\n• Wydarzenie odbywa się w ramach cyklu Klub Rodzica w Miejskiej Bibliotece Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Let's Play with Nature – Game Creation Workshop",
+          "description": "Creative workshops for children, during which participants will create their own version of tic-tac-toe. Natural materials such as sticks, pebbles, and pine cones will be used to make the board and pieces.\n\nOrganizational Information:\n• Age of participants: 6-10 years\n• One ticket is required for a pair: child and guardian\n• Discounted tickets available for holders of the MBP Wrocław library card\n• Venue is accessible for individuals with mobility disabilities\n• The event is part of the Parent Club series at the Tadeusz Różewicz Public Library in Wrocław."
+        },
+        "uk": {
+          "title": "Заграємо з природою – майстер-клас з створення ігор",
+          "description": "Креативний майстер-клас для дітей, під час якого учасники створять власну версію гри в хрестики-нулики. Для виготовлення дошки та фішок будуть використані природні матеріали, такі як дерев'яні палички, камінці та шишки.\n\nОрганізаційна інформація:\n• Вік учасників: 6-10 років\n• Діє один квиток для пари: дитина та опікун\n• Пільгові квитки доступні для власників картки бібліотеки MBP Вроцлав\n• Місце дружнє до осіб з обмеженими можливостями\n• Подія відбувається в рамках циклу Клуб Батьків у Міській Публічній Бібліотеці ім. Тадеуша Рожевича у Вроцлаві."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/218541/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-09-09T11:37:19.189168+00:00"
+    },
+    "pan-tadeusz-pokaz-filmu-dla-szk-2026-09-25T12:00:00+02:00": {
+      "title": "Pan Tadeusz – pokaz filmu dla szkół",
+      "date": "2026-09-25T12:00:00+02:00",
+      "end_date": "2026-09-25T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Pokaz ekranizacji „Pana Tadeusza” w reżyserii Andrzeja Wajdy z 1999 roku, połączony z wystawą nagród filmowych reżysera. Wydarzenie przybliża świat soplicowskiego dworu w oparciu o dzieło Adama Mickiewicza.\n\nSzczegóły:\n• Termin: 25 września 2026 (piątek), godzina 12:00\n• Miejsce: kino Popiół i Diament, Muzeum Pana Tadeusza, Oddział Zakładu Narodowego im. Ossolińskich, Rynek 6, Wrocław\n• Wstęp: bezpłatny dla szkół\n• Rezerwacja mailowa: zapisy@ossolineum.pl",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c9041c4f-15bc-4f89-a4b7-1b760458fa58/d656df55-52c5-4aa3-8b01-df70beda0892.jpg",
+      "location": {
+        "name": "Muzeum Pana Tadeusza, Rynek 6, 50-117 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/pan-tadeusz-pokaz-filmu-dla-szkol-c9041c4f-15bc-4f89-a4b7-1b760458fa58",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/pan-tadeusz-pokaz-filmu-dla-szkol-c9041c4f-15bc-4f89-a4b7-1b760458fa58",
+      "scrapped_timestamp": "2026-09-09T11:36:07.695172+00:00",
+      "category": "Cinema",
+      "additional_categories": [
+        "Educational"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Pan Tadeusz – pokaz filmu dla szkół",
+          "description": "Pokaz ekranizacji „Pana Tadeusza” w reżyserii Andrzeja Wajdy z 1999 roku, połączony z wystawą nagród filmowych reżysera. Wydarzenie przybliża świat soplicowskiego dworu w oparciu o dzieło Adama Mickiewicza.\n\nSzczegóły:\n• Termin: 25 września 2026 (piątek), godzina 12:00\n• Miejsce: kino Popiół i Diament, Muzeum Pana Tadeusza, Oddział Zakładu Narodowego im. Ossolińskich, Rynek 6, Wrocław\n• Wstęp: bezpłatny dla szkół\n• Rezerwacja mailowa: zapisy@ossolineum.pl"
+        },
+        "en": {
+          "title": "Pan Tadeusz – Film Screening for Schools",
+          "description": "Screening of the film adaptation of 'Pan Tadeusz' directed by Andrzej Wajda from 1999, combined with an exhibition of the director's film awards. The event brings the world of the Soplica manor to life based on the work of Adam Mickiewicz.\n\nDetails:\n• Date: September 25, 2026 (Friday), 12:00 PM\n• Location: Popiół i Diament Cinema, Pan Tadeusz Museum, Branch of the Ossoliński National Institute, Rynek 6, Wrocław\n• Admission: Free for schools\n• Email reservation: zapisy@ossolineum.pl"
+        },
+        "uk": {
+          "title": "Пан Тадеуш – показ фільму для шкіл",
+          "description": "Показ екранізації «Пана Тадеуша» у режисурі Анджея Вайди 1999 року, поєднаний з виставкою нагород фільмів режисера. Подія наближає світ сопліцовського двору на основі твору Адама Міцкевича.\n\nДеталі:\n• Дата: 25 вересня 2026 (п’ятниця), година 12:00\n• Місце: кінотеатр Попіл і Діамант, Музей Пана Тадеуша, Відділ Національного закладу ім. Оссолінських, Ринок 6, Вроцлав\n• Вхід: безкоштовний для шкіл\n• Резервування електронною поштою: zapisy@ossolineum.pl"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.189188+00:00"
+    },
+    "ruch-zaczyna-si-od-rodzica-wernisa-wystawy-2026-09-25T18:00:00+02:00": {
+      "title": "Ruch zaczyna się od rodzica – wernisaż wystawy",
+      "date": "2026-09-25T18:00:00+02:00",
+      "end_date": "2026-09-25T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Uroczysty wernisaż projektu fotograficznego Karoliny Skalskiej-Jakubaszek, ukazującego wpływ rodziców na kształtowanie aktywnego stylu życia u dzieci.\n\nSzczegóły wydarzenia:\n• Data: 25 września 2026\n• Godzina: 18:00\n• Miejsce: Hotel GEM, Wrocław\n\nBohaterami wystawy są rodziny oraz sportowcy, w tym olimpijczycy Agata Bednarek-Krawczuk i Łukasz Krawczuk oraz paraolimpijka Katarzyna Sobczak. W programie wernisażu przewidziano koncert Tomasza Krajewskiego oraz sportową niespodziankę dla uczestników.\n\nWydarzenie jest okazją do rozmów o roli sportu w rodzinie i budowaniu zdrowych nawyków.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/e030e0a9-9454-4f48-9554-470d6a11dbad/a5abed34-488e-44a4-aa42-19f889135bab.jpg",
+      "location": {
+        "name": "Hotel Gem ul. Mianowskiego 2b, Wrocław, Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/ruch-zaczyna-sie-od-rodzica-wernisaz-wystawy-e030e0a9-9454-4f48-9554-470d6a11dbad",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/ruch-zaczyna-sie-od-rodzica-wernisaz-wystawy-e030e0a9-9454-4f48-9554-470d6a11dbad",
+      "scrapped_timestamp": "2026-09-09T11:36:15.684110+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Family Fun",
+        "Sports"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Ruch zaczyna się od rodzica – wernisaż wystawy",
+          "description": "Uroczysty wernisaż projektu fotograficznego Karoliny Skalskiej-Jakubaszek, ukazującego wpływ rodziców na kształtowanie aktywnego stylu życia u dzieci.\n\nSzczegóły wydarzenia:\n• Data: 25 września 2026\n• Godzina: 18:00\n• Miejsce: Hotel GEM, Wrocław\n\nBohaterami wystawy są rodziny oraz sportowcy, w tym olimpijczycy Agata Bednarek-Krawczuk i Łukasz Krawczuk oraz paraolimpijka Katarzyna Sobczak. W programie wernisażu przewidziano koncert Tomasza Krajewskiego oraz sportową niespodziankę dla uczestników.\n\nWydarzenie jest okazją do rozmów o roli sportu w rodzinie i budowaniu zdrowych nawyków."
+        },
+        "en": {
+          "title": "Movement Begins with the Parent – Exhibition Opening",
+          "description": "The ceremonial opening of the photographic project by Karolina Skalska-Jakubaszek, showcasing the influence of parents on shaping an active lifestyle in children.\n\nEvent details:\n• Date: September 25, 2026\n• Time: 6:00 PM\n• Location: Hotel GEM, Wrocław\n\nThe exhibition features families and athletes, including Olympians Agata Bednarek-Krawczuk and Łukasz Krawczuk, as well as Paralympian Katarzyna Sobczak. The program includes a concert by Tomasz Krajewski and a sports surprise for participants.\n\nThe event is an opportunity to discuss the role of sports in the family and building healthy habits."
+        },
+        "uk": {
+          "title": "Рух починається з батька – відкриття виставки",
+          "description": "Урочисте відкриття фотопроекту Кароліни Скалської-Якубашек, що демонструє вплив батьків на формування активного способу життя у дітей.\n\nДеталі події:\n• Дата: 25 вересня 2026\n• Час: 18:00\n• Місце: Готель GEM, Вроцлав\n\nГероями виставки є родини та спортсмени, зокрема олімпійці Агата Беднарек-Кравчук і Лукаш Кравчук, а також паралімпійка Катерина Собчак. У програмі відкриття заплановано концерт Томаша Крайевського та спортивний сюрприз для учасників.\n\nПодія є нагодою для розмов про роль спорту в родині та формування здорових звичок."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-09T11:37:19.189208+00:00"
+    },
+    "wiatowid-klasycznie-koncert-2026-09-25T19:30:00+02:00": {
+      "title": "Światowid klasycznie – koncert",
+      "date": "2026-09-25T19:30:00+02:00",
+      "end_date": "2026-09-25T19:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Koncert w ramach cyklu Światowid klasycznie, wpisujący się w obchody wrocławskich Dni Seniora. Program obejmuje utwory Hanki Ordonówny, Mieczysława Fogga, Ireny Santor, Ewy Demarczyk oraz Marka Grechuty.\n\nWykonawcy:\n• Urszula Makosz – wokal\n• Paweł Pierzchała – fortepian\n• Jakub Pierzchała – perkusja",
+      "image": null,
+      "location": {
+        "name": "Ośrodek Działań Twórczych Światowid, ul. Stefanii Sempołowskiej 54a, Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/swiatowid-klasycznie-koncert-1e6a5c92-5ed9-4078-8ce4-6ef7584d18b2",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/swiatowid-klasycznie-koncert-1e6a5c92-5ed9-4078-8ce4-6ef7584d18b2",
+      "scrapped_timestamp": "2026-09-09T11:36:20.146849+00:00",
+      "category": "Music & Dance",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Światowid klasycznie – koncert",
+          "description": "Koncert w ramach cyklu Światowid klasycznie, wpisujący się w obchody wrocławskich Dni Seniora. Program obejmuje utwory Hanki Ordonówny, Mieczysława Fogga, Ireny Santor, Ewy Demarczyk oraz Marka Grechuty.\n\nWykonawcy:\n• Urszula Makosz – wokal\n• Paweł Pierzchała – fortepian\n• Jakub Pierzchała – perkusja"
+        },
+        "en": {
+          "title": "Światowid Classic – Concert",
+          "description": "A concert as part of the Światowid Classic series, fitting into the celebrations of Wrocław's Senior Days. The program includes works by Hanka Ordonówna, Mieczysław Fogg, Irena Santor, Ewa Demarczyk, and Marek Grechuta.\n\nPerformers:\n• Urszula Makosz – vocals\n• Paweł Pierzchała – piano\n• Jakub Pierzchała – drums"
+        },
+        "uk": {
+          "title": "Światowid класично – концерт",
+          "description": "Концерт в рамках циклу Światowid класично, що входить до святкувань Вроцлавських Днів Сеньйора. Програма включає твори Ганки Ордонувни, Мечислава Фогга, Ірени Сантор, Еви Демарчик та Марека Грехути.\n\nВиконавці:\n• Урсула Макош – вокал\n• Павло П'єрзхаła – фортепіано\n• Якуб П'єрзхаła – ударні"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/imprezy/217262/Wroc%C5%82aw/D%C5%BAwi%C4%99ki+wspomnie%C5%84+%7C+Urszula+Makosz/?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-09-09T11:37:19.189225+00:00"
+    },
+    "koncert-gordonowski-warsztaty-muzyczne-2026-09-27T11:00:00+02:00": {
+      "title": "Koncert Gordonowski – warsztaty muzyczne",
+      "date": "2026-09-27T11:00:00+02:00",
+      "end_date": "2026-09-27T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Muzyczne spotkanie dla najmłodszych melomanów i ich opiekunów w CAL Sołtysowice, inspirowane teorią Edwina E. Gordona. Podczas 45-minutowego koncertu dzieci mają okazję słuchać brzmienia instrumentów oraz reagować na muzykę w naturalny sposób.\n\nSzczegóły organizacyjne:\n• Data: 27 września 2026 (niedziela), godz. 10:00-10:45.\n• Miejsce: CAL Sołtysowice.\n• Cena: 20 zł plus opłata serwisowa KupBilecik.\n\nZasady biletowe:\n• Jeden bilet obejmuje udział 1 dziecka i 1 opiekuna.\n• W przypadku dwojga dzieci należy zakupić 2 bilety, niezależnie od liczby opiekunów.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/9297aa36-8b53-46af-9b53-9d634aeab46c/b2cc894f-8680-4971-b47f-2f194c20a118.jpg",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 5, ul. Namysłowska 8, Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/koncert-gordonowski-warsztaty-muzyczne-9297aa36-8b53-46af-9b53-9d634aeab46c",
+      "source": "simplygo.pl",
+      "age_hint": "0-6",
+      "age_range": {
+        "min": 0,
+        "max": 6
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/koncert-gordonowski-warsztaty-muzyczne-9297aa36-8b53-46af-9b53-9d634aeab46c",
+      "scrapped_timestamp": "2026-09-09T11:36:31.239287+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Koncert Gordonowski – warsztaty muzyczne",
+          "description": "Muzyczne spotkanie dla najmłodszych melomanów i ich opiekunów w CAL Sołtysowice, inspirowane teorią Edwina E. Gordona. Podczas 45-minutowego koncertu dzieci mają okazję słuchać brzmienia instrumentów oraz reagować na muzykę w naturalny sposób.\n\nSzczegóły organizacyjne:\n• Data: 27 września 2026 (niedziela), godz. 10:00-10:45.\n• Miejsce: CAL Sołtysowice.\n• Cena: 20 zł plus opłata serwisowa KupBilecik.\n\nZasady biletowe:\n• Jeden bilet obejmuje udział 1 dziecka i 1 opiekuna.\n• W przypadku dwojga dzieci należy zakupić 2 bilety, niezależnie od liczby opiekunów."
+        },
+        "en": {
+          "title": "Gordonowski Concert – Music Workshops",
+          "description": "A musical meeting for the youngest music lovers and their guardians at CAL Sołtysowice, inspired by Edwin E. Gordon's theory. During the 45-minute concert, children have the opportunity to listen to the sounds of instruments and respond to music in a natural way.\n\nOrganizational details:\n• Date: September 27, 2026 (Sunday), 10:00 AM - 10:45 AM.\n• Location: CAL Sołtysowice.\n• Price: 20 PLN plus service fee from KupBilecik.\n\nTicket rules:\n• One ticket covers the participation of 1 child and 1 guardian.\n• In the case of two children, 2 tickets must be purchased, regardless of the number of guardians."
+        },
+        "uk": {
+          "title": "Концерт Гордоновського – музичні майстер-класи",
+          "description": "Музичне зустріч для наймолодших меломанів та їхніх опікунів у CAL Соłтусовице, натхненна теорією Едвіна Е. Гордона. Під час 45-хвилинного концерту діти мають можливість слухати звучання інструментів та реагувати на музику природним чином.\n\nОрганізаційні деталі:\n• Дата: 27 вересня 2026 (неділя), год. 10:00-10:45.\n• Місце: CAL Соłтусовице.\n• Ціна: 20 зл плюс сервісний збір КупБілетик.\n\nПравила продажу квитків:\n• Один квиток охоплює участь 1 дитини та 1 опікуна.\n• У випадку двох дітей необхідно придбати 2 квитки, незалежно від кількості опікунів."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/218346/wroclaw/koncert-gordonowski?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-09-09T11:37:19.189244+00:00"
+    },
+    "gospodarstwo-zwierz-t-opowie-spektakl-familijny-2026-10-01T11:00:00+02:00": {
+      "title": "Gospodarstwo zwierząt. Opowieść – spektakl familijny",
+      "date": "2026-10-01T11:00:00+02:00",
+      "end_date": "2026-10-01T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Gospodarstwo zwierząt. Opowieść to spektakl familijny przygotowany z myślą o widzach od 7. roku życia, wystawiany na deskach Teatru Polskiego we Wrocławiu. Przedstawienie stanowi 636. premierę w historii tego teatru.\n\nFabuła spektaklu przenosi widzów do gospodarstwa, w którym zwierzęta przejmują władzę, przeganiając ludzi. Początkowe ideały równości i wspólnej pracy szybko zderzają się z rzeczywistością, w której pojawiają się nowi przywódcy. Na czele grupy staje sprytna świnia Napoleon, która wraz z innymi świniami oraz groźnymi psami zaczyna zmieniać zasady na własną korzyść. Wśród mieszkańców gospodarstwa znajdują się m.in. pracowity koń Bokser, troskliwa klacz Koniczyna oraz obserwujący wszystko z dystansu stary osioł Beniamin. Całość opowieści, symbolicznie krążącej wokół wirującej na scenie karuzeli, skłania do refleksji nad samodzielnym myśleniem i mechanizmami władzy, podając trudne tematy w humorystyczny sposób.\n\nObsada spektaklu:\n• Bokser: Edwin Petrykat\n• Koniczyna: Teresa Sawicka / Jolanta Zalewska\n• Beniamin: Agata Obłąkowska-Mazurkiewicz\n• Kwik: Krzysztof Brzazgoń\n• Napoleon: Anna Haba\n\nCeny biletów:\n• I miejsca: 50 zł (normalny), 40 zł (ulgowy)\n• II miejsca: 40 zł (normalny), 30 zł (ulgowy)\n\nBilety można nabyć w kasach Teatru Polskiego lub poprzez stronę internetową instytucji.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/0794a56a-1e24-470f-beb6-581969924907/5ea23427-72af-440c-8504-d4e2a60c237a.jpg",
+      "location": {
+        "name": "Teatr Polski - Scena na Świebodzkim, Pl. Orląt Lwowskich 20, 53-605 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/gospodarstwo-zwierzat-opowiesc-spektakl-familijny-0794a56a-1e24-470f-beb6-581969924907",
+      "source": "simplygo.pl",
+      "age_hint": "7-18",
+      "age_range": {
+        "min": 7,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/gospodarstwo-zwierzat-opowiesc-spektakl-familijny-0794a56a-1e24-470f-beb6-581969924907",
+      "scrapped_timestamp": "2026-09-09T11:36:35.509948+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Gospodarstwo zwierząt. Opowieść – spektakl familijny",
+          "description": "Gospodarstwo zwierząt. Opowieść to spektakl familijny przygotowany z myślą o widzach od 7. roku życia, wystawiany na deskach Teatru Polskiego we Wrocławiu. Przedstawienie stanowi 636. premierę w historii tego teatru.\n\nFabuła spektaklu przenosi widzów do gospodarstwa, w którym zwierzęta przejmują władzę, przeganiając ludzi. Początkowe ideały równości i wspólnej pracy szybko zderzają się z rzeczywistością, w której pojawiają się nowi przywódcy. Na czele grupy staje sprytna świnia Napoleon, która wraz z innymi świniami oraz groźnymi psami zaczyna zmieniać zasady na własną korzyść. Wśród mieszkańców gospodarstwa znajdują się m.in. pracowity koń Bokser, troskliwa klacz Koniczyna oraz obserwujący wszystko z dystansu stary osioł Beniamin. Całość opowieści, symbolicznie krążącej wokół wirującej na scenie karuzeli, skłania do refleksji nad samodzielnym myśleniem i mechanizmami władzy, podając trudne tematy w humorystyczny sposób.\n\nObsada spektaklu:\n• Bokser: Edwin Petrykat\n• Koniczyna: Teresa Sawicka / Jolanta Zalewska\n• Beniamin: Agata Obłąkowska-Mazurkiewicz\n• Kwik: Krzysztof Brzazgoń\n• Napoleon: Anna Haba\n\nCeny biletów:\n• I miejsca: 50 zł (normalny), 40 zł (ulgowy)\n• II miejsca: 40 zł (normalny), 30 zł (ulgowy)\n\nBilety można nabyć w kasach Teatru Polskiego lub poprzez stronę internetową instytucji."
+        },
+        "en": {
+          "title": "Animal Farm: A Tale – Family Show",
+          "description": "Animal Farm: A Tale is a family show designed for audiences aged 7 and up, performed at the Polish Theatre in Wrocław. The performance marks the 636th premiere in the history of this theatre.\n\nThe plot of the show transports viewers to a farm where animals take over, driving out the humans. The initial ideals of equality and collective work quickly clash with the reality where new leaders emerge. At the forefront of the group is the cunning pig Napoleon, who, along with other pigs and fierce dogs, begins to change the rules to benefit themselves. Among the farm's inhabitants are the hardworking horse Boxer, the caring mare Clover, and the old donkey Benjamin, who observes everything from a distance. The entire story symbolically revolves around the spinning wheel of power."
+        },
+        "uk": {
+          "title": "Ферма тварин. Історія – сімейний спектакль",
+          "description": "Ферма тварин. Історія – це сімейний спектакль, підготовлений для глядачів від 7 років, який виставляється на сцені Польського театру у Вроцлаві. Вистава є 636-ю прем'єрою в історії цього театру.\n\nСюжет спектаклю переносить глядачів на ферму, де тварини беруть владу, проганяючи людей. Початкові ідеали рівності та спільної праці швидко стикаються з реальністю, в якій з'являються нові лідери. На чолі групи стоїть хитра свиня Наполеон, яка разом з іншими свинями та грізними собаками починає змінювати правила на свою користь. Серед мешканців ферми є, зокрема, працьовитий кінь Боксер, турботлива кобила Конічина та старий осел Бенджамін, який спостерігає за всім з відстані. Уся історія символічно обертається навколо..."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.189263+00:00"
+    },
+    "iii-bieg-z-koz-2026-10-03T09:00:00+02:00": {
+      "title": "III Bieg z Kozą",
+      "date": "2026-10-03T09:00:00+02:00",
+      "end_date": "2026-10-03T09:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Trzecia edycja Biegu z Kozą odbędzie się 3 października 2026 roku. Wydarzenie skierowane jest do osób w każdym wieku i oferuje dystanse oraz atrakcje dla trzech pokoleń uczestników.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/03579e01-0bbb-41ea-aa68-5d28d8652957/01bcc192-53d4-44bc-9b60-5240b030976d.jpg",
+      "location": {
+        "name": "Park Zachodni, Wroclaw, Poland",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/sport/wydarzenie/iii-bieg-z-koza-03579e01-0bbb-41ea-aa68-5d28d8652957",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/sport/wydarzenie/iii-bieg-z-koza-03579e01-0bbb-41ea-aa68-5d28d8652957",
+      "scrapped_timestamp": "2026-09-09T11:36:40.394665+00:00",
+      "category": "Sports",
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "III Bieg z Kozą",
+          "description": "Trzecia edycja Biegu z Kozą odbędzie się 3 października 2026 roku. Wydarzenie skierowane jest do osób w każdym wieku i oferuje dystanse oraz atrakcje dla trzech pokoleń uczestników."
+        },
+        "en": {
+          "title": "III Run with the Goat",
+          "description": "The third edition of the Run with the Goat will take place on October 3, 2026. The event is aimed at people of all ages and offers distances and attractions for three generations of participants."
+        },
+        "uk": {
+          "title": "III Біг з Козою",
+          "description": "Третя редакція Бігу з Козою відбудеться 3 жовтня 2026 року. Подія спрямована на людей будь-якого віку та пропонує дистанції та атракції для трьох поколінь учасників."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-09-09T11:37:19.189279+00:00"
+    },
+    "dzie-otwarty-w-o-rodku-dobrej-terapii-2026-10-03T10:00:00+02:00": {
+      "title": "Dzień otwarty w Ośrodku Dobrej Terapii",
+      "date": "2026-10-03T10:00:00+02:00",
+      "end_date": "2026-10-03T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Dzień Otwarty poświęcony terapii poznawczo-behawioralnej (CBT) oraz zdrowiu psychicznemu. Wydarzenie odbędzie się 3 października 2026 r. w siedzibie Ośrodka Dobrej Terapii przy ul. Szczytnickiej 36/2 we Wrocławiu.\n\nProgram:\n• 10:00–12:00: Warsztaty dotyczące emocji i ADHD (Weronika Drabent), relacji w terapii schematu (Adriana Bernady-Wyrwisz), pewności siebie oraz seksualności (Barbara Liszka).\n• 12:00–13:00: Spotkanie psychoedukacyjne „Poznaj 5 narzędzi CBT, które możesz wykorzystać od jutra” oraz sesja pytań i odpowiedzi.\n\nUdział w wydarzeniu jest bezpłatny. Obowiązują wcześniejsze zapisy ze względu na ograniczoną liczbę miejsc.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/fd66f67b-5070-437a-991e-c16d7d6f2ec0/71a463f8-63f9-4777-8bd9-c318659bc819.jpg",
+      "location": {
+        "name": "Szczytnicka 36/2, Wrocław, Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/dzien-otwarty-w-osrodku-dobrej-terapii-fd66f67b-5070-437a-991e-c16d7d6f2ec0",
+      "source": "simplygo.pl",
+      "age_hint": "3-18",
+      "age_range": {
+        "min": 3,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/dzien-otwarty-w-osrodku-dobrej-terapii-fd66f67b-5070-437a-991e-c16d7d6f2ec0",
+      "scrapped_timestamp": "2026-09-09T11:36:43.035397+00:00",
+      "category": "Workshops",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dzień otwarty w Ośrodku Dobrej Terapii",
+          "description": "Dzień Otwarty poświęcony terapii poznawczo-behawioralnej (CBT) oraz zdrowiu psychicznemu. Wydarzenie odbędzie się 3 października 2026 r. w siedzibie Ośrodka Dobrej Terapii przy ul. Szczytnickiej 36/2 we Wrocławiu.\n\nProgram:\n• 10:00–12:00: Warsztaty dotyczące emocji i ADHD (Weronika Drabent), relacji w terapii schematu (Adriana Bernady-Wyrwisz), pewności siebie oraz seksualności (Barbara Liszka).\n• 12:00–13:00: Spotkanie psychoedukacyjne „Poznaj 5 narzędzi CBT, które możesz wykorzystać od jutra” oraz sesja pytań i odpowiedzi.\n\nUdział w wydarzeniu jest bezpłatny. Obowiązują wcześniejsze zapisy ze względu na ograniczoną liczbę miejsc."
+        },
+        "en": {
+          "title": "Open Day at the Good Therapy Center",
+          "description": "The Open Day dedicated to cognitive-behavioral therapy (CBT) and mental health will take place on October 3, 2026, at the Good Therapy Center located at Szczytnicka 36/2 in Wrocław.\n\nProgram:\n• 10:00–12:00: Workshops on emotions and ADHD (Weronika Drabent), relationships in schema therapy (Adriana Bernady-Wyrwisz), self-confidence, and sexuality (Barbara Liszka).\n• 12:00–13:00: Psychoeducational meeting \"Discover 5 CBT tools you can use starting tomorrow\" and a Q&A session.\n\nParticipation in the event is free. Pre-registration is required due to limited seating."
+        },
+        "uk": {
+          "title": "День відкритих дверей в Центрі Хорошої Терапії",
+          "description": "День відкритих дверей, присвячений когнітивно-поведінковій терапії (КПТ) та психічному здоров'ю. Захід відбудеться 3 жовтня 2026 року в приміщенні Центру Хорошої Терапії за адресою вул. Щитницька 36/2 у Вроцлаві.\n\nПрограма:\n• 10:00–12:00: Майстер-класи з емоцій та СДВГ (Вероніка Драбент), стосунків у схемній терапії (Адріана Бернади-Вирвиш), впевненості в собі та сексуальності (Барбара Ліжка).\n• 12:00–13:00: Психоосвітня зустріч \"Познайомся з 5 інструментами КПТ, які ти можеш використовувати з завтрашнього дня\" та сесія запитань і відповідей.\n\nУчасть у заході безкоштовна. Обов'язкова попередня реєстрація через обмежену кількість місць."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-09T11:37:19.189298+00:00"
+    },
+    "tr-wroc-aw-targi-rzeczy-adnych-2026-10-03T11:00:00+02:00": {
+      "title": "TRŁ WROCŁAW! – Targi Rzeczy Ładnych",
+      "date": "2026-10-03T11:00:00+02:00",
+      "end_date": "2026-10-03T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Targi Rzeczy Ładnych (TRŁ WROCŁAW!) to największe wydarzenie poświęcone polskiemu designowi, które po raz szósty zawita do Hali Stulecia. To święto wzornictwa, podczas którego ponad 300 wystawców z całej Polski zaprezentuje swoje meble, ceramikę, plakaty oraz biżuterię. Wydarzenie skierowane jest do miłośników dobrego projektowania, wystroju wnętrz oraz wszystkich osób poszukujących unikalnych przedmiotów.\n\nProgram i atrakcje:\n• Ponad 300 topowych wystawców.\n• Prezentacja premierowych kolekcji oraz debiutów.\n• Selekcja marek nagradzanych na polskich i międzynarodowych festiwalach designu.\n\nTermin i godziny otwarcia:\n• Sobota: 11:00–19:00\n• Niedziela: 11:00–18:00\n\nInformacje organizacyjne:\n• Dzieci do lat 12 wchodzą bezpłatnie.\n• Wydarzenie jest przyjazne psom.\n\nBilety na Targi Rzeczy Ładnych we Wrocławiu są już dostępne. Sprawdź szczegóły i dołącz do wielotysięcznej publiczności ceniącej polskie wzornictwo.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d8982524-a6ac-49ed-832f-d944bde56eb1/4e7e0f5c-3bfb-40bc-b176-3803b2c5a258.jpg",
+      "location": {
+        "name": "Hala Stulecia, Wystawowa 1, Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/trl-wroclaw-targi-rzeczy-ladnych-d8982524-a6ac-49ed-832f-d944bde56eb1",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/trl-wroclaw-targi-rzeczy-ladnych-d8982524-a6ac-49ed-832f-d944bde56eb1",
+      "scrapped_timestamp": "2026-09-09T11:36:50.072852+00:00",
+      "category": "Arts",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "TRŁ WROCŁAW! – Targi Rzeczy Ładnych",
+          "description": "Targi Rzeczy Ładnych (TRŁ WROCŁAW!) to największe wydarzenie poświęcone polskiemu designowi, które po raz szósty zawita do Hali Stulecia. To święto wzornictwa, podczas którego ponad 300 wystawców z całej Polski zaprezentuje swoje meble, ceramikę, plakaty oraz biżuterię. Wydarzenie skierowane jest do miłośników dobrego projektowania, wystroju wnętrz oraz wszystkich osób poszukujących unikalnych przedmiotów.\n\nProgram i atrakcje:\n• Ponad 300 topowych wystawców.\n• Prezentacja premierowych kolekcji oraz debiutów.\n• Selekcja marek nagradzanych na polskich i międzynarodowych festiwalach designu.\n\nTermin i godziny otwarcia:\n• Sobota: 11:00–19:00\n• Niedziela: 11:00–18:00\n\nInformacje organizacyjne:\n• Dzieci do lat 12 wchodzą bezpłatnie.\n• Wydarzenie jest przyjazne psom.\n\nBilety na Targi Rzeczy Ładnych we Wrocławiu są już dostępne. Sprawdź szczegóły i dołącz do wielotysięcznej publiczności ceniącej polskie wzornictwo."
+        },
+        "en": {
+          "title": "TRŁ WROCŁAW! – Fair of Beautiful Things",
+          "description": "The Fair of Beautiful Things (TRŁ WROCŁAW!) is the largest event dedicated to Polish design, returning for the sixth time to the Centennial Hall. It is a celebration of design, where over 300 exhibitors from all over Poland will showcase their furniture, ceramics, posters, and jewelry. The event is aimed at lovers of good design, interior decoration, and anyone looking for unique items.\n\nProgram and attractions:\n• Over 300 top exhibitors.\n• Presentation of premiere collections and debuts.\n• Selection of brands awarded at Polish and international design festivals.\n\nDate and opening hours:\n• Saturday: 11:00 AM – 7:00 PM\n• Sunday: 11:00 AM – 6:00 PM\n\nOrganizational information:\n• Children under 12 enter for free.\n• The event is dog-friendly."
+        },
+        "uk": {
+          "title": "TRŁ ВРОЦЛАВ! – Ярмарок Гарних Речей",
+          "description": "Ярмарок Гарних Речей (TRŁ ВРОЦЛАВ!) – це найбільша подія, присвячена польському дизайну, яка вже в шосте відбудеться в Халі Стулеця. Це свято дизайну, під час якого понад 300 експонентів з усієї Польщі представлять свої меблі, кераміку, плакати та ювелірні вироби. Подія спрямована на любителів доброго дизайну, оформлення інтер'єру та всіх, хто шукає унікальні предмети.\n\nПрограма та атракції:\n• Понад 300 провідних експонентів.\n• Презентація прем'єрних колекцій та дебютів.\n• Селекція брендів, нагороджених на польських та міжнародних фестивалях дизайну.\n\nТермін та години відкриття:\n• Субота: 11:00–19:00\n• Неділя: 11:00–18:00\n\nОрганізаційна інформація:\n• Діти до 12 років входять безкоштовно.\n• Подія дружня до собак."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.ebilet.pl/biznes/targi/trl-wroclaw"
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-09T11:37:19.189319+00:00"
+    },
+    "student-day-10-dzie-wy-cigowy-na-partynicach-2026-10-04T14:00:00+02:00": {
+      "title": "Student Day – 10. dzień wyścigowy na Partynicach",
+      "date": "2026-10-04T14:00:00+02:00",
+      "end_date": "2026-10-04T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na dziesiąty dzień wyścigowy na Torze Partynice, dedykowany studentom rozpoczynającym rok akademicki.\n\nW programie:\n• 6 gonitw na dystansach płaskich, w tym gonitwy kłusacze\n• Atrakcje rodzinne: prowadzanki na kucykach oraz zwiedzanie stajni z instruktorem\n\nLogistyka:\n• Wstęp na wyścigi jest bezpłatny\n• Bilety na atrakcje dodatkowe (prowadzańki, zwiedzanie stajni) dostępne online na stronie http://bilety.torpartynice.pl/ lub w dniu wydarzenia na stoisku kucykowym",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/a49c0ec4-3835-46ef-98ec-d43e6b2a4396/ed922026-aeeb-469e-b66d-fa28e3630d24.jpg",
+      "location": {
+        "name": "ul. Zwycięska 2",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/student-day-10-dzien-wyscigowy-na-partynicach-a49c0ec4-3835-46ef-98ec-d43e6b2a4396",
+      "source": "simplygo.pl",
+      "age_hint": "3-12",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/student-day-10-dzien-wyscigowy-na-partynicach-a49c0ec4-3835-46ef-98ec-d43e6b2a4396",
+      "scrapped_timestamp": "2026-09-09T11:36:55.419184+00:00",
+      "category": "Family Fun",
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Student Day – 10. dzień wyścigowy na Partynicach",
+          "description": "Zapraszamy na dziesiąty dzień wyścigowy na Torze Partynice, dedykowany studentom rozpoczynającym rok akademicki.\n\nW programie:\n• 6 gonitw na dystansach płaskich, w tym gonitwy kłusacze\n• Atrakcje rodzinne: prowadzanki na kucykach oraz zwiedzanie stajni z instruktorem\n\nLogistyka:\n• Wstęp na wyścigi jest bezpłatny\n• Bilety na atrakcje dodatkowe (prowadzańki, zwiedzanie stajni) dostępne online na stronie http://bilety.torpartynice.pl/ lub w dniu wydarzenia na stoisku kucykowym"
+        },
+        "en": {
+          "title": "Student Day – 10th Race Day at Partynice",
+          "description": "We invite you to the tenth race day at the Partynice Racecourse, dedicated to students starting the academic year.\n\nProgram includes:\n• 6 flat races, including trotting races\n• Family attractions: pony rides and stable tours with an instructor\n\nLogistics:\n• Admission to the races is free\n• Tickets for additional attractions (pony rides, stable tours) are available online at http://bilety.torpartynice.pl/ or on the day of the event at the pony booth."
+        },
+        "uk": {
+          "title": "День студента – 10-й день перегони на Партиніце",
+          "description": "Запрошуємо на десятий день перегони на Трасі Партиніце, присвячений студентам, які розпочинають академічний рік.\n\nУ програмі:\n• 6 перегонів на плоских дистанціях, включаючи перегони скакунів\n• Сімейні атракції: катання на поні та екскурсія по стайні з інструктором\n\nЛогістика:\n• Вхід на перегони безкоштовний\n• Квитки на додаткові атракції (катання, екскурсія по стайні) доступні онлайн на сайті http://bilety.torpartynice.pl/ або в день події на стенді поні"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-09T11:37:19.189341+00:00"
+    },
+    "swap-na-szczepinie-s-siedzka-wymiana-rzeczy-2026-10-04T18:00:00+02:00": {
+      "title": "SWAP na Szczepinie – sąsiedzka wymiana rzeczy",
+      "date": "2026-10-04T18:00:00+02:00",
+      "end_date": "2026-10-04T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Regularne spotkania sąsiedzkie w Centrum Aktywności Lokalnej przy ul. Zachodniej 1 we Wrocławiu, poświęcone wymianie przedmiotów i budowaniu lokalnej wspólnoty.\n\nZasady wymiany:\n• Przedmioty muszą być w co najmniej dobrym stanie.\n• Możliwa wymiana bezpośrednia lub przekazanie rzeczy do wspólnej puli.\n\nHarmonogram spotkań (godz. 18:00–19:00):\n• 4.01: ubrania i zabawki dla dzieci\n• 1.03: odzież dla dorosłych\n• 12.04: rośliny, szczepki, akcesoria ogrodowe\n• 7.06: graty z chaty (wyposażenie domu, książki, gry planszowe)\n• 5.07: odzież dla dorosłych, buty, dodatki\n• 2.08: ubrania dla dzieci, gry, książeczki, zabawki\n• 6.09: graty z chaty (wyposażenie domu, książki, gry planszowe)\n• 4.10: odzież dla dorosłych, buty, dodatki\n• 6.12: prezenty z drugiej ręki",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/68dbee9d-7eef-47da-9d15-f64f96edef3e/1d58dbe5-2565-4907-b89f-0bbf61e75957.jpg",
+      "location": {
+        "name": "CAL Szczepin, Zachodnia 1, 53-643 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/swap-na-szczepinie-sasiedzka-wymiana-rzeczy-68dbee9d-7eef-47da-9d15-f64f96edef3e",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/swap-na-szczepinie-sasiedzka-wymiana-rzeczy-68dbee9d-7eef-47da-9d15-f64f96edef3e",
+      "scrapped_timestamp": "2026-09-09T11:37:01.975030+00:00",
+      "category": "Family Fun",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "SWAP na Szczepinie – sąsiedzka wymiana rzeczy",
+          "description": "Regularne spotkania sąsiedzkie w Centrum Aktywności Lokalnej przy ul. Zachodniej 1 we Wrocławiu, poświęcone wymianie przedmiotów i budowaniu lokalnej wspólnoty.\n\nZasady wymiany:\n• Przedmioty muszą być w co najmniej dobrym stanie.\n• Możliwa wymiana bezpośrednia lub przekazanie rzeczy do wspólnej puli.\n\nHarmonogram spotkań (godz. 18:00–19:00):\n• 4.01: ubrania i zabawki dla dzieci\n• 1.03: odzież dla dorosłych\n• 12.04: rośliny, szczepki, akcesoria ogrodowe\n• 7.06: graty z chaty (wyposażenie domu, książki, gry planszowe)\n• 5.07: odzież dla dorosłych, buty, dodatki\n• 2.08: ubrania dla dzieci, gry, książeczki, zabawki\n• 6.09: graty z chaty (wyposażenie domu, książki, gry planszowe)\n• 4.10: odzież dla dorosłych, buty, dodatki\n• 6.12: prezenty z drugiej ręki"
+        },
+        "en": {
+          "title": "SWAP in Szczepin – Neighborhood Item Exchange",
+          "description": "Regular neighborhood meetings at the Local Activity Center at Zachodnia 1 in Wrocław, dedicated to item exchange and building a local community.\n\nExchange rules:\n• Items must be in at least good condition.\n• Direct exchange or donation of items to a common pool is possible.\n\nMeeting schedule (6:00 PM – 7:00 PM):\n• January 4: clothes and toys for children\n• March 1: clothing for adults\n• April 12: plants, cuttings, gardening accessories\n• June 7: household items (home furnishings, books, board games)\n• July 5: clothing for adults, shoes, accessories\n• August 2: clothes for children, games, books, toys\n• September 6: household items (home furnishings, books, board games)\n• October 4: clothing for adults, shoes, accessories\n• December 6: second-hand gifts"
+        },
+        "uk": {
+          "title": "SWAP на Щепіні – сусідська обмін речей",
+          "description": "Регулярні сусідські зустрічі в Центрі Активності Місцевої громади на вул. Західній 1 у Вроцлаві, присвячені обміну предметами та побудові місцевої спільноти.\n\nПравила обміну:\n• Предмети повинні бути в принаймні доброму стані.\n• Можливий безпосередній обмін або передача речей до спільного пулу.\n\nГрафік зустрічей (год. 18:00–19:00):\n• 4.01: одяг та іграшки для дітей\n• 1.03: одяг для дорослих\n• 12.04: рослини, живці, садові аксесуари\n• 7.06: речі з хати (обладнання для дому, книги, настільні ігри)\n• 5.07: одяг для дорослих, взуття, аксесуари\n• 2.08: одяг для дітей, ігри, книжечки, іграшки\n• 6.09: речі з хати (обладнання для дому, книги, настільні ігри)\n• 4.10: одяг для дорослих, взуття, аксесуари\n• 6.12: подарунки з другої руки"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-09T11:37:19.189360+00:00"
     }
   }
 }

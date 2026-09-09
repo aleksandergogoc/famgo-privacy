@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:22:19.861324+00:00",
+  "updated_at": "2026-09-09T11:50:22.462052+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1464,6 +1464,195 @@
       "lat": 51.1325055,
       "lng": 16.9871101,
       "updated_at": "2026-09-07T12:12:44.753009+00:00"
+    },
+    "multikino wrocław pasaż grunwaldzki": {
+      "name": "Pasaż Grunwaldzki, 22, plac Grunwaldzki, Manhattan, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-363, Polska",
+      "district": "Śródmieście",
+      "address": "Pasaż Grunwaldzki, 22, plac Grunwaldzki, Manhattan, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-363, Polska",
+      "normalized": "multikino wrocław pasaż grunwaldzki",
+      "lat": 51.1125754,
+      "lng": 17.0593128,
+      "updated_at": "2026-09-09T11:31:25.568122+00:00"
+    },
+    "ełcka 34": {
+      "name": "34, Ełcka, Kowale, Wrocław, województwo dolnośląskie, 51-427, Polska",
+      "district": "Psie Pole",
+      "address": "34, Ełcka, Kowale, Wrocław, województwo dolnośląskie, 51-427, Polska",
+      "normalized": "ełcka 34",
+      "lat": 51.1317406,
+      "lng": 17.1023215,
+      "updated_at": "2026-09-09T11:31:28.529950+00:00"
+    },
+    "cinema city korona": {
+      "name": "Vistula, 126, Bolesława Krzywoustego, Mirowiec, Kowale, Wrocław, województwo dolnośląskie, 51-421, Polska",
+      "district": "Psie Pole",
+      "address": "Vistula, 126, Bolesława Krzywoustego, Mirowiec, Kowale, Wrocław, województwo dolnośląskie, 51-421, Polska",
+      "normalized": "cinema city korona",
+      "lat": 51.1420659,
+      "lng": 17.0880756,
+      "updated_at": "2026-09-09T11:31:32.216651+00:00"
+    },
+    "wrocławski teatr lalek": {
+      "name": "Wrocławski Teatr Lalek, 4, plac Teatralny, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-051, Polska",
+      "district": "Stare Miasto",
+      "address": "Wrocławski Teatr Lalek, 4, plac Teatralny, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-051, Polska",
+      "normalized": "wrocławski teatr lalek",
+      "lat": 51.105053,
+      "lng": 17.033054,
+      "updated_at": "2026-09-09T11:31:34.155780+00:00"
+    },
+    "cal szczepin": {
+      "name": "1, Zachodnia, Szczepin, Wrocław, województwo dolnośląskie, 53-643, Polska",
+      "district": "Stare Miasto",
+      "address": "1, Zachodnia, Szczepin, Wrocław, województwo dolnośląskie, 53-643, Polska",
+      "normalized": "cal szczepin",
+      "lat": 51.1154995,
+      "lng": 17.0158574,
+      "updated_at": "2026-09-09T11:31:39.927524+00:00"
+    },
+    "cinema city wroclavia": {
+      "name": "Westfield Wroclavia, 1, Sucha, Glinianki, Huby, Wrocław, województwo dolnośląskie, 50-086, Polska",
+      "district": "Krzyki",
+      "address": "Westfield Wroclavia, 1, Sucha, Glinianki, Huby, Wrocław, województwo dolnośląskie, 50-086, Polska",
+      "normalized": "cinema city wroclavia",
+      "lat": 51.0964161,
+      "lng": 17.034822,
+      "updated_at": "2026-09-09T11:31:44.055218+00:00"
+    },
+    "beeready wrocław": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "beeready wrocław",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-09-09T11:31:49.220038+00:00"
+    },
+    "rynek we wrocławiu": {
+      "name": "Rynek, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-106, Polska",
+      "district": "Stare Miasto",
+      "address": "Rynek, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-106, Polska",
+      "normalized": "rynek we wrocławiu",
+      "lat": 51.110049,
+      "lng": 17.0306757,
+      "updated_at": "2026-09-09T11:31:53.367732+00:00"
+    },
+    "helios magnolia park": {
+      "name": "Helios Magnolia Park, Legnicka 58, 54-202 Wrocław",
+      "district": "Krzyki",
+      "address": "Helios Magnolia Park, Legnicka 58, 54-202 Wrocław",
+      "normalized": "helios magnolia park",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-09T11:31:57.102593+00:00"
+    },
+    "malumika": {
+      "name": "Władysława Jagiełły, Nadodrze, Wrocław, województwo dolnośląskie, 50-202, Polska",
+      "district": "Śródmieście",
+      "address": "Władysława Jagiełły, Nadodrze, Wrocław, województwo dolnośląskie, 50-202, Polska",
+      "normalized": "malumika",
+      "lat": 51.1157911,
+      "lng": 17.02484,
+      "updated_at": "2026-09-09T11:32:02.803304+00:00"
+    },
+    "wrocławski tor wyścigów konnych – partynice": {
+      "name": "2/II, Zwycięska, Partynice, Krzyki-Partynice, Wrocław, województwo dolnośląskie, 53-033, Polska",
+      "district": "Krzyki",
+      "address": "2/II, Zwycięska, Partynice, Krzyki-Partynice, Wrocław, województwo dolnośląskie, 53-033, Polska",
+      "normalized": "wrocławski tor wyścigów konnych – partynice",
+      "lat": 51.059782,
+      "lng": 16.9993171,
+      "updated_at": "2026-09-09T11:32:09.929172+00:00"
+    },
+    "park im. lesława węgrzynowskiego": {
+      "name": "park Lesława Węgrzynowskiego, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Stare Miasto",
+      "address": "park Lesława Węgrzynowskiego, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "park im. lesława węgrzynowskiego",
+      "lat": 51.1040498,
+      "lng": 17.0146173,
+      "updated_at": "2026-09-09T11:32:18.805440+00:00"
+    },
+    "ulica świdnicka": {
+      "name": "Świdnicka, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-028, Polska",
+      "district": "Stare Miasto",
+      "address": "Świdnicka, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-028, Polska",
+      "normalized": "ulica świdnicka",
+      "lat": 51.1020129,
+      "lng": 17.0297128,
+      "updated_at": "2026-09-09T11:32:22.461033+00:00"
+    },
+    "plac przed sklepem biedronka ul. wilanowska 25": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "plac przed sklepem biedronka ul. wilanowska 25",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-09-09T11:32:29.066389+00:00"
+    },
+    "białowieska": {
+      "name": "Białowieska, Popowice Północne, Popowice, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 52-236, Polska",
+      "district": "Krzyki",
+      "address": "Białowieska, Popowice Północne, Popowice, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 52-236, Polska",
+      "normalized": "białowieska",
+      "lat": 51.1304681,
+      "lng": 16.9901286,
+      "updated_at": "2026-09-09T11:32:32.640084+00:00"
+    },
+    "skwer św. damiana de veuster": {
+      "name": "Zachodnia, Szczepin, Wrocław, województwo dolnośląskie, 53-616, Polska",
+      "district": "Stare Miasto",
+      "address": "Zachodnia, Szczepin, Wrocław, województwo dolnośląskie, 53-616, Polska",
+      "normalized": "skwer św. damiana de veuster",
+      "lat": 51.1170104,
+      "lng": 17.0007214,
+      "updated_at": "2026-09-09T11:32:36.603974+00:00"
+    },
+    "pana tadeusza": {
+      "name": "Muzeum Pana Tadeusza, Rynek 6, 50-117 Wrocław",
+      "district": "Stare Miasto",
+      "address": "Muzeum Pana Tadeusza, Rynek 6, 50-117 Wrocław",
+      "normalized": "pana tadeusza",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-09T11:32:40.873656+00:00"
+    },
+    "hotel gem ul. mianowskiego 2b": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "hotel gem ul. mianowskiego 2b",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-09-09T11:32:45.271822+00:00"
+    },
+    "polski - scena na świebodzkim": {
+      "name": "Teatr Polski - Scena na Świebodzkim, Pl. Orląt Lwowskich 20, 53-605 Wrocław",
+      "district": "Stare Miasto",
+      "address": "Teatr Polski - Scena na Świebodzkim, Pl. Orląt Lwowskich 20, 53-605 Wrocław",
+      "normalized": "polski - scena na świebodzkim",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-09T11:32:49.744483+00:00"
+    },
+    "szczytnicka 36_2": {
+      "name": "Szczytnicka, Manhattan, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-330, Polska",
+      "district": "Śródmieście",
+      "address": "Szczytnicka, Manhattan, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-330, Polska",
+      "normalized": "szczytnicka 36_2",
+      "lat": 51.1138119,
+      "lng": 17.0511061,
+      "updated_at": "2026-09-09T11:32:56.876708+00:00"
+    },
+    "hala stulecia": {
+      "name": "Hala Stulecia, 1, Wystawowa, Dąbie, Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, województwo dolnośląskie, 51-618, Polska",
+      "district": "Śródmieście",
+      "address": "Hala Stulecia, 1, Wystawowa, Dąbie, Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, województwo dolnośląskie, 51-618, Polska",
+      "normalized": "hala stulecia",
+      "lat": 51.1068875,
+      "lng": 17.0773185,
+      "updated_at": "2026-09-09T11:32:59.079185+00:00"
     }
   }
 }

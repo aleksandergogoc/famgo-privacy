@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:12:36.489866+00:00",
+  "updated_at": "2026-09-09T11:50:15.232696+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -974,6 +974,114 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-09-08T11:11:46.666599+00:00"
+    },
+    "dolna wilda 89": {
+      "name": "89, Dolna Wilda, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "district": "Stare Miasto",
+      "address": "89, Dolna Wilda, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "normalized": "dolna wilda 89",
+      "lat": 52.3882662,
+      "lng": 16.9243338,
+      "updated_at": "2026-09-09T11:45:44.616026+00:00"
+    },
+    "pływalnia miejska winogrady": {
+      "name": "Pływalnia Miejska POSiR Winogrady, 124, Osiedle Zwycięstwa, Winogrady, Poznań, województwo wielkopolskie, 61-646, Polska",
+      "district": "Nowe Miasto",
+      "address": "Pływalnia Miejska POSiR Winogrady, 124, Osiedle Zwycięstwa, Winogrady, Poznań, województwo wielkopolskie, 61-646, Polska",
+      "normalized": "pływalnia miejska winogrady",
+      "lat": 52.4379072,
+      "lng": 16.9262657,
+      "updated_at": "2026-09-09T11:45:46.016266+00:00"
+    },
+    "jezioro kierskie": {
+      "name": "Jezioro Kierskie, Poznań, województwo wielkopolskie, Polska",
+      "district": "Poznań - Pozostałe",
+      "address": "Jezioro Kierskie, Poznań, województwo wielkopolskie, Polska",
+      "normalized": "jezioro kierskie",
+      "lat": 52.4573723,
+      "lng": 16.7910029,
+      "updated_at": "2026-09-09T11:45:57.141626+00:00"
+    },
+    "otwarty dziedziniec ck zamek": {
+      "name": "Otwarty Dziedziniec CK ZAMEK, Centrum Kultury ZAMEK, ul. Święty Marcin 80/82, 61-809 Poznań",
+      "district": "Stare Miasto",
+      "address": "Otwarty Dziedziniec CK ZAMEK, Centrum Kultury ZAMEK, ul. Święty Marcin 80/82, 61-809 Poznań",
+      "normalized": "otwarty dziedziniec ck zamek",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-09T11:46:00.724325+00:00"
+    },
+    "aula uniwersytecka w poznaniu": {
+      "name": "Collegium Minus, 1, Henryka Wieniawskiego, Stare Miasto, Poznań, województwo wielkopolskie, 61-712, Polska",
+      "district": "Stare Miasto",
+      "address": "Collegium Minus, 1, Henryka Wieniawskiego, Stare Miasto, Poznań, województwo wielkopolskie, 61-712, Polska",
+      "normalized": "aula uniwersytecka w poznaniu",
+      "lat": 52.4081657,
+      "lng": 16.9156127,
+      "updated_at": "2026-09-09T11:46:10.323414+00:00"
+    },
+    "osiedlowy dom kultury orbita": {
+      "name": "Osiedlowy Dom Kultury \"Orbita\", 118, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 61-641, Polska",
+      "district": "Nowe Miasto",
+      "address": "Osiedlowy Dom Kultury \"Orbita\", 118, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 61-641, Polska",
+      "normalized": "osiedlowy dom kultury orbita",
+      "lat": 52.4368988,
+      "lng": 16.9457598,
+      "updated_at": "2026-09-09T11:46:11.656930+00:00"
+    },
+    "basen posnania": {
+      "name": "78, Słowiańska, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-664, Polska",
+      "district": "Nowe Miasto",
+      "address": "78, Słowiańska, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-664, Polska",
+      "normalized": "basen posnania",
+      "lat": 52.428565,
+      "lng": 16.9435472,
+      "updated_at": "2026-09-09T11:46:14.745402+00:00"
+    },
+    "sala im. bp. jana lubrańskiego": {
+      "name": "Collegium Minus, 1, Henryka Wieniawskiego, Stare Miasto, Poznań, województwo wielkopolskie, 61-712, Polska",
+      "district": "Stare Miasto",
+      "address": "Collegium Minus, 1, Henryka Wieniawskiego, Stare Miasto, Poznań, województwo wielkopolskie, 61-712, Polska",
+      "normalized": "sala im. bp. jana lubrańskiego",
+      "lat": 52.4081657,
+      "lng": 16.9156127,
+      "updated_at": "2026-09-09T11:46:31.858891+00:00"
+    },
+    "rezerwat meteoryt morasko": {
+      "name": "Rezerwat Meteoryt Morasko, Morasko-Radojewo, Poznań, gmina Suchy Las, powiat poznański, województwo wielkopolskie, Polska",
+      "district": "Jeżyce",
+      "address": "Rezerwat Meteoryt Morasko, Morasko-Radojewo, Poznań, gmina Suchy Las, powiat poznański, województwo wielkopolskie, Polska",
+      "normalized": "rezerwat meteoryt morasko",
+      "lat": 52.4871503,
+      "lng": 16.8942655,
+      "updated_at": "2026-09-09T11:46:35.003320+00:00"
+    },
+    "sala wystaw": {
+      "name": "Sala Wystaw, Centrum Kultury ZAMEK, ul. Święty Marcin 80/82, 61-809 Poznań",
+      "district": "Stare Miasto",
+      "address": "Sala Wystaw, Centrum Kultury ZAMEK, ul. Święty Marcin 80/82, 61-809 Poznań",
+      "normalized": "sala wystaw",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-09T11:46:39.777837+00:00"
+    },
+    "dom tramwajarza": {
+      "name": "Pan Gar, 19-21, Juliusza Słowackiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-823, Polska",
+      "district": "Jeżyce",
+      "address": "Pan Gar, 19-21, Juliusza Słowackiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-823, Polska",
+      "normalized": "dom tramwajarza",
+      "lat": 52.4103449,
+      "lng": 16.9083222,
+      "updated_at": "2026-09-09T11:46:43.084956+00:00"
+    },
+    "sala drabowicza": {
+      "name": "Sala Drabowicza, Teatr Wielki im. Stanisława Moniuszki, ul. Fredry 9, 61-701 Poznań",
+      "district": "Stare Miasto",
+      "address": "Sala Drabowicza, Teatr Wielki im. Stanisława Moniuszki, ul. Fredry 9, 61-701 Poznań",
+      "normalized": "sala drabowicza",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-09T11:46:48.247998+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:12:41.400675+00:00",
+  "updated_at": "2026-09-09T11:50:27.203088+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3811,6 +3811,105 @@
       "lat": 50.064,
       "lng": 19.937,
       "updated_at": "2026-09-08T10:47:53.262690+00:00"
+    },
+    "lubelska 4_1": {
+      "name": "Lubelska, Nowy Kleparz, Krowodrza, Kraków, województwo małopolskie, 30-004, Polska",
+      "district": "Krowodrza",
+      "address": "Lubelska, Nowy Kleparz, Krowodrza, Kraków, województwo małopolskie, 30-004, Polska",
+      "normalized": "lubelska 4_1",
+      "lat": 50.0744219,
+      "lng": 19.9345285,
+      "updated_at": "2026-09-09T11:04:37.877019+00:00"
+    },
+    "scena nck": {
+      "name": "al. Jana Pawła II 232, 31-913 Kraków",
+      "district": "Grzegórzki",
+      "address": "al. Jana Pawła II 232, 31-913 Kraków",
+      "normalized": "scena nck",
+      "lat": 50.062,
+      "lng": 19.956,
+      "updated_at": "2026-09-09T11:04:42.964812+00:00"
+    },
+    "szkoła podstawowa nr 155 w krakowie": {
+      "name": "Szkoła Podstawowa nr 155, Kraków",
+      "district": "Stare Miasto",
+      "address": "Szkoła Podstawowa nr 155, Kraków",
+      "normalized": "szkoła podstawowa nr 155 w krakowie",
+      "lat": 50.062,
+      "lng": 19.944,
+      "updated_at": "2026-09-09T11:04:48.814766+00:00"
+    },
+    "wizjonerów 2": {
+      "name": "2, Wizjonerów, Bronowice Małe, Bronowice, Kraków, województwo małopolskie, 31-356, Polska",
+      "district": "Bronowice",
+      "address": "2, Wizjonerów, Bronowice Małe, Bronowice, Kraków, województwo małopolskie, 31-356, Polska",
+      "normalized": "wizjonerów 2",
+      "lat": 50.0846063,
+      "lng": 19.8845229,
+      "updated_at": "2026-09-09T11:04:59.000715+00:00"
+    },
+    "jana kasprowicza 20_2": {
+      "name": "Jana Kasprowicza, Osiedle Oficerskie, Grzegórzki, Kraków, województwo małopolskie, 31-523, Polska",
+      "district": "Grzegórzki",
+      "address": "Jana Kasprowicza, Osiedle Oficerskie, Grzegórzki, Kraków, województwo małopolskie, 31-523, Polska",
+      "normalized": "jana kasprowicza 20_2",
+      "lat": 50.068286,
+      "lng": 19.9656203,
+      "updated_at": "2026-09-09T11:05:08.996669+00:00"
+    },
+    "wojewódzka biblioteka publiczna w krakowie": {
+      "name": "Wojewódzka Biblioteka Publiczna w Krakowie, 1, Rajska, Piasek, Stare Miasto, Kraków, województwo małopolskie, 31-124, Polska",
+      "district": "Stare Miasto",
+      "address": "Wojewódzka Biblioteka Publiczna w Krakowie, 1, Rajska, Piasek, Stare Miasto, Kraków, województwo małopolskie, 31-124, Polska",
+      "normalized": "wojewódzka biblioteka publiczna w krakowie",
+      "lat": 50.0649538,
+      "lng": 19.9294418,
+      "updated_at": "2026-09-09T11:05:10.923142+00:00"
+    },
+    "kazimierza wierzyńskiego 3": {
+      "name": "3, Kazimierza Wierzyńskiego, Mydlniki, Bronowice, Kraków, województwo małopolskie, 30-198, Polska",
+      "district": "Bronowice",
+      "address": "3, Kazimierza Wierzyńskiego, Mydlniki, Bronowice, Kraków, województwo małopolskie, 30-198, Polska",
+      "normalized": "kazimierza wierzyńskiego 3",
+      "lat": 50.0846654,
+      "lng": 19.8467855,
+      "updated_at": "2026-09-09T11:05:14.425429+00:00"
+    },
+    "szkoła podstawowa nr 67 kraków": {
+      "name": "Szkoła Podstawowa nr 67 im. Władysława Łokietka, Generała Franciszka Paszkowskiego, Kaczorówka, Tonie, Prądnik Biały, Kraków, województwo małopolskie, 31-266, Polska",
+      "district": "Prądnik Biały",
+      "address": "Szkoła Podstawowa nr 67 im. Władysława Łokietka, Generała Franciszka Paszkowskiego, Kaczorówka, Tonie, Prądnik Biały, Kraków, województwo małopolskie, 31-266, Polska",
+      "normalized": "szkoła podstawowa nr 67 kraków",
+      "lat": 50.1068172,
+      "lng": 19.905965,
+      "updated_at": "2026-09-09T11:05:17.470063+00:00"
+    },
+    "ul m. konopnickiej 26": {
+      "name": "ul. M. Konopnickiej 26, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. M. Konopnickiej 26, Kraków",
+      "normalized": "ul m. konopnickiej 26",
+      "lat": 50.062,
+      "lng": 19.937,
+      "updated_at": "2026-09-09T11:05:24.117582+00:00"
+    },
+    "pod jaszczurami": {
+      "name": "Klub Pod Jaszczurami, 8, Rynek Główny, Stare Miasto, Kraków, województwo małopolskie, 31-042, Polska",
+      "district": "Stare Miasto",
+      "address": "Klub Pod Jaszczurami, 8, Rynek Główny, Stare Miasto, Kraków, województwo małopolskie, 31-042, Polska",
+      "normalized": "pod jaszczurami",
+      "lat": 50.0608516,
+      "lng": 19.9381929,
+      "updated_at": "2026-09-09T11:05:28.159827+00:00"
+    },
+    "ul. balicka 253": {
+      "name": "ul. Balicka 253, Kraków",
+      "district": "Podgórze",
+      "address": "ul. Balicka 253, Kraków",
+      "normalized": "ul. balicka 253",
+      "lat": 50.046,
+      "lng": 19.952,
+      "updated_at": "2026-09-09T11:11:01.609168+00:00"
     }
   }
 }

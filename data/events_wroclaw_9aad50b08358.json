@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T11:05:45.972520+00:00",
+  "updated_at": "2026-09-09T10:53:38.332828+00:00",
   "events": {
     "12-mi-dzynarodowe-zawody-w-je-dzie-bez-og-owia-euro-equus-2026-2026-09-25T00:00:00": {
       "scrapped_timestamp": "2026-06-26T16:36:24.805343+00:00",
@@ -3166,52 +3166,6 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-09-05T19:00:30.850983+00:00"
-    },
-    "bezp-atna-wietlica-odrza-ska-w-odra-centrum-2026-09-08T14:00:00+02:00": {
-      "title": "Bezpłatna Świetlica Odrzańska w Odra Centrum",
-      "date": "2026-09-08T14:00:00+02:00",
-      "end_date": "2026-09-08T14:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Bezpłatna Świetlica Odrzańska to miejsce edukacyjno-kulturalne dla dzieci i młodzieży, zlokalizowane na statku Odra Centrum przy Wybrzeżu Juliusza Słowackiego 5B we Wrocławiu. Projekt promuje wiedzę o ekologii, historii żeglugi oraz ochronę środowiska.\n\nHarmonogram i oferta:\n• Kiedy: wtorki i czwartki w godzinach 14:00-18:00.\n• Program: rozgrzewka, warsztaty edukacyjne, gry i zabawy integracyjne.\n• Atrakcje: Akademia Węzłów, Mała Szkutnia, rejsy łodziami elektrycznymi.\n\nInformacje organizacyjne:\n• Wiek uczestników: 6-19 lat (osoby z niepełnosprawnościami do 26 lat).\n• Zapisy: obowiązują zapisy na kolejny tydzień, przyjmowane od poniedziałku od godz. 00:01 pod adresem: https://odracentrum.asysto.pl/\n• Więcej informacji o warsztatach dla grup szkolnych: https://odracentrum.org/warsztaty/\n• Strona główna organizatora: https://odracentrum.org/",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/8673fe42-c95d-4dc0-89fc-1c259cbcb7f5/a0a3c956-c8d3-451f-8246-a03c7a22f36b.jpg",
-      "location": {
-        "name": "Odra Centrum",
-        "district": "Stare Miasto"
-      },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/bezplatna-swietlica-odrzanska-w-odra-centrum-8673fe42-c95d-4dc0-89fc-1c259cbcb7f5",
-      "source": "simplygo.pl",
-      "age_hint": "6-18",
-      "age_range": {
-        "min": 6,
-        "max": 18
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/bezplatna-swietlica-odrzanska-w-odra-centrum-8673fe42-c95d-4dc0-89fc-1c259cbcb7f5",
-      "scrapped_timestamp": "2026-09-05T18:56:44.232689+00:00",
-      "category": "Educational",
-      "additional_categories": [
-        "Workshops",
-        "Family Fun"
-      ],
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatna Świetlica Odrzańska w Odra Centrum",
-          "description": "Bezpłatna Świetlica Odrzańska to miejsce edukacyjno-kulturalne dla dzieci i młodzieży, zlokalizowane na statku Odra Centrum przy Wybrzeżu Juliusza Słowackiego 5B we Wrocławiu. Projekt promuje wiedzę o ekologii, historii żeglugi oraz ochronę środowiska.\n\nHarmonogram i oferta:\n• Kiedy: wtorki i czwartki w godzinach 14:00-18:00.\n• Program: rozgrzewka, warsztaty edukacyjne, gry i zabawy integracyjne.\n• Atrakcje: Akademia Węzłów, Mała Szkutnia, rejsy łodziami elektrycznymi.\n\nInformacje organizacyjne:\n• Wiek uczestników: 6-19 lat (osoby z niepełnosprawnościami do 26 lat).\n• Zapisy: obowiązują zapisy na kolejny tydzień, przyjmowane od poniedziałku od godz. 00:01 pod adresem: https://odracentrum.asysto.pl/\n• Więcej informacji o warsztatach dla grup szkolnych: https://odracentrum.org/warsztaty/\n• Strona główna organizatora: https://odracentrum.org/"
-        },
-        "en": {
-          "title": "Free Odra Daycare at Odra Centrum",
-          "description": "The Free Odra Daycare is an educational and cultural space for children and youth, located on the Odra Centrum ship at Wybrzeże Juliusza Słowackiego 5B in Wrocław. The project promotes knowledge about ecology, the history of navigation, and environmental protection.\n\nSchedule and Offer:\n• When: Tuesdays and Thursdays from 14:00 to 18:00.\n• Program: warm-up, educational workshops, and integration games and activities.\n• Attractions: Knot Academy, Small Shipyard, electric boat trips.\n\nOrganizational Information:\n• Age of participants: 6-19 years (individuals with disabilities up to 26 years).\n• Registration: registration is required for the following week, accepted from Monday at 00:01 at: https://odracentrum.asysto.pl/\n• More information about workshops for school groups: https://odracentrum.org/warsztaty/"
-        },
-        "uk": {
-          "title": "Безкоштовна Світлиця Одерська в Одер Центрі",
-          "description": "Безкоштовна Світлиця Одерська - це освітньо-культурне місце для дітей та молоді, розташоване на кораблі Одер Центр за адресою Набережна Юліуша Словацького 5B у Вроцлаві. Проект пропагує знання про екологію, історію судноплавства та охорону навколишнього середовища.\n\nГрафік та пропозиція:\n• Коли: вівторки та четверги з 14:00 до 18:00.\n• Програма: розминка, освітні майстер-класи, інтеграційні ігри та розваги.\n• Атракції: Академія Вузлів, Мала Шкутня, прогулянки на електричних човнах.\n\nОрганізаційна інформація:\n• Вік учасників: 6-19 років (особи з інвалідністю до 26 років).\n• Запис: обов'язковий запис на наступний тиждень, приймається з понеділка з 00:01 за адресою: https://odracentrum.asysto.pl/\n• Більше інформації про майстер-класи для шкільних груп: https://odracentrum.org/warsztaty/"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-09-05T19:00:30.851296+00:00"
     },
     "specjalistyczna-wystawa-ps-w-rasy-dog-niemiecki-2026-09-12T10:00:00+02:00": {
       "title": "Specjalistyczna Wystawa Psów rasy Dog Niemiecki",

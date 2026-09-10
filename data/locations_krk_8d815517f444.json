@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:50:27.203088+00:00",
+  "updated_at": "2026-09-10T11:24:48.885338+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -3910,6 +3910,105 @@
       "lat": 50.046,
       "lng": 19.952,
       "updated_at": "2026-09-09T11:11:01.609168+00:00"
+    },
+    "biblioteka kuźnia ośrodka kultury norwida": {
+      "name": "Os. Złotego Wieku 14, Kraków",
+      "district": "Krowodrza",
+      "address": "Os. Złotego Wieku 14, Kraków",
+      "normalized": "biblioteka kuźnia ośrodka kultury norwida",
+      "lat": 50.067,
+      "lng": 19.916,
+      "updated_at": "2026-09-10T10:57:11.544973+00:00"
+    },
+    "stadion miejski cracovia im. józefa piłsudskiego": {
+      "name": "Stadion Miejski Cracovia im. Józefa Piłsudskiego, ul. Józefa Kałuży 1, Kraków",
+      "district": "Podgórze",
+      "address": "Stadion Miejski Cracovia im. Józefa Piłsudskiego, ul. Józefa Kałuży 1, Kraków",
+      "normalized": "stadion miejski cracovia im. józefa piłsudskiego",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-10T10:58:05.395319+00:00"
+    },
+    "młodzieżowy dom kultury fort 49 \"krzesławice\"": {
+      "name": "os. Na Stoku 27b, Kraków",
+      "district": "Podgórze",
+      "address": "os. Na Stoku 27b, Kraków",
+      "normalized": "młodzieżowy dom kultury fort 49 \"krzesławice\"",
+      "lat": 50.034,
+      "lng": 19.932,
+      "updated_at": "2026-09-10T11:00:23.915471+00:00"
+    },
+    "kino studyjne sfinks": {
+      "name": "Kino Studyjne Sfinks, 5, Osiedle Górali, Nowa Huta, Kraków, województwo małopolskie, 31-959, Polska",
+      "district": "Nowa Huta",
+      "address": "Kino Studyjne Sfinks, 5, Osiedle Górali, Nowa Huta, Kraków, województwo małopolskie, 31-959, Polska",
+      "normalized": "kino studyjne sfinks",
+      "lat": 50.0798268,
+      "lng": 20.0364042,
+      "updated_at": "2026-09-10T11:00:45.921964+00:00"
+    },
+    "﻿ klub kazimierz klub kazimierz krakowska 13_17": {
+      "name": "﻿ Klub Kazimierz Klub Kazimierz Krakowska 13/17",
+      "district": "Stare Miasto",
+      "address": "﻿ Klub Kazimierz Klub Kazimierz Krakowska 13/17",
+      "normalized": "﻿ klub kazimierz klub kazimierz krakowska 13_17",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-10T11:11:25.834317+00:00"
+    },
+    "﻿ salon muzyczny stefańskich ul. garncarska 3_8": {
+      "name": "ul. Garncarska 3/8, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Garncarska 3/8, Kraków",
+      "normalized": "﻿ salon muzyczny stefańskich ul. garncarska 3_8",
+      "lat": 50.061,
+      "lng": 19.937,
+      "updated_at": "2026-09-10T11:11:29.169529+00:00"
+    },
+    "﻿ krakowskie forum kultury ul. mikołajska 2 krakowskie forum kultury mikołajska 2": {
+      "name": "ul. Mikołajska 2, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Mikołajska 2, Kraków",
+      "normalized": "﻿ krakowskie forum kultury ul. mikołajska 2 krakowskie forum kultury mikołajska 2",
+      "lat": 50.061,
+      "lng": 19.937,
+      "updated_at": "2026-09-10T11:11:31.349248+00:00"
+    },
+    "﻿ klub malwa klub malwa dobrego pasterza 6": {
+      "name": "﻿ Klub Malwa Klub Malwa Dobrego Pasterza 6",
+      "district": "Prądnik Czerwony",
+      "address": "﻿ Klub Malwa Klub Malwa Dobrego Pasterza 6",
+      "normalized": "﻿ klub malwa klub malwa dobrego pasterza 6",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-10T11:11:31.349657+00:00"
+    },
+    "﻿ klub olsza klub olsza stanisława ze skalbmierza 7": {
+      "name": "﻿ Klub Olsza Klub Olsza Stanisława ze Skalbmierza 7",
+      "district": "Prądnik Czerwony",
+      "address": "﻿ Klub Olsza Klub Olsza Stanisława ze Skalbmierza 7",
+      "normalized": "﻿ klub olsza klub olsza stanisława ze skalbmierza 7",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-10T11:11:31.349822+00:00"
+    },
+    "﻿ klub strych klub strych ul. masarska 14": {
+      "name": "﻿ Klub Strych Klub Strych ul. Masarska 14",
+      "district": "Stare Miasto",
+      "address": "﻿ Klub Strych Klub Strych ul. Masarska 14",
+      "normalized": "﻿ klub strych klub strych ul. masarska 14",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-10T11:11:31.350377+00:00"
+    },
+    "planty": {
+      "name": "Planty, Stare Miasto, Kraków, województwo małopolskie, Polska",
+      "district": "Stare Miasto",
+      "address": "Planty, Stare Miasto, Kraków, województwo małopolskie, Polska",
+      "normalized": "planty",
+      "lat": 50.0602088,
+      "lng": 19.9419072,
+      "updated_at": "2026-09-10T11:11:34.102429+00:00"
     }
   }
 }

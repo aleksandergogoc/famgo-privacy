@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:50:24.741361+00:00",
+  "updated_at": "2026-09-10T11:24:47.706651+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -5857,6 +5857,114 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-09T11:29:31.753964+00:00"
+    },
+    "ul. piwna 31_33": {
+      "name": "ul. Piwna 31/33, Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Piwna 31/33, Warszawa",
+      "normalized": "ul. piwna 31_33",
+      "lat": 52.2506,
+      "lng": 21.0126,
+      "updated_at": "2026-09-10T11:13:10.716030+00:00"
+    },
+    "ul. podleśna 38": {
+      "name": "ul. Podleśna 38, Wesoła, Warszawa",
+      "district": "Wesoła",
+      "address": "ul. Podleśna 38, Wesoła, Warszawa",
+      "normalized": "ul. podleśna 38",
+      "lat": 52.2216,
+      "lng": 21.2137,
+      "updated_at": "2026-09-10T11:13:19.123285+00:00"
+    },
+    "terminal kultury gocław · ul. jana nowaka-jeziorańskiego 24": {
+      "name": "Terminal Kultury Gocław · ul. Jana Nowaka-Jeziorańskiego 24",
+      "district": "Praga-Południe",
+      "address": "Terminal Kultury Gocław · ul. Jana Nowaka-Jeziorańskiego 24",
+      "normalized": "terminal kultury gocław · ul. jana nowaka-jeziorańskiego 24",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-10T11:16:09.564177+00:00"
+    },
+    "street workout pod mostem świętokrzyskim": {
+      "name": "Street Workout pod Mostem Świętokrzyskim",
+      "district": "Śródmieście",
+      "address": "Street Workout pod Mostem Świętokrzyskim",
+      "normalized": "street workout pod mostem świętokrzyskim",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-10T11:16:09.564440+00:00"
+    },
+    "białołęcki ośrodek sportu": {
+      "name": "Białołęcki Ośrodek Sportu, ul. Światowida 56",
+      "district": "Białołęka",
+      "address": "Białołęcki Ośrodek Sportu, ul. Światowida 56",
+      "normalized": "białołęcki ośrodek sportu",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-10T11:16:09.564756+00:00"
+    },
+    "ul. św. wincentego 85": {
+      "name": "ul. św. Wincentego 85",
+      "district": "Targówek",
+      "address": "ul. św. Wincentego 85",
+      "normalized": "ul. św. wincentego 85",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-10T11:16:09.564980+00:00"
+    },
+    "parking przy ul. kostki-napierskiego w pyrach": {
+      "name": "Parking przy ul. Kostki-Napierskiego w Pyrach",
+      "district": "Ursynów",
+      "address": "Parking przy ul. Kostki-Napierskiego w Pyrach",
+      "normalized": "parking przy ul. kostki-napierskiego w pyrach",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-10T11:16:09.565205+00:00"
+    },
+    "fabryka norblina": {
+      "name": "Fabryka Norblina, ul. Żelazna 51/53",
+      "district": "Wola",
+      "address": "Fabryka Norblina, ul. Żelazna 51/53",
+      "normalized": "fabryka norblina",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-10T11:16:09.565396+00:00"
+    },
+    "park im. józefa polińskiego": {
+      "name": "Park im. Józefa Polińskiego, ul. Szaserów 125",
+      "district": "Praga-Południe",
+      "address": "Park im. Józefa Polińskiego, ul. Szaserów 125",
+      "normalized": "park im. józefa polińskiego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-10T11:16:09.565658+00:00"
+    },
+    "plaża saska": {
+      "name": "Plaża Saska",
+      "district": "Praga-Południe",
+      "address": "Plaża Saska",
+      "normalized": "plaża saska",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-10T11:16:09.565885+00:00"
+    },
+    "mal": {
+      "name": "MAL, ul. Grójecka 109",
+      "district": "Ochota",
+      "address": "MAL, ul. Grójecka 109",
+      "normalized": "mal",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-10T11:16:09.566082+00:00"
+    },
+    "dobre miejsce": {
+      "name": "Dobre Miejsce, ul. Dewajtis 3",
+      "district": "Bielany",
+      "address": "Dobre Miejsce, ul. Dewajtis 3",
+      "normalized": "dobre miejsce",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-10T11:16:09.566322+00:00"
     }
   }
 }

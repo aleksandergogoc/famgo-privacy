@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:25:50.207825+00:00",
+  "updated_at": "2026-09-10T07:30:05.460221+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -12660,13 +12660,11 @@
       "url": "https://krakow.pl/krakow_dla_dzieci/336734,2431,komunikat,pierwszy_medal_zostaje_na_zawsze__trwaja_zapisy_na_mini_melts_krakow_run.html",
       "source": "krakow.pl",
       "location": {
-        "name": "Błonia, Kraków",
-        "address": "Błonia, Kraków",
-        "district": "Zwierzyniec"
+        "name": "Błonia, Kraków"
       },
       "district": "Zwierzyniec",
-      "date": "2026-09-18T16:00:00+02:00",
-      "end_date": "2026-09-18T16:00:00+02:00",
+      "date": "2026-09-19T06:00:00+00:00",
+      "end_date": "2026-09-18T22:00:00+00:00",
       "startTimeKnown": true,
       "source_url": "https://krakow.pl/krakow_dla_dzieci/336734,2431,komunikat,pierwszy_medal_zostaje_na_zawsze__trwaja_zapisy_na_mini_melts_krakow_run.html",
       "scrapped_url": "https://krakow.pl/krakow_dla_dzieci/336734,2431,komunikat,pierwszy_medal_zostaje_na_zawsze__trwaja_zapisy_na_mini_melts_krakow_run.html",
@@ -12691,7 +12689,13 @@
           "description": "Перший медаль, пам'ятна кольорова футболка, підтримка батьків і величезна радість на фініші – саме так виглядають спогади, які залишаються з дітьми надовго. Вже 19 вересня краківські Блоні знову перетворяться на місце, наповнене усмішками та спортивними емоціями під час Mini Melts Kraków Run, події, створеної з думкою про наймолодших бігунів віком від 3 до 13 років. Фото: Управління спортивної інфраструктури в Кракові. Тут важлива сміливість, а не результат. Це не змагання за подіум або особисті рекорди. У Mini Melts Kraków Run немає вимірювання часу або фінальної класифікації. Найголовніше – показати дітям, що фізична активність може бути чудовою розвагою, а участь у цій події – початком прекрасної спортивної пригоди. Кожна дитина, яка перетне фініш, буде переможцем."
         }
       },
-      "updated_at": "2026-09-08T11:02:29.337233+00:00"
+      "updated_at": "2026-09-10T07:30:05.392954+00:00",
+      "additional_categories": [],
+      "featured": false,
+      "admission": {
+        "is_free": null,
+        "ticket_url": null
+      }
     },
     "pierwszy-medal-zostaje-na-zawsze-trwaj-zapisy-na-mini-melts-krak-w-run-2026-09-19T16:00:00+02:00": {
       "title": "Pierwszy medal zostaje na zawsze. Trwają zapisy na Mini Melts Kraków Run",

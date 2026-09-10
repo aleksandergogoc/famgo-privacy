@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:20:01.535307+00:00",
+  "updated_at": "2026-09-10T07:22:26.711947+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -13587,8 +13587,8 @@
       "image": "https://plikimpi.krakow.pl/zalacznik/619343/4.webp",
       "url": "https://krakow.pl/aktualnosci/336983,33,komunikat,przed_nami_4__festiwal_kultury_wrazliwej.html",
       "source": "krakow.pl",
-      "date": "2026-09-09T00:00:00+02:00",
-      "end_date": "2026-09-09T00:00:00+02:00",
+      "date": "2026-09-19T22:00:00+00:00",
+      "end_date": "2026-09-29T22:00:00+00:00",
       "startTimeKnown": false,
       "source_url": "https://krakow.pl/aktualnosci/336983,33,komunikat,przed_nami_4__festiwal_kultury_wrazliwej.html",
       "scrapped_url": "https://krakow.pl/aktualnosci/336983,33,komunikat,przed_nami_4__festiwal_kultury_wrazliwej.html",
@@ -13600,7 +13600,7 @@
       ],
       "age_range": {
         "min": 3,
-        "max": 12
+        "max": 18
       },
       "location_type": "both",
       "translations": {
@@ -13617,7 +13617,13 @@
           "description": "Вже з 20 по 30 вересня 14 міст Малопольщі, включаючи Краків, об'єднають установи з регіону в спільній ідеї створення пропозиції для кожного споживача. Фестиваль пропонує понад 90 різноманітних подій – у програмі театральні вистави, концерти, майстер-класи, екскурсії та прогулянки, все це в дусі гасла цьогорічної редакції – «Мистецтво відчуттів». Фото: пресматеріали. Ідея фестивалю полягає у відкритті пропозиції для осіб з різноманітними потребами, включаючи осіб з інвалідністю та всіх, хто щодня стикається з бар'єрами в участі в культурному житті. Події були заплановані так, щоб забезпечити споживачам максимальний комфорт і врешті-решт зняти ті перешкоди, які вони щодня зустрічають – організатори подбали про присутність перекладачів жестової мови, аудіодескрипцію, тифлографіку."
         }
       },
-      "updated_at": "2026-09-09T11:11:04.084716+00:00"
+      "updated_at": "2026-09-10T07:22:26.618172+00:00",
+      "district": "Stare Miasto",
+      "featured": false,
+      "admission": {
+        "is_free": null,
+        "ticket_url": null
+      }
     },
     "spektakl-stuk-puk-w-wyk-fundacji-crush-on-trash-2026-09-26T00:00:00+02:00": {
       "title": "Spektakl „Stuk, puk” w wyk. Fundacji Crush On Trash",

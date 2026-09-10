@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:31:25.376638+00:00",
+  "updated_at": "2026-09-10T07:32:46.455016+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -7107,10 +7107,13 @@
         "is_free": true,
         "ticket_url": null
       },
-      "updated_at": "2026-09-10T07:31:25.296980+00:00",
+      "updated_at": "2026-09-10T07:32:46.367430+00:00",
       "district": "Stare Miasto",
       "featured": false,
-      "location_type": "unknown"
+      "location_type": "unknown",
+      "location": {
+        "name": "Łąka na Wesołej"
+      }
     },
     "dzie-otwarty-w-klubie-soboniowice-2026-09-12T10:00:00+02:00": {
       "title": "Dzień Otwarty w Klubie Soboniowice.",

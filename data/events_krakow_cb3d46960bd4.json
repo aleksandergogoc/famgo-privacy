@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:30:05.460221+00:00",
+  "updated_at": "2026-09-10T07:31:25.376638+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -7074,9 +7074,9 @@
       "image": "https://plikimpi.krakow.pl/zalacznik/617570/4.webp",
       "url": "https://krakow.pl/aktualnosci/336284,33,komunikat,dynie__lawenda__koronka_i_ogien_z_krzesiwa__wesola_i_metropolia_krakowska_zapraszaja_na_swieto_plonow_.html",
       "source": "krakow.pl",
-      "date": "2026-09-20T00:00:00+02:00",
-      "end_date": "2026-09-20T00:00:00+02:00",
-      "startTimeKnown": false,
+      "date": "2026-09-20T10:00:00+00:00",
+      "end_date": "2026-09-20T16:00:00+00:00",
+      "startTimeKnown": true,
       "source_url": "https://krakow.pl/aktualnosci/336284,33,komunikat,dynie__lawenda__koronka_i_ogien_z_krzesiwa__wesola_i_metropolia_krakowska_zapraszaja_na_swieto_plonow_.html",
       "scrapped_url": "https://krakow.pl/aktualnosci/336284,33,komunikat,dynie__lawenda__koronka_i_ogien_z_krzesiwa__wesola_i_metropolia_krakowska_zapraszaja_na_swieto_plonow_.html",
       "scrapped_timestamp": "2026-09-03T11:01:15.805501+00:00",
@@ -7087,7 +7087,7 @@
       ],
       "age_range": {
         "min": 3,
-        "max": 12
+        "max": 18
       },
       "translations": {
         "pl": {
@@ -7104,9 +7104,13 @@
         }
       },
       "admission": {
-        "is_free": true
+        "is_free": true,
+        "ticket_url": null
       },
-      "updated_at": "2026-09-03T11:03:59.395660+00:00"
+      "updated_at": "2026-09-10T07:31:25.296980+00:00",
+      "district": "Stare Miasto",
+      "featured": false,
+      "location_type": "unknown"
     },
     "dzie-otwarty-w-klubie-soboniowice-2026-09-12T10:00:00+02:00": {
       "title": "Dzień Otwarty w Klubie Soboniowice.",

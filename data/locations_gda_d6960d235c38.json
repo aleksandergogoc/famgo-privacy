@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:50:19.116467+00:00",
+  "updated_at": "2026-09-10T11:24:46.640745+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -860,6 +860,24 @@
       "lat": 54.3869957,
       "lng": 18.5922208,
       "updated_at": "2026-09-09T11:41:51.099368+00:00"
+    },
+    "obrońców wybrzeża 1": {
+      "name": "Station Service E. Leclerc, 1, Obrońców Wybrzeża, Przymorze Wielkie, Gdańsk, województwo pomorskie, 80-398, Polska",
+      "district": "Oliwa",
+      "address": "Station Service E. Leclerc, 1, Obrońców Wybrzeża, Przymorze Wielkie, Gdańsk, województwo pomorskie, 80-398, Polska",
+      "normalized": "obrońców wybrzeża 1",
+      "lat": 54.4093336,
+      "lng": 18.5945582,
+      "updated_at": "2026-09-10T11:20:45.809622+00:00"
+    },
+    "strajku dokerow 5": {
+      "name": "5, Strajku Dokerów, Nowy Port, Gdańsk, województwo pomorskie, 80-544, Polska",
+      "district": "Dolny Taras",
+      "address": "5, Strajku Dokerów, Nowy Port, Gdańsk, województwo pomorskie, 80-544, Polska",
+      "normalized": "strajku dokerow 5",
+      "lat": 54.3999872,
+      "lng": 18.6716199,
+      "updated_at": "2026-09-10T11:20:47.283149+00:00"
     }
   }
 }

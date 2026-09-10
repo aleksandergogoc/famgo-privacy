@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T07:22:26.711947+00:00",
+  "updated_at": "2026-09-10T07:25:50.207825+00:00",
   "events": {
     "adonis-ma-go-cia-2026-10-12": {
       "url": "https://karnet.krakowculture.pl/62549-krakow-adonis-ma-goscia",
@@ -12436,13 +12436,11 @@
       "url": "https://krakow.pl/dzielnica_xii_biezanow-prokocim/336716,2326,komunikat,kolorowe_jarmarki_na_pozegnanie_lata_w_biezanowie.html",
       "source": "krakow.pl",
       "location": {
-        "name": "teren zielony przy ul. Aleksandry 11, Kraków",
-        "address": "teren zielony przy ul. Aleksandry 11, Kraków",
-        "district": "Stare Miasto"
+        "name": "teren zielony przy ul. Aleksandry 11, Kraków"
       },
       "district": "Stare Miasto",
-      "date": "2026-09-12T18:00:00+02:00",
-      "end_date": "2026-09-12T18:00:00+02:00",
+      "date": "2026-09-12T13:00:00+00:00",
+      "end_date": "2026-09-11T22:00:00+00:00",
       "startTimeKnown": true,
       "source_url": "https://krakow.pl/dzielnica_xii_biezanow-prokocim/336716,2326,komunikat,kolorowe_jarmarki_na_pozegnanie_lata_w_biezanowie.html",
       "scrapped_url": "https://krakow.pl/dzielnica_xii_biezanow-prokocim/336716,2326,komunikat,kolorowe_jarmarki_na_pozegnanie_lata_w_biezanowie.html",
@@ -12472,9 +12470,11 @@
         }
       },
       "admission": {
-        "is_free": true
+        "is_free": true,
+        "ticket_url": null
       },
-      "updated_at": "2026-09-08T11:02:29.337106+00:00"
+      "updated_at": "2026-09-10T07:25:50.135853+00:00",
+      "featured": false
     },
     "piknik-p-aszowski-rodzinne-popo-udnie-pe-ne-atrakcji-i-muzyki-2026-09-12T15:00:00+02:00": {
       "title": "Piknik Płaszowski – rodzinne popołudnie pełne atrakcji i muzyki",

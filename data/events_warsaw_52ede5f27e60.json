@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:16:10.645626+00:00",
+  "updated_at": "2026-09-11T10:45:22.971053+00:00",
   "events": {
     "biegaj-po-woli-bieg-nocny-2026-09-19": {
       "scrapped_timestamp": "2026-06-23T18:57:17.708340+00:00",
@@ -4194,88 +4194,6 @@
       "district": "Bielany",
       "updated_at": "2026-08-27T18:17:52.853044+00:00"
     },
-    "dzieciakowy-klub-filmowy-oskar-patka-i-z-oto-ba-tyku-2026-09-10T17:30:00+02:00": {
-      "title": "Dzieciakowy Klub Filmowy: „Oskar, Patka i złoto Bałtyku”",
-      "date": "2026-09-10T17:30:00+02:00",
-      "end_date": "2026-09-10T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Dzieciakowy Klub Filmowy zaprasza młodych widzów na pokazy filmowe.",
-      "url": "https://dkpraga.pl/wydarzenia/dzieciakowy-klub-filmowy-18/",
-      "source": "dkpraga.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "Dom Kultury Praga, Pałacyk Konopackiego · ul. Strzelecka 11/13",
-        "district": "Praga-Północ"
-      },
-      "image": "https://dkpraga.pl/wp-content/themes/intui-system/images/social-img.jpg",
-      "scrapped_url": "https://dkpraga.pl/wydarzenia/dzieciakowy-klub-filmowy-18/",
-      "scrapped_timestamp": "2026-08-28T19:03:41.767410+00:00",
-      "category": "Cinema",
-      "translations": {
-        "pl": {
-          "title": "Dzieciakowy Klub Filmowy: „Oskar, Patka i złoto Bałtyku”",
-          "description": "Dzieciakowy Klub Filmowy zaprasza młodych widzów na pokazy filmowe."
-        },
-        "en": {
-          "title": "Kids' Film Club: 'Oskar, Patka and the Gold of the Baltic'",
-          "description": "The Kids' Film Club invites young viewers to film screenings."
-        },
-        "uk": {
-          "title": "Дитячий кіноклуб: «Оскар, Патка і золото Балтики»",
-          "description": "Дитячий кіноклуб запрошує молодих глядачів на покази фільмів."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Praga-Północ",
-      "updated_at": "2026-08-28T19:09:30.085215+00:00"
-    },
-    "oprowadzanie-dla-rodzic-w-ma-ych-dzieci-2026-09-11T12:15:00+02:00": {
-      "title": "Oprowadzanie dla rodziców małych dzieci",
-      "date": "2026-09-11T12:15:00+02:00",
-      "end_date": "2026-09-11T12:15:00+02:00",
-      "startTimeKnown": true,
-      "description": "Spotkania odbywają się w spokojnej, przyjaznej atmosferze – bez pośpiechu, z uważnością na potrzeby uczestników w każdym wieku. Pierwsza część to oprowadzanie po wystawie w tempie dostosowanym do rytmu osób z wózkami, nosidłami i maluchami na rękach. Dzięki systemowi tour guide można swobodnie słuchać przewodniczki, nawet gdy trzeba na chwilę się zatrzymać, nakarmić dziecko, przewinąć je lub po prostu odpocząć. Druga część odbywa się w przestrzeni edukacyjnej MSN – to czas na rozmowę, zadawanie pytań, dzielenie się wrażeniami lub udział w krótkim miniwarsztacie. Można też po prostu pobyć razem z dzieckiem, w swoim tempie i bez presji. To propozycja dla wszystkich, którzy chcą zanurzyć się w świat sztuki z uważnością na potrzeby najmłodszych – i tych, którzy chcą po prostu miło spędzić czas i nawiązać nowe znajomości. Wiemy, że dzieci czasem płaczą, zasypiają, potrzebują przewinięcia czy karmienia – to naturalna część spotkania. Na miejscu dostępne są: winda, pokój rodzinny z przewijakiem i fotelem do karmienia, a także maty i zabawki w przestrzeni edukacyjnej.",
-      "url": "https://artmuseum.pl/wydarzenia/oprowadzanie-dla-rodzicow-malych-dzieci-3?term=01a0157f-e03c-7218-8e06-fc943a3d18c1",
-      "source": "artmuseum.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Educational",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "Muzeum Sztuki Nowoczesnej, Zbiórka przy głównej klatce schodowej, naprzeciwko Audytorium · ul. Marszałkowska 103",
-        "district": "Śródmieście"
-      },
-      "image": "https://api-sf.artmuseum.pl/uploads/files/6a847b0c97700053890448.png",
-      "scrapped_url": "https://artmuseum.pl/wydarzenia/oprowadzanie-dla-rodzicow-malych-dzieci-3?term=01a0157f-e03c-7218-8e06-fc943a3d18c1",
-      "scrapped_timestamp": "2026-08-28T19:03:44.740260+00:00",
-      "translations": {
-        "pl": {
-          "title": "Oprowadzanie dla rodziców małych dzieci",
-          "description": "Spotkania odbywają się w spokojnej, przyjaznej atmosferze – bez pośpiechu, z uważnością na potrzeby uczestników w każdym wieku. Pierwsza część to oprowadzanie po wystawie w tempie dostosowanym do rytmu osób z wózkami, nosidłami i maluchami na rękach. Dzięki systemowi tour guide można swobodnie słuchać przewodniczki, nawet gdy trzeba na chwilę się zatrzymać, nakarmić dziecko, przewinąć je lub po prostu odpocząć. Druga część odbywa się w przestrzeni edukacyjnej MSN – to czas na rozmowę, zadawanie pytań, dzielenie się wrażeniami lub udział w krótkim miniwarsztacie. Można też po prostu pobyć razem z dzieckiem, w swoim tempie i bez presji. To propozycja dla wszystkich, którzy chcą zanurzyć się w świat sztuki z uważnością na potrzeby najmłodszych – i tych, którzy chcą po prostu miło spędzić czas i nawiązać nowe znajomości. Wiemy, że dzieci czasem płaczą, zasypiają, potrzebują przewinięcia czy karmienia – to naturalna część spotkania. Na miejscu dostępne są: winda, pokój rodzinny z przewijakiem i fotelem do karmienia, a także maty i zabawki w przestrzeni edukacyjnej."
-        },
-        "en": {
-          "title": "Guided Tour for Parents with Young Children",
-          "description": "The meetings take place in a calm, friendly atmosphere – without rush, with attention to the needs of participants of all ages. The first part is a guided tour of the exhibition at a pace suited to those with strollers, carriers, and little ones in their arms. Thanks to the tour guide system, you can listen to the guide freely, even when you need to stop for a moment to feed, change, or simply rest with your child. The second part takes place in the educational space of MSN – it's time for conversation, asking questions, sharing impressions, or participating in a short mini-workshop. You can also just spend time together with your child, at your own pace and without pressure. This is an offer for everyone who wants to immerse themselves in the world of art with attention to the needs of the youngest – and for those who simply want to enjoy their time."
-        },
-        "uk": {
-          "title": "Екскурсія для батьків маленьких дітей",
-          "description": "Зустрічі проходять у спокійній, дружній атмосфері – без поспіху, з увагою до потреб учасників будь-якого віку. Перша частина – це екскурсія по виставці в темпі, що відповідає ритму людей з візочками, слінгами та малюками на руках. Завдяки системі гіда можна вільно слухати екскурсовода, навіть коли потрібно на мить зупинитися, нагодувати дитину, змінити її або просто відпочити. Друга частина проходить у навчальному просторі MSN – це час для розмови, запитань, обміну враженнями або участі в короткому міні-майстер-класі. Можна також просто провести час разом з дитиною, у своєму темпі і без тиску. Це пропозиція для всіх, хто хоче зануритися у світ мистецтва з увагою до потреб найменших – і тих, хто просто хоче приємно провести час."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-28T19:09:30.085234+00:00"
-    },
     "dzieci-ca-swobota-2026-09-12T10:00:00+02:00": {
       "title": "DZIECIĘCA SwOBOTA",
       "date": "2026-09-12T10:00:00+02:00",
@@ -5515,47 +5433,6 @@
       },
       "district": "Żoliborz",
       "updated_at": "2026-08-28T19:09:30.086352+00:00"
-    },
-    "rysujemy-zwierz-ta-2026-09-11T12:00:00+02:00": {
-      "title": "Rysujemy zwierzęta",
-      "date": "2026-09-11T12:00:00+02:00",
-      "end_date": "2026-09-11T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Warsztaty trwają 90 minut: około 60 minut rysowania oraz 30 minut czasu wolnego w strefie edukacyjnej.",
-      "url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/rysujemy-zwierzeta#11-09",
-      "source": "lazienki-krolewskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "Łazienki Królewskie, Nowa Palmiarnia · ul. Agrykola 1",
-        "district": "Śródmieście"
-      },
-      "image": "http://www.lazienki-krolewskie.pl/public/upload/pages/thumb/545b63bf8a50d.jpg",
-      "scrapped_url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/rysujemy-zwierzeta#11-09",
-      "scrapped_timestamp": "2026-08-31T13:31:03.550739+00:00",
-      "translations": {
-        "pl": {
-          "title": "Rysujemy zwierzęta",
-          "description": "Warsztaty trwają 90 minut: około 60 minut rysowania oraz 30 minut czasu wolnego w strefie edukacyjnej."
-        },
-        "en": {
-          "title": "We Draw Animals",
-          "description": "The workshop lasts 90 minutes: about 60 minutes of drawing and 30 minutes of free time in the educational area."
-        },
-        "uk": {
-          "title": "Малюємо тварин",
-          "description": "Майстер-клас триває 90 хвилин: близько 60 хвилин малювання та 30 хвилин вільного часу в освітній зоні."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-31T13:38:42.688918+00:00"
     },
     "wspomnienia-z-pla-y-zamkni-te-w-s-oiczku-rodzinne-warsztaty-artystyczne-2026-09-11T15:00:00+02:00": {
       "title": "Wspomnienia z plaży zamknięte w słoiczku – Rodzinne Warsztaty Artystyczne",
@@ -9544,47 +9421,6 @@
       "district": "Bielany",
       "updated_at": "2026-08-31T13:38:42.690811+00:00"
     },
-    "dzieciakowy-klub-filmowy-oskar-patka-i-z-oto-ba-tyku-6-2026-09-10T17:30:00+02:00": {
-      "title": "Dzieciakowy Klub Filmowy: „Oskar, Patka i złoto Bałtyku” (6+)",
-      "date": "2026-09-10T17:30:00+02:00",
-      "end_date": "2026-09-10T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Oskar i Patka, nieustraszeni poszukiwacze przygód, wyruszają na wakacje nad morzem, nie spodziewając się, że na miejscu czeka ich niesamowite śledztwo! Gdy w tajemnicy przed dorosłymi odnajdują zaszyfrowaną mapę prowadzącą do legendarnego skarbu, ich wakacje zmieniają się w pełną zwrotów akcji misję. wstęp wolny",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788174426.webp",
-      "location": {
-        "name": "Pałacyk Konopackiego, ul. Strzelecka 11/13",
-        "district": "Praga-Północ"
-      },
-      "url": "https://www.facebook.com/events/1067294305688534/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1067294305688534/",
-      "scrapped_timestamp": "2026-08-31T13:37:45.560451+00:00",
-      "category": "Cinema",
-      "age_range": {
-        "min": 6,
-        "max": 14
-      },
-      "translations": {
-        "pl": {
-          "title": "Dzieciakowy Klub Filmowy: „Oskar, Patka i złoto Bałtyku” (6+)",
-          "description": "Oskar i Patka, nieustraszeni poszukiwacze przygód, wyruszają na wakacje nad morzem, nie spodziewając się, że na miejscu czeka ich niesamowite śledztwo! Gdy w tajemnicy przed dorosłymi odnajdują zaszyfrowaną mapę prowadzącą do legendarnego skarbu, ich wakacje zmieniają się w pełną zwrotów akcji misję. wstęp wolny"
-        },
-        "en": {
-          "title": "Kids' Film Club: 'Oskar, Patka and the Gold of the Baltic' (6+)",
-          "description": "Oskar and Patka, fearless adventurers, set off for a vacation by the sea, not expecting that an incredible investigation awaits them! When they secretly find an encrypted map leading to a legendary treasure, their vacation turns into a mission full of twists and turns. Free admission."
-        },
-        "uk": {
-          "title": "Дитячий Кіноклуб: «Оскар, Патка і золото Балтії» (6+)",
-          "description": "Оскар і Патка, безстрашні шукачі пригод, вирушають на канікули біля моря, не підозрюючи, що на місці їх чекає неймовірне розслідування! Коли таємно від дорослих вони знаходять зашифровану карту, що веде до легендарного скарбу, їхні канікули перетворюються на сповнену поворотів місію. Вхід вільний."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Praga-Północ",
-      "updated_at": "2026-08-31T13:38:42.691198+00:00"
-    },
     "warsztaty-modelarskie-dla-dzieci-i-m-odzie-y-10-2026-09-19T09:00:00+02:00": {
       "title": "Warsztaty modelarskie dla dzieci i młodzieży 10+",
       "date": "2026-09-19T09:00:00+02:00",
@@ -10540,51 +10376,6 @@
       },
       "updated_at": "2026-09-03T11:07:50.524345+00:00"
     },
-    "dzie-otwarty-w-domu-kultury-rembert-w-2026-09-10T17:30:00+02:00": {
-      "title": "Dzień otwarty w Domu Kultury „Rembertów”",
-      "date": "2026-09-10T17:30:00+02:00",
-      "end_date": "2026-09-10T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Warsztaty Interaktywne, otwarte stoisko z robotyką: Zapraszamy do zabawy w fascynującym świecie robotyki. Uczestnicy będą mogli samodzielnie budować i programować modele z klocków edukacyjnych. Do dyspozycji będą 4 stanowiska warsztatowe z 2 rodzajami zestawów edukacyjnych, dzięki czemu jednocześnie może pracować kilka zespołów/osób. Nad przebiegiem zajęć czuwa 2 instruktorów, którzy pomagają w budowaniu, programowaniu i realizacji krótkich wyzwań. Prowadzący: Akademia Wynalazców. Piaskowe Opowieści: Trochę piasku, dużo wyobraźni i odrobina magii! To naprawdę wyjątkowa okazja, gdzie będzie można spróbować swoich sił w niezwykłej technice rysowania piaskiem na podświetlonym stole i stworzyć własny, niepowtarzalny obraz. Na koniec każdy artysta otrzyma zdjęcie swojej pracy w formie pocztówki jako wyjątkową pamiątkę. Prowadzący: DIAZ-art Studio. Ruch, zabawa i energia: Czas wprawić się w ruch! Zapraszamy dzieci i całe rodziny do wspólnej zabawy pełnej energii, śmiechu i aktywności. Czekają na Was ruchowe wyzwania, zabawy i animacje, w których każdy znajdzie coś dla siebie. Prowadzący: Artsmyk.",
-      "url": "https://rembertow.um.warszawa.pl/-/dzien-otwarty-w-domu-kultury-rembertow-",
-      "source": "rembertow.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Dom Kultury Rembertów · Aleja Komandosów 8",
-        "district": "Rembertów"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://rembertow.um.warszawa.pl/-/dzien-otwarty-w-domu-kultury-rembertow-",
-      "scrapped_timestamp": "2026-09-04T11:06:07.097015+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Family Fun",
-        "Arts"
-      ],
-      "translations": {
-        "pl": {
-          "title": "Dzień otwarty w Domu Kultury „Rembertów”",
-          "description": "Warsztaty Interaktywne, otwarte stoisko z robotyką: Zapraszamy do zabawy w fascynującym świecie robotyki. Uczestnicy będą mogli samodzielnie budować i programować modele z klocków edukacyjnych. Do dyspozycji będą 4 stanowiska warsztatowe z 2 rodzajami zestawów edukacyjnych, dzięki czemu jednocześnie może pracować kilka zespołów/osób. Nad przebiegiem zajęć czuwa 2 instruktorów, którzy pomagają w budowaniu, programowaniu i realizacji krótkich wyzwań. Prowadzący: Akademia Wynalazców. Piaskowe Opowieści: Trochę piasku, dużo wyobraźni i odrobina magii! To naprawdę wyjątkowa okazja, gdzie będzie można spróbować swoich sił w niezwykłej technice rysowania piaskiem na podświetlonym stole i stworzyć własny, niepowtarzalny obraz. Na koniec każdy artysta otrzyma zdjęcie swojej pracy w formie pocztówki jako wyjątkową pamiątkę. Prowadzący: DIAZ-art Studio. Ruch, zabawa i energia: Czas wprawić się w ruch! Zapraszamy dzieci i całe rodziny do wspólnej zabawy pełnej energii, śmiechu i aktywności. Czekają na Was ruchowe wyzwania, zabawy i animacje, w których każdy znajdzie coś dla siebie. Prowadzący: Artsmyk."
-        },
-        "en": {
-          "title": "Open Day at the Cultural Center 'Rembertów'",
-          "description": "Interactive Workshops, open robotics booth: We invite you to have fun in the fascinating world of robotics. Participants will be able to build and program models using educational blocks on their own. There will be 4 workshop stations with 2 types of educational sets available, allowing several teams/individuals to work simultaneously. The activities will be supervised by 2 instructors who will assist in building, programming, and completing short challenges. Led by: Academy of Inventors. Sand Stories: A little sand, a lot of imagination, and a touch of magic! This is truly a unique opportunity to try your hand at the extraordinary technique of sand drawing on a light table and create your own, one-of-a-kind artwork. At the end, each artist will receive a photo of their work in the form of a postcard."
-        },
-        "uk": {
-          "title": "Відкритий день у Будинку культури «Рембертів»",
-          "description": "Інтерактивні майстер-класи, відкритий стенд з робототехніки: Запрошуємо до гри у захоплюючому світі робототехніки. Учасники зможуть самостійно будувати та програмувати моделі з навчальних конструкторів. Буде доступно 4 робочих місця з 2 видами навчальних наборів, завдяки чому одночасно можуть працювати кілька команд/осіб. За ходом занять наглядатимуть 2 інструктори, які допомагають у будівництві, програмуванні та виконанні коротких завдань. Ведучі: Академія винахідників. Піщані оповіді: Трохи піску, багато уяви та трохи магії! Це справді унікальна можливість спробувати свої сили в незвичайній техніці малювання піском на підсвіченому столі та створити власний, неповторний образ. Наприкінці кожен художник отримає фотографію своєї роботи у формі листівки."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Rembertów",
-      "updated_at": "2026-09-04T11:08:40.213792+00:00"
-    },
     "wyst-py-grup-artystycznych-domu-kultury-rembert-w-z-koncertem-aleksandry-szwed-2026-09-13T17:00:00+02:00": {
       "title": "Występy grup artystycznych Domu Kultury „Rembertów” z koncertem Aleksandry Szwed",
       "date": "2026-09-13T17:00:00+02:00",
@@ -11202,47 +10993,6 @@
       },
       "district": "Ursynów",
       "updated_at": "2026-09-04T11:08:40.214154+00:00"
-    },
-    "ultimate-frisbee-dla-pocz-tkuj-cych-2026-09-10T17:30:00+02:00": {
-      "title": "Ultimate frisbee dla początkujących",
-      "date": "2026-09-10T17:30:00+02:00",
-      "end_date": "2026-09-10T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia Ultimate frisbee dla początkujących, na których nauczycie się rzucać frisbee. Od kwietnia do października spotykamy się na Stadionie Podskarbińska na Pradze: ✅ Każdy czwartek w godz. 17:30 - 19:00 Wstęp wolny. Zajęcia są otwarte i bezpłatne dla każdego. Zapraszamy dzieci, młodzież szkolną, całe rodziny i dorosłych. ✅ Zapisy na zajęcia >> kontakt@skythis.pl Informacje dodatkowe: +48 793 157 177 Co czeka Was na zajęciach? 👉 nauka rzucania frisbee dla początkujących i doskonalenie techniki rzutu 👉 gry i zabawy z dyskiem integrujące uczestników 👉 mecze ultimate frisbee ✅ Zajęcia Ultimate frisbee dla początkujących w ramach projektu \"Aktywny Warszawiak\" współfinansuje Miasto Stołeczne Warszawa",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1778674441.webp",
-      "location": {
-        "name": "Stadion Podskarbińska OSiR Praga-Południe, ul. Chrzanowskiego 23",
-        "district": "Praga-Południe"
-      },
-      "url": "https://www.facebook.com/events/1265218758450626/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1265218758450626/",
-      "scrapped_timestamp": "2026-09-04T11:08:11.775733+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 5,
-        "max": 18
-      },
-      "translations": {
-        "pl": {
-          "title": "Ultimate frisbee dla początkujących",
-          "description": "Zapraszamy na zajęcia Ultimate frisbee dla początkujących, na których nauczycie się rzucać frisbee. Od kwietnia do października spotykamy się na Stadionie Podskarbińska na Pradze: ✅ Każdy czwartek w godz. 17:30 - 19:00 Wstęp wolny. Zajęcia są otwarte i bezpłatne dla każdego. Zapraszamy dzieci, młodzież szkolną, całe rodziny i dorosłych. ✅ Zapisy na zajęcia >> kontakt@skythis.pl Informacje dodatkowe: +48 793 157 177 Co czeka Was na zajęciach? 👉 nauka rzucania frisbee dla początkujących i doskonalenie techniki rzutu 👉 gry i zabawy z dyskiem integrujące uczestników 👉 mecze ultimate frisbee ✅ Zajęcia Ultimate frisbee dla początkujących w ramach projektu \"Aktywny Warszawiak\" współfinansuje Miasto Stołeczne Warszawa"
-        },
-        "en": {
-          "title": "Ultimate Frisbee for Beginners",
-          "description": "We invite you to Ultimate Frisbee classes for beginners, where you will learn how to throw a frisbee. From April to October, we meet at the Podskarbińska Stadium in Praga: ✅ Every Thursday from 5:30 PM to 7:00 PM. Free entry. The classes are open and free for everyone. We welcome children, school youth, entire families, and adults. ✅ Registration for classes >> kontakt@skythis.pl Additional information: +48 793 157 177 What awaits you in the classes? 👉 Learning to throw a frisbee for beginners and improving throwing technique 👉 Games and activities with the disc to integrate participants 👉 Ultimate Frisbee matches ✅ The Ultimate Frisbee classes for beginners are part of the 'Active Varsovian' project co-financed by the Capital City of Warsaw."
-        },
-        "uk": {
-          "title": "Ультимейт фрісбі для початківців",
-          "description": "Запрошуємо на заняття Ультимейт фрісбі для початківців, на яких ви навчитеся кидати фрісбі. Від квітня до жовтня зустрічаємося на Стадіоні Подскарбіська на Празі: ✅ Щочетверга з 17:30 до 19:00 Вхід вільний. Заняття відкриті та безкоштовні для всіх. Запрошуємо дітей, школярів, цілі сім'ї та дорослих. ✅ Запис на заняття >> kontakt@skythis.pl Додаткова інформація: +48 793 157 177 Що чекає на вас на заняттях? 👉 навчання кидання фрісбі для початківців та вдосконалення техніки кидка 👉 ігри та розваги з диском, що інтегрують учасників 👉 матчі ультимейт фрісбі ✅ Заняття Ультимейт фрісбі для початківців в рамках проекту \"Активний Варшав'янин\" співфінансує Місто Столичне Варшава"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-09-04T11:08:40.214394+00:00"
     },
     "biblioteczny-ekspres-90-lat-zapisane-mi-dzy-stronami-2026-09-12T10:00:00+02:00": {
       "title": "Biblioteczny Ekspres. 90 lat zapisane między stronami",
@@ -13118,125 +12868,6 @@
         }
       },
       "updated_at": "2026-09-05T18:53:01.823706+00:00"
-    },
-    "sitodruk-warsztaty-s-siedzkie-2026-09-10T15:30:00+02:00": {
-      "title": "Sitodruk – warsztaty sąsiedzkie",
-      "date": "2026-09-10T15:30:00+02:00",
-      "end_date": "2026-09-10T15:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na sąsiedzki piknik na pożegnanie lata, podczas którego odbędą się warsztaty sitodruku prowadzone przez Dominikę Dzieniszewską z ROBIE SITO. Uczestnicy będą mogli własnoręcznie wykonać nadruk grafiki nawiązującej do projektu muralu autorstwa Edyty Ołdak.\n\nSzczegóły:\n• Data: 10 września.\n• Godziny: 15:30–18:00.\n• Miejsce: Boisko przy ul. Tuchlińskiej.\n\nWymagania:\n• Należy przynieść własną jasną, gładką rzecz do zadrukowania (np. koszulkę lub torbę bawełnianą).\n\nWydarzenie jest okazją do rozmowy o Osiedlu Prototypów i dzielenia się lokalnymi wspomnieniami w ramach pikniku organizowanego przez Partnerstwo Mój Służewiec.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/782bb8e9-8e00-43b8-bf7d-19e89903bd42/d3e1aac0-8ca0-4fa4-b884-bdbbf3aa6e7f.jpg",
-      "location": {
-        "name": "ul. Tuchlińska 2A, Warszawa",
-        "district": null
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/sitodruk-warsztaty-sasiedzkie-782bb8e9-8e00-43b8-bf7d-19e89903bd42",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/sitodruk-warsztaty-sasiedzkie-782bb8e9-8e00-43b8-bf7d-19e89903bd42",
-      "scrapped_timestamp": "2026-09-05T18:44:53.915867+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Family Fun"
-      ],
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Sitodruk – warsztaty sąsiedzkie",
-          "description": "Zapraszamy na sąsiedzki piknik na pożegnanie lata, podczas którego odbędą się warsztaty sitodruku prowadzone przez Dominikę Dzieniszewską z ROBIE SITO. Uczestnicy będą mogli własnoręcznie wykonać nadruk grafiki nawiązującej do projektu muralu autorstwa Edyty Ołdak.\n\nSzczegóły:\n• Data: 10 września.\n• Godziny: 15:30–18:00.\n• Miejsce: Boisko przy ul. Tuchlińskiej.\n\nWymagania:\n• Należy przynieść własną jasną, gładką rzecz do zadrukowania (np. koszulkę lub torbę bawełnianą).\n\nWydarzenie jest okazją do rozmowy o Osiedlu Prototypów i dzielenia się lokalnymi wspomnieniami w ramach pikniku organizowanego przez Partnerstwo Mój Służewiec."
-        },
-        "en": {
-          "title": "Screen Printing – Neighborhood Workshop",
-          "description": "We invite you to a neighborhood picnic to say goodbye to summer, during which screen printing workshops will be held, led by Dominika Dzieniszewska from ROBIE SITO. Participants will have the opportunity to create their own print of a graphic related to the mural project by Edyta Ołdak.\n\nDetails:\n• Date: September 10.\n• Time: 3:30 PM – 6:00 PM.\n• Location: The field at Tuchlińska Street.\n\nRequirements:\n• Please bring your own light, smooth item to print on (e.g., a t-shirt or a cotton bag).\n\nThe event is an opportunity to discuss the Prototype Neighborhood and share local memories as part of the picnic organized by the My Służewiec Partnership."
-        },
-        "uk": {
-          "title": "Сітодрук – сусідські майстер-класи",
-          "description": "Запрошуємо на сусідський пікнік на прощання з літом, під час якого відбудуться майстер-класи з сітодруку, які проведе Домініка Дзенішевська з ROBIE SITO. Учасники зможуть власноруч виконати друк графіки, що стосується проекту муралу авторства Едити Оłдак.\n\nДеталі:\n• Дата: 10 вересня.\n• Час: 15:30–18:00.\n• Місце: Спортмайданчик на вул. Тухлінській.\n\nВимоги:\n• Необхідно принести власну світлу, гладку річ для друкування (наприклад, футболку або бавовняну сумку).\n\nПодія є нагодою для розмови про Оселення Прототипів та обміну місцевими спогадами в рамках пікніка, організованого Партнерством Мій Служевець."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-09-05T18:53:01.826230+00:00"
-    },
-    "moje-dziecko-idzie-do-przedszkola-warsztaty-dla-rodzic-w-2026-09-10T17:00:00+02:00": {
-      "title": "Moje dziecko idzie do przedszkola – warsztaty dla rodziców",
-      "date": "2026-09-10T17:00:00+02:00",
-      "end_date": "2026-09-10T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Warsztaty dla rodziców dzieci w wieku 0-6 lat, których celem jest wsparcie w procesie adaptacji przedszkolnej. Uczestnicy dowiedzą się, jak rozpoznawać stres u dziecka, jak budować poczucie bezpieczeństwa oraz jak przygotować się do codziennych rozstań.\n\nZajęcia są bezpłatne dla rodziców, nauczycieli i osób pracujących z dziećmi na terenie prawobrzeżnej Warszawy. Prowadzące: Jolanta Ziemienowicz i Małgorzata Sobiesiak.\n\nTerminy i miejsca:\n• 3 września 2026, 16.00-18.00: Przedszkole nr 250 „Akwarelka”, ul. Kinowa 10A\n• 10 września 2026, 17.00-19.00: Specjalistyczna Poradnia dla Dzieci i Dorosłych Stowarzyszenia Wspólne Podwórko, ul. Chrzanowskiego 13 lok. U-3\n\nZgłoszenia przyjmowane są przez formularz online lub telefonicznie pod numerem 604-442-433.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/ef0c652d-b3f0-4a78-ab06-b2cae3baaff8/818de30d-0770-4f37-aa05-082c750f3fa3.jpg",
-      "location": {
-        "name": "Chrzanowskiego 13, Warszawa",
-        "district": "Praga-Południe"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/moje-dziecko-idzie-do-przedszkola-warsztaty-dla-rodzicow-ef0c652d-b3f0-4a78-ab06-b2cae3baaff8",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/moje-dziecko-idzie-do-przedszkola-warsztaty-dla-rodzicow-ef0c652d-b3f0-4a78-ab06-b2cae3baaff8",
-      "scrapped_timestamp": "2026-09-05T18:44:59.908190+00:00",
-      "category": "Workshops",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Moje dziecko idzie do przedszkola – warsztaty dla rodziców",
-          "description": "Warsztaty dla rodziców dzieci w wieku 0-6 lat, których celem jest wsparcie w procesie adaptacji przedszkolnej. Uczestnicy dowiedzą się, jak rozpoznawać stres u dziecka, jak budować poczucie bezpieczeństwa oraz jak przygotować się do codziennych rozstań.\n\nZajęcia są bezpłatne dla rodziców, nauczycieli i osób pracujących z dziećmi na terenie prawobrzeżnej Warszawy. Prowadzące: Jolanta Ziemienowicz i Małgorzata Sobiesiak.\n\nTerminy i miejsca:\n• 3 września 2026, 16.00-18.00: Przedszkole nr 250 „Akwarelka”, ul. Kinowa 10A\n• 10 września 2026, 17.00-19.00: Specjalistyczna Poradnia dla Dzieci i Dorosłych Stowarzyszenia Wspólne Podwórko, ul. Chrzanowskiego 13 lok. U-3\n\nZgłoszenia przyjmowane są przez formularz online lub telefonicznie pod numerem 604-442-433."
-        },
-        "en": {
-          "title": "My Child is Going to Kindergarten – Workshops for Parents",
-          "description": "Workshops for parents of children aged 0-6 years, aimed at supporting the adaptation process to kindergarten. Participants will learn how to recognize stress in their child, how to build a sense of security, and how to prepare for daily separations.\n\nThe sessions are free for parents, teachers, and individuals working with children in the right-bank area of Warsaw. Instructors: Jolanta Ziemienowicz and Małgorzata Sobiesiak.\n\nDates and locations:\n• September 3, 2026, 4:00 PM - 6:00 PM: Kindergarten No. 250 'Akwarelka', ul. Kinowa 10A\n• September 10, 2026, 5:00 PM - 7:00 PM: Specialized Counseling Center for Children and Adults of the Common Courtyard Association, ul. Chrzanowskiego 13 lok. U-3\n\nRegistrations are accepted via an online form or by phone at 604-442-433."
-        },
-        "uk": {
-          "title": "Моя дитина йде до дитячого садка – майстер-класи для батьків",
-          "description": "Майстер-класи для батьків дітей віком 0-6 років, метою яких є підтримка в процесі адаптації до дитячого садка. Учасники дізнаються, як розпізнавати стрес у дитини, як будувати відчуття безпеки та як підготуватися до щоденних розставань.\n\nЗаняття безкоштовні для батьків, вчителів та осіб, які працюють з дітьми на території правобережної Варшави. Ведучі: Йоланта Зіменович та Маґдалена Собєсяк.\n\nДати та місця:\n• 3 вересня 2026, 16:00-18:00: Дитячий садок № 250 «Акварелька», вул. Кінова 10А\n• 10 вересня 2026, 17:00-19:00: Спеціалізована консультація для дітей та дорослих Товариства «Спільний двір», вул. Хржановського 13, офіс U-3\n\nЗаявки приймаються через онлайн-форму або телефоном за номером 604-442-433."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-09-05T18:53:01.826279+00:00"
-    },
-    "bezp-atne-zwiedzanie-azienek-kr-lewskich-2026-09-11T10:00:00+02:00": {
-      "title": "Bezpłatne zwiedzanie Łazienek Królewskich",
-      "date": "2026-09-11T10:00:00+02:00",
-      "end_date": "2026-09-11T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Możliwość bezpłatnego zwiedzania letniej rezydencji króla Stanisława Augusta w każdy piątek. Wstęp obejmuje najważniejsze obiekty muzealne, w których dostępne są bezpłatne audioprzewodniki online (wymagane własne słuchawki).\n\nObiekty dostępne w piątki:\n• Pałac na Wyspie (parter)\n• Pałac Myślewicki (parter)\n• Stara Oranżeria i Teatr Królewski\n• Muzeum Łowiectwa i Jeździectwa (Koszary Kantonistów)\n• Stajnie Kubickiego (Powozownia i Królewska Manufaktura Tkacka)\n• Biały Dom i Wodozbiór (od maja do września)\n\nSzczegółowe informacje o wydarzeniach: https://www.lazienki-krolewskie.pl/pl/wydarzenia/bezplatne-piatki\nAktualne godziny otwarcia: https://www.lazienki-krolewskie.pl/pl/zwiedzanie/godziny-otwarcia\nInformacje o Klubie Przyjaciół Muzeum: https://www.lazienki-krolewskie.pl/pl/nasze-projekty/klub-przyjaciol-muzeum-lazienki-krolewskie\nUdogodnienia dla osób z niepełnosprawnościami: https://www.lazienki-krolewskie.pl/pl/muzeum-dostepne",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/025e65b4-f65b-4a4a-b7dc-fd5135c2d0a2/a2ece957-e3f8-48c9-9cc3-c33f0e42ca48.jpg",
-      "location": {
-        "name": "Łazienki Królewskie / Royal Lazienki",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/bezplatne-zwiedzanie-lazienek-krolewskich-025e65b4-f65b-4a4a-b7dc-fd5135c2d0a2",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/bezplatne-zwiedzanie-lazienek-krolewskich-025e65b4-f65b-4a4a-b7dc-fd5135c2d0a2",
-      "scrapped_timestamp": "2026-09-05T18:45:05.846908+00:00",
-      "category": "Field Trips",
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zwiedzanie Łazienek Królewskich",
-          "description": "Możliwość bezpłatnego zwiedzania letniej rezydencji króla Stanisława Augusta w każdy piątek. Wstęp obejmuje najważniejsze obiekty muzealne, w których dostępne są bezpłatne audioprzewodniki online (wymagane własne słuchawki).\n\nObiekty dostępne w piątki:\n• Pałac na Wyspie (parter)\n• Pałac Myślewicki (parter)\n• Stara Oranżeria i Teatr Królewski\n• Muzeum Łowiectwa i Jeździectwa (Koszary Kantonistów)\n• Stajnie Kubickiego (Powozownia i Królewska Manufaktura Tkacka)\n• Biały Dom i Wodozbiór (od maja do września)\n\nSzczegółowe informacje o wydarzeniach: https://www.lazienki-krolewskie.pl/pl/wydarzenia/bezplatne-piatki\nAktualne godziny otwarcia: https://www.lazienki-krolewskie.pl/pl/zwiedzanie/godziny-otwarcia\nInformacje o Klubie Przyjaciół Muzeum: https://www.lazienki-krolewskie.pl/pl/nasze-projekty/klub-przyjaciol-muzeum-lazienki-krolewskie\nUdogodnienia dla osób z niepełnosprawnościami: https://www.lazienki-krolewskie.pl/pl/muzeum-dostepne"
-        },
-        "en": {
-          "title": "Free Tour of the Royal Łazienki",
-          "description": "Opportunity for free tours of the summer residence of King Stanisław August every Friday. Admission includes the most important museum objects, where free online audio guides are available (own headphones required).\n\nObjects available on Fridays:\n• Palace on the Island (ground floor)\n• Myślewicki Palace (ground floor)\n• Old Orangery and Royal Theatre\n• Museum of Hunting and Equestrianism (Cantonist Barracks)\n• Kubicki Stables (Coach House and Royal Weaving Factory)\n• White House and Water Collector (from May to September)\n\nDetailed information about events: https://www.lazienki-krolewskie.pl/pl/wydarzenia/bezplatne-piatki\nCurrent opening hours: https://www.lazienki-krolewskie.pl/pl/zwiedzanie/godziny-otwarcia\nInformation about the Museum Friends Club: https://www.lazienki-krolewskie.pl/pl/nasze-projekty"
-        },
-        "uk": {
-          "title": "Безкоштовне відвідування Лазienок Крулевських",
-          "description": "Можливість безкоштовного відвідування літньої резиденції короля Станіслава Августа кожної п'ятниці. Вхід охоплює найважливіші музейні об'єкти, в яких доступні безкоштовні аудіогіди онлайн (потрібні власні навушники).\n\nОб'єкти, доступні в п'ятниці:\n• Палац на Острові (перший поверх)\n• Палац Мислевицький (перший поверх)\n• Стара Оранжерея та Королівський Театр\n• Музей полювання та верхової їзди (Казарми Кантоністів)\n• Стійла Кубицького (Координатор та Королівська Ткацька Манфактура)\n• Білий Дім та Водозбір (з травня по вересень)\n\nДетальна інформація про події: https://www.lazienki-krolewskie.pl/pl/wydarzenia/bezplatne-piatki\nАктуальні години роботи: https://www.lazienki-krolewskie.pl/pl/zwiedzanie/godziny-otwarcia\nІнформація про Клуб Друзів Музею: https://www.lazienki-krolewskie.pl/pl/nasze-projekty"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-05T18:53:01.826302+00:00"
     },
     "lekcje-j-zyka-polskiego-dla-dzieci-2026-09-11T16:00:00+02:00": {
       "title": "Lekcje języka polskiego dla dzieci",
@@ -18110,51 +17741,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-09-07T12:09:57.251911+00:00"
     },
-    "rysujemy-zwierz-ta-spotkania-w-nowej-palmiarni-2026-09-11T10:30:00+02:00": {
-      "title": "Rysujemy zwierzęta - spotkania w Nowej Palmiarni",
-      "date": "2026-09-11T10:30:00+02:00",
-      "end_date": "2026-09-11T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Kto mówi, że rysowanie zwierząt jest trudne? Czas sprawdzić to w praktyce - w przyrodniczym klimacie Nowej Palmiarni. 🌿✏️ Spotkania dla dzieci od 6 lat i opiekunów, młodzieży oraz dorosłych Wstęp: bezpłatny; obowiązują darmowe wejściówki - POBIERZ WEJŚCIÓWKĘ >> link Terminy: 4, 11, 18 i 25 września 2026 r., godz. 10.30-12.00, 12.00-13.30, 14.00-15.30 i 15.30-17.00 Miejsce: Nowa Palmiarnia ⏳ 1,5 godz. | 1 godz. rysowania + 0,5 godz. czasu wolnego w strefie edukacyjnej Rysowanie zwierząt bywa wyzwaniem - ich proporcje różnią się od ludzkich, a budowa często wydaje się nieoczywista. Na zajęciach będziemy wspólnie rysować zwierzęta, przyjrzymy się ich kończynom, pyskom, a także szkieletom. Przejdziemy przez proces tworzenia pracy: ✏️ szkic ołówkiem 🖊️ dopracowanie długopisem 🎨 kolor i cieniowanie kredkami Warsztaty prowadzi Radosław Pomagalski - z wykształcenia i zamiłowania przyrodnik, absolwent biologii na Uniwersytecie Warszawskim. Od czasów studenckich uczy mądrej miłości do przyrody podczas lekcji muzealnych i warsztatów prowadzonych w Łazienkach Królewskich. Hobbystycznie od ponad 20 lat rysuje zwierzęta na papierze oraz cyfrowo, zarówno w formie wysokiej jakości ilustracji wzorowanych na dawnych atlasach przyrody jak i projektowania gatunków fantastycznych (speculative evolution). Jest też autorem wielu realistycznych materiałów do rysowania dla dzieci przedstawiających zwierzęta żyjące w ogrodach Łazienek Królewskich. Prywatnie opiekun wielu gatunków egzotycznych zwierząt.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1771860021.webp",
-      "location": {
-        "name": "Łazienki Królewskie, Nowa Palmiarnia",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.lazienki-krolewskie.pl/pl/edukacja/rodziny-i-dzieci/dzialania-stacjonarne/dzialania-stacjonarne-rysujemy-zwierzeta",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.lazienki-krolewskie.pl/pl/edukacja/rodziny-i-dzieci/dzialania-stacjonarne/dzialania-stacjonarne-rysujemy-zwierzeta",
-      "scrapped_timestamp": "2026-09-07T12:08:38.008963+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Arts"
-      ],
-      "age_range": {
-        "min": 6,
-        "max": 18
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Rysujemy zwierzęta - spotkania w Nowej Palmiarni",
-          "description": "Kto mówi, że rysowanie zwierząt jest trudne? Czas sprawdzić to w praktyce - w przyrodniczym klimacie Nowej Palmiarni. 🌿✏️ Spotkania dla dzieci od 6 lat i opiekunów, młodzieży oraz dorosłych Wstęp: bezpłatny; obowiązują darmowe wejściówki - POBIERZ WEJŚCIÓWKĘ >> link Terminy: 4, 11, 18 i 25 września 2026 r., godz. 10.30-12.00, 12.00-13.30, 14.00-15.30 i 15.30-17.00 Miejsce: Nowa Palmiarnia ⏳ 1,5 godz. | 1 godz. rysowania + 0,5 godz. czasu wolnego w strefie edukacyjnej Rysowanie zwierząt bywa wyzwaniem - ich proporcje różnią się od ludzkich, a budowa często wydaje się nieoczywista. Na zajęciach będziemy wspólnie rysować zwierzęta, przyjrzymy się ich kończynom, pyskom, a także szkieletom. Przejdziemy przez proces tworzenia pracy: ✏️ szkic ołówkiem 🖊️ dopracowanie długopisem 🎨 kolor i cieniowanie kredkami Warsztaty prowadzi Radosław Pomagalski - z wykształcenia i zamiłowania przyrodnik, absolwent biologii na Uniwersytecie Warszawskim. Od czasów studenckich uczy mądrej miłości do przyrody podczas lekcji muzealnych i warsztatów prowadzonych w Łazienkach Królewskich. Hobbystycznie od ponad 20 lat rysuje zwierzęta na papierze oraz cyfrowo, zarówno w formie wysokiej jakości ilustracji wzorowanych na dawnych atlasach przyrody jak i projektowania gatunków fantastycznych (speculative evolution). Jest też autorem wielu realistycznych materiałów do rysowania dla dzieci przedstawiających zwierzęta żyjące w ogrodach Łazienek Królewskich. Prywatnie opiekun wielu gatunków egzotycznych zwierząt."
-        },
-        "en": {
-          "title": "Drawing Animals - Meetings at the New Palm House",
-          "description": "Who says drawing animals is difficult? It's time to check this in practice - in the natural atmosphere of the New Palm House. 🌿✏️ Meetings for children from 6 years old and their guardians, youth, and adults. Admission: free; free tickets are required - DOWNLOAD TICKET >> link. Dates: September 4, 11, 18, and 25, 2026, from 10:30 AM to 12:00 PM, 12:00 PM to 1:30 PM, 2:00 PM to 3:30 PM, and 3:30 PM to 5:00 PM. Location: New Palm House ⏳ 1.5 hours | 1 hour of drawing + 0.5 hours of free time in the educational zone. Drawing animals can be a challenge - their proportions differ from humans, and their structure often seems non-obvious. In the classes, we will draw animals together, examining their limbs, snouts, and skeletons. We will go through the process of creating a work: ✏️ pencil sketch 🖊️ pen refinement 🎨 color and shading."
-        },
-        "uk": {
-          "title": "Малюємо тварин - зустрічі в Новій Пальмярні",
-          "description": "Хто каже, що малювати тварин важко? Час перевірити це на практиці - в природному кліматі Нової Пальмярні. 🌿✏️ Зустрічі для дітей від 6 років та їхніх опікунів, молоді та дорослих. Вхід: безкоштовний; діють безкоштовні квитки - ЗАВАНТАЖИТИ КВИТОК >> посилання. Дати: 4, 11, 18 та 25 вересня 2026 року, години 10:30-12:00, 12:00-13:30, 14:00-15:30 та 15:30-17:00. Місце: Нова Пальмярня ⏳ 1,5 години | 1 година малювання + 0,5 години вільного часу в освітній зоні. Малювання тварин може бути викликом - їх пропорції відрізняються від людських, а будова часто здається неочевидною. На заняттях ми разом будемо малювати тварин, розглянемо їх кінцівки, морди, а також скелети. Пройдемо через процес створення роботи: ✏️ ескіз олівцем 🖊️ доопрацювання ручкою 🎨 колір і тінь."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-07T12:09:57.251931+00:00"
-    },
     "og-lnopolskie-spotkanie-dzieci-w-niepokalanowie-2026-09-12T09:30:00+02:00": {
       "title": "Ogólnopolskie Spotkanie Dzieci w Niepokalanowie",
       "date": "2026-09-12T09:30:00+02:00",
@@ -19070,52 +18656,6 @@
       "district": "Żoliborz",
       "updated_at": "2026-09-09T11:29:55.208266+00:00"
     },
-    "piknik-s-siedzki-2026-09-10T15:30:00+02:00": {
-      "title": "Piknik sąsiedzki",
-      "date": "2026-09-10T15:30:00+02:00",
-      "end_date": "2026-09-10T15:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wraz z Partnerstwem „Mój Służewiec\" zapraszamy na coroczny piknik sąsiedzki. To wspaniała okazja do wspólnego spędzenia czasu oraz poznania sąsiadów w przyjaznej, rodzinnej atmosferze. W programie stoiska, poczęstunek, animacje dla dzieci, warsztaty plastyczne, quizy i zagadki oraz warsztaty sitodruku.",
-      "url": "https://dkkadr.waw.pl/piknik-sasiedzki-2/",
-      "source": "dkkadr.waw.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "210 min Dom Kultury Kadr · boisko przy Bibliotece, ul. Tuchlińska",
-        "district": "Mokotów"
-      },
-      "image": "https://dkkadr.waw.pl/wp-content/uploads/2026/07/10.09-Piknik-2-800x533.jpg",
-      "scrapped_url": "https://dkkadr.waw.pl/piknik-sasiedzki-2/",
-      "scrapped_timestamp": "2026-09-09T11:20:41.102823+00:00",
-      "category": "Family Fun",
-      "additional_categories": [
-        "Workshops",
-        "Games"
-      ],
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Piknik sąsiedzki",
-          "description": "Wraz z Partnerstwem „Mój Służewiec\" zapraszamy na coroczny piknik sąsiedzki. To wspaniała okazja do wspólnego spędzenia czasu oraz poznania sąsiadów w przyjaznej, rodzinnej atmosferze. W programie stoiska, poczęstunek, animacje dla dzieci, warsztaty plastyczne, quizy i zagadki oraz warsztaty sitodruku."
-        },
-        "en": {
-          "title": "Neighborhood Picnic",
-          "description": "Together with the 'My Służewiec' Partnership, we invite you to the annual neighborhood picnic. This is a great opportunity to spend time together and get to know your neighbors in a friendly, family atmosphere. The program includes stalls, refreshments, children's activities, art workshops, quizzes and puzzles, as well as screen printing workshops."
-        },
-        "uk": {
-          "title": "Сусідський пікнік",
-          "description": "Разом з Партнерством «Мій Служевець» запрошуємо на щорічний сусідський пікнік. Це чудова нагода провести час разом та познайомитися з сусідами в дружній, сімейній атмосфері. У програмі стенди, частування, анімації для дітей, художні майстер-класи, вікторини та загадки, а також майстер-клас з шовкографії."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Mokotów",
-      "updated_at": "2026-09-09T11:29:55.208305+00:00"
-    },
     "gra-terenowa-biblioteczny-ekspres-90-lat-zapisane-mi-dzy-stronami-2026-09-12T10:00:00+02:00": {
       "title": "Gra terenowa „Biblioteczny Ekspres. 90 lat zapisane między stronami”",
       "date": "2026-09-12T10:00:00+02:00",
@@ -19992,48 +19532,6 @@
         "is_free": true
       },
       "updated_at": "2026-09-09T11:29:55.208815+00:00"
-    },
-    "oskar-patka-i-z-oto-ba-tyku-pokaz-filmowy-2026-09-10T17:30:00+02:00": {
-      "title": "Oskar, Patka i złoto Bałtyku – pokaz filmowy",
-      "date": "2026-09-10T17:30:00+02:00",
-      "end_date": "2026-09-10T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Seans filmu „Oskar, Patka i złoto Bałtyku” (6+). Historia dwójki nieustraszonych poszukiwaczy przygód, którzy podczas wakacji nad morzem odnajdują zaszyfrowaną mapę prowadzącą do legendarnego skarbu.\n\nWstęp wolny.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/5caa0de4-c06f-4e0b-9536-210e17a64634/f4a2debd-ffa2-4e7f-b437-13226447b2b4.jpg",
-      "location": {
-        "name": "Pałacyk Konopackiego, ul. Strzelecka 11/13, Warszawa",
-        "district": "Praga-Północ"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/oskar-patka-i-zloto-baltyku-pokaz-filmowy-5caa0de4-c06f-4e0b-9536-210e17a64634",
-      "source": "simplygo.pl",
-      "age_hint": "6-18",
-      "age_range": {
-        "min": 6,
-        "max": 18
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/oskar-patka-i-zloto-baltyku-pokaz-filmowy-5caa0de4-c06f-4e0b-9536-210e17a64634",
-      "scrapped_timestamp": "2026-09-09T11:23:05.073743+00:00",
-      "category": "Cinema",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Oskar, Patka i złoto Bałtyku – pokaz filmowy",
-          "description": "Seans filmu „Oskar, Patka i złoto Bałtyku” (6+). Historia dwójki nieustraszonych poszukiwaczy przygód, którzy podczas wakacji nad morzem odnajdują zaszyfrowaną mapę prowadzącą do legendarnego skarbu.\n\nWstęp wolny."
-        },
-        "en": {
-          "title": "Oskar, Patka and the Gold of the Baltic – Film Screening",
-          "description": "Screening of the film 'Oskar, Patka and the Gold of the Baltic' (6+). The story of two fearless adventurers who, during their summer vacation by the sea, discover an encrypted map leading to a legendary treasure.\n\nFree admission."
-        },
-        "uk": {
-          "title": "Оскар, Патка і золото Балтики – показ фільму",
-          "description": "Сеанс фільму «Оскар, Патка і золото Балтики» (6+). Історія двох безстрашних шукачів пригод, які під час відпустки на морі знаходять зашифровану карту, що веде до легендарного скарбу.\n\nВхід вільний."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Praga-Północ",
-      "updated_at": "2026-09-09T11:29:55.208896+00:00"
     },
     "judo-dla-dzieci-i-m-odzie-y-z-niepe-nosprawno-ciami-2026-09-11T16:00:00+02:00": {
       "title": "Judo dla dzieci i młodzieży z niepełnosprawnościami",
@@ -23758,48 +23256,6 @@
       "district": "Bielany",
       "updated_at": "2026-09-10T11:16:10.478359+00:00"
     },
-    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-09-10T10:00:00+02:00": {
-      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-      "date": "2026-09-10T10:00:00+02:00",
-      "end_date": "2026-09-10T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "scrapped_timestamp": "2026-09-10T11:15:32.772778+00:00",
-      "category": "Arts",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
-        },
-        "en": {
-          "title": "Guided Tours of the Exhibition 'Nabis: Prophets of a New Art'",
-          "description": "Join us for guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world-renowned works, including paintings by masters such as Maurice Denis, Paul Ranson, and Paul Sérusier. The exhibition curators and museum educators will provide insights into these works. The exhibition 'Nabis: Prophets of a New Art' showcases the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called School of Pont-Aven. It also includes works of a religious and esoteric nature, interior views, and genre scenes, as well as the activities of the Natanson brothers - Tadeusz and Aleksander - and their magazine 'La Revue Blanche'. In total, we will see over 90 works in the fields of painting, drawing, and graphics. The works come from both Polish and foreign collections."
-        },
-        "uk": {
-          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
-          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\". Запрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Ми побачимо світові твори, зокрема картини таких майстрів, як Моріс Дені, Поль Рансон і Поль Серюс'є. Про них розкажуть куратори експозиції та музейні освітяни. Виставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Пола Гогена і так званої Школи Понтавен. Вона також включає твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, яку проводили брати Натансон - Тадеуш і Олександр - журналу \"La Revue Blanche\". Всього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних колекцій."
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
-      },
-      "updated_at": "2026-09-10T11:16:10.478380+00:00"
-    },
     "zielone-s-siedztwo-ogr-d-spo-eczny-w-azienkach-kr-lewskich-2026-09-14T17:00:00+02:00": {
       "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
       "date": "2026-09-14T17:00:00+02:00",
@@ -23843,45 +23299,6 @@
         "is_free": true
       },
       "updated_at": "2026-09-10T11:16:10.478403+00:00"
-    },
-    "nabi-ci-prorocy-nowej-sztuki-wystawa-2026-09-10T10:00:00+02:00": {
-      "title": "Nabiści. Prorocy nowej sztuki – wystawa",
-      "date": "2026-09-10T10:00:00+02:00",
-      "end_date": "2026-09-10T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wystawa „Nabiści. Prorocy nowej sztuki” prezentuje niemal 100 dzieł malarstwa, rysunku i grafiki, w tym prace z paryskiego Musée d’Orsay. Ekspozycja dostępna jest od 16 lipca do 15 listopada 2026 roku w Podchorążówce w Muzeum Łazienki Królewskie w Warszawie.\n\nGodziny otwarcia:\n• Wtorek – środa: 10.00-17.00\n• Czwartek – piątek: 10.00-18.00\n• Sobota: 12.00-20.00\n• Niedziela: 10.00-16.00\n\nCeny biletów:\n• Normalny: 30 zł\n• Ulgowy: 15 zł\n• Dorośli z Kartą Dużej Rodziny: 20 zł\n• Piątki: wstęp wolny (bez biletu)\n\nBilety dostępne online: https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12\n\nSzczegóły dotyczące oprowadzań i warsztatów dostępne na stronach:\n• https://www.lazienki-krolewskie.pl/pl/wydarzenia/oprowadzania-po-wystawie-nabisci-prorocy-nowej-sztuki\n• https://www.lazienki-krolewskie.pl/pl/wydarzenia/wyklady-do-wystawy-nabisci-prorocy-nowej-sztuki\n• https://www.lazienki-krolewskie.pl/pl/edukacja/rodziny-i-dzieci/wydarzenia-do-wystawy-nabisci-2\n• https://www.lazienki-krolewskie.pl/pl/edukacja/dorosli-i-seniorzy/wydarzenia-do-wystawy-nabisci\n• https://www.lazienki-krolewskie.pl/pl/nasze-projekty/klub-przyjaciol-muzeum-lazienki-krolewskie",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d6a7fbb2-5198-431a-aabd-eb129bafc97c/085c2ef1-f450-4f04-9526-f04c744845f4.jpg",
-      "location": {
-        "name": "Łazienki Królewskie / Royal Lazienki",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/nabisci-prorocy-nowej-sztuki-wystawa-d6a7fbb2-5198-431a-aabd-eb129bafc97c",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/nabisci-prorocy-nowej-sztuki-wystawa-d6a7fbb2-5198-431a-aabd-eb129bafc97c",
-      "scrapped_timestamp": "2026-09-10T11:15:42.739248+00:00",
-      "category": "Arts",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Nabiści. Prorocy nowej sztuki – wystawa",
-          "description": "Wystawa „Nabiści. Prorocy nowej sztuki” prezentuje niemal 100 dzieł malarstwa, rysunku i grafiki, w tym prace z paryskiego Musée d’Orsay. Ekspozycja dostępna jest od 16 lipca do 15 listopada 2026 roku w Podchorążówce w Muzeum Łazienki Królewskie w Warszawie.\n\nGodziny otwarcia:\n• Wtorek – środa: 10.00-17.00\n• Czwartek – piątek: 10.00-18.00\n• Sobota: 12.00-20.00\n• Niedziela: 10.00-16.00\n\nCeny biletów:\n• Normalny: 30 zł\n• Ulgowy: 15 zł\n• Dorośli z Kartą Dużej Rodziny: 20 zł\n• Piątki: wstęp wolny (bez biletu)\n\nBilety dostępne online: https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12\n\nSzczegóły dotyczące oprowadzań i warsztatów dostępne na stronach:\n• https://www.lazienki-krolewskie.pl/pl/wydarzenia/oprowadzania-po-wystawie-nabisci-prorocy-nowej-sztuki\n• https://www.lazienki-krolewskie.pl/pl/wydarzenia/wyklady-do-wystawy-nabisci-prorocy-nowej-sztuki\n• https://www.lazienki-krolewskie.pl/pl/edukacja/rodziny-i-dzieci/wydarzenia-do-wystawy-nabisci-2\n• https://www.lazienki-krolewskie.pl/pl/edukacja/dorosli-i-seniorzy/wydarzenia-do-wystawy-nabisci\n• https://www.lazienki-krolewskie.pl/pl/nasze-projekty/klub-przyjaciol-muzeum-lazienki-krolewskie"
-        },
-        "en": {
-          "title": "Nabis. Prophets of New Art – Exhibition",
-          "description": "The exhibition \"Nabis. Prophets of New Art\" presents nearly 100 works of painting, drawing, and graphics, including pieces from the Musée d’Orsay in Paris. The exhibition is available from July 16 to November 15, 2026, at Podchorążówka in the Royal Łazienki Museum in Warsaw.\n\nOpening hours:\n• Tuesday – Wednesday: 10:00 AM - 5:00 PM\n• Thursday – Friday: 10:00 AM - 6:00 PM\n• Saturday: 12:00 PM - 8:00 PM\n• Sunday: 10:00 AM - 4:00 PM\n\nTicket prices:\n• Regular: 30 PLN\n• Reduced: 15 PLN\n• Adults with Large Family Card: 20 PLN\n• Fridays: free admission (no ticket required)\n\nTickets available online: https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12\n\nDetails about guided tours and workshops available at:\n• https://www.lazienki-krolewskie.pl/pl/wydarzenia/oprowadzania-po-wystawie-nabisci-prorocy-nowej-sztuk"
-        },
-        "uk": {
-          "title": "Набісти. Пророки нової мистецтва – виставка",
-          "description": "Виставка «Набісти. Пророки нової мистецтва» презентує майже 100 творів живопису, малюнка та графіки, в тому числі роботи з паризького Musée d’Orsay. Експозиція доступна з 16 липня до 15 листопада 2026 року в Подхоражувці в Музеї Лазенки Королівські у Варшаві.\n\nГодини роботи:\n• Вівторок – середа: 10.00-17.00\n• Четвер – п’ятниця: 10.00-18.00\n• Субота: 12.00-20.00\n• Неділя: 10.00-16.00\n\nЦіни квитків:\n• Звичайний: 30 зл\n• Пільговий: 15 зл\n• Дорослі з Карткою Великої Родини: 20 зл\n• П’ятниці: вхід вільний (без квитка)\n\nКвитки доступні онлайн: https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12\n\nДеталі щодо екскурсій та майстер-класів доступні на сторінках:\n• https://www.lazienki-krolewskie.pl/pl/wydarzenia/oprowadzania-po-wystawie-nabisci-prorocy-nowej-sztuk"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-10T11:16:10.478422+00:00"
     },
     "pracownia-zapach-w-warsztaty-w-muzeum-farmacji-2026-09-16T14:30:00+02:00": {
       "title": "Pracownia Zapachów – warsztaty w Muzeum Farmacji",

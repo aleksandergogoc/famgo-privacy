@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:24:46.640745+00:00",
+  "updated_at": "2026-09-11T11:15:00.778066+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -878,6 +878,24 @@
       "lat": 54.3999872,
       "lng": 18.6716199,
       "updated_at": "2026-09-10T11:20:47.283149+00:00"
+    },
+    "oria magic house": {
+      "name": "Oria Magic House, 4/1, Stara Stocznia, Wiadrownia, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-862, Polska",
+      "district": "Śródmieście",
+      "address": "Oria Magic House, 4/1, Stara Stocznia, Wiadrownia, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-862, Polska",
+      "normalized": "oria magic house",
+      "lat": 54.3547404,
+      "lng": 18.6633654,
+      "updated_at": "2026-09-11T11:10:52.188021+00:00"
+    },
+    "szkoła podstawowa nr 19": {
+      "name": "6, Emilii Hoene, Orunia Górna, Orunia Górna - Gdańsk Południe, Gdańsk, województwo pomorskie, 80-041, Polska",
+      "district": "Południe/Wschód",
+      "address": "6, Emilii Hoene, Orunia Górna, Orunia Górna - Gdańsk Południe, Gdańsk, województwo pomorskie, 80-041, Polska",
+      "normalized": "szkoła podstawowa nr 19",
+      "lat": 54.326912,
+      "lng": 18.6253936,
+      "updated_at": "2026-09-11T11:10:55.041668+00:00"
     }
   }
 }

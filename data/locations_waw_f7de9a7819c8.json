@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:24:47.706651+00:00",
+  "updated_at": "2026-09-11T11:15:01.867998+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -5965,6 +5965,87 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-10T11:16:09.566322+00:00"
+    },
+    "osir praga-południe: hala sportowa siennicka": {
+      "name": "Hala Sportowa Siennicka, Warszawa",
+      "district": "Praga-Południe",
+      "address": "Hala Sportowa Siennicka, Warszawa",
+      "normalized": "osir praga-południe: hala sportowa siennicka",
+      "lat": 52.2386,
+      "lng": 21.0851,
+      "updated_at": "2026-09-11T11:05:16.029024+00:00"
+    },
+    "90 min łazienki królewskie": {
+      "name": "90 min Łazienki Królewskie, Nowa Palmiarnia · ul. Agrykola 1",
+      "district": "Śródmieście",
+      "address": "90 min Łazienki Królewskie, Nowa Palmiarnia · ul. Agrykola 1",
+      "normalized": "90 min łazienki królewskie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-11T11:05:16.029642+00:00"
+    },
+    "90 min muzeum sztuki nowoczesnej": {
+      "name": "90 min Muzeum Sztuki Nowoczesnej, Zbiórka przy głównej klatce schodowej, naprzeciwko Audytorium · ul. Marszałkowska 103",
+      "district": "Śródmieście",
+      "address": "90 min Muzeum Sztuki Nowoczesnej, Zbiórka przy głównej klatce schodowej, naprzeciwko Audytorium · ul. Marszałkowska 103",
+      "normalized": "90 min muzeum sztuki nowoczesnej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-11T11:05:16.029893+00:00"
+    },
+    "ośrodek hutnik aktywna warszawa": {
+      "name": "Ośrodek Hutnik Aktywna Warszawa, ul. Marymoncka 42",
+      "district": "Bielany",
+      "address": "Ośrodek Hutnik Aktywna Warszawa, ul. Marymoncka 42",
+      "normalized": "ośrodek hutnik aktywna warszawa",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-11T11:05:16.030237+00:00"
+    },
+    "park szczęśliwicki _ od ul. drawskiej": {
+      "name": "Park Szczęśliwicki / od ul. Drawskiej",
+      "district": "Ochota",
+      "address": "Park Szczęśliwicki / od ul. Drawskiej",
+      "normalized": "park szczęśliwicki _ od ul. drawskiej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-11T11:05:16.030529+00:00"
+    },
+    "ul. ks. j. chrościckiego 2": {
+      "name": "ul. ks. J. Chrościckiego 2",
+      "district": "Włochy",
+      "address": "ul. ks. J. Chrościckiego 2",
+      "normalized": "ul. ks. j. chrościckiego 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-11T11:05:16.030766+00:00"
+    },
+    "gościniec 53": {
+      "name": "Gościniec 53",
+      "district": "Mokotów",
+      "address": "Gościniec 53",
+      "normalized": "gościniec 53",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-11T11:05:16.031000+00:00"
+    },
+    "ognisko „starówka”": {
+      "name": "Ognisko „Starówka”, Centrum Wspierania Rodzin „Rodzinna Warszawa”, ul. Stara 4",
+      "district": "Śródmieście",
+      "address": "Ognisko „Starówka”, Centrum Wspierania Rodzin „Rodzinna Warszawa”, ul. Stara 4",
+      "normalized": "ognisko „starówka”",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-11T11:05:16.031230+00:00"
+    },
+    "liceum clv": {
+      "name": "Liceum CLV, Żywnego 25",
+      "district": "Mokotów",
+      "address": "Liceum CLV, Żywnego 25",
+      "normalized": "liceum clv",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-11T11:05:16.031534+00:00"
     }
   }
 }

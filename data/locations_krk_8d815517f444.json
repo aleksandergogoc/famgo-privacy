@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T11:24:48.885338+00:00",
+  "updated_at": "2026-09-11T09:31:04.524065+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4009,6 +4009,24 @@
       "lat": 50.0602088,
       "lng": 19.9419072,
       "updated_at": "2026-09-10T11:11:34.102429+00:00"
+    },
+    "sala edukacyjna": {
+      "name": "sala edukacyjna, Pałac Krzysztofory, Rynek Główny 35, 4. piętro",
+      "district": "Stare Miasto",
+      "address": "sala edukacyjna, Pałac Krzysztofory, Rynek Główny 35, 4. piętro",
+      "normalized": "sala edukacyjna",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-11T09:30:52.326966+00:00"
+    },
+    "podgórze": {
+      "name": "Podgórze, Kraków, województwo małopolskie, Polska",
+      "district": "Podgórze",
+      "address": "Podgórze, Kraków, województwo małopolskie, Polska",
+      "normalized": "podgórze",
+      "lat": 50.0430999,
+      "lng": 19.9529614,
+      "updated_at": "2026-09-11T09:30:59.584533+00:00"
     }
   }
 }

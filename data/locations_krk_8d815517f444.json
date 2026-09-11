@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T09:31:04.524065+00:00",
+  "updated_at": "2026-09-11T11:15:03.104339+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4027,6 +4027,33 @@
       "lat": 50.0430999,
       "lng": 19.9529614,
       "updated_at": "2026-09-11T09:30:59.584533+00:00"
+    },
+    "żydowskie muzeum galicja": {
+      "name": "ul. Dajwór 18, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Dajwór 18, Kraków",
+      "normalized": "żydowskie muzeum galicja",
+      "lat": 50.059,
+      "lng": 19.944,
+      "updated_at": "2026-09-11T10:48:08.912713+00:00"
+    },
+    "centrum nauki i zmysłów womai": {
+      "name": "Centrum Nauki i Zmysłów WOMAI, Kraków",
+      "district": "Stare Miasto",
+      "address": "Centrum Nauki i Zmysłów WOMAI, Kraków",
+      "normalized": "centrum nauki i zmysłów womai",
+      "lat": 50.049,
+      "lng": 19.946,
+      "updated_at": "2026-09-11T10:53:14.256657+00:00"
+    },
+    "vienna house andel's cracow": {
+      "name": "Pawia 3, 31-154 Kraków",
+      "district": "Stare Miasto",
+      "address": "Pawia 3, 31-154 Kraków",
+      "normalized": "vienna house andel's cracow",
+      "lat": 50.053,
+      "lng": 19.945,
+      "updated_at": "2026-09-11T11:01:17.421251+00:00"
     }
   }
 }

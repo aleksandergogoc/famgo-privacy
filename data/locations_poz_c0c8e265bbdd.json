@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:50:15.232696+00:00",
+  "updated_at": "2026-09-12T10:57:30.534392+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1082,6 +1082,15 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-09-09T11:46:48.247998+00:00"
+    },
+    "dom kultury na pięterku": {
+      "name": "Dom Kultury \"Na Pięterku\", Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-249, Polska",
+      "district": "Nowe Miasto",
+      "address": "Dom Kultury \"Na Pięterku\", Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-249, Polska",
+      "normalized": "dom kultury na pięterku",
+      "lat": 52.3777117,
+      "lng": 16.9602946,
+      "updated_at": "2026-09-12T10:54:54.477036+00:00"
     }
   }
 }

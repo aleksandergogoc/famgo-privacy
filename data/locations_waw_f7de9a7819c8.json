@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T11:15:01.867998+00:00",
+  "updated_at": "2026-09-12T10:57:33.808964+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -6046,6 +6046,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-11T11:05:16.031534+00:00"
+    },
+    "ulica stefana szolc-rogozińskiego 2": {
+      "name": "Ulica Stefana Szolc-Rogozińskiego 2, Warszawa",
+      "district": "Śródmieście",
+      "address": "Ulica Stefana Szolc-Rogozińskiego 2, Warszawa",
+      "normalized": "ulica stefana szolc-rogozińskiego 2",
+      "lat": 52.2294,
+      "lng": 21.0115,
+      "updated_at": "2026-09-12T10:39:02.201998+00:00"
+    },
+    "puławska 20": {
+      "name": "Puławska 20, Warszawa",
+      "district": "Mokotów",
+      "address": "Puławska 20, Warszawa",
+      "normalized": "puławska 20",
+      "lat": 52.204,
+      "lng": 21.02,
+      "updated_at": "2026-09-12T10:39:07.932038+00:00"
     }
   }
 }

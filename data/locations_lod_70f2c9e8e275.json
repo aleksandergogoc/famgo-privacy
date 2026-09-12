@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T11:50:21.185807+00:00",
+  "updated_at": "2026-09-12T10:57:31.609155+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -538,6 +538,15 @@
       "lat": 51.7635592,
       "lng": 19.4916387,
       "updated_at": "2026-09-09T11:39:54.681423+00:00"
+    },
+    "piotrkowska 301": {
+      "name": "301, Piotrkowska, Górniak, Łódź-Górna, Łódź, województwo łódzkie, 90-004, Polska",
+      "district": "Górna",
+      "address": "301, Piotrkowska, Górniak, Łódź-Górna, Łódź, województwo łódzkie, 90-004, Polska",
+      "normalized": "piotrkowska 301",
+      "lat": 51.7432189,
+      "lng": 19.4593106,
+      "updated_at": "2026-09-12T10:49:28.886170+00:00"
     }
   }
 }

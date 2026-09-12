@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T11:15:03.104339+00:00",
+  "updated_at": "2026-09-12T10:57:35.194242+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4054,6 +4054,24 @@
       "lat": 50.053,
       "lng": 19.945,
       "updated_at": "2026-09-11T11:01:17.421251+00:00"
+    },
+    "fort nr 7 „za rzeką”": {
+      "name": "Fort nr 7 „Za rzeką”, Kraków",
+      "district": "Stare Miasto",
+      "address": "Fort nr 7 „Za rzeką”, Kraków",
+      "normalized": "fort nr 7 „za rzeką”",
+      "lat": 50.064,
+      "lng": 19.945,
+      "updated_at": "2026-09-12T10:20:09.377225+00:00"
+    },
+    "targ pietruszkowy": {
+      "name": "ul. Cystersów 21B, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Cystersów 21B, Kraków",
+      "normalized": "targ pietruszkowy",
+      "lat": 50.064,
+      "lng": 19.932,
+      "updated_at": "2026-09-12T10:21:38.348248+00:00"
     }
   }
 }

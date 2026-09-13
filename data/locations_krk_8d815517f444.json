@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:57:35.194242+00:00",
+  "updated_at": "2026-09-13T11:42:09.975717+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4072,6 +4072,24 @@
       "lat": 50.064,
       "lng": 19.932,
       "updated_at": "2026-09-12T10:21:38.348248+00:00"
+    },
+    "aleja zygmunta krasińskiego 34": {
+      "name": "Aleja Zygmunta Krasińskiego 34, 30-101 Kraków, Poland",
+      "district": "Zwierzyniec",
+      "address": "Aleja Zygmunta Krasińskiego 34, 30-101 Kraków, Poland",
+      "normalized": "aleja zygmunta krasińskiego 34",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-13T11:24:26.008818+00:00"
+    },
+    "galicyjska 9": {
+      "name": "Galicyjska 9, 31-586 Kraków, Poland",
+      "district": "Czyżyny",
+      "address": "Galicyjska 9, 31-586 Kraków, Poland",
+      "normalized": "galicyjska 9",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-13T11:24:26.009049+00:00"
     }
   }
 }

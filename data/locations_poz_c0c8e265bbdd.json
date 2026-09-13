@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:57:30.534392+00:00",
+  "updated_at": "2026-09-13T11:42:06.644106+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1091,6 +1091,51 @@
       "lat": 52.3777117,
       "lng": 16.9602946,
       "updated_at": "2026-09-12T10:54:54.477036+00:00"
+    },
+    "biblioteka wielkopolska...": {
+      "name": "Biblioteka Wielkopolska im. Stanisława Barańczaka, Bolesława Prusa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-819, Polska",
+      "district": "Jeżyce",
+      "address": "Biblioteka Wielkopolska im. Stanisława Barańczaka, Bolesława Prusa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-819, Polska",
+      "normalized": "biblioteka wielkopolska...",
+      "lat": 52.4108174,
+      "lng": 16.9041215,
+      "updated_at": "2026-09-13T11:40:34.943836+00:00"
+    },
+    "ul. poznańska 102...": {
+      "name": "Szkoła Podstawowa w Stęszewie O/ul. Poznańska, 25, Poznańska, Stęszew, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-060, Polska",
+      "district": "Poznań - Pozostałe",
+      "address": "Szkoła Podstawowa w Stęszewie O/ul. Poznańska, 25, Poznańska, Stęszew, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-060, Polska",
+      "normalized": "ul. poznańska 102...",
+      "lat": 52.2832458,
+      "lng": 16.705234,
+      "updated_at": "2026-09-13T11:40:45.387989+00:00"
+    },
+    "os. b. chrobrego": {
+      "name": "PARK, Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-814, Polska",
+      "district": "Stare Miasto",
+      "address": "PARK, Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-814, Polska",
+      "normalized": "os. b. chrobrego",
+      "lat": 52.4043035,
+      "lng": 16.9244794,
+      "updated_at": "2026-09-13T11:40:48.489104+00:00"
+    },
+    "animacji": {
+      "name": "Teatr Animacji, 80/82, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-809, Polska",
+      "district": "Stare Miasto",
+      "address": "Teatr Animacji, 80/82, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-809, Polska",
+      "normalized": "animacji",
+      "lat": 52.4081466,
+      "lng": 16.919154,
+      "updated_at": "2026-09-13T11:40:49.798539+00:00"
+    },
+    "aula uam": {
+      "name": "Tablica ofiar więzienia przy ul. Młyńskiej, Młyńska, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
+      "district": "Stare Miasto",
+      "address": "Tablica ofiar więzienia przy ul. Młyńskiej, Młyńska, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
+      "normalized": "aula uam",
+      "lat": 52.4117097,
+      "lng": 16.9280716,
+      "updated_at": "2026-09-13T11:40:52.876690+00:00"
     }
   }
 }

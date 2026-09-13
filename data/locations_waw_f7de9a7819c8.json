@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:57:33.808964+00:00",
+  "updated_at": "2026-09-13T11:42:08.915651+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -6064,6 +6064,69 @@
       "lat": 52.204,
       "lng": 21.02,
       "updated_at": "2026-09-12T10:39:07.932038+00:00"
+    },
+    "ulica św. bonifacego 10": {
+      "name": "ulica św. Bonifacego 10, Warszawa",
+      "district": "Śródmieście",
+      "address": "ulica św. Bonifacego 10, Warszawa",
+      "normalized": "ulica św. bonifacego 10",
+      "lat": 52.238,
+      "lng": 21.011,
+      "updated_at": "2026-09-13T11:26:34.008084+00:00"
+    },
+    "młociny": {
+      "name": "ul. Zgrupowania AK \"Kampinos\" 15, Warszawa",
+      "district": "Bielany",
+      "address": "ul. Zgrupowania AK \"Kampinos\" 15, Warszawa",
+      "normalized": "młociny",
+      "lat": 52.287,
+      "lng": 20.935,
+      "updated_at": "2026-09-13T11:26:37.945989+00:00"
+    },
+    "102 min kino ada · ul. ks. juliana chrościckiego 14": {
+      "name": "102 min Kino ADA · ul. ks. Juliana Chrościckiego 14",
+      "district": "Włochy",
+      "address": "102 min Kino ADA · ul. ks. Juliana Chrościckiego 14",
+      "normalized": "102 min kino ada · ul. ks. juliana chrościckiego 14",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-13T11:30:08.933872+00:00"
+    },
+    "1–1": {
+      "name": "1–1,5 godz. Muzeum Historii Polski, sale edukacyjne i przestrzenie wystawiennicze · Cytadela Warszawska, ul. Gwardii 1",
+      "district": "Żoliborz",
+      "address": "1–1,5 godz. Muzeum Historii Polski, sale edukacyjne i przestrzenie wystawiennicze · Cytadela Warszawska, ul. Gwardii 1",
+      "normalized": "1–1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-13T11:30:08.934219+00:00"
+    },
+    "45 min centrum łowicka · ul. łowicka 21": {
+      "name": "45 min Centrum Łowicka · ul. Łowicka 21",
+      "district": "Mokotów",
+      "address": "45 min Centrum Łowicka · ul. Łowicka 21",
+      "normalized": "45 min centrum łowicka · ul. łowicka 21",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-13T11:30:08.934592+00:00"
+    },
+    "45 min dom kultury kadr": {
+      "name": "45 min Dom Kultury Kadr, sala Broadway",
+      "district": "Mokotów",
+      "address": "45 min Dom Kultury Kadr, sala Broadway",
+      "normalized": "45 min dom kultury kadr",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-13T11:30:08.934979+00:00"
+    },
+    "boisko sp nr 339": {
+      "name": "Boisko SP nr 339, ul. Bonifacego 10",
+      "district": "Mokotów",
+      "address": "Boisko SP nr 339, ul. Bonifacego 10",
+      "normalized": "boisko sp nr 339",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-13T11:30:08.935637+00:00"
     }
   }
 }

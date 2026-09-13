@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:14:54.486836+00:00",
+  "updated_at": "2026-09-13T11:33:24.766937+00:00",
   "events": {
     "12-mi-dzynarodowe-zawody-w-je-dzie-bez-og-owia-euro-equus-2026-2026-09-25T00:00:00": {
       "scrapped_timestamp": "2026-06-26T16:36:24.805343+00:00",
@@ -4401,49 +4401,50 @@
       "updated_at": "2026-09-07T12:12:45.441765+00:00"
     },
     "festyn-osiedlowy-w-parku-kleci-skim-witaj-jesieni-2026-09-19T15:00:00+02:00": {
-      "title": "Festyn osiedlowy w Parku Klecińskim — Witaj, jesieni!",
+      "title": "Festyn osiedlowy w Parku Klecińskim – Witaj, jesieni!",
       "date": "2026-09-19T15:00:00+02:00",
       "end_date": "2026-09-19T15:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Jesień wcale nie musi być szara i ponura! Po raz kolejny zapraszamy Was do wspólnego, radosnego powitania tej wyjątkowej pory roku. Spotkajmy się w Parku Klecińskim i spędźmy ten dzień razem! Rada Osiedla Krzyki-Partynice przygotowała mnóstwo atrakcji dla małych i dużych. Czeka na Was moc dobrej zabawy, twórczych aktywności i okazji do wspólnego spędzenia czasu.\n\n15:00–19:00 | teren parku w okolicy placu zabaw\n\n• gry i klocki XXL,\n\n• fotobudka,\n\n• warsztaty plastyczne,\n\n• gra terenowa,\n\n• sportowa platforma balansowa,\n\n• mobilny serwis rowerowy,\n\n• osiedlowy zakład fotograficzny,\n\n• stoiska edukacyjne, promocyjne i animacyjne partnerów,\n\n• strefa gastronomiczna.\n\n19:00 | amfiteatr kino plenerowe: „Flow” – oscarowa animacja dla całej rodziny\n\nPartnerzy wydarzenia: Miejski Ośrodek Pomocy Społecznej, Wrocławskie Centrum Rozwoju Społecznego, Miejskie Przedsiębiorstwo Komunikacyjne, Wroclaw.pl, Zespół Szkolno-Przedszkolny nr 16, Straż Miejska Wrocławia, Fundacja Bubble of Good, Twój Lekarz, Early Stage, AMAkids, Akademia Marzeń.\n\nWydarzenie organizowane przez Osiedle Krzyki-Partynice z wykorzystaniem środków finansowych wyodrębnionych dla Osiedla w budżecie miasta Wrocławia oraz dofinansowania na realizację zadań społecznych (festyn osiedlowy, kino plenerowe – Fundusz Czasu Wolnego).\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-54cc84c2ac110002420df45a739a9be5/public-form-image",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1415624-festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni",
-      "source": "wroclaw.pl",
+      "description": "Rada Osiedla Krzyki-Partynice zaprasza na wspólne powitanie jesieni w Parku Klecińskim. Wydarzenie obejmuje szereg aktywności dla dzieci i dorosłych.\n\nProgram (15:00–19:00, teren przy placu zabaw):\n• Gry i klocki XXL, fotobudka, warsztaty plastyczne\n• Gra terenowa, sportowa platforma balansowa\n• Mobilny serwis rowerowy, osiedlowy zakład fotograficzny\n• Stoiska edukacyjne i strefa gastronomiczna\n\nKino plenerowe (19:00, amfiteatr):\n• Pokaz oscarowej animacji „Flow” dla całej rodziny.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/72b1c88a-d863-4c20-8c3a-2dfdcd72de49/94b42974-418f-49c4-a191-2ea3037d8290.jpg",
       "location": {
-        "name": "Park Kleciński",
+        "name": "Park Kleciński, Wrocław",
         "district": "Krzyki"
       },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1415624-festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni",
-      "scrapped_timestamp": "2026-09-12T10:46:32.654035+00:00",
-      "category": "Seasonal Festival",
-      "additional_categories": [
-        "Family Fun",
-        "Workshops"
-      ],
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni-72b1c88a-d863-4c20-8c3a-2dfdcd72de49",
+      "source": "simplygo.pl",
+      "age_hint": "3-18",
       "age_range": {
         "min": 3,
-        "max": 12
+        "max": 18
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni-72b1c88a-d863-4c20-8c3a-2dfdcd72de49",
+      "scrapped_timestamp": "2026-09-13T11:33:04.763145+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Games",
+        "Arts"
+      ],
       "location_type": "outdoor",
       "translations": {
         "pl": {
-          "title": "Festyn osiedlowy w Parku Klecińskim — Witaj, jesieni!",
-          "description": "Jesień wcale nie musi być szara i ponura! Po raz kolejny zapraszamy Was do wspólnego, radosnego powitania tej wyjątkowej pory roku. Spotkajmy się w Parku Klecińskim i spędźmy ten dzień razem! Rada Osiedla Krzyki-Partynice przygotowała mnóstwo atrakcji dla małych i dużych. Czeka na Was moc dobrej zabawy, twórczych aktywności i okazji do wspólnego spędzenia czasu.\n\n15:00–19:00 | teren parku w okolicy placu zabaw\n\n• gry i klocki XXL,\n\n• fotobudka,\n\n• warsztaty plastyczne,\n\n• gra terenowa,\n\n• sportowa platforma balansowa,\n\n• mobilny serwis rowerowy,\n\n• osiedlowy zakład fotograficzny,\n\n• stoiska edukacyjne, promocyjne i animacyjne partnerów,\n\n• strefa gastronomiczna.\n\n19:00 | amfiteatr kino plenerowe: „Flow” – oscarowa animacja dla całej rodziny\n\nPartnerzy wydarzenia: Miejski Ośrodek Pomocy Społecznej, Wrocławskie Centrum Rozwoju Społecznego, Miejskie Przedsiębiorstwo Komunikacyjne, Wroclaw.pl, Zespół Szkolno-Przedszkolny nr 16, Straż Miejska Wrocławia, Fundacja Bubble of Good, Twój Lekarz, Early Stage, AMAkids, Akademia Marzeń.\n\nWydarzenie organizowane przez Osiedle Krzyki-Partynice z wykorzystaniem środków finansowych wyodrębnionych dla Osiedla w budżecie miasta Wrocławia oraz dofinansowania na realizację zadań społecznych (festyn osiedlowy, kino plenerowe – Fundusz Czasu Wolnego).\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook"
+          "title": "Festyn osiedlowy w Parku Klecińskim – Witaj, jesieni!",
+          "description": "Rada Osiedla Krzyki-Partynice zaprasza na wspólne powitanie jesieni w Parku Klecińskim. Wydarzenie obejmuje szereg aktywności dla dzieci i dorosłych.\n\nProgram (15:00–19:00, teren przy placu zabaw):\n• Gry i klocki XXL, fotobudka, warsztaty plastyczne\n• Gra terenowa, sportowa platforma balansowa\n• Mobilny serwis rowerowy, osiedlowy zakład fotograficzny\n• Stoiska edukacyjne i strefa gastronomiczna\n\nKino plenerowe (19:00, amfiteatr):\n• Pokaz oscarowej animacji „Flow” dla całej rodziny."
         },
         "en": {
-          "title": "Neighborhood Festival in Kleciński Park — Welcome, Autumn!",
-          "description": "Autumn doesn't have to be gray and gloomy! Once again, we invite you to joyfully welcome this special season together. Let's meet in Kleciński Park and spend this day together! The Krzyki-Partynice Neighborhood Council has prepared plenty of attractions for both young and old. A lot of fun, creative activities, and opportunities to spend time together await you.\n\n15:00–19:00 | park area near the playground\n\n• XXL games and blocks,\n\n• photo booth,\n\n• art workshops,\n\n• outdoor game,\n\n• sports balance platform,\n\n• mobile bike service,\n\n• neighborhood photography studio,\n\n• educational, promotional, and animation booths from partners,\n\n• food zone.\n\n19:00 | amphitheater outdoor cinema: \"Flow\" – an Oscar-winning animation for the whole family.\n\nEvent partners: Municipal Center for Social Assistance"
+          "title": "Neighborhood Festival in Kleciński Park – Welcome, Autumn!",
+          "description": "The Krzyki-Partynice Neighborhood Council invites you to a joint welcome of autumn in Kleciński Park. The event includes a range of activities for children and adults.\n\nProgram (3:00 PM – 7:00 PM, area near the playground):\n• XXL games and blocks, photo booth, art workshops\n• Treasure hunt, sports balance platform\n• Mobile bike service, neighborhood photography studio\n• Educational booths and food zone\n\nOutdoor cinema (7:00 PM, amphitheater):\n• Screening of the Oscar-winning animation \"Flow\" for the whole family."
         },
         "uk": {
-          "title": "Осінній фестиваль у парку Клецінському — Ласкаво просимо, осінь!",
-          "description": "Осінь зовсім не повинна бути сірою та похмурою! Ще раз запрошуємо вас до спільного, радісного вітання цієї особливої пори року. Зустрінемося в парку Клецінському та проведемо цей день разом! Рада оселення Кжики-Партиніце підготувала безліч розваг для малих і великих. На вас чекає море гарного настрою, творчих активностей та можливостей провести час разом.\n\n15:00–19:00 | територія парку в районі дитячого майданчика\n\n• ігри та блоки XXL,\n\n• фотобудка,\n\n• художні майстерні,\n\n• гра на місцевості,\n\n• спортивна балансувальна платформа,\n\n• мобільний велосипедний сервіс,\n\n• осередок фотографії,\n\n• освітні, промоційні та анімаційні стенди партнерів,\n\n• гастрономічна зона.\n\n19:00 | амфітеатр, відкритий кінопоказ: «Flow» – оскарівська анімація для всієї родини\n\nПартнери події: Міський центр допомоги"
+          "title": "Осінній фестиваль у парку Клецінському – Ласкаво просимо, осінь!",
+          "description": "Рада оселі Крижки-Партиніце запрошує на спільне привітання осені в парку Клецінському. Подія включає ряд активностей для дітей та дорослих.\n\nПрограма (15:00–19:00, територія біля дитячого майданчика):\n• Ігри та великі кубики, фотобудка, художні майстерні\n• Поле для гри, спортивна балансувальна платформа\n• Мобільний велосипедний сервіс, осередок фотографії\n• Освітні стенди та гастрономічна зона\n\nВідкритий кінотеатр (19:00, амфітеатр):\n• Показ оскарівської анімації «Flow» для всієї родини."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Krzyki",
-      "updated_at": "2026-09-12T10:47:24.724426+00:00"
+      "updated_at": "2026-09-13T11:33:24.597105+00:00"
     },
     "warsztaty-gier-planszowych-2026-09-14T14:00:00+02:00": {
       "title": "Warsztaty gier planszowych",
@@ -5533,6 +5534,512 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-09-12T10:47:24.724160+00:00"
+    },
+    "tajemnice-wroc-awskiego-ratusza-wycieczka-z-przewodnikiem-2026-09-19T15:30:00+02:00": {
+      "title": "„Tajemnice Wrocławskiego Ratusza” – wycieczka z przewodnikiem",
+      "date": "2026-09-19T15:30:00+02:00",
+      "end_date": "2026-09-19T15:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Wycieczka z przewodnikiem po zakamarkach Starego Ratusza we Wrocławiu to jedyna okazja, aby poznać najpiękniejszy średniowieczny budynek Dolnego Śląska. Odkryj z nami jego tajemnice. Posłuchaj i zobacz, jak wyglądało życie w Ratuszu na przestrzeni wieków.\n\n• Poznaj Stary Ratusz z profesjonalnym przewodnikiem\n\n• Zobacz najpiękniejszy obiekt sztuki świeckiej we Wrocławiu\n\n• Obejrzyj średniowieczne wnętrza Ratusza na dwóch piętrach\n\n• Posłuchaj tajemniczych historii o Ratuszu\n\nChcesz zobaczyć najpiękniejszy średniowieczny ratusz w Polsce? Chcesz poznać niesamowite historie związane z tym miejscem? Zapraszamy.\n\nStary Ratusz we Wrocławiu przetrwał II wojnę światową w niemal nienaruszonym stanie. Dzięki temu dziś możemy podziwiać jego zachwycające wnętrza. To największy gotycki ratusz w Polsce – warto go odwiedzić, zwłaszcza z przewodnikiem, który opowie wiele ciekawych historii.\n\nZwiedzanie rozpoczynamy przed Ratuszem, przy „Piwnicy Świdnickiej” – najstarszej średniowiecznej restauracji we Wrocławiu. Jej historia sięga XVI wieku. To tu spotykali się wrocławscy studenci, pili słynnego „Białego Barana” i pojedynkowali się na szpady. Niejeden z nich zastawił tu wszystkie swoje ubrania, by móc się napić.\n\nWchodzimy do Starego Ratusza – to jak podróż w czasie do średniowiecznego Wrocławia. Piękne wnętrza, jakby wyjęte z XIV wieku, zachwycają dawnymi detalami: witrażami, wykuszami i maswerkami. Pomieszczenia ozdobiono z prawdziwym rozmachem – znajdziesz tu krzyżowo-żebrowe sklepienia, herby, portale i rzeźby.\n\nOgromne wrażenie robi reprezentacyjna Sala Wielka oraz słynna Sala Rady, gdzie aż do 1808 roku odbywały się posiedzenia Rady Miejskiej Wrocławia.\n\nCzeka na ciebie mnóstwo ekscytujących historii – mrocznych, zaskakujących i zabawnych. Każde pomieszczenie odkrywa przed nami swoje tajemnice. Daj się zaskoczyć. To prawdziwa podróż do średniowiecznego świata.\n\n**Koszt wycieczki**\n\n• 60 zł/os. (dorośli i dzieci)\n\n• Cena biletu obejmuje wstęp do Muzeum Sztuki Mieszczańskiej – Stary Ratusz.\n\n• Płatność gotówką na miejscu u przewodnika lub online przez Evently.\n\n• Start: Rynek, Stary Ratusz, przy niedźwiadku, restauracja Piwnica Świdnicka\n\n• Rezerwacja obowiązkowa – zadzwoń lub wyślij SMS/WhatsApp: 513 946 946 (otrzymasz potwierdzenie).\n\nZwiedzanie odbywa się w każdą sobotę o godzinie 15:30. Liczba miejsc ograniczona.",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-0af5e77cac110002208205706178107e/20240210-153328.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1393146-tajemnice-wroclawskiego-ratusza-wycieczka-z-przewodnikiem",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Miś przy Ratuszu Rynek, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1393146-tajemnice-wroclawskiego-ratusza-wycieczka-z-przewodnikiem",
+      "scrapped_timestamp": "2026-09-13T11:32:05.882277+00:00",
+      "category": "Field Trips",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "„Tajemnice Wrocławskiego Ratusza” – wycieczka z przewodnikiem",
+          "description": "Wycieczka z przewodnikiem po zakamarkach Starego Ratusza we Wrocławiu to jedyna okazja, aby poznać najpiękniejszy średniowieczny budynek Dolnego Śląska. Odkryj z nami jego tajemnice. Posłuchaj i zobacz, jak wyglądało życie w Ratuszu na przestrzeni wieków.\n\n• Poznaj Stary Ratusz z profesjonalnym przewodnikiem\n\n• Zobacz najpiękniejszy obiekt sztuki świeckiej we Wrocławiu\n\n• Obejrzyj średniowieczne wnętrza Ratusza na dwóch piętrach\n\n• Posłuchaj tajemniczych historii o Ratuszu\n\nChcesz zobaczyć najpiękniejszy średniowieczny ratusz w Polsce? Chcesz poznać niesamowite historie związane z tym miejscem? Zapraszamy.\n\nStary Ratusz we Wrocławiu przetrwał II wojnę światową w niemal nienaruszonym stanie. Dzięki temu dziś możemy podziwiać jego zachwycające wnętrza. To największy gotycki ratusz w Polsce – warto go odwiedzić, zwłaszcza z przewodnikiem, który opowie wiele ciekawych historii.\n\nZwiedzanie rozpoczynamy przed Ratuszem, przy „Piwnicy Świdnickiej” – najstarszej średniowiecznej restauracji we Wrocławiu. Jej historia sięga XVI wieku. To tu spotykali się wrocławscy studenci, pili słynnego „Białego Barana” i pojedynkowali się na szpady. Niejeden z nich zastawił tu wszystkie swoje ubrania, by móc się napić.\n\nWchodzimy do Starego Ratusza – to jak podróż w czasie do średniowiecznego Wrocławia. Piękne wnętrza, jakby wyjęte z XIV wieku, zachwycają dawnymi detalami: witrażami, wykuszami i maswerkami. Pomieszczenia ozdobiono z prawdziwym rozmachem – znajdziesz tu krzyżowo-żebrowe sklepienia, herby, portale i rzeźby.\n\nOgromne wrażenie robi reprezentacyjna Sala Wielka oraz słynna Sala Rady, gdzie aż do 1808 roku odbywały się posiedzenia Rady Miejskiej Wrocławia.\n\nCzeka na ciebie mnóstwo ekscytujących historii – mrocznych, zaskakujących i zabawnych. Każde pomieszczenie odkrywa przed nami swoje tajemnice. Daj się zaskoczyć. To prawdziwa podróż do średniowiecznego świata.\n\n**Koszt wycieczki**\n\n• 60 zł/os. (dorośli i dzieci)\n\n• Cena biletu obejmuje wstęp do Muzeum Sztuki Mieszczańskiej – Stary Ratusz.\n\n• Płatność gotówką na miejscu u przewodnika lub online przez Evently.\n\n• Start: Rynek, Stary Ratusz, przy niedźwiadku, restauracja Piwnica Świdnicka\n\n• Rezerwacja obowiązkowa – zadzwoń lub wyślij SMS/WhatsApp: 513 946 946 (otrzymasz potwierdzenie).\n\nZwiedzanie odbywa się w każdą sobotę o godzinie 15:30. Liczba miejsc ograniczona."
+        },
+        "en": {
+          "title": "Secrets of Wrocław Town Hall – Guided Tour",
+          "description": "A guided tour through the nooks and crannies of the Old Town Hall in Wrocław is a unique opportunity to discover the most beautiful medieval building in Lower Silesia. Join us to uncover its secrets. Listen and see how life in the Town Hall has evolved over the centuries.\n\n• Discover the Old Town Hall with a professional guide\n\n• See the most beautiful secular art object in Wrocław\n\n• Explore the medieval interiors of the Town Hall across two floors\n\n• Hear mysterious stories about the Town Hall\n\nDo you want to see the most beautiful medieval town hall in Poland? Do you want to learn incredible stories related to this place? We invite you.\n\nThe Old Town Hall in Wrocław survived World War II in almost pristine condition. Thanks to this, we can admire its stunning interiors today. It is the largest Gothic town hall in Poland."
+        },
+        "uk": {
+          "title": "«Таємниці Вроцлавської Ратуші» – екскурсія з гідом",
+          "description": "Екскурсія з гідом по закутках Старої Ратуші у Вроцлаві – це єдина можливість дізнатися про найкрасивішу середньовічну будівлю Нижньої Сілезії. Відкрийте з нами її таємниці. Послухайте та побачте, як виглядало життя в Ратуші протягом століть.\n\n• Познайомтеся зі Старою Ратушею з професійним гідом\n\n• Побачте найкрасивіший об'єкт світського мистецтва у Вроцлаві\n\n• Огляньте середньовічні інтер'єри Ратуші на двох поверхах\n\n• Послухайте таємничі історії про Ратушу\n\nХочете побачити найкрасивішу середньовічну ратушу в Польщі? Хочете дізнатися неймовірні історії, пов'язані з цим місцем? Запрошуємо.\n\nСтара Ратуша у Вроцлаві пережила Друга світова війна в майже неушкодженому стані. Завдяки цьому сьогодні ми можемо милуватися її захоплюючими інтер'єрами. Це найбільша готична ратуша в Польщі –"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-13T11:33:24.596858+00:00"
+    },
+    "tajemnice-uniwersytetu-wroc-awskiego-wycieczka-po-wroc-awiu-2026-09-19T13:30:00+02:00": {
+      "title": "„Tajemnice Uniwersytetu Wrocławskiego\" – wycieczka po Wrocławiu",
+      "date": "2026-09-19T13:30:00+02:00",
+      "end_date": "2026-09-19T13:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Wycieczka z przewodnikiem do Uniwersytetu Wrocławskiego to jedyna okazja, aby poznać tą **barokową perłę Wrocławia**. Posłuchaj jak żyli profesorowie i studenci! Poznaj historię życia akademickiego we Wrocławiu. Odkryj z nami tajemnice tego miejsca.\n\nPodczas wycieczki dowiesz się wielu zaskakujących rzeczy o tym słynnym zabytkowym miejscu. Będziesz spacerować po wnętrzach muzeum z profesjonalnym przewodnikiem. Budynek powstał już w 1702 roku! W swych murach skrywa wiele tajemnic. **To tutaj kształcili się słynni niemieccy nobliści, jest ich aż 14!** Theodor Mommsen, Fritz Haber, Max Born, Gerhart Hauptmann a także polska powieściopisarka Olga Tokarczuk.\n\nZwiedzanie rozpoczyna się od słynnych barokowych sal reprezentacyjnych – **Auli Leopoldyna** i **Oratorium Marianum**. To tutaj odbywa się uroczyste rozpoczęcie roku akademickiego wszystkich wyższych uczelni we Wrocławiu. Sala robi imponujące wrażenie! To jedyne w Polsce, tak dobrze zachowane świeckie wnętrze barokowe z pełnym wystrojem, na który składa się iluzjonistyczne malarstwo ścienne Johanna Christopha Handkego. W centrum sali zobaczyć można rzeźbę króla Niemiec i cesarza Leopolda I Habsburga na tronie.\n\nTuż obok pięknem zachwyca druga z sal – Oratorium Muzyczne, Dzięki znakomitej akustyce oratorium stało się jedną z głównych sal muzycznych Wrocławia. W XIX wieku koncertowali w niej Johannes Brahms, Ferenc Liszt, Niccolò Paganini, Anton Rubinstein, Klara Schumann i Henryk Wieniawski.\n\nPo zwiedzaniu sal udajemy wygodnymi dużymi schodami cesarskimi się na **Wieże Matematyczną Uniwersytetu Wrocławskiego.**Widok z wieży sięga na całą Starówkę! Zobaczyć stąd można wszystkie najważniejsze zabytki Wrocławia łącznie z Katedrą Wrocławską. Taras widokowy na wieży zdobią cztery potężne rzeźby dłuta Franza Mangoldta.\n\nNa koniec docieramy do **Muzeum Uniwersyteckiego**, aby tam odkryć barwną historię uniwersytetu. Wrocław od wieków był miastem studentów. W muzeum poznamy jak się uczyli i jak się bawili wrocławscy studenci – dziś i przed wojną. Jest o czym opowiadać!\n\nSpacer kończymy na zewnątrz – przed uniwersytetem stoi pomnik nagiego szermierza. Dlaczego nagiego? Chcesz poznać tą zabawną historię? Oczywiście możesz to zrobić! Zapraszamy na naszą wycieczkę z przewodnikiem.\n\n**Cennik**\n\n• 60 zł / osoba\n\nPodany koszt biletu zawiera opłatę za wstęp do Muzeum Uniwersytetu Wrocławskiego, Aulę Leopoldyna, Oratorium Marianum i na Wieżę Matematyczną.\n\nPłatne gotówką na miejscu u przewodnika lub przez evently.pl.\n\n**Wymagana rezerwacja pod numerem: 513 946 946**. Wyślij SMS lub WhatsUp – a otrzymasz potwierdzenie!\n\nZapraszamy w każdą sobotę o godz. 13:30! Liczba miejsc ograniczona.\n\nStart: Rynek, Stary Ratusz, przy niedźwiadku, obok Piwnicy Świdnickiej.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-a09653afac1100020e8e419c40deca9c/zwiedxanie-uniwersytetu-wroclawskiego.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1391238-tajemnice-uniwersytetu-wroclawskiego-wycieczka-po-wroclawiu",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Rynek we Wrocławiu Rynek, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1391238-tajemnice-uniwersytetu-wroclawskiego-wycieczka-po-wroclawiu",
+      "scrapped_timestamp": "2026-09-13T11:32:11.274898+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "„Tajemnice Uniwersytetu Wrocławskiego\" – wycieczka po Wrocławiu",
+          "description": "Wycieczka z przewodnikiem do Uniwersytetu Wrocławskiego to jedyna okazja, aby poznać tą **barokową perłę Wrocławia**. Posłuchaj jak żyli profesorowie i studenci! Poznaj historię życia akademickiego we Wrocławiu. Odkryj z nami tajemnice tego miejsca.\n\nPodczas wycieczki dowiesz się wielu zaskakujących rzeczy o tym słynnym zabytkowym miejscu. Będziesz spacerować po wnętrzach muzeum z profesjonalnym przewodnikiem. Budynek powstał już w 1702 roku! W swych murach skrywa wiele tajemnic. **To tutaj kształcili się słynni niemieccy nobliści, jest ich aż 14!** Theodor Mommsen, Fritz Haber, Max Born, Gerhart Hauptmann a także polska powieściopisarka Olga Tokarczuk.\n\nZwiedzanie rozpoczyna się od słynnych barokowych sal reprezentacyjnych – **Auli Leopoldyna** i **Oratorium Marianum**. To tutaj odbywa się uroczyste rozpoczęcie roku akademickiego wszystkich wyższych uczelni we Wrocławiu. Sala robi imponujące wrażenie! To jedyne w Polsce, tak dobrze zachowane świeckie wnętrze barokowe z pełnym wystrojem, na który składa się iluzjonistyczne malarstwo ścienne Johanna Christopha Handkego. W centrum sali zobaczyć można rzeźbę króla Niemiec i cesarza Leopolda I Habsburga na tronie.\n\nTuż obok pięknem zachwyca druga z sal – Oratorium Muzyczne, Dzięki znakomitej akustyce oratorium stało się jedną z głównych sal muzycznych Wrocławia. W XIX wieku koncertowali w niej Johannes Brahms, Ferenc Liszt, Niccolò Paganini, Anton Rubinstein, Klara Schumann i Henryk Wieniawski.\n\nPo zwiedzaniu sal udajemy wygodnymi dużymi schodami cesarskimi się na **Wieże Matematyczną Uniwersytetu Wrocławskiego.**Widok z wieży sięga na całą Starówkę! Zobaczyć stąd można wszystkie najważniejsze zabytki Wrocławia łącznie z Katedrą Wrocławską. Taras widokowy na wieży zdobią cztery potężne rzeźby dłuta Franza Mangoldta.\n\nNa koniec docieramy do **Muzeum Uniwersyteckiego**, aby tam odkryć barwną historię uniwersytetu. Wrocław od wieków był miastem studentów. W muzeum poznamy jak się uczyli i jak się bawili wrocławscy studenci – dziś i przed wojną. Jest o czym opowiadać!\n\nSpacer kończymy na zewnątrz – przed uniwersytetem stoi pomnik nagiego szermierza. Dlaczego nagiego? Chcesz poznać tą zabawną historię? Oczywiście możesz to zrobić! Zapraszamy na naszą wycieczkę z przewodnikiem.\n\n**Cennik**\n\n• 60 zł / osoba\n\nPodany koszt biletu zawiera opłatę za wstęp do Muzeum Uniwersytetu Wrocławskiego, Aulę Leopoldyna, Oratorium Marianum i na Wieżę Matematyczną.\n\nPłatne gotówką na miejscu u przewodnika lub przez evently.pl.\n\n**Wymagana rezerwacja pod numerem: 513 946 946**. Wyślij SMS lub WhatsUp – a otrzymasz potwierdzenie!\n\nZapraszamy w każdą sobotę o godz. 13:30! Liczba miejsc ograniczona.\n\nStart: Rynek, Stary Ratusz, przy niedźwiadku, obok Piwnicy Świdnickiej.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "Secrets of the University of Wrocław – Tour of Wrocław",
+          "description": "A guided tour of the University of Wrocław is a unique opportunity to discover this **baroque gem of Wrocław**. Listen to how professors and students lived! Learn about the history of academic life in Wrocław. Uncover the secrets of this place with us.\n\nDuring the tour, you will learn many surprising facts about this famous historic site. You will walk through the museum's interiors with a professional guide. The building was established in 1702! It hides many secrets within its walls. **This is where 14 famous German Nobel laureates were educated!** Theodor Mommsen, Fritz Haber, Max Born, Gerhart Hauptmann, and also the Polish novelist Olga Tokarczuk.\n\nThe tour begins in the famous baroque representative halls – **Aula Leopoldina** and **Oratorium Marianum**. This is where..."
+        },
+        "uk": {
+          "title": "Тайни Вроцлавського університету – екскурсія по Вроцлаву",
+          "description": "Екскурсія з гідом до Вроцлавського університету – це єдина можливість познайомитися з цією **бароковою перлиною Вроцлава**. Послухайте, як жили професори та студенти! Досліджуйте історію академічного життя у Вроцлаві. Відкрийте разом з нами таємниці цього місця.\n\nПід час екскурсії ви дізнаєтеся багато несподіваних фактів про цю знамениту історичну пам'ятку. Ви будете прогулюватися по інтер'єрах музею з професійним гідом. Будівля була зведена ще в 1702 році! У своїх стінах вона приховує багато таємниць. **Саме тут навчалися відомі німецькі лауреати Нобелівської премії, їх аж 14!** Теодор Моммсен, Фріц Габер, Макс Борн, Герхарт Гауптман, а також польська романістка Ольга Токарчук.\n\nЕкскурсія починається з відомих барокових представницьких залів – **Аули Леопольдіни** та **Ораторії Маріанум**. Саме тут відбувається..."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-13T11:33:24.596888+00:00"
+    },
+    "pod-aj-za-latarnikiem-spacer-po-wroc-awiu-2026-09-19T17:00:00+02:00": {
+      "title": "„Podążaj za latarnikiem” – spacer po Wrocławiu",
+      "date": "2026-09-19T17:00:00+02:00",
+      "end_date": "2026-09-19T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Dwugodzinny spacer z licencjonowanym przewodnikiem pełen niesamowitych opowieści, zagadek i legend. Oświetlony gazowymi latarniami Ostrów Tumski pełen gotyckich budowli i wąskich uliczek to najpiękniejsza zabytkowa dzielnica Wrocławia na Starym Mieście.\n\nW godzinach spaceru na trasie wycieczki pojawia się Wrocławski Latarnik! Poznaj Wrocław i jego tajemnice! Sympatycznie i z poczuciem humoru. Dla dorosłych i dla dzieci.\n\nCzas trwania to około 2 godzin.\n\nKoszt wycieczki\n\n• Dzieci do lat 14 | 30 zł/os.\n\n• Dorośli | 40 zł/os.\n\nPłatne gotówką na miejscu u przewodnika.\n\nStart przy Niedźwiadku Malajskim przy Starym Ratuszu na Rynku.\n\nWymagana rezerwacja telefoniczna: 513 946 946 (wyślij SMS lub WhatsApp – a otrzymasz potwierdzenie!)\n\nLiczba miejsc ograniczona. Liczba miejsc ograniczona. Zapraszamy w każdą sobotę o godz. 17:00.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-9bb4dcc9ac1100023ecc226437ad9cd2/latarnik-wroclawski.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1390010-tajemnice-ostrowa-tumskiego-spacer-po-wroclawiu",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Rynek we Wrocławiu Rynek, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1390010-tajemnice-ostrowa-tumskiego-spacer-po-wroclawiu",
+      "scrapped_timestamp": "2026-09-13T11:32:17.161527+00:00",
+      "category": "Field Trips",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "„Podążaj za latarnikiem” – spacer po Wrocławiu",
+          "description": "Dwugodzinny spacer z licencjonowanym przewodnikiem pełen niesamowitych opowieści, zagadek i legend. Oświetlony gazowymi latarniami Ostrów Tumski pełen gotyckich budowli i wąskich uliczek to najpiękniejsza zabytkowa dzielnica Wrocławia na Starym Mieście.\n\nW godzinach spaceru na trasie wycieczki pojawia się Wrocławski Latarnik! Poznaj Wrocław i jego tajemnice! Sympatycznie i z poczuciem humoru. Dla dorosłych i dla dzieci.\n\nCzas trwania to około 2 godzin.\n\nKoszt wycieczki\n\n• Dzieci do lat 14 | 30 zł/os.\n\n• Dorośli | 40 zł/os.\n\nPłatne gotówką na miejscu u przewodnika.\n\nStart przy Niedźwiadku Malajskim przy Starym Ratuszu na Rynku.\n\nWymagana rezerwacja telefoniczna: 513 946 946 (wyślij SMS lub WhatsApp – a otrzymasz potwierdzenie!)\n\nLiczba miejsc ograniczona. Liczba miejsc ograniczona. Zapraszamy w każdą sobotę o godz. 17:00.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "Follow the Lantern Keeper – A Walk in Wrocław",
+          "description": "A two-hour walk with a licensed guide full of amazing stories, riddles, and legends. The gas-lit Ostrów Tumski, filled with Gothic buildings and narrow streets, is the most beautiful historic district of Wrocław in the Old Town.\n\nDuring the walk, the Wrocław Lantern Keeper will appear along the route! Discover Wrocław and its secrets! Friendly and with a sense of humor. Suitable for adults and children.\n\nDuration is approximately 2 hours.\n\nCost of the tour:\n\n• Children under 14 | 30 PLN/person.\n\n• Adults | 40 PLN/person.\n\nPayment in cash on-site to the guide.\n\nStart at the Malaysian Bear near the Old Town Hall in the Market Square.\n\nPhone reservation required: 513 946 946 (send an SMS or WhatsApp – and you will receive a confirmation!)\n\nLimited number of places. Limited number of places. You are invited."
+        },
+        "uk": {
+          "title": "„Слідуй за ліхтарником” – прогулянка по Вроцлаву",
+          "description": "Двогодинна прогулянка з ліцензованим гідом, наповнена неймовірними історіями, загадками та легендами. Освітлений газовими ліхтарями Острів Тумський, повний готичних будівель і вузьких вуличок, є найкрасивішим історичним районом Вроцлава на Старому Місті.\n\nПід час прогулянки на маршруті з'являється Вроцлавський Ліхтарник! Познайомся з Вроцлавом та його таємницями! Дружньо та з почуттям гумору. Для дорослих і для дітей.\n\nЧас тривалості – близько 2 годин.\n\nВартість екскурсії\n\n• Діти до 14 років | 30 зл/особа.\n\n• Дорослі | 40 зл/особа.\n\nОплата готівкою на місці у гіда.\n\nСтарт біля Малайського Ведмедя при Старій Ратуші на Ринку.\n\nНеобхідна телефонна резервування: 513 946 946 (надішліть SMS або WhatsApp – і отримаєте підтвердження!)\n\nКількість місць обмежена. Кількість місць обмежена. Запрошуємо!"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-13T11:33:24.596909+00:00"
+    },
+    "tajemnice-legendy-i-czarownice-niecodzienna-wycieczka-po-wroc-awiu-z-wej-ciem-na-mostek-pokutnic-2026-09-20T11:00:00+02:00": {
+      "title": "„Tajemnice, legendy i czarownice“ – niecodzienna wycieczka po Wrocławiu z wejściem na Mostek Pokutnic",
+      "date": "2026-09-20T11:00:00+02:00",
+      "end_date": "2026-09-20T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Niecodzienny spacer z licencjonowanym przewodnikiem po Starym Mieście.\n\nZobacz Wrocław z perspektywy wrocławskich krasnali! A przy okazji posłuchaj najciekawszych opowieści o mieście – mrożącej krew z żyłach legendy o Dzwonie Grzesznika i pięknej legendy o Mostku Pokutnic.\n\nZaczynamy widokiem z lotu ptaka na wrocławski Rynek! Mostek Czarownic to jeden z najbardziej urokliwych punktów widokowych na miasto. Łączy obie wieże kościoła św. Marii Magdaleny. To niesamowite miejsce na mapie Wrocławia gwarantuje piękne widoki a także mnóstwo tajemniczych historii!\n\nPodczas spaceru odwiedzimy siedzibę wrocławskich krasnali, zobaczymy najsłynniejsze wrocławskie skrzaty, poznamy tajemnice najpiękniejszego Ratusza w Polsce i dowiemy się, dlaczego Szermierz jest nagi.\n\nWycieczkę zakończymy w Informacji Krasnalowej, gdzie czeka na nas Krasnal Pomagajek i jego pamiątki z Wrocławia: mapki, koszulki, kubki i słodycze.\n\nSympatycznie i z poczuciem humoru. Dla dorosłych i dla dzieci. Z licencjonowanym przewodnikiem!\n\nKażda niedziela o godz. 11:00!\n\n**Koszt wycieczki**\n\n• 30 zł/os. (dzieci do lat 14)\n\n• 40 zł/os. (dorośli)\n\nPłatność gotówką na miejscu lub on-line Evently: kliknij tutaj, aby kupić bilet.\n\n**Dodatkowa opłata na miejscu**: 25 zł/os. Wejście na Mostek Czarownic.\n\n**Szczegóły**\n\n• Start: Przy Starym Ratuszu na Rynku, przy niedźwiadku malajskim\n\n• Wymagana REZERWACJA pod nr tel.: 513 946 946 (wyślij SMS lub WhatsApp – a otrzymasz potwierdzenie!)\n\nZapraszamy w każdy weekend! Liczba miejsc ograniczona.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-91986160ac11000277ae931b60d17d08/mostek-czarownic-wroclaw.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1396284-tajemnice-legendy-i-czarownice-niecodzienna-wycieczka-po-wroclawiu-z-wejsciem-na-mostek-pokutnic",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Rynek we Wrocławiu Rynek, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1396284-tajemnice-legendy-i-czarownice-niecodzienna-wycieczka-po-wroclawiu-z-wejsciem-na-mostek-pokutnic",
+      "scrapped_timestamp": "2026-09-13T11:32:23.745829+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "„Tajemnice, legendy i czarownice“ – niecodzienna wycieczka po Wrocławiu z wejściem na Mostek Pokutnic",
+          "description": "Niecodzienny spacer z licencjonowanym przewodnikiem po Starym Mieście.\n\nZobacz Wrocław z perspektywy wrocławskich krasnali! A przy okazji posłuchaj najciekawszych opowieści o mieście – mrożącej krew z żyłach legendy o Dzwonie Grzesznika i pięknej legendy o Mostku Pokutnic.\n\nZaczynamy widokiem z lotu ptaka na wrocławski Rynek! Mostek Czarownic to jeden z najbardziej urokliwych punktów widokowych na miasto. Łączy obie wieże kościoła św. Marii Magdaleny. To niesamowite miejsce na mapie Wrocławia gwarantuje piękne widoki a także mnóstwo tajemniczych historii!\n\nPodczas spaceru odwiedzimy siedzibę wrocławskich krasnali, zobaczymy najsłynniejsze wrocławskie skrzaty, poznamy tajemnice najpiękniejszego Ratusza w Polsce i dowiemy się, dlaczego Szermierz jest nagi.\n\nWycieczkę zakończymy w Informacji Krasnalowej, gdzie czeka na nas Krasnal Pomagajek i jego pamiątki z Wrocławia: mapki, koszulki, kubki i słodycze.\n\nSympatycznie i z poczuciem humoru. Dla dorosłych i dla dzieci. Z licencjonowanym przewodnikiem!\n\nKażda niedziela o godz. 11:00!\n\n**Koszt wycieczki**\n\n• 30 zł/os. (dzieci do lat 14)\n\n• 40 zł/os. (dorośli)\n\nPłatność gotówką na miejscu lub on-line Evently: kliknij tutaj, aby kupić bilet.\n\n**Dodatkowa opłata na miejscu**: 25 zł/os. Wejście na Mostek Czarownic.\n\n**Szczegóły**\n\n• Start: Przy Starym Ratuszu na Rynku, przy niedźwiadku malajskim\n\n• Wymagana REZERWACJA pod nr tel.: 513 946 946 (wyślij SMS lub WhatsApp – a otrzymasz potwierdzenie!)\n\nZapraszamy w każdy weekend! Liczba miejsc ograniczona.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "Secrets, Legends, and Witches – An Unusual Tour of Wrocław with Access to the Bridge of Penitents",
+          "description": "An unusual walk with a licensed guide through the Old Town.\n\nSee Wrocław from the perspective of the Wrocław dwarfs! Along the way, listen to the most interesting stories about the city – the chilling legend of the Sinner's Bell and the beautiful legend of the Bridge of Penitents.\n\nWe start with a bird's-eye view of Wrocław's Market Square! The Bridge of Witches is one of the most charming viewpoints in the city. It connects both towers of St. Mary Magdalene's Church. This incredible place on the map of Wrocław guarantees beautiful views as well as plenty of mysterious stories!\n\nDuring the walk, we will visit the home of the Wrocław dwarfs, see the most famous Wrocław gnomes, learn the secrets of the most beautiful Town Hall in Poland, and find out why the Swordsman is naked.\n\nWe will conclude the tour at the Information Center."
+        },
+        "uk": {
+          "title": "«Таємниці, легенди та відьми» – незвичайна екскурсія по Вроцлаву з відвідуванням Мосту Покутниць",
+          "description": "Незвичайна прогулянка з ліцензованим гідом по Старому Місту.\n\nПогляньте на Вроцлав з перспективи вроцлавських гномів! А заодно послухайте найцікавіші історії про місто – жахливу легенду про Дзвін Грішника та прекрасну легенду про Міст Покутниць.\n\nРозпочнемо з вигляду з пташиного польоту на вроцлавський Ринок! Мостик Відьом – це одна з найчарівніших оглядових точок на місто. Він з'єднує обидві вежі церкви св. Марії Магдалини. Це неймовірне місце на карті Вроцлава гарантує красиві види, а також безліч таємничих історій!\n\nПід час прогулянки ми відвідаємо резиденцію вроцлавських гномів, побачимо найвідоміших вроцлавських гномів, дізнаємося таємниці найкрасивішої Ратуші в Польщі та дізнаємося, чому Шпагіст голий.\n\nЕкскурсію завершимо в Інформації."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-13T11:33:24.596937+00:00"
+    },
+    "kacz-tko-4-2026-09-13T12:00:00+02:00": {
+      "title": "Kaczątko | 4+",
+      "date": "2026-09-13T12:00:00+02:00",
+      "end_date": "2026-09-13T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Kameralny spektakl na motywach klasycznej baśni, w którym wszystkie role grane są przez jedną aktorkę. Baśń o brzydkim kaczątku staje się punktem wyjścia do opowieści o poszukiwaniu swojego miejsca.\n\nNarrator to wyrzucony z cyrku klaun. Całą swoją historię zabrał ze sobą w walizkach. W każdej z nich kryje się mały świat, wyczarowywany na oczach widzów dzięki środkom teatru formy i teatru przedmiotu. Klaun, mówiąc o kaczątku, mówi jednocześnie o sobie, ale także o nas – bo któż z nas nie czuł się kiedyś niepasującym czy niewystarczającym? Nie marzył o odnalezieniu swojego miejsca w świecie?\n\nZnane baśniowe motywy zostały w KACZĄTKU zinterpretowane na nowo przez przedstawicieli najmłodszego pokolenia twórców teatralnych. Dzięki temu spektakl mówi już nie tylko o tym, że każdy z nas nosi w sobie potencjał rozwoju i zmiany, ale też o uczuciu, które często towarzyszy dzieciom w zderzeniu ze światem dorosłych: że są niezrozumiane, niewystarczające, nie takie, jak powinny być.\n\nKACZĄTKO jest ponadczasową historią o dorastaniu, a jej uniwersalność tkwi także w tym, że wszyscy – również dorośli – mogą identyfikować się z nieprzystającym do otoczenia bohaterem.\n\n„Brzydkie kaczątko” Hansa Christiana Andersena to klasyczna baśń o odrzuceniu i samotności. Młodzi twórcy wnoszą do niej nadzieję, mówiąc o samoakceptacji i zadając widzom pytanie: czy na pewno musimy się zmienić, by być lubianymi?\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-d498f264ac11000262f8daa47bb94253/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1408429-kaczatko-4",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocławski Teatr Lalek Pl. Teatralny 4, Wrocław 50-051",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1408429-kaczatko-4",
+      "scrapped_timestamp": "2026-09-13T11:32:28.628640+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 4,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kaczątko | 4+",
+          "description": "Kameralny spektakl na motywach klasycznej baśni, w którym wszystkie role grane są przez jedną aktorkę. Baśń o brzydkim kaczątku staje się punktem wyjścia do opowieści o poszukiwaniu swojego miejsca.\n\nNarrator to wyrzucony z cyrku klaun. Całą swoją historię zabrał ze sobą w walizkach. W każdej z nich kryje się mały świat, wyczarowywany na oczach widzów dzięki środkom teatru formy i teatru przedmiotu. Klaun, mówiąc o kaczątku, mówi jednocześnie o sobie, ale także o nas – bo któż z nas nie czuł się kiedyś niepasującym czy niewystarczającym? Nie marzył o odnalezieniu swojego miejsca w świecie?\n\nZnane baśniowe motywy zostały w KACZĄTKU zinterpretowane na nowo przez przedstawicieli najmłodszego pokolenia twórców teatralnych. Dzięki temu spektakl mówi już nie tylko o tym, że każdy z nas nosi w sobie potencjał rozwoju i zmiany, ale też o uczuciu, które często towarzyszy dzieciom w zderzeniu ze światem dorosłych: że są niezrozumiane, niewystarczające, nie takie, jak powinny być.\n\nKACZĄTKO jest ponadczasową historią o dorastaniu, a jej uniwersalność tkwi także w tym, że wszyscy – również dorośli – mogą identyfikować się z nieprzystającym do otoczenia bohaterem.\n\n„Brzydkie kaczątko” Hansa Christiana Andersena to klasyczna baśń o odrzuceniu i samotności. Młodzi twórcy wnoszą do niej nadzieję, mówiąc o samoakceptacji i zadając widzom pytanie: czy na pewno musimy się zmienić, by być lubianymi?\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "The Ugly Duckling | 4+",
+          "description": "An intimate performance based on a classic fairy tale, where all roles are played by a single actress. The story of the ugly duckling serves as a starting point for a narrative about searching for one's place in the world.\n\nThe narrator is a clown who has been thrown out of the circus. He has brought his entire story with him in suitcases. Each suitcase contains a small world, conjured before the audience's eyes through the means of form theater and object theater. As the clown speaks about the duckling, he simultaneously speaks about himself, but also about us – for who among us has not felt out of place or inadequate at some point? Who has not dreamed of finding their place in the world?\n\nFamiliar fairy tale motifs have been reinterpreted in THE UGLY DUCKLING by representatives of the youngest generation of theater creators. As a result, the performance speaks not only about the fact that each of us carries within us..."
+        },
+        "uk": {
+          "title": "Каченя | 4+",
+          "description": "Камерний спектакль на мотивах класичної казки, в якому всі ролі виконуються однією акторкою. Казка про потворне каченя стає відправною точкою для оповіді про пошук свого місця. \n\nНаратор – вигнаний з цирку клоун. Усі свої історії він забрав із собою в валізах. У кожній з них прихований маленький світ, що створюється на очах глядачів завдяки засобам театру форми та театру предмета. Клоун, говорячи про каченя, говорить одночасно про себе, але також і про нас – адже хто з нас хоч раз не відчував себе невідповідним чи недостатнім? Хто не мріяв знайти своє місце у світі? \n\nВідомі казкові мотиви були в КАЧЕНІ переосмислені представниками наймолодшого покоління театральних творців. Завдяки цьому спектакль говорить вже не лише про те, що кожен з нас носить у собі..."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-13T11:33:24.596956+00:00"
+    },
+    "bezp-atne-zaj-cia-og-lnorozwojowe-z-elementami-koszyk-wki-dla-dzieci-od-2-roku-ycia-2026-09-18T17:15:00+02:00": {
+      "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci od 2 roku życia",
+      "date": "2026-09-18T17:15:00+02:00",
+      "end_date": "2026-09-18T17:15:00+02:00",
+      "startTimeKnown": true,
+      "description": "**HARMONOGRAM 12.09.2026 (w centrum Wrocławia IX LO, ul. ks. P. Skargi 31 (wjazd od ul. Nowej):**\n\n• 09:15-10:00: 2-3 lata,\n\n• 10:00-10:45: 3-3,5 lat,\n\n• 10:45-11:45: 3,5-4,5 lat,\n\n• 11:45-12:45: 4,5-6 lat,\n\n• 12:45-13:45: 6,5-8,0 lat.\n\n**HARMONOGRAM 18.09.2026 (Lipa Piotrowska) ZSP26, ul. Cynamonowa 40 (wejście szkolne - duża sala na parterze)**\n\n• 17:15-18:00: 3-5 lat,\n\n• 18:00-19:00: 6-8 lat,\n\n• 19:00-20:00: 9-12 lat.\n\n**Drogi rodzicu:**\n\n• Chcesz rozwijać motywację i pewność siebie u swojego dziecka?\n\n• Chcesz poprawić intuicję i koncentracje swojego malucha?\n\n• Twoje dziecko jest spragnione pozytywnych wrażeń i nie cierpi nudy?\n\n• Pragniesz poprawić dziecku kondycję i ogólną sprawność fizyczną?\n\n• Zależy ci na znalezieniu dla swojej pociechy przyjaźni na całe życie poprzez kształtowanie jego kompetencji, intencji i współpracy w grupie?\n\nJeśli chociaż raz odpowiedziałeś TAK, to nasza propozycja jest właśnie dla ciebie! Przyjdź na pierwsze bezpłatne i niezobowiązujące zajęcia i przekonaj się, jak świetnie twoje dziecko może spędzić czas.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-ad9e0708ac1100026d1ae29d85b928f4/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415734-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci-od-2-roku-zycia-wroclaw",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "ZSP26 ul. Cynamonowa 40"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415734-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci-od-2-roku-zycia-wroclaw",
+      "scrapped_timestamp": "2026-09-13T11:32:34.471301+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 2,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci od 2 roku życia",
+          "description": "**HARMONOGRAM 12.09.2026 (w centrum Wrocławia IX LO, ul. ks. P. Skargi 31 (wjazd od ul. Nowej):**\n\n• 09:15-10:00: 2-3 lata,\n\n• 10:00-10:45: 3-3,5 lat,\n\n• 10:45-11:45: 3,5-4,5 lat,\n\n• 11:45-12:45: 4,5-6 lat,\n\n• 12:45-13:45: 6,5-8,0 lat.\n\n**HARMONOGRAM 18.09.2026 (Lipa Piotrowska) ZSP26, ul. Cynamonowa 40 (wejście szkolne - duża sala na parterze)**\n\n• 17:15-18:00: 3-5 lat,\n\n• 18:00-19:00: 6-8 lat,\n\n• 19:00-20:00: 9-12 lat.\n\n**Drogi rodzicu:**\n\n• Chcesz rozwijać motywację i pewność siebie u swojego dziecka?\n\n• Chcesz poprawić intuicję i koncentracje swojego malucha?\n\n• Twoje dziecko jest spragnione pozytywnych wrażeń i nie cierpi nudy?\n\n• Pragniesz poprawić dziecku kondycję i ogólną sprawność fizyczną?\n\n• Zależy ci na znalezieniu dla swojej pociechy przyjaźni na całe życie poprzez kształtowanie jego kompetencji, intencji i współpracy w grupie?\n\nJeśli chociaż raz odpowiedziałeś TAK, to nasza propozycja jest właśnie dla ciebie! Przyjdź na pierwsze bezpłatne i niezobowiązujące zajęcia i przekonaj się, jak świetnie twoje dziecko może spędzić czas.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Free Development Classes with Elements of Basketball for Children from 2 Years Old",
+          "description": "**SCHEDULE 12.09.2026 (in the center of Wrocław IX LO, ul. ks. P. Skargi 31 (entrance from ul. Nowa):**\n\n• 09:15-10:00: 2-3 years,\n\n• 10:00-10:45: 3-3.5 years,\n\n• 10:45-11:45: 3.5-4.5 years,\n\n• 11:45-12:45: 4.5-6 years,\n\n• 12:45-13:45: 6.5-8.0 years.\n\n**SCHEDULE 18.09.2026 (Lipa Piotrowska) ZSP26, ul. Cynamonowa 40 (school entrance - large hall on the ground floor)**\n\n• 17:15-18:00: 3-5 years,\n\n• 18:00-19:00: 6-8 years,\n\n• 19:00-20:00: 9-12 years.\n\n**Dear Parent:**\n\n• Do you want to develop your child's motivation and self-confidence?\n\n• Do you want to improve your little one's intuition and concentration?\n\n• Is your child eager for positive experiences and does not suffer from boredom?\n\n• Do you wish to improve your child's fitness and overall physical condition?\n\n• Are you looking for a lifelong friendship for your little one through shaping..."
+        },
+        "uk": {
+          "title": "Безкоштовні загальноосвітні заняття з елементами баскетболу для дітей від 2 років",
+          "description": "**ГРАФІК 12.09.2026 (в центрі Вроцлава IX LO, вул. кс. П. Скарги 31 (в'їзд з вул. Нової):**\n\n• 09:15-10:00: 2-3 роки,\n\n• 10:00-10:45: 3-3,5 роки,\n\n• 10:45-11:45: 3,5-4,5 роки,\n\n• 11:45-12:45: 4,5-6 років,\n\n• 12:45-13:45: 6,5-8,0 років.\n\n**ГРАФІК 18.09.2026 (Липа Піотровська) ZSP26, вул. Цинамонова 40 (вхід шкільний - велика зала на першому поверсі)**\n\n• 17:15-18:00: 3-5 років,\n\n• 18:00-19:00: 6-8 років,\n\n• 19:00-20:00: 9-12 років.\n\n**Шановні батьки:**\n\n• Хочете розвивати мотивацію та впевненість у вашій дитині?\n\n• Хочете покращити інтуїцію та концентрацію вашого малюка?\n\n• Ваша дитина прагне позитивних вражень і не страждає від нудьги?\n\n• Бажаєте покращити фізичну форму та загальну фізичну підготовку вашої дитини?\n\n• Вам важливо знайти для своєї дитини дружбу на все життя через формування"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-13T11:33:24.596982+00:00"
+    },
+    "kreatywne-poranki-w-malumice-warsztaty-malowania-ceramiki-dla-dzieci-i-doros-ych-2026-09-20T11:00:00+02:00": {
+      "title": "Kreatywne poranki w Malumice - warsztaty malowania ceramiki dla dzieci i dorosłych",
+      "date": "2026-09-20T11:00:00+02:00",
+      "end_date": "2026-09-20T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Kreatywne poranki w Malumice to fantastyczna przygoda z malowaniem ceramiki, gdzie dzieci i dorośli mogą puścić wodze wyobraźni i stworzyć coś naprawdę niepowtarzalnego!\n\nPodczas warsztatów zaprezentujemy różne techniki i tematy malowania ceramiki:\n\n• 6 września: malowanie paluszkami,\n\n• 13 września: bazgroły kawaii,\n\n• 20 września: technika bąbelkowa,\n\n• 27 września: ulubione bajki.\n\nWarsztaty to świetna zabawa, eksperymentowanie z kolorem i formą, a przede wszystkim radość tworzenia w twórczej, swobodnej atmosferze. Pomalowane formy zostaną w pracowni do wypalenia w piecu i będą gotowe do odbioru po około 10 dniach.\n\n• Kiedy: każda niedziela we wrześniu, godz. 11:00–13:00.\n\n• Cena: 10 zł plus koszt wybranej formy (średnio 90 zł).\n\n• Wiek dzieci: 6+\n\n• Limit miejsc: 20 osób.\n\nPłatność po warsztatach kartą lub gotówką. Zapisy przyjmujemy w studio, mailowo: [email protected], telefonicznie: 728 401 209 lub przez wiadomość prywatną na Facebooku. Prosimy o podanie następujących informacji: data, liczba osób (dzieci i opiekunowie), imię i nazwisko oraz numer telefonu. Rodzic/opiekun nie musi malować – szczególnie, że młodsze dzieci mogą potrzebować pomocy.\n\nDo zobaczenia!\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-3ced3682ac1100024f9f765357d2562c/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1410541-kreatywne-poranki-w-malumice-warsztaty-malowania-ceramiki-dla-dzieci-i-doroslych",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "MaluMika Władysława Jagiełły 3/5, Wroclaw 50-201",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1410541-kreatywne-poranki-w-malumice-warsztaty-malowania-ceramiki-dla-dzieci-i-doroslych",
+      "scrapped_timestamp": "2026-09-13T11:32:41.345101+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 6,
+        "max": 14
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kreatywne poranki w Malumice - warsztaty malowania ceramiki dla dzieci i dorosłych",
+          "description": "Kreatywne poranki w Malumice to fantastyczna przygoda z malowaniem ceramiki, gdzie dzieci i dorośli mogą puścić wodze wyobraźni i stworzyć coś naprawdę niepowtarzalnego!\n\nPodczas warsztatów zaprezentujemy różne techniki i tematy malowania ceramiki:\n\n• 6 września: malowanie paluszkami,\n\n• 13 września: bazgroły kawaii,\n\n• 20 września: technika bąbelkowa,\n\n• 27 września: ulubione bajki.\n\nWarsztaty to świetna zabawa, eksperymentowanie z kolorem i formą, a przede wszystkim radość tworzenia w twórczej, swobodnej atmosferze. Pomalowane formy zostaną w pracowni do wypalenia w piecu i będą gotowe do odbioru po około 10 dniach.\n\n• Kiedy: każda niedziela we wrześniu, godz. 11:00–13:00.\n\n• Cena: 10 zł plus koszt wybranej formy (średnio 90 zł).\n\n• Wiek dzieci: 6+\n\n• Limit miejsc: 20 osób.\n\nPłatność po warsztatach kartą lub gotówką. Zapisy przyjmujemy w studio, mailowo: [email protected], telefonicznie: 728 401 209 lub przez wiadomość prywatną na Facebooku. Prosimy o podanie następujących informacji: data, liczba osób (dzieci i opiekunowie), imię i nazwisko oraz numer telefonu. Rodzic/opiekun nie musi malować – szczególnie, że młodsze dzieci mogą potrzebować pomocy.\n\nDo zobaczenia!\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Creative Mornings in Malumice - Ceramic Painting Workshops for Children and Adults",
+          "description": "Creative Mornings in Malumice is a fantastic adventure in ceramic painting, where children and adults can unleash their imagination and create something truly unique!\n\nDuring the workshops, we will present various techniques and themes for ceramic painting:\n\n• September 6: Finger painting,\n\n• September 13: Kawaii doodles,\n\n• September 20: Bubble technique,\n\n• September 27: Favorite fairy tales.\n\nThe workshops are great fun, allowing for experimentation with color and form, and above all, the joy of creating in a creative, relaxed atmosphere. The painted pieces will remain in the studio for firing in the kiln and will be ready for pickup in about 10 days.\n\n• When: Every Sunday in September, from 11:00 AM to 1:00 PM.\n\n• Price: 10 PLN plus the cost of the chosen piece (averaging 90 PLN).\n\n• Age of children: 6+\n\n• Limit of places: 20 people.\n\nPayment after"
+        },
+        "uk": {
+          "title": "Креативні ранки в Малумиці - майстер-класи з малювання кераміки для дітей та дорослих",
+          "description": "Креативні ранки в Малумиці - це фантастична пригода з малювання кераміки, де діти та дорослі можуть дати волю своїй уяві та створити щось справді неповторне!\n\nПід час майстер-класів ми продемонструємо різні техніки та теми малювання кераміки:\n\n• 6 вересня: малювання пальцями,\n\n• 13 вересня: каракулі в стилі каваї,\n\n• 20 вересня: бульбашкова техніка,\n\n• 27 вересня: улюблені казки.\n\nМайстер-класи - це чудова розвага, експериментування з кольором і формою, а головне - радість творчості в креативній, вільній атмосфері. Розмальовані форми залишаться в майстерні для випалу в печі і будуть готові до отримання приблизно через 10 днів.\n\n• Коли: кожної неділі у вересні, з 11:00 до 13:00.\n\n• Ціна: 10 зл плюс вартість обраної форми (в середньому 90 зл).\n\n• Вік дітей: 6+\n\n• Ліміт місць: 20 осіб.\n\nОплата після"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-13T11:33:24.597007+00:00"
+    },
+    "g-galoma-w-kosmosie-2026-09-13T12:00:00+02:00": {
+      "title": "Gęgaloma w kosmosie",
+      "date": "2026-09-13T12:00:00+02:00",
+      "end_date": "2026-09-13T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "**Czytanie i warsztaty dla dzieci w wieku 6–12 lat, prowadzenie: Barbara Caturian**\n\nGĘ! Co by było, gdyby Gęś nie tylko opanowała nasze domy, szkoły i cały świat, ale pewnego dnia postanowiła polecieć w kosmos?\n\nZapraszamy dzieci na niezwykłe spotkanie inspirowane książką Wiktora Striboga Gęgaloma w naszych domach. Wspólnie przeczytamy fragmenty książki, zajrzymy do świata, w którym Gęś jest najważniejszą istotą we Wszechświecie, a potem sami spróbujemy stworzyć własne kosmiczne Gęsi. Podczas warsztatów będziemy projektować Gęsi nie z tej Ziemi: mieszkanki odległych planet, podróżniczki międzygwiezdne, Gęsi z księżyców, mgławic i galaktyk, a może nawet takie, które potrafią rozmawiać z gwiazdami!\n\nSpotkanie w Muzeum Etnograficznym, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja@muzeumetnograficzne.pl lub 71 344 33 13 (od poniedziałku do piątku, w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w wydarzeniu.\n\nFot. materiały wydawcy\n\n■ Wydarzenia edukacyjne ➸\n\n■ Fotorelacje edukacyjne ➸",
+      "image": "https://mnwr.pl/wp-content/uploads/2026/08/ME_Gegaloma_publikacja_01.jpg",
+      "url": "https://mnwr.pl/gegaloma-w-kosmosie",
+      "source": "mnwr.pl",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu",
+        "district": "Śródmieście"
+      },
+      "age_hint": "6-12",
+      "scrapped_url": "https://mnwr.pl/gegaloma-w-kosmosie",
+      "scrapped_timestamp": "2026-09-13T11:32:46.293546+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Storytime"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Gęgaloma w kosmosie",
+          "description": "**Czytanie i warsztaty dla dzieci w wieku 6–12 lat, prowadzenie: Barbara Caturian**\n\nGĘ! Co by było, gdyby Gęś nie tylko opanowała nasze domy, szkoły i cały świat, ale pewnego dnia postanowiła polecieć w kosmos?\n\nZapraszamy dzieci na niezwykłe spotkanie inspirowane książką Wiktora Striboga Gęgaloma w naszych domach. Wspólnie przeczytamy fragmenty książki, zajrzymy do świata, w którym Gęś jest najważniejszą istotą we Wszechświecie, a potem sami spróbujemy stworzyć własne kosmiczne Gęsi. Podczas warsztatów będziemy projektować Gęsi nie z tej Ziemi: mieszkanki odległych planet, podróżniczki międzygwiezdne, Gęsi z księżyców, mgławic i galaktyk, a może nawet takie, które potrafią rozmawiać z gwiazdami!\n\nSpotkanie w Muzeum Etnograficznym, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja@muzeumetnograficzne.pl lub 71 344 33 13 (od poniedziałku do piątku, w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w wydarzeniu.\n\nFot. materiały wydawcy\n\n■ Wydarzenia edukacyjne ➸\n\n■ Fotorelacje edukacyjne ➸"
+        },
+        "en": {
+          "title": "Gęgaloma in Space",
+          "description": "**Reading and workshops for children aged 6–12, led by: Barbara Caturian**\n\nGĘ! What if the Goose not only took over our homes, schools, and the whole world, but one day decided to fly into space?\n\nWe invite children to an extraordinary meeting inspired by the book by Wiktor Stribog, Gęgaloma in Our Homes. Together, we will read excerpts from the book, peek into a world where the Goose is the most important being in the Universe, and then we will try to create our own cosmic Geese. During the workshops, we will design Geese from beyond this Earth: inhabitants of distant planets, interstellar travelers, Geese from moons, nebulae, and galaxies, and maybe even those that can talk to the stars!\n\nThe meeting will take place at the Ethnographic Museum, tickets priced at 10 PLN available at the museum's ticket office. Registration at"
+        },
+        "uk": {
+          "title": "Гегаломa в космосі",
+          "description": "**Читання та майстер-класи для дітей віком 6–12 років, веде: Барбара Катуріан**\n\nГЕГ! Що було б, якби Гуска не тільки опанувала наші домівки, школи та весь світ, але одного дня вирішила полетіти в космос?\n\nЗапрошуємо дітей на незвичайну зустріч, натхненну книгою Віктора Стрибога «Гегаломa в наших домівках». Разом ми прочитаємо уривки з книги, зазирнемо у світ, де Гуска є найважливішою істотою у Всесвіті, а потім самі спробуємо створити власні космічні Гуски. Під час майстер-класів ми будемо проектувати Гусок не з цієї Землі: мешканок віддалених планет, міжзоряних мандрівниць, Гусок з місяців, туманностей і галактик, а може навіть таких, які вміють розмовляти з зірками!\n\nЗустріч у Етнографічному музеї, квитки в ціні 10 зл. можна придбати в касі музею. Запис у"
+        }
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-13T11:33:24.597024+00:00"
+    },
+    "bajkowe-poranki-w-centrum-historii-zajezdnia-2026-09-13T10:30:00+02:00": {
+      "title": "Bajkowe Poranki w Centrum Historii Zajezdnia",
+      "date": "2026-09-13T10:30:00+02:00",
+      "end_date": "2026-09-13T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy wszystkie dzieci i rodziców na seanse starych polskich bajek, które co miesiąc odbywają się w sali kinowej Centrum Historii Zajezdnia. Oglądamy dawne hity, bez których dzieci kiedyś nie wyobrażały sobie wieczorynki – „Reksia”, „Bolka i Lolka”, „Przygody Myszki” i inne animacje, tworzone przez Studio Filmów Rysunkowych w Bielsku-Białej. Po seansie uczestnicy biorą udział w warsztatach plastycznych, związanych z tematem wyświetlanej bajki. Widzimy się w Centrum Historii Zajezdnia UWAGA! Bilety muszą zakupić zarówno dzieci, jak i opiekunowie. Nie ma możliwości udziału samego dziecka. Zakupione bilety należy zeskanować w recepcji Centrum Historii Zajezdnia. Z tego powodu prosimy przybyć około 15 minut wcześniej do holu CHZ, aby uniknąć opóźnień w rozpoczęciu seansu.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_970930999_original.jpg",
+      "location": {
+        "name": "Centrum Historii Zajezdnia / Ośrodek Pamięć i Przyszłość (Wrocław-Grabiszyn)",
+        "district": "Fabryczna"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/bajkowe-poranki-w-centrum-historii-zajezdnia/kw/c5-2791495",
+      "source": "naszemiasto.pl",
+      "district": "Fabryczna",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/bajkowe-poranki-w-centrum-historii-zajezdnia/kw/c5-2791495",
+      "scrapped_timestamp": "2026-09-13T11:32:50.715372+00:00",
+      "category": "Cinema",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bajkowe Poranki w Centrum Historii Zajezdnia",
+          "description": "Zapraszamy wszystkie dzieci i rodziców na seanse starych polskich bajek, które co miesiąc odbywają się w sali kinowej Centrum Historii Zajezdnia. Oglądamy dawne hity, bez których dzieci kiedyś nie wyobrażały sobie wieczorynki – „Reksia”, „Bolka i Lolka”, „Przygody Myszki” i inne animacje, tworzone przez Studio Filmów Rysunkowych w Bielsku-Białej. Po seansie uczestnicy biorą udział w warsztatach plastycznych, związanych z tematem wyświetlanej bajki. Widzimy się w Centrum Historii Zajezdnia UWAGA! Bilety muszą zakupić zarówno dzieci, jak i opiekunowie. Nie ma możliwości udziału samego dziecka. Zakupione bilety należy zeskanować w recepcji Centrum Historii Zajezdnia. Z tego powodu prosimy przybyć około 15 minut wcześniej do holu CHZ, aby uniknąć opóźnień w rozpoczęciu seansu."
+        },
+        "en": {
+          "title": "Fairy Tale Mornings at the Zajezdnia History Center",
+          "description": "We invite all children and parents to screenings of old Polish fairy tales, which take place every month in the cinema hall of the Zajezdnia History Center. We watch classic hits that children once couldn't imagine their evenings without – 'Reksio', 'Bolek and Lolek', 'The Adventures of the Mouse', and other animations created by the Animation Film Studio in Bielsko-Biała. After the screening, participants take part in art workshops related to the theme of the displayed fairy tale. We look forward to seeing you at the Zajezdnia History Center. NOTE! Tickets must be purchased for both children and guardians. Children cannot participate alone. Purchased tickets must be scanned at the reception of the Zajezdnia History Center. For this reason, we ask you to arrive about 15 minutes early to the CHZ lobby to avoid delays in starting the screening."
+        },
+        "uk": {
+          "title": "Байкові Ранки в Центрі Історії Заязня",
+          "description": "Запрошуємо всіх дітей та батьків на сеанси старих польських казок, які щомісяця відбуваються в кінозалі Центру Історії Заязня. Дивимося давні хіти, без яких діти колись не уявляли собі вечірки – «Рексік», «Болек і Лолек», «Пригоди Мишки» та інші анімації, створені Студією Фільмів Малюнків у Бельську-Білій. Після сеансу учасники беруть участь у художніх майстернях, пов'язаних з темою показаної казки. Побачимося в Центрі Історії Заязня УВАГА! Квитки повинні придбати як діти, так і опікуни. Немає можливості участі лише дитини. Придбані квитки потрібно відсканувати на рецепції Центру Історії Заязня. З цієї причини просимо прибути приблизно за 15 хвилин до початку сеансу, щоб уникнути затримок."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://biletyna.pl/dla-dzieci/Bajkowe-Poranki-w-Centrum-Historii-Zajezdnia/Wroclaw?utm_source=polskapress&utm_medium=APIv2&utm_campaign=general"
+      },
+      "updated_at": "2026-09-13T11:33:24.597044+00:00"
+    },
+    "stary-cmentarz-ydowski-niedzielne-oprowadzania-2026-09-13T12:00:00+02:00": {
+      "title": "Stary Cmentarz Żydowski – niedzielne oprowadzania",
+      "date": "2026-09-13T12:00:00+02:00",
+      "end_date": "2026-09-13T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cykliczne spacery po Starym Cmentarzu Żydowskim przy ul. Ślężnej 37/39. Obiekt funkcjonuje jako Muzeum Sztuki Cmentarnej i stanowi unikalny zespół rzeźby nagrobnej z przełomu XIX i XX wieku.\n\nGodziny oprowadzań:\n• Kwiecień–Maj: 12:00\n• Czerwiec–Sierpień: 10:00\n• Wrzesień: 12:00\n\nSpacery odbywają się w każdą niedzielę, nie obowiązują zapisy. Wstęp płatny zgodnie z cennikiem biletów (15 PLN/10 PLN).",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/768a1c87-40ba-4f33-894d-5465b091474b/cfb52789-d4ba-4c58-805c-e069c58de08d.jpg",
+      "location": {
+        "name": "Stary Cmentarz Żydowski we Wrocławiu",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/stary-cmentarz-zydowski-niedzielne-oprowadzania-768a1c87-40ba-4f33-894d-5465b091474b",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/stary-cmentarz-zydowski-niedzielne-oprowadzania-768a1c87-40ba-4f33-894d-5465b091474b",
+      "scrapped_timestamp": "2026-09-13T11:32:56.183373+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Stary Cmentarz Żydowski – niedzielne oprowadzania",
+          "description": "Cykliczne spacery po Starym Cmentarzu Żydowskim przy ul. Ślężnej 37/39. Obiekt funkcjonuje jako Muzeum Sztuki Cmentarnej i stanowi unikalny zespół rzeźby nagrobnej z przełomu XIX i XX wieku.\n\nGodziny oprowadzań:\n• Kwiecień–Maj: 12:00\n• Czerwiec–Sierpień: 10:00\n• Wrzesień: 12:00\n\nSpacery odbywają się w każdą niedzielę, nie obowiązują zapisy. Wstęp płatny zgodnie z cennikiem biletów (15 PLN/10 PLN)."
+        },
+        "en": {
+          "title": "Old Jewish Cemetery – Sunday Tours",
+          "description": "Cyclical walks through the Old Jewish Cemetery at 37/39 Ślężna Street. The site operates as the Museum of Cemetery Art and features a unique collection of gravestone sculptures from the turn of the 19th and 20th centuries.\n\nTour hours:\n• April–May: 12:00 PM\n• June–August: 10:00 AM\n• September: 12:00 PM\n\nWalks take place every Sunday, no registration is required. Admission is paid according to the ticket price list (15 PLN/10 PLN)."
+        },
+        "uk": {
+          "title": "Старий єврейський цвинтар – недільні екскурсії",
+          "description": "Циклічні прогулянки по Старому єврейському цвинтарю на вулиці Шленжній 37/39. Об'єкт функціонує як Музей мистецтва цвинтаря і є унікальним ансамблем надгробної скульптури з кінця XIX та початку XX століття.\n\nГодини екскурсій:\n• Квітень–Травень: 12:00\n• Червень–Серпень: 10:00\n• Вересень: 12:00\n\nПрогулянки відбуваються кожної неділі, попередня реєстрація не потрібна. Вхід платний відповідно до прейскуранту квитків (15 PLN/10 PLN)."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-09-13T11:33:24.597064+00:00"
+    },
+    "dni-seniora-wroc-aw-2026-inauguracja-2026-09-18T13:00:00+02:00": {
+      "title": "Dni Seniora Wrocław 2026 – inauguracja",
+      "date": "2026-09-18T13:00:00+02:00",
+      "end_date": "2026-09-18T13:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "18 września 2026 roku wrocławski Rynek – Plac Solny oraz Plac Gołębi – stanie się centrum inauguracji Dni Seniora Wrocław 2026. Wydarzenie to festiwal aktywności, zdrowia, kultury i integracji, promujący ideę, że wiek jest jedynie liczbą, a pasje można realizować na każdym etapie życia.\n\nHarmonogram wydarzenia:\n\nPlac Solny (godz. 13:00–14:30):\n• Bezpłatne badania i konsultacje.\n• Pokazy senioralnych grup tanecznych oraz występy wokalne dzieci i młodzieży.\n• Stanowiska informacyjno-edukacyjne partnerów: Narodowy Fundusz Zdrowia, Zakład Ubezpieczeń Społecznych, Komenda Miejska Policji we Wrocławiu, Stowarzyszenie Aglomeracja Wrocławska, wroclaw.pl, Stowarzyszenie mali bracia Ubogich, Radio Pogoda (studio plenerowe w godz. 12:00–16:00).\n• Stanowiska partnerów strategicznych: FutureMeds, Ośrodek Profilaktyki i Rehabilitacji Creator, Senevida (Grupa Penta Hospitals Polska), Polska Grupa Uzdrowisk Sp. z o.o., Endless Mind.\n• Punkt Informacyjny dla Seniorów WCRS-WCS: wydawanie Wrocławskiej Karty Seniora.\n\nMarsz Kapeluszy (godz. 14:30):\n• Przemarsz wokół Ratusza.\n\nScena na Placu Gołębim (godz. 15:00–16:00):\n• Uroczysta inauguracja z udziałem władz Wrocławia.\n• Wręczenie symbolicznych kluczy do bram miasta Senioralnej Parze Królewskiej.\n• Wręczenie certyfikatów Miejsca Przyjazne Seniorom oraz statuetek Przyjaciel Seniorów.\n• Rozdanie nagród dla laureatów konkursu Kapelusz i kreacja to najlepsza kombinacja! oraz nagród za stylizację łączącą pokolenia.\n\nScena na Placu Gołębim (godz. 16:00–18:00):\n• Prywatka z Radiem Pogoda, którą poprowadzą Zygmunt Chajzer i Joanna Kruk.\n• Koncert Haliny Frąckowiak.\n\nWstęp na wszystkie wydarzenia jest bezpłatny.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/ef1f8480-4b5a-45da-8740-d24fbcad53d6/5141f246-d426-4269-b3a9-a113d0d762d6.jpg",
+      "location": {
+        "name": "Plac Solny, Pl. Solny, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/dni-seniora-wroclaw-2026-inauguracja-ef1f8480-4b5a-45da-8740-d24fbcad53d6",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/dni-seniora-wroclaw-2026-inauguracja-ef1f8480-4b5a-45da-8740-d24fbcad53d6",
+      "scrapped_timestamp": "2026-09-13T11:32:59.802198+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Educational",
+        "Arts"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Dni Seniora Wrocław 2026 – inauguracja",
+          "description": "18 września 2026 roku wrocławski Rynek – Plac Solny oraz Plac Gołębi – stanie się centrum inauguracji Dni Seniora Wrocław 2026. Wydarzenie to festiwal aktywności, zdrowia, kultury i integracji, promujący ideę, że wiek jest jedynie liczbą, a pasje można realizować na każdym etapie życia.\n\nHarmonogram wydarzenia:\n\nPlac Solny (godz. 13:00–14:30):\n• Bezpłatne badania i konsultacje.\n• Pokazy senioralnych grup tanecznych oraz występy wokalne dzieci i młodzieży.\n• Stanowiska informacyjno-edukacyjne partnerów: Narodowy Fundusz Zdrowia, Zakład Ubezpieczeń Społecznych, Komenda Miejska Policji we Wrocławiu, Stowarzyszenie Aglomeracja Wrocławska, wroclaw.pl, Stowarzyszenie mali bracia Ubogich, Radio Pogoda (studio plenerowe w godz. 12:00–16:00).\n• Stanowiska partnerów strategicznych: FutureMeds, Ośrodek Profilaktyki i Rehabilitacji Creator, Senevida (Grupa Penta Hospitals Polska), Polska Grupa Uzdrowisk Sp. z o.o., Endless Mind.\n• Punkt Informacyjny dla Seniorów WCRS-WCS: wydawanie Wrocławskiej Karty Seniora.\n\nMarsz Kapeluszy (godz. 14:30):\n• Przemarsz wokół Ratusza.\n\nScena na Placu Gołębim (godz. 15:00–16:00):\n• Uroczysta inauguracja z udziałem władz Wrocławia.\n• Wręczenie symbolicznych kluczy do bram miasta Senioralnej Parze Królewskiej.\n• Wręczenie certyfikatów Miejsca Przyjazne Seniorom oraz statuetek Przyjaciel Seniorów.\n• Rozdanie nagród dla laureatów konkursu Kapelusz i kreacja to najlepsza kombinacja! oraz nagród za stylizację łączącą pokolenia.\n\nScena na Placu Gołębim (godz. 16:00–18:00):\n• Prywatka z Radiem Pogoda, którą poprowadzą Zygmunt Chajzer i Joanna Kruk.\n• Koncert Haliny Frąckowiak.\n\nWstęp na wszystkie wydarzenia jest bezpłatny."
+        },
+        "en": {
+          "title": "Senior Days Wrocław 2026 – Inauguration",
+          "description": "On September 18, 2026, Wrocław's Market Square – Solny Square and Pigeon Square – will become the center for the inauguration of Senior Days Wrocław 2026. This event is a festival of activity, health, culture, and integration, promoting the idea that age is just a number and that passions can be pursued at any stage of life.\n\nEvent Schedule:\n\nSolny Square (1:00 PM – 2:30 PM):\n• Free health screenings and consultations.\n• Performances by senior dance groups and vocal performances by children and youth.\n• Information and educational booths from partners: National Health Fund, Social Insurance Institution, Municipal Police Headquarters in Wrocław, Wrocław Agglomeration Association, wroclaw.pl, Little Brothers of the Poor Association, Radio Pogoda (outdoor studio from 12:00 PM – 4:00 PM).\n• Booths from strategic partners: FutureMeds, Center"
+        },
+        "uk": {
+          "title": "Дні Сеньйора Вроцлав 2026 – урочисте відкриття",
+          "description": "18 вересня 2026 року вроцлавський Ринок – Площа Сольна та Площа Голубів – стане центром урочистого відкриття Днів Сеньйора Вроцлав 2026. Ця подія є фестивалем активності, здоров'я, культури та інтеграції, що пропагує ідею, що вік – це лише число, а захоплення можна реалізовувати на кожному етапі життя.\n\nГрафік події:\n\nПлоща Сольна (год. 13:00–14:30):\n• Безкоштовні обстеження та консультації.\n• Виступи танцювальних груп для літніх людей та вокальні виступи дітей і молоді.\n• Інформаційно-освітні стенди партнерів: Національний фонд здоров'я, Управління соціального страхування, Міська комендатура поліції у Вроцлаві, Асоціація Аґломерація Вроцлав, wroclaw.pl, Асоціація малі брати Бідних, Радіо Погода (польове студіо з 12:00 до 16:00).\n• Стенди стратегічних партнерів: FutureMeds, Центр"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-13T11:33:24.597084+00:00"
+    },
+    "wielka-ucieczka-zabawek-spektakl-interaktywny-2026-09-26T12:00:00+02:00": {
+      "title": "Wielka Ucieczka Zabawek – spektakl interaktywny",
+      "date": "2026-09-26T12:00:00+02:00",
+      "end_date": "2026-09-26T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Teatralne Centrum Animacji i Wyobraźni dla Dzieci zaprasza na spektakl „Wielka Ucieczka Zabawek”. Przedstawienie opowiada historię Zuzi, która nie dba o swoje zabawki, co prowadzi do ich ucieczki. Spektakl ma charakter edukacyjny i uczy szacunku do przedmiotów oraz dbania o porządek.\n\nSzczegóły wydarzenia:\n• Czas trwania: 60 minut (45 minut spektaklu oraz 15 minut animacji tanecznych)\n• Wiek: 3-7 lat\n• Miejsce: Sala Teatralna w Pałacyku, ul. Tadeusza Kościuszki 34, I piętro, Wrocław\n\nCennik:\n• Bilet ulgowy: 50 zł (dla dziecka)\n• Bilet normalny: 55 zł (dla osoby dorosłej)\n\nRezerwacje i zakup biletów: https://alegria.com.pl/centrum/",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/2b50228e-cd8e-4471-9f6a-e095d34c549f/8fefdd80-8242-4528-862e-c5fdca4223d3.jpg",
+      "location": {
+        "name": "Teatralne Centrum Wyobraźni i Animacji dla Dzieci Wrocław",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/wielka-ucieczka-zabawek-spektakl-interaktywny-2b50228e-cd8e-4471-9f6a-e095d34c549f",
+      "source": "simplygo.pl",
+      "age_hint": "3-7",
+      "age_range": {
+        "min": 3,
+        "max": 7
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/wielka-ucieczka-zabawek-spektakl-interaktywny-2b50228e-cd8e-4471-9f6a-e095d34c549f",
+      "scrapped_timestamp": "2026-09-13T11:33:14.182732+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Wielka Ucieczka Zabawek – spektakl interaktywny",
+          "description": "Teatralne Centrum Animacji i Wyobraźni dla Dzieci zaprasza na spektakl „Wielka Ucieczka Zabawek”. Przedstawienie opowiada historię Zuzi, która nie dba o swoje zabawki, co prowadzi do ich ucieczki. Spektakl ma charakter edukacyjny i uczy szacunku do przedmiotów oraz dbania o porządek.\n\nSzczegóły wydarzenia:\n• Czas trwania: 60 minut (45 minut spektaklu oraz 15 minut animacji tanecznych)\n• Wiek: 3-7 lat\n• Miejsce: Sala Teatralna w Pałacyku, ul. Tadeusza Kościuszki 34, I piętro, Wrocław\n\nCennik:\n• Bilet ulgowy: 50 zł (dla dziecka)\n• Bilet normalny: 55 zł (dla osoby dorosłej)\n\nRezerwacje i zakup biletów: https://alegria.com.pl/centrum/"
+        },
+        "en": {
+          "title": "The Great Toy Escape – Interactive Show",
+          "description": "The Theater Center for Animation and Imagination for Children invites you to the show 'The Great Toy Escape'. The performance tells the story of Zuzia, who does not take care of her toys, leading to their escape. The show is educational and teaches respect for objects and the importance of keeping things tidy.\n\nEvent details:\n• Duration: 60 minutes (45 minutes of the show and 15 minutes of dance animations)\n• Age: 3-7 years\n• Location: Theater Hall in the Palace, Tadeusz Kościuszko Street 34, 1st floor, Wrocław\n\nPricing:\n• Reduced ticket: 50 PLN (for children)\n• Regular ticket: 55 PLN (for adults)\n\nReservations and ticket purchase: https://alegria.com.pl/centrum/"
+        },
+        "uk": {
+          "title": "Велике Втеча Іграшок – інтерактивний спектакль",
+          "description": "Театральний Центр Анімації та Уяви для Дітей запрошує на спектакль «Велике Втеча Іграшок». Вистава розповідає історію Зузі, яка не дбає про свої іграшки, що призводить до їх втечі. Спектакль має освітній характер і вчить поваги до предметів та дбайливого ставлення до порядку.\n\nДеталі події:\n• Тривалість: 60 хвилин (45 хвилин спектаклю та 15 хвилин танцювальної анімації)\n• Вік: 3-7 років\n• Місце: Театральна зала в Палацику, вул. Тадеуша Костюшка 34, I поверх, Вроцлав\n\nЦіни:\n• Пільговий квиток: 50 зл (для дитини)\n• Звичайний квиток: 55 зл (для дорослої особи)\n\nРезервування та купівля квитків: https://alegria.com.pl/centrum/"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-09-13T11:33:24.597125+00:00"
     }
   }
 }

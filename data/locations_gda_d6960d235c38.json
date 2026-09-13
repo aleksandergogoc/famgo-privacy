@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T11:15:00.778066+00:00",
+  "updated_at": "2026-09-13T11:42:07.710190+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -896,6 +896,15 @@
       "lat": 54.326912,
       "lng": 18.6253936,
       "updated_at": "2026-09-11T11:10:55.041668+00:00"
+    },
+    "garnizon": {
+      "name": "Gato, 1, Cypriana Kamila Norwida, Garnizon, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-280, Polska",
+      "district": "Wrzeszcz",
+      "address": "Gato, 1, Cypriana Kamila Norwida, Garnizon, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-280, Polska",
+      "normalized": "garnizon",
+      "lat": 54.3839709,
+      "lng": 18.5936503,
+      "updated_at": "2026-09-13T11:38:00.031465+00:00"
     }
   }
 }

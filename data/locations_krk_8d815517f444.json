@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:42:09.975717+00:00",
+  "updated_at": "2026-09-14T12:37:54.862182+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4090,6 +4090,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-13T11:24:26.009049+00:00"
+    },
+    "kultureska": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "kultureska",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-09-14T12:03:48.425584+00:00"
     }
   }
 }

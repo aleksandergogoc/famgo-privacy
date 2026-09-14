@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:42:06.644106+00:00",
+  "updated_at": "2026-09-14T12:37:52.142668+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1136,6 +1136,24 @@
       "lat": 52.4117097,
       "lng": 16.9280716,
       "updated_at": "2026-09-13T11:40:52.876690+00:00"
+    },
+    "plac pwk": {
+      "name": "Międzynarodowe Targi Poznańskie, Głogowska, Łazarz, Poznań, województwo wielkopolskie, 60-734, Polska",
+      "district": "Grunwald",
+      "address": "Międzynarodowe Targi Poznańskie, Głogowska, Łazarz, Poznań, województwo wielkopolskie, 60-734, Polska",
+      "normalized": "plac pwk",
+      "lat": 52.4032147,
+      "lng": 16.9070454,
+      "updated_at": "2026-09-14T12:36:15.074720+00:00"
+    },
+    "szkoła podstawowa nr 4": {
+      "name": "Szkoła Podstawowa nr 4, ul. Rawicka 12/14",
+      "district": "Grunwald",
+      "address": "Szkoła Podstawowa nr 4, ul. Rawicka 12/14",
+      "normalized": "szkoła podstawowa nr 4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-14T12:37:48.966505+00:00"
     }
   }
 }

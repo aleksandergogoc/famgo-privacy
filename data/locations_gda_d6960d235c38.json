@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T19:28:02.029505+00:00",
+  "updated_at": "2026-09-14T19:43:53.058230+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1382,6 +1382,78 @@
       "lat": 54.3952107,
       "lng": 18.5766389,
       "updated_at": "2026-09-14T19:28:01.928914+00:00"
+    },
+    "gcsw strajku dokerów": {
+      "name": "GCSW Strajku Dokerów",
+      "district": "Dolny Taras",
+      "address": "GCSW Strajku Dokerów",
+      "normalized": "gcsw strajku dokerów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-14T19:43:39.655552+00:00"
+    },
+    "basta center shop": {
+      "name": "Basta Center Shop",
+      "district": "Śródmieście",
+      "address": "Basta Center Shop",
+      "normalized": "basta center shop",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-14T19:43:39.656616+00:00"
+    },
+    "stacja orunia gak": {
+      "name": "Stacja Orunia GAK",
+      "district": "Górny Taras",
+      "address": "Stacja Orunia GAK",
+      "normalized": "stacja orunia gak",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-14T19:43:39.657704+00:00"
+    },
+    "stacja food hall": {
+      "name": "Stacja Food Hall",
+      "district": "Wrzeszcz",
+      "address": "Stacja Food Hall",
+      "normalized": "stacja food hall",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-14T19:43:41.995124+00:00"
+    },
+    "doki1": {
+      "name": "Doki1",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Doki1",
+      "normalized": "doki1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-14T19:43:46.560606+00:00"
+    },
+    "go4robot": {
+      "name": "GO4Robot",
+      "district": "Oliwa",
+      "address": "GO4Robot",
+      "normalized": "go4robot",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-14T19:43:46.561669+00:00"
+    },
+    "mała klinika sztuki": {
+      "name": "Mała Klinika Sztuki",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Mała Klinika Sztuki",
+      "normalized": "mała klinika sztuki",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-14T19:43:47.930932+00:00"
+    },
+    "gcsw jaskółcza": {
+      "name": "GCSW Jaskółcza",
+      "district": "Śródmieście",
+      "address": "GCSW Jaskółcza",
+      "normalized": "gcsw jaskółcza",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-14T19:43:47.932230+00:00"
     }
   }
 }

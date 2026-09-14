@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T11:42:07.710190+00:00",
+  "updated_at": "2026-09-14T16:51:14.265276+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -905,6 +905,177 @@
       "lat": 54.3839709,
       "lng": 18.5936503,
       "updated_at": "2026-09-13T11:38:00.031465+00:00"
+    },
+    "budumi": {
+      "name": "Budumi, 19, Mariana Hemara, Strzyża Dolna, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-280, Polska",
+      "district": "Wrzeszcz",
+      "address": "Budumi, 19, Mariana Hemara, Strzyża Dolna, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-280, Polska",
+      "normalized": "budumi",
+      "lat": 54.3830309,
+      "lng": 18.5926202,
+      "updated_at": "2026-09-14T16:50:26.683835+00:00"
+    },
+    "park oruński": {
+      "name": "Park Oruński im. Emilii Hoene, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, Polska",
+      "district": "Górny Taras",
+      "address": "Park Oruński im. Emilii Hoene, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, Polska",
+      "normalized": "park oruński",
+      "lat": 54.3217356,
+      "lng": 18.6265316,
+      "updated_at": "2026-09-14T16:50:31.009177+00:00"
+    },
+    "pałac opatów": {
+      "name": "Pałac Opatów, 18, Cystersów, Oliwa, Gdańsk, województwo pomorskie, 80-330, Polska",
+      "district": "Oliwa",
+      "address": "Pałac Opatów, 18, Cystersów, Oliwa, Gdańsk, województwo pomorskie, 80-330, Polska",
+      "normalized": "pałac opatów",
+      "lat": 54.4112043,
+      "lng": 18.5604013,
+      "updated_at": "2026-09-14T16:50:33.491371+00:00"
+    },
+    "piwnica romańska": {
+      "name": "Piwnica Romańska, 1, Plac Dominikański, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-884, Polska",
+      "district": "Śródmieście",
+      "address": "Piwnica Romańska, 1, Plac Dominikański, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-884, Polska",
+      "normalized": "piwnica romańska",
+      "lat": 54.3524863,
+      "lng": 18.6517587,
+      "updated_at": "2026-09-14T16:50:35.124210+00:00"
+    },
+    "gedania 1922 gdańsk": {
+      "name": "Gdańsk, województwo pomorskie, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Gdańsk, województwo pomorskie, Polska",
+      "normalized": "gedania 1922 gdańsk",
+      "lat": 54.3706858,
+      "lng": 18.6129831,
+      "updated_at": "2026-09-14T16:50:36.464350+00:00"
+    },
+    "madison": {
+      "name": "Galeria Handlowa Madison, 2, Gnilna, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-847, Polska",
+      "district": "Śródmieście",
+      "address": "Galeria Handlowa Madison, 2, Gnilna, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-847, Polska",
+      "normalized": "madison",
+      "lat": 54.3564352,
+      "lng": 18.6489921,
+      "updated_at": "2026-09-14T16:50:37.806784+00:00"
+    },
+    "błękitny baranek": {
+      "name": "Spichlerz Wisłoujście, 53, Chmielna, Kłodno, Wyspa Spichrzów, Śródmieście, Gdańsk, województwo pomorskie, 80-748, Polska",
+      "district": "Śródmieście",
+      "address": "Spichlerz Wisłoujście, 53, Chmielna, Kłodno, Wyspa Spichrzów, Śródmieście, Gdańsk, województwo pomorskie, 80-748, Polska",
+      "normalized": "błękitny baranek",
+      "lat": 54.34486,
+      "lng": 18.6549998,
+      "updated_at": "2026-09-14T16:50:39.044901+00:00"
+    },
+    "ii wojny światowej": {
+      "name": "Muzeum II Wojny Światowej, 1, Plac Władysława Bartoszewskiego, Wiadrownia, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-862, Polska",
+      "district": "Śródmieście",
+      "address": "Muzeum II Wojny Światowej, 1, Plac Władysława Bartoszewskiego, Wiadrownia, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-862, Polska",
+      "normalized": "ii wojny światowej",
+      "lat": 54.3559415,
+      "lng": 18.6611212,
+      "updated_at": "2026-09-14T16:50:40.432344+00:00"
+    },
+    "centrum sportu gumed": {
+      "name": "Centrum Sportu GUMed, 21, Dębowa, Kolonia Praca, Aniołki, Gdańsk, województwo pomorskie, 80-208, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Centrum Sportu GUMed, 21, Dębowa, Kolonia Praca, Aniołki, Gdańsk, województwo pomorskie, 80-208, Polska",
+      "normalized": "centrum sportu gumed",
+      "lat": 54.3599938,
+      "lng": 18.6252036,
+      "updated_at": "2026-09-14T16:50:41.634186+00:00"
+    },
+    "pływalnia chełm": {
+      "name": "Pływalnia Chełm, 13, Tytusa Chałubińskiego, Chełm A-1, Chełm, Gdańsk, województwo pomorskie, 80-807, Polska",
+      "district": "Górny Taras",
+      "address": "Pływalnia Chełm, 13, Tytusa Chałubińskiego, Chełm A-1, Chełm, Gdańsk, województwo pomorskie, 80-807, Polska",
+      "normalized": "pływalnia chełm",
+      "lat": 54.3398113,
+      "lng": 18.6210841,
+      "updated_at": "2026-09-14T16:50:44.092894+00:00"
+    },
+    "europejskie centrum solidarności plac solidarności 1": {
+      "name": "Europejskie Centrum Solidarności, 1, Plac Solidarności, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "district": "Śródmieście",
+      "address": "Europejskie Centrum Solidarności, 1, Plac Solidarności, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "normalized": "europejskie centrum solidarności plac solidarności 1",
+      "lat": 54.3613609,
+      "lng": 18.6494189,
+      "updated_at": "2026-09-14T16:50:47.872260+00:00"
+    },
+    "mostownia": {
+      "name": "Mostownia, 16, Księdza Leona Miszewskiego, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-233, Polska",
+      "district": "Wrzeszcz",
+      "address": "Mostownia, 16, Księdza Leona Miszewskiego, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-233, Polska",
+      "normalized": "mostownia",
+      "lat": 54.376235,
+      "lng": 18.614084,
+      "updated_at": "2026-09-14T16:50:50.612899+00:00"
+    },
+    "montownia": {
+      "name": "Montownia Fryzur, Aleja Rzeczypospolitej, Przymorze Wielkie, Gdańsk, województwo pomorskie, 80-369, Polska",
+      "district": "Oliwa",
+      "address": "Montownia Fryzur, Aleja Rzeczypospolitej, Przymorze Wielkie, Gdańsk, województwo pomorskie, 80-369, Polska",
+      "normalized": "montownia",
+      "lat": 54.4015457,
+      "lng": 18.5910773,
+      "updated_at": "2026-09-14T16:50:51.890139+00:00"
+    },
+    "stadion żużlowy": {
+      "name": "Stadion Żużlowy im. Zbigniewa Podleckiego, 1, Zawodników, Rudno, Długie Ogrody, Śródmieście, Gdańsk, województwo pomorskie, 80-729, Polska",
+      "district": "Śródmieście",
+      "address": "Stadion Żużlowy im. Zbigniewa Podleckiego, 1, Zawodników, Rudno, Długie Ogrody, Śródmieście, Gdańsk, województwo pomorskie, 80-729, Polska",
+      "normalized": "stadion żużlowy",
+      "lat": 54.3461667,
+      "lng": 18.6714988,
+      "updated_at": "2026-09-14T16:50:53.654374+00:00"
+    },
+    "narodowe": {
+      "name": "Muzeum Narodowe w Gdańsku, 1, Toruńska, Kłodno, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-822, Polska",
+      "district": "Śródmieście",
+      "address": "Muzeum Narodowe w Gdańsku, 1, Toruńska, Kłodno, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-822, Polska",
+      "normalized": "narodowe",
+      "lat": 54.3455536,
+      "lng": 18.6469034,
+      "updated_at": "2026-09-14T16:50:57.420280+00:00"
+    },
+    "polsat plus arena": {
+      "name": "Polsat Plus Arena Gdańsk, Żaglowa, Narwik, Letnica, Gdańsk, województwo pomorskie, 80-560, Polska",
+      "district": "Śródmieście",
+      "address": "Polsat Plus Arena Gdańsk, Żaglowa, Narwik, Letnica, Gdańsk, województwo pomorskie, 80-560, Polska",
+      "normalized": "polsat plus arena",
+      "lat": 54.389956,
+      "lng": 18.640333,
+      "updated_at": "2026-09-14T16:51:00.555361+00:00"
+    },
+    "traugutta 29": {
+      "name": "29, Romualda Traugutta, Aniołki, Gdańsk, województwo pomorskie, 80-221, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "29, Romualda Traugutta, Aniołki, Gdańsk, województwo pomorskie, 80-221, Polska",
+      "normalized": "traugutta 29",
+      "lat": 54.3685403,
+      "lng": 18.6243048,
+      "updated_at": "2026-09-14T16:51:01.873615+00:00"
+    },
+    "miniatura - wrzeszcz": {
+      "name": "Teatr Miniatura, 16, Aleja Grunwaldzka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-236, Polska",
+      "district": "Wrzeszcz",
+      "address": "Teatr Miniatura, 16, Aleja Grunwaldzka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-236, Polska",
+      "normalized": "miniatura - wrzeszcz",
+      "lat": 54.3749961,
+      "lng": 18.6180144,
+      "updated_at": "2026-09-14T16:51:06.802831+00:00"
+    },
+    "nomus": {
+      "name": "NOMUS, 14, Stefana Jaracza, Stare Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "NOMUS, 14, Stefana Jaracza, Stare Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "normalized": "nomus",
+      "lat": 54.363173,
+      "lng": 18.6480478,
+      "updated_at": "2026-09-14T16:51:09.954869+00:00"
     }
   }
 }

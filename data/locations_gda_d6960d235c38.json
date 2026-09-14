@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T16:54:30.600393+00:00",
+  "updated_at": "2026-09-14T19:28:02.029505+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1121,6 +1121,267 @@
       "lat": 54.3952107,
       "lng": 18.5766389,
       "updated_at": "2026-09-14T16:54:26.316423+00:00"
+    },
+    "franciszka rakoczego 11_u3": {
+      "name": "Franciszka Rakoczego, Nowolipie, Siedlce, Gdańsk, województwo pomorskie, 80-163, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Franciszka Rakoczego, Nowolipie, Siedlce, Gdańsk, województwo pomorskie, 80-163, Polska",
+      "normalized": "franciszka rakoczego 11_u3",
+      "lat": 54.3518105,
+      "lng": 18.592062,
+      "updated_at": "2026-09-14T19:27:10.194880+00:00"
+    },
+    "mariana hemara 19": {
+      "name": "Budumi, 19, Mariana Hemara, Strzyża Dolna, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-280, Polska",
+      "district": "Wrzeszcz",
+      "address": "Budumi, 19, Mariana Hemara, Strzyża Dolna, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-280, Polska",
+      "normalized": "mariana hemara 19",
+      "lat": 54.3830309,
+      "lng": 18.5926202,
+      "updated_at": "2026-09-14T19:27:11.862844+00:00"
+    },
+    "pańska 7_8": {
+      "name": "7/8, Pańska, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-884, Polska",
+      "district": "Śródmieście",
+      "address": "7/8, Pańska, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-884, Polska",
+      "normalized": "pańska 7_8",
+      "lat": 54.352174,
+      "lng": 18.6509529,
+      "updated_at": "2026-09-14T19:27:13.106336+00:00"
+    },
+    "raduńska": {
+      "name": "Raduńska, Ptaszniki, Orunia, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, 80-027, Polska",
+      "district": "Górny Taras",
+      "address": "Raduńska, Ptaszniki, Orunia, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, 80-027, Polska",
+      "normalized": "raduńska",
+      "lat": 54.3267686,
+      "lng": 18.6321804,
+      "updated_at": "2026-09-14T19:27:14.372708+00:00"
+    },
+    "dworcowa 9": {
+      "name": "9, Dworcowa, Ptaszniki, Orunia, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, 80-026, Polska",
+      "district": "Górny Taras",
+      "address": "9, Dworcowa, Ptaszniki, Orunia, Orunia - Święty Wojciech - Lipce, Gdańsk, województwo pomorskie, 80-026, Polska",
+      "normalized": "dworcowa 9",
+      "lat": 54.325447,
+      "lng": 18.6339484,
+      "updated_at": "2026-09-14T19:27:15.831634+00:00"
+    },
+    "cystersów 18": {
+      "name": "Pałac Opatów, 18, Cystersów, Oliwa, Gdańsk, województwo pomorskie, 80-330, Polska",
+      "district": "Oliwa",
+      "address": "Pałac Opatów, 18, Cystersów, Oliwa, Gdańsk, województwo pomorskie, 80-330, Polska",
+      "normalized": "cystersów 18",
+      "lat": 54.4112043,
+      "lng": 18.5604013,
+      "updated_at": "2026-09-14T19:27:17.104043+00:00"
+    },
+    "grunwaldzka 197": {
+      "name": "Klub Żak, 195/197, Aleja Grunwaldzka, Strzyża, Gdańsk, województwo pomorskie, 80-266, Polska",
+      "district": "Wrzeszcz",
+      "address": "Klub Żak, 195/197, Aleja Grunwaldzka, Strzyża, Gdańsk, województwo pomorskie, 80-266, Polska",
+      "normalized": "grunwaldzka 197",
+      "lat": 54.3869957,
+      "lng": 18.5922208,
+      "updated_at": "2026-09-14T19:27:18.546330+00:00"
+    },
+    "pl. solidarności 1": {
+      "name": "Europejskie Centrum Solidarności, 1, Plac Solidarności, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "district": "Śródmieście",
+      "address": "Europejskie Centrum Solidarności, 1, Plac Solidarności, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "normalized": "pl. solidarności 1",
+      "lat": 54.3613609,
+      "lng": 18.6494189,
+      "updated_at": "2026-09-14T19:27:19.831021+00:00"
+    },
+    "pl. dominikański 1": {
+      "name": "Piwnica Romańska, 1, Plac Dominikański, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-884, Polska",
+      "district": "Śródmieście",
+      "address": "Piwnica Romańska, 1, Plac Dominikański, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-884, Polska",
+      "normalized": "pl. dominikański 1",
+      "lat": 54.3524863,
+      "lng": 18.6517587,
+      "updated_at": "2026-09-14T19:27:21.039971+00:00"
+    },
+    "gen. józefa hallera 201": {
+      "name": "Smart Lab Centrum Edukacji, 201, Aleja Generała Józefa Hallera, Wrzeszcz Dolny, Gdańsk, województwo pomorskie, 80-416, Polska",
+      "district": "Wrzeszcz",
+      "address": "Smart Lab Centrum Edukacji, 201, Aleja Generała Józefa Hallera, Wrzeszcz Dolny, Gdańsk, województwo pomorskie, 80-416, Polska",
+      "normalized": "gen. józefa hallera 201",
+      "lat": 54.3965585,
+      "lng": 18.6245082,
+      "updated_at": "2026-09-14T19:27:22.803861+00:00"
+    },
+    "rajska 10": {
+      "name": "5àsec, 10, Rajska, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-850, Polska",
+      "district": "Śródmieście",
+      "address": "5àsec, 10, Rajska, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-850, Polska",
+      "normalized": "rajska 10",
+      "lat": 54.3563756,
+      "lng": 18.649435,
+      "updated_at": "2026-09-14T19:27:24.144684+00:00"
+    },
+    "chmielna 53": {
+      "name": "Spichlerz Wisłoujście, 53, Chmielna, Kłodno, Wyspa Spichrzów, Śródmieście, Gdańsk, województwo pomorskie, 80-748, Polska",
+      "district": "Śródmieście",
+      "address": "Spichlerz Wisłoujście, 53, Chmielna, Kłodno, Wyspa Spichrzów, Śródmieście, Gdańsk, województwo pomorskie, 80-748, Polska",
+      "normalized": "chmielna 53",
+      "lat": 54.34486,
+      "lng": 18.6549998,
+      "updated_at": "2026-09-14T19:27:25.420494+00:00"
+    },
+    "władysława bartoszewskiego 1": {
+      "name": "Muzeum II Wojny Światowej, 1, Plac Władysława Bartoszewskiego, Wiadrownia, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-862, Polska",
+      "district": "Śródmieście",
+      "address": "Muzeum II Wojny Światowej, 1, Plac Władysława Bartoszewskiego, Wiadrownia, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-862, Polska",
+      "normalized": "władysława bartoszewskiego 1",
+      "lat": 54.3559415,
+      "lng": 18.6611212,
+      "updated_at": "2026-09-14T19:27:26.856575+00:00"
+    },
+    "dębowa 21": {
+      "name": "Centrum Sportu GUMed, 21, Dębowa, Kolonia Praca, Aniołki, Gdańsk, województwo pomorskie, 80-208, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Centrum Sportu GUMed, 21, Dębowa, Kolonia Praca, Aniołki, Gdańsk, województwo pomorskie, 80-208, Polska",
+      "normalized": "dębowa 21",
+      "lat": 54.3599938,
+      "lng": 18.6252036,
+      "updated_at": "2026-09-14T19:27:28.136767+00:00"
+    },
+    "tytusa chałubińskiego 13": {
+      "name": "13, Tytusa Chałubińskiego, Chełm A-1, Chełm, Gdańsk, województwo pomorskie, 80-807, Polska",
+      "district": "Górny Taras",
+      "address": "13, Tytusa Chałubińskiego, Chełm A-1, Chełm, Gdańsk, województwo pomorskie, 80-807, Polska",
+      "normalized": "tytusa chałubińskiego 13",
+      "lat": 54.3400705,
+      "lng": 18.6229188,
+      "updated_at": "2026-09-14T19:27:31.127686+00:00"
+    },
+    "heleny marusarzówny 2_39": {
+      "name": "Heleny Marusarzówny, D, Migowo, Piecki-Migowo, Gdańsk, województwo pomorskie, 80-288, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Heleny Marusarzówny, D, Migowo, Piecki-Migowo, Gdańsk, województwo pomorskie, 80-288, Polska",
+      "normalized": "heleny marusarzówny 2_39",
+      "lat": 54.3578137,
+      "lng": 18.5764825,
+      "updated_at": "2026-09-14T19:27:34.931873+00:00"
+    },
+    "ks. leona miszewskiego 16": {
+      "name": "Dom Książki, 16, Księdza Leona Miszewskiego, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-239, Polska",
+      "district": "Wrzeszcz",
+      "address": "Dom Książki, 16, Księdza Leona Miszewskiego, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-239, Polska",
+      "normalized": "ks. leona miszewskiego 16",
+      "lat": 54.376281,
+      "lng": 18.6142256,
+      "updated_at": "2026-09-14T19:27:36.690785+00:00"
+    },
+    "lisia grobla 7": {
+      "name": "Montownia Lofts & Experience, 7, Lisia Grobla, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-860, Polska",
+      "district": "Śródmieście",
+      "address": "Montownia Lofts & Experience, 7, Lisia Grobla, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-860, Polska",
+      "normalized": "lisia grobla 7",
+      "lat": 54.35962,
+      "lng": 18.6541817,
+      "updated_at": "2026-09-14T19:27:37.960669+00:00"
+    },
+    "długie ogrody": {
+      "name": "Długie Ogrody, Śródmieście, Gdańsk, województwo pomorskie, 80-761, Polska",
+      "district": "Śródmieście",
+      "address": "Długie Ogrody, Śródmieście, Gdańsk, województwo pomorskie, 80-761, Polska",
+      "normalized": "długie ogrody",
+      "lat": 54.3474495,
+      "lng": 18.6639935,
+      "updated_at": "2026-09-14T19:27:39.729478+00:00"
+    },
+    "toruńska 1": {
+      "name": "Muzeum Narodowe w Gdańsku, 1, Toruńska, Kłodno, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-822, Polska",
+      "district": "Śródmieście",
+      "address": "Muzeum Narodowe w Gdańsku, 1, Toruńska, Kłodno, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-822, Polska",
+      "normalized": "toruńska 1",
+      "lat": 54.3455536,
+      "lng": 18.6469034,
+      "updated_at": "2026-09-14T19:27:43.797694+00:00"
+    },
+    "elektryków 4": {
+      "name": "90B, 4, Elektryków, Drewnica, Młode Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-864, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "90B, 4, Elektryków, Drewnica, Młode Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-864, Polska",
+      "normalized": "elektryków 4",
+      "lat": 54.3646207,
+      "lng": 18.6487515,
+      "updated_at": "2026-09-14T19:27:48.271713+00:00"
+    },
+    "zawodników 1": {
+      "name": "Stadion Żużlowy im. Zbigniewa Podleckiego, 1, Zawodników, Rudno, Długie Ogrody, Śródmieście, Gdańsk, województwo pomorskie, 80-729, Polska",
+      "district": "Śródmieście",
+      "address": "Stadion Żużlowy im. Zbigniewa Podleckiego, 1, Zawodników, Rudno, Długie Ogrody, Śródmieście, Gdańsk, województwo pomorskie, 80-729, Polska",
+      "normalized": "zawodników 1",
+      "lat": 54.3461667,
+      "lng": 18.6714988,
+      "updated_at": "2026-09-14T19:27:50.045553+00:00"
+    },
+    "wita stwosza 81b_2": {
+      "name": "Wita Stwosza, Polanki, Oliwa, Gdańsk, województwo pomorskie, 80-306, Polska",
+      "district": "Oliwa",
+      "address": "Wita Stwosza, Polanki, Oliwa, Gdańsk, województwo pomorskie, 80-306, Polska",
+      "normalized": "wita stwosza 81b_2",
+      "lat": 54.3950714,
+      "lng": 18.5725005,
+      "updated_at": "2026-09-14T19:27:51.328906+00:00"
+    },
+    "grunwaldzka 16": {
+      "name": "Teatr Miniatura, 16, Aleja Grunwaldzka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-236, Polska",
+      "district": "Wrzeszcz",
+      "address": "Teatr Miniatura, 16, Aleja Grunwaldzka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-236, Polska",
+      "normalized": "grunwaldzka 16",
+      "lat": 54.3749961,
+      "lng": 18.6180144,
+      "updated_at": "2026-09-14T19:27:52.738902+00:00"
+    },
+    "jana iii sobieskiego 6a": {
+      "name": "Jana Sobieskiego, Królewska Dolina, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-216, Polska",
+      "district": "Wrzeszcz",
+      "address": "Jana Sobieskiego, Królewska Dolina, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-216, Polska",
+      "normalized": "jana iii sobieskiego 6a",
+      "lat": 54.3614859,
+      "lng": 18.6107836,
+      "updated_at": "2026-09-14T19:27:54.892882+00:00"
+    },
+    "jacka malczewskiego 51": {
+      "name": "51, Jacka Malczewskiego, Siedlce, Gdańsk, województwo pomorskie, 80-107, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "51, Jacka Malczewskiego, Siedlce, Gdańsk, województwo pomorskie, 80-107, Polska",
+      "normalized": "jacka malczewskiego 51",
+      "lat": 54.3479345,
+      "lng": 18.616778,
+      "updated_at": "2026-09-14T19:27:57.618097+00:00"
+    },
+    "ołowianka 9-13": {
+      "name": "Narodowe Muzeum Morskie, 9/13, Ołowianka, Zamczysko, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-751, Polska",
+      "district": "Śródmieście",
+      "address": "Narodowe Muzeum Morskie, 9/13, Ołowianka, Zamczysko, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-751, Polska",
+      "normalized": "ołowianka 9-13",
+      "lat": 54.3512345,
+      "lng": 18.6590379,
+      "updated_at": "2026-09-14T19:27:58.905118+00:00"
+    },
+    "stefana jaracza 14": {
+      "name": "Gdańska Galeria Fotografii, 14, Stefana Jaracza, Stare Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Gdańska Galeria Fotografii, 14, Stefana Jaracza, Stare Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-863, Polska",
+      "normalized": "stefana jaracza 14",
+      "lat": 54.363216,
+      "lng": 18.6478733,
+      "updated_at": "2026-09-14T19:28:00.167988+00:00"
+    },
+    "wita stwosza 59": {
+      "name": "Wydział Biologii UG, 59, Wita Stwosza, Polanki, Oliwa, Gdańsk, województwo pomorskie, 80-308, Polska",
+      "district": "Oliwa",
+      "address": "Wydział Biologii UG, 59, Wita Stwosza, Polanki, Oliwa, Gdańsk, województwo pomorskie, 80-308, Polska",
+      "normalized": "wita stwosza 59",
+      "lat": 54.3952107,
+      "lng": 18.5766389,
+      "updated_at": "2026-09-14T19:28:01.928914+00:00"
     }
   }
 }

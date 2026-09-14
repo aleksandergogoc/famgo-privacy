@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T16:51:14.265276+00:00",
+  "updated_at": "2026-09-14T16:54:30.600393+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1076,6 +1076,51 @@
       "lat": 54.363173,
       "lng": 18.6480478,
       "updated_at": "2026-09-14T16:51:09.954869+00:00"
+    },
+    "zbiornik stary sobieski": {
+      "name": "Zbiornik Wody \"Stary Sobieski\", Romualda Traugutta, Studzienka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-233, Polska",
+      "district": "Wrzeszcz",
+      "address": "Zbiornik Wody \"Stary Sobieski\", Romualda Traugutta, Studzienka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-233, Polska",
+      "normalized": "zbiornik stary sobieski",
+      "lat": 54.3690269,
+      "lng": 18.6169129,
+      "updated_at": "2026-09-14T16:54:17.307958+00:00"
+    },
+    "szekspirowski": {
+      "name": "Gdański Teatr Szekspirowski, 1, Wojciecha Bogusławskiego, Piaskownia, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-818, Polska",
+      "district": "Śródmieście",
+      "address": "Gdański Teatr Szekspirowski, 1, Wojciecha Bogusławskiego, Piaskownia, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-818, Polska",
+      "normalized": "szekspirowski",
+      "lat": 54.3478538,
+      "lng": 18.6479094,
+      "updated_at": "2026-09-14T16:54:19.705274+00:00"
+    },
+    "narodowe muzeum morskie": {
+      "name": "Narodowe Muzeum Morskie, 9/13, Ołowianka, Zamczysko, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-751, Polska",
+      "district": "Śródmieście",
+      "address": "Narodowe Muzeum Morskie, 9/13, Ołowianka, Zamczysko, Ołowianka, Śródmieście, Gdańsk, województwo pomorskie, 80-751, Polska",
+      "normalized": "narodowe muzeum morskie",
+      "lat": 54.3512345,
+      "lng": 18.6590379,
+      "updated_at": "2026-09-14T16:54:22.227031+00:00"
+    },
+    "plac porozumienia gdańskiego 1": {
+      "name": "128A, 1, Plac Porozumienia Gdańskiego, Stocznia Cesarska, Młode Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-958, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "128A, 1, Plac Porozumienia Gdańskiego, Stocznia Cesarska, Młode Miasto, Młyniska, Gdańsk, województwo pomorskie, 80-958, Polska",
+      "normalized": "plac porozumienia gdańskiego 1",
+      "lat": 54.3619364,
+      "lng": 18.6530731,
+      "updated_at": "2026-09-14T16:54:25.101511+00:00"
+    },
+    "wydział biologii ug": {
+      "name": "Wydział Biologii UG, 59, Wita Stwosza, Polanki, Oliwa, Gdańsk, województwo pomorskie, 80-308, Polska",
+      "district": "Oliwa",
+      "address": "Wydział Biologii UG, 59, Wita Stwosza, Polanki, Oliwa, Gdańsk, województwo pomorskie, 80-308, Polska",
+      "normalized": "wydział biologii ug",
+      "lat": 54.3952107,
+      "lng": 18.5766389,
+      "updated_at": "2026-09-14T16:54:26.316423+00:00"
     }
   }
 }

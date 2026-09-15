@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T07:47:22.611742+00:00",
+  "updated_at": "2026-09-15T11:45:51.331082+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4099,6 +4099,15 @@
       "lat": 50.0323915,
       "lng": 19.9633651,
       "updated_at": "2026-09-14T12:03:48.425584+00:00"
+    },
+    "kamedulska 70": {
+      "name": "Kamedulska 70, Kraków",
+      "district": "Zwierzyniec",
+      "address": "Kamedulska 70, Kraków",
+      "normalized": "kamedulska 70",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-15T11:30:09.174681+00:00"
     }
   }
 }

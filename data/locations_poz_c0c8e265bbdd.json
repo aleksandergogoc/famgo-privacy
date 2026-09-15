@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:52:04.172556+00:00",
+  "updated_at": "2026-09-15T08:52:30.200427+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1278,6 +1278,14 @@
       "normalized": "posir chwiałka",
       "updated_at": "2026-09-15T08:52:04.086442+00:00",
       "created_at": "2026-09-15T08:52:04.086442+00:00"
+    },
+    "ul. 27grudnia 3a": {
+      "name": "ul. 27Grudnia 3a",
+      "district": "Stare Miasto",
+      "address": "ul. 27 Grudnia 3a",
+      "normalized": "ul. 27grudnia 3a",
+      "updated_at": "2026-09-15T08:52:30.107588+00:00",
+      "created_at": "2026-09-15T08:52:30.107588+00:00"
     }
   }
 }

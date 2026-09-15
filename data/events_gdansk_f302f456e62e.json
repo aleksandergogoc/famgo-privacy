@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T19:43:49.760393+00:00",
+  "updated_at": "2026-09-15T08:14:09.315262+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-12-01T11:00:00+01:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -6404,20 +6404,17 @@
     },
     "targ-niadaniowy-2026-09-14T09:00:00+02:00": {
       "title": "Targ Śniadaniowy",
-      "date": "2026-09-14T09:00:00+02:00",
-      "end_date": "2026-09-14T09:00:00+02:00",
+      "date": "2026-09-14T07:00:00+00:00",
+      "end_date": "2026-09-13T22:00:00+00:00",
       "startTimeKnown": true,
       "description": "Szanowni Państwo, bardzo milo mi zaprosić Państwa na otwarcie Targu Śniadaniowego w Gdańsku.\n\nZnany projekt, który od 14 lat zmienia weekendowe nawyki Polaków, wraca do Gdańska w zupełnie nowej, spektakularnej odsłonie. Już w maju Targ Śniadaniowy zagości w jednej z najbardziej ikonicznych przestrzeni miasta. Dzięki partnerstwu ze Stocznią Cesarską, inauguracja sezonu oraz regularne weekendowe edycje odbywać się będą na historycznym terenie Stoczni - na skwerze obok budynku Dyrekcji, tuż przy drodze do Wolności.\n\n**Nowy rozdział w historycznej przestrzeni**\n\nTarg Śniadaniowy to coś więcej niż zakupy - to miejska tradycja wspólnych spotkań, nawiązywania nowych relacji, która w tym roku zyskuje wyjątkową oprawę. Partnerstwo ze Stocznią Cesarską pozwala przenieść ideę \"slow\" do miejsca, gdzie bije historyczne serce Gdańska.\n\n\"Jesteśmy dumni, że partnerem tegorocznej edycji jest Stocznia Cesarska. To właśnie na jej terenie, w cieniu zabytkowych dźwigów i historycznej architektury, będziemy budować nową, ożywczą i integrującą przestrzeń dla mieszkańców Gdańska. To idealne połączenie tradycji z nowoczesnym stylem życia\" - podkreślają organizatorzy.\n\n**Lokalne skarby i międzynarodowe marki**\n\nW każdą sobotę i niedzielę (maj-wrzesień) odwiedzający będą mogli zaopatrzyć się w produkty najwyższej jakości bezpośrednio od lokalnych manufaktur i rolników. Stocznia stanie się rynkiem pełnym:\n\n• Produktów od rolników: sezonowych owoców i warzyw, świeżego nabiału oraz jaj z wolnego wybiegu.\n• Rzemieślniczych specjałów: serów od regionalnych serowarów, ryb, wędlin z tradycyjnych wędzarni oraz autorskich przetworów.\n• Śniadaniowej uczty: świeżo parzonej kawy, chrupiącego pieczywa na zakwasie oraz dań z różnych stron świata, przygotowywanych na miejscu.\n\n**Weekend pełen wrażeń dla każdego**\n\nTarg Śniadaniowy na terenie Stoczni Cesarskiej to również bogaty program dodatkowy. Na gości czekają:\n\n• Relaks i sport: joga na świeżym powietrzu, muzyka na żywo i strefa odpoczynku na kocykach.\n• Edukacja i relacje: okazja do rozmów z wytwórcami, warsztaty oraz przestrzeń do nawiązywania nowych znajomości.\n• Strefa rodzinna: dla dzieci przygotowano mini plac zabaw, animacje oraz kreatywne warsztaty.\n\n**Kiedy:** Każdy weekend od maja do września 2026 r.\n\n**Gdzie:** Teren Stoczni Cesarskiej, Gdańsk, ul. Popiełuszki (skwer obok budynku Dyrekcji, przy drodze do Wolności).\n\n**Partner Projektu:** Stocznia Cesarska.\n\n**Wstęp:** Bezpłatny dla wszystkich.\n\nDo zobaczenia już w maju! Śledźcie nasze media społecznościowe i udostępniajcie tę wiadomość. Razem sprawmy, by tegoroczne lato na Stoczni Cesarskiej smakowało wyjątkowo!\n\n**w każdą niedzielę**(do 27.09), godz. **10:00 - 17:00**\n\n**w każdą sobotę**(do 27.09), godz. **9:00 - 16:00**\n\nLinki\n\nInstagram @targsniadaniowygdansk\n\nFacebook @targsniadaniowygdansk\n\nMail(info)  gdansk@targniadaniowy.pl\n\nStrona główna www.targsniadaniowy.pl",
       "image": "https://image.cloudgdansk.pl/w/950/20261779167749.png?v=1789414478",
       "location": {
-        "name": "Plac Porozumienia Gdańskiego 1",
-        "lat": 54.3622553,
-        "lng": 18.6535148,
-        "district": "Gdańsk - Pozostałe"
+        "name": "Plac Porozumienia Gdańskiego 1"
       },
       "url": "https://www.gdansk.pl/wydarzenia/targ-sniadaniowy,w,41844",
       "source": "gdansk.pl",
-      "district": "Gdańsk - Pozostałe",
+      "district": "Śródmieście",
       "scrapped_url": "https://www.gdansk.pl/wydarzenia/targ-sniadaniowy,w,41844",
       "scrapped_timestamp": "2026-09-14T19:43:14.105258+00:00",
       "category": "Family Fun",
@@ -6441,9 +6438,13 @@
         }
       },
       "admission": {
-        "is_free": true
+        "is_free": true,
+        "ticket_url": null
       },
-      "updated_at": "2026-09-14T19:43:49.621520+00:00"
+      "updated_at": "2026-09-15T08:14:09.241269+00:00",
+      "additional_categories": [],
+      "source_url": "https://www.gdansk.pl/wydarzenia/targ-sniadaniowy,w,41844",
+      "featured": false
     },
     "cia-a-ziemi-cia-a-nasze-2026-09-25T11:00:00+02:00": {
       "title": "Ciała ziemi. Ciała nasze",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T12:37:53.391311+00:00",
+  "updated_at": "2026-09-15T07:50:19.465303+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -6325,6 +6325,14 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-14T12:28:35.987729+00:00"
+    },
+    "komediowy": {
+      "name": "Klub Komediowy, ul. Nowowiejska 1, Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Nowowiejska 1",
+      "normalized": "komediowy",
+      "updated_at": "2026-09-15T07:50:19.390668+00:00",
+      "created_at": "2026-09-15T07:50:19.390668+00:00"
     }
   }
 }

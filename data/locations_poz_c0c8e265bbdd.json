@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:50:32.393621+00:00",
+  "updated_at": "2026-09-15T08:51:00.302259+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1254,6 +1254,14 @@
       "normalized": "centrum szyfrów enigma",
       "updated_at": "2026-09-15T08:50:32.302026+00:00",
       "created_at": "2026-09-15T08:50:32.302026+00:00"
+    },
+    "posir malta": {
+      "name": "POSiR Malta, ul. Wiankowa 3 w Poznaniu",
+      "district": "Nowe Miasto",
+      "address": "ul. Wiankowa 3",
+      "normalized": "posir malta",
+      "updated_at": "2026-09-15T08:51:00.205724+00:00",
+      "created_at": "2026-09-15T08:51:00.205724+00:00"
     }
   }
 }

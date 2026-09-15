@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:01:16.976206+00:00",
+  "updated_at": "2026-09-15T08:01:43.829004+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -331,11 +331,12 @@
       "lng": 17.0639117
     },
     "impart centrum": {
+      "name": "Impart Centrum, ul. Piłsudskiego 19, 50-529 Wrocław Zobacz na mapie",
       "district": "Stare Miasto",
-      "address": "Impart Centrum, ul. Piłsudskiego 19, 50-529 Wrocław",
-      "cached_at": "2026-07-17 08:27:00.268000+00:00",
-      "lat": 51.108,
-      "lng": 17.038
+      "address": "ul. Piłsudskiego 19",
+      "normalized": "impart centrum",
+      "updated_at": "2026-09-15T08:01:43.742921+00:00",
+      "created_at": "2026-09-15T08:01:43.742921+00:00"
     },
     "inflancka": {
       "district": "Śródmieście",

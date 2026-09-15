@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:16:28.490708+00:00",
+  "updated_at": "2026-09-15T11:33:56.886370+00:00",
   "events": {
     "biegaj-po-woli-bieg-nocny-2026-09-19": {
       "scrapped_timestamp": "2026-06-23T18:57:17.708340+00:00",
@@ -2017,45 +2017,49 @@
       "updated_at": "2026-07-22T08:57:19.745921+00:00"
     },
     "nawzajem-elektroprzygoda-2026-09-19T10:30:00+02:00": {
-      "title": "NAWZAJEM! Elektroprzygoda",
+      "title": "NAWZAJEM! - Elektroprzygoda",
       "date": "2026-09-19T10:30:00+02:00",
       "end_date": "2026-09-19T10:30:00+02:00",
       "startTimeKnown": true,
-      "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Przestrzenie wewnątrz Centrum Lokalnego Żoliborz są bezprogowe i przyjazne sensorycznie, dostępne są słuchawki wyciszające oraz toaleta dla osób z niepełnosprawnościami.",
-      "url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-elektroprzygoda",
-      "source": "zoliborskidomkultury.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
+      "description": "warsztaty / sobota / 19.09 / 10:30-13:00 / zapisy >> link Warsztaty majsterkowania, podczas których sprawdzimy czy da się zrobić coś z niczego. Przy okazji zajrzymy do środka zepsutych urządzeń, sprawdzimy do czego służą ich części i czy na pewno nadają się tylko do wyrzucenia. Jako materiału użyjemy elektrośmieci, które przynieśli nasi sąsiedzi. Odzyskane elementy zostaną wykorzystane twórczo - powstaną z nich figurki robotów. NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie” i jest finansowany ze środków m.st. Warszawy. Dojazd: - Najbliższy przystanek: Rydygiera (autobusy) – ok. 2 min pieszo, lub Plac Grunwaldzki (tramwaje, autobusy) ok 4 min pieszo - Dojście płaskie, chodnikiem, przed CLŻ droga prosta z drobnym żwirem - Dostępne miejsca parkingowe wzdłuż ul. Rydygiera, w tym miejsce dla osób z niepełnosprawnością - Na budynku Centrum Lokalnego Żoliborz funkcjonuje znacznik ToTuPoint, Dostępność: - w CLŻ jest toaleta dla osób z niepełnosprawnościami - przestrzenie wewnątrz CLŻ są bezprogowe, przyjazne sensorycznie - dostępne na miejscu słuchawki wyciszające. Szczegóły dostępności w Deklaracji Dostępności link Wszystkie wydarzenia w CLŻ są bezpłatne. Na miejscu czeka na Was herbata i kawa, ale miło nam będzie, jeśli przyniesiecie coś do wspólnych zapasów. Zastrzegamy sobie możliwość wprowadzania zmian w harmonogramie lub odwołania wydarzenia.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1030.1784913580.webp",
       "location": {
-        "name": "Żoliborski Dom Kultury, Centrum Lokalne Żoliborz · ul. Ludwika Rydygiera 6b",
+        "name": "Centrum Lokalne Żoliborz, ul. Rydygiera 6b",
         "district": "Żoliborz"
       },
-      "image": "https://api.zdk.teapp.pl/uploads/2026-07/images/1783684547487_kto-w-kompoacie-piszczy-12.jpg",
-      "scrapped_url": "https://zoliborskidomkultury.pl/wydarzenie/nawzajem-elektroprzygoda",
-      "scrapped_timestamp": "2026-09-14T12:20:46.429951+00:00",
+      "url": "https://fb.me/e/8817DRlO6",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://fb.me/e/8817DRlO6",
+      "scrapped_timestamp": "2026-09-15T11:32:16.457863+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "STEM"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "NAWZAJEM! Elektroprzygoda",
-          "description": "NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Przestrzenie wewnątrz Centrum Lokalnego Żoliborz są bezprogowe i przyjazne sensorycznie, dostępne są słuchawki wyciszające oraz toaleta dla osób z niepełnosprawnościami."
+          "title": "NAWZAJEM! - Elektroprzygoda",
+          "description": "warsztaty / sobota / 19.09 / 10:30-13:00 / zapisy >> link Warsztaty majsterkowania, podczas których sprawdzimy czy da się zrobić coś z niczego. Przy okazji zajrzymy do środka zepsutych urządzeń, sprawdzimy do czego służą ich części i czy na pewno nadają się tylko do wyrzucenia. Jako materiału użyjemy elektrośmieci, które przynieśli nasi sąsiedzi. Odzyskane elementy zostaną wykorzystane twórczo - powstaną z nich figurki robotów. NAWZAJEM! to projekt promujący postawy ekologiczne poprzez rozwijanie idei drugiego obiegu i gospodarki cyrkularnej wśród mieszkańców. Chcemy pokazać, że przedmioty nie muszą od razu stawać się odpadami – mogą być naprawiane, używane ponownie i przekazywane dalej. W ten sposób ograniczamy ilość odpadów i realnie dbamy o środowisko. To przestrzeń, w której „ratujemy przedmioty” przed wyrzuceniem, ale też budujemy coś więcej – uczymy się współpracy, wymiany wiedzy i wzajemnego wsparcia. Można powiedzieć, że w tym procesie naprawiamy nie tylko przedmioty, ale i relacje. Projekt jest realizowany w ramach „Funduszu Edukacji Ekologicznej”, wspólnego przedsięwzięcia Biura Ochrony Powietrza i Polityki Klimatycznej oraz Staromiejskiego Domu Kultury. Projekt realizuje także cele edukacyjne Zielonej Wizji Warszawy oraz rekomendacje zawarte w dokumencie „Edukacja kulturalna w Warszawie” i jest finansowany ze środków m.st. Warszawy. Dojazd: - Najbliższy przystanek: Rydygiera (autobusy) – ok. 2 min pieszo, lub Plac Grunwaldzki (tramwaje, autobusy) ok 4 min pieszo - Dojście płaskie, chodnikiem, przed CLŻ droga prosta z drobnym żwirem - Dostępne miejsca parkingowe wzdłuż ul. Rydygiera, w tym miejsce dla osób z niepełnosprawnością - Na budynku Centrum Lokalnego Żoliborz funkcjonuje znacznik ToTuPoint, Dostępność: - w CLŻ jest toaleta dla osób z niepełnosprawnościami - przestrzenie wewnątrz CLŻ są bezprogowe, przyjazne sensorycznie - dostępne na miejscu słuchawki wyciszające. Szczegóły dostępności w Deklaracji Dostępności link Wszystkie wydarzenia w CLŻ są bezpłatne. Na miejscu czeka na Was herbata i kawa, ale miło nam będzie, jeśli przyniesiecie coś do wspólnych zapasów. Zastrzegamy sobie możliwość wprowadzania zmian w harmonogramie lub odwołania wydarzenia."
         },
         "en": {
-          "title": "TOGETHER! Electro-adventure",
-          "description": "TOGETHER! is a project promoting ecological attitudes by developing the idea of a second life and circular economy among residents. We want to show that items do not have to become waste immediately – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. This is a space where we 'rescue items' from being thrown away, but we also build something more – we learn cooperation, knowledge exchange, and mutual support. It can be said that in this process, we repair not only items but also relationships. The spaces inside the Local Center Żoliborz are barrier-free and sensory-friendly, with noise-canceling headphones and accessible restrooms for people with disabilities."
+          "title": "TOGETHER! - Electro Adventure",
+          "description": "workshop / Saturday / 19.09 / 10:30-13:00 / registration >> link A DIY workshop where we will check if it's possible to make something out of nothing. Along the way, we will take a look inside broken devices, examine what their parts are for, and whether they are really only fit for disposal. We will use electronic waste brought by our neighbors as material. The recovered elements will be creatively used to create robot figurines. TOGETHER! is a project promoting ecological attitudes by developing the idea of a second life and circular economy among residents. We want to show that items do not have to immediately become waste – they can be repaired, reused, and passed on. In this way, we reduce the amount of waste and genuinely care for the environment. This is a space where we 'save'"
         },
         "uk": {
-          "title": "NAWZAJEM! Електропригода",
-          "description": "NAWZAJEM! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами - їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому ми \"рятуємо предмети\" від викидання, але також будуємо щось більше - вчимося співпраці, обміну знаннями та взаємної підтримки. Можна сказати, що в цьому процесі ми ремонтуємо не лише предмети, але й стосунки. Простори всередині Центру місцевого Жолібожа безпорогові та чутливі до сенсорних потреб, доступні навушники для приглушення звуку та туалет для осіб з інвалідністю."
+          "title": "NAWZAJEM! - Електропригода",
+          "description": "майстер-класи / субота / 19.09 / 10:30-13:00 / реєстрація >> посилання Майстер-класи з ремонту, під час яких ми перевіримо, чи можна зробити щось з нічого. Заодно заглянемо всередину зламаних пристроїв, перевіримо, для чого слугують їхні частини і чи дійсно вони підходять лише для викидання. Як матеріал ми використаємо електронне сміття, яке принесли наші сусіди. Відновлені елементи будуть використані творчо - з них створять фігурки роботів. NAWZAJEM! - це проект, що пропагує екологічні цінності через розвиток ідеї другого обігу та циркулярної економіки серед мешканців. Ми хочемо показати, що предмети не повинні відразу ставати відходами - їх можна ремонтувати, використовувати повторно та передавати далі. Таким чином, ми обмежуємо кількість відходів і реально дбаємо про навколишнє середовище. Це простір, в якому \"рятуємо"
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Żoliborz",
-      "updated_at": "2026-09-14T12:28:38.335587+00:00"
+      "updated_at": "2026-09-15T11:33:56.682880+00:00"
     },
     "bajka-muzyczna-na-orkiestr-ch-r-i-solist-w-2026-09-19T12:00:00+02:00": {
       "title": "Bajka muzyczna na orkiestrę chór i solistów",
@@ -3085,50 +3089,49 @@
       "updated_at": "2026-08-22T07:30:43.794672+00:00"
     },
     "rodzinna-niedziela-ma-y-teatrzyk-2026-09-20T12:00:00+02:00": {
-      "title": "RODZINNA NIEDZIELA | MAŁY TEATRZYK",
+      "title": "Rodzinna Niedziela – Mały Teatrzyk",
       "date": "2026-09-20T12:00:00+02:00",
       "end_date": "2026-09-20T12:00:00+02:00",
       "startTimeKnown": true,
-      "description": "🎉 Rodzinna Niedziela w Hulakula! 🎉 Szukacie pomysłu na aktywne i pełne atrakcji rodzinne popołudnie? 💚 Już 20 września zapraszamy Was do Hulakula na wyjątkową Rodzinną Niedzielę! 📅 Harmonogram wydarzenia: 🕐 12:00 - Just Dance 💃🕺 Rozruszamy się przy największych hitach i wspólnie zatańczymy! 🕑 13:00 – Mały teatrzyk „Kolba Chemiczna” ✨ Pełne humoru i zabawy przedstawienie, które wprowadzi najmłodszych w świat bajki i zapewni mnóstwo uśmiechu oraz dobrej energii. 🕒 15:00 - Jazda na motocyklach elektrycznych dla dzieci 🏍️⚡ Ta atrakcja dostępna jest dzięki firmie Marko Baby. Aby skorzystać z przejażdżki, dziecko powinno spełniać następujące warunki: ✔️ wiek: 6-14 lat, ✔️ wzrost: 100-160 cm, ✔️ waga: do 65 kg, ✔️ umiejętność samodzielnej jazdy na rowerze. To będzie dzień pełen zabawy, uśmiechu i niezapomnianych wspomnień! 🤩 Zabierzcie rodzinę i spędźcie ten czas razem z nami. 📍 HULAKULA, ul. Jagiellońska 82b, Warszawa 📅 20 września 2026 Do zobaczenia! 💙💚",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1787585716.webp",
+      "description": "Rodzinna Niedziela w Hulakula to wydarzenie pełne atrakcji dla dzieci i rodziców, zaplanowane na 20 września 2026 roku.\n\nHarmonogram:\n• 12:00: Just Dance – wspólny taniec przy największych hitach.\n• 13:00: Mały teatrzyk „Kolba Chemiczna” – przedstawienie dla najmłodszych.\n• 15:00: Jazda na motocyklach elektrycznych dla dzieci (atrakcja dzięki firmie Marko Baby).\n\nWarunki uczestnictwa w przejażdżkach motocyklami:\n• Wiek: 6-14 lat\n• Wzrost: 100-160 cm\n• Waga: do 65 kg\n• Umiejętność samodzielnej jazdy na rowerze\n\nLokalizacja: HULAKULA, ul. Jagiellońska 82b, Warszawa.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/9a0f50af-1545-474c-a503-86c5898455cf/e1b00ee1-ae39-4105-a354-234c6be95126.jpg",
       "location": {
-        "name": "HULAKULA, ul. Jagiellońska 82b",
+        "name": "HULAKULA, ul. Jagiellońska 82b, Warszawa",
         "district": "Praga-Północ"
       },
-      "url": "https://www.facebook.com/events/s/rodzinna-niedziela-2009-start-/1673724770392736/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/s/rodzinna-niedziela-2009-start-/1673724770392736/",
-      "scrapped_timestamp": "2026-09-14T12:21:38.745402+00:00",
-      "category": "Family Fun",
-      "additional_categories": [
-        "Theater",
-        "Music & Dance"
-      ],
+      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/rodzinna-niedziela-maly-teatrzyk-9a0f50af-1545-474c-a503-86c5898455cf",
+      "source": "simplygo.pl",
+      "age_hint": "6-14",
       "age_range": {
         "min": 6,
         "max": 14
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/rodzinna-niedziela-maly-teatrzyk-9a0f50af-1545-474c-a503-86c5898455cf",
+      "scrapped_timestamp": "2026-09-15T11:33:38.921873+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun"
+      ],
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "RODZINNA NIEDZIELA | MAŁY TEATRZYK",
-          "description": "🎉 Rodzinna Niedziela w Hulakula! 🎉 Szukacie pomysłu na aktywne i pełne atrakcji rodzinne popołudnie? 💚 Już 20 września zapraszamy Was do Hulakula na wyjątkową Rodzinną Niedzielę! 📅 Harmonogram wydarzenia: 🕐 12:00 - Just Dance 💃🕺 Rozruszamy się przy największych hitach i wspólnie zatańczymy! 🕑 13:00 – Mały teatrzyk „Kolba Chemiczna” ✨ Pełne humoru i zabawy przedstawienie, które wprowadzi najmłodszych w świat bajki i zapewni mnóstwo uśmiechu oraz dobrej energii. 🕒 15:00 - Jazda na motocyklach elektrycznych dla dzieci 🏍️⚡ Ta atrakcja dostępna jest dzięki firmie Marko Baby. Aby skorzystać z przejażdżki, dziecko powinno spełniać następujące warunki: ✔️ wiek: 6-14 lat, ✔️ wzrost: 100-160 cm, ✔️ waga: do 65 kg, ✔️ umiejętność samodzielnej jazdy na rowerze. To będzie dzień pełen zabawy, uśmiechu i niezapomnianych wspomnień! 🤩 Zabierzcie rodzinę i spędźcie ten czas razem z nami. 📍 HULAKULA, ul. Jagiellońska 82b, Warszawa 📅 20 września 2026 Do zobaczenia! 💙💚"
+          "title": "Rodzinna Niedziela – Mały Teatrzyk",
+          "description": "Rodzinna Niedziela w Hulakula to wydarzenie pełne atrakcji dla dzieci i rodziców, zaplanowane na 20 września 2026 roku.\n\nHarmonogram:\n• 12:00: Just Dance – wspólny taniec przy największych hitach.\n• 13:00: Mały teatrzyk „Kolba Chemiczna” – przedstawienie dla najmłodszych.\n• 15:00: Jazda na motocyklach elektrycznych dla dzieci (atrakcja dzięki firmie Marko Baby).\n\nWarunki uczestnictwa w przejażdżkach motocyklami:\n• Wiek: 6-14 lat\n• Wzrost: 100-160 cm\n• Waga: do 65 kg\n• Umiejętność samodzielnej jazdy na rowerze\n\nLokalizacja: HULAKULA, ul. Jagiellońska 82b, Warszawa."
         },
         "en": {
-          "title": "FAMILY SUNDAY | LITTLE THEATER",
-          "description": "🎉 Family Sunday at Hulakula! 🎉 Are you looking for an idea for an active and fun-filled family afternoon? 💚 On September 20th, we invite you to Hulakula for a special Family Sunday! 📅 Event schedule: 🕐 12:00 - Just Dance 💃🕺 Let's get moving to the biggest hits and dance together! 🕑 13:00 - Little Theater \"Chemical Corn\" ✨ A humorous and fun performance that will introduce the youngest to the world of fairy tales and provide plenty of smiles and good energy. 🕒 15:00 - Electric motorcycle rides for children 🏍️⚡ This attraction is available thanks to Marko Baby. To take a ride, the child must meet the following conditions: ✔️ age: 6-14 years, ✔️ height: 100-160 cm, ✔️ weight: up to 65 kg, ✔️ ability to ride a bicycle independently. It will be a day full of fun, smiles, and..."
+          "title": "Family Sunday – Little Theater",
+          "description": "Family Sunday at Hulakula is an event full of attractions for children and parents, scheduled for September 20, 2026.\n\nSchedule:\n• 12:00: Just Dance – a group dance to the biggest hits.\n• 13:00: Little Theater \"Chemical Corn\" – a performance for the youngest.\n• 15:00: Electric motorcycle rides for children (attraction provided by Marko Baby).\n\nConditions for participating in motorcycle rides:\n• Age: 6-14 years\n• Height: 100-160 cm\n• Weight: up to 65 kg\n• Ability to ride a bicycle independently\n\nLocation: HULAKULA, ul. Jagiellońska 82b, Warsaw."
         },
         "uk": {
-          "title": "СІМЕЙНІ ВИХІДНІ | МАЛИЙ ТЕАТР",
-          "description": "🎉 Сімейні вихідні в Hulakula! 🎉 Шукаєте ідею для активного та насиченого розвагами сімейного післяобіддя? 💚 Вже 20 вересня запрошуємо вас до Hulakula на унікальні Сімейні вихідні! 📅 Розклад події: 🕐 12:00 - Just Dance 💃🕺 Розігріємося під найбільші хіти та разом потанцюємо! 🕑 13:00 – Малий театр \"Хімічний качан\" ✨ Повне гумору та розваг виставу, яка введе найменших у світ казки та забезпечить безліч усмішок і гарної енергії. 🕒 15:00 - Поїздка на електричних мотоциклах для дітей 🏍️⚡ Ця розвага доступна завдяки компанії Marko Baby. Щоб скористатися поїздкою, дитина повинна відповідати наступним умовам: ✔️ вік: 6-14 років, ✔️ зріст: 100-160 см, ✔️ вага: до 65 кг, ✔️ вміння самостійно їздити на велосипеді. Це буде день, наповнений розвагами, усмішками та"
+          "title": "Сімейна неділя – Малий театр",
+          "description": "Сімейна неділя в Хулакула – це подія, наповнена атракціями для дітей та батьків, запланована на 20 вересня 2026 року.\n\nГрафік:\n• 12:00: Just Dance – спільний танець під найбільші хіти.\n• 13:00: Малий театр \"Хімічний качан\" – вистава для найменших.\n• 15:00: Поїздка на електричних мотоциклах для дітей (атракція завдяки компанії Marko Baby).\n\nУмови участі в поїздках на мотоциклах:\n• Вік: 6-14 років\n• Зріст: 100-160 см\n• Вага: до 65 кг\n• Вміння самостійно їздити на велосипеді\n\nЛокація: HULAKULA, вул. Ягеллонська 82b, Варшава."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Praga-Północ",
-      "updated_at": "2026-09-14T12:28:38.335757+00:00"
+      "updated_at": "2026-09-15T11:33:56.683074+00:00"
     },
     "bezp-atny-piknik-rodzinny-i-dzie-otwarty-the-boat-trip-nad-zegrzem-2026-09-30T10:30:00+02:00": {
       "title": "Bezpłatny piknik rodzinny i dzień otwarty The Boat Trip nad Zegrzem",
@@ -6187,45 +6190,50 @@
       "updated_at": "2026-08-31T13:38:42.690467+00:00"
     },
     "bajeczna-fiesta-spektakl-dla-dzieci-2026-09-27T10:00:00+02:00": {
-      "title": "Bajeczna Fiesta / spektakl dla dzieci",
+      "title": "Bajeczna Fiesta – spektakl dla dzieci",
       "date": "2026-09-27T10:00:00+02:00",
       "end_date": "2026-09-27T10:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Barwny, edukacyjny spektakl z przesłaniem ekologicznym dla najmłodszych widzów.",
-      "url": "https://cpk.art.pl/imprezy/bajeczna-fiesta-spektakl-dla-dzieci",
-      "source": "cpk.art.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Theater",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
+      "description": "Interaktywny spektakl Teatru Kultureska łączący edukację ekologiczną z muzyką, tańcem i animacjami. Na scenie wystąpi ekokapela The Jelonband w składzie: Jelonek Bronek, Biedronka Ilonka oraz Pszczółka Julka.\n\nLogistyka:\n• Data: 27 września 2026 (niedziela), godz. 10:00.\n• Wstęp: bezpłatny, obowiązują wejściówki.\n• Dystrybucja wejściówek: od 22 września (wtorek) od godz. 16:00 (limit 5 sztuk na osobę).",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/f9ffd331-b777-4a59-a94d-1a05464c94fe/4a7e5072-2d80-4223-826f-8bfd69b49b36.jpg",
       "location": {
-        "name": "Centrum Promocji Kultury Praga-Południe · ul. Podskarbińska 2",
+        "name": "Centrum Promocji Kultury, ul. Podskarbińska 2, Warszawa",
         "district": "Praga-Południe"
       },
-      "image": "https://cpk.art.pl/wp-content/uploads/2026/08/bajeczna_fiesta_plakat-70-x-100-cm-scaled-e1787134426834.jpg",
-      "scrapped_url": "https://cpk.art.pl/imprezy/bajeczna-fiesta-spektakl-dla-dzieci",
-      "scrapped_timestamp": "2026-09-14T12:20:50.700473+00:00",
+      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/bajeczna-fiesta-spektakl-dla-dzieci-f9ffd331-b777-4a59-a94d-1a05464c94fe",
+      "source": "simplygo.pl",
+      "age_hint": "3-10",
+      "age_range": {
+        "min": 3,
+        "max": 10
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/bajeczna-fiesta-spektakl-dla-dzieci-f9ffd331-b777-4a59-a94d-1a05464c94fe",
+      "scrapped_timestamp": "2026-09-15T11:33:44.868200+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance",
+        "Educational"
+      ],
+      "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Bajeczna Fiesta / spektakl dla dzieci",
-          "description": "Barwny, edukacyjny spektakl z przesłaniem ekologicznym dla najmłodszych widzów."
+          "title": "Bajeczna Fiesta – spektakl dla dzieci",
+          "description": "Interaktywny spektakl Teatru Kultureska łączący edukację ekologiczną z muzyką, tańcem i animacjami. Na scenie wystąpi ekokapela The Jelonband w składzie: Jelonek Bronek, Biedronka Ilonka oraz Pszczółka Julka.\n\nLogistyka:\n• Data: 27 września 2026 (niedziela), godz. 10:00.\n• Wstęp: bezpłatny, obowiązują wejściówki.\n• Dystrybucja wejściówek: od 22 września (wtorek) od godz. 16:00 (limit 5 sztuk na osobę)."
         },
         "en": {
-          "title": "Fairy Tale Fiesta / Show for Children",
-          "description": "A colorful, educational performance with an ecological message for the youngest audience."
+          "title": "Fairy Tale Fiesta – A Show for Children",
+          "description": "An interactive performance by the Kultureska Theatre combining ecological education with music, dance, and animations. The stage will feature the eco-band The Jelonband consisting of: Jelonek Bronek, Biedronka Ilonka, and Pszczółka Julka.\n\nLogistics:\n• Date: September 27, 2026 (Sunday), 10:00 AM.\n• Admission: free, tickets are required.\n• Ticket distribution: starting from September 22 (Tuesday) at 4:00 PM (limit of 5 tickets per person)."
         },
         "uk": {
-          "title": "Байєчна Фієста / спектакль для дітей",
-          "description": "Барвистий, освітній спектакль з екологічним посланням для наймолодших глядачів."
+          "title": "Байєчна Фієста – спектакль для дітей",
+          "description": "Інтерактивний спектакль Театру Культуреска, що поєднує екологічну освіту з музикою, танцем та анімаціями. На сцені виступить еко-капе́ла The Jelonband у складі: Єлоне́к Бронек, Бджілка Ілонка та Пчілка Юлка.\n\nЛогістика:\n• Дата: 27 вересня 2026 року (неділя), о 10:00.\n• Вхід: безкоштовний, діють квитки.\n• Розподіл квитків: з 22 вересня (вівторок) з 16:00 (ліміт 5 штук на особу)."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Praga-Południe",
-      "updated_at": "2026-09-14T12:28:38.335607+00:00"
+      "updated_at": "2026-09-15T11:33:56.683086+00:00"
     },
     "smykofonia-ptasie-trele-na-niedziel-2026-09-27T10:00:00+02:00": {
       "title": "Smykofonia „Ptasie trele na niedzielę”",
@@ -10039,48 +10047,47 @@
       "updated_at": "2026-09-05T18:53:01.827607+00:00"
     },
     "festiwal-m-odych-in-ynier-w-po-udnie-2026-09-19T10:00:00+02:00": {
-      "title": "Festiwal Młodych Inżynierów - Południe",
+      "title": "Festiwal Młodych Inżynierów – Południe",
       "date": "2026-09-19T10:00:00+02:00",
       "end_date": "2026-09-19T10:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Czy nauka może zaskakiwać, bawić i inspirować jednocześnie? Przekonaj się podczas jubileuszowej, 5. edycji Festiwalu Młodych Inżynierów. Z okazji 200-lecia Politechniki Warszawskiej przygotowaliśmy coś szczególnego – aż dwie odsłony FMI: Północną i Południową. To niepowtarzalna okazja, by zajrzeć do świata inżynierii, nowych technologii i nauk ścisłych oraz odkryć, jak fascynujące zjawiska kryją się za rozwiązaniami, z których korzystamy każdego dnia. Na odwiedzających czekać będą dziesiątki interaktywnych stanowisk przygotowanych przez studentów, doktorantów i naukowców. Będzie można samodzielnie eksperymentować, podejmować inżynierskie wyzwania, uczestniczyć w warsztatach, obserwować widowiskowe pokazy i rozmawiać z ludźmi, którzy z pasją tworzą technologie przyszłości. Nie znajdziesz tu długich wykładów ani trudnej teorii. FMI to nauka, której można dotknąć, sprawdzić i doświadczyć. To miejsce, gdzie ciekawość zamienia się w odkrywanie, a zabawa prowadzi do zdobywania wiedzy. Niezależnie od wieku – każdy znajdzie coś dla siebie: od najmłodszych odkrywców po dorosłych pasjonatów nauki i techniki. Przyjdź, eksperymentuj, zadawaj pytania, odkrywaj i daj się zainspirować. Niezależnie od tego, czy marzysz o budowaniu robotów, fascynują Cię kosmos, chemiczne reakcje, nowoczesne materiały czy zagadki matematyczne – podczas Festiwalu Młodych Inżynierów nauka pokaże Ci swoje najbardziej ekscytujące oblicze. Podejmij wyzwanie młodego inżyniera! Odwiedź obie odsłony Festiwalu Młodych Inżynierów – Północną i Południową – a jeśli znajdziesz się w gronie pierwszych 200 uczestników, czeka na Ciebie specjalny inżynierski prezent przygotowany z okazji 200-lecia Politechniki Warszawskiej i 5. edycji FMI. FMI Południe tworzą Wydziały: Inżynierii Materiałowej, Inżynierii Chemicznej i Procesowej, Mechaniczny Technologiczny, Mechatroniki oraz Zarządzania. Szczegóły Więcej informacji",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Fe2782a9c-6395-4d58-b38d-d2692b50673f.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/fd463299-d58a-4dda-ac7c-d7b2cd280890",
-      "source": "gojammin.com",
-      "district": "Mokotów",
+      "description": "Festiwal Młodych Inżynierów (FMI) to jubileuszowa, 5. edycja wydarzenia organizowanego z okazji 200-lecia Politechniki Warszawskiej. W ramach obchodów przygotowano dwie odsłony festiwalu: Północną oraz Południową. To okazja do poznania świata inżynierii, nowoczesnych technologii oraz nauk ścisłych w praktycznym wydaniu.\n\nProgram wydarzenia opiera się na interaktywnym doświadczaniu nauki, z pominięciem długich wykładów czy skomplikowanej teorii. Uczestnicy mogą liczyć na:\n\n• Dziesiątki interaktywnych stanowisk przygotowanych przez studentów, doktorantów i naukowców.\n• Możliwość samodzielnego eksperymentowania i podejmowania inżynierskich wyzwań.\n• Warsztaty oraz widowiskowe pokazy naukowe.\n• Bezpośrednie rozmowy z twórcami technologii przyszłości.\n\nFestiwal jest otwarty dla osób w każdym wieku – od najmłodszych odkrywców po dorosłych pasjonatów nauki i techniki. Niezależnie od zainteresowań, uczestnicy mogą zgłębiać tematykę robotyki, kosmosu, reakcji chemicznych, nowoczesnych materiałów czy zagadek matematycznych.\n\nOrganizatorzy przygotowali specjalny inżynierski prezent dla pierwszych 200 osób, które odwiedzą obie odsłony festiwalu: Północną oraz Południową.\n\nZa przygotowanie FMI Południe odpowiadają następujące wydziały Politechniki Warszawskiej:\n\n• Wydział Inżynierii Materiałowej\n• Wydział Inżynierii Chemicznej i Procesowej\n• Wydział Mechaniczny Technologiczny\n• Wydział Mechatroniki\n• Wydział Zarządzania",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/9f333684-4a2e-449d-a1ea-f057f1f4e974/e897bcbe-9892-45d6-9c58-20d74394c4ee.jpg",
       "location": {
-        "name": "Parking, Wołoska 141/141, 02-507 Warszawa, Poland",
+        "name": "ul. Wołoska 141",
         "district": "Mokotów"
       },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/fd463299-d58a-4dda-ac7c-d7b2cd280890",
-      "scrapped_timestamp": "2026-09-14T12:22:12.030667+00:00",
+      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/festiwal-mlodych-inzynierow-poludnie-9f333684-4a2e-449d-a1ea-f057f1f4e974",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/festiwal-mlodych-inzynierow-poludnie-9f333684-4a2e-449d-a1ea-f057f1f4e974",
+      "scrapped_timestamp": "2026-09-15T11:33:32.529574+00:00",
       "category": "STEM",
       "additional_categories": [
-        "Workshops"
+        "Workshops",
+        "Family Fun"
       ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "outdoor",
+      "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Festiwal Młodych Inżynierów - Południe",
-          "description": "Czy nauka może zaskakiwać, bawić i inspirować jednocześnie? Przekonaj się podczas jubileuszowej, 5. edycji Festiwalu Młodych Inżynierów. Z okazji 200-lecia Politechniki Warszawskiej przygotowaliśmy coś szczególnego – aż dwie odsłony FMI: Północną i Południową. To niepowtarzalna okazja, by zajrzeć do świata inżynierii, nowych technologii i nauk ścisłych oraz odkryć, jak fascynujące zjawiska kryją się za rozwiązaniami, z których korzystamy każdego dnia. Na odwiedzających czekać będą dziesiątki interaktywnych stanowisk przygotowanych przez studentów, doktorantów i naukowców. Będzie można samodzielnie eksperymentować, podejmować inżynierskie wyzwania, uczestniczyć w warsztatach, obserwować widowiskowe pokazy i rozmawiać z ludźmi, którzy z pasją tworzą technologie przyszłości. Nie znajdziesz tu długich wykładów ani trudnej teorii. FMI to nauka, której można dotknąć, sprawdzić i doświadczyć. To miejsce, gdzie ciekawość zamienia się w odkrywanie, a zabawa prowadzi do zdobywania wiedzy. Niezależnie od wieku – każdy znajdzie coś dla siebie: od najmłodszych odkrywców po dorosłych pasjonatów nauki i techniki. Przyjdź, eksperymentuj, zadawaj pytania, odkrywaj i daj się zainspirować. Niezależnie od tego, czy marzysz o budowaniu robotów, fascynują Cię kosmos, chemiczne reakcje, nowoczesne materiały czy zagadki matematyczne – podczas Festiwalu Młodych Inżynierów nauka pokaże Ci swoje najbardziej ekscytujące oblicze. Podejmij wyzwanie młodego inżyniera! Odwiedź obie odsłony Festiwalu Młodych Inżynierów – Północną i Południową – a jeśli znajdziesz się w gronie pierwszych 200 uczestników, czeka na Ciebie specjalny inżynierski prezent przygotowany z okazji 200-lecia Politechniki Warszawskiej i 5. edycji FMI. FMI Południe tworzą Wydziały: Inżynierii Materiałowej, Inżynierii Chemicznej i Procesowej, Mechaniczny Technologiczny, Mechatroniki oraz Zarządzania. Szczegóły Więcej informacji"
+          "title": "Festiwal Młodych Inżynierów – Południe",
+          "description": "Festiwal Młodych Inżynierów (FMI) to jubileuszowa, 5. edycja wydarzenia organizowanego z okazji 200-lecia Politechniki Warszawskiej. W ramach obchodów przygotowano dwie odsłony festiwalu: Północną oraz Południową. To okazja do poznania świata inżynierii, nowoczesnych technologii oraz nauk ścisłych w praktycznym wydaniu.\n\nProgram wydarzenia opiera się na interaktywnym doświadczaniu nauki, z pominięciem długich wykładów czy skomplikowanej teorii. Uczestnicy mogą liczyć na:\n\n• Dziesiątki interaktywnych stanowisk przygotowanych przez studentów, doktorantów i naukowców.\n• Możliwość samodzielnego eksperymentowania i podejmowania inżynierskich wyzwań.\n• Warsztaty oraz widowiskowe pokazy naukowe.\n• Bezpośrednie rozmowy z twórcami technologii przyszłości.\n\nFestiwal jest otwarty dla osób w każdym wieku – od najmłodszych odkrywców po dorosłych pasjonatów nauki i techniki. Niezależnie od zainteresowań, uczestnicy mogą zgłębiać tematykę robotyki, kosmosu, reakcji chemicznych, nowoczesnych materiałów czy zagadek matematycznych.\n\nOrganizatorzy przygotowali specjalny inżynierski prezent dla pierwszych 200 osób, które odwiedzą obie odsłony festiwalu: Północną oraz Południową.\n\nZa przygotowanie FMI Południe odpowiadają następujące wydziały Politechniki Warszawskiej:\n\n• Wydział Inżynierii Materiałowej\n• Wydział Inżynierii Chemicznej i Procesowej\n• Wydział Mechaniczny Technologiczny\n• Wydział Mechatroniki\n• Wydział Zarządzania"
         },
         "en": {
-          "title": "Young Engineers Festival - South",
-          "description": "Can science surprise, entertain, and inspire at the same time? Find out during the jubilee, 5th edition of the Young Engineers Festival. On the occasion of the 200th anniversary of the Warsaw University of Technology, we have prepared something special – two editions of the festival: Northern and Southern. This is a unique opportunity to peek into the world of engineering, new technologies, and exact sciences, and discover the fascinating phenomena behind the solutions we use every day. Visitors will find dozens of interactive stations prepared by students, PhD candidates, and researchers. You will be able to experiment on your own, take on engineering challenges, participate in workshops, observe spectacular demonstrations, and talk to people who passionately create the technologies of the future."
+          "title": "Young Engineers Festival – South",
+          "description": "The Young Engineers Festival (YEF) is the jubilee, 5th edition of the event organized to celebrate the 200th anniversary of the Warsaw University of Technology. As part of the celebrations, two editions of the festival have been prepared: Northern and Southern. It is an opportunity to explore the world of engineering, modern technologies, and exact sciences in a practical way.\n\nThe event program is based on interactive science experiences, avoiding long lectures or complicated theories. Participants can expect:\n\n• Dozens of interactive stations prepared by students, PhD candidates, and researchers.\n• The opportunity to experiment independently and take on engineering challenges.\n• Workshops and spectacular science shows.\n• Direct conversations with creators of future technologies.\n\nThe festival is open to individuals of all ages."
         },
         "uk": {
-          "title": "Фестиваль молодих інженерів - Південь",
-          "description": "Чи може наука дивувати, розважати та надихати одночасно? Переконайтеся в цьому під час ювілейного, 5-го видання Фестивалю молодих інженерів. З нагоди 200-річчя Варшавської політехніки ми підготували щось особливе – аж дві частини FMI: Північну та Південну. Це неповторна можливість заглянути у світ інженерії, нових технологій та точних наук, а також відкрити, які захоплюючі явища приховані за рішеннями, якими ми користуємося щодня. На відвідувачів чекатимуть десятки інтерактивних стендів, підготовлених студентами, аспірантами та науковцями. Буде можливість самостійно експериментувати, брати участь в інженерних викликах, відвідувати майстер-класи, спостерігати за видовищними показами та спілкуватися з людьми, які з пристрастю створюють технології майбутнього."
+          "title": "Фестиваль молодих інженерів – Південь",
+          "description": "Фестиваль молодих інженерів (ФМІ) – це ювілейна, 5-та редакція заходу, організованого з нагоди 200-річчя Варшавської політехніки. У рамках святкування підготовлено дві частини фестивалю: Північну та Південну. Це можливість познайомитися зі світом інженерії, сучасних технологій та точних наук у практичному виконанні.\n\nПрограма заходу базується на інтерактивному досвіді науки, без довгих лекцій чи складної теорії. Учасники можуть розраховувати на:\n\n• Десятки інтерактивних стендів, підготовлених студентами, аспірантами та науковцями.\n• Можливість самостійно експериментувати та брати участь в інженерних викликах.\n• Майстер-класи та видовищні наукові шоу.\n• Прямі розмови з творцями технологій майбутнього.\n\nФестиваль відкритий для осіб будь-якого віку."
         }
       },
       "admission": {
         "is_free": true
       },
-      "updated_at": "2026-09-14T12:28:38.335872+00:00"
+      "district": "Mokotów",
+      "updated_at": "2026-09-15T11:33:56.683063+00:00"
     },
     "fantazja-card-show-targi-kart-kolekcjonerskich-2026-09-19T10:00:00+02:00": {
       "title": "Fantazja Card Show – targi kart kolekcjonerskich",
@@ -12794,49 +12801,46 @@
       "updated_at": "2026-09-08T11:04:46.196018+00:00"
     },
     "xxiv-festiwal-nauka-z-pa-acem-w-tle-2026-09-19T11:00:00+02:00": {
-      "title": "XXIV Festiwal Nauka z Pałacem w tle",
+      "title": "XXIV Festiwal \"Nauka z Pałacem w tle\"",
       "date": "2026-09-19T11:00:00+02:00",
       "end_date": "2026-09-19T11:00:00+02:00",
       "startTimeKnown": true,
-      "description": "XXIV Festiwal Nauka z Pałacem w tle to dwudniowe święto nauki organizowane przez Dom Zjazdów i Konferencji Polskiej Akademii Nauk w Pałacu w Jabłonnie. Wydarzenie, odbywające się pod honorowym patronatem Prezesa Polskiej Akademii Nauk, Marszałka Województwa Mazowieckiego, Starosty Legionowskiego, Wójta Gminy Jabłonna oraz Prezesa Zarządu Mazowieckiej Regionalnej Organizacji Turystycznej, ma na celu popularyzację osiągnięć naukowych wśród dzieci, młodzieży, dorosłych oraz seniorów.\n\nUczestnicy mogą wziąć udział w wykładach, warsztatach, pokazach i eksperymentach, które przybliżają naukę w przystępny i inspirujący sposób. Festiwal jest bezpłatny i otwarty dla wszystkich zainteresowanych.\n\nTermin i miejsce:\n• 19-20 września, godz. 11:00-17:00\n• Teren parku i Pałac w Jabłonnie\n\nTematyka festiwalu obejmuje m.in.:\n• Sztuczną inteligencję\n• Funkcjonowanie mikrobiomów\n• Promieniowanie UV\n• Wiedzę o wszechświecie\n• Wędrówki ludzi, zwierząt i roślin\n• Zagadki i rekonstrukcje archeologiczne\n• Pochodzenie nazwisk\n• Ekologię i ochronę środowiska\n\nDodatkowe atrakcje:\n• Wernisaż wystawy w Galerii Sztuki Współczesnej Oranżeria\n• Koncert z cyklu Pałacowe Spotkania z Muzyką\n• Warsztaty plastyczne dla najmłodszych\n• Blok zajęć dedykowany seniorom\n\nSzczegółowy program wydarzenia dostępny jest pod linkiem:\nhttps://palacjablonna.hotelsystems.pl/up/files/Program A4(1).pdf",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/54bf6ef5-062f-426b-ae6b-8804fc82bec8/aa60f53a-fc98-47bc-a75e-5128409ae4f0.jpg",
+      "description": "Zapraszamy do udziału w XXIV Festiwal „Nauka z Pałacem w tle” organizowanym przez Dom Zjazdów i Konferencji Polskiej Akademii Nauk (Pałac w Jabłonnie). W tym roku po raz dwudziesty czwarty Pałac w Jabłonnie będzie organizatorem Festiwalu „Nauka z Pałacem w tle” odbywającego się pod honorowym patronatem Prezesa Polskiej Akademii Nauk, Marszałka Województwa Mazowieckiego, Starosty Legionowskiego, Wójta Gminy Jabłonna oraz Prezesa Zarządu Mazowieckiej Regionalnej Organizacji Turystycznej. Dwudniowe święto nauki odbędzie się 19 i 20 września w godzinach 11.00-17.00 na terenie parku i Pałacu w Jabłonnie. Celem Festiwalu jest popularyzacja polskich osiągnieć naukowych wśród dzieci, młodzieży i dorosłych. Atrakcyjna formuła dwudniowego wydarzenia pozwala uczestnikom zarówno poznać i zrozumieć różne dziedziny nauki, ale także zaangażować uczestników w prowadzone eksperymenty i doświadczenia. Wierzymy, że zaproszeni naukowcy i eksperci w atmosferze zabawy, w bezpośrednim kontakcie z młodzieżą pokażą, że nauka nie jest trudna oraz że może być ciekawa i inspirująca. Organizowany przez nas Festiwal Nauki od lat cieszy się ogromnym zainteresowaniem i uznaniem wśród mieszkańców powiatu legionowskiego, północnej części Mazowsza oraz Warszawy. Co roku odwiedza nas ponad 3 000 osób aktywnie uczestniczących w prowadzonych zajęciach, wykładach, doświadczeniach i pokazach. Podobnie jak w ubiegłym roku zaplanowaliśmy wiele atrakcji naukowych dla wszystkich odwiedzających Festiwal gości. Wśród wystawców obok instytutów naukowych Polskiej Akademii Nauk z bardzo ciekawą propozycją warsztatów i wykładów, pojawią uczelnie wyższe i instytucje, które opowiedzą o wszystkich najciekawszych i najnowszych zagadnieniach naukowych i technologicznych wykorzystywanych w codziennym życiu. W trakcie Festiwalu będziemy mówić o bardzo aktualnych tematach jak: sztuczna inteligencja, funkcjonowanie mikrobiomów w naszych organizmach, promieniowaniu UV, wiedza o wszechświecie, o wędrówkach ludzi, zwierząt i roślin, zagadki i rekonstrukcje archeologiczne, pochodzenie nazwisk i wiele innych niezwykle ciekawych tematów przedstawionych za pomocą eksperymentów, obserwacji mikroskopowych, pokazów i warsztatów. Będzie wiele niespodzianek dla dzieci, młodzieży i dorosłych. Po raz kolejny przygotujemy blok zajęć dla seniorów. Nie zabraknie również solidnej dawki wiedzy o środowisku naturalnym, przyrodzie i ekologii oraz warsztatów plastycznych dla najmłodszych. Jak co roku odbędzie się wernisaż wystawy w Galerii Sztuki Współczesnej „Oranżeria” a także koncert z cyklu Pałacowe Spotkania z Muzyką. Wydarzenie jest bezpłatne i dostępne dla wszystkich odwiedzających, mieszkańców powiatu legionowskiego, Mazowsza i gości z całego kraju. PROGRAM FESTIWALU  >> link Do zobaczenia w Pałacu w Jabłonnie!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1788792076.webp",
       "location": {
-        "name": "Pałac w Jabłonnie, Modlińska 105, Jabłonna, Warszawa",
-        "district": "Białołęka"
+        "name": "Pałac w Jabłonnie, Modlińska 105, Jabłonna",
+        "district": "okolice Warszawy"
       },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/xxiv-festiwal-nauka-z-palacem-w-tle-54bf6ef5-062f-426b-ae6b-8804fc82bec8",
-      "source": "simplygo.pl",
-      "age_hint": "3-18",
+      "url": "https://www.palacjablonna.pl/aktualnosci",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.palacjablonna.pl/aktualnosci",
+      "scrapped_timestamp": "2026-09-15T11:32:32.433773+00:00",
+      "category": "Educational",
       "age_range": {
         "min": 3,
-        "max": 18
+        "max": 12
       },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/xxiv-festiwal-nauka-z-palacem-w-tle-54bf6ef5-062f-426b-ae6b-8804fc82bec8",
-      "scrapped_timestamp": "2026-09-14T12:24:08.043626+00:00",
-      "category": "STEM",
-      "additional_categories": [
-        "Workshops"
-      ],
       "location_type": "outdoor",
       "translations": {
         "pl": {
-          "title": "XXIV Festiwal Nauka z Pałacem w tle",
-          "description": "XXIV Festiwal Nauka z Pałacem w tle to dwudniowe święto nauki organizowane przez Dom Zjazdów i Konferencji Polskiej Akademii Nauk w Pałacu w Jabłonnie. Wydarzenie, odbywające się pod honorowym patronatem Prezesa Polskiej Akademii Nauk, Marszałka Województwa Mazowieckiego, Starosty Legionowskiego, Wójta Gminy Jabłonna oraz Prezesa Zarządu Mazowieckiej Regionalnej Organizacji Turystycznej, ma na celu popularyzację osiągnięć naukowych wśród dzieci, młodzieży, dorosłych oraz seniorów.\n\nUczestnicy mogą wziąć udział w wykładach, warsztatach, pokazach i eksperymentach, które przybliżają naukę w przystępny i inspirujący sposób. Festiwal jest bezpłatny i otwarty dla wszystkich zainteresowanych.\n\nTermin i miejsce:\n• 19-20 września, godz. 11:00-17:00\n• Teren parku i Pałac w Jabłonnie\n\nTematyka festiwalu obejmuje m.in.:\n• Sztuczną inteligencję\n• Funkcjonowanie mikrobiomów\n• Promieniowanie UV\n• Wiedzę o wszechświecie\n• Wędrówki ludzi, zwierząt i roślin\n• Zagadki i rekonstrukcje archeologiczne\n• Pochodzenie nazwisk\n• Ekologię i ochronę środowiska\n\nDodatkowe atrakcje:\n• Wernisaż wystawy w Galerii Sztuki Współczesnej Oranżeria\n• Koncert z cyklu Pałacowe Spotkania z Muzyką\n• Warsztaty plastyczne dla najmłodszych\n• Blok zajęć dedykowany seniorom\n\nSzczegółowy program wydarzenia dostępny jest pod linkiem:\nhttps://palacjablonna.hotelsystems.pl/up/files/Program A4(1).pdf"
+          "title": "XXIV Festiwal \"Nauka z Pałacem w tle\"",
+          "description": "Zapraszamy do udziału w XXIV Festiwal „Nauka z Pałacem w tle” organizowanym przez Dom Zjazdów i Konferencji Polskiej Akademii Nauk (Pałac w Jabłonnie). W tym roku po raz dwudziesty czwarty Pałac w Jabłonnie będzie organizatorem Festiwalu „Nauka z Pałacem w tle” odbywającego się pod honorowym patronatem Prezesa Polskiej Akademii Nauk, Marszałka Województwa Mazowieckiego, Starosty Legionowskiego, Wójta Gminy Jabłonna oraz Prezesa Zarządu Mazowieckiej Regionalnej Organizacji Turystycznej. Dwudniowe święto nauki odbędzie się 19 i 20 września w godzinach 11.00-17.00 na terenie parku i Pałacu w Jabłonnie. Celem Festiwalu jest popularyzacja polskich osiągnieć naukowych wśród dzieci, młodzieży i dorosłych. Atrakcyjna formuła dwudniowego wydarzenia pozwala uczestnikom zarówno poznać i zrozumieć różne dziedziny nauki, ale także zaangażować uczestników w prowadzone eksperymenty i doświadczenia. Wierzymy, że zaproszeni naukowcy i eksperci w atmosferze zabawy, w bezpośrednim kontakcie z młodzieżą pokażą, że nauka nie jest trudna oraz że może być ciekawa i inspirująca. Organizowany przez nas Festiwal Nauki od lat cieszy się ogromnym zainteresowaniem i uznaniem wśród mieszkańców powiatu legionowskiego, północnej części Mazowsza oraz Warszawy. Co roku odwiedza nas ponad 3 000 osób aktywnie uczestniczących w prowadzonych zajęciach, wykładach, doświadczeniach i pokazach. Podobnie jak w ubiegłym roku zaplanowaliśmy wiele atrakcji naukowych dla wszystkich odwiedzających Festiwal gości. Wśród wystawców obok instytutów naukowych Polskiej Akademii Nauk z bardzo ciekawą propozycją warsztatów i wykładów, pojawią uczelnie wyższe i instytucje, które opowiedzą o wszystkich najciekawszych i najnowszych zagadnieniach naukowych i technologicznych wykorzystywanych w codziennym życiu. W trakcie Festiwalu będziemy mówić o bardzo aktualnych tematach jak: sztuczna inteligencja, funkcjonowanie mikrobiomów w naszych organizmach, promieniowaniu UV, wiedza o wszechświecie, o wędrówkach ludzi, zwierząt i roślin, zagadki i rekonstrukcje archeologiczne, pochodzenie nazwisk i wiele innych niezwykle ciekawych tematów przedstawionych za pomocą eksperymentów, obserwacji mikroskopowych, pokazów i warsztatów. Będzie wiele niespodzianek dla dzieci, młodzieży i dorosłych. Po raz kolejny przygotujemy blok zajęć dla seniorów. Nie zabraknie również solidnej dawki wiedzy o środowisku naturalnym, przyrodzie i ekologii oraz warsztatów plastycznych dla najmłodszych. Jak co roku odbędzie się wernisaż wystawy w Galerii Sztuki Współczesnej „Oranżeria” a także koncert z cyklu Pałacowe Spotkania z Muzyką. Wydarzenie jest bezpłatne i dostępne dla wszystkich odwiedzających, mieszkańców powiatu legionowskiego, Mazowsza i gości z całego kraju. PROGRAM FESTIWALU  >> link Do zobaczenia w Pałacu w Jabłonnie!"
         },
         "en": {
-          "title": "XXIV Festival Science with the Palace in the Background",
-          "description": "The XXIV Festival Science with the Palace in the Background is a two-day celebration of science organized by the Conference and Convention Center of the Polish Academy of Sciences at the Palace in Jabłonna. The event, held under the honorary patronage of the President of the Polish Academy of Sciences, the Marshal of the Masovian Voivodeship, the Starost of Legionowo, the Mayor of Jabłonna, and the President of the Board of the Masovian Regional Tourist Organization, aims to popularize scientific achievements among children, youth, adults, and seniors.\n\nParticipants can take part in lectures, workshops, demonstrations, and experiments that present science in an accessible and inspiring way. The festival is free and open to all interested.\n\nDate and location:\n• September 19-20, from 11:00 AM to 5:00 PM\n• Park area and Palace in Jabłonna"
+          "title": "XXIV Festival 'Science with the Palace in the Background'",
+          "description": "We invite you to participate in the XXIV Festival 'Science with the Palace in the Background' organized by the Conference and Meeting Center of the Polish Academy of Sciences (Palace in Jabłonna). This year, for the twenty-fourth time, the Palace in Jabłonna will host the Festival 'Science with the Palace in the Background', held under the honorary patronage of the President of the Polish Academy of Sciences, the Marshal of the Mazowieckie Voivodeship, the Starost of Legionowo, the Mayor of Jabłonna, and the President of the Board of the Mazovian Regional Tourist Organization. This two-day celebration of science will take place on September 19 and 20 from 11:00 AM to 5:00 PM in the park and Palace in Jabłonna. The aim of the Festival is to popularize Polish scientific achievements among children, youth, and adults. The attractive format of the two-day event allows participants to both learn about and understand various scientific topics."
         },
         "uk": {
-          "title": "XXIV Фестиваль Наука з Палацом на фоні",
-          "description": "XXIV Фестиваль Наука з Палацом на фоні - це двохденне свято науки, організоване Домом З'їздів та Конференцій Польської Академії Наук у Палаці в Яблонні. Подія, що проходить під почесним патронатом Президента Польської Академії Наук, Маршалка Мазовецького воєводства, Старости Легіоновського, Сільського голови Гміни Яблонна та Президента Правління Мазовецької Регіональної Туристичної Організації, має на меті популяризацію наукових досягнень серед дітей, молоді, дорослих та літніх людей.\n\nУчасники можуть взяти участь у лекціях, майстер-класах, показах та експериментах, які наближають науку в доступний та надихаючий спосіб. Фестиваль безкоштовний і відкритий для всіх зацікавлених.\n\nДата та місце:\n• 19-20 вересня, з 11:00 до 17:00\n• Територія парку та Палац в Яблонні\n\nТематика фестивалю"
+          "title": "XXIV Фестиваль \"Наука з Палацом на фоні\"",
+          "description": "Запрошуємо до участі в XXIV Фестивалі \"Наука з Палацом на фоні\", організованому Домом З'їздів та Конференцій Польської Академії Наук (Палац у Яблонні). Цього року вперше за двадцять четвертий раз Палац у Яблонні буде організатором Фестивалю \"Наука з Палацом на фоні\", що проходить під почесним патронатом Президента Польської Академії Наук, Маршалка Мазовецького воєводства, Старости Легіоновського, Сільського голови Гміни Яблонна та Президента Правління Мазовецької Регіональної Організації Туризму. Дводенне свято науки відбудеться 19 та 20 вересня з 11:00 до 17:00 на території парку та Палацу в Яблонні. Метою Фестивалю є популяризація польських наукових досягнень серед дітей, молоді та дорослих. Приваблива форма дводенного заходу дозволяє учасникам як познайомитися, так і зрозуміти різні..."
         }
       },
       "admission": {
         "is_free": true
       },
-      "district": "Białołęka",
-      "updated_at": "2026-09-14T12:28:38.336221+00:00"
+      "district": "okolice Warszawy",
+      "updated_at": "2026-09-15T11:33:56.682921+00:00"
     },
     "wielki-festyn-mi-dzypokoleniowy-po-udniowo-praskie-senioralia-2026-09-19T13:00:00+02:00": {
       "title": "Wielki festyn międzypokoleniowy POŁUDNIOWO PRASKIE SENIORALIA",
@@ -16687,49 +16691,49 @@
       "updated_at": "2026-09-12T10:43:33.333676+00:00"
     },
     "rodzinne-warsztaty-ekologiczne-jesienny-wieniec-2026-09-19T10:30:00+02:00": {
-      "title": "Rodzinne warsztaty ekologiczne – jesienny wieniec",
+      "title": "RODZINNE WARSZTATY EKOLOGICZNE - jesienny wieniec",
       "date": "2026-09-19T10:30:00+02:00",
       "end_date": "2026-09-19T10:30:00+02:00",
       "startTimeKnown": true,
-      "description": "Zajęcia z cyklu rodzinnych warsztatów ekologicznych, podczas których uczestnicy stworzą jesienne wieńce dekoracyjne na drzwi.\n\nTermin i miejsce:\n• 19.09, godz. 10.30\n• Kawiarnia CHOMICZÓWKA, ul. Bogusławskiego 6A\n\nUczestnicy:\n• Rodzice z dziećmi, dziadkowie z wnukami, ciocie i wujkowie z siostrzeńcami i bratanicami\n• Dzieci powyżej 3 lat\n\nZapisy:\n• SMS pod numerem: 694 635 746\n\nProjekt finansowany przez Urząd Dzielnicy Bielany.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/00c3045c-01f6-4130-ab09-b22d352ea612/2f540fb3-2f48-4c74-a6c9-2b3f708bcec3.jpg",
+      "description": "Zapraszamy na kolejne zajęcia z cyklu RODZINNYCH WARSZTATÓW EKOLOGICZNYCH. Tym razem powitamy jesień tworząc dekoracje na drzwi w kształcie wieńca. Warsztaty odbędą się 19.09, godz. 10.30 w Kawiarni CHOMICZÓWKA, ul. Bogusławskiego 6A Zapraszamy: rodziców z dziećmi, dziadków i babcie z wnukami, ciocie i wujków z siostrzeńcami i bratanicami. Zapisy: SMS: 694 635 746 Liczba miejsc ograniczona! Ważne! Zapraszamy dzieci powyżej 3 lat. Dzieci starsze i młodzież też się będą dobrze bawić! Projekt finansowany przez Urząd Dzielnicy Bielany.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1030.1789210425.webp",
       "location": {
-        "name": "Kawiarnia \"Chomiczówka\", ul. Bogusławskiego 6A, Warszawa",
+        "name": "Kawiarnia \"Chomiczówka\", ul. Bogusławskiego 6A",
         "district": "Bielany"
       },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/rodzinne-warsztaty-ekologiczne-jesienny-wieniec-00c3045c-01f6-4130-ab09-b22d352ea612",
-      "source": "simplygo.pl",
-      "age_hint": "3-18",
-      "age_range": {
-        "min": 3,
-        "max": 18
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/rodzinne-warsztaty-ekologiczne-jesienny-wieniec-00c3045c-01f6-4130-ab09-b22d352ea612",
-      "scrapped_timestamp": "2026-09-14T12:23:57.755319+00:00",
+      "url": "https://waw4free.pl/wydarzenie-158661-rodzinne-warsztaty-ekologiczne-jesienny-wieniec",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://waw4free.pl/wydarzenie-158661-rodzinne-warsztaty-ekologiczne-jesienny-wieniec",
+      "scrapped_timestamp": "2026-09-15T11:32:21.957963+00:00",
       "category": "Workshops",
       "additional_categories": [
         "Arts"
       ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Rodzinne warsztaty ekologiczne – jesienny wieniec",
-          "description": "Zajęcia z cyklu rodzinnych warsztatów ekologicznych, podczas których uczestnicy stworzą jesienne wieńce dekoracyjne na drzwi.\n\nTermin i miejsce:\n• 19.09, godz. 10.30\n• Kawiarnia CHOMICZÓWKA, ul. Bogusławskiego 6A\n\nUczestnicy:\n• Rodzice z dziećmi, dziadkowie z wnukami, ciocie i wujkowie z siostrzeńcami i bratanicami\n• Dzieci powyżej 3 lat\n\nZapisy:\n• SMS pod numerem: 694 635 746\n\nProjekt finansowany przez Urząd Dzielnicy Bielany."
+          "title": "RODZINNE WARSZTATY EKOLOGICZNE - jesienny wieniec",
+          "description": "Zapraszamy na kolejne zajęcia z cyklu RODZINNYCH WARSZTATÓW EKOLOGICZNYCH. Tym razem powitamy jesień tworząc dekoracje na drzwi w kształcie wieńca. Warsztaty odbędą się 19.09, godz. 10.30 w Kawiarni CHOMICZÓWKA, ul. Bogusławskiego 6A Zapraszamy: rodziców z dziećmi, dziadków i babcie z wnukami, ciocie i wujków z siostrzeńcami i bratanicami. Zapisy: SMS: 694 635 746 Liczba miejsc ograniczona! Ważne! Zapraszamy dzieci powyżej 3 lat. Dzieci starsze i młodzież też się będą dobrze bawić! Projekt finansowany przez Urząd Dzielnicy Bielany."
         },
         "en": {
-          "title": "Family Eco Workshops – Autumn Wreath",
-          "description": "Activities from the series of family eco workshops, during which participants will create decorative autumn wreaths for doors.\n\nDate and Location:\n• 19.09, 10:30 AM\n• Café CHOMICZÓWKA, ul. Bogusławskiego 6A\n\nParticipants:\n• Parents with children, grandparents with grandchildren, aunts and uncles with nieces and nephews\n• Children over 3 years old\n\nRegistration:\n• SMS to the number: 694 635 746\n\nProject funded by the Bielany District Office."
+          "title": "FAMILY ECOLOGICAL WORKSHOPS - Autumn Wreath",
+          "description": "We invite you to the next session of the FAMILY ECOLOGICAL WORKSHOPS. This time we will welcome autumn by creating door decorations in the shape of a wreath. The workshops will take place on September 19th at 10:30 AM at the CHOMICZÓWKA Café, ul. Bogusławskiego 6A. We invite: parents with children, grandparents with grandchildren, aunts and uncles with nieces and nephews. Registration: SMS: 694 635 746. Limited spots available! Important! We welcome children over 3 years old. Older children and teenagers will also have a great time! The project is funded by the Bielany District Office."
         },
         "uk": {
-          "title": "Сімейні екологічні майстер-класи – осінній вінок",
-          "description": "Заняття з циклу сімейних екологічних майстер-класів, під час яких учасники створять осінні декоративні вінки на двері.\n\nТермін і місце:\n• 19.09, о 10:30\n• Кав'ярня CHOMICZÓWKA, вул. Богуславського 6A\n\nУчасники:\n• Батьки з дітьми, бабусі з онуками, тітки та дядьки з племінниками та племінницями\n• Діти старше 3 років\n\nЗаписи:\n• SMS на номер: 694 635 746\n\nПроект фінансується Управлінням району Біляни."
+          "title": "СІМЕЙНІ ЕКОЛОГІЧНІ МАЙСТЕР-КЛАСИ - осінній вінок",
+          "description": "Запрошуємо на наступні заняття з циклу СІМЕЙНИХ ЕКОЛОГІЧНИХ МАЙСТЕР-КЛАСІВ. Цього разу ми зустрінемо осінь, створюючи декорації на двері у формі вінка. Майстер-клас відбудеться 19.09 о 10:30 у кав'ярні CHOMICZÓWKA, вул. Богуславського 6A. Запрошуємо: батьків з дітьми, дідусів і бабусь з онуками, тіток і дядьків з племінниками та племінницями. Запис: SMS: 694 635 746. Кількість місць обмежена! Важливо! Запрошуємо дітей старше 3 років. Старші діти та підлітки також добре проведуть час! Проект фінансується Управлінням району Білани."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Bielany",
-      "updated_at": "2026-09-14T12:28:38.336188+00:00"
+      "updated_at": "2026-09-15T11:33:56.682893+00:00"
     },
     "wa-ne-miejsce-bezp-atna-kawiarnia-spo-eczna-prowadzona-przez-mieszka-c-w-domu-malwa-2026-09-18T16:00:00+02:00": {
       "title": "Ważne Miejsce - bezpłatna kawiarnia społeczna prowadzona przez mieszkańców domu Malwa",
@@ -20394,6 +20398,788 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-09-14T12:28:38.336994+00:00"
+    },
+    "nutkosfera-cezik-dzieciom-2027-09-18T11:00:00+02:00": {
+      "title": "NutkoSfera - CeZik dzieciom",
+      "date": "2027-09-18T11:00:00+02:00",
+      "end_date": "2027-09-18T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "**\"Joł, joł Jowisz!\" - tymi słowami wita się z Wami jedna z planet naszego Układu Słonecznego... Aby poznać lepiej duże i \"Małe ciała niebieskie\" oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu. Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy!**\nNutkosfera to projekt pod kierownictwem CeZika. Za tym pseudonimem kryje się Cezary Nowak. Artysta od dziecka (z małymi przerwami) brzdąka, stuka, buczy, huczy i wyje! Od 2009 roku swoją twórczość publikuje w Internecie. Do tej pory na kanałach You Tube \"CeZik\" oraz \"KlejNuty\" opublikował kilkadziesiąt filmów. Najpopularniejsze zostały wyświetlone kilkadziesiąt milionów razy. Łącznie materiały CeZika doczekały się ponad 330 000 000 odsłon, co sprawia, że jest jednym z najpopularniejszych polskich twórców działających w sieci.\n\nPieć lat temu CeZik zmienił obrany kurs. Od tego czasu tworzy kanał internetowy dla dzieci - NutkoSfera, gdzie najpopularniejszy jego klip \"W Układzie Słonecznym\" ma ponad 100 milionów wyświetleń... i wiosną otrzymał status Platynowej Płyty!!! NutkoSfera i DrobNutki to piosenki dla najmłodszych, które mają za zadanie bawić i uczyć. Celem CeZika jest wyrabianie w dzieciach wrażliwości muzycznej, dlatego unika aranżacji biesiadnych czy dyskotekowych. Stara się, aby melodie wpadały w ucho, były proste, ale nie obciachowe. Dba o gust muzyczny dzieci od najmłodszych lat. Jego piosenki zachęcają najmłodszych do wspólnej zabawy, jednocześnie przekazując konkretną wiedzę oraz rozmaite ciekawostki. Kanał NutkoSfera ma już ponad 300 milionów wyświetleń i nadal pędzi niczym \"Pociąg Elektryczny\".\n\n**Bilety ulgowe przysługują dzieciom od 0 do 16 roku życia.**",
+      "image": "https://assets.kupbilecik.pl/img/baza/1000/277.webp?1788766946",
+      "url": "https://www.kupbilecik.pl/pl/event/219596/warszawa/nutkosfera?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
+      "location": {
+        "name": "Terminal Kultury Gocław",
+        "address": "ul. Jana Nowaka-Jeziorańskiego 24",
+        "lat": 52.2315624,
+        "lng": 21.0933124258032,
+        "district": "Praga-Południe"
+      },
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/219596/warszawa/nutkosfera?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-09-15T11:31:42.602956+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "NutkoSfera - CeZik dzieciom",
+          "description": "**\"Joł, joł Jowisz!\" - tymi słowami wita się z Wami jedna z planet naszego Układu Słonecznego... Aby poznać lepiej duże i \"Małe ciała niebieskie\" oraz dowiedzieć się, czemu samolot lata, statek pływa, Słońce świeci a głowa myśli, spotkaj się z nami podczas wyjątkowego koncertu. Zabierz ze sobą uśmiech i dołącz do wspólnej zabawy!**\nNutkosfera to projekt pod kierownictwem CeZika. Za tym pseudonimem kryje się Cezary Nowak. Artysta od dziecka (z małymi przerwami) brzdąka, stuka, buczy, huczy i wyje! Od 2009 roku swoją twórczość publikuje w Internecie. Do tej pory na kanałach You Tube \"CeZik\" oraz \"KlejNuty\" opublikował kilkadziesiąt filmów. Najpopularniejsze zostały wyświetlone kilkadziesiąt milionów razy. Łącznie materiały CeZika doczekały się ponad 330 000 000 odsłon, co sprawia, że jest jednym z najpopularniejszych polskich twórców działających w sieci.\n\nPieć lat temu CeZik zmienił obrany kurs. Od tego czasu tworzy kanał internetowy dla dzieci - NutkoSfera, gdzie najpopularniejszy jego klip \"W Układzie Słonecznym\" ma ponad 100 milionów wyświetleń... i wiosną otrzymał status Platynowej Płyty!!! NutkoSfera i DrobNutki to piosenki dla najmłodszych, które mają za zadanie bawić i uczyć. Celem CeZika jest wyrabianie w dzieciach wrażliwości muzycznej, dlatego unika aranżacji biesiadnych czy dyskotekowych. Stara się, aby melodie wpadały w ucho, były proste, ale nie obciachowe. Dba o gust muzyczny dzieci od najmłodszych lat. Jego piosenki zachęcają najmłodszych do wspólnej zabawy, jednocześnie przekazując konkretną wiedzę oraz rozmaite ciekawostki. Kanał NutkoSfera ma już ponad 300 milionów wyświetleń i nadal pędzi niczym \"Pociąg Elektryczny\".\n\n**Bilety ulgowe przysługują dzieciom od 0 do 16 roku życia.**"
+        },
+        "en": {
+          "title": "NutkoSfera - CeZik for Kids",
+          "description": "**\"Yo, yo Jupiter!\" - with these words one of the planets of our Solar System greets you... To learn more about large and \"small celestial bodies\" and to find out why airplanes fly, ships sail, the Sun shines, and the head thinks, join us for a special concert. Bring your smile and join the fun!** NutkoSfera is a project led by CeZik. Behind this pseudonym is Cezary Nowak. The artist has been strumming, tapping, buzzing, roaring, and howling since childhood (with a few breaks). Since 2009, he has been publishing his work on the Internet. So far, he has released dozens of videos on the YouTube channels \"CeZik\" and \"KlejNuty.\" The most popular ones have been viewed tens of millions of times. In total, CeZik's materials have garnered over 330,000,000 views, making him..."
+        },
+        "uk": {
+          "title": "NutkoSfera - CeZik дітям",
+          "description": "**\"Йо, йо Юпітер!\" - цими словами вітається з вами одна з планет нашої Сонячної системи... Щоб краще познайомитися з великими і \"малими небесними тілами\" та дізнатися, чому літак літає, корабель пливе, Сонце світить, а голова думає, зустріньтеся з нами під час унікального концерту. Візьміть з собою усмішку і приєднайтеся до спільної розваги!** Nutkosfera - це проект під керівництвом CeZika. За цим псевдонімом ховається Цезарій Новак. Артист з дитинства (з невеликими перервами) бавиться, стукає, гуде, гремить і виє! З 2009 року свою творчість публікує в Інтернеті. До цього часу на каналах YouTube \"CeZik\" та \"KlejNuty\" опубліковано кілька десятків фільмів. Найпопулярніші були переглянуті кілька десятків мільйонів разів. Загалом матеріали CeZika отримали понад 330 000 000 переглядів, що робить його..."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/219596/warszawa/nutkosfera?utm_source=pp&utm_medium=604"
+      },
+      "district": "Praga-Południe",
+      "updated_at": "2026-09-15T11:33:56.682790+00:00"
+    },
+    "zaj-cia-rytmiczne-dla-dzieci-2026-09-15T10:00:00+02:00": {
+      "title": "Zajęcia rytmiczne dla dzieci",
+      "date": "2026-09-15T10:00:00+02:00",
+      "end_date": "2026-09-15T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Rytmika i spotkania z muzyką dla dzieci\" nr 1530.",
+      "url": "https://bemowskie.pl/wydarzenia/zajecia-rytmiczne-dla-dzieci-w-wieku-20-miesiecy-3-lat-2/",
+      "source": "bemowskie.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 1,
+        "max": 3
+      },
+      "location": {
+        "name": "Bemowskie Centrum Kultury, MAL Boernerowo · ul. Sobczaka 5",
+        "district": "Bemowo"
+      },
+      "image": "https://bemowskie.pl/wp-content/uploads/2026/05/rytmika.png",
+      "scrapped_url": "https://bemowskie.pl/wydarzenia/zajecia-rytmiczne-dla-dzieci-w-wieku-20-miesiecy-3-lat-2/",
+      "scrapped_timestamp": "2026-09-15T11:31:48.684948+00:00",
+      "translations": {
+        "pl": {
+          "title": "Zajęcia rytmiczne dla dzieci",
+          "description": "Cykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Rytmika i spotkania z muzyką dla dzieci\" nr 1530."
+        },
+        "en": {
+          "title": "Rhythmic Classes for Children",
+          "description": "A series of workshops implemented as part of the Civic Budget from the project 'Rhythm and Music Meetings for Children' No. 1530."
+        },
+        "uk": {
+          "title": "Ритмічні заняття для дітей",
+          "description": "Цикл майстер-класів, що реалізується в рамках Громадського бюджету за проектом «Ритміка та зустрічі з музикою для дітей» № 1530."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-15T11:33:56.682808+00:00"
+    },
+    "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-09-15T11:00:00+02:00": {
+      "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
+      "date": "2026-09-15T11:00:00+02:00",
+      "end_date": "2026-09-15T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan.",
+      "url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#15-09",
+      "source": "bielany.um.warszawa.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location": {
+        "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
+        "district": "Bielany"
+      },
+      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
+      "scrapped_url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#15-09",
+      "scrapped_timestamp": "2026-09-15T11:31:50.575409+00:00",
+      "translations": {
+        "pl": {
+          "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
+          "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan."
+        },
+        "en": {
+          "title": "On the Carpet – Neighborhood Toddler Zone",
+          "description": "Every Tuesday, we roll out the carpet and open our space for spontaneous neighborhood gatherings for the youngest children and parents from Bielany."
+        },
+        "uk": {
+          "title": "Ми на килимку – сусідська зона для малюків",
+          "description": "Щовівторка ми розкриваємо килим і відкриваємо наш простір для спонтанних сусідських зустрічей для найменших дітей та батьків з Білянів."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bielany",
+      "updated_at": "2026-09-15T11:33:56.682821+00:00"
+    },
+    "29-urodziny-dinozaura-dyzia-w-muzeum-geologicznym-pig-pib-2026-09-20T10:00:00+02:00": {
+      "title": "29. Urodziny dinozaura Dyzia w Muzeum Geologicznym PIG-PIB",
+      "date": "2026-09-20T10:00:00+02:00",
+      "end_date": "2026-09-20T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W niedzielę 20 września 2026 r. serdecznie zapraszamy wszystkich do wspólnego świętowania kolejnych, 29. już, urodzin dinozaura Dyzia. Czekać będzie na Was moc dinozaurowych atrakcji. Piknik rodzinny rozpocznie się o godz. 10:00 w Muzeum Geologicznym PIG-PIB przy ul. Rakowieckiej 4 (wejście od ul. Wiśniowej). STOISKA EDUKACYJNE MUZEUM GEOLOGICZNE PIG-PIB w Warszawie Od surowców mineralnych do elektroniki, memory z minerałami i skamieniałościami, koło fortuny, odciski skamieniałości w glinie, mini wykopaliska - szkielet silezaura. CENTRUM GEOZAGROŻEŃ PIG-PIB w Warszawie Prezentacja makiety osuwiska, pokaz mechanizmu powstawania zapadlisk, zabawa sensoryczna – poznaj flisz, kolorowanki geozagrożeniowe, możliwość rozegrania gry karcianej Strategia Osuwiskowa. ZAKŁAD GEOLOGII ŚRODOWISKOWEJ PIG-PIB w Warszawie Rekultywacja terenu pogórniczego - zrób to sam, ślady dawnego życia w mikroskali. ZAKŁAD KARTOGRAFII PIG-PIB w Warszawie Wytrop Dyzia: znajdź na mapach geologicznych skały z czasów Dyzia, dotknij skał, po których chodził Dyzio, poznaj kolory map geologicznych. ZAKŁAD ROZPOZNAWANIA I OCHRONY WÓD PODZIEMNYCH PIG-PIB w Warszawie Samodzielne oznaczanie zawartości żelaza w wodzie za pomocą kolorymetru (weź własną próbkę wody 15 ml), prezentacja przepływu zanieczyszczeń w ośrodku skalnym, rozpoznawanie za pomocą dotyku różnego uziarnienia skał, które budują warstwy wodonośne. ZAKŁAD WÓD TERMALNYCH, LECZNICZYCH I SOLANEK PIG-PIB w Warszawie Dlaczego wody termalne mają różny skład? Woda gazowana prosto z ziemi? Jak skały oczyszczają wodę? Promieniotwórcze wody?! MUZEUM EWOLUCJI IPal PAN w Warszawie Gra muzealna „Paleontologia pod stopami” - rozpoznawanie skamieniałości ze żwirów polodowcowych Mazowsza, „Linia czasu” - ile trwały poszczególne okresy w dziejach Ziemi, przynieś znalezioną przez siebie skamieniałość, a powiemy Ci co to jest . PAN MUZEUM ZIEMI w Warszawie Gra muzealna „Zgadnij czyj to ząb\", opowieść o ewolucji zębów, skamieniałe zęby z kolekcji PAN Muzeum Ziemi. MUZEUM GAZOWNI WARSZAWSKIEJ w Warszawie Warsztaty pn.: „W aptece Ignacego” - tak jak Ignacy Łukasiewicz, będziesz eksperymentować, mieszać i przelewać, a także zrobisz własne perfumy z herbacianą nutą. WYDZIAŁ ARCHEOLOGII UW I PAŃSTWOWE MUZEUM ARCHEOLOGICZNE w Warszawie Pokazy obróbki krzemienia z wykorzystaniem technik z epoki kamienia, prezentacja surowców kamiennych oraz replik narzędzi krzemiennych używanych przez ludzi w epoce kamienia, oglądanie pod mikroskopem narzędzi krzemiennych oraz śladów powstałych podczas ich użytkowania, układanie puzzli i rozwiązywanie zadań z motywami z epoki kamienia, zabawa w rozpoznawanie „zabytków” i funkcji wybranych narzędzi krzemiennych. SPELEOKLUB WARSZAWSKI Wycinanki i kolorowanki - nietoperze i dinozaury, próba przejścia zacisku, nauka wiązania węzłów, cyjanotypia - wywoływanie „zdjęć” z nietoperzami/dinozaurami itp. KOŁO NAUKOWE BIOLOGII EWOLUCYJNEJ w Warszawie Tworzenie odcisków skamieniałości z alginatu, karciane gry ewolucyjne, związane z ewolucją zwierząt na Ziemi: memory siostrzane, ewolucyjny timeline oraz „kosmita czy prawdziwe zwierzę?”. BIBLIOTEKA PUBLICZNA IM. ZYGMUNTA ŁAZARSKIEGO w Dzielnicy Mokotów m.st. Warszawy Malowanie toreb płóciennych oraz figurek dinozaurów, kolorowanki geologiczne, malowanie i ozdabianie masek dinozaurów i innych postaci, strefa z książkami o dinozaurach. WARSZAWSKA KRANÓWKA beczkowóz z warszawską kranówką. KONKURSY - GEOLOGICZNE PIECZĄTKI (g. 10.00 - 16.00) Zbierz 9 pieczątek na wybranych stoiskach i odbierz upominek. Karty konkursowe do pobrania w każdym namiocie, upominki do odebrania w Muzeum (sala 16). - GLINIANY DYZIO (g. 10.30 - 14.00) W konkursie mogą wziąć udział wyłącznie Uczestnicy, którzy zebrali 9 pieczątek. W sali nr 16 w Muzeum Geologicznym, wykonaj z gliny model Dyzia. Wręczenie nagród dla zwycięzców konkursu odbędzie się w Muzeum Geologicznym przy modelu dilofozaura Dyzia w godz. 12.30 i 14.30. ATRAKCJE W MUZEUM GEOLOGICZNYM Dinozaurowa kolorowanka XXL (I piętro). Konkurs pt.: „Gliniany Dyzio” (sala 16). STO LAT DLA DYZIA Godz. 13.00 - odśpiewanie „Sto lat” Dyziowi. Nie może Ciebie tu zabraknąć :) IMPREZA TOWARZYSZĄCA VI Jesienny Festiwal Dziecięcej Książki Geologicznej: link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1787754736.webp",
+      "location": {
+        "name": "Muzeum Geologiczne PIG-PIB, ul. Rakowiecka 4",
+        "district": "Mokotów"
+      },
+      "url": "https://www.pgi.gov.pl/muzeum/imprezy-muzeum/1185/29-urodziny-dinozaura-dyzia.html",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.pgi.gov.pl/muzeum/imprezy-muzeum/1185/29-urodziny-dinozaura-dyzia.html",
+      "scrapped_timestamp": "2026-09-15T11:31:52.837418+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Educational",
+        "Nature & Wildlife"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "29. Urodziny dinozaura Dyzia w Muzeum Geologicznym PIG-PIB",
+          "description": "W niedzielę 20 września 2026 r. serdecznie zapraszamy wszystkich do wspólnego świętowania kolejnych, 29. już, urodzin dinozaura Dyzia. Czekać będzie na Was moc dinozaurowych atrakcji. Piknik rodzinny rozpocznie się o godz. 10:00 w Muzeum Geologicznym PIG-PIB przy ul. Rakowieckiej 4 (wejście od ul. Wiśniowej). STOISKA EDUKACYJNE MUZEUM GEOLOGICZNE PIG-PIB w Warszawie Od surowców mineralnych do elektroniki, memory z minerałami i skamieniałościami, koło fortuny, odciski skamieniałości w glinie, mini wykopaliska - szkielet silezaura. CENTRUM GEOZAGROŻEŃ PIG-PIB w Warszawie Prezentacja makiety osuwiska, pokaz mechanizmu powstawania zapadlisk, zabawa sensoryczna – poznaj flisz, kolorowanki geozagrożeniowe, możliwość rozegrania gry karcianej Strategia Osuwiskowa. ZAKŁAD GEOLOGII ŚRODOWISKOWEJ PIG-PIB w Warszawie Rekultywacja terenu pogórniczego - zrób to sam, ślady dawnego życia w mikroskali. ZAKŁAD KARTOGRAFII PIG-PIB w Warszawie Wytrop Dyzia: znajdź na mapach geologicznych skały z czasów Dyzia, dotknij skał, po których chodził Dyzio, poznaj kolory map geologicznych. ZAKŁAD ROZPOZNAWANIA I OCHRONY WÓD PODZIEMNYCH PIG-PIB w Warszawie Samodzielne oznaczanie zawartości żelaza w wodzie za pomocą kolorymetru (weź własną próbkę wody 15 ml), prezentacja przepływu zanieczyszczeń w ośrodku skalnym, rozpoznawanie za pomocą dotyku różnego uziarnienia skał, które budują warstwy wodonośne. ZAKŁAD WÓD TERMALNYCH, LECZNICZYCH I SOLANEK PIG-PIB w Warszawie Dlaczego wody termalne mają różny skład? Woda gazowana prosto z ziemi? Jak skały oczyszczają wodę? Promieniotwórcze wody?! MUZEUM EWOLUCJI IPal PAN w Warszawie Gra muzealna „Paleontologia pod stopami” - rozpoznawanie skamieniałości ze żwirów polodowcowych Mazowsza, „Linia czasu” - ile trwały poszczególne okresy w dziejach Ziemi, przynieś znalezioną przez siebie skamieniałość, a powiemy Ci co to jest . PAN MUZEUM ZIEMI w Warszawie Gra muzealna „Zgadnij czyj to ząb\", opowieść o ewolucji zębów, skamieniałe zęby z kolekcji PAN Muzeum Ziemi. MUZEUM GAZOWNI WARSZAWSKIEJ w Warszawie Warsztaty pn.: „W aptece Ignacego” - tak jak Ignacy Łukasiewicz, będziesz eksperymentować, mieszać i przelewać, a także zrobisz własne perfumy z herbacianą nutą. WYDZIAŁ ARCHEOLOGII UW I PAŃSTWOWE MUZEUM ARCHEOLOGICZNE w Warszawie Pokazy obróbki krzemienia z wykorzystaniem technik z epoki kamienia, prezentacja surowców kamiennych oraz replik narzędzi krzemiennych używanych przez ludzi w epoce kamienia, oglądanie pod mikroskopem narzędzi krzemiennych oraz śladów powstałych podczas ich użytkowania, układanie puzzli i rozwiązywanie zadań z motywami z epoki kamienia, zabawa w rozpoznawanie „zabytków” i funkcji wybranych narzędzi krzemiennych. SPELEOKLUB WARSZAWSKI Wycinanki i kolorowanki - nietoperze i dinozaury, próba przejścia zacisku, nauka wiązania węzłów, cyjanotypia - wywoływanie „zdjęć” z nietoperzami/dinozaurami itp. KOŁO NAUKOWE BIOLOGII EWOLUCYJNEJ w Warszawie Tworzenie odcisków skamieniałości z alginatu, karciane gry ewolucyjne, związane z ewolucją zwierząt na Ziemi: memory siostrzane, ewolucyjny timeline oraz „kosmita czy prawdziwe zwierzę?”. BIBLIOTEKA PUBLICZNA IM. ZYGMUNTA ŁAZARSKIEGO w Dzielnicy Mokotów m.st. Warszawy Malowanie toreb płóciennych oraz figurek dinozaurów, kolorowanki geologiczne, malowanie i ozdabianie masek dinozaurów i innych postaci, strefa z książkami o dinozaurach. WARSZAWSKA KRANÓWKA beczkowóz z warszawską kranówką. KONKURSY - GEOLOGICZNE PIECZĄTKI (g. 10.00 - 16.00) Zbierz 9 pieczątek na wybranych stoiskach i odbierz upominek. Karty konkursowe do pobrania w każdym namiocie, upominki do odebrania w Muzeum (sala 16). - GLINIANY DYZIO (g. 10.30 - 14.00) W konkursie mogą wziąć udział wyłącznie Uczestnicy, którzy zebrali 9 pieczątek. W sali nr 16 w Muzeum Geologicznym, wykonaj z gliny model Dyzia. Wręczenie nagród dla zwycięzców konkursu odbędzie się w Muzeum Geologicznym przy modelu dilofozaura Dyzia w godz. 12.30 i 14.30. ATRAKCJE W MUZEUM GEOLOGICZNYM Dinozaurowa kolorowanka XXL (I piętro). Konkurs pt.: „Gliniany Dyzio” (sala 16). STO LAT DLA DYZIA Godz. 13.00 - odśpiewanie „Sto lat” Dyziowi. Nie może Ciebie tu zabraknąć :) IMPREZA TOWARZYSZĄCA VI Jesienny Festiwal Dziecięcej Książki Geologicznej: link"
+        },
+        "en": {
+          "title": "29th Birthday of the Dinosaur Dyzio at the Geological Museum PIG-PIB",
+          "description": "On Sunday, September 20, 2026, we warmly invite everyone to celebrate the 29th birthday of the dinosaur Dyzio. A wealth of dinosaur attractions awaits you. The family picnic will start at 10:00 AM at the Geological Museum PIG-PIB located at Rakowiecka 4 (entrance from Wiśniowa Street). EDUCATIONAL STANDS OF THE GEOLOGICAL MUSEUM PIG-PIB in Warsaw: From mineral resources to electronics, memory game with minerals and fossils, wheel of fortune, fossil imprints in clay, mini excavations - the skeleton of a Silesaurus. GEOHAZARD CENTER PIG-PIB in Warsaw: Presentation of a landslide model, demonstration of the mechanism of sinkhole formation, sensory play - get to know the flysch, geohazard coloring pages, and the opportunity to play the card game Landslide Strategy. DEPARTMENT OF ENVIRONMENTAL GEOLOGY PIG."
+        },
+        "uk": {
+          "title": "29. День народження динозавра Дизя в Геологічному музеї PIG-PIB",
+          "description": "У неділю, 20 вересня 2026 року, щиро запрошуємо всіх до спільного святкування вже 29-го дня народження динозавра Дизя. На вас чекатиме безліч динозаврових атракцій. Сімейний пікнік розпочнеться о 10:00 в Геологічному музеї PIG-PIB за адресою вулиця Раковєцька 4 (вхід з вулиці Вішньової). ОСВІТНІ СТОЙКИ ГЕОЛОГІЧНОГО МУЗЕЮ PIG-PIB у Варшаві Від мінеральних сировин до електроніки, пам'ять з мінералами та скам'янілостями, колесо фортуни, відбитки скам'янілостей у глині, міні-розкопки - скелет силезавра. ЦЕНТР ГЕОЗАГРОЗ PIG-PIB у Варшаві Презентація макету зсуву, показ механізму виникнення провалів, сенсорна гра - пізнай фліш, розмальовки геозагроз, можливість зіграти в карткову гру Стратегія Зсувів. ВІДДІЛ ГЕОЛОГІЇ СЕРЕДОВИЩА PIG"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Mokotów",
+      "updated_at": "2026-09-15T11:33:56.682835+00:00"
+    },
+    "bezp-atne-treningi-siatk-wki-oraz-zaj-cia-rodzinne-2026-09-19T13:15:00+02:00": {
+      "title": "BEZPŁATNE TRENINGI SIATKÓWKI ORAZ ZAJĘCIA RODZINNE",
+      "date": "2026-09-19T13:15:00+02:00",
+      "end_date": "2026-09-19T13:15:00+02:00",
+      "startTimeKnown": true,
+      "description": "Ogłaszamy grafik naszych bezpłatnych zajęć na zbliżający się rok szkolny w Dzielnicy Bemowo! 🏐ogólnorozwojowe z elementami gier zespołowych na czele z mini siatkówką - wtorek, godzina 13.15 – 15.00 – grupa zamknięta, dla uczniów szkoły SP 407, dla klas 1-4 - czwartek, godzina 15.00 – 16.00 – grupa zamknięta, dla uczniów szkoły SP407, dla klas 1-4 - piątek, godzina 15.00 – 17.00 – grupa otwarta, dla uczniów z klas 3-5 🏐podstawy mini siatkówki - środa, godzina 14.00 – 16.00 – grupa zamknięta, dla uczniów szkoły SP 407, dla klas 3-5 - środa, godzina 17.00 – 18.00  - grupa otwarta, dla klas 4-6 - sobota, godzina 10.00 – 11.00 – grupa otwarta, dla klas 3-5 🏐zajęcia rodzinne dla dzieci z klas 1-4 i ich dorosłych członków rodziny - sobota, godzina 9.00 – 10.00 – grupa otwarta 🏐treningi piłki siatkowej z trenerem + gra dla rodziców dzieci u nas trenujących - sobota, godzina 11.00 – 13.00 ZAPISY >> instytutaktywnosci@gmail.com Start zajęć 15 września.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0000.1788005722.webp",
+      "location": {
+        "name": "Heweliusza 3, Szkoła Podstawowa nr 407",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/instytutaktywnosci",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/instytutaktywnosci",
+      "scrapped_timestamp": "2026-09-15T11:31:58.828800+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "BEZPŁATNE TRENINGI SIATKÓWKI ORAZ ZAJĘCIA RODZINNE",
+          "description": "Ogłaszamy grafik naszych bezpłatnych zajęć na zbliżający się rok szkolny w Dzielnicy Bemowo! 🏐ogólnorozwojowe z elementami gier zespołowych na czele z mini siatkówką - wtorek, godzina 13.15 – 15.00 – grupa zamknięta, dla uczniów szkoły SP 407, dla klas 1-4 - czwartek, godzina 15.00 – 16.00 – grupa zamknięta, dla uczniów szkoły SP407, dla klas 1-4 - piątek, godzina 15.00 – 17.00 – grupa otwarta, dla uczniów z klas 3-5 🏐podstawy mini siatkówki - środa, godzina 14.00 – 16.00 – grupa zamknięta, dla uczniów szkoły SP 407, dla klas 3-5 - środa, godzina 17.00 – 18.00  - grupa otwarta, dla klas 4-6 - sobota, godzina 10.00 – 11.00 – grupa otwarta, dla klas 3-5 🏐zajęcia rodzinne dla dzieci z klas 1-4 i ich dorosłych członków rodziny - sobota, godzina 9.00 – 10.00 – grupa otwarta 🏐treningi piłki siatkowej z trenerem + gra dla rodziców dzieci u nas trenujących - sobota, godzina 11.00 – 13.00 ZAPISY >> instytutaktywnosci@gmail.com Start zajęć 15 września."
+        },
+        "en": {
+          "title": "FREE VOLLEYBALL TRAINING AND FAMILY CLASSES",
+          "description": "We announce the schedule of our free classes for the upcoming school year in the Bemowo District! 🏐 General development activities with elements of team games, led by mini volleyball - Tuesday, 1:15 PM – 3:00 PM – closed group, for students of SP 407 school, grades 1-4 - Thursday, 3:00 PM – 4:00 PM – closed group, for students of SP 407 school, grades 1-4 - Friday, 3:00 PM – 5:00 PM – open group, for students from grades 3-5 🏐 Basics of mini volleyball - Wednesday, 2:00 PM – 4:00 PM – closed group, for students of SP 407 school, grades 3-5 - Wednesday, 5:00 PM – 6:00 PM - open group, for grades 4-6 - Saturday, 10:00 AM – 11:00 AM – open group, for grades 3-5 🏐 Family classes for children from grades 1-4 and their adult family members - Saturday, 9:00 AM – 10:00 AM – open group 🏐 Volleyball training"
+        },
+        "uk": {
+          "title": "БЕЗКОШТОВНІ ТРЕНУВАННЯ ВОЛЕЙБОЛУ ТА СІМЕЙНІ ЗАНЯТТЯ",
+          "description": "Оголошуємо графік наших безкоштовних занять на наближаючийся навчальний рік у Районі Бемово! 🏐 загальнорозвивальні заняття з елементами командних ігор на чолі з міні-волейболом - вівторок, година 13:15 – 15:00 – закрита група, для учнів школи SP 407, для класів 1-4 - четвер, година 15:00 – 16:00 – закрита група, для учнів школи SP 407, для класів 1-4 - п'ятниця, година 15:00 – 17:00 – відкрита група, для учнів з класів 3-5 🏐 основи міні-волейболу - середа, година 14:00 – 16:00 – закрита група, для учнів школи SP 407, для класів 3-5 - середа, година 17:00 – 18:00 - відкрита група, для класів 4-6 - субота, година 10:00 – 11:00 – відкрита група, для класів 3-5 🏐 сімейні заняття для дітей з класів 1-4 та їх дорослих членів родини - субота, година 9:00 – 10:00 – відкрита група 🏐 тренування з волейболу"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-15T11:33:56.682849+00:00"
+    },
+    "biela-skie-dni-sztuki-2026-2026-09-18T16:00:00+02:00": {
+      "title": "Bielańskie Dni Sztuki 2026",
+      "date": "2026-09-18T16:00:00+02:00",
+      "end_date": "2026-09-18T16:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Przez dziesięć wrześniowych dni Bielany ponownie staną się przestrzenią spotkań ze sztuką, artystami i twórczą energią mieszkańców. Bielańskie Dni Sztuki 2026 to wyjątkowy festiwal promujący lokalną kulturę, integrację społeczną oraz aktywne uczestnictwo w działaniach artystycznych. W programie wydarzenia znalazły się wystawy malarstwa, grafiki i fotografii prezentowane w galeriach, kawiarniach, pracowniach artystycznych oraz przestrzeni publicznej. Na uczestników czekają również warsztaty plastyczne dla dzieci i dorosłych, plenery malarskie, spotkania autorskie, spacery tematyczne, pokazy artystyczne, performance oraz koncert chóralny. Tegoroczna edycja zgromadzi wielu artystów związanych z Bielanami, którzy zaprezentują swoją twórczość w niecodziennych miejscach dzielnicy. Dzięki temu mieszkańcy będą mogli odkrywać sztukę podczas codziennych spacerów, odwiedzając lokalne galerie, kawiarnie i pracownie. Szczególnym punktem programu będzie ART Bazar, organizowany na terenie zielonym przy bielańskim ratuszu. To całodniowe święto sztuki, podczas którego odbędą się wystawy, warsztaty, spotkania z twórcami, prezentacje różnych technik plastycznych oraz koncert finałowy. W kolejnych dniach uczestnicy będą mogli wziąć udział m.in. w warsztatach monotypii barwnej, tempery jajowej, rodzinnych zajęciach twórczych „Radość tworzenia” oraz cyklu plenerowych warsztatów „Malujemy Bielany”. Bielańskie Dni Sztuki to wydarzenie skierowane do wszystkich grup wiekowych: rodzin z dziećmi, młodzieży, seniorów, pasjonatów sztuki oraz osób, które dopiero rozpoczynają swoją przygodę z twórczością. Wspólne działania artystyczne, otwarte wystawy oraz możliwość bezpośrednich spotkań z twórcami sprawiają, że festiwal staje się prawdziwym świętem kultury i lokalnej wspólnoty. Zapraszamy do odkrywania artystycznych Bielan, rozmów z twórcami, udziału w warsztatach i wspólnego celebrowania sztuki, która inspiruje, łączy mieszkańców i ożywia przestrzeń naszej dzielnicy. Wstęp na wszystkie warsztaty i wystawy jest BEZPŁATNY. HARMONOGRAM BIEAŃSKICH DNI SZTUKI: 18.09 PIĄTEK 16.00- 17.00 Performatywny plener i spotkanie ze sztuką oraz artystami pod Bielańskim Urzędem Dzielnicy Bielany przy ul. Żeromskiego 29. 19.09 SOBOTA 11.00 –11.30 Wspólne rodzinne rysowanie kredą obrazkowej mapy Bielan na pl. Konfederacji. 12.00 OTWARCIE WYSTAW (Wystawy dostępne w godzinach funkcjonowania danego miejsca w dniach 19-27 września) Kawiarnia Las - Joanna Lohn Zając Cafe de la Poste - Iwona Rossochacka Kenny Galeria Magdaleny Kobiereckiej – Iwona Piszczelska, Tomasz Moskal, Magdalena Kobierecka Roślina - Iza Pelska Stopczyk Bistro Bielany - Piotr Romanowski Neuro Tęcza - Łukasz Gawroński Arte Ego - Trzy Barwy - Joanna Adamek, Barbara Golimowska i Ryszarda Łucja Jagielska Przestrzeń publiczna - Agnieszka Urszula Cioch Sklep U Kuby - Natalia Świder Szymczak 17:00 Warsztaty pt. „Radość tworzenia” w pracowni Arte - Ego, ul. Skalbmierska 13, wejście od ul. Kulczyckiej, zapisy: biuro@arte-ego.pl 17:00- 20:00 Wystawa w Galerii Sztuki Transformującej Doroty Dusik przy ul. Arkuszowej 81. 20.09 NIEDZIELA 10:10-12:00 Spacer z przewodnikiem tropami artystów i gwiazd Starych Bielan, start: ul. Żeromskiego 44/50, przy Muralu Krystyny Sienkiewicz ART Bazar - teren zielony przy Urzędzie Dzielnicy Bielany 12.00 -18.00 Wystawy, warsztaty i spotkania z autorami 13:00 -18.00 Warsztaty prowadzone przez wystawiających się artystów z rożnych technik plastycznych 13:00 - 18:00 Wystawa prac Danuty Niklewicz - we foyer w Urzędzie Dzielnicy Bielany 15:00 - 16:00 Spotkanie autorskie z malarką Danutą Niklewicz we foyer w Urzędzie Dzielnicy Bielany 17.30 -18:00 Czytanie Poezji przez Dorotę Dusik 18:00 - 18:50 Koncert chóru EUFONIA i chóru LUTOSINGER 22.09 WTOREK 16.00-18.00 Plener malarski na sztalugach dla dzieci pod Galerią, ul. Schroegera 74 23.09 ŚRODA 16.00- 18:00 Magdalena Kobierecka - „Okno na Sztukę” pokaz oraz warsztat monotypii barwnej. Miejsce Aktywności Lokalnej ul. Kasprowicza 14, zapisy: link 24.09 CZWARTEK 15:00- 18:00 (wejścia 15.00, 16.00 i 17.00) Joanna Parulska Ciuk otwarta pracownia-warsztat z tempery jajowej, al. Zjednoczenia 48/5, zapisy: parulska.studio@gmail.com 18:00-20:00 Spotkanie z artystkami Grupy Trzy Barwy – „Gawędy o sztuce”, Biblioteka Publiczna im. Stanisława Staszica, ul. Romaszewskiego 19 19.00 – Performance łączący obrazy, światło, ciemność i autorski język głosu i dźwięku ARKESONO Dorota Dusik, Galeria Sztuki Transformującej, ul. Arkuszowa 81, zapisy: dorota@dorotadusik.pl 25.09 PIĄTEK 17.00- 19:00 Malujemy Bielany cz.I cykl warsztatów Pracownia Format, ul. Schroegera 72/8, Magdalena Kobierecka i Łukasz Gawroński, zapisy: mk.pracowniaformat@gmail.com 26.09 SOBOTA 12.00- 14:00 Malujemy Bielany cz.II, ul. Schroegera 72/, zapisy: mk.pracowniaformat@gmail.com 14.00- 16:00 Pokaz snycerki Tomasza Moskala pod Galerią, ul Schroegera 74 16.00-18:00  Malujemy Bielany cz.III, ul. Schroegera 72/8, zapisy: mk.pracowniaformat@gmail.com 18.00 -20:00 Afterek pod Stanem Umysłu- muzyczny Jam i Sobietańce, ul. Schroegera 83 27.09 NIEDZIELA 10:00- 12:00 Warsztaty pt. „Radość tworzenia”, pracownia Arte- Ego, ul. Skalbmierska 13, wejście od ul. Kulczyckiej 12.00 Ostatni dzień Otwartych Wystaw 12.00 -14.00 Malujemy Bielany cz.IV, Pracownia Format, ul. Schroegera 72/8, zapisy: mk.pracowniaformat@gmail.com 14:00 - 16:00 Warsztaty pn. Radość tworzenia, pracownia Arte- Ego, ul. Skalbmierska 13, wejście od ul. Kulczyckiej 16.00 -18.00 Malujemy Bielany cz.V, Pracownia Format, ul. Schroegera 72/8, zapisy: mk.pracowniaformat@gmail.com",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1789469936.webp",
+      "location": {
+        "name": "różne lokalizacje, wskazane poniżej :)",
+        "district": "Bielany"
+      },
+      "url": "https://bielany.um.warszawa.pl/-/bielanskie-dni-sztuki-2026",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://bielany.um.warszawa.pl/-/bielanskie-dni-sztuki-2026",
+      "scrapped_timestamp": "2026-09-15T11:32:05.401544+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Workshops",
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "both",
+      "translations": {
+        "pl": {
+          "title": "Bielańskie Dni Sztuki 2026",
+          "description": "Przez dziesięć wrześniowych dni Bielany ponownie staną się przestrzenią spotkań ze sztuką, artystami i twórczą energią mieszkańców. Bielańskie Dni Sztuki 2026 to wyjątkowy festiwal promujący lokalną kulturę, integrację społeczną oraz aktywne uczestnictwo w działaniach artystycznych. W programie wydarzenia znalazły się wystawy malarstwa, grafiki i fotografii prezentowane w galeriach, kawiarniach, pracowniach artystycznych oraz przestrzeni publicznej. Na uczestników czekają również warsztaty plastyczne dla dzieci i dorosłych, plenery malarskie, spotkania autorskie, spacery tematyczne, pokazy artystyczne, performance oraz koncert chóralny. Tegoroczna edycja zgromadzi wielu artystów związanych z Bielanami, którzy zaprezentują swoją twórczość w niecodziennych miejscach dzielnicy. Dzięki temu mieszkańcy będą mogli odkrywać sztukę podczas codziennych spacerów, odwiedzając lokalne galerie, kawiarnie i pracownie. Szczególnym punktem programu będzie ART Bazar, organizowany na terenie zielonym przy bielańskim ratuszu. To całodniowe święto sztuki, podczas którego odbędą się wystawy, warsztaty, spotkania z twórcami, prezentacje różnych technik plastycznych oraz koncert finałowy. W kolejnych dniach uczestnicy będą mogli wziąć udział m.in. w warsztatach monotypii barwnej, tempery jajowej, rodzinnych zajęciach twórczych „Radość tworzenia” oraz cyklu plenerowych warsztatów „Malujemy Bielany”. Bielańskie Dni Sztuki to wydarzenie skierowane do wszystkich grup wiekowych: rodzin z dziećmi, młodzieży, seniorów, pasjonatów sztuki oraz osób, które dopiero rozpoczynają swoją przygodę z twórczością. Wspólne działania artystyczne, otwarte wystawy oraz możliwość bezpośrednich spotkań z twórcami sprawiają, że festiwal staje się prawdziwym świętem kultury i lokalnej wspólnoty. Zapraszamy do odkrywania artystycznych Bielan, rozmów z twórcami, udziału w warsztatach i wspólnego celebrowania sztuki, która inspiruje, łączy mieszkańców i ożywia przestrzeń naszej dzielnicy. Wstęp na wszystkie warsztaty i wystawy jest BEZPŁATNY. HARMONOGRAM BIEAŃSKICH DNI SZTUKI: 18.09 PIĄTEK 16.00- 17.00 Performatywny plener i spotkanie ze sztuką oraz artystami pod Bielańskim Urzędem Dzielnicy Bielany przy ul. Żeromskiego 29. 19.09 SOBOTA 11.00 –11.30 Wspólne rodzinne rysowanie kredą obrazkowej mapy Bielan na pl. Konfederacji. 12.00 OTWARCIE WYSTAW (Wystawy dostępne w godzinach funkcjonowania danego miejsca w dniach 19-27 września) Kawiarnia Las - Joanna Lohn Zając Cafe de la Poste - Iwona Rossochacka Kenny Galeria Magdaleny Kobiereckiej – Iwona Piszczelska, Tomasz Moskal, Magdalena Kobierecka Roślina - Iza Pelska Stopczyk Bistro Bielany - Piotr Romanowski Neuro Tęcza - Łukasz Gawroński Arte Ego - Trzy Barwy - Joanna Adamek, Barbara Golimowska i Ryszarda Łucja Jagielska Przestrzeń publiczna - Agnieszka Urszula Cioch Sklep U Kuby - Natalia Świder Szymczak 17:00 Warsztaty pt. „Radość tworzenia” w pracowni Arte - Ego, ul. Skalbmierska 13, wejście od ul. Kulczyckiej, zapisy: biuro@arte-ego.pl 17:00- 20:00 Wystawa w Galerii Sztuki Transformującej Doroty Dusik przy ul. Arkuszowej 81. 20.09 NIEDZIELA 10:10-12:00 Spacer z przewodnikiem tropami artystów i gwiazd Starych Bielan, start: ul. Żeromskiego 44/50, przy Muralu Krystyny Sienkiewicz ART Bazar - teren zielony przy Urzędzie Dzielnicy Bielany 12.00 -18.00 Wystawy, warsztaty i spotkania z autorami 13:00 -18.00 Warsztaty prowadzone przez wystawiających się artystów z rożnych technik plastycznych 13:00 - 18:00 Wystawa prac Danuty Niklewicz - we foyer w Urzędzie Dzielnicy Bielany 15:00 - 16:00 Spotkanie autorskie z malarką Danutą Niklewicz we foyer w Urzędzie Dzielnicy Bielany 17.30 -18:00 Czytanie Poezji przez Dorotę Dusik 18:00 - 18:50 Koncert chóru EUFONIA i chóru LUTOSINGER 22.09 WTOREK 16.00-18.00 Plener malarski na sztalugach dla dzieci pod Galerią, ul. Schroegera 74 23.09 ŚRODA 16.00- 18:00 Magdalena Kobierecka - „Okno na Sztukę” pokaz oraz warsztat monotypii barwnej. Miejsce Aktywności Lokalnej ul. Kasprowicza 14, zapisy: link 24.09 CZWARTEK 15:00- 18:00 (wejścia 15.00, 16.00 i 17.00) Joanna Parulska Ciuk otwarta pracownia-warsztat z tempery jajowej, al. Zjednoczenia 48/5, zapisy: parulska.studio@gmail.com 18:00-20:00 Spotkanie z artystkami Grupy Trzy Barwy – „Gawędy o sztuce”, Biblioteka Publiczna im. Stanisława Staszica, ul. Romaszewskiego 19 19.00 – Performance łączący obrazy, światło, ciemność i autorski język głosu i dźwięku ARKESONO Dorota Dusik, Galeria Sztuki Transformującej, ul. Arkuszowa 81, zapisy: dorota@dorotadusik.pl 25.09 PIĄTEK 17.00- 19:00 Malujemy Bielany cz.I cykl warsztatów Pracownia Format, ul. Schroegera 72/8, Magdalena Kobierecka i Łukasz Gawroński, zapisy: mk.pracowniaformat@gmail.com 26.09 SOBOTA 12.00- 14:00 Malujemy Bielany cz.II, ul. Schroegera 72/, zapisy: mk.pracowniaformat@gmail.com 14.00- 16:00 Pokaz snycerki Tomasza Moskala pod Galerią, ul Schroegera 74 16.00-18:00  Malujemy Bielany cz.III, ul. Schroegera 72/8, zapisy: mk.pracowniaformat@gmail.com 18.00 -20:00 Afterek pod Stanem Umysłu- muzyczny Jam i Sobietańce, ul. Schroegera 83 27.09 NIEDZIELA 10:00- 12:00 Warsztaty pt. „Radość tworzenia”, pracownia Arte- Ego, ul. Skalbmierska 13, wejście od ul. Kulczyckiej 12.00 Ostatni dzień Otwartych Wystaw 12.00 -14.00 Malujemy Bielany cz.IV, Pracownia Format, ul. Schroegera 72/8, zapisy: mk.pracowniaformat@gmail.com 14:00 - 16:00 Warsztaty pn. Radość tworzenia, pracownia Arte- Ego, ul. Skalbmierska 13, wejście od ul. Kulczyckiej 16.00 -18.00 Malujemy Bielany cz.V, Pracownia Format, ul. Schroegera 72/8, zapisy: mk.pracowniaformat@gmail.com"
+        },
+        "en": {
+          "title": "Bielany Art Days 2026",
+          "description": "For ten days in September, Bielany will once again become a space for encounters with art, artists, and the creative energy of its residents. Bielany Art Days 2026 is a unique festival promoting local culture, social integration, and active participation in artistic activities. The event program includes exhibitions of painting, graphics, and photography presented in galleries, cafes, art studios, and public spaces. Participants can also look forward to art workshops for children and adults, painting plein airs, author meetings, thematic walks, artistic shows, performances, and a choral concert. This year's edition will gather many artists associated with Bielany, who will showcase their work in unusual locations throughout the district."
+        },
+        "uk": {
+          "title": "Білянські Дні Мистецтва 2026",
+          "description": "Протягом десяти вересневих днів Біляни знову стануть простором зустрічей з мистецтвом, художниками та творчою енергією мешканців. Білянські Дні Мистецтва 2026 — це унікальний фестиваль, що пропагує місцеву культуру, соціальну інтеграцію та активну участь у художніх заходах. У програмі події заплановані виставки живопису, графіки та фотографії, які будуть представлені в галереях, кафе, художніх майстернях та публічних просторах. На учасників також чекають художні майстер-класи для дітей та дорослих, пленери живопису, авторські зустрічі, тематичні прогулянки, художні покази, перформанси та хоровий концерт. Цьогорічна редакція збереться багатьох художників, пов'язаних з Білянами, які продемонструють свої твори в незвичних місцях району. Завдяки цьому ми"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bielany",
+      "updated_at": "2026-09-15T11:33:56.682860+00:00"
+    },
+    "warszawski-dzie-kaligrafii-2026-09-19T10:00:00+02:00": {
+      "title": "Warszawski Dzień Kaligrafii",
+      "date": "2026-09-19T10:00:00+02:00",
+      "end_date": "2026-09-19T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "✨ V Warszawski Dzień Kaligrafii – „Kaligrafie Świata”! ✨ Warszawo, czas chwycić za pędzle, brushpeny, markery, stalówki i atrament! ✒️🖌️ Już 19 września 2026 r. Dom Kultury Śródmieście (DKŚ) przy ul. Smolnej stanie się stolicą sztuki pięknego pisania! Stowarzyszenie Warszawski Dom Kaligrafii zaprasza Was na wyjątkowe święto poświęcone kunsztownemu pisaniu z różnych zakątków globu. Niezależnie od tego, czy stawiasz pierwsze kroki i chcesz wypróbować brushpeny czy markery kaligraficzne, czy od lat szlifujesz klasyczny warsztat – WDK 2026 jest wydarzeniem dla każdego! 📍 Gdzie: Dom Kultury Śródmieście (DKŚ), ul. Smolna, Warszawa (obok Ronda de Gaulle’a, naprzeciwko Muzeum Narodowego – wejście od Al. Jerozolimskich) 🗓 Kiedy: 19 września 2026 r. (sobota), godz. 10:00 – 20:00 🎟 Wstęp: WOLNY (bez ograniczeń wiekowych) 🎨 Co na Was czeka w programie? ▸ 10:00 – Uroczyste otwarcie i powitanie gości ▸ 11:00 – Otwarcie wystawy Warszawskich Kaligrafów „Kaligrafie Świata” ▸ 12:00 – 18:00 – Darmowe mini lekcje kaligrafii (co godzinę: 45 min zajęć + 15 min przerwy; decyduje kolejność przybycia) ▸ 12:00 – 18:00 – Konkursy z nagrodami przy wspólnym stole (kategorie: początkujący i zaawansowani) ▸ 18:00 – 20:00 – Wspólne Pisanie – integracja, rozmowy i swobodna praca twórcza przy stołach ✨ Wskakujcie w wir dodatkowych atrakcji! Podczas wydarzenia czekają na Was m.in.: • Pokazy kaligrafii na żywo w wykonaniu mistrzów! • Niezwykła kaligrafia światłem (light writing)! • I wiele innych angażujących aktywności dla małych i dużych! 🛍 Stoisko F-Pen: Przez cały dzień na miejscu będzie dostępne stoisko z profesjonalnymi materiałami – brushpenami, markerami kaligraficznymi, pędzlami, stalówkami, atramentami i papierami. Bierzcie znajomych, rodzinę, dzieci i wpadajcie na Smolną! Do zobaczenia przy wspólnym stole! 🖌️✨",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1789416424.webp",
+      "location": {
+        "name": "Dom Kultury Śródmieście, ul. Smolna 9",
+        "district": "Śródmieście"
+      },
+      "url": "https://fb.me/e/4Sx4naTHH",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://fb.me/e/4Sx4naTHH",
+      "scrapped_timestamp": "2026-09-15T11:32:10.435756+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Warszawski Dzień Kaligrafii",
+          "description": "✨ V Warszawski Dzień Kaligrafii – „Kaligrafie Świata”! ✨ Warszawo, czas chwycić za pędzle, brushpeny, markery, stalówki i atrament! ✒️🖌️ Już 19 września 2026 r. Dom Kultury Śródmieście (DKŚ) przy ul. Smolnej stanie się stolicą sztuki pięknego pisania! Stowarzyszenie Warszawski Dom Kaligrafii zaprasza Was na wyjątkowe święto poświęcone kunsztownemu pisaniu z różnych zakątków globu. Niezależnie od tego, czy stawiasz pierwsze kroki i chcesz wypróbować brushpeny czy markery kaligraficzne, czy od lat szlifujesz klasyczny warsztat – WDK 2026 jest wydarzeniem dla każdego! 📍 Gdzie: Dom Kultury Śródmieście (DKŚ), ul. Smolna, Warszawa (obok Ronda de Gaulle’a, naprzeciwko Muzeum Narodowego – wejście od Al. Jerozolimskich) 🗓 Kiedy: 19 września 2026 r. (sobota), godz. 10:00 – 20:00 🎟 Wstęp: WOLNY (bez ograniczeń wiekowych) 🎨 Co na Was czeka w programie? ▸ 10:00 – Uroczyste otwarcie i powitanie gości ▸ 11:00 – Otwarcie wystawy Warszawskich Kaligrafów „Kaligrafie Świata” ▸ 12:00 – 18:00 – Darmowe mini lekcje kaligrafii (co godzinę: 45 min zajęć + 15 min przerwy; decyduje kolejność przybycia) ▸ 12:00 – 18:00 – Konkursy z nagrodami przy wspólnym stole (kategorie: początkujący i zaawansowani) ▸ 18:00 – 20:00 – Wspólne Pisanie – integracja, rozmowy i swobodna praca twórcza przy stołach ✨ Wskakujcie w wir dodatkowych atrakcji! Podczas wydarzenia czekają na Was m.in.: • Pokazy kaligrafii na żywo w wykonaniu mistrzów! • Niezwykła kaligrafia światłem (light writing)! • I wiele innych angażujących aktywności dla małych i dużych! 🛍 Stoisko F-Pen: Przez cały dzień na miejscu będzie dostępne stoisko z profesjonalnymi materiałami – brushpenami, markerami kaligraficznymi, pędzlami, stalówkami, atramentami i papierami. Bierzcie znajomych, rodzinę, dzieci i wpadajcie na Smolną! Do zobaczenia przy wspólnym stole! 🖌️✨"
+        },
+        "en": {
+          "title": "Warsaw Calligraphy Day",
+          "description": "✨ V Warsaw Calligraphy Day – \"Calligraphies of the World\"! ✨ Warsaw, it's time to grab your brushes, brush pens, markers, nibs, and ink! ✒️🖌️ On September 19, 2026, the Dom Kultury Śródmieście (DKŚ) at Smolna Street will become the capital of beautiful writing art! The Warsaw Calligraphy Association invites you to a unique celebration dedicated to the art of writing from various corners of the globe. Whether you are just starting out and want to try brush pens or calligraphic markers, or you have been honing your classic skills for years – WDK 2026 is an event for everyone! 📍 Where: Dom Kultury Śródmieście (DKŚ), Smolna Street, Warsaw (next to Rondo de Gaulle’a, opposite the National Museum – entrance from Al. Jerozolimskich) 🗓 When: September 19, 2026 (Saturday), from 10:00 AM to 8:00 PM 🎟 Admission: FREE (without"
+        },
+        "uk": {
+          "title": "Варшавський День Калиграфії",
+          "description": "✨ На Варшавському Дні Калиграфії – «Калиграфії Світу»! ✨ Варшава, час взятися за пензлі, брашпени, маркери, стержні та чорнило! ✒️🖌️ Вже 19 вересня 2026 року Будинок Культури Середмістя (БКС) на вулиці Смольній стане столицею мистецтва красивого письма! Асоціація Варшавський Дім Калиграфії запрошує вас на унікальне свято, присвячене майстерному письму з різних куточків світу. Незалежно від того, чи робите ви перші кроки і хочете спробувати брашпени чи каліграфічні маркери, чи вже багато років вдосконалюєте класичну майстерність – ВДК 2026 є подією для кожного! 📍 Де: Будинок Культури Середмістя (БКС), вул. Смольна, Варшава (поряд з Рондом де Голя, навпроти Національного музею – вхід з Ал. Єрусалимських) 🗓 Коли: 19 вересня 2026 року (субота), з 10:00 до 20:00 🎟 Вхід: ВІЛЬНИЙ (безкоштовно)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-15T11:33:56.682870+00:00"
+    },
+    "skatelab-piknik-deskorolkowy-dla-dzieci-i-m-odzie-y-2026-09-19T10:30:00+02:00": {
+      "title": "Skatelab - piknik deskorolkowy dla dzieci i młodzieży",
+      "date": "2026-09-19T10:30:00+02:00",
+      "end_date": "2026-09-19T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "🛹 SkateLab wraca z drugą edycją! 🛹 Czy wiedzieliście, że za organizacją tego niesamowitego dnia stoją cztery nastolatki – Hania, Ewa, Zuzia i Sara? To właśnie one połączyły siły, aby stworzyć przestrzeń, w której każdy może poczuć deskorolkową zajawkę! Ich główne hasło to: „Deskorolka jest dla każdego”. Wydarzenie jest skierowane przede wszystkim do młodzieży, ale spróbować swoich sił może absolutnie każdy! SkateLab powstał po to, aby osoby stawiające pierwsze kroki mogły wejść na skatepark bez stresu, poznać świetnych ludzi i jeździć w swoim własnym tempie. 🕒 HARMONOGRAM WYDARZENIA: • 10:30 – Start zapisów (Zgłoś się do biura eventu!) • 11:00 – 11:50 – Zajęcia na deskorolce z instruktorami • 12:00 – 13:00 – Warsztaty składania deski • 13:00 – 13:50 – Zajęcia na deskorolce z instruktorami • 14:00 – Zawody dla początkujących • 14:45 – Zawody dla zaawansowanych • 15:30 – Zawody (kolejna kategoria / finały) • 16:45 – Zakończenie zawodów i podsumowanie pikniku 💡 Co musisz wiedzieć przed przyjściem? 🎟️ Wstęp wolny – całe wydarzenie jest całkowicie bezpłatne. 🛹 Nie masz sprzętu? Spokojnie! Deski będą dostępne do bezpłatnego wypożyczenia na miejscu . ⛑️ Bezpieczeństwo przede wszystkim: Kask podczas jazdy jest absolutnie obowiązkowy! SkateLab nie zapewnia kasków ani ochraniaczy, więc pamiętaj, by zabrać swój z domu. 🎨 Dodatkowe atrakcje: Oprócz jazdy czekają na Was warsztaty artystyczne, warsztaty dla rodziców oraz konkursy z nagrodami od sponsorów! 📧Zapisy: Udział w SkateLabie jest całkowicie darmowy, ale ze względów organizacyjnych obowiązują wcześniejsze zapisy online. Zgłoś się już teraz >> link 📃Oświadczenia: Po przyjściu zgłoś się do biura eventu, aby odebrać identyfikator. Aby przyspieszyć formalności, pobierz, wydrukuj i wypełnij oświadczenie uczestnika (dostępne na stronie zapisów). 📅 Kiedy: Sobota, 19 września 2026 r., godz. 10:30-16:45 📍 Gdzie: Skatepark Zachodni w Parku Pięciu Sióstr (Ochota) Patronat Honorowy nad wydarzeniem objął Piotr Krasnodębski - Burmistrz Dzielnicy Ochota m. st. Warszawy. Akcja odbywa się również w ramach Warszawskich Dni Rodzinnych. Do zobaczenia na deskorolce! Wpadajcie pojeździć, pogadać i aktywnie spędzić ten dzień! 🤝",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1789458909.webp",
+      "location": {
+        "name": "Skatepark Zachodni, Park Pięciu Sióstr",
+        "district": "Ochota"
+      },
+      "url": "https://www.facebook.com/100042021406305/posts/pfbid0b8cbyJAnG2Qj5z38GsNBknZST1nAGAU1kPFmvnHkYuRzZQzt8Er5rnBoDYpJtgsTl/?rdid=iuADYouyOIbP8uh4#",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/100042021406305/posts/pfbid0b8cbyJAnG2Qj5z38GsNBknZST1nAGAU1kPFmvnHkYuRzZQzt8Er5rnBoDYpJtgsTl/?rdid=iuADYouyOIbP8uh4#",
+      "scrapped_timestamp": "2026-09-15T11:32:26.201002+00:00",
+      "category": "Sports",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 13,
+        "max": 18
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Skatelab - piknik deskorolkowy dla dzieci i młodzieży",
+          "description": "🛹 SkateLab wraca z drugą edycją! 🛹 Czy wiedzieliście, że za organizacją tego niesamowitego dnia stoją cztery nastolatki – Hania, Ewa, Zuzia i Sara? To właśnie one połączyły siły, aby stworzyć przestrzeń, w której każdy może poczuć deskorolkową zajawkę! Ich główne hasło to: „Deskorolka jest dla każdego”. Wydarzenie jest skierowane przede wszystkim do młodzieży, ale spróbować swoich sił może absolutnie każdy! SkateLab powstał po to, aby osoby stawiające pierwsze kroki mogły wejść na skatepark bez stresu, poznać świetnych ludzi i jeździć w swoim własnym tempie. 🕒 HARMONOGRAM WYDARZENIA: • 10:30 – Start zapisów (Zgłoś się do biura eventu!) • 11:00 – 11:50 – Zajęcia na deskorolce z instruktorami • 12:00 – 13:00 – Warsztaty składania deski • 13:00 – 13:50 – Zajęcia na deskorolce z instruktorami • 14:00 – Zawody dla początkujących • 14:45 – Zawody dla zaawansowanych • 15:30 – Zawody (kolejna kategoria / finały) • 16:45 – Zakończenie zawodów i podsumowanie pikniku 💡 Co musisz wiedzieć przed przyjściem? 🎟️ Wstęp wolny – całe wydarzenie jest całkowicie bezpłatne. 🛹 Nie masz sprzętu? Spokojnie! Deski będą dostępne do bezpłatnego wypożyczenia na miejscu . ⛑️ Bezpieczeństwo przede wszystkim: Kask podczas jazdy jest absolutnie obowiązkowy! SkateLab nie zapewnia kasków ani ochraniaczy, więc pamiętaj, by zabrać swój z domu. 🎨 Dodatkowe atrakcje: Oprócz jazdy czekają na Was warsztaty artystyczne, warsztaty dla rodziców oraz konkursy z nagrodami od sponsorów! 📧Zapisy: Udział w SkateLabie jest całkowicie darmowy, ale ze względów organizacyjnych obowiązują wcześniejsze zapisy online. Zgłoś się już teraz >> link 📃Oświadczenia: Po przyjściu zgłoś się do biura eventu, aby odebrać identyfikator. Aby przyspieszyć formalności, pobierz, wydrukuj i wypełnij oświadczenie uczestnika (dostępne na stronie zapisów). 📅 Kiedy: Sobota, 19 września 2026 r., godz. 10:30-16:45 📍 Gdzie: Skatepark Zachodni w Parku Pięciu Sióstr (Ochota) Patronat Honorowy nad wydarzeniem objął Piotr Krasnodębski - Burmistrz Dzielnicy Ochota m. st. Warszawy. Akcja odbywa się również w ramach Warszawskich Dni Rodzinnych. Do zobaczenia na deskorolce! Wpadajcie pojeździć, pogadać i aktywnie spędzić ten dzień! 🤝"
+        },
+        "en": {
+          "title": "Skatelab - Skateboarding Picnic for Children and Youth",
+          "description": "🛹 SkateLab is back with its second edition! 🛹 Did you know that this amazing day is organized by four teenagers – Hania, Ewa, Zuzia, and Sara? They joined forces to create a space where everyone can feel the skateboarding vibe! Their main slogan is: 'Skateboarding is for everyone.' The event is primarily aimed at youth, but absolutely anyone can try their hand at it! SkateLab was created so that beginners can enter the skatepark without stress, meet great people, and ride at their own pace. 🕒 EVENT SCHEDULE: • 10:30 – Start of registrations (Sign up at the event office!) • 11:00 – 11:50 – Skateboarding lessons with instructors • 12:00 – 13:00 – Skateboard assembly workshop • 13:00 – 13:50 – Skateboarding lessons with instructors"
+        },
+        "uk": {
+          "title": "Skatelab - пікнік скейтбордингу для дітей та молоді",
+          "description": "🛹 SkateLab повертається з другою редакцією! 🛹 Чи знали ви, що за організацією цього неймовірного дня стоять чотири підлітки – Ганя, Ева, Зузя та Сара? Саме вони об'єднали зусилля, щоб створити простір, в якому кожен може відчути захоплення скейтбордингом! Їхнє головне гасло: «Скейтборд для всіх». Подія спрямована насамперед на молодь, але спробувати свої сили може абсолютно кожен! SkateLab був створений для того, щоб люди, які роблять перші кроки, могли зайти на скейтпарк без стресу, познайомитися з чудовими людьми та кататися у своєму власному темпі. 🕒 РОЗКЛАД ПОДІЇ: • 10:30 – Початок реєстрації (Запишіться в офісі події!) • 11:00 – 11:50 – Заняття на скейтборді з інструкторами • 12:00 – 13:00 – Майстер-клас зі складання дошки • 13:00 – 13:50 – Заняття на скейтборді з інструкторами"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Ochota",
+      "updated_at": "2026-09-15T11:33:56.682908+00:00"
+    },
+    "p-nocn-opanowuje-wiat-paliona-2026-09-19T11:00:00+02:00": {
+      "title": "Północną opanowuje świat Paliona",
+      "date": "2026-09-19T11:00:00+02:00",
+      "end_date": "2026-09-19T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Gotowi na dzień pełen emocji, kreatywnej zabawy i mnóstwa atrakcji, które przeniosą Was wprost do świata Paliona?! Zabierzcie rodziny i przyjaciół! Dajcie się porwać wyjątkowej energii, która zawładnie Białołęką! Zaplanowaliśmy dla Was mnóstwo stref tematycznych! 📸 Zrobicie pamiątkowe zdjęcia z maskotkami Palionem, Leonem i Olkiem – bohaterami dobrze znanymi fanom Paliona. W fotobudce AI stworzycie z kolei fotografię inspirowaną światem gier, przygód i wyobraźni. ⛏ Nie może zabraknąć również czegoś dla miłośników autorskich konstrukcji! W tej strefie uczestnicy będą mogli puścić wodze fantazji i tworzyć własne konstrukcje inspirowane minecraftowym światem. ⚔ Podczas specjalnych warsztatów pokażemy, jak wykonać własnoręcznie miecz SWORD, by potem zabrać go ze sobą na pamiątkę. ✨ Podczas warsztatów przygotujecie własne zawieszki, breloczki i bransoletki, samodzielnie dobierając kolory i dodatki. 💚 Będą tatuaże natryskowe i zielona wata cukrowa 💥 W PalionStyle znajdziecie oficjalne produkty – do wyboru do koloru! To okazja, by znaleźć ulubiony gadżet i zabrać ze sobą wyjątkową pamiątkę z wydarzenia. 19 września Galeria Północna zamieni się w miejsce pełne minecraftowych inspiracji, kreatywnej zabawy i spotkań z ulubionymi bohaterami.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1789390590.webp",
+      "location": {
+        "name": "Galeria Północna ul. Światowida 17",
+        "district": "Białołęka"
+      },
+      "url": "https://www.facebook.com/events/1806066630499791?acontext={\"event_action_history\":[{\"mechanism\":\"attachment\",\"surface\":\"newsfeed\"}],\"ref_notif_type\":null}",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1806066630499791?acontext={\"event_action_history\":[{\"mechanism\":\"attachment\",\"surface\":\"newsfeed\"}],\"ref_notif_type\":null}",
+      "scrapped_timestamp": "2026-09-15T11:32:37.822382+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Workshops",
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Północną opanowuje świat Paliona",
+          "description": "Gotowi na dzień pełen emocji, kreatywnej zabawy i mnóstwa atrakcji, które przeniosą Was wprost do świata Paliona?! Zabierzcie rodziny i przyjaciół! Dajcie się porwać wyjątkowej energii, która zawładnie Białołęką! Zaplanowaliśmy dla Was mnóstwo stref tematycznych! 📸 Zrobicie pamiątkowe zdjęcia z maskotkami Palionem, Leonem i Olkiem – bohaterami dobrze znanymi fanom Paliona. W fotobudce AI stworzycie z kolei fotografię inspirowaną światem gier, przygód i wyobraźni. ⛏ Nie może zabraknąć również czegoś dla miłośników autorskich konstrukcji! W tej strefie uczestnicy będą mogli puścić wodze fantazji i tworzyć własne konstrukcje inspirowane minecraftowym światem. ⚔ Podczas specjalnych warsztatów pokażemy, jak wykonać własnoręcznie miecz SWORD, by potem zabrać go ze sobą na pamiątkę. ✨ Podczas warsztatów przygotujecie własne zawieszki, breloczki i bransoletki, samodzielnie dobierając kolory i dodatki. 💚 Będą tatuaże natryskowe i zielona wata cukrowa 💥 W PalionStyle znajdziecie oficjalne produkty – do wyboru do koloru! To okazja, by znaleźć ulubiony gadżet i zabrać ze sobą wyjątkową pamiątkę z wydarzenia. 19 września Galeria Północna zamieni się w miejsce pełne minecraftowych inspiracji, kreatywnej zabawy i spotkań z ulubionymi bohaterami."
+        },
+        "en": {
+          "title": "The North is Conquered by the World of Palion",
+          "description": "Are you ready for a day full of emotions, creative fun, and plenty of attractions that will transport you straight into the world of Palion?! Bring your families and friends! Let yourself be swept away by the unique energy that will take over Białołęka! We have planned many themed zones for you! 📸 You will take commemorative photos with the mascots Palion, Leon, and Olek – heroes well-known to Palion fans. In the AI photo booth, you will create a photograph inspired by the world of games, adventures, and imagination. ⛏ There will also be something for fans of original constructions! In this zone, participants will be able to unleash their imagination and create their own constructions inspired by the Minecraft world. ⚔ During special workshops, we will show you how to make your own SWORD, which you can then take home as a souvenir. ✨ During the..."
+        },
+        "uk": {
+          "title": "Північна опановує світ Палліона",
+          "description": "Готові до дня, сповненого емоцій, креативних розваг та безлічі атракцій, які перенесуть вас прямо у світ Палліона?! Заберіть родини та друзів! Дайте себе захопити унікальною енергією, яка заволодіє Білолужем! Ми запланували для вас безліч тематичних зон! 📸 Ви зробите пам'ятні фотографії з маскотами Палліоном, Леоном та Олексом – героями, добре відомими фанатам Палліона. У фотобудці AI ви створите фотографію, натхненну світом ігор, пригод та уяви. ⛏ Не може не бути чогось і для любителів авторських конструкцій! У цій зоні учасники зможуть дати волю фантазії та створювати власні конструкції, натхнені світом Minecraft. ⚔ Під час спеціальних майстер-класів ми покажемо, як виготовити власноруч меч SWORD, щоб потім забрати його з собою на пам'ять. ✨ Під час..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Białołęka",
+      "updated_at": "2026-09-15T11:33:56.682933+00:00"
+    },
+    "aktywna-rodzina-rodzinny-sportowy-challenge-2026-09-20T11:00:00+02:00": {
+      "title": "Aktywna Rodzina – Rodzinny Sportowy Challenge",
+      "date": "2026-09-20T11:00:00+02:00",
+      "end_date": "2026-09-20T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Rodzinne wyzwania, tory przeszkód, sztafety i zadania z piłkami – tak zapowiada się Aktywna Rodzina – Rodzinny Sportowy Challenge. Zapraszamy dzieci w wieku 7–15 lat z rodzicami, rodzeństwem i dziadkami: 20 września, godz. 11.00–14.00 Centrum Sportu Wilanów, ul. Wiertnicza 26a Udział mogą wziąć wszyscy, niezależnie od poziomu sprawności. Zbierzcie drużynę i spotkajmy się na hali.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1789470218.webp",
+      "location": {
+        "name": "Centrum Sportu Wilanów, ul. Wiertnicza 26a",
+        "district": "Wilanów"
+      },
+      "url": "https://www.facebook.com/photo/?fbid=1513397317494867&set=a.557176729783602",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo/?fbid=1513397317494867&set=a.557176729783602",
+      "scrapped_timestamp": "2026-09-15T11:32:44.078159+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 7,
+        "max": 15
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Aktywna Rodzina – Rodzinny Sportowy Challenge",
+          "description": "Rodzinne wyzwania, tory przeszkód, sztafety i zadania z piłkami – tak zapowiada się Aktywna Rodzina – Rodzinny Sportowy Challenge. Zapraszamy dzieci w wieku 7–15 lat z rodzicami, rodzeństwem i dziadkami: 20 września, godz. 11.00–14.00 Centrum Sportu Wilanów, ul. Wiertnicza 26a Udział mogą wziąć wszyscy, niezależnie od poziomu sprawności. Zbierzcie drużynę i spotkajmy się na hali."
+        },
+        "en": {
+          "title": "Active Family – Family Sports Challenge",
+          "description": "Family challenges, obstacle courses, relays, and ball tasks – this is what the Active Family – Family Sports Challenge looks like. We invite children aged 7–15 years with their parents, siblings, and grandparents: September 20, from 11:00 AM to 2:00 PM at the Wilanów Sports Center, 26a Wiertnicza Street. Everyone can participate, regardless of fitness level. Gather your team and let's meet in the hall."
+        },
+        "uk": {
+          "title": "Активна Родина – Сімейний Спортивний Челендж",
+          "description": "Сімейні виклики, перешкоди, естафети та завдання з м'ячами – так анонсується Активна Родина – Сімейний Спортивний Челендж. Запрошуємо дітей віком 7–15 років з батьками, братами, сестрами та дідусями: 20 вересня, з 11:00 до 14:00, Центр Спорту Віланов, вул. Віртнічна 26а. Участь можуть взяти всі, незалежно від рівня фізичної підготовки. Зберіть команду і зустрінемося в залі."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wilanów",
+      "updated_at": "2026-09-15T11:33:56.682944+00:00"
+    },
+    "bezp-atne-zaj-cia-taneczne-dla-dzieci-4-8-lat-z-niepe-nosprawno-ciami-2026-09-21T17:00:00+02:00": {
+      "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
+      "date": "2026-09-21T17:00:00+02:00",
+      "end_date": "2026-09-21T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
+      "location": {
+        "name": "Powstańców Śląskich 126",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "scrapped_timestamp": "2026-09-15T11:32:48.758084+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 4,
+        "max": 8
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
+          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
+        },
+        "en": {
+          "title": "Free Dance Classes for Children Aged 4-8 with Disabilities",
+          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District. SCHEDULE: Mondays 5:00 PM - dance classes for children aged 4-8 Mondays 6:00 PM - dance classes for parents with children aged 3-8 Thursdays 12:00 PM - solo Latino Thursdays 1:00 PM - corrective gymnastics Location: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor) Registration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
+        },
+        "uk": {
+          "title": "Безкоштовні танцювальні заняття для дітей 4-8 років з інвалідністю",
+          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття частково фінансуються з коштів Району Бемово. ГРАФІК: Понеділок 17:00 - танцювальні заняття для дітей 4-8 років Понеділок 18:00 - танцювальні заняття для батьків з дітьми 3-8 років Четвер 12:00 - латина соло Четвер 13:00 - гімнастика для покращення фізичної форми Локація: MAL Спотикальня, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх) Запис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-15T11:33:56.682959+00:00"
+    },
+    "bezp-atne-zaj-cia-taneczne-dla-rodzic-w-z-dzie-mi-3-8-lat-z-niepe-nosprawno-ciami-2026-09-21T18:00:00+02:00": {
+      "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
+      "date": "2026-09-21T18:00:00+02:00",
+      "end_date": "2026-09-21T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
+      "location": {
+        "name": "Powstańców Śląskich 126",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "scrapped_timestamp": "2026-09-15T11:32:53.109539+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 4,
+        "max": 8
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
+          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
+        },
+        "en": {
+          "title": "Free Dance Classes for Parents with Children Aged 3-8 with Disabilities",
+          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District. SCHEDULE: Mondays 5:00 PM - dance classes for children aged 4-8 Mondays 6:00 PM - dance classes for parents with children aged 3-8 Thursdays 12:00 PM - solo Latino Thursdays 1:00 PM - rehabilitation gymnastics Location: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor) Registration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
+        },
+        "uk": {
+          "title": "Безкоштовні танцювальні заняття для батьків з дітьми 3-8 років з інвалідністю",
+          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово. ГАРМОНІЯ: Понеділки 17:00 - танцювальні заняття для дітей 4-8 років Понеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років Четверги 12:00 - латино соло Четверги 13:00 - гімнастика для покращення фізичної форми Локація: MAL Спотикальня, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх) Запис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-15T11:33:56.682974+00:00"
+    },
+    "festiwal-turkus-2026-09-25T18:00:00+02:00": {
+      "title": "Festiwal TURKUS!",
+      "date": "2026-09-25T18:00:00+02:00",
+      "end_date": "2026-09-25T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "TURKUS FESTIVAL to wyjątkowe wydarzenie tworzone w PJM, skierowane do osób Głuchych, słabosłyszących oraz użytkowników polskiego języka migowego. To przestrzeń spotkań, wymiany doświadczeń, inspiracji i wspólnego działania, w której kultura, sztuka, edukacja i rozrywka łączą się w jednym miejscu. Celem Festiwalu jest pokazanie różnorodności społeczności Głuchych, promowanie twórczości, talentów i osiągnięć osób Głuchych oraz stworzenie przestrzeni do rozmowy o ważnych tematach dotyczących ich życia i przyszłości. Wszystkie wydarzenia odbywają się w polskim języku migowym, tworząc naturalne i dostępne środowisko dla uczestników. TURKUS FESTIVAL to wydarzenie dla każdego, w programie: TURKUS Opening czyli oficjalne otwarcie i rozpoczęcie festiwalu, TURKUS Space czyli inspirujące prelekcje, TURKUS Expo czyli przestrzeń wystawców, twórców, organizacji i ciekawych inicjatyw, TURKUS Debate czyli rozmowy o sprawach ważnych dla społeczności Głuchych, TURKUS Movie czyli pokazy filmów, TURKUS Battle czyli artystyczne pojedynki w PJM, TURKUS Kids czyli warsztaty dla dzieci i rodziców/opiekunów, TURKUS Games czyli gry i integracja, oraz TURKUS Oprowadzania czyli odprowadzania po wystawach. Z myślą o rodzinach planujemy również zapewnienie, w wybranych godzinach, opieki dla dzieci. Dzięki temu rodzice będą mogli swobodnie uczestniczyć w wydarzeniach Festiwalu. Szczegółowy program i zapisy >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1789457171.webp",
+      "location": {
+        "name": "Państwowe Muzeum Etnograficzne, ul. Kredytowa 1",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/events/1390572389830883/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1390572389830883/",
+      "scrapped_timestamp": "2026-09-15T11:32:58.188399+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Educational",
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Festiwal TURKUS!",
+          "description": "TURKUS FESTIVAL to wyjątkowe wydarzenie tworzone w PJM, skierowane do osób Głuchych, słabosłyszących oraz użytkowników polskiego języka migowego. To przestrzeń spotkań, wymiany doświadczeń, inspiracji i wspólnego działania, w której kultura, sztuka, edukacja i rozrywka łączą się w jednym miejscu. Celem Festiwalu jest pokazanie różnorodności społeczności Głuchych, promowanie twórczości, talentów i osiągnięć osób Głuchych oraz stworzenie przestrzeni do rozmowy o ważnych tematach dotyczących ich życia i przyszłości. Wszystkie wydarzenia odbywają się w polskim języku migowym, tworząc naturalne i dostępne środowisko dla uczestników. TURKUS FESTIVAL to wydarzenie dla każdego, w programie: TURKUS Opening czyli oficjalne otwarcie i rozpoczęcie festiwalu, TURKUS Space czyli inspirujące prelekcje, TURKUS Expo czyli przestrzeń wystawców, twórców, organizacji i ciekawych inicjatyw, TURKUS Debate czyli rozmowy o sprawach ważnych dla społeczności Głuchych, TURKUS Movie czyli pokazy filmów, TURKUS Battle czyli artystyczne pojedynki w PJM, TURKUS Kids czyli warsztaty dla dzieci i rodziców/opiekunów, TURKUS Games czyli gry i integracja, oraz TURKUS Oprowadzania czyli odprowadzania po wystawach. Z myślą o rodzinach planujemy również zapewnienie, w wybranych godzinach, opieki dla dzieci. Dzięki temu rodzice będą mogli swobodnie uczestniczyć w wydarzeniach Festiwalu. Szczegółowy program i zapisy >> link"
+        },
+        "en": {
+          "title": "TURKUS Festival!",
+          "description": "The TURKUS FESTIVAL is a unique event created in Polish Sign Language (PJM), aimed at Deaf, hard of hearing individuals, and users of Polish Sign Language. It is a space for meetings, sharing experiences, inspiration, and collective action, where culture, art, education, and entertainment come together in one place. The goal of the Festival is to showcase the diversity of the Deaf community, promote the creativity, talents, and achievements of Deaf individuals, and create a space for discussions on important topics concerning their lives and future. All events are conducted in Polish Sign Language, creating a natural and accessible environment for participants. The TURKUS FESTIVAL is an event for everyone, featuring: TURKUS Opening, which is the official opening and start of the festival, TURKUS Space, which includes inspiring lectures, and more."
+        },
+        "uk": {
+          "title": "Фестиваль ТУРКУС!",
+          "description": "ФЕСТИВАЛЬ ТУРКУС - це унікальна подія, створена в PJM, спрямована на людей з порушеннями слуху, слабочуючих та користувачів польської жестової мови. Це простір зустрічей, обміну досвідом, натхнення та спільної діяльності, в якому культура, мистецтво, освіта та розваги поєднуються в одному місці. Метою фестивалю є показати різноманітність спільноти Глухих, просувати творчість, таланти та досягнення людей з порушеннями слуху, а також створити простір для розмови про важливі теми, що стосуються їхнього життя та майбутнього. Усі події проходять польською жестовою мовою, створюючи природне та доступне середовище для учасників. ФЕСТИВАЛЬ ТУРКУС - це подія для всіх, у програмі: Офіційне відкриття ТУРКУС, тобто офіційне відкриття та початок фестивалю, ТУРКУС Простір, тобто надихаючі лекції."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-15T11:33:56.682983+00:00"
+    },
+    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-09-15T10:00:00+02:00": {
+      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
+      "date": "2026-09-15T10:00:00+02:00",
+      "end_date": "2026-09-15T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
+      "source": "gojammin.com",
+      "district": "Śródmieście",
+      "location": {
+        "name": "Agrykola 1, 00-460 Warszawa, Poland",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
+      "scrapped_timestamp": "2026-09-15T11:33:04.354557+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
+          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
+        },
+        "en": {
+          "title": "Guided Tours of the Exhibition 'Nabis: Prophets of a New Art'",
+          "description": "Join us for guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world-renowned works, including paintings by masters such as Maurice Denis, Paul Ranson, and Paul Sérusier. The exhibition curators and museum educators will provide insights into these artworks. The exhibition 'Nabis: Prophets of a New Art' showcases the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called Pont-Aven School. It also includes works of a religious and esoteric nature, interior views, and genre scenes, as well as the activities of the Natanson brothers - Tadeusz and Aleksander - and their magazine 'La Revue Blanche'. In total, we will see over 90 works in the fields of painting, drawing, and graphics. The works come from both Polish and foreign collections."
+        },
+        "uk": {
+          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
+          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\". Запрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Ми побачимо світові твори, а це, зокрема, картини таких майстрів, як Моріс Дені, Поль Рансон і Поль Серюзьє. Про них розкажуть куратори експозиції та музейні освітяни. Виставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Поля Гогена і так званої Школи Понтавен. Вона також охоплює твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, яку проводили брати Натансон - Тадеуш і Олександр - журналу \"La Revue Blanche\". Всього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних колекцій."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
+      },
+      "updated_at": "2026-09-15T11:33:56.682997+00:00"
+    },
+    "zielone-s-siedztwo-ogr-d-spo-eczny-w-azienkach-kr-lewskich-2026-09-15T18:00:00+02:00": {
+      "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
+      "date": "2026-09-15T18:00:00+02:00",
+      "end_date": "2026-09-15T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Stwórz wspólnie z nami ogród społeczny Łazienek Królewskich — przestrzeń aktywnego działania, edukacji ekologicznej oraz integracji lokalnej społeczności! Zapisy do 3 lipca 2026 r.: Formularz zgłoszeniowy należy przesłać na adres e-mail: ogrod.spoleczny@lazienki-krolewskie.pl Formularz online Do 6 lipca (włącznie) potwierdzimy udział w projekcie. Decyduje kolejność zgłoszeń. Ekspertka ogrodnictwa: Zuzanna Molak — ogrodniczka, przyrodniczka, edukatorka. Absolwentka biologii i ogrodnictwa na SGGW. Obecnie edukuje dzieci i dorosłych w zakresie przyrody i ogrodnictwa. Fanpage: Facebook O projekcie: Inicjatywa skierowana do mieszkańców Warszawy — rodzin z dziećmi, młodzieży i dorosłych, w tym osób o szczególnych potrzebach. Uczestnicy aktywnie zaangażują się w tworzenie i pielęgnację ogrodu działającego jako obieg zamknięty: powstanie kompostownik, wprowadzimy rozwiązania wspierające retencję wody, posadzimy rośliny użytkowe, zioła oraz gatunki miododajne wspierające dzikie zapylacze, co wzmocni lokalną bioróżnorodność. Projekt ma na celu poprawę jakości środowiska, budowanie relacji społecznych i poczucia współodpowiedzialności za dziedzictwo przyrodnicze i kulturowe Łazienek Królewskich. W ramach przedsięwzięcia realizowane będą liczne działania edukacyjne i warsztaty DIY. Projekt obejmuje: Cykl spotkań edukacyjnych prowadzonych przez ekspertów z zakresu przyrody, ogrodnictwa, dendrologii oraz historii Łazienek Królewskich. Wspólne projektowanie ogrodu społecznego oraz dobór roślin z uwzględnieniem funkcji użytkowych i ekologicznych. Zakładanie ogrodu: nasadzenia roślin użytkowych, ziół i gatunków miododajnych. Utworzenie kompostownika oraz wdrożenie rozwiązań wspierających retencję wody. Warsztaty praktyczne typu DIY, m.in. tworzenie ceramicznych tabliczek opisujących rośliny. Regularne spotkania uczestników sprzyjające integracji, wymianie doświadczeń i budowaniu poczucia wspólnoty. Spotkanie podsumowujące projekt, obejmujące ewaluację działań oraz wzmocnienie trwałości inicjatywy. Harmonogram spotkań (spotkania z ekspertką ds. ogrodnictwa w Nowej Palmiarni): 9 lipca, godz. 18:00–20:00 — Spotkanie otwierające 16 lipca, godz. 18:00–20:00 — Kompost 23 lipca, godz. 18:00–20:00 — Uprawa warzyw cz. 1 25 lipca, godz. 15:00–16:30 — Spacer \"Dziko rosnące rośliny jadalne i lecznicze\" 6 sierpnia, godz. 18:00–20:00 — Uprawa warzyw cz. 2 13 sierpnia, godz. 18:00–20:00 — Permakultura 20 sierpnia, godz. 18:00–20:00 — Miejskie ogrodnictwo 1 września, godz. 18:00–20:00 — Bioróżnorodność 8 września, godz. 18:00–20:00 — Woda w ogrodzie 15 września, godz. 18:00–20:00 — Krzewy owocowe 1 października, godz. 18:00–20:00 — Naturalne metody ochrony roślin 8 października, godz. 18:00–20:00 — Bank nasion 15 października, godz. 18:00–20:00 Warsztaty tworzenia ceramicznych tabliczek (Nowa Palmiarnia): 21 lipca, godz. 18:00–20:00 — I część 30 lipca, godz. 18:00–20:00 — II część Spacery po łazienkowskich ogrodach (start: Nowa Palmiarnia): 27 lipca, godz. 17:00–18:30 — \"Zwierzęta Łazienek Królewskich\" 3 sierpnia, godz. 17:00–18:30 — \"Drzewa Łazienek Królewskich\" 7 września, godz. 17:00–18:30 — \"Historia ogrodów Łazienek Królewskich\" 14 września, godz. 17:00–18:30 — \"Zieleń niska Łazienek Królewskich\" Uwaga: poszczególne daty mogą ulec zmianie; o zmianach będziemy informować zapisanych uczestników. Projekt sfinansowano ze środków Fundacji Veolia Polska.",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Ff5856f8b-dcef-4f40-b0ee-04f9b39c6fba.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/f5856f8b-dcef-4f40-b0ee-04f9b39c6fba",
+      "source": "gojammin.com",
+      "district": "Śródmieście",
+      "location": {
+        "name": "Agrykola 1, 00-460 Warszawa, Poland",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/f5856f8b-dcef-4f40-b0ee-04f9b39c6fba",
+      "scrapped_timestamp": "2026-09-15T11:33:10.082914+00:00",
+      "category": "Nature & Wildlife",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Zielone sąsiedztwo - ogród społeczny w Łazienkach Królewskich",
+          "description": "Stwórz wspólnie z nami ogród społeczny Łazienek Królewskich — przestrzeń aktywnego działania, edukacji ekologicznej oraz integracji lokalnej społeczności! Zapisy do 3 lipca 2026 r.: Formularz zgłoszeniowy należy przesłać na adres e-mail: ogrod.spoleczny@lazienki-krolewskie.pl Formularz online Do 6 lipca (włącznie) potwierdzimy udział w projekcie. Decyduje kolejność zgłoszeń. Ekspertka ogrodnictwa: Zuzanna Molak — ogrodniczka, przyrodniczka, edukatorka. Absolwentka biologii i ogrodnictwa na SGGW. Obecnie edukuje dzieci i dorosłych w zakresie przyrody i ogrodnictwa. Fanpage: Facebook O projekcie: Inicjatywa skierowana do mieszkańców Warszawy — rodzin z dziećmi, młodzieży i dorosłych, w tym osób o szczególnych potrzebach. Uczestnicy aktywnie zaangażują się w tworzenie i pielęgnację ogrodu działającego jako obieg zamknięty: powstanie kompostownik, wprowadzimy rozwiązania wspierające retencję wody, posadzimy rośliny użytkowe, zioła oraz gatunki miododajne wspierające dzikie zapylacze, co wzmocni lokalną bioróżnorodność. Projekt ma na celu poprawę jakości środowiska, budowanie relacji społecznych i poczucia współodpowiedzialności za dziedzictwo przyrodnicze i kulturowe Łazienek Królewskich. W ramach przedsięwzięcia realizowane będą liczne działania edukacyjne i warsztaty DIY. Projekt obejmuje: Cykl spotkań edukacyjnych prowadzonych przez ekspertów z zakresu przyrody, ogrodnictwa, dendrologii oraz historii Łazienek Królewskich. Wspólne projektowanie ogrodu społecznego oraz dobór roślin z uwzględnieniem funkcji użytkowych i ekologicznych. Zakładanie ogrodu: nasadzenia roślin użytkowych, ziół i gatunków miododajnych. Utworzenie kompostownika oraz wdrożenie rozwiązań wspierających retencję wody. Warsztaty praktyczne typu DIY, m.in. tworzenie ceramicznych tabliczek opisujących rośliny. Regularne spotkania uczestników sprzyjające integracji, wymianie doświadczeń i budowaniu poczucia wspólnoty. Spotkanie podsumowujące projekt, obejmujące ewaluację działań oraz wzmocnienie trwałości inicjatywy. Harmonogram spotkań (spotkania z ekspertką ds. ogrodnictwa w Nowej Palmiarni): 9 lipca, godz. 18:00–20:00 — Spotkanie otwierające 16 lipca, godz. 18:00–20:00 — Kompost 23 lipca, godz. 18:00–20:00 — Uprawa warzyw cz. 1 25 lipca, godz. 15:00–16:30 — Spacer \"Dziko rosnące rośliny jadalne i lecznicze\" 6 sierpnia, godz. 18:00–20:00 — Uprawa warzyw cz. 2 13 sierpnia, godz. 18:00–20:00 — Permakultura 20 sierpnia, godz. 18:00–20:00 — Miejskie ogrodnictwo 1 września, godz. 18:00–20:00 — Bioróżnorodność 8 września, godz. 18:00–20:00 — Woda w ogrodzie 15 września, godz. 18:00–20:00 — Krzewy owocowe 1 października, godz. 18:00–20:00 — Naturalne metody ochrony roślin 8 października, godz. 18:00–20:00 — Bank nasion 15 października, godz. 18:00–20:00 Warsztaty tworzenia ceramicznych tabliczek (Nowa Palmiarnia): 21 lipca, godz. 18:00–20:00 — I część 30 lipca, godz. 18:00–20:00 — II część Spacery po łazienkowskich ogrodach (start: Nowa Palmiarnia): 27 lipca, godz. 17:00–18:30 — \"Zwierzęta Łazienek Królewskich\" 3 sierpnia, godz. 17:00–18:30 — \"Drzewa Łazienek Królewskich\" 7 września, godz. 17:00–18:30 — \"Historia ogrodów Łazienek Królewskich\" 14 września, godz. 17:00–18:30 — \"Zieleń niska Łazienek Królewskich\" Uwaga: poszczególne daty mogą ulec zmianie; o zmianach będziemy informować zapisanych uczestników. Projekt sfinansowano ze środków Fundacji Veolia Polska."
+        },
+        "en": {
+          "title": "Green Neighborhood - Community Garden in the Royal Łazienki",
+          "description": "Join us in creating a community garden in the Royal Łazienki — a space for active engagement, ecological education, and integration of the local community! Registration is open until July 3, 2026: Please send the application form to the email address: ogrod.spoleczny@lazienki-krolewskie.pl. Online form. By July 6 (inclusive), we will confirm participation in the project. Registration is on a first-come, first-served basis. Gardening expert: Zuzanna Molak — gardener, naturalist, educator. Graduate in biology and horticulture from SGGW. Currently educating children and adults about nature and gardening. Fanpage: Facebook. About the project: This initiative is aimed at the residents of Warsaw — families with children, youth, and adults, including those with special needs. Participants will actively engage in the creation and maintenance of the garden."
+        },
+        "uk": {
+          "title": "Зелене сусідство - громадський сад у Лазенках Королівських",
+          "description": "Створіть разом з нами громадський сад Лазенок Королівських — простір активних дій, екологічної освіти та інтеграції місцевої громади! Реєстрація до 3 липня 2026 року: Заявку потрібно надіслати на електронну адресу: ogrod.spoleczny@lazienki-krolewskie.pl Онлайн форма До 6 липня (включно) ми підтвердимо участь у проекті. Визначає порядок подачі заявок. Експертка садівництва: Зузанна Молак — садівниця, природознавиця, освітянка. Випускниця біології та садівництва в SGGW. Наразі навчає дітей та дорослих у сфері природи та садівництва. Фансторінка: Facebook Про проект: Ініціатива спрямована на мешканців Варшави — родини з дітьми, молодь та дорослих, у тому числі осіб з особливими потребами. Учасники активно залучаться до створення та догляду за садом."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-09-15T11:33:56.683010+00:00"
+    },
+    "rodzinne-pl-sanie-na-trawiastym-dywanie-bezp-atne-spotkania-na-obkowym-placu-zabaw-2026-09-20T10:00:00+02:00": {
+      "title": "Rodzinne pląsanie na trawiastym dywanie – bezpłatne spotkania na żłobkowym placu zabaw",
+      "date": "2026-09-20T10:00:00+02:00",
+      "end_date": "2026-09-20T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Pamiętacie nasze zeszłoroczne szaleństwa na trawie? Mamy wspaniałą wiadomość! Nominowany do nagrody Złote Słoneczniki cykl „Rodzinne pląsanie na trawiastym dywanie\" powraca w ramach projektu Rodzina Wspólna Sprawa VI! Widzimy się w każdą niedzielę aż do 27 września! (z wyłączeniem 3 i 24 maja). Zapraszamy dzieci (0-6 lat) wraz z rodzicami na cykl bezpłatnych, kreatywnych spotkań na żłobkowym placu zabaw. Będziemy brudzić rączki w masach sensorycznych, gonić gigantyczne bańki, programować roboty i budować najpiękniejsze relacje – na świeżym powietrzu! Szczegóły: kalendarz wydarzeń Gdzie się widzimy? Plac zabaw w Żłobku numer 32, ul. T. Sygietyńskiego 4 (Praga-Południe). Co w programie? (Wybrane atrakcje) Nasze spotkania to miks ruchu, muzyki i sensoplastyki. Każde wydarzenie to inna przygoda: Wyprawa z Robotem Photonem – fascynujący świat technologii i zabawy. Sensoplastyka i „Paluszkowe odkrycia\" – ugniatanie, brudzenie i tworzenie z domowych mas. Muzyczne granie pod chmurką – Bumbumkowe poruszanki i tańce z wstążkami. Moc Ruchu – chusta Klanzy, tęczowe tunele i gigantyczne bańki mydlane. Gimnastyka Relacyjna – ćwiczenia metodą Weroniki Sherborne wzmacniające więź. Zabawy z naturą – mandale z patyczków i jesienne ścieżki sensoryczne. Sztuka pod chmurką – malowanie stopami, dłońmi i „deszczowe kolory\". Osoby ze szczególnymi potrzebami mogą je zgłaszać bezpośrednio do prowadzącego projekt pod nr telefonu 884 939 880 lub na e-mail klub@zwalcznude.pl. O projekcie Wydarzenie odbywa się w ramach projektu Rodzina Wspólna Sprawa VI, który realizuje konsorcjum trzech organizacji: Fundacja Zwalcz Nudę, Stowarzyszenie Wspólne Podwórko, Towarzystwo Rozwijania Aktywności Dzieci T.R.A.D. „SZANSA\" Projekt jest współfinansowany przez m.st. Warszawa. Dzięki temu wszystkie zajęcia są dla uczestników BEZPŁATNE .",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F215e071b-1892-468a-9ac5-9767b93a4483.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/215e071b-1892-468a-9ac5-9767b93a4483",
+      "source": "gojammin.com",
+      "district": "Praga-Południe",
+      "location": {
+        "name": "Tadeusza Sygietyńskiego 4/4, 04-022 Warszawa, Poland",
+        "district": "Praga-Południe"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/215e071b-1892-468a-9ac5-9767b93a4483",
+      "scrapped_timestamp": "2026-09-15T11:33:15.660944+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Music & Dance",
+        "Sensory Play"
+      ],
+      "age_range": {
+        "min": 0,
+        "max": 6
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Rodzinne pląsanie na trawiastym dywanie – bezpłatne spotkania na żłobkowym placu zabaw",
+          "description": "Pamiętacie nasze zeszłoroczne szaleństwa na trawie? Mamy wspaniałą wiadomość! Nominowany do nagrody Złote Słoneczniki cykl „Rodzinne pląsanie na trawiastym dywanie\" powraca w ramach projektu Rodzina Wspólna Sprawa VI! Widzimy się w każdą niedzielę aż do 27 września! (z wyłączeniem 3 i 24 maja). Zapraszamy dzieci (0-6 lat) wraz z rodzicami na cykl bezpłatnych, kreatywnych spotkań na żłobkowym placu zabaw. Będziemy brudzić rączki w masach sensorycznych, gonić gigantyczne bańki, programować roboty i budować najpiękniejsze relacje – na świeżym powietrzu! Szczegóły: kalendarz wydarzeń Gdzie się widzimy? Plac zabaw w Żłobku numer 32, ul. T. Sygietyńskiego 4 (Praga-Południe). Co w programie? (Wybrane atrakcje) Nasze spotkania to miks ruchu, muzyki i sensoplastyki. Każde wydarzenie to inna przygoda: Wyprawa z Robotem Photonem – fascynujący świat technologii i zabawy. Sensoplastyka i „Paluszkowe odkrycia\" – ugniatanie, brudzenie i tworzenie z domowych mas. Muzyczne granie pod chmurką – Bumbumkowe poruszanki i tańce z wstążkami. Moc Ruchu – chusta Klanzy, tęczowe tunele i gigantyczne bańki mydlane. Gimnastyka Relacyjna – ćwiczenia metodą Weroniki Sherborne wzmacniające więź. Zabawy z naturą – mandale z patyczków i jesienne ścieżki sensoryczne. Sztuka pod chmurką – malowanie stopami, dłońmi i „deszczowe kolory\". Osoby ze szczególnymi potrzebami mogą je zgłaszać bezpośrednio do prowadzącego projekt pod nr telefonu 884 939 880 lub na e-mail klub@zwalcznude.pl. O projekcie Wydarzenie odbywa się w ramach projektu Rodzina Wspólna Sprawa VI, który realizuje konsorcjum trzech organizacji: Fundacja Zwalcz Nudę, Stowarzyszenie Wspólne Podwórko, Towarzystwo Rozwijania Aktywności Dzieci T.R.A.D. „SZANSA\" Projekt jest współfinansowany przez m.st. Warszawa. Dzięki temu wszystkie zajęcia są dla uczestników BEZPŁATNE ."
+        },
+        "en": {
+          "title": "Family Dancing on the Grass Carpet – Free Meetings at the Nursery Playground",
+          "description": "Do you remember our grass craziness from last year? We have great news! The award-nominated series \"Family Dancing on the Grass Carpet\" is back as part of the Family Common Matter VI project! We will meet every Sunday until September 27! (excluding May 3 and 24). We invite children (0-6 years old) along with their parents to a series of free, creative meetings at the nursery playground. We will get our hands dirty with sensory materials, chase giant bubbles, program robots, and build the most beautiful relationships – outdoors! Details: event calendar Where will we meet? Playground at Nursery No. 32, T. Sygietyński Street 4 (Praga-Południe). What's on the program? (Selected attractions) Our meetings are a mix of movement, music, and sensory play. Each event is a different adventure."
+        },
+        "uk": {
+          "title": "Сімейні танці на трав'яному килимі – безкоштовні зустрічі на дитячому майданчику",
+          "description": "Пам'ятаєте наші минулорічні шаленість на траві? У нас чудова новина! Номінований на премію Золоті Соняшники цикл «Сімейні танці на трав'яному килимі» повертається в рамках проекту Родина Спільна Справа VI! Ми зустрічаємося кожної неділі до 27 вересня! (за винятком 3 та 24 травня). Запрошуємо дітей (0-6 років) разом з батьками на цикл безкоштовних, креативних зустрічей на дитячому майданчику. Ми будемо бруднити ручки в сенсорних масах, ганятися за гігантськими бульбашками, програмувати роботів і будувати найкрасивіші стосунки – на свіжому повітрі! Деталі: календар подій. Де ми зустрічаємося? Дитячий майданчик у Дитячому садку номер 32, вул. Т. Сигєтинського 4 (Прага-Південь). Що в програмі? (Вибрані атракції) Наші зустрічі – це мікс руху, музики та сенсопластики. Кожна подія – це інша пригода."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-15T11:33:56.683024+00:00"
+    },
+    "bezp-atne-treningi-siatk-wki-i-zaj-cia-rodzinne-na-bemowie-2026-09-15T13:15:00+02:00": {
+      "title": "Bezpłatne treningi siatkówki i zajęcia rodzinne na Bemowie",
+      "date": "2026-09-15T13:15:00+02:00",
+      "end_date": "2026-09-15T13:15:00+02:00",
+      "startTimeKnown": true,
+      "description": "Bezpłatne zajęcia sportowe w Dzielnicy Bemowo, startujące 15 września. Zapisy prowadzone są pod adresem: instytutaktywnosci@gmail.com\n\nGrafik zajęć:\n\n• Ogólnorozwojowe z mini siatkówką: wtorek 13.15-15.00 (SP 407, klasy 1-4), czwartek 15.00-16.00 (SP 407, klasy 1-4), piątek 15.00-17.00 (otwarta, klasy 3-5).\n• Podstawy mini siatkówki: środa 14.00-16.00 (SP 407, klasy 3-5), środa 17.00-18.00 (otwarta, klasy 4-6), sobota 10.00-11.00 (otwarta, klasy 3-5).\n• Zajęcia rodzinne (dzieci klas 1-4 z opiekunami): sobota 9.00-10.00 (otwarta).\n• Treningi siatkówki z grą dla rodziców: sobota 11.00-13.00.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/f28a9f6a-d2a2-439b-af43-0adceb5ee38c/8ba21c80-15d5-4ace-b844-ff2de7dd9ebe.jpg",
+      "location": {
+        "name": "Heweliusza 3, Szkoła Podstawowa nr 407, Warszawa",
+        "district": "Bemowo"
+      },
+      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/bezplatne-treningi-siatkowki-i-zajecia-rodzinne-na-bemowie-f28a9f6a-d2a2-439b-af43-0adceb5ee38c",
+      "source": "simplygo.pl",
+      "age_hint": "6-12",
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/bezplatne-treningi-siatkowki-i-zajecia-rodzinne-na-bemowie-f28a9f6a-d2a2-439b-af43-0adceb5ee38c",
+      "scrapped_timestamp": "2026-09-15T11:33:21.558146+00:00",
+      "category": "Sports",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne treningi siatkówki i zajęcia rodzinne na Bemowie",
+          "description": "Bezpłatne zajęcia sportowe w Dzielnicy Bemowo, startujące 15 września. Zapisy prowadzone są pod adresem: instytutaktywnosci@gmail.com\n\nGrafik zajęć:\n\n• Ogólnorozwojowe z mini siatkówką: wtorek 13.15-15.00 (SP 407, klasy 1-4), czwartek 15.00-16.00 (SP 407, klasy 1-4), piątek 15.00-17.00 (otwarta, klasy 3-5).\n• Podstawy mini siatkówki: środa 14.00-16.00 (SP 407, klasy 3-5), środa 17.00-18.00 (otwarta, klasy 4-6), sobota 10.00-11.00 (otwarta, klasy 3-5).\n• Zajęcia rodzinne (dzieci klas 1-4 z opiekunami): sobota 9.00-10.00 (otwarta).\n• Treningi siatkówki z grą dla rodziców: sobota 11.00-13.00."
+        },
+        "en": {
+          "title": "Free Volleyball Training and Family Activities in Bemowo",
+          "description": "Free sports activities in the Bemowo District starting on September 15. Registration is conducted at: instytutaktywnosci@gmail.com\n\nSchedule of activities:\n\n• General development with mini volleyball: Tuesday 1:15 PM - 3:00 PM (SP 407, grades 1-4), Thursday 3:00 PM - 4:00 PM (SP 407, grades 1-4), Friday 3:00 PM - 5:00 PM (open, grades 3-5).\n• Basics of mini volleyball: Wednesday 2:00 PM - 4:00 PM (SP 407, grades 3-5), Wednesday 5:00 PM - 6:00 PM (open, grades 4-6), Saturday 10:00 AM - 11:00 AM (open, grades 3-5).\n• Family activities (children in grades 1-4 with guardians): Saturday 9:00 AM - 10:00 AM (open).\n• Volleyball training with games for parents: Saturday 11:00 AM - 1:00 PM."
+        },
+        "uk": {
+          "title": "Безкоштовні тренування з волейболу та сімейні заняття на Бемові",
+          "description": "Безкоштовні спортивні заняття в районі Бемово, які стартують 15 вересня. Записи проводяться за адресою: instytutaktywnosci@gmail.com\n\nГрафік занять:\n\n• Загальнорозвивальні заняття з міні-волейболу: вівторок 13.15-15.00 (СП 407, класи 1-4), четвер 15.00-16.00 (СП 407, класи 1-4), п’ятниця 15.00-17.00 (відкрите, класи 3-5).\n• Основи міні-волейболу: середа 14.00-16.00 (СП 407, класи 3-5), середа 17.00-18.00 (відкрите, класи 4-6), субота 10.00-11.00 (відкрите, класи 3-5).\n• Сімейні заняття (діти класів 1-4 з опікунами): субота 9.00-10.00 (відкрите).\n• Тренування з волейболу з грою для батьків: субота 11.00-13.00."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-15T11:33:56.683038+00:00"
+    },
+    "zaj-cia-taneczne-i-gimnastyczne-dla-os-b-z-niepe-nosprawno-ciami-2026-09-17T12:00:00+02:00": {
+      "title": "Zajęcia taneczne i gimnastyczne dla osób z niepełnosprawnościami",
+      "date": "2026-09-17T12:00:00+02:00",
+      "end_date": "2026-09-17T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Bezpłatne zajęcia ruchowe dla osób z niepełnosprawnościami, współfinansowane ze środków Dzielnicy Bemowo. Spotkania odbywają się w MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro).\n\nHarmonogram:\n• Poniedziałki 17:00: zajęcia taneczne dla dzieci 4-8 lat\n• Poniedziałki 18:00: zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n• Czwartki 12:00: latino solo\n• Czwartki 13:00: gimnastyka usprawniająca\n\nZapisy przyjmowane są pod numerem telefonu 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00).",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/022d012c-7e7c-4a61-89a6-39cf4154ce86/b950b9a4-0d34-4d78-836f-f5957d520ae0.jpg",
+      "location": {
+        "name": "Powstańców Śląskich 126, Warszawa",
+        "district": "Bemowo"
+      },
+      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/zajecia-taneczne-i-gimnastyczne-dla-osob-z-niepelnosprawnosciami-022d012c-7e7c-4a61-89a6-39cf4154ce86",
+      "source": "simplygo.pl",
+      "age_hint": "3-8",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/zajecia-taneczne-i-gimnastyczne-dla-osob-z-niepelnosprawnosciami-022d012c-7e7c-4a61-89a6-39cf4154ce86",
+      "scrapped_timestamp": "2026-09-15T11:33:27.835154+00:00",
+      "category": "Music & Dance",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Zajęcia taneczne i gimnastyczne dla osób z niepełnosprawnościami",
+          "description": "Bezpłatne zajęcia ruchowe dla osób z niepełnosprawnościami, współfinansowane ze środków Dzielnicy Bemowo. Spotkania odbywają się w MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro).\n\nHarmonogram:\n• Poniedziałki 17:00: zajęcia taneczne dla dzieci 4-8 lat\n• Poniedziałki 18:00: zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n• Czwartki 12:00: latino solo\n• Czwartki 13:00: gimnastyka usprawniająca\n\nZapisy przyjmowane są pod numerem telefonu 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)."
+        },
+        "en": {
+          "title": "Dance and Gymnastics Classes for People with Disabilities",
+          "description": "Free movement classes for people with disabilities, co-financed by the Bemowo District. Meetings take place at MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor).\n\nSchedule:\n• Mondays 5:00 PM: dance classes for children aged 4-8\n• Mondays 6:00 PM: dance classes for parents with children aged 3-8\n• Thursdays 12:00 PM: solo latino\n• Thursdays 1:00 PM: corrective gymnastics\n\nRegistration is accepted at the phone number 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)."
+        },
+        "uk": {
+          "title": "Танцювальні та гімнастичні заняття для осіб з інвалідністю",
+          "description": "Безкоштовні рухливі заняття для осіб з інвалідністю, співфінансовані з коштів Району Бемово. Зустрічі відбуваються в MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх). \n\nГрафік: \n• Понеділки 17:00: танцювальні заняття для дітей 4-8 років \n• Понеділки 18:00: танцювальні заняття для батьків з дітьми 3-8 років \n• Четверги 12:00: латина соло \n• Четверги 13:00: гімнастика для покращення рухливості \n\nЗапис за телефоном 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-15T11:33:56.683052+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:42:51.523840+00:00",
+  "updated_at": "2026-09-15T08:44:30.955326+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1214,6 +1214,14 @@
       "normalized": "scena wspólna w poznaniu",
       "updated_at": "2026-09-15T08:40:49.559349+00:00",
       "created_at": "2026-09-15T08:40:49.559349+00:00"
+    },
+    "ul. hetmańska 90": {
+      "name": "ul. Hetmańska 90",
+      "district": "Wilda",
+      "address": "ul. Hetmańska 90",
+      "normalized": "ul. hetmańska 90",
+      "updated_at": "2026-09-15T08:44:30.859734+00:00",
+      "created_at": "2026-09-15T08:44:30.859734+00:00"
     }
   }
 }

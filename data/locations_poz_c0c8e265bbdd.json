@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:35:04.101705+00:00",
+  "updated_at": "2026-09-15T08:35:32.852240+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1170,6 +1170,14 @@
       "normalized": "fyrtel główna (ul. główna 42)",
       "updated_at": "2026-09-15T08:35:04.029577+00:00",
       "created_at": "2026-09-15T08:35:04.029577+00:00"
+    },
+    "sala wielka": {
+      "name": "Sala Wielka, CK Zamek, ul. Święty Marcin 80/82",
+      "district": "Stare Miasto",
+      "address": "ul. Święty Marcin 80/82",
+      "normalized": "sala wielka",
+      "updated_at": "2026-09-15T08:35:32.794659+00:00",
+      "created_at": "2026-09-15T08:35:32.794659+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:23:09.306410+00:00",
+  "updated_at": "2026-09-15T08:23:16.994191+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1462,6 +1462,14 @@
       "normalized": "100czni",
       "updated_at": "2026-09-15T08:23:09.247414+00:00",
       "created_at": "2026-09-15T08:23:09.247414+00:00"
+    },
+    "100cznia": {
+      "name": "100cznia",
+      "district": "Śródmieście",
+      "address": "ul. Księdza Jerzego Popiełuszki 5",
+      "normalized": "100cznia",
+      "updated_at": "2026-09-15T08:23:16.938345+00:00",
+      "created_at": "2026-09-15T08:23:16.938345+00:00"
     }
   }
 }

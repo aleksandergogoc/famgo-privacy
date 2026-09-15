@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:11:41.179512+00:00",
+  "updated_at": "2026-09-15T11:45:47.039366+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -651,6 +651,24 @@
       "normalized": "expo łódź - hala a",
       "updated_at": "2026-09-15T08:11:41.029473+00:00",
       "created_at": "2026-09-15T08:11:41.029473+00:00"
+    },
+    "centrum handlowe m1 łódź (ul. brzezińska 27_29)": {
+      "name": "M1 Łódź, 27/29, Brzezińska, Stoki-Sikawa-Podgórze, Sikawa, Łódź-Widzew, Łódź, województwo łódzkie, 92-103, Polska",
+      "district": "Widzew",
+      "address": "M1 Łódź, 27/29, Brzezińska, Stoki-Sikawa-Podgórze, Sikawa, Łódź-Widzew, Łódź, województwo łódzkie, 92-103, Polska",
+      "normalized": "centrum handlowe m1 łódź (ul. brzezińska 27_29)",
+      "lat": 51.7936755,
+      "lng": 19.5094981,
+      "updated_at": "2026-09-15T11:38:06.249855+00:00"
+    },
+    "centrum handlowe tulipan (łódź": {
+      "name": "Centrum Handlowe Tulipan, 94, Aleja Marszałka Józefa Piłsudskiego, Stary Widzew, Łódź-Widzew, Łódź, województwo łódzkie, 92-202, Polska",
+      "district": "Widzew",
+      "address": "Centrum Handlowe Tulipan, 94, Aleja Marszałka Józefa Piłsudskiego, Stary Widzew, Łódź-Widzew, Łódź, województwo łódzkie, 92-202, Polska",
+      "normalized": "centrum handlowe tulipan (łódź",
+      "lat": 51.7652371,
+      "lng": 19.4954207,
+      "updated_at": "2026-09-15T11:38:26.848072+00:00"
     }
   }
 }

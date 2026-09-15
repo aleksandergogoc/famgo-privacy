@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:20:40.580772+00:00",
+  "updated_at": "2026-09-15T08:21:15.071319+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1417,12 +1417,11 @@
     },
     "doki1": {
       "name": "Doki1",
-      "district": "Gdańsk - Pozostałe",
-      "address": "Doki1",
+      "district": "Śródmieście",
+      "address": "ul. Elektryków 4",
       "normalized": "doki1",
-      "lat": 0.0,
-      "lng": 0.0,
-      "updated_at": "2026-09-14T19:43:46.560606+00:00"
+      "updated_at": "2026-09-15T08:21:15.010029+00:00",
+      "created_at": "2026-09-15T08:21:15.010029+00:00"
     },
     "go4robot": {
       "name": "GO4Robot",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:44:30.955326+00:00",
+  "updated_at": "2026-09-15T08:45:09.781673+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1222,6 +1222,14 @@
       "normalized": "ul. hetmańska 90",
       "updated_at": "2026-09-15T08:44:30.859734+00:00",
       "created_at": "2026-09-15T08:44:30.859734+00:00"
+    },
+    "fort poznań - event place": {
+      "name": "Fort Poznań - Event Place",
+      "district": "Jeżyce",
+      "address": "",
+      "normalized": "fort poznań - event place",
+      "updated_at": "2026-09-15T08:45:09.706833+00:00",
+      "created_at": "2026-09-15T08:45:09.706833+00:00"
     }
   }
 }

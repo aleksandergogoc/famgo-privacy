@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:10:12.417779+00:00",
+  "updated_at": "2026-09-15T08:10:18.523383+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -627,6 +627,14 @@
       "normalized": "nowy im. k. dejmka w łodzi",
       "updated_at": "2026-09-15T08:10:12.358038+00:00",
       "created_at": "2026-09-15T08:10:12.358038+00:00"
+    },
+    "nowy": {
+      "name": "Teatr Nowy",
+      "district": "Śródmieście",
+      "address": "ul. Więckowskiego 15",
+      "normalized": "nowy",
+      "updated_at": "2026-09-15T08:10:18.467301+00:00",
+      "created_at": "2026-09-15T08:10:18.467301+00:00"
     }
   }
 }

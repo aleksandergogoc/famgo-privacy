@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T07:55:47.589871+00:00",
+  "updated_at": "2026-09-15T11:45:49.860700+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -6396,6 +6396,33 @@
       "normalized": "warszawski dom technika not",
       "updated_at": "2026-09-15T07:55:47.524316+00:00",
       "created_at": "2026-09-15T07:55:47.524316+00:00"
+    },
+    "skatepark zachodni": {
+      "name": "Skatepark Zachodni, Park Pięciu Sióstr",
+      "district": "Ochota",
+      "address": "Skatepark Zachodni, Park Pięciu Sióstr",
+      "normalized": "skatepark zachodni",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-15T11:33:55.159490+00:00"
+    },
+    "północna ul. światowida 17": {
+      "name": "Galeria Północna ul. Światowida 17",
+      "district": "Białołęka",
+      "address": "Galeria Północna ul. Światowida 17",
+      "normalized": "północna ul. światowida 17",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-15T11:33:55.159645+00:00"
+    },
+    "centrum sportu wilanów": {
+      "name": "Centrum Sportu Wilanów, ul. Wiertnicza 26a",
+      "district": "Wilanów",
+      "address": "Centrum Sportu Wilanów, ul. Wiertnicza 26a",
+      "normalized": "centrum sportu wilanów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-15T11:33:55.159749+00:00"
     }
   }
 }

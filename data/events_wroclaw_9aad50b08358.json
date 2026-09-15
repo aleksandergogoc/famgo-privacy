@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:16:32.362314+00:00",
+  "updated_at": "2026-09-15T11:35:59.967931+00:00",
   "events": {
     "12-mi-dzynarodowe-zawody-w-je-dzie-bez-og-owia-euro-equus-2026-2026-09-25T00:00:00": {
       "scrapped_timestamp": "2026-06-26T16:36:24.805343+00:00",
@@ -4104,49 +4104,50 @@
       "updated_at": "2026-09-07T12:12:45.441765+00:00"
     },
     "festyn-osiedlowy-w-parku-kleci-skim-witaj-jesieni-2026-09-19T15:00:00+02:00": {
-      "title": "Festyn osiedlowy w Parku Klecińskim — Witaj, jesieni!",
+      "title": "Festyn osiedlowy w Parku Klecińskim – Witaj, jesieni!",
       "date": "2026-09-19T15:00:00+02:00",
       "end_date": "2026-09-19T15:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Jesień wcale nie musi być szara i ponura! Po raz kolejny zapraszamy Was do wspólnego, radosnego powitania tej wyjątkowej pory roku. Spotkajmy się w Parku Klecińskim i spędźmy ten dzień razem! Rada Osiedla Krzyki-Partynice przygotowała mnóstwo atrakcji dla małych i dużych. Czeka na Was moc dobrej zabawy, twórczych aktywności i okazji do wspólnego spędzenia czasu.\n\n15:00–19:00 | teren parku w okolicy placu zabaw\n\n• gry i klocki XXL,\n\n• fotobudka,\n\n• warsztaty plastyczne,\n\n• gra terenowa,\n\n• sportowa platforma balansowa,\n\n• mobilny serwis rowerowy,\n\n• osiedlowy zakład fotograficzny,\n\n• stoiska edukacyjne, promocyjne i animacyjne partnerów,\n\n• strefa gastronomiczna.\n\n19:00 | amfiteatr kino plenerowe: „Flow” – oscarowa animacja dla całej rodziny\n\nPartnerzy wydarzenia: Miejski Ośrodek Pomocy Społecznej, Wrocławskie Centrum Rozwoju Społecznego, Miejskie Przedsiębiorstwo Komunikacyjne, Wroclaw.pl, Zespół Szkolno-Przedszkolny nr 16, Straż Miejska Wrocławia, Fundacja Bubble of Good, Twój Lekarz, Early Stage, AMAkids, Akademia Marzeń.\n\nWydarzenie organizowane przez Osiedle Krzyki-Partynice z wykorzystaniem środków finansowych wyodrębnionych dla Osiedla w budżecie miasta Wrocławia oraz dofinansowania na realizację zadań społecznych (festyn osiedlowy, kino plenerowe – Fundusz Czasu Wolnego).\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-54cc84c2ac110002420df45a739a9be5/public-form-image",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1415624-festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni",
-      "source": "wroclaw.pl",
+      "description": "Rada Osiedla Krzyki-Partynice zaprasza na wspólne powitanie jesieni w Parku Klecińskim. Wydarzenie obejmuje szereg aktywności dla dzieci i dorosłych.\n\nProgram (15:00–19:00, teren przy placu zabaw):\n• Gry i klocki XXL, fotobudka, warsztaty plastyczne\n• Gra terenowa, sportowa platforma balansowa\n• Mobilny serwis rowerowy, osiedlowy zakład fotograficzny\n• Stoiska edukacyjne i strefa gastronomiczna\n\nKino plenerowe (19:00, amfiteatr):\n• Pokaz oscarowej animacji „Flow” dla całej rodziny.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/72b1c88a-d863-4c20-8c3a-2dfdcd72de49/94b42974-418f-49c4-a191-2ea3037d8290.jpg",
       "location": {
-        "name": "Park Kleciński",
+        "name": "Park Kleciński, Wrocław",
         "district": "Krzyki"
       },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1415624-festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni",
-      "scrapped_timestamp": "2026-09-14T12:30:46.723483+00:00",
-      "category": "Seasonal Festival",
-      "additional_categories": [
-        "Family Fun",
-        "Workshops"
-      ],
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni-72b1c88a-d863-4c20-8c3a-2dfdcd72de49",
+      "source": "simplygo.pl",
+      "age_hint": "3-18",
       "age_range": {
         "min": 3,
-        "max": 12
+        "max": 18
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni-72b1c88a-d863-4c20-8c3a-2dfdcd72de49",
+      "scrapped_timestamp": "2026-09-15T11:35:47.705766+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Games",
+        "Arts"
+      ],
       "location_type": "outdoor",
       "translations": {
         "pl": {
-          "title": "Festyn osiedlowy w Parku Klecińskim — Witaj, jesieni!",
-          "description": "Jesień wcale nie musi być szara i ponura! Po raz kolejny zapraszamy Was do wspólnego, radosnego powitania tej wyjątkowej pory roku. Spotkajmy się w Parku Klecińskim i spędźmy ten dzień razem! Rada Osiedla Krzyki-Partynice przygotowała mnóstwo atrakcji dla małych i dużych. Czeka na Was moc dobrej zabawy, twórczych aktywności i okazji do wspólnego spędzenia czasu.\n\n15:00–19:00 | teren parku w okolicy placu zabaw\n\n• gry i klocki XXL,\n\n• fotobudka,\n\n• warsztaty plastyczne,\n\n• gra terenowa,\n\n• sportowa platforma balansowa,\n\n• mobilny serwis rowerowy,\n\n• osiedlowy zakład fotograficzny,\n\n• stoiska edukacyjne, promocyjne i animacyjne partnerów,\n\n• strefa gastronomiczna.\n\n19:00 | amfiteatr kino plenerowe: „Flow” – oscarowa animacja dla całej rodziny\n\nPartnerzy wydarzenia: Miejski Ośrodek Pomocy Społecznej, Wrocławskie Centrum Rozwoju Społecznego, Miejskie Przedsiębiorstwo Komunikacyjne, Wroclaw.pl, Zespół Szkolno-Przedszkolny nr 16, Straż Miejska Wrocławia, Fundacja Bubble of Good, Twój Lekarz, Early Stage, AMAkids, Akademia Marzeń.\n\nWydarzenie organizowane przez Osiedle Krzyki-Partynice z wykorzystaniem środków finansowych wyodrębnionych dla Osiedla w budżecie miasta Wrocławia oraz dofinansowania na realizację zadań społecznych (festyn osiedlowy, kino plenerowe – Fundusz Czasu Wolnego).\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook"
+          "title": "Festyn osiedlowy w Parku Klecińskim – Witaj, jesieni!",
+          "description": "Rada Osiedla Krzyki-Partynice zaprasza na wspólne powitanie jesieni w Parku Klecińskim. Wydarzenie obejmuje szereg aktywności dla dzieci i dorosłych.\n\nProgram (15:00–19:00, teren przy placu zabaw):\n• Gry i klocki XXL, fotobudka, warsztaty plastyczne\n• Gra terenowa, sportowa platforma balansowa\n• Mobilny serwis rowerowy, osiedlowy zakład fotograficzny\n• Stoiska edukacyjne i strefa gastronomiczna\n\nKino plenerowe (19:00, amfiteatr):\n• Pokaz oscarowej animacji „Flow” dla całej rodziny."
         },
         "en": {
-          "title": "Neighborhood Festival in Kleciński Park — Welcome, Autumn!",
-          "description": "Autumn doesn't have to be gray and gloomy! Once again, we invite you to joyfully welcome this special season together. Let's meet in Kleciński Park and spend this day together! The Krzyki-Partynice Neighborhood Council has prepared plenty of attractions for both young and old. A lot of fun, creative activities, and opportunities to spend time together await you.\n\n15:00–19:00 | park area near the playground\n\n• XXL games and blocks,\n\n• photo booth,\n\n• art workshops,\n\n• outdoor game,\n\n• sports balance platform,\n\n• mobile bike service,\n\n• neighborhood photography studio,\n\n• educational, promotional, and animation booths from partners,\n\n• food zone.\n\n19:00 | amphitheater outdoor cinema: \"Flow\" – an Oscar-winning animation for the whole family.\n\nEvent partners: Municipal Center for Social Assistance"
+          "title": "Neighborhood Festival in Kleciński Park – Welcome, Autumn!",
+          "description": "The Krzyki-Partynice Neighborhood Council invites you to a joint welcome of autumn in Kleciński Park. The event includes a range of activities for children and adults.\n\nProgram (3:00 PM – 7:00 PM, area near the playground):\n• XXL games and blocks, photo booth, art workshops\n• Treasure hunt, sports balance platform\n• Mobile bike service, neighborhood photography studio\n• Educational booths and food zone\n\nOutdoor cinema (7:00 PM, amphitheater):\n• Screening of the Oscar-winning animation \"Flow\" for the whole family."
         },
         "uk": {
-          "title": "Осінній фестиваль у парку Клецінському — Ласкаво просимо, осінь!",
-          "description": "Осінь зовсім не повинна бути сірою та похмурою! Ще раз запрошуємо вас до спільного, радісного вітання цієї особливої пори року. Зустрінемося в парку Клецінському та проведемо цей день разом! Рада оселення Кжики-Партиніце підготувала безліч розваг для малих і великих. На вас чекає море веселощів, творчих активностей та можливостей провести час разом.\n\n15:00–19:00 | територія парку в районі дитячого майданчика\n\n• ігри та блоки XXL,\n\n• фотобудка,\n\n• художні майстер-класи,\n\n• гра на місцевості,\n\n• спортивна балансувальна платформа,\n\n• мобільний велосипедний сервіс,\n\n• осередок фотографії,\n\n• освітні, промоційні та анімаційні стенди партнерів,\n\n• гастрономічна зона.\n\n19:00 | амфітеатр, відкритий кінопоказ: «Flow» – оскарівська анімація для всієї родини\n\nПартнери події: Міський центр допомоги"
+          "title": "Осінній фестиваль у парку Клецінському – Ласкаво просимо, осінь!",
+          "description": "Рада Оселення Кжики-Партиніце запрошує на спільне привітання осені в парку Клецінському. Подія включає ряд активностей для дітей та дорослих.\n\nПрограма (15:00–19:00, територія біля дитячого майданчика):\n• Ігри та великі кубики, фотобудка, художні майстерні\n• Поле для гри, спортивна балансувальна платформа\n• Мобільний велосипедний сервіс, місцевий фотосалон\n• Освітні стенди та гастрономічна зона\n\nВідкритий кінотеатр (19:00, амфітеатр):\n• Показ оскарівської анімації «Flow» для всієї родини."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Krzyki",
-      "updated_at": "2026-09-14T12:31:17.686976+00:00"
+      "updated_at": "2026-09-15T11:35:59.780144+00:00"
     },
     "joga-dla-dzieci-warsztaty-2026-09-15T17:00:00+02:00": {
       "title": "Joga dla dzieci – warsztaty",
@@ -5530,6 +5531,173 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-09-14T12:31:17.687018+00:00"
+    },
+    "warsztaty-ta-ca-romskiego-2026-09-28T15:30:00+02:00": {
+      "title": "Warsztaty tańca romskiego",
+      "date": "2026-09-28T15:30:00+02:00",
+      "end_date": "2026-09-28T15:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Warsztaty tańca romskiego\n\nZapraszamy dzieci i dorosłych na warsztaty tańca romskiego. Poprzez żywiołowy taniec będziemy poznawać kulturę społeczności romskiej.\n\nCelem zajęć jest dobra zabawa, ale uczestnicy będą również pracować nad choreografią, którą będzie można zaprezentować podczas osiedlowych wydarzeń.\n\nWarsztaty poprowadzi Malwina Siwak, pasjonatka tańca z doświadczeniem scenicznym zdobytym w Polsce i Szkocji.\n\nPodczas zajęć rodziców zapraszamy do wspólnego tańca lub na kawę i herbatę do naszego saloniku.\n\nInformacje organizacyjne\n\n**Kiedy**: poniedziałki, najbliższe spotkanie 20.07., kolejne wstępnie co dwa tygodnie. W okresie wakacyjnym harmonogram może ulec zmianie.\n\n**Gdzie**: Brochowskie Centrum Aktywności Lokalnej, ul. Koreańska 1a, Wrocław\n\n**Zapisy**: link do strony\n\nDziałanie realizowane w ramach zadania „CENTRA AKTYWNOŚCI LOKALNEJ WE WROCŁAWIU - Brochowskie Centrum Aktywności Lokalnej”, współfinansowanego ze środków Gminy Wrocław.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-86917170ac1100022644ade3602abf69/747771314-1456729346486124-7854669781514725038-n.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1413260-warsztaty-tanca-romskiego",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "CAL Brochów Koreańska 1A, Wrocław 52-121",
+        "district": "Krzyki"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1413260-warsztaty-tanca-romskiego",
+      "scrapped_timestamp": "2026-09-15T11:35:26.384108+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Warsztaty tańca romskiego",
+          "description": "Warsztaty tańca romskiego\n\nZapraszamy dzieci i dorosłych na warsztaty tańca romskiego. Poprzez żywiołowy taniec będziemy poznawać kulturę społeczności romskiej.\n\nCelem zajęć jest dobra zabawa, ale uczestnicy będą również pracować nad choreografią, którą będzie można zaprezentować podczas osiedlowych wydarzeń.\n\nWarsztaty poprowadzi Malwina Siwak, pasjonatka tańca z doświadczeniem scenicznym zdobytym w Polsce i Szkocji.\n\nPodczas zajęć rodziców zapraszamy do wspólnego tańca lub na kawę i herbatę do naszego saloniku.\n\nInformacje organizacyjne\n\n**Kiedy**: poniedziałki, najbliższe spotkanie 20.07., kolejne wstępnie co dwa tygodnie. W okresie wakacyjnym harmonogram może ulec zmianie.\n\n**Gdzie**: Brochowskie Centrum Aktywności Lokalnej, ul. Koreańska 1a, Wrocław\n\n**Zapisy**: link do strony\n\nDziałanie realizowane w ramach zadania „CENTRA AKTYWNOŚCI LOKALNEJ WE WROCŁAWIU - Brochowskie Centrum Aktywności Lokalnej”, współfinansowanego ze środków Gminy Wrocław.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Romani Dance Workshops",
+          "description": "We invite children and adults to Romani dance workshops. Through lively dance, we will explore the culture of the Romani community.\n\nThe goal of the sessions is to have fun, but participants will also work on choreography that can be presented during neighborhood events.\n\nThe workshops will be led by Malwina Siwak, a dance enthusiast with stage experience gained in Poland and Scotland.\n\nDuring the sessions, we invite parents to join in the dancing or enjoy coffee and tea in our lounge.\n\nOrganizational Information\n\n**When**: Mondays, the next meeting is on July 20th, with subsequent sessions tentatively every two weeks. The schedule may change during the summer.\n\n**Where**: Brochowskie Center for Local Activity, ul. Koreańska 1a, Wrocław\n\n**Registration**: link to the website"
+        },
+        "uk": {
+          "title": "Майстер-клас з ромського танцю",
+          "description": "Майстер-клас з ромського танцю\n\nЗапрошуємо дітей та дорослих на майстер-клас з ромського танцю. Через енергійний танець ми будемо знайомитися з культурою ромської спільноти.\n\nМетою занять є гарний настрій, але учасники також працюватимуть над хореографією, яку можна буде представити під час районних подій.\n\nМайстер-клас проведе Мальвіна Сівак, захоплена танцем з досвідом сценічної роботи, здобутим у Польщі та Шотландії.\n\nПід час занять батьків запрошуємо до спільного танцю або на каву та чай до нашого салону.\n\nОрганізаційна інформація\n\n**Коли**: понеділки, найближча зустріч 20.07., наступні попередньо раз на два тижні. У літній період розклад може змінитися.\n\n**Де**: Броховське Центр Активності Місцевої, вул. Корейська 1а, Вроцлав\n\n**Запис**: посилання на сайт"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-09-15T11:35:59.780086+00:00"
+    },
+    "obek-artystyczny-dla-dzieci-2-4-lata-rekrutacja-2026-09-16T00:00:00+02:00": {
+      "title": "Żłobek Artystyczny dla dzieci 2–4 lata [REKRUTACJA]",
+      "date": "2026-09-16T00:00:00+02:00",
+      "end_date": "2026-09-16T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "Żłobek Artystyczny to cykl zajęć artystycznych dla dzieci w wieku 2–4 lat, w których najmłodsi uczestniczą razem z rodzicem lub innym bliskim opiekunem. Zajęcia odbywają się w poniedziałki we Wrocławskim Centrum SPA przy ul. Teatralnej 10–12, na 3. piętrze.\n\nSemestr trwa od 5 października 2026 r. do 8 lutego 2027 r. i obejmuje 16 spotkań.\n\nPierwsze doświadczenia dziecka w grupie mogą odbywać się spokojnie, bez nagłego rozstania z rodzicem. Podczas Żłobka Artystycznego dzieci poprzez zabawę, ruch, muzykę, teatr i działania plastyczne poznają nowe osoby i sytuacje, próbują wspólnego działania i stopniowo zdobywają większą samodzielność. Na zajęciach nie chodzi o stworzenie „idealnej pracy” czy wykonanie wszystkich zadań dokładnie tak samo. Ważniejsze są ciekawość, możliwość eksperymentowania i swobodne odkrywanie różnych form twórczości.\n\n**Podczas spotkań dzieci mają okazję:**\n\n• uczestniczyć w prostych zabawach teatralnych i ruchowych,\n\n• poznawać muzykę, rytm i dźwięki,\n\n• eksperymentować z materiałami plastycznymi,\n\n• rozwijać wyobraźnię i twórczą ekspresję,\n\n• uczyć się działania obok innych dzieci i razem z nimi,\n\n• oswajać się z funkcjonowaniem w grupie,\n\n• podejmować pierwsze samodzielne działania w bezpiecznej obecności opiekuna.\n\nTakie doświadczenia mogą być również pomocne przed rozpoczęciem przedszkola. Dziecko poznaje sytuację zajęć grupowych, prowadzącego i rówieśników, ale może robić to we własnym tempie i przy wsparciu bliskiej osoby. Zajęcia adaptacyjne Żłobek Artystyczny dla dzieci w wieku 2-4 lat prowadzi Alicja Uske – niezwykle kreatywna nauczycielka wychowania przedszkolnego z wieloletnim doświadczeniem, instruktorka teatralna. Jest absolwentką pedagogiki wczesnoszkolnej z wychowaniem przedszkolnym. Cały czas podnosi swoje kwalifikacje, uczestnicząc w licznych kursach doszkalających z zakresu edukacji poprzez sztukę (teatr, muzykę i plastykę). Należy do Zespołu Samokształceniowego Nauczycieli Twórczych oraz Stowarzyszenia na Rzecz Rozwoju Dzieci i Młodzieży. Z Centrum Twórczości współpracuje od początku, prowadząc zajęcia dla najmłodszych oraz warsztaty teatralne dla dzieci.\n\nInformacje organizacyjne\n\nWiek uczestników: 2–4 lata\n\nLiczba spotkań: 16\n\nDzień zajęć: poniedziałek\n\nSemestr: 5.10.2026–8.02.2027\n\nMiejsce: Wrocławskie Centrum SPA, ul. Teatralna 10–12, Wrocław, 3. piętro.\n\nCena: 920 zł/semestr.\n\nRekrutacja trwa od 16 września do 4 października 2026 r.\n\nLiczba miejsc jest ograniczona.\n\nO przyjęciu decyduje kolejność zgłoszeń.\n\nOrganizatorem zajęć jest Wrocławskie Centrum Twórczości Dziecka.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-df69e8e3ac11000247f6f5a3a01bd516/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415897-zlobek-artystyczny-dla-dzieci-2-4-lata-rekrutacja",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocławskie Centrum SPA Teatralna 10-12, Wrocław 50-055",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415897-zlobek-artystyczny-dla-dzieci-2-4-lata-rekrutacja",
+      "scrapped_timestamp": "2026-09-15T11:35:31.705488+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 2,
+        "max": 4
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Żłobek Artystyczny dla dzieci 2–4 lata [REKRUTACJA]",
+          "description": "Żłobek Artystyczny to cykl zajęć artystycznych dla dzieci w wieku 2–4 lat, w których najmłodsi uczestniczą razem z rodzicem lub innym bliskim opiekunem. Zajęcia odbywają się w poniedziałki we Wrocławskim Centrum SPA przy ul. Teatralnej 10–12, na 3. piętrze.\n\nSemestr trwa od 5 października 2026 r. do 8 lutego 2027 r. i obejmuje 16 spotkań.\n\nPierwsze doświadczenia dziecka w grupie mogą odbywać się spokojnie, bez nagłego rozstania z rodzicem. Podczas Żłobka Artystycznego dzieci poprzez zabawę, ruch, muzykę, teatr i działania plastyczne poznają nowe osoby i sytuacje, próbują wspólnego działania i stopniowo zdobywają większą samodzielność. Na zajęciach nie chodzi o stworzenie „idealnej pracy” czy wykonanie wszystkich zadań dokładnie tak samo. Ważniejsze są ciekawość, możliwość eksperymentowania i swobodne odkrywanie różnych form twórczości.\n\n**Podczas spotkań dzieci mają okazję:**\n\n• uczestniczyć w prostych zabawach teatralnych i ruchowych,\n\n• poznawać muzykę, rytm i dźwięki,\n\n• eksperymentować z materiałami plastycznymi,\n\n• rozwijać wyobraźnię i twórczą ekspresję,\n\n• uczyć się działania obok innych dzieci i razem z nimi,\n\n• oswajać się z funkcjonowaniem w grupie,\n\n• podejmować pierwsze samodzielne działania w bezpiecznej obecności opiekuna.\n\nTakie doświadczenia mogą być również pomocne przed rozpoczęciem przedszkola. Dziecko poznaje sytuację zajęć grupowych, prowadzącego i rówieśników, ale może robić to we własnym tempie i przy wsparciu bliskiej osoby. Zajęcia adaptacyjne Żłobek Artystyczny dla dzieci w wieku 2-4 lat prowadzi Alicja Uske – niezwykle kreatywna nauczycielka wychowania przedszkolnego z wieloletnim doświadczeniem, instruktorka teatralna. Jest absolwentką pedagogiki wczesnoszkolnej z wychowaniem przedszkolnym. Cały czas podnosi swoje kwalifikacje, uczestnicząc w licznych kursach doszkalających z zakresu edukacji poprzez sztukę (teatr, muzykę i plastykę). Należy do Zespołu Samokształceniowego Nauczycieli Twórczych oraz Stowarzyszenia na Rzecz Rozwoju Dzieci i Młodzieży. Z Centrum Twórczości współpracuje od początku, prowadząc zajęcia dla najmłodszych oraz warsztaty teatralne dla dzieci.\n\nInformacje organizacyjne\n\nWiek uczestników: 2–4 lata\n\nLiczba spotkań: 16\n\nDzień zajęć: poniedziałek\n\nSemestr: 5.10.2026–8.02.2027\n\nMiejsce: Wrocławskie Centrum SPA, ul. Teatralna 10–12, Wrocław, 3. piętro.\n\nCena: 920 zł/semestr.\n\nRekrutacja trwa od 16 września do 4 października 2026 r.\n\nLiczba miejsc jest ograniczona.\n\nO przyjęciu decyduje kolejność zgłoszeń.\n\nOrganizatorem zajęć jest Wrocławskie Centrum Twórczości Dziecka.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Artistic Nursery for Children Aged 2–4 [RECRUITMENT]",
+          "description": "The Artistic Nursery is a series of artistic activities for children aged 2–4, where the youngest participants engage together with a parent or another close caregiver. The sessions take place on Mondays at the Wrocław SPA Center at Teatralna Street 10–12, on the 3rd floor.\n\nThe semester lasts from October 5, 2026, to February 8, 2027, and includes 16 meetings.\n\nThe child's first experiences in a group can occur calmly, without sudden separation from the parent. During the Artistic Nursery, children explore new people and situations through play, movement, music, theater, and artistic activities, trying collaborative actions and gradually gaining more independence. The focus of the sessions is not on creating the 'perfect work' or completing all tasks in exactly the same way. Curiosity and the opportunity to experiment are more important."
+        },
+        "uk": {
+          "title": "Художній дитячий садок для дітей 2–4 роки [РЕКРУТАЦІЯ]",
+          "description": "Художній дитячий садок - це цикл художніх занять для дітей віком 2–4 роки, в яких наймолодші беруть участь разом з батьками або іншим близьким опікуном. Заняття проходять по понеділках у Вроцлавському Центрі SPA за адресою вул. Театральна 10–12, на 3-му поверсі.\n\nСеместр триває з 5 жовтня 2026 року до 8 лютого 2027 року і включає 16 зустрічей.\n\nПерші досвіди дитини в групі можуть проходити спокійно, без раптового розставання з батьком. Під час Художнього дитячого садка діти через гру, рух, музику, театр та художні дії знайомляться з новими людьми та ситуаціями, намагаються спільно діяти і поступово здобувають більшу самостійність. На заняттях не йдеться про створення «ідеальної роботи» чи виконання всіх завдань точно так само. Важливіші цікавість, можливість експериментувати."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-15T11:35:59.780106+00:00"
+    },
+    "pracownia-plastyczna-agaty-strza-ki-2026-09-15T00:00:00+02:00": {
+      "title": "Pracownia plastyczna Agaty Strzałki",
+      "date": "2026-09-15T00:00:00+02:00",
+      "end_date": "2026-09-15T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "Sztuka zaczyna się od ciekawości, od chęci przyjrzenia się światu trochę uważniej niż zwykle. Dzieci mają tę niezwykłą zdolność dostrzegania rzeczy, których dorośli często już nie zauważają - kształtów, kolorów, światła, drobnych zmian zachodzących w przyrodzie. Na zajęciach staramy się tę naturalną uważność pielęgnować i rozwijać.\n\nCo będziemy robić? Rysować, malować, tworzyć formy przestrzenne oraz poznawać różnorodne materiały i techniki plastyczne. Dzieci będą miały okazję pracować zarówno w sposób bardziej swobodny i intuicyjny, jak i mierzyć się z zadaniami rozwijającymi warsztat, wyobraźnię oraz umiejętność obserwacji. Ważnym źródłem inspiracji będzie dla nas zarówno natura, jak i sztuka. Poznamy wybrane epoki, kierunki i artystów, którzy na przestrzeni wieków szukali nowych sposobów opowiadania o rzeczywistości.\n\nW praktyce te zajęcia wspierają rozwój umiejętności, które wykraczają daleko poza samą pracę twórczą. Dzieci stopniowo uczą się uważniejszego patrzenia, cierpliwości i skupienia, ale też zaufania do własnych pomysłów i decyzji. Pojawia się swoboda w eksperymentowaniu, większa elastyczność myślenia oraz naturalna odwaga w wyrażaniu siebie. Z czasem ta twórcza otwartość zaczyna przenikać także do codzienności, w sposobie odczuwania, reagowania i budowania relacji ze światem.\n\n• 7-9 lat (klasy I-III) |**środa** | 13:45 - 15:15\n\n• 10-12 lat (klasy 4-6) |**czwartek lub piątek** | 14.00 - 15.30 | 1x w tygodniu, dni do wyboru\n\n• 12-15 lat (klasy 6-8) |**czwartek** | 16.00 - 17.30\n\n**Cena:**200 zł/ miesiąc | wejściówka: 70 zł (tylko po potwierdzeniu wolnego miejsca w sekretariacie ośrodka).\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-8d89ca13ac11000240ef19276b9f9b5f/pracownia-agaty.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415555-pracownia-plastyczna-agaty-strzalki",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Ośrodek Działań Twórczych Światowid Stefanii Sempołowskiej 54A, Wrocław 51-661",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415555-pracownia-plastyczna-agaty-strzalki",
+      "scrapped_timestamp": "2026-09-15T11:35:37.188825+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 7,
+        "max": 9
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Pracownia plastyczna Agaty Strzałki",
+          "description": "Sztuka zaczyna się od ciekawości, od chęci przyjrzenia się światu trochę uważniej niż zwykle. Dzieci mają tę niezwykłą zdolność dostrzegania rzeczy, których dorośli często już nie zauważają - kształtów, kolorów, światła, drobnych zmian zachodzących w przyrodzie. Na zajęciach staramy się tę naturalną uważność pielęgnować i rozwijać.\n\nCo będziemy robić? Rysować, malować, tworzyć formy przestrzenne oraz poznawać różnorodne materiały i techniki plastyczne. Dzieci będą miały okazję pracować zarówno w sposób bardziej swobodny i intuicyjny, jak i mierzyć się z zadaniami rozwijającymi warsztat, wyobraźnię oraz umiejętność obserwacji. Ważnym źródłem inspiracji będzie dla nas zarówno natura, jak i sztuka. Poznamy wybrane epoki, kierunki i artystów, którzy na przestrzeni wieków szukali nowych sposobów opowiadania o rzeczywistości.\n\nW praktyce te zajęcia wspierają rozwój umiejętności, które wykraczają daleko poza samą pracę twórczą. Dzieci stopniowo uczą się uważniejszego patrzenia, cierpliwości i skupienia, ale też zaufania do własnych pomysłów i decyzji. Pojawia się swoboda w eksperymentowaniu, większa elastyczność myślenia oraz naturalna odwaga w wyrażaniu siebie. Z czasem ta twórcza otwartość zaczyna przenikać także do codzienności, w sposobie odczuwania, reagowania i budowania relacji ze światem.\n\n• 7-9 lat (klasy I-III) |**środa** | 13:45 - 15:15\n\n• 10-12 lat (klasy 4-6) |**czwartek lub piątek** | 14.00 - 15.30 | 1x w tygodniu, dni do wyboru\n\n• 12-15 lat (klasy 6-8) |**czwartek** | 16.00 - 17.30\n\n**Cena:**200 zł/ miesiąc | wejściówka: 70 zł (tylko po potwierdzeniu wolnego miejsca w sekretariacie ośrodka).\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "Agata Strzałka's Art Workshop",
+          "description": "Art begins with curiosity, with the desire to look at the world a little more closely than usual. Children have this extraordinary ability to notice things that adults often overlook - shapes, colors, light, and subtle changes occurring in nature. In our classes, we strive to nurture and develop this natural attentiveness.\n\nWhat will we be doing? Drawing, painting, creating three-dimensional forms, and exploring various materials and artistic techniques. Children will have the opportunity to work both in a more free and intuitive manner, as well as tackle tasks that develop their skills, imagination, and observational abilities. An important source of inspiration for us will be both nature and art. We will learn about selected eras, movements, and artists who have sought new ways over the centuries."
+        },
+        "uk": {
+          "title": "Художня майстерня Агати Стржалки",
+          "description": "Мистецтво починається з цікавості, з бажання придивитися до світу трохи уважніше, ніж зазвичай. Діти мають цю надзвичайну здатність помічати речі, які дорослі часто вже не помічають - форми, кольори, світло, дрібні зміни, що відбуваються в природі. На заняттях ми намагаємося цю природну уважність плекати і розвивати.\n\nЩо ми будемо робити? Малювати, фарбувати, створювати об'ємні форми та знайомитися з різноманітними матеріалами і техніками образотворчого мистецтва. Діти матимуть можливість працювати як більш вільно і інтуїтивно, так і стикатися з завданнями, що розвивають майстерність, уяву та вміння спостерігати. Важливим джерелом натхнення для нас буде як природа, так і мистецтво. Ми познайомимося з обраними епохами, напрямками та художниками, які протягом століть шукали нові способи."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-15T11:35:59.780118+00:00"
+    },
+    "pracownia-ceramiczna-micha-a-jastrz-bskiego-2026-09-15T00:00:00+02:00": {
+      "title": "Pracownia ceramiczna Michała Jastrzębskiego",
+      "date": "2026-09-15T00:00:00+02:00",
+      "end_date": "2026-09-15T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "Tworzenie w glinie rozwija kreatywność i zmysł dotyku, wrażliwość na barwy i formy. Jest dobrym treningiem dla umysłu, a także ogromną przyjemnością.\n\nPodczas zajęć uczestnicy mają okazję kształcić zdolności manualne; poznają cały proces pracy z gliną, uczą się rzemiosła oraz podstaw wykonywania wyrobów z gliny, wykorzystując przede wszystkim techniki tzw. wałeczków. W trakcie zajęć realizują głównie formy użytkowe np. doniczki, wazony, patery, ozdobne kafle itp. oraz sporadycznie małe figurki, które nie wiążą się z ceramiką użytkową. Program nauczania i tempo pracy instruktor dostosowuje indywidualnie do potrzeb i możliwości każdego kursanta.\n\nZajęcia dedykowane są dla osób poznających od podstaw techniki ceramiczne, które następnie zgłębiają oraz doskonalą.\n\n**uczestnicy: 10 - 14 lat**\n\n• wt. śr. czw. pt. | 14.00 - 15.30 | zajęcia 1x w tygodniu 90 min\n\n• czw. pt. | 15.45 - 17.15 | dni do wyboru, zajęcia 1x w tygodniu 90 min\n\n• opłata: 200 zł/ mc; wejściówka*: 60 zł\n\nZapisy: Strefa Zajęć ODT Światowid\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-d951a67aac11000240ef19276ba74575/ceramika.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415559-pracownia-ceramiczna-michala-jastrzebskiego",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Ośrodek Działań Twórczych Światowid Stefanii Sempołowskiej 54A, Wrocław 51-661",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415559-pracownia-ceramiczna-michala-jastrzebskiego",
+      "scrapped_timestamp": "2026-09-15T11:35:42.160003+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 10,
+        "max": 14
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Pracownia ceramiczna Michała Jastrzębskiego",
+          "description": "Tworzenie w glinie rozwija kreatywność i zmysł dotyku, wrażliwość na barwy i formy. Jest dobrym treningiem dla umysłu, a także ogromną przyjemnością.\n\nPodczas zajęć uczestnicy mają okazję kształcić zdolności manualne; poznają cały proces pracy z gliną, uczą się rzemiosła oraz podstaw wykonywania wyrobów z gliny, wykorzystując przede wszystkim techniki tzw. wałeczków. W trakcie zajęć realizują głównie formy użytkowe np. doniczki, wazony, patery, ozdobne kafle itp. oraz sporadycznie małe figurki, które nie wiążą się z ceramiką użytkową. Program nauczania i tempo pracy instruktor dostosowuje indywidualnie do potrzeb i możliwości każdego kursanta.\n\nZajęcia dedykowane są dla osób poznających od podstaw techniki ceramiczne, które następnie zgłębiają oraz doskonalą.\n\n**uczestnicy: 10 - 14 lat**\n\n• wt. śr. czw. pt. | 14.00 - 15.30 | zajęcia 1x w tygodniu 90 min\n\n• czw. pt. | 15.45 - 17.15 | dni do wyboru, zajęcia 1x w tygodniu 90 min\n\n• opłata: 200 zł/ mc; wejściówka*: 60 zł\n\nZapisy: Strefa Zajęć ODT Światowid\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "Michał Jastrzębski's Ceramic Workshop",
+          "description": "Creating with clay develops creativity and the sense of touch, as well as sensitivity to colors and forms. It is a good workout for the mind and also a great pleasure.\n\nDuring the classes, participants have the opportunity to develop their manual skills; they learn the entire process of working with clay, learn the craft, and the basics of making clay products, primarily using the so-called coil techniques. During the classes, they mainly create functional forms such as pots, vases, platters, decorative tiles, etc., and occasionally small figurines that are not related to functional ceramics. The instructor adjusts the curriculum and pace of work individually to the needs and abilities of each student.\n\nThe classes are dedicated to individuals learning ceramic techniques from scratch, which they then explore and refine.\n\n**Participants: 10 - 14 years old**"
+        },
+        "uk": {
+          "title": "Керамічна майстерня Міхала Ястржембського",
+          "description": "Створення в глині розвиває креативність і відчуття дотику, чутливість до кольорів і форм. Це гарне тренування для розуму, а також величезне задоволення.\n\nПід час занять учасники мають можливість розвивати свої ручні навички; знайомляться з усім процесом роботи з глиною, вивчають ремесло та основи виготовлення виробів з глини, використовуючи, перш за все, техніки так званих валиків. Протягом занять вони реалізують переважно корисні форми, наприклад, горщики, вази, тарілки, декоративні плитки тощо, а також час від часу маленькі фігурки, які не пов'язані з ужитковою керамікою. Програма навчання та темп роботи інструктор адаптує індивідуально до потреб і можливостей кожного слухача.\n\nЗаняття призначені для осіб, які знайомляться з основами керамічних технік, які потім поглиблюють і вдосконалюють свої знання.\n\n**учасники: 10 - 14 років**"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-15T11:35:59.780131+00:00"
     }
   }
 }

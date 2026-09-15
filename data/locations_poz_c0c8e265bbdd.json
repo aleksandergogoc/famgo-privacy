@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:51:27.607553+00:00",
+  "updated_at": "2026-09-15T08:52:04.172556+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1270,6 +1270,14 @@
       "normalized": "centrum inicjatyw rodzinnych",
       "updated_at": "2026-09-15T08:51:27.424184+00:00",
       "created_at": "2026-09-15T08:51:27.424184+00:00"
+    },
+    "posir chwiałka": {
+      "name": "POSiR Chwiałka, ul. Jana Spychalskiego 38, Poznań",
+      "district": "Wilda",
+      "address": "ul. Jana Spychalskiego 38",
+      "normalized": "posir chwiałka",
+      "updated_at": "2026-09-15T08:52:04.086442+00:00",
+      "created_at": "2026-09-15T08:52:04.086442+00:00"
     }
   }
 }

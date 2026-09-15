@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:53:42.146643+00:00",
+  "updated_at": "2026-09-15T08:54:35.283228+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1302,6 +1302,14 @@
       "normalized": "wielki",
       "updated_at": "2026-09-15T08:53:42.072424+00:00",
       "created_at": "2026-09-15T08:53:34.610319+00:00"
+    },
+    "scena wspólna teatru łejery": {
+      "name": "Scena Wspólna Teatru Łejery",
+      "district": "Stare Miasto",
+      "address": "",
+      "normalized": "scena wspólna teatru łejery",
+      "updated_at": "2026-09-15T08:54:35.194224+00:00",
+      "created_at": "2026-09-15T08:54:35.194224+00:00"
     }
   }
 }

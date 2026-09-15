@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:36:27.384582+00:00",
+  "updated_at": "2026-09-15T08:37:36.699185+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1185,6 +1185,14 @@
       "normalized": "termy maltańskie",
       "updated_at": "2026-09-15T08:36:00.500017+00:00",
       "created_at": "2026-09-15T08:36:00.500017+00:00"
+    },
+    "ul. głogowska 10": {
+      "name": "ul. Głogowska 10",
+      "district": "Grunwald",
+      "address": "ul. Głogowska 10",
+      "normalized": "ul. głogowska 10",
+      "updated_at": "2026-09-15T08:37:36.617605+00:00",
+      "created_at": "2026-09-15T08:37:36.617605+00:00"
     }
   }
 }

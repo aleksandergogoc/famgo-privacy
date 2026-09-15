@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:35:32.852240+00:00",
+  "updated_at": "2026-09-15T08:36:00.573445+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1178,6 +1178,14 @@
       "normalized": "sala wielka",
       "updated_at": "2026-09-15T08:35:32.794659+00:00",
       "created_at": "2026-09-15T08:35:32.794659+00:00"
+    },
+    "termy maltańskie": {
+      "name": "Termy Maltańskie, ul. Termalna 1, Poznań",
+      "district": "Nowe Miasto",
+      "address": "ul. Termalna 1",
+      "normalized": "termy maltańskie",
+      "updated_at": "2026-09-15T08:36:00.500017+00:00",
+      "created_at": "2026-09-15T08:36:00.500017+00:00"
     }
   }
 }

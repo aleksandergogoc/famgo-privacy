@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:22:20.553047+00:00",
+  "updated_at": "2026-09-15T08:23:09.306410+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1454,6 +1454,14 @@
       "normalized": "dużej auli wielkiej zbrojowni w gdańsku (targ węglowy 6)",
       "updated_at": "2026-09-15T08:13:01.208965+00:00",
       "created_at": "2026-09-15T08:13:01.208965+00:00"
+    },
+    "100czni": {
+      "name": "100czni",
+      "district": "Śródmieście",
+      "address": "ul. Księdza Jerzego Popiełuszki 5",
+      "normalized": "100czni",
+      "updated_at": "2026-09-15T08:23:09.247414+00:00",
+      "created_at": "2026-09-15T08:23:09.247414+00:00"
     }
   }
 }

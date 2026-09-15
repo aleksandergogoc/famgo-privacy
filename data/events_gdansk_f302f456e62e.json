@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:14:09.315262+00:00",
+  "updated_at": "2026-09-15T08:18:26.138513+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-12-01T11:00:00+01:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -831,18 +831,17 @@
     },
     "warsztat-malarski-dla-dzieci-od-8-lat-2026-09-15T17:00:00+02:00": {
       "title": "Warsztat malarski dla dzieci od 8 lat",
-      "date": "2026-09-15T17:00:00+02:00",
-      "end_date": "2026-09-15T17:00:00+02:00",
+      "date": "2026-09-15T15:00:00+00:00",
+      "end_date": "2026-09-14T22:00:00+00:00",
       "startTimeKnown": true,
       "description": "Czas na twórczą przygodę w Gdańsku! Dzieci wyruszą w malarski świat pełen kolorów i wyobraźni, tworząc własny obrazek w atmosferze dobrej zabawy i inspiracji. Good Time Art Studio zaprasza dzieci od 8 lat na malowanie obrazu \"Krokodyl\" - dzieci od 8 lat.\n\nCzy trzeba umieć malować, by do nas dołączyć? Nie! Bez żadnego doświadczenia i umiejętności pomożemy dzieciom stworzyć ich pierwsze obrazki w zaledwie 2,5 godziny.\n\nDołącz do nas, weź udział w dobrej zabawie i znajdź swoją nową pasję! Wszystkie materiały w cenie spotkania. Ilość miejsc ograniczona.\n\nRejestracja odbywa się przez stronę internetową: goodtimeart.net",
       "image": "https://s-trojmiasto.pl/zdj/c/n/3/4392/600x0/4392769__kr.webp",
       "location": {
-        "name": "Good Time, Gdańsk, Franciszka Rakoczego 11/U3",
-        "district": "Gdańsk - Pozostałe"
+        "name": "Good Time, Gdańsk, Franciszka Rakoczego 11/U3"
       },
       "url": "https://www.trojmiasto.pl/imprezy/Warsztat-malarski-dla-dzieci-od-8-lat-imp600347.html",
       "source": "trojmiasto.pl",
-      "district": "Gdańsk - Pozostałe",
+      "district": "Górny Taras",
       "scrapped_url": "https://www.trojmiasto.pl/imprezy/Warsztat-malarski-dla-dzieci-od-8-lat-imp600347.html",
       "scrapped_timestamp": "2026-08-09T07:26:26.839203+00:00",
       "category": "Arts",
@@ -865,9 +864,14 @@
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": false,
+        "ticket_url": null
       },
-      "updated_at": "2026-08-09T07:26:45.170321+00:00"
+      "updated_at": "2026-09-15T08:18:26.068754+00:00",
+      "additional_categories": [],
+      "source_url": "https://www.trojmiasto.pl/imprezy/Warsztat-malarski-dla-dzieci-od-8-lat-imp600347.html",
+      "featured": false,
+      "location_type": "unknown"
     },
     "warsztat-malarski-dla-dzieci-od-8-lat-2026-09-29T17:00:00+02:00": {
       "title": "Warsztat malarski dla dzieci od 8 lat",

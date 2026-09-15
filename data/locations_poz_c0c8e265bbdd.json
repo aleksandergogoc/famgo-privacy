@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:39:40.933083+00:00",
+  "updated_at": "2026-09-15T08:40:49.635558+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1207,6 +1207,14 @@
       "normalized": "wydawnictwo miejskie posnania",
       "updated_at": "2026-09-15T08:39:02.158965+00:00",
       "created_at": "2026-09-15T08:39:02.158965+00:00"
+    },
+    "scena wspólna w poznaniu": {
+      "name": "Scena Wspólna w Poznaniu, Brandstaettera 1/wejście od ul. Za Cytadelą, Poznań",
+      "district": "Stare Miasto",
+      "address": "ul. Brandstaettera 1",
+      "normalized": "scena wspólna w poznaniu",
+      "updated_at": "2026-09-15T08:40:49.559349+00:00",
+      "created_at": "2026-09-15T08:40:49.559349+00:00"
     }
   }
 }

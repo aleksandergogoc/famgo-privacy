@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-14T12:37:50.363839+00:00",
+  "updated_at": "2026-09-15T08:36:49.120614+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-10-12T11:00:00+02:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
@@ -3917,14 +3917,13 @@
     },
     "pracownia-artystyczna-dla-dzieci-2026-09-17T16:00:00+02:00": {
       "title": "Pracownia artystyczna dla dzieci",
-      "date": "2026-09-17T16:00:00+02:00",
-      "end_date": "2026-09-17T16:00:00+02:00",
+      "date": "2026-09-17T14:00:00+00:00",
+      "end_date": "2026-09-16T22:00:00+00:00",
       "startTimeKnown": true,
       "description": "Warsztaty artystyczne dla dzieci w wieku 10-13 lat obejmujące techniki malarskie, rysunkowe i rękodzielnicze. Zajęcia prowadzi Julia Spychała.\n\nTerminy spotkań (godz. 16:00):\n• 19.03., 23.04., 21.05., 25.06., 23.07., 20.08., 17.09., 22.10., 19.11., 17.12.\n\nLokalizacja:\n• Dom Sąsiedzki, ul. Bukowa 2a (wejście od Kasztanowej)\n\nInformacje organizacyjne:\n• Udział bezpłatny\n• Zapisy: SMS pod numerem 517641212\n• Projekt realizowany w ramach „Młoda Kultura na Dębcu”, finansowany z budżetu miasta Poznania.",
       "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/aeafa2ec-0096-4556-ba2f-66a60a81802a/4a2281e6-979d-4b77-9894-390c77ac68c2.jpg",
       "location": {
-        "name": "Dom Sąsiedzki ul. Bukowa 2a, Poznan, Poland",
-        "district": "Poznań - Pozostałe"
+        "name": "Dom Sąsiedzki ul. Bukowa 2a, Poznan, Poland"
       },
       "url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/pracownia-artystyczna-dla-dzieci-aeafa2ec-0096-4556-ba2f-66a60a81802a",
       "source": "simplygo.pl",
@@ -3955,10 +3954,13 @@
         }
       },
       "admission": {
-        "is_free": true
+        "is_free": true,
+        "ticket_url": null
       },
-      "district": "Poznań - Pozostałe",
-      "updated_at": "2026-09-11T11:14:59.074189+00:00"
+      "district": "Wilda",
+      "updated_at": "2026-09-15T08:36:49.064654+00:00",
+      "source_url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/pracownia-artystyczna-dla-dzieci-aeafa2ec-0096-4556-ba2f-66a60a81802a",
+      "featured": false
     },
     "przygoda-z-grami-2026-09-17T17:30:00+02:00": {
       "title": "Przygoda z grami",

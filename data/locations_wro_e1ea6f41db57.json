@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T07:58:37.487570+00:00",
+  "updated_at": "2026-09-15T07:58:59.584998+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1678,6 +1678,14 @@
       "normalized": "zsp26 ul. cynamonowa 40",
       "updated_at": "2026-09-15T07:58:37.412215+00:00",
       "created_at": "2026-09-15T07:58:37.412215+00:00"
+    },
+    "ul. zwycięska 8": {
+      "name": "ul. Zwycięska 8",
+      "district": "Krzyki",
+      "address": "ul. Zwycięska 8",
+      "normalized": "ul. zwycięska 8",
+      "updated_at": "2026-09-15T07:58:59.504545+00:00",
+      "created_at": "2026-09-15T07:58:59.504545+00:00"
     }
   }
 }

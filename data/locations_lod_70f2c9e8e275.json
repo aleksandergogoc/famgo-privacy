@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:45:47.039366+00:00",
+  "updated_at": "2026-09-16T11:38:58.061352+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -669,6 +669,60 @@
       "lat": 51.7652371,
       "lng": 19.4954207,
       "updated_at": "2026-09-15T11:38:26.848072+00:00"
+    },
+    "sacharowa 63": {
+      "name": "Klub Kubuś, 63, Andrzeja Sacharowa, Osiedle Bolesława Chrobrego, Widzew-Wschód, Widzew Wschód, Łódź-Widzew, Łódź, województwo łódzkie, 92-520, Polska",
+      "district": "Widzew",
+      "address": "Klub Kubuś, 63, Andrzeja Sacharowa, Osiedle Bolesława Chrobrego, Widzew-Wschód, Widzew Wschód, Łódź-Widzew, Łódź, województwo łódzkie, 92-520, Polska",
+      "normalized": "sacharowa 63",
+      "lat": 51.756171,
+      "lng": 19.5486816,
+      "updated_at": "2026-09-16T11:27:32.424761+00:00"
+    },
+    "atlas arena w łodzi (al. bandurskiego 7)": {
+      "name": "Atlas Arena, 7, Aleja Księdza Biskupa Władysława Bandurskiego, Zdrowie-Mania, Zdrowie, Łódź-Polesie, Łódź, województwo łódzkie, 94-030, Polska",
+      "district": "Polesie",
+      "address": "Atlas Arena, 7, Aleja Księdza Biskupa Władysława Bandurskiego, Zdrowie-Mania, Zdrowie, Łódź-Polesie, Łódź, województwo łódzkie, 94-030, Polska",
+      "normalized": "atlas arena w łodzi (al. bandurskiego 7)",
+      "lat": 51.7571679,
+      "lng": 19.4250895,
+      "updated_at": "2026-09-16T11:27:54.257912+00:00"
+    },
+    "im. stefana jaracza w łodzi (ul. jaracza 27)": {
+      "name": "Teatr im. Stefana Jaracza w Łodzi (Mała scena), 45, Jana Kilińskiego, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-257, Polska",
+      "district": "Śródmieście",
+      "address": "Teatr im. Stefana Jaracza w Łodzi (Mała scena), 45, Jana Kilińskiego, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-257, Polska",
+      "normalized": "im. stefana jaracza w łodzi (ul. jaracza 27)",
+      "lat": 51.7724692,
+      "lng": 19.4619468,
+      "updated_at": "2026-09-16T11:27:58.836071+00:00"
+    },
+    "powszechny w łodzi - scena w expo-łódź (al. politechniki 4)": {
+      "name": "EXPO-Łódź Sp. z o.o., 4, Aleje Politechniki, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 93-590, Polska",
+      "district": "Polesie",
+      "address": "EXPO-Łódź Sp. z o.o., 4, Aleje Politechniki, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 93-590, Polska",
+      "normalized": "powszechny w łodzi - scena w expo-łódź (al. politechniki 4)",
+      "lat": 51.7506141,
+      "lng": 19.4509533,
+      "updated_at": "2026-09-16T11:28:02.443237+00:00"
+    },
+    "piotrkowska 282": {
+      "name": "282, Piotrkowska, Górniak, Łódź-Górna, Łódź, województwo łódzkie, 90-361, Polska",
+      "district": "Górna",
+      "address": "282, Piotrkowska, Górniak, Łódź-Górna, Łódź, województwo łódzkie, 90-361, Polska",
+      "normalized": "piotrkowska 282",
+      "lat": 51.7455561,
+      "lng": 19.4618523,
+      "updated_at": "2026-09-16T11:28:04.082706+00:00"
+    },
+    "stadion miejski im. władysława króla (łódź": {
+      "name": "Stadion Miejski Łódzkiego Klubu Sportowego im. Władysława Króla, 2, Aleja Unii Lubelskiej, Zdrowie-Mania, Zdrowie, Łódź-Polesie, Łódź, województwo łódzkie, 94-020, Polska",
+      "district": "Polesie",
+      "address": "Stadion Miejski Łódzkiego Klubu Sportowego im. Władysława Króla, 2, Aleja Unii Lubelskiej, Zdrowie-Mania, Zdrowie, Łódź-Polesie, Łódź, województwo łódzkie, 94-020, Polska",
+      "normalized": "stadion miejski im. władysława króla (łódź",
+      "lat": 51.7589479,
+      "lng": 19.4252474,
+      "updated_at": "2026-09-16T11:28:12.568689+00:00"
     }
   }
 }

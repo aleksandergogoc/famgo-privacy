@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T08:32:09.831428+00:00",
+  "updated_at": "2026-09-16T11:38:57.190183+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1520,6 +1520,141 @@
       "normalized": "nomus – nowym muzeum sztuki ul. stefana jaracza 14",
       "updated_at": "2026-09-15T08:30:03.263334+00:00",
       "created_at": "2026-09-15T08:30:03.263334+00:00"
+    },
+    "maurycego beniowskiego 32_1": {
+      "name": "Maurycego Beniowskiego, Wojnowo, Przymorze Małe, Gdańsk, województwo pomorskie, 80-361, Polska",
+      "district": "Oliwa",
+      "address": "Maurycego Beniowskiego, Wojnowo, Przymorze Małe, Gdańsk, województwo pomorskie, 80-361, Polska",
+      "normalized": "maurycego beniowskiego 32_1",
+      "lat": 54.4120181,
+      "lng": 18.5766043,
+      "updated_at": "2026-09-16T11:31:35.310539+00:00"
+    },
+    "polanki 119": {
+      "name": "Szpital Dziecięcy Polanki, 119, Polanki, Oliwa, Gdańsk, województwo pomorskie, 80-308, Polska",
+      "district": "Oliwa",
+      "address": "Szpital Dziecięcy Polanki, 119, Polanki, Oliwa, Gdańsk, województwo pomorskie, 80-308, Polska",
+      "normalized": "polanki 119",
+      "lat": 54.3952393,
+      "lng": 18.5625855,
+      "updated_at": "2026-09-16T11:31:36.778922+00:00"
+    },
+    "podmłyńska 10": {
+      "name": "10, Podmłyńska, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-885, Polska",
+      "district": "Śródmieście",
+      "address": "10, Podmłyńska, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-885, Polska",
+      "normalized": "podmłyńska 10",
+      "lat": 54.3535115,
+      "lng": 18.6512476,
+      "updated_at": "2026-09-16T11:31:38.071310+00:00"
+    },
+    "nowe ogrody 8_12": {
+      "name": "8/12, Nowe Ogrody, Piaskownia, Nowe Ogrody, Śródmieście, Gdańsk, województwo pomorskie, 80-803, Polska",
+      "district": "Śródmieście",
+      "address": "8/12, Nowe Ogrody, Piaskownia, Nowe Ogrody, Śródmieście, Gdańsk, województwo pomorskie, 80-803, Polska",
+      "normalized": "nowe ogrody 8_12",
+      "lat": 54.3512622,
+      "lng": 18.6405963,
+      "updated_at": "2026-09-16T11:31:39.492742+00:00"
+    },
+    "stary rynek oliwski 7": {
+      "name": "7, Stary Rynek Oliwski, Oliwa, Gdańsk, województwo pomorskie, 80-324, Polska",
+      "district": "Oliwa",
+      "address": "7, Stary Rynek Oliwski, Oliwa, Gdańsk, województwo pomorskie, 80-324, Polska",
+      "normalized": "stary rynek oliwski 7",
+      "lat": 54.4083735,
+      "lng": 18.5564125,
+      "updated_at": "2026-09-16T11:31:40.948141+00:00"
+    },
+    "juliusza słowackiego 19": {
+      "name": "19, Juliusza Słowackiego, Srebrzysko, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-257, Polska",
+      "district": "Wrzeszcz",
+      "address": "19, Juliusza Słowackiego, Srebrzysko, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-257, Polska",
+      "normalized": "juliusza słowackiego 19",
+      "lat": 54.3812585,
+      "lng": 18.5905161,
+      "updated_at": "2026-09-16T11:31:42.337134+00:00"
+    },
+    "międzygwiezdna 2_2": {
+      "name": "Międzygwiezdna, Osiedle Planeta, Owczarnia, Osowa, Gdańsk, województwo pomorskie, 81-598, Polska",
+      "district": "Oliwa",
+      "address": "Międzygwiezdna, Osiedle Planeta, Owczarnia, Osowa, Gdańsk, województwo pomorskie, 81-598, Polska",
+      "normalized": "międzygwiezdna 2_2",
+      "lat": 54.4175895,
+      "lng": 18.4824472,
+      "updated_at": "2026-09-16T11:31:43.628048+00:00"
+    },
+    "piastowska": {
+      "name": "Piastowska, Wojnowo, Przymorze Małe, Gdańsk, województwo pomorskie, 80-355, Polska",
+      "district": "Oliwa",
+      "address": "Piastowska, Wojnowo, Przymorze Małe, Gdańsk, województwo pomorskie, 80-355, Polska",
+      "normalized": "piastowska",
+      "lat": 54.4131636,
+      "lng": 18.5758677,
+      "updated_at": "2026-09-16T11:31:45.027877+00:00"
+    },
+    "pokoleń lechii gdańsk 1": {
+      "name": "PitStop, 1, Pokoleń Lechii Gdańsk, Letnica, Gdańsk, województwo pomorskie, 80-560, Polska",
+      "district": "Śródmieście",
+      "address": "PitStop, 1, Pokoleń Lechii Gdańsk, Letnica, Gdańsk, województwo pomorskie, 80-560, Polska",
+      "normalized": "pokoleń lechii gdańsk 1",
+      "lat": 54.3896298,
+      "lng": 18.6372036,
+      "updated_at": "2026-09-16T11:31:46.490862+00:00"
+    },
+    "szpital dziecięcy polanki": {
+      "name": "Szpital Dziecięcy Polanki",
+      "district": "Oliwa",
+      "address": "Szpital Dziecięcy Polanki",
+      "normalized": "szpital dziecięcy polanki",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-16T11:34:25.597035+00:00"
+    },
+    "coś tam wymyślę": {
+      "name": "Coś tam wymyślę",
+      "district": "Śródmieście",
+      "address": "Coś tam wymyślę",
+      "normalized": "coś tam wymyślę",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-16T11:34:25.597255+00:00"
+    },
+    "urząd miejski w gdańsku": {
+      "name": "Urząd Miejski w Gdańsku",
+      "district": "Śródmieście",
+      "address": "Urząd Miejski w Gdańsku",
+      "normalized": "urząd miejski w gdańsku",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-16T11:34:25.597414+00:00"
+    },
+    "sklep modelarski": {
+      "name": "Sklep modelarski",
+      "district": "Oliwa",
+      "address": "Sklep modelarski",
+      "normalized": "sklep modelarski",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-16T11:34:25.597568+00:00"
+    },
+    "natura sztuki": {
+      "name": "Natura Sztuki",
+      "district": "Oliwa",
+      "address": "Natura Sztuki",
+      "normalized": "natura sztuki",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-16T11:34:25.597734+00:00"
+    },
+    "helios metropolia": {
+      "name": "Helios Metropolia",
+      "district": "Wrzeszcz",
+      "address": "Helios Metropolia",
+      "normalized": "helios metropolia",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-16T11:34:25.597907+00:00"
     }
   }
 }

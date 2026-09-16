@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:45:51.331082+00:00",
+  "updated_at": "2026-09-16T11:39:00.796801+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4108,6 +4108,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-15T11:30:09.174681+00:00"
+    },
+    "plac nowy": {
+      "name": "Plac Nowy, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-059, Polska",
+      "district": "Stare Miasto",
+      "address": "Plac Nowy, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-059, Polska",
+      "normalized": "plac nowy",
+      "lat": 50.0517373,
+      "lng": 19.9446185,
+      "updated_at": "2026-09-16T10:59:28.761042+00:00"
+    },
+    "zespół szkolno-przedszkolny nr 4": {
+      "name": "Zespół Szkolno-Przedszkolny nr 4, ul. Urzędnicza 65, Kraków",
+      "district": "Stare Miasto",
+      "address": "Zespół Szkolno-Przedszkolny nr 4, ul. Urzędnicza 65, Kraków",
+      "normalized": "zespół szkolno-przedszkolny nr 4",
+      "lat": 50.057,
+      "lng": 19.932,
+      "updated_at": "2026-09-16T11:00:00.128537+00:00"
+    },
+    "zespół szkolno-przedszkolny nr 8": {
+      "name": "ul. M. Wrony 115, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. M. Wrony 115, Kraków",
+      "normalized": "zespół szkolno-przedszkolny nr 8",
+      "lat": 50.057,
+      "lng": 19.944,
+      "updated_at": "2026-09-16T11:01:00.169901+00:00"
+    },
+    "filia nr 15": {
+      "name": "Filia nr 15, ul. Dobrego Pasterza 100, Kraków",
+      "district": "Stare Miasto",
+      "address": "Filia nr 15, ul. Dobrego Pasterza 100, Kraków",
+      "normalized": "filia nr 15",
+      "lat": 50.067,
+      "lng": 19.932,
+      "updated_at": "2026-09-16T11:01:09.378738+00:00"
+    },
+    "klastr innowacji społeczno gospodarczych": {
+      "name": "ul. Zabłocie 20, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Zabłocie 20, Kraków",
+      "normalized": "klastr innowacji społeczno gospodarczych",
+      "lat": 50.049,
+      "lng": 19.946,
+      "updated_at": "2026-09-16T11:01:39.354474+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:45:49.860700+00:00",
+  "updated_at": "2026-09-16T11:38:59.723258+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -6423,6 +6423,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-15T11:33:55.159749+00:00"
+    },
+    "plac thomasa woodrowa wilsona 2": {
+      "name": "Wisła, 2, Plac Thomasa Woodrowa Wilsona, Żoliborz Dziennikarski, Stary Żoliborz, Żoliborz, Warszawa, województwo mazowieckie, 01-615, Polska",
+      "district": "Żoliborz",
+      "address": "Wisła, 2, Plac Thomasa Woodrowa Wilsona, Żoliborz Dziennikarski, Stary Żoliborz, Żoliborz, Warszawa, województwo mazowieckie, 01-615, Polska",
+      "normalized": "plac thomasa woodrowa wilsona 2",
+      "lat": 52.2697395,
+      "lng": 20.9868456,
+      "updated_at": "2026-09-16T11:19:54.476127+00:00"
+    },
+    "krakowskie przedmieście 66": {
+      "name": "Krakowskie Przedmieście 66, Narodowy Instytut Kultury i Dziedzictwa Wsi",
+      "district": "Śródmieście",
+      "address": "Krakowskie Przedmieście 66, Narodowy Instytut Kultury i Dziedzictwa Wsi",
+      "normalized": "krakowskie przedmieście 66",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-16T11:19:54.476747+00:00"
     }
   }
 }

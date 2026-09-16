@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T11:45:45.125976+00:00",
+  "updated_at": "2026-09-16T11:38:56.338365+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1319,6 +1319,42 @@
       "lat": 52.4271017,
       "lng": 16.8481261,
       "updated_at": "2026-09-15T11:44:49.026885+00:00"
+    },
+    "bawialnia": {
+      "name": "Bawialnia, Centrum Kultury ZAMEK, ul. Święty Marcin 80/82, 61-809 Poznań",
+      "district": "Stare Miasto",
+      "address": "Bawialnia, Centrum Kultury ZAMEK, ul. Święty Marcin 80/82, 61-809 Poznań",
+      "normalized": "bawialnia",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-16T11:36:31.946111+00:00"
+    },
+    "malta ski": {
+      "name": "Malta Ski, Wiankowa, Chartowo, Poznań, województwo wielkopolskie, 61-255, Polska",
+      "district": "Nowe Miasto",
+      "address": "Malta Ski, Wiankowa, Chartowo, Poznań, województwo wielkopolskie, 61-255, Polska",
+      "normalized": "malta ski",
+      "lat": 52.3992706,
+      "lng": 16.9793407,
+      "updated_at": "2026-09-16T11:36:36.294585+00:00"
+    },
+    "tor poznań": {
+      "name": "Tor Poznań, Wyścigowa, Przeźmierowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-081, Polska",
+      "district": "Poznań - Pozostałe",
+      "address": "Tor Poznań, Wyścigowa, Przeźmierowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-081, Polska",
+      "normalized": "tor poznań",
+      "lat": 52.4182408,
+      "lng": 16.8069082,
+      "updated_at": "2026-09-16T11:36:39.828602+00:00"
+    },
+    "schron": {
+      "name": "Schron, 10, Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-818, Polska",
+      "district": "Stare Miasto",
+      "address": "Schron, 10, Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-818, Polska",
+      "normalized": "schron",
+      "lat": 52.4051396,
+      "lng": 16.9212549,
+      "updated_at": "2026-09-16T11:36:46.081326+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T11:39:00.796801+00:00",
+  "updated_at": "2026-09-17T11:48:29.578385+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4153,6 +4153,60 @@
       "lat": 50.049,
       "lng": 19.946,
       "updated_at": "2026-09-16T11:01:39.354474+00:00"
+    },
+    "archeologiczne": {
+      "name": "ul. Senacka 3, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Senacka 3, Kraków",
+      "normalized": "archeologiczne",
+      "lat": 50.061,
+      "lng": 19.937,
+      "updated_at": "2026-09-17T11:09:48.495623+00:00"
+    },
+    "park lotników polskich": {
+      "name": "Park Lotników Polskich, Kraków",
+      "district": "Czyżyny",
+      "address": "Park Lotników Polskich, Kraków",
+      "normalized": "park lotników polskich",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-17T11:10:59.299845+00:00"
+    },
+    "przy zajezdni autobusowej mistrzejowice .os złotego wieku 94 koło nunkebab": {
+      "name": "Os. Złotego Wieku 94, Kraków",
+      "district": "Bieńczyce",
+      "address": "Os. Złotego Wieku 94, Kraków",
+      "normalized": "przy zajezdni autobusowej mistrzejowice .os złotego wieku 94 koło nunkebab",
+      "lat": 50.083,
+      "lng": 20.013,
+      "updated_at": "2026-09-17T11:16:42.815252+00:00"
+    },
+    "dom esterki": {
+      "name": "Dom Esterki, Muzeum Etnograficzne, Kraków",
+      "district": "Stare Miasto",
+      "address": "Dom Esterki, Muzeum Etnograficzne, Kraków",
+      "normalized": "dom esterki",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-17T11:16:43.616418+00:00"
+    },
+    "fort 49 1_2a mogiła": {
+      "name": "ul. Igołomska 7, Kraków",
+      "district": "Grzegórzki",
+      "address": "ul. Igołomska 7, Kraków",
+      "normalized": "fort 49 1_2a mogiła",
+      "lat": 50.064,
+      "lng": 19.956,
+      "updated_at": "2026-09-17T11:16:47.631893+00:00"
+    },
+    "polana bielańska": {
+      "name": "Polana Bielańska, Las Wolski, Zwierzyniec, Kraków, województwo małopolskie, Polska",
+      "district": "Zwierzyniec",
+      "address": "Polana Bielańska, Las Wolski, Zwierzyniec, Kraków, województwo małopolskie, Polska",
+      "normalized": "polana bielańska",
+      "lat": 50.0482369,
+      "lng": 19.8399437,
+      "updated_at": "2026-09-17T11:16:54.617161+00:00"
     }
   }
 }

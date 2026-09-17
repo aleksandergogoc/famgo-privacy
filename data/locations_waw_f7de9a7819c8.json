@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T11:38:59.723258+00:00",
+  "updated_at": "2026-09-17T11:48:28.060099+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -6441,6 +6441,168 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-16T11:19:54.476747+00:00"
+    },
+    "60 min wypożyczalnia nr 25 w falenicy · ul. walcownicza 2": {
+      "name": "60 min Wypożyczalnia nr 25 w Falenicy · ul. Walcownicza 2",
+      "district": "Wawer",
+      "address": "60 min Wypożyczalnia nr 25 w Falenicy · ul. Walcownicza 2",
+      "normalized": "60 min wypożyczalnia nr 25 w falenicy · ul. walcownicza 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.793250+00:00"
+    },
+    "40 min arthouse · ul. kołowa 24": {
+      "name": "40 min ARTHOUSE · ul. Kołowa 24",
+      "district": "Targówek",
+      "address": "40 min ARTHOUSE · ul. Kołowa 24",
+      "normalized": "40 min arthouse · ul. kołowa 24",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.793583+00:00"
+    },
+    "60 min centrum lokalne kamionek · ul. grochowska 328": {
+      "name": "60 min Centrum Lokalne Kamionek · ul. Grochowska 328",
+      "district": "Praga-Południe",
+      "address": "60 min Centrum Lokalne Kamionek · ul. Grochowska 328",
+      "normalized": "60 min centrum lokalne kamionek · ul. grochowska 328",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.793862+00:00"
+    },
+    "30 min + 15 min zabawy teatr baj": {
+      "name": "30 min + 15 min zabawy Teatr Baj, Mała Scena · ul. Jagiellońska 28",
+      "district": "Praga-Północ",
+      "address": "30 min + 15 min zabawy Teatr Baj, Mała Scena · ul. Jagiellońska 28",
+      "normalized": "30 min + 15 min zabawy teatr baj",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.794131+00:00"
+    },
+    "40 min pawilon edukacyjny kamień · ul. wybrzeże puckie 1": {
+      "name": "40 min Pawilon Edukacyjny Kamień · ul. Wybrzeże Puckie 1",
+      "district": "Praga-Północ",
+      "address": "40 min Pawilon Edukacyjny Kamień · ul. Wybrzeże Puckie 1",
+      "normalized": "40 min pawilon edukacyjny kamień · ul. wybrzeże puckie 1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.794393+00:00"
+    },
+    "55 min teatr baj · ul. jagiellońska 28": {
+      "name": "55 min Teatr Baj · ul. Jagiellońska 28",
+      "district": "Praga-Północ",
+      "address": "55 min Teatr Baj · ul. Jagiellońska 28",
+      "normalized": "55 min teatr baj · ul. jagiellońska 28",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.794659+00:00"
+    },
+    "30 min teatr baj": {
+      "name": "30 min Teatr Baj, Galeria Lalek · ul. Jagiellońska 28",
+      "district": "Praga-Północ",
+      "address": "30 min Teatr Baj, Galeria Lalek · ul. Jagiellońska 28",
+      "normalized": "30 min teatr baj",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.795091+00:00"
+    },
+    "60 min teatr baj · ul. jagiellońska 28": {
+      "name": "60 min Teatr Baj · ul. Jagiellońska 28",
+      "district": "Praga-Północ",
+      "address": "60 min Teatr Baj · ul. Jagiellońska 28",
+      "normalized": "60 min teatr baj · ul. jagiellońska 28",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.795452+00:00"
+    },
+    "45 min teatr baj": {
+      "name": "45 min Teatr Baj, Mała Scena · ul. Jagiellońska 28",
+      "district": "Praga-Północ",
+      "address": "45 min Teatr Baj, Mała Scena · ul. Jagiellońska 28",
+      "normalized": "45 min teatr baj",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.795850+00:00"
+    },
+    "ok. 60 min teatr baj · ul. jagiellońska 28": {
+      "name": "ok. 60 min Teatr Baj · ul. Jagiellońska 28",
+      "district": "Praga-Północ",
+      "address": "ok. 60 min Teatr Baj · ul. Jagiellońska 28",
+      "normalized": "ok. 60 min teatr baj · ul. jagiellońska 28",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.796088+00:00"
+    },
+    "baj · ul. jagiellońska 28": {
+      "name": "Teatr Baj · ul. Jagiellońska 28",
+      "district": "Praga-Północ",
+      "address": "Teatr Baj · ul. Jagiellońska 28",
+      "normalized": "baj · ul. jagiellońska 28",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.796474+00:00"
+    },
+    "dom kultury stokłosy": {
+      "name": "Dom Kultury Stokłosy",
+      "district": "Ursynów",
+      "address": "Dom Kultury Stokłosy",
+      "normalized": "dom kultury stokłosy",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.796814+00:00"
+    },
+    "kościół pw. matki bożej królowej aniołów": {
+      "name": "Kościół pw. Matki Bożej Królowej Aniołów, ul. ks. B. Markiewicza 1",
+      "district": "Bemowo",
+      "address": "Kościół pw. Matki Bożej Królowej Aniołów, ul. ks. B. Markiewicza 1",
+      "normalized": "kościół pw. matki bożej królowej aniołów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.797051+00:00"
+    },
+    "plac konesera": {
+      "name": "Plac Konesera",
+      "district": "Praga-Północ",
+      "address": "Plac Konesera",
+      "normalized": "plac konesera",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.797287+00:00"
+    },
+    "sp nr 400": {
+      "name": "SP nr 400, ul. Oś Królewska 25",
+      "district": "Wilanów",
+      "address": "SP nr 400, ul. Oś Królewska 25",
+      "normalized": "sp nr 400",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.797574+00:00"
+    },
+    "pływalnia foka": {
+      "name": "Pływalnia Foka, Esperanto 5",
+      "district": "Wola",
+      "address": "Pływalnia Foka, Esperanto 5",
+      "normalized": "pływalnia foka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.797842+00:00"
+    },
+    "otwarta kolonia": {
+      "name": "Otwarta Kolonia, ul. Górczewska 15",
+      "district": "Wola",
+      "address": "Otwarta Kolonia, ul. Górczewska 15",
+      "normalized": "otwarta kolonia",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.798082+00:00"
+    },
+    "aleja krakowska 110_114_110": {
+      "name": "Aleja Krakowska 110/114/110, 02-256 Warszawa, Poland",
+      "district": "Włochy",
+      "address": "Aleja Krakowska 110/114/110, 02-256 Warszawa, Poland",
+      "normalized": "aleja krakowska 110_114_110",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-17T11:30:05.798338+00:00"
     }
   }
 }

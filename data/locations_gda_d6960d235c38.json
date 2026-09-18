@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T11:38:57.190183+00:00",
+  "updated_at": "2026-09-18T11:15:32.346880+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1655,6 +1655,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-16T11:34:25.597907+00:00"
+    },
+    "rzeczpospolitej 1b": {
+      "name": "Gdańsk, województwo pomorskie, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Gdańsk, województwo pomorskie, Polska",
+      "normalized": "rzeczpospolitej 1b",
+      "lat": 54.3706858,
+      "lng": 18.6129831,
+      "updated_at": "2026-09-18T11:09:39.901928+00:00"
+    },
+    "starowiejska 15_16 letnica": {
+      "name": "Starowiejska, Nowa Letnica, Letnica, Gdańsk, województwo pomorskie, 80-534, Polska",
+      "district": "Śródmieście",
+      "address": "Starowiejska, Nowa Letnica, Letnica, Gdańsk, województwo pomorskie, 80-534, Polska",
+      "normalized": "starowiejska 15_16 letnica",
+      "lat": 54.396669,
+      "lng": 18.6456936,
+      "updated_at": "2026-09-18T11:09:41.425424+00:00"
     }
   }
 }

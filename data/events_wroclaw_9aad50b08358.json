@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T10:43:46.356202+00:00",
+  "updated_at": "2026-09-18T11:05:39.359214+00:00",
   "events": {
     "12-mi-dzynarodowe-zawody-w-je-dzie-bez-og-owia-euro-equus-2026-2026-09-25T00:00:00": {
       "scrapped_timestamp": "2026-06-26T16:36:24.805343+00:00",
@@ -3811,49 +3811,50 @@
       "updated_at": "2026-09-07T12:12:45.441765+00:00"
     },
     "festyn-osiedlowy-w-parku-kleci-skim-witaj-jesieni-2026-09-19T15:00:00+02:00": {
-      "title": "Festyn osiedlowy w Parku Klecińskim — Witaj, jesieni!",
+      "title": "Festyn osiedlowy w Parku Klecińskim – Witaj, jesieni!",
       "date": "2026-09-19T15:00:00+02:00",
       "end_date": "2026-09-19T15:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Jesień wcale nie musi być szara i ponura! Po raz kolejny zapraszamy Was do wspólnego, radosnego powitania tej wyjątkowej pory roku. Spotkajmy się w Parku Klecińskim i spędźmy ten dzień razem! Rada Osiedla Krzyki-Partynice przygotowała mnóstwo atrakcji dla małych i dużych. Czeka na Was moc dobrej zabawy, twórczych aktywności i okazji do wspólnego spędzenia czasu.\n\n15:00–19:00 | teren parku w okolicy placu zabaw\n\n• gry i klocki XXL,\n\n• fotobudka,\n\n• warsztaty plastyczne,\n\n• gra terenowa,\n\n• sportowa platforma balansowa,\n\n• mobilny serwis rowerowy,\n\n• osiedlowy zakład fotograficzny,\n\n• stoiska edukacyjne, promocyjne i animacyjne partnerów,\n\n• strefa gastronomiczna.\n\n19:00 | amfiteatr kino plenerowe: „Flow” – oscarowa animacja dla całej rodziny\n\nPartnerzy wydarzenia: Miejski Ośrodek Pomocy Społecznej, Wrocławskie Centrum Rozwoju Społecznego, Miejskie Przedsiębiorstwo Komunikacyjne, Wroclaw.pl, Zespół Szkolno-Przedszkolny nr 16, Straż Miejska Wrocławia, Fundacja Bubble of Good, Twój Lekarz, Early Stage, AMAkids, Akademia Marzeń.\n\nWydarzenie organizowane przez Osiedle Krzyki-Partynice z wykorzystaniem środków finansowych wyodrębnionych dla Osiedla w budżecie miasta Wrocławia oraz dofinansowania na realizację zadań społecznych (festyn osiedlowy, kino plenerowe – Fundusz Czasu Wolnego).\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-54cc84c2ac110002420df45a739a9be5/public-form-image",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1415624-festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni",
-      "source": "wroclaw.pl",
+      "description": "Rada Osiedla Krzyki-Partynice zaprasza na wspólne powitanie jesieni w Parku Klecińskim. Wydarzenie obejmuje szereg aktywności dla dzieci i dorosłych.\n\nProgram (15:00–19:00, teren przy placu zabaw):\n• Gry i klocki XXL, fotobudka, warsztaty plastyczne\n• Gra terenowa, sportowa platforma balansowa\n• Mobilny serwis rowerowy, osiedlowy zakład fotograficzny\n• Stoiska edukacyjne i strefa gastronomiczna\n\nKino plenerowe (19:00, amfiteatr):\n• Pokaz oscarowej animacji „Flow” dla całej rodziny.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/72b1c88a-d863-4c20-8c3a-2dfdcd72de49/94b42974-418f-49c4-a191-2ea3037d8290.jpg",
       "location": {
-        "name": "Park Kleciński",
+        "name": "Park Kleciński, Wrocław",
         "district": "Krzyki"
       },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1415624-festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni",
-      "scrapped_timestamp": "2026-09-17T11:32:22.676069+00:00",
-      "category": "Seasonal Festival",
-      "additional_categories": [
-        "Family Fun",
-        "Workshops"
-      ],
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni-72b1c88a-d863-4c20-8c3a-2dfdcd72de49",
+      "source": "simplygo.pl",
+      "age_hint": "3-18",
       "age_range": {
         "min": 3,
-        "max": 12
+        "max": 18
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/festyn-osiedlowy-w-parku-klecinskim-witaj-jesieni-72b1c88a-d863-4c20-8c3a-2dfdcd72de49",
+      "scrapped_timestamp": "2026-09-18T11:05:21.119004+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Games",
+        "Arts"
+      ],
       "location_type": "outdoor",
       "translations": {
         "pl": {
-          "title": "Festyn osiedlowy w Parku Klecińskim — Witaj, jesieni!",
-          "description": "Jesień wcale nie musi być szara i ponura! Po raz kolejny zapraszamy Was do wspólnego, radosnego powitania tej wyjątkowej pory roku. Spotkajmy się w Parku Klecińskim i spędźmy ten dzień razem! Rada Osiedla Krzyki-Partynice przygotowała mnóstwo atrakcji dla małych i dużych. Czeka na Was moc dobrej zabawy, twórczych aktywności i okazji do wspólnego spędzenia czasu.\n\n15:00–19:00 | teren parku w okolicy placu zabaw\n\n• gry i klocki XXL,\n\n• fotobudka,\n\n• warsztaty plastyczne,\n\n• gra terenowa,\n\n• sportowa platforma balansowa,\n\n• mobilny serwis rowerowy,\n\n• osiedlowy zakład fotograficzny,\n\n• stoiska edukacyjne, promocyjne i animacyjne partnerów,\n\n• strefa gastronomiczna.\n\n19:00 | amfiteatr kino plenerowe: „Flow” – oscarowa animacja dla całej rodziny\n\nPartnerzy wydarzenia: Miejski Ośrodek Pomocy Społecznej, Wrocławskie Centrum Rozwoju Społecznego, Miejskie Przedsiębiorstwo Komunikacyjne, Wroclaw.pl, Zespół Szkolno-Przedszkolny nr 16, Straż Miejska Wrocławia, Fundacja Bubble of Good, Twój Lekarz, Early Stage, AMAkids, Akademia Marzeń.\n\nWydarzenie organizowane przez Osiedle Krzyki-Partynice z wykorzystaniem środków finansowych wyodrębnionych dla Osiedla w budżecie miasta Wrocławia oraz dofinansowania na realizację zadań społecznych (festyn osiedlowy, kino plenerowe – Fundusz Czasu Wolnego).\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook"
+          "title": "Festyn osiedlowy w Parku Klecińskim – Witaj, jesieni!",
+          "description": "Rada Osiedla Krzyki-Partynice zaprasza na wspólne powitanie jesieni w Parku Klecińskim. Wydarzenie obejmuje szereg aktywności dla dzieci i dorosłych.\n\nProgram (15:00–19:00, teren przy placu zabaw):\n• Gry i klocki XXL, fotobudka, warsztaty plastyczne\n• Gra terenowa, sportowa platforma balansowa\n• Mobilny serwis rowerowy, osiedlowy zakład fotograficzny\n• Stoiska edukacyjne i strefa gastronomiczna\n\nKino plenerowe (19:00, amfiteatr):\n• Pokaz oscarowej animacji „Flow” dla całej rodziny."
         },
         "en": {
-          "title": "Neighborhood Festival in Kleciński Park — Welcome, Autumn!",
-          "description": "Autumn doesn't have to be gray and gloomy! Once again, we invite you to joyfully welcome this special season together. Let's meet in Kleciński Park and spend this day together! The Krzyki-Partynice Neighborhood Council has prepared plenty of attractions for both young and old. A lot of fun, creative activities, and opportunities to spend time together await you.\n\n15:00–19:00 | park area near the playground\n\n• XXL games and blocks,\n\n• photo booth,\n\n• art workshops,\n\n• outdoor game,\n\n• sports balance platform,\n\n• mobile bike service,\n\n• neighborhood photography studio,\n\n• educational, promotional, and animation booths from partners,\n\n• food zone.\n\n19:00 | amphitheater outdoor cinema: \"Flow\" – an Oscar-winning animation for the whole family.\n\nEvent partners: Municipal Center for Social Assistance"
+          "title": "Neighborhood Festival in Kleciński Park – Welcome, Autumn!",
+          "description": "The Krzyki-Partynice Neighborhood Council invites you to a joint welcome of autumn in Kleciński Park. The event includes a range of activities for children and adults.\n\nProgram (3:00 PM – 7:00 PM, area near the playground):\n• XXL games and blocks, photo booth, art workshops\n• Treasure hunt, sports balance platform\n• Mobile bike service, neighborhood photography studio\n• Educational booths and food zone\n\nOutdoor cinema (7:00 PM, amphitheater):\n• Screening of the Oscar-winning animation \"Flow\" for the whole family."
         },
         "uk": {
-          "title": "Осінній фестиваль у парку Клецінському — Ласкаво просимо, осінь!",
-          "description": "Осінь зовсім не повинна бути сірою та похмурою! Ще раз запрошуємо вас до спільного, радісного вітання цієї особливої пори року. Зустрінемося в парку Клецінському та проведемо цей день разом! Рада оселення Кжики-Партиніце підготувала безліч розваг для малих і великих. На вас чекає море гарного настрою, творчих активностей та можливостей провести час разом.\n\n15:00–19:00 | територія парку в районі дитячого майданчика\n\n• ігри та блоки XXL,\n\n• фотобудка,\n\n• художні майстерні,\n\n• гра на місцевості,\n\n• спортивна балансувальна платформа,\n\n• мобільний велосипедний сервіс,\n\n• осередок фотографії,\n\n• освітні, промоційні та анімаційні стенди партнерів,\n\n• гастрономічна зона.\n\n19:00 | амфітеатр, відкритий кінопоказ: «Flow» – оскарівська анімація для всієї родини\n\nПартнери події: Міський центр допомоги"
+          "title": "Осінній фестиваль у парку Клецінському – Привіт, осінь!",
+          "description": "Рада Оселення Кжики-Партиніце запрошує на спільне привітання осені в парку Клецінському. Подія включає ряд активностей для дітей та дорослих.\n\nПрограма (15:00–19:00, територія біля дитячого майданчика):\n• Ігри та блоки XXL, фотобудка, художні майстерні\n• Поле для гри, спортивна балансувальна платформа\n• Мобільний велосипедний сервіс, оселений фотосалон\n• Освітні стенди та гастрономічна зона\n\nВідкритий кінотеатр (19:00, амфітеатр):\n• Показ оскарівської анімації «Flow» для всієї родини."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Krzyki",
-      "updated_at": "2026-09-17T11:34:17.210516+00:00"
+      "updated_at": "2026-09-18T11:05:39.119742+00:00"
     },
     "gie-da-staroci-na-placu-pod-iglic-2026-09-19T08:00:00+02:00": {
       "title": "Giełda Staroci na Placu pod Iglicą",
@@ -6262,6 +6263,92 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-09-17T11:34:17.210915+00:00"
+    },
+    "przed-premier-angelika-w-jcik-2026-10-15T18:00:00+02:00": {
+      "title": "Przed premierą: Angelika Wójcik",
+      "date": "2026-10-15T18:00:00+02:00",
+      "end_date": "2026-10-15T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W kameralnej przestrzeni pozbawionej wielkomiejskiego zadęcia rodzą się prawdziwe zjawiska. Kolejna odsłona cyklu „Przed premierą”, którego gwiazdą będzie Angelika Wójcik, to pozycja obowiązkowa dla każdego, kto szuka nieoczywistych, kulturalnych wrażeń. Przyjdź i posłuchaj artystki w niepowtarzalnej atmosferze, zanim zrobi się o niej głośno.\n\nAngelika Wójcik na scenie Firleja – teatr i muzyka\n\nNowa twarz w cyklu „Przed premierą” to aktorka i wokalistka o wyjątkowej wrażliwości. Doskonale wie, jak magnetyzować publiczność. Jej dotychczasowa ścieżka zawodowa robi wrażenie; artystka zbierała szlify na tak uznanych i skrajnie różnych pod względem ekspresji scenach, jak Teatr Muzyczny Capitol oraz słynący z unikalnego podejścia do dźwięku Teatr Pieśń Kozła. Równolegle regularnie pojawia się w popularnych produkcjach telewizyjnych, co tylko potwierdza jej wszechstronność.\n\nW świecie, w którym sztuka bywa czasem przekombinowana, Angelika Wójcik stawia na jeden, najważniejszy fundament – absolutną szczerość przekazu. Muzyka towarzyszy jej na każdym kroku, a jej wrocławski koncert będzie intymnym zaproszeniem do wspólnego odkrywania dźwięków, w które artystka wkłada całe swoje serce.\n\nOdkryj wielki talent – wyjątkowy koncert we Wrocławiu\n\nCykl „Przed premierą” pełni funkcję cichego laboratorium muzycznego. To platforma stworzona dla wokalistów, kompozytorów i autorów, którzy mają już na koncie pierwsze sukcesy, nagrody na festiwalach czy warsztatach, a teraz potrzebują przestrzeni, by rozwinąć skrzydła. Idea jest prosta: dać młodym, utalentowanym twórcom szansę na przekształcenie krótkich, festiwalowych form w pełnowymiarowy, godzinny recital.\n\nWe Wrocławiu trudno o drugie takie miejsce, w którym artystyczny debiut brzmi tak dojrzale i profesjonalnie. Widzowie zgromadzeni w Firleju nie są jedynie biernymi słuchaczami – stają się naocznymi świadkami szlifowania diamentu, uczestnicząc w procesie, który zazwyczaj odbywa się za zamkniętymi drzwiami sal prób.\n\nOd Broadwayu po polską klasykę\n\nCzego możemy spodziewać się po stronie repertuarowej? Szykuje się prawdziwa, wielobarwna uczta dla melomanów i miłośników teatru muzycznego. Podczas koncertu usłyszymy wybrane, światowe hity musicalowe z takich arcydzieł gatunku jak „Hamilton”, „Hadestown” czy „The Color Purple”. Co niezwykle ciekawe, obok broadwayowskich klasyków Angelika Wójcik zaprezentuje również kanon polskiej piosenki artystycznej. Znane wszystkim utwory zyskają jednak zupełnie nowe, autorskie i świeże brzmienie, przefiltrowane przez unikalną wrażliwość wokalistki.\n\nOgromna w tym zasługa samego Bogusława Sobczuka, gospodarza cyklu, który od lat czuwa nad każdym koncertem „Przed premierą”. Sobczuk, jako wybitny znawca gatunku, wspólnie z artystami układa scenariusz i dopracowuje dramaturgię wieczoru. Dzięki temu każdy występ zyskuje unikalny, głęboko osobisty charakter i staje się kompletną, zamkniętą opowieścią. Przyjdź do Firleja na koncert, rozgość się w naszych progach i posłuchaj, jak przed Tobą rodzi się wielka muzyka.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=png/https://go.wroclaw.pl/api/download/img-f9e3aa13ac1100026c3167e7af5af4d5/2026-10-15-wojcik-eventim-316x198.png",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/muzyka/1416214-przed-premiera-angelika-wojcik",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Firlej Grabiszyńska 56, Wrocław 53-504",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/muzyka/1416214-przed-premiera-angelika-wojcik",
+      "scrapped_timestamp": "2026-09-18T11:05:13.906921+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Theater"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Przed premierą: Angelika Wójcik",
+          "description": "W kameralnej przestrzeni pozbawionej wielkomiejskiego zadęcia rodzą się prawdziwe zjawiska. Kolejna odsłona cyklu „Przed premierą”, którego gwiazdą będzie Angelika Wójcik, to pozycja obowiązkowa dla każdego, kto szuka nieoczywistych, kulturalnych wrażeń. Przyjdź i posłuchaj artystki w niepowtarzalnej atmosferze, zanim zrobi się o niej głośno.\n\nAngelika Wójcik na scenie Firleja – teatr i muzyka\n\nNowa twarz w cyklu „Przed premierą” to aktorka i wokalistka o wyjątkowej wrażliwości. Doskonale wie, jak magnetyzować publiczność. Jej dotychczasowa ścieżka zawodowa robi wrażenie; artystka zbierała szlify na tak uznanych i skrajnie różnych pod względem ekspresji scenach, jak Teatr Muzyczny Capitol oraz słynący z unikalnego podejścia do dźwięku Teatr Pieśń Kozła. Równolegle regularnie pojawia się w popularnych produkcjach telewizyjnych, co tylko potwierdza jej wszechstronność.\n\nW świecie, w którym sztuka bywa czasem przekombinowana, Angelika Wójcik stawia na jeden, najważniejszy fundament – absolutną szczerość przekazu. Muzyka towarzyszy jej na każdym kroku, a jej wrocławski koncert będzie intymnym zaproszeniem do wspólnego odkrywania dźwięków, w które artystka wkłada całe swoje serce.\n\nOdkryj wielki talent – wyjątkowy koncert we Wrocławiu\n\nCykl „Przed premierą” pełni funkcję cichego laboratorium muzycznego. To platforma stworzona dla wokalistów, kompozytorów i autorów, którzy mają już na koncie pierwsze sukcesy, nagrody na festiwalach czy warsztatach, a teraz potrzebują przestrzeni, by rozwinąć skrzydła. Idea jest prosta: dać młodym, utalentowanym twórcom szansę na przekształcenie krótkich, festiwalowych form w pełnowymiarowy, godzinny recital.\n\nWe Wrocławiu trudno o drugie takie miejsce, w którym artystyczny debiut brzmi tak dojrzale i profesjonalnie. Widzowie zgromadzeni w Firleju nie są jedynie biernymi słuchaczami – stają się naocznymi świadkami szlifowania diamentu, uczestnicząc w procesie, który zazwyczaj odbywa się za zamkniętymi drzwiami sal prób.\n\nOd Broadwayu po polską klasykę\n\nCzego możemy spodziewać się po stronie repertuarowej? Szykuje się prawdziwa, wielobarwna uczta dla melomanów i miłośników teatru muzycznego. Podczas koncertu usłyszymy wybrane, światowe hity musicalowe z takich arcydzieł gatunku jak „Hamilton”, „Hadestown” czy „The Color Purple”. Co niezwykle ciekawe, obok broadwayowskich klasyków Angelika Wójcik zaprezentuje również kanon polskiej piosenki artystycznej. Znane wszystkim utwory zyskają jednak zupełnie nowe, autorskie i świeże brzmienie, przefiltrowane przez unikalną wrażliwość wokalistki.\n\nOgromna w tym zasługa samego Bogusława Sobczuka, gospodarza cyklu, który od lat czuwa nad każdym koncertem „Przed premierą”. Sobczuk, jako wybitny znawca gatunku, wspólnie z artystami układa scenariusz i dopracowuje dramaturgię wieczoru. Dzięki temu każdy występ zyskuje unikalny, głęboko osobisty charakter i staje się kompletną, zamkniętą opowieścią. Przyjdź do Firleja na koncert, rozgość się w naszych progach i posłuchaj, jak przed Tobą rodzi się wielka muzyka.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Before the Premiere: Angelika Wójcik",
+          "description": "In an intimate space free from the pretentiousness of the big city, true phenomena are born. The next installment of the 'Before the Premiere' series, featuring Angelika Wójcik, is a must-see for anyone seeking unconventional cultural experiences. Come and listen to the artist in a unique atmosphere before she becomes widely known.\n\nAngelika Wójcik on the Firlej stage – theater and music.\n\nThe new face in the 'Before the Premiere' series is an actress and vocalist with exceptional sensitivity. She knows how to captivate the audience. Her professional journey is impressive; the artist has honed her skills on renowned and vastly different stages in terms of expression, such as the Musical Theater Capitol and the uniquely sound-oriented Song of the Goat Theater. At the same time, she regularly appears in..."
+        },
+        "uk": {
+          "title": "Перед прем'єрою: Анжеліка Войцик",
+          "description": "У камерному просторі, позбавленому великоміського пафосу, народжуються справжні явища. Наступна частина циклу «Перед прем'єрою», зіркою якого буде Анжеліка Войцик, є обов'язковою для кожного, хто шукає неочевидні культурні враження. Прийди і послухай артистку в неповторній атмосфері, перш ніж про неї заговорять. Анжеліка Войцик на сцені Фірлея – театр і музика. Нова обличчя в циклі «Перед прем'єрою» – це акторка та вокалістка з винятковою чутливістю. Вона чудово знає, як магнетизувати публіку. Її попередній професійний шлях вражає; артистка здобувала досвід на таких визнаних і кардинально різних за експресією сценах, як Театр Музичний Капітолій та славнозвісний своїм унікальним підходом до звуку Театр Пісня Козла. Паралельно регулярно з'являється в"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-18T11:05:39.119714+00:00"
+    },
+    "pracownia-modelarska-zaj-cia-dla-dzieci-2026-09-21T17:00:00+02:00": {
+      "title": "Pracownia modelarska – zajęcia dla dzieci",
+      "date": "2026-09-21T17:00:00+02:00",
+      "end_date": "2026-09-21T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Pracownia modelarska to propozycja dla dzieci, która stanowi alternatywę dla spędzania czasu przed komputerem. Uczestnicy zajęć uczą się precyzji, cierpliwości oraz dbałości o szczegóły poprzez sklejanie modeli i tworzenie makiet. Proces ten pozwala również na poznanie historii oraz budowy prezentowanych obiektów.\n\nLogistyka:\n• Miejsce: CAL Chopina, ul. Chopina 9A, Wrocław\n• Termin: każdy poniedziałek\n• Godzina: 17:00 - 20:00\n• Wstęp wolny",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/b3d9c311-3972-4088-a20e-2136e4b85392/2368db70-2498-4166-bfd1-f1d63ad893e2.jpg",
+      "location": {
+        "name": "CAL Chopina Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/pracownia-modelarska-zajecia-dla-dzieci-b3d9c311-3972-4088-a20e-2136e4b85392",
+      "source": "simplygo.pl",
+      "age_hint": "7-18",
+      "age_range": {
+        "min": 7,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/pracownia-modelarska-zajecia-dla-dzieci-b3d9c311-3972-4088-a20e-2136e4b85392",
+      "scrapped_timestamp": "2026-09-18T11:05:26.470163+00:00",
+      "category": "Workshops",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Pracownia modelarska – zajęcia dla dzieci",
+          "description": "Pracownia modelarska to propozycja dla dzieci, która stanowi alternatywę dla spędzania czasu przed komputerem. Uczestnicy zajęć uczą się precyzji, cierpliwości oraz dbałości o szczegóły poprzez sklejanie modeli i tworzenie makiet. Proces ten pozwala również na poznanie historii oraz budowy prezentowanych obiektów.\n\nLogistyka:\n• Miejsce: CAL Chopina, ul. Chopina 9A, Wrocław\n• Termin: każdy poniedziałek\n• Godzina: 17:00 - 20:00\n• Wstęp wolny"
+        },
+        "en": {
+          "title": "Modeling Workshop – Activities for Children",
+          "description": "The modeling workshop is a proposal for children that serves as an alternative to spending time in front of a computer. Participants learn precision, patience, and attention to detail by assembling models and creating dioramas. This process also allows them to learn about the history and structure of the presented objects.\n\nLogistics:\n• Location: CAL Chopina, ul. Chopina 9A, Wrocław\n• Date: every Monday\n• Time: 5:00 PM - 8:00 PM\n• Free admission"
+        },
+        "uk": {
+          "title": "Моделювальна майстерня – заняття для дітей",
+          "description": "Моделювальна майстерня – це пропозиція для дітей, яка є альтернативою проведенню часу перед комп'ютером. Учасники занять вчаться точності, терпінню та увазі до деталей через складання моделей і створення макетів. Цей процес також дозволяє ознайомитися з історією та будовою представлених об'єктів.\n\nЛогістика:\n• Місце: CAL Chopina, вул. Чопіна 9A, Вроцлав\n• Дата: кожен понеділок\n• Час: 17:00 - 20:00\n• Вхід вільний"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-18T11:05:39.119765+00:00"
     }
   }
 }

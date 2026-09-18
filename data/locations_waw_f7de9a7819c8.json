@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:48:28.060099+00:00",
+  "updated_at": "2026-09-18T11:15:34.199737+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -6603,6 +6603,60 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-17T11:30:05.798338+00:00"
+    },
+    "różne lokalizacje w kilku dzielnicach :)": {
+      "name": "różne lokalizacje w kilku dzielnicach :)",
+      "district": "Śródmieście",
+      "address": "różne lokalizacje w kilku dzielnicach :)",
+      "normalized": "różne lokalizacje w kilku dzielnicach :)",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-18T11:03:40.268095+00:00"
+    },
+    "ul. sosnkowskiego 3": {
+      "name": "ul. Sosnkowskiego 3",
+      "district": "Ursus",
+      "address": "ul. Sosnkowskiego 3",
+      "normalized": "ul. sosnkowskiego 3",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-18T11:03:40.268517+00:00"
+    },
+    "al. gen. a. chruściela 28": {
+      "name": "Al. gen. A. Chruściela 28",
+      "district": "Rembertów",
+      "address": "Al. gen. A. Chruściela 28",
+      "normalized": "al. gen. a. chruściela 28",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-18T11:03:40.268814+00:00"
+    },
+    "różne lokalizacje w całej warszawie :)": {
+      "name": "różne lokalizacje w całej Warszawie :)",
+      "district": "Śródmieście",
+      "address": "różne lokalizacje w całej Warszawie :)",
+      "normalized": "różne lokalizacje w całej warszawie :)",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-18T11:03:40.269083+00:00"
+    },
+    "ul. świętojerska 12 a": {
+      "name": "ul. Świętojerska 12 A",
+      "district": "Śródmieście",
+      "address": "ul. Świętojerska 12 A",
+      "normalized": "ul. świętojerska 12 a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-18T11:03:40.269356+00:00"
+    },
+    "poczytalnia legionowo": {
+      "name": "Poczytalnia Legionowo, ul. Kościuszki 8a",
+      "district": "okolice Warszawy",
+      "address": "Poczytalnia Legionowo, ul. Kościuszki 8a",
+      "normalized": "poczytalnia legionowo",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-18T11:03:40.269728+00:00"
     }
   }
 }

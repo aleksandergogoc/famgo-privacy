@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T11:48:29.578385+00:00",
+  "updated_at": "2026-09-19T11:07:38.059732+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4207,6 +4207,51 @@
       "lat": 50.0482369,
       "lng": 19.8399437,
       "updated_at": "2026-09-17T11:16:54.617161+00:00"
+    },
+    "skwer obok fontanny fortepian chopina": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "skwer obok fontanny fortepian chopina",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-09-19T10:27:54.623900+00:00"
+    },
+    "krakowski park linowy": {
+      "name": "ul. Widłakowa 13, Kraków",
+      "district": "Podgórze",
+      "address": "ul. Widłakowa 13, Kraków",
+      "normalized": "krakowski park linowy",
+      "lat": 50.0345,
+      "lng": 19.9321,
+      "updated_at": "2026-09-19T10:28:54.786625+00:00"
+    },
+    "fort barycz": {
+      "name": "Fort 50½ O \"Kosocice\", Jana Hallera, Luboń, Kosocice, Swoszowice, Kraków, województwo małopolskie, 30-687, Polska",
+      "district": "Swoszowice",
+      "address": "Fort 50½ O \"Kosocice\", Jana Hallera, Luboń, Kosocice, Swoszowice, Kraków, województwo małopolskie, 30-687, Polska",
+      "normalized": "fort barycz",
+      "lat": 49.9947697,
+      "lng": 19.9920615,
+      "updated_at": "2026-09-19T10:28:58.441845+00:00"
+    },
+    "centrum edukacji ekologicznej w zakładzie uzdatniania wody bielany": {
+      "name": "ul. Księcia Józefa 299, Kraków",
+      "district": "Krowodrza",
+      "address": "ul. Księcia Józefa 299, Kraków",
+      "normalized": "centrum edukacji ekologicznej w zakładzie uzdatniania wody bielany",
+      "lat": 50.061,
+      "lng": 19.916,
+      "updated_at": "2026-09-19T10:29:28.230374+00:00"
+    },
+    "instytut kultury willa decjusza": {
+      "name": "Instytut Kultury Willa Decjusza, Aleja Kasztanowa, Wola Justowska, Zwierzyniec, Kraków, województwo małopolskie, 30-223, Polska",
+      "district": "Zwierzyniec",
+      "address": "Instytut Kultury Willa Decjusza, Aleja Kasztanowa, Wola Justowska, Zwierzyniec, Kraków, województwo małopolskie, 30-223, Polska",
+      "normalized": "instytut kultury willa decjusza",
+      "lat": 50.0637122,
+      "lng": 19.8715724,
+      "updated_at": "2026-09-19T10:29:58.278865+00:00"
     }
   }
 }

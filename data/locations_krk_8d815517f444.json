@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T11:07:38.059732+00:00",
+  "updated_at": "2026-09-20T11:17:38.527361+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4252,6 +4252,42 @@
       "lat": 50.0637122,
       "lng": 19.8715724,
       "updated_at": "2026-09-19T10:29:58.278865+00:00"
+    },
+    "zajezdnia tramwajowa nowa huta": {
+      "name": "Zajezdnia tramwajowa Nowa Huta, ul. Ujastek 12, Kraków",
+      "district": "Stare Miasto",
+      "address": "Zajezdnia tramwajowa Nowa Huta, ul. Ujastek 12, Kraków",
+      "normalized": "zajezdnia tramwajowa nowa huta",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-20T10:48:40.392040+00:00"
+    },
+    "centrum młodzieży im. dr. h. jordana": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "centrum młodzieży im. dr. h. jordana",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-09-20T10:48:45.898839+00:00"
+    },
+    "małopolska": {
+      "name": "Małopolskie Centrum Nauki Cogiteon, 1, Stefana Steca, Czyżyny, Kraków, województwo małopolskie, 31-866, Polska",
+      "district": "Czyżyny",
+      "address": "Małopolskie Centrum Nauki Cogiteon, 1, Stefana Steca, Czyżyny, Kraków, województwo małopolskie, 31-866, Polska",
+      "normalized": "małopolska",
+      "lat": 50.085279,
+      "lng": 19.9906243,
+      "updated_at": "2026-09-20T10:58:56.020073+00:00"
+    },
+    "marii konopnickiej 17": {
+      "name": "Marii Konopnickiej 17, 30-302 Kraków, Poland",
+      "district": "Dębniki",
+      "address": "Marii Konopnickiej 17, 30-302 Kraków, Poland",
+      "normalized": "marii konopnickiej 17",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-20T10:58:56.020640+00:00"
     }
   }
 }

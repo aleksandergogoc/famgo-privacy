@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T11:15:31.334575+00:00",
+  "updated_at": "2026-09-21T12:57:15.091688+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1364,6 +1364,24 @@
       "lat": 52.4006632,
       "lng": 16.9197326,
       "updated_at": "2026-09-18T11:13:56.707346+00:00"
+    },
+    "biżuterii moja ul. 27 grudnia 17_19": {
+      "name": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "district": "Poznań - Pozostałe",
+      "address": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "normalized": "biżuterii moja ul. 27 grudnia 17_19",
+      "lat": 52.4006632,
+      "lng": 16.9197326,
+      "updated_at": "2026-09-21T12:54:50.286589+00:00"
+    },
+    "pawilon 3a mtp": {
+      "name": "Pawilon 12 (Pałac Targowy), 14, Głogowska, Łazarz, Poznań, województwo wielkopolskie, 60-700, Polska",
+      "district": "Grunwald",
+      "address": "Pawilon 12 (Pałac Targowy), 14, Głogowska, Łazarz, Poznań, województwo wielkopolskie, 60-700, Polska",
+      "normalized": "pawilon 3a mtp",
+      "lat": 52.4030144,
+      "lng": 16.9079869,
+      "updated_at": "2026-09-21T12:55:48.668945+00:00"
     }
   }
 }

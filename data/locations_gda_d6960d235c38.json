@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:57:16.091656+00:00",
+  "updated_at": "2026-09-21T19:40:02.039068+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1682,6 +1682,42 @@
       "lat": 54.3478538,
       "lng": 18.6479094,
       "updated_at": "2026-09-21T12:50:59.149008+00:00"
+    },
+    "hard rock cafe": {
+      "name": "35/38C, Długi Targ, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-830, Polska",
+      "district": "Śródmieście",
+      "address": "35/38C, Długi Targ, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-830, Polska",
+      "normalized": "hard rock cafe",
+      "lat": 54.348534,
+      "lng": 18.6543301,
+      "updated_at": "2026-09-21T19:33:37.714168+00:00"
+    },
+    "gdańsk oliwa": {
+      "name": "Uniwersytet Gdański, Wita Stwosza, Polanki, Oliwa, Gdańsk, województwo pomorskie, 80-306, Polska",
+      "district": "Oliwa",
+      "address": "Uniwersytet Gdański, Wita Stwosza, Polanki, Oliwa, Gdańsk, województwo pomorskie, 80-306, Polska",
+      "normalized": "gdańsk oliwa",
+      "lat": 54.396405,
+      "lng": 18.57401,
+      "updated_at": "2026-09-21T19:33:42.228878+00:00"
+    },
+    "piaskownica": {
+      "name": "Just GYM, 3, Szczęśliwa, Kiełpinek, Jasień, Gdańsk, województwo pomorskie, 80-176, Polska",
+      "district": "Górny Taras",
+      "address": "Just GYM, 3, Szczęśliwa, Kiełpinek, Jasień, Gdańsk, województwo pomorskie, 80-176, Polska",
+      "normalized": "piaskownica",
+      "lat": 54.3531259,
+      "lng": 18.5243782,
+      "updated_at": "2026-09-21T19:33:44.822526+00:00"
+    },
+    "instytut kultury miejskiej": {
+      "name": "11, Targ Rakowy, Piaskownia, Biskupia Górka, Śródmieście, Gdańsk, województwo pomorskie, 80-806, Polska",
+      "district": "Śródmieście",
+      "address": "11, Targ Rakowy, Piaskownia, Biskupia Górka, Śródmieście, Gdańsk, województwo pomorskie, 80-806, Polska",
+      "normalized": "instytut kultury miejskiej",
+      "lat": 54.3507255,
+      "lng": 18.6445606,
+      "updated_at": "2026-09-21T19:33:47.289222+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:57:19.309035+00:00",
+  "updated_at": "2026-09-21T18:55:20.148901+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4324,6 +4324,15 @@
       "lat": 50.0616883,
       "lng": 19.940767,
       "updated_at": "2026-09-21T12:29:02.869426+00:00"
+    },
+    "centrum edukacji ekologicznej w zakładzie uzdatniania wody bielany ul. księcia józefa 299": {
+      "name": "ul. Księcia Józefa 299, Kraków",
+      "district": "Krowodrza",
+      "address": "ul. Księcia Józefa 299, Kraków",
+      "normalized": "centrum edukacji ekologicznej w zakładzie uzdatniania wody bielany ul. księcia józefa 299",
+      "lat": 50.064,
+      "lng": 19.916,
+      "updated_at": "2026-09-21T18:55:15.561710+00:00"
     }
   }
 }

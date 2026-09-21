@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T11:17:38.527361+00:00",
+  "updated_at": "2026-09-21T12:57:19.309035+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4288,6 +4288,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-20T10:58:56.020640+00:00"
+    },
+    "kościół miłosierdzia bożego os. na wzgórzach 1a": {
+      "name": "Kościół Miłosierdzia Bożego os. Na Wzgórzach 1A, Kraków",
+      "district": "Podgórze",
+      "address": "Kościół Miłosierdzia Bożego os. Na Wzgórzach 1A, Kraków",
+      "normalized": "kościół miłosierdzia bożego os. na wzgórzach 1a",
+      "lat": 50.0345,
+      "lng": 19.9321,
+      "updated_at": "2026-09-21T12:21:33.339262+00:00"
+    },
+    "trasa linii nr 1": {
+      "name": "Trasa linii nr 1, Kraków",
+      "district": "Stare Miasto",
+      "address": "Trasa linii nr 1, Kraków",
+      "normalized": "trasa linii nr 1",
+      "lat": 50.0647,
+      "lng": 19.945,
+      "updated_at": "2026-09-21T12:29:00.900114+00:00"
+    },
+    "plac targowy „unitarg” koło hali targowej": {
+      "name": "Plac targowy „Unitarg” koło Hali Targowej, Kraków",
+      "district": "Stare Miasto",
+      "address": "Plac targowy „Unitarg” koło Hali Targowej, Kraków",
+      "normalized": "plac targowy „unitarg” koło hali targowej",
+      "lat": 50.061,
+      "lng": 19.945,
+      "updated_at": "2026-09-21T12:29:02.524863+00:00"
+    },
+    "﻿ krakowskie forum kultury mikołajska 2": {
+      "name": "Krakowskie Forum Kultury, 2, Mikołajska, Stare Miasto, Kraków, województwo małopolskie, 31-027, Polska",
+      "district": "Stare Miasto",
+      "address": "Krakowskie Forum Kultury, 2, Mikołajska, Stare Miasto, Kraków, województwo małopolskie, 31-027, Polska",
+      "normalized": "﻿ krakowskie forum kultury mikołajska 2",
+      "lat": 50.0616883,
+      "lng": 19.940767,
+      "updated_at": "2026-09-21T12:29:02.869426+00:00"
     }
   }
 }

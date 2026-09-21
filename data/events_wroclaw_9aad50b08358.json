@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:12:21.315983+00:00",
+  "updated_at": "2026-09-21T12:42:45.883895+00:00",
   "events": {
     "12-mi-dzynarodowe-zawody-w-je-dzie-bez-og-owia-euro-equus-2026-2026-09-25T00:00:00": {
       "scrapped_timestamp": "2026-06-26T16:36:24.805343+00:00",
@@ -4640,6 +4640,216 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-09-20T11:07:40.095087+00:00"
+    },
+    "rodzinny-piknik-bezpieczne-z-mpk-2026-09-26T11:00:00+02:00": {
+      "title": "Rodzinny piknik \"Bezpieczne z MPK\"",
+      "date": "2026-09-26T11:00:00+02:00",
+      "end_date": "2026-09-26T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Rodzinny piknik edukacyjny na terenie zajezdni autobusowej MPK, promujący bezpieczeństwo w komunikacji miejskiej.\n\n• **Termin:**26 września (sobota), 11:00–15:00\n\n• **Miejsce:**Zajezdnia autobusowa MPK, ul. Obornicka 131, Wrocław\n\n**Harmonogram atrakcji:**\n\n• **pokazy manewrów:**12:00, 13:00, 14:00\n\n• **wycieczki po zajezdni:** 11:30, 12:30, 13:30, 14:30 (wymagany voucher z namiotu organizatora)\n\n**Program:**\n\n• pokazy manewrów i ewakuacji autobusu,\n\n• prezentacja hamowania awaryjnego Mercedes Conecto,\n\n• prezentacja autobusów elektrycznych floty MPK,\n\n• zwiedzanie zajezdni od zaplecza,\n\n• wejście do kabiny kierowcy,\n\n• prezentacje służb (policja, straż pożarna, straż miejska),\n\n• pokazy pierwszej pomocy z AED,\n\n• przejazdy autobusem nauki jazdy \"L\" (min. wzrost 150 cm, voucher wymagany),\n\n• strefa animacji dla dzieci,\n\n• food trucki i strefa chill-out.\n\nDojazd: specjalna linia autobusowa łącząca piknik z Dniem Otwartym zajezdni KSTM Popowice V (zabytkowe autobusy, w tym \"Ogórek\")\n\n• z Popowic V: 11:00, 11:30, 12:00, 12:30, 13:00, 13:30\n\n• z Obornickiej: 11:30, 12:00, 12:30, 13:00, 14:00, 14:30",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-0d2d3ba8ac1100022a6e4d47c3c4d638/809543419-972899529172920-9116831578417489084-n.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416335-rodzinny-piknik-bezpieczne-z-mpk",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Zajezdnia autobusowa przy ulicy Obornickiej Obornicka 131, Wrocław",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416335-rodzinny-piknik-bezpieczne-z-mpk",
+      "scrapped_timestamp": "2026-09-21T12:41:52.444675+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Family Fun",
+        "Outdoor Adventure"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Rodzinny piknik \"Bezpieczne z MPK\"",
+          "description": "Rodzinny piknik edukacyjny na terenie zajezdni autobusowej MPK, promujący bezpieczeństwo w komunikacji miejskiej.\n\n• **Termin:**26 września (sobota), 11:00–15:00\n\n• **Miejsce:**Zajezdnia autobusowa MPK, ul. Obornicka 131, Wrocław\n\n**Harmonogram atrakcji:**\n\n• **pokazy manewrów:**12:00, 13:00, 14:00\n\n• **wycieczki po zajezdni:** 11:30, 12:30, 13:30, 14:30 (wymagany voucher z namiotu organizatora)\n\n**Program:**\n\n• pokazy manewrów i ewakuacji autobusu,\n\n• prezentacja hamowania awaryjnego Mercedes Conecto,\n\n• prezentacja autobusów elektrycznych floty MPK,\n\n• zwiedzanie zajezdni od zaplecza,\n\n• wejście do kabiny kierowcy,\n\n• prezentacje służb (policja, straż pożarna, straż miejska),\n\n• pokazy pierwszej pomocy z AED,\n\n• przejazdy autobusem nauki jazdy \"L\" (min. wzrost 150 cm, voucher wymagany),\n\n• strefa animacji dla dzieci,\n\n• food trucki i strefa chill-out.\n\nDojazd: specjalna linia autobusowa łącząca piknik z Dniem Otwartym zajezdni KSTM Popowice V (zabytkowe autobusy, w tym \"Ogórek\")\n\n• z Popowic V: 11:00, 11:30, 12:00, 12:30, 13:00, 13:30\n\n• z Obornickiej: 11:30, 12:00, 12:30, 13:00, 14:00, 14:30"
+        },
+        "en": {
+          "title": "Family Picnic 'Safe with MPK'",
+          "description": "An educational family picnic at the MPK bus depot, promoting safety in public transport.\n\n• **Date:** September 26 (Saturday), 11:00 AM – 3:00 PM\n\n• **Location:** MPK Bus Depot, Obornicka 131, Wrocław\n\n**Attraction Schedule:**\n\n• **maneuver demonstrations:** 12:00 PM, 1:00 PM, 2:00 PM\n\n• **tours of the depot:** 11:30 AM, 12:30 PM, 1:30 PM, 2:30 PM (voucher required from the organizer's tent)\n\n**Program:**\n\n• bus maneuver and evacuation demonstrations,\n\n• emergency braking presentation of Mercedes Conecto,\n\n• presentation of MPK's electric bus fleet,\n\n• behind-the-scenes tour of the depot,\n\n• entry into the driver's cabin,\n\n• presentations by services (police, fire brigade, municipal guard),\n\n• first aid demonstrations with AED,\n\n• rides on the 'L' driving school bus (minimum height 150 cm, voucher required)"
+        },
+        "uk": {
+          "title": "Сімейний пікнік \"Безпечний з MPK\"",
+          "description": "Сімейний освітній пікнік на території автобусного депо MPK, що пропагує безпеку в міському транспорті.\n\n• **Дата:** 26 вересня (субота), 11:00–15:00\n\n• **Місце:** Автобусне депо MPK, вул. Оборницька 131, Вроцлав\n\n**Програма заходів:**\n\n• **покази маневрів:** 12:00, 13:00, 14:00\n\n• **екскурсії по депо:** 11:30, 12:30, 13:30, 14:30 (необхідний ваучер з намету організатора)\n\n**Програма:**\n\n• покази маневрів і евакуації автобуса,\n\n• презентація екстреного гальмування Mercedes Conecto,\n\n• презентація електробусів флоту MPK,\n\n• екскурсія по депо ззаду,\n\n• вхід до кабіни водія,\n\n• презентації служб (поліція, пожежна служба, муніципальна охорона),\n\n• покази першої допомоги з AED,\n\n• поїздки автобусом навчання водінню \"L\" (мін. зріст 150 см, ваучер обов'язковий)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-21T12:42:45.746916+00:00"
+    },
+    "tesla-vs-edison-czyli-z-pr-dem-lub-pod-pr-d-2026-09-27T15:00:00+02:00": {
+      "title": "Tesla vs Edison, czyli z prądem lub pod prąd",
+      "date": "2026-09-27T15:00:00+02:00",
+      "end_date": "2026-09-27T15:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "TESLA vs EDISON to trzymająca w napięciu opowieść osadzona w industrialnych realiach początków XX wieku – oparta na faktach historia zaciętej rywalizacji dwóch wielkich wynalazców o prymat w dziedzinie elektryczności. Prąd stały czy prąd zmienny? – spór, który sto lat temu elektryzował cały świat, rozstrzygnął ostatecznie wizjoner Nikola Tesla, wynalazca m.in. dynama rowerowego, silnika elektrycznego i baterii słonecznej. Ale przez lata to właśnie Thomas Edison był na ustach wszystkich... czy aby na pewno grał fair?\n\nTESLA vs EDISON to przedsięwzięcie o ogromnym potencjale edukacyjnym. Promuje postawę dociekliwości poznawczej, konsekwencje w osiąganiu obranych celów – także wbrew przeciwnościom losu – oraz działanie „pod prąd”, wbrew utartym schematom.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-8850a1c7ac1100022a6e4d47c31efc7f/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1416316-tesla-vs-edison-czyli-z-pradem-lub-pod-prad",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocławski Teatr Lalek Pl. Teatralny 4, Wrocław 50-051",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1416316-tesla-vs-edison-czyli-z-pradem-lub-pod-prad",
+      "scrapped_timestamp": "2026-09-21T12:42:02.827846+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Tesla vs Edison, czyli z prądem lub pod prąd",
+          "description": "TESLA vs EDISON to trzymająca w napięciu opowieść osadzona w industrialnych realiach początków XX wieku – oparta na faktach historia zaciętej rywalizacji dwóch wielkich wynalazców o prymat w dziedzinie elektryczności. Prąd stały czy prąd zmienny? – spór, który sto lat temu elektryzował cały świat, rozstrzygnął ostatecznie wizjoner Nikola Tesla, wynalazca m.in. dynama rowerowego, silnika elektrycznego i baterii słonecznej. Ale przez lata to właśnie Thomas Edison był na ustach wszystkich... czy aby na pewno grał fair?\n\nTESLA vs EDISON to przedsięwzięcie o ogromnym potencjale edukacyjnym. Promuje postawę dociekliwości poznawczej, konsekwencje w osiąganiu obranych celów – także wbrew przeciwnościom losu – oraz działanie „pod prąd”, wbrew utartym schematom.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Tesla vs Edison: With the Current or Against the Current",
+          "description": "TESLA vs EDISON is a gripping tale set in the industrial realities of the early 20th century – a fact-based story of the fierce rivalry between two great inventors for supremacy in the field of electricity. Direct current or alternating current? – a dispute that electrified the world a hundred years ago, ultimately resolved by visionary Nikola Tesla, the inventor of the bicycle dynamo, electric motor, and solar battery, among others. But for years, it was Thomas Edison who was on everyone's lips... did he really play fair?\n\nTESLA vs EDISON is an initiative with enormous educational potential. It promotes a spirit of cognitive curiosity, perseverance in achieving set goals – even in the face of adversity – and acting 'against the current', defying established patterns."
+        },
+        "uk": {
+          "title": "Тесла проти Едісона, або з електрикою чи проти електрики",
+          "description": "ТЕСЛА проти ЕДІСОНА – це напружена оповідь, що відбувається в індустріальних реаліях початку XX століття – заснована на фактах історія запеклої конкуренції двох великих винахідників за першість у галузі електрики. Постійний струм чи змінний струм? – суперечка, яка сто років тому електризувала весь світ, остаточно вирішилася візіонером Ніколою Теслою, винахідником, зокрема, динамо для велосипеда, електричного двигуна та сонячної батареї. Але протягом багатьох років саме Томас Едісон був на вустах усіх... чи дійсно він грав чесно?\n\nТЕСЛА проти ЕДІСОНА – це захід з величезним освітнім потенціалом. Він пропагує ставлення до пізнавальної допитливості, наполегливість у досягненні поставлених цілей – навіть всупереч життєвим труднощам – та дію \"проти течії\", всупереч усталеним схемам."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-21T12:42:45.746947+00:00"
+    },
+    "rodzinna-lotnicza-wroc-awska-misja-poszukiwawcza-dla-dzieci-oraz-dla-rodzic-w-i-opiekun-w-2026-09-25T00:00:00+02:00": {
+      "title": "RODZINNA LOTNICZA WROCŁAWSKA MISJA POSZUKIWAWCZA DLA DZIECI, ORAZ DLA RODZICÓW I OPIEKUNÓW.",
+      "date": "2026-09-25T00:00:00+02:00",
+      "end_date": "2026-09-25T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "**RODZINNA LOTNICZA WROCŁAWSKA MISJA POSZUKIWAWCZA DLA DZIECI, ORAZ DLA RODZICÓW I OPIEKUNÓW.**\n\n5 tajemnic. 1 lotnisko. 1 wielka rodzinna misja. A gdyby tak zamiast kolejnej zwykłej weekendowej atrakcji przeżyć z dzieckiem prawdziwą lotniczą przygodę? Zapraszamy dzieci wraz z rodzicami i opiekunami na wyjątkową rodzinną misję lotniczą, która rozpoczyna się już w piątek we Wrocławiu.\n\n**PIĄTEK – ROZPOCZĘCIE MISJI**\n\n25 września 2026, godz. 17:00–18:00 Modelarnia, Wrocław, ul. Jana Stanki 5A To właśnie tutaj rozpoczniemy naszą misję. Podczas godzinnego spotkania uczestnicy poznają cel wyprawy, otrzymają pierwsze zadania i wskazówki oraz przygotują się do dalszej części przygody. Ale to dopiero początek.\n\n**SOBOTA I NIEDZIELA – MISJA NA LOTNISKU W MIROSŁAWICACH**\n\n26–27 września 2026 Lotnisko sportowe Mirosławice Na uczestników czeka 50-minutowa misja poszukiwawcza, podczas której wspólnie będą odkrywać tajemnice lotniska i wykonywać przygotowane zadania.\n\n**W programie między innymi:**\n\n• poszukiwanie ukrytych wskazówek,\n\n• odkrywanie tajemnic starego lotniska,\n\n• wizyta w starym hangarze,\n\n• możliwość zajrzenia do kabiny samolotu,\n\n• wspólne rozwiązywanie zagadek i wykonywanie zadań.\n\nTo przygoda, w której dzieci nie tylko patrzą i słuchają. Szukają, odkrywają, kombinują, rozwiązują zagadki i współpracują z rodzicami. Wydarzenie przeznaczone jest dla dzieci w każdym wieku.\n\n**GODZINY GRUP**\n\n**Sobota, 26 września**\n\nI grupa: 11:00–11:50\n\nII grupa: 12:05–12:55\n\n**Niedziela, 27 września**\n\nIII grupa: 11:00–11:50\n\nIV grupa: 12:05–12:55\n\nTo będzie weekend pełen odkrywania, emocji i wspólnego działania w wyjątkowym miejscu, do którego na co dzień nie zagląda się podczas zwykłej rodzinnej wycieczki.\n\nRezerwacje: 515 387 693\n\nStrona.\n\n5 tajemnic. 1 lotnisko. 1 wielka rodzinna misja.\n\nCzy podejmiecie wyzwanie?\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-2f075dfaac1100022a6e4d47c31413ad/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1416315-rodzinna-lotnicza-wroclawska-misja-poszukiwawcza-dla-dzieci",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocław ul. Stanki 5A"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1416315-rodzinna-lotnicza-wroclawska-misja-poszukiwawcza-dla-dzieci",
+      "scrapped_timestamp": "2026-09-21T12:42:10.230270+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Outdoor Adventure"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "both",
+      "translations": {
+        "pl": {
+          "title": "RODZINNA LOTNICZA WROCŁAWSKA MISJA POSZUKIWAWCZA DLA DZIECI, ORAZ DLA RODZICÓW I OPIEKUNÓW.",
+          "description": "**RODZINNA LOTNICZA WROCŁAWSKA MISJA POSZUKIWAWCZA DLA DZIECI, ORAZ DLA RODZICÓW I OPIEKUNÓW.**\n\n5 tajemnic. 1 lotnisko. 1 wielka rodzinna misja. A gdyby tak zamiast kolejnej zwykłej weekendowej atrakcji przeżyć z dzieckiem prawdziwą lotniczą przygodę? Zapraszamy dzieci wraz z rodzicami i opiekunami na wyjątkową rodzinną misję lotniczą, która rozpoczyna się już w piątek we Wrocławiu.\n\n**PIĄTEK – ROZPOCZĘCIE MISJI**\n\n25 września 2026, godz. 17:00–18:00 Modelarnia, Wrocław, ul. Jana Stanki 5A To właśnie tutaj rozpoczniemy naszą misję. Podczas godzinnego spotkania uczestnicy poznają cel wyprawy, otrzymają pierwsze zadania i wskazówki oraz przygotują się do dalszej części przygody. Ale to dopiero początek.\n\n**SOBOTA I NIEDZIELA – MISJA NA LOTNISKU W MIROSŁAWICACH**\n\n26–27 września 2026 Lotnisko sportowe Mirosławice Na uczestników czeka 50-minutowa misja poszukiwawcza, podczas której wspólnie będą odkrywać tajemnice lotniska i wykonywać przygotowane zadania.\n\n**W programie między innymi:**\n\n• poszukiwanie ukrytych wskazówek,\n\n• odkrywanie tajemnic starego lotniska,\n\n• wizyta w starym hangarze,\n\n• możliwość zajrzenia do kabiny samolotu,\n\n• wspólne rozwiązywanie zagadek i wykonywanie zadań.\n\nTo przygoda, w której dzieci nie tylko patrzą i słuchają. Szukają, odkrywają, kombinują, rozwiązują zagadki i współpracują z rodzicami. Wydarzenie przeznaczone jest dla dzieci w każdym wieku.\n\n**GODZINY GRUP**\n\n**Sobota, 26 września**\n\nI grupa: 11:00–11:50\n\nII grupa: 12:05–12:55\n\n**Niedziela, 27 września**\n\nIII grupa: 11:00–11:50\n\nIV grupa: 12:05–12:55\n\nTo będzie weekend pełen odkrywania, emocji i wspólnego działania w wyjątkowym miejscu, do którego na co dzień nie zagląda się podczas zwykłej rodzinnej wycieczki.\n\nRezerwacje: 515 387 693\n\nStrona.\n\n5 tajemnic. 1 lotnisko. 1 wielka rodzinna misja.\n\nCzy podejmiecie wyzwanie?\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "FAMILY AIR MISSION IN WROCŁAW: A SEARCH MISSION FOR CHILDREN, PARENTS, AND GUARDIANS",
+          "description": "**FAMILY AIR MISSION IN WROCŁAW: A SEARCH MISSION FOR CHILDREN, PARENTS, AND GUARDIANS.**\n\n5 secrets. 1 airport. 1 great family mission. What if instead of another ordinary weekend attraction, you could experience a real aviation adventure with your child? We invite children along with their parents and guardians to a unique family air mission that begins this Friday in Wrocław.\n\n**FRIDAY – MISSION START**\n\nSeptember 25, 2026, 5:00 PM–6:00 PM Modelarnia, Wrocław, ul. Jana Stanki 5A This is where we will begin our mission. During the one-hour meeting, participants will learn the purpose of the expedition, receive their first tasks and clues, and prepare for the next part of the adventure. But this is just the beginning.\n\n**SATURDAY AND SUNDAY – MISSION AT THE AIRPORT IN MIROSŁAWICE**\n\nSeptember 26–27, 2026 Airport"
+        },
+        "uk": {
+          "title": "СІМЕЙНА АВІАЦІЙНА ВРОЦЛАВСЬКА МІСІЯ ПОШУКУ ДЛЯ ДІТЕЙ, А ТАКОЖ ДЛЯ БАТЬКІВ І ОПІКУНІВ.",
+          "description": "**СІМЕЙНА АВІАЦІЙНА ВРОЦЛАВСЬКА МІСІЯ ПОШУКУ ДЛЯ ДІТЕЙ, А ТАКОЖ ДЛЯ БАТЬКІВ І ОПІКУНІВ.**\n\n5 таємниць. 1 аеропорт. 1 велика сімейна місія. А що як замість чергової звичайної вихідної розваги пережити з дитиною справжню авіаційну пригоду? Запрошуємо дітей разом з батьками та опікунами на унікальну сімейну авіаційну місію, яка розпочнеться вже в п’ятницю у Вроцлаві.\n\n**П’ЯТНИЦЯ – ПОЧАТОК МІСІЇ**\n\n25 вересня 2026, год. 17:00–18:00 Модельня, Вроцлав, вул. Яна Станьки 5А Саме тут ми розпочнемо нашу місію. Під час годинної зустрічі учасники дізнаються мету експедиції, отримають перші завдання та вказівки, а також підготуються до подальшої частини пригоди. Але це лише початок.\n\n**СУБОТА І НЕДІЛЯ – МІСІЯ В АЕРОПОРТІ В МІРОСЛАВИЦЯХ**\n\n26–27 вересня 2026 Аеропорт"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-09-21T12:42:45.746979+00:00"
+    },
+    "dolno-l-ski-kongres-pami-ci-narodowej-2026-09-21T08:00:00+02:00": {
+      "title": "Dolnośląski Kongres Pamięci Narodowej",
+      "date": "2026-09-21T08:00:00+02:00",
+      "end_date": "2026-09-21T08:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Dolnośląski Kongres Pamięci Narodowej odbywa się pod hasłem „Historia mówi przez pokolenia”. Wydarzenie łączy tradycyjną edukację historyczną z nowoczesnymi technologiami, filmem, teatrem, grami oraz rekonstrukcjami.\n\nProgram skierowany jest do wszystkich grup wiekowych, od dzieci po seniorów. Organizatorzy zachęcają do aktywnego udziału i poznawania historii poprzez różne formy przekazu.\n\nRejestracja na wydarzenie dostępna jest pod linkiem.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/0cb20e34-ea90-49f2-9624-1862e8acbc3d/47e3ef9d-b4f5-4ae6-b5a0-d37491975e96.jpg",
+      "location": {
+        "name": "Hala Stulecia we Wrocławiu, Wystawowa 1, 51-618 Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/dolnoslaski-kongres-pamieci-narodowej-0cb20e34-ea90-49f2-9624-1862e8acbc3d",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/dolnoslaski-kongres-pamieci-narodowej-0cb20e34-ea90-49f2-9624-1862e8acbc3d",
+      "scrapped_timestamp": "2026-09-21T12:42:21.260229+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Theater",
+        "Games"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dolnośląski Kongres Pamięci Narodowej",
+          "description": "Dolnośląski Kongres Pamięci Narodowej odbywa się pod hasłem „Historia mówi przez pokolenia”. Wydarzenie łączy tradycyjną edukację historyczną z nowoczesnymi technologiami, filmem, teatrem, grami oraz rekonstrukcjami.\n\nProgram skierowany jest do wszystkich grup wiekowych, od dzieci po seniorów. Organizatorzy zachęcają do aktywnego udziału i poznawania historii poprzez różne formy przekazu.\n\nRejestracja na wydarzenie dostępna jest pod linkiem."
+        },
+        "en": {
+          "title": "Lower Silesian Congress of National Memory",
+          "description": "The Lower Silesian Congress of National Memory takes place under the slogan 'History Speaks Through Generations'. The event combines traditional historical education with modern technologies, film, theater, games, and reenactments.\n\nThe program is aimed at all age groups, from children to seniors. The organizers encourage active participation and learning about history through various forms of communication.\n\nRegistration for the event is available at the link."
+        },
+        "uk": {
+          "title": "Доленський Конгрес Пам'яті Національної",
+          "description": "Доленський Конгрес Пам'яті Національної проходить під гаслом «Історія говорить через покоління». Подія поєднує традиційну історичну освіту з сучасними технологіями, кіно, театром, іграми та реконструкціями.\n\nПрограма спрямована на всі вікові групи, від дітей до літніх людей. Організатори закликають до активної участі та вивчення історії через різні форми передачі.\n\nРеєстрація на подію доступна за посиланням."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-21T12:42:45.746999+00:00"
+    },
+    "osiedlowe-centrum-gier-plansz-wki-i-e-sport-2026-09-21T14:00:00+02:00": {
+      "title": "Osiedlowe Centrum Gier – planszówki i e-sport",
+      "date": "2026-09-21T14:00:00+02:00",
+      "end_date": "2026-09-21T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Osiedlowe Centrum Gier to przestrzeń dla osób w każdym wieku, oferująca dostęp do bogatej biblioteki ponad 2 800 nowoczesnych gier planszowych, w tym tytułów przygodowych, strategicznych i logicznych. Oprócz planszówek, miejsce oferuje strefę e-sportową wyposażoną w konsole PS5, gogle VR oraz stanowiska do wyścigów samochodowych.\n\nSzczegóły organizacyjne:\n• Miejsce: CAL Chopina, ul. Chopina 9A, Wrocław\n• Termin: codziennie\n• Godziny: 14:00 – 20:00 (w piątki do 22:00)\n• Koszt: wstęp wolny",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/4eb46b08-6cd1-45f9-9b79-b0cfe02343fa/20728271-db52-4945-aaa3-a7e786f59c7f.jpg",
+      "location": {
+        "name": "CAL Chopina Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/osiedlowe-centrum-gier-planszowki-i-e-sport-4eb46b08-6cd1-45f9-9b79-b0cfe02343fa",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/osiedlowe-centrum-gier-planszowki-i-e-sport-4eb46b08-6cd1-45f9-9b79-b0cfe02343fa",
+      "scrapped_timestamp": "2026-09-21T12:42:26.321002+00:00",
+      "category": "Games",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Osiedlowe Centrum Gier – planszówki i e-sport",
+          "description": "Osiedlowe Centrum Gier to przestrzeń dla osób w każdym wieku, oferująca dostęp do bogatej biblioteki ponad 2 800 nowoczesnych gier planszowych, w tym tytułów przygodowych, strategicznych i logicznych. Oprócz planszówek, miejsce oferuje strefę e-sportową wyposażoną w konsole PS5, gogle VR oraz stanowiska do wyścigów samochodowych.\n\nSzczegóły organizacyjne:\n• Miejsce: CAL Chopina, ul. Chopina 9A, Wrocław\n• Termin: codziennie\n• Godziny: 14:00 – 20:00 (w piątki do 22:00)\n• Koszt: wstęp wolny"
+        },
+        "en": {
+          "title": "Neighborhood Game Center – Board Games and E-sports",
+          "description": "The Neighborhood Game Center is a space for people of all ages, offering access to a rich library of over 2,800 modern board games, including adventure, strategy, and logic titles. In addition to board games, the venue features an e-sports zone equipped with PS5 consoles, VR headsets, and racing stations.\n\nOrganizational details:\n• Location: CAL Chopina, ul. Chopina 9A, Wrocław\n• Date: daily\n• Hours: 2:00 PM – 8:00 PM (Fridays until 10:00 PM)\n• Cost: free entry"
+        },
+        "uk": {
+          "title": "Осередок ігор – настільні ігри та кіберспорт",
+          "description": "Осередок ігор – це простір для людей будь-якого віку, що пропонує доступ до багатої бібліотеки з понад 2800 сучасних настільних ігор, включаючи пригодницькі, стратегічні та логічні ігри. Окрім настільних ігор, місце пропонує зону кіберспорту, обладнану консолями PS5, VR-окулярами та місцями для автогонок.\n\nОрганізаційні деталі:\n• Місце: CAL Chopina, вул. Чопіна 9A, Вроцлав\n• Дата: щодня\n• Години: 14:00 – 20:00 (в п’ятницю до 22:00)\n• Вартість: вхід вільний"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-21T12:42:45.747020+00:00"
     }
   }
 }

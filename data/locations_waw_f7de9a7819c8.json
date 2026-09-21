@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:57:18.247386+00:00",
+  "updated_at": "2026-09-21T19:40:03.352440+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -6972,6 +6972,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-21T12:40:09.667757+00:00"
+    },
+    "plac centralny (miejsce wydarzenia) ; plac bankowy 3_5 (zbiórka )": {
+      "name": "Plac Centralny (miejsce wydarzenia) ; Plac Bankowy 3/5 (zbiórka ), Warszawa",
+      "district": "Śródmieście",
+      "address": "Plac Centralny (miejsce wydarzenia) ; Plac Bankowy 3/5 (zbiórka ), Warszawa",
+      "normalized": "plac centralny (miejsce wydarzenia) ; plac bankowy 3_5 (zbiórka )",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-21T19:17:09.618624+00:00"
+    },
+    "biblioteka w falenicy": {
+      "name": "Biblioteka w Falenicy, Walcownicza 2",
+      "district": "Wawer",
+      "address": "Biblioteka w Falenicy, Walcownicza 2",
+      "normalized": "biblioteka w falenicy",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-21T19:17:29.777037+00:00"
+    },
+    "wawerska strefa kultury": {
+      "name": "Wawerska Strefa Kultury, Żegańska 1a",
+      "district": "Wawer",
+      "address": "Wawerska Strefa Kultury, Żegańska 1a",
+      "normalized": "wawerska strefa kultury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-21T19:17:46.461006+00:00"
+    },
+    "1 sierpnia 36a": {
+      "name": "1 Sierpnia 36A",
+      "district": "Włochy",
+      "address": "1 Sierpnia 36A",
+      "normalized": "1 sierpnia 36a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-21T19:27:34.318052+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:40:22.865877+00:00",
+  "updated_at": "2026-09-21T19:12:48.529138+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -4677,47 +4677,6 @@
       "district": "Praga-Południe",
       "updated_at": "2026-09-03T11:07:50.524322+00:00"
     },
-    "warsztaty-kulinarne-dla-dzieci-2026-09-21T16:00:00+02:00": {
-      "title": "Warsztaty kulinarne dla dzieci",
-      "date": "2026-09-21T16:00:00+02:00",
-      "end_date": "2026-09-21T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Warsztaty kulinarne dla dzieci prowadzone przez Marzennę Kosowską.",
-      "url": "https://dkrembertow.waw.pl/aktualnosci/program-wydarzen-wrzesien-2026#21-09",
-      "source": "dkrembertow.waw.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Dom Kultury Rembertów · Aleja Komandosów 8",
-        "district": "Rembertów"
-      },
-      "image": "https://dkrembertow.waw.pl/images/2026/9/1.jpg",
-      "scrapped_url": "https://dkrembertow.waw.pl/aktualnosci/program-wydarzen-wrzesien-2026#21-09",
-      "scrapped_timestamp": "2026-09-04T11:06:40.127810+00:00",
-      "translations": {
-        "pl": {
-          "title": "Warsztaty kulinarne dla dzieci",
-          "description": "Warsztaty kulinarne dla dzieci prowadzone przez Marzennę Kosowską."
-        },
-        "en": {
-          "title": "Cooking Workshops for Children",
-          "description": "Cooking workshops for children led by Marzanna Kosowska."
-        },
-        "uk": {
-          "title": "Кулінарні майстер-класи для дітей",
-          "description": "Кулінарні майстер-класи для дітей, які проводить Марзенна Косовська."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Rembertów",
-      "updated_at": "2026-09-04T11:08:40.213989+00:00"
-    },
     "spektakl-dla-dzieci-w-krainie-grzeczno-ci-w-wykonaniu-teatru-dur-moll-2026-09-23T18:00:00+02:00": {
       "title": "Spektakl dla dzieci „W krainie grzeczności” w wykonaniu Teatru Dur-Moll",
       "date": "2026-09-23T18:00:00+02:00",
@@ -5011,47 +4970,6 @@
       },
       "district": "Bielany",
       "updated_at": "2026-09-04T11:08:40.214483+00:00"
-    },
-    "dobranocka-na-szamotach-spotkanie-autorskie-2026-09-21T18:00:00+02:00": {
-      "title": "„Dobranocka na Szamotach” – spotkanie autorskie",
-      "date": "2026-09-21T18:00:00+02:00",
-      "end_date": "2026-09-21T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na „Dobranockę na Szamotach” – spotkanie autorskie dla dzieci w wieku od 3 do 11 lat, pełne opowieści, wyobraźni i wspólnego czytania. To wyjątkowa okazja do spotkania z autorem, wysłuchania fragmentów książek oraz rozmowy o bohaterach i ich przygodach. Wydarzenie stworzone z myślą o najmłodszych, sprzyjające rozwijaniu miłości do literatury i wspólnemu, rodzinnemu spędzaniu czasu. 📌 Wstęp wolny.",
-      "image": "https://ursus.um.warszawa.pl/documents/49065/17622870/DOBRANOCKI.png/08bb8be8-709d-f8f0-a909-0316447a54c3?version=1.0&t=1779707005446&imagePreview=1",
-      "url": "https://ursus.um.warszawa.pl/-/-dobranocka-na-szamotach-spotkanie-autorsk-2",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Filia „Szamoty”, Silnikowa 8A, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/-dobranocka-na-szamotach-spotkanie-autorsk-2",
-      "scrapped_timestamp": "2026-09-05T18:36:07.827629+00:00",
-      "category": "Storytime",
-      "age_range": {
-        "min": 3,
-        "max": 11
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "„Dobranocka na Szamotach” – spotkanie autorskie",
-          "description": "Zapraszamy na „Dobranockę na Szamotach” – spotkanie autorskie dla dzieci w wieku od 3 do 11 lat, pełne opowieści, wyobraźni i wspólnego czytania. To wyjątkowa okazja do spotkania z autorem, wysłuchania fragmentów książek oraz rozmowy o bohaterach i ich przygodach. Wydarzenie stworzone z myślą o najmłodszych, sprzyjające rozwijaniu miłości do literatury i wspólnemu, rodzinnemu spędzaniu czasu. 📌 Wstęp wolny."
-        },
-        "en": {
-          "title": "Good Night at Szamoty – Author Meeting",
-          "description": "We invite you to \"Good Night at Szamoty\" – an author meeting for children aged 3 to 11, full of stories, imagination, and shared reading. This is a unique opportunity to meet the author, listen to excerpts from books, and discuss the characters and their adventures. The event is designed for the youngest, promoting a love for literature and family time together. 📌 Free admission."
-        },
-        "uk": {
-          "title": "„Добранічка на Шамотах” – авторська зустріч",
-          "description": "Запрошуємо на „Добранічку на Шамотах” – авторську зустріч для дітей віком від 3 до 11 років, наповнену оповідями, уявою та спільним читанням. Це унікальна можливість зустрітися з автором, послухати уривки з книг та поговорити про героїв і їхні пригоди. Подія створена з думкою про найменших, що сприяє розвитку любові до літератури та спільному, сімейному проведенню часу. 📌 Вхід вільний."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-09-05T18:53:01.823545+00:00"
     },
     "spacer-botaniczny-w-r-d-blok-w-bia-o-cki-zielnik-2026-09-22T17:30:00+02:00": {
       "title": "Spacer botaniczny wśród bloków \"Białołęcki zielnik\"",
@@ -11231,90 +11149,6 @@
       "district": "Praga-Południe",
       "updated_at": "2026-09-15T11:33:56.682790+00:00"
     },
-    "bezp-atne-zaj-cia-taneczne-dla-dzieci-4-8-lat-z-niepe-nosprawno-ciami-2026-09-21T17:00:00+02:00": {
-      "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-      "date": "2026-09-21T17:00:00+02:00",
-      "end_date": "2026-09-21T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-09-15T11:32:48.758084+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Children Aged 4-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District. SCHEDULE: Mondays 5:00 PM - dance classes for children aged 4-8 Mondays 6:00 PM - dance classes for parents with children aged 3-8 Thursdays 12:00 PM - solo Latino Thursdays 1:00 PM - corrective gymnastics Location: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor) Registration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для дітей 4-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття частково фінансуються з коштів Району Бемово. ГРАФІК: Понеділок 17:00 - танцювальні заняття для дітей 4-8 років Понеділок 18:00 - танцювальні заняття для батьків з дітьми 3-8 років Четвер 12:00 - латина соло Четвер 13:00 - гімнастика для покращення фізичної форми Локація: MAL Спотикальня, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх) Запис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-09-15T11:33:56.682959+00:00"
-    },
-    "bezp-atne-zaj-cia-taneczne-dla-rodzic-w-z-dzie-mi-3-8-lat-z-niepe-nosprawno-ciami-2026-09-21T18:00:00+02:00": {
-      "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-      "date": "2026-09-21T18:00:00+02:00",
-      "end_date": "2026-09-21T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-09-15T11:32:53.109539+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo. HARMONOGRAM: Poniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat Poniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat Czwartki 12:00 - latino solo Czwartki 13:00 - gimnastyka usprawniająca Lokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro) Zapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Parents with Children Aged 3-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District. SCHEDULE: Mondays 5:00 PM - dance classes for children aged 4-8 Mondays 6:00 PM - dance classes for parents with children aged 3-8 Thursdays 12:00 PM - solo Latino Thursdays 1:00 PM - rehabilitation gymnastics Location: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor) Registration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для батьків з дітьми 3-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово. ГАРМОНІЯ: Понеділки 17:00 - танцювальні заняття для дітей 4-8 років Понеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років Четверги 12:00 - латино соло Четверги 13:00 - гімнастика для покращення фізичної форми Локація: MAL Спотикальня, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх) Запис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-09-15T11:33:56.682974+00:00"
-    },
     "festiwal-turkus-2026-09-25T18:00:00+02:00": {
       "title": "Festiwal TURKUS!",
       "date": "2026-09-25T18:00:00+02:00",
@@ -15198,48 +15032,6 @@
         "is_free": true
       },
       "updated_at": "2026-09-21T12:40:22.721497+00:00"
-    },
-    "nabory-do-ks-grom-pro-treningi-pi-ki-no-nej-2026-09-21T21:00:00+02:00": {
-      "title": "Nabory do KS GROM PRO – treningi piłki nożnej",
-      "date": "2026-09-21T21:00:00+02:00",
-      "end_date": "2026-09-21T21:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Trwają nabory do akademii piłkarskiej KS GROM dla dzieci z roczników 2010–2021 (wiek 4–12 lat). Akademia posiada certyfikat PZPN.\n\nSzczegóły oferty:\n• Treningi prowadzone przez kadrę z licencjami UEFA A\n• 3 treningi w tygodniu\n• Udział w lidze MZPN i PZPN\n• Dostęp do systemu ProTrainUp\n\nZapisy odbywają się poprzez formularz dostępny na stronie: https://www.ksgrom.pro/zapisy/\n\nWięcej informacji o klubie znajduje się na stronie: http://www.ksgrom.pro/",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/8c95c593-e56c-46ed-bd80-c3c7197f055a/fb4674c5-1ceb-46d7-b31b-bd63d1a8b4ba.jpg",
-      "location": {
-        "name": "Grochowska 178/184",
-        "district": "Praga-Południe"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/nabory-do-ks-grom-pro-treningi-pilki-noznej-8c95c593-e56c-46ed-bd80-c3c7197f055a",
-      "source": "simplygo.pl",
-      "age_hint": "4-12",
-      "age_range": {
-        "min": 4,
-        "max": 12
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/nabory-do-ks-grom-pro-treningi-pilki-noznej-8c95c593-e56c-46ed-bd80-c3c7197f055a",
-      "scrapped_timestamp": "2026-09-21T12:34:00.295565+00:00",
-      "category": "Sports",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Nabory do KS GROM PRO – treningi piłki nożnej",
-          "description": "Trwają nabory do akademii piłkarskiej KS GROM dla dzieci z roczników 2010–2021 (wiek 4–12 lat). Akademia posiada certyfikat PZPN.\n\nSzczegóły oferty:\n• Treningi prowadzone przez kadrę z licencjami UEFA A\n• 3 treningi w tygodniu\n• Udział w lidze MZPN i PZPN\n• Dostęp do systemu ProTrainUp\n\nZapisy odbywają się poprzez formularz dostępny na stronie: https://www.ksgrom.pro/zapisy/\n\nWięcej informacji o klubie znajduje się na stronie: http://www.ksgrom.pro/"
-        },
-        "en": {
-          "title": "Recruitment for KS GROM PRO – Football Training",
-          "description": "Recruitment is ongoing for the KS GROM football academy for children born between 2010 and 2021 (ages 4–12). The academy is certified by PZPN.\n\nDetails of the offer:\n• Training conducted by coaches with UEFA A licenses\n• 3 training sessions per week\n• Participation in the MZPN and PZPN leagues\n• Access to the ProTrainUp system\n\nRegistrations are made through the form available on the website: https://www.ksgrom.pro/zapisy/\n\nMore information about the club can be found on the website: http://www.ksgrom.pro/"
-        },
-        "uk": {
-          "title": "Набір до КС ГРОМ ПРО – тренування з футболу",
-          "description": "Триває набір до футбольної академії КС ГРОМ для дітей віком 4–12 років (народження 2010–2021). Академія має сертифікат ПЗПН.\n\nДеталі пропозиції:\n• Тренування проводяться командою з ліцензіями УЄФА A\n• 3 тренування на тиждень\n• Участь у лігах МЗПН та ПЗПН\n• Доступ до системи ProTrainUp\n\nЗаписатися можна через форму, доступну на сайті: https://www.ksgrom.pro/zapisy/\n\nБільше інформації про клуб можна знайти на сайті: http://www.ksgrom.pro/"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-09-21T12:40:22.721546+00:00"
     },
     "turniej-kaczkoszach-w-oliborski-dom-kultury-2026-09-24T17:00:00+02:00": {
       "title": "Turniej Kaczkoszachów – Żoliborski Dom Kultury",

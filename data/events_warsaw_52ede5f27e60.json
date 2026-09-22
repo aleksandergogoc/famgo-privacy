@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:27:35.818846+00:00",
+  "updated_at": "2026-09-22T11:06:35.449660+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -2884,47 +2884,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-08-28T19:09:30.085891+00:00"
-    },
-    "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-09-22T11:00:00+02:00": {
-      "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-      "date": "2026-09-22T11:00:00+02:00",
-      "end_date": "2026-09-22T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan.",
-      "url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#22-09",
-      "source": "bielany.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
-        "district": "Bielany"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#22-09",
-      "scrapped_timestamp": "2026-08-31T13:33:53.228910+00:00",
-      "translations": {
-        "pl": {
-          "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-          "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan."
-        },
-        "en": {
-          "title": "On the Carpet – Neighborhood Toddler Zone",
-          "description": "Every Tuesday, we roll out the carpet and open our space for spontaneous neighborhood gatherings for the youngest children and parents from Bielany."
-        },
-        "uk": {
-          "title": "Ми на килимку – сусідська зона для малюків",
-          "description": "Щовівторка ми розстилаємо килим і відкриваємо наш простір для спонтанних сусідських зустрічей для найменших дітей та батьків з Білян."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bielany",
-      "updated_at": "2026-08-31T13:38:42.690129+00:00"
     },
     "tajemnice-drzew-spotkania-przyrodnicze-2026-09-22T14:00:00+02:00": {
       "title": "Tajemnice drzew. Spotkania przyrodnicze",
@@ -11399,88 +11358,6 @@
       "district": "Praga-Północ",
       "updated_at": "2026-09-16T11:19:55.097112+00:00"
     },
-    "spaghetti-2026-09-22T10:00:00+02:00": {
-      "title": "Spaghetti",
-      "date": "2026-09-22T10:00:00+02:00",
-      "end_date": "2026-09-22T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Na scenie będzie gwarno, wesoło, tanecznie i oczywiście muzycznie. Młodzi widzowie będą mieli okazję nie tylko poznać tajniki przyrządzania jednej z popularniejszych (i pyszniejszych!) potraw, ale także posłuchać muzyki granej na żywo przez aktorów oraz towarzyszyć ich wszystkim figlom. W atmosferze zabawy uczymy się też tolerancji, akceptacji inności oraz szacunku dla innych. Spektakl powstał we współpracy Teatru Baj w Warszawie i Theatergruppe Batida w Kopenhadze.",
-      "url": "https://teatrbaj.pl/repertuar/spaghetti/#22-09",
-      "source": "teatrbaj.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Theater",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "location": {
-        "name": "55 min Teatr Baj · ul. Jagiellońska 28",
-        "district": "Praga-Północ"
-      },
-      "image": "https://teatrbaj.pl/wp-content/uploads/2020/10/16.jpg",
-      "scrapped_url": "https://teatrbaj.pl/repertuar/spaghetti/#22-09",
-      "scrapped_timestamp": "2026-09-17T11:26:49.006392+00:00",
-      "translations": {
-        "pl": {
-          "title": "Spaghetti",
-          "description": "Na scenie będzie gwarno, wesoło, tanecznie i oczywiście muzycznie. Młodzi widzowie będą mieli okazję nie tylko poznać tajniki przyrządzania jednej z popularniejszych (i pyszniejszych!) potraw, ale także posłuchać muzyki granej na żywo przez aktorów oraz towarzyszyć ich wszystkim figlom. W atmosferze zabawy uczymy się też tolerancji, akceptacji inności oraz szacunku dla innych. Spektakl powstał we współpracy Teatru Baj w Warszawie i Theatergruppe Batida w Kopenhadze."
-        },
-        "en": {
-          "title": "Spaghetti",
-          "description": "The stage will be lively, cheerful, danceable, and of course, musical. Young viewers will have the opportunity not only to learn the secrets of preparing one of the more popular (and delicious!) dishes but also to listen to live music played by the actors and accompany them in all their antics. In an atmosphere of fun, we also learn about tolerance, acceptance of differences, and respect for others. The performance was created in collaboration between the Baj Theater in Warsaw and the Theatergruppe Batida in Copenhagen."
-        },
-        "uk": {
-          "title": "Спагетті",
-          "description": "На сцені буде гамірно, весело, танцювально і, звичайно, музично. Молоді глядачі матимуть можливість не лише дізнатися секрети приготування однієї з популярніших (і смачніших!) страв, але й послухати музику, що грається наживо акторами, а також супроводжувати їх у всіх витівках. В атмосфері розваги ми також вчимося толерантності, прийняття інакшості та поваги до інших. Спектакль був створений у співпраці Театру Бай у Варшаві та Theatergruppe Batida в Копенгагені."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Praga-Północ",
-      "updated_at": "2026-09-17T11:30:07.012407+00:00"
-    },
-    "zaj-cia-rytmiczne-dla-dzieci-2026-09-22T10:00:00+02:00": {
-      "title": "Zajęcia rytmiczne dla dzieci",
-      "date": "2026-09-22T10:00:00+02:00",
-      "end_date": "2026-09-22T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W trakcie zajęć wykorzystamy obecność opiekunów – do masaży, wspólnych ćwiczeń i zadań sensorycznych. Poprosimy rodziców, aby śpiewali wspólnie z instruktorką. Wprowadzimy też elementy muzycznych zajęć logopedycznych oraz jogi. Wykorzystamy różne gatunki muzyczne, m.in. klasyczną, regionalną (np. irlandzką), dziecięcą czy współczesne standardy. To pozwoli na stawianie pierwszych kroków w świecie muzyki. Przy okazji dzieci nauczą się podstawowych postaw społecznych: bycia razem, wspólnej zabawy, wzajemnego szacunku i respektowania potrzeb. Prosimy o zapisywanie dzieci zgodnie z wiekiem. Cykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Rytmika i spotkania z muzyką dla dzieci” nr 1530.",
-      "url": "https://bemowskie.pl/wydarzenia/zajecia-rytmiczne-dla-dzieci-w-wieku-10-20-miesiecy-2/",
-      "source": "bemowskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 1
-      },
-      "location": {
-        "name": "Bemowskie Centrum Kultury, MAL Boernerowo · ul. Sobczaka 5",
-        "district": "Bemowo"
-      },
-      "image": "https://bemowskie.pl/wp-content/uploads/2026/05/rytmika.png",
-      "scrapped_url": "https://bemowskie.pl/wydarzenia/zajecia-rytmiczne-dla-dzieci-w-wieku-10-20-miesiecy-2/",
-      "scrapped_timestamp": "2026-09-17T11:26:53.221874+00:00",
-      "translations": {
-        "pl": {
-          "title": "Zajęcia rytmiczne dla dzieci",
-          "description": "W trakcie zajęć wykorzystamy obecność opiekunów – do masaży, wspólnych ćwiczeń i zadań sensorycznych. Poprosimy rodziców, aby śpiewali wspólnie z instruktorką. Wprowadzimy też elementy muzycznych zajęć logopedycznych oraz jogi. Wykorzystamy różne gatunki muzyczne, m.in. klasyczną, regionalną (np. irlandzką), dziecięcą czy współczesne standardy. To pozwoli na stawianie pierwszych kroków w świecie muzyki. Przy okazji dzieci nauczą się podstawowych postaw społecznych: bycia razem, wspólnej zabawy, wzajemnego szacunku i respektowania potrzeb. Prosimy o zapisywanie dzieci zgodnie z wiekiem. Cykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Rytmika i spotkania z muzyką dla dzieci” nr 1530."
-        },
-        "en": {
-          "title": "Rhythmic Classes for Children",
-          "description": "During the classes, we will utilize the presence of caregivers for massages, joint exercises, and sensory tasks. We will ask parents to sing along with the instructor. We will also introduce elements of musical speech therapy and yoga. Various music genres will be used, including classical, regional (e.g., Irish), children's music, and contemporary standards. This will allow for the first steps into the world of music. Additionally, children will learn basic social skills: being together, playing together, mutual respect, and recognizing needs. We ask that children be registered according to their age. This series of workshops is implemented as part of the Civic Budget from the project 'Rhythm and Music Meetings for Children' no. 1530."
-        },
-        "uk": {
-          "title": "Ритмічні заняття для дітей",
-          "description": "Під час занять ми використаємо присутність опікунів – для масажу, спільних вправ та сенсорних завдань. Ми попросимо батьків співати разом з інструктором. Також ми введемо елементи музичних логопедичних занять та йоги. Ми використаємо різні музичні жанри, зокрема класичну, регіональну (наприклад, ірландську), дитячу та сучасні стандарти. Це дозволить зробити перші кроки у світі музики. Водночас діти навчаться основним соціальним позиціям: бути разом, спільно грати, взаємоповазі та повазі до потреб інших. Просимо записувати дітей відповідно до віку. Цикл майстер-класів реалізується в рамках Громадського бюджету за проектом «Ритміка та зустрічі з музикою для дітей» № 1530."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-09-17T11:30:07.012439+00:00"
-    },
     "plastyka-dla-najm-odszych-farb-mazane-2026-09-22T16:30:00+02:00": {
       "title": "Plastyka dla najmłodszych. Farbą mazane",
       "date": "2026-09-22T16:30:00+02:00",
@@ -14901,48 +14778,6 @@
       },
       "district": "Wawer",
       "updated_at": "2026-09-21T12:40:22.721426+00:00"
-    },
-    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-09-22T10:00:00+02:00": {
-      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-      "date": "2026-09-22T10:00:00+02:00",
-      "end_date": "2026-09-22T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "scrapped_timestamp": "2026-09-21T12:33:33.952947+00:00",
-      "category": "Arts",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
-        },
-        "en": {
-          "title": "Guided Tours of the Exhibition 'Nabis: Prophets of a New Art'",
-          "description": "Join us for guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world-renowned works, including paintings by masters such as Maurice Denis, Paul Ranson, and Paul Sérusier. The exhibition curators and museum educators will provide insights into these artworks. The exhibition 'Nabis: Prophets of a New Art' showcases the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called Pont-Aven School. It also includes works of a religious and esoteric nature, interior views, and genre scenes, as well as the activities of the Natanson brothers - Tadeusz and Aleksander - and their magazine 'La Revue Blanche'. In total, we will see over 90 works in the fields of painting, drawing, and graphic art. The works come from both Polish and foreign collections."
-        },
-        "uk": {
-          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
-          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\". Запрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Ми побачимо світові твори, а це, зокрема, картини таких майстрів, як Моріс Дені, Поль Рансон і Поль Серюзьє. Про них розкажуть куратори експозиції та музейні освітяни. Виставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Пола Гогена і так званої Школи Пон-Авен. Вона також включає твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, яку проводили брати Натансон - Тадеуш і Олександр - журналу \"La Revue Blanche\". Всього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних колекцій."
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
-      },
-      "updated_at": "2026-09-21T12:40:22.721447+00:00"
     },
     "rodzinne-pl-sanie-na-trawiastym-dywanie-bezp-atne-spotkania-na-obkowym-placu-zabaw-2026-09-26T10:00:00+02:00": {
       "title": "Rodzinne pląsanie na trawiastym dywanie – bezpłatne spotkania na żłobkowym placu zabaw",
@@ -19071,47 +18906,6 @@
       },
       "updated_at": "2026-09-21T19:27:35.721675+00:00"
     },
-    "warsztaty-kulinarne-dla-dzieci-2026-09-21T16:00:00+02:00": {
-      "title": "Warsztaty kulinarne dla dzieci",
-      "date": "2026-09-21T16:00:00+02:00",
-      "end_date": "2026-09-21T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Warsztaty kulinarne dla dzieci prowadzone przez Marzennę Kosowską.",
-      "url": "https://dkrembertow.waw.pl/aktualnosci/program-wydarzen-wrzesien-2026#21-09",
-      "source": "dkrembertow.waw.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Dom Kultury Rembertów · Aleja Komandosów 8",
-        "district": "Rembertów"
-      },
-      "image": "https://dkrembertow.waw.pl/images/2026/9/1.jpg",
-      "scrapped_url": "https://dkrembertow.waw.pl/aktualnosci/program-wydarzen-wrzesien-2026#21-09",
-      "scrapped_timestamp": "2026-09-21T19:26:01.301185+00:00",
-      "translations": {
-        "pl": {
-          "title": "Warsztaty kulinarne dla dzieci",
-          "description": "Warsztaty kulinarne dla dzieci prowadzone przez Marzennę Kosowską."
-        },
-        "en": {
-          "title": "Cooking Workshops for Children",
-          "description": "Cooking workshops for children conducted by Marzanna Kosowska."
-        },
-        "uk": {
-          "title": "Кулінарні майстер-класи для дітей",
-          "description": "Кулінарні майстер-класи для дітей проведені Марзенною Косовською."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Rembertów",
-      "updated_at": "2026-09-21T19:27:35.721696+00:00"
-    },
     "bajeczna-fiesta-spektakl-dla-dzieci-2026-09-27T12:00:00+02:00": {
       "title": "Bajeczna Fiesta / spektakl dla dzieci",
       "date": "2026-09-27T12:00:00+02:00",
@@ -19275,90 +19069,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-09-21T19:27:35.721819+00:00"
-    },
-    "bezp-atne-zaj-cia-taneczne-dla-dzieci-4-8-lat-z-niepe-nosprawno-ciami-2026-09-21T17:00:00+02:00": {
-      "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-      "date": "2026-09-21T17:00:00+02:00",
-      "end_date": "2026-09-21T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-09-21T19:26:25.606905+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Children Aged 4-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District.\n\nHARMONOGRAM:\n\nMondays 17:00 - dance classes for children aged 4-8\n\nMondays 18:00 - dance classes for parents with children aged 3-8\n\nThursdays 12:00 - latino solo\n\nThursdays 13:00 - corrective gymnastics\n\nLocation: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor)\n\nRegistration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для дітей 4-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово.\n\nHARMONOGRAM:\n\nПонеділки 17:00 - танцювальні заняття для дітей 4-8 років\n\nПонеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років\n\nЧетверги 12:00 - латина соло\n\nЧетверги 13:00 - гімнастика, що покращує\n\nЛокація: MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх)\n\nЗапис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-09-21T19:27:35.721848+00:00"
-    },
-    "bezp-atne-zaj-cia-taneczne-dla-rodzic-w-z-dzie-mi-3-8-lat-z-niepe-nosprawno-ciami-2026-09-21T18:00:00+02:00": {
-      "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-      "date": "2026-09-21T18:00:00+02:00",
-      "end_date": "2026-09-21T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-09-21T19:26:31.480060+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Parents with Children Aged 3-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District.\n\nHARMONOGRAM:\n\nMondays 17:00 - dance classes for children aged 4-8\n\nMondays 18:00 - dance classes for parents with children aged 3-8\n\nThursdays 12:00 - latino solo\n\nThursdays 13:00 - corrective gymnastics\n\nLocation: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor)\n\nRegistration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для батьків з дітьми 3-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово.\n\nHARMONOGRAM:\n\nПонеділки 17:00 - танцювальні заняття для дітей 4-8 років\n\nПонеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років\n\nЧетверги 12:00 - латино соло\n\nЧетверги 13:00 - гімнастика для покращення\n\nЛокація: MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх)\n\nЗапис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-09-21T19:27:35.721880+00:00"
     },
     "noc-bibliotek-we-w-ochach-2026-10-03T16:00:00+02:00": {
       "title": "Noc Bibliotek we Włochach",

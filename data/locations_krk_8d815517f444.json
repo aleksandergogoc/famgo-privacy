@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T18:55:20.148901+00:00",
+  "updated_at": "2026-09-22T11:33:53.557667+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4333,6 +4333,42 @@
       "lat": 50.064,
       "lng": 19.916,
       "updated_at": "2026-09-21T18:55:15.561710+00:00"
+    },
+    "błonia prądnickie": {
+      "name": "Błonia Prądnickie, ul. Dobrego Pasterza 121, Kraków",
+      "district": "Zwierzyniec",
+      "address": "Błonia Prądnickie, ul. Dobrego Pasterza 121, Kraków",
+      "normalized": "błonia prądnickie",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-22T11:07:58.309487+00:00"
+    },
+    "synerise arena": {
+      "name": "Synerise Arena - Stadion Miejski im. Henryka Reymana, Henryka Reymana, Czarna Wieś, Krowodrza, Kraków, województwo małopolskie, 30-062, Polska",
+      "district": "Krowodrza",
+      "address": "Synerise Arena - Stadion Miejski im. Henryka Reymana, Henryka Reymana, Czarna Wieś, Krowodrza, Kraków, województwo małopolskie, 30-062, Polska",
+      "normalized": "synerise arena",
+      "lat": 50.0635558,
+      "lng": 19.9116239,
+      "updated_at": "2026-09-22T11:08:24.715265+00:00"
+    },
+    "centrum kultury „dworek białoprądnicki”": {
+      "name": "Centrum Kultury Dworek Białoprądnicki, Białoprądnicka, Bularnia, Prądnik Biały, Kraków, województwo małopolskie, 31-221, Polska",
+      "district": "Prądnik Biały",
+      "address": "Centrum Kultury Dworek Białoprądnicki, Białoprądnicka, Bularnia, Prądnik Biały, Kraków, województwo małopolskie, 31-221, Polska",
+      "normalized": "centrum kultury „dworek białoprądnicki”",
+      "lat": 50.0920219,
+      "lng": 19.9395731,
+      "updated_at": "2026-09-22T11:08:28.002002+00:00"
+    },
+    "mdk „dom harcerza”": {
+      "name": "ul. Reymonta 18, Kraków",
+      "district": "Krowodrza",
+      "address": "ul. Reymonta 18, Kraków",
+      "normalized": "mdk „dom harcerza”",
+      "lat": 50.064,
+      "lng": 19.923,
+      "updated_at": "2026-09-22T11:21:16.059918+00:00"
     }
   }
 }

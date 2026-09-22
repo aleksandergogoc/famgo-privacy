@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:06:35.449660+00:00",
+  "updated_at": "2026-09-22T11:23:51.727930+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -4412,46 +4412,49 @@
       "updated_at": "2026-08-31T13:38:42.691272+00:00"
     },
     "literacki-piknik-kryminalny-dla-rodzin-sherlock-holmes-przenie-si-do-wiata-tajemnic-2026-09-27T15:00:00+02:00": {
-      "title": "Literacki Piknik Kryminalny dla rodzin „Sherlock Holmes - przenieś się do świata tajemnic\"",
+      "title": "Literacki Piknik Kryminalny dla rodzin „Sherlock Holmes – przenieś się do świata tajemnic”",
       "date": "2026-09-27T15:00:00+02:00",
       "end_date": "2026-09-27T15:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Każdy uczestnik otrzyma „Książeczkę Tropów\" do zbierania pieczątek i wskazówek, z nagrodą na koniec.\n\nWydarzenie organizowane wspólnie z Biblioteką Publiczną Dzielnicy Wawer. W przypadku złej pogody przeniesione do Kulturoteki.",
-      "url": "https://www.wck-wawer.pl/radosc/aktualnosci/archiwum-20262/sherlock-holmes-przenies-sie-do-swiata-tajemnic",
-      "source": "wck-wawer.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
+      "description": "Piknik Kryminalny „Sherlock Holmes – przenieś się do świata tajemnic\" Piknik Kryminalny „Sherlock Holmes – przenieś się do świata tajemnic\" to wydarzenie dla całych rodzin w stylu Sherlocka Holmsa i jego tajemnic, pełen eleganckiej zabawy detektywistycznej. Podczas pikniku odbędzie się spektakl dla najmłodszych „Księżniczka na ziarnku grochu\" w wykonaniu Teatru Fabryka Kultury, który stanie się początkiem niezwykłej przygody. Po przedstawieniu dzieci wyposażone w lupy prawdziwych detektywów wyruszą na poszukiwanie zaginionego ziarenka grochu... Przez cały dzień odbywać się będą kreatywne warsztaty i animacje inspirowane pracą śledczych. W Kryminalnym Laboratorium uczestnicy poznają tajniki zbierania śladów, badania odcisków palców i analizowania dowodów. Miłośnicy zagadek będą mogli zmierzyć się z rodzinnym Escape Roomem. Dla tych co lubią tańczyć motywem przewodnim będzie muzyka z filmu pt. „Różowa Pantera\". Na warsztatach komiksowo-plastycznych wykonamy portret osoby „poszukiwanej\" i dowiemy się jak bardzo są kosztowni. Nie zabraknie również spotkania z autorką kryminałów Alicją Sinicką. Będzie z nami Grupa rekonstrukcyjna - Semper Fidelis, Straż Pożarna, Policja i Służba Więzienna. Zapraszamy na pokaz samoobrony Krav Maga, prezentacje wozów strażackich i policyjnych oraz animacje i pokazy służb. Każdy uczestnik otrzyma specjalną Książeczkę Tropów, w której będzie zbierał pieczątki i wskazówki zdobyte podczas wykonywania kolejnych zadań. Nagroda czeka!!! Nie możecie przegapić takiego wydarzenia, a jeśli pogoda nie dopisze widzimy się w przestrzeni Kulturoteki. Literacki Piknik Kryminalny dla rodzin jest współorganizowany z Wawerskim Centrum Kultury Filia Radość. Wstęp Wstęp wolny! Projekt finansuje Dzielnica Wawer m.st. Warszawy .",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F3d4f6084-423e-40ac-9729-f3ec6797af2d.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/3d4f6084-423e-40ac-9729-f3ec6797af2d",
+      "source": "gojammin.com",
+      "district": "Wawer",
       "location": {
-        "name": "Wawerskie Centrum Kultury, Filia Radość · ul. Powojowa 2",
+        "name": "Powojowa 2, 04-860 Warszawa, Poland",
         "district": "Wawer"
       },
-      "image": "https://www.wck-wawer.pl/assets/cache/images/aktualnosci-radosc/2026/IMG_0026-684x-904.jpg",
-      "scrapped_url": "https://www.wck-wawer.pl/radosc/aktualnosci/archiwum-20262/sherlock-holmes-przenies-sie-do-swiata-tajemnic",
-      "scrapped_timestamp": "2026-09-21T19:26:12.636569+00:00",
-      "category": "Storytime",
-      "location_type": "indoor",
+      "scrapped_url": "https://gojammin.com/pl-PL/events/3d4f6084-423e-40ac-9729-f3ec6797af2d",
+      "scrapped_timestamp": "2026-09-22T11:23:32.155945+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Theater",
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
       "translations": {
         "pl": {
-          "title": "Literacki Piknik Kryminalny dla rodzin „Sherlock Holmes - przenieś się do świata tajemnic\"",
-          "description": "Każdy uczestnik otrzyma „Książeczkę Tropów\" do zbierania pieczątek i wskazówek, z nagrodą na koniec.\n\nWydarzenie organizowane wspólnie z Biblioteką Publiczną Dzielnicy Wawer. W przypadku złej pogody przeniesione do Kulturoteki."
+          "title": "Literacki Piknik Kryminalny dla rodzin „Sherlock Holmes – przenieś się do świata tajemnic”",
+          "description": "Piknik Kryminalny „Sherlock Holmes – przenieś się do świata tajemnic\" Piknik Kryminalny „Sherlock Holmes – przenieś się do świata tajemnic\" to wydarzenie dla całych rodzin w stylu Sherlocka Holmsa i jego tajemnic, pełen eleganckiej zabawy detektywistycznej. Podczas pikniku odbędzie się spektakl dla najmłodszych „Księżniczka na ziarnku grochu\" w wykonaniu Teatru Fabryka Kultury, który stanie się początkiem niezwykłej przygody. Po przedstawieniu dzieci wyposażone w lupy prawdziwych detektywów wyruszą na poszukiwanie zaginionego ziarenka grochu... Przez cały dzień odbywać się będą kreatywne warsztaty i animacje inspirowane pracą śledczych. W Kryminalnym Laboratorium uczestnicy poznają tajniki zbierania śladów, badania odcisków palców i analizowania dowodów. Miłośnicy zagadek będą mogli zmierzyć się z rodzinnym Escape Roomem. Dla tych co lubią tańczyć motywem przewodnim będzie muzyka z filmu pt. „Różowa Pantera\". Na warsztatach komiksowo-plastycznych wykonamy portret osoby „poszukiwanej\" i dowiemy się jak bardzo są kosztowni. Nie zabraknie również spotkania z autorką kryminałów Alicją Sinicką. Będzie z nami Grupa rekonstrukcyjna - Semper Fidelis, Straż Pożarna, Policja i Służba Więzienna. Zapraszamy na pokaz samoobrony Krav Maga, prezentacje wozów strażackich i policyjnych oraz animacje i pokazy służb. Każdy uczestnik otrzyma specjalną Książeczkę Tropów, w której będzie zbierał pieczątki i wskazówki zdobyte podczas wykonywania kolejnych zadań. Nagroda czeka!!! Nie możecie przegapić takiego wydarzenia, a jeśli pogoda nie dopisze widzimy się w przestrzeni Kulturoteki. Literacki Piknik Kryminalny dla rodzin jest współorganizowany z Wawerskim Centrum Kultury Filia Radość. Wstęp Wstęp wolny! Projekt finansuje Dzielnica Wawer m.st. Warszawy ."
         },
         "en": {
-          "title": "Literary Criminal Picnic for Families \"Sherlock Holmes - step into the world of mysteries\"",
-          "description": "Each participant will receive a \"Clue Booklet\" to collect stamps and hints, with a prize at the end.\n\nEvent organized in collaboration with the Public Library of the Wawer District. In case of bad weather, it will be moved to the Culture Library."
+          "title": "Literary Crime Picnic for Families \"Sherlock Holmes – step into the world of mysteries\"",
+          "description": "Crime Picnic \"Sherlock Holmes – step into the world of mysteries\" is an event for the whole family in the style of Sherlock Holmes and his mysteries, full of elegant detective fun. \n\nDuring the picnic, there will be a performance for the youngest \"The Princess and the Pea\" by the Culture Factory Theatre, which will mark the beginning of an extraordinary adventure. After the show, children equipped with real detective magnifying glasses will set off in search of the missing pea... \n\nThroughout the day, there will be creative workshops and animations inspired by the work of investigators. In the Crime Laboratory, participants will learn the secrets of collecting traces, examining fingerprints, and analyzing evidence. Puzzle lovers will be able to measure"
         },
         "uk": {
-          "title": "Літературний кримінальний пікнік для родин «Шерлок Холмс - перенесіться у світ таємниць»",
-          "description": "Кожен учасник отримає «Книжечку Слідів» для збору печаток і підказок, з нагородою наприкінці.\n\nВід wydarzenie організоване спільно з Публічною бібліотекою району Вавер. У разі поганої погоди перенесено до Культуротеки."
+          "title": "Літературний кримінальний пікнік для родин «Шерлок Холмс – перенесися у світ таємниць»",
+          "description": "Кримінальний пікнік «Шерлок Холмс – перенесися у світ таємниць» Кримінальний пікнік «Шерлок Холмс – перенесися у світ таємниць» – це подія для цілих родин у стилі Шерлока Холмса та його таємниць, наповнена елегантними розвагами детективного жанру. Під час пікніка відбудеться спектакль для найменших «Принцеса на горошині» у виконанні Театру Фабрика Культури, який стане початком незвичайної пригоди. Після вистави діти, озброєні лупами справжніх детективів, вирушать на пошуки загубленого горошини... Протягом усього дня відбуватимуться креативні майстер-класи та анімації, натхненні роботою слідчих. У Кримінальному Лабораторії учасники дізнаються тонкощі збору слідів, дослідження відбитків пальців та аналізу доказів. Любителі загадок зможуть виміряти..."
         }
       },
       "admission": {
         "is_free": true
       },
-      "district": "Wawer",
-      "updated_at": "2026-09-21T19:27:35.721771+00:00"
+      "updated_at": "2026-09-22T11:23:51.503099+00:00"
     },
     "casting-do-projektu-warsztaty-musicalove-2026-09-26T09:00:00+02:00": {
       "title": "Casting do projektu Warsztaty MusicaLOVE",
@@ -7546,46 +7549,50 @@
       "updated_at": "2026-09-09T11:29:55.209890+00:00"
     },
     "15-noc-w-instytucie-lotnictwa-europejska-noc-nauki-2026-09-25T17:00:00+02:00": {
-      "title": "15. Noc w Instytucie Lotnictwa – Europejska Noc Nauki",
+      "title": "15. Noc w Instytucie Lotnictwa - Europejska Noc Nauki",
       "date": "2026-09-25T17:00:00+02:00",
       "end_date": "2026-09-25T17:00:00+02:00",
       "startTimeKnown": true,
-      "description": "15. Noc w Instytucie Lotnictwa - Europejska Noc Nauki to największa w Polsce nocna impreza edukacyjna, której celem jest popularyzacja sektora lotniczego i kosmicznego oraz promocja zawodów inżynierskich. Wydarzenie odbędzie się 25 września 2026 roku (piątek) w godzinach 17:00 – 23:00.\n\nTo propozycja skierowana do wszystkich wielbicieli lotnictwa, samolotów, kosmosu, nauki i techniki, a także osób ciekawych świata, które chcą aktywnie spędzić czas. Podczas wydarzenia uczestnicy będą mieli rzadką okazję zwiedzenia laboratoriów Łukasiewicz – Instytutu Lotnictwa w Warszawie, które na co dzień pozostają niedostępne dla zwiedzających.\n\nW programie przewidziano:\n• Prezentacje samolotów, śmigłowców, bezzałogowców oraz innych konstrukcji latających.\n• Prezentacje osiągnięć studentów, uczelni, instytutów badawczych, linii lotniczych, organizacji, stowarzyszeń, szkół oraz przedsiębiorstw przemysłowych.\n• Spotkania z pilotami cywilnymi i wojskowymi, spadochroniarzami, przedstawicielami warszawskich lotnisk, inżynierami, astronomami, kosmonautami oraz naukowcami.\n• Wiele niespodzianek przygotowanych przez organizatorów.\n\nWstęp na wydarzenie jest bezpłatny.\n\nWięcej informacji: http://www.nocwinstytucielotnictwa.pl/",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/9b744266-64d5-49e3-8d58-4b2102828301/a8062e82-5b81-4055-aac7-da183543d127.jpg",
+      "description": "25 września spotykamy się na 15. Nocy w Instytucie Lotnictwa! ✈️\n\nPrzed nami wyjątkowy wieczór pełen atrakcji. Czekają na Was:\n\n👉pokazy technologii lotniczych i kosmicznych,\n\n👉strefy nauki i eksperymentów,\n\n👉symulatory i warsztaty,\n\n👉spotkania z ekspertami,\n\n👉atrakcje dla dzieci i dorosłych.\n\n25 września 2026, 17:00 - 23:00\n\nŁukasiewicz – Instytut Lotnictwa, Al. Krakowska 110/114, Warszawa\n\nWstęp bezpłatny! Nie obowiązuje rejestracja.\n\nSzczegółowy program >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1789734035.webp",
       "location": {
-        "name": "al. Krakowska 110/114",
+        "name": "Aleja Krakowska 110/114, Łukasiewicz - Instytut Lotnictwa",
         "district": "Włochy"
       },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/15-noc-w-instytucie-lotnictwa-europejska-noc-nauki-9b744266-64d5-49e3-8d58-4b2102828301",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/15-noc-w-instytucie-lotnictwa-europejska-noc-nauki-9b744266-64d5-49e3-8d58-4b2102828301",
-      "scrapped_timestamp": "2026-09-21T19:27:08.726654+00:00",
-      "category": "Educational",
+      "url": "https://nocwinstytucielotnictwa.pl/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://nocwinstytucielotnictwa.pl/",
+      "scrapped_timestamp": "2026-09-22T11:22:37.775004+00:00",
+      "category": "STEM",
       "additional_categories": [
-        "STEM"
+        "Workshops",
+        "Family Fun"
       ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "15. Noc w Instytucie Lotnictwa – Europejska Noc Nauki",
-          "description": "15. Noc w Instytucie Lotnictwa - Europejska Noc Nauki to największa w Polsce nocna impreza edukacyjna, której celem jest popularyzacja sektora lotniczego i kosmicznego oraz promocja zawodów inżynierskich. Wydarzenie odbędzie się 25 września 2026 roku (piątek) w godzinach 17:00 – 23:00.\n\nTo propozycja skierowana do wszystkich wielbicieli lotnictwa, samolotów, kosmosu, nauki i techniki, a także osób ciekawych świata, które chcą aktywnie spędzić czas. Podczas wydarzenia uczestnicy będą mieli rzadką okazję zwiedzenia laboratoriów Łukasiewicz – Instytutu Lotnictwa w Warszawie, które na co dzień pozostają niedostępne dla zwiedzających.\n\nW programie przewidziano:\n• Prezentacje samolotów, śmigłowców, bezzałogowców oraz innych konstrukcji latających.\n• Prezentacje osiągnięć studentów, uczelni, instytutów badawczych, linii lotniczych, organizacji, stowarzyszeń, szkół oraz przedsiębiorstw przemysłowych.\n• Spotkania z pilotami cywilnymi i wojskowymi, spadochroniarzami, przedstawicielami warszawskich lotnisk, inżynierami, astronomami, kosmonautami oraz naukowcami.\n• Wiele niespodzianek przygotowanych przez organizatorów.\n\nWstęp na wydarzenie jest bezpłatny.\n\nWięcej informacji: http://www.nocwinstytucielotnictwa.pl/"
+          "title": "15. Noc w Instytucie Lotnictwa - Europejska Noc Nauki",
+          "description": "25 września spotykamy się na 15. Nocy w Instytucie Lotnictwa! ✈️\n\nPrzed nami wyjątkowy wieczór pełen atrakcji. Czekają na Was:\n\n👉pokazy technologii lotniczych i kosmicznych,\n\n👉strefy nauki i eksperymentów,\n\n👉symulatory i warsztaty,\n\n👉spotkania z ekspertami,\n\n👉atrakcje dla dzieci i dorosłych.\n\n25 września 2026, 17:00 - 23:00\n\nŁukasiewicz – Instytut Lotnictwa, Al. Krakowska 110/114, Warszawa\n\nWstęp bezpłatny! Nie obowiązuje rejestracja.\n\nSzczegółowy program >> link"
         },
         "en": {
-          "title": "15th Night at the Aviation Institute – European Night of Science",
-          "description": "15th Night at the Aviation Institute - European Night of Science is the largest educational night event in Poland, aimed at popularizing the aviation and space sector as well as promoting engineering professions. The event will take place on September 25, 2026 (Friday) from 5:00 PM to 11:00 PM.\n\nThis proposal is directed to all aviation enthusiasts, airplane lovers, space fans, science and technology aficionados, as well as curious individuals who want to spend their time actively. During the event, participants will have a rare opportunity to tour the laboratories of Łukasiewicz – Aviation Institute in Warsaw, which are usually inaccessible to visitors.\n\nThe program includes:\n• Presentations of airplanes, helicopters, drones, and other flying constructions.\n• Presentations of achievements by students, universities, and institutes."
+          "title": "15th Night at the Aviation Institute - European Night of Science",
+          "description": "On September 25th, we meet for the 15th Night at the Aviation Institute! ✈️\n\nA unique evening full of attractions awaits you. Here’s what you can expect:\n\n👉 aviation and space technology demonstrations,\n\n👉 science and experiment zones,\n\n👉 simulators and workshops,\n\n👉 meetings with experts,\n\n👉 attractions for children and adults.\n\nSeptember 25, 2026, 5:00 PM - 11:00 PM\n\nŁukasiewicz – Aviation Institute, Al. Krakowska 110/114, Warsaw\n\nFree admission! No registration required.\n\nDetailed program >> link"
         },
         "uk": {
-          "title": "15. Ніч в Інституті авіації – Європейська Ніч науки",
-          "description": "15. Ніч в Інституті авіації - Європейська Ніч науки це найбільша в Польщі нічна імпреза освітнього характеру, метою якої є популяризація сектора авіації та космосу, а також просування інженерних професій. Подія відбудеться 25 вересня 2026 року (п’ятниця) з 17:00 до 23:00.\n\nЦе пропозиція, спрямована на всіх шанувальників авіації, літаків, космосу, науки та техніки, а також людей, які цікавляться світом і хочуть активно провести час. Під час події учасники матимуть рідкісну можливість відвідати лабораторії Лукaszевича – Інституту авіації у Варшаві, які щодня залишаються недоступними для відвідувачів.\n\nУ програмі передбачено:\n• Презентації літаків, вертольотів, безпілотників та інших літальних апаратів.\n• Презентації досягнень студентів, університетів, інститутів"
+          "title": "15. Ніч в Інституті Авіації - Європейська Ніч Науки",
+          "description": "25 вересня зустрічаємося на 15. Ночі в Інституті Авіації! ✈️\n\nПеред нами унікальний вечір, наповнений атракціями. Чекають на вас:\n\n👉покази авіаційних та космічних технологій,\n\n👉зони науки та експериментів,\n\n👉симулятори та майстер-класи,\n\n👉зустрічі з експертами,\n\n👉атракції для дітей та дорослих.\n\n25 вересня 2026, 17:00 - 23:00\n\nЛукашевіч – Інститут Авіації, Ал. Краківська 110/114, Варшава\n\nВхід безкоштовний! Реєстрація не обов'язкова.\n\nДетальна програма >> посилання"
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Włochy",
-      "updated_at": "2026-09-21T19:27:35.721983+00:00"
+      "updated_at": "2026-09-22T11:23:51.502897+00:00"
     },
     "akademia-pani-nutki-ma-a-symfonia-natury-koncert-dla-dzieci-2026-09-26T09:30:00+02:00": {
       "title": "Akademia Pani Nutki: Mała Symfonia Natury – koncert dla dzieci",
@@ -19201,6 +19208,430 @@
         "is_free": true
       },
       "updated_at": "2026-09-21T19:27:35.721956+00:00"
+    },
+    "zaj-cia-rytmiczne-dla-dzieci-2026-09-22T10:00:00+02:00": {
+      "title": "Zajęcia rytmiczne dla dzieci",
+      "date": "2026-09-22T10:00:00+02:00",
+      "end_date": "2026-09-22T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W trakcie zajęć wykorzystamy obecność opiekunów – do masaży, wspólnych ćwiczeń i zadań sensorycznych. Poprosimy rodziców, aby śpiewali wspólnie z instruktorką. Wprowadzimy też elementy muzycznych zajęć logopedycznych oraz jogi. Wykorzystamy różne gatunki muzyczne, m.in. klasyczną, regionalną (np. irlandzką), dziecięcą czy współczesne standardy. To pozwoli na stawianie pierwszych kroków w świecie muzyki. Przy okazji dzieci nauczą się podstawowych postaw społecznych: bycia razem, wspólnej zabawy, wzajemnego szacunku i respektowania potrzeb.\n\nProsimy o zapisywanie dzieci zgodnie z wiekiem.\n\nCykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Rytmika i spotkania z muzyką dla dzieci” nr 1530.",
+      "url": "https://bemowskie.pl/wydarzenia/zajecia-rytmiczne-dla-dzieci-w-wieku-10-20-miesiecy-2/",
+      "source": "bemowskie.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 1
+      },
+      "location": {
+        "name": "Bemowskie Centrum Kultury, MAL Boernerowo · ul. Sobczaka 5",
+        "district": "Bemowo"
+      },
+      "image": "https://bemowskie.pl/wp-content/uploads/2026/05/rytmika.png",
+      "scrapped_url": "https://bemowskie.pl/wydarzenia/zajecia-rytmiczne-dla-dzieci-w-wieku-10-20-miesiecy-2/",
+      "scrapped_timestamp": "2026-09-22T11:22:25.981480+00:00",
+      "translations": {
+        "pl": {
+          "title": "Zajęcia rytmiczne dla dzieci",
+          "description": "W trakcie zajęć wykorzystamy obecność opiekunów – do masaży, wspólnych ćwiczeń i zadań sensorycznych. Poprosimy rodziców, aby śpiewali wspólnie z instruktorką. Wprowadzimy też elementy muzycznych zajęć logopedycznych oraz jogi. Wykorzystamy różne gatunki muzyczne, m.in. klasyczną, regionalną (np. irlandzką), dziecięcą czy współczesne standardy. To pozwoli na stawianie pierwszych kroków w świecie muzyki. Przy okazji dzieci nauczą się podstawowych postaw społecznych: bycia razem, wspólnej zabawy, wzajemnego szacunku i respektowania potrzeb.\n\nProsimy o zapisywanie dzieci zgodnie z wiekiem.\n\nCykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Rytmika i spotkania z muzyką dla dzieci” nr 1530."
+        },
+        "en": {
+          "title": "Rhythmic Classes for Children",
+          "description": "During the classes, we will utilize the presence of caregivers – for massages, joint exercises, and sensory tasks. We will ask parents to sing along with the instructor. We will also introduce elements of musical speech therapy classes and yoga. We will use various music genres, including classical, regional (e.g., Irish), children's music, and contemporary standards. This will allow for taking the first steps into the world of music. In the process, children will learn basic social attitudes: being together, playing together, mutual respect, and respecting needs.\n\nWe ask you to register children according to their age.\n\nA series of workshops implemented as part of the Civic Budget from the project \"Rhythm and Meetings with Music for Children\" no. 1530."
+        },
+        "uk": {
+          "title": "Ритмічні заняття для дітей",
+          "description": "В trakcie zajęć wykorzystamy obecność опiekunów – do masaży, wspólnych ćwiczeń i zadań sensorycznych. Poprosimy rodziców, aby śpiewali wspólnie z instruktorką. Введемо також елементи музичних занять логопедичних та йоги. Використаємо різні жанри музики, зокрема класичну, регіональну (наприклад, ірландську), дитячу чи сучасні стандарти. Це дозволить на ставлення перших кроків у світі музики. При нагоді діти навчаться основних соціальних поз: бути разом, спільної гри, взаємної поваги та поваги до потреб.\n\nПросимо про записування дітей відповідно до віку.\n\nЦикл майстер-класів реалізується в рамках Бюджету Громадянського з проекту \"Ритміка та зустрічі з музикою для дітей\" № 1530."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-22T11:23:51.502826+00:00"
+    },
+    "spaghetti-2026-09-22T10:00:00+02:00": {
+      "title": "Spaghetti",
+      "date": "2026-09-22T10:00:00+02:00",
+      "end_date": "2026-09-22T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Na scenie będzie gwarno, wesoło, tanecznie i oczywiście muzycznie. Młodzi widzowie będą mieli okazję nie tylko poznać tajniki przyrządzania jednej z popularniejszych (i pyszniejszych!) potraw, ale także posłuchać muzyki granej na żywo przez aktorów oraz towarzyszyć ich wszystkim figlom.\n\nW atmosferze zabawy uczymy się też tolerancji, akceptacji inności oraz szacunku dla innych.\n\nSpektakl powstał we współpracy Teatru Baj w Warszawie i Theatergruppe Batida w Kopenhadze.",
+      "url": "https://teatrbaj.pl/repertuar/spaghetti/#22-09",
+      "source": "teatrbaj.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 6
+      },
+      "location": {
+        "name": "55 min Teatr Baj · ul. Jagiellońska 28",
+        "district": "Praga-Północ"
+      },
+      "image": "https://teatrbaj.pl/wp-content/uploads/2020/10/16.jpg",
+      "scrapped_url": "https://teatrbaj.pl/repertuar/spaghetti/#22-09",
+      "scrapped_timestamp": "2026-09-22T11:22:31.563025+00:00",
+      "translations": {
+        "pl": {
+          "title": "Spaghetti",
+          "description": "Na scenie będzie gwarno, wesoło, tanecznie i oczywiście muzycznie. Młodzi widzowie będą mieli okazję nie tylko poznać tajniki przyrządzania jednej z popularniejszych (i pyszniejszych!) potraw, ale także posłuchać muzyki granej na żywo przez aktorów oraz towarzyszyć ich wszystkim figlom.\n\nW atmosferze zabawy uczymy się też tolerancji, akceptacji inności oraz szacunku dla innych.\n\nSpektakl powstał we współpracy Teatru Baj w Warszawie i Theatergruppe Batida w Kopenhadze."
+        },
+        "en": {
+          "title": "Spaghetti",
+          "description": "The stage will be lively, cheerful, danceable, and of course, musical. Young viewers will have the opportunity not only to learn the secrets of preparing one of the more popular (and tastier!) dishes, but also to listen to live music played by the actors and accompany all their antics.\n\nIn the atmosphere of fun, we also learn tolerance, acceptance of differences, and respect for others.\n\nThe performance was created in collaboration with the Baj Theater in Warsaw and the Theatergruppe Batida in Copenhagen."
+        },
+        "uk": {
+          "title": "Спагетті",
+          "description": "На сцені буде гучно, весело, танцювально і, звичайно, музично. Молоді глядачі матимуть можливість не тільки познайомитися з тонкощами приготування однієї з популярніших (і смачніших!) страв, але й послухати музику, що грається наживо акторами, а також супроводжувати їх усіма витівками.\n\nВ атмосфері розваги ми також вчимося терпимості, прийняття інакшості та поваги до інших.\n\nВистава була створена у співпраці Театру Бай у Варшаві та Theatergruppe Batida у Копенгагені."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Praga-Północ",
+      "updated_at": "2026-09-22T11:23:51.502851+00:00"
+    },
+    "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-09-22T11:00:00+02:00": {
+      "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
+      "date": "2026-09-22T11:00:00+02:00",
+      "end_date": "2026-09-22T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan.",
+      "url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#22-09",
+      "source": "bielany.um.warszawa.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location": {
+        "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
+        "district": "Bielany"
+      },
+      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
+      "scrapped_url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#22-09",
+      "scrapped_timestamp": "2026-09-22T11:22:35.561031+00:00",
+      "translations": {
+        "pl": {
+          "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
+          "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan."
+        },
+        "en": {
+          "title": "We Have a Carpet – Neighborhood Toddler Zone",
+          "description": "Every Tuesday we roll out the carpet and open our space for spontaneous neighborhood meetings for the youngest children and parents from Bielany."
+        },
+        "uk": {
+          "title": "Ми на килимку – сусідська зона малюка",
+          "description": "Щовівторка розгортаємо килим і відкриваємо наш простір для спонтанних сусідських зустрічей для найменших діток та батьків з Білян."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bielany",
+      "updated_at": "2026-09-22T11:23:51.502874+00:00"
+    },
+    "europejski-tydzie-sportu-beactive-2026-09-30T18:00:00+02:00": {
+      "title": "Europejski Tydzień Sportu #BeActive",
+      "date": "2026-09-30T18:00:00+02:00",
+      "end_date": "2026-09-30T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Od 23 do 30 września Warszawa ponownie stanie się stolicą aktywności fizycznej. W ramach Europejskiego Tygodnia Sportu mieszkańcy będą mogli bezpłatnie skorzystać z setek godzin zajęć sportowych, treningów, turniejów i wydarzeń rekreacyjnych przygotowanych przez stołeczne dzielnice oraz miejskie obiekty sportowe.\n\nW programie znajdą się m.in. zajęcia fitness, pływanie, badminton, tenis stołowy, nordic walking, joga, zumba, squash, treningi samoobrony, turnieje sportowe oraz aktywności dla dzieci, dorosłych i seniorów. Każdy, niezależnie od wieku i poziomu zaawansowania, znajdzie coś dla siebie.\n\nKulminacją wydarzenia będzie #BeActiveNight, czyli Europejska Noc Sportu, która odbędzie się 26 września. Tego dnia i wieczoru na mieszkańców czekać będą wyjątkowe atrakcje, w tym nocne pływanie, turnieje sportowe, maratony fitness, zajęcia aqua, nocne bieganie oraz wiele innych aktywności organizowanych w całym mieście.\n\nTo doskonała okazja, aby spróbować nowych dyscyplin, zadbać o zdrowie, spędzić aktywnie czas z rodziną i przekonać się, że sport jest dostępny dla każdego. Dołącz do milionów Europejczyków i pokaż, że Warszawa jest aktywna!\n\nZapraszamy wszystkich do wspólnej zabawy i sportowej rywalizacji.\n\nPoniżej publikujemy linki do stron internetowych poszczególnych ośrodków, gdzie można znaleźć szczegółowe informacje dotyczące wydarzeń w Europejskim Tygodniu Sportu/#BeActiveNight ⬇️\n\n🤸 Ośrodki Aktywna Warszawa >> link\n\n🤸 Park Kultury w Powsinie >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Bemowo >> link\n\n🤸 Centrum Sportowo-Rekreacyjne m.st. Warszawy w Dzielnicy Bielany >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Ochota >> link\n\n🤸 Ośrodek Sportu i Rekreacji Dzielnicy Praga - Południe m.st. Warszawy >> link\n\n🤸 Dzielnicowy Ośrodek Sportu i Rekreacji Dzielnicy Praga - Północ m.st. Warszawy >> link\n\n🤸 Ośrodek Sportu i Rekreacji Dzielnicy Śródmieście >> link\n\n🤸 Ośrodek Sportu i Rekreacji Dzielnicy m.st. Warszawy w Dzielnicy Targówek >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Wawer >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Ursus  >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Włochy >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Wola  >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Mokotów >> link",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1789550590.webp",
+      "location": {
+        "name": "różne lokalizacje w całej Warszawie :)",
+        "district": "Śródmieście"
+      },
+      "url": "https://sport.um.warszawa.pl/-/europejski-tydzien-sportu-2026-w-warszawie-badz-aktywny-razem-z-nami-",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://sport.um.warszawa.pl/-/europejski-tydzien-sportu-2026-w-warszawie-badz-aktywny-razem-z-nami-",
+      "scrapped_timestamp": "2026-09-22T11:22:44.421749+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Europejski Tydzień Sportu #BeActive",
+          "description": "Od 23 do 30 września Warszawa ponownie stanie się stolicą aktywności fizycznej. W ramach Europejskiego Tygodnia Sportu mieszkańcy będą mogli bezpłatnie skorzystać z setek godzin zajęć sportowych, treningów, turniejów i wydarzeń rekreacyjnych przygotowanych przez stołeczne dzielnice oraz miejskie obiekty sportowe.\n\nW programie znajdą się m.in. zajęcia fitness, pływanie, badminton, tenis stołowy, nordic walking, joga, zumba, squash, treningi samoobrony, turnieje sportowe oraz aktywności dla dzieci, dorosłych i seniorów. Każdy, niezależnie od wieku i poziomu zaawansowania, znajdzie coś dla siebie.\n\nKulminacją wydarzenia będzie #BeActiveNight, czyli Europejska Noc Sportu, która odbędzie się 26 września. Tego dnia i wieczoru na mieszkańców czekać będą wyjątkowe atrakcje, w tym nocne pływanie, turnieje sportowe, maratony fitness, zajęcia aqua, nocne bieganie oraz wiele innych aktywności organizowanych w całym mieście.\n\nTo doskonała okazja, aby spróbować nowych dyscyplin, zadbać o zdrowie, spędzić aktywnie czas z rodziną i przekonać się, że sport jest dostępny dla każdego. Dołącz do milionów Europejczyków i pokaż, że Warszawa jest aktywna!\n\nZapraszamy wszystkich do wspólnej zabawy i sportowej rywalizacji.\n\nPoniżej publikujemy linki do stron internetowych poszczególnych ośrodków, gdzie można znaleźć szczegółowe informacje dotyczące wydarzeń w Europejskim Tygodniu Sportu/#BeActiveNight ⬇️\n\n🤸 Ośrodki Aktywna Warszawa >> link\n\n🤸 Park Kultury w Powsinie >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Bemowo >> link\n\n🤸 Centrum Sportowo-Rekreacyjne m.st. Warszawy w Dzielnicy Bielany >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Ochota >> link\n\n🤸 Ośrodek Sportu i Rekreacji Dzielnicy Praga - Południe m.st. Warszawy >> link\n\n🤸 Dzielnicowy Ośrodek Sportu i Rekreacji Dzielnicy Praga - Północ m.st. Warszawy >> link\n\n🤸 Ośrodek Sportu i Rekreacji Dzielnicy Śródmieście >> link\n\n🤸 Ośrodek Sportu i Rekreacji Dzielnicy m.st. Warszawy w Dzielnicy Targówek >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Wawer >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Ursus  >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Włochy >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Wola  >> link\n\n🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Mokotów >> link"
+        },
+        "en": {
+          "title": "European Week of Sport #BeActive",
+          "description": "From September 23 to 30, Warsaw will once again become the capital of physical activity. As part of the European Week of Sport, residents will be able to take advantage of hundreds of hours of sports classes, training sessions, tournaments, and recreational events prepared by the capital's districts and municipal sports facilities.\n\nThe program will include, among others, fitness classes, swimming, badminton, table tennis, nordic walking, yoga, zumba, squash, self-defense training, sports tournaments, and activities for children, adults, and seniors. Everyone, regardless of age and skill level, will find something for themselves.\n\nThe culmination of the event will be #BeActiveNight, or the European Night of Sport, which will take place on September 26. On that day and evening, residents will be greeted with exceptional attractions, including night swimming, t"
+        },
+        "uk": {
+          "title": "Європейський тиждень спорту #BeActive",
+          "description": "Від 23 до 30 вересня Варшава знову стане столицею фізичної активності. В рамках Європейського тижня спорту мешканці зможуть безкоштовно скористатися сотнями годин спортивних занять, тренувань, турнірів та рекреаційних подій, підготовлених столичними районами та міськими спортивними об'єктами.\n\nВ програмі знайдуться, зокрема, заняття фітнесом, плавання, бадмінтон, настільний теніс, нордична ходьба, йога, зумба, сквош, тренування самооборони, спортивні турніри та активності для дітей, дорослих і літніх людей. Кожен, незалежно від віку та рівня підготовки, знайде щось для себе.\n\nКульмінацією події буде #BeActiveNight, тобто Європейська Ніч Спорту, яка відбудеться 26 вересня. Того дня та вечора на мешканців чекатимуть унікальні атракції, зокрема нічне плавання, т"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-22T11:23:51.502920+00:00"
+    },
+    "warsztaty-robienia-wiec-w-zy-pszczelej-2026-09-24T18:00:00+02:00": {
+      "title": "Warsztaty robienia świec węzy pszczelej",
+      "date": "2026-09-24T18:00:00+02:00",
+      "end_date": "2026-09-24T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "WARSZTATY RODZINNE – ROBIMY ŚWIECE Z WĘZY PSZCZELEJ! 🐝🍯\n\nZapraszamy dzieci, dorosłych i seniorów na wyjątkowe, twórcze spotkanie pełne zapachu naturalnego wosku i dobrej energii!\n\n💛 Podczas warsztatów własnoręcznie wykonamy naturalne świece z węzy pszczelej. To doskonała okazja, aby spędzić czas razem, rozwijać kreatywność i stworzyć coś pięknego własnymi rękami.\n\n🕯️✨ 📅 24 września 2026 r.\n\n 🕕 godz. 18:00 📍 Fundacja Bona Fide – W Dobrej Wierze, ul. Szklanych Domów 13, Warszawa\n\n🎟️ Wstęp wolny! 👩‍🏫 Zajęcia poprowadzi Magdalena Wiśniewska.\n\n📞 Zapisy: 509 772 194 📧 bonafidewawa@gmail.com\n\n💛 Serdecznie zapraszamy – spędźmy ten czas razem i stwórzmy coś pachnącego miodem! 🐝🕯️",
+      "image": null,
+      "location": {
+        "name": "Fundacja Bona Fide - w Dobrej Wierze, ul. Szklanych Domów 13",
+        "district": "Praga-Południe"
+      },
+      "url": "https://www.facebook.com/p/Fundacja-Bona-Fide-W-Dobrej-Wierze-100083088950987/?locale=pl_PL",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/p/Fundacja-Bona-Fide-W-Dobrej-Wierze-100083088950987/?locale=pl_PL",
+      "scrapped_timestamp": "2026-09-22T11:22:50.965612+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Warsztaty robienia świec węzy pszczelej",
+          "description": "WARSZTATY RODZINNE – ROBIMY ŚWIECE Z WĘZY PSZCZELEJ! 🐝🍯\n\nZapraszamy dzieci, dorosłych i seniorów na wyjątkowe, twórcze spotkanie pełne zapachu naturalnego wosku i dobrej energii!\n\n💛 Podczas warsztatów własnoręcznie wykonamy naturalne świece z węzy pszczelej. To doskonała okazja, aby spędzić czas razem, rozwijać kreatywność i stworzyć coś pięknego własnymi rękami.\n\n🕯️✨ 📅 24 września 2026 r.\n\n 🕕 godz. 18:00 📍 Fundacja Bona Fide – W Dobrej Wierze, ul. Szklanych Domów 13, Warszawa\n\n🎟️ Wstęp wolny! 👩‍🏫 Zajęcia poprowadzi Magdalena Wiśniewska.\n\n📞 Zapisy: 509 772 194 📧 bonafidewawa@gmail.com\n\n💛 Serdecznie zapraszamy – spędźmy ten czas razem i stwórzmy coś pachnącego miodem! 🐝🕯️"
+        },
+        "en": {
+          "title": "Beeswax Candle Making Workshop",
+          "description": "FAMILY WORKSHOPS – WE MAKE CANDLES FROM BEESWAX! 🐝🍯\n\nWe invite children, adults, and seniors to a unique, creative meeting full of the scent of natural wax and good energy!\n\n💛 During the workshop, we will handcraft natural candles from beeswax. This is a great opportunity to spend time together, develop creativity, and create something beautiful with our own hands.\n\n🕯️✨ 📅 September 24, 2026\n\n 🕕 6:00 PM 📍 Bona Fide Foundation – In Good Faith, Szklanych Domów 13, Warsaw\n\n🎟️ Free admission! 👩‍🏫 The class will be led by Magdalena Wiśniewska.\n\n📞 Registration: 509 772 194 📧 bonafidewawa@gmail.com\n\n💛 We warmly invite you – let’s spend this time together and create something fragrant with honey! 🐝🕯️"
+        },
+        "uk": {
+          "title": "Майстер-класи з виготовлення свічок з бджолиного воску",
+          "description": "СІМЕЙНІ МАЙСТЕР-КЛАСИ – РОБИМО СВІЧКИ З БДЖОЛИНОГО ВОСКУ! 🐝🍯\n\nЗапрошуємо дітей, дорослих і пенсіонерів на унікальну, творчу зустріч, наповнену ароматом натурального воску та доброю енергією!\n\n💛 Під час майстер-класів власноруч виготовимо натуральні свічки з бджолиного воску. Це чудова можливість провести час разом, розвивати креативність і створити щось красиве власними руками.\n\n🕯️✨ 📅 24 вересня 2026 р.\n\n 🕕 год. 18:00 📍 Фундація Bona Fide – У Добрих Намірах, вул. Скляних Будинків 13, Варшава\n\n🎟️ Вхід вільний! 👩‍🏫 Заняття проведе Магдалена Вішневська.\n\n📞 Запис: 509 772 194 📧 bonafidewawa@gmail.com\n\n💛 Щиро запрошуємо – проведемо цей час разом і створимо щось, що пахне медом! 🐝🕯️"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Południe",
+      "updated_at": "2026-09-22T11:23:51.502940+00:00"
+    },
+    "d-wi-kolandia-bezp-atne-zaj-cia-pokazowe-dla-dzieci-od-6-miesi-cy-do-2-lat-2026-09-26T11:15:00+02:00": {
+      "title": "Dźwiękolandia - bezpłatne zajęcia pokazowe dla dzieci od 6 miesięcy do 2 lat",
+      "date": "2026-09-26T11:15:00+02:00",
+      "end_date": "2026-09-26T11:15:00+02:00",
+      "startTimeKnown": true,
+      "description": "Ruszają zapisy na nowy semestr Dźwiękolandii! Zapraszamy Was na pierwsze bezpłatne zajęcia pokazowe - będzie muzycznie, twórczo i przede wszystkim… bardzo wesoło!\n\nNie jesteśmy klubem malucha ani salą zabaw.\n\nJesteśmy profesjonalną szkołą muzyczną, w której dzieci od najmłodszych lat rozwijają muzyczną wrażliwość, kreatywność i zainteresowania.\n\nTu muzyka zaczyna się od zabawy.\n\nZapraszamy niemowlęta od 6. miesiąca życia oraz maluchy do ok. 2–2,5 roku, razem z rodzicami lub opiekunami, na umuzykalniające zajęcia prowadzone metodą gordonowską.\n\nŚpiewamy, rytmizujemy, tańczymy, bawimy się dźwiękiem i odkrywamy muzykę wszystkimi zmysłami. Piórka, baloniki, chusteczki, bum-bum rurki, cymbałki, dzwonki czy djembe pozwalają dzieciom swobodnie eksperymentować i rozwijać muzyczną wrażliwość.\n\n👶 Grupa 6 m–2/2,5 roku: soboty, godz. 11:15\n\n⏱️ Czas trwania: 40 minut\n\n📍 Miejsce: Music School, ul. Bracka 22 lok. 23, Warszawa\n\nIII piętro bez windy, możliwość pozostawienia wózka na klatce schodowej na parterze\n\nCennik zajęć regularnych:\n\n• pakiet 4 zajęć - 270 zł\n\n• pakiet dla rodzeństwa - 210 zł\n\n• pojedyncze wejście - 100 zł\n\n💛 Zapraszamy także kobiety w ciąży! Muzyczna przygoda może rozpocząć się jeszcze przed narodzinami.\n\n• pojedyncze wejście - 20 zł\n\n📩 Obowiązują zapisy: warszawa@szkola-muzyki.pl\n\n📞 796 018 825\n\nZajęcia prowadzi Agata Przygócka- Szyszkowska - wokalistka, aktorka musicalowa i certyfikowana instruktorka zajęć gordonowskich, specjalizująca się w umuzykalnianiu najmłodszych.\n\nPrzyjdźcie, pobawmy się muzyką!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1790064169.webp",
+      "location": {
+        "name": "Music School Warszawa, Bracka 22/23",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/events/2941634842838110/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/2941634842838110/",
+      "scrapped_timestamp": "2026-09-22T11:22:58.272017+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dźwiękolandia - bezpłatne zajęcia pokazowe dla dzieci od 6 miesięcy do 2 lat",
+          "description": "Ruszają zapisy na nowy semestr Dźwiękolandii! Zapraszamy Was na pierwsze bezpłatne zajęcia pokazowe - będzie muzycznie, twórczo i przede wszystkim… bardzo wesoło!\n\nNie jesteśmy klubem malucha ani salą zabaw.\n\nJesteśmy profesjonalną szkołą muzyczną, w której dzieci od najmłodszych lat rozwijają muzyczną wrażliwość, kreatywność i zainteresowania.\n\nTu muzyka zaczyna się od zabawy.\n\nZapraszamy niemowlęta od 6. miesiąca życia oraz maluchy do ok. 2–2,5 roku, razem z rodzicami lub opiekunami, na umuzykalniające zajęcia prowadzone metodą gordonowską.\n\nŚpiewamy, rytmizujemy, tańczymy, bawimy się dźwiękiem i odkrywamy muzykę wszystkimi zmysłami. Piórka, baloniki, chusteczki, bum-bum rurki, cymbałki, dzwonki czy djembe pozwalają dzieciom swobodnie eksperymentować i rozwijać muzyczną wrażliwość.\n\n👶 Grupa 6 m–2/2,5 roku: soboty, godz. 11:15\n\n⏱️ Czas trwania: 40 minut\n\n📍 Miejsce: Music School, ul. Bracka 22 lok. 23, Warszawa\n\nIII piętro bez windy, możliwość pozostawienia wózka na klatce schodowej na parterze\n\nCennik zajęć regularnych:\n\n• pakiet 4 zajęć - 270 zł\n\n• pakiet dla rodzeństwa - 210 zł\n\n• pojedyncze wejście - 100 zł\n\n💛 Zapraszamy także kobiety w ciąży! Muzyczna przygoda może rozpocząć się jeszcze przed narodzinami.\n\n• pojedyncze wejście - 20 zł\n\n📩 Obowiązują zapisy: warszawa@szkola-muzyki.pl\n\n📞 796 018 825\n\nZajęcia prowadzi Agata Przygócka- Szyszkowska - wokalistka, aktorka musicalowa i certyfikowana instruktorka zajęć gordonowskich, specjalizująca się w umuzykalnianiu najmłodszych.\n\nPrzyjdźcie, pobawmy się muzyką!"
+        },
+        "en": {
+          "title": "Soundland - free demonstration classes for children from 6 months to 2 years",
+          "description": "Registrations for the new semester of Soundland are starting! We invite you to the first free demonstration classes - it will be musical, creative, and above all... very joyful!\n\nWe are not a toddler club or a playroom.\n\nWe are a professional music school where children from the youngest age develop musical sensitivity, creativity, and interests.\n\nHere, music starts with play.\n\nWe invite infants from 6 months old and toddlers up to about 2–2.5 years, together with parents or guardians, to music-enriching classes conducted using the Gordon method.\n\nWe sing, rhythmize, dance, play with sound, and discover music with all our senses. Feathers, balloons, handkerchiefs, boom-boom tubes, xylophones, bells, or djembe allow children to freely experiment and develop musical sensitivity.\n\n👶 Gr"
+        },
+        "uk": {
+          "title": "Дзвіколандія - безкоштовні показові заняття для дітей від 6 місяців до 2 років",
+          "description": "Розпочинаються записи на новий семестр Дзвіколандії! Запрошуємо вас на перші безкоштовні показові заняття - буде музично, творчо і, перш за все… дуже весело!\n\nНе є клубом малюка або ігровою кімнатою.\n\nМи професійна музична школа, в якій діти з наймолодшого віку розвивають музичну чутливість, креативність і інтереси.\n\nТут музика починається з гри.\n\nЗапрошуємо немовлят від 6-го місяця життя та малюків до приблизно 2–2,5 років, разом з батьками або опікунами, на умузикалюючі заняття, проведені методом гордоновської.\n\nСпіваємо, ритмуємо, танцюємо, граємося зі звуком і відкриваємо музику всіма органами чуття. Пір'ячка, кульки, серветки, бум-бум трубки, цимбали, дзвіночки чи джембе дозволяють дітям вільно експериментувати і розвивати музичну чутливість.\n\n👶 Г"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-22T11:23:51.502966+00:00"
+    },
+    "bezp-atne-zaj-cia-taneczne-dla-dzieci-4-8-lat-z-niepe-nosprawno-ciami-2026-09-28T17:00:00+02:00": {
+      "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
+      "date": "2026-09-28T17:00:00+02:00",
+      "end_date": "2026-09-28T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
+      "location": {
+        "name": "Powstańców Śląskich 126",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "scrapped_timestamp": "2026-09-22T11:23:05.661827+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 4,
+        "max": 8
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
+          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
+        },
+        "en": {
+          "title": "Free Dance Classes for Children Aged 4-8 with Disabilities",
+          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District.\n\nHARMONOGRAM:\n\nMondays 17:00 - dance classes for children aged 4-8\n\nMondays 18:00 - dance classes for parents with children aged 3-8\n\nThursdays 12:00 - latino solo\n\nThursdays 13:00 - corrective gymnastics\n\nLocation: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor)\n\nRegistration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
+        },
+        "uk": {
+          "title": "Безкоштовні танцювальні заняття для дітей 4-8 років з інвалідністю",
+          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово.\n\nHARMONOGRAM:\n\nПонеділки 17:00 - танцювальні заняття для дітей 4-8 років\n\nПонеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років\n\nЧетверги 12:00 - латино соло\n\nЧетверги 13:00 - гімнастика, що покращує\n\nЛокація: MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх)\n\nЗапис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-22T11:23:51.502990+00:00"
+    },
+    "bezp-atne-zaj-cia-taneczne-dla-rodzic-w-z-dzie-mi-3-8-lat-z-niepe-nosprawno-ciami-2026-09-28T18:00:00+02:00": {
+      "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
+      "date": "2026-09-28T18:00:00+02:00",
+      "end_date": "2026-09-28T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
+      "location": {
+        "name": "Powstańców Śląskich 126",
+        "district": "Bemowo"
+      },
+      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
+      "scrapped_timestamp": "2026-09-22T11:23:11.593938+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 4,
+        "max": 8
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
+          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
+        },
+        "en": {
+          "title": "Free Dance Classes for Parents with Children Aged 3-8 with Disabilities",
+          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District.\n\nHARMONOGRAM:\n\nMondays 17:00 - dance classes for children aged 4-8\n\nMondays 18:00 - dance classes for parents with children aged 3-8\n\nThursdays 12:00 - latino solo\n\nThursdays 13:00 - corrective gymnastics\n\nLocation: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor)\n\nRegistration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
+        },
+        "uk": {
+          "title": "Безкоштовні танцювальні заняття для батьків з дітьми 3-8 років з інвалідністю",
+          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово.\n\nHARMONOGRAM:\n\nПонеділки 17:00 - танцювальні заняття для дітей 4-8 років\n\nПонеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років\n\nЧетверги 12:00 - латино соло\n\nЧетверги 13:00 - гімнастика, що покращує\n\nЛокація: MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх)\n\nЗапис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-22T11:23:51.503015+00:00"
+    },
+    "kabak-tog-czyli-dzie-dyni-2026-10-03T11:00:00+02:00": {
+      "title": "KABAK TOG – קאַבאַק טאָג, czyli DZIEŃ DYNI",
+      "date": "2026-10-03T11:00:00+02:00",
+      "end_date": "2026-10-03T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Czy wiecie, że w jidysz istnieje aż 9 określeń na dynię? Jeśli chcecie je poznać, zapraszamy do CKJ już 3 października! To będzie dzień pełen dyniowych potraw, literatury jidysz, rodzinnego majsterkowania i odrobiny magii! W programie między innymi warsztaty kulinarne, dyniowe opowieści i metafory oraz inne atrakcje.\n\nPROGRAM\n\n11:00-13:00\n\nRodzinne majsterkowanie kulinarne w Klubie Kinderwelt – szałas z krakersów i karmnik z dyni\n\nProwadzenie: Zofia Mioduszewska-Wajszczak\n\nWstęp bezpłatny\n\nFormularz zgłoszeniowy: link\n\n12:00-14:00\n\nDyniowy kiszef-macheraj, czyli Harry Potter w jidysz\n\nProwadzenie: Martyna Gabor\n\nCo by było, gdyby zaklęcia z Harry’ego Pottera zostałyby przetłumaczone na jidysz? Jak wybrzmiewa magia w tym języku i co sprawia, że słowo nagle brzmi… magicznie? Nie trzeba być uczniem Hogwartu, tłumaczem ani znawcą jidysz, aby pochylić się nad tą zagwozdką – wystarczy chęć zabawy językiem i szczypta wyobraźni. Zapraszamy na warsztat, podczas którego przyjrzymy się pracy tłumacza – czy należy tłumaczyć dosłownie, czy może dostosować treść do odbiorcy; jak słowa (a nawet znaczenie!) mogą się zmieniać pod wpływem języka? W trakcie dywagacji nad tłumaczeniem nazw pasztecików dyniowych czy fasolek wszystkich smaków Bertiego Botta na jidysz, sami zajmiemy się tworzeniem własnej magii. Nad wszystkim czuwać będzie Komisja ds. Zaklęć prosto z Ministerstwa Magii!\n\nWarsztat językowy jest skierowany do nastolatków i dorosłych na każdym poziomie zaawansowania (również dla tych, którzy nie znają jidysz).\n\nFormularz zgłoszeniowy: link\n\n12:00-13:00\n\nKabak-kafe – dyniowa kawiarenka\n\nKlasyczna lub zbożowa pumpkin spice latte? Wpadnij na kawę, zostań na warsztatach\n\n12:30-13:30\n\nDinje-plakat – Stanowisko sitodruku\n\nZabierz do domu pomarańczowy plakat z ilustracją Georga Fiszera do książeczki “Bobe Szlak un ir kabak” („Babcia Szlak i jej dynia), wydanej w Charkowie w 1928 roku. Seria limitowana!\n\nWstęp wolny\n\n13:00-15:00\n\nA niech to szlag z tą dynią! Jidysz na grządce\n\nProwadzenie: Aleksandra Gluba\n\nWedług Lejba Kwitko, niejednej babci dynia zaszła za skórę. Skąd te problemy? Wszak ten kształtny, występujący w wielu kolorach i smakach owoc, jest znanym i lubianym symbolem jesieni. Zapraszam na jesienne warsztaty języka jidysz, podczas których zanurzymy się w dyniowych metaforach, bajkach, opowieściach i recepturach. Zajt azoj gut un kumt!\n\nWarsztat jest skierowany do dorosłych na każdym poziomie zaawansowania (również dla tych, którzy nie znają jidysz!).\n\nFormularz zgłoszeniowy: link\n\nDofinansowano ze środków dotacji Ministra Spraw Wewnętrznych i Administracji\n\nPartner wydarzenia: Fundacja Kuchen",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1790064644.webp",
+      "location": {
+        "name": "Andersa 15, Centrum Kultury Jidysz",
+        "district": "Śródmieście"
+      },
+      "url": "https://jidyszland.pl/events/event/kabak-tog-קאַבאַק-טאָג-dzien-dyni/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://jidyszland.pl/events/event/kabak-tog-קאַבאַק-טאָג-dzien-dyni/",
+      "scrapped_timestamp": "2026-09-22T11:23:18.620802+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Workshops",
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "KABAK TOG – קאַבאַק טאָג, czyli DZIEŃ DYNI",
+          "description": "Czy wiecie, że w jidysz istnieje aż 9 określeń na dynię? Jeśli chcecie je poznać, zapraszamy do CKJ już 3 października! To będzie dzień pełen dyniowych potraw, literatury jidysz, rodzinnego majsterkowania i odrobiny magii! W programie między innymi warsztaty kulinarne, dyniowe opowieści i metafory oraz inne atrakcje.\n\nPROGRAM\n\n11:00-13:00\n\nRodzinne majsterkowanie kulinarne w Klubie Kinderwelt – szałas z krakersów i karmnik z dyni\n\nProwadzenie: Zofia Mioduszewska-Wajszczak\n\nWstęp bezpłatny\n\nFormularz zgłoszeniowy: link\n\n12:00-14:00\n\nDyniowy kiszef-macheraj, czyli Harry Potter w jidysz\n\nProwadzenie: Martyna Gabor\n\nCo by było, gdyby zaklęcia z Harry’ego Pottera zostałyby przetłumaczone na jidysz? Jak wybrzmiewa magia w tym języku i co sprawia, że słowo nagle brzmi… magicznie? Nie trzeba być uczniem Hogwartu, tłumaczem ani znawcą jidysz, aby pochylić się nad tą zagwozdką – wystarczy chęć zabawy językiem i szczypta wyobraźni. Zapraszamy na warsztat, podczas którego przyjrzymy się pracy tłumacza – czy należy tłumaczyć dosłownie, czy może dostosować treść do odbiorcy; jak słowa (a nawet znaczenie!) mogą się zmieniać pod wpływem języka? W trakcie dywagacji nad tłumaczeniem nazw pasztecików dyniowych czy fasolek wszystkich smaków Bertiego Botta na jidysz, sami zajmiemy się tworzeniem własnej magii. Nad wszystkim czuwać będzie Komisja ds. Zaklęć prosto z Ministerstwa Magii!\n\nWarsztat językowy jest skierowany do nastolatków i dorosłych na każdym poziomie zaawansowania (również dla tych, którzy nie znają jidysz).\n\nFormularz zgłoszeniowy: link\n\n12:00-13:00\n\nKabak-kafe – dyniowa kawiarenka\n\nKlasyczna lub zbożowa pumpkin spice latte? Wpadnij na kawę, zostań na warsztatach\n\n12:30-13:30\n\nDinje-plakat – Stanowisko sitodruku\n\nZabierz do domu pomarańczowy plakat z ilustracją Georga Fiszera do książeczki “Bobe Szlak un ir kabak” („Babcia Szlak i jej dynia), wydanej w Charkowie w 1928 roku. Seria limitowana!\n\nWstęp wolny\n\n13:00-15:00\n\nA niech to szlag z tą dynią! Jidysz na grządce\n\nProwadzenie: Aleksandra Gluba\n\nWedług Lejba Kwitko, niejednej babci dynia zaszła za skórę. Skąd te problemy? Wszak ten kształtny, występujący w wielu kolorach i smakach owoc, jest znanym i lubianym symbolem jesieni. Zapraszam na jesienne warsztaty języka jidysz, podczas których zanurzymy się w dyniowych metaforach, bajkach, opowieściach i recepturach. Zajt azoj gut un kumt!\n\nWarsztat jest skierowany do dorosłych na każdym poziomie zaawansowania (również dla tych, którzy nie znają jidysz!).\n\nFormularz zgłoszeniowy: link\n\nDofinansowano ze środków dotacji Ministra Spraw Wewnętrznych i Administracji\n\nPartner wydarzenia: Fundacja Kuchen"
+        },
+        "en": {
+          "title": "KABAK TOG – קאַבאַק טאָג, czyli DZIEŃ DYNI",
+          "description": "Do you know that there are as many as 9 terms for pumpkin in Yiddish? If you want to learn them, we invite you to CKJ on October 3rd! It will be a day full of pumpkin dishes, Yiddish literature, family crafting, and a bit of magic! The program includes culinary workshops, pumpkin stories and metaphors, and other attractions.\n\nPROGRAM\n\n11:00-13:00\n\nFamily culinary crafting in Kinderwelt Club – a hut made of crackers and a feeder made of pumpkin\n\nLed by: Zofia Mioduszewska-Wajszczak\n\nFree admission\n\nRegistration form: link\n\n12:00-14:00\n\nPumpkin kiszef-macheraj, or Harry Potter in Yiddish\n\nLed by: Martyna Gabor\n\nWhat if the spells from Harry Potter were translated into Yiddish? How does magic resonate in this language and what makes a word suddenly sound… magical? You don’t have to be a"
+        },
+        "uk": {
+          "title": "KABAK TOG – קאַבאַק טאָג, тобто ДЕНЬ ГАРБУЗА",
+          "description": "Чи знаєте ви, що в їдиші існує аж 9 визначень для гарбуза? Якщо хочете їх дізнатися, запрошуємо до CKJ вже 3 жовтня! Це буде день, наповнений гарбузовими стравами, літературою їдиш, сімейним майструванням і трохи магії! У програмі, зокрема, кулінарні майстер-класи, гарбузові оповідання та метафори, а також інші розваги.\n\nПРОГРАМА\n\n11:00-13:00\n\nСімейне кулінарне майстрування в Клубі Kinderwelt – шалаш з крекерів і годівниця з гарбуза\n\nВедуча: Зофія Міодушевська-Вайщак\n\nВхід безкоштовний\n\nФорма для реєстрації: посилання\n\n12:00-14:00\n\nГарбузовий кішеф-махерай, тобто Гаррі Поттер в їдиші\n\nВедуча: Мартіна Габор\n\nЩо б сталося, якби закляття з Гаррі Поттера були перекладені на їдиш? Як звучить магія цією мовою і що робить слово раптом звучить… магічно? Не потрібно бути у"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-22T11:23:51.503035+00:00"
+    },
+    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-09-22T10:00:00+02:00": {
+      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
+      "date": "2026-09-22T10:00:00+02:00",
+      "end_date": "2026-09-22T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
+      "source": "gojammin.com",
+      "district": "Śródmieście",
+      "location": {
+        "name": "Agrykola 1, 00-460 Warszawa, Poland",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
+      "scrapped_timestamp": "2026-09-22T11:23:25.971292+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
+          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
+        },
+        "en": {
+          "title": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"",
+          "description": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"\n\nWe invite you to guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world-renowned works, including paintings by masters such as Maurice Denis, Paul Ranson, and Paul Sérusier. The curators of the exhibition and museum educators will tell us about them.\n\nThe exhibition \"Nabis. Prophets of New Art\" showcases, among other things, the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called School of Pont-Aven. It also includes works of a religious and esoteric nature, views of interiors, and genre scenes, as well as the activities of the magazine \"La Revue Blanche\" run by the Natanson brothers - Tadeusz and Aleksander. In total, we will see over 90 works in the fields of painting, drawing, and graphics. The works come from Polish and foreign collections."
+        },
+        "uk": {
+          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
+          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\" Запрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Зможемо побачити світові твори, а це, зокрема, картини таких майстрів, як Моріс Дені, Поль Рансон і Поль Серюзьє. Розкажуть про них куратори експозиції та музейні освітяни. Виставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Пола Гогена і так званої Школи Пон-Авен. Охоплює також твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, що проводилася братами Натансон - Тадеушем і Олександром - журналу \"La Revue Blanche\". Всього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
+      },
+      "updated_at": "2026-09-22T11:23:51.503071+00:00"
     }
   }
 }

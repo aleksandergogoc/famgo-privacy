@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T19:40:02.039068+00:00",
+  "updated_at": "2026-09-23T11:29:52.051278+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1718,6 +1718,51 @@
       "lat": 54.3507255,
       "lng": 18.6445606,
       "updated_at": "2026-09-21T19:33:47.289222+00:00"
+    },
+    "północna 5": {
+      "name": "5, Północna, Brzeźno, Gdańsk, województwo pomorskie, 80-512, Polska",
+      "district": "Dolny Taras",
+      "address": "5, Północna, Brzeźno, Gdańsk, województwo pomorskie, 80-512, Polska",
+      "normalized": "północna 5",
+      "lat": 54.4098169,
+      "lng": 18.6316896,
+      "updated_at": "2026-09-23T11:24:36.803215+00:00"
+    },
+    "dolna brama 8": {
+      "name": "8, Dolna Brama, Kłodno, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-821, Polska",
+      "district": "Śródmieście",
+      "address": "8, Dolna Brama, Kłodno, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-821, Polska",
+      "normalized": "dolna brama 8",
+      "lat": 54.3406067,
+      "lng": 18.6476625,
+      "updated_at": "2026-09-23T11:25:05.992659+00:00"
+    },
+    "obrońców wybrzeża 1 (przymorze": {
+      "name": "KFC, 1, Obrońców Wybrzeża, Przymorze Wielkie, Gdańsk, województwo pomorskie, 80-398, Polska",
+      "district": "Oliwa",
+      "address": "KFC, 1, Obrońców Wybrzeża, Przymorze Wielkie, Gdańsk, województwo pomorskie, 80-398, Polska",
+      "normalized": "obrońców wybrzeża 1 (przymorze",
+      "lat": 54.4094644,
+      "lng": 18.5912947,
+      "updated_at": "2026-09-23T11:25:07.292882+00:00"
+    },
+    "centrum dolna brama": {
+      "name": "Centrum Dolna Brama",
+      "district": "Śródmieście",
+      "address": "Centrum Dolna Brama",
+      "normalized": "centrum dolna brama",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-23T11:27:25.042422+00:00"
+    },
+    "przymorze": {
+      "name": "Galeria Przymorze",
+      "district": "Oliwa",
+      "address": "Galeria Przymorze",
+      "normalized": "przymorze",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-23T11:27:25.042578+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:33:53.557667+00:00",
+  "updated_at": "2026-09-23T11:29:54.643217+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4369,6 +4369,24 @@
       "lat": 50.064,
       "lng": 19.923,
       "updated_at": "2026-09-22T11:21:16.059918+00:00"
+    },
+    "lasek wolski": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "lasek wolski",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-09-23T10:57:38.490492+00:00"
+    },
+    "﻿ piwnica pod baranami ośrodek dokumentacji i inicjatyw artystycznych piwnica pod baranami ul. św. tomasza 26": {
+      "name": "﻿ Piwnica pod Baranami Ośrodek Dokumentacji i Inicjatyw Artystycznych Piwnica pod Baranami ul. Św. Tomasza 26",
+      "district": "Stare Miasto",
+      "address": "﻿ Piwnica pod Baranami Ośrodek Dokumentacji i Inicjatyw Artystycznych Piwnica pod Baranami ul. Św. Tomasza 26",
+      "normalized": "﻿ piwnica pod baranami ośrodek dokumentacji i inicjatyw artystycznych piwnica pod baranami ul. św. tomasza 26",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-23T11:15:52.367495+00:00"
     }
   }
 }

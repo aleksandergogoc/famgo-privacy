@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:25:21.385244+00:00",
+  "updated_at": "2026-09-23T11:19:56.408543+00:00",
   "events": {
     "12-mi-dzynarodowe-zawody-w-je-dzie-bez-og-owia-euro-equus-2026-2026-09-25T00:00:00": {
       "scrapped_timestamp": "2026-06-26T16:36:24.805343+00:00",
@@ -4774,6 +4774,238 @@
       },
       "district": "Fabryczna",
       "updated_at": "2026-09-22T11:25:21.187497+00:00"
+    },
+    "magiczna-sobota-2026-10-03T11:00:00+02:00": {
+      "title": "Magiczna sobota",
+      "date": "2026-10-03T11:00:00+02:00",
+      "end_date": "2026-10-03T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Chcecie przeżyć magiczną sobotę z zaklęciami i eliksirami? Pani Roksana ze Szlaku Zmysłów zaprasza na czarodziejskie tory przeszkód z tajemniczymi zagadkami. Można się przebrać za czarodziejki i czarodziejów, wróżki, skrzaty, magiczne stwory, ale pamiętajcie, że na zajęciach z panią Roksaną zawsze jest ruch i można się trochę pobrudzić.\n\nWydarzenie dla dzieci w wieku od 3 do 6  lat.\nLiczba miejsc ograniczona.\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://assets.kupbilecik.pl/img/baza/21000/20383.webp?1788766990",
+      "url": "https://www.kupbilecik.pl/pl/event/220787/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 19",
+        "address": "ul. Sołtysowicka 29h",
+        "lat": 51.1441336864931,
+        "lng": 17.0744331640277,
+        "district": "Fabryczna"
+      },
+      "featured": true,
+      "age_range": {
+        "min": 3,
+        "max": 6
+      },
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/220787/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-09-23T11:19:15.169050+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Sensory Play"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Magiczna sobota",
+          "description": "Chcecie przeżyć magiczną sobotę z zaklęciami i eliksirami? Pani Roksana ze Szlaku Zmysłów zaprasza na czarodziejskie tory przeszkód z tajemniczymi zagadkami. Można się przebrać za czarodziejki i czarodziejów, wróżki, skrzaty, magiczne stwory, ale pamiętajcie, że na zajęciach z panią Roksaną zawsze jest ruch i można się trochę pobrudzić.\n\nWydarzenie dla dzieci w wieku od 3 do 6  lat.\nLiczba miejsc ograniczona.\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Magical Saturday",
+          "description": "Do you want to experience a magical Saturday with spells and potions? Ms. Roksana from the Trail of Senses invites you to magical obstacle courses with mysterious puzzles. You can dress up as witches and wizards, fairies, gnomes, magical creatures, but remember that in Ms. Roksana's classes there is always movement and you might get a little dirty.\n\nEvent for children aged 3 to 6 years.\nLimited number of places.\n**One ticket is valid for a pair: child and guardian.**\n\nDiscounted tickets for holders of the MBP Wrocław library card.\n\nVenue accessible for people with mobility disabilities.\n\nParent Club is a series of literary, educational, and artistic meetings for children and their guardians held at selected branches of the Tadeusz Różewicz Municipal Public Library in Wrocław."
+        },
+        "uk": {
+          "title": "Магічна субота",
+          "description": "Хочете пережити магічну суботу з заклинаннями та еліксирами? Пані Роксана зі Шляху Відчуттів запрошує на чарівні перешкоди з таємничими загадками. Можна перевдягнутися в чарівниць і чарівників, фей, гномів, магічних істот, але пам'ятайте, що на заняттях з пані Роксаною завжди є рух і можна трохи забруднитися.\n\nПодія для дітей віком від 3 до 6 років.\nКількість місць обмежена.\n**Діє один квиток для пари: дитина та опікун.**\n\nПільгові квитки для осіб з бібліотечною карткою MBP Вроцлав.\n\nМісце дружнє до осіб з обмеженими можливостями.\n\nКлуб Батьків — це циклічні літературні, освітні та мистецькі зустрічі для дітей та їх опікунів, що проходять у вибраних філіях Міської Публічної Бібліотеки ім. Тадеуша Рожевича у Вроцлаві."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/220787/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-09-23T11:19:56.230706+00:00"
+    },
+    "b-d-my-sob-warsztaty-plastyczno-literackie-2026-10-03T11:00:00+02:00": {
+      "title": "Bądźmy sobą! Warsztaty plastyczno-literackie",
+      "date": "2026-10-03T11:00:00+02:00",
+      "end_date": "2026-10-03T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Koło jest inne. Ma nietypowy kolor, fakturę i nawet jego kształt nie jest idealny - wszystko z powodu wypustek, które trochę przypominają zębatki, a trochę różnej długości kolce. Wędruje po świecie w poszukiwaniu swojego miejsca. Wciąż ma wrażenie, że nigdzie nie pasuje...\n\nKogo spotka, jakich rad wysłucha i czy znajdzie dla siebie przestrzeń? A może będzie musiało się zmienić, by wreszcie gdzieś się wpasować? Tego dowiedzą się uczestniczy podczas zajęć. W trakcie warsztatów czekają na nich zadania integracyjne. Porozmawiają o autentyczności, inności i o tym, co naprawdę oznacza bycie sobą. Na koniec stworzą niezwykłe kolaże.\n\nWydarzenie dla dzieci w wieku  5-8 lat.\n\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://assets.kupbilecik.pl/img/baza/21000/20383.webp?1788766990",
+      "url": "https://www.kupbilecik.pl/pl/event/220810/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 23",
+        "address": "Bulwar Ikara 29-31",
+        "lat": 51.1264060285139,
+        "lng": 16.9695325086524,
+        "district": "Fabryczna"
+      },
+      "featured": true,
+      "age_range": {
+        "min": 5,
+        "max": 8
+      },
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/220810/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-09-23T11:19:20.655261+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bądźmy sobą! Warsztaty plastyczno-literackie",
+          "description": "Koło jest inne. Ma nietypowy kolor, fakturę i nawet jego kształt nie jest idealny - wszystko z powodu wypustek, które trochę przypominają zębatki, a trochę różnej długości kolce. Wędruje po świecie w poszukiwaniu swojego miejsca. Wciąż ma wrażenie, że nigdzie nie pasuje...\n\nKogo spotka, jakich rad wysłucha i czy znajdzie dla siebie przestrzeń? A może będzie musiało się zmienić, by wreszcie gdzieś się wpasować? Tego dowiedzą się uczestniczy podczas zajęć. W trakcie warsztatów czekają na nich zadania integracyjne. Porozmawiają o autentyczności, inności i o tym, co naprawdę oznacza bycie sobą. Na koniec stworzą niezwykłe kolaże.\n\nWydarzenie dla dzieci w wieku  5-8 lat.\n\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Let's Be Ourselves! Art and Literature Workshops",
+          "description": "The circle is different. It has an unusual color, texture, and even its shape is not perfect - all because of the protrusions that somewhat resemble gears and somewhat spikes of various lengths. It wanders the world in search of its place. It still has the impression that it doesn't fit anywhere...\n\nWho will it meet, what advice will it listen to, and will it find a space for itself? Or maybe it will have to change to finally fit in somewhere? Participants will find out during the classes. During the workshops, they will face integration tasks. They will talk about authenticity, otherness, and what it really means to be oneself. In the end, they will create extraordinary collages.\n\nAn event for children aged 5-8 years.\n\n**One ticket is valid for a pair: child and guardian.**\n\nDiscounted tickets for holders of the MBP Wrocław library card.\n\nLocation p"
+        },
+        "uk": {
+          "title": "Будьмо собою! Пластично-літературні майстерні",
+          "description": "Коло інше. Має нетиповий колір, фактуру і навіть його форма не ідеальна - все через випустки, які трохи нагадують зубчасті колеса, а трохи різної довжини шипи. Мандрує світом у пошуках свого місця. Все ще має враження, що нікуди не підходить...\n\nКого зустріне, яких порад вислухає і чи знайде для себе простір? А може, йому доведеться змінитися, щоб нарешті десь втиснутися? Цього дізнаються учасники під час занять. У процесі майстерень на них чекають інтеграційні завдання. Поговорять про автентичність, інакшість і про те, що насправді означає бути собою. На кінець створять незвичайні колажі.\n\nПодія для дітей віком 5-8 років.\n\n**Діє один квиток для пари: дитина і опікун.**\n\nЗнижкові квитки для осіб з бібліотечною карткою MBP Вроцлав.\n\nМісце п"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/220810/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-09-23T11:19:56.230731+00:00"
+    },
+    "le-ne-przytulanki-z-filcu-2026-10-08T17:30:00+02:00": {
+      "title": "Leśne przytulanki z filcu",
+      "date": "2026-10-08T17:30:00+02:00",
+      "end_date": "2026-10-08T17:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Wydarzenie dla dzieci w wieku 4-7 lat.\n\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nPodczas warsztatów dzieci, wykorzystując filc i bezpieczne plastikowe igły, własnoręcznie stworzą urocze leśne zwierzątka. Będzie trochę szycia, dużo kolorów i mnóstwo dobrej zabawy!\n\nTo zajęcia, które rozwijają kreatywność, wyobraźnię oraz sprawność małych rączek, a na koniec każde dziecko zabierze do domu własnoręcznie wykonane filcowe zwierzątko.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://assets.kupbilecik.pl/img/baza/21000/20383.webp?1788766990",
+      "url": "https://www.kupbilecik.pl/pl/event/220749/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 16",
+        "address": "ul. Kolista 17",
+        "lat": 51.1351721592263,
+        "lng": 16.9713562651432,
+        "district": "Fabryczna"
+      },
+      "featured": true,
+      "age_range": {
+        "min": 4,
+        "max": 7
+      },
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/220749/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-09-23T11:19:28.170762+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Leśne przytulanki z filcu",
+          "description": "Wydarzenie dla dzieci w wieku 4-7 lat.\n\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nPodczas warsztatów dzieci, wykorzystując filc i bezpieczne plastikowe igły, własnoręcznie stworzą urocze leśne zwierzątka. Będzie trochę szycia, dużo kolorów i mnóstwo dobrej zabawy!\n\nTo zajęcia, które rozwijają kreatywność, wyobraźnię oraz sprawność małych rączek, a na koniec każde dziecko zabierze do domu własnoręcznie wykonane filcowe zwierzątko.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Felt Forest Cuddles",
+          "description": "An event for children aged 4-7 years.\n\nOne ticket is valid for a pair: child and guardian.\n\nDiscounted tickets for holders of the MBP Wrocław library card.\n\nA place friendly to people with mobility disabilities.\n\nDuring the workshops, children will create adorable forest animals using felt and safe plastic needles. There will be some sewing, lots of colors, and plenty of fun!\n\nThese activities develop creativity, imagination, and the dexterity of little hands, and at the end, each child will take home their handmade felt animal.\n\nThe Parent Club is a series of literary, educational, and artistic meetings for children and their guardians held at selected branches of the Tadeusz Różewicz Municipal Public Library in Wrocław."
+        },
+        "uk": {
+          "title": "Лісові обійми з фетру",
+          "description": "Подія для дітей віком 4-7 років.\n\nОбов'язковий один квиток для пари: дитина та опікун.\n\nЗнижкові квитки для осіб з карткою бібліотеки МБП Вроцлав.\n\nМісце дружнє до осіб з обмеженими можливостями.\n\nПід час майстер-класів діти, використовуючи фетр та безпечні пластикові голки, власноруч створять милих лісових тваринок. Буде трохи шиття, багато кольорів і безліч гарного настрою!\n\nЦе заняття, які розвивають креативність, уяву та спритність маленьких ручок, а наприкінці кожна дитина забере додому власноруч виготовлену фетрову тваринку.\n\nКлуб Батьків - це циклічні літературні, освітні та художні зустрічі для дітей та їх опікунів, що проходять у вибраних філіях Міської Публічної Бібліотеки ім. Тадеуша Рожевича у Вроцлаві."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/220749/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-09-23T11:19:56.230748+00:00"
+    },
+    "wi-teczne-warsztaty-zdobienia-bombek-2026-12-01T00:00:00+01:00": {
+      "title": "Świąteczne warsztaty zdobienia bombek",
+      "date": "2026-12-01T00:00:00+01:00",
+      "end_date": "2026-12-01T00:00:00+01:00",
+      "startTimeKnown": false,
+      "description": "Warsztaty dla grup zorganizowanych, łączące poznanie historii bombek choinkowych z samodzielnym zdobieniem własnej ozdoby.\n\n• **Termin:** 1–16 grudnia 2026, dni robocze\n\n• **Godziny:** 9:00, 10:30, 12:00, 13:30\n\n• **Miejsce:** Tarczyński Arena Wrocław\n\n• **Czas trwania:** ok. 60 minut\n\n• **Zapisy:** zapisy (liczba terminów ograniczona)\n\n**Program:** krótkie wprowadzenie o historii bombek i procesie ich produkcji, następnie samodzielne zdobienie szklanej bombki i drewnianej zawieszki pod okiem animatorów, według dowolnego pomysłu. Uczestnicy zabierają wykonane ozdoby ze sobą oraz otrzymują certyfikat \"Dekoratora Bombek\".\n\n**Grupa docelowa:** przedszkola, szkoły podstawowe i ponadpodstawowe, grupy dorosłych i seniorów – bez ograniczeń wiekowych.\n\n**Organizator:** Biuro Turystyczne Prom Sp. z o.o., ul. Skrzydlata 11C/25, Wrocław, tel. 607 708 870, [email protected]",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=png/https://go.wroclaw.pl/api/download/img-24eb4463ac1100021a3f3c13c8def582/warsztaty-2026.png",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416378-swiateczne-warsztaty-zdobienia-bombek",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Tarczyński Arena Wrocław aleja Śląska 1, Wrocław 54-118",
+        "district": "Fabryczna"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416378-swiateczne-warsztaty-zdobienia-bombek",
+      "scrapped_timestamp": "2026-09-23T11:19:34.032026+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 18
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Świąteczne warsztaty zdobienia bombek",
+          "description": "Warsztaty dla grup zorganizowanych, łączące poznanie historii bombek choinkowych z samodzielnym zdobieniem własnej ozdoby.\n\n• **Termin:** 1–16 grudnia 2026, dni robocze\n\n• **Godziny:** 9:00, 10:30, 12:00, 13:30\n\n• **Miejsce:** Tarczyński Arena Wrocław\n\n• **Czas trwania:** ok. 60 minut\n\n• **Zapisy:** zapisy (liczba terminów ograniczona)\n\n**Program:** krótkie wprowadzenie o historii bombek i procesie ich produkcji, następnie samodzielne zdobienie szklanej bombki i drewnianej zawieszki pod okiem animatorów, według dowolnego pomysłu. Uczestnicy zabierają wykonane ozdoby ze sobą oraz otrzymują certyfikat \"Dekoratora Bombek\".\n\n**Grupa docelowa:** przedszkola, szkoły podstawowe i ponadpodstawowe, grupy dorosłych i seniorów – bez ograniczeń wiekowych.\n\n**Organizator:** Biuro Turystyczne Prom Sp. z o.o., ul. Skrzydlata 11C/25, Wrocław, tel. 607 708 870, [email protected]"
+        },
+        "en": {
+          "title": "Christmas Bauble Decoration Workshops",
+          "description": "Workshops for organized groups, combining the exploration of the history of Christmas baubles with the independent decoration of their own ornament.\n\n• **Date:** December 1–16, 2026, weekdays\n\n• **Hours:** 9:00, 10:30, 12:00, 13:30\n\n• **Location:** Tarczyński Arena Wrocław\n\n• **Duration:** approx. 60 minutes\n\n• **Registration:** registration (limited number of dates)\n\n**Program:** a short introduction about the history of baubles and their production process, followed by independent decoration of a glass bauble and a wooden pendant under the guidance of animators, according to any idea. Participants take the created decorations with them and receive a certificate of \"Bauble Decorator\".\n\n**Target group:** kindergartens, primary and secondary schools, groups of adults and seniors – no age restrictions.\n\n**Organizer:** Prom Travel Agency Sp. z"
+        },
+        "uk": {
+          "title": "Святкові майстер-класи з розпису кульок",
+          "description": "Майстер-класи для організованих груп, що поєднують знайомство з історією новорічних кульок з самостійним розписом власної прикраси.\n\n• **Дата:** 1–16 грудня 2026, робочі дні\n\n• **Час:** 9:00, 10:30, 12:00, 13:30\n\n• **Місце:** Арена Тарчинського у Вроцлаві\n\n• **Тривалість:** близько 60 хвилин\n\n• **Запис:** записи (кількість дат обмежена)\n\n**Програма:** коротке введення в історію кульок та процес їх виробництва, потім самостійний розпис скляної кульки та дерев'яної підвіски під наглядом аніматорів, за будь-якою ідеєю. Учасники забирають виготовлені прикраси з собою та отримують сертифікат \"Декоратора кульок\".\n\n**Цільова аудиторія:** дитячі садки, початкові та середні школи, групи дорослих та пенсіонерів – без вікових обмежень.\n\n**Організатор:** Туристичне бюро Prom Sp. з"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-09-23T11:19:56.230765+00:00"
+    },
+    "profilowane-turnusy-terapeutyczne-dla-dzieci-z-adhd-2026-10-05T09:10:00+02:00": {
+      "title": "Profilowane turnusy terapeutyczne dla dzieci z ADHD",
+      "date": "2026-10-05T09:10:00+02:00",
+      "end_date": "2026-10-05T09:10:00+02:00",
+      "startTimeKnown": true,
+      "description": "Profilowane turnusy terapeutyczne to pięciodniowy program zajęć prowadzonych przez specjalistów HKF Centrum.\n\nPrzygotowaliśmy dwa osobne profile, dzięki czemu wsparcie może zostać lepiej dopasowane do trudności i aktualnych potrzeb dzieci.\n\n• 5 dni zajęć,\n\n• 3 godziny dziennie,\n\n• maksymalnie 6 dzieci w grupie,\n\n• dwa profile turnusów: ADHD i spektrum autyzmu,\n\n• dla dzieci w wieku około 6-10 lat,\n\n• formalna diagnoza nie jest warunkiem udziału.\n\nTo nie są półkolonie ani zwykłe zajęcia grupowe – to 15 godzin dedykowanego wsparcia prowadzonego przez specjalistów w kameralnej grupie liczącej maksymalnie 6 dzieci. Do turnusu mogą zostać zakwalifikowane również dzieci, które nie mają formalnej diagnozy, ale doświadczają trudności odpowiadających profilowi wybranej grupy.\n\nZapraszamy dzieci w wieku około 6–10 lat:\n\n• posiadające diagnozę ADHD lub spektrum autyzmu,\n\n• będące w trakcie procesu diagnostycznego,\n\n• bez formalnej diagnozy, ale doświadczające trudności w obszarach objętych programem,\n\n• potrzebujące wsparcia w funkcjonowaniu emocjonalnym, poznawczym lub społecznym,\n\n• mogące uczestniczyć w zajęciach prowadzonych w małej grupie.\n\nDiagnoza nie jest warunkiem udziału!\n\nObserwacje specjalistów zebrane podczas pięciu dni zajęć mogą pomóc rodzicom lepiej zrozumieć trudności dziecka oraz wskazać, czy warto skonsultować je diagnostycznie. Nie chcemy ograniczać dostępu do turnusów wyłącznie do dzieci, które mają już formalne rozpoznanie. Podstawą kwalifikacji będą aktualne potrzeby dziecka, informacje przekazane przez rodzica oraz ocena, czy wybrany profil turnusu i grupowa forma zajęć będą dla niego odpowiednie. ADHD Turnus dla dzieci z ADHD lub podobnymi trudnościami.\n\nTerminy:\n\n• 5–9 października 2026 r.\n\n• 2–6 listopada 2026 r.\n\nTurnus jest przeznaczony dla dzieci z diagnozą ADHD, będących w trakcie procesu diagnostycznego oraz dzieci, u których rodzice obserwują między innymi:\n\n• trudności z koncentracją uwagi,\n\n• impulsywne reagowanie,\n\n• trudności z regulacją emocji,\n\n• dużą potrzebę ruchu,\n\n• trudność z wyciszeniem się,\n\n• problemy z rozpoczynaniem lub kończeniem zadań,\n\n• trudności z planowaniem i organizacją działania,\n\n• trudności z funkcjonowaniem w grupie.\n\nNa czym skupimy się podczas turnusu?\n\nWiększy nacisk położymy na:\n\n• rozwijanie koncentracji,\n\n• ćwiczenie funkcji wykonawczych,\n\n• rozpoznawanie i regulowanie emocji,\n\n• ćwiczenie zatrzymywania się przed działaniem i bardziej świadomego reagowania,\n\n• rozwijanie umiejętności samoregulacji,\n\n• współpracę i funkcjonowanie w grupie,\n\n• poznawanie sposobów radzenia sobie z napięciem.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-ed674639ac110002065b2236cd224313/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1416459-profilowane-turnusy-terapeutyczne-dla-dzieci-z-adhd",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "HKF Centrum Wspierania Rozwoju Dziecka Wyścigowa 58, Wrocław 53-012",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1416459-profilowane-turnusy-terapeutyczne-dla-dzieci-z-adhd",
+      "scrapped_timestamp": "2026-09-23T11:19:40.907444+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Profilowane turnusy terapeutyczne dla dzieci z ADHD",
+          "description": "Profilowane turnusy terapeutyczne to pięciodniowy program zajęć prowadzonych przez specjalistów HKF Centrum.\n\nPrzygotowaliśmy dwa osobne profile, dzięki czemu wsparcie może zostać lepiej dopasowane do trudności i aktualnych potrzeb dzieci.\n\n• 5 dni zajęć,\n\n• 3 godziny dziennie,\n\n• maksymalnie 6 dzieci w grupie,\n\n• dwa profile turnusów: ADHD i spektrum autyzmu,\n\n• dla dzieci w wieku około 6-10 lat,\n\n• formalna diagnoza nie jest warunkiem udziału.\n\nTo nie są półkolonie ani zwykłe zajęcia grupowe – to 15 godzin dedykowanego wsparcia prowadzonego przez specjalistów w kameralnej grupie liczącej maksymalnie 6 dzieci. Do turnusu mogą zostać zakwalifikowane również dzieci, które nie mają formalnej diagnozy, ale doświadczają trudności odpowiadających profilowi wybranej grupy.\n\nZapraszamy dzieci w wieku około 6–10 lat:\n\n• posiadające diagnozę ADHD lub spektrum autyzmu,\n\n• będące w trakcie procesu diagnostycznego,\n\n• bez formalnej diagnozy, ale doświadczające trudności w obszarach objętych programem,\n\n• potrzebujące wsparcia w funkcjonowaniu emocjonalnym, poznawczym lub społecznym,\n\n• mogące uczestniczyć w zajęciach prowadzonych w małej grupie.\n\nDiagnoza nie jest warunkiem udziału!\n\nObserwacje specjalistów zebrane podczas pięciu dni zajęć mogą pomóc rodzicom lepiej zrozumieć trudności dziecka oraz wskazać, czy warto skonsultować je diagnostycznie. Nie chcemy ograniczać dostępu do turnusów wyłącznie do dzieci, które mają już formalne rozpoznanie. Podstawą kwalifikacji będą aktualne potrzeby dziecka, informacje przekazane przez rodzica oraz ocena, czy wybrany profil turnusu i grupowa forma zajęć będą dla niego odpowiednie. ADHD Turnus dla dzieci z ADHD lub podobnymi trudnościami.\n\nTerminy:\n\n• 5–9 października 2026 r.\n\n• 2–6 listopada 2026 r.\n\nTurnus jest przeznaczony dla dzieci z diagnozą ADHD, będących w trakcie procesu diagnostycznego oraz dzieci, u których rodzice obserwują między innymi:\n\n• trudności z koncentracją uwagi,\n\n• impulsywne reagowanie,\n\n• trudności z regulacją emocji,\n\n• dużą potrzebę ruchu,\n\n• trudność z wyciszeniem się,\n\n• problemy z rozpoczynaniem lub kończeniem zadań,\n\n• trudności z planowaniem i organizacją działania,\n\n• trudności z funkcjonowaniem w grupie.\n\nNa czym skupimy się podczas turnusu?\n\nWiększy nacisk położymy na:\n\n• rozwijanie koncentracji,\n\n• ćwiczenie funkcji wykonawczych,\n\n• rozpoznawanie i regulowanie emocji,\n\n• ćwiczenie zatrzymywania się przed działaniem i bardziej świadomego reagowania,\n\n• rozwijanie umiejętności samoregulacji,\n\n• współpracę i funkcjonowanie w grupie,\n\n• poznawanie sposobów radzenia sobie z napięciem.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Therapeutic Camps Tailored for Children with ADHD",
+          "description": "Therapeutic camps tailored for children are a five-day program of activities conducted by specialists from HKF Center.\n\nWe have prepared two separate profiles, allowing support to be better matched to the difficulties and current needs of the children.\n\n• 5 days of activities,\n\n• 3 hours daily,\n\n• a maximum of 6 children in a group,\n\n• two camp profiles: ADHD and autism spectrum,\n\n• for children aged approximately 6-10 years,\n\n• a formal diagnosis is not a condition for participation.\n\nThese are not day camps or ordinary group activities – this is 15 hours of dedicated support led by specialists in an intimate group of no more than 6 children. Children who do not have a formal diagnosis but experience difficulties corresponding to the profile of the selected group may also qualify for the camp.\n\nWe invite children to"
+        },
+        "uk": {
+          "title": "Профільовані терапевтичні табори для дітей з ADHD",
+          "description": "Профільовані терапевтичні табори – це п’ятиденна програма занять, що проводяться фахівцями HKF Центру.\n\nПриготували два окремі профілі, завдяки чому підтримка може бути краще адаптована до труднощів та актуальних потреб дітей.\n\n• 5 днів занять,\n\n• 3 години щодня,\n\n• максимально 6 дітей у групі,\n\n• два профілі таборів: ADHD та спектр аутизму,\n\n• для дітей віком близько 6-10 років,\n\n• формальна діагностика не є умовою участі.\n\nЦе не півколонії і не звичайні групові заняття – це 15 годин спеціалізованої підтримки, що проводиться фахівцями в камерній групі, що складається максимум з 6 дітей. До табору можуть бути зараховані також діти, які не мають формальної діагностики, але стикаються з труднощами, що відповідають профілю обраної групи.\n\nЗапрошуємо дітей в"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-09-23T11:19:56.230781+00:00"
     }
   }
 }

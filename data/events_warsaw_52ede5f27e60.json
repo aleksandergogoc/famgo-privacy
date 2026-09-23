@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:23:51.727930+00:00",
+  "updated_at": "2026-09-23T10:56:26.827922+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -2885,47 +2885,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-08-28T19:09:30.085891+00:00"
     },
-    "tajemnice-drzew-spotkania-przyrodnicze-2026-09-22T14:00:00+02:00": {
-      "title": "Tajemnice drzew. Spotkania przyrodnicze",
-      "date": "2026-09-22T14:00:00+02:00",
-      "end_date": "2026-09-22T14:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Uczestnicy dowiedzą się o rywalizacji i współpracy drzew, nauczą się rozpoznawać gatunki, poznają warstwy lasu oraz przyczyny sezonowych zmian. Część praktyczna obejmuje przygotowanie własnej karty zielnikowej.",
-      "url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/tajemnice-drzew#22-09",
-      "source": "lazienki-krolewskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "Łazienki Królewskie, Nowa Palmiarnia · ul. Agrykola 1",
-        "district": "Śródmieście"
-      },
-      "image": "http://www.lazienki-krolewskie.pl/public/upload/pages/thumb/545b63bf8a50d.jpg",
-      "scrapped_url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/tajemnice-drzew#22-09",
-      "scrapped_timestamp": "2026-08-31T13:33:55.457429+00:00",
-      "translations": {
-        "pl": {
-          "title": "Tajemnice drzew. Spotkania przyrodnicze",
-          "description": "Uczestnicy dowiedzą się o rywalizacji i współpracy drzew, nauczą się rozpoznawać gatunki, poznają warstwy lasu oraz przyczyny sezonowych zmian. Część praktyczna obejmuje przygotowanie własnej karty zielnikowej."
-        },
-        "en": {
-          "title": "Secrets of Trees. Nature Meetings",
-          "description": "Participants will learn about the competition and cooperation among trees, how to identify species, understand the layers of the forest, and the reasons for seasonal changes. The practical part includes preparing their own herbarium card."
-        },
-        "uk": {
-          "title": "Таємниці дерев. Природничі зустрічі",
-          "description": "Учасники дізнаються про конкуренцію та співпрацю дерев, навчаться розпізнавати види, познайомляться з шарами лісу та причинами сезонних змін. Практична частина включає підготовку власної картки гербарію."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-08-31T13:38:42.690146+00:00"
-    },
     "tajemnice-drzew-spotkania-przyrodnicze-2026-09-23T14:00:00+02:00": {
       "title": "Tajemnice drzew. Spotkania przyrodnicze",
       "date": "2026-09-23T14:00:00+02:00",
@@ -4929,47 +4888,6 @@
       },
       "district": "Bielany",
       "updated_at": "2026-09-04T11:08:40.214483+00:00"
-    },
-    "spacer-botaniczny-w-r-d-blok-w-bia-o-cki-zielnik-2026-09-22T17:30:00+02:00": {
-      "title": "Spacer botaniczny wśród bloków \"Białołęcki zielnik\"",
-      "date": "2026-09-22T17:30:00+02:00",
-      "end_date": "2026-09-22T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Podczas spaceru sprawdzimy jakie sekrety skrywa tarchomińska, miejska dżungla. Czy między blokami, wśród betonu można znaleźć botaniczne niezwykłości. Wspólnie odkryjemy zielarskie historie mieszkańców Białołęki i będziemy snuć niezwykłe, botaniczne opowieści. Na spacer zapraszamy wszystkich zainteresowanych. Udział jest bezpłatny.",
-      "image": "https://cdn.um.warszawa.pl/documents/40771/156895463/spacer+bot+%282%29.jpg/8d149c86-2abd-64de-9468-4521da9e28d7?version=1.1&t=1788243737096&imagePreview=1",
-      "url": "https://bialoleka.um.warszawa.pl/-/spacer-botaniczny-wsrod-blokow-bialolecki-zielnik-",
-      "source": "um.warszawa.pl",
-      "district": "Białołęka",
-      "location": {
-        "name": "Miejsce zbiórki: przystanek autobusowy Mehoffera 01",
-        "district": "Białołęka"
-      },
-      "scrapped_url": "https://bialoleka.um.warszawa.pl/-/spacer-botaniczny-wsrod-blokow-bialolecki-zielnik-",
-      "scrapped_timestamp": "2026-09-05T18:36:12.129051+00:00",
-      "category": "Nature & Wildlife",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Spacer botaniczny wśród bloków \"Białołęcki zielnik\"",
-          "description": "Podczas spaceru sprawdzimy jakie sekrety skrywa tarchomińska, miejska dżungla. Czy między blokami, wśród betonu można znaleźć botaniczne niezwykłości. Wspólnie odkryjemy zielarskie historie mieszkańców Białołęki i będziemy snuć niezwykłe, botaniczne opowieści. Na spacer zapraszamy wszystkich zainteresowanych. Udział jest bezpłatny."
-        },
-        "en": {
-          "title": "Botanical Walk Among the Blocks: 'Białołęka Herbarium'",
-          "description": "During the walk, we will explore the secrets hidden in the Tarchomin urban jungle. Can we find botanical wonders among the blocks and concrete? Together, we will uncover the herbal stories of the residents of Białołęka and weave extraordinary botanical tales. Everyone interested is invited to join. Participation is free."
-        },
-        "uk": {
-          "title": "Ботанічна прогулянка серед блоків \"Білоолека зелений лікар\"",
-          "description": "Під час прогулянки ми перевіримо, які секрети приховує тархомінська, міська джунглі. Чи можна знайти ботанічні дива серед блоків, серед бетону. Разом ми відкриємо трав'яні історії мешканців Білоолеки і будемо плести незвичайні, ботанічні оповіді. На прогулянку запрошуємо всіх зацікавлених. Участь безкоштовна."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-09-05T18:53:01.823572+00:00"
     },
     "polska-niezwyk-a-cykl-wyk-ad-w-o-najpi-kniejszych-miejscach-w-polsce-2026-09-23T15:00:00+02:00": {
       "title": "Polska Niezwykła – cykl wykładów o najpiękniejszych miejscach w Polsce",
@@ -7375,49 +7293,6 @@
       "district": "Praga-Południe",
       "updated_at": "2026-09-09T11:29:55.208752+00:00"
     },
-    "jesienne-r-e-po-egnanie-lata-na-dziedzi-cu-mkidn-2026-09-23T12:00:00+02:00": {
-      "title": "Jesienne Róże – pożegnanie lata na Dziedzińcu MKiDN",
-      "date": "2026-09-23T12:00:00+02:00",
-      "end_date": "2026-09-23T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wydarzenie upamiętniające 125. rocznicę urodzin Mieczysława Fogga. Program obejmuje koncerty chórów i zespołów muzycznych, stoiska rękodzielnicze oraz warsztaty.\n\nWystąpią m.in.:\n• Chór Kanon Kultury\n• Zespół Pieśni i Tańca Grajewianie\n• Warmia Jazz Trio\n• Grodziski Chór Cantata\n• Akademia Operowa TWON",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/1d980640-73f2-4dd3-b7dd-bfc205f8e70f/c4f6476f-7d39-4721-a426-445259d7e253.jpg",
-      "location": {
-        "name": "Dziedziniec MKiDN, ul. Krakowskie Przedmieście 1517, Warszawa",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/jesienne-roze-pozegnanie-lata-na-dziedzincu-mkidn-1d980640-73f2-4dd3-b7dd-bfc205f8e70f",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/jesienne-roze-pozegnanie-lata-na-dziedzincu-mkidn-1d980640-73f2-4dd3-b7dd-bfc205f8e70f",
-      "scrapped_timestamp": "2026-09-09T11:27:05.401207+00:00",
-      "category": "Music & Dance",
-      "additional_categories": [
-        "Workshops",
-        "Arts"
-      ],
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Jesienne Róże – pożegnanie lata na Dziedzińcu MKiDN",
-          "description": "Wydarzenie upamiętniające 125. rocznicę urodzin Mieczysława Fogga. Program obejmuje koncerty chórów i zespołów muzycznych, stoiska rękodzielnicze oraz warsztaty.\n\nWystąpią m.in.:\n• Chór Kanon Kultury\n• Zespół Pieśni i Tańca Grajewianie\n• Warmia Jazz Trio\n• Grodziski Chór Cantata\n• Akademia Operowa TWON"
-        },
-        "en": {
-          "title": "Autumn Roses – Farewell to Summer at the MKiDN Courtyard",
-          "description": "An event commemorating the 125th anniversary of the birth of Mieczysław Fogg. The program includes concerts by choirs and musical groups, craft stalls, and workshops.\n\nPerformers include:\n• Canon of Culture Choir\n• Grajewianie Song and Dance Ensemble\n• Warmia Jazz Trio\n• Grodzisk Cantata Choir\n• TWON Opera Academy"
-        },
-        "uk": {
-          "title": "Осінні Рози – прощання з літом на Дворику МКіДН",
-          "description": "Подія, що вшановує 125-ту річницю з дня народження Мечислава Фогга. Програма включає концерти хорів та музичних колективів, виставки ручної роботи та майстер-класи.\n\nВиступлять зокрема:\n• Хор Канон Культури\n• Ансамбль Пісні та Танцю Граєвяни\n• Warmia Jazz Trio\n• Гродзиський Хор Канта\n• Оперна Академія TWON"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-09T11:29:55.209830+00:00"
-    },
     "czwartek-z-nosoro-cem-spotkanie-z-opiekunami-2026-09-24T14:00:00+02:00": {
       "title": "Czwartek z nosorożcem – spotkanie z opiekunami",
       "date": "2026-09-24T14:00:00+02:00",
@@ -8572,48 +8447,6 @@
       "district": "Mokotów",
       "updated_at": "2026-09-10T11:16:10.477741+00:00"
     },
-    "tureckie-s-odycze-kulinarne-warsztaty-dla-dzieci-2026-09-22T17:00:00+02:00": {
-      "title": "Tureckie słodycze - kulinarne warsztaty dla dzieci",
-      "date": "2026-09-22T17:00:00+02:00",
-      "end_date": "2026-09-22T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy dzieci na wspólne przygotowywanie tureckich słodyczy 22.09 od godz. 17:00 w Kuchni MAL Grójecka 109. Podczas tych warsztatów zabierzemy Was w niezwykłą i pełną smaków podróż po kuchni tureckiej! Razem przygotujemy pyszne, zdrowe tureckie przekąski na bazie soczystej marchewki i słodkiego jabłka. To idealny przepis, który z łatwością i radością wykonają zarówno najmłodsi, jak i dorośli. Serdecznie zapraszamy na to wyjątkowe, rodzinne wydarzenie! 📌Ważna informacja dzieci podczas warsztatów muszą pozostawać pod opieką rodzica lub opiekuna. Rodzic/opiekun jest odpowiedzialny za dziecko podczas całego wydarzenia. Obowiązują zapisy >> link Do zobaczenia na warsztatach! 🪡✨ Warsztaty są realizowane w ramach projektu Kulturalna Mozaika finansowanego z budżetu m. st. Warszawy w ramach programu Funduszu Edukacji Kulturalnej.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1789034500.webp",
-      "location": {
-        "name": "MAL, ul. Grójecka 109",
-        "district": "Ochota"
-      },
-      "url": "https://www.facebook.com/events/980393011742649/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/980393011742649/",
-      "scrapped_timestamp": "2026-09-10T11:15:11.706563+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Tureckie słodycze - kulinarne warsztaty dla dzieci",
-          "description": "Zapraszamy dzieci na wspólne przygotowywanie tureckich słodyczy 22.09 od godz. 17:00 w Kuchni MAL Grójecka 109. Podczas tych warsztatów zabierzemy Was w niezwykłą i pełną smaków podróż po kuchni tureckiej! Razem przygotujemy pyszne, zdrowe tureckie przekąski na bazie soczystej marchewki i słodkiego jabłka. To idealny przepis, który z łatwością i radością wykonają zarówno najmłodsi, jak i dorośli. Serdecznie zapraszamy na to wyjątkowe, rodzinne wydarzenie! 📌Ważna informacja dzieci podczas warsztatów muszą pozostawać pod opieką rodzica lub opiekuna. Rodzic/opiekun jest odpowiedzialny za dziecko podczas całego wydarzenia. Obowiązują zapisy >> link Do zobaczenia na warsztatach! 🪡✨ Warsztaty są realizowane w ramach projektu Kulturalna Mozaika finansowanego z budżetu m. st. Warszawy w ramach programu Funduszu Edukacji Kulturalnej."
-        },
-        "en": {
-          "title": "Turkish Sweets - Culinary Workshop for Children",
-          "description": "We invite children to join us in preparing Turkish sweets on September 22nd at 5:00 PM at the MAL Kitchen, Grójecka 109. During this workshop, we will take you on an extraordinary and flavorful journey through Turkish cuisine! Together, we will prepare delicious, healthy Turkish snacks based on juicy carrots and sweet apples. This is the perfect recipe that both the youngest and adults can easily and joyfully execute. We warmly invite you to this special family event! 📌Important information: children must be under the supervision of a parent or guardian during the workshop. The parent/guardian is responsible for the child throughout the event. Registration is required >> link. See you at the workshop! 🪡✨ The workshops are part of the Cultural Mosaic project funded by the budget of the City of Warsaw."
-        },
-        "uk": {
-          "title": "Турецькі солодощі - кулінарні майстер-класи для дітей",
-          "description": "Запрошуємо дітей на спільне приготування турецьких солодощів 22.09 з 17:00 в Кухні MAL на Гржойцькій 109. Під час цих майстер-класів ми відправимо вас у незвичайну та сповнену смаків подорож по турецькій кухні! Разом ми приготумо смачні, здорові турецькі закуски на основі соковитої моркви та солодкого яблука. Це ідеальний рецепт, який з легкістю та радістю виконають як найменші, так і дорослі. Щиро запрошуємо на цю унікальну, сімейну подію! 📌Важлива інформація: діти під час майстер-класів повинні залишатися під наглядом батьків або опікунів. Батьки/опікуни несуть відповідальність за дитину протягом всього заходу. Обов'язкові попередні записи >> посилання. До зустрічі на майстер-класах! 🪡✨ Майстер-класи реалізуються в рамках проекту Культурна Мозаїка, фінансованого з бюджету м. ст. Варшави."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ochota",
-      "updated_at": "2026-09-10T11:16:10.478299+00:00"
-    },
     "modu-owe-origami-warsztaty-cykliczne-2026-09-30T17:00:00+02:00": {
       "title": "Modułowe Origami - Warsztaty Cykliczne",
       "date": "2026-09-30T17:00:00+02:00",
@@ -8749,45 +8582,6 @@
       },
       "district": "Bielany",
       "updated_at": "2026-09-10T11:16:10.478359+00:00"
-    },
-    "klub-r-kodzielniczy-2026-09-22T17:00:00+02:00": {
-      "title": "Klub Rękodzielniczy",
-      "date": "2026-09-22T17:00:00+02:00",
-      "end_date": "2026-09-22T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Otwarte spotkania dla osób zajmujących się rękodziełem, takich jak dzierganie, szydełkowanie czy haftowanie. Wydarzenie ma charakter samopomocowy – uczestnicy wymieniają się wiedzą i doświadczeniami bez udziału prowadzącego.\n\nTerminy:\n• Wrzesień: 1.09, 8.09, 15.09, 22.09, 29.09 (wtorki), godz. 17:00-19:30\n\nLokalizacja:\n• Miejsce Aktywności Lokalnej (MAL), Żoliborski Dom Kultury, ul. Marii Kazimiery 20, Warszawa\n\nInformacje organizacyjne:\n• Wstęp wolny.\n• Na miejscu dostępne podstawowe materiały (włóczki, igły, szydełka).\n• Uczestnicy mogą przynieść przekąski na wspólny stół.\n• Dzieci mogą uczestniczyć w spotkaniach wyłącznie pod opieką rodziców.\n• Szczegóły dostępności obiektu: https://zoliborskidomkultury.pl/deklaracja-dostepnosci",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/58416c28-ddb7-43ae-8f0c-fb38bdcf07fd/29b0b4a9-6588-4a24-91fc-985b0842ef16.jpg",
-      "location": {
-        "name": "Marii Kazimiery 20/1",
-        "district": "Żoliborz"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/klub-rekodzielniczy-58416c28-ddb7-43ae-8f0c-fb38bdcf07fd",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/klub-rekodzielniczy-58416c28-ddb7-43ae-8f0c-fb38bdcf07fd",
-      "scrapped_timestamp": "2026-09-10T11:15:58.712533+00:00",
-      "category": "Arts",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Klub Rękodzielniczy",
-          "description": "Otwarte spotkania dla osób zajmujących się rękodziełem, takich jak dzierganie, szydełkowanie czy haftowanie. Wydarzenie ma charakter samopomocowy – uczestnicy wymieniają się wiedzą i doświadczeniami bez udziału prowadzącego.\n\nTerminy:\n• Wrzesień: 1.09, 8.09, 15.09, 22.09, 29.09 (wtorki), godz. 17:00-19:30\n\nLokalizacja:\n• Miejsce Aktywności Lokalnej (MAL), Żoliborski Dom Kultury, ul. Marii Kazimiery 20, Warszawa\n\nInformacje organizacyjne:\n• Wstęp wolny.\n• Na miejscu dostępne podstawowe materiały (włóczki, igły, szydełka).\n• Uczestnicy mogą przynieść przekąski na wspólny stół.\n• Dzieci mogą uczestniczyć w spotkaniach wyłącznie pod opieką rodziców.\n• Szczegóły dostępności obiektu: https://zoliborskidomkultury.pl/deklaracja-dostepnosci"
-        },
-        "en": {
-          "title": "Craft Club",
-          "description": "Open meetings for people engaged in crafts such as knitting, crocheting, or embroidery. The event is self-help in nature – participants share knowledge and experiences without a facilitator.\n\nDates:\n• September: 1st, 8th, 15th, 22nd, 29th (Tuesdays), from 5:00 PM to 7:30 PM\n\nLocation:\n• Local Activity Place (MAL), Żoliborski Cultural Center, 20 Marii Kazimiery St., Warsaw\n\nOrganizational Information:\n• Free admission.\n• Basic materials (yarns, needles, hooks) available on-site.\n• Participants may bring snacks for the communal table.\n• Children may attend the meetings only under parental supervision.\n• Details on the accessibility of the venue: https://zoliborskidomkultury.pl/deklaracja-dostepnosci"
-        },
-        "uk": {
-          "title": "Клуб Ремесел",
-          "description": "Відкриті зустрічі для людей, які займаються рукоділлям, такими як в'язання, гачкування чи вишивка. Подія має характер самодопомоги – учасники обмінюються знаннями та досвідом без участі ведучого.\n\nТерміни:\n• Вересень: 1.09, 8.09, 15.09, 22.09, 29.09 (вівторки), год. 17:00-19:30\n\nЛокація:\n• Місце Активності Місцевої Спільноти (MAL), Жоліборський Будинок Культури, вул. Марії Казиміри 20, Варшава\n\nОрганізаційна інформація:\n• Вхід вільний.\n• На місці доступні базові матеріали (пряжа, голки, гачки).\n• Учасники можуть принести закуски на спільний стіл.\n• Діти можуть брати участь у зустрічах лише під наглядом батьків.\n• Деталі доступності об'єкта: https://zoliborskidomkultury.pl/deklaracja-dostepnosci"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Żoliborz",
-      "updated_at": "2026-09-10T11:16:10.478458+00:00"
     },
     "powsta-czy-pi-tek-warsztaty-i-wyk-ad-w-zielonej-2026-09-25T14:00:00+02:00": {
       "title": "Powstańczy Piątek – warsztaty i wykład w Zielonej",
@@ -9395,48 +9189,6 @@
       },
       "district": "Mokotów",
       "updated_at": "2026-09-14T12:28:38.335818+00:00"
-    },
-    "tureckie-s-odycze-warsztaty-kulinarne-dla-dzieci-2026-09-22T17:00:00+02:00": {
-      "title": "Tureckie słodycze – warsztaty kulinarne dla dzieci",
-      "date": "2026-09-22T17:00:00+02:00",
-      "end_date": "2026-09-22T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Warsztaty kulinarne dla dzieci, podczas których uczestnicy przygotują zdrowe tureckie przekąski na bazie marchewki i jabłka. Wydarzenie ma charakter rodzinny i odbywa się w ramach projektu Kulturalna Mozaika.\n\nSzczegóły:\n• Data: 22.09, godz. 17:00\n• Miejsce: Kuchnia MAL Grójecka 109\n• Wymagania: Dzieci muszą pozostawać pod opieką rodzica lub opiekuna przez cały czas trwania warsztatów.\n\nZapisy na wydarzenie prowadzone są przez formularz: https://forms.gle/rcvg331JqmZUMcR97",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c220eec4-d998-42db-8989-204060383a48/3797a29a-fb92-4165-92fd-a2b96694d5d6.jpg",
-      "location": {
-        "name": "MAL, ul. Grójecka 109, Warszawa",
-        "district": "Ochota"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/tureckie-slodycze-warsztaty-kulinarne-dla-dzieci-c220eec4-d998-42db-8989-204060383a48",
-      "source": "simplygo.pl",
-      "age_hint": "3-12",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/tureckie-slodycze-warsztaty-kulinarne-dla-dzieci-c220eec4-d998-42db-8989-204060383a48",
-      "scrapped_timestamp": "2026-09-14T12:25:15.548837+00:00",
-      "category": "Workshops",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Tureckie słodycze – warsztaty kulinarne dla dzieci",
-          "description": "Warsztaty kulinarne dla dzieci, podczas których uczestnicy przygotują zdrowe tureckie przekąski na bazie marchewki i jabłka. Wydarzenie ma charakter rodzinny i odbywa się w ramach projektu Kulturalna Mozaika.\n\nSzczegóły:\n• Data: 22.09, godz. 17:00\n• Miejsce: Kuchnia MAL Grójecka 109\n• Wymagania: Dzieci muszą pozostawać pod opieką rodzica lub opiekuna przez cały czas trwania warsztatów.\n\nZapisy na wydarzenie prowadzone są przez formularz: https://forms.gle/rcvg331JqmZUMcR97"
-        },
-        "en": {
-          "title": "Turkish Sweets – Culinary Workshop for Children",
-          "description": "A culinary workshop for children, during which participants will prepare healthy Turkish snacks based on carrots and apples. The event is family-oriented and is part of the Cultural Mosaic project.\n\nDetails:\n• Date: 22.09, 5:00 PM\n• Location: MAL Kitchen Grójecka 109\n• Requirements: Children must be accompanied by a parent or guardian at all times during the workshop.\n\nRegistration for the event is conducted via the form: https://forms.gle/rcvg331JqmZUMcR97"
-        },
-        "uk": {
-          "title": "Турецькі солодощі – кулінарні майстер-класи для дітей",
-          "description": "Кулінарні майстер-класи для дітей, під час яких учасники приготують здорові турецькі закуски на основі моркви та яблука. Подія має сімейний характер і проходить в рамках проекту Культурна Мозаїка.\n\nДеталі:\n• Дата: 22.09, о 17:00\n• Місце: Кухня MAL Грójецька 109\n• Вимоги: Діти повинні залишатися під наглядом батьків або опікунів протягом всього часу проведення майстер-класів.\n\nЗапис на подію проводиться через форму: https://forms.gle/rcvg331JqmZUMcR97"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ochota",
-      "updated_at": "2026-09-14T12:28:38.336413+00:00"
     },
     "kreatywne-tre-ci-telefonem-warsztaty-2026-09-25T14:00:00+02:00": {
       "title": "Kreatywne treści telefonem – warsztaty",
@@ -11365,88 +11117,6 @@
       "district": "Praga-Północ",
       "updated_at": "2026-09-16T11:19:55.097112+00:00"
     },
-    "plastyka-dla-najm-odszych-farb-mazane-2026-09-22T16:30:00+02:00": {
-      "title": "Plastyka dla najmłodszych. Farbą mazane",
-      "date": "2026-09-22T16:30:00+02:00",
-      "end_date": "2026-09-22T16:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Dlaczego nasze warsztaty są wyjątkowe? Podczas cotygodniowych spotkań stawiamy na doświadczanie wieloma zmysłami. Poprzez różnorodne techniki plastyczne wspieramy rozwój małej motoryki, ćwiczymy cierpliwość i budujemy wiarę we własne możliwości. To idealny sposób na wyciszenie emocji po całym dniu w szkole czy przedszkolu. W programie artystycznych przygód: – Sensoplastyka: malowanie palcami i poznawanie tekstur – Rzeźba i forma: lepienie z gliny oraz tworzenie z papieru i tektury – Eko-art: kolaże z wykorzystaniem materiałów naturalnych i recyklingu – Wydzieranki i wycinanki: zabawy z kolorem i kompozycją Przyjdź i przekonaj się, jak wielka siła drzemie w małych rękach! Zapewniamy twórczą atmosferę, profesjonalną opiekę instruktorki i wszystkie niezbędne materiały. Spotkania prowadzi Agata Wronka, ps. krzywa kreska, artystka, twórczyni i projektantka wnętrz. Agata jest twórczynią, której pasją jest malarstwo i ilustracja. Prosimy o zapisywanie dzieci zgodnie z wiekiem. Cykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Plastyka dla najmłodszych” nr 1530.",
-      "url": "https://bemowskie.pl/wydarzenia/plastyka-dla-najmlodszych-farba-mazane-zajecia-plastyczne-dla-dzieci-w-wieku-5-8-lat/",
-      "source": "bemowskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 5,
-        "max": 6
-      },
-      "location": {
-        "name": "Bemowskie Centrum Kultury, MAL Boernerowo · ul. Sobczaka 5",
-        "district": "Bemowo"
-      },
-      "image": "https://bemowskie.pl/wp-content/uploads/2026/05/plastyka-dla-najmlodszych.jpg",
-      "scrapped_url": "https://bemowskie.pl/wydarzenia/plastyka-dla-najmlodszych-farba-mazane-zajecia-plastyczne-dla-dzieci-w-wieku-5-8-lat/",
-      "scrapped_timestamp": "2026-09-17T11:26:57.115548+00:00",
-      "translations": {
-        "pl": {
-          "title": "Plastyka dla najmłodszych. Farbą mazane",
-          "description": "Dlaczego nasze warsztaty są wyjątkowe? Podczas cotygodniowych spotkań stawiamy na doświadczanie wieloma zmysłami. Poprzez różnorodne techniki plastyczne wspieramy rozwój małej motoryki, ćwiczymy cierpliwość i budujemy wiarę we własne możliwości. To idealny sposób na wyciszenie emocji po całym dniu w szkole czy przedszkolu. W programie artystycznych przygód: – Sensoplastyka: malowanie palcami i poznawanie tekstur – Rzeźba i forma: lepienie z gliny oraz tworzenie z papieru i tektury – Eko-art: kolaże z wykorzystaniem materiałów naturalnych i recyklingu – Wydzieranki i wycinanki: zabawy z kolorem i kompozycją Przyjdź i przekonaj się, jak wielka siła drzemie w małych rękach! Zapewniamy twórczą atmosferę, profesjonalną opiekę instruktorki i wszystkie niezbędne materiały. Spotkania prowadzi Agata Wronka, ps. krzywa kreska, artystka, twórczyni i projektantka wnętrz. Agata jest twórczynią, której pasją jest malarstwo i ilustracja. Prosimy o zapisywanie dzieci zgodnie z wiekiem. Cykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Plastyka dla najmłodszych” nr 1530."
-        },
-        "en": {
-          "title": "Art for the Youngest: Painting with Colors",
-          "description": "Why are our workshops unique? During our weekly meetings, we focus on experiencing through multiple senses. Through various artistic techniques, we support the development of fine motor skills, practice patience, and build confidence in one's abilities. It's the perfect way to calm emotions after a whole day at school or kindergarten. The program of artistic adventures includes: – Sensory Art: finger painting and exploring textures – Sculpture and Form: modeling with clay and creating with paper and cardboard – Eco-Art: collages using natural materials and recycling – Tear and Cut: fun with color and composition Come and see the great power that lies in small hands! We provide a creative atmosphere, professional guidance from an instructor, and all necessary materials. The meetings are led by Agat."
-        },
-        "uk": {
-          "title": "Пластика для наймолодших. Малювання фарбами",
-          "description": "Чому наші майстер-класи є унікальними? Під час щотижневих зустрічей ми акцентуємо на досвіді багатьма відчуттями. Через різноманітні художні техніки ми підтримуємо розвиток дрібної моторики, тренуємо терпіння та будуємо віру у власні можливості. Це ідеальний спосіб заспокоїти емоції після цілого дня в школі чи дитячому садку. У програмі художніх пригод: – Сенсопластика: малювання пальцями та знайомство з текстурами – Скульптура та форма: ліплення з глини та створення з паперу і картону – Еко-арт: колажі з використанням природних матеріалів та переробки – Вирізання та вирізання: ігри з кольором та композицією Приходь і переконайся, яка велика сила прихована в маленьких руках! Ми забезпечуємо творчу атмосферу, професійну опіку інструкторки та всі необхідні матеріали. Зустрічі проводить Аґата."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-09-17T11:30:07.012459+00:00"
-    },
-    "spaghetti-2026-09-23T10:00:00+02:00": {
-      "title": "Spaghetti",
-      "date": "2026-09-23T10:00:00+02:00",
-      "end_date": "2026-09-23T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Na scenie będzie gwarno, wesoło, tanecznie i oczywiście muzycznie. Młodzi widzowie będą mieli okazję nie tylko poznać tajniki przyrządzania jednej z popularniejszych (i pyszniejszych!) potraw, ale także posłuchać muzyki granej na żywo przez aktorów oraz towarzyszyć ich wszystkim figlom. W atmosferze zabawy uczymy się też tolerancji, akceptacji inności oraz szacunku dla innych. Spektakl powstał we współpracy Teatru Baj w Warszawie i Theatergruppe Batida w Kopenhadze.",
-      "url": "https://teatrbaj.pl/repertuar/spaghetti/#23-09",
-      "source": "teatrbaj.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Theater",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "location": {
-        "name": "55 min Teatr Baj · ul. Jagiellońska 28",
-        "district": "Praga-Północ"
-      },
-      "image": "https://teatrbaj.pl/wp-content/uploads/2020/10/16.jpg",
-      "scrapped_url": "https://teatrbaj.pl/repertuar/spaghetti/#23-09",
-      "scrapped_timestamp": "2026-09-17T11:27:00.837040+00:00",
-      "translations": {
-        "pl": {
-          "title": "Spaghetti",
-          "description": "Na scenie będzie gwarno, wesoło, tanecznie i oczywiście muzycznie. Młodzi widzowie będą mieli okazję nie tylko poznać tajniki przyrządzania jednej z popularniejszych (i pyszniejszych!) potraw, ale także posłuchać muzyki granej na żywo przez aktorów oraz towarzyszyć ich wszystkim figlom. W atmosferze zabawy uczymy się też tolerancji, akceptacji inności oraz szacunku dla innych. Spektakl powstał we współpracy Teatru Baj w Warszawie i Theatergruppe Batida w Kopenhadze."
-        },
-        "en": {
-          "title": "Spaghetti",
-          "description": "The stage will be lively, cheerful, danceable, and of course, musical. Young viewers will have the opportunity not only to learn the secrets of preparing one of the more popular (and delicious!) dishes but also to listen to live music played by the actors and accompany all their antics. In an atmosphere of fun, we also learn about tolerance, acceptance of differences, and respect for others. The performance was created in collaboration between the Baj Theater in Warsaw and the Theatergruppe Batida in Copenhagen."
-        },
-        "uk": {
-          "title": "Спагетті",
-          "description": "На сцені буде гамірно, весело, танцювально і, звичайно, музично. Молоді глядачі матимуть можливість не лише дізнатися секрети приготування однієї з популярніших (і смачніших!) страв, але й послухати музику, що грається наживо акторами, а також супроводжувати їх у всіх витівках. В атмосфері розваги ми також вчимося толерантності, прийняття інакшості та поваги до інших. Спектакль був створений у співпраці Театру Бай у Варшаві та Theatergruppe Batida в Копенгагені."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Praga-Północ",
-      "updated_at": "2026-09-17T11:30:07.012474+00:00"
-    },
     "naukowe-zaj-cia-kreatywne-dla-dzieci-2026-09-23T16:00:00+02:00": {
       "title": "Naukowe zajęcia kreatywne dla dzieci",
       "date": "2026-09-23T16:00:00+02:00",
@@ -12876,48 +12546,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-09-18T11:03:41.364189+00:00"
     },
-    "europejski-tydzie-sportu-beactive-2026-09-22T18:00:00+02:00": {
-      "title": "Europejski Tydzień Sportu #BeActive",
-      "date": "2026-09-22T18:00:00+02:00",
-      "end_date": "2026-09-22T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Od 23 do 30 września Warszawa ponownie stanie się stolicą aktywności fizycznej. W ramach Europejskiego Tygodnia Sportu mieszkańcy będą mogli bezpłatnie skorzystać z setek godzin zajęć sportowych, treningów, turniejów i wydarzeń rekreacyjnych przygotowanych przez stołeczne dzielnice oraz miejskie obiekty sportowe. W programie znajdą się m.in. zajęcia fitness, pływanie, badminton, tenis stołowy, nordic walking, joga, zumba, squash, treningi samoobrony, turnieje sportowe oraz aktywności dla dzieci, dorosłych i seniorów. Każdy, niezależnie od wieku i poziomu zaawansowania, znajdzie coś dla siebie. Kulminacją wydarzenia będzie #BeActiveNight, czyli Europejska Noc Sportu, która odbędzie się 26 września. Tego dnia i wieczoru na mieszkańców czekać będą wyjątkowe atrakcje, w tym nocne pływanie, turnieje sportowe, maratony fitness, zajęcia aqua, nocne bieganie oraz wiele innych aktywności organizowanych w całym mieście. To doskonała okazja, aby spróbować nowych dyscyplin, zadbać o zdrowie, spędzić aktywnie czas z rodziną i przekonać się, że sport jest dostępny dla każdego. Dołącz do milionów Europejczyków i pokaż, że Warszawa jest aktywna! Zapraszamy wszystkich do wspólnej zabawy i sportowej rywalizacji. Poniżej publikujemy linki do stron internetowych poszczególnych ośrodków, gdzie można znaleźć szczegółowe informacje dotyczące wydarzeń w Europejskim Tygodniu Sportu/#BeActiveNight ⬇️ 🤸 Ośrodki Aktywna Warszawa >> link 🤸 Park Kultury w Powsinie >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Bemowo >> link 🤸 Centrum Sportowo-Rekreacyjne m.st. Warszawy w Dzielnicy Bielany >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Ochota >> link 🤸 Ośrodek Sportu i Rekreacji Dzielnicy Praga - Południe m.st. Warszawy >> link 🤸 Dzielnicowy Ośrodek Sportu i Rekreacji Dzielnicy Praga - Północ m.st. Warszawy >> link 🤸 Ośrodek Sportu i Rekreacji Dzielnicy Śródmieście >> link 🤸 Ośrodek Sportu i Rekreacji Dzielnicy m.st. Warszawy w Dzielnicy Targówek >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Wawer >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Ursus  >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Włochy >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Wola  >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Mokotów >> link",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1789550590.webp",
-      "location": {
-        "name": "różne lokalizacje w całej Warszawie :)",
-        "district": "Śródmieście"
-      },
-      "url": "https://sport.um.warszawa.pl/-/europejski-tydzien-sportu-2026-w-warszawie-badz-aktywny-razem-z-nami-",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://sport.um.warszawa.pl/-/europejski-tydzien-sportu-2026-w-warszawie-badz-aktywny-razem-z-nami-",
-      "scrapped_timestamp": "2026-09-18T11:01:42.497712+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Europejski Tydzień Sportu #BeActive",
-          "description": "Od 23 do 30 września Warszawa ponownie stanie się stolicą aktywności fizycznej. W ramach Europejskiego Tygodnia Sportu mieszkańcy będą mogli bezpłatnie skorzystać z setek godzin zajęć sportowych, treningów, turniejów i wydarzeń rekreacyjnych przygotowanych przez stołeczne dzielnice oraz miejskie obiekty sportowe. W programie znajdą się m.in. zajęcia fitness, pływanie, badminton, tenis stołowy, nordic walking, joga, zumba, squash, treningi samoobrony, turnieje sportowe oraz aktywności dla dzieci, dorosłych i seniorów. Każdy, niezależnie od wieku i poziomu zaawansowania, znajdzie coś dla siebie. Kulminacją wydarzenia będzie #BeActiveNight, czyli Europejska Noc Sportu, która odbędzie się 26 września. Tego dnia i wieczoru na mieszkańców czekać będą wyjątkowe atrakcje, w tym nocne pływanie, turnieje sportowe, maratony fitness, zajęcia aqua, nocne bieganie oraz wiele innych aktywności organizowanych w całym mieście. To doskonała okazja, aby spróbować nowych dyscyplin, zadbać o zdrowie, spędzić aktywnie czas z rodziną i przekonać się, że sport jest dostępny dla każdego. Dołącz do milionów Europejczyków i pokaż, że Warszawa jest aktywna! Zapraszamy wszystkich do wspólnej zabawy i sportowej rywalizacji. Poniżej publikujemy linki do stron internetowych poszczególnych ośrodków, gdzie można znaleźć szczegółowe informacje dotyczące wydarzeń w Europejskim Tygodniu Sportu/#BeActiveNight ⬇️ 🤸 Ośrodki Aktywna Warszawa >> link 🤸 Park Kultury w Powsinie >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Bemowo >> link 🤸 Centrum Sportowo-Rekreacyjne m.st. Warszawy w Dzielnicy Bielany >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Ochota >> link 🤸 Ośrodek Sportu i Rekreacji Dzielnicy Praga - Południe m.st. Warszawy >> link 🤸 Dzielnicowy Ośrodek Sportu i Rekreacji Dzielnicy Praga - Północ m.st. Warszawy >> link 🤸 Ośrodek Sportu i Rekreacji Dzielnicy Śródmieście >> link 🤸 Ośrodek Sportu i Rekreacji Dzielnicy m.st. Warszawy w Dzielnicy Targówek >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Wawer >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Ursus  >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Włochy >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Wola  >> link 🤸 Ośrodek Sportu i Rekreacji m.st. Warszawy w Dzielnicy Mokotów >> link"
-        },
-        "en": {
-          "title": "European Week of Sport #BeActive",
-          "description": "From September 23 to 30, Warsaw will once again become the capital of physical activity. As part of the European Week of Sport, residents will be able to take advantage of hundreds of hours of sports activities, training sessions, tournaments, and recreational events prepared by the city districts and municipal sports facilities for free. The program will include fitness classes, swimming, badminton, table tennis, Nordic walking, yoga, Zumba, squash, self-defense training, sports tournaments, and activities for children, adults, and seniors. Everyone, regardless of age and skill level, will find something for themselves. The highlight of the event will be #BeActiveNight, or the European Night of Sport, which will take place on September 26. On that day and evening, residents can look forward to unique attractions, including night swimming, tours..."
-        },
-        "uk": {
-          "title": "Європейський тиждень спорту #BeActive",
-          "description": "Від 23 до 30 вересня Варшава знову стане столицею фізичної активності. У рамках Європейського тижня спорту мешканці зможуть безкоштовно скористатися сотнями годин спортивних занять, тренувань, турнірів та рекреаційних подій, підготовлених столичними районами та міськими спортивними об'єктами. У програмі будуть, зокрема, заняття фітнесом, плавання, бадмінтон, настільний теніс, нордична ходьба, йога, зумба, сквош, тренування самооборони, спортивні турніри та активності для дітей, дорослих і літніх людей. Кожен, незалежно від віку та рівня підготовки, знайде щось для себе. Кульмінацією події стане #BeActiveNight, тобто Європейська ніч спорту, яка відбудеться 26 вересня. Цього дня та вечора на мешканців чекатимуть унікальні атракції, зокрема нічне плавання, тури."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-18T11:03:41.364300+00:00"
-    },
     "ultimate-frisbee-dla-pocz-tkuj-cych-2026-09-24T17:30:00+02:00": {
       "title": "Ultimate frisbee dla początkujących",
       "date": "2026-09-24T17:30:00+02:00",
@@ -13270,48 +12898,6 @@
       },
       "district": "Mokotów",
       "updated_at": "2026-09-19T10:54:28.605536+00:00"
-    },
-    "ch-r-mam-2026-09-23T10:30:00+02:00": {
-      "title": "Chór Mam",
-      "date": "2026-09-23T10:30:00+02:00",
-      "end_date": "2026-09-23T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy wszystkie mamy w ciąży i z małymi dziećmi. Nie musisz umieć śpiewać - najważniejsze, żebyś wyszła z domu na spotkanie z innymi kobietami. Bez przesłuchań i ocen! Więcej informacji na Facebooku na grupie „Chór Mam na Żoliborzu”.",
-      "url": "https://zoliborskidomkultury.pl/wydarzenie/chor-mam#23-09",
-      "source": "zoliborskidomkultury.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "Żoliborski Dom Kultury – MAL · ul. Marii Kazimiery 20",
-        "district": "Żoliborz"
-      },
-      "image": "https://zoliborskidomkultury.pl/assets/ogimage.jpg",
-      "scrapped_url": "https://zoliborskidomkultury.pl/wydarzenie/chor-mam#23-09",
-      "scrapped_timestamp": "2026-09-19T10:49:26.092702+00:00",
-      "category": "Music & Dance",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Chór Mam",
-          "description": "Zapraszamy wszystkie mamy w ciąży i z małymi dziećmi. Nie musisz umieć śpiewać - najważniejsze, żebyś wyszła z domu na spotkanie z innymi kobietami. Bez przesłuchań i ocen! Więcej informacji na Facebooku na grupie „Chór Mam na Żoliborzu”."
-        },
-        "en": {
-          "title": "Moms' Choir",
-          "description": "We invite all pregnant moms and those with small children. You don't need to know how to sing - the most important thing is to get out of the house and meet other women. No auditions or judgments! More information on Facebook in the group 'Moms' Choir in Żoliborz.'"
-        },
-        "uk": {
-          "title": "Хор Мам",
-          "description": "Запрошуємо всіх мам у вагітності та з маленькими дітьми. Тобі не потрібно вміти співати - найголовніше, щоб ти вийшла з дому на зустріч з іншими жінками. Без прослуховувань і оцінок! Більше інформації на Facebook у групі «Хор Мам на Жолібожі»."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Żoliborz",
-      "updated_at": "2026-09-19T10:54:28.605895+00:00"
     },
     "ch-r-mam-2026-09-30T10:30:00+02:00": {
       "title": "Chór Mam",
@@ -14339,96 +13925,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-09-21T12:40:22.721193+00:00"
-    },
-    "warsztaty-laboratorium-rozwoju-umiej-tno-ci-strategii-i-wsp-pracy-warsztaty-z-nowoczesnymi-grami-planszowymi-2026-09-22T17:00:00+02:00": {
-      "title": "Warsztaty Laboratorium Rozwoju Umiejętności, Strategii i Współpracy - warsztaty z nowoczesnymi grami planszowymi",
-      "date": "2026-09-22T17:00:00+02:00",
-      "end_date": "2026-09-22T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zajęcia dla dzieci, młodzieży wraz z rodzicami - rozwój kompetencji miękkich poprzez gry planszowe. W kolejny spotkaniu cyklu, kolejne planszówkowe wyzwania! 🎲 W tym tygodniu powraca temat: Gry kooperacyjne – razem przeciwko grze! 🤝 📍 GDZIE I KIEDY SIĘ WIDZIMY? 🗓️ Data: 22 września, start o godz. 17:00 📌 Miejsce: Fundacja Sensus Vitae, ul. Rembielińska 20, Warszawa 👥 Uczestnicy: Dzieci i młodzież (10+) oraz rodzice 🎟️ Wstęp: wolny Większość gier przyzwyczaiła nas do prostego schematu: każdy gra na siebie, każdy chce wygrać, a sukces jednej osoby oznacza porażkę pozostałych. Gry kooperacyjne proponują zupełnie inne doświadczenie – tutaj przeciwnikiem nie jest drugi uczestnik, ale sama gra, a zwycięstwo zależy od tego, czy cała grupa potrafi wspólnie znaleźć rozwiązanie problemu. Wspólne osiąganie celu wymaga znacznie więcej niż tylko podzielenia się zadaniami. Trzeba słuchać siebie nawzajem, dzielić się informacjami, czasem przekonać grupę do własnego pomysłu, a czasem uznać, że lepszy jest plan kogoś innego. Jeśli drużyna przegrywa, nie przegrywa konkretna osoba, lecz cały zespół – dzięki temu łatwiej skupić się nie na szukaniu winnego, ale na analizie: co przeoczyliśmy, która decyzja okazała się błędna i co możemy zrobić inaczej przy kolejnej próbie? 🎲 W CO ZAGRAMY? Podczas warsztatów poznamy między innymi: 👉 Magic Maze 👉 Twierdza Runedar 👉 Wszystko albo Nic 👉 The Game 👉 Nic prostszego 👉 Jednym słowem Widzimy się przy planszy! 🧡 Planszówki nie tylko bawią ale także rozwijają kompetencje miękkie oraz wspomagają budowę relacji offline.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1789751395.webp",
-      "location": {
-        "name": "Fundacja Sensus Vitae ul. Rembielińska 20",
-        "district": "Targówek"
-      },
-      "url": "https://fb.me/e/9COBiHTW3",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://fb.me/e/9COBiHTW3",
-      "scrapped_timestamp": "2026-09-21T12:32:20.010403+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Games"
-      ],
-      "age_range": {
-        "min": 10,
-        "max": 18
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Warsztaty Laboratorium Rozwoju Umiejętności, Strategii i Współpracy - warsztaty z nowoczesnymi grami planszowymi",
-          "description": "Zajęcia dla dzieci, młodzieży wraz z rodzicami - rozwój kompetencji miękkich poprzez gry planszowe. W kolejny spotkaniu cyklu, kolejne planszówkowe wyzwania! 🎲 W tym tygodniu powraca temat: Gry kooperacyjne – razem przeciwko grze! 🤝 📍 GDZIE I KIEDY SIĘ WIDZIMY? 🗓️ Data: 22 września, start o godz. 17:00 📌 Miejsce: Fundacja Sensus Vitae, ul. Rembielińska 20, Warszawa 👥 Uczestnicy: Dzieci i młodzież (10+) oraz rodzice 🎟️ Wstęp: wolny Większość gier przyzwyczaiła nas do prostego schematu: każdy gra na siebie, każdy chce wygrać, a sukces jednej osoby oznacza porażkę pozostałych. Gry kooperacyjne proponują zupełnie inne doświadczenie – tutaj przeciwnikiem nie jest drugi uczestnik, ale sama gra, a zwycięstwo zależy od tego, czy cała grupa potrafi wspólnie znaleźć rozwiązanie problemu. Wspólne osiąganie celu wymaga znacznie więcej niż tylko podzielenia się zadaniami. Trzeba słuchać siebie nawzajem, dzielić się informacjami, czasem przekonać grupę do własnego pomysłu, a czasem uznać, że lepszy jest plan kogoś innego. Jeśli drużyna przegrywa, nie przegrywa konkretna osoba, lecz cały zespół – dzięki temu łatwiej skupić się nie na szukaniu winnego, ale na analizie: co przeoczyliśmy, która decyzja okazała się błędna i co możemy zrobić inaczej przy kolejnej próbie? 🎲 W CO ZAGRAMY? Podczas warsztatów poznamy między innymi: 👉 Magic Maze 👉 Twierdza Runedar 👉 Wszystko albo Nic 👉 The Game 👉 Nic prostszego 👉 Jednym słowem Widzimy się przy planszy! 🧡 Planszówki nie tylko bawią ale także rozwijają kompetencje miękkie oraz wspomagają budowę relacji offline."
-        },
-        "en": {
-          "title": "Skill Development, Strategy, and Cooperation Laboratory Workshops - Workshops with Modern Board Games",
-          "description": "Activities for children, youth, and their parents - developing soft skills through board games. In the next meeting of the series, more board game challenges! 🎲 This week, we return to the topic: Cooperative Games – together against the game! 🤝 📍 WHERE AND WHEN DO WE MEET? 🗓️ Date: September 22, starting at 5:00 PM 📌 Location: Sensus Vitae Foundation, Rembielińska 20, Warsaw 👥 Participants: Children and youth (10+) and parents 🎟️ Admission: free Most games have accustomed us to a simple scheme: everyone plays for themselves, everyone wants to win, and the success of one person means the failure of others. Cooperative games offer a completely different experience – here the opponent is not the other participant, but the game itself, and victory depends on whether the whole group can find a solution to the problem together."
-        },
-        "uk": {
-          "title": "Майстерня Лабораторії Розвитку Навичок, Стратегій та Співпраці - майстерня з сучасними настільними іграми",
-          "description": "Заняття для дітей, молоді разом з батьками - розвиток м'яких навичок через настільні ігри. На наступній зустрічі циклу - нові настільні виклики! 🎲 Цього тижня повертається тема: Кооперативні ігри – разом проти гри! 🤝 📍 ДЕ І КОЛИ МИ ЗУСТРІЧАЄМОСЯ? 🗓️ Дата: 22 вересня, початок о 17:00 📌 Місце: Фундація Sensus Vitae, вул. Рембєлінська 20, Варшава 👥 Учасники: Діти та молодь (10+) та батьки 🎟️ Вхід: вільний Більшість ігор звикли до простого сценарію: кожен грає за себе, кожен хоче виграти, а успіх однієї особи означає поразку інших. Кооперативні ігри пропонують зовсім інший досвід – тут супротивником не є інший учасник, а сама гра, а перемога залежить від того, чи вся група може спільно знайти рішення проблеми."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Targówek",
-      "updated_at": "2026-09-21T12:40:22.721225+00:00"
-    },
-    "otwarcie-vr-parku-rozrywka-nowej-generacji-2026-09-22T17:00:00+02:00": {
-      "title": "Otwarcie VR Parku – rozrywka nowej generacji",
-      "date": "2026-09-22T17:00:00+02:00",
-      "end_date": "2026-09-22T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na wielkie otwarcie VR Parku — miejsca, w którym technologia, emocje i rozrywka spotykają się na jednym poziomie! 🥽🚀 Czekają na Was wyjątkowe atrakcje, niespodzianki i specjalne promocje z okazji otwarcia. 📸 Zrób zdjęcie na miejscu i opublikuj je na Instagramie, a będziesz mieć możliwość przejażdżki na ARK One za darmo! 🔥 A to jeszcze nie wszystko — przygotowaliśmy inne akcje, promocje i niespodzianki, które poznacie dopiero na miejscu. 😉 🎮 Otwarcie VR Parku – rozrywka nowej generacji 📅 22 września 2026 ⏰ Godz. 18:00 📍 Galeria Młociny, 2. piętro, Warszawa Wpadnijcie, bawcie się i odkryjcie nowy poziom rozrywki! Do zobaczenia 22 września! 🚀🥽",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1789816783.webp",
-      "location": {
-        "name": "Zgrupowania AK \"Kampinos\" 15, Galeria Młociny",
-        "district": "Bielany"
-      },
-      "url": "https://www.instagram.com/port_vr_pl/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.instagram.com/port_vr_pl/",
-      "scrapped_timestamp": "2026-09-21T12:32:28.459741+00:00",
-      "category": "Family Fun",
-      "additional_categories": [
-        "Games"
-      ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Otwarcie VR Parku – rozrywka nowej generacji",
-          "description": "Zapraszamy na wielkie otwarcie VR Parku — miejsca, w którym technologia, emocje i rozrywka spotykają się na jednym poziomie! 🥽🚀 Czekają na Was wyjątkowe atrakcje, niespodzianki i specjalne promocje z okazji otwarcia. 📸 Zrób zdjęcie na miejscu i opublikuj je na Instagramie, a będziesz mieć możliwość przejażdżki na ARK One za darmo! 🔥 A to jeszcze nie wszystko — przygotowaliśmy inne akcje, promocje i niespodzianki, które poznacie dopiero na miejscu. 😉 🎮 Otwarcie VR Parku – rozrywka nowej generacji 📅 22 września 2026 ⏰ Godz. 18:00 📍 Galeria Młociny, 2. piętro, Warszawa Wpadnijcie, bawcie się i odkryjcie nowy poziom rozrywki! Do zobaczenia 22 września! 🚀🥽"
-        },
-        "en": {
-          "title": "Opening of the VR Park – Entertainment of a New Generation",
-          "description": "We invite you to the grand opening of the VR Park — a place where technology, emotions, and entertainment meet on one level! 🥽🚀 Unique attractions, surprises, and special promotions await you for the opening. 📸 Take a photo on-site and post it on Instagram for a chance to ride the ARK One for free! 🔥 And that's not all — we have prepared other activities, promotions, and surprises that you will discover only on-site. 😉 🎮 Opening of the VR Park – entertainment of a new generation 📅 September 22, 2026 ⏰ 6:00 PM 📍 Galeria Młociny, 2nd floor, Warsaw Come by, have fun, and discover a new level of entertainment! See you on September 22! 🚀🥽"
-        },
-        "uk": {
-          "title": "Відкриття VR Парку – розваги нового покоління",
-          "description": "Запрошуємо на велике відкриття VR Парку — місця, де технології, емоції та розваги зустрічаються на одному рівні! 🥽🚀 На вас чекають унікальні атракції, сюрпризи та спеціальні акції з нагоди відкриття. 📸 Зробіть фото на місці та опублікуйте його в Instagram, і ви отримаєте можливість безкоштовної поїздки на ARK One! 🔥 А це ще не все — ми підготували інші акції, пропозиції та сюрпризи, які ви дізнаєтеся лише на місці. 😉 🎮 Відкриття VR Парку – розваги нового покоління 📅 22 вересня 2026 ⏰ Год. 18:00 📍 Галерея Млоцини, 2-й поверх, Варшава Завітайте, розважайтеся та відкривайте новий рівень розваг! До зустрічі 22 вересня! 🚀🥽"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bielany",
-      "updated_at": "2026-09-21T12:40:22.721246+00:00"
     },
     "rysujemy-zwierz-ta-spotkania-w-nowej-palmiarni-2026-09-25T10:30:00+02:00": {
       "title": "Rysujemy zwierzęta - spotkania w Nowej Palmiarni",
@@ -16798,122 +16294,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-09-21T12:40:22.722526+00:00"
     },
-    "liczby-kt-re-nie-gryz-matematyka-bez-stresu-2026-09-22T16:30:00+02:00": {
-      "title": "„Liczby, które nie gryzą” – matematyka bez stresu",
-      "date": "2026-09-22T16:30:00+02:00",
-      "end_date": "2026-09-22T16:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wydarzenie\n\n 22.09.2026 16:30 - 22.09.2026 17:30\n  Pokaż pozostałe daty wydarzenia\n\nNastępne wydarzenia:\n\n• 29.09.2026 16:30 - 29.09.2026 17:30\n\n  Biblioteka Publiczna - Filia „Szamoty”,   Silnikowa 8A,   02-495 Warszawa\n\nZapraszamy uczniów szkoły podstawowej na zajęcia wspierające w nauce matematyki. W przyjaznej atmosferze pomagamy zrozumieć bieżący materiał, utrwalić wiedzę oraz rozwiać matematyczne wątpliwości. Zajęcia dostosowane są do potrzeb uczestników i pokazują, że matematyka może być prosta i zrozumiała.\n\n🔢 **Obowiązują zapisy** 🔢\n Aby uzyskać więcej informacji oraz zapisać się, prosimy o kontakt pod numerem telefonu\n 22 882 43 00 wew. 5\n\n Informacje o dostępności placówki: biblioteka dwupoziomowa, winda wewnętrzna. TOTUPOINT, PJM on-line, pętla indukcyjna.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie\n\nTrwa wczytywanie mapy. W przypadku problemów proszę wyczyścić ciasteczka.",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/-liczby-ktore-nie-gryza-matematyka-bez-stre-4",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Filia „Szamoty”, Silnikowa 8A, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/-liczby-ktore-nie-gryza-matematyka-bez-stre-4",
-      "scrapped_timestamp": "2026-09-21T19:18:30.406305+00:00",
-      "category": "Educational",
-      "age_range": {
-        "min": 5,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "„Liczby, które nie gryzą” – matematyka bez stresu",
-          "description": "Wydarzenie\n\n 22.09.2026 16:30 - 22.09.2026 17:30\n  Pokaż pozostałe daty wydarzenia\n\nNastępne wydarzenia:\n\n• 29.09.2026 16:30 - 29.09.2026 17:30\n\n  Biblioteka Publiczna - Filia „Szamoty”,   Silnikowa 8A,   02-495 Warszawa\n\nZapraszamy uczniów szkoły podstawowej na zajęcia wspierające w nauce matematyki. W przyjaznej atmosferze pomagamy zrozumieć bieżący materiał, utrwalić wiedzę oraz rozwiać matematyczne wątpliwości. Zajęcia dostosowane są do potrzeb uczestników i pokazują, że matematyka może być prosta i zrozumiała.\n\n🔢 **Obowiązują zapisy** 🔢\n Aby uzyskać więcej informacji oraz zapisać się, prosimy o kontakt pod numerem telefonu\n 22 882 43 00 wew. 5\n\n Informacje o dostępności placówki: biblioteka dwupoziomowa, winda wewnętrzna. TOTUPOINT, PJM on-line, pętla indukcyjna.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie\n\nTrwa wczytywanie mapy. W przypadku problemów proszę wyczyścić ciasteczka."
-        },
-        "en": {
-          "title": "\"Numbers That Don't Bite\" – Mathematics Without Stress",
-          "description": "Event\n\n 22.09.2026 16:30 - 22.09.2026 17:30\n  Show other event dates\n\nNext events:\n\n• 29.09.2026 16:30 - 29.09.2026 17:30\n\n  Public Library - Branch \"Szamoty\",   Silnikowa 8A,   02-495 Warsaw\n\nWe invite primary school students to classes supporting their learning in mathematics. In a friendly atmosphere, we help understand the current material, reinforce knowledge, and dispel mathematical doubts. The classes are tailored to the participants' needs and show that mathematics can be simple and understandable.\n\n🔢 **Registration is required** 🔢\n To get more information and to register, please contact us at the phone number\n 22 882 43 00 ext. 5\n\n Information about the facility's accessibility: two-level library, internal elevator. TOTUPOINT, PJM online, induction loop.\n\n  The event will provide"
-        },
-        "uk": {
-          "title": "„Числа, які не кусаються” – математика без стресу",
-          "description": "Подія\n\n 22.09.2026 16:30 - 22.09.2026 17:30\n  Показати інші дати події\n\nНаступні події:\n\n• 29.09.2026 16:30 - 29.09.2026 17:30\n\n  Публічна бібліотека - Філія „Шамоти”,   Силникова 8А,   02-495 Варшава\n\nЗапрошуємо учнів початкової школи на заняття, що підтримують у вивченні математики. У дружній атмосфері допомагаємо зрозуміти поточний матеріал, закріпити знання та розвіяти математичні сумніви. Заняття адаптовані до потреб учасників і показують, що математика може бути простою та зрозумілою.\n\n🔢 **Обов'язкові записи** 🔢\n Щоб отримати більше інформації та записатися, просимо зв'язатися за номером телефону\n 22 882 43 00 внутр. 5\n\n Інформація про доступність закладу: бібліотека двоповерхова, внутрішній ліфт. TOTUPOINT, PJM онлайн, індукційна петля.\n\n  Подія забезпечить"
-        }
-      },
-      "updated_at": "2026-09-21T19:27:35.720305+00:00"
-    },
-    "mali-wielcy-czyli-pi-spotka-ze-sztuk-2026-09-22T17:00:00+02:00": {
-      "title": "Mali Wielcy, czyli pięć spotkań ze sztuką",
-      "date": "2026-09-22T17:00:00+02:00",
-      "end_date": "2026-09-22T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wydarzenie\n\n 22.09.2026 17:00 - 22.09.2026 18:00\n  Pokaż pozostałe daty wydarzenia\n\nNastępne wydarzenia:\n\n• 29.09.2026 17:00 - 29.09.2026 18:00\n\n• warsztaty dla dzieci\n\nWe wrześniu Wilanowska Biblioteka Publiczna zaprasza dzieci w wieku od 6 do 9 lat na pięć spotkań z artystami, którzy potrafili spojrzeć na świat zupełnie inaczej niż pozostali. Każdy wtorek przyniesie nową historię, technikę i zadanie plastyczne. Będą linie inspirowane muzyką, portrety z warzyw i owoców, abstrakcyjne eksperymenty, obrazy „malowane nożyczkami” oraz papierowa fala rodem z Japonii.\n\nCykl „Mali Wielcy” pokaże dzieciom, że historia sztuki nie musi oznaczać zapamiętywania trudnych nazwisk i dat. Może być punktem wyjścia do pracy z kolorem, kształtem, papierem i własną wyobraźnią. We wrześniu uczestnicy poznają pięciu artystów, a następnie sprawdzą w praktyce, co wyróżniało ich twórczość.\n\nPierwsze spotkanie odbędzie się we wtorek 1 września o godz. 17.00. Jego bohaterem będzie Paul Klee, malarz, dla którego ważnym źródłem inspiracji były muzyka, matematyka oraz dziecięcy sposób patrzenia na świat. Artysta tworzył za pomocą oszczędnych środków, chętnie sięgał po kolorowe tła i różnego rodzaju linie, a w jego pracach pojawiały się również koty. Podczas zajęć dzieci przyjrzą się temu, jak z prostych elementów może powstać obraz, i stworzą własne prace inspirowane sztuką Klee.\n\nWe wtorek 8 września o godz. 17.00 uczestnicy przeniosą się na renesansowy dwór Habsburgów i poznają Giuseppe Arcimbolda. Ten niezwykły malarz układał ludzkie twarze z owoców, warzyw, kwiatów oraz przedmiotów codziennego użytku. To, co na pierwszy rzut oka wyglądało jak kosz pełen darów natury, po chwili zamieniało się w portret. Dzieci również poszukają nieoczywistych połączeń i podejmą próbę zbudowania fantazyjnych twarzy z elementów, które zazwyczaj nie kojarzą się z portretowaniem.\n\nSpotkanie zaplanowane na wtorek 15 września o godz. 17.00 będzie poświęcone Wassilemu Kandinsky’emu, jednemu z pionierów sztuki abstrakcyjnej. Zanim został artystą, zajmował się prawem i ekonomią. Do zmiany drogi zawodowej skłoniło go zetknięcie z malarstwem Claude’a Moneta. Kandinsky szczególne znaczenie przypisywał kolorom i formom, a dzięki synestezji łączył wrażenia wzrokowe z dźwiękami. Podczas warsztatów dzieci zastanowią się, czy można usłyszeć kolor, czym właściwie jest abstrakcja i czy obraz musi przedstawiać coś, co znamy. Później przełożą te pytania na własne, pełne energii kompozycje.\n\nWe wtorek 22 września o godz. 17.00 przyjdzie czas na Henriego Matisse’a. Francuski malarz i rzeźbiarz początkowo studiował prawo i pracował w kancelarii adwokackiej. Sztuką zainteresował się podczas rekonwalescencji po operacji. Z czasem stał się jednym z najważniejszych przedstawicieli fowizmu, kierunku rozpoznawalnego dzięki intensywnym barwom i uproszczonym formom. W późniejszym okresie twórczości Matisse zaczął „malować nożyczkami”, wycinając kształty z kolorowego papieru i układając z nich kompozycje. Tę właśnie technikę wypróbują uczestnicy spotkania, przekonując się, ile możliwości kryje się w zwykłym kawałku papieru.\n\nWrześniowy cykl zakończy się we wtorek 29 września o godz. 17.00 spotkaniem z Katsushiką Hokusaiem. Japoński artysta już jako piętnastolatek wykonywał poważne zlecenia, a później tworzył drzeworyty, ilustracje książkowe i obrazy. W ciągu życia posługiwał się ponad trzydziestoma pseudonimami i, jak głosi przekaz, przeprowadzał się aż 93 razy. Podczas zajęć dzieci poznają jego najsłynniejszy motyw, potężną morską falę, a następnie spróbują pokazać za pomocą papieru ruch, siłę i energię wody. Każdy uczestnik stworzy własną interpretację „Wielkiej fali”.\n\nWszystkie warsztaty odbędą się w Wilanowskiej Bibliotece Publicznej przy ul. Kolegiackiej 3. Zajęcia są przeznaczone dla dzieci w wieku od 6 do 9 lat.\n\nObowiązują zapisy pod numerem telefonu 22 277 03 77 lub adresem wilanow@bibliotekawilanowska.pl.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie",
-      "image": "https://wilanow.um.warszawa.pl/documents/44464/166030423/Mali+Wielcy+-+wrzesie%C5%84+%282%29.jpg/fbe5b22a-9f0b-bd95-6e2f-e1e36114240a?version=1.0&t=1788269747692&imagePreview=1",
-      "url": "https://wilanow.um.warszawa.pl/-/mali-wielcy-czyli-piec-spotkan-ze-sztuka",
-      "source": "um.warszawa.pl",
-      "district": "Wilanów",
-      "scrapped_url": "https://wilanow.um.warszawa.pl/-/mali-wielcy-czyli-piec-spotkan-ze-sztuka",
-      "scrapped_timestamp": "2026-09-21T19:18:39.069815+00:00",
-      "category": "Arts",
-      "additional_categories": [
-        "Workshops"
-      ],
-      "age_range": {
-        "min": 6,
-        "max": 9
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Mali Wielcy, czyli pięć spotkań ze sztuką",
-          "description": "Wydarzenie\n\n 22.09.2026 17:00 - 22.09.2026 18:00\n  Pokaż pozostałe daty wydarzenia\n\nNastępne wydarzenia:\n\n• 29.09.2026 17:00 - 29.09.2026 18:00\n\n• warsztaty dla dzieci\n\nWe wrześniu Wilanowska Biblioteka Publiczna zaprasza dzieci w wieku od 6 do 9 lat na pięć spotkań z artystami, którzy potrafili spojrzeć na świat zupełnie inaczej niż pozostali. Każdy wtorek przyniesie nową historię, technikę i zadanie plastyczne. Będą linie inspirowane muzyką, portrety z warzyw i owoców, abstrakcyjne eksperymenty, obrazy „malowane nożyczkami” oraz papierowa fala rodem z Japonii.\n\nCykl „Mali Wielcy” pokaże dzieciom, że historia sztuki nie musi oznaczać zapamiętywania trudnych nazwisk i dat. Może być punktem wyjścia do pracy z kolorem, kształtem, papierem i własną wyobraźnią. We wrześniu uczestnicy poznają pięciu artystów, a następnie sprawdzą w praktyce, co wyróżniało ich twórczość.\n\nPierwsze spotkanie odbędzie się we wtorek 1 września o godz. 17.00. Jego bohaterem będzie Paul Klee, malarz, dla którego ważnym źródłem inspiracji były muzyka, matematyka oraz dziecięcy sposób patrzenia na świat. Artysta tworzył za pomocą oszczędnych środków, chętnie sięgał po kolorowe tła i różnego rodzaju linie, a w jego pracach pojawiały się również koty. Podczas zajęć dzieci przyjrzą się temu, jak z prostych elementów może powstać obraz, i stworzą własne prace inspirowane sztuką Klee.\n\nWe wtorek 8 września o godz. 17.00 uczestnicy przeniosą się na renesansowy dwór Habsburgów i poznają Giuseppe Arcimbolda. Ten niezwykły malarz układał ludzkie twarze z owoców, warzyw, kwiatów oraz przedmiotów codziennego użytku. To, co na pierwszy rzut oka wyglądało jak kosz pełen darów natury, po chwili zamieniało się w portret. Dzieci również poszukają nieoczywistych połączeń i podejmą próbę zbudowania fantazyjnych twarzy z elementów, które zazwyczaj nie kojarzą się z portretowaniem.\n\nSpotkanie zaplanowane na wtorek 15 września o godz. 17.00 będzie poświęcone Wassilemu Kandinsky’emu, jednemu z pionierów sztuki abstrakcyjnej. Zanim został artystą, zajmował się prawem i ekonomią. Do zmiany drogi zawodowej skłoniło go zetknięcie z malarstwem Claude’a Moneta. Kandinsky szczególne znaczenie przypisywał kolorom i formom, a dzięki synestezji łączył wrażenia wzrokowe z dźwiękami. Podczas warsztatów dzieci zastanowią się, czy można usłyszeć kolor, czym właściwie jest abstrakcja i czy obraz musi przedstawiać coś, co znamy. Później przełożą te pytania na własne, pełne energii kompozycje.\n\nWe wtorek 22 września o godz. 17.00 przyjdzie czas na Henriego Matisse’a. Francuski malarz i rzeźbiarz początkowo studiował prawo i pracował w kancelarii adwokackiej. Sztuką zainteresował się podczas rekonwalescencji po operacji. Z czasem stał się jednym z najważniejszych przedstawicieli fowizmu, kierunku rozpoznawalnego dzięki intensywnym barwom i uproszczonym formom. W późniejszym okresie twórczości Matisse zaczął „malować nożyczkami”, wycinając kształty z kolorowego papieru i układając z nich kompozycje. Tę właśnie technikę wypróbują uczestnicy spotkania, przekonując się, ile możliwości kryje się w zwykłym kawałku papieru.\n\nWrześniowy cykl zakończy się we wtorek 29 września o godz. 17.00 spotkaniem z Katsushiką Hokusaiem. Japoński artysta już jako piętnastolatek wykonywał poważne zlecenia, a później tworzył drzeworyty, ilustracje książkowe i obrazy. W ciągu życia posługiwał się ponad trzydziestoma pseudonimami i, jak głosi przekaz, przeprowadzał się aż 93 razy. Podczas zajęć dzieci poznają jego najsłynniejszy motyw, potężną morską falę, a następnie spróbują pokazać za pomocą papieru ruch, siłę i energię wody. Każdy uczestnik stworzy własną interpretację „Wielkiej fali”.\n\nWszystkie warsztaty odbędą się w Wilanowskiej Bibliotece Publicznej przy ul. Kolegiackiej 3. Zajęcia są przeznaczone dla dzieci w wieku od 6 do 9 lat.\n\nObowiązują zapisy pod numerem telefonu 22 277 03 77 lub adresem wilanow@bibliotekawilanowska.pl.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie"
-        },
-        "en": {
-          "title": "Little Greats, or Five Meetings with Art",
-          "description": "Event\n\n 22.09.2026 17:00 - 22.09.2026 18:00\n  Show remaining event dates\n\nNext events:\n\n• 29.09.2026 17:00 - 29.09.2026 18:00\n\n• workshops for children\n\nIn September, the Wilanów Public Library invites children aged 6 to 9 to five meetings with artists who have been able to look at the world in a completely different way than others. Each Tuesday will bring a new story, technique, and artistic task. There will be lines inspired by music, portraits made from vegetables and fruits, abstract experiments, \"paintings made with scissors,\" and a paper wave straight from Japan.\n\nThe \"Little Greats\" cycle will show children that the history of art does not have to mean memorizing difficult names and dates. It can be a starting point for working with color, shape, paper, and their own imagination. In September, participants will learn about p"
-        },
-        "uk": {
-          "title": "Малі Великі, або п’ять зустрічей з мистецтвом",
-          "description": "Подія\n\n 22.09.2026 17:00 - 22.09.2026 18:00\n  Показати інші дати події\n\nНаступні події:\n\n• 29.09.2026 17:00 - 29.09.2026 18:00\n\n• майстер-класи для дітей\n\nУ вересні Вілановська Публічна Бібліотека запрошує дітей віком від 6 до 9 років на п’ять зустрічей з художниками, які вміють дивитися на світ зовсім інакше, ніж інші. Кожен вівторок принесе нову історію, техніку та художнє завдання. Будуть лінії, натхненні музикою, портрети з овочів та фруктів, абстрактні експерименти, картини «намальовані ножицями» та паперова хвиля з Японії.\n\nЦикл «Малі Великі» покаже дітям, що історія мистецтва не повинна означати запам’ятовування складних прізвищ і дат. Може бути відправною точкою для роботи з кольором, формою, папером та власною уявою. У вересні учасники познайомляться з"
-        }
-      },
-      "updated_at": "2026-09-21T19:27:35.720335+00:00"
-    },
-    "mi-dzykulturowy-klub-j-zykowy-spotkania-rodzinne-2026-09-22T18:00:00+02:00": {
-      "title": "Międzykulturowy Klub Językowy - spotkania rodzinne",
-      "date": "2026-09-22T18:00:00+02:00",
-      "end_date": "2026-09-22T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wydarzenie\n\n 22.09.2026 18:00 - 22.09.2026 19:30\n  Pokaż pozostałe daty wydarzenia\n\nNastępne wydarzenia:\n\n• 29.09.2026 18:00 - 29.09.2026 19:30\n\n  Biblioteka Publiczna - Czytelnia nr XIX,   Kolorowa 17,   02-495 Warszawa\n\nZapraszamy na  spotkania rodzinne poświęcone nauce jezyków i poznanie wielu kultur.\n\nSpotkanie odbywa się bez ograniczeń wiekowych.\n\nWstęp wolny!\n\nInformacje o dostępności placówki: podjazd dla wózków inwalidzkich. PJM on-line, pętla indukcyjna.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie\n\nTrwa wczytywanie mapy. W przypadku problemów proszę wyczyścić ciasteczka.",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/miedzykulturowy-klub-jezykowy-spotkania-rodzinne",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Czytelnia nr XIX, Kolorowa 17, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/miedzykulturowy-klub-jezykowy-spotkania-rodzinne",
-      "scrapped_timestamp": "2026-09-21T19:18:47.407465+00:00",
-      "category": "Educational",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Międzykulturowy Klub Językowy - spotkania rodzinne",
-          "description": "Wydarzenie\n\n 22.09.2026 18:00 - 22.09.2026 19:30\n  Pokaż pozostałe daty wydarzenia\n\nNastępne wydarzenia:\n\n• 29.09.2026 18:00 - 29.09.2026 19:30\n\n  Biblioteka Publiczna - Czytelnia nr XIX,   Kolorowa 17,   02-495 Warszawa\n\nZapraszamy na  spotkania rodzinne poświęcone nauce jezyków i poznanie wielu kultur.\n\nSpotkanie odbywa się bez ograniczeń wiekowych.\n\nWstęp wolny!\n\nInformacje o dostępności placówki: podjazd dla wózków inwalidzkich. PJM on-line, pętla indukcyjna.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie\n\nTrwa wczytywanie mapy. W przypadku problemów proszę wyczyścić ciasteczka."
-        },
-        "en": {
-          "title": "Intercultural Language Club - Family Meetings",
-          "description": "Event\n\n 22.09.2026 18:00 - 22.09.2026 19:30\n  Show other event dates\n\nNext events:\n\n• 29.09.2026 18:00 - 29.09.2026 19:30\n\n  Public Library - Reading Room No. XIX,   Kolorowa 17,   02-495 Warsaw\n\nWe invite you to family meetings dedicated to learning languages and getting to know many cultures.\n\nThe meeting is held without age restrictions.\n\nFree admission!\n\nInformation about the facility's accessibility: wheelchair ramp. PJM online, induction loop.\n\n  The event provides the following amenities\n\n  Check the location on the map\n\nLoading map. If there are problems, please clear cookies."
-        },
-        "uk": {
-          "title": "Міжкультурний мовний клуб - сімейні зустрічі",
-          "description": "Подія\n\n 22.09.2026 18:00 - 22.09.2026 19:30\n  Показати інші дати події\n\nНаступні події:\n\n• 29.09.2026 18:00 - 29.09.2026 19:30\n\n  Публічна бібліотека - Читальня № XIX,   Кольорова 17,   02-495 Варшава\n\nЗапрошуємо на  зустрічі сімейні, присвячені вивченню мов та знайомству з багатьма культурами.\n\nЗустріч проходить без вікових обмежень.\n\nВхід вільний!\n\nІнформація про доступність закладу: пандус для інвалідних візків. PJM онлайн, індукційна петля.\n\n  Подія забезпечує наступні зручності\n\n  Перевірте місцезнаходження на карті\n\nТриває завантаження карти. У разі проблем, будь ласка, очистіть куки."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-09-21T19:27:35.720361+00:00"
-    },
     "ekobajanie-zaj-cia-dla-dzieci-w-wieku-5-6-lat-2026-09-23T16:30:00+02:00": {
       "title": "„Ekobajanie” – zajęcia dla dzieci w wieku 5–6 lat",
       "date": "2026-09-23T16:30:00+02:00",
@@ -19209,129 +18589,6 @@
       },
       "updated_at": "2026-09-21T19:27:35.721956+00:00"
     },
-    "zaj-cia-rytmiczne-dla-dzieci-2026-09-22T10:00:00+02:00": {
-      "title": "Zajęcia rytmiczne dla dzieci",
-      "date": "2026-09-22T10:00:00+02:00",
-      "end_date": "2026-09-22T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W trakcie zajęć wykorzystamy obecność opiekunów – do masaży, wspólnych ćwiczeń i zadań sensorycznych. Poprosimy rodziców, aby śpiewali wspólnie z instruktorką. Wprowadzimy też elementy muzycznych zajęć logopedycznych oraz jogi. Wykorzystamy różne gatunki muzyczne, m.in. klasyczną, regionalną (np. irlandzką), dziecięcą czy współczesne standardy. To pozwoli na stawianie pierwszych kroków w świecie muzyki. Przy okazji dzieci nauczą się podstawowych postaw społecznych: bycia razem, wspólnej zabawy, wzajemnego szacunku i respektowania potrzeb.\n\nProsimy o zapisywanie dzieci zgodnie z wiekiem.\n\nCykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Rytmika i spotkania z muzyką dla dzieci” nr 1530.",
-      "url": "https://bemowskie.pl/wydarzenia/zajecia-rytmiczne-dla-dzieci-w-wieku-10-20-miesiecy-2/",
-      "source": "bemowskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 1
-      },
-      "location": {
-        "name": "Bemowskie Centrum Kultury, MAL Boernerowo · ul. Sobczaka 5",
-        "district": "Bemowo"
-      },
-      "image": "https://bemowskie.pl/wp-content/uploads/2026/05/rytmika.png",
-      "scrapped_url": "https://bemowskie.pl/wydarzenia/zajecia-rytmiczne-dla-dzieci-w-wieku-10-20-miesiecy-2/",
-      "scrapped_timestamp": "2026-09-22T11:22:25.981480+00:00",
-      "translations": {
-        "pl": {
-          "title": "Zajęcia rytmiczne dla dzieci",
-          "description": "W trakcie zajęć wykorzystamy obecność opiekunów – do masaży, wspólnych ćwiczeń i zadań sensorycznych. Poprosimy rodziców, aby śpiewali wspólnie z instruktorką. Wprowadzimy też elementy muzycznych zajęć logopedycznych oraz jogi. Wykorzystamy różne gatunki muzyczne, m.in. klasyczną, regionalną (np. irlandzką), dziecięcą czy współczesne standardy. To pozwoli na stawianie pierwszych kroków w świecie muzyki. Przy okazji dzieci nauczą się podstawowych postaw społecznych: bycia razem, wspólnej zabawy, wzajemnego szacunku i respektowania potrzeb.\n\nProsimy o zapisywanie dzieci zgodnie z wiekiem.\n\nCykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Rytmika i spotkania z muzyką dla dzieci” nr 1530."
-        },
-        "en": {
-          "title": "Rhythmic Classes for Children",
-          "description": "During the classes, we will utilize the presence of caregivers – for massages, joint exercises, and sensory tasks. We will ask parents to sing along with the instructor. We will also introduce elements of musical speech therapy classes and yoga. We will use various music genres, including classical, regional (e.g., Irish), children's music, and contemporary standards. This will allow for taking the first steps into the world of music. In the process, children will learn basic social attitudes: being together, playing together, mutual respect, and respecting needs.\n\nWe ask you to register children according to their age.\n\nA series of workshops implemented as part of the Civic Budget from the project \"Rhythm and Meetings with Music for Children\" no. 1530."
-        },
-        "uk": {
-          "title": "Ритмічні заняття для дітей",
-          "description": "В trakcie zajęć wykorzystamy obecność опiekunów – do masaży, wspólnych ćwiczeń i zadań sensorycznych. Poprosimy rodziców, aby śpiewali wspólnie z instruktorką. Введемо також елементи музичних занять логопедичних та йоги. Використаємо різні жанри музики, зокрема класичну, регіональну (наприклад, ірландську), дитячу чи сучасні стандарти. Це дозволить на ставлення перших кроків у світі музики. При нагоді діти навчаться основних соціальних поз: бути разом, спільної гри, взаємної поваги та поваги до потреб.\n\nПросимо про записування дітей відповідно до віку.\n\nЦикл майстер-класів реалізується в рамках Бюджету Громадянського з проекту \"Ритміка та зустрічі з музикою для дітей\" № 1530."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-09-22T11:23:51.502826+00:00"
-    },
-    "spaghetti-2026-09-22T10:00:00+02:00": {
-      "title": "Spaghetti",
-      "date": "2026-09-22T10:00:00+02:00",
-      "end_date": "2026-09-22T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Na scenie będzie gwarno, wesoło, tanecznie i oczywiście muzycznie. Młodzi widzowie będą mieli okazję nie tylko poznać tajniki przyrządzania jednej z popularniejszych (i pyszniejszych!) potraw, ale także posłuchać muzyki granej na żywo przez aktorów oraz towarzyszyć ich wszystkim figlom.\n\nW atmosferze zabawy uczymy się też tolerancji, akceptacji inności oraz szacunku dla innych.\n\nSpektakl powstał we współpracy Teatru Baj w Warszawie i Theatergruppe Batida w Kopenhadze.",
-      "url": "https://teatrbaj.pl/repertuar/spaghetti/#22-09",
-      "source": "teatrbaj.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Theater",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "location": {
-        "name": "55 min Teatr Baj · ul. Jagiellońska 28",
-        "district": "Praga-Północ"
-      },
-      "image": "https://teatrbaj.pl/wp-content/uploads/2020/10/16.jpg",
-      "scrapped_url": "https://teatrbaj.pl/repertuar/spaghetti/#22-09",
-      "scrapped_timestamp": "2026-09-22T11:22:31.563025+00:00",
-      "translations": {
-        "pl": {
-          "title": "Spaghetti",
-          "description": "Na scenie będzie gwarno, wesoło, tanecznie i oczywiście muzycznie. Młodzi widzowie będą mieli okazję nie tylko poznać tajniki przyrządzania jednej z popularniejszych (i pyszniejszych!) potraw, ale także posłuchać muzyki granej na żywo przez aktorów oraz towarzyszyć ich wszystkim figlom.\n\nW atmosferze zabawy uczymy się też tolerancji, akceptacji inności oraz szacunku dla innych.\n\nSpektakl powstał we współpracy Teatru Baj w Warszawie i Theatergruppe Batida w Kopenhadze."
-        },
-        "en": {
-          "title": "Spaghetti",
-          "description": "The stage will be lively, cheerful, danceable, and of course, musical. Young viewers will have the opportunity not only to learn the secrets of preparing one of the more popular (and tastier!) dishes, but also to listen to live music played by the actors and accompany all their antics.\n\nIn the atmosphere of fun, we also learn tolerance, acceptance of differences, and respect for others.\n\nThe performance was created in collaboration with the Baj Theater in Warsaw and the Theatergruppe Batida in Copenhagen."
-        },
-        "uk": {
-          "title": "Спагетті",
-          "description": "На сцені буде гучно, весело, танцювально і, звичайно, музично. Молоді глядачі матимуть можливість не тільки познайомитися з тонкощами приготування однієї з популярніших (і смачніших!) страв, але й послухати музику, що грається наживо акторами, а також супроводжувати їх усіма витівками.\n\nВ атмосфері розваги ми також вчимося терпимості, прийняття інакшості та поваги до інших.\n\nВистава була створена у співпраці Театру Бай у Варшаві та Theatergruppe Batida у Копенгагені."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Praga-Północ",
-      "updated_at": "2026-09-22T11:23:51.502851+00:00"
-    },
-    "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-09-22T11:00:00+02:00": {
-      "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-      "date": "2026-09-22T11:00:00+02:00",
-      "end_date": "2026-09-22T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan.",
-      "url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#22-09",
-      "source": "bielany.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
-        "district": "Bielany"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#22-09",
-      "scrapped_timestamp": "2026-09-22T11:22:35.561031+00:00",
-      "translations": {
-        "pl": {
-          "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-          "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan."
-        },
-        "en": {
-          "title": "We Have a Carpet – Neighborhood Toddler Zone",
-          "description": "Every Tuesday we roll out the carpet and open our space for spontaneous neighborhood meetings for the youngest children and parents from Bielany."
-        },
-        "uk": {
-          "title": "Ми на килимку – сусідська зона малюка",
-          "description": "Щовівторка розгортаємо килим і відкриваємо наш простір для спонтанних сусідських зустрічей для найменших діток та батьків з Білян."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bielany",
-      "updated_at": "2026-09-22T11:23:51.502874+00:00"
-    },
     "europejski-tydzie-sportu-beactive-2026-09-30T18:00:00+02:00": {
       "title": "Europejski Tydzień Sportu #BeActive",
       "date": "2026-09-30T18:00:00+02:00",
@@ -19590,48 +18847,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-09-22T11:23:51.503035+00:00"
-    },
-    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-09-22T10:00:00+02:00": {
-      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-      "date": "2026-09-22T10:00:00+02:00",
-      "end_date": "2026-09-22T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "scrapped_timestamp": "2026-09-22T11:23:25.971292+00:00",
-      "category": "Arts",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
-        },
-        "en": {
-          "title": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"",
-          "description": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"\n\nWe invite you to guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world-renowned works, including paintings by masters such as Maurice Denis, Paul Ranson, and Paul Sérusier. The curators of the exhibition and museum educators will tell us about them.\n\nThe exhibition \"Nabis. Prophets of New Art\" showcases, among other things, the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called School of Pont-Aven. It also includes works of a religious and esoteric nature, views of interiors, and genre scenes, as well as the activities of the magazine \"La Revue Blanche\" run by the Natanson brothers - Tadeusz and Aleksander. In total, we will see over 90 works in the fields of painting, drawing, and graphics. The works come from Polish and foreign collections."
-        },
-        "uk": {
-          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
-          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\" Запрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Зможемо побачити світові твори, а це, зокрема, картини таких майстрів, як Моріс Дені, Поль Рансон і Поль Серюзьє. Розкажуть про них куратори експозиції та музейні освітяни. Виставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Пола Гогена і так званої Школи Пон-Авен. Охоплює також твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, що проводилася братами Натансон - Тадеушем і Олександром - журналу \"La Revue Blanche\". Всього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
-      },
-      "updated_at": "2026-09-22T11:23:51.503071+00:00"
     }
   }
 }

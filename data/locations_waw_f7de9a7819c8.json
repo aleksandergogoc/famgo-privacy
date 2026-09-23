@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:33:52.139802+00:00",
+  "updated_at": "2026-09-23T11:29:53.187987+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -7026,6 +7026,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-22T11:23:50.893676+00:00"
+    },
+    "ul. sobczaka 5": {
+      "name": "ul. Sobczaka 5",
+      "district": "Bemowo",
+      "address": "ul. Sobczaka 5",
+      "normalized": "ul. sobczaka 5",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-23T11:18:08.991972+00:00"
+    },
+    "plac zabaw przy żłobku nr 11 ul. k. szymanowskiego 3a": {
+      "name": "plac zabaw przy Żłobku nr 11 ul. K. Szymanowskiego 3a",
+      "district": "Targówek",
+      "address": "plac zabaw przy Żłobku nr 11 ul. K. Szymanowskiego 3a",
+      "normalized": "plac zabaw przy żłobku nr 11 ul. k. szymanowskiego 3a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-23T11:18:08.992102+00:00"
+    },
+    "świetojerska 12a": {
+      "name": "Świetojerska 12a",
+      "district": "Śródmieście",
+      "address": "Świetojerska 12a",
+      "normalized": "świetojerska 12a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-23T11:18:08.992191+00:00"
+    },
+    "plenery domu pracy twórczej w powsinie": {
+      "name": "Plenery Domu Pracy Twórczej w Powsinie, ul. Ptysiowa 3",
+      "district": "Wilanów",
+      "address": "Plenery Domu Pracy Twórczej w Powsinie, ul. Ptysiowa 3",
+      "normalized": "plenery domu pracy twórczej w powsinie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-23T11:18:08.992276+00:00"
     }
   }
 }

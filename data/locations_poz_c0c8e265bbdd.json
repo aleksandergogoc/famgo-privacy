@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T11:33:50.898837+00:00",
+  "updated_at": "2026-09-24T12:01:28.248064+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1391,6 +1391,33 @@
       "lat": 52.4088834,
       "lng": 16.9327177,
       "updated_at": "2026-09-22T11:32:35.430466+00:00"
+    },
+    "27 grudnia 17_19": {
+      "name": "Domar, 17/19, 27 Grudnia, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-737, Polska",
+      "district": "Stare Miasto",
+      "address": "Domar, 17/19, 27 Grudnia, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-737, Polska",
+      "normalized": "27 grudnia 17_19",
+      "lat": 52.4079612,
+      "lng": 16.9222365,
+      "updated_at": "2026-09-24T11:57:35.320124+00:00"
+    },
+    "os. powstańców warszawy 9a": {
+      "name": "9A, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 61-656, Polska",
+      "district": "Stare Miasto",
+      "address": "9A, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 61-656, Polska",
+      "normalized": "os. powstańców warszawy 9a",
+      "lat": 52.433758,
+      "lng": 16.9187702,
+      "updated_at": "2026-09-24T11:57:37.895712+00:00"
+    },
+    "sala prób": {
+      "name": "Sala Prób, Centrum Kultury ZAMEK, ul. Święty Marcin 80/82, 61-809 Poznań",
+      "district": "Stare Miasto",
+      "address": "Sala Prób, Centrum Kultury ZAMEK, ul. Święty Marcin 80/82, 61-809 Poznań",
+      "normalized": "sala prób",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-24T11:57:43.616885+00:00"
     }
   }
 }

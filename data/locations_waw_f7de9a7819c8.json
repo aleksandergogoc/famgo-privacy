@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:29:53.187987+00:00",
+  "updated_at": "2026-09-24T12:01:31.616203+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -7062,6 +7062,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-23T11:18:08.992276+00:00"
+    },
+    "klimczaka 2": {
+      "name": "Klimczaka 2",
+      "district": "Wilanów",
+      "address": "Klimczaka 2",
+      "normalized": "klimczaka 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-24T11:36:30.867839+00:00"
+    },
+    "powstańców śląskich _ wrocławska": {
+      "name": "Powstańców Śląskich / Wrocławska",
+      "district": "Bemowo",
+      "address": "Powstańców Śląskich / Wrocławska",
+      "normalized": "powstańców śląskich _ wrocławska",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-24T11:36:30.868099+00:00"
+    },
+    "oko": {
+      "name": "OKO, ul. Grójecka 75",
+      "district": "Ochota",
+      "address": "OKO, ul. Grójecka 75",
+      "normalized": "oko",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-24T11:36:30.869257+00:00"
+    },
+    "ul. kajakowa 12b": {
+      "name": "ul. Kajakowa 12b",
+      "district": "Ursynów",
+      "address": "ul. Kajakowa 12b",
+      "normalized": "ul. kajakowa 12b",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-24T11:36:30.869716+00:00"
     }
   }
 }

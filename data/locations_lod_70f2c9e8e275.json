@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T11:38:58.061352+00:00",
+  "updated_at": "2026-09-24T12:01:29.245985+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -723,6 +723,60 @@
       "lat": 51.7589479,
       "lng": 19.4252474,
       "updated_at": "2026-09-16T11:28:12.568689+00:00"
+    },
+    "wykwit (łódź": {
+      "name": "WYKWIT, 17, Rewolucji 1905 r., Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-206, Polska",
+      "district": "Śródmieście",
+      "address": "WYKWIT, 17, Rewolucji 1905 r., Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-206, Polska",
+      "normalized": "wykwit (łódź",
+      "lat": 51.7747327,
+      "lng": 19.4588597,
+      "updated_at": "2026-09-24T11:46:57.447808+00:00"
+    },
+    "struga 90": {
+      "name": "Teatr Szwalnia, 90, Andrzeja Struga, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-557, Polska",
+      "district": "Polesie",
+      "address": "Teatr Szwalnia, 90, Andrzeja Struga, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-557, Polska",
+      "normalized": "struga 90",
+      "lat": 51.7612387,
+      "lng": 19.4331008,
+      "updated_at": "2026-09-24T11:48:21.328662+00:00"
+    },
+    "park julianowski": {
+      "name": "Park im. Adama Mickiewicza, Łódź-Bałuty, Łódź, województwo łódzkie, Polska",
+      "district": "Bałuty",
+      "address": "Park im. Adama Mickiewicza, Łódź-Bałuty, Łódź, województwo łódzkie, Polska",
+      "normalized": "park julianowski",
+      "lat": 51.8052077,
+      "lng": 19.4450646,
+      "updated_at": "2026-09-24T11:48:33.207742+00:00"
+    },
+    "salve szpital": {
+      "name": "Salve Szpital, Szparagowa, Teofilów Przemysłowy, Łódź-Bałuty, Łódź, województwo łódzkie, 91-205, Polska",
+      "district": "Bałuty",
+      "address": "Salve Szpital, Szparagowa, Teofilów Przemysłowy, Łódź-Bałuty, Łódź, województwo łódzkie, 91-205, Polska",
+      "normalized": "salve szpital",
+      "lat": 51.8038832,
+      "lng": 19.3777723,
+      "updated_at": "2026-09-24T11:48:41.080774+00:00"
+    },
+    "sport arena w łodzi (al. unii lubelskiej 2)": {
+      "name": "Stadion Miejski Łódzkiego Klubu Sportowego im. Władysława Króla, 2, Aleja Unii Lubelskiej, Zdrowie-Mania, Zdrowie, Łódź-Polesie, Łódź, województwo łódzkie, 94-020, Polska",
+      "district": "Polesie",
+      "address": "Stadion Miejski Łódzkiego Klubu Sportowego im. Władysława Króla, 2, Aleja Unii Lubelskiej, Zdrowie-Mania, Zdrowie, Łódź-Polesie, Łódź, województwo łódzkie, 94-020, Polska",
+      "normalized": "sport arena w łodzi (al. unii lubelskiej 2)",
+      "lat": 51.7589479,
+      "lng": 19.4252474,
+      "updated_at": "2026-09-24T11:48:45.385589+00:00"
+    },
+    "poleski ośrodek sztuki": {
+      "name": "Poleski Ośrodek Sztuki, 2a, Krzemieniecka, Karolew-Retkinia Wschód, Karolew, Łódź-Polesie, Łódź, województwo łódzkie, 94-030, Polska",
+      "district": "Polesie",
+      "address": "Poleski Ośrodek Sztuki, 2a, Krzemieniecka, Karolew-Retkinia Wschód, Karolew, Łódź-Polesie, Łódź, województwo łódzkie, 94-030, Polska",
+      "normalized": "poleski ośrodek sztuki",
+      "lat": 51.7552681,
+      "lng": 19.4244243,
+      "updated_at": "2026-09-24T11:48:48.430454+00:00"
     }
   }
 }

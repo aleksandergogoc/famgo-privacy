@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T11:29:54.643217+00:00",
+  "updated_at": "2026-09-24T12:01:32.847818+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4387,6 +4387,78 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-09-23T11:15:52.367495+00:00"
+    },
+    "dziennikarzy „pod gruszką”": {
+      "name": "ul. Szczepańska 1, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Szczepańska 1, Kraków",
+      "normalized": "dziennikarzy „pod gruszką”",
+      "lat": 50.061,
+      "lng": 19.937,
+      "updated_at": "2026-09-24T11:18:33.109875+00:00"
+    },
+    "ogród doświadczeń im. st. lema": {
+      "name": "Ogród Doświadczeń im. St. Lema, Kraków",
+      "district": "Krowodrza",
+      "address": "Ogród Doświadczeń im. St. Lema, Kraków",
+      "normalized": "ogród doświadczeń im. st. lema",
+      "lat": 50.064,
+      "lng": 19.92,
+      "updated_at": "2026-09-24T11:23:49.896130+00:00"
+    },
+    "instytut cervantesa w krakowie": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "instytut cervantesa w krakowie",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-09-24T11:23:53.329947+00:00"
+    },
+    "rozdroże 19": {
+      "name": "19, Rozdroże, Osiedle Podwawelskie, Ludwinów, Dębniki, Kraków, województwo małopolskie, 30-361, Polska",
+      "district": "Dębniki",
+      "address": "19, Rozdroże, Osiedle Podwawelskie, Ludwinów, Dębniki, Kraków, województwo małopolskie, 30-361, Polska",
+      "normalized": "rozdroże 19",
+      "lat": 50.0390872,
+      "lng": 19.9273373,
+      "updated_at": "2026-09-24T11:23:56.581023+00:00"
+    },
+    "aleja jerzego waszyngtona w krakowie": {
+      "name": "Aleja Jerzego Waszyngtona, Kraków",
+      "district": "Stare Miasto",
+      "address": "Aleja Jerzego Waszyngtona, Kraków",
+      "normalized": "aleja jerzego waszyngtona w krakowie",
+      "lat": 50.064,
+      "lng": 19.944,
+      "updated_at": "2026-09-24T11:23:59.733884+00:00"
+    },
+    "ulica piastowska 26": {
+      "name": "Ulica Piastowska 26, Kraków",
+      "district": "Stare Miasto",
+      "address": "Ulica Piastowska 26, Kraków",
+      "normalized": "ulica piastowska 26",
+      "lat": 50.064,
+      "lng": 19.928,
+      "updated_at": "2026-09-24T11:24:10.767009+00:00"
+    },
+    "szkoła podstawowa nr 93": {
+      "name": "Szkoła Podstawowa nr 93, ul. F. Szlachtowskiego 31, Kraków",
+      "district": "Stare Miasto",
+      "address": "Szkoła Podstawowa nr 93, ul. F. Szlachtowskiego 31, Kraków",
+      "normalized": "szkoła podstawowa nr 93",
+      "lat": 50.067,
+      "lng": 19.944,
+      "updated_at": "2026-09-24T11:32:29.560228+00:00"
+    },
+    "małopolski ogród sztuki": {
+      "name": "ul. Rajska 12, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Rajska 12, Kraków",
+      "normalized": "małopolski ogród sztuki",
+      "lat": 50.062,
+      "lng": 19.937,
+      "updated_at": "2026-09-24T11:32:32.431832+00:00"
     }
   }
 }

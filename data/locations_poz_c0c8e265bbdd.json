@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:01:28.248064+00:00",
+  "updated_at": "2026-09-25T11:53:23.773839+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1418,6 +1418,24 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-09-24T11:57:43.616885+00:00"
+    },
+    "rynek łazarski": {
+      "name": "Rynek Łazarski, Łazarz, Poznań, województwo wielkopolskie, Polska",
+      "district": "Grunwald",
+      "address": "Rynek Łazarski, Łazarz, Poznań, województwo wielkopolskie, Polska",
+      "normalized": "rynek łazarski",
+      "lat": 52.39462,
+      "lng": 16.9012835,
+      "updated_at": "2026-09-25T11:51:37.984845+00:00"
+    },
+    "dom kultury \"jędruś\"": {
+      "name": "Dom Kultury \"Jędruś\", Kukułcza, Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, 61-378, Polska",
+      "district": "Nowe Miasto",
+      "address": "Dom Kultury \"Jędruś\", Kukułcza, Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, 61-378, Polska",
+      "normalized": "dom kultury \"jędruś\"",
+      "lat": 52.3798031,
+      "lng": 16.9511851,
+      "updated_at": "2026-09-25T11:51:39.349945+00:00"
     }
   }
 }

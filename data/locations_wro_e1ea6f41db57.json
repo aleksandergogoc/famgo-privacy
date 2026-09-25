@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:01:30.457710+00:00",
+  "updated_at": "2026-09-25T11:53:27.385390+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -1953,6 +1953,33 @@
       "lat": 51.1544936,
       "lng": 17.0235742,
       "updated_at": "2026-09-24T11:39:17.279503+00:00"
+    },
+    "sieć badawcza łukasiewicz port polski ośrodek rozwoju technologii stabłowicka 147": {
+      "name": "Tarczyński Arena, 1, aleja Śląska, Pilczyce, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 54-118, Polska",
+      "district": "Fabryczna",
+      "address": "Tarczyński Arena, 1, aleja Śląska, Pilczyce, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 54-118, Polska",
+      "normalized": "sieć badawcza łukasiewicz port polski ośrodek rozwoju technologii stabłowicka 147",
+      "lat": 51.1411861,
+      "lng": 16.9438067,
+      "updated_at": "2026-09-25T11:40:22.648397+00:00"
+    },
+    "kino nowe horyzonty kazimierza wielkiego 19a-21": {
+      "name": "Kino Nowe Horyzonty Kazimierza Wielkiego 19a-21, Wrocław 50-077",
+      "district": "Stare Miasto",
+      "address": "Kino Nowe Horyzonty Kazimierza Wielkiego 19a-21, Wrocław 50-077",
+      "normalized": "kino nowe horyzonty kazimierza wielkiego 19a-21",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-25T11:40:39.070712+00:00"
+    },
+    "vertigo jazz club & restaurant": {
+      "name": "Vertigo, 13, Oławska, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-123, Polska",
+      "district": "Stare Miasto",
+      "address": "Vertigo, 13, Oławska, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-123, Polska",
+      "normalized": "vertigo jazz club & restaurant",
+      "lat": 51.1083596,
+      "lng": 17.0354095,
+      "updated_at": "2026-09-25T11:41:42.868838+00:00"
     }
   }
 }

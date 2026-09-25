@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:01:31.616203+00:00",
+  "updated_at": "2026-09-25T11:53:28.520463+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -7098,6 +7098,60 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-24T11:36:30.869716+00:00"
+    },
+    "metro ratusz arsenał": {
+      "name": "Metro ratusz Arsenał",
+      "district": "Śródmieście",
+      "address": "Metro ratusz Arsenał",
+      "normalized": "metro ratusz arsenał",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-25T11:39:55.605225+00:00"
+    },
+    "ziemi w warszawie": {
+      "name": "Muzeum Ziemi w Warszawie",
+      "district": "Śródmieście",
+      "address": "Muzeum Ziemi w Warszawie",
+      "normalized": "ziemi w warszawie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-25T11:39:55.605423+00:00"
+    },
+    "park im. romana kozłowskiego": {
+      "name": "Park im. Romana Kozłowskiego",
+      "district": "Ursynów",
+      "address": "Park im. Romana Kozłowskiego",
+      "normalized": "park im. romana kozłowskiego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-25T11:39:55.605607+00:00"
+    },
+    "butelkownia": {
+      "name": "Butelkownia, pl. Konesera 3",
+      "district": "Praga-Północ",
+      "address": "Butelkownia, pl. Konesera 3",
+      "normalized": "butelkownia",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-25T11:39:55.605738+00:00"
+    },
+    "murowanka": {
+      "name": "Murowanka, ul. Płowiecka 77",
+      "district": "Wawer",
+      "address": "Murowanka, ul. Płowiecka 77",
+      "normalized": "murowanka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-25T11:39:55.605896+00:00"
+    },
+    "pałacyk konopackiego ul. strzelecka 11_13": {
+      "name": "Pałacyk Konopackiego ul. Strzelecka 11/13",
+      "district": "Praga-Północ",
+      "address": "Pałacyk Konopackiego ul. Strzelecka 11/13",
+      "normalized": "pałacyk konopackiego ul. strzelecka 11_13",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-25T11:39:55.606043+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T12:01:32.847818+00:00",
+  "updated_at": "2026-09-25T11:53:29.711404+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4459,6 +4459,24 @@
       "lat": 50.062,
       "lng": 19.937,
       "updated_at": "2026-09-24T11:32:32.431832+00:00"
+    },
+    "terenach zielonych przy torze kajakowym": {
+      "name": "ul. Kolnej 2, Kraków",
+      "district": "Podgórze",
+      "address": "ul. Kolnej 2, Kraków",
+      "normalized": "terenach zielonych przy torze kajakowym",
+      "lat": 50.034,
+      "lng": 19.932,
+      "updated_at": "2026-09-25T11:21:25.299852+00:00"
+    },
+    "kuźnia ośrodek kultury norwida": {
+      "name": "14, Osiedle Złotego Wieku, Mistrzejowice, Kraków, województwo małopolskie, 31-616, Polska",
+      "district": "Mistrzejowice",
+      "address": "14, Osiedle Złotego Wieku, Mistrzejowice, Kraków, województwo małopolskie, 31-616, Polska",
+      "normalized": "kuźnia ośrodek kultury norwida",
+      "lat": 50.0968461,
+      "lng": 20.0014158,
+      "updated_at": "2026-09-25T11:21:56.553297+00:00"
     }
   }
 }

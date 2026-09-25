@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:20:30.810042+00:00",
+  "updated_at": "2026-09-25T11:39:56.883496+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -4166,46 +4166,49 @@
       "updated_at": "2026-08-31T13:38:42.691272+00:00"
     },
     "literacki-piknik-kryminalny-dla-rodzin-sherlock-holmes-przenie-si-do-wiata-tajemnic-2026-09-27T15:00:00+02:00": {
-      "title": "Literacki Piknik Kryminalny dla rodzin „Sherlock Holmes - przenieś się do świata tajemnic\"",
+      "title": "Literacki Piknik Kryminalny dla rodzin „Sherlock Holmes – przenieś się do świata tajemnic”",
       "date": "2026-09-27T15:00:00+02:00",
       "end_date": "2026-09-27T15:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Każdy uczestnik otrzyma „Książeczkę Tropów\" do zbierania pieczątek i wskazówek, z nagrodą na koniec.\n\nWydarzenie organizowane wspólnie z Biblioteką Publiczną Dzielnicy Wawer. W przypadku złej pogody przeniesione do Kulturoteki.",
-      "url": "https://www.wck-wawer.pl/radosc/aktualnosci/archiwum-20262/sherlock-holmes-przenies-sie-do-swiata-tajemnic",
-      "source": "wck-wawer.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
+      "description": "Piknik Kryminalny „Sherlock Holmes – przenieś się do świata tajemnic\" Piknik Kryminalny „Sherlock Holmes – przenieś się do świata tajemnic\" to wydarzenie dla całych rodzin w stylu Sherlocka Holmsa i jego tajemnic, pełen eleganckiej zabawy detektywistycznej. Podczas pikniku odbędzie się spektakl dla najmłodszych „Księżniczka na ziarnku grochu\" w wykonaniu Teatru Fabryka Kultury, który stanie się początkiem niezwykłej przygody. Po przedstawieniu dzieci wyposażone w lupy prawdziwych detektywów wyruszą na poszukiwanie zaginionego ziarenka grochu... Przez cały dzień odbywać się będą kreatywne warsztaty i animacje inspirowane pracą śledczych. W Kryminalnym Laboratorium uczestnicy poznają tajniki zbierania śladów, badania odcisków palców i analizowania dowodów. Miłośnicy zagadek będą mogli zmierzyć się z rodzinnym Escape Roomem. Dla tych co lubią tańczyć motywem przewodnim będzie muzyka z filmu pt. „Różowa Pantera\". Na warsztatach komiksowo-plastycznych wykonamy portret osoby „poszukiwanej\" i dowiemy się jak bardzo są kosztowni. Nie zabraknie również spotkania z autorką kryminałów Alicją Sinicką. Będzie z nami Grupa rekonstrukcyjna - Semper Fidelis, Straż Pożarna, Policja i Służba Więzienna. Zapraszamy na pokaz samoobrony Krav Maga, prezentacje wozów strażackich i policyjnych oraz animacje i pokazy służb. Każdy uczestnik otrzyma specjalną Książeczkę Tropów, w której będzie zbierał pieczątki i wskazówki zdobyte podczas wykonywania kolejnych zadań. Nagroda czeka!!! Nie możecie przegapić takiego wydarzenia, a jeśli pogoda nie dopisze widzimy się w przestrzeni Kulturoteki. Literacki Piknik Kryminalny dla rodzin jest współorganizowany z Wawerskim Centrum Kultury Filia Radość. Wstęp Wstęp wolny! Projekt finansuje Dzielnica Wawer m.st. Warszawy .",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F3d4f6084-423e-40ac-9729-f3ec6797af2d.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/3d4f6084-423e-40ac-9729-f3ec6797af2d",
+      "source": "gojammin.com",
+      "district": "Wawer",
       "location": {
-        "name": "Wawerskie Centrum Kultury, Filia Radość · ul. Powojowa 2",
+        "name": "Powojowa 2, 04-860 Warszawa, Poland",
         "district": "Wawer"
       },
-      "image": "https://www.wck-wawer.pl/assets/cache/images/aktualnosci-radosc/2026/IMG_0026-684x-904.jpg",
-      "scrapped_url": "https://www.wck-wawer.pl/radosc/aktualnosci/archiwum-20262/sherlock-holmes-przenies-sie-do-swiata-tajemnic",
-      "scrapped_timestamp": "2026-09-23T11:16:56.095763+00:00",
-      "category": "Storytime",
-      "location_type": "indoor",
+      "scrapped_url": "https://gojammin.com/pl-PL/events/3d4f6084-423e-40ac-9729-f3ec6797af2d",
+      "scrapped_timestamp": "2026-09-25T11:39:19.624709+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Theater",
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
       "translations": {
         "pl": {
-          "title": "Literacki Piknik Kryminalny dla rodzin „Sherlock Holmes - przenieś się do świata tajemnic\"",
-          "description": "Każdy uczestnik otrzyma „Książeczkę Tropów\" do zbierania pieczątek i wskazówek, z nagrodą na koniec.\n\nWydarzenie organizowane wspólnie z Biblioteką Publiczną Dzielnicy Wawer. W przypadku złej pogody przeniesione do Kulturoteki."
+          "title": "Literacki Piknik Kryminalny dla rodzin „Sherlock Holmes – przenieś się do świata tajemnic”",
+          "description": "Piknik Kryminalny „Sherlock Holmes – przenieś się do świata tajemnic\" Piknik Kryminalny „Sherlock Holmes – przenieś się do świata tajemnic\" to wydarzenie dla całych rodzin w stylu Sherlocka Holmsa i jego tajemnic, pełen eleganckiej zabawy detektywistycznej. Podczas pikniku odbędzie się spektakl dla najmłodszych „Księżniczka na ziarnku grochu\" w wykonaniu Teatru Fabryka Kultury, który stanie się początkiem niezwykłej przygody. Po przedstawieniu dzieci wyposażone w lupy prawdziwych detektywów wyruszą na poszukiwanie zaginionego ziarenka grochu... Przez cały dzień odbywać się będą kreatywne warsztaty i animacje inspirowane pracą śledczych. W Kryminalnym Laboratorium uczestnicy poznają tajniki zbierania śladów, badania odcisków palców i analizowania dowodów. Miłośnicy zagadek będą mogli zmierzyć się z rodzinnym Escape Roomem. Dla tych co lubią tańczyć motywem przewodnim będzie muzyka z filmu pt. „Różowa Pantera\". Na warsztatach komiksowo-plastycznych wykonamy portret osoby „poszukiwanej\" i dowiemy się jak bardzo są kosztowni. Nie zabraknie również spotkania z autorką kryminałów Alicją Sinicką. Będzie z nami Grupa rekonstrukcyjna - Semper Fidelis, Straż Pożarna, Policja i Służba Więzienna. Zapraszamy na pokaz samoobrony Krav Maga, prezentacje wozów strażackich i policyjnych oraz animacje i pokazy służb. Każdy uczestnik otrzyma specjalną Książeczkę Tropów, w której będzie zbierał pieczątki i wskazówki zdobyte podczas wykonywania kolejnych zadań. Nagroda czeka!!! Nie możecie przegapić takiego wydarzenia, a jeśli pogoda nie dopisze widzimy się w przestrzeni Kulturoteki. Literacki Piknik Kryminalny dla rodzin jest współorganizowany z Wawerskim Centrum Kultury Filia Radość. Wstęp Wstęp wolny! Projekt finansuje Dzielnica Wawer m.st. Warszawy ."
         },
         "en": {
-          "title": "Literary Criminal Picnic for Families \"Sherlock Holmes - step into the world of mysteries\"",
-          "description": "Each participant will receive a \"Clue Booklet\" to collect stamps and hints, with a prize at the end.\n\nThe event is organized in collaboration with the Public Library of the Wawer District. In case of bad weather, it will be moved to the Culture Library."
+          "title": "Literary Criminal Picnic for Families \"Sherlock Holmes – Step into the World of Mysteries\"",
+          "description": "Criminal Picnic \"Sherlock Holmes – Step into the World of Mysteries\" is an event for the whole family in the style of Sherlock Holmes and his mysteries, full of elegant detective fun.\n\nDuring the picnic, there will be a performance for the youngest \"The Princess and the Pea\" by the Culture Factory Theatre, which will mark the beginning of an extraordinary adventure. After the show, children equipped with real detective magnifying glasses will embark on a quest to find the missing pea...\n\nThroughout the day, there will be creative workshops and animations inspired by the work of investigators. In the Criminal Laboratory, participants will learn the secrets of collecting traces, examining fingerprints, and analyzing evidence. Puzzle enthusiasts will be able to measure"
         },
         "uk": {
-          "title": "Літературний кримінальний пікнік для родин «Шерлок Холмс - перенесіться у світ таємниць»",
-          "description": "Кожен учасник отримає «Книжечку Слідів» для збору печаток і підказок, з нагородою наприкінці.\n\nВід wydarzenie організоване спільно з Публічною бібліотекою району Вавер. У разі поганої погоди перенесено до Культуротеки."
+          "title": "Літературний кримінальний пікнік для родин «Шерлок Холмс – перенесися у світ таємниць»",
+          "description": "Пікнік Кримінальний «Шерлок Холмс – перенесися у світ таємниць\" Пікнік Кримінальний «Шерлок Холмс – перенесися у світ таємниць\" – це подія для цілих родин у стилі Шерлока Холмса та його таємниць, наповнена елегантними розвагами детективного жанру. Під час пікніка відбудеться спектакль для найменших «Принцеса на горошині» у виконанні Театру Фабрика Культури, який стане початком незвичайної пригоди. Після вистави діти, озброєні лупами справжніх детективів, вирушать на пошуки загубленого горошини... Протягом усього дня відбуватимуться креативні майстер-класи та анімації, натхненні роботою слідчих. У Кримінальному Лабораторії учасники дізнаються тонкощі збору слідів, дослідження відбитків пальців та аналізу доказів. Любителі загадок зможуть виміряти..."
         }
       },
       "admission": {
         "is_free": true
       },
-      "district": "Wawer",
-      "updated_at": "2026-09-23T11:18:10.289362+00:00"
+      "updated_at": "2026-09-25T11:39:56.700079+00:00"
     },
     "casting-do-projektu-warsztaty-musicalove-2026-09-26T09:00:00+02:00": {
       "title": "Casting do projektu Warsztaty MusicaLOVE",
@@ -18425,6 +18428,1122 @@
       },
       "district": "Ursynów",
       "updated_at": "2026-09-24T11:36:31.743192+00:00"
+    },
+    "zaj-cia-umuzykalniaj-ce-inspirowane-teatrem-kamishibai-2026-09-25T10:00:00+02:00": {
+      "title": "Zajęcia umuzykalniające inspirowane teatrem kamishibai",
+      "date": "2026-09-25T10:00:00+02:00",
+      "end_date": "2026-09-25T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zajęcia prowadzi animatorka kultury Monika Sejbuk-Radziwonka.\n\nIlość miejsc ograniczona, obowiązują zapisy! Prosimy zapisywać TYLKO DZIECKO – opiekuna nie trzeba zapisywać. Polecamy przyjechać 5 minut wcześniej.\n\nUczestnicząc w zajęciach wyrażają Państwo zgodę na fotografowanie i filmowanie w celu dokumentowania projektu oraz promocji warsztatów.\n\nCykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Spotkania z teatrem kamishibai” nr 1041.",
+      "url": "https://bemowskie.pl/wydarzenia/zajecia-umuzykalniajace-inspirowane-teatrem-kamishibai-dla-dzieci-14-24-miesiecy-25-09/",
+      "source": "bemowskie.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 2
+      },
+      "location": {
+        "name": "Bemowskie Centrum Kultury, MAL Dwa Jelonki, sala 149b · ul. Rozłogi 18",
+        "district": "Bemowo"
+      },
+      "image": "https://bemowskie.pl/wp-content/uploads/2026/05/wersja-3-e1780047549802.jpg",
+      "scrapped_url": "https://bemowskie.pl/wydarzenia/zajecia-umuzykalniajace-inspirowane-teatrem-kamishibai-dla-dzieci-14-24-miesiecy-25-09/",
+      "scrapped_timestamp": "2026-09-25T11:37:11.562706+00:00",
+      "translations": {
+        "pl": {
+          "title": "Zajęcia umuzykalniające inspirowane teatrem kamishibai",
+          "description": "Zajęcia prowadzi animatorka kultury Monika Sejbuk-Radziwonka.\n\nIlość miejsc ograniczona, obowiązują zapisy! Prosimy zapisywać TYLKO DZIECKO – opiekuna nie trzeba zapisywać. Polecamy przyjechać 5 minut wcześniej.\n\nUczestnicząc w zajęciach wyrażają Państwo zgodę na fotografowanie i filmowanie w celu dokumentowania projektu oraz promocji warsztatów.\n\nCykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Spotkania z teatrem kamishibai” nr 1041."
+        },
+        "en": {
+          "title": "Musical Activities Inspired by Kamishibai Theatre",
+          "description": "The activities are led by cultural animator Monika Sejbuk-Radziwonka.\n\nNumber of places is limited, registration is required! Please register ONLY THE CHILD – the guardian does not need to be registered. We recommend arriving 5 minutes early.\n\nBy participating in the activities, you consent to being photographed and filmed for the purpose of documenting the project and promoting the workshops.\n\nA series of workshops implemented as part of the Civic Budget from the project \"Meetings with Kamishibai Theatre\" no. 1041."
+        },
+        "uk": {
+          "title": "Заняття з музикальності, натхнені театром камішибай",
+          "description": "Заняття проводить аніматорка культури Моніка Сейбук-Радзівонка.\n\nКількість місць обмежена, обов'язкові записи! Просимо записувати ТІЛЬКИ ДИТИНУ – опікуна не потрібно записувати. Рекомендуємо приїхати за 5 хвилин до початку.\n\nБеручи участь у заняттях, ви висловлюєте згоду на фотографування та зйомку з метою документування проекту та промоції майстер-класів.\n\nЦикл майстер-класів реалізується в рамках Громадського бюджету з проекту \"Зустрічі з театром камішибай\" № 1041."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-25T11:39:56.699753+00:00"
+    },
+    "spaghetti-2026-09-25T10:00:00+02:00": {
+      "title": "Spaghetti",
+      "date": "2026-09-25T10:00:00+02:00",
+      "end_date": "2026-09-25T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Na scenie będzie gwarno, wesoło, tanecznie i oczywiście muzycznie. Młodzi widzowie będą mieli okazję nie tylko poznać tajniki przyrządzania jednej z popularniejszych (i pyszniejszych!) potraw, ale także posłuchać muzyki granej na żywo przez aktorów oraz towarzyszyć ich wszystkim figlom.\n\nW atmosferze zabawy uczymy się też tolerancji, akceptacji inności oraz szacunku dla innych.\n\nSpektakl powstał we współpracy Teatru Baj w Warszawie i Theatergruppe Batida w Kopenhadze.",
+      "url": "https://teatrbaj.pl/repertuar/spaghetti/#25-09",
+      "source": "teatrbaj.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 6
+      },
+      "location": {
+        "name": "55 min Teatr Baj · ul. Jagiellońska 28",
+        "district": "Praga-Północ"
+      },
+      "image": "https://teatrbaj.pl/wp-content/uploads/2020/10/16.jpg",
+      "scrapped_url": "https://teatrbaj.pl/repertuar/spaghetti/#25-09",
+      "scrapped_timestamp": "2026-09-25T11:37:15.913759+00:00",
+      "translations": {
+        "pl": {
+          "title": "Spaghetti",
+          "description": "Na scenie będzie gwarno, wesoło, tanecznie i oczywiście muzycznie. Młodzi widzowie będą mieli okazję nie tylko poznać tajniki przyrządzania jednej z popularniejszych (i pyszniejszych!) potraw, ale także posłuchać muzyki granej na żywo przez aktorów oraz towarzyszyć ich wszystkim figlom.\n\nW atmosferze zabawy uczymy się też tolerancji, akceptacji inności oraz szacunku dla innych.\n\nSpektakl powstał we współpracy Teatru Baj w Warszawie i Theatergruppe Batida w Kopenhadze."
+        },
+        "en": {
+          "title": "Spaghetti",
+          "description": "The stage will be lively, cheerful, danceable, and of course, musical. Young viewers will have the opportunity not only to learn the secrets of preparing one of the more popular (and delicious!) dishes, but also to listen to live music played by the actors and accompany all their antics.\n\nIn the atmosphere of fun, we also learn tolerance, acceptance of differences, and respect for others.\n\nThe performance was created in collaboration with the Baj Theater in Warsaw and the Theatergruppe Batida in Copenhagen."
+        },
+        "uk": {
+          "title": "Спагетті",
+          "description": "На сцені буде гучно, весело, танцювально і, звичайно, музично. Молоді глядачі матимуть можливість не тільки познайомитися з тонкощами приготування однієї з популярніших (і смачніших!) страв, але й послухати музику, що грається наживо акторами, а також супроводжувати їх усім фокусам.\n\nВ атмосфері розваги ми також вчимося терпимості, прийняття інакшості та поваги до інших.\n\nСпектакль був створений у співпраці Театру Бай у Варшаві та Theatergruppe Batida у Копенгагені."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Praga-Północ",
+      "updated_at": "2026-09-25T11:39:56.699772+00:00"
+    },
+    "mama-tata-w-muzeum-historia-w-pigu-ce-2026-09-25T11:00:00+02:00": {
+      "title": "MAMA, TATA W MUZEUM / Historia w pigułce",
+      "date": "2026-09-25T11:00:00+02:00",
+      "end_date": "2026-09-25T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cykl szkiców olejnych „Dzieje cywilizacji w Polsce” Jana Matejki powstał po otrzymaniu przez artystę doktoratu honoris causa Uniwersytetu Jagiellońskiego w Krakowie w 1887 roku. W dwunastu wielopostaciowych scenach malarz uwypuklił znaczenie Polski dla dziejów Europy, łącząc ze sobą wydarzenia polityczne, społeczne i kulturowe. Cykl otwierał szkic z przedstawieniem chrztu Polski (966), kończył się natomiast na najważniejszych wydarzeniach z okresu panowania Stanisława Augusta Poniatowskiego (1764–1795). Malarz odszedł w tym wypadku od tradycyjnej formuły malarstwa historycznego, nadając poszczególnym kompozycjom charakter alegorii. Zrozumieniu rozbudowanych scen pomagały komentarze samego Matejki opublikowane w 1889 roku.\n\nIstnieje możliwość bezpłatnego wypożyczenia nosidła – prosimy przesłać zgłoszenie w tej sprawie do godz. 10.00 w dniu wydarzenia.",
+      "url": "https://www.mnw.art.pl/wydarzenia/kalendarz-wydarzen/9351,wydarzenie.html",
+      "source": "mnw.art.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Educational",
+      "age_range": {
+        "min": 0,
+        "max": 1
+      },
+      "location": {
+        "name": "ok. 80 min Muzeum Narodowe w Warszawie, Zbiórka w Holu Głównym Gmachu Głównego MNW · Al. Jerozolimskie 3",
+        "district": "Śródmieście"
+      },
+      "image": "https://www.mnw.art.pl/gfx/muzeumnarodowe/_thumbs/pl/muzeumkalendarium/20/9351/1/matejko_koronacja_pierwszego_krola_rp,mXZ35WeqplTapMXWXKSs.jpg",
+      "scrapped_url": "https://www.mnw.art.pl/wydarzenia/kalendarz-wydarzen/9351,wydarzenie.html",
+      "scrapped_timestamp": "2026-09-25T11:37:19.498542+00:00",
+      "translations": {
+        "pl": {
+          "title": "MAMA, TATA W MUZEUM / Historia w pigułce",
+          "description": "Cykl szkiców olejnych „Dzieje cywilizacji w Polsce” Jana Matejki powstał po otrzymaniu przez artystę doktoratu honoris causa Uniwersytetu Jagiellońskiego w Krakowie w 1887 roku. W dwunastu wielopostaciowych scenach malarz uwypuklił znaczenie Polski dla dziejów Europy, łącząc ze sobą wydarzenia polityczne, społeczne i kulturowe. Cykl otwierał szkic z przedstawieniem chrztu Polski (966), kończył się natomiast na najważniejszych wydarzeniach z okresu panowania Stanisława Augusta Poniatowskiego (1764–1795). Malarz odszedł w tym wypadku od tradycyjnej formuły malarstwa historycznego, nadając poszczególnym kompozycjom charakter alegorii. Zrozumieniu rozbudowanych scen pomagały komentarze samego Matejki opublikowane w 1889 roku.\n\nIstnieje możliwość bezpłatnego wypożyczenia nosidła – prosimy przesłać zgłoszenie w tej sprawie do godz. 10.00 w dniu wydarzenia."
+        },
+        "en": {
+          "title": "MAMA, DAD IN THE MUSEUM / A Brief History",
+          "description": "The cycle of oil sketches \"The History of Civilization in Poland\" by Jan Matejko was created after the artist received an honorary doctorate from the Jagiellonian University in Krakow in 1887. In twelve multi-figured scenes, the painter highlighted the significance of Poland for the history of Europe, connecting political, social, and cultural events. The cycle opened with a sketch depicting the baptism of Poland (966) and concluded with the most important events from the reign of Stanisław August Poniatowski (1764–1795). In this case, the painter departed from the traditional formula of historical painting, giving individual compositions the character of allegories. Understanding the elaborate scenes was aided by comments from Matejko himself published in 1889.\n\nThere is a possibility of free rental of a baby carrier – please send"
+        },
+        "uk": {
+          "title": "МАТИ, ТАТО В МУЗЕЇ / Історія в пігулці",
+          "description": "Цикл ескізів олійними фарбами «Історія цивілізації в Польщі» Яна Матейка виник після отримання художником почесного доктора університету Ягеллонського в Кракові в 1887 році. У дванадцяти багатофігурних сценах художник підкреслив значення Польщі для історії Європи, поєднуючи між собою політичні, соціальні та культурні події. Цикл відкривав ескіз з зображенням хрещення Польщі (966), закінчувався ж на найважливіших подіях з періоду правління Станіслава Августа Понятовського (1764–1795). Художник відійшов у цьому випадку від традиційної формули історичного живопису, надаючи окремим композиціям характер алегорії. Розумінню розгорнуті сцени допомагали коментарі самого Матейка, опубліковані в 1889 році.\n\nІснує можливість безкоштовного прокату носилки – просимо надіслати"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.699786+00:00"
+    },
+    "mn-stwo-r-k-st-p-i-g-w-2026-09-25T12:15:00+02:00": {
+      "title": "Mnóstwo rąk, stóp i głów",
+      "date": "2026-09-25T12:15:00+02:00",
+      "end_date": "2026-09-25T12:15:00+02:00",
+      "startTimeKnown": true,
+      "description": "Nasze spotkanie podzielimy na dwie pełne akcji części:\n\nRuch i dźwięk: Na początku zajęć wykonamy proste ćwiczenia ruchowe, dzięki którym dowiemy się, jakie mamy części ciała i gdzie one się znajdują. Sprawdzimy, dokąd sięgamy, gdy się rozciągniemy, oraz ile miejsca zajmujemy, gdy zwiniemy się w małą kulkę!\n\nPlastyka: W drugiej części zajęć spróbujemy powielić obrysy naszych kończyn na papierze. W ten sposób wspólnie zbudujemy zupełnie nowe stwory z wieloma głowami lub nogami.\n\nBilet na warsztaty upoważnia do wstępu na wystawę do 3 godzin od startu zajęć.",
+      "url": "https://artmuseum.pl/wydarzenia/mnostwo-rak-stop-i-glow-warsztaty-dla-dzieci-1-3-lata?term=01a0195c-7c06-70fd-81e6-a1d48a40d624",
+      "source": "artmuseum.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Educational",
+      "age_range": {
+        "min": 1,
+        "max": 3
+      },
+      "location": {
+        "name": "60 min Muzeum Sztuki Nowoczesnej, Sala edukacyjna C, na lewo od szatni · ul. Marszałkowska 103",
+        "district": "Śródmieście"
+      },
+      "image": "https://api-sf.artmuseum.pl/uploads/files/6a857631d942c241430640.png",
+      "scrapped_url": "https://artmuseum.pl/wydarzenia/mnostwo-rak-stop-i-glow-warsztaty-dla-dzieci-1-3-lata?term=01a0195c-7c06-70fd-81e6-a1d48a40d624",
+      "scrapped_timestamp": "2026-09-25T11:37:25.743876+00:00",
+      "translations": {
+        "pl": {
+          "title": "Mnóstwo rąk, stóp i głów",
+          "description": "Nasze spotkanie podzielimy na dwie pełne akcji części:\n\nRuch i dźwięk: Na początku zajęć wykonamy proste ćwiczenia ruchowe, dzięki którym dowiemy się, jakie mamy części ciała i gdzie one się znajdują. Sprawdzimy, dokąd sięgamy, gdy się rozciągniemy, oraz ile miejsca zajmujemy, gdy zwiniemy się w małą kulkę!\n\nPlastyka: W drugiej części zajęć spróbujemy powielić obrysy naszych kończyn na papierze. W ten sposób wspólnie zbudujemy zupełnie nowe stwory z wieloma głowami lub nogami.\n\nBilet na warsztaty upoważnia do wstępu na wystawę do 3 godzin od startu zajęć."
+        },
+        "en": {
+          "title": "A Lot of Hands, Feet, and Heads",
+          "description": "We will divide our meeting into two action-packed parts:\n\nMovement and Sound: At the beginning of the class, we will perform simple movement exercises that will help us learn about our body parts and where they are located. We will check how far we can reach when we stretch and how much space we take up when we curl into a small ball!\n\nArt: In the second part of the class, we will try to replicate the outlines of our limbs on paper. In this way, we will collectively create entirely new creatures with many heads or legs.\n\nA ticket for the workshop entitles you to enter the exhibition for up to 3 hours from the start of the class."
+        },
+        "uk": {
+          "title": "Безліч рук, ніг і голів",
+          "description": "Наше зустріч поділимо на дві повні дії частини:\n\nРух і звук: На початку занять виконаємо прості рухові вправи, завдяки яким дізнаємося, які у нас частини тіла і де вони знаходяться. Перевіримо, куди дістаємо, коли розтягнемося, а також скільки місця займаємо, коли згортаємося в маленький клубок!\n\nПластика: У другій частині занять спробуємо повторити контури наших кінцівок на папері. Таким чином, спільно побудуємо зовсім нових істот з багатьма головами або ногами.\n\nКвиток на майстер-клас дає право на вхід на виставку до 3 годин з моменту початку занять."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.699800+00:00"
+    },
+    "muzyczne-przygody-maluch-w-2026-09-26T10:00:00+02:00": {
+      "title": "Muzyczne Przygody Maluchów",
+      "date": "2026-09-26T10:00:00+02:00",
+      "end_date": "2026-09-26T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Interaktywny koncert dla najmłodszych – poprzez zabawę i wspólne muzykowanie rozwijamy wrażliwość muzyczną małych dzieci i pobudzamy ich kreatywność.",
+      "url": "https://bemowo.um.warszawa.pl/-/muzyczne-przygody-maluchow-3",
+      "source": "bemowo.um.warszawa.pl",
+      "real_source": "https://www.malywarszawiak.pl/",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 0,
+        "max": 5
+      },
+      "location": {
+        "name": "Scena Kocjana · ul. Kocjana 3",
+        "district": "Bemowo"
+      },
+      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
+      "scrapped_url": "https://bemowo.um.warszawa.pl/-/muzyczne-przygody-maluchow-3",
+      "scrapped_timestamp": "2026-09-25T11:37:30.034668+00:00",
+      "translations": {
+        "pl": {
+          "title": "Muzyczne Przygody Maluchów",
+          "description": "Interaktywny koncert dla najmłodszych – poprzez zabawę i wspólne muzykowanie rozwijamy wrażliwość muzyczną małych dzieci i pobudzamy ich kreatywność."
+        },
+        "en": {
+          "title": "Musical Adventures for Little Ones",
+          "description": "Interactive concert for the youngest – through play and joint music-making, we develop the musical sensitivity of small children and stimulate their creativity."
+        },
+        "uk": {
+          "title": "Музичні Пригоди Малюків",
+          "description": "Інтерактивний концерт для найменших – через гру та спільне музикування розвиваємо музичну чутливість малих дітей і стимулюємо їхню креативність."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Bemowo",
+      "updated_at": "2026-09-25T11:39:56.699813+00:00"
+    },
+    "wielkie-serca-spektakle-w-multimedialnym-parku-fontann-2026-2026-09-26T20:30:00+02:00": {
+      "title": "„Wielkie Serca” – spektakle w Multimedialnym Parku Fontann 2026",
+      "date": "2026-09-26T20:30:00+02:00",
+      "end_date": "2026-09-26T20:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "„Wielkie Serca” – nowy sezon spektakli w Multimedialnym Parku Fontann\n\nPokazy w Multimedialnym Parku Fontann to jedno z najbardziej widowiskowych wydarzeń plenerowych w stolicy. Setki dysz wodnych, dynamiczna choreografia fontann, lasery, światło i projekcje na gigantycznym ekranie wodnym tworzą spektakl, w którym obraz, dźwięk i ruch wody splatają się w niezwykłą, multimedialną opowieść. Synchronizacja muzyki, efektów świetlnych i animacji sprawia, że każdy pokaz jest intensywnym, emocjonalnym doświadczeniem oglądanym przez tysiące widzów.\n\nTegoroczne widowisko „Wielkie Serca” niesie przesłanie o sile dobra, empatii i wzajemnej życzliwości. Animacje wyświetlane na ekranie wodnym przypomną, że nawet drobne gesty mogą zmieniać rzeczywistość, a dobro, kiedy się nim dzielimy, wraca z podwójną siłą. W tej symbolicznej opowieści pojawią się również postaci wybitnych Polaków związanych z Warszawą – ludzi, których talent, pasja i osiągnięcia przyniosły im światową sławę i stały się powodem do narodowej dumy. Wśród bohaterów widowiska znajdą się m.in. Tamara Łempicka, Fryderyk Chopin oraz współczesne gwiazdy sportu – Robert Lewandowski i Iga Świątek.\n\nMuzyczną oprawę widowiska stworzą znane kompozycje muzyki filmowej i popularne utwory światowych artystów. Wśród nich znajdzie się również piosenka „Tak jak Ty” w wykonaniu Mimi Wydrzyńskiej, skomponowana przez Stanisława Syrewicza – cenionego twórcę muzyki filmowej i teatralnej.\n\nTegoroczne widowisko to opowieść o ludziach, których talent i postawa inspirują innych. Chcemy przypomnieć sylwetki wybitnych Polaków związanych z Warszawą – osób, z których jesteśmy dumni i które pokazują, że pasja, wytrwałość i wrażliwość mogą zmieniać świat. Mamy nadzieję, że ta historia opowiedziana wodą, światłem i muzyką poruszy publiczność tak samo jak poprzednie pokazy. – mówi Andrzej Matusiak, dyrektor Stołecznej Estrady.\n\nPokazy w Multimedialnym Parku Fontann od lat przyciągają setki tysięcy widzów i należą do najpopularniejszych letnich atrakcji Warszawy – zarówno dla mieszkańców, jak i turystów z Polski i z zagranicy.\n\nWstęp na pokazy w Multimedialnym Parku Fontann jest bezpłatny.\n\nPokazy są współfinansowane ze środków Miasta st. Warszawy.\n\nProgram pokazów w Multimedialnym Parku Fontann (w każdy piątek i sobotę):\n\nMaj/ Czerwiec* / Lipiec – godz. 21:30\n\nSierpień – godz. 21:00\n\nWrzesień – godz. 20:30\n\n*w dniach 19 i 20 czerwca, ze względu na Wianki nad Wisłą pokazy fontann „Wielkie Serca” nie odbędą się.\n\nPokaz trwa 30 minut.\n\nDostępność\n\nW trakcie pierwszego pokazu inauguracyjnego (1 maja) na terenie Multimedialnego Parku Fontann zostanie wydzielona specjalna, oznakowana strefa dla osób z niepełnosprawnościami. Będzie wyposażona w podest dla osób poruszających się na wózkach. Osoby niedosłyszące będą miały zapewnioną pętle indukcyjną.\n\nOsoby niewidome i słabowidzące przez cały sezon będą mogły skorzystać z audiodeskrypcji, która będzie dostępna na stronie: link\n\nGłośna muzyka, migotanie i efekty świetlne wykorzystywane podczas pokazów mogą wywoływać bóle głowy, epilepsje i zaburzenia percepcji.\n\nORGANIZATOR: Stołeczna Estrada\n\nPARTNERZY: Wodociągi Warszawskie, Totalizator Sportowy – właściciel marki LOTTO, Radio ESKA, Informator Stolicy, Nasze Miasto, TVP3 Warszawa",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1775563354.webp",
+      "location": {
+        "name": "Multimedialny Park Fontann w Warszawie",
+        "district": "Śródmieście"
+      },
+      "url": "https://estrada.com.pl/multimedialny_park/2026/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://estrada.com.pl/multimedialny_park/2026/",
+      "scrapped_timestamp": "2026-09-25T11:37:31.854918+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "„Wielkie Serca” – spektakle w Multimedialnym Parku Fontann 2026",
+          "description": "„Wielkie Serca” – nowy sezon spektakli w Multimedialnym Parku Fontann\n\nPokazy w Multimedialnym Parku Fontann to jedno z najbardziej widowiskowych wydarzeń plenerowych w stolicy. Setki dysz wodnych, dynamiczna choreografia fontann, lasery, światło i projekcje na gigantycznym ekranie wodnym tworzą spektakl, w którym obraz, dźwięk i ruch wody splatają się w niezwykłą, multimedialną opowieść. Synchronizacja muzyki, efektów świetlnych i animacji sprawia, że każdy pokaz jest intensywnym, emocjonalnym doświadczeniem oglądanym przez tysiące widzów.\n\nTegoroczne widowisko „Wielkie Serca” niesie przesłanie o sile dobra, empatii i wzajemnej życzliwości. Animacje wyświetlane na ekranie wodnym przypomną, że nawet drobne gesty mogą zmieniać rzeczywistość, a dobro, kiedy się nim dzielimy, wraca z podwójną siłą. W tej symbolicznej opowieści pojawią się również postaci wybitnych Polaków związanych z Warszawą – ludzi, których talent, pasja i osiągnięcia przyniosły im światową sławę i stały się powodem do narodowej dumy. Wśród bohaterów widowiska znajdą się m.in. Tamara Łempicka, Fryderyk Chopin oraz współczesne gwiazdy sportu – Robert Lewandowski i Iga Świątek.\n\nMuzyczną oprawę widowiska stworzą znane kompozycje muzyki filmowej i popularne utwory światowych artystów. Wśród nich znajdzie się również piosenka „Tak jak Ty” w wykonaniu Mimi Wydrzyńskiej, skomponowana przez Stanisława Syrewicza – cenionego twórcę muzyki filmowej i teatralnej.\n\nTegoroczne widowisko to opowieść o ludziach, których talent i postawa inspirują innych. Chcemy przypomnieć sylwetki wybitnych Polaków związanych z Warszawą – osób, z których jesteśmy dumni i które pokazują, że pasja, wytrwałość i wrażliwość mogą zmieniać świat. Mamy nadzieję, że ta historia opowiedziana wodą, światłem i muzyką poruszy publiczność tak samo jak poprzednie pokazy. – mówi Andrzej Matusiak, dyrektor Stołecznej Estrady.\n\nPokazy w Multimedialnym Parku Fontann od lat przyciągają setki tysięcy widzów i należą do najpopularniejszych letnich atrakcji Warszawy – zarówno dla mieszkańców, jak i turystów z Polski i z zagranicy.\n\nWstęp na pokazy w Multimedialnym Parku Fontann jest bezpłatny.\n\nPokazy są współfinansowane ze środków Miasta st. Warszawy.\n\nProgram pokazów w Multimedialnym Parku Fontann (w każdy piątek i sobotę):\n\nMaj/ Czerwiec* / Lipiec – godz. 21:30\n\nSierpień – godz. 21:00\n\nWrzesień – godz. 20:30\n\n*w dniach 19 i 20 czerwca, ze względu na Wianki nad Wisłą pokazy fontann „Wielkie Serca” nie odbędą się.\n\nPokaz trwa 30 minut.\n\nDostępność\n\nW trakcie pierwszego pokazu inauguracyjnego (1 maja) na terenie Multimedialnego Parku Fontann zostanie wydzielona specjalna, oznakowana strefa dla osób z niepełnosprawnościami. Będzie wyposażona w podest dla osób poruszających się na wózkach. Osoby niedosłyszące będą miały zapewnioną pętle indukcyjną.\n\nOsoby niewidome i słabowidzące przez cały sezon będą mogły skorzystać z audiodeskrypcji, która będzie dostępna na stronie: link\n\nGłośna muzyka, migotanie i efekty świetlne wykorzystywane podczas pokazów mogą wywoływać bóle głowy, epilepsje i zaburzenia percepcji.\n\nORGANIZATOR: Stołeczna Estrada\n\nPARTNERZY: Wodociągi Warszawskie, Totalizator Sportowy – właściciel marki LOTTO, Radio ESKA, Informator Stolicy, Nasze Miasto, TVP3 Warszawa"
+        },
+        "en": {
+          "title": "\"Great Hearts\" – performances at the Multimedia Fountain Park 2026",
+          "description": "\"Great Hearts\" – a new season of performances at the Multimedia Fountain Park\n\nPerformances at the Multimedia Fountain Park are one of the most spectacular outdoor events in the capital. Hundreds of water jets, dynamic choreography of the fountains, lasers, light, and projections on a giant water screen create a spectacle where image, sound, and the movement of water intertwine into an extraordinary multimedia story. The synchronization of music, light effects, and animations makes each show an intense, emotional experience watched by thousands of spectators.\n\nThis year's spectacle \"Great Hearts\" carries a message about the power of good, empathy, and mutual kindness. The animations displayed on the water screen will remind us that even small gestures can change reality, and that good, when shared, returns doubly."
+        },
+        "uk": {
+          "title": "„Великі Серця” – спектаклі в Мультимедійному Парку Фонтанів 2026",
+          "description": "„Великі Серця” – новий сезон спектаклів в Мультимедійному Парку Фонтанів\n\nПокази в Мультимедійному Парку Фонтанів – це одне з найбільш видовищних подій на відкритому повітрі в столиці. Сотні водяних струменів, динамічна хореографія фонтанів, лазери, світло та проекції на гігантському водяному екрані створюють спектакль, в якому образ, звук і рух води переплітаються в незвичайну, мультимедійну оповідь. Синхронізація музики, світлових ефектів і анімацій робить кожен показ інтенсивним, емоційним досвідом, який спостерігають тисячі глядачів.\n\nЦьогорічне видовище „Великі Серця” несе послання про силу добра, емпатії та взаємної доброзичливості. Анімації, що відображаються на водяному екрані, нагадають, що навіть дрібні жести можуть змінювати реальність, а добро, коли ми ним ділимося, повертається з подвійною"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.699830+00:00"
+    },
+    "miasteczko-ruchu-drogowego-dla-dzieci-2026-09-26T10:00:00+02:00": {
+      "title": "Miasteczko Ruchu Drogowego dla dzieci",
+      "date": "2026-09-26T10:00:00+02:00",
+      "end_date": "2026-09-26T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "25 i 26 września Plac Konesera zamieni się w mobilne Miasteczko Ruchu Drogowego. Dzieci będą mogły w bezpiecznych warunkach przećwiczyć prawidłowe zasady poruszania się po drodze – na rowerach i hulajnogach.\n\nPod opieką instruktorów przypomną sobie, jak zachować się na skrzyżowaniu, kto i w jakich sytuacjach ma pierwszeństwo oraz jak bezpiecznie przejść przez jezdnię.\n\nW Miasteczku Ruchu Drogowego na dzieci czekały będą skrzyżowania, przejazd kolejowy i przejścia dla pieszych oraz znaki drogowe i sygnalizacja świetlna. Na miejscu znajdą się również symulatory: dachowania oraz zderzenia.\n\nRower lub hulajnogę dzieci mogą zabrać ze sobą z domu lub bezpłatnie wypożyczyć na miejscu.\n\nWydarzenie jest całkowicie bezpłatne i otwarte dla wszystkich zainteresowanych!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1789565682.webp",
+      "location": {
+        "name": "Plac Konesera",
+        "district": "Praga-Północ"
+      },
+      "url": "https://www.facebook.com/events/1017912397947768/1017912404614434/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1017912397947768/1017912404614434/",
+      "scrapped_timestamp": "2026-09-25T11:37:36.993035+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Miasteczko Ruchu Drogowego dla dzieci",
+          "description": "25 i 26 września Plac Konesera zamieni się w mobilne Miasteczko Ruchu Drogowego. Dzieci będą mogły w bezpiecznych warunkach przećwiczyć prawidłowe zasady poruszania się po drodze – na rowerach i hulajnogach.\n\nPod opieką instruktorów przypomną sobie, jak zachować się na skrzyżowaniu, kto i w jakich sytuacjach ma pierwszeństwo oraz jak bezpiecznie przejść przez jezdnię.\n\nW Miasteczku Ruchu Drogowego na dzieci czekały będą skrzyżowania, przejazd kolejowy i przejścia dla pieszych oraz znaki drogowe i sygnalizacja świetlna. Na miejscu znajdą się również symulatory: dachowania oraz zderzenia.\n\nRower lub hulajnogę dzieci mogą zabrać ze sobą z domu lub bezpłatnie wypożyczyć na miejscu.\n\nWydarzenie jest całkowicie bezpłatne i otwarte dla wszystkich zainteresowanych!"
+        },
+        "en": {
+          "title": "Traffic Town for Children",
+          "description": "On September 25 and 26, the Koneser Square will transform into a mobile Traffic Town. Children will be able to practice the correct rules of road movement in a safe environment – on bicycles and scooters.\n\nUnder the supervision of instructors, they will recall how to behave at an intersection, who has the right of way in various situations, and how to safely cross the street.\n\nIn the Traffic Town, children will find intersections, a railway crossing, pedestrian crossings, as well as road signs and traffic lights. There will also be simulators: of rollover and collision.\n\nChildren can bring their own bicycle or scooter from home or rent one for free on-site.\n\nThe event is completely free and open to all interested!"
+        },
+        "uk": {
+          "title": "Містечко дорожнього руху для дітей",
+          "description": "25 і 26 вересня Площа Конесера перетвориться на мобільне Містечко дорожнього руху. Діти зможуть у безпечних умовах відпрацювати правильні правила пересування по дорозі – на велосипедах і самокатах.\n\nПід наглядом інструкторів вони згадають, як поводитися на перехресті, хто і в яких ситуаціях має перевагу, а також як безпечно перейти через проїжджу частину.\n\nУ Містечку дорожнього руху на дітей чекатимуть перехрестя, залізничний переїзд і пішохідні переходи, а також дорожні знаки і світлофори. На місці також будуть симулятори: перекидання та зіткнення.\n\nВелосипед або самокат діти можуть взяти з собою з дому або безкоштовно орендувати на місці.\n\nПодія є абсолютно безкоштовною і відкритою для всіх зацікавлених!"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Północ",
+      "updated_at": "2026-09-25T11:39:56.699843+00:00"
+    },
+    "rysujemy-zwierz-ta-spotkania-w-nowej-palmiarni-2026-09-25T10:30:00+02:00": {
+      "title": "Rysujemy zwierzęta - spotkania w Nowej Palmiarni",
+      "date": "2026-09-25T10:30:00+02:00",
+      "end_date": "2026-09-25T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Kto mówi, że rysowanie zwierząt jest trudne?\n\nCzas sprawdzić to w praktyce - w przyrodniczym klimacie Nowej Palmiarni. 🌿✏️\n\nSpotkania dla dzieci od 6 lat i opiekunów, młodzieży oraz dorosłych\n\nWstęp: bezpłatny; obowiązują darmowe wejściówki - POBIERZ WEJŚCIÓWKĘ >> link\n\nTerminy: 4, 11, 18 i 25 września 2026 r., godz. 10.30-12.00, 12.00-13.30, 14.00-15.30 i 15.30-17.00\n\nMiejsce: Nowa Palmiarnia\n\n⏳ 1,5 godz. | 1 godz. rysowania + 0,5 godz. czasu wolnego w strefie edukacyjnej\n\nRysowanie zwierząt bywa wyzwaniem - ich proporcje różnią się od ludzkich, a budowa często wydaje się nieoczywista.\n\nNa zajęciach będziemy wspólnie rysować zwierzęta, przyjrzymy się ich kończynom, pyskom, a także szkieletom. Przejdziemy przez proces tworzenia pracy:\n\n✏️ szkic ołówkiem\n\n🖊️ dopracowanie długopisem\n\n🎨 kolor i cieniowanie kredkami\n\nWarsztaty prowadzi Radosław Pomagalski - z wykształcenia i zamiłowania przyrodnik, absolwent biologii na Uniwersytecie Warszawskim. Od czasów studenckich uczy mądrej miłości do przyrody podczas lekcji muzealnych i warsztatów prowadzonych w Łazienkach Królewskich. Hobbystycznie od ponad 20 lat rysuje zwierzęta na papierze oraz cyfrowo, zarówno w formie wysokiej jakości ilustracji wzorowanych na dawnych atlasach przyrody jak i projektowania gatunków fantastycznych (speculative evolution). Jest też autorem wielu realistycznych materiałów do rysowania dla dzieci przedstawiających zwierzęta żyjące w ogrodach Łazienek Królewskich. Prywatnie opiekun wielu gatunków egzotycznych zwierząt.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1771860021.webp",
+      "location": {
+        "name": "Łazienki Królewskie, Nowa Palmiarnia",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.lazienki-krolewskie.pl/pl/edukacja/rodziny-i-dzieci/dzialania-stacjonarne/dzialania-stacjonarne-rysujemy-zwierzeta",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.lazienki-krolewskie.pl/pl/edukacja/rodziny-i-dzieci/dzialania-stacjonarne/dzialania-stacjonarne-rysujemy-zwierzeta",
+      "scrapped_timestamp": "2026-09-25T11:37:42.049774+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 18
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Rysujemy zwierzęta - spotkania w Nowej Palmiarni",
+          "description": "Kto mówi, że rysowanie zwierząt jest trudne?\n\nCzas sprawdzić to w praktyce - w przyrodniczym klimacie Nowej Palmiarni. 🌿✏️\n\nSpotkania dla dzieci od 6 lat i opiekunów, młodzieży oraz dorosłych\n\nWstęp: bezpłatny; obowiązują darmowe wejściówki - POBIERZ WEJŚCIÓWKĘ >> link\n\nTerminy: 4, 11, 18 i 25 września 2026 r., godz. 10.30-12.00, 12.00-13.30, 14.00-15.30 i 15.30-17.00\n\nMiejsce: Nowa Palmiarnia\n\n⏳ 1,5 godz. | 1 godz. rysowania + 0,5 godz. czasu wolnego w strefie edukacyjnej\n\nRysowanie zwierząt bywa wyzwaniem - ich proporcje różnią się od ludzkich, a budowa często wydaje się nieoczywista.\n\nNa zajęciach będziemy wspólnie rysować zwierzęta, przyjrzymy się ich kończynom, pyskom, a także szkieletom. Przejdziemy przez proces tworzenia pracy:\n\n✏️ szkic ołówkiem\n\n🖊️ dopracowanie długopisem\n\n🎨 kolor i cieniowanie kredkami\n\nWarsztaty prowadzi Radosław Pomagalski - z wykształcenia i zamiłowania przyrodnik, absolwent biologii na Uniwersytecie Warszawskim. Od czasów studenckich uczy mądrej miłości do przyrody podczas lekcji muzealnych i warsztatów prowadzonych w Łazienkach Królewskich. Hobbystycznie od ponad 20 lat rysuje zwierzęta na papierze oraz cyfrowo, zarówno w formie wysokiej jakości ilustracji wzorowanych na dawnych atlasach przyrody jak i projektowania gatunków fantastycznych (speculative evolution). Jest też autorem wielu realistycznych materiałów do rysowania dla dzieci przedstawiających zwierzęta żyjące w ogrodach Łazienek Królewskich. Prywatnie opiekun wielu gatunków egzotycznych zwierząt."
+        },
+        "en": {
+          "title": "Drawing Animals - Meetings at the New Palm House",
+          "description": "Who says that drawing animals is difficult?\n\nIt's time to check this in practice - in the natural atmosphere of the New Palm House. 🌿✏️\n\nMeetings for children from 6 years old and their guardians, youth, and adults\n\nAdmission: free; free tickets are required - DOWNLOAD TICKET >> link\n\nDates: September 4, 11, 18, and 25, 2026, 10:30 AM - 12:00 PM, 12:00 PM - 1:30 PM, 2:00 PM - 3:30 PM, and 3:30 PM - 5:00 PM\n\nLocation: New Palm House\n\n⏳ 1.5 hours | 1 hour of drawing + 0.5 hours of free time in the educational zone\n\nDrawing animals can be a challenge - their proportions differ from human ones, and their structure often seems non-obvious.\n\nIn the classes, we will draw animals together, we will look at their limbs, snouts, and also skeletons. We will go through the process of creating a work:\n\n✏️ pencil sketch\n\n🖊️ refinement with a pen\n\n🎨 color"
+        },
+        "uk": {
+          "title": "Малюємо тварин - зустрічі в Новій Пальмярні",
+          "description": "Хто каже, що малювати тварин важко?\n\nЧас перевірити це на практиці - в природному кліматі Нової Пальмярні. 🌿✏️\n\nЗустрічі для дітей від 6 років та опікунів, молоді та дорослих\n\nВхід: безкоштовний; діють безкоштовні квитки - СКАЧАТИ КВИТОК >> посилання\n\nДати: 4, 11, 18 та 25 вересня 2026 р., год. 10.30-12.00, 12.00-13.30, 14.00-15.30 та 15.30-17.00\n\nМісце: Нова Пальмярня\n\n⏳ 1,5 год. | 1 год. малювання + 0,5 год. вільного часу в освітній зоні\n\nМалювання тварин може бути викликом - їх пропорції відрізняються від людських, а будова часто здається неочевидною.\n\nНа заняттях ми будемо разом малювати тварин, розглянемо їх кінцівки, пащі, а також скелети. Пройдемо через процес створення роботи:\n\n✏️ ескіз олівцем\n\n🖊️ доопрацювання ручкою\n\n🎨 колір"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.699857+00:00"
+    },
+    "testy-gry-miejskiej-zaginiony-depozyt-powsta-c-w-2026-09-26T10:00:00+02:00": {
+      "title": "Testy gry miejskiej - zaginiony depozyt Powstańców.",
+      "date": "2026-09-26T10:00:00+02:00",
+      "end_date": "2026-09-26T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na darmowe testy naszej debiutanckiej gry miejskiej o tematyce poszukiwań zaginionego depozytu z czasów Powstania.\n\nGra jest prowadzona przez wirtualnego przewodnika na urządzeniu mobilnym (działa w przeglądarce, nie trzeba nic instalować). Polega na rozwiązywaniu zagadek logicznych powiązanych z konkretnymi miejscami związanymi z historią Powstania Warszawskiego. Wykorzystuje nowoczesne technologie (np. AR, wykonywanie telefonów). Możliwa jest gra w kilka osób (każdy ma podgląd gdy na własnym smartfonie).\n\nIlość miejsc ograniczona - link do strony z możliwością darmowego dostępu do gry, udostępnimy pierwszym 5 osobą które odezwą się na nasz adres mailowy: kontakt@secretgate.pl",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1790245941.webp",
+      "location": {
+        "name": "Metro ratusz Arsenał",
+        "district": "Śródmieście"
+      },
+      "url": "https://waw4free.pl/wydarzenie-159211-testy-gry-miejskiej-zaginiony-depozyt-powstancow",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://waw4free.pl/wydarzenie-159211-testy-gry-miejskiej-zaginiony-depozyt-powstancow",
+      "scrapped_timestamp": "2026-09-25T11:37:49.312350+00:00",
+      "category": "Games",
+      "additional_categories": [
+        "Educational",
+        "STEM"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Testy gry miejskiej - zaginiony depozyt Powstańców.",
+          "description": "Zapraszamy na darmowe testy naszej debiutanckiej gry miejskiej o tematyce poszukiwań zaginionego depozytu z czasów Powstania.\n\nGra jest prowadzona przez wirtualnego przewodnika na urządzeniu mobilnym (działa w przeglądarce, nie trzeba nic instalować). Polega na rozwiązywaniu zagadek logicznych powiązanych z konkretnymi miejscami związanymi z historią Powstania Warszawskiego. Wykorzystuje nowoczesne technologie (np. AR, wykonywanie telefonów). Możliwa jest gra w kilka osób (każdy ma podgląd gdy na własnym smartfonie).\n\nIlość miejsc ograniczona - link do strony z możliwością darmowego dostępu do gry, udostępnimy pierwszym 5 osobą które odezwą się na nasz adres mailowy: kontakt@secretgate.pl"
+        },
+        "en": {
+          "title": "Testy gry miejskiej - zaginiony depozyt Powstańców.",
+          "description": "We invite you to free tests of our debut urban game about the search for the lost deposit from the time of the Uprising.\n\nThe game is conducted by a virtual guide on a mobile device (works in the browser, no installation required). It involves solving logical puzzles related to specific places connected to the history of the Warsaw Uprising. It utilizes modern technologies (e.g., AR, making phone calls). It is possible to play in groups (everyone has a view on their own smartphone).\n\nThe number of places is limited - we will share the link to the page with free access to the game with the first 5 people who contact us at our email address: kontakt@secretgate.pl"
+        },
+        "uk": {
+          "title": "Тестування міської гри - зниклий депозит Повстанців.",
+          "description": "Запрошуємо на безкоштовні тестування нашої дебютної міської гри на тему пошуків зниклого депозиту з часів Повстання.\n\nГра проводиться віртуальним гідом на мобільному пристрої (працює в браузері, не потрібно нічого встановлювати). Полягає на розв'язуванні логічних загадок, пов'язаних з конкретними місцями, що мають відношення до історії Варшавського Повстання. Використовує сучасні технології (наприклад, AR, здійснення дзвінків). Можлива гра в кілька осіб (кожен має доступ до перегляду на власному смартфоні).\n\nКількість місць обмежена - посилання на сайт з можливістю безкоштовного доступу до гри, надамо першим 5 особам, які звернуться на нашу електронну адресу: kontakt@secretgate.pl"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.699873+00:00"
+    },
+    "je-e-na-stegnach-nasi-mali-przyjaciele-2026-09-26T12:30:00+02:00": {
+      "title": "Jeże na Stegnach – nasi mali przyjaciele",
+      "date": "2026-09-26T12:30:00+02:00",
+      "end_date": "2026-09-26T12:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Na Mokotowie ruszyły spacery śladami kolczastych sąsiadów\n\nJeże żyją tuż obok nas, choć często ich nie zauważamy. Już od 24 września mieszkańcy Mokotowa mogą poznawać bliżej te niezwykłe zwierzęta podczas bezpłatnych spacerów edukacyjnych „Jeże na Stegnach – nasi mali przyjaciele”, realizowanych w ramach Budżetu Obywatelskiego 2026.\n\nMali mieszkańcy wielkiego miasta\n\nWieczorem cicho przemierzają parkowe alejki, skwery i zielone zakątki osiedli. Choć są niewielkie, odgrywają ważną rolę w miejskim ekosystemie. Teraz każdy będzie mógł odkryć ich fascynujący świat podczas cyklu spacerów przyrodniczych organizowanych na Mokotowie. Uczestnicy poznają zwyczaje jeży, dowiedzą się, jakie zagrożenia czyhają na nie w przestrzeni miejskiej oraz jak w prosty sposób pomagać tym sympatycznym zwierzętom i chronić ich siedliska.\n\nHarmonogram spacerów\n\n24 września (czwartek) godz. 17:00-18:30\n\nPark “Akcji Burza”, miejsce spotkania: wejście do parku od ul. Bartyckiej\n\n26 września (sobota) godz.12:30-14:00\n\nPark Arkadia, miejsce spotkania: teren zieleni przy skrzyżowaniu ul. Piaseczyńskiej i ul. Idzikowskiego\n\n1 października (czwartek) godz. 17:00-18:30\n\nJeziorko Czerniakowskie, miejsce spotkania: teren zieleni przy skrzyżowaniu ul. Gołkowskiej i ul. św. Bonifacego\n\n3 października (sobota) godz.12:30-14:00\n\nPark Promenada, miejsce spotkania: wejście do parku przy skrzyżowaniu ul. Belwederskiej i ul. Promenada\n\n8 października (czwartek) godz. 17:00-18:30\n\nPark Arkadia, miejsce spotkania: teren zieleni przy skrzyżowaniu ul. Piaseczyńskiej i ul. Idzikowskiego\n\n10 października (sobota) godz.12:30-14:00\n\nPark Dolinka Służewska, miejsce spotkania: obok zagrody kóz Służewskiego Domu Kultury przy ul. J.S. Bacha\n\n17 października (sobota) godz.12:30-14:00\n\n​​​​​​​​​​​Park Arkadia, miejsce spotkania przy skrzyżowaniu ul. Piaseczyńskiej i ul. Idzikowskiego\n\n5 listopada (czwartek) godz. 17:00-18:30​​​​​​​\n\nszlak edukacyjny projektu na Stegnach, miejsce spotkania: przed Szkołą Podstawową nr 339, ul. św. Bonifacego 10\n\n7 listopada (sobota) godz.12:30-14:00​​​​​​​\n\nszlak edukacyjny projektu na Stegnach, miejsce spotkania: przed Szkołą Podstawową nr 339, ul. św. Bonifacego 10\n\nWiedza, natura i rodzinna przygoda\n\nSpacery odbędą się na terenach zielonych Mokotowa od 24 września do 7 listopada. Udział w nich jest bezpłatny, a sobotnie spotkania są szczególnie polecane rodzinom z dziećmi. To nie tylko okazja do zdobycia ciekawej wiedzy przyrodniczej, ale także do wspólnego spędzenia czasu na świeżym powietrzu i spojrzenia na dobrze znane miejsca z zupełnie nowej perspektywy. Organizatorzy zapraszają wszystkich mieszkańców, niezależnie od wieku. Projekt realizowany jest w ramach Budżetu Obywatelskiego 2026 pod nazwą „Jeże na Stegnach – nasi mali przyjaciele” (nr 454).",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1790330691.webp",
+      "location": {
+        "name": "Mokotów",
+        "district": "Mokotów"
+      },
+      "url": "https://waw4free.pl/wydarzenie-159357-jeze-na-stegnach-nasi-mali-przyjaciele",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://waw4free.pl/wydarzenie-159357-jeze-na-stegnach-nasi-mali-przyjaciele",
+      "scrapped_timestamp": "2026-09-25T11:37:54.604988+00:00",
+      "category": "Nature & Wildlife",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Jeże na Stegnach – nasi mali przyjaciele",
+          "description": "Na Mokotowie ruszyły spacery śladami kolczastych sąsiadów\n\nJeże żyją tuż obok nas, choć często ich nie zauważamy. Już od 24 września mieszkańcy Mokotowa mogą poznawać bliżej te niezwykłe zwierzęta podczas bezpłatnych spacerów edukacyjnych „Jeże na Stegnach – nasi mali przyjaciele”, realizowanych w ramach Budżetu Obywatelskiego 2026.\n\nMali mieszkańcy wielkiego miasta\n\nWieczorem cicho przemierzają parkowe alejki, skwery i zielone zakątki osiedli. Choć są niewielkie, odgrywają ważną rolę w miejskim ekosystemie. Teraz każdy będzie mógł odkryć ich fascynujący świat podczas cyklu spacerów przyrodniczych organizowanych na Mokotowie. Uczestnicy poznają zwyczaje jeży, dowiedzą się, jakie zagrożenia czyhają na nie w przestrzeni miejskiej oraz jak w prosty sposób pomagać tym sympatycznym zwierzętom i chronić ich siedliska.\n\nHarmonogram spacerów\n\n24 września (czwartek) godz. 17:00-18:30\n\nPark “Akcji Burza”, miejsce spotkania: wejście do parku od ul. Bartyckiej\n\n26 września (sobota) godz.12:30-14:00\n\nPark Arkadia, miejsce spotkania: teren zieleni przy skrzyżowaniu ul. Piaseczyńskiej i ul. Idzikowskiego\n\n1 października (czwartek) godz. 17:00-18:30\n\nJeziorko Czerniakowskie, miejsce spotkania: teren zieleni przy skrzyżowaniu ul. Gołkowskiej i ul. św. Bonifacego\n\n3 października (sobota) godz.12:30-14:00\n\nPark Promenada, miejsce spotkania: wejście do parku przy skrzyżowaniu ul. Belwederskiej i ul. Promenada\n\n8 października (czwartek) godz. 17:00-18:30\n\nPark Arkadia, miejsce spotkania: teren zieleni przy skrzyżowaniu ul. Piaseczyńskiej i ul. Idzikowskiego\n\n10 października (sobota) godz.12:30-14:00\n\nPark Dolinka Służewska, miejsce spotkania: obok zagrody kóz Służewskiego Domu Kultury przy ul. J.S. Bacha\n\n17 października (sobota) godz.12:30-14:00\n\n​​​​​​​​​​​Park Arkadia, miejsce spotkania przy skrzyżowaniu ul. Piaseczyńskiej i ul. Idzikowskiego\n\n5 listopada (czwartek) godz. 17:00-18:30​​​​​​​\n\nszlak edukacyjny projektu na Stegnach, miejsce spotkania: przed Szkołą Podstawową nr 339, ul. św. Bonifacego 10\n\n7 listopada (sobota) godz.12:30-14:00​​​​​​​\n\nszlak edukacyjny projektu na Stegnach, miejsce spotkania: przed Szkołą Podstawową nr 339, ul. św. Bonifacego 10\n\nWiedza, natura i rodzinna przygoda\n\nSpacery odbędą się na terenach zielonych Mokotowa od 24 września do 7 listopada. Udział w nich jest bezpłatny, a sobotnie spotkania są szczególnie polecane rodzinom z dziećmi. To nie tylko okazja do zdobycia ciekawej wiedzy przyrodniczej, ale także do wspólnego spędzenia czasu na świeżym powietrzu i spojrzenia na dobrze znane miejsca z zupełnie nowej perspektywy. Organizatorzy zapraszają wszystkich mieszkańców, niezależnie od wieku. Projekt realizowany jest w ramach Budżetu Obywatelskiego 2026 pod nazwą „Jeże na Stegnach – nasi mali przyjaciele” (nr 454)."
+        },
+        "en": {
+          "title": "Hedgehogs in Stegny – our little friends",
+          "description": "In Mokotów, walks tracing the spiny neighbors have begun\n\nHedgehogs live right next to us, although we often do not notice them. Starting from September 24, the residents of Mokotów can get to know these extraordinary animals better during free educational walks \"Hedgehogs in Stegny – our little friends,\" organized as part of the 2026 Civic Budget.\n\nLittle residents of the big city\n\nIn the evening, they quietly traverse park paths, squares, and green corners of the neighborhoods. Although they are small, they play an important role in the urban ecosystem. Now everyone will be able to discover their fascinating world during a series of nature walks organized in Mokotów. Participants will learn about the habits of hedgehogs, find out what threats lurk for them in the urban space, and how to easily help these friendly animals and"
+        },
+        "uk": {
+          "title": "Їжаки на Стегнах – наші маленькі друзі",
+          "description": "На Мокотові розпочалися прогулянки слідами колючих сусідів\n\nЇжаки живуть поруч з нами, хоча часто їх не помічаємо. Вже з 24 вересня мешканці Мокотова можуть ближче познайомитися з цими незвичайними тваринами під час безкоштовних освітніх прогулянок «Їжаки на Стегнах – наші маленькі друзі», що реалізуються в рамках Бюджету Громадянського 2026.\n\nМалі мешканці великого міста\n\nВечором тихо пересуваються парковими алеями, скверами та зеленими куточками житлових районів. Хоча вони невеликі, відіграють важливу роль у міській екосистемі. Тепер кожен зможе відкрити їхній захоплюючий світ під час циклу природничих прогулянок, організованих на Мокотові. Учасники дізнаються звички їжаків, дізнаються, які загрози чекають на них у міському середовищі, а також як простими способами допомагати цим симпатичним тваринам і"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Mokotów",
+      "updated_at": "2026-09-25T11:39:56.699887+00:00"
+    },
+    "rodzinny-piknik-w-pan-muzeum-ziemi-2026-09-27T10:00:00+02:00": {
+      "title": "RODZINNY PIKNIK W PAN MUZEUM ZIEMI",
+      "date": "2026-09-27T10:00:00+02:00",
+      "end_date": "2026-09-27T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🐘CO ROBIĆ W NIEDZIELĘ W WARSZAWIE? RODZINNY PIKNIK W PAN MUZEUM ZIEMI! 🎈\n\nNie macie pomysłów, co robić w niedzielę? Pogoda za oknem Was nie rozpieszcza? Przychodzimy z pomocą – zapraszamy na nasz rodzinny piknik!😉\n\nJuż w tę niedzielę, 27.09.2026 r., zapraszamy Was na piknik ze słoniem leśnym Gwidonem – symbolem naszego Muzeum.\n\nJest tylko jeden warunek… trzeba zabrać ze sobą dobry humor i znajomych!😀\n\nCo na Was czeka?\n\nPrzygotowaliśmy mnóstwo gier, zabaw i quizów! Będzie można poszukać „złota”, sprawdzić, na czym polega kartografia, pobawić się w wycinanki, prosto z epoki lodowcowej, a także stworzyć własne rysunki naskalne – wykorzystując skały i minerały, tak jak robili to nasi przodkowie.\n\nBędziecie mogli zobaczyć i dotknąć prawdziwych skamieniałości wymarłych zwierząt, a także spróbować odgadnąć, czy trzymacie w ręku ząb triceratopsa czy bazylozaura.\n\nNa miłośników niezwykłych okazów czekają również przepiękne bursztyny z owadami, skamieniałe palmy sprzed milionów lat oraz skamieniałości ogromnych paproci, które osiągały nawet 40 metrów wysokości!\n\nSpecjalnie na tę okazję zaprosiliśmy gości z Muzeum Ewolucji Instytutu Paleobiologii PAN. Dzięki nim poznacie najmniejsze skamieniałości, jakie być może kiedykolwiek widzieliście, natomiast przedstawiciele Muzeum Geologicznego PIG-PIB zaprezentują niesamowite okazy geologiczne z całego świata.\n\nA jeśli bliższe są Wam klimaty artystyczne, zapraszamy na oprowadzania po zabytkowej Willi Pniewskiego, w tym po wystawach czasowych „Z natury rzeczy” i „Jacek Andrzej Kozłowski (1943–2025). Biżuteria i małe formy rzeźbiarskie”.\n\nZabierajcie więc, kogo tylko się da – dziadków, rodziców, sąsiadów, znajomych i wszystkich ciekawych świata – i wpadajcie w tę niedzielę do PAN Muzeum Ziemi w Warszawie!\n\nDo zobaczenia!❤️",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1790328893.webp",
+      "location": {
+        "name": "Muzeum Ziemi w Warszawie",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/photo/?fbid=1724165846376552&set=a.523324029794079",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/photo/?fbid=1724165846376552&set=a.523324029794079",
+      "scrapped_timestamp": "2026-09-25T11:38:00.460568+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Games",
+        "Nature & Wildlife"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "RODZINNY PIKNIK W PAN MUZEUM ZIEMI",
+          "description": "🐘CO ROBIĆ W NIEDZIELĘ W WARSZAWIE? RODZINNY PIKNIK W PAN MUZEUM ZIEMI! 🎈\n\nNie macie pomysłów, co robić w niedzielę? Pogoda za oknem Was nie rozpieszcza? Przychodzimy z pomocą – zapraszamy na nasz rodzinny piknik!😉\n\nJuż w tę niedzielę, 27.09.2026 r., zapraszamy Was na piknik ze słoniem leśnym Gwidonem – symbolem naszego Muzeum.\n\nJest tylko jeden warunek… trzeba zabrać ze sobą dobry humor i znajomych!😀\n\nCo na Was czeka?\n\nPrzygotowaliśmy mnóstwo gier, zabaw i quizów! Będzie można poszukać „złota”, sprawdzić, na czym polega kartografia, pobawić się w wycinanki, prosto z epoki lodowcowej, a także stworzyć własne rysunki naskalne – wykorzystując skały i minerały, tak jak robili to nasi przodkowie.\n\nBędziecie mogli zobaczyć i dotknąć prawdziwych skamieniałości wymarłych zwierząt, a także spróbować odgadnąć, czy trzymacie w ręku ząb triceratopsa czy bazylozaura.\n\nNa miłośników niezwykłych okazów czekają również przepiękne bursztyny z owadami, skamieniałe palmy sprzed milionów lat oraz skamieniałości ogromnych paproci, które osiągały nawet 40 metrów wysokości!\n\nSpecjalnie na tę okazję zaprosiliśmy gości z Muzeum Ewolucji Instytutu Paleobiologii PAN. Dzięki nim poznacie najmniejsze skamieniałości, jakie być może kiedykolwiek widzieliście, natomiast przedstawiciele Muzeum Geologicznego PIG-PIB zaprezentują niesamowite okazy geologiczne z całego świata.\n\nA jeśli bliższe są Wam klimaty artystyczne, zapraszamy na oprowadzania po zabytkowej Willi Pniewskiego, w tym po wystawach czasowych „Z natury rzeczy” i „Jacek Andrzej Kozłowski (1943–2025). Biżuteria i małe formy rzeźbiarskie”.\n\nZabierajcie więc, kogo tylko się da – dziadków, rodziców, sąsiadów, znajomych i wszystkich ciekawych świata – i wpadajcie w tę niedzielę do PAN Muzeum Ziemi w Warszawie!\n\nDo zobaczenia!❤️"
+        },
+        "en": {
+          "title": "FAMILY PICNIC AT THE PAN MUSEUM OF EARTH",
+          "description": "🐘WHAT TO DO ON SUNDAY IN WARSAW? FAMILY PICNIC AT THE PAN MUSEUM OF EARTH! 🎈\n\nDon't have any ideas for what to do on Sunday? The weather outside isn't treating you well? We're here to help – we invite you to our family picnic!😉\n\nThis Sunday, September 27, 2026, we invite you to a picnic with the forest elephant Gwidon – the symbol of our Museum.\n\nThere is just one condition... you have to bring good humor and friends!😀\n\nWhat awaits you?\n\nWe have prepared a lot of games, fun, and quizzes! You will be able to search for \"gold\", check out what cartography is all about, play with cutouts straight from the Ice Age, and also create your own rock art – using rocks and minerals, just like our ancestors did.\n\nYou will be able to see and touch real fossils of extinct animals, and also try"
+        },
+        "uk": {
+          "title": "СІМЕЙНИЙ ПІКНІК У ПАН МУЗЕЇ ЗЕМЛІ",
+          "description": "🐘ЩО РОБИТИ У НЕДІЛЮ У ВАРШАВІ? СІМЕЙНИЙ ПІКНІК У ПАН МУЗЕЇ ЗЕМЛІ! 🎈\n\nНе маєте ідей, що робити у неділю? Погода за вікном вас не радує? Прийдемо на допомогу – запрошуємо на наш сімейний пікнік!😉\n\nВже цієї неділі, 27.09.2026 р., запрошуємо вас на пікнік з лісовим слоном Гвідоном – символом нашого музею.\n\nЄ лише одна умова… потрібно взяти з собою гарний настрій і друзів!😀\n\nЩо на вас чекає?\n\nПідготували безліч ігор, розваг і вікторин! Можна буде пошукати «золото», перевірити, в чому полягає картографія, погратися у вирізання, прямо з льодовикової епохи, а також створити власні наскельні малюнки – використовуючи камені та мінерали, так, як це робили наші предки.\n\nВи зможете побачити і доторкнутися до справжніх скам'янілостей вимерлих тварин, а також спробувати"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.699900+00:00"
+    },
+    "sing-slang-zaj-cia-muzyczno-j-zykowe-dla-dzieci-2026-09-27T13:00:00+02:00": {
+      "title": "SING & SLANG | Zajęcia muzyczno-językowe dla dzieci",
+      "date": "2026-09-27T13:00:00+02:00",
+      "end_date": "2026-09-27T13:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "LET’S SING&SLANG IN SPANISH!\n\nMuzyczno-językowe edukacyjne animacje dla dzieci w Hard Rock Cafe Warsaw!\n\nCzy Twoje dziecko ma duszę małej gwiazdy estrady? Chcecie połączyć wspaniałą muzyczną energię z nauką języka hiszpańskiego przez zabawę?\n\nWspólnie z Viva Languages zapraszamy na wyjątkowe edukacyjne animacje „LET’S SING&SLANG IN SPANISH!” w Hard Rock Cafe Warsaw!\n\n📅Kiedy: 27 września, godz. 13:00 i 14:00\n\n⏰Czas trwania: 90 minut (2 × 45 min z przerwą)\n\n❗️Gdzie: W Hard Rock Cafe w Złotych Tarasach, sala Flower\n\n✅Jak się zapisać:\n\nZajęcia są bezpłatne dla gości restauracji, napisz do nas żeby zrobić rezerwacje: warsaw@hardrockcafe.pl\n\n🔥 Co czeka małych Gwiazdorów?\n\n1️⃣WPROWADZENIE „¡HOLA!”\n\nDzieci stoją w kole. Lektor wita dzieci po hiszpańsku:\n\n¡Hola! – Cześć!\n\n¿Cómo te llamas? – Jak masz na imię?\n\nMe llamo… – Mam na imię…\n\nKażde dziecko mówi swoje imię i wykonuje prosty ruch, np. klaśnięcie, obrót,\n\npodskok. Cała grupa powtarza imię oraz ruch.\n\n2️⃣CZĘŚCI CIAŁA „BODY PARTS”\n\nLektor przedstawia dzieciom podstawowe części ciała, wykorzystując obrazki oraz gesty.\n\n3️⃣„Amanda dice ”\n\nLektor prowadzi popularną zabawę „Amanda dice”.\n\n4️⃣ Cabeza, hombros, rodillas y pies – PIOSENKA Z RUCHEM\n\n5️⃣„RYSUJEMY POTWORKA” – „DIBUJA UN MONSTRUO”\n\nLektor po hiszpańsku opisuje, co dzieci mają narysować.\n\nNa koniec dzieci mogą pokazać swoje rysunki i wspólnie nazwać znajdujące się na nich części ciała.\n\n6️⃣ LAS SILLAS MUSICALES – MUZYCZNE KRZESŁA\n\nDzieci ustawiają krzesła w kole. Krzeseł powinno być o jedno mniej niż dzieci. W czasie, gdy gra muzyka, dzieci chodzą lub tańczą wokół krzeseł. Lektor może co jakiś czas wypowiadać po hiszpańsku nazwy części ciała, a dzieci wykonują odpowiedni ruch:\n\n¡Cabeza! – dotknij głowy\n\n¡Nariz! – dotknij nosa\n\n¡Orejas! – dotknij uszu\n\n¡Manos! – klaśnij\n\n¡Rodillas! – dotknij kolan\n\n¡Pies! – tupnij nogami\n\nKiedy muzyka nagle się zatrzyma, lektor mówi:\n\n„¡Sentaos!”\n\n– Siadajcie!\n\nDzieci jak najszybciej zajmują wolne krzesła. Osoba, która nie znajdzie krzesła, odpada z rundy.\n\nNastępnie zabiera się jedno krzesło i rozpoczyna kolejną rundę.\n\n7️⃣Zabawa taneczna - Na koniec dzieci biorą udział w krótkiej zabawie tanecznej.\n\nNa koniec dzieci otrzymają odznakę do swojego paszportu.\n\n🌟 Kolekcjonerski paszport – Music Star Passport!\n\nWarsztaty to początek większej przygody! Każdy mały uczestnik zbiera unikalne naklejki i odznaki tematyczne za udział w kolejnych spotkaniach, zdobywając kolejne tytuły: Junior Music Star, Super Music Star, aż po Hard Rock Language Star oraz pamiątkowe nagrody.\n\n🎸 Dla kogo?\n\nDla dzieci w przedziale wiekowym 5-11 lat – nie jest wymagana wcześniejsza znajomość hiszpańskiego!\n\nZa całe warsztaty odpowiedzialna jest ekipa z Viva Language!\n\nViva Languages to nowoczesna szkoła językowa, specjalizująca się w nauce języka angielskiego, hiszpańskiego i włoskiego dla dzieci, młodzieży oraz dorosłych. Na co dzień prowadzą zajęcia 100% online, w małych grupach, z wykorzystaniem praktycznych i angażujących metod nauki. Zajęcia prowadzą zarówno native speakerzy, jak i polscy nauczyciele.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1300.1790257552.webp",
+      "location": {
+        "name": "Hard Rock Cafe, ul. Złota 59",
+        "district": "Śródmieście"
+      },
+      "url": "https://fb.me/e/bzJwPxppA",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://fb.me/e/bzJwPxppA",
+      "scrapped_timestamp": "2026-09-25T11:38:07.670701+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 11
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "SING & SLANG | Zajęcia muzyczno-językowe dla dzieci",
+          "description": "LET’S SING&SLANG IN SPANISH!\n\nMuzyczno-językowe edukacyjne animacje dla dzieci w Hard Rock Cafe Warsaw!\n\nCzy Twoje dziecko ma duszę małej gwiazdy estrady? Chcecie połączyć wspaniałą muzyczną energię z nauką języka hiszpańskiego przez zabawę?\n\nWspólnie z Viva Languages zapraszamy na wyjątkowe edukacyjne animacje „LET’S SING&SLANG IN SPANISH!” w Hard Rock Cafe Warsaw!\n\n📅Kiedy: 27 września, godz. 13:00 i 14:00\n\n⏰Czas trwania: 90 minut (2 × 45 min z przerwą)\n\n❗️Gdzie: W Hard Rock Cafe w Złotych Tarasach, sala Flower\n\n✅Jak się zapisać:\n\nZajęcia są bezpłatne dla gości restauracji, napisz do nas żeby zrobić rezerwacje: warsaw@hardrockcafe.pl\n\n🔥 Co czeka małych Gwiazdorów?\n\n1️⃣WPROWADZENIE „¡HOLA!”\n\nDzieci stoją w kole. Lektor wita dzieci po hiszpańsku:\n\n¡Hola! – Cześć!\n\n¿Cómo te llamas? – Jak masz na imię?\n\nMe llamo… – Mam na imię…\n\nKażde dziecko mówi swoje imię i wykonuje prosty ruch, np. klaśnięcie, obrót,\n\npodskok. Cała grupa powtarza imię oraz ruch.\n\n2️⃣CZĘŚCI CIAŁA „BODY PARTS”\n\nLektor przedstawia dzieciom podstawowe części ciała, wykorzystując obrazki oraz gesty.\n\n3️⃣„Amanda dice ”\n\nLektor prowadzi popularną zabawę „Amanda dice”.\n\n4️⃣ Cabeza, hombros, rodillas y pies – PIOSENKA Z RUCHEM\n\n5️⃣„RYSUJEMY POTWORKA” – „DIBUJA UN MONSTRUO”\n\nLektor po hiszpańsku opisuje, co dzieci mają narysować.\n\nNa koniec dzieci mogą pokazać swoje rysunki i wspólnie nazwać znajdujące się na nich części ciała.\n\n6️⃣ LAS SILLAS MUSICALES – MUZYCZNE KRZESŁA\n\nDzieci ustawiają krzesła w kole. Krzeseł powinno być o jedno mniej niż dzieci. W czasie, gdy gra muzyka, dzieci chodzą lub tańczą wokół krzeseł. Lektor może co jakiś czas wypowiadać po hiszpańsku nazwy części ciała, a dzieci wykonują odpowiedni ruch:\n\n¡Cabeza! – dotknij głowy\n\n¡Nariz! – dotknij nosa\n\n¡Orejas! – dotknij uszu\n\n¡Manos! – klaśnij\n\n¡Rodillas! – dotknij kolan\n\n¡Pies! – tupnij nogami\n\nKiedy muzyka nagle się zatrzyma, lektor mówi:\n\n„¡Sentaos!”\n\n– Siadajcie!\n\nDzieci jak najszybciej zajmują wolne krzesła. Osoba, która nie znajdzie krzesła, odpada z rundy.\n\nNastępnie zabiera się jedno krzesło i rozpoczyna kolejną rundę.\n\n7️⃣Zabawa taneczna - Na koniec dzieci biorą udział w krótkiej zabawie tanecznej.\n\nNa koniec dzieci otrzymają odznakę do swojego paszportu.\n\n🌟 Kolekcjonerski paszport – Music Star Passport!\n\nWarsztaty to początek większej przygody! Każdy mały uczestnik zbiera unikalne naklejki i odznaki tematyczne za udział w kolejnych spotkaniach, zdobywając kolejne tytuły: Junior Music Star, Super Music Star, aż po Hard Rock Language Star oraz pamiątkowe nagrody.\n\n🎸 Dla kogo?\n\nDla dzieci w przedziale wiekowym 5-11 lat – nie jest wymagana wcześniejsza znajomość hiszpańskiego!\n\nZa całe warsztaty odpowiedzialna jest ekipa z Viva Language!\n\nViva Languages to nowoczesna szkoła językowa, specjalizująca się w nauce języka angielskiego, hiszpańskiego i włoskiego dla dzieci, młodzieży oraz dorosłych. Na co dzień prowadzą zajęcia 100% online, w małych grupach, z wykorzystaniem praktycznych i angażujących metod nauki. Zajęcia prowadzą zarówno native speakerzy, jak i polscy nauczyciele."
+        },
+        "en": {
+          "title": "SING & SLANG | Music and Language Classes for Children",
+          "description": "LET’S SING&SLANG IN SPANISH!\n\nMusical and language educational animations for children at Hard Rock Cafe Warsaw!\n\nDoes your child have the soul of a little star? Do you want to combine wonderful musical energy with learning Spanish through play?\n\nTogether with Viva Languages, we invite you to a unique educational animation \"LET’S SING&SLANG IN SPANISH!\" at Hard Rock Cafe Warsaw!\n\n📅When: September 27, at 1:00 PM and 2:00 PM\n\n⏰Duration: 90 minutes (2 × 45 min with a break)\n\n❗️Where: At Hard Rock Cafe in Złote Tarasy, Flower room\n\n✅How to register:\n\nThe classes are free for restaurant guests, write to us to make a reservation: warsaw@hardrockcafe.pl\n\n🔥 What awaits little Stars?\n\n1️⃣INTRODUCTION \"¡HOLA!\"\n\nChildren stand in a circle. The instructor greets the children in Spanish:\n\n¡Hola! – Hello!\n\n¿Cómo te llamas? – What is your name?"
+        },
+        "uk": {
+          "title": "СПІВ І СЛЕНГ | Музично-мовні заняття для дітей",
+          "description": "ДАВАЙТЕ СПІВАТИ І СЛЕНГУВАТИ ІСПАНСЬКОЮ!\n\nМузично-мовні освітні анімації для дітей у Hard Rock Cafe Warsaw!\n\nЧи має ваша дитина душу маленької зірки естради? Хочете поєднати чудову музичну енергію з вивченням іспанської мови через гру?\n\nСпільно з Viva Languages запрошуємо на унікальні освітні анімації «ДАВАЙТЕ СПІВАТИ І СЛЕНГУВАТИ ІСПАНСЬКОЮ!» у Hard Rock Cafe Warsaw!\n\n📅Коли: 27 вересня, год. 13:00 і 14:00\n\n⏰Тривалість: 90 хвилин (2 × 45 хв з перервою)\n\n❗️Де: У Hard Rock Cafe в Золотих Терасах, зал Флора\n\n✅Як записатися:\n\nЗаняття безкоштовні для гостей ресторану, напишіть нам, щоб зробити резервування: warsaw@hardrockcafe.pl\n\n🔥 Що чекає маленьких Зірочок?\n\n1️⃣ВСТУП „¡HOLA!”\n\nДіти стоять у колі. Викладач вітає дітей іспанською:\n\n¡Hola! – Привіт!\n\n¿Cómo te llamas? – Як тебе звати?"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.699915+00:00"
+    },
+    "zaj-cia-sensoryczne-dla-dzieci-do-3-roku-ycia-2026-10-01T10:00:00+02:00": {
+      "title": "Zajęcia sensoryczne dla dzieci do 3 roku życia",
+      "date": "2026-10-01T10:00:00+02:00",
+      "end_date": "2026-10-01T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na zajęcia sensoryczne przez cały październik we czwartki (10:00).\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nSensosmyki, czwartki 10-12\n\n01.10 – Ciepła jesień (poznajemy kolory ciepłej jesieni)\n\n08.10 – Jesienne drzewo i liście\n\n15.10 – Kasztan, orzech i szyszka, czyli jesienna sensoryka\n\n22.10 – W czasie deszczu dzieci się bawią (kolory zgaszonej jesieni)\n\n29.10 – Pajęcza sieć (kolorystyka ciemnej jesieni)\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć sensorycznych:\n\n- angażujemy swoje ciało, wykorzystując metodę 5 zmysłów: wzrok, dotyk, słuch, węch i smak,\n\n- zabawę sensoplastyczną (jeśli starczy nam sił i czasu),\n\n- praca z pomocami Montessori (w małej salce).",
+      "image": null,
+      "location": {
+        "name": "Świetojerska 12a",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/share/p/1BFYYTgRff/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/share/p/1BFYYTgRff/",
+      "scrapped_timestamp": "2026-09-25T11:38:15.067803+00:00",
+      "category": "Sensory Play",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Zajęcia sensoryczne dla dzieci do 3 roku życia",
+          "description": "Zapraszamy na zajęcia sensoryczne przez cały październik we czwartki (10:00).\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nSensosmyki, czwartki 10-12\n\n01.10 – Ciepła jesień (poznajemy kolory ciepłej jesieni)\n\n08.10 – Jesienne drzewo i liście\n\n15.10 – Kasztan, orzech i szyszka, czyli jesienna sensoryka\n\n22.10 – W czasie deszczu dzieci się bawią (kolory zgaszonej jesieni)\n\n29.10 – Pajęcza sieć (kolorystyka ciemnej jesieni)\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć sensorycznych:\n\n- angażujemy swoje ciało, wykorzystując metodę 5 zmysłów: wzrok, dotyk, słuch, węch i smak,\n\n- zabawę sensoplastyczną (jeśli starczy nam sił i czasu),\n\n- praca z pomocami Montessori (w małej salce)."
+        },
+        "en": {
+          "title": "Sensory Activities for Children up to 3 Years Old",
+          "description": "We invite you to sensory activities throughout October on Thursdays (10:00).\n\nFree admission with mandatory phone registration at 500 080 498!\n\nLimited number of places!\n\nSensory Thursdays 10-12\n\n01.10 – Warm Autumn (exploring the colors of warm autumn)\n\n08.10 – Autumn Tree and Leaves\n\n15.10 – Chestnut, Nut, and Pine Cone, or Autumn Sensory Experience\n\n22.10 – Playing in the Rain (the colors of muted autumn)\n\n29.10 – Spider Web (the colors of dark autumn)\n\nActivities with caregivers. Free of charge.\n\nDuring each sensory activity:\n\n- we engage our bodies using the 5 senses method: sight, touch, hearing, smell, and taste,\n\n- sensory play (if we have enough energy and time),\n\n- working with Montessori materials (in a small room)."
+        },
+        "uk": {
+          "title": "Сенсорні заняття для дітей до 3 року життя",
+          "description": "Запрошуємо на сенсорні заняття протягом усього жовтня по четвергах (10:00).\n\nВхід вільний з обов'язковими записами телефонними 500 080 498!\n\nКількість місць обмежена!\n\nСенсосмики, четверги 10-12\n\n01.10 – Тепла осінь (пізнаємо кольори теплої осені)\n\n08.10 – Осіннє дерево і листя\n\n15.10 – Каштан, горіх і шишка, тобто осіння сенсорика\n\n22.10 – У час дощу діти граються (кольори згаслої осені)\n\n29.10 – Павуча мережа (колористика темної осені)\n\nЗаняття разом з опікунами. Безкоштовно.\n\nПід час кожних сенсорних занять:\n\n- залучаємо своє тіло, використовуючи метод 5 почуттів: зір, дотик, слух, нюх і смак,\n\n- гру сенсопластичну (якщо вистачить нам сил і часу),\n\n- робота з допоміжними матеріалами Монтессорі (в маленькій кімнаті)."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.699929+00:00"
+    },
+    "ultimate-frisbee-dla-pocz-tkuj-cych-2026-10-01T17:30:00+02:00": {
+      "title": "Ultimate frisbee dla początkujących",
+      "date": "2026-10-01T17:30:00+02:00",
+      "end_date": "2026-10-01T17:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na zajęcia Ultimate frisbee dla początkujących, na których nauczycie się rzucać frisbee. Od kwietnia do października spotykamy się na Stadionie Podskarbińska na Pradze:\n\n✅ Każdy czwartek w godz. 17:30 - 19:00\n\nWstęp wolny. Zajęcia są otwarte i bezpłatne dla każdego. Zapraszamy dzieci, młodzież szkolną, całe rodziny i dorosłych.\n\n✅ Zapisy na zajęcia >> kontakt@skythis.pl\n\nInformacje dodatkowe: +48 793 157 177\n\nCo czeka Was na zajęciach?\n\n👉 nauka rzucania frisbee dla początkujących i doskonalenie techniki rzutu\n\n👉 gry i zabawy z dyskiem integrujące uczestników\n\n👉 mecze ultimate frisbee\n\n✅ Zajęcia Ultimate frisbee dla początkujących w ramach projektu \"Aktywny Warszawiak\" współfinansuje Miasto Stołeczne Warszawa",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1778674441.webp",
+      "location": {
+        "name": "Stadion Podskarbińska OSiR Praga-Południe, ul. Chrzanowskiego 23",
+        "district": "Praga-Południe"
+      },
+      "url": "https://www.facebook.com/events/1265218758450626/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1265218758450626/",
+      "scrapped_timestamp": "2026-09-25T11:38:21.968732+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Ultimate frisbee dla początkujących",
+          "description": "Zapraszamy na zajęcia Ultimate frisbee dla początkujących, na których nauczycie się rzucać frisbee. Od kwietnia do października spotykamy się na Stadionie Podskarbińska na Pradze:\n\n✅ Każdy czwartek w godz. 17:30 - 19:00\n\nWstęp wolny. Zajęcia są otwarte i bezpłatne dla każdego. Zapraszamy dzieci, młodzież szkolną, całe rodziny i dorosłych.\n\n✅ Zapisy na zajęcia >> kontakt@skythis.pl\n\nInformacje dodatkowe: +48 793 157 177\n\nCo czeka Was na zajęciach?\n\n👉 nauka rzucania frisbee dla początkujących i doskonalenie techniki rzutu\n\n👉 gry i zabawy z dyskiem integrujące uczestników\n\n👉 mecze ultimate frisbee\n\n✅ Zajęcia Ultimate frisbee dla początkujących w ramach projektu \"Aktywny Warszawiak\" współfinansuje Miasto Stołeczne Warszawa"
+        },
+        "en": {
+          "title": "Ultimate frisbee for beginners",
+          "description": "We invite you to Ultimate frisbee classes for beginners, where you will learn how to throw a frisbee. From April to October, we meet at the Podskarbińska Stadium in Praga:\n\n✅ Every Thursday from 5:30 PM to 7:00 PM\n\nFree entry. The classes are open and free for everyone. We invite children, school youth, entire families, and adults.\n\n✅ Registration for classes >> kontakt@skythis.pl\n\nAdditional information: +48 793 157 177\n\nWhat awaits you in the classes?\n\n👉 learning to throw a frisbee for beginners and improving throwing technique\n\n👉 games and activities with the disc to integrate participants\n\n👉 ultimate frisbee matches\n\n✅ Ultimate frisbee classes for beginners as part of the \"Active Varsovian\" project are co-financed by the Capital City of Warsaw"
+        },
+        "uk": {
+          "title": "Ultimate frisbee для початківців",
+          "description": "Запрошуємо на заняття Ultimate frisbee для початківців, на яких навчитеся кидати frisbee. Від квітня до жовтня зустрічаємося на Стадіоні Подскарбіńська на Празі:\n\n✅ Кожен четвер з 17:30 до 19:00\n\nВхід вільний. Заняття відкриті і безкоштовні для кожного. Запрошуємо дітей, учнів, цілі сім'ї та дорослих.\n\n✅ Записи на заняття >> kontakt@skythis.pl\n\nДодаткова інформація: +48 793 157 177\n\nЩо чекає вас на заняттях?\n\n👉 навчання кидання frisbee для початківців і вдосконалення техніки кидка\n\n👉 ігри та розваги з диском, що інтегрують учасників\n\n👉 матчі ultimate frisbee\n\n✅ Заняття Ultimate frisbee для початківців в рамках проекту \"Активний Варшав'янин\" співфінансує Місто Столичне Варшава"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Południe",
+      "updated_at": "2026-09-25T11:39:56.699942+00:00"
+    },
+    "zwierz-ta-w-wielkim-mie-cie-na-ursynowie-2026-10-03T10:00:00+02:00": {
+      "title": "\"Zwierzęta w wielkim mieście\" na Ursynowie",
+      "date": "2026-10-03T10:00:00+02:00",
+      "end_date": "2026-10-03T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "W sobotę, 3 października, w godzinach 10.00–14.00, w Parku im. Romana Kozłowskiego (Kopa Cwila) odbędzie się czwarta edycja pikniku „Zwierzęta w wielkim mieście”. To wydarzenie skierowane do wszystkich miłośników zwierząt, ich opiekunów oraz rodzin\n\nz dziećmi.\n\nNa uczestników czekają liczne atrakcje edukacyjne i praktyczne. Na miejscu będzie można skorzystać z bezpłatnych porad specjalistów – weterynarza, behawiorysty oraz eksperta zajmującego się prawami zwierząt.\n\nProgram obejmuje warsztaty z behawiorystą kotów oraz pokazy z trenerem psów, poświęcone zapobieganiu ucieczkom pupili\n\ni wzmacnianiu ich posłuszeństwa. Weterynarz opowie o codziennej opiece nad zwierzętami, odpowie na pytania dotyczące sterylizacji, kastracji i czipowania, a także przedstawi zasady udzielania pierwszej pomocy czworonogom.\n\nDla najmłodszych przygotowano plenerową grę edukacyjną „Jak odnaleźć zagubione zwierzę i sprowadzić je do domu”, warsztaty wykonywania zabawek dla pupili, malowanie buziek oraz animacje; na miejscu ustawione będą stanowiska gastronomiczne.\n\nNie zabraknie także partnerów wydarzenia - Schroniska dla Bezdomnych Zwierząt „Na Paluchu” oraz  MPWiK, które jak co roku zaprosi do degustacji warszawskiej kranówki.\n\nPiknikowi towarzyszyć będzie Zlot Celestyniaków, organizowany przez Schronisko dla Bezdomnych Zwierząt w Celestynowie.\n\n To wydarzenie jest częścią „Alertu dla zwierząt”, w ramach którego od 15 lat prowadzone są zbiórki darów dla podopiecznych schroniska.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1790259667.webp",
+      "location": {
+        "name": "Park im. Romana Kozłowskiego",
+        "district": "Ursynów"
+      },
+      "url": "https://waw4free.pl/wydarzenie-159261-zwierzeta-w-wielkim-miescie-na-ursynowie",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://waw4free.pl/wydarzenie-159261-zwierzeta-w-wielkim-miescie-na-ursynowie",
+      "scrapped_timestamp": "2026-09-25T11:38:28.478971+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Educational",
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "\"Zwierzęta w wielkim mieście\" na Ursynowie",
+          "description": "W sobotę, 3 października, w godzinach 10.00–14.00, w Parku im. Romana Kozłowskiego (Kopa Cwila) odbędzie się czwarta edycja pikniku „Zwierzęta w wielkim mieście”. To wydarzenie skierowane do wszystkich miłośników zwierząt, ich opiekunów oraz rodzin\n\nz dziećmi.\n\nNa uczestników czekają liczne atrakcje edukacyjne i praktyczne. Na miejscu będzie można skorzystać z bezpłatnych porad specjalistów – weterynarza, behawiorysty oraz eksperta zajmującego się prawami zwierząt.\n\nProgram obejmuje warsztaty z behawiorystą kotów oraz pokazy z trenerem psów, poświęcone zapobieganiu ucieczkom pupili\n\ni wzmacnianiu ich posłuszeństwa. Weterynarz opowie o codziennej opiece nad zwierzętami, odpowie na pytania dotyczące sterylizacji, kastracji i czipowania, a także przedstawi zasady udzielania pierwszej pomocy czworonogom.\n\nDla najmłodszych przygotowano plenerową grę edukacyjną „Jak odnaleźć zagubione zwierzę i sprowadzić je do domu”, warsztaty wykonywania zabawek dla pupili, malowanie buziek oraz animacje; na miejscu ustawione będą stanowiska gastronomiczne.\n\nNie zabraknie także partnerów wydarzenia - Schroniska dla Bezdomnych Zwierząt „Na Paluchu” oraz  MPWiK, które jak co roku zaprosi do degustacji warszawskiej kranówki.\n\nPiknikowi towarzyszyć będzie Zlot Celestyniaków, organizowany przez Schronisko dla Bezdomnych Zwierząt w Celestynowie.\n\n To wydarzenie jest częścią „Alertu dla zwierząt”, w ramach którego od 15 lat prowadzone są zbiórki darów dla podopiecznych schroniska."
+        },
+        "en": {
+          "title": "Animals in the Big City",
+          "description": "On Saturday, October 3rd, from 10:00 AM to 2:00 PM, the fourth edition of the picnic \"Animals in the Big City\" will take place at the Roman Kozłowski Park (Kopa Cwila). This event is aimed at all animal lovers, their guardians, and families\n\nwith children.\n\nParticipants can look forward to numerous educational and practical attractions. On-site, there will be free consultations with specialists – a veterinarian, a behaviorist, and an expert on animal rights.\n\nThe program includes workshops with a cat behaviorist and demonstrations with a dog trainer, dedicated to preventing pets from escaping\nand strengthening their obedience. The veterinarian will talk about daily care for animals, answer questions regarding sterilization, castration, and microchipping, and also present the principles of providing first aid."
+        },
+        "uk": {
+          "title": "Тварини у великому місті",
+          "description": "У суботу, 3 жовтня, з 10:00 до 14:00, у парку ім. Романа Козловського (Копа Цвила) відбудеться четверта редакція пікніку «Тварини у великому місті». Це подія, спрямована на всіх любителів тварин, їхніх опікунів та родин\n\nз дітьми.\n\nНа учасників чекають численні атракції, що мають освітній та практичний характер. На місці можна буде скористатися безкоштовними порадами спеціалістів – ветеринара, поведінкової терапевтки та експерта, що займається правами тварин.\n\nПрограма включає майстер-класи з поведінковою терапевткою котів та покази з тренером собак, присвячені запобіганню втечам улюбленців\n\nі зміцненню їхньої слухняності. Ветеринар розповість про щоденний догляд за тваринами, відповість на запитання щодо стерилізації, кастрації та чіпування, а також представить правила надання першої допомоги."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Ursynów",
+      "updated_at": "2026-09-25T11:39:56.699955+00:00"
+    },
+    "ma-a-kr-lewna-w-sata-bajeczka-interaktywny-spektakl-dla-dzieci-2026-10-03T13:30:00+02:00": {
+      "title": "„MAŁA KRÓLEWNA WĄSATA BAJECZKA” Interaktywny spektakl dla dzieci",
+      "date": "2026-10-03T13:30:00+02:00",
+      "end_date": "2026-10-03T13:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Targowisko Sztuki świętuje swoje 19. urodziny i zaprasza na moc bezpłatnych wydarzeń towarzyszących - w tym na interaktywny spektakl dla dzieci  „MAŁA KRÓLEWNA WĄSATA BAJECZKA”\n\nSpektakl Grażyny Musiałowskiej - granica między sceną a widownią jest tu umowna – kto zechce, może na chwilę znaleźć się\n\npo drugiej stronie. Odważysz się?\n\n-----\n\n3 i 4 października Targowisko Sztuki wraca do Butelkowni w Centrum Praskim Koneser, by świętować swoje 19. urodziny, szczegóły >> link\n\nNa dwóch piętrach pojawią się przede wszystkim polscy artyści i projektanci, ale również twórcy z zagranicy. Malarstwo, grafika, rzeźba, plakat, ceramika, biżuteria i moda – od nazwisk, o których dopiero będzie głośno, po te, które już mają za sobą ważne wystawy i sukcesy.\n\nTargowisko nie jest galerią i nigdy nie próbowało nią być. Tutaj między pracą a odbiorcą nie stoi pośrednik. Można zapytać autora, jak narodził się pomysł na obraz, dotknąć ceramiki, przymierzyć biżuterię, długo się zastanawiać albo zakochać się w czymś w trzy sekundy. Można też po prostu patrzeć. Kupowanie sztuki nie wymaga przecież dyplomu z historii sztuki.\n\nUrodziny potraktowaliśmy jako dobry pretekst, żeby wyjść poza samą formułę targów. Na Placu Konesera pojawią się\n\n„Dzikie Historie” – plenerowa wystawa poświęcona zwierzętom w interpretacjach współczesnych artystów. W programie znajdzie\n\nsię również spektakl teatralny Grażyny Musiałowskiej „Mała Królewna Wąsata Bajeczka” dla dzieci,  rysunek i portrety tworzone\n\nna żywo oraz urodzinowe konkursy. Do wygrania będzie „Pink City II” – limitowana inkografia Joanny Gorgolewskiej oraz vouchery\n\ndo restauracji na terenie Konesera.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1330.1790260040.webp",
+      "location": {
+        "name": "Butelkownia, pl. Konesera 3",
+        "district": "Praga-Północ"
+      },
+      "url": "https://waw4free.pl/wydarzenie-159269-mala-krolewna-wasata-bajeczka-interaktywny-spektakl-dla-dzieci",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://waw4free.pl/wydarzenie-159269-mala-krolewna-wasata-bajeczka-interaktywny-spektakl-dla-dzieci",
+      "scrapped_timestamp": "2026-09-25T11:38:34.506644+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "„MAŁA KRÓLEWNA WĄSATA BAJECZKA” Interaktywny spektakl dla dzieci",
+          "description": "Targowisko Sztuki świętuje swoje 19. urodziny i zaprasza na moc bezpłatnych wydarzeń towarzyszących - w tym na interaktywny spektakl dla dzieci  „MAŁA KRÓLEWNA WĄSATA BAJECZKA”\n\nSpektakl Grażyny Musiałowskiej - granica między sceną a widownią jest tu umowna – kto zechce, może na chwilę znaleźć się\n\npo drugiej stronie. Odważysz się?\n\n-----\n\n3 i 4 października Targowisko Sztuki wraca do Butelkowni w Centrum Praskim Koneser, by świętować swoje 19. urodziny, szczegóły >> link\n\nNa dwóch piętrach pojawią się przede wszystkim polscy artyści i projektanci, ale również twórcy z zagranicy. Malarstwo, grafika, rzeźba, plakat, ceramika, biżuteria i moda – od nazwisk, o których dopiero będzie głośno, po te, które już mają za sobą ważne wystawy i sukcesy.\n\nTargowisko nie jest galerią i nigdy nie próbowało nią być. Tutaj między pracą a odbiorcą nie stoi pośrednik. Można zapytać autora, jak narodził się pomysł na obraz, dotknąć ceramiki, przymierzyć biżuterię, długo się zastanawiać albo zakochać się w czymś w trzy sekundy. Można też po prostu patrzeć. Kupowanie sztuki nie wymaga przecież dyplomu z historii sztuki.\n\nUrodziny potraktowaliśmy jako dobry pretekst, żeby wyjść poza samą formułę targów. Na Placu Konesera pojawią się\n\n„Dzikie Historie” – plenerowa wystawa poświęcona zwierzętom w interpretacjach współczesnych artystów. W programie znajdzie\n\nsię również spektakl teatralny Grażyny Musiałowskiej „Mała Królewna Wąsata Bajeczka” dla dzieci,  rysunek i portrety tworzone\n\nna żywo oraz urodzinowe konkursy. Do wygrania będzie „Pink City II” – limitowana inkografia Joanny Gorgolewskiej oraz vouchery\n\ndo restauracji na terenie Konesera."
+        },
+        "en": {
+          "title": "\"LITTLE PRINCESS WITH A MUSTACHE FAIRY TA\" Interactive performance for children",
+          "description": "The Art Market is celebrating its 19th birthday and invites you to a host of free accompanying events - including an interactive performance for children \"LITTLE PRINCESS WITH A MUSTACHE FAIRY TA\"\n\nThe performance by Grażyna Musiałowska - the boundary between the stage and the audience is here conventional - anyone who wishes can find themselves\n\non the other side for a moment. Will you dare?\n\n-----\n\nOn October 3rd and 4th, the Art Market returns to Butelkownia in the Praga Koneser Center to celebrate its 19th birthday, details >> link\n\nOn two floors, primarily Polish artists and designers will appear, but also creators from abroad. Painting, graphics, sculpture, posters, ceramics, jewelry, and fashion - from names that will soon be well-known to those who have already had significant exhibitions and successes.\n\nThe Art Market is not a gallery and has never tried"
+        },
+        "uk": {
+          "title": "„МАЛА КОРОЛЕВА ВУСАТА БАЄЧКА” Інтерактивний спектакль для дітей",
+          "description": "Торговище Мистецтв святкує свої 19-ті уродини і запрошує на безліч безкоштовних супутніх подій - в тому числі на інтерактивний спектакль для дітей „МАЛА КОРОЛЕВА ВУСАТА БАЄЧКА”\n\nСпектакль Гражини Мусiałовської - межа між сценою та глядачами тут умовна – хто захоче, може на мить опинитися\n\nпо другій стороні. Відважишся?\n\n-----\n\n3 і 4 жовтня Торговище Мистецтв повертається до Бутелковні в Центрі Празькому Конеcер, щоб святкувати свої 19-ті уродини, деталі >> посилання\n\nНа двох поверхах з'являться перш за все польські артисти та дизайнери, але також творці з-за кордону. Живопис, графіка, скульптура, плакат, кераміка, ювелірні вироби та мода – від імен, про які тільки почнуть говорити, до тих, які вже мають за собою важливі виставки та успіхи.\n\nТорговище не є галереєю і ніколи не намагалося"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Północ",
+      "updated_at": "2026-09-25T11:39:56.699970+00:00"
+    },
+    "legendy-warszawskie-spacer-rodzinny-z-prezentami-dla-dzieci-2026-10-04T12:00:00+02:00": {
+      "title": "Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci",
+      "date": "2026-10-04T12:00:00+02:00",
+      "end_date": "2026-10-04T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy małych i dużych miłośników legend na wesoły spacer z legendami po Starym i Nowym Mieście w Warszawie.\n\n W jego trakcie usłyszycie najlepsze warszawskie legendy. Na koniec spaceru wszystkie dzieci otrzymają zestawy wodnych tatuaży, które świecą w ciemności. Łał!\n\nA oto czego m.in. dowiecie się na naszym spacerze:\n\n– Dlaczego należy pilnować swojego cienia?\n\n– Jak garnek pomógł pokonać Bazyliszka?\n\n– Gdzie latem padał śnieg?\n\n– Jak diabeł wcielony przegrał pewien zakład?\n\n– Kto może uratować zaklętego księcia?\n\n– Gdzie spoczywają zamienieni w kamień rycerze mazowieccy?\n\n– Jak służąca zbójów strasznych przechytrzyła?\n\n– Gdzie znajduje się najkrótsza ulica w Polsce?\n\n– i wiele więcej…\n\nCena: dobrowolna zrzutka.\n\nSPACER Z ZAPISAMI.\n\nSpacer poprowadzi Aleksander Łamek.\n\nTermin spaceru:\n\nNiedziela 4 października 2026 r. godz. 12:00.\n\nZapisy przyjmujemy na stronie >> link\n\nZbiórka na Placu Zamkowym przed bramą Zamku Królewskiego. Miejsce zbiórki pokazuje mapka: link\n\nPo zebraniu się grupy wejdziemy na dziedziniec zamku. Spacer potrwa ok 80 minut i zakończy się przed kościołem Nawiedzenia Najświętszej Marii Panny (ul. Przyrynek 2).",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1200.1790280885.webp",
+      "location": {
+        "name": "plac Zamkowy",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/events/1426399289605351/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1426399289605351/",
+      "scrapped_timestamp": "2026-09-25T11:38:41.434659+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Storytime"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Legendy Warszawskie. Spacer rodzinny z prezentami dla dzieci",
+          "description": "Zapraszamy małych i dużych miłośników legend na wesoły spacer z legendami po Starym i Nowym Mieście w Warszawie.\n\n W jego trakcie usłyszycie najlepsze warszawskie legendy. Na koniec spaceru wszystkie dzieci otrzymają zestawy wodnych tatuaży, które świecą w ciemności. Łał!\n\nA oto czego m.in. dowiecie się na naszym spacerze:\n\n– Dlaczego należy pilnować swojego cienia?\n\n– Jak garnek pomógł pokonać Bazyliszka?\n\n– Gdzie latem padał śnieg?\n\n– Jak diabeł wcielony przegrał pewien zakład?\n\n– Kto może uratować zaklętego księcia?\n\n– Gdzie spoczywają zamienieni w kamień rycerze mazowieccy?\n\n– Jak służąca zbójów strasznych przechytrzyła?\n\n– Gdzie znajduje się najkrótsza ulica w Polsce?\n\n– i wiele więcej…\n\nCena: dobrowolna zrzutka.\n\nSPACER Z ZAPISAMI.\n\nSpacer poprowadzi Aleksander Łamek.\n\nTermin spaceru:\n\nNiedziela 4 października 2026 r. godz. 12:00.\n\nZapisy przyjmujemy na stronie >> link\n\nZbiórka na Placu Zamkowym przed bramą Zamku Królewskiego. Miejsce zbiórki pokazuje mapka: link\n\nPo zebraniu się grupy wejdziemy na dziedziniec zamku. Spacer potrwa ok 80 minut i zakończy się przed kościołem Nawiedzenia Najświętszej Marii Panny (ul. Przyrynek 2)."
+        },
+        "en": {
+          "title": "Warsaw Legends. Family Walk with Gifts for Children",
+          "description": "We invite small and large lovers of legends to a cheerful walk with legends through the Old and New Town in Warsaw.\n\n In the course of it, you will hear the best Warsaw legends. At the end of the walk, all children will receive sets of water tattoos that glow in the dark. Wow!\n\nHere’s what you will learn on our walk:\n\n– Why you should keep an eye on your shadow?\n\n– How a pot helped defeat the Basilisk?\n\n– Where did it snow in summer?\n\n– How the incarnate devil lost a certain bet?\n\n– Who can save the enchanted prince?\n\n– Where do the knights of Mazovia turned to stone rest?\n\n– How did a servant of terrible robbers outsmart them?\n\n– Where is the shortest street in Poland?\n\n– and much more…\n\nPrice: voluntary contribution.\n\nWALK WITH REGISTRATIONS.\n\nThe walk will be led by Aleksander Łamek.\n\nDate of the walk"
+        },
+        "uk": {
+          "title": "Легенди Варшави. Сімейна прогулянка з подарунками для дітей",
+          "description": "Запрошуємо маленьких і великих шанувальників легенд на веселу прогулянку з легендами по Старому і Новому Місту у Варшаві.\n\n В його ході ви почуєте найкращі варшавські легенди. Наприкінці прогулянки всі діти отримають набори водяних татуювань, які світяться в темряві. Вау!\n\nА ось чого, зокрема, ви дізнаєтеся на нашій прогулянці:\n\n– Чому потрібно стежити за своєю тінню?\n\n– Як горщик допоміг подолати Базиліска?\n\n– Де влітку падав сніг?\n\n– Як диявол втілений програв певну ставку?\n\n– Хто може врятувати заклятого принца?\n\n– Де спочивають перетворені на камінь лицарі мазовецькі?\n\n– Як служниця страшних розбійників перехитрила?\n\n– Де знаходиться найкоротша вулиця в Польщі?\n\n– і багато іншого…\n\nЦіна: добровільна пожертва.\n\nПРОГУЛЯНКА З РЕЄСТРАЦІЄЮ.\n\nПрогулянку проведе Олександр Ламек.\n\nТермін прогулянки"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.699983+00:00"
+    },
+    "ma-a-kr-lewna-w-sata-bajeczka-interaktywny-spektakl-dla-dzieci-2026-10-04T13:30:00+02:00": {
+      "title": "„MAŁA KRÓLEWNA WĄSATA BAJECZKA” Interaktywny spektakl dla dzieci",
+      "date": "2026-10-04T13:30:00+02:00",
+      "end_date": "2026-10-04T13:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Targowisko Sztuki świętuje swoje 19. urodziny i zaprasza na moc bezpłatnych wydarzeń towarzyszących - w tym na interaktywny spektakl dla dzieci  „MAŁA KRÓLEWNA WĄSATA BAJECZKA”\n\nSpektakl Grażyny Musiałowskiej - granica między sceną a widownią jest tu umowna – kto zechce, może na chwilę znaleźć się\n\npo drugiej stronie. Odważysz się?\n\n----\n\n3 i 4 października Targowisko Sztuki wraca do Butelkowni w Centrum Praskim Koneser, by świętować swoje 19. urodziny, szczegóły >> link\n\nNa dwóch piętrach pojawią się przede wszystkim polscy artyści i projektanci, ale również twórcy z zagranicy. Malarstwo, grafika, rzeźba, plakat, ceramika, biżuteria i moda – od nazwisk, o których dopiero będzie głośno, po te, które już mają za sobą ważne wystawy i sukcesy.\n\nTargowisko nie jest galerią i nigdy nie próbowało nią być. Tutaj między pracą a odbiorcą nie stoi pośrednik. Można zapytać autora, jak narodził się pomysł na obraz, dotknąć ceramiki, przymierzyć biżuterię, długo się zastanawiać albo zakochać się w czymś w trzy sekundy. Można też po prostu patrzeć. Kupowanie sztuki nie wymaga przecież dyplomu z historii sztuki.\n\nUrodziny potraktowaliśmy jako dobry pretekst, żeby wyjść poza samą formułę targów. Na Placu Konesera pojawią się\n\n„Dzikie Historie” – plenerowa wystawa poświęcona zwierzętom w interpretacjach współczesnych artystów. W programie znajdzie\n\nsię również spektakl teatralny Grażyny Musiałowskiej „Mała Królewna Wąsata Bajeczka” dla dzieci,  rysunek i portrety tworzone\n\nna żywo oraz urodzinowe konkursy. Do wygrania będzie „Pink City II” – limitowana inkografia Joanny Gorgolewskiej oraz vouchery\n\ndo restauracji na terenie Konesera.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1330.1790260040.webp",
+      "location": {
+        "name": "Butelkownia, pl. Konesera 3",
+        "district": "Praga-Północ"
+      },
+      "url": "https://waw4free.pl/wydarzenie-159328-mala-krolewna-wasata-bajeczka-interaktywny-spektakl-dla-dzieci",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://waw4free.pl/wydarzenie-159328-mala-krolewna-wasata-bajeczka-interaktywny-spektakl-dla-dzieci",
+      "scrapped_timestamp": "2026-09-25T11:38:49.098154+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "„MAŁA KRÓLEWNA WĄSATA BAJECZKA” Interaktywny spektakl dla dzieci",
+          "description": "Targowisko Sztuki świętuje swoje 19. urodziny i zaprasza na moc bezpłatnych wydarzeń towarzyszących - w tym na interaktywny spektakl dla dzieci  „MAŁA KRÓLEWNA WĄSATA BAJECZKA”\n\nSpektakl Grażyny Musiałowskiej - granica między sceną a widownią jest tu umowna – kto zechce, może na chwilę znaleźć się\n\npo drugiej stronie. Odważysz się?\n\n----\n\n3 i 4 października Targowisko Sztuki wraca do Butelkowni w Centrum Praskim Koneser, by świętować swoje 19. urodziny, szczegóły >> link\n\nNa dwóch piętrach pojawią się przede wszystkim polscy artyści i projektanci, ale również twórcy z zagranicy. Malarstwo, grafika, rzeźba, plakat, ceramika, biżuteria i moda – od nazwisk, o których dopiero będzie głośno, po te, które już mają za sobą ważne wystawy i sukcesy.\n\nTargowisko nie jest galerią i nigdy nie próbowało nią być. Tutaj między pracą a odbiorcą nie stoi pośrednik. Można zapytać autora, jak narodził się pomysł na obraz, dotknąć ceramiki, przymierzyć biżuterię, długo się zastanawiać albo zakochać się w czymś w trzy sekundy. Można też po prostu patrzeć. Kupowanie sztuki nie wymaga przecież dyplomu z historii sztuki.\n\nUrodziny potraktowaliśmy jako dobry pretekst, żeby wyjść poza samą formułę targów. Na Placu Konesera pojawią się\n\n„Dzikie Historie” – plenerowa wystawa poświęcona zwierzętom w interpretacjach współczesnych artystów. W programie znajdzie\n\nsię również spektakl teatralny Grażyny Musiałowskiej „Mała Królewna Wąsata Bajeczka” dla dzieci,  rysunek i portrety tworzone\n\nna żywo oraz urodzinowe konkursy. Do wygrania będzie „Pink City II” – limitowana inkografia Joanny Gorgolewskiej oraz vouchery\n\ndo restauracji na terenie Konesera."
+        },
+        "en": {
+          "title": "\"LITTLE PRINCESS WITH A MUSTACHE FAIRY TA\" Interactive performance for children",
+          "description": "The Art Market is celebrating its 19th birthday and invites you to a host of free accompanying events - including an interactive performance for children \"LITTLE PRINCESS WITH A MUSTACHE FAIRY TA\"\n\nThe performance by Grażyna Musiałowska - the boundary between the stage and the audience is here conventional - anyone who wishes can find themselves\n\non the other side for a moment. Will you dare?\n\n----\n\nOn October 3rd and 4th, the Art Market returns to Butelkownia in the Praga Koneser Center to celebrate its 19th birthday, details >> link\n\nOn two floors, primarily Polish artists and designers will appear, but also creators from abroad. Painting, graphics, sculpture, posters, ceramics, jewelry, and fashion - from names that will soon be well-known to those who already have important exhibitions and successes behind them.\n\nThe Art Market is not a gallery and has never tried"
+        },
+        "uk": {
+          "title": "„МАЛА КОРОЛЕВА ВУСАТА БАЄЧКА” Інтерактивний спектакль для дітей",
+          "description": "Торговище Мистецтв святкує свої 19-ті уродини і запрошує на безліч безкоштовних супутніх подій - в тому числі на інтерактивний спектакль для дітей  „МАЛА КОРОЛЕВА ВУСАТА БАЄЧКА”\n\nСпектакль Гражини Мусiałовської - межа між сценою та глядачами тут умовна – хто захоче, може на мить опинитися\n\nпо другій стороні. Відважишся?\n\n----\n\n3 і 4 жовтня Торговище Мистецтв повертається до Бутелковні в Центрі Празькому Конесер, щоб святкувати свої 19-ті уродини, деталі >> посилання\n\nНа двох поверхах з'являться перш за все польські артисти та дизайнери, але також творці з-за кордону. Живопис, графіка, скульптура, плакат, кераміка, ювелірні вироби та мода – від імен, про які тільки почнуть говорити, до тих, які вже мають за собою важливі виставки та успіхи.\n\nТорговище не є галереєю і ніколи не намагалося"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Północ",
+      "updated_at": "2026-09-25T11:39:56.699997+00:00"
+    },
+    "mama-i-bobas-w-murowance-2026-10-07T10:30:00+02:00": {
+      "title": "Mama i Bobas w Murowance",
+      "date": "2026-10-07T10:30:00+02:00",
+      "end_date": "2026-10-07T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Mama i Bobas w Murowance\n\n7.10 i 21.10  godz. 10:30\n\nWCK Murowanka\n\nul. Płowiecka 77 Warszawa\n\nwstęp wolny\n\nMama i Bobas w Murowance to spotkania dla mam z maluszkami w wieku od 0 do 16 miesiąca życia.\n\nTworzymy bezpieczną przestrzeń do rozmowy ze zrozumieniem i wysłuchaniem bez oceny. Będziemy dzielić się swoimi doświadczeniami dotyczącymi macierzyństwa, wyzwaniami i pięknymi chwilami bez presji.\n\nJeśli chcesz przyjść i poznać inne kobiety na tym samym etapie życia – przyjdź do Murowanki. Otrzymasz wsparcie oraz czas\n\ndla siebie pomimo przebywania z bobasem. Być może znajdziesz tu swoją wioskę, bezpieczną przystań, która pozwoli odetchnąć\n\ni rozpuścić wiele ciężkich mentalnych ciężarów, które codziennie nosisz.\n\nNaszym celem jest przeciwdziałanie depresji poporodowej i wypaleniu rodzicielskiemu. Dodatkowo marzymy o tym aby młode mamy zintegrowały się po sąsiedzku i poczuły, że nie są same w tej bardzo pięknej oraz wymagającej drodze macierzyństwa.\n\nP.S. W Murowance czeka na maluszki mata do zabawy, a dla wygody Mam – przewijak.\n\nProwadząca: Dorota Frydecka – kulturoznawczyni , prowadząca kręgi kobiet (szczególnie dla przyszłych i młodych mam),\n\nmama dwóch dziewczynek.\n\nWstęp wolny – do zobaczenia!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1030.1790263394.webp",
+      "location": {
+        "name": "Murowanka, ul. Płowiecka 77",
+        "district": "Wawer"
+      },
+      "url": "https://www.facebook.com/events/1766827794220503/1766827800887169?event_time_id=1766827800887169",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1766827794220503/1766827800887169?event_time_id=1766827800887169",
+      "scrapped_timestamp": "2026-09-25T11:38:55.860790+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Mama i Bobas w Murowance",
+          "description": "Mama i Bobas w Murowance\n\n7.10 i 21.10  godz. 10:30\n\nWCK Murowanka\n\nul. Płowiecka 77 Warszawa\n\nwstęp wolny\n\nMama i Bobas w Murowance to spotkania dla mam z maluszkami w wieku od 0 do 16 miesiąca życia.\n\nTworzymy bezpieczną przestrzeń do rozmowy ze zrozumieniem i wysłuchaniem bez oceny. Będziemy dzielić się swoimi doświadczeniami dotyczącymi macierzyństwa, wyzwaniami i pięknymi chwilami bez presji.\n\nJeśli chcesz przyjść i poznać inne kobiety na tym samym etapie życia – przyjdź do Murowanki. Otrzymasz wsparcie oraz czas\n\ndla siebie pomimo przebywania z bobasem. Być może znajdziesz tu swoją wioskę, bezpieczną przystań, która pozwoli odetchnąć\n\ni rozpuścić wiele ciężkich mentalnych ciężarów, które codziennie nosisz.\n\nNaszym celem jest przeciwdziałanie depresji poporodowej i wypaleniu rodzicielskiemu. Dodatkowo marzymy o tym aby młode mamy zintegrowały się po sąsiedzku i poczuły, że nie są same w tej bardzo pięknej oraz wymagającej drodze macierzyństwa.\n\nP.S. W Murowance czeka na maluszki mata do zabawy, a dla wygody Mam – przewijak.\n\nProwadząca: Dorota Frydecka – kulturoznawczyni , prowadząca kręgi kobiet (szczególnie dla przyszłych i młodych mam),\n\nmama dwóch dziewczynek.\n\nWstęp wolny – do zobaczenia!"
+        },
+        "en": {
+          "title": "Mama and Baby in Murowanka",
+          "description": "Mama and Baby in Murowanka\n\n7.10 and 21.10 at 10:30 AM\n\nWCK Murowanka\n\nul. Płowiecka 77 Warsaw\n\nfree admission\n\nMama and Baby in Murowanka is a meeting for mothers with babies aged 0 to 16 months.\n\nWe create a safe space for conversation with understanding and listening without judgment. We will share our experiences regarding motherhood, challenges, and beautiful moments without pressure.\n\nIf you want to come and meet other women at the same stage of life – come to Murowanka. You will receive support and time\n\nfor yourself despite being with the baby. Perhaps you will find your village here, a safe haven that allows you to breathe\n\nand dissolve many heavy mental burdens that you carry every day.\n\nOur goal is to counteract postpartum depression and parental burnout."
+        },
+        "uk": {
+          "title": "Мама і Бобас в Мурованці",
+          "description": "Мама і Бобас в Мурованці\n\n7.10 і 21.10  год. 10:30\n\nWCK Мурованка\n\nул. Пловецька 77 Варшава\n\nвхід вільний\n\nМама і Бобас в Мурованці – це зустрічі для мам з малюками віком від 0 до 16 місяців.\n\nСтворюємо безпечний простір для розмови з розумінням і вислуховуванням без оцінки. Будемо ділитися своїм досвідом щодо материнства, викликами та прекрасними моментами без тиску.\n\nЯкщо хочеш прийти і познайомитися з іншими жінками на тому ж етапі життя – приходь до Мурованки. Отримаєш підтримку та час\n\nдля себе, незважаючи на перебування з бобасом. Можливо, знайдеш тут своє село, безпечну гавань, яка дозволить відпочити\n\nі розвіяти багато важких ментальних тягарів, які ти щодня носиш.\n\nНашою метою є протидія післяпологовій депресії та вигоранню батьків."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wawer",
+      "updated_at": "2026-09-25T11:39:56.700008+00:00"
+    },
+    "mama-i-bobas-w-murowance-2026-10-23T10:30:00+02:00": {
+      "title": "Mama i Bobas w Murowance",
+      "date": "2026-10-23T10:30:00+02:00",
+      "end_date": "2026-10-23T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Mama i Bobas w Murowance\n\n7.10 i 21.10  godz. 10:30\n\nWCK Murowanka\n\nul. Płowiecka 77 Warszawa\n\nwstęp wolny\n\nMama i Bobas w Murowance to spotkania dla mam z maluszkami w wieku od 0 do 16 miesiąca życia.\n\nTworzymy bezpieczną przestrzeń do rozmowy ze zrozumieniem i wysłuchaniem bez oceny. Będziemy dzielić się swoimi doświadczeniami dotyczącymi macierzyństwa, wyzwaniami i pięknymi chwilami bez presji.\n\nJeśli chcesz przyjść i poznać inne kobiety na tym samym etapie życia – przyjdź do Murowanki. Otrzymasz wsparcie oraz czas\n\ndla siebie pomimo przebywania z bobasem. Być może znajdziesz tu swoją wioskę, bezpieczną przystań, która pozwoli odetchnąć\n\ni rozpuścić wiele ciężkich mentalnych ciężarów, które codziennie nosisz.\n\nNaszym celem jest przeciwdziałanie depresji poporodowej i wypaleniu rodzicielskiemu. Dodatkowo marzymy o tym aby młode mamy zintegrowały się po sąsiedzku i poczuły, że nie są same w tej bardzo pięknej oraz wymagającej drodze macierzyństwa.\n\nP.S. W Murowance czeka na maluszki mata do zabawy, a dla wygody Mam – przewijak.\n\nProwadząca: Dorota Frydecka – kulturoznawczyni , prowadząca kręgi kobiet (szczególnie dla przyszłych i młodych mam),\n\nmama dwóch dziewczynek.\n\nWstęp wolny – do zobaczenia!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1030.1790263394.webp",
+      "location": {
+        "name": "Murowanka, ul. Płowiecka 77",
+        "district": "Wawer"
+      },
+      "url": "https://www.facebook.com/events/1766827794220503/1766827800887169?event_time_id=1766827800887169",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1766827794220503/1766827800887169?event_time_id=1766827800887169",
+      "scrapped_timestamp": "2026-09-25T11:38:55.860790+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Mama i Bobas w Murowance",
+          "description": "Mama i Bobas w Murowance\n\n7.10 i 21.10  godz. 10:30\n\nWCK Murowanka\n\nul. Płowiecka 77 Warszawa\n\nwstęp wolny\n\nMama i Bobas w Murowance to spotkania dla mam z maluszkami w wieku od 0 do 16 miesiąca życia.\n\nTworzymy bezpieczną przestrzeń do rozmowy ze zrozumieniem i wysłuchaniem bez oceny. Będziemy dzielić się swoimi doświadczeniami dotyczącymi macierzyństwa, wyzwaniami i pięknymi chwilami bez presji.\n\nJeśli chcesz przyjść i poznać inne kobiety na tym samym etapie życia – przyjdź do Murowanki. Otrzymasz wsparcie oraz czas\n\ndla siebie pomimo przebywania z bobasem. Być może znajdziesz tu swoją wioskę, bezpieczną przystań, która pozwoli odetchnąć\n\ni rozpuścić wiele ciężkich mentalnych ciężarów, które codziennie nosisz.\n\nNaszym celem jest przeciwdziałanie depresji poporodowej i wypaleniu rodzicielskiemu. Dodatkowo marzymy o tym aby młode mamy zintegrowały się po sąsiedzku i poczuły, że nie są same w tej bardzo pięknej oraz wymagającej drodze macierzyństwa.\n\nP.S. W Murowance czeka na maluszki mata do zabawy, a dla wygody Mam – przewijak.\n\nProwadząca: Dorota Frydecka – kulturoznawczyni , prowadząca kręgi kobiet (szczególnie dla przyszłych i młodych mam),\n\nmama dwóch dziewczynek.\n\nWstęp wolny – do zobaczenia!"
+        },
+        "en": {
+          "title": "Mama and Baby in Murowanka",
+          "description": "Mama and Baby in Murowanka\n\n7.10 and 21.10 at 10:30 AM\n\nWCK Murowanka\n\nul. Płowiecka 77 Warsaw\n\nfree admission\n\nMama and Baby in Murowanka is a meeting for mothers with babies aged 0 to 16 months.\n\nWe create a safe space for conversation with understanding and listening without judgment. We will share our experiences regarding motherhood, challenges, and beautiful moments without pressure.\n\nIf you want to come and meet other women at the same stage of life – come to Murowanka. You will receive support and time\n\nfor yourself despite being with the baby. Perhaps you will find your village here, a safe haven that allows you to breathe\n\nand dissolve many heavy mental burdens that you carry every day.\n\nOur goal is to counteract postpartum depression and parental burnout."
+        },
+        "uk": {
+          "title": "Мама і Бобас в Мурованці",
+          "description": "Мама і Бобас в Мурованці\n\n7.10 і 21.10  год. 10:30\n\nWCK Мурованка\n\nул. Пловецька 77 Варшава\n\nвхід вільний\n\nМама і Бобас в Мурованці – це зустрічі для мам з малюками віком від 0 до 16 місяців.\n\nСтворюємо безпечний простір для розмови з розумінням і вислуховуванням без оцінки. Будемо ділитися своїм досвідом щодо материнства, викликами та прекрасними моментами без тиску.\n\nЯкщо хочеш прийти і познайомитися з іншими жінками на тому ж етапі життя – приходь до Мурованки. Отримаєш підтримку та час\n\nдля себе, незважаючи на перебування з бобасом. Можливо, знайдеш тут своє село, безпечну гавань, яка дозволить відпочити\n\nі розвіяти багато важких ментальних тягарів, які ти щодня носиш.\n\nНашою метою є протидія післяпологовій депресії та вигоранню батьків."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wawer",
+      "updated_at": "2026-09-25T11:39:56.700019+00:00"
+    },
+    "dzieciakowy-klub-filmowy-zagadka-klary-muu-5-2026-10-15T17:30:00+02:00": {
+      "title": "Dzieciakowy Klub Filmowy: „Zagadka Klary Muu” (5+)",
+      "date": "2026-10-15T17:30:00+02:00",
+      "end_date": "2026-10-15T17:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy ciekawskie dzieciaki na film pełen wielu zagadek!\n\nKlara Muu i Gavin, czyli para rezolutnych detektywów, prowadzą kolejne śledztwo. Tym razem gra toczy się o dużą stawkę,\n\nbo zniknęło magiczne nasiono, które może uratować Krowie Wzgórze. Kto je ukradł i jaki miał w tym interes? Śledztwo inspirowane książkami Agaty Christie to gratka dla młodych fanów filmów detektywistycznych.\n\nMuuusicie to zobaczyć!\n\nwstęp wolny",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1730.1790272539.webp",
+      "location": {
+        "name": "Pałacyk Konopackiego ul. Strzelecka 11/13",
+        "district": "Praga-Północ"
+      },
+      "url": "https://dkpraga.pl/wydarzenia/dzieciakowy-klub-filmowy-zagadka-klary-muu-5/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://dkpraga.pl/wydarzenia/dzieciakowy-klub-filmowy-zagadka-klary-muu-5/",
+      "scrapped_timestamp": "2026-09-25T11:39:02.186074+00:00",
+      "category": "Cinema",
+      "age_range": {
+        "min": 5,
+        "max": 13
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dzieciakowy Klub Filmowy: „Zagadka Klary Muu” (5+)",
+          "description": "Zapraszamy ciekawskie dzieciaki na film pełen wielu zagadek!\n\nKlara Muu i Gavin, czyli para rezolutnych detektywów, prowadzą kolejne śledztwo. Tym razem gra toczy się o dużą stawkę,\n\nbo zniknęło magiczne nasiono, które może uratować Krowie Wzgórze. Kto je ukradł i jaki miał w tym interes? Śledztwo inspirowane książkami Agaty Christie to gratka dla młodych fanów filmów detektywistycznych.\n\nMuuusicie to zobaczyć!\n\nwstęp wolny"
+        },
+        "en": {
+          "title": "Kids' Film Club: \"The Mystery of Klara Muu\" (5+)",
+          "description": "We invite curious kids to a film full of many mysteries!\n\nKlara Muu and Gavin, a pair of clever detectives, are conducting another investigation. This time the stakes are high,\n\nbecause a magical seed has gone missing, which could save Cow Hill. Who stole it and what was their interest? The investigation inspired by Agatha Christie's books is a treat for young fans of detective films.\n\nYou **must** see this!\n\nFree admission"
+        },
+        "uk": {
+          "title": "Дитячий Кіноклуб: «Загадка Клари Муу» (5+)",
+          "description": "Запрошуємо допитливих дітлахів на фільм, наповнений багатьма загадками!\n\nКлара Муу та Гевін, тобто пара кмітливих детективів, проводять чергове розслідування. Цього разу гра йде на великі ставки,\n\nбо зникло магічне насіння, яке може врятувати Корівку Гірку. Хто його вкрали і який мав у цьому інтерес? Розслідування, натхненне книгами Агати Крісті, - це справжня знахідка для молодих фанатів детективних фільмів.\n\nМуууусите це побачити!\n\nвхід вільний"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Północ",
+      "updated_at": "2026-09-25T11:39:56.700032+00:00"
+    },
+    "8-urodziny-klubokawiarni-s-siedzkiej-akademia-magii-i-czar-w-2026-10-31T12:00:00+01:00": {
+      "title": "8 urodziny Klubokawiarni Sąsiedzkiej – Akademia Magii i Czarów",
+      "date": "2026-10-31T12:00:00+01:00",
+      "end_date": "2026-10-31T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "8 urodziny Klubokawiarni Sąsiedzkiej – Akademia Magii i Czarów\n\n31 października (sobota), godz. 12:00\n\nKlubokawiarnia Sąsiedzka, ul. Działdowska 6\n\nwstęp wolny\n\nCzy marzyliście kiedyś o tym, aby choć na chwilę przenieść się do świata magii? Z okazji 8. Urodzin Klubokawiarni Sąsiedzkiej zapraszamy wszystkie dzieci wraz z rodzinami do niezwykłej Akademii Magii i Czarów, gdzie wyobraźnia nie zna granic, a dobra zabawa czeka na każdym kroku.\n\nPrzygotowaliśmy dla Was wyjątkowe popołudnie pełne czarów, śmiechu i wspólnych przygód. Razem będziemy tworzyć kolorowe eliksiry, wykonywać własne magiczne różdżki i zdobywać Legitymacje Czarodzieja oraz Czarodziejki. Nie zabraknie także zabaw, animacji i niespodzianek, które pozwolą najmłodszym poczuć się jak bohaterowie najpiękniejszych opowieści o magii.\n\nTo jednak coś więcej niż zwykłe wydarzenie. To wspólne święto wszystkich osób, które przez ostatnie osiem lat tworzyły Klubokawiarnię Sąsiedzką. Miejsce spotkań, kreatywnych działań, rozmów, śmiechu, nowych przyjaźni i niezliczonych wspomnień. Chcemy ten wyjątkowy dzień spędzić razem z Wami, w atmosferze radości, bliskości i sąsiedzkiej życzliwości.\n\nZachęcamy do przyjścia w przebraniach czarodziejów, czarodziejek, wróżek, smoków i innych fantastycznych postaci.\n\nIm więcej magii, tym lepiej! Będzie to doskonała okazja do wspólnej zabawy, poznania nowych osób i przeżycia niezapomnianej przygody w gronie rodziny, przyjaciół i sąsiadów.\n\nPrzyjdźcie świętować z nami 8. urodziny Klubokawiarni Sąsiedzkiej. Zabierzcie ze sobą uśmiech, odrobinę wyobraźni i gotowość\n\ndo dobrej zabawy. Czekamy na Was z otwartymi ramionami, by razem stworzyć kolejne piękne wspomnienia.\n\nDo zobaczenia 31 października w Akademii Czarodziejów i Czarodziejek!\n\nDostępność wydarzenia\n\nMiejsce: Dom Kultury przy ul. Działdowskiej 6\n\nDojazd: najbliższy przystanek transportu publicznego METRO PŁOCKA w odległości 300 m, linie: 13, 26, 27 103, 106, M2.\n\nJeśli potrzebujesz pomocy w dotarciu na wydarzenie, prosimy o kontakt: kawiarnia@wck-wola.pl\n\n🧑‍🦽Do budynku prowadzą schody. W budynku nie ma windy ani podjazdów dla wózków. W placówce nie ma dostępnej toalety dla osób z niepełnosprawnością. W pobliżu budynku nie wyznaczono miejsc parkingowych dla osób z niepełnosprawnościa. Najbliższe miejsca parkingowe znajdują się przy ul. Wawelberga, ok. 100 m od budynku placówki.\n\n🧑‍🦯🦮 Nad wejściem głównym do budynku znajduje się znacznik TOTUPOINT. Do budynku i wszystkich jego pomieszczeń można wejść z psem asystującym i psem przewodnikiem. W budynku nie ma oznaczeń w alfabecie brajla ani oznaczeń kontrastowych lub w druku powiększonym dla osób niewidomych i słabowidzących.\n\n🧏🏻 W recepcji jest dostępna pętla indukcyjna. W placówce można skorzystać z tłumacza polskiego języka migowego (PJM) online. Link do tłumaczenia: link\n\nJeśli potrzebujesz skorzystać z pętli indukcyjnej podczas koncertu, spektaklu czy innego wydarzenia, skontaktuj się z nami wcześniej: m.michnowska@wck-wola.pl, TEL/SMS: 609028424.\n\n🎧 Podczas wydarzenia można wypożyczyć słuchawki wyciszające dla dzieci i dorosłych.\n\nJeśli masz pytania dotyczące dostępności wydarzenia, prosimy o kontakt pod adresem: m.michnowska@wck-wola.pl lub tel/SMS: 609028424.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1790290349.webp",
+      "location": {
+        "name": "Klubokawiarnia Sąsiedzka, ul. Działdowska 6",
+        "district": "Wola"
+      },
+      "url": "https://www.facebook.com/events/1101068629323088/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1101068629323088/",
+      "scrapped_timestamp": "2026-09-25T11:39:08.044501+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "8 urodziny Klubokawiarni Sąsiedzkiej – Akademia Magii i Czarów",
+          "description": "8 urodziny Klubokawiarni Sąsiedzkiej – Akademia Magii i Czarów\n\n31 października (sobota), godz. 12:00\n\nKlubokawiarnia Sąsiedzka, ul. Działdowska 6\n\nwstęp wolny\n\nCzy marzyliście kiedyś o tym, aby choć na chwilę przenieść się do świata magii? Z okazji 8. Urodzin Klubokawiarni Sąsiedzkiej zapraszamy wszystkie dzieci wraz z rodzinami do niezwykłej Akademii Magii i Czarów, gdzie wyobraźnia nie zna granic, a dobra zabawa czeka na każdym kroku.\n\nPrzygotowaliśmy dla Was wyjątkowe popołudnie pełne czarów, śmiechu i wspólnych przygód. Razem będziemy tworzyć kolorowe eliksiry, wykonywać własne magiczne różdżki i zdobywać Legitymacje Czarodzieja oraz Czarodziejki. Nie zabraknie także zabaw, animacji i niespodzianek, które pozwolą najmłodszym poczuć się jak bohaterowie najpiękniejszych opowieści o magii.\n\nTo jednak coś więcej niż zwykłe wydarzenie. To wspólne święto wszystkich osób, które przez ostatnie osiem lat tworzyły Klubokawiarnię Sąsiedzką. Miejsce spotkań, kreatywnych działań, rozmów, śmiechu, nowych przyjaźni i niezliczonych wspomnień. Chcemy ten wyjątkowy dzień spędzić razem z Wami, w atmosferze radości, bliskości i sąsiedzkiej życzliwości.\n\nZachęcamy do przyjścia w przebraniach czarodziejów, czarodziejek, wróżek, smoków i innych fantastycznych postaci.\n\nIm więcej magii, tym lepiej! Będzie to doskonała okazja do wspólnej zabawy, poznania nowych osób i przeżycia niezapomnianej przygody w gronie rodziny, przyjaciół i sąsiadów.\n\nPrzyjdźcie świętować z nami 8. urodziny Klubokawiarni Sąsiedzkiej. Zabierzcie ze sobą uśmiech, odrobinę wyobraźni i gotowość\n\ndo dobrej zabawy. Czekamy na Was z otwartymi ramionami, by razem stworzyć kolejne piękne wspomnienia.\n\nDo zobaczenia 31 października w Akademii Czarodziejów i Czarodziejek!\n\nDostępność wydarzenia\n\nMiejsce: Dom Kultury przy ul. Działdowskiej 6\n\nDojazd: najbliższy przystanek transportu publicznego METRO PŁOCKA w odległości 300 m, linie: 13, 26, 27 103, 106, M2.\n\nJeśli potrzebujesz pomocy w dotarciu na wydarzenie, prosimy o kontakt: kawiarnia@wck-wola.pl\n\n🧑‍🦽Do budynku prowadzą schody. W budynku nie ma windy ani podjazdów dla wózków. W placówce nie ma dostępnej toalety dla osób z niepełnosprawnością. W pobliżu budynku nie wyznaczono miejsc parkingowych dla osób z niepełnosprawnościa. Najbliższe miejsca parkingowe znajdują się przy ul. Wawelberga, ok. 100 m od budynku placówki.\n\n🧑‍🦯🦮 Nad wejściem głównym do budynku znajduje się znacznik TOTUPOINT. Do budynku i wszystkich jego pomieszczeń można wejść z psem asystującym i psem przewodnikiem. W budynku nie ma oznaczeń w alfabecie brajla ani oznaczeń kontrastowych lub w druku powiększonym dla osób niewidomych i słabowidzących.\n\n🧏🏻 W recepcji jest dostępna pętla indukcyjna. W placówce można skorzystać z tłumacza polskiego języka migowego (PJM) online. Link do tłumaczenia: link\n\nJeśli potrzebujesz skorzystać z pętli indukcyjnej podczas koncertu, spektaklu czy innego wydarzenia, skontaktuj się z nami wcześniej: m.michnowska@wck-wola.pl, TEL/SMS: 609028424.\n\n🎧 Podczas wydarzenia można wypożyczyć słuchawki wyciszające dla dzieci i dorosłych.\n\nJeśli masz pytania dotyczące dostępności wydarzenia, prosimy o kontakt pod adresem: m.michnowska@wck-wola.pl lub tel/SMS: 609028424."
+        },
+        "en": {
+          "title": "8th Birthday of the Neighborhood Café – Academy of Magic and Sorcery",
+          "description": "8th Birthday of the Neighborhood Café – Academy of Magic and Sorcery\n\n31st October (Saturday), 12:00 PM\n\nNeighborhood Café, Działdowska 6\n\nfree entry\n\nHave you ever dreamed of momentarily stepping into the world of magic? On the occasion of the 8th Birthday of the Neighborhood Café, we invite all children along with their families to an extraordinary Academy of Magic and Sorcery, where imagination knows no bounds, and good fun awaits at every turn.\n\nWe have prepared a unique afternoon full of magic, laughter, and shared adventures. Together we will create colorful potions, make our own magic wands, and earn Wizard and Witch Credentials. There will also be games, animations, and surprises that will allow the youngest to feel like heroes of the most beautiful stories about magic."
+        },
+        "uk": {
+          "title": "8-і ювілеї Клубокав'ярні Сусідської – Академія Магії та Чарів",
+          "description": "8-і ювілеї Клубокав'ярні Сусідської – Академія Магії та Чарів\n\n31 жовтня (субота), год. 12:00\n\nКлубокав'ярня Сусідська, вул. Дziałdowska 6\n\nвхід вільний\n\nЧи мріяли ви колись про те, щоб хоч на мить перенестися у світ магії? З нагоди 8-их ювілеїв Клубокав'ярні Сусідської запрошуємо всіх дітей разом з родинами до незвичайної Академії Магії та Чарів, де уява не знає меж, а добра забава чекає на кожному кроці.\n\nМи підготували для вас унікальне післяобіддя, наповнене чарами, сміхом та спільними пригодами. Разом ми будемо створювати кольорові еліксири, виготовляти власні магічні палички та отримувати Легітимації Чарівника та Чарівниці. Не бракуватиме також ігор, анімацій та сюрпризів, які дозволять найменшим відчути себе героями найкрасивіших оповідей про магію."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wola",
+      "updated_at": "2026-09-25T11:39:56.700047+00:00"
+    },
+    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-09-25T10:00:00+02:00": {
+      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
+      "date": "2026-09-25T10:00:00+02:00",
+      "end_date": "2026-09-25T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
+      "source": "gojammin.com",
+      "district": "Śródmieście",
+      "location": {
+        "name": "Agrykola 1, 00-460 Warszawa, Poland",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
+      "scrapped_timestamp": "2026-09-25T11:39:13.514331+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
+          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
+        },
+        "en": {
+          "title": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"",
+          "description": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"\n\nWe invite you to guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world masterpieces, including paintings by such masters as Maurice Denis, Paul Ranson, and Paul Sérusier. The curators of the exhibition and museum educators will tell us about them.\n\nThe exhibition \"Nabis. Prophets of New Art\" showcases, among other things, the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called School of Pont-Aven. It also includes works of a religious and esoteric nature, views of interiors, and genre scenes, as well as the activities of the magazine \"La Revue Blanche\" run by the Natanson brothers - Tadeusz and Aleksander. In total, we will see over 90 works in the fields of painting, drawing, and graphics. The works come from Polish and foreign collections."
+        },
+        "uk": {
+          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
+          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\" Запрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Зможемо побачити світові твори, а це, зокрема, картини таких майстрів, як Моріс Дені, Поль Рансон і Поль Серюзьє. Розкажуть про них куратори експозиції та музейні освітяни. Виставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Пола Гогена і так званої Школи Пон-Авен. Охоплює також твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, яку проводили брати Натансон - Тадеуш і Олександр - журналу \"La Revue Blanche\". Всього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
+      },
+      "updated_at": "2026-09-25T11:39:56.700062+00:00"
+    },
+    "mokotowskie-bezp-atne-zaj-cia-pi-ki-no-nej-dla-dzieci-na-naszym-podw-rku-2026-09-27T13:00:00+02:00": {
+      "title": "Mokotowskie bezpłatne zajęcia piłki nożnej dla dzieci na Naszym Podwórku!",
+      "date": "2026-09-27T13:00:00+02:00",
+      "end_date": "2026-09-27T13:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Urząd Dzielnicy Mokotów wraz ze stowarzyszeniem Nasze Podwórko zapraszają dzieci na bezpłatne zajęcia piłkarskie na świeżym powietrzu! To świetna okazja do ruchu, zabawy i nauki podstaw piłki nożnej w przyjaznej atmosferze. Miejsce Boisko SP nr 339, ul. Bonifacego 10, Warszawa (dzielnica Mokotów) Terminy (niedziele) 26 kwietnia 10 maja 24 maja 7 czerwca 21 czerwca 13 września 27 września Godziny zajęć (według roczników) 13:00 – roczniki 2018/2019 14:00 – roczniki 2016/2017 15:00 – roczniki 2014/2015 Udział jest bezpłatny. Zapisy: 607 77 99 04 Do zobaczenia na boisku!",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F049fd751-13ce-4120-9bfe-0dcc97133c4a.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/3b2d8c1f-f7ca-4f81-9db8-dddb773a6eed",
+      "source": "gojammin.com",
+      "district": "Mokotów",
+      "location": {
+        "name": "Świętego Bonifacego 10, 02-758 Warszawa, Poland",
+        "district": "Mokotów"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/3b2d8c1f-f7ca-4f81-9db8-dddb773a6eed",
+      "scrapped_timestamp": "2026-09-25T11:39:25.465183+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Mokotowskie bezpłatne zajęcia piłki nożnej dla dzieci na Naszym Podwórku!",
+          "description": "Urząd Dzielnicy Mokotów wraz ze stowarzyszeniem Nasze Podwórko zapraszają dzieci na bezpłatne zajęcia piłkarskie na świeżym powietrzu! To świetna okazja do ruchu, zabawy i nauki podstaw piłki nożnej w przyjaznej atmosferze. Miejsce Boisko SP nr 339, ul. Bonifacego 10, Warszawa (dzielnica Mokotów) Terminy (niedziele) 26 kwietnia 10 maja 24 maja 7 czerwca 21 czerwca 13 września 27 września Godziny zajęć (według roczników) 13:00 – roczniki 2018/2019 14:00 – roczniki 2016/2017 15:00 – roczniki 2014/2015 Udział jest bezpłatny. Zapisy: 607 77 99 04 Do zobaczenia na boisku!"
+        },
+        "en": {
+          "title": "Free Football Classes for Children in Mokotów at Our Backyard!",
+          "description": "The Mokotów District Office, together with the Our Backyard association, invites children to free outdoor football classes! This is a great opportunity for movement, fun, and learning the basics of football in a friendly atmosphere.\n\nLocation\nFootball field at SP No. 339, ul. Bonifacego 10, Warsaw (Mokotów district)\n\nDates (Sundays)\n26 April\n10 May\n24 May\n7 June\n21 June\n13 September\n27 September\n\nClass Times (by age groups)\n1:00 PM – ages 2018/2019\n2:00 PM – ages 2016/2017\n3:00 PM – ages 2014/2015\n\nParticipation is free.\n\nRegistration: 607 77 99 04\n\nSee you on the field!"
+        },
+        "uk": {
+          "title": "Безкоштовні заняття з футболу для дітей на нашому подвір'ї в Мокотові!",
+          "description": "Управління району Мокотів разом із асоціацією Наше Подвір'я запрошують дітей на безкоштовні футбольні заняття на свіжому повітрі! Це чудова можливість для руху, розваги та навчання основам футболу в дружній атмосфері.\n\nМісце\nБоєць SP № 339, вул. Боніфацего 10, Варшава (район Мокотів)\n\nТерміни (неділі)\n26 квітня\n10 травня\n24 травня\n7 червня\n21 червня\n13 вересня\n27 вересня\n\nГодини занять (за роками)\n13:00 – роки 2018/2019\n14:00 – роки 2016/2017\n15:00 – роки 2014/2015\n\nУчасть безкоштовна.\nЗапис: 607 77 99 04\n\nДо зустрічі на полі!"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-09-25T11:39:56.700105+00:00"
+    },
+    "bezp-atne-pi-tki-w-azienkach-kr-lewskich-2026-09-25T10:00:00+02:00": {
+      "title": "Bezpłatne piątki w Łazienkach Królewskich",
+      "date": "2026-09-25T10:00:00+02:00",
+      "end_date": "2026-09-25T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Łazienki Królewskie w Warszawie zapraszają na bezpłatne zwiedzanie letniej rezydencji króla Stanisława Augusta. W każdy piątek udostępniane są najważniejsze zabytki i wystawy muzeum. Obiekty są otwarte w godzinach 10.00-18.00, a ostatnie wejście możliwe jest na 30 minut przed zamknięciem.\n\nSzczegóły dotyczące dostępności obiektów:\n• Pałac na Wyspie: dostępne pomieszczenia na parterze oraz Królewska Galeria Obrazów.\n• Pałac Myślewicki: dostępne pomieszczenia na parterze z polichromiami Jana Bogumiła Plerscha.\n• Stara Oranżeria: Królewska Galeria Rzeźby oraz Teatr Królewski.\n• Muzeum Łowiectwa i Jeździectwa (Koszary Kantonistów): ekspozycje zwierząt oraz wystawa czasowa „Miasto zwierząt. Domicella Bożekowska”.\n• Stajnie Kubickiego: Powozownia im. Zbigniewa Prus-Niewiadomskiego oraz Królewska Manufaktura Tkacka.\n• Podchorążówka: wystawa multisensoryczna „Łazienki w zachwycie” (dostępna do 15 marca 2026 r.).\n• Biały Dom i Wodozbiór: dostępne od maja do września.\n\nInformacje dodatkowe:\n• Audioprzewodniki: dostępne online po zeskanowaniu kodu QR w danym obiekcie (wymagane własne słuchawki).\n• Udogodnienia dla osób z niepełnosprawnościami: https://www.lazienki-krolewskie.pl/pl/muzeum-dostepne\n• Klub Przyjaciół Muzeum: https://www.lazienki-krolewskie.pl/pl/nasze-projekty/klub-przyjaciol-muzeum-lazienki-krolewskie\n• Aktualne godziny otwarcia: https://www.lazienki-krolewskie.pl/pl/zwiedzanie/godziny-otwarcia\n• Więcej informacji: https://www.lazienki-krolewskie.pl/pl/wydarzenia/bezplatne-piatki",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/ff079cf8-41b1-4740-af2c-0ab24fd71a83/1589c27d-2fe9-4d22-943d-aae002cb2354.jpg",
+      "location": {
+        "name": "Łazienki Królewskie / Royal Lazienki",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/bezplatne-piatki-w-lazienkach-krolewskich-ff079cf8-41b1-4740-af2c-0ab24fd71a83",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/bezplatne-piatki-w-lazienkach-krolewskich-ff079cf8-41b1-4740-af2c-0ab24fd71a83",
+      "scrapped_timestamp": "2026-09-25T11:39:31.494339+00:00",
+      "category": "Educational",
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne piątki w Łazienkach Królewskich",
+          "description": "Łazienki Królewskie w Warszawie zapraszają na bezpłatne zwiedzanie letniej rezydencji króla Stanisława Augusta. W każdy piątek udostępniane są najważniejsze zabytki i wystawy muzeum. Obiekty są otwarte w godzinach 10.00-18.00, a ostatnie wejście możliwe jest na 30 minut przed zamknięciem.\n\nSzczegóły dotyczące dostępności obiektów:\n• Pałac na Wyspie: dostępne pomieszczenia na parterze oraz Królewska Galeria Obrazów.\n• Pałac Myślewicki: dostępne pomieszczenia na parterze z polichromiami Jana Bogumiła Plerscha.\n• Stara Oranżeria: Królewska Galeria Rzeźby oraz Teatr Królewski.\n• Muzeum Łowiectwa i Jeździectwa (Koszary Kantonistów): ekspozycje zwierząt oraz wystawa czasowa „Miasto zwierząt. Domicella Bożekowska”.\n• Stajnie Kubickiego: Powozownia im. Zbigniewa Prus-Niewiadomskiego oraz Królewska Manufaktura Tkacka.\n• Podchorążówka: wystawa multisensoryczna „Łazienki w zachwycie” (dostępna do 15 marca 2026 r.).\n• Biały Dom i Wodozbiór: dostępne od maja do września.\n\nInformacje dodatkowe:\n• Audioprzewodniki: dostępne online po zeskanowaniu kodu QR w danym obiekcie (wymagane własne słuchawki).\n• Udogodnienia dla osób z niepełnosprawnościami: https://www.lazienki-krolewskie.pl/pl/muzeum-dostepne\n• Klub Przyjaciół Muzeum: https://www.lazienki-krolewskie.pl/pl/nasze-projekty/klub-przyjaciol-muzeum-lazienki-krolewskie\n• Aktualne godziny otwarcia: https://www.lazienki-krolewskie.pl/pl/zwiedzanie/godziny-otwarcia\n• Więcej informacji: https://www.lazienki-krolewskie.pl/pl/wydarzenia/bezplatne-piatki"
+        },
+        "en": {
+          "title": "Free Fridays at the Royal Łazienki",
+          "description": "The Royal Łazienki in Warsaw invites you to free tours of the summer residence of King Stanisław August. Every Friday, the most important monuments and museum exhibitions are open to the public. The sites are open from 10:00 AM to 6:00 PM, with the last entry possible 30 minutes before closing.\n\nDetails regarding the availability of the sites:\n• Palace on the Isle: accessible rooms on the ground floor and the Royal Gallery of Paintings.\n• Myślewicki Palace: accessible rooms on the ground floor with polychromes by Jan Bogumił Plersch.\n• Old Orangery: Royal Gallery of Sculpture and the Royal Theatre.\n• Museum of Hunting and Horse Riding (Cantonist Barracks): exhibitions of animals and the temporary exhibition \"City of Animals. Domicella Bożekowska.\"\n• Kubicki Stables: Zbigniew Prus-Niewiadomski Coach House and the Royal"
+        },
+        "uk": {
+          "title": "Безкоштовні п’ятниці в Лазенках Королівських",
+          "description": "Лазенки Королівські у Варшаві запрошують на безкоштовне відвідування літньої резиденції короля Станіслава Августа. В кожну п’ятницю відкриваються найважливіші пам’ятки та виставки музею. Об’єкти відкриті з 10:00 до 18:00, а останній вхід можливий за 30 хвилин до закриття.\n\nСкладові щодо доступності об’єктів:\n• Палац на Острові: доступні приміщення на першому поверсі та Королівська Галерея Малюнків.\n• Палац Мислевицький: доступні приміщення на першому поверсі з поліхроміями Яна Богуміла Плерша.\n• Стара Оранжерея: Королівська Галерея Скульптури та Королівський Театр.\n• Музей Полювання та Верхової Їзди (Казарми Кантоністів): експозиції тварин та тимчасова виставка «Місто тварин. Доміцелла Божековська».\n• Стаєнні Кубицького: Повозова зала ім. Збігнєва Прус-Невідомського та Королівська"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.700118+00:00"
+    },
+    "pokazujemy-rytmy-warsztaty-dla-rodzin-2026-09-26T12:30:00+02:00": {
+      "title": "POKazujemy RYTMY – warsztaty dla rodzin",
+      "date": "2026-09-26T12:30:00+02:00",
+      "end_date": "2026-09-26T12:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Warsztaty muzyczne dla rodzin z dziećmi od 9. roku życia, podczas których uczestnicy poznają budowę i brzmienie instrumentów perkusyjnych. Pod batutą Karola Szwecha uczestnicy wykonają fragment opery Carmen Georga Bizeta. Ekspertem prowadzącym spotkanie będzie perkusista Mateusz Zawadzki.\n\nMiejsce: Teatr Królewski w Starej Oranżerii, Muzeum Łazienki Królewskie w Warszawie. Dojście do obiektu możliwe od ul. Agrykola.\n\nCzas trwania: ok. 60 minut.\n\nW razie pytań organizatorzy są dostępni pod numerem telefonu +48 500 309 424 od poniedziałku do piątku w godzinach 9:00 – 17:00.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/ac85b50d-e2ad-4121-9da6-2ced4f65a57d/75a46dd0-2dd0-4c78-aa30-20aad9721203.jpg",
+      "location": {
+        "name": "Stara Oranżeria w Łazienkach Krolewskich",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/pokazujemy-rytmy-warsztaty-dla-rodzin-ac85b50d-e2ad-4121-9da6-2ced4f65a57d",
+      "source": "simplygo.pl",
+      "age_hint": "9-18",
+      "age_range": {
+        "min": 9,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/pokazujemy-rytmy-warsztaty-dla-rodzin-ac85b50d-e2ad-4121-9da6-2ced4f65a57d",
+      "scrapped_timestamp": "2026-09-25T11:39:37.288749+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "POKazujemy RYTMY – warsztaty dla rodzin",
+          "description": "Warsztaty muzyczne dla rodzin z dziećmi od 9. roku życia, podczas których uczestnicy poznają budowę i brzmienie instrumentów perkusyjnych. Pod batutą Karola Szwecha uczestnicy wykonają fragment opery Carmen Georga Bizeta. Ekspertem prowadzącym spotkanie będzie perkusista Mateusz Zawadzki.\n\nMiejsce: Teatr Królewski w Starej Oranżerii, Muzeum Łazienki Królewskie w Warszawie. Dojście do obiektu możliwe od ul. Agrykola.\n\nCzas trwania: ok. 60 minut.\n\nW razie pytań organizatorzy są dostępni pod numerem telefonu +48 500 309 424 od poniedziałku do piątku w godzinach 9:00 – 17:00."
+        },
+        "en": {
+          "title": "We Show RHYTHMS – workshops for families",
+          "description": "Music workshops for families with children from the age of 9, during which participants will learn about the structure and sound of percussion instruments. Under the baton of Karol Szwech, participants will perform a fragment of the opera Carmen by Georges Bizet. The expert leading the meeting will be percussionist Mateusz Zawadzki.\n\nPlace: Royal Theatre in the Old Orangery, Royal Łazienki Museum in Warsaw. Access to the venue is possible from Agrykola Street.\n\nDuration: approx. 60 minutes.\n\nIn case of questions, the organizers are available at +48 500 309 424 from Monday to Friday from 9:00 AM to 5:00 PM."
+        },
+        "uk": {
+          "title": "POKazujemy RYTMY – майстер-класи для родин",
+          "description": "Музичні майстер-класи для родин з дітьми від 9 років, під час яких учасники познайомляться з будовою та звучанням ударних інструментів.\n\nПід керівництвом Карола Швеха учасники виконають фрагмент опери Кармен Жоржа Бізе.\n\nЕкспертом, який веде зустріч, буде ударник Матей Завадський.\n\nМісце: Королівський театр у Старій Оранжереї, Музей Лазенки Королівські у Варшаві. Доступ до об'єкта можливий з вул. Агрикола.\n\nЧас тривання: близько 60 хвилин.\n\nУ разі питань організатори доступні за номером телефону +48 500 309 424 з понеділка по п'ятницю з 9:00 до 17:00."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-09-25T11:39:56.700130+00:00"
     }
   }
 }

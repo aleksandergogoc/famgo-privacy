@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:53:24.890255+00:00",
+  "updated_at": "2026-09-27T12:20:51.482596+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1772,6 +1772,24 @@
       "lat": 54.345041,
       "lng": 18.5990054,
       "updated_at": "2026-09-25T11:47:10.366968+00:00"
+    },
+    "za murami 2-10": {
+      "name": "Dom Harcerza, 2/10, Za Murami, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-823, Polska",
+      "district": "Śródmieście",
+      "address": "Dom Harcerza, 2/10, Za Murami, Stare Przedmieście, Śródmieście, Gdańsk, województwo pomorskie, 80-823, Polska",
+      "normalized": "za murami 2-10",
+      "lat": 54.3483097,
+      "lng": 18.6481609,
+      "updated_at": "2026-09-27T12:14:32.898875+00:00"
+    },
+    "norwida cypriana kamila 1": {
+      "name": "Gato, 1, Cypriana Kamila Norwida, Garnizon, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-280, Polska",
+      "district": "Wrzeszcz",
+      "address": "Gato, 1, Cypriana Kamila Norwida, Garnizon, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-280, Polska",
+      "normalized": "norwida cypriana kamila 1",
+      "lat": 54.3839709,
+      "lng": 18.5936503,
+      "updated_at": "2026-09-27T12:14:34.633409+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T11:53:25.994731+00:00",
+  "updated_at": "2026-09-27T16:23:58.996458+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -786,6 +786,14 @@
       "lat": 51.7755244,
       "lng": 19.4529487,
       "updated_at": "2026-09-25T11:46:52.776010+00:00"
+    },
+    "piccolo (łódź": {
+      "name": "Teatr Piccolo (Łódź, ul. Tuwima 34)",
+      "district": "Śródmieście",
+      "address": "ul. Tuwima 34",
+      "normalized": "piccolo (łódź",
+      "updated_at": "2026-09-27T16:23:58.914658+00:00",
+      "created_at": "2026-09-27T16:23:58.914658+00:00"
     }
   }
 }

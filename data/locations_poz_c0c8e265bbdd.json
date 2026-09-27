@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T16:20:28.864285+00:00",
+  "updated_at": "2026-09-27T16:21:07.621694+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1452,6 +1452,14 @@
       "normalized": "domek kultury (ul. główna 74)",
       "updated_at": "2026-09-27T16:20:28.778707+00:00",
       "created_at": "2026-09-27T16:20:28.778707+00:00"
+    },
+    "ulica glebowa 12a": {
+      "name": "ulica Glebowa 12A",
+      "district": "Nowe Miasto",
+      "address": "ul. Glebowa 12A",
+      "normalized": "ulica glebowa 12a",
+      "updated_at": "2026-09-27T16:21:07.539026+00:00",
+      "created_at": "2026-09-27T16:21:07.539026+00:00"
     }
   }
 }

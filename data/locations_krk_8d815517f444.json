@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T11:40:58.085608+00:00",
+  "updated_at": "2026-09-27T12:20:54.208926+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4540,6 +4540,15 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-09-26T11:14:14.009692+00:00"
+    },
+    "98-290 krąków": {
+      "name": "98-290 Krąków, Poland",
+      "district": "Zwierzyniec",
+      "address": "98-290 Krąków, Poland",
+      "normalized": "98-290 krąków",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-27T11:47:09.489440+00:00"
     }
   }
 }

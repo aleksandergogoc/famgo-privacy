@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T12:20:54.208926+00:00",
+  "updated_at": "2026-09-28T13:59:43.865497+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4549,6 +4549,69 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-27T11:47:09.489440+00:00"
+    },
+    "centrum edukacji przyrodniczej uniwersytetu jagiellońskiego": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "centrum edukacji przyrodniczej uniwersytetu jagiellońskiego",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-09-28T13:09:34.675625+00:00"
+    },
+    "szkoła podstawowa nr 113": {
+      "name": "Szkoła Podstawowa nr 113, ul. Stachiewicza 33, Kraków",
+      "district": "Stare Miasto",
+      "address": "Szkoła Podstawowa nr 113, ul. Stachiewicza 33, Kraków",
+      "normalized": "szkoła podstawowa nr 113",
+      "lat": 50.057,
+      "lng": 19.944,
+      "updated_at": "2026-09-28T13:09:45.808577+00:00"
+    },
+    "plac inwalidów": {
+      "name": "Plac Inwalidów, Nowa Wieś, Krowodrza, Kraków, województwo małopolskie, 30-045, Polska",
+      "district": "Krowodrza",
+      "address": "Plac Inwalidów, Nowa Wieś, Krowodrza, Kraków, województwo małopolskie, 30-045, Polska",
+      "normalized": "plac inwalidów",
+      "lat": 50.0695159,
+      "lng": 19.9255255,
+      "updated_at": "2026-09-28T13:10:17.881122+00:00"
+    },
+    "park rzeczny wilga": {
+      "name": "Park Rzeczny \"Wilga\", Jana Brożka, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-406, Polska",
+      "district": "Łagiewniki-Borek Fałęcki",
+      "address": "Park Rzeczny \"Wilga\", Jana Brożka, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-406, Polska",
+      "normalized": "park rzeczny wilga",
+      "lat": 50.0301584,
+      "lng": 19.9281711,
+      "updated_at": "2026-09-28T13:27:00.570598+00:00"
+    },
+    "piwnica pod baranami krakowskie forum kultury mikołajska 2": {
+      "name": "Piwnica pod Baranami Krakowskie Forum Kultury Mikołajska 2",
+      "district": "Stare Miasto",
+      "address": "Piwnica pod Baranami Krakowskie Forum Kultury Mikołajska 2",
+      "normalized": "piwnica pod baranami krakowskie forum kultury mikołajska 2",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-28T13:27:00.571917+00:00"
+    },
+    "plac wolnica 1": {
+      "name": "Plac Wolnica 1, Kraków",
+      "district": "Stare Miasto",
+      "address": "Plac Wolnica 1, Kraków",
+      "normalized": "plac wolnica 1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:27:00.572564+00:00"
+    },
+    "kopernika 19a": {
+      "name": "Kopernika 19a, Kraków",
+      "district": "Grzegórzki",
+      "address": "Kopernika 19a, Kraków",
+      "normalized": "kopernika 19a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:27:00.572779+00:00"
     }
   }
 }

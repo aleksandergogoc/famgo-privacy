@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T12:20:52.603018+00:00",
+  "updated_at": "2026-09-28T13:59:42.183031+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -7458,6 +7458,321 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-27T12:08:13.086052+00:00"
+    },
+    "hotel metropol": {
+      "name": "Hotel Metropol, ul. Marszałkowska 99A, Warszawa",
+      "district": "Śródmieście",
+      "address": "Hotel Metropol, ul. Marszałkowska 99A, Warszawa",
+      "normalized": "hotel metropol",
+      "lat": 52.2297,
+      "lng": 21.0118,
+      "updated_at": "2026-09-28T13:32:33.136043+00:00"
+    },
+    "rondo ch. de gaulle’a": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "rondo ch. de gaulle’a",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-09-28T13:32:38.775359+00:00"
+    },
+    "drukarstwa": {
+      "name": "Muzeum Drukarstwa Warszawskiego, 23/25, Ząbkowska, Stara Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-736, Polska",
+      "district": "Praga-Północ",
+      "address": "Muzeum Drukarstwa Warszawskiego, 23/25, Ząbkowska, Stara Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-736, Polska",
+      "normalized": "drukarstwa",
+      "lat": 52.2541281,
+      "lng": 21.0425724,
+      "updated_at": "2026-09-28T13:32:41.684400+00:00"
+    },
+    "ul. różana 16": {
+      "name": "ul. Różana 16, Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Różana 16, Warszawa",
+      "normalized": "ul. różana 16",
+      "lat": 52.22977,
+      "lng": 21.01178,
+      "updated_at": "2026-09-28T13:32:56.011579+00:00"
+    },
+    "ogród motyki i słońca": {
+      "name": "Ogród Motyki i Słońca, ul. Jazdów 3/9, Warszawa",
+      "district": "Śródmieście",
+      "address": "Ogród Motyki i Słońca, ul. Jazdów 3/9, Warszawa",
+      "normalized": "ogród motyki i słońca",
+      "lat": 52.229,
+      "lng": 21.015,
+      "updated_at": "2026-09-28T13:33:02.459019+00:00"
+    },
+    "scena lubelska": {
+      "name": "ul. Lubelska 30/32, Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Lubelska 30/32, Warszawa",
+      "normalized": "scena lubelska",
+      "lat": 52.2386,
+      "lng": 21.0135,
+      "updated_at": "2026-09-28T13:33:07.099469+00:00"
+    },
+    "dom spotkań z historią": {
+      "name": "ul. Karowa 20, Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Karowa 20, Warszawa",
+      "normalized": "dom spotkań z historią",
+      "lat": 52.238,
+      "lng": 21.019,
+      "updated_at": "2026-09-28T13:33:11.114962+00:00"
+    },
+    "biblioteka publiczna – filia „gołąbki” · ul. czerwona droga 6": {
+      "name": "Biblioteka Publiczna – Filia „Gołąbki” · ul. Czerwona Droga 6",
+      "district": "Ursus",
+      "address": "Biblioteka Publiczna – Filia „Gołąbki” · ul. Czerwona Droga 6",
+      "normalized": "biblioteka publiczna – filia „gołąbki” · ul. czerwona droga 6",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.514664+00:00"
+    },
+    "30 min muzeum fryderyka chopina": {
+      "name": "30 min Muzeum Fryderyka Chopina, Sala im. Marie Skłodowskiej – Curie (1 piętro) — Pałac Staszica · ul. Nowy Świat 72, Warszawa",
+      "district": "Śródmieście",
+      "address": "30 min Muzeum Fryderyka Chopina, Sala im. Marie Skłodowskiej – Curie (1 piętro) — Pałac Staszica · ul. Nowy Świat 72, Warszawa",
+      "normalized": "30 min muzeum fryderyka chopina",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.515042+00:00"
+    },
+    "60 min dom kultury kadr": {
+      "name": "60 min Dom Kultury Kadr, sala Powiększenie, 301, III piętro",
+      "district": "Mokotów",
+      "address": "60 min Dom Kultury Kadr, sala Powiększenie, 301, III piętro",
+      "normalized": "60 min dom kultury kadr",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.515371+00:00"
+    },
+    "45 min teatr małego widza": {
+      "name": "45 min Teatr Małego Widza, Scena na Jezuickiej · ul. Jezuicka 4 (wejście od ul. Brzozowej)",
+      "district": "Śródmieście",
+      "address": "45 min Teatr Małego Widza, Scena na Jezuickiej · ul. Jezuicka 4 (wejście od ul. Brzozowej)",
+      "normalized": "45 min teatr małego widza",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.515651+00:00"
+    },
+    "ok. 60 min dom kultury kadr": {
+      "name": "ok. 60 min Dom Kultury Kadr, sala Broadway",
+      "district": "Mokotów",
+      "address": "ok. 60 min Dom Kultury Kadr, sala Broadway",
+      "normalized": "ok. 60 min dom kultury kadr",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.515985+00:00"
+    },
+    "50 min dzielnicowy ośrodek kultury ursynów": {
+      "name": "50 min Dzielnicowy Ośrodek Kultury Ursynów, Sala widowiskowa, parter · ul. Kajakowa 12b",
+      "district": "Ursynów",
+      "address": "50 min Dzielnicowy Ośrodek Kultury Ursynów, Sala widowiskowa, parter · ul. Kajakowa 12b",
+      "normalized": "50 min dzielnicowy ośrodek kultury ursynów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.516450+00:00"
+    },
+    "50 min dom kultury świt": {
+      "name": "50 min Dom Kultury Świt, Sala Widowiskowa · ul. Wysockiego 11",
+      "district": "Targówek",
+      "address": "50 min Dom Kultury Świt, Sala Widowiskowa · ul. Wysockiego 11",
+      "normalized": "50 min dom kultury świt",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.516840+00:00"
+    },
+    "45 min białołęcki ośrodek kultury · ul. vincenta van gogha 1": {
+      "name": "45 min Białołęcki Ośrodek Kultury · ul. Vincenta van Gogha 1",
+      "district": "Białołęka",
+      "address": "45 min Białołęcki Ośrodek Kultury · ul. Vincenta van Gogha 1",
+      "normalized": "45 min białołęcki ośrodek kultury · ul. vincenta van gogha 1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.517119+00:00"
+    },
+    "dom kultury wesoła · ul. stefana starzyńskiego 21": {
+      "name": "Dom Kultury Wesoła · ul. Stefana Starzyńskiego 21",
+      "district": "Wesoła",
+      "address": "Dom Kultury Wesoła · ul. Stefana Starzyńskiego 21",
+      "normalized": "dom kultury wesoła · ul. stefana starzyńskiego 21",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.517735+00:00"
+    },
+    "90 min muzeum pałacu króla jana iii w wilanowie": {
+      "name": "90 min Muzeum Pałacu Króla Jana III w Wilanowie, Pałac, zbiórka w szatni · ul. Stanisława Kostki Potockiego 10/16",
+      "district": "Wilanów",
+      "address": "90 min Muzeum Pałacu Króla Jana III w Wilanowie, Pałac, zbiórka w szatni · ul. Stanisława Kostki Potockiego 10/16",
+      "normalized": "90 min muzeum pałacu króla jana iii w wilanowie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.518138+00:00"
+    },
+    "90 min muzeum gazowni warszawskiej · ul. seweryna krzyżanowskiego 7": {
+      "name": "90 min Muzeum Gazowni Warszawskiej · ul. Seweryna Krzyżanowskiego 7",
+      "district": "Wola",
+      "address": "90 min Muzeum Gazowni Warszawskiej · ul. Seweryna Krzyżanowskiego 7",
+      "normalized": "90 min muzeum gazowni warszawskiej · ul. seweryna krzyżanowskiego 7",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.518470+00:00"
+    },
+    "50 min dom kultury dorożkarnia · ul. siekierkowska 28": {
+      "name": "50 min Dom Kultury Dorożkarnia · ul. Siekierkowska 28",
+      "district": "Mokotów",
+      "address": "50 min Dom Kultury Dorożkarnia · ul. Siekierkowska 28",
+      "normalized": "50 min dom kultury dorożkarnia · ul. siekierkowska 28",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.518823+00:00"
+    },
+    "ok. 60 min muzeum narodowe w warszawie": {
+      "name": "ok. 60 min Muzeum Narodowe w Warszawie, Zbiórka w Holu Głównym Gmachu Głównego MNW · Al. Jerozolimskie 3",
+      "district": "Śródmieście",
+      "address": "ok. 60 min Muzeum Narodowe w Warszawie, Zbiórka w Holu Głównym Gmachu Głównego MNW · Al. Jerozolimskie 3",
+      "normalized": "ok. 60 min muzeum narodowe w warszawie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.519092+00:00"
+    },
+    "50 min żoliborski dom kultury": {
+      "name": "50 min Żoliborski Dom Kultury, Fort Sokolnickiego · ul. Stefana Czarnieckiego 51",
+      "district": "Żoliborz",
+      "address": "50 min Żoliborski Dom Kultury, Fort Sokolnickiego · ul. Stefana Czarnieckiego 51",
+      "normalized": "50 min żoliborski dom kultury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.519591+00:00"
+    },
+    "samogłoska – miejsce aktywności lokalnej": {
+      "name": "Samogłoska – Miejsce Aktywności Lokalnej, ogród",
+      "district": "Bielany",
+      "address": "Samogłoska – Miejsce Aktywności Lokalnej, ogród",
+      "normalized": "samogłoska – miejsce aktywności lokalnej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.519902+00:00"
+    },
+    "60 min okęcka sala widowiskowa · ul. 1 sierpnia 36a": {
+      "name": "60 min Okęcka Sala Widowiskowa · ul. 1 Sierpnia 36a",
+      "district": "Włochy",
+      "address": "60 min Okęcka Sala Widowiskowa · ul. 1 Sierpnia 36a",
+      "normalized": "60 min okęcka sala widowiskowa · ul. 1 sierpnia 36a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.520358+00:00"
+    },
+    "dom kultury świt · ul. wysockiego 11": {
+      "name": "Dom Kultury Świt · ul. Wysockiego 11",
+      "district": "Targówek",
+      "address": "Dom Kultury Świt · ul. Wysockiego 11",
+      "normalized": "dom kultury świt · ul. wysockiego 11",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.520666+00:00"
+    },
+    "uck alternatywy · ul. indiry gandhi 9": {
+      "name": "UCK Alternatywy · ul. Indiry Gandhi 9",
+      "district": "Ursynów",
+      "address": "UCK Alternatywy · ul. Indiry Gandhi 9",
+      "normalized": "uck alternatywy · ul. indiry gandhi 9",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.521526+00:00"
+    },
+    "ok. 45 min dom kultury kadr": {
+      "name": "ok. 45 min Dom Kultury Kadr, sala Broadway",
+      "district": "Mokotów",
+      "address": "ok. 45 min Dom Kultury Kadr, sala Broadway",
+      "normalized": "ok. 45 min dom kultury kadr",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.521918+00:00"
+    },
+    "gminny ośrodek kultury nieporęt": {
+      "name": "Gminny Ośrodek Kultury Nieporęt, ul. Dworcowa 9A, Nieporęt",
+      "district": "okolice Warszawy",
+      "address": "Gminny Ośrodek Kultury Nieporęt, ul. Dworcowa 9A, Nieporęt",
+      "normalized": "gminny ośrodek kultury nieporęt",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.522646+00:00"
+    },
+    "g city promenada": {
+      "name": "G City Promenada, ul. Ostrobramska 75c",
+      "district": "Praga-Południe",
+      "address": "G City Promenada, ul. Ostrobramska 75c",
+      "normalized": "g city promenada",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.522948+00:00"
+    },
+    "sala koncertowa krzysztofa klenczona w wieliszewie": {
+      "name": "Sala Koncertowa Krzysztofa Klenczona w Wieliszewie, ul. Krzysztofa Kamila Baczyńskiego 1, Wieliszew",
+      "district": "okolice Warszawy",
+      "address": "Sala Koncertowa Krzysztofa Klenczona w Wieliszewie, ul. Krzysztofa Kamila Baczyńskiego 1, Wieliszew",
+      "normalized": "sala koncertowa krzysztofa klenczona w wieliszewie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.523209+00:00"
+    },
+    "dzielnicowy ośrodek kultury ursynów": {
+      "name": "Dzielnicowy Ośrodek Kultury Ursynów, ul. Kajakowa 12B",
+      "district": "Ursynów",
+      "address": "Dzielnicowy Ośrodek Kultury Ursynów, ul. Kajakowa 12B",
+      "normalized": "dzielnicowy ośrodek kultury ursynów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.523509+00:00"
+    },
+    "ul. krakowskie przedmieście 26_28": {
+      "name": "ul. Krakowskie Przedmieście 26/28",
+      "district": "Śródmieście",
+      "address": "ul. Krakowskie Przedmieście 26/28",
+      "normalized": "ul. krakowskie przedmieście 26_28",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.523780+00:00"
+    },
+    "zodiak": {
+      "name": "ZODIAK, Pasaż S. Wiecha Wiecheckiego 4",
+      "district": "Śródmieście",
+      "address": "ZODIAK, Pasaż S. Wiecha Wiecheckiego 4",
+      "normalized": "zodiak",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.524048+00:00"
+    },
+    "al. ujazdowskie 20_20": {
+      "name": "Al. Ujazdowskie 20/20, 00-478 Warszawa, Poland",
+      "district": "Śródmieście",
+      "address": "Al. Ujazdowskie 20/20, 00-478 Warszawa, Poland",
+      "normalized": "al. ujazdowskie 20_20",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.524393+00:00"
+    },
+    "wolska 45_45": {
+      "name": "Wolska 45/45, 00-001 Warszawa, Poland",
+      "district": "Wola",
+      "address": "Wolska 45/45, 00-001 Warszawa, Poland",
+      "normalized": "wolska 45_45",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.524658+00:00"
+    },
+    "koncertowa 4": {
+      "name": "Koncertowa 4, 02-787 Warszawa, Poland",
+      "district": "Ursynów",
+      "address": "Koncertowa 4, 02-787 Warszawa, Poland",
+      "normalized": "koncertowa 4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-28T13:48:21.524976+00:00"
     }
   }
 }

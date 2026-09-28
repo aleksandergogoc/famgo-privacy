@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T16:22:26.373158+00:00",
+  "updated_at": "2026-09-28T13:59:38.712517+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1476,6 +1476,33 @@
       "normalized": "sztuk użytkowych",
       "updated_at": "2026-09-27T16:22:26.296637+00:00",
       "created_at": "2026-09-27T16:22:26.296637+00:00"
+    },
+    "literackie henryka sienkiewicza": {
+      "name": "Muzeum Literackie Henryka Sienkiewicza, 84, Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "district": "Stare Miasto",
+      "address": "Muzeum Literackie Henryka Sienkiewicza, 84, Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "normalized": "literackie henryka sienkiewicza",
+      "lat": 52.4088834,
+      "lng": 16.9327177,
+      "updated_at": "2026-09-28T13:57:05.259364+00:00"
+    },
+    "salon muzyczny - muzeum feliksa nowowiejskiego": {
+      "name": "Salon Muzyczny-Muzeum Feliksa Nowowiejskiego, 11, Aleja Wielkopolska, Sołacz, Poznań, województwo wielkopolskie, 60-603, Polska",
+      "district": "Stare Miasto",
+      "address": "Salon Muzyczny-Muzeum Feliksa Nowowiejskiego, 11, Aleja Wielkopolska, Sołacz, Poznań, województwo wielkopolskie, 60-603, Polska",
+      "normalized": "salon muzyczny - muzeum feliksa nowowiejskiego",
+      "lat": 52.4165116,
+      "lng": 16.9174411,
+      "updated_at": "2026-09-28T13:57:10.976557+00:00"
+    },
+    "wielki im...": {
+      "name": "Teatr Wielki, 9, Aleksandra Fredry, Stare Miasto, Poznań, województwo wielkopolskie, 61-701, Polska",
+      "district": "Stare Miasto",
+      "address": "Teatr Wielki, 9, Aleksandra Fredry, Stare Miasto, Poznań, województwo wielkopolskie, 61-701, Polska",
+      "normalized": "wielki im...",
+      "lat": 52.4102403,
+      "lng": 16.9176985,
+      "updated_at": "2026-09-28T13:57:12.375322+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T13:59:42.183031+00:00",
+  "updated_at": "2026-09-29T12:48:06.592519+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -7773,6 +7773,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-28T13:48:21.524976+00:00"
+    },
+    "kino wisła plac thomasa woodrowa wilsona 2": {
+      "name": "Plac Thomasa Woodrowa Wilsona 2, Warszawa",
+      "district": "Śródmieście",
+      "address": "Plac Thomasa Woodrowa Wilsona 2, Warszawa",
+      "normalized": "kino wisła plac thomasa woodrowa wilsona 2",
+      "lat": 52.214,
+      "lng": 21.034,
+      "updated_at": "2026-09-29T12:38:24.422716+00:00"
+    },
+    "fundacja bogata chata · ul. kossakowskiego 26_28": {
+      "name": "Fundacja Bogata Chata · ul. Kossakowskiego 26/28",
+      "district": "Wawer",
+      "address": "Fundacja Bogata Chata · ul. Kossakowskiego 26/28",
+      "normalized": "fundacja bogata chata · ul. kossakowskiego 26_28",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-29T12:38:24.423661+00:00"
+    },
+    "fablab powered by orange": {
+      "name": "FabLab powered by Orange, ul. Targowa 56",
+      "district": "Praga-Północ",
+      "address": "FabLab powered by Orange, ul. Targowa 56",
+      "normalized": "fablab powered by orange",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-29T12:38:24.424208+00:00"
+    },
+    "ul. królewicza jakuba 57": {
+      "name": "ul. Królewicza Jakuba 57",
+      "district": "Wilanów",
+      "address": "ul. Królewicza Jakuba 57",
+      "normalized": "ul. królewicza jakuba 57",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-29T12:38:24.424566+00:00"
+    },
+    "świetlica": {
+      "name": "Świetlica, ul. Orla 51, Szczęsne",
+      "district": "okolice Warszawy",
+      "address": "Świetlica, ul. Orla 51, Szczęsne",
+      "normalized": "świetlica",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-29T12:38:24.424876+00:00"
     }
   }
 }

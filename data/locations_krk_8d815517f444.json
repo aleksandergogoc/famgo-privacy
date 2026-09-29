@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T13:59:43.865497+00:00",
+  "updated_at": "2026-09-29T12:48:07.695975+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4612,6 +4612,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-28T13:27:00.572779+00:00"
+    },
+    "mała hala tauron areny kraków": {
+      "name": "Stanisława Lema 7, 31-571 Kraków",
+      "district": "Stare Miasto",
+      "address": "Stanisława Lema 7, 31-571 Kraków",
+      "normalized": "mała hala tauron areny kraków",
+      "lat": 50.0647,
+      "lng": 19.945,
+      "updated_at": "2026-09-29T12:19:18.328308+00:00"
     }
   }
 }

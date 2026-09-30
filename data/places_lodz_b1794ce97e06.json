@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T13:28:05.797151+00:00",
+  "updated_at": "2026-09-30T13:29:55.802488+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -167749,6 +167749,39 @@
       "osm_tags": {},
       "updated_at": "2026-09-30T13:28:05.708843+00:00",
       "created_at": "2026-09-30T13:28:05.708843+00:00"
+    },
+    "manual_9bd6e06bf017": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Tubajka",
+        "en": "Tubajka",
+        "uk": "Tubajka"
+      },
+      "name": "Tubajka",
+      "address": "Plac Zwycięstwa 3, 90-312 Łódź",
+      "lat": 51.759524765443295,
+      "lng": 19.47858273983002,
+      "geo_uri": "geo:51.759524765443295,19.47858273983002",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.47858273983002,
+          51.759524765443295
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "423073187",
+      "website": "http://tubajka.com/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-09-30T13:29:55.720711+00:00",
+      "created_at": "2026-09-30T13:29:55.720711+00:00"
     }
   }
 }

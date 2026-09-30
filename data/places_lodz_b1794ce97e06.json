@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T13:29:55.802488+00:00",
+  "updated_at": "2026-09-30T13:31:41.788511+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -167782,6 +167782,39 @@
       "osm_tags": {},
       "updated_at": "2026-09-30T13:29:55.720711+00:00",
       "created_at": "2026-09-30T13:29:55.720711+00:00"
+    },
+    "manual_dc9b9e25af6e": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Tawerna Pepe Verde",
+        "en": "Tawerna Pepe Verde",
+        "uk": "Tawerna Pepe Verde"
+      },
+      "name": "Tawerna Pepe Verde",
+      "address": "Ogrodowa 19A, 91-065 Łódź",
+      "lat": 51.77959862956311,
+      "lng": 19.448520541191105,
+      "geo_uri": "geo:51.77959862956311,19.448520541191105",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.448520541191105,
+          51.77959862956311
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "426308822",
+      "website": "http://tawerna.com.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-09-30T13:31:41.688417+00:00",
+      "created_at": "2026-09-30T13:31:41.688417+00:00"
     }
   }
 }

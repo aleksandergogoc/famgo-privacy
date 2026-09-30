@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T13:59:38.712517+00:00",
+  "updated_at": "2026-09-30T12:54:58.720193+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1503,6 +1503,33 @@
       "lat": 52.4102403,
       "lng": 16.9176985,
       "updated_at": "2026-09-28T13:57:12.375322+00:00"
+    },
+    "dom kultury azk ul. chociebora 15": {
+      "name": "Dom Kultury AZK ul. Chociebora 15, 61-057 Poznań",
+      "district": "Stare Miasto",
+      "address": "Dom Kultury AZK ul. Chociebora 15, 61-057 Poznań",
+      "normalized": "dom kultury azk ul. chociebora 15",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-30T12:51:22.926451+00:00"
+    },
+    "polski": {
+      "name": "Teatr Polski, 8/10, 27 Grudnia, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-737, Polska",
+      "district": "Stare Miasto",
+      "address": "Teatr Polski, 8/10, 27 Grudnia, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-737, Polska",
+      "normalized": "polski",
+      "lat": 52.4086071,
+      "lng": 16.9237203,
+      "updated_at": "2026-09-30T12:51:25.433112+00:00"
+    },
+    "centrum języków obcych kontakt (poznań)": {
+      "name": "Centrum Języków Obcych \"Kontakt\", Plac Bernardyński, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-844, Polska",
+      "district": "Stare Miasto",
+      "address": "Centrum Języków Obcych \"Kontakt\", Plac Bernardyński, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-844, Polska",
+      "normalized": "centrum języków obcych kontakt (poznań)",
+      "lat": 52.404223,
+      "lng": 16.936225,
+      "updated_at": "2026-09-30T12:52:27.306452+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T13:22:29.400438+00:00",
+  "updated_at": "2026-09-30T13:24:56.817058+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -167650,6 +167650,39 @@
       },
       "updated_at": "2026-09-15T13:22:29.272917+00:00",
       "created_at": "2026-09-15T13:22:29.272917+00:00"
+    },
+    "manual_372ed0f46a78": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja Dwa Światy",
+        "en": "Restauracja Dwa Światy",
+        "uk": "Restauracja Dwa Światy"
+      },
+      "name": "Restauracja Dwa Światy",
+      "address": "Zgierska 69, 91-463 Łódź",
+      "lat": 51.79153514084404,
+      "lng": 19.44954514503479,
+      "geo_uri": "geo:51.79153514084404,19.44954514503479",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.44954514503479,
+          51.79153514084404
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "504041504",
+      "website": "http://www.dwaswiaty-lodz.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-09-30T13:24:56.682853+00:00",
+      "created_at": "2026-09-30T13:24:56.682853+00:00"
     }
   }
 }

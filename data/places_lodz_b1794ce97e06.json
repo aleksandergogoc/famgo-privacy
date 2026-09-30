@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T13:25:41.223530+00:00",
+  "updated_at": "2026-09-30T13:28:05.797151+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -167716,6 +167716,39 @@
       "osm_tags": {},
       "updated_at": "2026-09-30T13:25:41.115654+00:00",
       "created_at": "2026-09-30T13:25:41.115654+00:00"
+    },
+    "manual_e3e9ca4c30fa": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Ukryte Rzeki",
+        "en": "Ukryte Rzeki",
+        "uk": "Ukryte Rzeki"
+      },
+      "name": "Ukryte Rzeki",
+      "address": "Piotrkowska 295A, 93-004 Łódź",
+      "lat": 51.74438462287425,
+      "lng": 19.460791647434235,
+      "geo_uri": "geo:51.74438462287425,19.460791647434235",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.460791647434235,
+          51.74438462287425
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "459596066",
+      "website": "https://ukryterzeki.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-09-30T13:28:05.708843+00:00",
+      "created_at": "2026-09-30T13:28:05.708843+00:00"
     }
   }
 }

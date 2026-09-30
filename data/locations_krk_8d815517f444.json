@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:48:07.695975+00:00",
+  "updated_at": "2026-09-30T12:55:03.535340+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4621,6 +4621,42 @@
       "lat": 50.0647,
       "lng": 19.945,
       "updated_at": "2026-09-29T12:19:18.328308+00:00"
+    },
+    "ul. fatimska 21a": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "ul. fatimska 21a",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-09-30T12:04:34.910614+00:00"
+    },
+    "filia nr 21": {
+      "name": "Filia nr 21, ul. Królewska 59, Kraków",
+      "district": "Stare Miasto",
+      "address": "Filia nr 21, ul. Królewska 59, Kraków",
+      "normalized": "filia nr 21",
+      "lat": 50.064,
+      "lng": 19.937,
+      "updated_at": "2026-09-30T12:05:10.263056+00:00"
+    },
+    "centrum kultury podgórza – ośrodek ruczaj w krakowie": {
+      "name": "Centrum Kultury Podgórza – Ośrodek Ruczaj w Krakowie",
+      "district": "Dębniki",
+      "address": "Centrum Kultury Podgórza – Ośrodek Ruczaj w Krakowie",
+      "normalized": "centrum kultury podgórza – ośrodek ruczaj w krakowie",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-09-30T12:19:44.149073+00:00"
+    },
+    "ul. dajwór": {
+      "name": "K+R BUS ulica Dajwór, Dajwór, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-037, Polska",
+      "district": "Stare Miasto",
+      "address": "K+R BUS ulica Dajwór, Dajwór, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-037, Polska",
+      "normalized": "ul. dajwór",
+      "lat": 50.0531874,
+      "lng": 19.9485958,
+      "updated_at": "2026-09-30T12:19:54.682738+00:00"
     }
   }
 }

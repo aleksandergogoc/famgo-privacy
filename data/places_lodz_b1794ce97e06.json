@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T13:31:41.788511+00:00",
+  "updated_at": "2026-09-30T13:36:41.730720+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -167815,6 +167815,39 @@
       "osm_tags": {},
       "updated_at": "2026-09-30T13:31:41.688417+00:00",
       "created_at": "2026-09-30T13:31:41.688417+00:00"
+    },
+    "manual_48bfc30eacb0": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Galicja",
+        "en": "Galicja",
+        "uk": "Galicja"
+      },
+      "name": "Galicja",
+      "address": "Ogrodowa 19A, 91-065 Łódź",
+      "lat": 51.77928499223294,
+      "lng": 19.449824094772342,
+      "geo_uri": "geo:51.77928499223294,19.449824094772342",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.449824094772342,
+          51.77928499223294
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "426308855",
+      "website": "http://www.galicjamanufaktura.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-09-30T13:36:41.644153+00:00",
+      "created_at": "2026-09-30T13:36:41.644153+00:00"
     }
   }
 }

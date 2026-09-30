@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T12:48:06.592519+00:00",
+  "updated_at": "2026-09-30T12:55:01.932075+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -7818,6 +7818,222 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-29T12:38:24.424876+00:00"
+    },
+    "centrum łowicka - dom kultury w dzielnicy mokotów m. st. warszawy (warszawa-górny mokotów)": {
+      "name": "Centrum Łowicka, Warszawa",
+      "district": "Mokotów",
+      "address": "Centrum Łowicka, Warszawa",
+      "normalized": "centrum łowicka - dom kultury w dzielnicy mokotów m. st. warszawy (warszawa-górny mokotów)",
+      "lat": 52.2044,
+      "lng": 21.0285,
+      "updated_at": "2026-09-30T12:35:31.522345+00:00"
+    },
+    "biblioteka publiczna rembertów": {
+      "name": "Biblioteka Publiczna Rembertów, I piętro · ul. Gawędziarzy 8",
+      "district": "Rembertów",
+      "address": "Biblioteka Publiczna Rembertów, I piętro · ul. Gawędziarzy 8",
+      "normalized": "biblioteka publiczna rembertów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.523933+00:00"
+    },
+    "50 min ambasada muzyki tradycyjnej": {
+      "name": "50 min Ambasada Muzyki Tradycyjnej, Wolny Jazdów, domek nr 3/20 · ul. Jazdów 3/20",
+      "district": "Śródmieście",
+      "address": "50 min Ambasada Muzyki Tradycyjnej, Wolny Jazdów, domek nr 3/20 · ul. Jazdów 3/20",
+      "normalized": "50 min ambasada muzyki tradycyjnej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.524221+00:00"
+    },
+    "biblioteka dla dzieci i młodzieży nr 2 · ul. meissnera 5": {
+      "name": "Biblioteka dla Dzieci i Młodzieży nr 2 · ul. Meissnera 5",
+      "district": "Praga-Południe",
+      "address": "Biblioteka dla Dzieci i Młodzieży nr 2 · ul. Meissnera 5",
+      "normalized": "biblioteka dla dzieci i młodzieży nr 2 · ul. meissnera 5",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.524499+00:00"
+    },
+    "park im. romana kozłowskiego (kopa cwila)": {
+      "name": "Park im. Romana Kozłowskiego (Kopa Cwila)",
+      "district": "Ursynów",
+      "address": "Park im. Romana Kozłowskiego (Kopa Cwila)",
+      "normalized": "park im. romana kozłowskiego (kopa cwila)",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.524891+00:00"
+    },
+    "60 min terminal kultury gocław": {
+      "name": "60 min Terminal Kultury Gocław, sala 207 (II piętro) · ul. Jana Nowaka-Jeziorańskiego 24",
+      "district": "Praga-Południe",
+      "address": "60 min Terminal Kultury Gocław, sala 207 (II piętro) · ul. Jana Nowaka-Jeziorańskiego 24",
+      "normalized": "60 min terminal kultury gocław",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.525148+00:00"
+    },
+    "mal bona fide · ul. szklanych domów 13": {
+      "name": "MAL Bona Fide · ul. Szklanych Domów 13",
+      "district": "Praga-Południe",
+      "address": "MAL Bona Fide · ul. Szklanych Domów 13",
+      "normalized": "mal bona fide · ul. szklanych domów 13",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.525484+00:00"
+    },
+    "65 min teatr lalek guliwer": {
+      "name": "65 min Teatr Lalek Guliwer, Scena Duża · ul. Różana 16",
+      "district": "Mokotów",
+      "address": "65 min Teatr Lalek Guliwer, Scena Duża · ul. Różana 16",
+      "normalized": "65 min teatr lalek guliwer",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.525818+00:00"
+    },
+    "szkoła podstawowa nr 127": {
+      "name": "Szkoła Podstawowa nr 127, hala sportowa · ul. Kowieńska 12/20",
+      "district": "Praga-Północ",
+      "address": "Szkoła Podstawowa nr 127, hala sportowa · ul. Kowieńska 12/20",
+      "normalized": "szkoła podstawowa nr 127",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.526102+00:00"
+    },
+    "mal spotykalnia w bibliotece sąsiedzkiej galerii bemowo · ul. powstańców śląskich 126": {
+      "name": "MAL Spotykalnia w Bibliotece Sąsiedzkiej Galerii Bemowo · ul. Powstańców Śląskich 126",
+      "district": "Bemowo",
+      "address": "MAL Spotykalnia w Bibliotece Sąsiedzkiej Galerii Bemowo · ul. Powstańców Śląskich 126",
+      "normalized": "mal spotykalnia w bibliotece sąsiedzkiej galerii bemowo · ul. powstańców śląskich 126",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.526759+00:00"
+    },
+    "50 min teatr lalek guliwer": {
+      "name": "50 min Teatr Lalek Guliwer, Scena Liliput · ul. Różana 16",
+      "district": "Mokotów",
+      "address": "50 min Teatr Lalek Guliwer, Scena Liliput · ul. Różana 16",
+      "normalized": "50 min teatr lalek guliwer",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.527042+00:00"
+    },
+    "las sobieskiego": {
+      "name": "Las Sobieskiego",
+      "district": "Wesoła",
+      "address": "Las Sobieskiego",
+      "normalized": "las sobieskiego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.527392+00:00"
+    },
+    "biblioteka publiczna w ursusie – filia „gołąbki” · ul. czerwona droga 6": {
+      "name": "Biblioteka Publiczna w Ursusie – Filia „Gołąbki” · ul. Czerwona Droga 6",
+      "district": "Ursus",
+      "address": "Biblioteka Publiczna w Ursusie – Filia „Gołąbki” · ul. Czerwona Droga 6",
+      "normalized": "biblioteka publiczna w ursusie – filia „gołąbki” · ul. czerwona droga 6",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.527920+00:00"
+    },
+    "ferio wawer · ul. szpotańskiego 4": {
+      "name": "Galeria Ferio Wawer · ul. Szpotańskiego 4",
+      "district": "Wawer",
+      "address": "Galeria Ferio Wawer · ul. Szpotańskiego 4",
+      "normalized": "ferio wawer · ul. szpotańskiego 4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.528325+00:00"
+    },
+    "60 min teatr lalek guliwer": {
+      "name": "60 min Teatr Lalek Guliwer, Scena Liliput · ul. Różana 16",
+      "district": "Mokotów",
+      "address": "60 min Teatr Lalek Guliwer, Scena Liliput · ul. Różana 16",
+      "normalized": "60 min teatr lalek guliwer",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.528610+00:00"
+    },
+    "60 min centrum promocji kultury praga-południe · ul. podskarbińska 2": {
+      "name": "60 min Centrum Promocji Kultury Praga-Południe · ul. Podskarbińska 2",
+      "district": "Praga-Południe",
+      "address": "60 min Centrum Promocji Kultury Praga-Południe · ul. Podskarbińska 2",
+      "normalized": "60 min centrum promocji kultury praga-południe · ul. podskarbińska 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.528975+00:00"
+    },
+    "55 min teatr lalek guliwer": {
+      "name": "55 min Teatr Lalek Guliwer, Scena Liliput · ul. Różana 16",
+      "district": "Mokotów",
+      "address": "55 min Teatr Lalek Guliwer, Scena Liliput · ul. Różana 16",
+      "normalized": "55 min teatr lalek guliwer",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.529512+00:00"
+    },
+    "90 min z przerwą teatr lalek guliwer": {
+      "name": "90 min z przerwą Teatr Lalek Guliwer, Scena Duża · ul. Różana 16",
+      "district": "Mokotów",
+      "address": "90 min z przerwą Teatr Lalek Guliwer, Scena Duża · ul. Różana 16",
+      "normalized": "90 min z przerwą teatr lalek guliwer",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.529987+00:00"
+    },
+    "50 min centrum kultury wilanów": {
+      "name": "50 min Centrum Kultury Wilanów, Filia w Alto Wilanów · al. Rzeczypospolitej 14",
+      "district": "Wilanów",
+      "address": "50 min Centrum Kultury Wilanów, Filia w Alto Wilanów · al. Rzeczypospolitej 14",
+      "normalized": "50 min centrum kultury wilanów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.530237+00:00"
+    },
+    "urząd dzielnicy targówek": {
+      "name": "Urząd Dzielnicy Targówek, ul. Kondratowicza 20",
+      "district": "Targówek",
+      "address": "Urząd Dzielnicy Targówek, ul. Kondratowicza 20",
+      "normalized": "urząd dzielnicy targówek",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.530900+00:00"
+    },
+    "warszawskie obserwatorium kultury": {
+      "name": "Warszawskie Obserwatorium Kultury",
+      "district": "Śródmieście",
+      "address": "Warszawskie Obserwatorium Kultury",
+      "normalized": "warszawskie obserwatorium kultury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.531192+00:00"
+    },
+    "mal grójecka 109": {
+      "name": "MAL Grójecka 109",
+      "district": "Ochota",
+      "address": "MAL Grójecka 109",
+      "normalized": "mal grójecka 109",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.531444+00:00"
+    },
+    "biblioteka publiczna dla dzieci i młodzieży nr 4": {
+      "name": "Biblioteka Publiczna dla Dzieci i Młodzieży nr 4, ul. Antalla 5",
+      "district": "Białołęka",
+      "address": "Biblioteka Publiczna dla Dzieci i Młodzieży nr 4, ul. Antalla 5",
+      "normalized": "biblioteka publiczna dla dzieci i młodzieży nr 4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.531803+00:00"
+    },
+    "ignacego prądzyńskiego 12_14": {
+      "name": "Ignacego Prądzyńskiego 12/14, 01-222 Warszawa, Poland",
+      "district": "Wola",
+      "address": "Ignacego Prądzyńskiego 12/14, 01-222 Warszawa, Poland",
+      "normalized": "ignacego prądzyńskiego 12_14",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-09-30T12:35:31.532183+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:55:03.535340+00:00",
+  "updated_at": "2026-10-01T13:19:37.457326+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4657,6 +4657,42 @@
       "lat": 50.0531874,
       "lng": 19.9485958,
       "updated_at": "2026-09-30T12:19:54.682738+00:00"
+    },
+    "synerise arena kraków": {
+      "name": "Synerise Arena Kraków, C1,C2,C3,C4,C5, Czarna Wieś, Krowodrza, Kraków, województwo małopolskie, 30-055, Polska",
+      "district": "Krowodrza",
+      "address": "Synerise Arena Kraków, C1,C2,C3,C4,C5, Czarna Wieś, Krowodrza, Kraków, województwo małopolskie, 30-055, Polska",
+      "normalized": "synerise arena kraków",
+      "lat": 50.0635558,
+      "lng": 19.9116239,
+      "updated_at": "2026-10-01T12:37:23.697695+00:00"
+    },
+    "pętla tramwajowa przy cmentarzu rakowickim": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "pętla tramwajowa przy cmentarzu rakowickim",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-10-01T12:37:30.651542+00:00"
+    },
+    "rondo mogilskie": {
+      "name": "Rondo Mogilskie, Wesoła, Grzegórzki, Kraków, województwo małopolskie, 31-525, Polska",
+      "district": "Grzegórzki",
+      "address": "Rondo Mogilskie, Wesoła, Grzegórzki, Kraków, województwo małopolskie, 31-525, Polska",
+      "normalized": "rondo mogilskie",
+      "lat": 50.0660502,
+      "lng": 19.958359,
+      "updated_at": "2026-10-01T12:37:55.252817+00:00"
+    },
+    "stara zajezdnia": {
+      "name": "Stara Zajezdnia, Kraków",
+      "district": "Stare Miasto",
+      "address": "Stara Zajezdnia, Kraków",
+      "normalized": "stara zajezdnia",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-01T12:37:59.340074+00:00"
     }
   }
 }

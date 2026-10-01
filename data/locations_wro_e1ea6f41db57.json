@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:55:00.251568+00:00",
+  "updated_at": "2026-10-01T13:19:34.506333+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2032,6 +2032,33 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-09-30T12:38:50.014397+00:00"
+    },
+    "wiejska 2_4 wrocław": {
+      "name": "2-4, Wiejska, Oporów, Wrocław, województwo dolnośląskie, 52-411, Polska",
+      "district": "Fabryczna",
+      "address": "2-4, Wiejska, Oporów, Wrocław, województwo dolnośląskie, 52-411, Polska",
+      "normalized": "wiejska 2_4 wrocław",
+      "lat": 51.0772367,
+      "lng": 16.9626642,
+      "updated_at": "2026-10-01T12:57:24.875650+00:00"
+    },
+    "miserart – strefa kultury w labiryncie wykluczenia cybulskiego 35a": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "miserart – strefa kultury w labiryncie wykluczenia cybulskiego 35a",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-10-01T12:57:29.787845+00:00"
+    },
+    "filia nr 23 mbp": {
+      "name": "Filia nr 23 MBP, Bulwar Ikara 29-31",
+      "district": "Fabryczna",
+      "address": "Filia nr 23 MBP, Bulwar Ikara 29-31",
+      "normalized": "filia nr 23 mbp",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-01T12:59:01.284882+00:00"
     }
   }
 }

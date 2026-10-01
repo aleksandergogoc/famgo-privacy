@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:55:01.932075+00:00",
+  "updated_at": "2026-10-01T13:19:35.844726+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -8034,6 +8034,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-09-30T12:35:31.532183+00:00"
+    },
+    "scena relax": {
+      "name": "Scena Relax, 8, Złota, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-019, Polska",
+      "district": "Śródmieście",
+      "address": "Scena Relax, 8, Złota, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-019, Polska",
+      "normalized": "scena relax",
+      "lat": 52.2331304,
+      "lng": 21.0110264,
+      "updated_at": "2026-10-01T12:56:58.749673+00:00"
+    },
+    "dom sztuki smb jary w warszawie (warszawa-wyczółki)": {
+      "name": "Plac Defilad 1, Warszawa",
+      "district": "Śródmieście",
+      "address": "Plac Defilad 1, Warszawa",
+      "normalized": "dom sztuki smb jary w warszawie (warszawa-wyczółki)",
+      "lat": 52.232,
+      "lng": 21.006,
+      "updated_at": "2026-10-01T12:57:02.465624+00:00"
+    },
+    "biblioteka dla dzieci i młodzieży nr xv · ul. broniewskiego 9a": {
+      "name": "Biblioteka dla Dzieci i Młodzieży nr XV · ul. Broniewskiego 9A",
+      "district": "Bielany",
+      "address": "Biblioteka dla Dzieci i Młodzieży nr XV · ul. Broniewskiego 9A",
+      "normalized": "biblioteka dla dzieci i młodzieży nr xv · ul. broniewskiego 9a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-01T12:57:02.466583+00:00"
+    },
+    "flowpark": {
+      "name": "FlowPark, Przy Bażantarni 3",
+      "district": "Ursynów",
+      "address": "FlowPark, Przy Bażantarni 3",
+      "normalized": "flowpark",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-01T12:57:02.466930+00:00"
+    },
+    "clix liceum ogólnokształcące im. króla jana iii sobieskiego w warszawie": {
+      "name": "CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego w Warszawie, ul. Solipska 17/19",
+      "district": "Włochy",
+      "address": "CLIX Liceum Ogólnokształcące im. Króla Jana III Sobieskiego w Warszawie, ul. Solipska 17/19",
+      "normalized": "clix liceum ogólnokształcące im. króla jana iii sobieskiego w warszawie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-01T12:57:02.467202+00:00"
     }
   }
 }

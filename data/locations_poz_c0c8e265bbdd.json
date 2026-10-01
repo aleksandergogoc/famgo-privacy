@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T12:54:58.720193+00:00",
+  "updated_at": "2026-10-01T13:19:31.150965+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1530,6 +1530,24 @@
       "lat": 52.404223,
       "lng": 16.936225,
       "updated_at": "2026-09-30T12:52:27.306452+00:00"
+    },
+    "blue note poznań": {
+      "name": "Blue Note, 80/82, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-809, Polska",
+      "district": "Stare Miasto",
+      "address": "Blue Note, 80/82, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-809, Polska",
+      "normalized": "blue note poznań",
+      "lat": 52.4081069,
+      "lng": 16.9193975,
+      "updated_at": "2026-10-01T13:15:09.931299+00:00"
+    },
+    "cech rzemiosł różnych w poznaniu": {
+      "name": "2, Aleja Niepodległości, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "district": "Stare Miasto",
+      "address": "2, Aleja Niepodległości, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "normalized": "cech rzemiosł różnych w poznaniu",
+      "lat": 52.4025367,
+      "lng": 16.9219416,
+      "updated_at": "2026-10-01T13:15:19.633600+00:00"
     }
   }
 }

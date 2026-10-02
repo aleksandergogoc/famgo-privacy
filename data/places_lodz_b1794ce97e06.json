@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:44:17.740753+00:00",
+  "updated_at": "2026-10-02T13:45:29.169570+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168046,6 +168046,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-02T13:44:17.654801+00:00",
       "created_at": "2026-10-02T13:44:17.654801+00:00"
+    },
+    "manual_07e4cd2517bd": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Kraina Gagatka",
+        "en": "Kraina Gagatka",
+        "uk": "Kraina Gagatka"
+      },
+      "name": "Kraina Gagatka",
+      "address": "Inflancka 65, 91-848 Łódź",
+      "lat": 51.7999969669478,
+      "lng": 19.472126662731174,
+      "geo_uri": "geo:51.7999969669478,19.472126662731174",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.472126662731174,
+          51.7999969669478
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "517681598",
+      "website": "http://www.krainagagatka.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-02T13:45:29.044069+00:00",
+      "created_at": "2026-10-02T13:45:29.044069+00:00"
     }
   }
 }

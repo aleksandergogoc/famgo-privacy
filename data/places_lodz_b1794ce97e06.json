@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T13:36:41.730720+00:00",
+  "updated_at": "2026-10-02T13:34:28.314659+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -167848,6 +167848,39 @@
       "osm_tags": {},
       "updated_at": "2026-09-30T13:36:41.644153+00:00",
       "created_at": "2026-09-30T13:36:41.644153+00:00"
+    },
+    "manual_ba876754102f": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "FIKU MIKU Sala zabaw dla dzieci",
+        "en": "FIKU MIKU Children's playroom",
+        "uk": "FIKU MIKU Дитяча ігрова кімната"
+      },
+      "name": "FIKU MIKU Sala zabaw dla dzieci",
+      "address": "Świtezianki 16, 91-496 Łódź",
+      "lat": 51.82391074479176,
+      "lng": 19.43518459796906,
+      "geo_uri": "geo:51.82391074479176,19.43518459796906",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.43518459796906,
+          51.82391074479176
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "510853500",
+      "website": null,
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-02T13:34:28.204458+00:00",
+      "created_at": "2026-10-02T13:34:28.204458+00:00"
     }
   }
 }

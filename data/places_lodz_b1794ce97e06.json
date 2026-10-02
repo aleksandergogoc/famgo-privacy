@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:39:02.465218+00:00",
+  "updated_at": "2026-10-02T13:40:59.687469+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -167947,6 +167947,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-02T13:39:02.360304+00:00",
       "created_at": "2026-10-02T13:39:02.360304+00:00"
+    },
+    "manual_4a3486f115d9": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Sala Zabaw \"Orientkowo\"",
+        "en": "Sala Zabaw \"Orientkowo\"",
+        "uk": "Sala Zabaw \"Orientkowo\""
+      },
+      "name": "Sala Zabaw \"Orientkowo\"",
+      "address": "Konstantynowska 8/10, 94-303 Łódź",
+      "lat": 51.763427701527284,
+      "lng": 19.412600398063663,
+      "geo_uri": "geo:51.763427701527284,19.412600398063663",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.412600398063663,
+          51.763427701527284
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "512427330",
+      "website": "https://orientarium.lodz.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-02T13:40:59.570214+00:00",
+      "created_at": "2026-10-02T13:40:59.570214+00:00"
     }
   }
 }

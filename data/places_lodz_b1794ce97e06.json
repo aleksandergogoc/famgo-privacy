@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:42:50.689207+00:00",
+  "updated_at": "2026-10-02T13:44:17.740753+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168013,6 +168013,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-02T13:42:50.583575+00:00",
       "created_at": "2026-10-02T13:42:50.583575+00:00"
+    },
+    "manual_883d8fbe017a": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Zatoka Zabawy",
+        "en": "Zatoka Zabawy",
+        "uk": "Zatoka Zabawy"
+      },
+      "name": "Zatoka Zabawy",
+      "address": "Stalowa 59/61, 91-859 Łódź",
+      "lat": 51.805835215324294,
+      "lng": 19.472319781780243,
+      "geo_uri": "geo:51.805835215324294,19.472319781780243",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.472319781780243,
+          51.805835215324294
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "786937648",
+      "website": "https://zatoka-zabawy.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-02T13:44:17.654801+00:00",
+      "created_at": "2026-10-02T13:44:17.654801+00:00"
     }
   }
 }

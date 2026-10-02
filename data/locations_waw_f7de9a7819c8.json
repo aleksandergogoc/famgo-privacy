@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:19:35.844726+00:00",
+  "updated_at": "2026-10-02T13:05:12.845075+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -8079,6 +8079,105 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-01T12:57:02.467202+00:00"
+    },
+    "archidiecezji warszawskiej": {
+      "name": "Ulica Dziekania 1, 00-279 Warszawa",
+      "district": "Śródmieście",
+      "address": "Ulica Dziekania 1, 00-279 Warszawa",
+      "normalized": "archidiecezji warszawskiej",
+      "lat": 52.238,
+      "lng": 21.015,
+      "updated_at": "2026-10-02T12:29:34.645415+00:00"
+    },
+    "dom towarowy braci jabłkowskich": {
+      "name": "ul. Bracka 25, 00-021 Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Bracka 25, 00-021 Warszawa",
+      "normalized": "dom towarowy braci jabłkowskich",
+      "lat": 52.232,
+      "lng": 21.012,
+      "updated_at": "2026-10-02T12:29:38.821529+00:00"
+    },
+    "maskarada": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "maskarada",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-10-02T12:29:49.287907+00:00"
+    },
+    "pomnik marszałka piłsudskiego": {
+      "name": "ul. Belwederska 52, Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Belwederska 52, Warszawa",
+      "normalized": "pomnik marszałka piłsudskiego",
+      "lat": 52.2194,
+      "lng": 21.023,
+      "updated_at": "2026-10-02T12:30:01.905673+00:00"
+    },
+    "komedia": {
+      "name": "Komedia, 19A, Juliusza Słowackiego, Żoliborz Centralny, Stary Żoliborz, Żoliborz, Warszawa, województwo mazowieckie, 01-592, Polska",
+      "district": "Żoliborz",
+      "address": "Komedia, 19A, Juliusza Słowackiego, Żoliborz Centralny, Stary Żoliborz, Żoliborz, Warszawa, województwo mazowieckie, 01-592, Polska",
+      "normalized": "komedia",
+      "lat": 52.2691494,
+      "lng": 20.9786154,
+      "updated_at": "2026-10-02T12:30:23.780978+00:00"
+    },
+    "ośrodek kultury i edukacji sm wola (warszawa-bemowo)": {
+      "name": "Ośrodek Kultury i Edukacji SM Wola (Warszawa-Bemowo)",
+      "district": "Bemowo",
+      "address": "Ośrodek Kultury i Edukacji SM Wola (Warszawa-Bemowo)",
+      "normalized": "ośrodek kultury i edukacji sm wola (warszawa-bemowo)",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-02T12:40:01.097976+00:00"
+    },
+    "sp 127": {
+      "name": "SP 127, ul. Kowieńska 12/20",
+      "district": "Praga-Północ",
+      "address": "SP 127, ul. Kowieńska 12/20",
+      "normalized": "sp 127",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-02T12:40:01.098281+00:00"
+    },
+    "mal dwa jelonki": {
+      "name": "MAL Dwa Jelonki, ul. Rozłogi 18",
+      "district": "Bemowo",
+      "address": "MAL Dwa Jelonki, ul. Rozłogi 18",
+      "normalized": "mal dwa jelonki",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-02T12:40:01.098615+00:00"
+    },
+    "centrum informacyjne muzeum powstania warszawskiego": {
+      "name": "Centrum Informacyjne Muzeum Powstania Warszawskiego",
+      "district": "Śródmieście",
+      "address": "Centrum Informacyjne Muzeum Powstania Warszawskiego",
+      "normalized": "centrum informacyjne muzeum powstania warszawskiego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-02T12:40:01.098888+00:00"
+    },
+    "scena kocjana": {
+      "name": "Scena Kocjana, ul. Kocjana 3",
+      "district": "Bemowo",
+      "address": "Scena Kocjana, ul. Kocjana 3",
+      "normalized": "scena kocjana",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-02T12:40:01.099136+00:00"
+    },
+    "biblioteka na woli": {
+      "name": "Biblioteka na Woli, Al. \"Solidarności\" 90",
+      "district": "Wola",
+      "address": "Biblioteka na Woli, Al. \"Solidarności\" 90",
+      "normalized": "biblioteka na woli",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-02T12:40:01.099349+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:19:37.457326+00:00",
+  "updated_at": "2026-10-02T13:05:14.351652+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4693,6 +4693,42 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-10-01T12:37:59.340074+00:00"
+    },
+    "banksy": {
+      "name": "Ul. Berka Joselewicza 21, 31-031 Kraków",
+      "district": "Stare Miasto",
+      "address": "Ul. Berka Joselewicza 21, 31-031 Kraków",
+      "normalized": "banksy",
+      "lat": 50.062,
+      "lng": 19.937,
+      "updated_at": "2026-10-02T12:11:24.017558+00:00"
+    },
+    "rusznikarska 14a lok. xiv": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "rusznikarska 14a lok. xiv",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-10-02T12:11:26.881102+00:00"
+    },
+    "pałac pod baranami - główna sala balowa": {
+      "name": "Piwnica Pod Baranami, 27, Rynek Główny, Stare Miasto, Kraków, województwo małopolskie, 31-008, Polska",
+      "district": "Stare Miasto",
+      "address": "Piwnica Pod Baranami, 27, Rynek Główny, Stare Miasto, Kraków, województwo małopolskie, 31-008, Polska",
+      "normalized": "pałac pod baranami - główna sala balowa",
+      "lat": 50.0616022,
+      "lng": 19.9353977,
+      "updated_at": "2026-10-02T12:11:31.408839+00:00"
+    },
+    "pawilon wyspiańskiego": {
+      "name": "Pawilon Wyspiańskiego, Kraków",
+      "district": "Stare Miasto",
+      "address": "Pawilon Wyspiańskiego, Kraków",
+      "normalized": "pawilon wyspiańskiego",
+      "lat": 50.0647,
+      "lng": 19.936,
+      "updated_at": "2026-10-02T12:27:27.730286+00:00"
     }
   }
 }

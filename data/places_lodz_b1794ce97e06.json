@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:34:28.314659+00:00",
+  "updated_at": "2026-10-02T13:35:16.741165+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -167881,6 +167881,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-02T13:34:28.204458+00:00",
       "created_at": "2026-10-02T13:34:28.204458+00:00"
+    },
+    "manual_e5bc0677befa": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Bawialnia Happy Panda",
+        "en": "Bawialnia Happy Panda",
+        "uk": "Bawialnia Happy Panda"
+      },
+      "name": "Bawialnia Happy Panda",
+      "address": "Świtezianki 16, 91-496 Łódź",
+      "lat": 51.823880904007716,
+      "lng": 19.43531066179276,
+      "geo_uri": "geo:51.823880904007716,19.43531066179276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.43531066179276,
+          51.823880904007716
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "503353149",
+      "website": "http://facebook.com/happypandabawialnia",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-02T13:35:16.624577+00:00",
+      "created_at": "2026-10-02T13:35:16.624577+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:19:31.150965+00:00",
+  "updated_at": "2026-10-02T13:05:08.513600+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1548,6 +1548,33 @@
       "lat": 52.4025367,
       "lng": 16.9219416,
       "updated_at": "2026-10-01T13:15:19.633600+00:00"
+    },
+    "młodzieżowy ośrodek sportowy": {
+      "name": "Młodzieżowy Ośrodek Sportowy, Wartostrada, Śródka, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-122, Polska",
+      "district": "Stare Miasto",
+      "address": "Młodzieżowy Ośrodek Sportowy, Wartostrada, Śródka, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-122, Polska",
+      "normalized": "młodzieżowy ośrodek sportowy",
+      "lat": 52.4128794,
+      "lng": 16.9535584,
+      "updated_at": "2026-10-02T13:01:35.166064+00:00"
+    },
+    "park cytadela": {
+      "name": "Park Cytadela, Poznań, województwo wielkopolskie, 61-663, Polska",
+      "district": "Stare Miasto",
+      "address": "Park Cytadela, Poznań, województwo wielkopolskie, 61-663, Polska",
+      "normalized": "park cytadela",
+      "lat": 52.4215502,
+      "lng": 16.9345022,
+      "updated_at": "2026-10-02T13:01:36.797768+00:00"
+    },
+    "stadion lecha poznań": {
+      "name": "ENEA Stadion, Rumuńska, Kasztelanów, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "district": "Grunwald",
+      "address": "ENEA Stadion, Rumuńska, Kasztelanów, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "normalized": "stadion lecha poznań",
+      "lat": 52.3976795,
+      "lng": 16.8581003,
+      "updated_at": "2026-10-02T13:01:45.160961+00:00"
     }
   }
 }

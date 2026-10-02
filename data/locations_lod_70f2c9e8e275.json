@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-01T13:19:33.197882+00:00",
+  "updated_at": "2026-10-02T13:05:10.009226+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -819,6 +819,24 @@
       "lat": 51.7571679,
       "lng": 19.4250895,
       "updated_at": "2026-10-01T13:05:09.894908+00:00"
+    },
+    "pinokio w łodzi (ul. sienkiewicza 75_77)": {
+      "name": "Teatr Pinokio w Łodzi, 75/77, Henryka Sienkiewicza, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-057, Polska",
+      "district": "Śródmieście",
+      "address": "Teatr Pinokio w Łodzi, 75/77, Henryka Sienkiewicza, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-057, Polska",
+      "normalized": "pinokio w łodzi (ul. sienkiewicza 75_77)",
+      "lat": 51.761815,
+      "lng": 19.4616216,
+      "updated_at": "2026-10-02T12:51:04.384456+00:00"
+    },
+    "wielki": {
+      "name": "Teatr Wielki, Plac Generała Jana Henryka Dąbrowskiego, Fabryczna, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-249, Polska",
+      "district": "Śródmieście",
+      "address": "Teatr Wielki, Plac Generała Jana Henryka Dąbrowskiego, Fabryczna, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-249, Polska",
+      "normalized": "wielki",
+      "lat": 51.7733465,
+      "lng": 19.4696594,
+      "updated_at": "2026-10-02T12:54:32.798581+00:00"
     }
   }
 }

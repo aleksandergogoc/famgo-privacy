@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:35:16.741165+00:00",
+  "updated_at": "2026-10-02T13:39:02.465218+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -167914,6 +167914,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-02T13:35:16.624577+00:00",
       "created_at": "2026-10-02T13:35:16.624577+00:00"
+    },
+    "manual_a1d298c8fe8b": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "aquarium"
+      ],
+      "names": {
+        "pl": "Akwarium – ZOO Orientarium Łódź",
+        "en": "Akwarium – ZOO Orientarium Łódź",
+        "uk": "Akwarium – ZOO Orientarium Łódź"
+      },
+      "name": "Akwarium – ZOO Orientarium Łódź",
+      "address": "Konstantynowska 8/10, 94-303 Łódź",
+      "lat": 51.76153520978898,
+      "lng": 19.4111841917038,
+      "geo_uri": "geo:51.76153520978898,19.4111841917038",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4111841917038,
+          51.76153520978898
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": null,
+      "website": "https://orientarium.lodz.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-02T13:39:02.360304+00:00",
+      "created_at": "2026-10-02T13:39:02.360304+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:47:40.953254+00:00",
+  "updated_at": "2026-10-02T13:49:08.595406+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168112,6 +168112,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-02T13:47:40.839680+00:00",
       "created_at": "2026-10-02T13:47:40.839680+00:00"
+    },
+    "manual_2ebf2a14c9e7": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Inspiro. Akademia Twórczego Rozwoju. Kurdek S.",
+        "en": "Inspiro. Akademia Twórczego Rozwoju. Kurdek S.",
+        "uk": "Inspiro. Akademia Twórczego Rozwoju. Kurdek S."
+      },
+      "name": "Inspiro. Akademia Twórczego Rozwoju. Kurdek S.",
+      "address": "Zgierska 215, 91-497 Łódź",
+      "lat": 51.818534111163096,
+      "lng": 19.43367719650269,
+      "geo_uri": "geo:51.818534111163096,19.43367719650269",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.43367719650269,
+          51.818534111163096
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "426168635",
+      "website": "http://www.inspiroart.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-02T13:49:08.499421+00:00",
+      "created_at": "2026-10-02T13:49:08.499421+00:00"
     }
   }
 }

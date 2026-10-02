@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:49:08.595406+00:00",
+  "updated_at": "2026-10-02T13:56:24.876163+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168145,6 +168145,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-02T13:49:08.499421+00:00",
       "created_at": "2026-10-02T13:49:08.499421+00:00"
+    },
+    "manual_8a840c0e619b": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Piotruś Pan",
+        "en": "Piotruś Pan",
+        "uk": "Piotruś Pan"
+      },
+      "name": "Piotruś Pan",
+      "address": "Pomorska 58, 91-408 Łódź",
+      "lat": 51.77848014572243,
+      "lng": 19.469468593597416,
+      "geo_uri": "geo:51.77848014572243,19.469468593597416",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.469468593597416,
+          51.77848014572243
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "426301717",
+      "website": "http://sala-zabaw-piotrus-pan.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-02T13:56:24.796844+00:00",
+      "created_at": "2026-10-02T13:56:24.796844+00:00"
     }
   }
 }

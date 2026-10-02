@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:56:24.876163+00:00",
+  "updated_at": "2026-10-02T13:57:50.796645+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168178,6 +168178,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-02T13:56:24.796844+00:00",
       "created_at": "2026-10-02T13:56:24.796844+00:00"
+    },
+    "manual_c96a91d67173": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Bajkowy Labirynt - Łódź Manufaktura",
+        "en": "Bajkowy Labirynt - Łódź Manufaktura",
+        "uk": "Bajkowy Labirynt - Łódź Manufaktura"
+      },
+      "name": "Bajkowy Labirynt - Łódź Manufaktura",
+      "address": "Drewnowska 58, 91-002 Łódź",
+      "lat": 51.78071376685866,
+      "lng": 19.44676369428635,
+      "geo_uri": "geo:51.78071376685866,19.44676369428635",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.44676369428635,
+          51.78071376685866
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "788176119",
+      "website": "http://www.bajkowylodz.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-02T13:57:50.724297+00:00",
+      "created_at": "2026-10-02T13:57:50.724297+00:00"
     }
   }
 }

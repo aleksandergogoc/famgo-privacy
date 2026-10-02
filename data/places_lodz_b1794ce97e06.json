@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:40:59.687469+00:00",
+  "updated_at": "2026-10-02T13:42:50.689207+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -167980,6 +167980,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-02T13:40:59.570214+00:00",
       "created_at": "2026-10-02T13:40:59.570214+00:00"
+    },
+    "manual_5c13e36eed3b": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Dzikie Pląsy - Bałuty",
+        "en": "Dzikie Pląsy - Bałuty",
+        "uk": "Dzikie Pląsy - Bałuty"
+      },
+      "name": "Dzikie Pląsy - Bałuty",
+      "address": "Franciszkańska 99, 91-845 Łódź",
+      "lat": 51.792079293485976,
+      "lng": 19.460405409336094,
+      "geo_uri": "geo:51.792079293485976,19.460405409336094",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.460405409336094,
+          51.792079293485976
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "690908882",
+      "website": "https://baluty.dzikieplasy.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-02T13:42:50.583575+00:00",
+      "created_at": "2026-10-02T13:42:50.583575+00:00"
     }
   }
 }

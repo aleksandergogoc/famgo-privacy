@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:30:01.488824+00:00",
+  "updated_at": "2026-10-03T11:31:39.642658+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168442,6 +168442,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-03T11:30:01.412977+00:00",
       "created_at": "2026-10-03T11:30:01.412977+00:00"
+    },
+    "manual_63f0dd7326ef": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Smocza Kraina",
+        "en": "Smocza Kraina",
+        "uk": "Smocza Kraina"
+      },
+      "name": "Smocza Kraina",
+      "address": "Maratońska 94, 94-007 Łódź",
+      "lat": 51.735895753669645,
+      "lng": 19.387301802635196,
+      "geo_uri": "geo:51.735895753669645,19.387301802635196",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.387301802635196,
+          51.735895753669645
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "504199666",
+      "website": "https://smocza-kraina.pl/?page_id=10",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-03T11:31:39.563949+00:00",
+      "created_at": "2026-10-03T11:31:39.563949+00:00"
     }
   }
 }

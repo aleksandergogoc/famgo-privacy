@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:31:39.642658+00:00",
+  "updated_at": "2026-10-03T11:32:49.687509+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168475,6 +168475,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-03T11:31:39.563949+00:00",
       "created_at": "2026-10-03T11:31:39.563949+00:00"
+    },
+    "manual_0ab0794a9d8e": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Bawialnia Bąbelek",
+        "en": "Bawialnia Bąbelek",
+        "uk": "Bawialnia Bąbelek"
+      },
+      "name": "Bawialnia Bąbelek",
+      "address": "Hubala 3, 94-048 Łódź",
+      "lat": 51.74631270760768,
+      "lng": 19.402547478675846,
+      "geo_uri": "geo:51.74631270760768,19.402547478675846",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.402547478675846,
+          51.74631270760768
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "798767269",
+      "website": "https://bawialniababelek.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-03T11:32:49.542122+00:00",
+      "created_at": "2026-10-03T11:32:49.542122+00:00"
     }
   }
 }

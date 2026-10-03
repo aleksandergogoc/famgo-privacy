@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:05:08.513600+00:00",
+  "updated_at": "2026-10-03T12:02:51.534066+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1575,6 +1575,15 @@
       "lat": 52.3976795,
       "lng": 16.8581003,
       "updated_at": "2026-10-02T13:01:45.160961+00:00"
+    },
+    "collegium maius (poznań)": {
+      "name": "Collegium Maius, Ojca Honoriusza Kowalczyka, Stare Miasto, Poznań, województwo wielkopolskie, 60-831, Polska",
+      "district": "Stare Miasto",
+      "address": "Collegium Maius, Ojca Honoriusza Kowalczyka, Stare Miasto, Poznań, województwo wielkopolskie, 60-831, Polska",
+      "normalized": "collegium maius (poznań)",
+      "lat": 52.4098365,
+      "lng": 16.9192233,
+      "updated_at": "2026-10-03T11:59:17.961665+00:00"
     }
   }
 }

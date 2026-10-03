@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:28:25.606526+00:00",
+  "updated_at": "2026-10-03T11:30:01.488824+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168409,6 +168409,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-03T11:28:25.514846+00:00",
       "created_at": "2026-10-03T11:28:25.514846+00:00"
+    },
+    "manual_2eecb9bb2726": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Port Łódź Junior",
+        "en": "Port Łódź Junior",
+        "uk": "Port Łódź Junior"
+      },
+      "name": "Port Łódź Junior",
+      "address": "Pabianicka 245, 93-457 Łódź",
+      "lat": 51.70327409945995,
+      "lng": 19.41456377506256,
+      "geo_uri": "geo:51.70327409945995,19.41456377506256",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.41456377506256,
+          51.70327409945995
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "422981292",
+      "website": "https://www.portlodz.pl/pl/port-lodz-junior",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-03T11:30:01.412977+00:00",
+      "created_at": "2026-10-03T11:30:01.412977+00:00"
     }
   }
 }

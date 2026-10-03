@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:17:58.223940+00:00",
+  "updated_at": "2026-10-03T11:20:06.239800+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168244,6 +168244,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-03T11:17:58.112585+00:00",
       "created_at": "2026-10-03T11:17:58.112585+00:00"
+    },
+    "manual_6af8b2fe1cc1": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Miasteczko - bawialnia kreatywna",
+        "en": "Miasteczko - bawialnia kreatywna",
+        "uk": "Miasteczko - bawialnia kreatywna"
+      },
+      "name": "Miasteczko - bawialnia kreatywna",
+      "address": "obok apteki DOZ, Józefa Elsnera 19, 92-504 Łódź",
+      "lat": 51.75697298256072,
+      "lng": 19.533594846725467,
+      "geo_uri": "geo:51.75697298256072,19.533594846725467",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.533594846725467,
+          51.75697298256072
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "786694454",
+      "website": "https://www.facebook.com/miasteczkobawialnia",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-03T11:20:06.150312+00:00",
+      "created_at": "2026-10-03T11:20:06.150312+00:00"
     }
   }
 }

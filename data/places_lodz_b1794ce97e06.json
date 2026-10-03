@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T11:32:49.687509+00:00",
+  "updated_at": "2026-10-03T11:34:48.060974+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168508,6 +168508,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-03T11:32:49.542122+00:00",
       "created_at": "2026-10-03T11:32:49.542122+00:00"
+    },
+    "manual_38e9f93a00e8": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Malutkowo naturalna bawialnia",
+        "en": "Malutkowo naturalna bawialnia",
+        "uk": "Malutkowo naturalna bawialnia"
+      },
+      "name": "Malutkowo naturalna bawialnia",
+      "address": "Krzysztofa Cedry 6/lok. 3, 91-129 Łódź",
+      "lat": 51.7862276493064,
+      "lng": 19.38942611217499,
+      "geo_uri": "geo:51.7862276493064,19.38942611217499",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.38942611217499,
+          51.7862276493064
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "513310315",
+      "website": "https://zarezerwuj.pl/malutkowo-kawiarnio-bawialnia/?fbclid=IwZXh0bgNhZW0CMTEAAR3Pn1-Pki4BjboJRBX3Cj3mEoQzHonxyD-0dZgl5rvWgdWg2vBQeOhsknI_aem_eZn-itETHVRIcad-9FfNTg",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-03T11:34:47.975480+00:00",
+      "created_at": "2026-10-03T11:34:47.975480+00:00"
     }
   }
 }

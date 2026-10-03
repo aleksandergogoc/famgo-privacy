@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T12:48:53.222267+00:00",
+  "updated_at": "2026-10-03T11:14:08.465980+00:00",
   "events": {
     "bajkowe-poranki-w-centrum-historii-zajezdnia-2026-10-11T10:30:00": {
       "scrapped_timestamp": "2026-07-02T06:36:18.044606+00:00",
@@ -1808,126 +1808,6 @@
       "district": "Krzyki",
       "updated_at": "2026-09-07T12:12:45.441749+00:00"
     },
-    "iii-bieg-z-koz-2026-10-03T09:00:00+02:00": {
-      "title": "III Bieg z Kozą",
-      "date": "2026-10-03T09:00:00+02:00",
-      "end_date": "2026-10-03T09:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Trzecia edycja Biegu z Kozą odbędzie się 3 października 2026 roku. Wydarzenie skierowane jest do osób w każdym wieku i oferuje dystanse oraz atrakcje dla trzech pokoleń uczestników.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/03579e01-0bbb-41ea-aa68-5d28d8652957/01bcc192-53d4-44bc-9b60-5240b030976d.jpg",
-      "location": {
-        "name": "Park Zachodni, Wroclaw, Poland",
-        "district": null
-      },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/sport/wydarzenie/iii-bieg-z-koza-03579e01-0bbb-41ea-aa68-5d28d8652957",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/sport/wydarzenie/iii-bieg-z-koza-03579e01-0bbb-41ea-aa68-5d28d8652957",
-      "scrapped_timestamp": "2026-09-09T11:36:40.394665+00:00",
-      "category": "Sports",
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "III Bieg z Kozą",
-          "description": "Trzecia edycja Biegu z Kozą odbędzie się 3 października 2026 roku. Wydarzenie skierowane jest do osób w każdym wieku i oferuje dystanse oraz atrakcje dla trzech pokoleń uczestników."
-        },
-        "en": {
-          "title": "III Run with the Goat",
-          "description": "The third edition of the Run with the Goat will take place on October 3, 2026. The event is aimed at people of all ages and offers distances and attractions for three generations of participants."
-        },
-        "uk": {
-          "title": "III Біг з Козою",
-          "description": "Третя редакція Бігу з Козою відбудеться 3 жовтня 2026 року. Подія спрямована на людей будь-якого віку та пропонує дистанції та атракції для трьох поколінь учасників."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "updated_at": "2026-09-09T11:37:19.189279+00:00"
-    },
-    "dzie-otwarty-w-o-rodku-dobrej-terapii-2026-10-03T10:00:00+02:00": {
-      "title": "Dzień otwarty w Ośrodku Dobrej Terapii",
-      "date": "2026-10-03T10:00:00+02:00",
-      "end_date": "2026-10-03T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Dzień Otwarty poświęcony terapii poznawczo-behawioralnej (CBT) oraz zdrowiu psychicznemu. Wydarzenie odbędzie się 3 października 2026 r. w siedzibie Ośrodka Dobrej Terapii przy ul. Szczytnickiej 36/2 we Wrocławiu.\n\nProgram:\n• 10:00–12:00: Warsztaty dotyczące emocji i ADHD (Weronika Drabent), relacji w terapii schematu (Adriana Bernady-Wyrwisz), pewności siebie oraz seksualności (Barbara Liszka).\n• 12:00–13:00: Spotkanie psychoedukacyjne „Poznaj 5 narzędzi CBT, które możesz wykorzystać od jutra” oraz sesja pytań i odpowiedzi.\n\nUdział w wydarzeniu jest bezpłatny. Obowiązują wcześniejsze zapisy ze względu na ograniczoną liczbę miejsc.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/fd66f67b-5070-437a-991e-c16d7d6f2ec0/71a463f8-63f9-4777-8bd9-c318659bc819.jpg",
-      "location": {
-        "name": "Szczytnicka 36/2, Wrocław, Wrocław",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/dzien-otwarty-w-osrodku-dobrej-terapii-fd66f67b-5070-437a-991e-c16d7d6f2ec0",
-      "source": "simplygo.pl",
-      "age_hint": "3-18",
-      "age_range": {
-        "min": 3,
-        "max": 18
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/dzien-otwarty-w-osrodku-dobrej-terapii-fd66f67b-5070-437a-991e-c16d7d6f2ec0",
-      "scrapped_timestamp": "2026-09-09T11:36:43.035397+00:00",
-      "category": "Workshops",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Dzień otwarty w Ośrodku Dobrej Terapii",
-          "description": "Dzień Otwarty poświęcony terapii poznawczo-behawioralnej (CBT) oraz zdrowiu psychicznemu. Wydarzenie odbędzie się 3 października 2026 r. w siedzibie Ośrodka Dobrej Terapii przy ul. Szczytnickiej 36/2 we Wrocławiu.\n\nProgram:\n• 10:00–12:00: Warsztaty dotyczące emocji i ADHD (Weronika Drabent), relacji w terapii schematu (Adriana Bernady-Wyrwisz), pewności siebie oraz seksualności (Barbara Liszka).\n• 12:00–13:00: Spotkanie psychoedukacyjne „Poznaj 5 narzędzi CBT, które możesz wykorzystać od jutra” oraz sesja pytań i odpowiedzi.\n\nUdział w wydarzeniu jest bezpłatny. Obowiązują wcześniejsze zapisy ze względu na ograniczoną liczbę miejsc."
-        },
-        "en": {
-          "title": "Open Day at the Good Therapy Center",
-          "description": "The Open Day dedicated to cognitive-behavioral therapy (CBT) and mental health will take place on October 3, 2026, at the Good Therapy Center located at Szczytnicka 36/2 in Wrocław.\n\nProgram:\n• 10:00–12:00: Workshops on emotions and ADHD (Weronika Drabent), relationships in schema therapy (Adriana Bernady-Wyrwisz), self-confidence, and sexuality (Barbara Liszka).\n• 12:00–13:00: Psychoeducational meeting \"Discover 5 CBT tools you can use starting tomorrow\" and a Q&A session.\n\nParticipation in the event is free. Pre-registration is required due to limited seating."
-        },
-        "uk": {
-          "title": "День відкритих дверей в Центрі Хорошої Терапії",
-          "description": "День відкритих дверей, присвячений когнітивно-поведінковій терапії (КПТ) та психічному здоров'ю. Захід відбудеться 3 жовтня 2026 року в приміщенні Центру Хорошої Терапії за адресою вул. Щитницька 36/2 у Вроцлаві.\n\nПрограма:\n• 10:00–12:00: Майстер-класи з емоцій та СДВГ (Вероніка Драбент), стосунків у схемній терапії (Адріана Бернади-Вирвиш), впевненості в собі та сексуальності (Барбара Ліжка).\n• 12:00–13:00: Психоосвітня зустріч \"Познайомся з 5 інструментами КПТ, які ти можеш використовувати з завтрашнього дня\" та сесія запитань і відповідей.\n\nУчасть у заході безкоштовна. Обов'язкова попередня реєстрація через обмежену кількість місць."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-09T11:37:19.189298+00:00"
-    },
-    "tr-wroc-aw-targi-rzeczy-adnych-2026-10-03T11:00:00+02:00": {
-      "title": "TRŁ WROCŁAW! – Targi Rzeczy Ładnych",
-      "date": "2026-10-03T11:00:00+02:00",
-      "end_date": "2026-10-03T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Targi Rzeczy Ładnych (TRŁ WROCŁAW!) to największe wydarzenie poświęcone polskiemu designowi, które po raz szósty zawita do Hali Stulecia. To święto wzornictwa, podczas którego ponad 300 wystawców z całej Polski zaprezentuje swoje meble, ceramikę, plakaty oraz biżuterię. Wydarzenie skierowane jest do miłośników dobrego projektowania, wystroju wnętrz oraz wszystkich osób poszukujących unikalnych przedmiotów.\n\nProgram i atrakcje:\n• Ponad 300 topowych wystawców.\n• Prezentacja premierowych kolekcji oraz debiutów.\n• Selekcja marek nagradzanych na polskich i międzynarodowych festiwalach designu.\n\nTermin i godziny otwarcia:\n• Sobota: 11:00–19:00\n• Niedziela: 11:00–18:00\n\nInformacje organizacyjne:\n• Dzieci do lat 12 wchodzą bezpłatnie.\n• Wydarzenie jest przyjazne psom.\n\nBilety na Targi Rzeczy Ładnych we Wrocławiu są już dostępne. Sprawdź szczegóły i dołącz do wielotysięcznej publiczności ceniącej polskie wzornictwo.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d8982524-a6ac-49ed-832f-d944bde56eb1/4e7e0f5c-3bfb-40bc-b176-3803b2c5a258.jpg",
-      "location": {
-        "name": "Hala Stulecia, Wystawowa 1, Wrocław",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/trl-wroclaw-targi-rzeczy-ladnych-d8982524-a6ac-49ed-832f-d944bde56eb1",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/trl-wroclaw-targi-rzeczy-ladnych-d8982524-a6ac-49ed-832f-d944bde56eb1",
-      "scrapped_timestamp": "2026-09-09T11:36:50.072852+00:00",
-      "category": "Arts",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "TRŁ WROCŁAW! – Targi Rzeczy Ładnych",
-          "description": "Targi Rzeczy Ładnych (TRŁ WROCŁAW!) to największe wydarzenie poświęcone polskiemu designowi, które po raz szósty zawita do Hali Stulecia. To święto wzornictwa, podczas którego ponad 300 wystawców z całej Polski zaprezentuje swoje meble, ceramikę, plakaty oraz biżuterię. Wydarzenie skierowane jest do miłośników dobrego projektowania, wystroju wnętrz oraz wszystkich osób poszukujących unikalnych przedmiotów.\n\nProgram i atrakcje:\n• Ponad 300 topowych wystawców.\n• Prezentacja premierowych kolekcji oraz debiutów.\n• Selekcja marek nagradzanych na polskich i międzynarodowych festiwalach designu.\n\nTermin i godziny otwarcia:\n• Sobota: 11:00–19:00\n• Niedziela: 11:00–18:00\n\nInformacje organizacyjne:\n• Dzieci do lat 12 wchodzą bezpłatnie.\n• Wydarzenie jest przyjazne psom.\n\nBilety na Targi Rzeczy Ładnych we Wrocławiu są już dostępne. Sprawdź szczegóły i dołącz do wielotysięcznej publiczności ceniącej polskie wzornictwo."
-        },
-        "en": {
-          "title": "TRŁ WROCŁAW! – Fair of Beautiful Things",
-          "description": "The Fair of Beautiful Things (TRŁ WROCŁAW!) is the largest event dedicated to Polish design, returning for the sixth time to the Centennial Hall. It is a celebration of design, where over 300 exhibitors from all over Poland will showcase their furniture, ceramics, posters, and jewelry. The event is aimed at lovers of good design, interior decoration, and anyone looking for unique items.\n\nProgram and attractions:\n• Over 300 top exhibitors.\n• Presentation of premiere collections and debuts.\n• Selection of brands awarded at Polish and international design festivals.\n\nDate and opening hours:\n• Saturday: 11:00 AM – 7:00 PM\n• Sunday: 11:00 AM – 6:00 PM\n\nOrganizational information:\n• Children under 12 enter for free.\n• The event is dog-friendly."
-        },
-        "uk": {
-          "title": "TRŁ ВРОЦЛАВ! – Ярмарок Гарних Речей",
-          "description": "Ярмарок Гарних Речей (TRŁ ВРОЦЛАВ!) – це найбільша подія, присвячена польському дизайну, яка вже в шосте відбудеться в Халі Стулеця. Це свято дизайну, під час якого понад 300 експонентів з усієї Польщі представлять свої меблі, кераміку, плакати та ювелірні вироби. Подія спрямована на любителів доброго дизайну, оформлення інтер'єру та всіх, хто шукає унікальні предмети.\n\nПрограма та атракції:\n• Понад 300 провідних експонентів.\n• Презентація прем'єрних колекцій та дебютів.\n• Селекція брендів, нагороджених на польських та міжнародних фестивалях дизайну.\n\nТермін та години відкриття:\n• Субота: 11:00–19:00\n• Неділя: 11:00–18:00\n\nОрганізаційна інформація:\n• Діти до 12 років входять безкоштовно.\n• Подія дружня до собак."
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.ebilet.pl/biznes/targi/trl-wroclaw"
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-09T11:37:19.189319+00:00"
-    },
     "student-day-10-dzie-wy-cigowy-na-partynicach-2026-10-04T14:00:00+02:00": {
       "title": "Student Day – 10. dzień wyścigowy na Partynicach",
       "date": "2026-10-04T14:00:00+02:00",
@@ -2691,101 +2571,6 @@
       "district": "Fabryczna",
       "updated_at": "2026-09-22T11:25:21.187497+00:00"
     },
-    "magiczna-sobota-2026-10-03T11:00:00+02:00": {
-      "title": "Magiczna sobota",
-      "date": "2026-10-03T11:00:00+02:00",
-      "end_date": "2026-10-03T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Chcecie przeżyć magiczną sobotę z zaklęciami i eliksirami? Pani Roksana ze Szlaku Zmysłów zaprasza na czarodziejskie tory przeszkód z tajemniczymi zagadkami. Można się przebrać za czarodziejki i czarodziejów, wróżki, skrzaty, magiczne stwory, ale pamiętajcie, że na zajęciach z panią Roksaną zawsze jest ruch i można się trochę pobrudzić.\n\nWydarzenie dla dzieci w wieku od 3 do 6  lat.\nLiczba miejsc ograniczona.\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
-      "image": "https://assets.kupbilecik.pl/img/baza/21000/20383.webp?1788766990",
-      "url": "https://www.kupbilecik.pl/pl/event/220787/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
-      "source": "kupbilecik.pl",
-      "location": {
-        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 19",
-        "address": "ul. Sołtysowicka 29h",
-        "lat": 51.1441336864931,
-        "lng": 17.0744331640277,
-        "district": "Fabryczna"
-      },
-      "featured": true,
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "scrapped_url": "https://www.kupbilecik.pl/pl/event/220787/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
-      "scrapped_timestamp": "2026-09-23T11:19:15.169050+00:00",
-      "category": "Family Fun",
-      "additional_categories": [
-        "Sensory Play"
-      ],
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Magiczna sobota",
-          "description": "Chcecie przeżyć magiczną sobotę z zaklęciami i eliksirami? Pani Roksana ze Szlaku Zmysłów zaprasza na czarodziejskie tory przeszkód z tajemniczymi zagadkami. Można się przebrać za czarodziejki i czarodziejów, wróżki, skrzaty, magiczne stwory, ale pamiętajcie, że na zajęciach z panią Roksaną zawsze jest ruch i można się trochę pobrudzić.\n\nWydarzenie dla dzieci w wieku od 3 do 6  lat.\nLiczba miejsc ograniczona.\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
-        },
-        "en": {
-          "title": "Magical Saturday",
-          "description": "Do you want to experience a magical Saturday with spells and potions? Ms. Roksana from the Trail of Senses invites you to magical obstacle courses with mysterious puzzles. You can dress up as witches and wizards, fairies, gnomes, magical creatures, but remember that in Ms. Roksana's classes there is always movement and you might get a little dirty.\n\nEvent for children aged 3 to 6 years.\nLimited number of places.\n**One ticket is valid for a pair: child and guardian.**\n\nDiscounted tickets for holders of the MBP Wrocław library card.\n\nVenue accessible for people with mobility disabilities.\n\nParent Club is a series of literary, educational, and artistic meetings for children and their guardians held at selected branches of the Tadeusz Różewicz Municipal Public Library in Wrocław."
-        },
-        "uk": {
-          "title": "Магічна субота",
-          "description": "Хочете пережити магічну суботу з заклинаннями та еліксирами? Пані Роксана зі Шляху Відчуттів запрошує на чарівні перешкоди з таємничими загадками. Можна перевдягнутися в чарівниць і чарівників, фей, гномів, магічних істот, але пам'ятайте, що на заняттях з пані Роксаною завжди є рух і можна трохи забруднитися.\n\nПодія для дітей віком від 3 до 6 років.\nКількість місць обмежена.\n**Діє один квиток для пари: дитина та опікун.**\n\nПільгові квитки для осіб з бібліотечною карткою MBP Вроцлав.\n\nМісце дружнє до осіб з обмеженими можливостями.\n\nКлуб Батьків — це циклічні літературні, освітні та мистецькі зустрічі для дітей та їх опікунів, що проходять у вибраних філіях Міської Публічної Бібліотеки ім. Тадеуша Рожевича у Вроцлаві."
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/220787/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
-      },
-      "district": "Fabryczna",
-      "updated_at": "2026-09-23T11:19:56.230706+00:00"
-    },
-    "b-d-my-sob-warsztaty-plastyczno-literackie-2026-10-03T11:00:00+02:00": {
-      "title": "Bądźmy sobą! – warsztaty plastyczno-literackie",
-      "date": "2026-10-03T11:00:00+02:00",
-      "end_date": "2026-10-03T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Koło jest inne. Ma nietypowy kolor, fakturę i nawet jego kształt nie jest idealny - wszystko z powodu wypustek, które trochę przypominają zębatki, a trochę różnej długości kolce. Wędruje po świecie w poszukiwaniu swojego miejsca. Wciąż ma wrażenie, że nigdzie nie pasuje...\nKogo spotka, jakich rad wysłucha i czy znajdzie dla siebie przestrzeń? A może będzie musiało się zmienić, by wreszcie gdzieś się wpasować? Tego dowiedzą się uczestniczy podczas zajęć. W trakcie warsztatów czekają na nich zadania integracyjne. Porozmawiają o autentyczności, inności i o tym, co naprawdę oznacza bycie sobą. Na koniec stworzą niezwykłe kolaże.\nWydarzenie dla dzieci w wieku 5-8 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/25d4114c-7093-4f28-9999-a91cd9c674e9/6c6542be-a8d9-4b65-976d-7ac03ed6f5ae.jpg",
-      "location": {
-        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 23, Bulwar Ikara 29-31, 54-130 Wrocław",
-        "district": "Fabryczna"
-      },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/badzmy-soba-warsztaty-plastyczno-literackie-25d4114c-7093-4f28-9999-a91cd9c674e9",
-      "source": "simplygo.pl",
-      "age_hint": "5-8",
-      "age_range": {
-        "min": 5,
-        "max": 8
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/badzmy-soba-warsztaty-plastyczno-literackie-25d4114c-7093-4f28-9999-a91cd9c674e9",
-      "scrapped_timestamp": "2026-10-02T12:44:33.612998+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Arts"
-      ],
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bądźmy sobą! – warsztaty plastyczno-literackie",
-          "description": "Koło jest inne. Ma nietypowy kolor, fakturę i nawet jego kształt nie jest idealny - wszystko z powodu wypustek, które trochę przypominają zębatki, a trochę różnej długości kolce. Wędruje po świecie w poszukiwaniu swojego miejsca. Wciąż ma wrażenie, że nigdzie nie pasuje...\nKogo spotka, jakich rad wysłucha i czy znajdzie dla siebie przestrzeń? A może będzie musiało się zmienić, by wreszcie gdzieś się wpasować? Tego dowiedzą się uczestniczy podczas zajęć. W trakcie warsztatów czekają na nich zadania integracyjne. Porozmawiają o autentyczności, inności i o tym, co naprawdę oznacza bycie sobą. Na koniec stworzą niezwykłe kolaże.\nWydarzenie dla dzieci w wieku 5-8 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
-        },
-        "en": {
-          "title": "Let's Be Ourselves! – Art and Literature Workshops",
-          "description": "The circle is different. It has an unusual color, texture, and even its shape is not perfect - all because of the protrusions that somewhat resemble gears and somewhat spikes of varying lengths. It wanders the world in search of its place. It still has the impression that it doesn't fit anywhere...\n\nWho will it meet, what advice will it listen to, and will it find a space for itself? Or maybe it will have to change to finally fit in somewhere? Participants will find out during the classes. During the workshops, they will have integration tasks waiting for them. They will talk about authenticity, otherness, and what it really means to be oneself. In the end, they will create extraordinary collages.\n\nAn event for children aged 5-8 years.\nOne ticket is required for a pair: child and guardian.\nDiscounted tickets for holders of the MBP Wrocław library card.\nA friendly place for"
-        },
-        "uk": {
-          "title": "Будьмо собою! – пластично-літературні майстер-класи",
-          "description": "Коло інше. Має нетиповий колір, фактуру і навіть його форма не ідеальна - все через випустки, які трохи нагадують зубчасті колеса, а трохи різної довжини шипи. Мандрує світом у пошуках свого місця. Все ще має враження, що нікуди не підходить...\nКого зустріне, яких порад вислухає і чи знайде для себе простір? А може, йому доведеться змінитися, щоб нарешті десь втиснутися? Цього дізнаються учасники під час занять. Під час майстер-класів на них чекають інтеграційні завдання. Поговорять про автентичність, інакшість і про те, що насправді означає бути собою. На кінець створять незвичайні колажі.\nПодія для дітей віком 5-8 років.\nДіє один квиток для пари: дитина та опікун.\nПільгові квитки для осіб з бібліотечною карткою MBP Вроцлав.\nМісце дружнє до"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/220810/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
-      },
-      "district": "Fabryczna",
-      "updated_at": "2026-10-02T12:48:52.987575+00:00"
-    },
     "le-ne-przytulanki-z-filcu-2026-10-08T17:30:00+02:00": {
       "title": "Leśne przytulanki z filcu",
       "date": "2026-10-08T17:30:00+02:00",
@@ -3005,131 +2790,6 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-09-24T11:45:18.182581+00:00"
-    },
-    "monika-i-laura-witkowskie-spotkanie-z-cyklu-podr-nicy-2026-10-02T18:00:00+02:00": {
-      "title": "Monika i Laura Witkowskie – spotkanie z cyklu Podróżnicy",
-      "date": "2026-10-02T18:00:00+02:00",
-      "end_date": "2026-10-02T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Spotkanie z Moniką i Laurą Witkowskimi, bohaterkami programu telewizyjnego „Podróże Małej i Dużej”. Podróżniczki opowiedzą o kulisach rodzinnych wypraw, wyzwaniach związanych z odkrywaniem świata z dzieckiem oraz o tym, jak wspólne podróżowanie wpływa na budowanie relacji i poznawanie nowych kultur.\n\nSzczegóły wydarzenia:\n• Data: 2 października 2026, godz. 18:00\n• Miejsce: Centrum Kultury Nowy Pafawag\n• Bilety: 45 zł (obowiązują zniżki Nasz Wrocław)",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/fda817f3-ae12-4753-8b0b-4c38c263b704/6fce2d91-b611-4991-8534-0f64f1c8381b.jpg",
-      "location": {
-        "name": "Centrum Kultury Nowy Pafawag, Chociebuska 4-6, 54-433 Wrocław",
-        "district": "Fabryczna"
-      },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/monika-i-laura-witkowskie-spotkanie-z-cyklu-podroznicy-fda817f3-ae12-4753-8b0b-4c38c263b704",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/monika-i-laura-witkowskie-spotkanie-z-cyklu-podroznicy-fda817f3-ae12-4753-8b0b-4c38c263b704",
-      "scrapped_timestamp": "2026-09-24T11:43:23.367065+00:00",
-      "category": "Educational",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Monika i Laura Witkowskie – spotkanie z cyklu Podróżnicy",
-          "description": "Spotkanie z Moniką i Laurą Witkowskimi, bohaterkami programu telewizyjnego „Podróże Małej i Dużej”. Podróżniczki opowiedzą o kulisach rodzinnych wypraw, wyzwaniach związanych z odkrywaniem świata z dzieckiem oraz o tym, jak wspólne podróżowanie wpływa na budowanie relacji i poznawanie nowych kultur.\n\nSzczegóły wydarzenia:\n• Data: 2 października 2026, godz. 18:00\n• Miejsce: Centrum Kultury Nowy Pafawag\n• Bilety: 45 zł (obowiązują zniżki Nasz Wrocław)"
-        },
-        "en": {
-          "title": "Monika and Laura Witkowskie – meeting from the Travelers series",
-          "description": "Meeting with Monika and Laura Witkowskie, the heroines of the television program \"The Travels of the Little and the Big\". The travelers will talk about the behind-the-scenes of family trips, the challenges of exploring the world with a child, and how traveling together influences building relationships and discovering new cultures.\n\nEvent details:\n• Date: October 2, 2026, 6:00 PM\n• Location: New Pafawag Cultural Center\n• Tickets: 45 PLN (discounts for Nasz Wrocław apply)"
-        },
-        "uk": {
-          "title": "Моніка і Лаура Вітковські – зустріч з циклу Подорожники",
-          "description": "Зустріч з Монікою і Лаурою Вітковськими, героїнями телевізійної програми «Подорожі Маленької і Великої». Подорожниці розкажуть про куліси сімейних експедицій, виклики, пов'язані з відкриттям світу з дитиною, а також про те, як спільні подорожі впливають на побудову стосунків і знайомство з новими культурами.\n\nСкладові події:\n• Дата: 2 жовтня 2026, год. 18:00\n• Місце: Центр Культури Новий Пафавг\n• Квитки: 45 зл (діють знижки Наш Вроцлав)"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Fabryczna",
-      "updated_at": "2026-09-24T11:45:18.183433+00:00"
-    },
-    "mi-dzynarodowa-wystawa-ps-w-rasowych-wystawa-2026-10-03T09:00:00+02:00": {
-      "title": "Międzynarodowa Wystawa Psów Rasowych – wystawa",
-      "date": "2026-10-03T09:00:00+02:00",
-      "end_date": "2026-10-03T09:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "XXXV oraz XXXVI edycja Międzynarodowych Wystaw Psów Rasowych to wydarzenie skierowane do hodowców, właścicieli psów oraz rodzin. W programie przewidziano pokazy psich sportów, konkursy oraz warsztaty kynologiczne.\n\nPodczas wystawy sędziowie oceniać będą psy z dziesięciu grup ras:\n• Owczarki i inne psy pasterskie (z wyłączeniem szwajcarskich psów do bydła)\n• Pinczery i sznaucery, molosy, szwajcarskie psy górskie i do bydła\n• Teriery\n• Jamniki\n• Szpice i psy w typie pierwotnym\n• Psy gończe i rasy pokrewne\n• Wyżły\n• Aportery, płochacze i psy dowodne\n• Psy ozdobne i do towarzystwa\n• Charty\n\nInformacje organizacyjne:\n• Bilet normalny: 25,00 zł\n• Bilet ulgowy: 15,00 zł (uczniowie, studenci do 24 lat, renciści, emeryci)\n• Bilet rodzinny: 50,00 zł (maks. 2 dorosłych + 1-4 dzieci)\n• Parking: 50,00 zł\n• Wstęp z własnym psem: możliwy po okazaniu dokumentu potwierdzającego aktualne szczepienie przeciw wściekliźnie (psy wchodzą bezpłatnie)",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/70f218dd-7ec6-4a74-97d1-7115a277287f/bb59fcd0-0f8c-4f36-a232-032bc7562f59.jpg",
-      "location": {
-        "name": "Kompleks Stadionu Olimpijskiego, aleja Ignacego Jana Paderewskiego 35, 51-612 Wrocław",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/miedzynarodowa-wystawa-psow-rasowych-wystawa-70f218dd-7ec6-4a74-97d1-7115a277287f",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/miedzynarodowa-wystawa-psow-rasowych-wystawa-70f218dd-7ec6-4a74-97d1-7115a277287f",
-      "scrapped_timestamp": "2026-09-24T11:43:28.085608+00:00",
-      "category": "Family Fun",
-      "additional_categories": [
-        "Workshops",
-        "Sports"
-      ],
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Międzynarodowa Wystawa Psów Rasowych – wystawa",
-          "description": "XXXV oraz XXXVI edycja Międzynarodowych Wystaw Psów Rasowych to wydarzenie skierowane do hodowców, właścicieli psów oraz rodzin. W programie przewidziano pokazy psich sportów, konkursy oraz warsztaty kynologiczne.\n\nPodczas wystawy sędziowie oceniać będą psy z dziesięciu grup ras:\n• Owczarki i inne psy pasterskie (z wyłączeniem szwajcarskich psów do bydła)\n• Pinczery i sznaucery, molosy, szwajcarskie psy górskie i do bydła\n• Teriery\n• Jamniki\n• Szpice i psy w typie pierwotnym\n• Psy gończe i rasy pokrewne\n• Wyżły\n• Aportery, płochacze i psy dowodne\n• Psy ozdobne i do towarzystwa\n• Charty\n\nInformacje organizacyjne:\n• Bilet normalny: 25,00 zł\n• Bilet ulgowy: 15,00 zł (uczniowie, studenci do 24 lat, renciści, emeryci)\n• Bilet rodzinny: 50,00 zł (maks. 2 dorosłych + 1-4 dzieci)\n• Parking: 50,00 zł\n• Wstęp z własnym psem: możliwy po okazaniu dokumentu potwierdzającego aktualne szczepienie przeciw wściekliźnie (psy wchodzą bezpłatnie)"
-        },
-        "en": {
-          "title": "International Dog Show – exhibition",
-          "description": "The XXXV and XXXVI editions of the International Dog Shows are events aimed at breeders, dog owners, and families. The program includes dog sports demonstrations, competitions, and canine workshops.\n\nDuring the exhibition, judges will evaluate dogs from ten breed groups:\n• Shepherds and other herding dogs (excluding Swiss cattle dogs)\n• Pinschers and schnauzers, molossers, Swiss mountain dogs, and cattle dogs\n• Terriers\n• Dachshunds\n• Spitz and primitive type dogs\n• Hounds and related breeds\n• Setters\n• Retrievers, flushing spaniels, and water dogs\n• Decorative and companion dogs\n• Greyhounds\n\nOrganizational information:\n• Regular ticket: 25.00 PLN\n• Discount ticket: 15.00 PLN (students, students up to 24 years, pensioners, retirees)\n• Family ticket: 50.00 PLN (max. 2 adults + 1-4 children)\n• Parking: 50.00"
-        },
-        "uk": {
-          "title": "Міжнародна Виставка Породистих Псів – виставка",
-          "description": "XXXV та XXXVI редакція Міжнародних Виставок Породистих Псів – це подія, спрямована на заводчиків, власників собак та родини. У програмі передбачено покази собачих спортів, конкурси та кінологічні майстер-класи.\n\nПід час виставки судді оцінюватимуть собак з десяти груп порід:\n• Овчарки та інші пастуші собаки (за винятком швейцарських собак для великої рогатої худоби)\n• Пінчери та шнауцери, молоси, швейцарські гірські собаки та для великої рогатої худоби\n• Терієри\n• Такси\n• Шпіц та собаки в типі первісному\n• Гончі собаки та споріднені породи\n• Лабрадори\n• Апортери, плохачі та водяні собаки\n• Декоративні собаки та собаки-компаньйони\n• Хорти\n\nОрганізаційна інформація:\n• Звичайний квиток: 25,00 zł\n• Пільговий квиток: 15,00 zł (учні, студенти до 24 років, пенсіонери, емерити)\n• Сімейний квиток: 50,00 zł (макс. 2 дорослих + 1-4 дітей)\n• Парковка: 50,00"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-24T11:45:18.183453+00:00"
-    },
-    "jarmark-jadwi-a-ski-zamek-le-nicki-2026-10-03T11:00:00+02:00": {
-      "title": "Jarmark Jadwiżański – Zamek Leśnicki",
-      "date": "2026-10-03T11:00:00+02:00",
-      "end_date": "2026-10-03T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Jarmark Jadwiżański to dwudniowe wydarzenie z ponad 20-letnią tradycją, odbywające się przy Zamku Leśnickim. Impreza nawiązuje do klimatu dawnych dam, rycerzy, królów oraz plebejskich zabaw, a wszystko to w celu uczczenia pamięci Jadwigi Śląskiej.\n\nProgram i atrakcje:\n• Pokazy bractw rycerskich: prezentacje walk i broni w pełnej zbroi.\n• Występy artystyczne: linoskoczkowie, kuglarze oraz wędrowni artyści krążący wokół murów zamku.\n• Jarmark rzemiosła: kramy tkaczy, bednarzy, pszczelarzy i złotników.\n• Muzyka i widowiska: występy muzyki dawnej w nowoczesnej formie, odbywające się w zamkowym amfiteatrze.\n• Turnieje i zabawy plebejskie: otwarte konkurencje, w których może wziąć udział każdy uczestnik.\n\nMotywem przewodnim tegorocznej edycji są alchemicy. Do grodu zawitają twórcy tajemnych receptur na piękno i zdrowie, a w strefie wystawców spotkacie regionalnych producentów dbających o dobre samopoczucie. To okazja, by przekonać się, że nawet rycerze potrzebowali dbać o siebie, korzystając z dawnych metod pielęgnacji.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/ed470736-5290-4396-aa5e-d8cfe3cb8ec1/75cd143e-54cf-4e31-a9e5-ba7fab630528.jpg",
-      "location": {
-        "name": "Ośrodek Postaw Twórczych Zamek (OPT Zamek), pl. Świętojański 1, 54-076 Wrocław",
-        "district": "Fabryczna"
-      },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/jarmark-jadwizanski-zamek-lesnicki-ed470736-5290-4396-aa5e-d8cfe3cb8ec1",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/jarmark-jadwizanski-zamek-lesnicki-ed470736-5290-4396-aa5e-d8cfe3cb8ec1",
-      "scrapped_timestamp": "2026-09-24T11:43:37.230116+00:00",
-      "category": "Seasonal Festival",
-      "additional_categories": [
-        "Arts",
-        "Family Fun"
-      ],
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Jarmark Jadwiżański – Zamek Leśnicki",
-          "description": "Jarmark Jadwiżański to dwudniowe wydarzenie z ponad 20-letnią tradycją, odbywające się przy Zamku Leśnickim. Impreza nawiązuje do klimatu dawnych dam, rycerzy, królów oraz plebejskich zabaw, a wszystko to w celu uczczenia pamięci Jadwigi Śląskiej.\n\nProgram i atrakcje:\n• Pokazy bractw rycerskich: prezentacje walk i broni w pełnej zbroi.\n• Występy artystyczne: linoskoczkowie, kuglarze oraz wędrowni artyści krążący wokół murów zamku.\n• Jarmark rzemiosła: kramy tkaczy, bednarzy, pszczelarzy i złotników.\n• Muzyka i widowiska: występy muzyki dawnej w nowoczesnej formie, odbywające się w zamkowym amfiteatrze.\n• Turnieje i zabawy plebejskie: otwarte konkurencje, w których może wziąć udział każdy uczestnik.\n\nMotywem przewodnim tegorocznej edycji są alchemicy. Do grodu zawitają twórcy tajemnych receptur na piękno i zdrowie, a w strefie wystawców spotkacie regionalnych producentów dbających o dobre samopoczucie. To okazja, by przekonać się, że nawet rycerze potrzebowali dbać o siebie, korzystając z dawnych metod pielęgnacji."
-        },
-        "en": {
-          "title": "Hedwig's Fair – Leśnica Castle",
-          "description": "Hedwig's Fair is a two-day event with over 20 years of tradition, taking place at Leśnica Castle. The event refers to the atmosphere of ancient ladies, knights, kings, and plebeian games, all to honor the memory of Hedwig of Silesia.\n\nProgram and attractions:\n• Demonstrations by knightly brotherhoods: presentations of combat and weapons in full armor.\n• Artistic performances: tightrope walkers, jugglers, and wandering artists circling around the castle walls.\n• Craft fair: stalls of weavers, coopers, beekeepers, and goldsmiths.\n• Music and spectacles: performances of early music in a modern form, taking place in the castle amphitheater.\n• Tournaments and plebeian games: open competitions in which any participant can take part.\n\nThe theme of this year's edition is alchemists. Creators of secret recipes will visit the town."
-        },
-        "uk": {
-          "title": "Ярмарок Ядвіги – Лісницький замок",
-          "description": "Ярмарок Ядвіги – це двохдневна подія з понад 20-річною традицією, що проходить біля Лісницького замку. Захід відсилає до атмосфери давніх дам, лицарів, королів та плебейських розваг, а все це з метою вшанування пам'яті Ядвіги Сілезької.\n\nПрограма та атракції:\n• Покази братств лицарів: презентації боїв та зброї в повній броні.\n• Виступи артистів: канатоходці, жонглери та мандрівні артисти, що кружляють навколо мурів замку.\n• Ярмарок ремесел: крамниці ткачів, бондарів, бджолярів та золотарів.\n• Музика та видовища: виступи старовинної музики в сучасній формі, що проходять в замковому амфітеатрі.\n• Турніри та плебейські розваги: відкриті конкурси, в яких може взяти участь кожен учасник.\n\nМотивом провідної теми цьогорічної редакції є алхіміки. До граду завітають творці таємних рецептів."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Fabryczna",
-      "updated_at": "2026-09-24T11:45:18.183473+00:00"
     },
     "raveowisko-rodzinna-impreza-taneczna-2026-10-03T15:00:00+02:00": {
       "title": "RAVEOWISKO – rodzinna impreza taneczna",
@@ -3867,47 +3527,6 @@
       "district": "Stare Miasto",
       "updated_at": "2026-09-25T11:44:14.902276+00:00"
     },
-    "od-r-kopisu-po-druk-o-tw-rcze-odkrycia-w-ossolineum-2026-10-03T12:00:00+02:00": {
-      "title": "Od rękopisu po druk | O! Twórcze odkrycia w Ossolineum",
-      "date": "2026-10-03T12:00:00+02:00",
-      "end_date": "2026-10-03T12:00:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,140971c48.html",
-      "description": "Zapraszamy do udziału w zajęciach rodzinnych organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat.\n\n**Od rękopisu po druk – poznajemy narzędzia do tworzenia liter |** **Warsztat rodzinny realizowany w ramach cyklu \"O! Twórcze odkrycia - rodzinne warsztaty artystyczne w Ossolineum\"**\n\nWięcej informacji: https://www.ossolineum.pl/wydarzenia/o-tworcze-odkrycia/\n\nCzym jest rękopis? Co ma wspólnego marmur z pisaniem? Jakich przyrządów używano kiedyś, by kaligrafować litery? Podczas zajęć przetestujemy różne narzędzia piśmiennicze i przekonamy się, że niektóre z nich potrafią zaskoczyć! A wszystko to połączymy z poznawaniem przykładów rękopisów z bogatej kolekcji Ossolineum.",
-      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/5-5-395-395f_w_140971_9898d.webp",
-      "source": "czasdzieci.pl",
-      "location": {
-        "name": "ul. Szewska 37 50-139 Wrocław",
-        "district": "Stare Miasto"
-      },
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "district": "Stare Miasto",
-      "scrapped_url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,140971c48.html",
-      "scrapped_timestamp": "2026-09-25T11:42:50.800833+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Arts"
-      ],
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Od rękopisu po druk | O! Twórcze odkrycia w Ossolineum",
-          "description": "Zapraszamy do udziału w zajęciach rodzinnych organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat.\n\n**Od rękopisu po druk – poznajemy narzędzia do tworzenia liter |** **Warsztat rodzinny realizowany w ramach cyklu \"O! Twórcze odkrycia - rodzinne warsztaty artystyczne w Ossolineum\"**\n\nWięcej informacji: https://www.ossolineum.pl/wydarzenia/o-tworcze-odkrycia/\n\nCzym jest rękopis? Co ma wspólnego marmur z pisaniem? Jakich przyrządów używano kiedyś, by kaligrafować litery? Podczas zajęć przetestujemy różne narzędzia piśmiennicze i przekonamy się, że niektóre z nich potrafią zaskoczyć! A wszystko to połączymy z poznawaniem przykładów rękopisów z bogatej kolekcji Ossolineum."
-        },
-        "en": {
-          "title": "From Manuscript to Print | O! Creative Discoveries at Ossolineum",
-          "description": "We invite you to participate in family activities organized around the second edition of the permanent exhibition \"O! Ossolineum. Treasury under the Dome,\" titled \"Librarian-Visionary.\"\n\nAmong the priceless objects presented are medieval manuscripts, manuscripts of works by outstanding Polish writers, graphics measuring nearly three meters, and gold and silver coins. Many years ago, they found their new home in Wrocław, and now they will become our inspiration for creative artistic activities. This is an opportunity for joint fun – both for children and caregivers – as well as a way to familiarize ourselves with the museum space and connect with culture from an early age.\n\n**From Manuscript to Print – we learn the tools for creating letters |** **Family workshop conducted as part of the \"O! Creative Discoveries\" series."
-        },
-        "uk": {
-          "title": "Від рукопису до друку | О! Творчі відкриття в Осолінеумі",
-          "description": "Запрошуємо до участі в заняттях сімейних, організованих навколо другої версії постійної виставки «О! Осолінеум. Скарбниця під Куполом», що має назву «Бібліотекар-Візіонер».\n\nСеред представлених на ній безцінних об'єктів знаходяться середньовічні манускрипти, рукописи творів видатних польських письменників, графіка, що вимірює майже три метри, а також золоті та срібні монети. Багато років тому вони знайшли свій новий дім у Вроцлаві, а тепер стануть для нас натхненням для творчих дій. Це нагода для спільної гри – як для дітей, так і для опікунів – а також спосіб освоїти музейний простір і встановити контакт з культурою вже з наймолодших років.\n\n**Від рукопису до друку – знайомимося з інструментами для створення літер |** **Сімейний майстер-клас, що реалізується в рамках циклу \"О! Творчі відкриття\"**"
-        }
-      },
-      "updated_at": "2026-09-25T11:44:14.902432+00:00"
-    },
     "haft-w-kolorach-jesieni-compendium-artisticum-w-muzeum-pana-tadeusza-2026-10-10T12:00:00+02:00": {
       "title": "Haft w kolorach jesieni | Compendium artisticum w Muzeum Pana Tadeusza",
       "date": "2026-10-10T12:00:00+02:00",
@@ -4313,86 +3932,6 @@
       "district": "Stare Miasto",
       "updated_at": "2026-09-25T11:44:14.902605+00:00"
     },
-    "wroc-aw-w-pigu-ce-spacer-szlakiem-najpi-kniejszych-zak-tk-w-miasta-2026-10-03T11:00:00+02:00": {
-      "title": "„Wrocław w pigułce“ – spacer szlakiem najpiękniejszych zakątków miasta",
-      "date": "2026-10-03T11:00:00+02:00",
-      "end_date": "2026-10-03T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Czy chciałbyś trochę poznać stolicę Dolnego Śląska? Zwiedzaj Wrocław z licencjonowanym przewodnikiem!\n\n**Spacer szlakiem najpiękniejszych miejsc we Wrocławiu**: Rynek, Uniwersytet Wrocławski, Ostrów Tumski i Promenada nad Odrą. Najciekawszy szlak widokowy miasta. I mnóstwo niesamowitych opowieści!\n\nZobaczysz Wrocław od jego najpiękniejszej strony. Największy średniowieczny Ratusz w Polsce, słynne Organy Englera w Bazylice Św. Elżbiety i perłę w koronie – Uniwersytet Wrocławski a także matkę wrocławskich kościołów – Archikatedrę Św. Jana Chrzciciela. A do tego fenomenalny widok na Ostrów Tumski od strony Promenady Staromiejskiej i przystani parostatków. Wystarczą 2 godziny, aby zobaczyć te największe perełki Wrocławia.\n\nWycieczka z prawdziwym pasjonatem, licencjonowanym profesjonalistą, który opowie Ci o mieście, jego historii, zagadkach i tajemnicach w prosty i przystępny sposób, także z dużą dawką dobrego humoru!\n\nJesteś gotów na taką wycieczkę? Zapraszamy! I dorosłych i dzieci.\n\nKażda sobota o godz. 11.00!\n\nKoszt wycieczki\n\n• 30 zł/os. (dzieci do lat 14)\n\n• 40 zł/os. (dorośli)\n\nPłatność gotówką na miejscu lub on-line Evently: kliknij tutaj, aby kupić bilet.\n\nSzczegóły\n\n• **Start**: Przy Starym Ratuszu na Rynku, przy niedźwiadku malajskim\n\n• Wymagana **rezerwacja** pod nr tel.: **513 946 946** (wyślij SMS lub WhatsApp – a otrzymasz potwierdzenie!)\n\nZapraszamy w każdy weekend! Liczba miejsc ograniczona.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-129a4753ac1100023ecc226437b64ea8/wroclaw-city-guide.jpg",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1396280-wroclaw-w-pigulce-spacer-szlakiem-najpiekniejszych-zakatkow-miasta",
-      "source": "wroclaw.pl",
-      "location": {
-        "name": "Rynek we Wrocławiu Rynek, Wrocław",
-        "district": "Stare Miasto"
-      },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1396280-wroclaw-w-pigulce-spacer-szlakiem-najpiekniejszych-zakatkow-miasta",
-      "scrapped_timestamp": "2026-09-26T11:24:03.821121+00:00",
-      "category": "Field Trips",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "„Wrocław w pigułce“ – spacer szlakiem najpiękniejszych zakątków miasta",
-          "description": "Czy chciałbyś trochę poznać stolicę Dolnego Śląska? Zwiedzaj Wrocław z licencjonowanym przewodnikiem!\n\n**Spacer szlakiem najpiękniejszych miejsc we Wrocławiu**: Rynek, Uniwersytet Wrocławski, Ostrów Tumski i Promenada nad Odrą. Najciekawszy szlak widokowy miasta. I mnóstwo niesamowitych opowieści!\n\nZobaczysz Wrocław od jego najpiękniejszej strony. Największy średniowieczny Ratusz w Polsce, słynne Organy Englera w Bazylice Św. Elżbiety i perłę w koronie – Uniwersytet Wrocławski a także matkę wrocławskich kościołów – Archikatedrę Św. Jana Chrzciciela. A do tego fenomenalny widok na Ostrów Tumski od strony Promenady Staromiejskiej i przystani parostatków. Wystarczą 2 godziny, aby zobaczyć te największe perełki Wrocławia.\n\nWycieczka z prawdziwym pasjonatem, licencjonowanym profesjonalistą, który opowie Ci o mieście, jego historii, zagadkach i tajemnicach w prosty i przystępny sposób, także z dużą dawką dobrego humoru!\n\nJesteś gotów na taką wycieczkę? Zapraszamy! I dorosłych i dzieci.\n\nKażda sobota o godz. 11.00!\n\nKoszt wycieczki\n\n• 30 zł/os. (dzieci do lat 14)\n\n• 40 zł/os. (dorośli)\n\nPłatność gotówką na miejscu lub on-line Evently: kliknij tutaj, aby kupić bilet.\n\nSzczegóły\n\n• **Start**: Przy Starym Ratuszu na Rynku, przy niedźwiadku malajskim\n\n• Wymagana **rezerwacja** pod nr tel.: **513 946 946** (wyślij SMS lub WhatsApp – a otrzymasz potwierdzenie!)\n\nZapraszamy w każdy weekend! Liczba miejsc ograniczona.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
-        },
-        "en": {
-          "title": "\"Wrocław in a Nutshell\" – a walk through the most beautiful corners of the city",
-          "description": "Would you like to get to know the capital of Lower Silesia a bit? Explore Wrocław with a licensed guide!\n\n**A walk through the most beautiful places in Wrocław**: Market Square, Wrocław University, Ostrów Tumski, and the Promenade by the Oder. The most interesting scenic route in the city. And a lot of amazing stories!\n\nYou will see Wrocław from its most beautiful side. The largest medieval Town Hall in Poland, the famous Engler Organ in St. Elizabeth's Basilica, and the crown jewel – Wrocław University, as well as the mother of Wrocław's churches – the Archcathedral of St. John the Baptist. Plus, a phenomenal view of Ostrów Tumski from the Old Town Promenade and the steamboat dock. Just 2 hours are enough to see these greatest gems of Wrocław.\n\nA tour with a true enthusiast, a licensed professional, who"
-        },
-        "uk": {
-          "title": "„Вроцлав у пігулці“ – прогулянка слідами найкрасивіших куточків міста",
-          "description": "Чи хотів би ти трохи познайомитися зі столицею Нижньої Сілезії? Відвідуй Вроцлав з ліцензованим гідом!\n\n**Прогулянка слідами найкрасивіших місць у Вроцлаві**: Ринок, Вроцлавський університет, Острів Тумський та Променад над Одером. Найцікавіший оглядовий маршрут міста. І безліч неймовірних історій!\n\nТи побачиш Вроцлав з його найкрасивішого боку. Найбільша середньовічна Ратуша в Польщі, знамениті Органи Енглера в Базиліці Св. Єлизавети та перлина в короні – Вроцлавський університет, а також матір вроцлавських церков – Архікатедра Св. Яна Хрестителя. А до того ж феноменальний вид на Острів Тумський з боку Променади Староміської та пристані пароплавів. Достатньо 2 години, щоб побачити ці найбільші перлинки Вроцлава.\n\nЕкскурсія з справжнім захопленим, ліцензованим професіоналом, котрий"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-09-26T11:25:45.120779+00:00"
-    },
-    "bezp-atne-zaj-cia-og-lnorozwojowe-z-elementami-koszyk-wki-dla-dzieci-od-2-roku-ycia-2026-10-03T09:15:00+02:00": {
-      "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci od 2 roku życia",
-      "date": "2026-10-03T09:15:00+02:00",
-      "end_date": "2026-10-03T09:15:00+02:00",
-      "startTimeKnown": true,
-      "description": "**HARMONOGRAM 12.09.2026 (w centrum Wrocławia IX LO, ul. ks. P. Skargi 31 (wjazd od ul. Nowej):**\n\n• 09:15-10:00: 2-3 lata,\n\n• 10:00-10:45: 3-3,5 lat,\n\n• 10:45-11:45: 3,5-4,5 lat,\n\n• 11:45-12:45: 4,5-6 lat,\n\n• 12:45-13:45: 6,5-8,0 lat.\n\n**HARMONOGRAM 18.09.2026 (Lipa Piotrowska) ZSP26, ul. Cynamonowa 40 (wejście szkolne - duża sala na parterze)**\n\n• 17:15-18:00: 3-5 lat,\n\n• 18:00-19:00: 6-8 lat,\n\n• 19:00-20:00: 9-12 lat.\n\n**Drogi rodzicu:**\n\n• Chcesz rozwijać motywację i pewność siebie u swojego dziecka?\n\n• Chcesz poprawić intuicję i koncentracje swojego malucha?\n\n• Twoje dziecko jest spragnione pozytywnych wrażeń i nie cierpi nudy?\n\n• Pragniesz poprawić dziecku kondycję i ogólną sprawność fizyczną?\n\n• Zależy ci na znalezieniu dla swojej pociechy przyjaźni na całe życie poprzez kształtowanie jego kompetencji, intencji i współpracy w grupie?\n\nJeśli chociaż raz odpowiedziałeś TAK, to nasza propozycja jest właśnie dla ciebie! Przyjdź na pierwsze bezpłatne i niezobowiązujące zajęcia i przekonaj się, jak świetnie twoje dziecko może spędzić czas.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-ad9e0708ac1100026d1ae29d85b928f4/undefinedundefined",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415734-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci-od-2-roku-zycia-wroclaw",
-      "source": "wroclaw.pl",
-      "location": {
-        "name": "IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31"
-      },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415734-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci-od-2-roku-zycia-wroclaw",
-      "scrapped_timestamp": "2026-09-26T11:24:20.399891+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 2,
-        "max": 3
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci od 2 roku życia",
-          "description": "**HARMONOGRAM 12.09.2026 (w centrum Wrocławia IX LO, ul. ks. P. Skargi 31 (wjazd od ul. Nowej):**\n\n• 09:15-10:00: 2-3 lata,\n\n• 10:00-10:45: 3-3,5 lat,\n\n• 10:45-11:45: 3,5-4,5 lat,\n\n• 11:45-12:45: 4,5-6 lat,\n\n• 12:45-13:45: 6,5-8,0 lat.\n\n**HARMONOGRAM 18.09.2026 (Lipa Piotrowska) ZSP26, ul. Cynamonowa 40 (wejście szkolne - duża sala na parterze)**\n\n• 17:15-18:00: 3-5 lat,\n\n• 18:00-19:00: 6-8 lat,\n\n• 19:00-20:00: 9-12 lat.\n\n**Drogi rodzicu:**\n\n• Chcesz rozwijać motywację i pewność siebie u swojego dziecka?\n\n• Chcesz poprawić intuicję i koncentracje swojego malucha?\n\n• Twoje dziecko jest spragnione pozytywnych wrażeń i nie cierpi nudy?\n\n• Pragniesz poprawić dziecku kondycję i ogólną sprawność fizyczną?\n\n• Zależy ci na znalezieniu dla swojej pociechy przyjaźni na całe życie poprzez kształtowanie jego kompetencji, intencji i współpracy w grupie?\n\nJeśli chociaż raz odpowiedziałeś TAK, to nasza propozycja jest właśnie dla ciebie! Przyjdź na pierwsze bezpłatne i niezobowiązujące zajęcia i przekonaj się, jak świetnie twoje dziecko może spędzić czas.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram"
-        },
-        "en": {
-          "title": "Free developmental classes with elements of basketball for children from 2 years old",
-          "description": "**SCHEDULE 12.09.2026 (in the center of Wrocław IX LO, ul. ks. P. Skargi 31 (entrance from ul. Nowa):**\n\n• 09:15-10:00: 2-3 years,\n\n• 10:00-10:45: 3-3.5 years,\n\n• 10:45-11:45: 3.5-4.5 years,\n\n• 11:45-12:45: 4.5-6 years,\n\n• 12:45-13:45: 6.5-8.0 years.\n\n**SCHEDULE 18.09.2026 (Lipa Piotrowska) ZSP26, ul. Cynamonowa 40 (school entrance - large hall on the ground floor)**\n\n• 17:15-18:00: 3-5 years,\n\n• 18:00-19:00: 6-8 years,\n\n• 19:00-20:00: 9-12 years.\n\n**Dear Parent:**\n\n• Do you want to develop motivation and self-confidence in your child?\n\n• Do you want to improve your little one's intuition and concentration?\n\n• Is your child thirsty for positive experiences and does not suffer from boredom?\n\n• Do you wish to improve your child's fitness and overall physical condition?\n\n• Are you looking for a lifelong friendship for your little one through shaping"
-        },
-        "uk": {
-          "title": "Безкоштовні загальноосвітні заняття з елементами баскетболу для дітей від 2 років",
-          "description": "**ГАРМОНІГРАМ 12.09.2026 (в центрі Вроцлава IX LO, вул. кс. П. Скарги 31 (в'їзд з вул. Нової):**\n\n• 09:15-10:00: 2-3 роки,\n\n• 10:00-10:45: 3-3,5 роки,\n\n• 10:45-11:45: 3,5-4,5 роки,\n\n• 11:45-12:45: 4,5-6 років,\n\n• 12:45-13:45: 6,5-8,0 років.\n\n**ГАРМОНІГРАМ 18.09.2026 (Липа Піотровська) ZSP26, вул. Цинамонова 40 (вхід шкільний - велика зала на першому поверсі)**\n\n• 17:15-18:00: 3-5 років,\n\n• 18:00-19:00: 6-8 років,\n\n• 19:00-20:00: 9-12 років.\n\n**Дорога батьку:**\n\n• Хочеш розвивати мотивацію та впевненість у своєї дитини?\n\n• Хочеш покращити інтуїцію та концентрацію свого малюка?\n\n• Твоє дитя прагне позитивних вражень і не страждає від нудьги?\n\n• Бажаєш покращити дитині фізичну форму та загальну фізичну підготовку?\n\n• Тобі важливо знайти для своєї дитини дружбу на все життя через формування"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-09-26T11:25:45.120859+00:00"
-    },
     "festiwal-m-ode-horyzonty-2026-2026-10-04T00:00:00+02:00": {
       "title": "Festiwal Młode Horyzonty 2026",
       "date": "2026-10-04T00:00:00+02:00",
@@ -4644,48 +4183,6 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-09-27T12:10:50.301500+00:00"
-    },
-    "rodzinne-zwiedzanie-nfm-2026-10-03T12:00:00+02:00": {
-      "title": "Rodzinne zwiedzanie – NFM",
-      "date": "2026-10-03T12:00:00+02:00",
-      "end_date": "2026-10-03T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zwiedzanie Rodzinne to oferta skierowana do rodzin z dziećmi w wieku od 4 do 14 lat, mająca na celu aktywne spędzanie czasu oraz rozbudzanie zainteresowań muzycznych.\n\nPrzebieg wycieczki:\n• Czas trwania: ok. 75 minut.\n• Grupy: 15–25 osób.\n• Cena biletu: 20–25 zł.\n\nPodczas wycieczki przewodnik przybliża historię powstania budynku NFM, prezentuje niedostępne na co dzień pomieszczenia oraz wyjaśnia tajniki powstawania dźwięku. Uczestnicy mają szansę podglądać pracę muzyków, a na najmłodszych czekają drobne niespodzianki.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/4a624df2-f2cd-474e-a722-517c0a9463a3/2f1e6b1f-2fab-411d-8115-590989ccd19d.jpg",
-      "location": {
-        "name": "NFM, sale koncertowe, plac Wolności 1, 50-071 Wrocław",
-        "district": "Stare Miasto"
-      },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/rodzinne-zwiedzanie-nfm-4a624df2-f2cd-474e-a722-517c0a9463a3",
-      "source": "simplygo.pl",
-      "age_hint": "4-14",
-      "age_range": {
-        "min": 4,
-        "max": 14
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/rodzinne-zwiedzanie-nfm-4a624df2-f2cd-474e-a722-517c0a9463a3",
-      "scrapped_timestamp": "2026-09-27T12:10:40.002659+00:00",
-      "category": "Music & Dance",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Rodzinne zwiedzanie – NFM",
-          "description": "Zwiedzanie Rodzinne to oferta skierowana do rodzin z dziećmi w wieku od 4 do 14 lat, mająca na celu aktywne spędzanie czasu oraz rozbudzanie zainteresowań muzycznych.\n\nPrzebieg wycieczki:\n• Czas trwania: ok. 75 minut.\n• Grupy: 15–25 osób.\n• Cena biletu: 20–25 zł.\n\nPodczas wycieczki przewodnik przybliża historię powstania budynku NFM, prezentuje niedostępne na co dzień pomieszczenia oraz wyjaśnia tajniki powstawania dźwięku. Uczestnicy mają szansę podglądać pracę muzyków, a na najmłodszych czekają drobne niespodzianki."
-        },
-        "en": {
-          "title": "Family Tour – NFM",
-          "description": "Family Tours are an offer aimed at families with children aged 4 to 14, designed to actively spend time and awaken musical interests.\n\nCourse of the tour:\n• Duration: approx. 75 minutes.\n• Groups: 15–25 people.\n• Ticket price: 20–25 PLN.\n\nDuring the tour, the guide presents the history of the NFM building, showcases areas not usually accessible, and explains the secrets of sound production. Participants have the chance to observe musicians at work, and there are small surprises waiting for the youngest."
-        },
-        "uk": {
-          "title": "Сімейне відвідування – NFM",
-          "description": "Сімейне відвідування – це пропозиція, спрямована на родини з дітьми віком від 4 до 14 років, яка має на меті активне проведення часу та пробудження музичних інтересів.\n\nПеребіг екскурсії:\n• Час тривалості: близько 75 хвилин.\n• Групи: 15–25 осіб.\n• Ціна квитка: 20–25 грн.\n\nПід час екскурсії гід розповідає про історію створення будівлі NFM, презентує недоступні в повсякденному житті приміщення та пояснює тонкощі виникнення звуку. Учасники мають можливість спостерігати за роботою музикантів, а на найменших чекають маленькі сюрпризи."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-09-27T12:10:50.301664+00:00"
     },
     "pomelo-jest-zakochany-w-abie-deszczu-i-nie-tylko-spektakl-2026-10-04T12:00:00+02:00": {
       "title": "Pomelo jest zakochany... w żabie, deszczu i nie tylko! – spektakl",
@@ -5102,48 +4599,6 @@
       "district": "Krzyki",
       "updated_at": "2026-09-29T12:40:39.466882+00:00"
     },
-    "tryptyk-gotycki-a-co-to-takiego-2026-10-03T11:00:00+02:00": {
-      "title": "Tryptyk gotycki – a co to takiego?",
-      "date": "2026-10-03T11:00:00+02:00",
-      "end_date": "2026-10-03T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "**Zajęcia plastyczne dla dzieci i młodzieży w wieku 10–15 lat w ramach wydarzeń towarzyszących wystawie „Stulecie. W rocznicę wielkiej wystawy śląskiej sztuki średniowiecznej”, prowadzenie: Izabela Trembałowicz-Chęć**\n\nCzym były tryptyki, skąd wzięła się ich nazwa i dlaczego stawiano je na ołtarzach? Dla uczestników spotkania nie będzie to już tajemnicą, a na koniec sami staną się twórcami i jako zespół stworzą nastawę ołtarzową według wspólnego pomysłu.\n\nSpotkanie w Pawilonie Czterech Kopuł, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81 (od poniedziałku do piątku, w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.\n\n■ Wydarzenia edukacyjne ➸\n\n**■ Fotorelacje edukacyjne ➸**",
-      "image": "https://mnwr.pl/wp-content/uploads/2018/06/wizyta_MNWr-1.jpg",
-      "url": "https://mnwr.pl/tryptyk-gotycki-a-co-to-takiego",
-      "source": "mnwr.pl",
-      "location": {
-        "name": "Muzeum Narodowe we Wrocławiu",
-        "district": "Śródmieście"
-      },
-      "age_hint": "10-15",
-      "scrapped_url": "https://mnwr.pl/tryptyk-gotycki-a-co-to-takiego",
-      "scrapped_timestamp": "2026-09-29T12:40:17.678869+00:00",
-      "category": "Arts",
-      "additional_categories": [
-        "Workshops"
-      ],
-      "age_range": {
-        "min": 10,
-        "max": 15
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Tryptyk gotycki – a co to takiego?",
-          "description": "**Zajęcia plastyczne dla dzieci i młodzieży w wieku 10–15 lat w ramach wydarzeń towarzyszących wystawie „Stulecie. W rocznicę wielkiej wystawy śląskiej sztuki średniowiecznej”, prowadzenie: Izabela Trembałowicz-Chęć**\n\nCzym były tryptyki, skąd wzięła się ich nazwa i dlaczego stawiano je na ołtarzach? Dla uczestników spotkania nie będzie to już tajemnicą, a na koniec sami staną się twórcami i jako zespół stworzą nastawę ołtarzową według wspólnego pomysłu.\n\nSpotkanie w Pawilonie Czterech Kopuł, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81 (od poniedziałku do piątku, w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.\n\n■ Wydarzenia edukacyjne ➸\n\n**■ Fotorelacje edukacyjne ➸**"
-        },
-        "en": {
-          "title": "Gothic Triptych – what is it?",
-          "description": "**Art classes for children and youth aged 10–15 as part of the accompanying events of the exhibition \"Centenary. On the anniversary of the great exhibition of Silesian medieval art\", led by: Izabela Trembałowicz-Chęć**\n\nWhat were triptychs, where did their name come from, and why were they placed on altars? For the participants of the meeting, this will no longer be a mystery, and in the end, they will become creators themselves and as a team will create an altarpiece based on a common idea.\n\nThe meeting will take place at the Pavilion of Four Domes, tickets priced at 10 PLN available at the museum box office. Registration in the week preceding the classes: edukacja.pawilon@mnwr.pl or tel. 71 712 71 81 (Monday to Friday, from 8:00 AM to 4:00 PM). Please inform us in case of cancellation of participation in the meeting.\n\n■ Educational events ➸\n\n**■ Photo reports"
-        },
-        "uk": {
-          "title": "Готичний триптих – а що це таке?",
-          "description": "**Майстер-класи для дітей та молоді віком 10–15 років в рамках супутніх подій виставки «Століття. В річницю великої виставки силезького середньовічного мистецтва», веде: Ізабела Трембало́вич-Хенць**\n\nЩо таке триптихи, звідки походить їхня назва і чому їх ставили на вівтарях? Для учасників зустрічі це вже не буде таємницею, а наприкінці вони самі стануть творцями і як команда створять вівтар за спільною ідеєю.\n\nЗустріч у Павільйоні Чотирьох Куполів, квитки в ціні 10 зл. можна придбати в касі музею. Запис у тиждень, що передує заняттям: edukacja.pawilon@mnwr.pl або тел. 71 712 71 81 (з понеділка по п’ятницю, з 8.00 до 16.00). Просимо про інформацію у випадку відмови від участі в зустрічі.\n\n■ Освітні події ➸\n\n**■ Фоторепортажі"
-        }
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-29T12:40:39.466923+00:00"
-    },
     "kolor-kszta-t-emocja-2026-10-03T14:00:00+02:00": {
       "title": "Kolor-kształt-emocja",
       "date": "2026-10-03T14:00:00+02:00",
@@ -5223,51 +4678,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-09-29T12:40:39.466955+00:00"
-    },
-    "iv-szczepi-skie-wi-to-dyni-2026-10-03T11:00:00+02:00": {
-      "title": "IV Szczepińskie Święto Dyni",
-      "date": "2026-10-03T11:00:00+02:00",
-      "end_date": "2026-10-03T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "3 października na Skwerze de Veuster największe, jesienne wydarzenie na Szczepinie. Zaczynamy o godz. 11.00! IV Szczepińskie Święto Dyni.\n\nMusicie z nami być!\n\n• godz. 11.00 zabawa dla dzieci z animatorką Anna Affa,\n\n• godz. 12.00 Szczepińska Fotobudka Cuda Wianki,\n\n• godz. 12.00-15.00 Strefa Rodzinnych Warsztatów,\n\n• godz. 12.00 Pan Dynia na torbach czyli pamiątkowe sito od Panato Sito,\n\n• godz. 14.00 zatrzymujemy imprezę i robimy wspólne zdjęcie z drona - Uwaga! Ubierzcie coś pomarańczowego!\n\n• godz. 15.15 rozdanie nagród w konkursie na najładniej wydrążoną dynię,\n\n• godz. 15.15 rozdanie nagród w konkursie na najlepsze ciasto dyniowe,\n\n• godz. 15.30 sąsiedzka degustacja zupy dyniowej.\n\nMało? Dokładamy przez cały czas malowanie buziek i watę cukrową.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-aa121259ac11000267e49426eee195ef/805885193-1718361476958149-417243590940685515-n.jpg",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416690-iv-szczepinskie-swieto-dyni",
-      "source": "wroclaw.pl",
-      "location": {
-        "name": "Skwer św. Damiana de Veuster Zachodnia, Wrocław",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416690-iv-szczepinskie-swieto-dyni",
-      "scrapped_timestamp": "2026-09-30T12:39:02.410645+00:00",
-      "category": "Seasonal Festival",
-      "additional_categories": [
-        "Family Fun",
-        "Workshops"
-      ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "IV Szczepińskie Święto Dyni",
-          "description": "3 października na Skwerze de Veuster największe, jesienne wydarzenie na Szczepinie. Zaczynamy o godz. 11.00! IV Szczepińskie Święto Dyni.\n\nMusicie z nami być!\n\n• godz. 11.00 zabawa dla dzieci z animatorką Anna Affa,\n\n• godz. 12.00 Szczepińska Fotobudka Cuda Wianki,\n\n• godz. 12.00-15.00 Strefa Rodzinnych Warsztatów,\n\n• godz. 12.00 Pan Dynia na torbach czyli pamiątkowe sito od Panato Sito,\n\n• godz. 14.00 zatrzymujemy imprezę i robimy wspólne zdjęcie z drona - Uwaga! Ubierzcie coś pomarańczowego!\n\n• godz. 15.15 rozdanie nagród w konkursie na najładniej wydrążoną dynię,\n\n• godz. 15.15 rozdanie nagród w konkursie na najlepsze ciasto dyniowe,\n\n• godz. 15.30 sąsiedzka degustacja zupy dyniowej.\n\nMało? Dokładamy przez cały czas malowanie buziek i watę cukrową.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook"
-        },
-        "en": {
-          "title": "IV Szczepińskie Pumpkin Festival",
-          "description": "On October 3rd at de Veuster Square, the biggest autumn event in Szczepin. We start at 11:00 AM! IV Szczepińskie Pumpkin Festival.\n\nYou must be with us!\n\n• 11:00 AM fun for children with animator Anna Affa,\n\n• 12:00 PM Szczepińska Photo Booth Cuda Wianki,\n\n• 12:00 PM - 3:00 PM Family Workshop Zone,\n\n• 12:00 PM Mr. Pumpkin on bags, i.e., a souvenir sieve from Panato Sito,\n\n• 2:00 PM we pause the event and take a group photo from a drone - Attention! Wear something orange!\n\n• 3:15 PM award ceremony for the best carved pumpkin contest,\n\n• 3:15 PM award ceremony for the best pumpkin pie contest,\n\n• 3:30 PM neighborhood tasting of pumpkin soup.\n\nIs that not enough? We are also adding face painting and cotton candy throughout the event.\n\nAdditional information\n\n• Opens at"
-        },
-        "uk": {
-          "title": "IV Щепінське Свято Гарбузів",
-          "description": "3 жовтня на Сквері де Вюстер найбільша, осіння подія на Щепіні. Починаємо о 11:00! IV Щепінське Свято Гарбузів.\n\nМусите бути з нами!\n\n• о 11:00 розваги для дітей з аніматоркою Анною Аффа,\n\n• о 12:00 Щепінська Фотобудка Чуда Вінки,\n\n• о 12:00-15:00 Зона Сімейних Майстер-класів,\n\n• о 12:00 Пан Гарбуз на торбах, тобто пам'ятне сито від Панато Сито,\n\n• о 14:00 зупиняємо свято і робимо спільне фото з дрона - Увага! Одягніть щось помаранчеве!\n\n• о 15:15 роздача призів у конкурсі на найгарніше вирізане гарбуз,\n\n• о 15:15 роздача призів у конкурсі на найкращий гарбузовий пиріг,\n\n• о 15:30 сусідська дегустація гарбузового супу.\n\nМало? Додаємо протягом усього часу малювання облич і цукрову вату.\n\nДодаткова інформація\n\n• Відкривається в"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-30T12:41:36.990434+00:00"
     },
     "owcy-blasku-w-pracowni-barokowego-z-otnika-2026-10-11T11:00:00+02:00": {
       "title": "Łowcy blasku. W pracowni barokowego złotnika",
@@ -5868,85 +5278,6 @@
       },
       "updated_at": "2026-09-30T12:41:36.990780+00:00"
     },
-    "mosty-i-wyspy-wroc-awia-spacer-z-przewodnikiem-walkative-2026-10-02T17:00:00+02:00": {
-      "title": "Mosty i wyspy Wrocławia – spacer z przewodnikiem Walkative!",
-      "date": "2026-10-02T17:00:00+02:00",
-      "end_date": "2026-10-02T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Niektórzy nazywają Wrocław „Wenecją Północy” gdyż przepływająca przezeń Odra tworzy tu ponad 21 malowniczych wysp, a mieszkańcy przez wieki zbudowali na rzece ponad 100 mostów.\n\nZapraszamy na wieczorny spacer wzdłuż Odry i jej przepięknie iluminowanych brzegów. Przejdziemy przez najbardziej malownicze zakątki miasta, będziemy także świadkami niezwykłego wydarzenia – rytuału zapalania starych ulicznych lamp, który nie zmienił się od setek lat. Zanurz się z nami w bajkową atmosferę wieczornego Wrocławia i posłuchaj historii o tym jak natura przez wieki kształtowała miasto i jego losy. Dowiedz się o największej powodzi w jego historii, która miała miejsce zaledwie dwie dekady temu. Podziwiaj z nami odwagę wrocławian, którzy stanęli w obronie miasta i dzięki temu nauczyli się je kochać, wielu po raz pierwszy od zakończenia II wojny światowej.\n\nZapraszamy na wycieczkę Mosty Wrocławia – według wielu naszych gości jest to jeden z najpiękniejszych i najbardziej romantycznych spacerów na jakie możesz się wybrać w Europie!\n\nWycieczki możecie zarezerwować on-line tutaj.\n\nInformacje dodatkowe: +48 513 875 814\n\nSpotykamy się przy pomniku Aleksandra Fredry na Rynku Głównym, obok wejścia na wieżę ratuszową. Szukajcie przewodnika z żółtym parasolem.\n\nPamiętajcie, że rezerwacja jest obowiązkowa. Ustaliliśmy limit wielkości grup, także spieszcie się i rezerwujcie! Wycieczki działają w naszej formule „płacisz, ile uważasz za stosowne” – to wyłącznie Wy decydujecie jak wynagrodzić przewodnika za jego pracę. Wysokość kwoty jest dowolna. Możecie jednak pomyśleć o wycieczce jak o wypadzie do kina. Przez około 2 godziny będziecie się dobrze bawić.\n\nNiech kwota odzwierciedla cenę biletu – to, czy byliście w tanim kinie studyjnym czy w drogim multipleksie pozostawiamy już Waszej decyzji. Natomiast prosimy o nie jedzenie popcornu na wycieczce. Zapraszamy!\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=png/https://go.wroclaw.pl/api/download/img-bec21b59ac11000227c9972c7dec2671/mosty-i-wyspy-wroclawia-2.png",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1351403-mosty-i-wyspy-wroclawia-spacer-z-przewodnikiem-walkative",
-      "source": "wroclaw.pl",
-      "location": {
-        "name": "Pomnik hr. Aleksandra Fredry Rynek 12-28, Wrocław",
-        "district": "Stare Miasto"
-      },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1351403-mosty-i-wyspy-wroclawia-spacer-z-przewodnikiem-walkative",
-      "scrapped_timestamp": "2026-10-01T12:59:16.338330+00:00",
-      "category": "Field Trips",
-      "additional_categories": [
-        "Nature & Wildlife"
-      ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Mosty i wyspy Wrocławia – spacer z przewodnikiem Walkative!",
-          "description": "Niektórzy nazywają Wrocław „Wenecją Północy” gdyż przepływająca przezeń Odra tworzy tu ponad 21 malowniczych wysp, a mieszkańcy przez wieki zbudowali na rzece ponad 100 mostów.\n\nZapraszamy na wieczorny spacer wzdłuż Odry i jej przepięknie iluminowanych brzegów. Przejdziemy przez najbardziej malownicze zakątki miasta, będziemy także świadkami niezwykłego wydarzenia – rytuału zapalania starych ulicznych lamp, który nie zmienił się od setek lat. Zanurz się z nami w bajkową atmosferę wieczornego Wrocławia i posłuchaj historii o tym jak natura przez wieki kształtowała miasto i jego losy. Dowiedz się o największej powodzi w jego historii, która miała miejsce zaledwie dwie dekady temu. Podziwiaj z nami odwagę wrocławian, którzy stanęli w obronie miasta i dzięki temu nauczyli się je kochać, wielu po raz pierwszy od zakończenia II wojny światowej.\n\nZapraszamy na wycieczkę Mosty Wrocławia – według wielu naszych gości jest to jeden z najpiękniejszych i najbardziej romantycznych spacerów na jakie możesz się wybrać w Europie!\n\nWycieczki możecie zarezerwować on-line tutaj.\n\nInformacje dodatkowe: +48 513 875 814\n\nSpotykamy się przy pomniku Aleksandra Fredry na Rynku Głównym, obok wejścia na wieżę ratuszową. Szukajcie przewodnika z żółtym parasolem.\n\nPamiętajcie, że rezerwacja jest obowiązkowa. Ustaliliśmy limit wielkości grup, także spieszcie się i rezerwujcie! Wycieczki działają w naszej formule „płacisz, ile uważasz za stosowne” – to wyłącznie Wy decydujecie jak wynagrodzić przewodnika za jego pracę. Wysokość kwoty jest dowolna. Możecie jednak pomyśleć o wycieczce jak o wypadzie do kina. Przez około 2 godziny będziecie się dobrze bawić.\n\nNiech kwota odzwierciedla cenę biletu – to, czy byliście w tanim kinie studyjnym czy w drogim multipleksie pozostawiamy już Waszej decyzji. Natomiast prosimy o nie jedzenie popcornu na wycieczce. Zapraszamy!\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
-        },
-        "en": {
-          "title": "Bridges and Islands of Wrocław – Guided Walk with Walkative!",
-          "description": "Some call Wrocław the \"Venice of the North\" because the Odra River flowing through it creates over 21 picturesque islands, and for centuries, residents have built more than 100 bridges on the river.\n\nWe invite you to an evening walk along the Odra and its beautifully illuminated banks. We will pass through the most picturesque corners of the city, and we will also witness an extraordinary event – the ritual of lighting old street lamps, which has not changed for hundreds of years. Immerse yourself with us in the fairy-tale atmosphere of evening Wrocław and listen to stories about how nature has shaped the city and its fate over the centuries. Learn about the greatest flood in its history, which occurred just two decades ago. Admire with us the courage of the people of Wrocław, who stood up to defend the city and thus learned to love it, many"
-        },
-        "uk": {
-          "title": "Мости та острови Вроцлава – прогулянка з гідом Walkative!",
-          "description": "Дехто називає Вроцлав «Венецією Півночі», оскільки річка Одер, що протікає через нього, утворює тут понад 21 мальовничий острів, а мешканці протягом століть збудували на річці понад 100 мостів.\n\nЗапрошуємо на вечірню прогулянку вздовж Одри та її прекрасно освітлених берегів. Пройдемо через наймальовничіші куточки міста, будемо також свідками незвичайної події – ритуалу запалювання старих вуличних ламп, який не змінився протягом сотень років. Пориньте з нами в казкову атмосферу вечірнього Вроцлава та послухайте історії про те, як природа протягом століть формувала місто та його долю. Дізнайтеся про найбільшу повінь в його історії, яка сталася всього лише два десятиліття тому. Захоплюйтеся разом з нами відвагою вроцлавців, які стали на захист міста і завдяки цьому навчилися його любити, багато"
-        }
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-10-01T13:00:34.067094+00:00"
-    },
-    "bezp-atne-warsztaty-dla-dzieci-detektywi-emocji-2026-10-03T10:00:00+02:00": {
-      "title": "Bezpłatne warsztaty dla dzieci - Detektywi Emocji",
-      "date": "2026-10-03T10:00:00+02:00",
-      "end_date": "2026-10-03T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy dzieci (4-8 lat) na wyjątkową przygodę detektywistyczną, podczas której wspólnie wyruszymy na poszukiwanie zaginionej Złości. Wcielimy się w rolę detektywów emocji i sporządzimy jej rysopis oraz ruszymy jej śladami aby ją odnaleźć.\n\n**Dlaczego warto przyjść?**\n\n• Każdy stworzy swoją odznakę detektywa.\n\n• Sporządzicie rysopis zaginionej Złości.\n\n• Wcielicie się w rolę detektywów i przeżyjecie emocjonujące śledztwo.\n\n• Nauczycie się rozpoznawać sygnały emocji i ich ślady w ciele.\n\n• Odkryjecie, że każda emocja ma swoje znaczenie i może być pomocna.\n\nPomóżcie nam odnaleźć złość i zostańmy razem Detektywami Emocji.\n\nNa warsztaty obowiązują zapisy (link poniżej). Liczba miejsc ograniczona! Termin: 3.10.2026 Godzina: 10:00- 11:30 Miejsce: Rada Osiedla Oporów.\n\nZapisy.\n\nW razie wątpliwości zapraszamy do kontaktu.\n\nKontakt: 793 453 774\n\n[email protected]\n\nProjekt “PROMOCJA ZDROWIA PSYCHICZNEGO ORAZ PROFILAKTYKA ZABURZEŃ I CHORÓB PSYCHICZNYCH WŚRÓD MIESZKAŃCÓW WROCŁAWIA” jest współfinansowany ze środków Gminy Wrocław.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-f8a9c439ac110002213306e4f32cfedc/public-form-image",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1416743-bezplatne-warsztaty-dla-dzieci-detektywi-emocji",
-      "source": "wroclaw.pl",
-      "location": {
-        "name": "Wiejska 2/4 Wrocław",
-        "district": "Fabryczna"
-      },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1416743-bezplatne-warsztaty-dla-dzieci-detektywi-emocji",
-      "scrapped_timestamp": "2026-10-01T12:59:22.595644+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne warsztaty dla dzieci - Detektywi Emocji",
-          "description": "Zapraszamy dzieci (4-8 lat) na wyjątkową przygodę detektywistyczną, podczas której wspólnie wyruszymy na poszukiwanie zaginionej Złości. Wcielimy się w rolę detektywów emocji i sporządzimy jej rysopis oraz ruszymy jej śladami aby ją odnaleźć.\n\n**Dlaczego warto przyjść?**\n\n• Każdy stworzy swoją odznakę detektywa.\n\n• Sporządzicie rysopis zaginionej Złości.\n\n• Wcielicie się w rolę detektywów i przeżyjecie emocjonujące śledztwo.\n\n• Nauczycie się rozpoznawać sygnały emocji i ich ślady w ciele.\n\n• Odkryjecie, że każda emocja ma swoje znaczenie i może być pomocna.\n\nPomóżcie nam odnaleźć złość i zostańmy razem Detektywami Emocji.\n\nNa warsztaty obowiązują zapisy (link poniżej). Liczba miejsc ograniczona! Termin: 3.10.2026 Godzina: 10:00- 11:30 Miejsce: Rada Osiedla Oporów.\n\nZapisy.\n\nW razie wątpliwości zapraszamy do kontaktu.\n\nKontakt: 793 453 774\n\n[email protected]\n\nProjekt “PROMOCJA ZDROWIA PSYCHICZNEGO ORAZ PROFILAKTYKA ZABURZEŃ I CHORÓB PSYCHICZNYCH WŚRÓD MIESZKAŃCÓW WROCŁAWIA” jest współfinansowany ze środków Gminy Wrocław.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
-        },
-        "en": {
-          "title": "Free Workshops for Children - Emotion Detectives",
-          "description": "We invite children (4-8 years old) to a unique detective adventure, during which we will embark on a quest to find the lost Anger. We will take on the role of emotion detectives and create a profile of it, then follow its traces to find it.\n\n**Why is it worth coming?**\n\n• Everyone will create their own detective badge.\n\n• You will create a profile of the lost Anger.\n\n• You will take on the role of detectives and experience an exciting investigation.\n\n• You will learn to recognize emotional signals and their traces in the body.\n\n• You will discover that every emotion has its meaning and can be helpful.\n\nHelp us find anger and let's stay Emotion Detectives together.\n\nRegistration is required for the workshops (link below). Limited spots available! Date: 10/3/2026 Time: 10:00 AM - 11:30 AM Location: Oporów Neighborhood Council.\n\nRegistration.\n\nIn case of doubts"
-        },
-        "uk": {
-          "title": "Безкоштовні майстер-класи для дітей - Детективи Емоцій",
-          "description": "Запрошуємо дітей (4-8 років) на унікальну детективну пригоду, під час якої спільно вирушимо на пошуки зниклої Злості. Втілимося в роль детективів емоцій і складемо її опис, а також вирушимо її слідами, щоб її знайти.\n\n**Чому варто прийти?**\n\n• Кожен створить свою значок детектива.\n\n• Складете опис зниклої Злості.\n\n• Втілитеся в роль детективів і переживете емоційне розслідування.\n\n• Навчитеся розпізнавати сигнали емоцій і їх сліди в тілі.\n\n• Відкриєте, що кожна емоція має своє значення і може бути корисною.\n\nДопоможіть нам знайти злість і залишимося разом Детективами Емоцій.\n\nНа майстер-класи обов'язкові записи (посилання нижче). Кількість місць обмежена! Дата: 3.10.2026 Час: 10:00- 11:30 Місце: Рада Оселення Опорів.\n\nЗаписи.\n\nУ разі сумнівів"
-        }
-      },
-      "district": "Fabryczna",
-      "updated_at": "2026-10-01T13:00:34.067115+00:00"
-    },
     "flying-hub-warsztaty-dla-m-odzie-y-2026-10-04T15:00:00+02:00": {
       "title": "Flying HUB. Warsztaty dla młodzieży",
       "date": "2026-10-04T15:00:00+02:00",
@@ -6029,44 +5360,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-10-01T13:00:34.067182+00:00"
-    },
-    "b-d-my-sob-warsztaty-z-ann-paszkiewicz-2026-10-03T11:00:00+02:00": {
-      "title": "Bądźmy sobą – warsztaty z Anną Paszkiewicz",
-      "date": "2026-10-03T11:00:00+02:00",
-      "end_date": "2026-10-03T11:00:00+02:00",
-      "startTimeKnown": true,
-      "url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,141033922.html",
-      "description": "Koło jest inne. Ma nietypowy kolor, fakturę i nawet jego kształt nie jest idealny – wszystko z powodu wypustek, które trochę przypominają zębatki, a trochę różnej długości kolce. Wędruje po świecie w poszukiwaniu swojego miejsca. Wciąż ma wrażenie, że nigdzie nie pasuje…\n\nKogo spotka, jakich rad wysłucha i czy znajdzie dla siebie przestrzeń? A może będzie musiało się zmienić, by wreszcie gdzieś się wpasować? Tego dowiedzą się uczestniczy podczas zajęć. W trakcie warsztatów czekają na nich zadania integracyjne. Porozmawiają o autentyczności, inności i o tym, co naprawdę oznacza bycie sobą. Na koniec stworzą niezwykłe kolaże.\n\n**Anna Paszkiewicz** – autorka ponad sześćdziesięciu książek dla dzieci, w tym \"Coś i nic\", która znalazła się na międzynarodowej liście Białych Kruków 2021. Jej książki zostały przetłumaczone na wiele języków. Jest również autorką scenariuszy dla nauczycieli. Regularnie współpracuje z „Promyczkiem”, magazynem dla dzieci niewidomych i niedowidzących. Prowadzi warsztaty czytelnicze dla dzieci w szkołach i przedszkolach. Pisze również wiersze dla dorosłych.\n\n[biogram pochodzi z wydawnictwa Widnokrąg]\n\nWarsztaty przeznaczone dla dzieci od 5 do 8 lat. Obowiązują BILETY!\n\n**Data wydarzenia: 03.10.2026**",
-      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/313-21-579-5796abe2bdfd94a21790847967i-insert-i.jpg",
-      "source": "czasdzieci.pl",
-      "location": {
-        "name": "Filia nr 23 MBP, Bulwar Ikara 29-31",
-        "district": "Fabryczna"
-      },
-      "age_range": {
-        "min": 5,
-        "max": 8
-      },
-      "district": "Fabryczna",
-      "scrapped_url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,141033922.html",
-      "scrapped_timestamp": "2026-10-01T13:00:25.785295+00:00",
-      "category": "Workshops",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bądźmy sobą – warsztaty z Anną Paszkiewicz",
-          "description": "Koło jest inne. Ma nietypowy kolor, fakturę i nawet jego kształt nie jest idealny – wszystko z powodu wypustek, które trochę przypominają zębatki, a trochę różnej długości kolce. Wędruje po świecie w poszukiwaniu swojego miejsca. Wciąż ma wrażenie, że nigdzie nie pasuje…\n\nKogo spotka, jakich rad wysłucha i czy znajdzie dla siebie przestrzeń? A może będzie musiało się zmienić, by wreszcie gdzieś się wpasować? Tego dowiedzą się uczestniczy podczas zajęć. W trakcie warsztatów czekają na nich zadania integracyjne. Porozmawiają o autentyczności, inności i o tym, co naprawdę oznacza bycie sobą. Na koniec stworzą niezwykłe kolaże.\n\n**Anna Paszkiewicz** – autorka ponad sześćdziesięciu książek dla dzieci, w tym \"Coś i nic\", która znalazła się na międzynarodowej liście Białych Kruków 2021. Jej książki zostały przetłumaczone na wiele języków. Jest również autorką scenariuszy dla nauczycieli. Regularnie współpracuje z „Promyczkiem”, magazynem dla dzieci niewidomych i niedowidzących. Prowadzi warsztaty czytelnicze dla dzieci w szkołach i przedszkolach. Pisze również wiersze dla dorosłych.\n\n[biogram pochodzi z wydawnictwa Widnokrąg]\n\nWarsztaty przeznaczone dla dzieci od 5 do 8 lat. Obowiązują BILETY!\n\n**Data wydarzenia: 03.10.2026**"
-        },
-        "en": {
-          "title": "Let's Be Ourselves – Workshops with Anna Paszkiewicz",
-          "description": "The circle is different. It has an unusual color, texture, and even its shape is not perfect – all because of the protrusions that somewhat resemble gears and somewhat spikes of varying lengths. It wanders the world in search of its place. It still has the impression that it fits nowhere...\n\nWho will it meet, what advice will it listen to, and will it find a space for itself? Or maybe it will have to change to finally fit somewhere? Participants will find out during the sessions. During the workshops, they will face integration tasks. They will talk about authenticity, otherness, and what it really means to be oneself. In the end, they will create extraordinary collages.\n\n**Anna Paszkiewicz** – the author of over sixty children's books, including \"Something and Nothing,\" which made it to the international list of White Ravens 2021. Her book"
-        },
-        "uk": {
-          "title": "Будьмо собою – майстер-класи з Анною Пашкевич",
-          "description": "Коло інше. Має нетиповий колір, фактуру і навіть його форма не ідеальна – все через випустки, які трохи нагадують зубчики, а трохи різної довжини шипи. Мандрує світом у пошуках свого місця. Все ще має враження, що нікуди не підходить…\n\nКого зустріне, яких порад вислухає і чи знайде для себе простір? А може, йому доведеться змінитися, щоб нарешті десь втиснутися? Цього дізнаються учасники під час занять. У процесі майстер-класів на них чекають інтеграційні завдання. Поговорять про автентичність, інакшість і про те, що насправді означає бути собою. На кінець створять незвичайні колажі.\n\n**Анна Пашкевич** – авторка понад шістдесяти книг для дітей, зокрема \"Щось і нічого\", яка потрапила до міжнародного списку Білих Круків 2021. Її книга"
-        }
-      },
-      "updated_at": "2026-10-01T13:00:34.067203+00:00"
     },
     "wiklinowe-karmniki-na-kule-t-uszczowe-dla-ptak-w-2026-10-17T10:00:00+02:00": {
       "title": "Wiklinowe karmniki na kule tłuszczowe dla ptaków",
@@ -6162,47 +5455,6 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-10-02T12:48:52.987465+00:00"
-    },
-    "gospodarstwo-zwierz-t-opowie-teatr-polski-we-wroc-awiu-2026-10-03T11:00:00+02:00": {
-      "title": "Gospodarstwo zwierząt. Opowieść – Teatr Polski we Wrocławiu",
-      "date": "2026-10-03T11:00:00+02:00",
-      "end_date": "2026-10-03T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na spektakl familijny przeznaczony dla dzieci 7+ pt. \"Gospodarstwo zwierząt. Opowieść\" w Teatrze Polskim we Wrocławiu.\n\nO spektaklu:\n\nWyobraź sobie gospodarstwo, w którym zwierzęta mówią: „Cztery nogi dobre, dwie nogi złe!”.\n\nI zaczynają działać.\n\nPrzeganiają ludzi, przejmują władzę i próbują stworzyć świat na własnych zasadach. Na początku wszystko brzmi świetnie: równość, wspólna praca i wielkie marzenia o lepszym życiu. No i wreszcie nikt nie będzie mówił, co trzeba robić...\n\nAle czy świat da się urządzić tak łatwo? Co się stanie, jeśli ktoś zaczyna się uważać za lepszego i ważniejszego od innych?\n\nW gospodarstwie szybko pojawiają się nowi przywódcy. Na ich czele stoi Napoleon sprytna świnia, która coraz częściej podejmuje decyzje za wszystkich, tak, aby jej było dobrze. Po cichu zmieniane są ustalone zasady. Napoleonowi pomagają inne świnie, a porządku pilnują psy, które potrafią być naprawdę groźne.\n\nZwierzęta różnie reagują na sytuację. Bokser to silny koń, który wierzy, że jeśli będzie pracował ciężej, wszystko się uda. Koniczyna uważna i troskliwa klacz zaczyna zauważać, że coś tu się nie zgadza. Beniamin, stary osioł, mówi niewiele, ale rozumie więcej, niż pokazuje.\n\nChoć bez ludzi miało być lepiej, szybko świat zwierząt upodabnia się do tego, jak wyglądał wcześniej, jakby kręcił się w kółko, podobnie do karuzeli, która wiruje na scenie. Tylko czy zawsze trzeba na nią wsiadać?\n\nTo spektakl o tym, dlaczego warto myśleć samodzielnie nawet wtedy, gdy wszyscy wokół powtarzają razem, głośno, to samo hasło. Przedstawiona historia jest znana także dorosłym ale tutaj została opowiedziana inaczej: z humorem i wiarą, że świat można zmieniać razem.\n\nSpektakl jest 636. premierą Teatru Polskiego we Wrocławiu.\n\nObsada:\n\n• Bokser: Edwin Petrykat,\n\n• Koniczyna: Jolanta Zalewska,\n\n• Beniamin: Agata Obłąkowska-Mazurkiewicz,\n\n• Kwik: Krzysztof Brzazgoń,\n\n• Napoleon: Anna Haba,\n\n• głos z offu: Grzegorz Kumorkiewicz\n\n• statyści: Paweł Stanaszek, Bogdan Dyląg, Andrzej Sus, Łukasz Szyszka, Mateusz Stasiuk\n\nCeny biletów:\n\n• I miejsca: 50 zł (norm.), 40 zł (ulg.),\n\n• II miejsca: 40 zł (norm.), 30 zł (ulg.).\n\nBilety można kupić w kasach Teatru Polskiego lub poprzez stronę internetową.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-ade5e0d6ac110002764025d84099b32d/teatr-polski-gospodarstwo-zwierzat-plakat.jpg",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1411113-gospodarstwo-zwierzat-opowiesc-teatr-polski-we-wroclawiu",
-      "source": "wroclaw.pl",
-      "location": {
-        "name": "Teatr Polski - Scena na Świebodzkim Pl. Orląt Lwowskich 20, Wrocław 53-605",
-        "district": "Stare Miasto"
-      },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1411113-gospodarstwo-zwierzat-opowiesc-teatr-polski-we-wroclawiu",
-      "scrapped_timestamp": "2026-10-02T12:43:12.215659+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 7,
-        "max": 15
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Gospodarstwo zwierząt. Opowieść – Teatr Polski we Wrocławiu",
-          "description": "Zapraszamy na spektakl familijny przeznaczony dla dzieci 7+ pt. \"Gospodarstwo zwierząt. Opowieść\" w Teatrze Polskim we Wrocławiu.\n\nO spektaklu:\n\nWyobraź sobie gospodarstwo, w którym zwierzęta mówią: „Cztery nogi dobre, dwie nogi złe!”.\n\nI zaczynają działać.\n\nPrzeganiają ludzi, przejmują władzę i próbują stworzyć świat na własnych zasadach. Na początku wszystko brzmi świetnie: równość, wspólna praca i wielkie marzenia o lepszym życiu. No i wreszcie nikt nie będzie mówił, co trzeba robić...\n\nAle czy świat da się urządzić tak łatwo? Co się stanie, jeśli ktoś zaczyna się uważać za lepszego i ważniejszego od innych?\n\nW gospodarstwie szybko pojawiają się nowi przywódcy. Na ich czele stoi Napoleon sprytna świnia, która coraz częściej podejmuje decyzje za wszystkich, tak, aby jej było dobrze. Po cichu zmieniane są ustalone zasady. Napoleonowi pomagają inne świnie, a porządku pilnują psy, które potrafią być naprawdę groźne.\n\nZwierzęta różnie reagują na sytuację. Bokser to silny koń, który wierzy, że jeśli będzie pracował ciężej, wszystko się uda. Koniczyna uważna i troskliwa klacz zaczyna zauważać, że coś tu się nie zgadza. Beniamin, stary osioł, mówi niewiele, ale rozumie więcej, niż pokazuje.\n\nChoć bez ludzi miało być lepiej, szybko świat zwierząt upodabnia się do tego, jak wyglądał wcześniej, jakby kręcił się w kółko, podobnie do karuzeli, która wiruje na scenie. Tylko czy zawsze trzeba na nią wsiadać?\n\nTo spektakl o tym, dlaczego warto myśleć samodzielnie nawet wtedy, gdy wszyscy wokół powtarzają razem, głośno, to samo hasło. Przedstawiona historia jest znana także dorosłym ale tutaj została opowiedziana inaczej: z humorem i wiarą, że świat można zmieniać razem.\n\nSpektakl jest 636. premierą Teatru Polskiego we Wrocławiu.\n\nObsada:\n\n• Bokser: Edwin Petrykat,\n\n• Koniczyna: Jolanta Zalewska,\n\n• Beniamin: Agata Obłąkowska-Mazurkiewicz,\n\n• Kwik: Krzysztof Brzazgoń,\n\n• Napoleon: Anna Haba,\n\n• głos z offu: Grzegorz Kumorkiewicz\n\n• statyści: Paweł Stanaszek, Bogdan Dyląg, Andrzej Sus, Łukasz Szyszka, Mateusz Stasiuk\n\nCeny biletów:\n\n• I miejsca: 50 zł (norm.), 40 zł (ulg.),\n\n• II miejsca: 40 zł (norm.), 30 zł (ulg.).\n\nBilety można kupić w kasach Teatru Polskiego lub poprzez stronę internetową.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
-        },
-        "en": {
-          "title": "Animal Farm. A Tale – Polish Theatre in Wrocław",
-          "description": "We invite you to a family show for children aged 7+ titled \"Animal Farm. A Tale\" at the Polish Theatre in Wrocław.\n\nAbout the show:\n\nImagine a farm where animals speak: \"Four legs good, two legs bad!\".\n\nAnd they start to act.\n\nThey drive away the humans, take over power, and try to create a world on their own terms. At first, everything sounds great: equality, collective work, and big dreams of a better life. And finally, no one will tell you what to do...\n\nBut can the world be arranged so easily? What happens if someone starts to consider themselves better and more important than others?\n\nNew leaders quickly emerge on the farm. At the forefront is Napoleon, a cunning pig, who increasingly makes decisions for everyone, so that she is comfortable. After c"
-        },
-        "uk": {
-          "title": "Господарство тварин. Опова́дь – Польський театр у Вроцлаві",
-          "description": "Запрошуємо на сімейний спектакль, призначений для дітей 7+ під назвою \"Господарство тварин. Опова́дь\" у Польському театрі у Вроцлаві.\n\nО спектаклі:\n\nУявіть собі господарство, в якому тварини говорять: \"Чотири ноги добре, дві ноги погано!\".\n\nІ починають діяти.\n\nВони проганяють людей, беруть владу у свої руки і намагаються створити світ за своїми правилами. Спочатку все звучить чудово: рівність, спільна праця та великі мрії про краще життя. Ну і нарешті ніхто не буде казати, що робити...\n\nАле чи можна так легко влаштувати світ? Що станеться, якщо хтось почне вважати себе кращим і важливішим за інших?\n\nУ господарстві швидко з'являються нові лідери. На чолі з Наполеоном, хитрою свинею, яка все частіше приймає рішення за всіх, так, щоб їй було добре. По ц"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Stare Miasto",
-      "updated_at": "2026-10-02T12:48:52.987489+00:00"
     },
     "70-lat-towarzystwa-mi-o-nik-w-wroc-awia-wszechnica-wiedzy-o-wroc-awiu-prelekcja-2026-10-06T17:00:00+02:00": {
       "title": "70 lat Towarzystwa Miłośników Wrocławia - Wszechnica Wiedzy o Wrocławiu / prelekcja",
@@ -6323,52 +5575,6 @@
         "is_free": true
       },
       "updated_at": "2026-10-02T12:48:52.987554+00:00"
-    },
-    "magiczna-sobota-zaj-cia-dla-dzieci-2026-10-03T11:00:00+02:00": {
-      "title": "Magiczna sobota – zajęcia dla dzieci",
-      "date": "2026-10-03T11:00:00+02:00",
-      "end_date": "2026-10-03T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Chcecie przeżyć magiczną sobotę z zaklęciami i eliksirami? Pani Roksana ze Szlaku Zmysłów zaprasza na czarodziejskie tory przeszkód z tajemniczymi zagadkami. Można się przebrać za czarodziejki i czarodziejów, wróżki, skrzaty, magiczne stwory, ale pamiętajcie, że na zajęciach z panią Roksaną zawsze jest ruch i można się trochę pobrudzić.\nWydarzenie dla dzieci w wieku od 3 do 6 lat.\nLiczba miejsc ograniczona.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/872f2e41-16f9-4cf2-a551-a91c279739d0/9738450c-c21e-4933-99ba-29f8e4f38068.jpg",
-      "location": {
-        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 19, ul. Sołtysowicka 29h, 51-168 Wrocław",
-        "district": "Fabryczna"
-      },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/magiczna-sobota-zajecia-dla-dzieci-872f2e41-16f9-4cf2-a551-a91c279739d0",
-      "source": "simplygo.pl",
-      "age_hint": "3-6",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/magiczna-sobota-zajecia-dla-dzieci-872f2e41-16f9-4cf2-a551-a91c279739d0",
-      "scrapped_timestamp": "2026-10-02T12:44:46.437119+00:00",
-      "category": "Family Fun",
-      "additional_categories": [
-        "Workshops"
-      ],
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Magiczna sobota – zajęcia dla dzieci",
-          "description": "Chcecie przeżyć magiczną sobotę z zaklęciami i eliksirami? Pani Roksana ze Szlaku Zmysłów zaprasza na czarodziejskie tory przeszkód z tajemniczymi zagadkami. Można się przebrać za czarodziejki i czarodziejów, wróżki, skrzaty, magiczne stwory, ale pamiętajcie, że na zajęciach z panią Roksaną zawsze jest ruch i można się trochę pobrudzić.\nWydarzenie dla dzieci w wieku od 3 do 6 lat.\nLiczba miejsc ograniczona.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
-        },
-        "en": {
-          "title": "Magical Saturday – Activities for Children",
-          "description": "Do you want to experience a magical Saturday with spells and potions? Ms. Roksana from the Trail of Senses invites you to magical obstacle courses with mysterious puzzles. You can dress up as witches and wizards, fairies, gnomes, magical creatures, but remember that with Ms. Roksana's activities, there is always movement and you might get a little dirty.\n\nEvent for children aged 3 to 6 years.\nLimited number of places.\nOne ticket is valid for a pair: child and guardian.\nDiscounted tickets for holders of the MBP Wrocław library card.\nVenue accessible for people with mobility disabilities.\nThe Parent Club is a series of literary, educational, and artistic meetings for children and their guardians held in selected branches of the Tadeusz Różewicz Municipal Public Library in Wrocław."
-        },
-        "uk": {
-          "title": "Магічна субота – заняття для дітей",
-          "description": "Хочете пережити магічну суботу з заклинаннями та еліксирами? Пані Роксана зі Шляху Відчуттів запрошує на чарівні перешкоди з таємничими загадками. Можна перевдягнутися в чарівниць і чарівників, фей, гномів, магічних істот, але пам'ятайте, що на заняттях з пані Роксаною завжди є рух і можна трохи забруднитися.\n\nВідподія для дітей віком від 3 до 6 років.\nКількість місць обмежена.\nДіє один квиток для пари: дитина та опікун.\nПільгові квитки для осіб з карткою бібліотеки МБП Вроцлав.\nМісце дружнє до осіб з обмеженими можливостями.\nКлуб Батьків – це циклічні літературні, освітні та художні зустрічі для дітей та їх опікунів, що проходять у вибраних філіях Міської Публічної Бібліотеки ім. Тадеуша Рожевича у Вроцлаві."
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/220787/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
-      },
-      "district": "Fabryczna",
-      "updated_at": "2026-10-02T12:48:52.987596+00:00"
     },
     "miffy-2026-10-04T10:30:00+02:00": {
       "title": "Miffy",

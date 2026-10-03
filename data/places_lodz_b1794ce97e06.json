@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:57:50.796645+00:00",
+  "updated_at": "2026-10-03T11:17:58.223940+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168211,6 +168211,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-02T13:57:50.724297+00:00",
       "created_at": "2026-10-02T13:57:50.724297+00:00"
+    },
+    "manual_4cdb12b7e557": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "play_room"
+      ],
+      "names": {
+        "pl": "Bawialnia Monki",
+        "en": "Bawialnia Monki",
+        "uk": "Bawialnia Monki"
+      },
+      "name": "Bawialnia Monki",
+      "address": "Legionów 66, 90-703 Łódź",
+      "lat": 51.774168579164,
+      "lng": 19.441415369510654,
+      "geo_uri": "geo:51.774168579164,19.441415369510654",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.441415369510654,
+          51.774168579164
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "537775329",
+      "website": "https://monkibawialnia.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-03T11:17:58.112585+00:00",
+      "created_at": "2026-10-03T11:17:58.112585+00:00"
     }
   }
 }

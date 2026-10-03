@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:05:12.845075+00:00",
+  "updated_at": "2026-10-03T12:02:53.812821+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -8178,6 +8178,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-02T12:40:01.099349+00:00"
+    },
+    "kamienica w warszawie - scena orla": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "kamienica w warszawie - scena orla",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-10-03T11:34:58.229242+00:00"
+    },
+    "biblioteka publiczna w ursusie – filia „niedźwiadek” · ul. keniga 14": {
+      "name": "Biblioteka Publiczna w Ursusie – Filia „Niedźwiadek” · ul. Keniga 14",
+      "district": "Ursus",
+      "address": "Biblioteka Publiczna w Ursusie – Filia „Niedźwiadek” · ul. Keniga 14",
+      "normalized": "biblioteka publiczna w ursusie – filia „niedźwiadek” · ul. keniga 14",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-03T11:42:14.125279+00:00"
     }
   }
 }

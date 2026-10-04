@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T13:05:10.009226+00:00",
+  "updated_at": "2026-10-04T12:41:13.075603+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -837,6 +837,15 @@
       "lat": 51.7733465,
       "lng": 19.4696594,
       "updated_at": "2026-10-02T12:54:32.798581+00:00"
+    },
+    "zoo": {
+      "name": "Orientarium ZOO Łódź, 8/10, Konstantynowska, Zdrowie-Mania, Zdrowie, Łódź-Polesie, Łódź, województwo łódzkie, 94-303, Polska",
+      "district": "Polesie",
+      "address": "Orientarium ZOO Łódź, 8/10, Konstantynowska, Zdrowie-Mania, Zdrowie, Łódź-Polesie, Łódź, województwo łódzkie, 94-303, Polska",
+      "normalized": "zoo",
+      "lat": 51.7610216,
+      "lng": 19.4125815,
+      "updated_at": "2026-10-04T12:30:58.732009+00:00"
     }
   }
 }

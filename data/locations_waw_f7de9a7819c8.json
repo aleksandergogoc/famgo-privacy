@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T12:02:53.812821+00:00",
+  "updated_at": "2026-10-04T12:41:15.677617+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -8196,6 +8196,87 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-03T11:42:14.125279+00:00"
+    },
+    "ursynowskie centrum sportu i rekreacji": {
+      "name": "Pasaż Ursynowski 3, 02-776 Warszawa",
+      "district": "Ursynów",
+      "address": "Pasaż Ursynowski 3, 02-776 Warszawa",
+      "normalized": "ursynowskie centrum sportu i rekreacji",
+      "lat": 52.155,
+      "lng": 21.045,
+      "updated_at": "2026-10-04T12:14:04.476576+00:00"
+    },
+    "plac trzech krzyży": {
+      "name": "Plac Trzech Krzyży, Krucza, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-535, Polska",
+      "district": "Śródmieście",
+      "address": "Plac Trzech Krzyży, Krucza, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-535, Polska",
+      "normalized": "plac trzech krzyży",
+      "lat": 52.2283724,
+      "lng": 21.0229278,
+      "updated_at": "2026-10-04T12:14:13.690560+00:00"
+    },
+    "plac politechniki": {
+      "name": "Plac Politechniki, Koszyki, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, Polska",
+      "district": "Śródmieście",
+      "address": "Plac Politechniki, Koszyki, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, Polska",
+      "normalized": "plac politechniki",
+      "lat": 52.2199724,
+      "lng": 21.011818,
+      "updated_at": "2026-10-04T12:14:16.823662+00:00"
+    },
+    "jaracza _ dobra": {
+      "name": "Jaracza 01, Dobra, Powiśle-Skarpa, Powiśle, Śródmieście, Warszawa, województwo mazowieckie, 00-377, Polska",
+      "district": "Śródmieście",
+      "address": "Jaracza 01, Dobra, Powiśle-Skarpa, Powiśle, Śródmieście, Warszawa, województwo mazowieckie, 00-377, Polska",
+      "normalized": "jaracza _ dobra",
+      "lat": 52.2363529,
+      "lng": 21.0308157,
+      "updated_at": "2026-10-04T12:14:27.206568+00:00"
+    },
+    "św. wincentego 83": {
+      "name": "Dom Zarządu Cmentarza, 83, Świętego Wincentego, Bródno, Targówek, Warszawa, województwo mazowieckie, 03-530, Polska",
+      "district": "Targówek",
+      "address": "Dom Zarządu Cmentarza, 83, Świętego Wincentego, Bródno, Targówek, Warszawa, województwo mazowieckie, 03-530, Polska",
+      "normalized": "św. wincentego 83",
+      "lat": 52.2786328,
+      "lng": 21.0440576,
+      "updated_at": "2026-10-04T12:14:31.884924+00:00"
+    },
+    "wawerskie centrum kultury filia zastów. ul. lucerny 13": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "wawerskie centrum kultury filia zastów. ul. lucerny 13",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-10-04T12:14:37.312118+00:00"
+    },
+    "ul. pileckiego 122": {
+      "name": "ul. Pileckiego 122",
+      "district": "Ursynów",
+      "address": "ul. Pileckiego 122",
+      "normalized": "ul. pileckiego 122",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-04T12:22:59.995925+00:00"
+    },
+    "pl. thomasa woodrowa wilsona 2": {
+      "name": "Pl. Thomasa Woodrowa Wilsona 2, 01-615 Warszawa, Poland",
+      "district": "Żoliborz",
+      "address": "Pl. Thomasa Woodrowa Wilsona 2, 01-615 Warszawa, Poland",
+      "normalized": "pl. thomasa woodrowa wilsona 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-04T12:22:59.996633+00:00"
+    },
+    "jana kasprowicza 132": {
+      "name": "Jana Kasprowicza 132, 01-949 Warszawa, Poland",
+      "district": "Bielany",
+      "address": "Jana Kasprowicza 132, 01-949 Warszawa, Poland",
+      "normalized": "jana kasprowicza 132",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-04T12:22:59.996975+00:00"
     }
   }
 }

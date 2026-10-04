@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T12:02:52.676621+00:00",
+  "updated_at": "2026-10-04T12:41:14.444442+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2122,6 +2122,24 @@
       "lat": 51.1090861,
       "lng": 17.03218,
       "updated_at": "2026-10-03T11:42:31.045143+00:00"
+    },
+    "cal psie pole-zawidawie": {
+      "name": "CAL Psie Pole-Zawidawie, 43, Kiełczowska, Osiedle Bolesława Krzywoustego, Psie Pole, Psie Pole-Zawidawie, Wrocław, województwo dolnośląskie, 51-315, Polska",
+      "district": "Psie Pole",
+      "address": "CAL Psie Pole-Zawidawie, 43, Kiełczowska, Osiedle Bolesława Krzywoustego, Psie Pole, Psie Pole-Zawidawie, Wrocław, województwo dolnośląskie, 51-315, Polska",
+      "normalized": "cal psie pole-zawidawie",
+      "lat": 51.1454318,
+      "lng": 17.12468,
+      "updated_at": "2026-10-04T12:24:44.761239+00:00"
+    },
+    "etnograficzne oddział muzeum narodowego we wrocławiu": {
+      "name": "Muzeum Etnograficzne Oddział Muzeum Narodowego we Wrocławiu, Romualda Traugutta 111/113, 50-420 Wrocław",
+      "district": "Śródmieście",
+      "address": "Muzeum Etnograficzne Oddział Muzeum Narodowego we Wrocławiu, Romualda Traugutta 111/113, 50-420 Wrocław",
+      "normalized": "etnograficzne oddział muzeum narodowego we wrocławiu",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-04T12:25:01.401228+00:00"
     }
   }
 }

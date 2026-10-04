@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T12:02:51.534066+00:00",
+  "updated_at": "2026-10-04T12:41:11.789666+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1584,6 +1584,42 @@
       "lat": 52.4098365,
       "lng": 16.9192233,
       "updated_at": "2026-10-03T11:59:17.961665+00:00"
+    },
+    "filharmonia...": {
+      "name": "Filharmonia Poznańska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "district": "Stare Miasto",
+      "address": "Filharmonia Poznańska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "normalized": "filharmonia...",
+      "lat": 52.4078448,
+      "lng": 16.9157469,
+      "updated_at": "2026-10-04T12:38:03.927633+00:00"
+    },
+    "salon muzyczny -...": {
+      "name": "Salon Muzyczny-Muzeum Feliksa Nowowiejskiego, 11, Aleja Wielkopolska, Sołacz, Poznań, województwo wielkopolskie, 60-603, Polska",
+      "district": "Stare Miasto",
+      "address": "Salon Muzyczny-Muzeum Feliksa Nowowiejskiego, 11, Aleja Wielkopolska, Sołacz, Poznań, województwo wielkopolskie, 60-603, Polska",
+      "normalized": "salon muzyczny -...",
+      "lat": 52.4165116,
+      "lng": 16.9174411,
+      "updated_at": "2026-10-04T12:38:05.242612+00:00"
+    },
+    "osiedlowy dom kultury...": {
+      "name": "Osiedlowy Dom Kultury \"Wiktoria\", Osiedle Zwycięstwa, Winogrady, Poznań, województwo wielkopolskie, 61-644, Polska",
+      "district": "Nowe Miasto",
+      "address": "Osiedlowy Dom Kultury \"Wiktoria\", Osiedle Zwycięstwa, Winogrady, Poznań, województwo wielkopolskie, 61-644, Polska",
+      "normalized": "osiedlowy dom kultury...",
+      "lat": 52.4390354,
+      "lng": 16.9299741,
+      "updated_at": "2026-10-04T12:38:06.981428+00:00"
+    },
+    "malarnia": {
+      "name": "Malarnia, Teatr Wielki im. Stanisława Moniuszki, ul. Fredry 9, 61-701 Poznań",
+      "district": "Stare Miasto",
+      "address": "Malarnia, Teatr Wielki im. Stanisława Moniuszki, ul. Fredry 9, 61-701 Poznań",
+      "normalized": "malarnia",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-04T12:39:10.849432+00:00"
     }
   }
 }

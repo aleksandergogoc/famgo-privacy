@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T14:25:22.084745+00:00",
+  "updated_at": "2026-10-06T13:41:55.970218+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -8385,6 +8385,69 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-05T14:11:50.511404+00:00"
+    },
+    "sp 318": {
+      "name": "ul. Leonida Teligi 3, Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Leonida Teligi 3, Warszawa",
+      "normalized": "sp 318",
+      "lat": 52.214,
+      "lng": 21.034,
+      "updated_at": "2026-10-06T13:18:15.599545+00:00"
+    },
+    "niedziela 11 x godz. 10.30 kino wisła i 12.30 kino iluzjon": {
+      "name": "Niedziela 11, Warszawa",
+      "district": "Śródmieście",
+      "address": "Niedziela 11, Warszawa",
+      "normalized": "niedziela 11 x godz. 10.30 kino wisła i 12.30 kino iluzjon",
+      "lat": 52.238,
+      "lng": 21.019,
+      "updated_at": "2026-10-06T13:26:13.364645+00:00"
+    },
+    "ul. jazdów 8_1": {
+      "name": "ul. Jazdów 8/1",
+      "district": "Śródmieście",
+      "address": "ul. Jazdów 8/1",
+      "normalized": "ul. jazdów 8_1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-06T13:26:13.365628+00:00"
+    },
+    "pracownie artystyczne": {
+      "name": "Pracownie Artystyczne, ul. Foksal 11",
+      "district": "Śródmieście",
+      "address": "Pracownie Artystyczne, ul. Foksal 11",
+      "normalized": "pracownie artystyczne",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-06T13:26:13.365976+00:00"
+    },
+    "filia nr 7 ul. księcia józefa 1": {
+      "name": "Filia nr 7 ul. Księcia Józefa 1, Pruszków",
+      "district": "okolice Warszawy",
+      "address": "Filia nr 7 ul. Księcia Józefa 1, Pruszków",
+      "normalized": "filia nr 7 ul. księcia józefa 1",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-06T13:26:13.366361+00:00"
+    },
+    "nałęczowska 25": {
+      "name": "Nałęczowska 25",
+      "district": "Mokotów",
+      "address": "Nałęczowska 25",
+      "normalized": "nałęczowska 25",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-06T13:26:13.366655+00:00"
+    },
+    "sp 30": {
+      "name": "SP 30, ul. Kawęczyńska 2",
+      "district": "Praga-Północ",
+      "address": "SP 30, ul. Kawęczyńska 2",
+      "normalized": "sp 30",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-06T13:26:13.366964+00:00"
     }
   }
 }

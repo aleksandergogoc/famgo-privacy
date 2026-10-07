@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T13:41:55.970218+00:00",
+  "updated_at": "2026-10-07T13:42:56.098756+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -8448,6 +8448,222 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-06T13:26:13.366964+00:00"
+    },
+    "warsaw salsa club (warszawa)": {
+      "name": "Warsaw Salsa Club, 37B, Nowowiejska, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-010, Polska",
+      "district": "Ochota",
+      "address": "Warsaw Salsa Club, 37B, Nowowiejska, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-010, Polska",
+      "normalized": "warsaw salsa club (warszawa)",
+      "lat": 52.2196655,
+      "lng": 21.0012769,
+      "updated_at": "2026-10-07T13:19:08.954420+00:00"
+    },
+    "dom kultury kadr w warszawie (warszawa-służew)": {
+      "name": "Dom Kultury Kadr, 32, Wincentego Rzymowskiego, Osiedle Służewiec Południowy, Służew, Mokotów, Warszawa, województwo mazowieckie, 02-697, Polska",
+      "district": "Mokotów",
+      "address": "Dom Kultury Kadr, 32, Wincentego Rzymowskiego, Osiedle Służewiec Południowy, Służew, Mokotów, Warszawa, województwo mazowieckie, 02-697, Polska",
+      "normalized": "dom kultury kadr w warszawie (warszawa-służew)",
+      "lat": 52.1755655,
+      "lng": 21.0031959,
+      "updated_at": "2026-10-07T13:19:10.327081+00:00"
+    },
+    "biblioteka publiczna białołęka": {
+      "name": "Biblioteka Publiczna Białołęka, Biblioteka dla Dzieci i Młodzieży nr IV · ul. Antalla 5",
+      "district": "Białołęka",
+      "address": "Biblioteka Publiczna Białołęka, Biblioteka dla Dzieci i Młodzieży nr IV · ul. Antalla 5",
+      "normalized": "biblioteka publiczna białołęka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.327729+00:00"
+    },
+    "biblioteka dla dzieci i młodzieży nr xxxiii": {
+      "name": "Biblioteka dla Dzieci i Młodzieży nr XXXIII, I piętro, bez windy · Al. Niepodległości 19",
+      "district": "Mokotów",
+      "address": "Biblioteka dla Dzieci i Młodzieży nr XXXIII, I piętro, bez windy · Al. Niepodległości 19",
+      "normalized": "biblioteka dla dzieci i młodzieży nr xxxiii",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.327939+00:00"
+    },
+    "multimedialna biblioteka dla dzieci i młodzieży nr xxxi · ul. tyniecka 40a": {
+      "name": "Multimedialna Biblioteka dla Dzieci i Młodzieży nr XXXI · ul. Tyniecka 40a",
+      "district": "Mokotów",
+      "address": "Multimedialna Biblioteka dla Dzieci i Młodzieży nr XXXI · ul. Tyniecka 40a",
+      "normalized": "multimedialna biblioteka dla dzieci i młodzieży nr xxxi · ul. tyniecka 40a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.328120+00:00"
+    },
+    "biblioteka publiczna włochy": {
+      "name": "Biblioteka Publiczna Włochy, Wypożyczalnia nr 71 · ul. Astronautów 1",
+      "district": "Włochy",
+      "address": "Biblioteka Publiczna Włochy, Wypożyczalnia nr 71 · ul. Astronautów 1",
+      "normalized": "biblioteka publiczna włochy",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.328359+00:00"
+    },
+    "80 min muzeum narodowe w warszawie": {
+      "name": "80 min Muzeum Narodowe w Warszawie, Gmach Główny MNW, Hol Główny · Al. Jerozolimskie 3",
+      "district": "Śródmieście",
+      "address": "80 min Muzeum Narodowe w Warszawie, Gmach Główny MNW, Hol Główny · Al. Jerozolimskie 3",
+      "normalized": "80 min muzeum narodowe w warszawie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.328700+00:00"
+    },
+    "biblioteka dla dzieci i młodzieży nr xxx": {
+      "name": "Biblioteka dla Dzieci i Młodzieży nr XXX, I piętro, bez windy · ul. Melsztyńska 4/10",
+      "district": "Mokotów",
+      "address": "Biblioteka dla Dzieci i Młodzieży nr XXX, I piętro, bez windy · ul. Melsztyńska 4/10",
+      "normalized": "biblioteka dla dzieci i młodzieży nr xxx",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.328993+00:00"
+    },
+    "80 min muzeum rzeźby w królikarni": {
+      "name": "80 min Muzeum Rzeźby w Królikarni, zbiórka przed wejściem na wystawę · ul. Puławska 113a",
+      "district": "Mokotów",
+      "address": "80 min Muzeum Rzeźby w Królikarni, zbiórka przed wejściem na wystawę · ul. Puławska 113a",
+      "normalized": "80 min muzeum rzeźby w królikarni",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.329297+00:00"
+    },
+    "wilanowska biblioteka publiczna · ul. radosna 11": {
+      "name": "Wilanowska Biblioteka Publiczna · ul. Radosna 11",
+      "district": "Wilanów",
+      "address": "Wilanowska Biblioteka Publiczna · ul. Radosna 11",
+      "normalized": "wilanowska biblioteka publiczna · ul. radosna 11",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.329849+00:00"
+    },
+    "przedszkole pięterko i przedszkole tosi i franka · ul. obywatelska 10": {
+      "name": "Przedszkole Pięterko i Przedszkole Tosi i Franka · ul. Obywatelska 10",
+      "district": "Włochy",
+      "address": "Przedszkole Pięterko i Przedszkole Tosi i Franka · ul. Obywatelska 10",
+      "normalized": "przedszkole pięterko i przedszkole tosi i franka · ul. obywatelska 10",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.330125+00:00"
+    },
+    "30 min + 15 min zabawy teatr małego widza": {
+      "name": "30 min + 15 min zabawy Teatr Małego Widza, Scena na Jezuickiej · ul. Jezuicka 4 (wejście od ul. Brzozowej)",
+      "district": "Śródmieście",
+      "address": "30 min + 15 min zabawy Teatr Małego Widza, Scena na Jezuickiej · ul. Jezuicka 4 (wejście od ul. Brzozowej)",
+      "normalized": "30 min + 15 min zabawy teatr małego widza",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.330425+00:00"
+    },
+    "przedszkole pięterko i przedszkole tosi i franka": {
+      "name": "Przedszkole Pięterko i Przedszkole Tosi i Franka, wjazd od ul. Węgorzewskiej · ul. Hynka 4a",
+      "district": "Włochy",
+      "address": "Przedszkole Pięterko i Przedszkole Tosi i Franka, wjazd od ul. Węgorzewskiej · ul. Hynka 4a",
+      "normalized": "przedszkole pięterko i przedszkole tosi i franka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.330696+00:00"
+    },
+    "park aktywności rodzinnej · ul. węglarska 41a": {
+      "name": "Park Aktywności Rodzinnej · ul. Węglarska 41A",
+      "district": "Wawer",
+      "address": "Park Aktywności Rodzinnej · ul. Węglarska 41A",
+      "normalized": "park aktywności rodzinnej · ul. węglarska 41a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.330998+00:00"
+    },
+    "sala prób sinfonii varsovii": {
+      "name": "Sala Prób Sinfonii Varsovii, Sala L · ul. Grochowska 272",
+      "district": "Praga-Południe",
+      "address": "Sala Prób Sinfonii Varsovii, Sala L · ul. Grochowska 272",
+      "normalized": "sala prób sinfonii varsovii",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.331610+00:00"
+    },
+    "45 min + 15 min zabawy wawerskie centrum kultury": {
+      "name": "45 min + 15 min zabawy Wawerskie Centrum Kultury, Filia Falenica · ul. Walcownicza 2",
+      "district": "Wawer",
+      "address": "45 min + 15 min zabawy Wawerskie Centrum Kultury, Filia Falenica · ul. Walcownicza 2",
+      "normalized": "45 min + 15 min zabawy wawerskie centrum kultury",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.331905+00:00"
+    },
+    "biblioteka dla dzieci i młodzieży nr xx · ul. śmiała 24": {
+      "name": "Biblioteka dla Dzieci i Młodzieży nr XX · ul. Śmiała 24",
+      "district": "Żoliborz",
+      "address": "Biblioteka dla Dzieci i Młodzieży nr XX · ul. Śmiała 24",
+      "normalized": "biblioteka dla dzieci i młodzieży nr xx · ul. śmiała 24",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.332419+00:00"
+    },
+    "150 min dom kultury dorożkarnia": {
+      "name": "150 min Dom Kultury Dorożkarnia, pracownia, sala 10 · ul. Siekierkowska 28",
+      "district": "Mokotów",
+      "address": "150 min Dom Kultury Dorożkarnia, pracownia, sala 10 · ul. Siekierkowska 28",
+      "normalized": "150 min dom kultury dorożkarnia",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.332697+00:00"
+    },
+    "30 min kino iluzjon": {
+      "name": "30 min Kino Iluzjon, sala Mała Czarna · ul. Narbutta 50a, 02-541 Warszawa",
+      "district": "Mokotów",
+      "address": "30 min Kino Iluzjon, sala Mała Czarna · ul. Narbutta 50a, 02-541 Warszawa",
+      "normalized": "30 min kino iluzjon",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.332985+00:00"
+    },
+    "biblioteka dla dzieci i młodzieży nr 46": {
+      "name": "Biblioteka dla Dzieci i Młodzieży nr 46, ul. Chłodna 11",
+      "district": "Wola",
+      "address": "Biblioteka dla Dzieci i Młodzieży nr 46, ul. Chłodna 11",
+      "normalized": "biblioteka dla dzieci i młodzieży nr 46",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.333388+00:00"
+    },
+    "leśna baza bielany": {
+      "name": "Leśna Baza Bielany, ul. Wyjściowa",
+      "district": "Bielany",
+      "address": "Leśna Baza Bielany, ul. Wyjściowa",
+      "normalized": "leśna baza bielany",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.333657+00:00"
+    },
+    "michała paca 40": {
+      "name": "Michała Paca 40, Miejsce Akcji Paca",
+      "district": "Praga-Południe",
+      "address": "Michała Paca 40, Miejsce Akcji Paca",
+      "normalized": "michała paca 40",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.333920+00:00"
+    },
+    "scena lubelska 30_32": {
+      "name": "Scena Lubelska 30/32",
+      "district": "Praga-Południe",
+      "address": "Scena Lubelska 30/32",
+      "normalized": "scena lubelska 30_32",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.334183+00:00"
+    },
+    "hala sportowa": {
+      "name": "Hala sportowa, ul. Uprawna 9/17",
+      "district": "Wilanów",
+      "address": "Hala sportowa, ul. Uprawna 9/17",
+      "normalized": "hala sportowa",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-07T13:19:10.334495+00:00"
     }
   }
 }

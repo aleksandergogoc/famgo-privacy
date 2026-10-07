@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T13:41:57.187070+00:00",
+  "updated_at": "2026-10-07T13:42:58.312977+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4756,6 +4756,15 @@
       "lat": 50.0323915,
       "lng": 19.9633651,
       "updated_at": "2026-10-06T12:56:46.698828+00:00"
+    },
+    "ul. radzikowskiego 29 31-315 kraków": {
+      "name": "ul. Radzikowskiego 29, 31-315 Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Radzikowskiego 29, 31-315 Kraków",
+      "normalized": "ul. radzikowskiego 29 31-315 kraków",
+      "lat": 50.062,
+      "lng": 19.936,
+      "updated_at": "2026-10-07T13:02:46.504554+00:00"
     }
   }
 }

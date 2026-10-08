@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:42:52.190636+00:00",
+  "updated_at": "2026-10-08T13:45:00.246263+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -169135,6 +169135,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:42:52.107717+00:00",
       "created_at": "2026-10-08T13:42:52.107717+00:00"
+    },
+    "manual_a036b9c8bdf4": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Golden Fork",
+        "en": "Golden Fork",
+        "uk": "Golden Fork"
+      },
+      "name": "Golden Fork",
+      "address": "Żubardzka 14, 91-022 Łódź",
+      "lat": 51.78627244787828,
+      "lng": 19.41444039344788,
+      "geo_uri": "geo:51.78627244787828,19.41444039344788",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.41444039344788,
+          51.78627244787828
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "426556666",
+      "website": "https://www.facebook.com/goldenforkpl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:45:00.157792+00:00",
+      "created_at": "2026-10-08T13:45:00.157792+00:00"
     }
   }
 }

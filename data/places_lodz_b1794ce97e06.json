@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:45:00.246263+00:00",
+  "updated_at": "2026-10-08T13:47:33.119131+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -169168,6 +169168,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:45:00.157792+00:00",
       "created_at": "2026-10-08T13:45:00.157792+00:00"
+    },
+    "manual_6dcbdfb17279": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Restauracja Sote",
+        "en": "Restauracja Sote",
+        "uk": "Restauracja Sote"
+      },
+      "name": "Restauracja Sote",
+      "address": "Liściasta 86, 91-357 Łódź",
+      "lat": 51.80909733903787,
+      "lng": 19.424732029438022,
+      "geo_uri": "geo:51.80909733903787,19.424732029438022",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.424732029438022,
+          51.80909733903787
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "604613755",
+      "website": "http://www.restauracjasote.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:47:32.998350+00:00",
+      "created_at": "2026-10-08T13:47:32.998350+00:00"
     }
   }
 }

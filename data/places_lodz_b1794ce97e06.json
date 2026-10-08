@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:08:07.453710+00:00",
+  "updated_at": "2026-10-08T13:11:29.926053+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168706,6 +168706,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:08:07.382453+00:00",
       "created_at": "2026-10-08T13:08:07.382453+00:00"
+    },
+    "manual_d1877eb32d9e": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Browar Księży Młyn",
+        "en": "Browar Księży Młyn",
+        "uk": "Browar Księży Młyn"
+      },
+      "name": "Browar Księży Młyn",
+      "address": "ks. bp. Wincentego Tymienieckiego 22/24, 90-349 Łódź",
+      "lat": 51.75269257011004,
+      "lng": 19.476423561573032,
+      "geo_uri": "geo:51.75269257011004,19.476423561573032",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.476423561573032,
+          51.75269257011004
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "426730290",
+      "website": "http://browarksiezymlyn.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:11:29.816574+00:00",
+      "created_at": "2026-10-08T13:11:29.816574+00:00"
     }
   }
 }

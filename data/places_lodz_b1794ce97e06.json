@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:14:14.054098+00:00",
+  "updated_at": "2026-10-08T13:16:08.275471+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168805,6 +168805,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:14:13.972926+00:00",
       "created_at": "2026-10-08T13:14:13.972926+00:00"
+    },
+    "manual_e896151e6837": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Na Zdrowie",
+        "en": "Na Zdrowie",
+        "uk": "Na Zdrowie"
+      },
+      "name": "Na Zdrowie",
+      "address": "Zdrowie 8, 94-302 Łódź",
+      "lat": 51.76322351544701,
+      "lng": 19.407021403312687,
+      "geo_uri": "geo:51.76322351544701,19.407021403312687",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.407021403312687,
+          51.76322351544701
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "510430771",
+      "website": "http://www.restauracjanazdrowie.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:16:08.178934+00:00",
+      "created_at": "2026-10-08T13:16:08.178934+00:00"
     }
   }
 }

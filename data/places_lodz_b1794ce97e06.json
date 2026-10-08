@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:16:08.275471+00:00",
+  "updated_at": "2026-10-08T13:17:46.382076+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168838,6 +168838,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:16:08.178934+00:00",
       "created_at": "2026-10-08T13:16:08.178934+00:00"
+    },
+    "manual_bb7e2143f6b9": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Filmowa Food & Coffee by Chaos",
+        "en": "Filmowa Food & Coffee by Chaos",
+        "uk": "Filmowa Food & Coffee by Chaos"
+      },
+      "name": "Filmowa Food & Coffee by Chaos",
+      "address": "Janusza Kusocińskiego 63a, 94-054 Łódź",
+      "lat": 51.752131337773804,
+      "lng": 19.398709237575535,
+      "geo_uri": "geo:51.752131337773804,19.398709237575535",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.398709237575535,
+          51.752131337773804
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "572227225",
+      "website": "https://www.facebook.com/restauracjafilmowa/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:17:46.289313+00:00",
+      "created_at": "2026-10-08T13:17:46.289313+00:00"
     }
   }
 }

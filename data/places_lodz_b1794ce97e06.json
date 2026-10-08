@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:23:04.018469+00:00",
+  "updated_at": "2026-10-08T13:25:11.337989+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168970,6 +168970,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:23:03.929641+00:00",
       "created_at": "2026-10-08T13:23:03.929641+00:00"
+    },
+    "manual_f6b87baeca90": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Manekin",
+        "en": "Manekin",
+        "uk": "Manekin"
+      },
+      "name": "Manekin",
+      "address": "Henryka Sienkiewicza 115A, 90-301 Łódź",
+      "lat": 51.75755739839831,
+      "lng": 19.462540447711945,
+      "geo_uri": "geo:51.75755739839831,19.462540447711945",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.462540447711945,
+          51.75755739839831
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "572472243",
+      "website": "https://manekin.pl/nalesnikarnia/lodz-sienkiewicza/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:25:11.257258+00:00",
+      "created_at": "2026-10-08T13:25:11.257258+00:00"
     }
   }
 }

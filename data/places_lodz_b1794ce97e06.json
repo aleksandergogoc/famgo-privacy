@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:06:25.975312+00:00",
+  "updated_at": "2026-10-08T13:08:07.453710+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168673,6 +168673,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:06:25.894394+00:00",
       "created_at": "2026-10-08T13:06:25.894394+00:00"
+    },
+    "manual_33fda4e77d95": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Przystań Tu",
+        "en": "Przystań Tu",
+        "uk": "Przystań Tu"
+      },
+      "name": "Przystań Tu",
+      "address": "Strykowska 284, 91-531 Łódź",
+      "lat": 51.843129075875225,
+      "lng": 19.55775082111359,
+      "geo_uri": "geo:51.843129075875225,19.55775082111359",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.55775082111359,
+          51.843129075875225
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "601068485",
+      "website": "https://www.facebook.com/Przysta%C5%84-Tu-113197437945304",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:08:07.382453+00:00",
+      "created_at": "2026-10-08T13:08:07.382453+00:00"
     }
   }
 }

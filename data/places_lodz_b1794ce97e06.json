@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:31:31.781103+00:00",
+  "updated_at": "2026-10-08T13:36:35.925225+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -169069,6 +169069,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:31:31.696014+00:00",
       "created_at": "2026-10-08T13:31:31.696014+00:00"
+    },
+    "manual_9369a9a4110e": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Locanda Cucina e Vino",
+        "en": "Locanda Cucina e Vino",
+        "uk": "Locanda Cucina e Vino"
+      },
+      "name": "Locanda Cucina e Vino",
+      "address": "Dożynkowa 2/4, 94-279 Łódź",
+      "lat": 51.78881593826509,
+      "lng": 19.37173426151276,
+      "geo_uri": "geo:51.78881593826509,19.37173426151276",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.37173426151276,
+          51.78881593826509
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "797809996",
+      "website": "https://www.locanda.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:36:35.822329+00:00",
+      "created_at": "2026-10-08T13:36:35.822329+00:00"
     }
   }
 }

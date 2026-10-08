@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:19:19.346412+00:00",
+  "updated_at": "2026-10-08T13:20:52.374886+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168904,6 +168904,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:19:19.258731+00:00",
       "created_at": "2026-10-08T13:19:19.258731+00:00"
+    },
+    "manual_8fcd339570aa": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Koleżanki Cafe",
+        "en": "Koleżanki Cafe",
+        "uk": "Koleżanki Cafe"
+      },
+      "name": "Koleżanki Cafe",
+      "address": "Tramwajowa 17B/U3, 90-132 Łódź",
+      "lat": 51.76959435001863,
+      "lng": 19.475844204425815,
+      "geo_uri": "geo:51.76959435001863,19.475844204425815",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.475844204425815,
+          51.76959435001863
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "799871315",
+      "website": "https://www.facebook.com/pages/category/Coffee-Shop/Kole%C5%BCanki-Cafe-351017609307172/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:20:52.261635+00:00",
+      "created_at": "2026-10-08T13:20:52.261635+00:00"
     }
   }
 }

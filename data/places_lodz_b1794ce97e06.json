@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:36:35.925225+00:00",
+  "updated_at": "2026-10-08T13:38:36.637117+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -169102,6 +169102,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:36:35.822329+00:00",
       "created_at": "2026-10-08T13:36:35.822329+00:00"
+    },
+    "manual_57e82645d67b": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Caffe przy ulicy TEO",
+        "en": "Caffe przy ulicy TEO",
+        "uk": "Caffe przy ulicy TEO"
+      },
+      "name": "Caffe przy ulicy TEO",
+      "address": "Wici 32, 91-150 Łódź",
+      "lat": 51.80020264536355,
+      "lng": 19.375038743019104,
+      "geo_uri": "geo:51.80020264536355,19.375038743019104",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.375038743019104,
+          51.80020264536355
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "600122280",
+      "website": null,
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:38:36.564134+00:00",
+      "created_at": "2026-10-08T13:38:36.564134+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T12:20:51.482596+00:00",
+  "updated_at": "2026-10-08T13:44:08.784036+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1790,6 +1790,15 @@
       "lat": 54.3839709,
       "lng": 18.5936503,
       "updated_at": "2026-09-27T12:14:34.633409+00:00"
+    },
+    "hard rock cafe gdańsk": {
+      "name": "Hard Rock Cafe, 35/38C, Długi Targ, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-830, Polska",
+      "district": "Śródmieście",
+      "address": "Hard Rock Cafe, 35/38C, Długi Targ, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-830, Polska",
+      "normalized": "hard rock cafe gdańsk",
+      "lat": 54.3484268,
+      "lng": 18.6542315,
+      "updated_at": "2026-10-08T13:36:13.670018+00:00"
     }
   }
 }

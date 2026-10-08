@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T13:42:58.312977+00:00",
+  "updated_at": "2026-10-08T13:44:14.091321+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4765,6 +4765,33 @@
       "lat": 50.062,
       "lng": 19.936,
       "updated_at": "2026-10-07T13:02:46.504554+00:00"
+    },
+    "nadwiślańska 2–4": {
+      "name": "Nadwiślańska 2–4, Kraków",
+      "district": "Podgórze",
+      "address": "Nadwiślańska 2–4, Kraków",
+      "normalized": "nadwiślańska 2–4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-08T13:13:26.445827+00:00"
+    },
+    "lipowa 4": {
+      "name": "Lipowa 4, Kraków",
+      "district": "Podgórze",
+      "address": "Lipowa 4, Kraków",
+      "normalized": "lipowa 4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-08T13:13:26.446156+00:00"
+    },
+    "nadwiślańska 2-4": {
+      "name": "Nadwiślańska 2-4, Kraków",
+      "district": "Podgórze",
+      "address": "Nadwiślańska 2-4, Kraków",
+      "normalized": "nadwiślańska 2-4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-08T13:13:26.446423+00:00"
     }
   }
 }

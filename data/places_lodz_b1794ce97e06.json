@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:40:33.424992+00:00",
+  "updated_at": "2026-10-08T13:42:52.190636+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -169102,6 +169102,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:38:36.564134+00:00",
       "created_at": "2026-10-08T13:38:36.564134+00:00"
+    },
+    "manual_77e0ff4a73c4": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "El Buos",
+        "en": "El Buos",
+        "uk": "El Buos"
+      },
+      "name": "El Buos",
+      "address": "Łubinowa 54A, 94-239 Łódź",
+      "lat": 51.7851275815258,
+      "lng": 19.392387270927433,
+      "geo_uri": "geo:51.7851275815258,19.392387270927433",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.392387270927433,
+          51.7851275815258
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "797973682",
+      "website": "https://elbuos.com.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:42:52.107717+00:00",
+      "created_at": "2026-10-08T13:42:52.107717+00:00"
     }
   }
 }

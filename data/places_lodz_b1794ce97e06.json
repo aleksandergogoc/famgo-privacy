@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:00:29.085239+00:00",
+  "updated_at": "2026-10-08T13:02:42.382264+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168574,6 +168574,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:00:28.970928+00:00",
       "created_at": "2026-10-08T13:00:28.970928+00:00"
+    },
+    "manual_0303a58db689": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Mąka i wino",
+        "en": "Mąka i wino",
+        "uk": "Mąka i wino"
+      },
+      "name": "Mąka i wino",
+      "address": "Michała Ossowskiego 7, 91-089 Łódź",
+      "lat": 51.776344328789875,
+      "lng": 19.424305558204654,
+      "geo_uri": "geo:51.776344328789875,19.424305558204654",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.424305558204654,
+          51.776344328789875
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "532782515",
+      "website": "https://www.facebook.com/makaiwinolodz",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:02:42.308741+00:00",
+      "created_at": "2026-10-08T13:02:42.308741+00:00"
     }
   }
 }

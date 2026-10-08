@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:47:33.119131+00:00",
+  "updated_at": "2026-10-08T13:48:58.530363+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -169201,6 +169201,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:47:32.998350+00:00",
       "created_at": "2026-10-08T13:47:32.998350+00:00"
+    },
+    "manual_ebcd69364a17": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "On Fire Steki i Wino",
+        "en": "On Fire Steki i Wino",
+        "uk": "On Fire Steki i Wino"
+      },
+      "name": "On Fire Steki i Wino",
+      "address": "Zgierska 263, 91-495 Łódź",
+      "lat": 51.82899996710507,
+      "lng": 19.426679313182834,
+      "geo_uri": "geo:51.82899996710507,19.426679313182834",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.426679313182834,
+          51.82899996710507
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "889269001",
+      "website": null,
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:48:58.456064+00:00",
+      "created_at": "2026-10-08T13:48:58.456064+00:00"
     }
   }
 }

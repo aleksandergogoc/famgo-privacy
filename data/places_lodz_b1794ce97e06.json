@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:17:46.382076+00:00",
+  "updated_at": "2026-10-08T13:19:19.346412+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168871,6 +168871,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:17:46.289313+00:00",
       "created_at": "2026-10-08T13:17:46.289313+00:00"
+    },
+    "manual_155d8397c7d0": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Ramki Restauracja",
+        "en": "Ramki Restauracja",
+        "uk": "Ramki Restauracja"
+      },
+      "name": "Ramki Restauracja",
+      "address": "Piotrkowska 144, 90-062 Łódź",
+      "lat": 51.760675261892075,
+      "lng": 19.45845812559128,
+      "geo_uri": "geo:51.760675261892075,19.45845812559128",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.45845812559128,
+          51.760675261892075
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "604508853",
+      "website": "https://restauracjaramki.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:19:19.258731+00:00",
+      "created_at": "2026-10-08T13:19:19.258731+00:00"
     }
   }
 }

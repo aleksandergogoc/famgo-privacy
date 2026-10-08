@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:11:29.926053+00:00",
+  "updated_at": "2026-10-08T13:13:01.818813+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168739,6 +168739,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:11:29.816574+00:00",
       "created_at": "2026-10-08T13:11:29.816574+00:00"
+    },
+    "manual_dc164bb81ff2": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "NOVO restobistro",
+        "en": "NOVO restobistro",
+        "uk": "NOVO restobistro"
+      },
+      "name": "NOVO restobistro",
+      "address": "Jugosłowiańska 1B, 92-720 Łódź",
+      "lat": 51.792296620907635,
+      "lng": 19.588102698326114,
+      "geo_uri": "geo:51.792296620907635,19.588102698326114",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.588102698326114,
+          51.792296620907635
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "509292999",
+      "website": "https://www.facebook.com/profile.php?id=61550550591999",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:13:01.723513+00:00",
+      "created_at": "2026-10-08T13:13:01.723513+00:00"
     }
   }
 }

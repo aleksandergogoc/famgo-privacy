@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T13:42:56.098756+00:00",
+  "updated_at": "2026-10-08T13:44:12.048658+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -8664,6 +8664,69 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-07T13:19:10.334495+00:00"
+    },
+    "fort sokolnickiego – żoliborski dom kultury": {
+      "name": "ul. Czarnieckiego 51, Warszawa",
+      "district": "Żoliborz",
+      "address": "ul. Czarnieckiego 51, Warszawa",
+      "normalized": "fort sokolnickiego – żoliborski dom kultury",
+      "lat": 52.2714,
+      "lng": 20.9941,
+      "updated_at": "2026-10-08T13:15:34.820036+00:00"
+    },
+    "ul. gersona 16 lok.1": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "ul. gersona 16 lok.1",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-10-08T13:15:40.393492+00:00"
+    },
+    "wawerskie centrum kultury filia aleksandrów": {
+      "name": "ul. Samorządowa 10, Warszawa",
+      "district": "Wilanów",
+      "address": "ul. Samorządowa 10, Warszawa",
+      "normalized": "wawerskie centrum kultury filia aleksandrów",
+      "lat": 52.177,
+      "lng": 21.101,
+      "updated_at": "2026-10-08T13:15:50.311532+00:00"
+    },
+    "dom w alejach": {
+      "name": "2, Aleje Jerozolimskie, Powiśle-Skarpa, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-374, Polska",
+      "district": "Śródmieście",
+      "address": "2, Aleje Jerozolimskie, Powiśle-Skarpa, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-374, Polska",
+      "normalized": "dom w alejach",
+      "lat": 52.2329369,
+      "lng": 21.0247128,
+      "updated_at": "2026-10-08T13:16:03.409800+00:00"
+    },
+    "pge narodowy": {
+      "name": "PGE Narodowy, Sokola, Port Praski, Stara Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-724, Polska",
+      "district": "Praga-Południe",
+      "address": "PGE Narodowy, Sokola, Port Praski, Stara Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-724, Polska",
+      "normalized": "pge narodowy",
+      "lat": 52.2397726,
+      "lng": 21.0454432,
+      "updated_at": "2026-10-08T13:16:07.795793+00:00"
+    },
+    "nowy · ul. wyki 11a": {
+      "name": "Klub Nowy · ul. Wyki 11A",
+      "district": "Bemowo",
+      "address": "Klub Nowy · ul. Wyki 11A",
+      "normalized": "nowy · ul. wyki 11a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-08T13:20:35.299776+00:00"
+    },
+    "vinci - szkoła twórczej nauki": {
+      "name": "Vinci - Szkoła Twórczej Nauki, Dereniowa 3",
+      "district": "Ursynów",
+      "address": "Vinci - Szkoła Twórczej Nauki, Dereniowa 3",
+      "normalized": "vinci - szkoła twórczej nauki",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-08T13:20:35.300334+00:00"
     }
   }
 }

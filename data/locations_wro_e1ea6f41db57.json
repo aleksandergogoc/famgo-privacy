@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T13:42:54.731556+00:00",
+  "updated_at": "2026-10-08T13:44:10.276634+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2212,6 +2212,69 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-10-07T13:19:49.740108+00:00"
+    },
+    "pl. solidarności 1_3_5": {
+      "name": "1/3/5, Plac Solidarności, Szczepin, Wrocław, województwo dolnośląskie, 53-661, Polska",
+      "district": "Stare Miasto",
+      "address": "1/3/5, Plac Solidarności, Szczepin, Wrocław, województwo dolnośląskie, 53-661, Polska",
+      "normalized": "pl. solidarności 1_3_5",
+      "lat": 51.1130307,
+      "lng": 17.0192599,
+      "updated_at": "2026-10-08T13:20:49.050348+00:00"
+    },
+    "cal księże rybnicka 39-41": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "cal księże rybnicka 39-41",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-10-08T13:20:53.048668+00:00"
+    },
+    "centrum piłkarskie ślęza wrocław – #kłokoczyce kłokoczycka 5": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "centrum piłkarskie ślęza wrocław – #kłokoczyce kłokoczycka 5",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-10-08T13:21:10.919823+00:00"
+    },
+    "a2 – centrum koncertowe góralska 5": {
+      "name": "Centrum Koncertowe A2, 5, Góralska, Szczepin, Wrocław, województwo dolnośląskie, 53-610, Polska",
+      "district": "Stare Miasto",
+      "address": "Centrum Koncertowe A2, 5, Góralska, Szczepin, Wrocław, województwo dolnośląskie, 53-610, Polska",
+      "normalized": "a2 – centrum koncertowe góralska 5",
+      "lat": 51.1085027,
+      "lng": 17.0017158,
+      "updated_at": "2026-10-08T13:21:15.960500+00:00"
+    },
+    "rada osiedla oporów": {
+      "name": "2-4, Wiejska, Oporów, Wrocław, województwo dolnośląskie, 52-411, Polska",
+      "district": "Fabryczna",
+      "address": "2-4, Wiejska, Oporów, Wrocław, województwo dolnośląskie, 52-411, Polska",
+      "normalized": "rada osiedla oporów",
+      "lat": 51.0772367,
+      "lng": 16.9626642,
+      "updated_at": "2026-10-08T13:22:39.789777+00:00"
+    },
+    "las sołtysowicki": {
+      "name": "Las Sołtysowicki, Sołtysowice, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Psie Pole",
+      "address": "Las Sołtysowicki, Sołtysowice, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "las sołtysowicki",
+      "lat": 51.1561328,
+      "lng": 17.0791914,
+      "updated_at": "2026-10-08T13:22:52.858287+00:00"
+    },
+    "róża rozpruwacz": {
+      "name": "3, Henryka Pobożnego, Nadodrze, Wrocław, województwo dolnośląskie, 50-241, Polska",
+      "district": "Śródmieście",
+      "address": "3, Henryka Pobożnego, Nadodrze, Wrocław, województwo dolnośląskie, 50-241, Polska",
+      "normalized": "róża rozpruwacz",
+      "lat": 51.120865,
+      "lng": 17.0400019,
+      "updated_at": "2026-10-08T13:22:57.754601+00:00"
     }
   }
 }

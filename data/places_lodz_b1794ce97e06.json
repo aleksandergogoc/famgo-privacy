@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:26:47.489396+00:00",
+  "updated_at": "2026-10-08T13:31:31.781103+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -169036,6 +169036,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:26:47.143309+00:00",
       "created_at": "2026-10-08T13:26:47.143309+00:00"
+    },
+    "manual_02242c6aecba": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Niezły Obiad",
+        "en": "Niezły Obiad",
+        "uk": "Niezły Obiad"
+      },
+      "name": "Niezły Obiad",
+      "address": "Złotno 79, 94-221 Łódź",
+      "lat": 51.7777466442341,
+      "lng": 19.37975943088532,
+      "geo_uri": "geo:51.7777466442341,19.37975943088532",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.37975943088532,
+          51.7777466442341
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "510600029",
+      "website": null,
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:31:31.696014+00:00",
+      "created_at": "2026-10-08T13:31:31.696014+00:00"
     }
   }
 }

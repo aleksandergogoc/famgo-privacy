@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:25:11.337989+00:00",
+  "updated_at": "2026-10-08T13:26:47.489396+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -169003,6 +169003,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:25:11.257258+00:00",
       "created_at": "2026-10-08T13:25:11.257258+00:00"
+    },
+    "manual_e6b65de2fbb2": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Heksagon",
+        "en": "Heksagon",
+        "uk": "Heksagon"
+      },
+      "name": "Heksagon",
+      "address": "Pomorska 144, 91-404 Łódź",
+      "lat": 51.77797067875886,
+      "lng": 19.49256241321564,
+      "geo_uri": "geo:51.77797067875886,19.49256241321564",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.49256241321564,
+          51.77797067875886
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "459596065",
+      "website": "http://www.heksagonlodz.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:26:47.143309+00:00",
+      "created_at": "2026-10-08T13:26:47.143309+00:00"
     }
   }
 }

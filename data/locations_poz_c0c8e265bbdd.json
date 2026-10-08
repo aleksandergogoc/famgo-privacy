@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T13:41:53.888588+00:00",
+  "updated_at": "2026-10-08T13:44:07.113600+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1638,6 +1638,15 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-10-06T13:39:47.981338+00:00"
+    },
+    "pałac działyńskich": {
+      "name": "Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "district": "Stare Miasto",
+      "address": "Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "normalized": "pałac działyńskich",
+      "lat": 52.4082892,
+      "lng": 16.933598,
+      "updated_at": "2026-10-08T13:41:04.243907+00:00"
     }
   }
 }

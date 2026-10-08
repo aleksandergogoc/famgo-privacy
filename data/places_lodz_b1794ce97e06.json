@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:13:01.818813+00:00",
+  "updated_at": "2026-10-08T13:14:14.054098+00:00",
   "places": {
     "osm_relation_3773957": {
       "osm_id": "relation/3773957",
@@ -168772,6 +168772,39 @@
       "osm_tags": {},
       "updated_at": "2026-10-08T13:13:01.723513+00:00",
       "created_at": "2026-10-08T13:13:01.723513+00:00"
+    },
+    "manual_5afc7f0f1205": {
+      "osm_id": null,
+      "source": "manual",
+      "manual_override": true,
+      "categories": [
+        "kids_friendly_restaurant"
+      ],
+      "names": {
+        "pl": "Gościniec Czterech Kuchni",
+        "en": "Gościniec Czterech Kuchni",
+        "uk": "Gościniec Czterech Kuchni"
+      },
+      "name": "Gościniec Czterech Kuchni",
+      "address": "Brzezińska 295, 92-776 Łódź",
+      "lat": 51.79225016933299,
+      "lng": 19.611108005046848,
+      "geo_uri": "geo:51.79225016933299,19.611108005046848",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.611108005046848,
+          51.79225016933299
+        ]
+      },
+      "fee": null,
+      "opening_hours": null,
+      "phone": "668599621",
+      "website": "https://gosciniec4kuchni.pl/",
+      "wheelchair": null,
+      "osm_tags": {},
+      "updated_at": "2026-10-08T13:14:13.972926+00:00",
+      "created_at": "2026-10-08T13:14:13.972926+00:00"
     }
   }
 }

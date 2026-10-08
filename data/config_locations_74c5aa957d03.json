@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T19:29:06.136981+00:00",
+  "updated_at": "2026-10-08T13:49:51.180551+00:00",
   "cities": {
     "gdansk": {
       "created_at": "2026-07-10T17:41:11.989000+00:00",
@@ -70,7 +70,7 @@
     },
     "lodz": {
       "created_at": "2026-07-10T17:41:11.572000+00:00",
-      "updated_at": "2026-07-10T17:41:11.572000+00:00",
+      "updated_at": "2026-10-08T13:49:51.113069+00:00",
       "sortOrder": 4,
       "collectionPrefix": "lod",
       "active": true,
@@ -87,7 +87,8 @@
         "Śródmieście",
         "Widzew"
       ],
-      "name": "Łódź"
+      "name": "Łódź",
+      "placesEnabled": true
     },
     "poznan": {
       "created_at": "2026-07-10T17:41:12.400000+00:00",

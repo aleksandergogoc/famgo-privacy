@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:44:14.091321+00:00",
+  "updated_at": "2026-10-09T13:23:17.659482+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4792,6 +4792,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-08T13:13:26.446423+00:00"
+    },
+    "szkoła podstawowa nr 114": {
+      "name": "Szkoła Podstawowa nr 114, ul. Łąkowa 31, Kraków",
+      "district": "Stare Miasto",
+      "address": "Szkoła Podstawowa nr 114, ul. Łąkowa 31, Kraków",
+      "normalized": "szkoła podstawowa nr 114",
+      "lat": 50.062,
+      "lng": 19.944,
+      "updated_at": "2026-10-09T12:44:49.856670+00:00"
+    },
+    "alchemia": {
+      "name": "Estery 5, 31-056 Kraków",
+      "district": "Stare Miasto",
+      "address": "Estery 5, 31-056 Kraków",
+      "normalized": "alchemia",
+      "lat": 50.061,
+      "lng": 19.937,
+      "updated_at": "2026-10-09T12:49:42.242252+00:00"
     }
   }
 }

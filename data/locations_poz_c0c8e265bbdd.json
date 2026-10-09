@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T13:44:07.113600+00:00",
+  "updated_at": "2026-10-09T13:23:13.980703+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1647,6 +1647,15 @@
       "lat": 52.4082892,
       "lng": 16.933598,
       "updated_at": "2026-10-08T13:41:04.243907+00:00"
+    },
+    "park jana pawła ii": {
+      "name": "Park Jana Pawła II, Wilda, Poznań, województwo wielkopolskie, Polska",
+      "district": "Wilda",
+      "address": "Park Jana Pawła II, Wilda, Poznań, województwo wielkopolskie, Polska",
+      "normalized": "park jana pawła ii",
+      "lat": 52.3889837,
+      "lng": 16.9279107,
+      "updated_at": "2026-10-09T13:19:55.380829+00:00"
     }
   }
 }

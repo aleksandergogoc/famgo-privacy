@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T13:23:16.217248+00:00",
+  "updated_at": "2026-10-10T12:47:05.915150+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -8853,6 +8853,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-09T13:02:47.746600+00:00"
+    },
+    "amondo kino w warszawie (warszawa)": {
+      "name": "Amondo, 20, Żurawia, Krucza, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-515, Polska",
+      "district": "Śródmieście",
+      "address": "Amondo, 20, Żurawia, Krucza, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-515, Polska",
+      "normalized": "amondo kino w warszawie (warszawa)",
+      "lat": 52.2286779,
+      "lng": 21.0158467,
+      "updated_at": "2026-10-10T12:27:45.831021+00:00"
+    },
+    "biblioteka publiczna im. księdza jana twardowskiego": {
+      "name": "Biblioteka Publiczna im. Księdza Jana Twardowskiego, ul. Skoczylasa 9",
+      "district": "Praga-Północ",
+      "address": "Biblioteka Publiczna im. Księdza Jana Twardowskiego, ul. Skoczylasa 9",
+      "normalized": "biblioteka publiczna im. księdza jana twardowskiego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-10T12:27:45.832044+00:00"
+    },
+    "świetlica w mościskach": {
+      "name": "Świetlica w Mościskach, ul. Pawia 33, Grodzisk Mazowiecki",
+      "district": "okolice Warszawy",
+      "address": "Świetlica w Mościskach, ul. Pawia 33, Grodzisk Mazowiecki",
+      "normalized": "świetlica w mościskach",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-10T12:27:45.832282+00:00"
     }
   }
 }

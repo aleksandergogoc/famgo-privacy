@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T13:23:13.980703+00:00",
+  "updated_at": "2026-10-11T12:54:58.078616+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1656,6 +1656,24 @@
       "lat": 52.3889837,
       "lng": 16.9279107,
       "updated_at": "2026-10-09T13:19:55.380829+00:00"
+    },
+    "nowe zoo": {
+      "name": "Tablica ofiar więzienia przy ul. Młyńskiej, 1, Młyńska, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-729, Polska",
+      "district": "Stare Miasto",
+      "address": "Tablica ofiar więzienia przy ul. Młyńskiej, 1, Młyńska, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-729, Polska",
+      "normalized": "nowe zoo",
+      "lat": 52.4117097,
+      "lng": 16.9280716,
+      "updated_at": "2026-10-11T12:52:41.074492+00:00"
+    },
+    "kino muza": {
+      "name": "Kino Muza, 30, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-805, Polska",
+      "district": "Stare Miasto",
+      "address": "Kino Muza, 30, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-805, Polska",
+      "normalized": "kino muza",
+      "lat": 52.4065954,
+      "lng": 16.9265909,
+      "updated_at": "2026-10-11T12:53:29.271876+00:00"
     }
   }
 }

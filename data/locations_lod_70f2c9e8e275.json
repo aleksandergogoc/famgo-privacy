@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:47:04.645550+00:00",
+  "updated_at": "2026-10-11T12:55:00.253236+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -855,6 +855,33 @@
       "lat": 51.7586661,
       "lng": 19.424243,
       "updated_at": "2026-10-10T12:34:32.332060+00:00"
+    },
+    "lalek arlekin": {
+      "name": "Teatr Lalek Arlekin, 2, Aleja 1 Maja, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-718, Polska",
+      "district": "Polesie",
+      "address": "Teatr Lalek Arlekin, 2, Aleja 1 Maja, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-718, Polska",
+      "normalized": "lalek arlekin",
+      "lat": 51.773178,
+      "lng": 19.4508363,
+      "updated_at": "2026-10-11T12:46:32.739322+00:00"
+    },
+    "aquapark fala": {
+      "name": "Aquapark Fala, 4, Aleja Unii Lubelskiej, Zdrowie-Mania, Łódź-Polesie, Łódź, województwo łódzkie, 94-208, Polska",
+      "district": "Polesie",
+      "address": "Aquapark Fala, 4, Aleja Unii Lubelskiej, Zdrowie-Mania, Łódź-Polesie, Łódź, województwo łódzkie, 94-208, Polska",
+      "normalized": "aquapark fala",
+      "lat": 51.7642149,
+      "lng": 19.4210462,
+      "updated_at": "2026-10-11T12:46:38.514790+00:00"
+    },
+    "tradycji niepodległościowych w łodzi": {
+      "name": "Muzeum Tradycji Niepodległościowych w Łodzi, 13, Gdańska, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-706, Polska",
+      "district": "Polesie",
+      "address": "Muzeum Tradycji Niepodległościowych w Łodzi, 13, Gdańska, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-706, Polska",
+      "normalized": "tradycji niepodległościowych w łodzi",
+      "lat": 51.7757036,
+      "lng": 19.4474193,
+      "updated_at": "2026-10-11T12:46:41.809206+00:00"
     }
   }
 }

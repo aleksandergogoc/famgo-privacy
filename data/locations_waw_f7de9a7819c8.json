@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T12:47:05.915150+00:00",
+  "updated_at": "2026-10-11T12:55:02.344165+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -8880,6 +8880,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-10T12:27:45.832282+00:00"
+    },
+    "cxix lo im. jacka kuronia": {
+      "name": "CXIX LO im. Jacka Kuronia, ul. Złota 58, Warszawa",
+      "district": "Śródmieście",
+      "address": "CXIX LO im. Jacka Kuronia, ul. Złota 58, Warszawa",
+      "normalized": "cxix lo im. jacka kuronia",
+      "lat": 52.229,
+      "lng": 21.012,
+      "updated_at": "2026-10-11T12:34:11.382779+00:00"
+    },
+    "urząd dzielnicy bielany": {
+      "name": "ul. S. Żeromskiego 29, Warszawa",
+      "district": "Bielany",
+      "address": "ul. S. Żeromskiego 29, Warszawa",
+      "normalized": "urząd dzielnicy bielany",
+      "lat": 52.2906,
+      "lng": 20.9474,
+      "updated_at": "2026-10-11T12:34:20.758269+00:00"
+    },
+    "wypożyczalnia nr 17 - biblioteka publiczna włochy": {
+      "name": "Wypożyczalnia nr 17 - Biblioteka Publiczna Włochy, Warszawa",
+      "district": "Włochy",
+      "address": "Wypożyczalnia nr 17 - Biblioteka Publiczna Włochy, Warszawa",
+      "normalized": "wypożyczalnia nr 17 - biblioteka publiczna włochy",
+      "lat": 52.1866,
+      "lng": 20.9363,
+      "updated_at": "2026-10-11T12:34:25.480326+00:00"
+    },
+    "stanisława konarskiego 20_20": {
+      "name": "Stanisława Konarskiego 20/20, 01-355 Warszawa, Poland",
+      "district": "Bemowo",
+      "address": "Stanisława Konarskiego 20/20, 01-355 Warszawa, Poland",
+      "normalized": "stanisława konarskiego 20_20",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-11T12:39:07.903211+00:00"
     }
   }
 }

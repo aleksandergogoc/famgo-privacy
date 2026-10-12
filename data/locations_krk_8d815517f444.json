@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T12:55:03.583131+00:00",
+  "updated_at": "2026-10-12T15:12:28.656394+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4819,6 +4819,105 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-10-11T12:31:38.951389+00:00"
+    },
+    "kultury łokietek": {
+      "name": "Klub Kultury „Łokietek”, 267, Władysława Łokietka, Kąty, Tonie, Prądnik Biały, Kraków, województwo małopolskie, 31-263, Polska",
+      "district": "Prądnik Biały",
+      "address": "Klub Kultury „Łokietek”, 267, Władysława Łokietka, Kąty, Tonie, Prądnik Biały, Kraków, województwo małopolskie, 31-263, Polska",
+      "normalized": "kultury łokietek",
+      "lat": 50.1121871,
+      "lng": 19.8993521,
+      "updated_at": "2026-10-12T14:40:01.808432+00:00"
+    },
+    "kultury rybitwy": {
+      "name": "ul. Rybitwy 61, Kraków",
+      "district": "Podgórze",
+      "address": "ul. Rybitwy 61, Kraków",
+      "normalized": "kultury rybitwy",
+      "lat": 50.034,
+      "lng": 19.944,
+      "updated_at": "2026-10-12T14:41:43.433750+00:00"
+    },
+    "filia nr 56 odział dla dzieci": {
+      "name": "7, Osiedle Zgody, Nowa Huta, Kraków, województwo małopolskie, 31-949, Polska",
+      "district": "Nowa Huta",
+      "address": "7, Osiedle Zgody, Nowa Huta, Kraków, województwo małopolskie, 31-949, Polska",
+      "normalized": "filia nr 56 odział dla dzieci",
+      "lat": 50.0759262,
+      "lng": 20.0379002,
+      "updated_at": "2026-10-12T14:55:30.546125+00:00"
+    },
+    "filia „kosmos” (nr 58)": {
+      "name": "ul. Borkowska 25, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Borkowska 25, Kraków",
+      "normalized": "filia „kosmos” (nr 58)",
+      "lat": 50.062,
+      "lng": 19.926,
+      "updated_at": "2026-10-12T14:55:34.220678+00:00"
+    },
+    "filia „pod kawką” (nr 44)": {
+      "name": "ul. Spółdzielców 3, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Spółdzielców 3, Kraków",
+      "normalized": "filia „pod kawką” (nr 44)",
+      "lat": 50.064,
+      "lng": 19.945,
+      "updated_at": "2026-10-12T14:55:37.783857+00:00"
+    },
+    "filia nr 8": {
+      "name": "Filia nr 8, ul. J. Brodowicza 1, Kraków",
+      "district": "Stare Miasto",
+      "address": "Filia nr 8, ul. J. Brodowicza 1, Kraków",
+      "normalized": "filia nr 8",
+      "lat": 50.064,
+      "lng": 19.944,
+      "updated_at": "2026-10-12T14:55:41.560597+00:00"
+    },
+    "filia nr 16": {
+      "name": "Filia nr 16, ul. W. Eljasza-Radzikowskiego 29, Kraków",
+      "district": "Stare Miasto",
+      "address": "Filia nr 16, ul. W. Eljasza-Radzikowskiego 29, Kraków",
+      "normalized": "filia nr 16",
+      "lat": 50.064,
+      "lng": 19.928,
+      "updated_at": "2026-10-12T14:55:44.523305+00:00"
+    },
+    "filia „gotyk” (nr 57)": {
+      "name": "ul. ks. J. Meiera 16c, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. ks. J. Meiera 16c, Kraków",
+      "normalized": "filia „gotyk” (nr 57)",
+      "lat": 50.064,
+      "lng": 19.944,
+      "updated_at": "2026-10-12T14:55:47.401549+00:00"
+    },
+    "filia nr 14": {
+      "name": "Filia nr 14, ul. Ugorek 14, Kraków",
+      "district": "Stare Miasto",
+      "address": "Filia nr 14, ul. Ugorek 14, Kraków",
+      "normalized": "filia nr 14",
+      "lat": 50.062,
+      "lng": 19.932,
+      "updated_at": "2026-10-12T14:55:50.571709+00:00"
+    },
+    "książkoteka": {
+      "name": "ul. Rajska 3, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Rajska 3, Kraków",
+      "normalized": "książkoteka",
+      "lat": 50.062,
+      "lng": 19.937,
+      "updated_at": "2026-10-12T14:55:53.588464+00:00"
+    },
+    "plac szczepański 9 31-011 kraków": {
+      "name": "Kamienica Szołayskich, 9, Plac Szczepański, Stare Miasto, Kraków, województwo małopolskie, 31-011, Polska",
+      "district": "Stare Miasto",
+      "address": "Kamienica Szołayskich, 9, Plac Szczepański, Stare Miasto, Kraków, województwo małopolskie, 31-011, Polska",
+      "normalized": "plac szczepański 9 31-011 kraków",
+      "lat": 50.0633496,
+      "lng": 19.935964,
+      "updated_at": "2026-10-12T14:55:54.218831+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T12:54:59.118792+00:00",
+  "updated_at": "2026-10-12T15:12:24.267916+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1808,6 +1808,24 @@
       "lat": 54.3504754,
       "lng": 18.644728,
       "updated_at": "2026-10-11T12:49:15.601207+00:00"
+    },
+    "ujeścisko 16": {
+      "name": "16C, Ujeścisko, Osiedle Pomarańczowe, Zabornia, Ujeścisko - Łostowice, Gdańsk, województwo pomorskie, 80-130, Polska",
+      "district": "Górny Taras",
+      "address": "16C, Ujeścisko, Osiedle Pomarańczowe, Zabornia, Ujeścisko - Łostowice, Gdańsk, województwo pomorskie, 80-130, Polska",
+      "normalized": "ujeścisko 16",
+      "lat": 54.3440904,
+      "lng": 18.5928624,
+      "updated_at": "2026-10-12T15:06:47.109710+00:00"
+    },
+    "molo brzeźno (wejście 55)": {
+      "name": "Molo Brzeźno (wejście 55)",
+      "district": "Dolny Taras",
+      "address": "Molo Brzeźno (wejście 55)",
+      "normalized": "molo brzeźno (wejście 55)",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-12T15:08:13.936267+00:00"
     }
   }
 }

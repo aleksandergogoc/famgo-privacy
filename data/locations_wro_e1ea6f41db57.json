@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T12:55:01.239546+00:00",
+  "updated_at": "2026-10-12T15:12:25.717502+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2338,6 +2338,24 @@
       "lat": 51.1092091,
       "lng": 17.0403065,
       "updated_at": "2026-10-11T12:41:00.173778+00:00"
+    },
+    "ośrodek postaw twórczych zamek (opt zamek) pl. świętojański 1": {
+      "name": "Port Lotniczy Wrocław, Graniczna, Strachowice, Jerzmanowo-Jarnołtów-Strachowice-Osiniec, Wrocław, województwo dolnośląskie, 54-433, Polska",
+      "district": "Fabryczna",
+      "address": "Port Lotniczy Wrocław, Graniczna, Strachowice, Jerzmanowo-Jarnołtów-Strachowice-Osiniec, Wrocław, województwo dolnośląskie, 54-433, Polska",
+      "normalized": "ośrodek postaw twórczych zamek (opt zamek) pl. świętojański 1",
+      "lat": 51.1037829,
+      "lng": 16.8885446,
+      "updated_at": "2026-10-12T15:02:04.677231+00:00"
+    },
+    "przejście dialogu świdnicka 19": {
+      "name": "Przejście Dialogu, 19, Świdnicka, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-066, Polska",
+      "district": "Stare Miasto",
+      "address": "Przejście Dialogu, 19, Świdnicka, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-066, Polska",
+      "normalized": "przejście dialogu świdnicka 19",
+      "lat": 51.1073354,
+      "lng": 17.0322432,
+      "updated_at": "2026-10-12T15:02:06.285659+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:12:22.735779+00:00",
+  "updated_at": "2026-10-13T16:39:59.872158+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1683,6 +1683,15 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-10-12T15:10:03.388862+00:00"
+    },
+    "dom sąsiedzki na...": {
+      "name": "Dom Sąsiedzki, Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "district": "Wilda",
+      "address": "Dom Sąsiedzki, Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "normalized": "dom sąsiedzki na...",
+      "lat": 52.3655116,
+      "lng": 16.9049831,
+      "updated_at": "2026-10-13T16:37:03.346183+00:00"
     }
   }
 }

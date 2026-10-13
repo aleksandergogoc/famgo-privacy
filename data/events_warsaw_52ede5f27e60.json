@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:01:48.706395+00:00",
+  "updated_at": "2026-10-13T16:02:02.071569+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -1529,47 +1529,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-08-21T07:36:22.734223+00:00"
-    },
-    "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-10-13T11:00:00+02:00": {
-      "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-      "date": "2026-10-13T11:00:00+02:00",
-      "end_date": "2026-10-13T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan.",
-      "url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#13-10",
-      "source": "bielany.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
-        "district": "Bielany"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#13-10",
-      "scrapped_timestamp": "2026-08-31T13:35:15.945972+00:00",
-      "translations": {
-        "pl": {
-          "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-          "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan."
-        },
-        "en": {
-          "title": "On the Carpet – Neighborhood Toddler Zone",
-          "description": "Every Tuesday, we roll out the carpet and open our space for spontaneous neighborhood gatherings for the youngest children and parents from Bielany."
-        },
-        "uk": {
-          "title": "Ми на килимку – сусідська зона для малюків",
-          "description": "Щовівторка ми розкриваємо килим і відкриваємо наш простір для спонтанних сусідських зустрічей для найменших дітей та батьків з Білянів."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bielany",
-      "updated_at": "2026-08-31T13:38:42.690704+00:00"
     },
     "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-10-20T11:00:00+02:00": {
       "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
@@ -4161,85 +4120,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-09-21T12:40:22.722526+00:00"
     },
-    "e-moc-je-zaj-cia-czytelniczo-psychologiczne-2026-10-12T17:00:00+02:00": {
-      "title": "„e-MOC-je” – zajęcia czytelniczo-psychologiczne",
-      "date": "2026-10-12T17:00:00+02:00",
-      "end_date": "2026-10-12T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wydarzenie\n\n 12.10.2026 17:00 - 12.10.2026 18:00\n  Pokaż pozostałe daty wydarzenia\n\nNastępne wydarzenia:\n\n• 26.10.2026 17:00 - 26.10.2026 18:00\n\n  Biblioteka Publiczna - Filia „Szamoty”,   Silnikowa 8A,   02-495 Warszawa\n\nZajęcia dla dzieci z klas I–III szkoły podstawowej, łączące czytanie książek z rozmową o emocjach i relacjach. Poprzez opowiadania, zabawy i ćwiczenia dostosowane do wieku uczestnicy uczą się rozpoznawać, nazywać i wyrażać emocje, a także lepiej rozumieć siebie i innych. Spotkania wspierają rozwój emocjonalny, empatię oraz umiejętności społeczne w bezpiecznej, przyjaznej atmosferze.\n\n📌 **Obowiązują zapisy.**\n\nAby uzyskać więcej informacji oraz zapisać się, prosimy o kontakt pod numerem telefonu\n 22 882 43 00 wew. 5\n\n Informacje o dostępności placówki: biblioteka dwupoziomowa, winda wewnętrzna, TOTUPOINT, PJM on-line, pętla indukcyjna.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie\n\nTrwa wczytywanie mapy. W przypadku problemów proszę wyczyścić ciasteczka.",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/-e-moc-je-zajecia-czytelniczo-psychologicz-5",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Filia „Szamoty”, Silnikowa 8A, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/-e-moc-je-zajecia-czytelniczo-psychologicz-5",
-      "scrapped_timestamp": "2026-09-21T19:24:43.636690+00:00",
-      "category": "Storytime",
-      "additional_categories": [
-        "Educational"
-      ],
-      "age_range": {
-        "min": 6,
-        "max": 9
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "„e-MOC-je” – zajęcia czytelniczo-psychologiczne",
-          "description": "Wydarzenie\n\n 12.10.2026 17:00 - 12.10.2026 18:00\n  Pokaż pozostałe daty wydarzenia\n\nNastępne wydarzenia:\n\n• 26.10.2026 17:00 - 26.10.2026 18:00\n\n  Biblioteka Publiczna - Filia „Szamoty”,   Silnikowa 8A,   02-495 Warszawa\n\nZajęcia dla dzieci z klas I–III szkoły podstawowej, łączące czytanie książek z rozmową o emocjach i relacjach. Poprzez opowiadania, zabawy i ćwiczenia dostosowane do wieku uczestnicy uczą się rozpoznawać, nazywać i wyrażać emocje, a także lepiej rozumieć siebie i innych. Spotkania wspierają rozwój emocjonalny, empatię oraz umiejętności społeczne w bezpiecznej, przyjaznej atmosferze.\n\n📌 **Obowiązują zapisy.**\n\nAby uzyskać więcej informacji oraz zapisać się, prosimy o kontakt pod numerem telefonu\n 22 882 43 00 wew. 5\n\n Informacje o dostępności placówki: biblioteka dwupoziomowa, winda wewnętrzna, TOTUPOINT, PJM on-line, pętla indukcyjna.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie\n\nTrwa wczytywanie mapy. W przypadku problemów proszę wyczyścić ciasteczka."
-        },
-        "en": {
-          "title": "\"e-MOC-je\" – reading and psychological classes",
-          "description": "Event\n\n 12.10.2026 17:00 - 12.10.2026 18:00\n  Show other event dates\n\nNext events:\n\n• 26.10.2026 17:00 - 26.10.2026 18:00\n\n  Public Library - Branch \"Szamoty\",   Silnikowa 8A,   02-495 Warsaw\n\nClasses for children in grades I–III of primary school, combining reading books with discussions about emotions and relationships. Through stories, games, and exercises tailored to their age, participants learn to recognize, name, and express emotions, as well as to better understand themselves and others. The meetings support emotional development, empathy, and social skills in a safe, friendly atmosphere.\n\n📌 **Registration is required.**\n\nFor more information and to register, please contact us at the phone number\n 22 882 43 00 ext. 5\n\n Information about the facility's accessibility: two-level library"
-        },
-        "uk": {
-          "title": "„e-MOC-je” – заняття читанням та психології",
-          "description": "Подія\n\n 12.10.2026 17:00 - 12.10.2026 18:00\n  Показати інші дати події\n\nНаступні події:\n\n• 26.10.2026 17:00 - 26.10.2026 18:00\n\n  Публічна бібліотека - Філія „Шамоти”,   Силнікова 8А,   02-495 Варшава\n\nЗаняття для дітей з класів I–III початкової школи, що поєднують читання книг з розмовою про емоції та стосунки. Через оповідання, ігри та вправи, адаптовані до віку, учасники вчаться розпізнавати, називати та виражати емоції, а також краще розуміти себе та інших. Зустрічі підтримують емоційний розвиток, емпатію та соціальні навички в безпечній, дружній атмосфері.\n\n📌 **Обов'язкові записи.**\n\nЩоб отримати більше інформації та записатися, просимо зв'язатися за номером телефону\n 22 882 43 00 внутр. 5\n\n Інформація про доступність закладу: бібліотека двоповерхова"
-        }
-      },
-      "updated_at": "2026-09-21T19:27:35.721462+00:00"
-    },
-    "klub-odkrywc-w-legend-wiata-2026-10-13T17:30:00+02:00": {
-      "title": "Klub odkrywców legend świata",
-      "date": "2026-10-13T17:30:00+02:00",
-      "end_date": "2026-10-13T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wydarzenie\n\n 13.10.2026 17:30 - 13.10.2026 18:30\n\n  Biblioteka Publiczna - Filia „Szamoty”,   Silnikowa 8A,   02-495 Warszawa\n\n„Klub odkrywców legend świata” to wyjątkowe warsztaty kulturowe dla dzieci w wieku 6–9 lat, które w ciekawy i angażujący sposób łączą tradycję z nowoczesnością.\n\nPodczas zajęć uczestnicy poznają zwyczaje, muzykę, sztukę i ciekawostki z różnych stron świata, rozwijając swoją kreatywność oraz otwartość na inne kultury. To inspirująca podróż pełna zabawy i odkryć.\n\n📌 **Obowiązują zapisy.**\n\nAby uzyskać więcej informacji oraz zapisać się, prosimy o kontakt pod numerem telefonu\n 22 882 43 00 wew. 5\n\n Informacje o dostępności placówki: biblioteka dwupoziomowa, winda wewnętrzna, TOTUPOINT, PJM on-line, pętla indukcyjna.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie\n\nTrwa wczytywanie mapy. W przypadku problemów proszę wyczyścić ciasteczka.",
-      "image": null,
-      "url": "https://ursus.um.warszawa.pl/-/klub-odkrywcow-legend-swia",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Filia „Szamoty”, Silnikowa 8A, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/klub-odkrywcow-legend-swia",
-      "scrapped_timestamp": "2026-09-21T19:24:52.231516+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 9
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Klub odkrywców legend świata",
-          "description": "Wydarzenie\n\n 13.10.2026 17:30 - 13.10.2026 18:30\n\n  Biblioteka Publiczna - Filia „Szamoty”,   Silnikowa 8A,   02-495 Warszawa\n\n„Klub odkrywców legend świata” to wyjątkowe warsztaty kulturowe dla dzieci w wieku 6–9 lat, które w ciekawy i angażujący sposób łączą tradycję z nowoczesnością.\n\nPodczas zajęć uczestnicy poznają zwyczaje, muzykę, sztukę i ciekawostki z różnych stron świata, rozwijając swoją kreatywność oraz otwartość na inne kultury. To inspirująca podróż pełna zabawy i odkryć.\n\n📌 **Obowiązują zapisy.**\n\nAby uzyskać więcej informacji oraz zapisać się, prosimy o kontakt pod numerem telefonu\n 22 882 43 00 wew. 5\n\n Informacje o dostępności placówki: biblioteka dwupoziomowa, winda wewnętrzna, TOTUPOINT, PJM on-line, pętla indukcyjna.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie\n\nTrwa wczytywanie mapy. W przypadku problemów proszę wyczyścić ciasteczka."
-        },
-        "en": {
-          "title": "Club of World Legends Explorers",
-          "description": "Event\n\n 13.10.2026 17:30 - 13.10.2026 18:30\n\n  Public Library - Branch \"Szamoty\",   Silnikowa 8A,   02-495 Warsaw\n\n\"Club of World Legends Explorers\" is a unique cultural workshop for children aged 6–9, which in an interesting and engaging way combines tradition with modernity.\n\nDuring the sessions, participants will learn about customs, music, art, and curiosities from different parts of the world, developing their creativity and openness to other cultures. It is an inspiring journey full of fun and discoveries.\n\n📌 **Registration is required.**\n\nFor more information and to register, please contact us at the phone number\n 22 882 43 00 ext. 5\n\n Information about the facility's accessibility: two-level library, internal elevator, TOTUPOINT, PJM online, induction loop.\n\n  The event provides the following amenities\n\n  S"
-        },
-        "uk": {
-          "title": "Клуб дослідників легенд світу",
-          "description": "Подія\n\n 13.10.2026 17:30 - 13.10.2026 18:30\n\n  Публічна бібліотека - Філія «Шамоти»,   Силникова 8А,   02-495 Варшава\n\n«Клуб дослідників легенд світу» - це унікальні культурні майстер-класи для дітей віком 6–9 років, які в цікавий та захоплюючий спосіб поєднують традицію з сучасністю.\n\nПід час занять учасники дізнаються про звичаї, музику, мистецтво та цікаві факти з різних куточків світу, розвиваючи свою креативність та відкритість до інших культур. Це надихаюча подорож, сповнена розваг та відкриттів.\n\n📌 **Обов'язкові записи.**\n\nЩоб отримати більше інформації та записатися, просимо зв'язатися за номером телефону\n 22 882 43 00 внутрішній 5\n\n Інформація про доступність закладу: бібліотека двоповерхова, внутрішній ліфт, TOTUPOINT, PJM онлайн, індукційна петля.\n\n  Подія забезпечує наступні зручності\n\n  S"
-        }
-      },
-      "updated_at": "2026-09-21T19:27:35.721483+00:00"
-    },
     "jesie-na-szkle-malowana-warsztaty-rodzinne-2026-10-14T18:00:00+02:00": {
       "title": "Jesień na szkle malowana - warsztaty rodzinne",
       "date": "2026-10-14T18:00:00+02:00",
@@ -5290,88 +5170,6 @@
       },
       "district": "Targówek",
       "updated_at": "2026-09-28T13:48:22.635735+00:00"
-    },
-    "pierwsze-kroki-w-muzeum-co-to-jest-muzeum-2026-10-13T13:10:00+02:00": {
-      "title": "PIERWSZE KROKI W MUZEUM / Co to jest muzeum?",
-      "date": "2026-10-13T13:10:00+02:00",
-      "end_date": "2026-10-13T13:10:00+02:00",
-      "startTimeKnown": true,
-      "description": "PIERWSZE KROKI W MUZEUM\n\nCo można robić z maluszkiem w Muzeum? W jaki sposób pokazać mu magiczny świat sztuki? Zapraszamy rodziców i opiekunów, którzy chcieliby, aby ich dziecko rozpoczęło przygodę ze sztuką. Zajęcia przeznaczone są dla dzieci w wieku od półtora roku do trzech lat. Odbywają się dwa razy w miesiącu, we wtorki, a każde z nich poświęcony jest jednemu tematowi. Pierwszą część spędzimy w galerii, a drugą w sali edukacyjnej, gdzie rodzice wspólnie z dzieckiem wykonają pracę inspirowaną oglądanym dziełem.\n\nProwadząca: Karolina Kierzkowska",
-      "url": "https://www.mnw.art.pl/wydarzenia/kalendarz-wydarzen/9398,wydarzenie.html",
-      "source": "mnw.art.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Educational",
-      "age_range": {
-        "min": 1,
-        "max": 3
-      },
-      "location": {
-        "name": "ok. 60 min Muzeum Narodowe w Warszawie, Zbiórka w Holu Głównym Gmachu Głównego MNW · Al. Jerozolimskie 3",
-        "district": "Śródmieście"
-      },
-      "image": "https://www.mnw.art.pl/gfx/muzeumnarodowe/_thumbs/pl/muzeumkalendarium/20/9398/1/wincenty_kasprzycki_wystawa_sztuk_pieknych_w_warszawie_w_1828_roku_mp298,mXZ35WeqplTapMXWXKSs.jpg",
-      "scrapped_url": "https://www.mnw.art.pl/wydarzenia/kalendarz-wydarzen/9398,wydarzenie.html",
-      "scrapped_timestamp": "2026-09-28T13:37:12.680408+00:00",
-      "translations": {
-        "pl": {
-          "title": "PIERWSZE KROKI W MUZEUM / Co to jest muzeum?",
-          "description": "PIERWSZE KROKI W MUZEUM\n\nCo można robić z maluszkiem w Muzeum? W jaki sposób pokazać mu magiczny świat sztuki? Zapraszamy rodziców i opiekunów, którzy chcieliby, aby ich dziecko rozpoczęło przygodę ze sztuką. Zajęcia przeznaczone są dla dzieci w wieku od półtora roku do trzech lat. Odbywają się dwa razy w miesiącu, we wtorki, a każde z nich poświęcony jest jednemu tematowi. Pierwszą część spędzimy w galerii, a drugą w sali edukacyjnej, gdzie rodzice wspólnie z dzieckiem wykonają pracę inspirowaną oglądanym dziełem.\n\nProwadząca: Karolina Kierzkowska"
-        },
-        "en": {
-          "title": "FIRST STEPS IN THE MUSEUM / What is a museum?",
-          "description": "FIRST STEPS IN THE MUSEUM\n\nWhat can you do with a toddler in the Museum? How to show them the magical world of art? We invite parents and guardians who would like their child to start an adventure with art. The activities are intended for children aged from one and a half to three years. They take place twice a month, on Tuesdays, and each session is dedicated to one theme. We will spend the first part in the gallery, and the second in the educational room, where parents together with their child will create a work inspired by the artwork they have seen.\n\nLeader: Karolina Kierzkowska"
-        },
-        "uk": {
-          "title": "ПЕРШІ КРОКИ В МУЗЕЇ / Що таке музей?",
-          "description": "ПЕРШІ КРОКИ В МУЗЕЇ\n\nЩо можна робити з малюком в Музеї? Яким чином показати йому магічний світ мистецтва? Запрошуємо батьків та опікунів, які хотіли б, щоб їхня дитина розпочала пригоду з мистецтвом. Заняття призначені для дітей віком від півтора року до трьох років. Вони відбуваються двічі на місяць, у вівторки, а кожне з них присвячене одній темі. Першу частину проведемо в галереї, а другу в навчальному залі, де батьки разом з дитиною виконають роботу, натхненну переглянутим твором.\n\nВедуча: Кароліна Кіржковська"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-28T13:48:22.636733+00:00"
-    },
-    "tajemnice-drzew-spotkania-przyrodnicze-2026-10-13T15:30:00+02:00": {
-      "title": "Tajemnice drzew. Spotkania przyrodnicze",
-      "date": "2026-10-13T15:30:00+02:00",
-      "end_date": "2026-10-13T15:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Uczestnicy dowiedzą się o rywalizacji i współpracy drzew, nauczą się rozpoznawać gatunki, poznają warstwy lasu oraz przyczyny sezonowych zmian. Część praktyczna obejmuje przygotowanie własnej karty zielnikowej.",
-      "url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/tajemnice-drzew#13-10",
-      "source": "lazienki-krolewskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "90 min Łazienki Królewskie, Nowa Palmiarnia · ul. Agrykola 1",
-        "district": "Śródmieście"
-      },
-      "image": "http://www.lazienki-krolewskie.pl/public/upload/pages/thumb/545b63bf8a50d.jpg",
-      "scrapped_url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/tajemnice-drzew#13-10",
-      "scrapped_timestamp": "2026-09-28T13:37:17.948326+00:00",
-      "translations": {
-        "pl": {
-          "title": "Tajemnice drzew. Spotkania przyrodnicze",
-          "description": "Uczestnicy dowiedzą się o rywalizacji i współpracy drzew, nauczą się rozpoznawać gatunki, poznają warstwy lasu oraz przyczyny sezonowych zmian. Część praktyczna obejmuje przygotowanie własnej karty zielnikowej."
-        },
-        "en": {
-          "title": "The Secrets of Trees. Nature Meetings",
-          "description": "Participants will learn about the competition and cooperation of trees, will learn to recognize species, will get to know the layers of the forest, and the reasons for seasonal changes. The practical part includes preparing their own herbarium card."
-        },
-        "uk": {
-          "title": "Таємниці дерев. Природничі зустрічі",
-          "description": "Учасники дізнаються про конкуренцію та співпрацю дерев, навчаться розпізнавати види, познайомляться з шарами лісу та причинами сезонних змін. Частина практична охоплює підготовку власної картки гербарію."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-28T13:48:22.636750+00:00"
     },
     "kropki-w-paski-obiadowe-d-wi-ki-2026-10-14T10:30:00+02:00": {
       "title": "Kropki w paski: Obiadowe dźwięki",
@@ -8146,47 +7944,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-09-28T13:48:22.639073+00:00"
     },
-    "spotkanie-w-chatce-mi-dzy-nami-mamami-2026-10-13T10:30:00+02:00": {
-      "title": "Spotkanie w Chatce: Między nami mamami",
-      "date": "2026-10-13T10:30:00+02:00",
-      "end_date": "2026-10-13T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Prowadzi: Natalia Białobrzeska, mama 4.ki, Trenerka Umiejętności Rodzicielskich – praktykująca w Podejściu Skoncentrowanym na Rozwiązaniach.",
-      "url": "https://fundacjabogatachata.com/wydarzenia/spotkanie-w-chatce-miedzy-nami-mamami-5/",
-      "source": "fundacjabogatachata.com",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 1
-      },
-      "location": {
-        "name": "Fundacja Bogata Chata · ul. Kossakowskiego 26/28",
-        "district": "Wawer"
-      },
-      "image": "https://fundacjabogatachata.com/wp-content/uploads/2026/09/15-1024x576.png",
-      "scrapped_url": "https://fundacjabogatachata.com/wydarzenia/spotkanie-w-chatce-miedzy-nami-mamami-5/",
-      "scrapped_timestamp": "2026-09-29T12:36:54.805019+00:00",
-      "translations": {
-        "pl": {
-          "title": "Spotkanie w Chatce: Między nami mamami",
-          "description": "Prowadzi: Natalia Białobrzeska, mama 4.ki, Trenerka Umiejętności Rodzicielskich – praktykująca w Podejściu Skoncentrowanym na Rozwiązaniach."
-        },
-        "en": {
-          "title": "Meeting in the Hut: Between Us Moms",
-          "description": "Led by: Natalia Białobrzeska, mom of 4, Parenting Skills Trainer – practicing in Solution-Focused Approach."
-        },
-        "uk": {
-          "title": "Зустріч у Чатці: Між нами мамами",
-          "description": "Веде: Наталія Білобрецька, мама 4.ки, Тренерка Батьківських Навичок – практикуюча в Підході, Сконцентрованому на Рішеннях."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Wawer",
-      "updated_at": "2026-09-29T12:38:25.393747+00:00"
-    },
     "zaj-cia-w-chatce-b-d-przedszkolakiem-2026-10-14T10:30:00+02:00": {
       "title": "Zajęcia w Chatce: Będę przedszkolakiem!",
       "date": "2026-10-14T10:30:00+02:00",
@@ -8658,130 +8415,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-09-30T12:35:33.296068+00:00"
-    },
-    "warsztaty-kolejkowe-dla-dzieci-2026-10-12T17:00:00+02:00": {
-      "title": "Warsztaty kolejkowe dla dzieci",
-      "date": "2026-10-12T17:00:00+02:00",
-      "end_date": "2026-10-12T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Będzie to okazja, by zobaczyć prawdziwą makietę, z torami, małymi budynkami i pociągami. Dzieci dowiedzą się, jak działają kolejki, makiety i sterowanie składami oraz będą mogły spróbować swoich sił w twórczej zabawie.",
-      "url": "https://rembertow.um.warszawa.pl/-/warsztaty-kolejkowe-dla-dzieci",
-      "source": "rembertow.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "Biblioteka Publiczna Rembertów, Wypożyczalnia dla dzieci · ul. Gawędziarzy 8",
-        "district": "Rembertów"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://rembertow.um.warszawa.pl/-/warsztaty-kolejkowe-dla-dzieci",
-      "scrapped_timestamp": "2026-09-30T12:30:12.302465+00:00",
-      "translations": {
-        "pl": {
-          "title": "Warsztaty kolejkowe dla dzieci",
-          "description": "Będzie to okazja, by zobaczyć prawdziwą makietę, z torami, małymi budynkami i pociągami. Dzieci dowiedzą się, jak działają kolejki, makiety i sterowanie składami oraz będą mogły spróbować swoich sił w twórczej zabawie."
-        },
-        "en": {
-          "title": "Train Workshops for Children",
-          "description": "This will be an opportunity to see a real model, with tracks, small buildings, and trains. Children will learn how trains, models, and controlling sets work and will be able to try their hand at creative play."
-        },
-        "uk": {
-          "title": "Майстер-класи з залізничних моделей для дітей",
-          "description": "Буде це нагода, щоб побачити справжню макету, з коліями, маленькими будівлями та поїздами. Діти дізнаються, як працюють залізниці, макети та управління складами, а також зможуть спробувати свої сили в творчій грі."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Rembertów",
-      "updated_at": "2026-09-30T12:35:33.297352+00:00"
-    },
-    "warsztaty-rodzinne-jesienne-2026-10-12T17:30:00+02:00": {
-      "title": "Warsztaty rodzinne – jesienne",
-      "date": "2026-10-12T17:30:00+02:00",
-      "end_date": "2026-10-12T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na „Warsztaty rodzinne - jesienne”, podczas których uczestnicy będą wykonywać dekoracje z szyszek i innych jesiennych ozdób. Zajęcia są dla rodzin.",
-      "url": "https://ursus.um.warszawa.pl/-/-warsztaty-rodzinne-jesienne-",
-      "source": "ursus.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 6
-      },
-      "location": {
-        "name": "Biblioteka Publiczna w Ursusie – Filia „Gołąbki” · ul. Czerwona Droga 6",
-        "district": "Ursus"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/-warsztaty-rodzinne-jesienne-",
-      "scrapped_timestamp": "2026-09-30T12:30:14.674405+00:00",
-      "translations": {
-        "pl": {
-          "title": "Warsztaty rodzinne – jesienne",
-          "description": "Zapraszamy na „Warsztaty rodzinne - jesienne”, podczas których uczestnicy będą wykonywać dekoracje z szyszek i innych jesiennych ozdób. Zajęcia są dla rodzin."
-        },
-        "en": {
-          "title": "Family Workshops – Autumn",
-          "description": "We invite you to the \"Family Workshops - Autumn\", during which participants will create decorations from pine cones and other autumn ornaments. \n\nThe activities are for families."
-        },
-        "uk": {
-          "title": "Сімейні майстер-класи – осінні",
-          "description": "Запрошуємо на «Сімейні майстер-класи - осінні», під час яких учасники будуть виконувати декорації з шишок та інших осінніх прикрас.\n\nЗаняття є для сімей."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ursus",
-      "updated_at": "2026-09-30T12:35:33.297370+00:00"
-    },
-    "s-siedzki-klub-rodzic-w-2026-10-13T10:00:00+02:00": {
-      "title": "Sąsiedzki Klub Rodziców",
-      "date": "2026-10-13T10:00:00+02:00",
-      "end_date": "2026-10-13T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Spotykamy się dwa razy w miesiącu – w drugi i czwarty wtorek miesiąca. Każde ze spotkań ma trochę inny charakter:\n\nRaz w miesiącu spotykamy się wokół konkretnego tematu - zapraszamy ekspertkę lub eksperta, słuchamy krótkiej prelekcji i rozmawiamy o tym, co bliskie codzienności rodziców: śnie, karmieniu, rozszerzaniu diety, podróżowaniu z maluchem, chustowaniu i wielu innych sprawach.\n\nRaz w miesiącu po prostu jesteśmy razem - przy kawie i herbacie, podczas zabawy dzieci i naszych rozmów. Poznajemy się, wymieniamy doświadczeniami, dzielimy tym, co działa (i tym, co zupełnie nie) i dajemy sobie trochę przestrzeni na zwykłe bycie wśród innych rodziców.\n\nSąsiedzki Klub Rodziców to bezpieczna, przyjazna i kameralna przestrzeń do rozmów, zadawania pytań, wymiany doświadczeń i budowania sąsiedzkiej rodzicielskiej wioski. Bo czasem potrzebujemy eksperta i konkretnej wiedzy, a czasem po prostu herbaty, drugiego dorosłego i dzieci bawiących się obok. Jeśli masz czasem wrażenie, że wszystko robisz „po raz pierwszy”, a rozmowa z drugim dorosłym przy kawie brzmi jak mały luksus to ten klub jest dla Ciebie.\n\nSala na Radomskiej jest przyjazna dzieciom - można wjechać wózkiem, podgrzać jedzenie, przewinąć malucha i po prostu poczuć się swobodnie. Na jednym spotkaniu spotyka się około 10 rodziców i opiekunów z dziećmi, dzięki czemu możemy zadbać o kameralną, sąsiedzką atmosferę.",
-      "url": "https://oko.com.pl/wydarzenia/sasiedzki-klub-rodzicow-2#13-10",
-      "source": "oko.com.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "Ośrodek Kultury Ochoty, sala widowiskowa · ul. Radomska 13/21",
-        "district": "Ochota"
-      },
-      "image": "https://oko.com.pl/media/event/sasiedzki-klub-rodzicow-fb-tlo-banner-detail-base_8030a7404277c718ce17b444ac7c984c.webp",
-      "scrapped_url": "https://oko.com.pl/wydarzenia/sasiedzki-klub-rodzicow-2#13-10",
-      "scrapped_timestamp": "2026-09-30T12:30:16.759672+00:00",
-      "category": "Family Fun",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Sąsiedzki Klub Rodziców",
-          "description": "Spotykamy się dwa razy w miesiącu – w drugi i czwarty wtorek miesiąca. Każde ze spotkań ma trochę inny charakter:\n\nRaz w miesiącu spotykamy się wokół konkretnego tematu - zapraszamy ekspertkę lub eksperta, słuchamy krótkiej prelekcji i rozmawiamy o tym, co bliskie codzienności rodziców: śnie, karmieniu, rozszerzaniu diety, podróżowaniu z maluchem, chustowaniu i wielu innych sprawach.\n\nRaz w miesiącu po prostu jesteśmy razem - przy kawie i herbacie, podczas zabawy dzieci i naszych rozmów. Poznajemy się, wymieniamy doświadczeniami, dzielimy tym, co działa (i tym, co zupełnie nie) i dajemy sobie trochę przestrzeni na zwykłe bycie wśród innych rodziców.\n\nSąsiedzki Klub Rodziców to bezpieczna, przyjazna i kameralna przestrzeń do rozmów, zadawania pytań, wymiany doświadczeń i budowania sąsiedzkiej rodzicielskiej wioski. Bo czasem potrzebujemy eksperta i konkretnej wiedzy, a czasem po prostu herbaty, drugiego dorosłego i dzieci bawiących się obok. Jeśli masz czasem wrażenie, że wszystko robisz „po raz pierwszy”, a rozmowa z drugim dorosłym przy kawie brzmi jak mały luksus to ten klub jest dla Ciebie.\n\nSala na Radomskiej jest przyjazna dzieciom - można wjechać wózkiem, podgrzać jedzenie, przewinąć malucha i po prostu poczuć się swobodnie. Na jednym spotkaniu spotyka się około 10 rodziców i opiekunów z dziećmi, dzięki czemu możemy zadbać o kameralną, sąsiedzką atmosferę."
-        },
-        "en": {
-          "title": "Neighborhood Parents' Club",
-          "description": "We meet twice a month – on the second and fourth Tuesday of the month. Each meeting has a slightly different character:\n\nOnce a month we gather around a specific topic - we invite an expert, listen to a short lecture, and discuss what is close to the daily lives of parents: sleep, feeding, introducing solids, traveling with a toddler, babywearing, and many other matters.\n\nOnce a month we simply come together - over coffee and tea, during the children's play and our conversations. We get to know each other, share experiences, exchange what works (and what doesn't at all), and give ourselves a little space to just be among other parents.\n\nThe Neighborhood Parents' Club is a safe, friendly, and intimate space for conversations, asking questions, sharing experiences, and building community."
-        },
-        "uk": {
-          "title": "Сусідський Клуб Батьків",
-          "description": "Зустрічаємося двічі на місяць – у другий та четвертий вівторок місяця. Кожна з зустрічей має трохи інший характер:\n\nРаз на місяць зустрічаємося навколо конкретної теми - запрошуємо експертку або експерта, слухаємо коротку лекцію і говоримо про те, що близьке до повсякденності батьків: сон, годування, розширення дієти, подорожі з малюком, носіння в слінгу та багато інших справ.\n\nРаз на місяць просто ємо разом - за кавою та чаєм, під час гри дітей і наших розмов. Знайомимося, обмінюємося досвідом, ділимося тим, що працює (і тим, що зовсім не) і даємо собі трохи простору на звичайне буття серед інших батьків.\n\nСусідський Клуб Батьків - це безпечний, дружній і затишний простір для розмов, ставлення запитань, обміну досвідом і будування сусідства."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ochota",
-      "updated_at": "2026-09-30T12:35:33.297389+00:00"
     },
     "plastusie-warsztaty-interdyscyplinarne-2026-10-15T11:00:00+02:00": {
       "title": "Plastusie - warsztaty interdyscyplinarne",
@@ -12734,48 +12367,6 @@
       "district": "Wilanów",
       "updated_at": "2026-10-05T14:11:51.676677+00:00"
     },
-    "wiecz-r-bajek-o-wzroku-w-bibliotece-w-zielonej-godz-17-00-i-18-00-2026-10-12T17:00:00+02:00": {
-      "title": "Wieczór Bajek o wzroku w Bibliotece w Zielonej [godz. 17:00 i 18:00]",
-      "date": "2026-10-12T17:00:00+02:00",
-      "end_date": "2026-10-12T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na wyjątkowe, pełne wyobraźni spotkanie z opowieścią 🤍\n\nTo kameralny wieczór, podczas którego najmłodsi odkryją niezwykłe historie - tworzone i opowiadane z pasją, talentem i wrażliwością. W atmosferze bliskości i skupienia dzieci wyruszą w świat bajek pełnych emocji, kreatywności i niepowtarzalnych bohaterów.\n\nWieczór Bajek o wzroku to przestrzeń, w której słowo ożywa dzięki wyobraźni - zarówno opowiadających, jak i słuchaczy. To doskonała okazja do wspólnego spędzenia czasu, rozwijania kreatywności i doświadczenia magii opowieści w inspirującym, artystycznym wydaniu.\n\n📅 Terminy:\n\n📍 12 października - godz. 17:00 i 18:00\n\n📍 15 października - godz. 17:00 i 18:00\n\n📌 Gdzie? Filia Biblioteki w Zielonej, ul. Podleśna 38, Warszawa-Wesoła\n\n🔗 Zapisy prowadzone online >> link\n\nDołącz do nas i pozwól, aby zabawa zaprowadziła Cię w świat niezapomnianych historii! 🌟\n\n-----\n\n📷 Zgoda na wykorzystanie wizerunku\n\nUczestnictwo w wydarzeniu jest równoznaczne z wyrażeniem zgody na nieodpłatne utrwalenie i wykorzystanie wizerunku w formie zdjęć oraz nagrań wideo, wykonywanych na potrzeby dokumentacji oraz promocji projektu, zgodnie z jego założeniami, jak również na potrzeby promocji Biblioteki, w tym w szczególności na jej stronie internetowej, kanałach Biblioteki w social mediach (Facebook, Instagram, LinkedIn), w mediach, etc.\n\n🎟️ Wejściówki i punktualność\n\nWstęp jest bezpłatny, ale wymaga może być wymagane okazanie elektronicznej wejściówki.\n\nJeśli nie możesz przyjść, daj nam znać lub anuluj rezerwację, żeby ktoś inny mógł skorzystać z miejsca.\n\nPrzyjdź kilka minut wcześniej - spóźnienia przeszkadzają uczestnikom i prowadzącym.\n\nOsoby bez wejściówki mogą wejść tylko w miarę dostępnych miejsc - bezpieczeństwo i przepisy BHP ograniczają liczbę uczestników.\n\n♿ Dostępność i potrzeby\n\nStaramy się, by nasze wydarzenia były dostępne dla wszystkich.\n\nJeśli masz szczególne potrzeby (np. dotyczące poruszania się, słyszenia, odbioru treści), daj nam znać wcześniej - postaramy się dostosować wydarzenie lub znaleźć rozwiązanie.\n\n💬 Podziel się wrażeniami\n\nJeśli podoba Ci się to, co robimy, powiedz o tym innym!\n\n📱 Udostępnij wydarzenie, oznacz nas w relacji lub zostaw komentarz na Facebooku / Instagramie.\n\nTo naprawdę pomaga nam docierać do nowych osób i rozwijać ofertę biblioteki.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0000.1791197022.webp",
-      "location": {
-        "name": "ul. Podleśna 38, Wesoła",
-        "district": "Wesoła"
-      },
-      "url": "https://app.evenea.pl/event/902145-135/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://app.evenea.pl/event/902145-135/",
-      "scrapped_timestamp": "2026-10-05T14:08:28.140888+00:00",
-      "category": "Storytime",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Wieczór Bajek o wzroku w Bibliotece w Zielonej [godz. 17:00 i 18:00]",
-          "description": "Zapraszamy na wyjątkowe, pełne wyobraźni spotkanie z opowieścią 🤍\n\nTo kameralny wieczór, podczas którego najmłodsi odkryją niezwykłe historie - tworzone i opowiadane z pasją, talentem i wrażliwością. W atmosferze bliskości i skupienia dzieci wyruszą w świat bajek pełnych emocji, kreatywności i niepowtarzalnych bohaterów.\n\nWieczór Bajek o wzroku to przestrzeń, w której słowo ożywa dzięki wyobraźni - zarówno opowiadających, jak i słuchaczy. To doskonała okazja do wspólnego spędzenia czasu, rozwijania kreatywności i doświadczenia magii opowieści w inspirującym, artystycznym wydaniu.\n\n📅 Terminy:\n\n📍 12 października - godz. 17:00 i 18:00\n\n📍 15 października - godz. 17:00 i 18:00\n\n📌 Gdzie? Filia Biblioteki w Zielonej, ul. Podleśna 38, Warszawa-Wesoła\n\n🔗 Zapisy prowadzone online >> link\n\nDołącz do nas i pozwól, aby zabawa zaprowadziła Cię w świat niezapomnianych historii! 🌟\n\n-----\n\n📷 Zgoda na wykorzystanie wizerunku\n\nUczestnictwo w wydarzeniu jest równoznaczne z wyrażeniem zgody na nieodpłatne utrwalenie i wykorzystanie wizerunku w formie zdjęć oraz nagrań wideo, wykonywanych na potrzeby dokumentacji oraz promocji projektu, zgodnie z jego założeniami, jak również na potrzeby promocji Biblioteki, w tym w szczególności na jej stronie internetowej, kanałach Biblioteki w social mediach (Facebook, Instagram, LinkedIn), w mediach, etc.\n\n🎟️ Wejściówki i punktualność\n\nWstęp jest bezpłatny, ale wymaga może być wymagane okazanie elektronicznej wejściówki.\n\nJeśli nie możesz przyjść, daj nam znać lub anuluj rezerwację, żeby ktoś inny mógł skorzystać z miejsca.\n\nPrzyjdź kilka minut wcześniej - spóźnienia przeszkadzają uczestnikom i prowadzącym.\n\nOsoby bez wejściówki mogą wejść tylko w miarę dostępnych miejsc - bezpieczeństwo i przepisy BHP ograniczają liczbę uczestników.\n\n♿ Dostępność i potrzeby\n\nStaramy się, by nasze wydarzenia były dostępne dla wszystkich.\n\nJeśli masz szczególne potrzeby (np. dotyczące poruszania się, słyszenia, odbioru treści), daj nam znać wcześniej - postaramy się dostosować wydarzenie lub znaleźć rozwiązanie.\n\n💬 Podziel się wrażeniami\n\nJeśli podoba Ci się to, co robimy, powiedz o tym innym!\n\n📱 Udostępnij wydarzenie, oznacz nas w relacji lub zostaw komentarz na Facebooku / Instagramie.\n\nTo naprawdę pomaga nam docierać do nowych osób i rozwijać ofertę biblioteki."
-        },
-        "en": {
-          "title": "Evening of Stories about Vision at the Library in Zielona [5:00 PM and 6:00 PM]",
-          "description": "We invite you to a unique, imaginative meeting with storytelling 🤍\n\nIt is an intimate evening during which the youngest will discover extraordinary stories - created and told with passion, talent, and sensitivity. In an atmosphere of closeness and focus, children will embark on a journey into a world of tales full of emotions, creativity, and unique heroes.\n\nThe Evening of Stories about Vision is a space where words come alive through imagination - both of the storytellers and the listeners. It is a perfect opportunity to spend time together, develop creativity, and experience the magic of storytelling in an inspiring, artistic edition.\n\n📅 Dates:\n\n📍 October 12 - 5:00 PM and 6:00 PM\n\n📍 October 15 - 5:00 PM and 6:00 PM\n\n📌 Where? Branch of the Library in Zielona, ul. Podleśna 38, Warsaw-Wesoła\n\n🔗 Registration conducted online >> link\n\nJoin us"
-        },
-        "uk": {
-          "title": "Вечір казок про зір в Бібліотеці в Зеленій [год. 17:00 і 18:00]",
-          "description": "Запрошуємо на унікальну, сповнену уяви зустріч з оповіддю 🤍\n\nЦе камерний вечір, під час якого наймолодші відкриють незвичайні історії - створені та розказані з пристрастю, талантом і чутливістю. В атмосфері близькості та зосередженості діти вирушать у світ казок, сповнених емоцій, креативності та неповторних героїв.\n\nВечір казок про зір - це простір, в якому слово оживає завдяки уяві - як оповідачів, так і слухачів. Це чудова нагода провести час разом, розвивати креативність та відчути магію оповіді в натхненному, художньому виконанні.\n\n📅 Дати:\n\n📍 12 жовтня - год. 17:00 і 18:00\n\n📍 15 жовтня - год. 17:00 і 18:00\n\n📌 Де? Філія Бібліотеки в Зеленій, вул. Подлеська 38, Варшава-Весола\n\n🔗 Реєстрація проводиться онлайн >> посилання\n\nПриєднуйтесь до"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wesoła",
-      "updated_at": "2026-10-05T14:11:51.676984+00:00"
-    },
     "wiecz-r-bajek-o-wzroku-w-bibliotece-w-zielonej-godz-17-00-i-18-00-2026-10-15T17:00:00+02:00": {
       "title": "Wieczór Bajek o wzroku w Bibliotece w Zielonej [godz. 17:00 i 18:00]",
       "date": "2026-10-15T17:00:00+02:00",
@@ -12817,48 +12408,6 @@
       },
       "district": "Wesoła",
       "updated_at": "2026-10-05T14:11:51.677007+00:00"
-    },
-    "festiwal-kultury-bez-barier-2026-10-13T10:00:00+02:00": {
-      "title": "Festiwal Kultury bez Barier",
-      "date": "2026-10-13T10:00:00+02:00",
-      "end_date": "2026-10-13T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Festiwal Kultury bez Barier\n\n13–18 października 2026\n\nFestiwal Kultury bez Barier to święto dostępnej kultury.\n\nPodczas tych kilku jesiennych dni zbieramy pod parasol programu festiwalowego wydarzenia dostępne odbywające się w całej Polsce.\n\nDo uczestnictwa w festiwalu zapraszamy osoby z niepełnosprawnościami i bez, starsze, młodsze, z dziećmi, bez dzieci, stałych uczestników i uczestniczki kultury, a także tych, którzy na wydarzeniach bywają rzadko.\n\nNa Festiwalu każdy jest mile widziany!\n\nSzczegółowy program >> link\n\nDostępność na wydarzeniach\n\nW zależności od wydarzenia oraz potrzeb widzów, na wydarzeniach zapewniamy:\n\naudiodeskrypcję\n\naudioprzewodniki\n\nwydarzenia w „cichych godzinach”\n\ndostępność dla osób w spektrum autyzmu\n\ndostępność dla osób z niepełnosprawnością intelektualną\n\nlektora polskiego do filmu\n\nłatwy tekst (ETR)\n\nmiejsce wyciszenia\n\nnapisy angielskie / polskie\n\nnapisy dla niesłyszących\n\nsłuchawki wyciszające\n\npętlę indukcyjną\n\nprowadzenie w polskim języku migowym\n\nprzedprzewodnik\n\nprzenośne systemy FM\n\ntłumaczenie na Polski język migowy\n\ntyflografikę, materiały do dotykania\n\nWstęp na wszystkie wydarzenia jest bezpłatny.\n\nZapisy i pytania: wszystkie wydarzenia wymagają wcześniejszej rezerwacji przez stronę festiwalu >> link",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1791192471.webp",
-      "location": {
-        "name": "Różne lokalizacje :)",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/events/3256332061228337?acontext={\"event_action_history\":[{\"surface\":\"user_timeline\"},{\"mechanism\":\"attachment\",\"surface\":\"newsfeed\"}],\"ref_notif_type\":null}",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/3256332061228337?acontext={\"event_action_history\":[{\"surface\":\"user_timeline\"},{\"mechanism\":\"attachment\",\"surface\":\"newsfeed\"}],\"ref_notif_type\":null}",
-      "scrapped_timestamp": "2026-10-05T14:08:36.441753+00:00",
-      "category": "Family Fun",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "unknown",
-      "translations": {
-        "pl": {
-          "title": "Festiwal Kultury bez Barier",
-          "description": "Festiwal Kultury bez Barier\n\n13–18 października 2026\n\nFestiwal Kultury bez Barier to święto dostępnej kultury.\n\nPodczas tych kilku jesiennych dni zbieramy pod parasol programu festiwalowego wydarzenia dostępne odbywające się w całej Polsce.\n\nDo uczestnictwa w festiwalu zapraszamy osoby z niepełnosprawnościami i bez, starsze, młodsze, z dziećmi, bez dzieci, stałych uczestników i uczestniczki kultury, a także tych, którzy na wydarzeniach bywają rzadko.\n\nNa Festiwalu każdy jest mile widziany!\n\nSzczegółowy program >> link\n\nDostępność na wydarzeniach\n\nW zależności od wydarzenia oraz potrzeb widzów, na wydarzeniach zapewniamy:\n\naudiodeskrypcję\n\naudioprzewodniki\n\nwydarzenia w „cichych godzinach”\n\ndostępność dla osób w spektrum autyzmu\n\ndostępność dla osób z niepełnosprawnością intelektualną\n\nlektora polskiego do filmu\n\nłatwy tekst (ETR)\n\nmiejsce wyciszenia\n\nnapisy angielskie / polskie\n\nnapisy dla niesłyszących\n\nsłuchawki wyciszające\n\npętlę indukcyjną\n\nprowadzenie w polskim języku migowym\n\nprzedprzewodnik\n\nprzenośne systemy FM\n\ntłumaczenie na Polski język migowy\n\ntyflografikę, materiały do dotykania\n\nWstęp na wszystkie wydarzenia jest bezpłatny.\n\nZapisy i pytania: wszystkie wydarzenia wymagają wcześniejszej rezerwacji przez stronę festiwalu >> link"
-        },
-        "en": {
-          "title": "Barrier-Free Culture Festival",
-          "description": "Barrier-Free Culture Festival\n\nOctober 13–18, 2026\n\nThe Barrier-Free Culture Festival is a celebration of accessible culture.\n\nDuring these few autumn days, we gather under the umbrella of the festival program events that are accessible taking place all over Poland.\n\nWe invite people with disabilities and without, older, younger, with children, without children, regular participants of culture, as well as those who rarely attend events.\n\nAt the Festival, everyone is welcome!\n\nDetailed program >> link\n\nAccessibility at events\n\nDepending on the event and the needs of the audience, we provide at events:\n\naudio description\n\naudio guides\n\nevents in \"quiet hours\"\n\naccessibility for people on the autism spectrum\n\naccessibility for people with intellectual disabilities\n\nreading"
-        },
-        "uk": {
-          "title": "Фестиваль Культури без Бар'єр",
-          "description": "Фестиваль Культури без Бар'єр\n\n13–18 жовтня 2026\n\nФестиваль Культури без Бар'єр - це свято доступної культури.\n\nПротягом цих кількох осінніх днів ми збираємо під парасоль програмного фестивалю події, доступні, що відбуваються по всій Польщі.\n\nДо участі у фестивалі запрошуємо осіб з інвалідністю та без, старших, молодших, з дітьми, без дітей, постійних учасників та учасниць культури, а також тих, хто на подіях буває рідко.\n\nНа Фестивалі кожен є бажаним!\n\nДетальна програма >> посилання\n\nДоступність на подіях\n\nВ залежності від події та потреб глядачів, на подіях забезпечуємо:\n\naudiodeskrypcję\n\naudioprzewodniki\n\nподії в «тихих годинах»\n\nдоступність для осіб в спектрі аутизму\n\ndostępność dla osób z niepełnosprawnością intelektualną\n\nlekt"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-05T14:11:51.677024+00:00"
     },
     "koderek-2026-kolektyw-inspiracji-2026-10-17T10:00:00+02:00": {
       "title": "Koderek 2026 – Kolektyw Inspiracji",
@@ -13474,90 +13023,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-10-06T13:26:17.616172+00:00"
     },
-    "bezp-atne-zaj-cia-taneczne-dla-dzieci-4-8-lat-z-niepe-nosprawno-ciami-2026-10-12T17:00:00+02:00": {
-      "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-      "date": "2026-10-12T17:00:00+02:00",
-      "end_date": "2026-10-12T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-10-06T13:22:17.141165+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Children Aged 4-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District.\n\nHARMONOGRAM:\n\nMondays 17:00 - dance classes for children aged 4-8\n\nMondays 18:00 - dance classes for parents with children aged 3-8\n\nThursdays 12:00 - latino solo\n\nThursdays 13:00 - corrective gymnastics\n\nLocation: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor)\n\nRegistration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для дітей 4-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово.\n\nHARMONOGRAM:\n\nПонеділки 17:00 - танцювальні заняття для дітей 4-8 років\n\nПонеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років\n\nЧетверги 12:00 - латино соло\n\nЧетверги 13:00 - гімнастика для покращення рухливості\n\nЛокація: MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх)\n\nЗапис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-10-06T13:26:17.616406+00:00"
-    },
-    "bezp-atne-zaj-cia-taneczne-dla-rodzic-w-z-dzie-mi-3-8-lat-z-niepe-nosprawno-ciami-2026-10-12T18:00:00+02:00": {
-      "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-      "date": "2026-10-12T18:00:00+02:00",
-      "end_date": "2026-10-12T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-10-06T13:22:25.311684+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Parents with Children Aged 3-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District.\n\nHARMONOGRAM:\n\nMondays 17:00 - dance classes for children aged 4-8\n\nMondays 18:00 - dance classes for parents with children aged 3-8\n\nThursdays 12:00 - latino solo\n\nThursdays 13:00 - corrective gymnastics\n\nLocation: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor)\n\nRegistration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для батьків з дітьми 3-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово.\n\nHARMONOGRAM:\n\nПонеділки 17:00 - танцювальні заняття для дітей 4-8 років\n\nПонеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років\n\nЧетверги 12:00 - латино соло\n\nЧетверги 13:00 - гімнастика для покращення\n\nЛокація: MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх)\n\nЗапис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-10-06T13:26:17.616430+00:00"
-    },
     "noc-bibliotek-i-program-dla-dzieci-i-pruszk-w-2026-10-16T18:00:00+02:00": {
       "title": "NOC BIBLIOTEK I PROGRAM DLA DZIECI I PRUSZKÓW",
       "date": "2026-10-16T18:00:00+02:00",
@@ -13734,48 +13199,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-10-06T13:26:17.616507+00:00"
-    },
-    "wiecz-r-bajek-o-wzroku-spotkanie-dla-dzieci-2026-10-12T17:00:00+02:00": {
-      "title": "Wieczór Bajek o wzroku – spotkanie dla dzieci",
-      "date": "2026-10-12T17:00:00+02:00",
-      "end_date": "2026-10-12T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Kameralne spotkanie z opowieściami dla najmłodszych. Wieczór Bajek o wzroku zaprasza dzieci do świata historii, emocji i niezwykłych bohaterów.\n\n• 12 października: godz. 17:00 i 18:00\n• 15 października: godz. 17:00 i 18:00\n• Filia Biblioteki w Zielonej, ul. Podleśna 38, Warszawa-Wesoła\n\nWstęp jest bezpłatny. Zapisy prowadzone są online: https://app.evenea.pl/event/902145-135/. Może być wymagane okazanie elektronicznej wejściówki; osoby bez niej mogą wejść w miarę dostępności miejsc. Organizator prosi o przybycie kilka minut wcześniej. Uczestnictwo oznacza zgodę na nieodpłatne utrwalanie i wykorzystanie wizerunku w zdjęciach i nagraniach na potrzeby dokumentacji oraz promocji projektu i Biblioteki.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d13b73ba-9d4b-46d2-b91d-4461ca07b050/02507c28-be26-4840-a915-2a1ecc3af317.jpg",
-      "location": {
-        "name": "ul. Podleśna 38, Wesoła, Warszawa",
-        "district": "Wesoła"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/wieczor-bajek-o-wzroku-spotkanie-dla-dzieci-d13b73ba-9d4b-46d2-b91d-4461ca07b050",
-      "source": "simplygo.pl",
-      "age_hint": "3-6",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/wieczor-bajek-o-wzroku-spotkanie-dla-dzieci-d13b73ba-9d4b-46d2-b91d-4461ca07b050",
-      "scrapped_timestamp": "2026-10-06T13:24:58.260441+00:00",
-      "category": "Storytime",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Wieczór Bajek o wzroku – spotkanie dla dzieci",
-          "description": "Kameralne spotkanie z opowieściami dla najmłodszych. Wieczór Bajek o wzroku zaprasza dzieci do świata historii, emocji i niezwykłych bohaterów.\n\n• 12 października: godz. 17:00 i 18:00\n• 15 października: godz. 17:00 i 18:00\n• Filia Biblioteki w Zielonej, ul. Podleśna 38, Warszawa-Wesoła\n\nWstęp jest bezpłatny. Zapisy prowadzone są online: https://app.evenea.pl/event/902145-135/. Może być wymagane okazanie elektronicznej wejściówki; osoby bez niej mogą wejść w miarę dostępności miejsc. Organizator prosi o przybycie kilka minut wcześniej. Uczestnictwo oznacza zgodę na nieodpłatne utrwalanie i wykorzystanie wizerunku w zdjęciach i nagraniach na potrzeby dokumentacji oraz promocji projektu i Biblioteki."
-        },
-        "en": {
-          "title": "Evening of Stories about Vision – a meeting for children",
-          "description": "An intimate meeting with stories for the youngest. The Evening of Stories about Vision invites children into a world of tales, emotions, and extraordinary heroes.\n\n• October 12: 5:00 PM and 6:00 PM\n• October 15: 5:00 PM and 6:00 PM\n• Branch of the Library in Zielona, ul. Podleśna 38, Warsaw-Wesoła\n\nAdmission is free. Registration is conducted online: https://app.evenea.pl/event/902145-135/. An electronic ticket may be required; those without it may enter as long as there are available seats. The organizer requests attendees to arrive a few minutes early. Participation means consent to the free recording and use of images in photos and recordings for the purposes of documentation and promotion of the project and the Library."
-        },
-        "uk": {
-          "title": "Вечір казок про зір – зустріч для дітей",
-          "description": "Камерна зустріч з оповіданнями для наймолодших. Вечір казок про зір запрошує дітей до світу історій, емоцій та незвичайних героїв.\n\n• 12 жовтня: год. 17:00 і 18:00\n• 15 жовтня: год. 17:00 і 18:00\n• Філія Бібліотеки в Зеленій, вул. Подлеська 38, Варшава-Весола\n\nВхід безкоштовний. Записи проводяться онлайн: https://app.evenea.pl/event/902145-135/. Може бути вимагано пред'явлення електронного квитка; особи без нього можуть увійти в міру наявності місць. Організатор просить прийти за кілька хвилин раніше. Участь означає згоду на безкоштовне фіксування та використання зображення на фотографіях та записах для потреб документації та промоції проекту та Бібліотеки."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wesoła",
-      "updated_at": "2026-10-06T13:26:17.616739+00:00"
     },
     "co-pami-taj-zabawki-warsztaty-rodzinne-z-joann-rudnia-sk-2026-10-18T12:00:00+02:00": {
       "title": "Co pamiętają zabawki? Warsztaty rodzinne z Joanną Rudniańską",
@@ -14002,129 +13425,6 @@
       },
       "district": "Mokotów",
       "updated_at": "2026-10-07T13:19:11.603799+00:00"
-    },
-    "sztuka-z-recyklingu-je-eko-rodzinne-warsztaty-plastyczne-2026-10-12T17:00:00+02:00": {
-      "title": "Sztuka z recyklingu: Jeż Eko – rodzinne warsztaty plastyczne",
-      "date": "2026-10-12T17:00:00+02:00",
-      "end_date": "2026-10-12T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na rodzinne warsztaty plastyczne, podczas których stworzymy sympatycznego jeżyka. Posłużą nam do tego m.in. plastikowe butelki, sznurek pakowy, szyszki i ruchome oczka.",
-      "url": "https://wlochy.um.warszawa.pl/-/sztuka-z-recyklingu-jez-eko",
-      "source": "wlochy.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 5,
-        "max": 6
-      },
-      "location": {
-        "name": "Biblioteka Publiczna Włochy, Biblioteka dla Dzieci i Młodzieży nr 22 · ul. ks. J. Chrościckiego 2",
-        "district": "Włochy"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://wlochy.um.warszawa.pl/-/sztuka-z-recyklingu-jez-eko",
-      "scrapped_timestamp": "2026-10-07T13:11:01.903391+00:00",
-      "translations": {
-        "pl": {
-          "title": "Sztuka z recyklingu: Jeż Eko – rodzinne warsztaty plastyczne",
-          "description": "Zapraszamy na rodzinne warsztaty plastyczne, podczas których stworzymy sympatycznego jeżyka. Posłużą nam do tego m.in. plastikowe butelki, sznurek pakowy, szyszki i ruchome oczka."
-        },
-        "en": {
-          "title": "Recycled Art: Eco Hedgehog – Family Art Workshops",
-          "description": "We invite you to family art workshops, during which we will create a friendly hedgehog. We will use, among other things, plastic bottles, packing string, pine cones, and movable eyes."
-        },
-        "uk": {
-          "title": "Мистецтво з переробки: Їжак Еко – сімейні художні майстерні",
-          "description": "Запрошуємо на сімейні художні майстерні, під час яких створимо симпатичного їжачка. Послужать нам для цього, зокрема, пластикові пляшки, пакувальний шнурок, шишки та рухомі очі."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Włochy",
-      "updated_at": "2026-10-07T13:19:11.604209+00:00"
-    },
-    "poczytanki-na-ok-ciu-2026-10-12T17:00:00+02:00": {
-      "title": "Poczytanki na Okęciu",
-      "date": "2026-10-12T17:00:00+02:00",
-      "end_date": "2026-10-12T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Rozpocznijcie tydzień w bibliotece! Wypożyczalnia nr 71 zaprasza dzieci w wieku 3-6 lat wraz z opiekunami na „Poczytanki na Okęciu”, czyli poniedziałkowe głośne czytanie książek lub spotkanie z teatrzykiem kamishibai.",
-      "url": "https://wlochy.um.warszawa.pl/-/poczytanki-na-okeciu-5#12-10",
-      "source": "wlochy.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "location": {
-        "name": "Biblioteka Publiczna Włochy, Wypożyczalnia nr 71 · ul. Astronautów 1",
-        "district": "Włochy"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://wlochy.um.warszawa.pl/-/poczytanki-na-okeciu-5#12-10",
-      "scrapped_timestamp": "2026-10-07T13:11:05.009175+00:00",
-      "translations": {
-        "pl": {
-          "title": "Poczytanki na Okęciu",
-          "description": "Rozpocznijcie tydzień w bibliotece! Wypożyczalnia nr 71 zaprasza dzieci w wieku 3-6 lat wraz z opiekunami na „Poczytanki na Okęciu”, czyli poniedziałkowe głośne czytanie książek lub spotkanie z teatrzykiem kamishibai."
-        },
-        "en": {
-          "title": "Storytime at Okęcie",
-          "description": "Start the week at the library! Lending Library No. 71 invites children aged 3-6 years along with their guardians to \"Storytime at Okęcie\", which means Monday loud reading of books or a meeting with a kamishibai theater."
-        },
-        "uk": {
-          "title": "Почитання на Океню",
-          "description": "Розпочніть тиждень у бібліотеці! Випозичальня № 71 запрошує дітей віком 3-6 років разом з опікунами на «Почитання на Океню», тобто понеділкове гучне читання книг або зустріч з театриком камішибай."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Włochy",
-      "updated_at": "2026-10-07T13:19:11.604226+00:00"
-    },
-    "teatr-w-bibliotece-cyberprzestrze-teatr-bajaderka-2026-10-13T17:00:00+02:00": {
-      "title": "Teatr w Bibliotece: „Cyberprzestrzeń” – Teatr Bajaderka",
-      "date": "2026-10-13T17:00:00+02:00",
-      "end_date": "2026-10-13T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Liczba miejsc ograniczona – obowiązują wcześniejsze zapisy telefoniczne w poszczególnych placówkach!",
-      "url": "https://bialoleka.um.warszawa.pl/-/teatr-w-bibliotece-lesne-show#13-10",
-      "source": "bialoleka.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Theater",
-      "age_range": {
-        "min": 4,
-        "max": 6
-      },
-      "location": {
-        "name": "Biblioteka Publiczna Białołęka, Biblioteka Zielona · ul. Berensona 38",
-        "district": "Białołęka"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://bialoleka.um.warszawa.pl/-/teatr-w-bibliotece-lesne-show#13-10",
-      "scrapped_timestamp": "2026-10-07T13:11:08.024607+00:00",
-      "translations": {
-        "pl": {
-          "title": "Teatr w Bibliotece: „Cyberprzestrzeń” – Teatr Bajaderka",
-          "description": "Liczba miejsc ograniczona – obowiązują wcześniejsze zapisy telefoniczne w poszczególnych placówkach!"
-        },
-        "en": {
-          "title": "Theater in the Library: \"Cyberspace\" – Bajaderka Theater",
-          "description": "Number of seats is limited – prior telephone registration is required at individual locations!"
-        },
-        "uk": {
-          "title": "Театр у бібліотеці: „Кіберпростір” – Театр Байадерка",
-          "description": "Кількість місць обмежена – обов'язкові попередні записи телефонічно в окремих закладах!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Białołęka",
-      "updated_at": "2026-10-07T13:19:11.604245+00:00"
     },
     "parada-dzidziusi-w-kryminalna-warszawa-2026-10-14T13:00:00+02:00": {
       "title": "Parada Dzidziusiów: Kryminalna Warszawa",
@@ -15776,48 +15076,6 @@
       },
       "district": "Praga-Południe",
       "updated_at": "2026-10-07T13:19:11.605031+00:00"
-    },
-    "zaj-cia-muzyczne-dla-dzieci-do-3-roku-ycia-2026-10-13T10:00:00+02:00": {
-      "title": "Zajęcia muzyczne dla dzieci do 3 roku życia",
-      "date": "2026-10-13T10:00:00+02:00",
-      "end_date": "2026-10-13T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia muzyczne przez cały październik we wtorki na 10:00.\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nMuzosmyki, wtorki 10-12\n\n06.10 – Jesienne piosenki\n\n13.10  – Leśne zwierzątka (jeż, lis i wiewiórka)\n\n20.10  – Pląsy harcerskie\n\n27.10  – Na spacerek idę z pieskiem, czyli Dzień Kundla i Pluszaka\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć muzycznych:\n\n- śpiewamy i bawimy się (wykorzystując elementy umuzykalnienia metodą Gordona, Orffa i innych oraz ruchu rozwijającego R. Labana lub W. Sherborne),\n\n- poznajemy jakiś kształt lub kolor (ogólnorozwojowa edukacja),\n\n- instrument (edukacja muzyczna),\n\n- piosenkę/utwór muzyczny lub wiersz (edukacja muzyczna),\n\n- praca z pomocami Montessori (w małej salce).",
-      "image": null,
-      "location": {
-        "name": "Świetojerska 12a",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/share/p/1BFYYTgRff/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/share/p/1BFYYTgRff/",
-      "scrapped_timestamp": "2026-10-07T13:17:57.956956+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Zajęcia muzyczne dla dzieci do 3 roku życia",
-          "description": "Zapraszamy na zajęcia muzyczne przez cały październik we wtorki na 10:00.\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nMuzosmyki, wtorki 10-12\n\n06.10 – Jesienne piosenki\n\n13.10  – Leśne zwierzątka (jeż, lis i wiewiórka)\n\n20.10  – Pląsy harcerskie\n\n27.10  – Na spacerek idę z pieskiem, czyli Dzień Kundla i Pluszaka\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć muzycznych:\n\n- śpiewamy i bawimy się (wykorzystując elementy umuzykalnienia metodą Gordona, Orffa i innych oraz ruchu rozwijającego R. Labana lub W. Sherborne),\n\n- poznajemy jakiś kształt lub kolor (ogólnorozwojowa edukacja),\n\n- instrument (edukacja muzyczna),\n\n- piosenkę/utwór muzyczny lub wiersz (edukacja muzyczna),\n\n- praca z pomocami Montessori (w małej salce)."
-        },
-        "en": {
-          "title": "Music Classes for Children up to 3 Years Old",
-          "description": "We invite you to music classes throughout October on Tuesdays at 10:00.\n\nFree admission with mandatory phone registration at 500 080 498!\n\nLimited number of places!\n\nMuzosmyki, Tuesdays 10-12\n\n06.10 – Autumn Songs\n\n13.10  – Forest Animals (hedgehog, fox, and squirrel)\n\n20.10  – Scout Dances\n\n27.10  – I'm Going for a Walk with My Dog, or Mixed-Breed and Plush Toy Day\n\nClasses with caregivers. Free of charge.\n\nDuring each music class:\n\n- we sing and play (using elements of musicalization methods by Gordon, Orff, and others, as well as developmental movement by R. Laban or W. Sherborne),\n\n- we learn about a shape or color (general developmental education),\n\n- instrument (musical education),\n\n- song/musical piece or poem (musical education),\n\n- working with Montessori materials (in a small room)."
-        },
-        "uk": {
-          "title": "Музичні заняття для дітей до 3 року життя",
-          "description": "Запрошуємо на музичні заняття протягом усього жовтня у вівторок о 10:00.\n\nВхід вільний з обов'язковими записами телефонними 500 080 498!\n\nКількість місць обмежена!\n\nМузосмики, вівторки 10-12\n\n06.10 – Осінні пісеньки\n\n13.10  – Лісові звірята (їжак, лисиця та білка)\n\n20.10  – Танці скаутів\n\n27.10  – На прогулянку йду з песиком, тобто День Кунделя і Плюшевого\n\nЗаняття разом з опікунами. Безкоштовно.\n\nПід час кожних музичних занять:\n\n- співаємо і граємося (використовуючи елементи музикалізації методом Гордона, Орфа та інших, а також руху, що розвиває Р. Лабана або В. Шерборна),\n\n- знайомимося з якоюсь формою або кольором (загальноосвітня освіта),\n\n- інструмент (музична освіта),\n\n- пісня/музичний твір або вірш (музична освіта),\n\n- робота з допоміжними матеріалами Монтессорі (в маленькій кімнаті)."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-07T13:19:11.605180+00:00"
     },
     "rodzinne-zaj-cia-koszykarskie-2026-10-13T19:30:00+02:00": {
       "title": "Rodzinne zajęcia koszykarskie",
@@ -18122,48 +17380,6 @@
       },
       "updated_at": "2026-10-11T12:39:11.650812+00:00"
     },
-    "jesienne-warsztaty-krawieckie-w-pracowni-taka-szpilka-2026-10-13T14:15:00+02:00": {
-      "title": "Jesienne warsztaty krawieckie w Pracowni Taka Szpilka!",
-      "date": "2026-10-13T14:15:00+02:00",
-      "end_date": "2026-10-13T14:15:00+02:00",
-      "startTimeKnown": true,
-      "description": "Bezpłatne warsztaty krawieckie w Pracowni Taka Szpilka! Uczestnicy uszyją między innymi dyniowe breloczki, filcowe miski, jesienne zawieszki, łapki kuchenne i fartuszki. Każdy uczestnik lub zespół wykona pracę pod okiem instruktora. Organizator zapewnia potrzebne materiały; można też przynieść własne do projektu upcyklingowego.\n\nZajęcia odbywają się w Pracowni Taka Szpilka! / FabLab Ursynów, przy ul. Edwarda Dembowskiego 1 w Warszawie. Warsztaty zaplanowano na październik i listopad: 1–2, 6–9, 13–17, 19–24 i 27–30 października oraz 3–6 i 9–13 listopada. Popołudniowe zajęcia od wtorku do piątku odbywają się w godzinach 14:15–17:30, a godziny pozostałych spotkań zależą od tematu warsztatu.\n\n• Obowiązują bezpłatne bilety: https://synergia.warszawa.pl/zapisy\n• Na stronie zapisów należy wybrać warsztaty dla osób indywidualnych – FabLab Taka Szpilka!, a następnie termin i godzinę.\n• Osoby do 18. roku życia uczestniczą z rodzicem lub opiekunem prawnym; należy zarezerwować bilet dla każdej osoby. Osoby bez biletów mogą wejść tylko wtedy, gdy nie będzie kompletu uczestników z biletami.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/ec4a97af-1498-4c93-a09a-9d2a48e47440/7d58294c-1f5a-44c4-8ac5-72da16a429af.jpg",
-      "location": {
-        "name": "Edwarda Dembowskiego 1, Warszawa",
-        "district": "Ursynów"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/jesienne-warsztaty-krawieckie-w-pracowni-taka-szpilka-ec4a97af-1498-4c93-a09a-9d2a48e47440",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/jesienne-warsztaty-krawieckie-w-pracowni-taka-szpilka-ec4a97af-1498-4c93-a09a-9d2a48e47440",
-      "scrapped_timestamp": "2026-10-11T12:37:51.287180+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Arts"
-      ],
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Jesienne warsztaty krawieckie w Pracowni Taka Szpilka!",
-          "description": "Bezpłatne warsztaty krawieckie w Pracowni Taka Szpilka! Uczestnicy uszyją między innymi dyniowe breloczki, filcowe miski, jesienne zawieszki, łapki kuchenne i fartuszki. Każdy uczestnik lub zespół wykona pracę pod okiem instruktora. Organizator zapewnia potrzebne materiały; można też przynieść własne do projektu upcyklingowego.\n\nZajęcia odbywają się w Pracowni Taka Szpilka! / FabLab Ursynów, przy ul. Edwarda Dembowskiego 1 w Warszawie. Warsztaty zaplanowano na październik i listopad: 1–2, 6–9, 13–17, 19–24 i 27–30 października oraz 3–6 i 9–13 listopada. Popołudniowe zajęcia od wtorku do piątku odbywają się w godzinach 14:15–17:30, a godziny pozostałych spotkań zależą od tematu warsztatu.\n\n• Obowiązują bezpłatne bilety: https://synergia.warszawa.pl/zapisy\n• Na stronie zapisów należy wybrać warsztaty dla osób indywidualnych – FabLab Taka Szpilka!, a następnie termin i godzinę.\n• Osoby do 18. roku życia uczestniczą z rodzicem lub opiekunem prawnym; należy zarezerwować bilet dla każdej osoby. Osoby bez biletów mogą wejść tylko wtedy, gdy nie będzie kompletu uczestników z biletami."
-        },
-        "en": {
-          "title": "Autumn Sewing Workshops at Taka Szpilka Studio!",
-          "description": "Free sewing workshops at Taka Szpilka Studio! Participants will sew, among other things, pumpkin keychains, felt bowls, autumn decorations, oven mitts, and aprons. Each participant or team will complete their work under the guidance of an instructor. The organizer provides the necessary materials; you can also bring your own for the upcycling project.\n\nClasses take place at Taka Szpilka Studio! / FabLab Ursynów, at Edwarda Dembowskiego 1 in Warsaw. Workshops are scheduled for October and November: October 1–2, 6–9, 13–17, 19–24, and 27–30, as well as November 3–6 and 9–13. Afternoon classes from Tuesday to Friday are held from 14:15 to 17:30, and the times of other meetings depend on the workshop topic.\n\n• Free tickets are required: https://synergia.warszawa.pl/zapisy\n• On the registration page, you need to select"
-        },
-        "uk": {
-          "title": "Осінні швейні майстер-класи в Майстерні Taka Szpilka!",
-          "description": "Безкоштовні швейні майстер-класи в Майстерні Taka Szpilka! Учасники зшиють, зокрема, гарбузові брелоки, фетрові миски, осінні підвіски, кухонні прихватки та фартушки. Кожен учасник або команда виконає роботу під наглядом інструктора. Організатор забезпечує необхідні матеріали; також можна принести свої для проекту апсайклінгу.\n\nЗаняття відбуваються в Майстерні Taka Szpilka! / FabLab Ursynów, за адресою: вул. Едварда Дембовського 1 у Варшаві. Майстер-класи заплановано на жовтень і листопад: 1–2, 6–9, 13–17, 19–24 і 27–30 жовтня, а також 3–6 і 9–13 листопада. Вечірні заняття з вівторка по п’ятницю проходять з 14:15 до 17:30, а години інших зустрічей залежать від теми майстер-класу.\n\n• Діють безкоштовні квитки: https://synergia.warszawa.pl/zapisy\n• На сторінці записів потрібно вибрати"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ursynów",
-      "updated_at": "2026-10-11T12:39:11.650842+00:00"
-    },
     "biblioteka-si-sprawdza-w-kr-lewskim-stylu-noc-bibliotek-2026-10-16T15:30:00+02:00": {
       "title": "Biblioteka się sprawdza w królewskim stylu – Noc Bibliotek",
       "date": "2026-10-16T15:30:00+02:00",
@@ -18643,129 +17859,6 @@
       },
       "updated_at": "2026-10-11T12:39:11.651047+00:00"
     },
-    "wyk-ad-czapski-malarz-pisarz-o-nierz-andersa-2026-10-13T17:30:00+02:00": {
-      "title": "Wykład: Czapski. Malarz, pisarz, żołnierz Andersa",
-      "date": "2026-10-13T17:30:00+02:00",
-      "end_date": "2026-10-13T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Życiorys Czapskiego łączy losy artysty i świadka epoki. Uczeń Pankiewicza i Weissa, współtwórca Komitetu Paryskiego, został we wrześniu 1939 wzięty do niewoli przez NKWD. Był więźniem Starobielska, Pawliszczewa Boru i Griazowca.\nPo zwolnieniu w 1941 wstąpił do Armii Andersa. Jego misją w 1942 r. było poszukiwanie oficerów polskich w ZSRR (jak się okazało w 1943 – zamordowanych w Katyniu). Uczestniczył jako delegat rządu PR na emigracji, w międzynarodowej komisji badającej zbrodnię katyńską. Od 1946 przebywał w Paryżu, współtworzył paryską “Kulturę”. Był autorem książek, artykułów i esejów. Relację z pobytu w łagrach i ze swoich poszukiwań opisał w książkach “Wspomnienia starobielskie” (1945) i “Na nieludzkiej ziemi” (1949). W PRL informacje na temat Józefa Czapskiego podlegały cenzurze. Jego nazwisko znajdowało się na liście osób objętych całkowitym zakazem publikacji.\nCzapski malował pejzaże, martwe natury, ale głównym motywem malarskiej i rysunkowej twórczości artysty stał się zwykły człowiek samotny w zgiełku wielkiego miasta.\nWykładowi towarzyszy bogata prezentacja slajdów.\nWykładowca: dr Ewa Korpysz, z doktor nauk humanistycznych, absolwentka Instytutu Historii Sztuki UW, kustosz Muzeum Archidiecezji Warszawskiej",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_976568875_original.jpg",
-      "location": {
-        "name": "Muzeum Archidiecezji Warszawskiej / Pałac Dziekana (Warszawa)",
-        "district": "Śródmieście"
-      },
-      "url": "https://warszawa.naszemiasto.pl/wyklad-czapski-malarz-pisarz-zolnierz-andersa/kw/c5-3286913",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://warszawa.naszemiasto.pl/wyklad-czapski-malarz-pisarz-zolnierz-andersa/kw/c5-3286913",
-      "scrapped_timestamp": "2026-10-12T14:58:28.048718+00:00",
-      "category": "Arts",
-      "age_range": {
-        "min": 13,
-        "max": 18
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Wykład: Czapski. Malarz, pisarz, żołnierz Andersa",
-          "description": "Życiorys Czapskiego łączy losy artysty i świadka epoki. Uczeń Pankiewicza i Weissa, współtwórca Komitetu Paryskiego, został we wrześniu 1939 wzięty do niewoli przez NKWD. Był więźniem Starobielska, Pawliszczewa Boru i Griazowca.\nPo zwolnieniu w 1941 wstąpił do Armii Andersa. Jego misją w 1942 r. było poszukiwanie oficerów polskich w ZSRR (jak się okazało w 1943 – zamordowanych w Katyniu). Uczestniczył jako delegat rządu PR na emigracji, w międzynarodowej komisji badającej zbrodnię katyńską. Od 1946 przebywał w Paryżu, współtworzył paryską “Kulturę”. Był autorem książek, artykułów i esejów. Relację z pobytu w łagrach i ze swoich poszukiwań opisał w książkach “Wspomnienia starobielskie” (1945) i “Na nieludzkiej ziemi” (1949). W PRL informacje na temat Józefa Czapskiego podlegały cenzurze. Jego nazwisko znajdowało się na liście osób objętych całkowitym zakazem publikacji.\nCzapski malował pejzaże, martwe natury, ale głównym motywem malarskiej i rysunkowej twórczości artysty stał się zwykły człowiek samotny w zgiełku wielkiego miasta.\nWykładowi towarzyszy bogata prezentacja slajdów.\nWykładowca: dr Ewa Korpysz, z doktor nauk humanistycznych, absolwentka Instytutu Historii Sztuki UW, kustosz Muzeum Archidiecezji Warszawskiej"
-        },
-        "en": {
-          "title": "Lecture: Czapski. Painter, Writer, Soldier of Anders",
-          "description": "The biography of Czapski connects the fates of an artist and a witness of the era. A student of Pankiewicz and Weiss, a co-founder of the Paris Committee, he was captured by the NKVD in September 1939. He was a prisoner in Starobielsk, Pawliszczewo Bor and Griazowiec.\n\nAfter his release in 1941, he joined the Anders Army. His mission in 1942 was to search for Polish officers in the USSR (as it turned out in 1943 – murdered in Katyn). He participated as a delegate of the Polish government in exile in the international commission investigating the Katyn massacre. Since 1946, he resided in Paris, co-creating the Paris \"Kultura\". He was the author of books, articles, and essays. He described his experiences in the camps and his searches in the books \"Wspomnienia starobielskie\" (1945) and \"Na nieludzkiej ziemi\" (1949). In the People's Republic of Poland, information about Józef Czapski was subject to censorship. Je"
-        },
-        "uk": {
-          "title": "Лекція: Чапський. Художник, письменник, солдат Андерса",
-          "description": "Життєпис Чапського поєднує долі артиста і свідка епохи. Учасник Панкевича та Вайса, співтворець Паризького комітету, був у вересні 1939 року захоплений у полон НКВД. Був в'язнем Старобільська, Павліщевого Бору та Грязовця.\nПісля звільнення в 1941 році вступив до Армії Андерса. Його місією в 1942 році було пошук польських офіцерів у СРСР (як виявилося в 1943 – вбитих у Катині). Брав участь як делегат уряду ПР на еміграції в міжнародній комісії, що досліджувала катинський злочин. З 1946 року перебував у Парижі, співтворив паризьку “Культуру”. Був автором книг, статей та есеїв. Розповідь про перебування в таборах і свої пошуки описав у книгах “Спогади старобільські” (1945) та “На нелюдській землі” (1949). У ПНР інформація про Юзефа Чапського підлягала цензурі. Je"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-12T15:01:48.484445+00:00"
-    },
-    "sensoponiedzia-ek-dzie-zwierz-t-hodowlanych-2026-10-12T10:30:00+02:00": {
-      "title": "SensoPoniedziałek: Dzień Zwierząt Hodowlanych",
-      "date": "2026-10-12T10:30:00+02:00",
-      "end_date": "2026-10-12T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Ale ten czas jest również dla Was, Rodzice!\nChcemy, żebyście nie tylko towarzyszyli dzieciom, ale sami mogli usiąść z kawą lub herbatą, porozmawiać, poznać innych rodziców i na chwilę zwolnić. Bez pośpiechu, bez presji i bez konieczności ciągłego organizowania dziecku czasu.\nBo wierzymy, że szczęśliwa Chatka to taka, w której dobrze jest zarówno dzieciom, jak i rodzicom.\n\nPrzyjdźcie na wspólną zabawę, chwilę oddechu i trochę wiejskiego klimatu!",
-      "url": "https://fundacjabogatachata.com/wydarzenia/sensoponiedzialek-dzien-zwierzat-hodowlanych-2/",
-      "source": "fundacjabogatachata.com",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 4
-      },
-      "location": {
-        "name": "Fundacja Bogata Chata · ul. Kossakowskiego 26/28",
-        "district": "Wawer"
-      },
-      "image": "https://fundacjabogatachata.com/wp-content/uploads/2025/01/11.svg",
-      "scrapped_url": "https://fundacjabogatachata.com/wydarzenia/sensoponiedzialek-dzien-zwierzat-hodowlanych-2/",
-      "scrapped_timestamp": "2026-10-12T14:58:36.240349+00:00",
-      "translations": {
-        "pl": {
-          "title": "SensoPoniedziałek: Dzień Zwierząt Hodowlanych",
-          "description": "Ale ten czas jest również dla Was, Rodzice!\nChcemy, żebyście nie tylko towarzyszyli dzieciom, ale sami mogli usiąść z kawą lub herbatą, porozmawiać, poznać innych rodziców i na chwilę zwolnić. Bez pośpiechu, bez presji i bez konieczności ciągłego organizowania dziecku czasu.\nBo wierzymy, że szczęśliwa Chatka to taka, w której dobrze jest zarówno dzieciom, jak i rodzicom.\n\nPrzyjdźcie na wspólną zabawę, chwilę oddechu i trochę wiejskiego klimatu!"
-        },
-        "en": {
-          "title": "SensoMonday: Farm Animal Day",
-          "description": "But this time is also for you, Parents!\nWe want you not only to accompany your children but also to sit down with a coffee or tea, chat, meet other parents, and take a moment to slow down. Without haste, without pressure, and without the need to constantly organize time for your child.\nBecause we believe that a happy Cottage is one where both children and parents feel good.\n\nCome for some fun, a moment of breath, and a bit of rural atmosphere!"
-        },
-        "uk": {
-          "title": "SensoPoniedziałek: День Сільськогосподарських Тварин",
-          "description": "Але цей час також для вас, Батьки!\nХочемо, щоб ви не тільки супроводжували дітей, але й самі могли сісти з кавою або чаєм, поговорити, познайомитися з іншими батьками і на мить сповільнитися. Без поспіху, без тиску і без необхідності постійно організовувати дитині час.\nБо віримо, що щаслива Хатка — це така, в якій добре як дітям, так і батькам.\n\nПриходьте на спільну розвагу, мить віддиху і трохи сільського клімату!"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Wawer",
-      "updated_at": "2026-10-12T15:01:48.484468+00:00"
-    },
-    "weso-e-go-bki-zaj-cia-ruchowe-i-plastyczne-2026-10-12T12:30:00+02:00": {
-      "title": "Wesołe Gołąbki – zajęcia ruchowe i plastyczne",
-      "date": "2026-10-12T12:30:00+02:00",
-      "end_date": "2026-10-12T12:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "„Wesołe gołąbki” to zajęcia dedykowane dzieciom w wieku od 1,5 do 3 lat oraz ich dorosłym opiekunom.",
-      "url": "https://ursus.um.warszawa.pl/-/zajecia-ruchowe-i-plastyczne-dla-dzieci-wesole-golabk#12-10",
-      "source": "ursus.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 1,
-        "max": 3
-      },
-      "location": {
-        "name": "Biblioteka Publiczna – Filia „Gołąbki” · ul. Czerwona Droga 6",
-        "district": "Ursus"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/zajecia-ruchowe-i-plastyczne-dla-dzieci-wesole-golabk#12-10",
-      "scrapped_timestamp": "2026-10-12T14:58:39.835754+00:00",
-      "translations": {
-        "pl": {
-          "title": "Wesołe Gołąbki – zajęcia ruchowe i plastyczne",
-          "description": "„Wesołe gołąbki” to zajęcia dedykowane dzieciom w wieku od 1,5 do 3 lat oraz ich dorosłym opiekunom."
-        },
-        "en": {
-          "title": "Cheerful Doves – Movement and Art Classes",
-          "description": "“Cheerful Doves” is a program dedicated to children aged 1.5 to 3 years and their adult caregivers.\n"
-        },
-        "uk": {
-          "title": "Веселі Голубки – рухливі та художні заняття",
-          "description": "„Веселі голубки” – це заняття, присвячені дітям віком від 1,5 до 3 років та їхнім дорослим опікунам."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Ursus",
-      "updated_at": "2026-10-12T15:01:48.484484+00:00"
-    },
     "strefa-gier-rodzinnych-i-ksi-kowych-zagadek-noc-bibliotek-na-woli-2026-10-16T17:00:00+02:00": {
       "title": "Strefa gier rodzinnych i książkowych zagadek (Noc Bibliotek na Woli)",
       "date": "2026-10-16T17:00:00+02:00",
@@ -19098,48 +18191,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-10-12T15:01:48.484597+00:00"
     },
-    "domowy-plac-zabaw-cykl-spotka-dla-dzieci-w-wieku-1-5-3-lata-2026-10-13T11:20:00+02:00": {
-      "title": "Domowy plac zabaw – cykl spotkań dla dzieci w wieku 1,5-3 lata",
-      "date": "2026-10-13T11:20:00+02:00",
-      "end_date": "2026-10-13T11:20:00+02:00",
-      "startTimeKnown": true,
-      "description": "Fundacja RoRo zaprasza na bezpłatny cykl zajęć sensorycznych  „Domowy plac zabaw” dla dzieci od 1,5 roku do 3 lat. Ideą spotkań jest pogłębianie więzi przez wspólną zabawę dzieci i dorosłych oraz forum wymiany doświadczeń rodzicielskich. Podczas zajęć będziemy zachęcać dzieci do zabawy „po swojemu”. Czerpać będziemy z idei oraz z praktyki metody stworzonej przez Marię Montessori. Angażować będziemy wszystkie zmysły, a wykorzystywać wszystko to, co można znaleźć na „domowym placu zabaw”.\n\nKiedy: 13.10, 20.10, 27.10, 03.11, 10.11 (wtorki); godz. 11.20-12.30\n\nGdzie: Biblioteka dla Dzieci i Młodzieży nr 46, ul. Chłodna 11\n\nDla kogo: dzieci od 1,5 roku do 3 lat z rodzicami/opiekunami\n\nZajęcia są bezpłatne. Zapisy na stronie internetowej Fundacji >> link\n\nProjekt „Rodzinnie na Woli – edycja 2” współfinansowany jest przez m.st. Warszawa Dzielnica Wola.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1120.1791789483.webp",
-      "location": {
-        "name": "Biblioteka dla Dzieci i Młodzieży nr 46, ul. Chłodna 11",
-        "district": "Wola"
-      },
-      "url": "https://fundacjaroro.org/zapisy/domowy-st-2026-jesien/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://fundacjaroro.org/zapisy/domowy-st-2026-jesien/",
-      "scrapped_timestamp": "2026-10-12T14:59:35.895715+00:00",
-      "category": "Sensory Play",
-      "age_range": {
-        "min": 1,
-        "max": 4
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Domowy plac zabaw – cykl spotkań dla dzieci w wieku 1,5-3 lata",
-          "description": "Fundacja RoRo zaprasza na bezpłatny cykl zajęć sensorycznych  „Domowy plac zabaw” dla dzieci od 1,5 roku do 3 lat. Ideą spotkań jest pogłębianie więzi przez wspólną zabawę dzieci i dorosłych oraz forum wymiany doświadczeń rodzicielskich. Podczas zajęć będziemy zachęcać dzieci do zabawy „po swojemu”. Czerpać będziemy z idei oraz z praktyki metody stworzonej przez Marię Montessori. Angażować będziemy wszystkie zmysły, a wykorzystywać wszystko to, co można znaleźć na „domowym placu zabaw”.\n\nKiedy: 13.10, 20.10, 27.10, 03.11, 10.11 (wtorki); godz. 11.20-12.30\n\nGdzie: Biblioteka dla Dzieci i Młodzieży nr 46, ul. Chłodna 11\n\nDla kogo: dzieci od 1,5 roku do 3 lat z rodzicami/opiekunami\n\nZajęcia są bezpłatne. Zapisy na stronie internetowej Fundacji >> link\n\nProjekt „Rodzinnie na Woli – edycja 2” współfinansowany jest przez m.st. Warszawa Dzielnica Wola."
-        },
-        "en": {
-          "title": "Home Playground – a series of meetings for children aged 1.5-3 years",
-          "description": "The RoRo Foundation invites you to a free series of sensory activities \"Home Playground\" for children from 1.5 to 3 years old. The idea of the meetings is to deepen the bonds through shared play between children and adults, as well as a forum for exchanging parenting experiences. During the activities, we will encourage children to play \"in their own way\". We will draw from the ideas and practices of the method created by Maria Montessori. We will engage all the senses and utilize everything that can be found in the \"home playground\".\n\nWhen: 13.10, 20.10, 27.10, 03.11, 10.11 (Tuesdays); 11:20 AM - 12:30 PM\n\nWhere: Children's and Youth Library No. 46, Chłodna 11 Street\n\nFor whom: children from 1.5 to 3 years old with parents/caregivers\n\nThe activities are free of charge. Registration on the Foundation's website >> link\n\nProject \"Family Time in Wola – edition 2\" in"
-        },
-        "uk": {
-          "title": "Домашній ігровий майданчик – цикл зустрічей для дітей віком 1,5-3 роки",
-          "description": "Фундація RoRo запрошує на безкоштовний цикл занять сенсорними \"Домашній ігровий майданчик\" для дітей від 1,5 року до 3 років. Ідеєю зустрічей є поглиблення зв'язків через спільну гру дітей і дорослих, а також форум обміну батьківським досвідом. Під час занять ми будемо заохочувати дітей до гри \"по-своєму\". Черпати будемо з ідеї та з практики методу, створеного Марією Монтессорі. Залучати будемо всі органи чуття, а використовувати все те, що можна знайти на \"домашньому ігровому майданчику\".\n\nКоли: 13.10, 20.10, 27.10, 03.11, 10.11 (вівторки); год. 11.20-12.30\n\nДе: Бібліотека для дітей та молоді № 46, вул. Холодна 11\n\nДля кого: діти від 1,5 року до 3 років з батьками/опікунами\n\nЗаняття безкоштовні. Запис на сайті Фундації >> посилання\n\nПроект \"Сімейно на Волі – видання 2\" в"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wola",
-      "updated_at": "2026-10-12T15:01:48.484612+00:00"
-    },
     "zaj-cia-z-tenisa-sto-owego-godz-10-00-seniorzy-13-00-dzieci-i-m-odzie-2026-10-17T10:00:00+02:00": {
       "title": "Zajęcia z tenisa stołowego [godz. 10:00 seniorzy, 13:00 dzieci i młodzież]",
       "date": "2026-10-17T10:00:00+02:00",
@@ -19408,48 +18459,6 @@
       "district": "Praga-Północ",
       "updated_at": "2026-10-12T15:01:48.484694+00:00"
     },
-    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-10-13T10:00:00+02:00": {
-      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-      "date": "2026-10-13T10:00:00+02:00",
-      "end_date": "2026-10-13T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "scrapped_timestamp": "2026-10-12T15:00:36.282300+00:00",
-      "category": "Arts",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
-        },
-        "en": {
-          "title": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"",
-          "description": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"\n\nWe invite you to guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world masterpieces, including paintings by such masters as Maurice Denis, Paul Ranson, and Paul Sérusier. The curators of the exhibition and museum educators will tell us about them.\n\nThe exhibition \"Nabis. Prophets of New Art\" showcases, among other things, the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called School of Pont-Aven. It also includes works of a religious and esoteric nature, views of interiors, and genre scenes, as well as the activities of the magazine \"La Revue Blanche\" run by the Natanson brothers - Tadeusz and Aleksander. In total, we will see over 90 works in the fields of painting, drawing, and graphics. The works come from Polish and foreign collections."
-        },
-        "uk": {
-          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
-          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"\n\nЗапрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Зможемо побачити світові твори, а це, зокрема, картини таких майстрів, як Моріс Дені, Поль Рансон і Поль Серюзьє. Про них розкажуть куратори експозиції та музейні освітяни.\n\nВиставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Пола Гогена і так званої Школи Пон-Авен. Охоплює також твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, яку проводили брати Натансон - Тадеуш і Олександр - журналу \"La Revue Blanche\".\n\nВсього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних колекцій."
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
-      },
-      "updated_at": "2026-10-12T15:01:48.484723+00:00"
-    },
     "dzie-z-ycia-jego-kr-lewskiej-mo-ci-rodzinne-oprowadzanie-po-pa-acu-2026-11-15T10:00:00+01:00": {
       "title": "Dzień z życia Jego Królewskiej Mości | rodzinne oprowadzanie po pałacu",
       "date": "2026-11-15T10:00:00+01:00",
@@ -19532,46 +18541,6 @@
         "is_free": true
       },
       "updated_at": "2026-10-12T15:01:48.484753+00:00"
-    },
-    "koncert-chopinowski-w-pa-acu-dziekana-2026-10-12T18:30:00+02:00": {
-      "title": "Koncert chopinowski w Pałacu Dziekana",
-      "date": "2026-10-12T18:30:00+02:00",
-      "end_date": "2026-10-12T18:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/eaeb902b-56b3-469f-bd2d-205d5cbedea4/b02c7c8b-54f1-417f-8162-06696508369e.jpg",
-      "location": {
-        "name": "Muzeum Archidiecezji Warszawskiej, Ulica Dziekania 1, 00-279 Warszawa",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-eaeb902b-56b3-469f-bd2d-205d5cbedea4",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-eaeb902b-56b3-469f-bd2d-205d5cbedea4",
-      "scrapped_timestamp": "2026-10-12T15:00:58.264098+00:00",
-      "category": "Music & Dance",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Koncert chopinowski w Pałacu Dziekana",
-          "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy."
-        },
-        "en": {
-          "title": "Chopin Concert at the Dean's Palace",
-          "description": "We cordially invite you to listen to Chopin concerts at 6:30 PM at the Dean's Palace in the Old Town of Warsaw. The most beautiful works of Fryderyk Chopin are performed by professional pianists, artists who perform in many countries around the world.\n\nRecitals take place in the historic, beautiful, and exclusively finished 16th-century Dean's Palace (now the Museum of the Archdiocese of Warsaw, ul. Dziekania 1, right next to the Archcathedral). You listen to music in close proximity to a collection of paintings by renowned artists.\n\nOur concert hall has phenomenal acoustics! The reception of music in this hall is essentially perfect, at the highest world level. We listen to the piano surrounded by pure and rich sound, we are enveloped by music in ideal proportions, not too little, not too much, we are as if in the middle of the performance."
-        },
-        "uk": {
-          "title": "Концерт шопенівський у Палаці Декана",
-          "description": "Щиро запрошуємо Вас послухати шопенівські концерти о 18:30 у Палаці Декана на Старому Місті у Варшаві. Найкрасивіші твори Фридерика Шопена виконують професійні піаністи, артисти, які виступають у багатьох країнах світу.\nРецитали відбуваються в історичному, красивому та ексклюзивно оформленому XVI столітті Палаці Декана (сьогодні Музей Архієпархії Варшавської, вул. Декана 1, поруч з Архікатедрою). Ви слухаєте музику в близькості колекції картин відомих художників.\nНаша концертна зала має феноменальну акустику! Сприйняття музики в цій залі є фактично ідеальним, на найвищому світовому рівні. Ми слухаємо фортепіано, оточені чистим і багатим звуком, ми оточені музикою в ідеальних пропорціях, не занадто мало, не занадто багато, ми ніби в середині виконуваного у"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/210594/warszawa/koncert-chopinowski-stare-miasto?utm_source=pp&utm_medium=604"
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-12T15:01:48.484774+00:00"
     },
     "akrobatyka-dla-dzieci-i-m-odzie-y-2026-10-17T10:00:00+02:00": {
       "title": "Akrobatyka dla dzieci i młodzieży",

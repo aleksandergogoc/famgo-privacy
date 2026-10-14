@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T16:39:59.872158+00:00",
+  "updated_at": "2026-10-14T12:00:21.862243+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1692,6 +1692,24 @@
       "lat": 52.3655116,
       "lng": 16.9049831,
       "updated_at": "2026-10-13T16:37:03.346183+00:00"
+    },
+    "biblioteka wielkopolska im. stanisława barańczaka (poznań-rynek jeżycki)": {
+      "name": "Biblioteka Wielkopolska im. Stanisława Barańczaka, Bolesława Prusa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-819, Polska",
+      "district": "Jeżyce",
+      "address": "Biblioteka Wielkopolska im. Stanisława Barańczaka, Bolesława Prusa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-819, Polska",
+      "normalized": "biblioteka wielkopolska im. stanisława barańczaka (poznań-rynek jeżycki)",
+      "lat": 52.4108174,
+      "lng": 16.9041215,
+      "updated_at": "2026-10-14T11:57:42.667548+00:00"
+    },
+    "pałac działyńskich w poznaniu": {
+      "name": "Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "district": "Stare Miasto",
+      "address": "Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "normalized": "pałac działyńskich w poznaniu",
+      "lat": 52.4082892,
+      "lng": 16.933598,
+      "updated_at": "2026-10-14T11:58:24.084568+00:00"
     }
   }
 }

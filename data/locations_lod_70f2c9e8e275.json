@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T12:55:00.253236+00:00",
+  "updated_at": "2026-10-14T12:00:23.858746+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -882,6 +882,33 @@
       "lat": 51.7757036,
       "lng": 19.4474193,
       "updated_at": "2026-10-11T12:46:41.809206+00:00"
+    },
+    "piotrkowska 217 (łódź)": {
+      "name": "Piotrkowska 217, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-004, Polska",
+      "district": "Śródmieście",
+      "address": "Piotrkowska 217, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-004, Polska",
+      "normalized": "piotrkowska 217 (łódź)",
+      "lat": 51.7535508,
+      "lng": 19.458489,
+      "updated_at": "2026-10-14T11:51:43.723371+00:00"
+    },
+    "pasaż schillera (łódź": {
+      "name": "Bieg ulicą Piotrkowską Rossmann Run, Pomorska, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 91-417, Polska",
+      "district": "Śródmieście",
+      "address": "Bieg ulicą Piotrkowską Rossmann Run, Pomorska, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 91-417, Polska",
+      "normalized": "pasaż schillera (łódź",
+      "lat": 51.7768912,
+      "lng": 19.4569829,
+      "updated_at": "2026-10-14T11:51:57.441019+00:00"
+    },
+    "orientarium zoo łódź": {
+      "name": "Orientarium ZOO Łódź, 8/10, Konstantynowska, Zdrowie, Zdrowie-Mania, Łódź-Polesie, Łódź, województwo łódzkie, 94-303, Polska",
+      "district": "Polesie",
+      "address": "Orientarium ZOO Łódź, 8/10, Konstantynowska, Zdrowie, Zdrowie-Mania, Łódź-Polesie, Łódź, województwo łódzkie, 94-303, Polska",
+      "normalized": "orientarium zoo łódź",
+      "lat": 51.7610216,
+      "lng": 19.4125815,
+      "updated_at": "2026-10-14T11:51:59.181230+00:00"
     }
   }
 }

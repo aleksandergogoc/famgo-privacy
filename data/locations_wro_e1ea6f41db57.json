@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:12:25.717502+00:00",
+  "updated_at": "2026-10-14T12:00:25.340226+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2356,6 +2356,33 @@
       "lat": 51.1073354,
       "lng": 17.0322432,
       "updated_at": "2026-10-12T15:02:06.285659+00:00"
+    },
+    "przejście dialogu": {
+      "name": "Przejście Dialogu, 19, Świdnicka, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-066, Polska",
+      "district": "Stare Miasto",
+      "address": "Przejście Dialogu, 19, Świdnicka, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-066, Polska",
+      "normalized": "przejście dialogu",
+      "lat": 51.1073354,
+      "lng": 17.0322432,
+      "updated_at": "2026-10-14T11:43:11.661088+00:00"
+    },
+    "ix lo ul. ks. p. skargi 31": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "ix lo ul. ks. p. skargi 31",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-10-14T11:43:20.241157+00:00"
+    },
+    "ośrodek postaw twórczych zamek (zamek w leśnicy)": {
+      "name": "Zamek w Leśnicy, 1, Plac Świętojański, Leśnica, Wrocław, województwo dolnośląskie, 54-076, Polska",
+      "district": "Fabryczna",
+      "address": "Zamek w Leśnicy, 1, Plac Świętojański, Leśnica, Wrocław, województwo dolnośląskie, 54-076, Polska",
+      "normalized": "ośrodek postaw twórczych zamek (zamek w leśnicy)",
+      "lat": 51.1463834,
+      "lng": 16.8705127,
+      "updated_at": "2026-10-14T11:43:34.946244+00:00"
     }
   }
 }

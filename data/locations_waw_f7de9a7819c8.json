@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T16:40:01.752573+00:00",
+  "updated_at": "2026-10-14T12:00:27.075797+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9051,6 +9051,60 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-13T16:22:17.475645+00:00"
+    },
+    "circle k": {
+      "name": "2, Ochocza, Falenica, Wawer, Warszawa, województwo mazowieckie, 04-942, Polska",
+      "district": "Wawer",
+      "address": "2, Ochocza, Falenica, Wawer, Warszawa, województwo mazowieckie, 04-942, Polska",
+      "normalized": "circle k",
+      "lat": 52.1564006,
+      "lng": 21.2189436,
+      "updated_at": "2026-10-14T11:37:41.694459+00:00"
+    },
+    "przystanek wilanów 01": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "przystanek wilanów 01",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-10-14T11:37:44.714894+00:00"
+    },
+    "sala widowiskowa oko": {
+      "name": "ul. Radomska 13/21, Warszawa",
+      "district": "Śródmieście",
+      "address": "ul. Radomska 13/21, Warszawa",
+      "normalized": "sala widowiskowa oko",
+      "lat": 52.232,
+      "lng": 21.006,
+      "updated_at": "2026-10-14T11:37:52.198955+00:00"
+    },
+    "solec 24": {
+      "name": "Muzeum Azji i Pacyfiku, 24, Solec, Powiśle-Solec, Solec, Śródmieście, Warszawa, województwo mazowieckie, 00-403, Polska",
+      "district": "Śródmieście",
+      "address": "Muzeum Azji i Pacyfiku, 24, Solec, Powiśle-Solec, Solec, Śródmieście, Warszawa, województwo mazowieckie, 00-403, Polska",
+      "normalized": "solec 24",
+      "lat": 52.2333984,
+      "lng": 21.0368378,
+      "updated_at": "2026-10-14T11:38:11.364668+00:00"
+    },
+    "kino wisła - plac thomasa woodrowa wilsona 2": {
+      "name": "Plac Thomasa Woodrowa Wilsona 2, Warszawa",
+      "district": "Śródmieście",
+      "address": "Plac Thomasa Woodrowa Wilsona 2, Warszawa",
+      "normalized": "kino wisła - plac thomasa woodrowa wilsona 2",
+      "lat": 52.214,
+      "lng": 21.021,
+      "updated_at": "2026-10-14T11:41:36.945574+00:00"
+    },
+    "fontanna przed kinem muranów": {
+      "name": "Fontanna przed kinem Muranów",
+      "district": "Śródmieście",
+      "address": "Fontanna przed kinem Muranów",
+      "normalized": "fontanna przed kinem muranów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-14T11:41:36.946171+00:00"
     }
   }
 }

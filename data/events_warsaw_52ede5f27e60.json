@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T11:41:39.484140+00:00",
+  "updated_at": "2026-10-15T10:58:57.651441+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -4120,47 +4120,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-09-21T12:40:22.722526+00:00"
     },
-    "jesie-na-szkle-malowana-warsztaty-rodzinne-2026-10-14T18:00:00+02:00": {
-      "title": "Jesień na szkle malowana - warsztaty rodzinne",
-      "date": "2026-10-14T18:00:00+02:00",
-      "end_date": "2026-10-14T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Przyjdźcie razem i stwórzcie coś wyjątkowego na jesień!",
-      "url": "https://www.wck-wawer.pl/zastow/aktualnosci/archiwum-2026/jesien-na-szkle-malowana",
-      "source": "wck-wawer.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "Wawerskie Centrum Kultury, Filia Zastów · ul. Lucerny 13",
-        "district": "Wawer"
-      },
-      "image": "https://www.wck-wawer.pl/assets/cache/images/aktualnosci-zastow/2026/%E2%80%9CJesie%C5%84%20na%20szkle%20malowana%E2%80%9D-684x-3d0.png",
-      "scrapped_url": "https://www.wck-wawer.pl/zastow/aktualnosci/archiwum-2026/jesien-na-szkle-malowana",
-      "scrapped_timestamp": "2026-09-30T12:30:23.028574+00:00",
-      "translations": {
-        "pl": {
-          "title": "Jesień na szkle malowana - warsztaty rodzinne",
-          "description": "Przyjdźcie razem i stwórzcie coś wyjątkowego na jesień!"
-        },
-        "en": {
-          "title": "Autumn Painted on Glass - Family Workshops",
-          "description": "Come together and create something special for autumn!"
-        },
-        "uk": {
-          "title": "Осінь на склі малювана - сімейні майстер-класи",
-          "description": "Приходьте разом і створіть щось особливе на осінь!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wawer",
-      "updated_at": "2026-09-30T12:35:33.297409+00:00"
-    },
     "noc-bibliotek-muzyka-aczy-pokolenia-2026-10-16T18:00:00+02:00": {
       "title": "Noc Bibliotek „Muzyka łaczy pokolenia”",
       "date": "2026-10-16T18:00:00+02:00",
@@ -5170,88 +5129,6 @@
       },
       "district": "Targówek",
       "updated_at": "2026-09-28T13:48:22.635735+00:00"
-    },
-    "oprowadzanie-dla-rodzic-w-ma-ych-dzieci-2026-10-14T14:10:00+02:00": {
-      "title": "Oprowadzanie dla rodziców małych dzieci",
-      "date": "2026-10-14T14:10:00+02:00",
-      "end_date": "2026-10-14T14:10:00+02:00",
-      "startTimeKnown": true,
-      "description": "Spotkania odbywają się w spokojnej, przyjaznej atmosferze – bez pośpiechu, z uważnością na potrzeby uczestników w każdym wieku.\n\nPierwsza część to oprowadzanie po wystawie w tempie dostosowanym do rytmu osób z wózkami, nosidłami i maluchami na rękach. Dzięki systemowi tour guide można swobodnie słuchać przewodniczki, nawet gdy trzeba na chwilę się zatrzymać, nakarmić dziecko, przewinąć je lub po prostu odpocząć.\n\nDruga część odbywa się w przestrzeni edukacyjnej MSN – to czas na rozmowę, zadawanie pytań, dzielenie się wrażeniami lub udział w krótkim miniwarsztacie. Można też po prostu pobyć razem z dzieckiem, w swoim tempie i bez presji.\n\nTo propozycja dla wszystkich, którzy chcą zanurzyć się w świat sztuki z uważnością na potrzeby najmłodszych – i tych, którzy chcą po prostu miło spędzić czas i nawiązać nowe znajomości.\n\nWiemy, że dzieci czasem płaczą, zasypiają, potrzebują przewinięcia czy karmienia – to naturalna część spotkania.\n\nNa miejscu dostępne są: winda, pokój rodzinny z przewijakiem i fotelem do karmienia, a także maty i zabawki w przestrzeni edukacyjnej.",
-      "url": "https://artmuseum.pl/wydarzenia/oprowadzanie-dla-rodzicow-malych-dzieci-4?term=01a0cee5-01e9-70ee-bb52-5320b3542b98",
-      "source": "artmuseum.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Educational",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "90 min Muzeum Sztuki Nowoczesnej, Zbiórka przy głównej klatce schodowej, naprzeciwko Audytorium · ul. Marszałkowska 103",
-        "district": "Śródmieście"
-      },
-      "image": "https://api-sf.artmuseum.pl/uploads/files/6ab3ecf65b68d357887686.png",
-      "scrapped_url": "https://artmuseum.pl/wydarzenia/oprowadzanie-dla-rodzicow-malych-dzieci-4?term=01a0cee5-01e9-70ee-bb52-5320b3542b98",
-      "scrapped_timestamp": "2026-09-28T13:37:24.780387+00:00",
-      "translations": {
-        "pl": {
-          "title": "Oprowadzanie dla rodziców małych dzieci",
-          "description": "Spotkania odbywają się w spokojnej, przyjaznej atmosferze – bez pośpiechu, z uważnością na potrzeby uczestników w każdym wieku.\n\nPierwsza część to oprowadzanie po wystawie w tempie dostosowanym do rytmu osób z wózkami, nosidłami i maluchami na rękach. Dzięki systemowi tour guide można swobodnie słuchać przewodniczki, nawet gdy trzeba na chwilę się zatrzymać, nakarmić dziecko, przewinąć je lub po prostu odpocząć.\n\nDruga część odbywa się w przestrzeni edukacyjnej MSN – to czas na rozmowę, zadawanie pytań, dzielenie się wrażeniami lub udział w krótkim miniwarsztacie. Można też po prostu pobyć razem z dzieckiem, w swoim tempie i bez presji.\n\nTo propozycja dla wszystkich, którzy chcą zanurzyć się w świat sztuki z uważnością na potrzeby najmłodszych – i tych, którzy chcą po prostu miło spędzić czas i nawiązać nowe znajomości.\n\nWiemy, że dzieci czasem płaczą, zasypiają, potrzebują przewinięcia czy karmienia – to naturalna część spotkania.\n\nNa miejscu dostępne są: winda, pokój rodzinny z przewijakiem i fotelem do karmienia, a także maty i zabawki w przestrzeni edukacyjnej."
-        },
-        "en": {
-          "title": "Guided Tour for Parents with Small Children",
-          "description": "Meetings take place in a calm, friendly atmosphere – without haste, with attention to the needs of participants of all ages.\n\nThe first part is a guided tour of the exhibition at a pace adapted to the rhythm of those with strollers, carriers, and little ones in their arms. Thanks to the tour guide system, you can freely listen to the guide, even when you need to stop for a moment to feed the baby, change them, or simply take a break.\n\nThe second part takes place in the educational space of MSN – this is a time for conversation, asking questions, sharing impressions, or participating in a short mini-workshop. You can also just spend time together with your child, at your own pace and without pressure.\n\nThis is a proposal for everyone who wants to immerse themselves in the world of art with attention to the needs of the youngest – and for those who just want to spend a pleasant time."
-        },
-        "uk": {
-          "title": "Екскурсія для батьків маленьких дітей",
-          "description": "Зустрічі проходять у спокійній, дружній атмосфері – без поспіху, з увагою до потреб учасників будь-якого віку.\n\nПерша частина – це екскурсія виставкою в темпі, адаптованому до ритму людей з візками, слінгами та малюками на руках. Завдяки системі гіда можна вільно слухати екскурсовода, навіть коли потрібно на хвилинку зупинитися, нагодувати дитину, змінити її або просто відпочити.\n\nДруга частина проходить у навчальному просторі MSN – це час для розмови, задавання запитань, обміну враженнями або участі в короткому міні-майстер-класі. Можна також просто побути разом з дитиною, у своєму темпі і без тиску.\n\nЦе пропозиція для всіх, хто хоче зануритися у світ мистецтва з увагою до потреб найменших – і тих, хто просто хоче приємно провести час."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-28T13:48:22.636786+00:00"
-    },
-    "tajemnice-drzew-spotkania-przyrodnicze-2026-10-14T15:30:00+02:00": {
-      "title": "Tajemnice drzew. Spotkania przyrodnicze",
-      "date": "2026-10-14T15:30:00+02:00",
-      "end_date": "2026-10-14T15:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Uczestnicy dowiedzą się o rywalizacji i współpracy drzew, nauczą się rozpoznawać gatunki, poznają warstwy lasu oraz przyczyny sezonowych zmian. Część praktyczna obejmuje przygotowanie własnej karty zielnikowej.",
-      "url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/tajemnice-drzew#14-10",
-      "source": "lazienki-krolewskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "90 min Łazienki Królewskie, Nowa Palmiarnia · ul. Agrykola 1",
-        "district": "Śródmieście"
-      },
-      "image": "http://www.lazienki-krolewskie.pl/public/upload/pages/thumb/545b63bf8a50d.jpg",
-      "scrapped_url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/tajemnice-drzew#14-10",
-      "scrapped_timestamp": "2026-09-28T13:37:31.594217+00:00",
-      "translations": {
-        "pl": {
-          "title": "Tajemnice drzew. Spotkania przyrodnicze",
-          "description": "Uczestnicy dowiedzą się o rywalizacji i współpracy drzew, nauczą się rozpoznawać gatunki, poznają warstwy lasu oraz przyczyny sezonowych zmian. Część praktyczna obejmuje przygotowanie własnej karty zielnikowej."
-        },
-        "en": {
-          "title": "The Secrets of Trees. Nature Meetings",
-          "description": "Participants will learn about the competition and cooperation of trees, will learn to recognize species, will get to know the layers of the forest, and the reasons for seasonal changes. The practical part includes preparing their own herbarium card."
-        },
-        "uk": {
-          "title": "Таємниці дерев. Природничі зустрічі",
-          "description": "Учасники дізнаються про конкуренцію та співпрацю дерев, навчаться розпізнавати види, познайомляться з шарами лісу та причинами сезонних змін. Частина практична охоплює підготовку власної картки гербарію."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-28T13:48:22.636802+00:00"
     },
     "rysujemy-zwierz-ta-2026-10-16T15:30:00+02:00": {
       "title": "Rysujemy zwierzęta",
@@ -8334,47 +8211,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-09-30T12:35:33.296068+00:00"
     },
-    "plastusie-warsztaty-interdyscyplinarne-2026-10-15T11:00:00+02:00": {
-      "title": "Plastusie - warsztaty interdyscyplinarne",
-      "date": "2026-10-15T11:00:00+02:00",
-      "end_date": "2026-10-15T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Dzieci poprzez zabawę przygotowują się do efektywnego przyswajania wiedzy w dalszych etapach edukacji, a przekroczenie progu przedszkola nie będzie dla nich stresem.",
-      "url": "https://www.wck-wawer.pl/zastow/aktualnosci/archiwum-2026/plastusie-zajecia-ogolnorozwojowe-pazdziernik#15-10",
-      "source": "wck-wawer.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 2,
-        "max": 4
-      },
-      "location": {
-        "name": "Wawerskie Centrum Kultury, Filia Zastów · ul. Lucerny 13",
-        "district": "Wawer"
-      },
-      "image": "https://www.wck-wawer.pl/assets/cache/images/aktualnosci-zastow/2022/WARSZTATY%20KWIATEK%20DLA%20MAMY%281%29-684x-ae0.png",
-      "scrapped_url": "https://www.wck-wawer.pl/zastow/aktualnosci/archiwum-2026/plastusie-zajecia-ogolnorozwojowe-pazdziernik#15-10",
-      "scrapped_timestamp": "2026-09-30T12:30:24.705175+00:00",
-      "translations": {
-        "pl": {
-          "title": "Plastusie - warsztaty interdyscyplinarne",
-          "description": "Dzieci poprzez zabawę przygotowują się do efektywnego przyswajania wiedzy w dalszych etapach edukacji, a przekroczenie progu przedszkola nie będzie dla nich stresem."
-        },
-        "en": {
-          "title": "Plastusie - interdisciplinary workshops",
-          "description": "Children prepare for effective knowledge acquisition in further stages of education through play, and crossing the threshold of kindergarten will not be a stress for them."
-        },
-        "uk": {
-          "title": "Пластусі - міждисциплінарні майстер-класи",
-          "description": "Діти через гру готуються до ефективного засвоєння знань на подальших етапах освіти, а перехід до дитячого садка не буде для них стресом."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Wawer",
-      "updated_at": "2026-09-30T12:35:33.297431+00:00"
-    },
     "muzyczka-jesienna-zaj-cia-muzyczne-dla-dzieci-2026-10-15T15:10:00+02:00": {
       "title": "MUZYCZKA jesienna – zajęcia muzyczne dla dzieci",
       "date": "2026-10-15T15:10:00+02:00",
@@ -11046,45 +10882,6 @@
       "district": "Praga-Północ",
       "updated_at": "2026-10-02T12:40:15.479878+00:00"
     },
-    "jesienne-muffiny-s-siedzkie-gotowanie-2026-10-14T16:00:00+02:00": {
-      "title": "Jesienne muffiny – sąsiedzkie gotowanie",
-      "date": "2026-10-14T16:00:00+02:00",
-      "end_date": "2026-10-14T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Październikowy cykl wspólnego gotowania zaprasza dzieci, rodziców, sąsiadów i miłośników pieczenia. Uczestnicy przygotują jesienne wypieki i poznają nowe przepisy.\n\n• 7 października, godz. 16:00 – jabłecznik\n• 14 października, godz. 16:00 – jesienne muffiny\n• 21 października, godz. 16:00 – dyniowe ciasto\n• 28 października, godz. 16:00 – straszne ciasteczka na urodziny Klubokawiarni\n\nSpotkania odbywają się w Klubokawiarni Sąsiedzkiej, Domu Kultury przy ul. Działdowskiej 6. Obowiązują zapisy: https://forms.cloud.microsoft/e/9GRSDNraJz\n\nDo budynku prowadzą schody; nie ma w nim windy, podjazdów ani dostępnej toalety dla osób z niepełnosprawnością. Można wejść z psem asystującym lub przewodnikiem. W recepcji jest pętla indukcyjna, a podczas wydarzenia można wypożyczyć słuchawki wyciszające. Dostępny jest tłumacz polskiego języka migowego online: https://tlumacz.migam.org\n\nNajbliższy przystanek to METRO PŁOCKA, oddalony o 300 m; dojeżdżają tam linie 13, 26, 27, 103, 106 i M2. W sprawie pomocy w dotarciu: kawiarnia@wck-wola.pl. Pytania o dostępność: m.michnowska@wck-wola.pl lub tel./SMS 609028424.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c305cf6b-1da3-4570-ab2f-5588e7f63b8c/e63a9f2c-18b5-407e-b733-cc9a8c6d4df0.jpg",
-      "location": {
-        "name": "Klubokawiarnia Sąsiedzka, ul. Działdowska 6, Warszawa",
-        "district": "Wola"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/jesienne-muffiny-sasiedzkie-gotowanie-c305cf6b-1da3-4570-ab2f-5588e7f63b8c",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/jesienne-muffiny-sasiedzkie-gotowanie-c305cf6b-1da3-4570-ab2f-5588e7f63b8c",
-      "scrapped_timestamp": "2026-10-02T12:38:22.755424+00:00",
-      "category": "Workshops",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Jesienne muffiny – sąsiedzkie gotowanie",
-          "description": "Październikowy cykl wspólnego gotowania zaprasza dzieci, rodziców, sąsiadów i miłośników pieczenia. Uczestnicy przygotują jesienne wypieki i poznają nowe przepisy.\n\n• 7 października, godz. 16:00 – jabłecznik\n• 14 października, godz. 16:00 – jesienne muffiny\n• 21 października, godz. 16:00 – dyniowe ciasto\n• 28 października, godz. 16:00 – straszne ciasteczka na urodziny Klubokawiarni\n\nSpotkania odbywają się w Klubokawiarni Sąsiedzkiej, Domu Kultury przy ul. Działdowskiej 6. Obowiązują zapisy: https://forms.cloud.microsoft/e/9GRSDNraJz\n\nDo budynku prowadzą schody; nie ma w nim windy, podjazdów ani dostępnej toalety dla osób z niepełnosprawnością. Można wejść z psem asystującym lub przewodnikiem. W recepcji jest pętla indukcyjna, a podczas wydarzenia można wypożyczyć słuchawki wyciszające. Dostępny jest tłumacz polskiego języka migowego online: https://tlumacz.migam.org\n\nNajbliższy przystanek to METRO PŁOCKA, oddalony o 300 m; dojeżdżają tam linie 13, 26, 27, 103, 106 i M2. W sprawie pomocy w dotarciu: kawiarnia@wck-wola.pl. Pytania o dostępność: m.michnowska@wck-wola.pl lub tel./SMS 609028424."
-        },
-        "en": {
-          "title": "Autumn Muffins – Neighborhood Cooking",
-          "description": "The October series of communal cooking invites children, parents, neighbors, and baking enthusiasts. Participants will prepare autumn treats and learn new recipes.\n\n• October 7, 4:00 PM – apple pie\n• October 14, 4:00 PM – autumn muffins\n• October 21, 4:00 PM – pumpkin cake\n• October 28, 4:00 PM – spooky cookies for the Club Café's birthday\n\nMeetings take place at the Neighborhood Club Café, Cultural Center at Działdowska 6. Registration is required: https://forms.cloud.microsoft/e/9GRSDNraJz\n\nThe building has stairs; there is no elevator, ramps, or accessible restroom for people with disabilities. You can enter with a service or guide dog. There is an induction loop at the reception, and during the event, noise-canceling headphones can be borrowed."
-        },
-        "uk": {
-          "title": "Осінні мафіни – сусідське приготування",
-          "description": "Жовтневий цикл спільного приготування запрошує дітей, батьків, сусідів та любителів випічки. Учасники приготують осінні випічки та дізнаються нові рецепти.\n\n• 7 жовтня, год. 16:00 – яблучний пиріг\n• 14 жовтня, год. 16:00 – осінні мафіни\n• 21 жовтня, год. 16:00 – гарбузовий пиріг\n• 28 жовтня, год. 16:00 – страшні печива на день народження Клубокав'ярні\n\nЗустрічі відбуваються в Клубокав'ярні Сусідській, Будинку Культури на вул. Дziałdowskiej 6. Обов'язкові записи: https://forms.cloud.microsoft/e/9GRSDNraJz\n\nДо будівлі ведуть сходи; в ньому немає ліфта, пандусів або доступного туалету для осіб з інвалідністю. Можна зайти з собакою-помічником або ведучою. На рецепції є індукційна петля, а під час заходу можна взяти в оренду навушники для приглушення звуку. Дос"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wola",
-      "updated_at": "2026-10-02T12:40:15.480205+00:00"
-    },
     "ultimate-frisbee-dla-pocz-tkuj-cych-zaj-cia-2026-10-15T17:30:00+02:00": {
       "title": "Ultimate frisbee dla początkujących – zajęcia",
       "date": "2026-10-15T17:30:00+02:00",
@@ -11882,51 +11679,6 @@
       },
       "district": "Żoliborz",
       "updated_at": "2026-10-04T12:23:02.155357+00:00"
-    },
-    "jesienne-obrazy-na-szkle-warsztaty-rodzinne-2026-10-14T18:00:00+02:00": {
-      "title": "Jesienne obrazy na szkle – warsztaty rodzinne",
-      "date": "2026-10-14T18:00:00+02:00",
-      "end_date": "2026-10-14T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Bezpłatne warsztaty rodzinne, podczas których dzieci i dorośli wspólnie namalują jesienne obrazy na szkle. Gotowe prace zostaną oprawione w ramki i będą mogły stać się ozdobą domu.\n\nZajęcia są przeznaczone dla rodzica i dziecka w wieku od 6 lat. Liczba miejsc jest ograniczona, obowiązują zapisy telefoniczne pod numerem 22 815 67 63 lub mailowe: zastow@wck-wawer.pl.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/638241b6-8af0-4ac7-a77d-f2f1b90562aa/a3836367-c59d-47e5-b01d-357aa5b20474.jpg",
-      "location": {
-        "name": "Wawerskie Centrum Kultury Filia Zastów. ul. Lucerny 13, Warszawa",
-        "district": "Ochota"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/jesienne-obrazy-na-szkle-warsztaty-rodzinne-638241b6-8af0-4ac7-a77d-f2f1b90562aa",
-      "source": "simplygo.pl",
-      "age_hint": "6-18",
-      "age_range": {
-        "min": 6,
-        "max": 18
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/jesienne-obrazy-na-szkle-warsztaty-rodzinne-638241b6-8af0-4ac7-a77d-f2f1b90562aa",
-      "scrapped_timestamp": "2026-10-04T12:22:19.584071+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Arts"
-      ],
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Jesienne obrazy na szkle – warsztaty rodzinne",
-          "description": "Bezpłatne warsztaty rodzinne, podczas których dzieci i dorośli wspólnie namalują jesienne obrazy na szkle. Gotowe prace zostaną oprawione w ramki i będą mogły stać się ozdobą domu.\n\nZajęcia są przeznaczone dla rodzica i dziecka w wieku od 6 lat. Liczba miejsc jest ograniczona, obowiązują zapisy telefoniczne pod numerem 22 815 67 63 lub mailowe: zastow@wck-wawer.pl."
-        },
-        "en": {
-          "title": "Autumn Images on Glass – Family Workshops",
-          "description": "Free family workshops where children and adults will jointly paint autumn images on glass. The finished works will be framed and can become a decoration for the home.\n\nThe activities are intended for a parent and a child aged 6 and older. The number of places is limited, registration is required by phone at 22 815 67 63 or by email: zastow@wck-wawer.pl."
-        },
-        "uk": {
-          "title": "Осінні образи на склі – сімейні майстер-класи",
-          "description": "Безкоштовні сімейні майстер-класи, під час яких діти та дорослі спільно намалюють осінні образи на склі. Готові роботи будуть оформлені в рамки і зможуть стати прикрасою дому.\n\nЗаняття призначені для батька та дитини віком від 6 років. Кількість місць обмежена, діють попередні записи за телефоном 22 815 67 63 або електронною поштою: zastow@wck-wawer.pl."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ochota",
-      "updated_at": "2026-10-04T12:23:02.156720+00:00"
     },
     "nie-wszystko-jest-takie-jak-si-wydaje-noc-bibliotek-na-woli-2026-10-16T17:00:00+02:00": {
       "title": "Nie wszystko jest takie, jak się wydaje – Noc Bibliotek na Woli",
@@ -13343,130 +13095,6 @@
       },
       "district": "Mokotów",
       "updated_at": "2026-10-07T13:19:11.603799+00:00"
-    },
-    "dzikie-popo-udnia-jesie-2026-10-14T16:00:00+02:00": {
-      "title": "Dzikie popołudnia. Jesień",
-      "date": "2026-10-14T16:00:00+02:00",
-      "end_date": "2026-10-14T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Dzikie spotkania obmyślamy tak, by zarówno dzieci, jak i rodzice/ opiekunowie mogli współtworzyć to, co się dzieje. Nie mają struktury warsztatu, można dołączyć i wyjść z zajęć w dowolnym momencie.\n\nZajęcia przygotowane są z myślą o dzieciach 2,5 - 8 lat, ale trochę młodszych też zapraszamy. Spotkania poprowadzi: Asia Salwicka.\n\nProsimy zabrać ubranie, które można zabrudzić i w którym wygodnie będzie działać. A także ubranie na zmianę. Prosimy o ubranie dostosowane do pogody. Uwaga! Nie straszne nam chłód, mżawka, przelotny deszcz. W przypadku niedużego deszczu i chłodu wciąż działamy w ogrodzie. Jeżeli w dniu spotkania pogoda uniemożliwi działanie (ulewny deszcz, wichura), zaprosimy Was do jednej z sal w Stu Pociechach albo zmienimy datę wydarzenia.",
-      "url": "https://ekobilet.pl/stopociech/dzikie-popoludnia-jesien-52251#14-10",
-      "source": "ekobilet.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 2,
-        "max": 6
-      },
-      "location": {
-        "name": "Fundacja Sto Pociech, ogród · ul. Freta 20/24a",
-        "district": "Śródmieście"
-      },
-      "image": "https://ekobilet.pl/uploads/production/user/picture/2234/100p_sygnet_rgb__1_.jpg",
-      "scrapped_url": "https://ekobilet.pl/stopociech/dzikie-popoludnia-jesien-52251#14-10",
-      "scrapped_timestamp": "2026-10-07T13:11:15.776815+00:00",
-      "translations": {
-        "pl": {
-          "title": "Dzikie popołudnia. Jesień",
-          "description": "Dzikie spotkania obmyślamy tak, by zarówno dzieci, jak i rodzice/ opiekunowie mogli współtworzyć to, co się dzieje. Nie mają struktury warsztatu, można dołączyć i wyjść z zajęć w dowolnym momencie.\n\nZajęcia przygotowane są z myślą o dzieciach 2,5 - 8 lat, ale trochę młodszych też zapraszamy. Spotkania poprowadzi: Asia Salwicka.\n\nProsimy zabrać ubranie, które można zabrudzić i w którym wygodnie będzie działać. A także ubranie na zmianę. Prosimy o ubranie dostosowane do pogody. Uwaga! Nie straszne nam chłód, mżawka, przelotny deszcz. W przypadku niedużego deszczu i chłodu wciąż działamy w ogrodzie. Jeżeli w dniu spotkania pogoda uniemożliwi działanie (ulewny deszcz, wichura), zaprosimy Was do jednej z sal w Stu Pociechach albo zmienimy datę wydarzenia."
-        },
-        "en": {
-          "title": "Wild Afternoons. Autumn",
-          "description": "We plan wild meetings so that both children and parents/caregivers can co-create what is happening. They do not have the structure of a workshop, you can join and leave the activities at any time.\n\nThe activities are designed for children aged 2.5 - 8 years, but we also invite those a little younger. The meetings will be led by: Asia Salwicka.\n\nPlease bring clothes that can get dirty and in which it will be comfortable to work. Also, bring a change of clothes. Please dress according to the weather. Attention! We are not afraid of cold, drizzle, or light rain. In case of light rain and cold, we will still operate in the garden. If the weather on the day of the meeting prevents us from operating (heavy rain, storm), we will invite you to one of the rooms at Stu Pociechach or change the date of the event."
-        },
-        "uk": {
-          "title": "Дикі пополудні. Осінь",
-          "description": "Дикі зустрічі обмірковуємо так, щоб як діти, так і батьки/опікуни могли співтворити те, що відбувається. Не мають структури майстер-класу, можна приєднатися і вийти з занять у будь-який момент.\n\nЗаняття підготовлені з думкою про дітей 2,5 - 8 років, але трохи молодших теж запрошуємо. Зустрічі проведе: Ася Салвіцька.\n\nПросимо взяти одяг, який можна забруднити і в якому зручно буде діяти. А також одяг на зміну. Просимо про одяг, пристосований до погоди. Увага! Не страшні нам холод, мжичка, проливний дощ. У випадку невеликого дощу і холоду все ще діємо в саду. Якщо в день зустрічі погода унеможливить дію (зливовий дощ, ураган), запрошуємо вас до однієї з залів у Студії Печалей або змінимо дату події."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-07T13:19:11.604281+00:00"
-    },
-    "naukowe-zaj-cia-kreatywne-dla-dzieci-2026-10-14T16:00:00+02:00": {
-      "title": "Naukowe zajęcia kreatywne dla dzieci",
-      "date": "2026-10-14T16:00:00+02:00",
-      "end_date": "2026-10-14T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Podczas zajęć dzieci aktywnie eksperymentują, sprawdzają, obserwują i wyciągają wnioski. Dzięki prostym, ale efektownym doświadczeniom szybko rozumieją zachodzące zjawiska i czują satysfakcję z samodzielnego odkrywania. Każde kolejne doświadczenie, nowe pojęcie czy wykorzystanie pomocy naukowych sprawia, że uczestnicy wcielają się w rolę prawdziwych naukowców. W trakcie warsztatów dzieci mają okazję przeprowadzić i zobaczyć liczne eksperymenty związane m.in. z powietrzem, światłem, wodą czy ciepłem. W pracy wykorzystujemy zarówno profesjonalne pomoce naukowe, jak i przedmioty codziennego użytku. Dzięki temu dzieci mogą z łatwością odtworzyć eksperymenty w domu i dzielić się swoją wiedzą z bliskimi. Zajęcia łączą naukę z zabawą, a to właśnie taka forma sprzyja najefektywniejszemu przyswajaniu wiedzy. Wieloletnie doświadczenie pokazuje, że dzieci uczą się szybciej i zapamiętują więcej, gdy towarzyszą temu emocje, radość i zaangażowanie. Akademia Profesora Szkiełko to cykl warsztatów, podczas których uczestnicy pomagają nieco szalonemu Profesorowi rozwiązywać zagadki z jego laboratorium. To pełna przygód podróż do świata nauki, eksperymentów i kreatywnego myślenia.\n\nCykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Naukowe zajęcia kreatywne” nr 1041",
-      "url": "https://bemowskie.pl/wydarzenia/naukowe-zajecia-kreatywne-dla-dzieci-w-wieku-5-7-lat-14-10/",
-      "source": "bemowskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 5,
-        "max": 6
-      },
-      "location": {
-        "name": "Bemowskie Centrum Kultury, MAL Dwa Jelonki · ul. Rozłogi 18",
-        "district": "Bemowo"
-      },
-      "image": "https://bemowskie.pl/wp-content/uploads/2026/04/naukowe-zajecia-kreatywne.png",
-      "scrapped_url": "https://bemowskie.pl/wydarzenia/naukowe-zajecia-kreatywne-dla-dzieci-w-wieku-5-7-lat-14-10/",
-      "scrapped_timestamp": "2026-10-07T13:11:30.203817+00:00",
-      "translations": {
-        "pl": {
-          "title": "Naukowe zajęcia kreatywne dla dzieci",
-          "description": "Podczas zajęć dzieci aktywnie eksperymentują, sprawdzają, obserwują i wyciągają wnioski. Dzięki prostym, ale efektownym doświadczeniom szybko rozumieją zachodzące zjawiska i czują satysfakcję z samodzielnego odkrywania. Każde kolejne doświadczenie, nowe pojęcie czy wykorzystanie pomocy naukowych sprawia, że uczestnicy wcielają się w rolę prawdziwych naukowców. W trakcie warsztatów dzieci mają okazję przeprowadzić i zobaczyć liczne eksperymenty związane m.in. z powietrzem, światłem, wodą czy ciepłem. W pracy wykorzystujemy zarówno profesjonalne pomoce naukowe, jak i przedmioty codziennego użytku. Dzięki temu dzieci mogą z łatwością odtworzyć eksperymenty w domu i dzielić się swoją wiedzą z bliskimi. Zajęcia łączą naukę z zabawą, a to właśnie taka forma sprzyja najefektywniejszemu przyswajaniu wiedzy. Wieloletnie doświadczenie pokazuje, że dzieci uczą się szybciej i zapamiętują więcej, gdy towarzyszą temu emocje, radość i zaangażowanie. Akademia Profesora Szkiełko to cykl warsztatów, podczas których uczestnicy pomagają nieco szalonemu Profesorowi rozwiązywać zagadki z jego laboratorium. To pełna przygód podróż do świata nauki, eksperymentów i kreatywnego myślenia.\n\nCykl warsztatów realizowany w ramach Budżetu Obywatelskiego z projektu „Naukowe zajęcia kreatywne” nr 1041"
-        },
-        "en": {
-          "title": "Creative Scientific Activities for Children",
-          "description": "During the classes, children actively experiment, check, observe, and draw conclusions. Thanks to simple yet impressive experiments, they quickly understand the phenomena occurring and feel satisfaction from discovering on their own. Each subsequent experiment, new concept, or use of scientific aids makes the participants embody the role of real scientists. During the workshops, children have the opportunity to conduct and see numerous experiments related to air, light, water, and heat, among others. In our work, we use both professional scientific aids and everyday objects. This allows children to easily recreate the experiments at home and share their knowledge with their loved ones. The classes combine learning with fun, and this form promotes the most effective absorption of knowledge."
-        },
-        "uk": {
-          "title": "Наукові креативні заняття для дітей",
-          "description": "Під час занять діти активно експериментують, перевіряють, спостерігають і роблять висновки. Завдяки простим, але ефектним дослідам вони швидко розуміють, що відбувається, і відчувають задоволення від самостійного відкриття. Кожен наступний дослід, нове поняття чи використання наукових засобів допомагає учасникам втілитися в роль справжніх науковців. Під час майстер-класів діти мають можливість провести та побачити численні експерименти, пов'язані, зокрема, з повітрям, світлом, водою чи теплом. У роботі ми використовуємо як професійні наукові засоби, так і предмети повсякденного вжитку. Завдяки цьому діти можуть з легкістю відтворити експерименти вдома і ділитися своїми знаннями з близькими. Заняття поєднують науку з грою, а саме така форма сприяє найефективнішому засвоєнню."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-10-07T13:19:11.604299+00:00"
-    },
-    "bli-ej-mam-grupa-dla-mam-z-dzie-mi-2026-10-15T10:00:00+02:00": {
-      "title": "Bliżej mam – grupa dla mam z dziećmi",
-      "date": "2026-10-15T10:00:00+02:00",
-      "end_date": "2026-10-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Cykl bezpłatnych spotkań poświęconych emocjom we wczesnym macierzyństwie. Grupa dla mam z dziećmi do 10. miesiąca życia.",
-      "url": "https://domkulturywesola.net/wydarzenie/kalendarz-wydarzen-pazdziernik/#15-10",
-      "source": "domkulturywesola.net",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 0
-      },
-      "location": {
-        "name": "Dom Kultury Wesoła, ODT „Pogodna” · ul. Jana Pawła II 25",
-        "district": "Wesoła"
-      },
-      "image": "https://domkulturywesola.net/wp-content/uploads/2026/10/2026-plakat-miesieczny-1-723x1024.png",
-      "scrapped_url": "https://domkulturywesola.net/wydarzenie/kalendarz-wydarzen-pazdziernik/#15-10",
-      "scrapped_timestamp": "2026-10-07T13:11:55.193501+00:00",
-      "category": "Family Fun",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bliżej mam – grupa dla mam z dziećmi",
-          "description": "Cykl bezpłatnych spotkań poświęconych emocjom we wczesnym macierzyństwie. Grupa dla mam z dziećmi do 10. miesiąca życia."
-        },
-        "en": {
-          "title": "Closer to Mom – a group for moms with children",
-          "description": "A series of free meetings dedicated to emotions in early motherhood. \nGroup for moms with children up to 10 months old."
-        },
-        "uk": {
-          "title": "Ближче до мами – група для мам з дітьми",
-          "description": "Цикл безкоштовних зустрічей, присвячених емоціям у ранньому материнстві. Група для мам з дітьми до 10-го місяця життя."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wesoła",
-      "updated_at": "2026-10-07T13:19:11.604332+00:00"
     },
     "zabawy-sensoryczne-dynia-2026-10-15T16:00:00+02:00": {
       "title": "Zabawy sensoryczne – dynia",
@@ -15437,45 +15065,6 @@
       "district": "Ochota",
       "updated_at": "2026-10-08T13:20:37.618905+00:00"
     },
-    "pracownia-zapach-w-warsztaty-tworzenia-kompozycji-2026-10-14T14:30:00+02:00": {
-      "title": "Pracownia Zapachów – warsztaty tworzenia kompozycji",
-      "date": "2026-10-14T14:30:00+02:00",
-      "end_date": "2026-10-14T14:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Warsztaty tworzenia unikatowych wód zapachowych z naturalnych olejków eterycznych w historycznych wnętrzach Muzeum Farmacji. Uczestnicy poznają proces powstawania kompozycji, od wyboru składników po stworzenie własnej formuły, łącząc naukę z relaksem.\n\nSzczegóły:\n• Termin: każda środa, 14:30–17:15 (ostatnie wejście o 16:30)\n• Czas trwania: 45 minut\n• Limit: 15 osób\n• Prowadzenie: Anna Bijałd, starsza specjalistka ds. edukacji w Muzeum Farmacji\n\nLogistyka:\n• Miejsce: Muzeum Farmacji, ul. Piwna 31/33\n• Wstęp: w cenie biletu na wystawę\n• Bilety dostępne online: https://tiny.pl/13gg809tn oraz w kasie Muzeum w dniu warsztatów (w miarę dostępności miejsc)",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/eb996761-0f41-46ec-9f55-b1cfd8bfb175/b3fdee21-d69b-43b8-9ed3-eaea306ad189.jpg",
-      "location": {
-        "name": "ul. Piwna 31/33",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/pracownia-zapachow-warsztaty-tworzenia-kompozycji-eb996761-0f41-46ec-9f55-b1cfd8bfb175",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/pracownia-zapachow-warsztaty-tworzenia-kompozycji-eb996761-0f41-46ec-9f55-b1cfd8bfb175",
-      "scrapped_timestamp": "2026-10-08T13:19:42.020618+00:00",
-      "category": "Workshops",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Pracownia Zapachów – warsztaty tworzenia kompozycji",
-          "description": "Warsztaty tworzenia unikatowych wód zapachowych z naturalnych olejków eterycznych w historycznych wnętrzach Muzeum Farmacji. Uczestnicy poznają proces powstawania kompozycji, od wyboru składników po stworzenie własnej formuły, łącząc naukę z relaksem.\n\nSzczegóły:\n• Termin: każda środa, 14:30–17:15 (ostatnie wejście o 16:30)\n• Czas trwania: 45 minut\n• Limit: 15 osób\n• Prowadzenie: Anna Bijałd, starsza specjalistka ds. edukacji w Muzeum Farmacji\n\nLogistyka:\n• Miejsce: Muzeum Farmacji, ul. Piwna 31/33\n• Wstęp: w cenie biletu na wystawę\n• Bilety dostępne online: https://tiny.pl/13gg809tn oraz w kasie Muzeum w dniu warsztatów (w miarę dostępności miejsc)"
-        },
-        "en": {
-          "title": "Fragrance Workshop – Composition Creation Workshops",
-          "description": "Workshops for creating unique perfumes from natural essential oils in the historic interiors of the Museum of Pharmacy. Participants will learn about the process of composition creation, from selecting ingredients to crafting their own formula, combining learning with relaxation.\n\nDetails:\n• Date: every Wednesday, 14:30–17:15 (last entry at 16:30)\n• Duration: 45 minutes\n• Limit: 15 people\n• Conducted by: Anna Bijałd, senior education specialist at the Museum of Pharmacy\n\nLogistics:\n• Location: Museum of Pharmacy, ul. Piwna 31/33\n• Admission: included in the ticket price for the exhibition\n• Tickets available online: https://tiny.pl/13gg809tn and at the Museum's box office on the day of the workshop (subject to availability)"
-        },
-        "uk": {
-          "title": "Майстерня Запахів – майстер-класи зі створення композицій",
-          "description": "Майстер-класи зі створення унікальних парфумів з натуральних ефірних олій в історичних інтер'єрах Музею Фармації. Учасники познайомляться з процесом створення композицій, від вибору інгредієнтів до створення власної формули, поєднуючи науку з релаксом.\n\nСкладові:\n• Дата: кожна середа, 14:30–17:15 (остання реєстрація о 16:30)\n• Тривалість: 45 хвилин\n• Ліміт: 15 осіб\n• Ведуча: Анна Біялд, старша спеціалістка з освіти в Музеї Фармації\n\nЛогістика:\n• Місце: Музей Фармації, вул. Пивна 31/33\n• Вхід: у ціні квитка на виставку\n• Квитки доступні онлайн: https://tiny.pl/13gg809tn та в касі Музею в день майстер-класу (за наявності місць)"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-08T13:20:37.619175+00:00"
-    },
     "pr-ba-kwiatu-warsztaty-plastyczne-dla-dzieci-2026-10-17T11:00:00+02:00": {
       "title": "Próba Kwiatu – warsztaty plastyczne dla dzieci",
       "date": "2026-10-17T11:00:00+02:00",
@@ -16390,48 +15979,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-10-09T13:02:48.965510+00:00"
-    },
-    "zaj-cia-sensoryczne-dla-dzieci-do-3-roku-ycia-2026-10-15T10:00:00+02:00": {
-      "title": "Zajęcia sensoryczne dla dzieci do 3 roku życia",
-      "date": "2026-10-15T10:00:00+02:00",
-      "end_date": "2026-10-15T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia sensoryczne przez cały październik we czwartki (10:00).\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nSensosmyki, czwartki 10-12\n\n01.10 – Ciepła jesień (poznajemy kolory ciepłej jesieni)\n\n08.10 – Jesienne drzewo i liście\n\n15.10 – Kasztan, orzech i szyszka, czyli jesienna sensoryka\n\n22.10 – W czasie deszczu dzieci się bawią (kolory zgaszonej jesieni)\n\n29.10 – Pajęcza sieć (kolorystyka ciemnej jesieni)\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć sensorycznych:\n\n- angażujemy swoje ciało, wykorzystując metodę 5 zmysłów: wzrok, dotyk, słuch, węch i smak,\n\n- zabawę sensoplastyczną (jeśli starczy nam sił i czasu),\n\n- praca z pomocami Montessori (w małej salce).",
-      "image": null,
-      "location": {
-        "name": "Świetojerska 12a",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/share/p/1BFYYTgRff/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/share/p/1BFYYTgRff/",
-      "scrapped_timestamp": "2026-10-09T13:01:15.131563+00:00",
-      "category": "Sensory Play",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Zajęcia sensoryczne dla dzieci do 3 roku życia",
-          "description": "Zapraszamy na zajęcia sensoryczne przez cały październik we czwartki (10:00).\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nSensosmyki, czwartki 10-12\n\n01.10 – Ciepła jesień (poznajemy kolory ciepłej jesieni)\n\n08.10 – Jesienne drzewo i liście\n\n15.10 – Kasztan, orzech i szyszka, czyli jesienna sensoryka\n\n22.10 – W czasie deszczu dzieci się bawią (kolory zgaszonej jesieni)\n\n29.10 – Pajęcza sieć (kolorystyka ciemnej jesieni)\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć sensorycznych:\n\n- angażujemy swoje ciało, wykorzystując metodę 5 zmysłów: wzrok, dotyk, słuch, węch i smak,\n\n- zabawę sensoplastyczną (jeśli starczy nam sił i czasu),\n\n- praca z pomocami Montessori (w małej salce)."
-        },
-        "en": {
-          "title": "Sensory classes for children up to 3 years old",
-          "description": "We invite you to sensory classes throughout October on Thursdays (10:00).\n\nFree admission with mandatory phone registration at 500 080 498!\n\nLimited number of places!\n\nSensory fun, Thursdays 10-12\n\n01.10 – Warm autumn (we learn the colors of warm autumn)\n\n08.10 – Autumn tree and leaves\n\n15.10 – Chestnut, nut, and pine cone, or autumn sensory experience\n\n22.10 – When it rains, children play (colors of muted autumn)\n\n29.10 – Spider web (color scheme of dark autumn)\n\nClasses with caregivers. Free of charge.\n\nDuring each sensory class:\n\n- we engage our bodies using the 5 senses method: sight, touch, hearing, smell, and taste,\n\n- sensory play (if we have enough energy and time),\n\n- working with Montessori materials (in a small room)."
-        },
-        "uk": {
-          "title": "Сенсорні заняття для дітей до 3 року життя",
-          "description": "Запрошуємо на сенсорні заняття протягом усього жовтня по четвергах (10:00).\n\nВхід вільний з обов'язковими записами телефонними 500 080 498!\n\nКількість місць обмежена!\n\nСенсосмики, четверги 10-12\n\n01.10 – Тепла осінь (пізнаємо кольори теплої осені)\n\n08.10 – Осіннє дерево і листя\n\n15.10 – Каштан, горіх і шишка, тобто осіння сенсорика\n\n22.10 – У час дощу діти граються (кольори згаслої осені)\n\n29.10 – Павуча мережа (колористика темної осені)\n\nЗаняття разом з опікунами. Безкоштовно.\n\nПід час кожних сенсорних занять:\n\n- залучаємо своє тіло, використовуючи метод 5 почуттів: зір, дотик, слух, нюх і смак,\n\n- гру сенсопластичну (якщо вистачить нам сил і часу),\n\n- робота з допоміжними матеріалами Монтессорі (в маленькій кімнаті)."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-09T13:02:48.965616+00:00"
     },
     "ultimate-frisbee-dla-pocz-tkuj-cych-2026-10-15T17:30:00+02:00": {
       "title": "Ultimate frisbee dla początkujących",
@@ -19586,88 +19133,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-10-14T11:41:39.179396+00:00"
-    },
-    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-10-14T10:00:00+02:00": {
-      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-      "date": "2026-10-14T10:00:00+02:00",
-      "end_date": "2026-10-14T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "scrapped_timestamp": "2026-10-14T11:38:53.361203+00:00",
-      "category": "Arts",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
-        },
-        "en": {
-          "title": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"",
-          "description": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"\n\nWe invite you to guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world masterpieces, including paintings by such masters as Maurice Denis, Paul Ranson, and Paul Sérusier. The curators of the exhibition and museum educators will tell us about them.\n\nThe exhibition \"Nabis. Prophets of New Art\" showcases, among other things, the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called School of Pont-Aven. It also includes works of a religious and esoteric nature, views of interiors, and genre scenes, as well as the activities of the magazine \"La Revue Blanche\" run by the Natanson brothers - Tadeusz and Aleksander. In total, we will see over 90 works in the fields of painting, drawing, and graphics. The works come from Polish and foreign collections."
-        },
-        "uk": {
-          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
-          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\" Запрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Зможемо побачити світові твори, а це, зокрема, картини таких майстрів, як Моріс Дені, Поль Рансон і Поль Серюзьє. Розкажуть про них куратори експозиції та музейні освітяни. Виставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Пола Гогена і так званої Школи Пон-Авен. Охоплює також твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, яку проводили брати Натансон - Тадеуш і Олександр - журналу \"La Revue Blanche\". Всього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
-      },
-      "updated_at": "2026-10-14T11:41:39.179443+00:00"
-    },
-    "koncert-chopinowski-w-pa-acu-dziekana-2026-10-14T18:30:00+02:00": {
-      "title": "Koncert chopinowski w Pałacu Dziekana",
-      "date": "2026-10-14T18:30:00+02:00",
-      "end_date": "2026-10-14T18:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/dfb9c2f3-6235-4b7e-9801-e2317b060309/158b2db7-d857-4b87-b267-428641d360fc.jpg",
-      "location": {
-        "name": "Muzeum Archidiecezji Warszawskiej, Ulica Dziekania 1, 00-279 Warszawa",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-dfb9c2f3-6235-4b7e-9801-e2317b060309",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-dfb9c2f3-6235-4b7e-9801-e2317b060309",
-      "scrapped_timestamp": "2026-10-14T11:39:02.725559+00:00",
-      "category": "Music & Dance",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Koncert chopinowski w Pałacu Dziekana",
-          "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy."
-        },
-        "en": {
-          "title": "Chopin Concert at the Dean's Palace",
-          "description": "We cordially invite you to listen to Chopin concerts at 6:30 PM at the Dean's Palace in the Old Town of Warsaw. The most beautiful works of Fryderyk Chopin are performed by professional pianists, artists who perform in many countries around the world.\n\nRecitals take place in the historic, beautiful, and exclusively finished 16th-century Dean's Palace (now the Museum of the Archdiocese of Warsaw, ul. Dziekania 1, right next to the Archcathedral). You listen to music in close proximity to a collection of paintings by renowned artists.\n\nOur concert hall has phenomenal acoustics! The reception of music in this hall is essentially perfect, at the highest world level. We listen to the piano surrounded by pure and rich sound, we are enveloped by music in ideal proportions, not too little, not too much, we are as if in the middle of the performance."
-        },
-        "uk": {
-          "title": "Концерт шопенівський у Палаці Декана",
-          "description": "Щиро запрошуємо Вас послухати шопенівські концерти о 18:30 у Палаці Декана на Старому Місті у Варшаві. Найкрасивіші твори Фридерика Шопена виконують професійні піаністи, артисти, які виступають у багатьох країнах світу.\nРецитали відбуваються в історичному, красивому та ексклюзивно оформленому XVI столітті Палаці Декана (сьогодні Музей Архієпархії Варшавської, вул. Декана 1, поруч з Архікатедрою). Слухаєте музику в близькості колекції картин відомих художників.\nНаша концертна зала має феноменальну акустику! Сприйняття музики в цій залі є фактично ідеальним, на найвищому світовому рівні. Слухаємо фортепіано, оточені чистим і багатим звуком, ми оточені музикою в ідеальних пропорціях, не занадто мало, не занадто багато, ми ніби в середині виконуваного у"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/210596/warszawa/koncert-chopinowski-stare-miasto?utm_source=pp&utm_medium=604"
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-14T11:41:39.179463+00:00"
     },
     "noc-bibliotek-2026-na-woli-program-o-dezinformacji-i-manipulacji-2026-10-16T17:00:00+02:00": {
       "title": "Noc Bibliotek 2026 na Woli – program o dezinformacji i manipulacji",

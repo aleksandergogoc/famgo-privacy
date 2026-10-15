@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:00:21.862243+00:00",
+  "updated_at": "2026-10-15T11:29:45.241470+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1710,6 +1710,15 @@
       "lat": 52.4082892,
       "lng": 16.933598,
       "updated_at": "2026-10-14T11:58:24.084568+00:00"
+    },
+    "poznań główny railway station": {
+      "name": "Poznań Główny, 2, Dworcowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-801, Polska",
+      "district": "Wilda",
+      "address": "Poznań Główny, 2, Dworcowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-801, Polska",
+      "normalized": "poznań główny railway station",
+      "lat": 52.4016269,
+      "lng": 16.9115788,
+      "updated_at": "2026-10-15T11:28:05.965296+00:00"
     }
   }
 }

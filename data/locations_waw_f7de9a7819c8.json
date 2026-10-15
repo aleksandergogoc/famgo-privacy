@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:00:27.075797+00:00",
+  "updated_at": "2026-10-15T11:29:48.575901+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9105,6 +9105,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-14T11:41:36.946171+00:00"
+    },
+    "szkoła podstawowa nr 298": {
+      "name": "Szkoła podstawowa nr 298, Krakusa 2",
+      "district": "Targówek",
+      "address": "Szkoła podstawowa nr 298, Krakusa 2",
+      "normalized": "szkoła podstawowa nr 298",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-15T11:13:08.140519+00:00"
+    },
+    "biblioteka publiczna w dzielnicy bielany m.st. warszawy": {
+      "name": "Biblioteka Publiczna w Dzielnicy Bielany m.st. Warszawy, Romaszewskiego 19",
+      "district": "Bielany",
+      "address": "Biblioteka Publiczna w Dzielnicy Bielany m.st. Warszawy, Romaszewskiego 19",
+      "normalized": "biblioteka publiczna w dzielnicy bielany m.st. warszawy",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-15T11:13:08.140685+00:00"
+    },
+    "ursynów": {
+      "name": "Ursynów",
+      "district": "Ursynów",
+      "address": "Ursynów",
+      "normalized": "ursynów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-15T11:13:08.140821+00:00"
+    },
+    "tawerna korsarz": {
+      "name": "Tawerna Korsarz, ul. Gostyńska 45",
+      "district": "Wola",
+      "address": "Tawerna Korsarz, ul. Gostyńska 45",
+      "normalized": "tawerna korsarz",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-15T11:13:08.140985+00:00"
+    },
+    "biblioteka publiczna ul. paca 46": {
+      "name": "Biblioteka Publiczna ul. Paca 46",
+      "district": "Praga-Południe",
+      "address": "Biblioteka Publiczna ul. Paca 46",
+      "normalized": "biblioteka publiczna ul. paca 46",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-15T11:13:08.141143+00:00"
     }
   }
 }

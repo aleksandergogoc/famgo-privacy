@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:00:28.929614+00:00",
+  "updated_at": "2026-10-15T11:29:50.180800+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4963,6 +4963,42 @@
       "lat": 50.062,
       "lng": 19.937,
       "updated_at": "2026-10-14T11:28:37.845213+00:00"
+    },
+    "czytelnia główna wojewódzkiej biblioteki publicznej": {
+      "name": "ul. Rajskiej 1, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Rajskiej 1, Kraków",
+      "normalized": "czytelnia główna wojewódzkiej biblioteki publicznej",
+      "lat": 50.062,
+      "lng": 19.937,
+      "updated_at": "2026-10-15T11:00:00.928262+00:00"
+    },
+    "filia nr 40 biblioteki kraków": {
+      "name": "ul. Łużycka 55, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Łużycka 55, Kraków",
+      "normalized": "filia nr 40 biblioteki kraków",
+      "lat": 50.062,
+      "lng": 19.938,
+      "updated_at": "2026-10-15T11:00:28.863710+00:00"
+    },
+    "filia nr 3": {
+      "name": "Plac im. Jana Nowaka-Jeziorańskiego, Wesoła, Stare Miasto, Kraków, województwo małopolskie, Polska",
+      "district": "Stare Miasto",
+      "address": "Plac im. Jana Nowaka-Jeziorańskiego, Wesoła, Stare Miasto, Kraków, województwo małopolskie, Polska",
+      "normalized": "filia nr 3",
+      "lat": 50.0654384,
+      "lng": 19.9466165,
+      "updated_at": "2026-10-15T11:09:07.409552+00:00"
+    },
+    "międzynarodowe targi książki w krakowie": {
+      "name": "ul. Galicyjska 9, Sala Praga B, Kraków",
+      "district": "Krowodrza",
+      "address": "ul. Galicyjska 9, Sala Praga B, Kraków",
+      "normalized": "międzynarodowe targi książki w krakowie",
+      "lat": 50.067,
+      "lng": 19.913,
+      "updated_at": "2026-10-15T11:09:12.021604+00:00"
     }
   }
 }

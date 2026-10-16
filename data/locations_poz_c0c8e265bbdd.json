@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:29:45.241470+00:00",
+  "updated_at": "2026-10-16T11:25:31.840540+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1719,6 +1719,15 @@
       "lat": 52.4016269,
       "lng": 16.9115788,
       "updated_at": "2026-10-15T11:28:05.965296+00:00"
+    },
+    "tama": {
+      "name": "Tama, 2, Niezłomnych, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-894, Polska",
+      "district": "Stare Miasto",
+      "address": "Tama, 2, Niezłomnych, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-894, Polska",
+      "normalized": "tama",
+      "lat": 52.4025325,
+      "lng": 16.9223458,
+      "updated_at": "2026-10-16T11:24:25.541967+00:00"
     }
   }
 }

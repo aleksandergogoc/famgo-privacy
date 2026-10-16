@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:29:48.575901+00:00",
+  "updated_at": "2026-10-16T11:25:34.628296+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9150,6 +9150,60 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-15T11:13:08.141143+00:00"
+    },
+    "ul. szczęśliwicka 56": {
+      "name": "ul. Szczęśliwicka 56",
+      "district": "Ochota",
+      "address": "ul. Szczęśliwicka 56",
+      "normalized": "ul. szczęśliwicka 56",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-16T11:10:33.061669+00:00"
+    },
+    "stacja grawitacja": {
+      "name": "Stacja Grawitacja, al. Bohaterów Września 12",
+      "district": "Ochota",
+      "address": "Stacja Grawitacja, al. Bohaterów Września 12",
+      "normalized": "stacja grawitacja",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-16T11:10:33.061941+00:00"
+    },
+    "instytutu pileckiego w domu bez kantów": {
+      "name": "Galeria Instytutu Pileckiego w Domu Bez Kantów, ul. Krakowskie Przedmieście 11",
+      "district": "Śródmieście",
+      "address": "Galeria Instytutu Pileckiego w Domu Bez Kantów, ul. Krakowskie Przedmieście 11",
+      "normalized": "instytutu pileckiego w domu bez kantów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-16T11:10:33.062192+00:00"
+    },
+    "szkoła podstawowa nr 133": {
+      "name": "Szkoła Podstawowa nr 133, Antoniego Fontany 3",
+      "district": "Bielany",
+      "address": "Szkoła Podstawowa nr 133, Antoniego Fontany 3",
+      "normalized": "szkoła podstawowa nr 133",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-16T11:10:33.062430+00:00"
+    },
+    "papierówka podwale 17a": {
+      "name": "Galeria Papierówka Podwale 17A",
+      "district": "okolice Warszawy",
+      "address": "Galeria Papierówka Podwale 17A",
+      "normalized": "papierówka podwale 17a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-16T11:10:33.062659+00:00"
+    },
+    "dom figula": {
+      "name": "Dom Figula, Bulwary Wiślane",
+      "district": "Śródmieście",
+      "address": "Dom Figula, Bulwary Wiślane",
+      "normalized": "dom figula",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-16T11:10:33.062885+00:00"
     }
   }
 }

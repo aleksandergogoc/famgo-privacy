@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T11:29:50.180800+00:00",
+  "updated_at": "2026-10-16T11:25:35.859230+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -4999,6 +4999,24 @@
       "lat": 50.067,
       "lng": 19.913,
       "updated_at": "2026-10-15T11:09:12.021604+00:00"
+    },
+    "pedagogiczna biblioteka wojewódzka im. hugona kołłątaja": {
+      "name": "Pedagogiczna Biblioteka Wojewódzka im. Hugona Kołłątaja, 39, Aleja Marszałka Ferdinanda Focha, Błonia, Zwierzyniec, Kraków, województwo małopolskie, 30-119, Polska",
+      "district": "Zwierzyniec",
+      "address": "Pedagogiczna Biblioteka Wojewódzka im. Hugona Kołłątaja, 39, Aleja Marszałka Ferdinanda Focha, Błonia, Zwierzyniec, Kraków, województwo małopolskie, 30-119, Polska",
+      "normalized": "pedagogiczna biblioteka wojewódzka im. hugona kołłątaja",
+      "lat": 50.0569309,
+      "lng": 19.9121879,
+      "updated_at": "2026-10-16T10:53:33.368645+00:00"
+    },
+    "filia nr 16 biblioteki kraków": {
+      "name": "ul. Władysława Eljasza-Radzikowskiego 29, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Władysława Eljasza-Radzikowskiego 29, Kraków",
+      "normalized": "filia nr 16 biblioteki kraków",
+      "lat": 50.067,
+      "lng": 19.928,
+      "updated_at": "2026-10-16T10:54:08.915873+00:00"
     }
   }
 }

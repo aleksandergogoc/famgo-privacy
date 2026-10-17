@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:25:35.859230+00:00",
+  "updated_at": "2026-10-17T10:49:44.089485+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5017,6 +5017,15 @@
       "lat": 50.067,
       "lng": 19.928,
       "updated_at": "2026-10-16T10:54:08.915873+00:00"
+    },
+    "salon muzyczny stefańskich ul. garncarska 3_8": {
+      "name": "ul. Garncarska 3/8, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Garncarska 3/8, Kraków",
+      "normalized": "salon muzyczny stefańskich ul. garncarska 3_8",
+      "lat": 50.061,
+      "lng": 19.937,
+      "updated_at": "2026-10-17T10:29:49.659104+00:00"
     }
   }
 }

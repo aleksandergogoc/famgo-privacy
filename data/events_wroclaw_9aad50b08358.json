@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:16:18.663572+00:00",
+  "updated_at": "2026-10-17T10:39:02.557260+00:00",
   "events": {
     "fajnie-si-sk-ada-zlot-fan-w-klock-w-od-fan-w-dla-fan-w-2026-12-07T10:00:00": {
       "scrapped_timestamp": "2026-06-29T12:56:13.475074+00:00",
@@ -1354,39 +1354,42 @@
       "updated_at": "2026-09-07T12:12:45.441578+00:00"
     },
     "spoko-loko-koncert-dla-dzieci-2026-11-15T12:00:00+01:00": {
-      "title": "Spoko Loko – koncert dla dzieci",
+      "title": "Spoko Loko - koncert dla dzieci",
       "date": "2026-11-15T12:00:00+01:00",
       "end_date": "2026-11-15T12:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124/a22526ca-81c9-4f07-83ed-028c1fd7dba3.jpg",
+      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
+      "image": "https://assets.kupbilecik.pl/img/baza/8000/7104.webp?1788766325",
+      "url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
       "location": {
-        "name": "Centrum Kultury Nowy Pafawag, ul. Chociebuska 4-6, 54-433 Wrocław",
+        "name": "Centrum Kultury Nowy Pafawag",
+        "address": "ul. Chociebuska 4-6",
+        "lat": 51.115767,
+        "lng": 16.958181,
         "district": "Fabryczna"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "source": "simplygo.pl",
-      "age_hint": "2-8",
-      "age_range": {
-        "min": 2,
-        "max": 8
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "scrapped_timestamp": "2026-10-16T11:14:04.349853+00:00",
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-10-17T10:37:02.038730+00:00",
       "category": "Music & Dance",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Spoko Loko – koncert dla dzieci",
-          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
+          "title": "Spoko Loko - koncert dla dzieci",
+          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
         },
         "en": {
-          "title": "Spoko Loko – concert for children",
-          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They have prepared a unique, one-hour show during which children will be able to dance and sing along with the band. Classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\" will be performed, as well as new hits like \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will feature soap bubbles, riddles, and other surprises that will remain a mystery for now! Spoko Loko consists of Kasia, Mati, and Ola, who have already gathered several tens of millions of views on their YouTube channel. Reviews from satisfied parents speak for themselves - join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n* Children under 2 years old free admission (dz"
+          "title": "Spoko Loko - concert for children",
+          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They have prepared a unique, one-hour show during which children will be able to dance and sing along with the band. Classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\" will be performed, as well as new hits like \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will also feature soap bubbles, riddles, and other surprises that will remain a mystery for now! Spoko Loko consists of Kasia, Mati, and Ola, who have already gathered several tens of millions of views on their YouTube channel. Satisfied parents' reviews speak for themselves - join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n\n* Children under 2 years old enter free (d"
         },
         "uk": {
-          "title": "Spoko Loko – концерт для дітей",
-          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Приготували унікальне, годинне шоу, під час якого діти зможуть танцювати та співати разом з гуртом. Засяють класики, такі як \"Танці Поламайці\", \"Цю цю ля\" та \"Тіла форма\", але також нові хіти, такі як \"Ідемо через джунглі\" та \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko – це Касія, Марті та Оля, які на своєму каналі YouTube зібрали вже кілька десятків мільйонів переглядів. Відгуки задоволених батьків говорять самі за себе - приєднуйтесь до нас і дайте себе захопити у божевільний світ Spoko Loko! Після концерту також буде можливість зробити фото з гуртом.\n* Діти до 2 років вхід безкоштовний (д"
+          "title": "Spoko Loko - концерт для дітей",
+          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Приготували унікальне, годинне шоу, під час якого діти зможуть танцювати та співати разом з гуртом. Засяють класики, такі як \"Танці Поламайці\", \"Чу чу ля\" та \"Тіла форма\", але також нові хіти, такі як \"Йдемо через джунглі\" та \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko - це Касія, Марті та Оля, які на своєму каналі YouTube зібрали вже кілька десятків мільйонів переглядів. Відгуки задоволених батьків говорять самі за себе - приєднуйтесь до нас і дайте себе захопити у божевільний світ Spoko Loko! Після концерту також буде можливість зробити фото з гуртом.\n\n* Діти до 2 років вхід безкоштовний (д"
         }
       },
       "admission": {
@@ -1394,7 +1397,7 @@
         "ticket_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604"
       },
       "district": "Fabryczna",
-      "updated_at": "2026-10-16T11:14:15.103055+00:00"
+      "updated_at": "2026-10-17T10:39:02.409710+00:00"
     },
     "historia-detektywistyczna-2026-11-08T10:00:00+01:00": {
       "title": "HISTORIA DETEKTYWISTYCZNA!",
@@ -5347,46 +5350,45 @@
       "updated_at": "2026-10-12T15:05:37.098489+00:00"
     },
     "pinokio-spektakl-2026-10-17T15:00:00+02:00": {
-      "title": "Pinokio – spektakl",
+      "title": "Pinokio [spektakl]",
       "date": "2026-10-17T15:00:00+02:00",
       "end_date": "2026-10-17T15:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Pinokio to nie tylko chłopiec, który musi nauczyć się odróżniać dobro od zła. W nowej interpretacji Joëla Pommerata bohater zyskuje prawo do błędów, własnych wyborów i samodzielnego odkrywania świata. To opowieść o dorastaniu, relacjach z dorosłymi i odwadze, by odnaleźć własną drogę.\n\nZnana historia w nowej odsłonie\n\nSpektakl inspirowany powieścią Carla Collodiego przedstawia Pinokia, który spotyka na swojej drodze zarówno osoby chcące go wykorzystać, jak i tych, którzy otaczają go miłością i troską. Wśród nich są poświęcający się dla niego ojciec oraz Wróżka, pomagająca mu odnaleźć właściwy kierunek.\n\nW tej wersji dobro nie wynika z lęku przed karą ani z potrzeby spełniania oczekiwań dorosłych. Bohater uczy się odpowiedzialności przez doświadczenia, także trudne, a popełnianie błędów staje się naturalną częścią dorastania.\n\nPinokio, który sam wybiera swoją drogę\n\nInterpretacja Joëla Pommerata odchodzi od obrazu „niegrzecznego” dziecka, które trzeba naprawić. Pokazuje młodego człowieka, który poznaje świat, konfrontuje się z dorosłymi i stopniowo nabiera odwagi, by samodzielnie podejmować decyzje.\n\nTo opowieść o dziecięcej podmiotowości, dojrzewaniu oraz uczeniu się troski o siebie i innych. Przypomina, że dorastanie nie polega na bezrefleksyjnym posłuszeństwie, lecz na odkrywaniu własnych wartości i braniu odpowiedzialności za wybory.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d4225b7e-7e0b-4f18-96bc-4b4f6b2bd34f/a6768cde-4149-4872-94b1-aea4bae14c99.jpg",
+      "description": "Pinokio to nie tylko chłopiec, który musi nauczyć się odróżniać dobro od zła. W **nowej interpretacji** Joëla Pommerata bohater zyskuje prawo do błędów, własnych wyborów i samodzielnego odkrywania świata. To opowieść o dorastaniu, relacjach z dorosłymi i odwadze, by odnaleźć własną drogę.\n\nZnana historia w nowej odsłonie\n\nSpektakl inspirowany powieścią Carla Collodiego przedstawia Pinokia, który spotyka na swojej drodze zarówno osoby, które chcą go wykorzystać, jak i tych, którzy otaczają go miłością i troską. Wśród nich są poświęcający się dla niego ojciec oraz Wróżka, pomagająca mu odnaleźć właściwy kierunek.\n\nW tej wersji historii dobro nie wynika z lęku przed karą ani potrzeby spełniania oczekiwań dorosłych. Bohater uczy się odpowiedzialności przez doświadczenia, także te trudne, a popełnianie błędów staje się naturalną częścią dorastania.\n\nPinokio, który sam wybiera swoją drogę\n\nInterpretacja Joëla Pommerata odchodzi od obrazu „niegrzecznego” dziecka, które trzeba naprawić. Zamiast tego **pokazuje młodego człowieka, który poznaje świat**, konfrontuje się z dorosłymi i stopniowo nabiera odwagi, by samodzielnie podejmować decyzje.\n\n**To opowieść o dziecięcej podmiotowości, dojrzewaniu i uczeniu się troski o siebie oraz innych**. Przypomina, że dorastanie nie polega na bezrefleksyjnym posłuszeństwie, lecz na odkrywaniu własnych wartości i braniu odpowiedzialności za swoje wybory.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-efe27a14ac11000243b81d282fb0dea7/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1417184-pinokio-spektakl",
+      "source": "wroclaw.pl",
       "location": {
-        "name": "Wrocławski Teatr Lalek",
+        "name": "Wrocławski Teatr Lalek Pl. Teatralny 4, Wrocław 50-051",
         "district": "Stare Miasto"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/pinokio-spektakl-d4225b7e-7e0b-4f18-96bc-4b4f6b2bd34f",
-      "source": "simplygo.pl",
-      "age_hint": "6-12",
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1417184-pinokio-spektakl",
+      "scrapped_timestamp": "2026-10-17T10:37:28.251302+00:00",
+      "category": "Theater",
       "age_range": {
-        "min": 6,
+        "min": 5,
         "max": 12
       },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/pinokio-spektakl-d4225b7e-7e0b-4f18-96bc-4b4f6b2bd34f",
-      "scrapped_timestamp": "2026-10-16T11:13:39.782787+00:00",
-      "category": "Theater",
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Pinokio – spektakl",
-          "description": "Pinokio to nie tylko chłopiec, który musi nauczyć się odróżniać dobro od zła. W nowej interpretacji Joëla Pommerata bohater zyskuje prawo do błędów, własnych wyborów i samodzielnego odkrywania świata. To opowieść o dorastaniu, relacjach z dorosłymi i odwadze, by odnaleźć własną drogę.\n\nZnana historia w nowej odsłonie\n\nSpektakl inspirowany powieścią Carla Collodiego przedstawia Pinokia, który spotyka na swojej drodze zarówno osoby chcące go wykorzystać, jak i tych, którzy otaczają go miłością i troską. Wśród nich są poświęcający się dla niego ojciec oraz Wróżka, pomagająca mu odnaleźć właściwy kierunek.\n\nW tej wersji dobro nie wynika z lęku przed karą ani z potrzeby spełniania oczekiwań dorosłych. Bohater uczy się odpowiedzialności przez doświadczenia, także trudne, a popełnianie błędów staje się naturalną częścią dorastania.\n\nPinokio, który sam wybiera swoją drogę\n\nInterpretacja Joëla Pommerata odchodzi od obrazu „niegrzecznego” dziecka, które trzeba naprawić. Pokazuje młodego człowieka, który poznaje świat, konfrontuje się z dorosłymi i stopniowo nabiera odwagi, by samodzielnie podejmować decyzje.\n\nTo opowieść o dziecięcej podmiotowości, dojrzewaniu oraz uczeniu się troski o siebie i innych. Przypomina, że dorastanie nie polega na bezrefleksyjnym posłuszeństwie, lecz na odkrywaniu własnych wartości i braniu odpowiedzialności za wybory."
+          "title": "Pinokio [spektakl]",
+          "description": "Pinokio to nie tylko chłopiec, który musi nauczyć się odróżniać dobro od zła. W **nowej interpretacji** Joëla Pommerata bohater zyskuje prawo do błędów, własnych wyborów i samodzielnego odkrywania świata. To opowieść o dorastaniu, relacjach z dorosłymi i odwadze, by odnaleźć własną drogę.\n\nZnana historia w nowej odsłonie\n\nSpektakl inspirowany powieścią Carla Collodiego przedstawia Pinokia, który spotyka na swojej drodze zarówno osoby, które chcą go wykorzystać, jak i tych, którzy otaczają go miłością i troską. Wśród nich są poświęcający się dla niego ojciec oraz Wróżka, pomagająca mu odnaleźć właściwy kierunek.\n\nW tej wersji historii dobro nie wynika z lęku przed karą ani potrzeby spełniania oczekiwań dorosłych. Bohater uczy się odpowiedzialności przez doświadczenia, także te trudne, a popełnianie błędów staje się naturalną częścią dorastania.\n\nPinokio, który sam wybiera swoją drogę\n\nInterpretacja Joëla Pommerata odchodzi od obrazu „niegrzecznego” dziecka, które trzeba naprawić. Zamiast tego **pokazuje młodego człowieka, który poznaje świat**, konfrontuje się z dorosłymi i stopniowo nabiera odwagi, by samodzielnie podejmować decyzje.\n\n**To opowieść o dziecięcej podmiotowości, dojrzewaniu i uczeniu się troski o siebie oraz innych**. Przypomina, że dorastanie nie polega na bezrefleksyjnym posłuszeństwie, lecz na odkrywaniu własnych wartości i braniu odpowiedzialności za swoje wybory.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
         },
         "en": {
-          "title": "Pinocchio – a play",
-          "description": "Pinocchio is not just a boy who must learn to distinguish between good and evil. In Joël Pommerat's new interpretation, the hero gains the right to make mistakes, to make his own choices, and to discover the world independently. It is a story about growing up, relationships with adults, and the courage to find one's own path.\n\nA well-known story in a new rendition\n\nThe play inspired by Carlo Collodi's novel presents Pinocchio, who encounters both those wanting to exploit him and those who surround him with love and care. Among them are his self-sacrificing father and the Fairy, who helps him find the right direction.\n\nIn this version, good does not stem from fear of punishment or the need to meet adult expectations. The hero learns responsibility through experiences, including difficult ones, and making mistakes is a part of his journey."
+          "title": "Pinocchio [performance]",
+          "description": "Pinocchio is not just a boy who must learn to distinguish between good and evil. In **a new interpretation** by Joël Pommerat, the hero gains the right to make mistakes, to make his own choices, and to discover the world independently. It is a story about growing up, relationships with adults, and the courage to find one's own path.\n\nA well-known story in a new version\n\nThe performance inspired by Carlo Collodi's novel presents Pinocchio, who encounters both those who want to exploit him and those who surround him with love and care. Among them are his self-sacrificing father and the Fairy, who helps him find the right direction.\n\nIn this version of the story, good does not stem from fear of punishment or the need to meet adult expectations. The hero learns responsibility through experiences, including the difficult ones, and the pop"
         },
         "uk": {
-          "title": "Пінокіо – спектакль",
-          "description": "Пінокіо – це не лише хлопчик, який мусить навчитися відрізняти добро від зла. У новій інтерпретації Жоеля Померата герой отримує право на помилки, власні вибори та самостійне відкриття світу. Це оповідь про дорослішання, стосунки з дорослими та відвагу знайти свій шлях.\n\nВідома історія в новій інтерпретації\n\nСпектакль, натхненний романом Карла Коллоді, представляє Пінокіо, який зустрічає на своєму шляху як людей, що хочуть його використати, так і тих, хто оточує його любов'ю та турботою. Серед них є батько, який жертвує собою заради нього, та Фея, яка допомагає йому знайти правильний напрямок.\n\nУ цій версії добро не виникає зі страху перед покаранням або з потреби задовольняти очікування дорослих. Герой вчиться відповідальності через досвід, також і складний, а помилки стають"
+          "title": "Пінокіо [спектакль]",
+          "description": "Пінокіо — це не лише хлопчик, який мусить навчитися відрізняти добро від зла. У **новій інтерпретації** Жоеля Померата герой отримує право на помилки, власні вибори та самостійне відкриття світу. Це оповідь про дорослішання, стосунки з дорослими та відвагу знайти свій шлях.\n\nВідома історія в новій версії\n\nСпектакль, натхненний романом Карло Коллоді, представляє Пінокіо, який зустрічає на своєму шляху як людей, які хочуть його використати, так і тих, хто оточує його любов'ю та турботою. Серед них є батько, який жертвує собою заради нього, та Фея, яка допомагає йому знайти правильний шлях.\n\nУ цій версії історії добро не виникає зі страху перед покаранням чи потреби відповідати очікуванням дорослих. Герой вчиться відповідальності через досвід, також і через складні."
         }
       },
       "admission": {
         "is_free": false
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-10-16T11:14:15.102989+00:00"
+      "updated_at": "2026-10-17T10:39:02.409827+00:00"
     },
     "warsztaty-dla-dzieci-ma-y-geolog-na-tropie-dinozaur-w-i-minera-w-2026-10-18T10:00:00+02:00": {
       "title": "Warsztaty dla dzieci. Mały geolog: na tropie dinozaurów i minerałów.",
@@ -7041,6 +7043,810 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-10-16T11:14:15.103041+00:00"
+    },
+    "wroc-aw-w-pigu-ce-spacer-szlakiem-najpi-kniejszych-zak-tk-w-miasta-2026-10-24T11:00:00+02:00": {
+      "title": "„Wrocław w pigułce“ – spacer szlakiem najpiękniejszych zakątków miasta",
+      "date": "2026-10-24T11:00:00+02:00",
+      "end_date": "2026-10-24T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Czy chciałbyś trochę poznać stolicę Dolnego Śląska? Zwiedzaj Wrocław z licencjonowanym przewodnikiem!\n\n**Spacer szlakiem najpiękniejszych miejsc we Wrocławiu**: Rynek, Uniwersytet Wrocławski, Ostrów Tumski i Promenada nad Odrą. Najciekawszy szlak widokowy miasta. I mnóstwo niesamowitych opowieści!\n\nZobaczysz Wrocław od jego najpiękniejszej strony. Największy średniowieczny Ratusz w Polsce, słynne Organy Englera w Bazylice Św. Elżbiety i perłę w koronie – Uniwersytet Wrocławski a także matkę wrocławskich kościołów – Archikatedrę Św. Jana Chrzciciela. A do tego fenomenalny widok na Ostrów Tumski od strony Promenady Staromiejskiej i przystani parostatków. Wystarczą 2 godziny, aby zobaczyć te największe perełki Wrocławia.\n\nWycieczka z prawdziwym pasjonatem, licencjonowanym profesjonalistą, który opowie Ci o mieście, jego historii, zagadkach i tajemnicach w prosty i przystępny sposób, także z dużą dawką dobrego humoru!\n\nJesteś gotów na taką wycieczkę? Zapraszamy! I dorosłych i dzieci.\n\nKażda sobota o godz. 11.00!\n\nKoszt wycieczki\n\n• 30 zł/os. (dzieci do lat 14)\n\n• 40 zł/os. (dorośli)\n\nPłatność gotówką na miejscu lub on-line Evently: kliknij tutaj, aby kupić bilet.\n\nSzczegóły\n\n• **Start**: Przy Starym Ratuszu na Rynku, przy niedźwiadku malajskim\n\n• Wymagana **rezerwacja** pod nr tel.: **513 946 946** (wyślij SMS lub WhatsApp – a otrzymasz potwierdzenie!)\n\nZapraszamy w każdy weekend! Liczba miejsc ograniczona.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-129a4753ac1100023ecc226437b64ea8/wroclaw-city-guide.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1396280-wroclaw-w-pigulce-spacer-szlakiem-najpiekniejszych-zakatkow-miasta",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Rynek we Wrocławiu Rynek, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1396280-wroclaw-w-pigulce-spacer-szlakiem-najpiekniejszych-zakatkow-miasta",
+      "scrapped_timestamp": "2026-10-17T10:37:07.424279+00:00",
+      "category": "Field Trips",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "„Wrocław w pigułce“ – spacer szlakiem najpiękniejszych zakątków miasta",
+          "description": "Czy chciałbyś trochę poznać stolicę Dolnego Śląska? Zwiedzaj Wrocław z licencjonowanym przewodnikiem!\n\n**Spacer szlakiem najpiękniejszych miejsc we Wrocławiu**: Rynek, Uniwersytet Wrocławski, Ostrów Tumski i Promenada nad Odrą. Najciekawszy szlak widokowy miasta. I mnóstwo niesamowitych opowieści!\n\nZobaczysz Wrocław od jego najpiękniejszej strony. Największy średniowieczny Ratusz w Polsce, słynne Organy Englera w Bazylice Św. Elżbiety i perłę w koronie – Uniwersytet Wrocławski a także matkę wrocławskich kościołów – Archikatedrę Św. Jana Chrzciciela. A do tego fenomenalny widok na Ostrów Tumski od strony Promenady Staromiejskiej i przystani parostatków. Wystarczą 2 godziny, aby zobaczyć te największe perełki Wrocławia.\n\nWycieczka z prawdziwym pasjonatem, licencjonowanym profesjonalistą, który opowie Ci o mieście, jego historii, zagadkach i tajemnicach w prosty i przystępny sposób, także z dużą dawką dobrego humoru!\n\nJesteś gotów na taką wycieczkę? Zapraszamy! I dorosłych i dzieci.\n\nKażda sobota o godz. 11.00!\n\nKoszt wycieczki\n\n• 30 zł/os. (dzieci do lat 14)\n\n• 40 zł/os. (dorośli)\n\nPłatność gotówką na miejscu lub on-line Evently: kliknij tutaj, aby kupić bilet.\n\nSzczegóły\n\n• **Start**: Przy Starym Ratuszu na Rynku, przy niedźwiadku malajskim\n\n• Wymagana **rezerwacja** pod nr tel.: **513 946 946** (wyślij SMS lub WhatsApp – a otrzymasz potwierdzenie!)\n\nZapraszamy w każdy weekend! Liczba miejsc ograniczona.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "\"Wrocław in a Nutshell\" – a walk through the most beautiful corners of the city",
+          "description": "Would you like to get to know the capital of Lower Silesia a bit? Explore Wrocław with a licensed guide!\n\n**A walk through the most beautiful places in Wrocław**: Market Square, Wrocław University, Ostrów Tumski, and the Promenade by the Oder. The most interesting scenic route in the city. And plenty of amazing stories!\n\nYou will see Wrocław from its most beautiful side. The largest medieval Town Hall in Poland, the famous Engler Organ in St. Elizabeth's Basilica, and the crown jewel – Wrocław University, as well as the mother of Wrocław's churches – the Archcathedral of St. John the Baptist. Plus, a phenomenal view of Ostrów Tumski from the Old Town Promenade and the steamboat dock. Just 2 hours are enough to see these greatest gems of Wrocław.\n\nA tour with a true enthusiast, a licensed professional, who"
+        },
+        "uk": {
+          "title": "„Вроцлав у пігулці“ – прогулянка слідами найкрасивіших куточків міста",
+          "description": "Чи хотів би ти трохи познайомитися зі столицею Нижньої Сілезії? Відвідуй Вроцлав з ліцензованим гідом!\n\n**Прогулянка слідами найкрасивіших місць у Вроцлаві**: Ринок, Вроцлавський університет, Острів Тумський та Променад над Одером. Найцікавіший оглядовий маршрут міста. І безліч неймовірних історій!\n\nТи побачиш Вроцлав з його найкрасивішого боку. Найбільша середньовічна Ратуша в Польщі, знамениті Органи Енглера в Базиліці Св. Єлизавети та перлина в короні – Вроцлавський університет, а також матір вроцлавських церков – Архікатедра Св. Яна Хрестителя. А до того ж феноменальний вид на Острів Тумський з боку Променади Староміської та пристані пароплавів. Достатньо 2 години, щоб побачити ці найбільші перлинки Вроцлава.\n\nЕкскурсія з справжнім ентузіастом, ліцензованим професіоналом, котрий"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-17T10:39:02.409746+00:00"
+    },
+    "bezp-atne-weekendowe-warsztaty-dla-rodzin-z-dzie-mi-i-m-odzie-z-tw-rczego-dialogu-w-rodzinie-2026-10-17T00:00:00+02:00": {
+      "title": "Bezpłatne weekendowe warsztaty dla rodzin z dziećmi i młodzieżą z twórczego dialogu w rodzinie",
+      "date": "2026-10-17T00:00:00+02:00",
+      "end_date": "2026-10-17T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "Wspólne tworzenie, twórcza zabawa i przestrzeń na swobodne wyrażanie emocji – tak zapowiadają się bezpłatne zajęcia artystyczne organizowane w ramach projektu **„Świadoma Rodzina”**. Już 17 października Stowarzyszenie Żyć Inaczej zaprasza rodziców wraz z dziećmi i młodzieżą na spotkanie, które pozwoli spędzić czas razem, lepiej się poznać i zadbać o dobrostan rodziny poprzez kreatywne działania.\n\nSztuka, emocje i wspólnie spędzony czas\n\nZajęcia będą okazją do wspólnego tworzenia, zabawy i odkrywania różnych form artystycznego wyrazu. Uczestnicy zyskają przestrzeń do wyrażania emocji, budowania relacji i wzajemnego poznawania się w swobodnej atmosferze.\n\nNie trzeba mieć zdolności plastycznych ani wcześniejszego doświadczenia. Najważniejsze są otwartość, ciekawość i chęć wspólnego działania. To propozycja dla rodzin, które chcą rozwijać kreatywność, a przy okazji spędzić wartościowy czas razem.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** bezpłatne zajęcia artystyczne w ramach projektu „Świadoma Rodzina”\n\n• **Data:** sobota, 17 października 2026 r.\n\n• **Grupa 1:** 10:00–12:30\n\n• **Grupa 2:** 17:00–19:30\n\n• **Organizator:** Stowarzyszenie Żyć Inaczej\n\n• **Wstęp** **bezpłatny**\n\n• **Zapisy i kontakt:** Jagoda Błotny, SMS pod numerem 721 072 439\n\nZadanie publiczne współfinansowane przez Gminę Wrocław.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-b7a8bf39ac110002409c5ff63a9778c5/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417355-bezplatne-weekendowe-warsztaty-dla-rodzin-z-dziecmi-i-mlodzieza",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Stowarzyszenie „Żyć Inaczej” Kamieńskiego 10b, Wrocław",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417355-bezplatne-weekendowe-warsztaty-dla-rodzin-z-dziecmi-i-mlodzieza",
+      "scrapped_timestamp": "2026-10-17T10:37:12.894134+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne weekendowe warsztaty dla rodzin z dziećmi i młodzieżą z twórczego dialogu w rodzinie",
+          "description": "Wspólne tworzenie, twórcza zabawa i przestrzeń na swobodne wyrażanie emocji – tak zapowiadają się bezpłatne zajęcia artystyczne organizowane w ramach projektu **„Świadoma Rodzina”**. Już 17 października Stowarzyszenie Żyć Inaczej zaprasza rodziców wraz z dziećmi i młodzieżą na spotkanie, które pozwoli spędzić czas razem, lepiej się poznać i zadbać o dobrostan rodziny poprzez kreatywne działania.\n\nSztuka, emocje i wspólnie spędzony czas\n\nZajęcia będą okazją do wspólnego tworzenia, zabawy i odkrywania różnych form artystycznego wyrazu. Uczestnicy zyskają przestrzeń do wyrażania emocji, budowania relacji i wzajemnego poznawania się w swobodnej atmosferze.\n\nNie trzeba mieć zdolności plastycznych ani wcześniejszego doświadczenia. Najważniejsze są otwartość, ciekawość i chęć wspólnego działania. To propozycja dla rodzin, które chcą rozwijać kreatywność, a przy okazji spędzić wartościowy czas razem.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** bezpłatne zajęcia artystyczne w ramach projektu „Świadoma Rodzina”\n\n• **Data:** sobota, 17 października 2026 r.\n\n• **Grupa 1:** 10:00–12:30\n\n• **Grupa 2:** 17:00–19:30\n\n• **Organizator:** Stowarzyszenie Żyć Inaczej\n\n• **Wstęp** **bezpłatny**\n\n• **Zapisy i kontakt:** Jagoda Błotny, SMS pod numerem 721 072 439\n\nZadanie publiczne współfinansowane przez Gminę Wrocław.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Free Weekend Workshops for Families with Children and Youth on Creative Dialogue in the Family",
+          "description": "Joint creation, creative play, and space for freely expressing emotions – this is what the free artistic activities organized as part of the **\"Conscious Family\"** project promise. On October 17, the Association Live Differently invites parents along with children and youth to a meeting that will allow them to spend time together, get to know each other better, and take care of the family's well-being through creative activities.\n\nArt, emotions, and time spent together\n\nThe activities will be an opportunity for joint creation, play, and discovering various forms of artistic expression. Participants will gain space to express emotions, build relationships, and get to know each other in a relaxed atmosphere.\n\nNo artistic skills or prior experience are required. The most important things are openness, curiosity, and the willingness to act together."
+        },
+        "uk": {
+          "title": "Безкоштовні вихідні майстер-класи для сімей з дітьми та молоддю з творчого діалогу в родині",
+          "description": "Спільне створення, творча гра та простір для вільного вираження емоцій – так анонсуються безкоштовні художні заняття, організовані в рамках проекту **„Свідома Сім'я”**. Вже 17 жовтня Товариство Жити Інакше запрошує батьків разом з дітьми та молоддю на зустріч, яка дозволить провести час разом, краще пізнати один одного та подбати про добробут родини через креативні дії.\n\nМистецтво, емоції та спільно проведений час\n\nЗаняття будуть можливістю для спільного створення, гри та відкриття різних форм художнього вираження. Учасники отримають простір для вираження емоцій, побудови стосунків та взаємного пізнання в невимушеній атмосфері.\n\nНе потрібно мати художніх здібностей або попереднього досвіду. Найважливіші – відкритість, цікавість та бажання спільної діяльності."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-17T10:39:02.409775+00:00"
+    },
+    "pucio-na-wsi-spektakl-dla-dzieci-2026-10-17T12:30:00+02:00": {
+      "title": "Pucio na wsi [spektakl dla dzieci]",
+      "date": "2026-10-17T12:30:00+02:00",
+      "end_date": "2026-10-17T12:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Premierowy spektakl teatralny z Puciem, z okazji 10-lecia postaci – pierwsze sceniczne przedstawienie tego bohatera.\n\n• **Grupa docelowa:** dzieci 2–6 lat\n\n• **Czas trwania:** ok. 50 minut\n\n• **Godziny spektakli:** 10:00, 12:30, 15:00\n\n**Fabuła:** Pucio wyrusza na wieś, gdzie poznaje zwierzęta i codzienne przygody w otoczeniu natury – gospodarstwo, podwórko ze zwierzętami, pracownię ceramiczną i przygotowania do wiejskiego festynu. Spektakl łączy teatr lalek z grą aktorską, wzbogacony autorską muzyką dla dzieci.",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-af9653d1ac11000268cbec88a5197bad/675496433-122102618354740422-8497236011348210425-n.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1416064-pucio-na-wsi-spektakl-dla-dzieci",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Centrum Kultury Nowy Pafawag Chociebuska 4-6, Wrocław 54-433",
+        "district": "Fabryczna"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1416064-pucio-na-wsi-spektakl-dla-dzieci",
+      "scrapped_timestamp": "2026-10-17T10:37:18.309421+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 2,
+        "max": 6
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Pucio na wsi [spektakl dla dzieci]",
+          "description": "Premierowy spektakl teatralny z Puciem, z okazji 10-lecia postaci – pierwsze sceniczne przedstawienie tego bohatera.\n\n• **Grupa docelowa:** dzieci 2–6 lat\n\n• **Czas trwania:** ok. 50 minut\n\n• **Godziny spektakli:** 10:00, 12:30, 15:00\n\n**Fabuła:** Pucio wyrusza na wieś, gdzie poznaje zwierzęta i codzienne przygody w otoczeniu natury – gospodarstwo, podwórko ze zwierzętami, pracownię ceramiczną i przygotowania do wiejskiego festynu. Spektakl łączy teatr lalek z grą aktorską, wzbogacony autorską muzyką dla dzieci."
+        },
+        "en": {
+          "title": "Pucio in the Countryside [a show for children]",
+          "description": "Premiere theatrical performance with Pucio, on the occasion of the 10th anniversary of the character – the first stage presentation of this hero.\n\n• **Target audience:** children aged 2–6\n\n• **Duration:** approx. 50 minutes\n\n• **Show times:** 10:00, 12:30, 15:00\n\n**Plot:** Pucio goes to the countryside, where he meets animals and experiences daily adventures in a natural setting – a farm, a yard with animals, a pottery workshop, and preparations for a village festival. The show combines puppet theater with acting, enriched with original music for children."
+        },
+        "uk": {
+          "title": "Пуціо на селі [спектакль для дітей]",
+          "description": "Прем'єрний театральний спектакль з Пучем, з нагоди 10-річчя персонажа – перше сценічне представлення цього героя.\n\n• **Цільова група:** діти 2–6 років\n\n• **Тривалість:** близько 50 хвилин\n\n• **Час спектаклів:** 10:00, 12:30, 15:00\n\n**Сюжет:** Пуціо вирушає на село, де знайомиться з тваринами та щоденними пригодами в оточенні природи – господарство, подвір'я з тваринами, керамічна майстерня та підготовка до сільського фестивалю. Спектакль поєднує театр ляльок з акторською грою, збагачений авторською музикою для дітей."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-10-17T10:39:02.409794+00:00"
+    },
+    "misiaczek-spektakl-dla-dzieci-2026-10-17T13:00:00+02:00": {
+      "title": "Misiaczek [spektakl dla dzieci]",
+      "date": "2026-10-17T13:00:00+02:00",
+      "end_date": "2026-10-17T13:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Co zrobić, gdy sen nie przychodzi, a wszystkie znane sposoby zawodzą? Mały Misiaczek przekonuje się, że nawet kołysanie, mleko z miodem i liczenie owiec nie zawsze pomagają zasnąć. Na szczęście leśni przyjaciele mają jeszcze kilka pomysłów! „Misiaczek” Marty Guśniowskiej to pełna ciepła i humoru opowieść dla najmłodszych widzów.\n\nTeatr lalek blisko dzieci\n\nKameralny spektakl w wykonaniu trzech aktorek powstał z myślą o dzieciach w wieku od 3 do 6 lat. Przedstawienie nawiązuje do klasycznego teatru lalek, a dzięki bliskiemu kontaktowi i interakcji z publicznością zaprasza małych widzów do wspólnego przeżywania historii. Twórcy czerpali również z teatru najnajowego, stawiającego na zmysłowe doświadczenia i bezpośrednie spotkanie z teatrem.\n\nLeśna opowieść z ekologicznym przesłaniem\n\nLas jest w „Misiaczku” nie tylko tłem wydarzeń, ale także domem bohaterów. Ich przygody w subtelny sposób uczą dzieci szacunku do przyrody i podpowiadają, jak o nią dbać. **Ekologiczne podejście** widać również w realizacji spektaklu: lalki i większość scenografii powstały z materiałów z odzysku, m.in. z tkanin teatralnych i ubrań z drugiej ręki. Zrezygnowano także z drukowania programu.\n\nTo propozycja dla rodzin, które chcą pokazać dzieciom, że teatr może być jednocześnie pełen magii, bliskości i troski o otaczający nas świat.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-a62a4425ac11000243b81d282f9edd32/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1417179-spektakl-misiaczek",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocławski Teatr Lalek Pl. Teatralny 4, Wrocław 50-051",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1417179-spektakl-misiaczek",
+      "scrapped_timestamp": "2026-10-17T10:37:22.849610+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 6
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Misiaczek [spektakl dla dzieci]",
+          "description": "Co zrobić, gdy sen nie przychodzi, a wszystkie znane sposoby zawodzą? Mały Misiaczek przekonuje się, że nawet kołysanie, mleko z miodem i liczenie owiec nie zawsze pomagają zasnąć. Na szczęście leśni przyjaciele mają jeszcze kilka pomysłów! „Misiaczek” Marty Guśniowskiej to pełna ciepła i humoru opowieść dla najmłodszych widzów.\n\nTeatr lalek blisko dzieci\n\nKameralny spektakl w wykonaniu trzech aktorek powstał z myślą o dzieciach w wieku od 3 do 6 lat. Przedstawienie nawiązuje do klasycznego teatru lalek, a dzięki bliskiemu kontaktowi i interakcji z publicznością zaprasza małych widzów do wspólnego przeżywania historii. Twórcy czerpali również z teatru najnajowego, stawiającego na zmysłowe doświadczenia i bezpośrednie spotkanie z teatrem.\n\nLeśna opowieść z ekologicznym przesłaniem\n\nLas jest w „Misiaczku” nie tylko tłem wydarzeń, ale także domem bohaterów. Ich przygody w subtelny sposób uczą dzieci szacunku do przyrody i podpowiadają, jak o nią dbać. **Ekologiczne podejście** widać również w realizacji spektaklu: lalki i większość scenografii powstały z materiałów z odzysku, m.in. z tkanin teatralnych i ubrań z drugiej ręki. Zrezygnowano także z drukowania programu.\n\nTo propozycja dla rodzin, które chcą pokazać dzieciom, że teatr może być jednocześnie pełen magii, bliskości i troski o otaczający nas świat.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Little Bear [a show for children]",
+          "description": "What to do when sleep doesn't come, and all known methods fail? Little Bear discovers that even rocking, milk with honey, and counting sheep don't always help him fall asleep. Fortunately, his forest friends have a few more ideas! \"Little Bear\" by Marta Guśniowska is a warm and humorous tale for the youngest viewers.\n\nPuppet theater close to children\n\nThe intimate performance by three actresses was created with children aged 3 to 6 in mind. The show refers to classical puppet theater, and thanks to close contact and interaction with the audience, it invites young viewers to experience the story together. The creators also drew from the najnaj theater, which focuses on sensory experiences and direct encounters with theater.\n\nA forest tale with an ecological message\n\nThe forest is"
+        },
+        "uk": {
+          "title": "Місічок [спектакль для дітей]",
+          "description": "Що робити, коли сон не приходить, а всі відомі способи підводять? Маленький Місічок переконується, що навіть колисання, молоко з медом і рахування овець не завжди допомагають заснути. На щастя, лісові друзі мають ще кілька ідей! \"Місічок\" Марти Гушнівської — це сповнена тепла і гумору історія для найменших глядачів.\n\nТеатр ляльок близько до дітей\n\nКамерний спектакль у виконанні трьох акторок створений з думкою про дітей віком від 3 до 6 років. Вистава звертається до класичного театру ляльок, а завдяки близькому контакту та взаємодії з публікою запрошує маленьких глядачів до спільного переживання історії. Творці також черпали натхнення з театру найнайового, що ставить акцент на чуттєвих переживаннях і безпосередній зустрічі з театром.\n\nЛісова історія з екологічним посланням\n\nЛіс є"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-17T10:39:02.409812+00:00"
+    },
+    "mosty-i-wyspy-wroc-awia-spacer-z-przewodnikiem-walkative-2026-10-17T16:30:00+02:00": {
+      "title": "Mosty i wyspy Wrocławia – spacer z przewodnikiem Walkative!",
+      "date": "2026-10-17T16:30:00+02:00",
+      "end_date": "2026-10-17T16:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Niektórzy nazywają Wrocław „Wenecją Północy” gdyż przepływająca przezeń Odra tworzy tu ponad 21 malowniczych wysp, a mieszkańcy przez wieki zbudowali na rzece ponad 100 mostów.\n\nZapraszamy na wieczorny spacer wzdłuż Odry i jej przepięknie iluminowanych brzegów. Przejdziemy przez najbardziej malownicze zakątki miasta, będziemy także świadkami niezwykłego wydarzenia – rytuału zapalania starych ulicznych lamp, który nie zmienił się od setek lat. Zanurz się z nami w bajkową atmosferę wieczornego Wrocławia i posłuchaj historii o tym jak natura przez wieki kształtowała miasto i jego losy. Dowiedz się o największej powodzi w jego historii, która miała miejsce zaledwie dwie dekady temu. Podziwiaj z nami odwagę wrocławian, którzy stanęli w obronie miasta i dzięki temu nauczyli się je kochać, wielu po raz pierwszy od zakończenia II wojny światowej.\n\nZapraszamy na wycieczkę Mosty Wrocławia – według wielu naszych gości jest to jeden z najpiękniejszych i najbardziej romantycznych spacerów na jakie możesz się wybrać w Europie!\n\nWycieczki możecie zarezerwować on-line tutaj.\n\nInformacje dodatkowe: +48 513 875 814\n\nSpotykamy się przy pomniku Aleksandra Fredry na Rynku Głównym, obok wejścia na wieżę ratuszową. Szukajcie przewodnika z żółtym parasolem.\n\nPamiętajcie, że rezerwacja jest obowiązkowa. Ustaliliśmy limit wielkości grup, także spieszcie się i rezerwujcie! Wycieczki działają w naszej formule „płacisz, ile uważasz za stosowne” – to wyłącznie Wy decydujecie jak wynagrodzić przewodnika za jego pracę. Wysokość kwoty jest dowolna. Możecie jednak pomyśleć o wycieczce jak o wypadzie do kina. Przez około 2 godziny będziecie się dobrze bawić.\n\nNiech kwota odzwierciedla cenę biletu – to, czy byliście w tanim kinie studyjnym czy w drogim multipleksie pozostawiamy już Waszej decyzji. Natomiast prosimy o nie jedzenie popcornu na wycieczce. Zapraszamy!\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=png/https://go.wroclaw.pl/api/download/img-bec21b59ac11000227c9972c7dec2671/mosty-i-wyspy-wroclawia-2.png",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1351403-mosty-i-wyspy-wroclawia-spacer-z-przewodnikiem-walkative",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Pomnik hr. Aleksandra Fredry Rynek 12-28, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1351403-mosty-i-wyspy-wroclawia-spacer-z-przewodnikiem-walkative",
+      "scrapped_timestamp": "2026-10-17T10:37:33.026437+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Nature & Wildlife"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Mosty i wyspy Wrocławia – spacer z przewodnikiem Walkative!",
+          "description": "Niektórzy nazywają Wrocław „Wenecją Północy” gdyż przepływająca przezeń Odra tworzy tu ponad 21 malowniczych wysp, a mieszkańcy przez wieki zbudowali na rzece ponad 100 mostów.\n\nZapraszamy na wieczorny spacer wzdłuż Odry i jej przepięknie iluminowanych brzegów. Przejdziemy przez najbardziej malownicze zakątki miasta, będziemy także świadkami niezwykłego wydarzenia – rytuału zapalania starych ulicznych lamp, który nie zmienił się od setek lat. Zanurz się z nami w bajkową atmosferę wieczornego Wrocławia i posłuchaj historii o tym jak natura przez wieki kształtowała miasto i jego losy. Dowiedz się o największej powodzi w jego historii, która miała miejsce zaledwie dwie dekady temu. Podziwiaj z nami odwagę wrocławian, którzy stanęli w obronie miasta i dzięki temu nauczyli się je kochać, wielu po raz pierwszy od zakończenia II wojny światowej.\n\nZapraszamy na wycieczkę Mosty Wrocławia – według wielu naszych gości jest to jeden z najpiękniejszych i najbardziej romantycznych spacerów na jakie możesz się wybrać w Europie!\n\nWycieczki możecie zarezerwować on-line tutaj.\n\nInformacje dodatkowe: +48 513 875 814\n\nSpotykamy się przy pomniku Aleksandra Fredry na Rynku Głównym, obok wejścia na wieżę ratuszową. Szukajcie przewodnika z żółtym parasolem.\n\nPamiętajcie, że rezerwacja jest obowiązkowa. Ustaliliśmy limit wielkości grup, także spieszcie się i rezerwujcie! Wycieczki działają w naszej formule „płacisz, ile uważasz za stosowne” – to wyłącznie Wy decydujecie jak wynagrodzić przewodnika za jego pracę. Wysokość kwoty jest dowolna. Możecie jednak pomyśleć o wycieczce jak o wypadzie do kina. Przez około 2 godziny będziecie się dobrze bawić.\n\nNiech kwota odzwierciedla cenę biletu – to, czy byliście w tanim kinie studyjnym czy w drogim multipleksie pozostawiamy już Waszej decyzji. Natomiast prosimy o nie jedzenie popcornu na wycieczce. Zapraszamy!\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Bridges and Islands of Wrocław – Guided Walk with Walkative!",
+          "description": "Some call Wrocław the \"Venice of the North\" as the Odra River flowing through it creates over 21 picturesque islands, and residents have built more than 100 bridges over the river throughout the centuries.\n\nJoin us for an evening walk along the Odra and its beautifully illuminated banks. We will pass through the most picturesque corners of the city, and we will also witness an extraordinary event – the ritual of lighting old street lamps, which has remained unchanged for hundreds of years. Immerse yourself with us in the fairy-tale atmosphere of evening Wrocław and listen to stories about how nature has shaped the city and its fate over the centuries. Learn about the greatest flood in its history, which occurred just two decades ago. Admire with us the courage of the people of Wrocław, who stood up to defend the city and, as a result, learned to love it."
+        },
+        "uk": {
+          "title": "Мости та острови Вроцлава – прогулянка з гідом Walkative!",
+          "description": "Дехто називає Вроцлав «Венецією Півночі», оскільки річка Одер, що протікає через місто, утворює тут понад 21 мальовничий острів, а мешканці протягом століть збудували на річці понад 100 мостів.\n\nЗапрошуємо на вечірню прогулянку вздовж Одри та її прекрасно освітлених берегів. Пройдемо через наймальовничіші куточки міста, будемо також свідками незвичайної події – ритуалу запалювання старих вуличних ламп, який не змінився протягом сотень років. Пориньте з нами в казкову атмосферу вечірнього Вроцлава та послухайте історії про те, як природа протягом століть формувала місто та його долю. Дізнайтеся про найбільшу повінь в його історії, яка сталася всього лише два десятиліття тому. Захоплюйтеся разом з нами відвагою вроцлавців, які стали на захист міста і завдяки цьому навчилися його любити, багато"
+        }
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-17T10:39:02.409852+00:00"
+    },
+    "wratislavia-card-con-2026-10-17T18:10:00+02:00": {
+      "title": "Wratislavia Card Con",
+      "date": "2026-10-17T18:10:00+02:00",
+      "end_date": "2026-10-17T18:10:00+02:00",
+      "startTimeKnown": true,
+      "description": "Fani gier karcianych, kolekcjonerzy i osoby, które dopiero chcą wejść do świata TCG, mają powód, by odwiedzić Wrocławskie Centrum Kongresowe! **Wratislavia Card Con 2026** odbędzie się 17–18 października przy Hali Stulecia. W programie znajdą się turnieje, spotkania społeczności i atrakcje związane z popularnymi grami karcianymi. Co ważne, **wstęp na samo wydarzenie jest bezpłatny** – płatne są jedynie wybrane turnieje.\n\nPokémon, Riftbound i Magic: The Gathering\n\nPodczas Wratislavia Card Con spotkają się miłośnicy trzech popularnych uniwersów: **Pokémon TCG, Riftbound oraz Magic: The Gathering**. Na uczestników czekają rozgrywki turniejowe, okazja do poznania innych graczy i możliwość sprawdzenia swoich umiejętności przy karcianym stole.\n\nW programie zaplanowano między innymi **Pokémon League Cup w sobotę**, niedzielny **Pokémon League Challenge**, turnieje **Riftbound** oraz **Pauper Open**. Osoby, które dopiero poznają zasady gry, będą mogły odwiedzić strefę **Pokémon Learn to Play** i rozpocząć swoją przygodę z kartami bez konieczności natychmiastowego udziału w rywalizacji.\n\nBezpłatne wejście, płatne turnieje\n\nWarto pamiętać o różnicy między wejściem na wydarzenie a udziałem w konkretnych rozgrywkach. Aby odwiedzić Wratislavia Card Con, obejrzeć turnieje i spędzić czas wśród fanów gier karcianych, nie trzeba kupować biletu.\n\nOsoby planujące start w turniejach muszą natomiast wykupić osobny bilet na wybraną imprezę. Według przedstawionych informacji ceny turniejowych wejściówek wynoszą od **49 do 199 zł**. Przed zakupem warto sprawdzić godzinę rozpoczęcia rozgrywek, limit miejsc oraz zasady i pulę nagród danego turnieju.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** Wratislavia Card Con 2026\n\n• **Kiedy:** 17–18 października 2026 r. (sobota i niedziela)\n\n• **Godziny:** 10:00–21:00 w oba dni\n\n• **Gdzie:** Wrocławskie Centrum Kongresowe, ul. Wystawowa 1, Wrocław\n\n• **Wstęp na wydarzenie:** **bezpłatny**\n\n• **Wstęp na turnieje** wymagają osobnych biletów\n\n• **Ceny wybranych turniejów:** od 49 do 199 zł",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-aa59362dac11000217a06fa2447bddd3/wratislavia-card-con-17-18-pazdziernika-wielkie-wydarzenie-tcg-we-wroclawiu.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417426-wratislavia-card-con",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocławskie Centrum Kongresowe Wystawowa 1, Wrocław 51-618",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417426-wratislavia-card-con",
+      "scrapped_timestamp": "2026-10-17T10:37:38.894827+00:00",
+      "category": "Games",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Wratislavia Card Con",
+          "description": "Fani gier karcianych, kolekcjonerzy i osoby, które dopiero chcą wejść do świata TCG, mają powód, by odwiedzić Wrocławskie Centrum Kongresowe! **Wratislavia Card Con 2026** odbędzie się 17–18 października przy Hali Stulecia. W programie znajdą się turnieje, spotkania społeczności i atrakcje związane z popularnymi grami karcianymi. Co ważne, **wstęp na samo wydarzenie jest bezpłatny** – płatne są jedynie wybrane turnieje.\n\nPokémon, Riftbound i Magic: The Gathering\n\nPodczas Wratislavia Card Con spotkają się miłośnicy trzech popularnych uniwersów: **Pokémon TCG, Riftbound oraz Magic: The Gathering**. Na uczestników czekają rozgrywki turniejowe, okazja do poznania innych graczy i możliwość sprawdzenia swoich umiejętności przy karcianym stole.\n\nW programie zaplanowano między innymi **Pokémon League Cup w sobotę**, niedzielny **Pokémon League Challenge**, turnieje **Riftbound** oraz **Pauper Open**. Osoby, które dopiero poznają zasady gry, będą mogły odwiedzić strefę **Pokémon Learn to Play** i rozpocząć swoją przygodę z kartami bez konieczności natychmiastowego udziału w rywalizacji.\n\nBezpłatne wejście, płatne turnieje\n\nWarto pamiętać o różnicy między wejściem na wydarzenie a udziałem w konkretnych rozgrywkach. Aby odwiedzić Wratislavia Card Con, obejrzeć turnieje i spędzić czas wśród fanów gier karcianych, nie trzeba kupować biletu.\n\nOsoby planujące start w turniejach muszą natomiast wykupić osobny bilet na wybraną imprezę. Według przedstawionych informacji ceny turniejowych wejściówek wynoszą od **49 do 199 zł**. Przed zakupem warto sprawdzić godzinę rozpoczęcia rozgrywek, limit miejsc oraz zasady i pulę nagród danego turnieju.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** Wratislavia Card Con 2026\n\n• **Kiedy:** 17–18 października 2026 r. (sobota i niedziela)\n\n• **Godziny:** 10:00–21:00 w oba dni\n\n• **Gdzie:** Wrocławskie Centrum Kongresowe, ul. Wystawowa 1, Wrocław\n\n• **Wstęp na wydarzenie:** **bezpłatny**\n\n• **Wstęp na turnieje** wymagają osobnych biletów\n\n• **Ceny wybranych turniejów:** od 49 do 199 zł"
+        },
+        "en": {
+          "title": "Wratislavia Card Con",
+          "description": "Card game fans, collectors, and those who want to enter the world of TCG have a reason to visit the Wrocław Congress Center! **Wratislavia Card Con 2026** will take place on October 17–18 at the Centennial Hall. The program will include tournaments, community meetings, and attractions related to popular card games. Importantly, **entry to the event itself is free** – only selected tournaments are paid.\n\nPokémon, Riftbound, and Magic: The Gathering\n\nDuring Wratislavia Card Con, enthusiasts of three popular universes will meet: **Pokémon TCG, Riftbound, and Magic: The Gathering**. Participants can look forward to tournament matches, the opportunity to meet other players, and the chance to test their skills at the card table.\n\nThe program includes, among other things, **Pokémon Lea"
+        },
+        "uk": {
+          "title": "Wratislavia Card Con",
+          "description": "Фани ігор карткових, колекціонери та особи, які тільки хочуть увійти до світу TCG, мають причину відвідати Вроцлавське Центр Конгресове! **Wratislavia Card Con 2026** відбудеться 17–18 жовтня при Халі Стулеця. У програмі знайдуться турніри, зустрічі спільноти та атракції, пов'язані з популярними іграми картковими. Що важливо, **вхід на саме подію безкоштовний** – платні лише вибрані турніри.\n\nPokémon, Riftbound і Magic: The Gathering\n\nПід час Wratislavia Card Con зустрінуться любителі трьох популярних універсів: **Pokémon TCG, Riftbound та Magic: The Gathering**. На учасників чекають ігри турнірні, можливість познайомитися з іншими гравцями та можливість перевірити свої навички за картковим столом.\n\nУ програмі заплановано, зокрема, **Pokémon Lea"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-17T10:39:02.409870+00:00"
+    },
+    "premiera-specjalna-wroc-awskie-opowie-ci-z-dreszczykiem-nie-oczywisty-spacer-z-przewodnikiem-2026-10-31T10:00:00+01:00": {
+      "title": "PREMIERA SPECJALNA! Wrocławskie opowieści z dreszczykiem - (Nie)oczywisty spacer z przewodnikiem",
+      "date": "2026-10-31T10:00:00+01:00",
+      "end_date": "2026-10-31T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Mroczne legendy, tajemnicze duchy, wiedźmy i historie, od których przechodzą ciarki – tak zapowiada się halloweenowy spacer po Wrocławiu! **31 października** miłośnicy miejskich tajemnic wyruszą na wyjątkową wyprawę szlakiem opowieści z dreszczykiem. Organizatorzy nie zdradzają trasy ani czasu trwania wydarzenia, a szczegóły pozostaną tajemnicą aż do samego startu. Jedno jest pewne: nie zabraknie niespodzianek, nagród i atmosfery rodem z mrocznej legendy.\n\nWrocław od mrocznej strony\n\nTo nie będzie zwykły spacer po mieście. Uczestnicy poznają historie związane z **mrocznymi legendami, zbrodniami, krwawymi buntami, duchami i wiedźmami**. Halloweenowy termin ma dodatkowo podkreślić niezwykły charakter wyprawy, podczas której dobrze znane ulice mogą odsłonić zupełnie inne, tajemnicze oblicze.\n\nOrganizatorzy celowo nie ujawniają szczegółów trasy ani atrakcji czekających po drodze. Nie wiadomo nawet, jak długo potrwa spacer. Z okazji zakończenia tegorocznego sezonu spacerowego przygotowano natomiast niespodzianki i nagrody. Warto więc przygotować się na odrobinę grozy, szczyptę humoru i solidną dawkę emocji.\n\nHalloweenowy spacer z tajemnicą\n\nWyjątkowa edycja spaceru odbędzie się tylko raz, a liczba dostępnych miejsc może być ograniczona. **Obowiązują zapisy**, najlepiej przez formularz zgłoszeniowy. Po przesłaniu zgłoszenia organizatorzy skontaktują się mailowo w ciągu trzech dni roboczych, aby potwierdzić jego status.\n\nZgłoszenie można wysłać również telefonicznie lub mailowo. Osoby, które nie otrzymają potwierdzenia, nadal mogą spróbować dołączyć do wydarzenia – wystarczy przyjść na miejsce zbiórki i zapytać o wolne miejsca.\n\nInformacje organizacyjne\n\n• **Kiedy:** sobota, 31 października 2026 r., godz. 10:00\n\n• **Miejsce zbiórki:** róg ul. Świdnickiej i Piłsudskiego, przy Arlekinie obok Teatru Capitol, Wrocław\n\n• **Zapisy:** formularz zgłoszeniowy – preferowana forma\n\n• **Telefon:** 693 145 674\n\n• **E-mail:** [email protected]\n\n**Opłaty za udział:**\n\n• Dzieci do 7. roku życia – bezpłatnie\n\n• Młodzież w wieku 7–18 lat – 20 zł za osobę\n\n• Osoby dorosłe – 30 zł za osobę\n\n• Osoby powyżej 60. roku życia – 20 zł za osobę\n\n**Płatność:** gotówką na miejscu zbiórki; możliwa również płatność BLIK na telefon.\n\nSzczegółowych informacji udziela Radosław Bednarski pod numerem 693 145 674 lub adresem [email protected].\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-8480c8acac1100024bed8521407fc87c/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1417412-premiera-specjalna-wroclawskie-opowiesci-z-dreszczykiem-halloween",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Arlekin przy Teatrze Muzycznym Capitol Piłsudskiego, Wrocław",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1417412-premiera-specjalna-wroclawskie-opowiesci-z-dreszczykiem-halloween",
+      "scrapped_timestamp": "2026-10-17T10:37:44.947884+00:00",
+      "category": "Outdoor Adventure",
+      "age_range": {
+        "min": 7,
+        "max": 18
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "PREMIERA SPECJALNA! Wrocławskie opowieści z dreszczykiem - (Nie)oczywisty spacer z przewodnikiem",
+          "description": "Mroczne legendy, tajemnicze duchy, wiedźmy i historie, od których przechodzą ciarki – tak zapowiada się halloweenowy spacer po Wrocławiu! **31 października** miłośnicy miejskich tajemnic wyruszą na wyjątkową wyprawę szlakiem opowieści z dreszczykiem. Organizatorzy nie zdradzają trasy ani czasu trwania wydarzenia, a szczegóły pozostaną tajemnicą aż do samego startu. Jedno jest pewne: nie zabraknie niespodzianek, nagród i atmosfery rodem z mrocznej legendy.\n\nWrocław od mrocznej strony\n\nTo nie będzie zwykły spacer po mieście. Uczestnicy poznają historie związane z **mrocznymi legendami, zbrodniami, krwawymi buntami, duchami i wiedźmami**. Halloweenowy termin ma dodatkowo podkreślić niezwykły charakter wyprawy, podczas której dobrze znane ulice mogą odsłonić zupełnie inne, tajemnicze oblicze.\n\nOrganizatorzy celowo nie ujawniają szczegółów trasy ani atrakcji czekających po drodze. Nie wiadomo nawet, jak długo potrwa spacer. Z okazji zakończenia tegorocznego sezonu spacerowego przygotowano natomiast niespodzianki i nagrody. Warto więc przygotować się na odrobinę grozy, szczyptę humoru i solidną dawkę emocji.\n\nHalloweenowy spacer z tajemnicą\n\nWyjątkowa edycja spaceru odbędzie się tylko raz, a liczba dostępnych miejsc może być ograniczona. **Obowiązują zapisy**, najlepiej przez formularz zgłoszeniowy. Po przesłaniu zgłoszenia organizatorzy skontaktują się mailowo w ciągu trzech dni roboczych, aby potwierdzić jego status.\n\nZgłoszenie można wysłać również telefonicznie lub mailowo. Osoby, które nie otrzymają potwierdzenia, nadal mogą spróbować dołączyć do wydarzenia – wystarczy przyjść na miejsce zbiórki i zapytać o wolne miejsca.\n\nInformacje organizacyjne\n\n• **Kiedy:** sobota, 31 października 2026 r., godz. 10:00\n\n• **Miejsce zbiórki:** róg ul. Świdnickiej i Piłsudskiego, przy Arlekinie obok Teatru Capitol, Wrocław\n\n• **Zapisy:** formularz zgłoszeniowy – preferowana forma\n\n• **Telefon:** 693 145 674\n\n• **E-mail:** [email protected]\n\n**Opłaty za udział:**\n\n• Dzieci do 7. roku życia – bezpłatnie\n\n• Młodzież w wieku 7–18 lat – 20 zł za osobę\n\n• Osoby dorosłe – 30 zł za osobę\n\n• Osoby powyżej 60. roku życia – 20 zł za osobę\n\n**Płatność:** gotówką na miejscu zbiórki; możliwa również płatność BLIK na telefon.\n\nSzczegółowych informacji udziela Radosław Bednarski pod numerem 693 145 674 lub adresem [email protected].\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "SPECIAL PREMIERE! Wrocław's Thrilling Tales - (Un)obvious Guided Walk",
+          "description": "Dark legends, mysterious ghosts, witches, and stories that send shivers down your spine – this is what the Halloween walk in Wrocław promises! **October 31st** enthusiasts of urban mysteries will embark on a unique expedition along the trail of thrilling tales. The organizers do not reveal the route or the duration of the event, and the details will remain a mystery until the very start. One thing is certain: there will be surprises, prizes, and an atmosphere straight out of a dark legend.\n\nWrocław from the dark side\n\nThis will not be an ordinary walk through the city. Participants will learn stories related to **dark legends, crimes, bloody uprisings, ghosts, and witches**. The Halloween timing will further emphasize the extraordinary nature of the expedition, during which well-known streets may reveal a completely different, mysterious face."
+        },
+        "uk": {
+          "title": "СПЕЦІАЛЬНА ПРЕМ'ЄРА! Вроцлавські історії з дрижаком - (Не)очевидна прогулянка з гідом",
+          "description": "Темні легенди, таємничі духи, відьми та історії, від яких йдуть мурашки – так анонсується хелловінська прогулянка по Вроцлаву! **31 жовтня** любителі міських таємниць вирушать на унікальну експедицію слідами історій з дрижаком. Організатори не розкривають маршруту та тривалості події, а деталі залишаться таємницею до самого старту. Одне відомо: не бракуватиме сюрпризів, призів та атмосфери, що нагадує темну легенду.\n\nВроцлав з темного боку\n\nЦе не буде звичайна прогулянка містом. Учасники дізнаються історії, пов'язані з **темними легендами, злочинами, кривавими повстаннями, духами та відьмами**. Хелловінський термін має додатково підкреслити незвичайний характер експедиції, під час якої добре відомі вулиці можуть відкрити зовсім інше, таємниче обличчя."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-17T10:39:02.409894+00:00"
+    },
+    "u-miech-zmienia-wszystko-2026-10-17T11:00:00+02:00": {
+      "title": "Uśmiech zmienia wszystko",
+      "date": "2026-10-17T11:00:00+02:00",
+      "end_date": "2026-10-17T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "**Zajęcia plastyczne dla dzieci w wieku 6–12 lat w ramach wydarzeń towarzyszących wystawie „Stulecie. W rocznicę wielkiej wystawy śląskiej sztuki średniowiecznej”, prowadzenie: Barbara Przerwa**\n\nW czasie spotkania dzieci obejrzą wybrane rzeźby sztuki średniowiecznej z kręgu Madonn na lwach prezentowanych na wystawie czasowej. Będziemy je porównywać z innymi zabytkami, szukać różnic i podobieństw. W ramach warsztatów plastycznych stworzymy kolaże pełne radości, dobrej atmosfery i pozytywnej energii – i oczywiście z dużą ilością uśmiechów!\n\nSpotkanie w Pawilonie Czterech Kopuł, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81 (od poniedziałku do piątku, w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.\n\n■ Wydarzenia edukacyjne ➸\n\n**■ Fotorelacje edukacyjne ➸**",
+      "image": "https://mnwr.pl/wp-content/uploads/2018/06/wizyta_MNWr-1.jpg",
+      "url": "https://mnwr.pl/usmiech-zmienia-wszystko",
+      "source": "mnwr.pl",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu",
+        "district": "Śródmieście"
+      },
+      "age_hint": "6-12",
+      "scrapped_url": "https://mnwr.pl/usmiech-zmienia-wszystko",
+      "scrapped_timestamp": "2026-10-17T10:37:50.297471+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Uśmiech zmienia wszystko",
+          "description": "**Zajęcia plastyczne dla dzieci w wieku 6–12 lat w ramach wydarzeń towarzyszących wystawie „Stulecie. W rocznicę wielkiej wystawy śląskiej sztuki średniowiecznej”, prowadzenie: Barbara Przerwa**\n\nW czasie spotkania dzieci obejrzą wybrane rzeźby sztuki średniowiecznej z kręgu Madonn na lwach prezentowanych na wystawie czasowej. Będziemy je porównywać z innymi zabytkami, szukać różnic i podobieństw. W ramach warsztatów plastycznych stworzymy kolaże pełne radości, dobrej atmosfery i pozytywnej energii – i oczywiście z dużą ilością uśmiechów!\n\nSpotkanie w Pawilonie Czterech Kopuł, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81 (od poniedziałku do piątku, w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.\n\n■ Wydarzenia edukacyjne ➸\n\n**■ Fotorelacje edukacyjne ➸**"
+        },
+        "en": {
+          "title": "A Smile Changes Everything",
+          "description": "**Art classes for children aged 6–12 as part of the accompanying events of the exhibition \"Centenary. On the anniversary of the great exhibition of Silesian medieval art\", led by: Barbara Przerwa**\n\nDuring the meeting, children will view selected sculptures of medieval art from the circle of Madonnas on lions presented at the temporary exhibition. We will compare them with other artifacts, looking for differences and similarities. As part of the art workshops, we will create collages full of joy, good atmosphere, and positive energy – and of course, with plenty of smiles!\n\nThe meeting will take place at the Pavilion of Four Domes, tickets priced at 10 PLN available at the museum box office. Registration in the week preceding the classes: edukacja.pawilon@mnwr.pl or tel. 71 712 71 81 (Monday to Friday, from 8:00 AM to 4:00 PM). Please inform us in case..."
+        },
+        "uk": {
+          "title": "Усмішка змінює все",
+          "description": "**Заняття з образотворчого мистецтва для дітей віком 6–12 років в рамках супутніх подій виставки «Століття. В річницю великої виставки силезького середньовічного мистецтва», ведення: Барбара Прзерва**\n\nВ часі зустрічі діти переглянуть вибрані скульптури середньовічного мистецтва з кола Мадонн на левів, представлених на виставці. Будемо їх порівнювати з іншими пам'ятками, шукати відмінності та подібності. В рамках майстер-класів створимо колажі, сповнені радості, доброї атмосфери та позитивної енергії – і, звичайно, з великою кількістю усмішок!\n\nЗустріч у Павільйоні Чотирьох Куполів, квитки в ціні 10 зл. до придбання в касі музею. Запис у тиждень, що передує заняттям: edukacja.pawilon@mnwr.pl або тел. 71 712 71 81 (з понеділка по п’ятницю, з 8.00 до 16.00). Просимо про інформацію в разі..."
+        }
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-17T10:39:02.409911+00:00"
+    },
+    "kultura-bez-barier-wroc-awski-milioner-pjm-2026-10-17T11:00:00+02:00": {
+      "title": "Kultura bez barier: Wrocławski milioner [PJM]",
+      "date": "2026-10-17T11:00:00+02:00",
+      "end_date": "2026-10-17T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zajęcia integracyjne dla rodzin z dziećmi w ramach Festiwalu Kultury bez Barier 2026. Prowadzenie: Sławomir Ortyl, tłumaczenie na polski język migowy: Elżbieta Resler\nZamienimy się w bohaterów gry planszowej „Wrocławski milioner”! Wraz z Panią Joanną (zwaną „Szmacianą Babką”), która była jedną z ubogich mieszkanek dawnego Wrocławia, oraz Bratem Aleksandrem – ongiś pustelnikiem ze Świętego Wzgórza w Osobowicach, każde z dzieci będzie próbowało jako pierwsze dotrzeć do centrum planszy, by zdobyć skarby Króla Krezusa. Trasa poprowadzi przez ważne daty w historii Wrocławia – jedne korzystne, inne wręcz przeciwnie – dlatego o nudzie nie będzie mowy!\nSpotkanie w Muzeum Narodowym we Wrocławiu, wstęp wolny. Zapisy w tygodniu poprzedzającym zajęcia: edukacja@mnwr.pl lub 71 372 51 48 (od poniedziałku do piątku w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_976987355_original.jpg",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu (Wrocław-Plac Grunwaldzki)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/kultura-bez-barier-wroclawski-milioner-pjm/kw/c5-3305941",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/kultura-bez-barier-wroclawski-milioner-pjm/kw/c5-3305941",
+      "scrapped_timestamp": "2026-10-17T10:37:55.685185+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Games",
+        "Educational"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kultura bez barier: Wrocławski milioner [PJM]",
+          "description": "Zajęcia integracyjne dla rodzin z dziećmi w ramach Festiwalu Kultury bez Barier 2026. Prowadzenie: Sławomir Ortyl, tłumaczenie na polski język migowy: Elżbieta Resler\nZamienimy się w bohaterów gry planszowej „Wrocławski milioner”! Wraz z Panią Joanną (zwaną „Szmacianą Babką”), która była jedną z ubogich mieszkanek dawnego Wrocławia, oraz Bratem Aleksandrem – ongiś pustelnikiem ze Świętego Wzgórza w Osobowicach, każde z dzieci będzie próbowało jako pierwsze dotrzeć do centrum planszy, by zdobyć skarby Króla Krezusa. Trasa poprowadzi przez ważne daty w historii Wrocławia – jedne korzystne, inne wręcz przeciwnie – dlatego o nudzie nie będzie mowy!\nSpotkanie w Muzeum Narodowym we Wrocławiu, wstęp wolny. Zapisy w tygodniu poprzedzającym zajęcia: edukacja@mnwr.pl lub 71 372 51 48 (od poniedziałku do piątku w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu."
+        },
+        "en": {
+          "title": "Culture Without Barriers: Wrocław Millionaire [PJM]",
+          "description": "Integrative activities for families with children as part of the Culture Without Barriers Festival 2026. Led by: Sławomir Ortyl, translation into Polish Sign Language: Elżbieta Resler\n\nWe will turn into heroes of the board game \"Wrocław Millionaire\"! Together with Mrs. Joanna (known as \"Ragged Granny\"), who was one of the poor residents of former Wrocław, and Brother Aleksander – once a hermit from the Holy Hill in Osobowice, each child will try to be the first to reach the center of the board to collect the treasures of King Croesus. The route will lead through important dates in the history of Wrocław – some favorable, others quite the opposite – so boredom will not be an option!\n\nMeeting at the National Museum in Wrocław, free admission. Registration in the week preceding the activities: edukacja@mnwr.pl or 71 372 51 48 (from Monday"
+        },
+        "uk": {
+          "title": "Культура без бар'єрів: Вроцлавський мільйонер [ПЖМ]",
+          "description": "Заняття інтеграційні для родин з дітьми в рамках Фестивалю Культури без Бар'єрів 2026. Проводить: Славомір Ортіл, переклад на польську жестову мову: Ельжбета Реслер\nЗамінимося в героїв гри настільної \"Вроцлавський мільйонер\"! Разом з пані Йоанною (званою \"Шматяною Бабкою\"), яка була однією з бідних мешканок давнього Вроцлава, та Братом Олександром – колись пустельником зі Святого Узвишшя в Особовицях, кожна з дітей буде намагатися першою дістатися до центру дошки, щоб здобути скарби Короля Крезуса. Маршрут проведе через важливі дати в історії Вроцлава – одні сприятливі, інші навпаки – тому про нудьгу не буде й мови!\nЗустріч у Національному музеї у Вроцлаві, вхід вільний. Запис у тиждень, що передує заняттям: edukacja@mnwr.pl або 71 372 51 48 (з понеділка"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-10-17T10:39:02.409931+00:00"
+    },
+    "dzieje-najwi-kszego-gotyckiego-o-tarza-na-l-sku-poliptyku-z-ko-cio-a-w-w-piotra-i-paw-a-w-legnicy-2026-10-17T12:00:00+02:00": {
+      "title": "Dzieje największego gotyckiego ołtarza na Śląsku – poliptyku z kościoła św. św. Piotra i Pawła w Legnicy",
+      "date": "2026-10-17T12:00:00+02:00",
+      "end_date": "2026-10-17T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Wykład dr. Jacka Witkowskiego w ramach cyklu „Mój Śląsk. Fascynacje”\nNajwiększy z zachowanych gotyckich ołtarzy Śląska, dawne retabulum ołtarza głównego obecnej katedry (dawnej fary) p.w. św. św. Piotra i Pawła w Legnicy. Wybitne dzieło zarazem rzeźby, jak i szczególnie efektownego malarstwa z 1466 r. Badania historyczno-artystyczne ołtarza (odkrycie sygnatury oraz analiza stylistyczno-formalna) wprowadziły do historii sztuki śląskiego średniowiecza ważną osobowość artystyczną – wrocławskiego malarza Nicolausa Obilmana. Zapoznanego, a jednego z najwybitniejszych twórców wrocławskich XV w. Znany jest dokładny czas powstania ołtarza, jego fundator, a także autor interesującego programu ideowego. Można także wskazać na konkretne inspiracje artystyczne, zarówno rzeźbiarskie, jak i malarskie, w późnogotyckiej sztuce europejskiej tego wciąż zbyt mało znanego, a jednego z najwybitniejszych dzieł plastyki późnego średniowiecza na Śląsku (obecnie eksponowanego w Galerii Sztuki Średniowiecznej Muzeum Narodowego w Warszawie).\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_976987347_original.jpg",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu (Wrocław-Plac Grunwaldzki)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/dzieje-najwiekszego-gotyckiego-oltarza-na-slasku-poliptyku-z-kosciola-sw-sw-piotra-i-pawla-w-legnicy/kw/c5-3305933",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/dzieje-najwiekszego-gotyckiego-oltarza-na-slasku-poliptyku-z-kosciola-sw-sw-piotra-i-pawla-w-legnicy/kw/c5-3305933",
+      "scrapped_timestamp": "2026-10-17T10:38:00.927358+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 13,
+        "max": 18
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dzieje największego gotyckiego ołtarza na Śląsku – poliptyku z kościoła św. św. Piotra i Pawła w Legnicy",
+          "description": "Wykład dr. Jacka Witkowskiego w ramach cyklu „Mój Śląsk. Fascynacje”\nNajwiększy z zachowanych gotyckich ołtarzy Śląska, dawne retabulum ołtarza głównego obecnej katedry (dawnej fary) p.w. św. św. Piotra i Pawła w Legnicy. Wybitne dzieło zarazem rzeźby, jak i szczególnie efektownego malarstwa z 1466 r. Badania historyczno-artystyczne ołtarza (odkrycie sygnatury oraz analiza stylistyczno-formalna) wprowadziły do historii sztuki śląskiego średniowiecza ważną osobowość artystyczną – wrocławskiego malarza Nicolausa Obilmana. Zapoznanego, a jednego z najwybitniejszych twórców wrocławskich XV w. Znany jest dokładny czas powstania ołtarza, jego fundator, a także autor interesującego programu ideowego. Można także wskazać na konkretne inspiracje artystyczne, zarówno rzeźbiarskie, jak i malarskie, w późnogotyckiej sztuce europejskiej tego wciąż zbyt mało znanego, a jednego z najwybitniejszych dzieł plastyki późnego średniowiecza na Śląsku (obecnie eksponowanego w Galerii Sztuki Średniowiecznej Muzeum Narodowego w Warszawie).\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny."
+        },
+        "en": {
+          "title": "The History of the Largest Gothic Altar in Silesia – the Polyptych from the Church of St. Peter and St. Paul in Legnica",
+          "description": "Lecture by Dr. Jacek Witkowski as part of the series \"My Silesia. Fascinations\"\nThe largest preserved Gothic altar in Silesia, the former retable of the main altar of the current cathedral (formerly the parish church) of St. Peter and St. Paul in Legnica. An outstanding work of both sculpture and particularly striking painting from 1466. Historical and artistic research on the altar (discovery of the signature and stylistic-formal analysis) introduced an important artistic personality into the history of Silesian medieval art – the Wrocław painter Nicolaus Obilman. Familiarized, and one of the most outstanding creators of Wrocław in the 15th century. The exact time of the altar's creation, its founder, as well as the author of the interesting ideological program are known. Specific artistic inspirations can also be pointed out, both sculptural and painterly, in"
+        },
+        "uk": {
+          "title": "Історія найбільшого готичного вівтаря на Сілезії – поліптиха з церкви св. св. Петра і Павла в Легниці",
+          "description": "Лекція д-ра Яцека Вітковського в рамках циклу «Мій Сілезія. Захоплення»\nНайбільший з збережених готичних вівтарів Сілезії, давнє ретабло головного вівтаря нинішнього собору (давньої парафії) св. св. Петра і Павла в Легниці. Видатний витвір одночасно скульптури, як і особливо ефектного живопису з 1466 р. Дослідження історико-мистецького вівтаря (відкриття підпису та стилістично-формальний аналіз) ввели в історію мистецтва сілезького середньовіччя важливу особистість художника – вроцлавського живописця Ніколауса Обілмана. Ознайомленого, а одного з найвидатніших творців вроцлавського XV ст. Відомий точний час створення вівтаря, його фундатора, а також автора цікавого ідейного програми. Можна також вказати на конкретні художні натхнення, як скульптурні, так і живописні, в"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-10-17T10:39:02.409958+00:00"
+    },
+    "figle-migle-pod-kolumnami-2026-11-13T10:30:00+01:00": {
+      "title": "Figle Migle Pod Kolumnami",
+      "date": "2026-11-13T10:30:00+01:00",
+      "end_date": "2026-11-13T10:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "Figle Migle to zajęcia dla rodziców, opiekunów i opiekunek z małymi dziećmi w wieku od 0 do 4 lat. To 45 minut wspólnej, swobodnej zabawy, twórczych eksperymentów i odkrywania nowych zastosowań codziennych przedmiotów. Czy bawić można się tylko zabawkami? Oczywiście, że nie! Podczas zajęć będziemy z ciekawością przyglądać się przedmiotom, dotykać ich, sprawdzać, jakie wydają dźwięki, obserwować ich kształty i kolory oraz szukać dla nich zupełnie nowych zastosowań.\nCzasem pośpiewamy piosenki, czasem ruszymy w dzikie pląsy albo poudajemy dzikie zwierzęta. Innym razem zatrzymamy się na chwilę i wyciszymy przy relaksujących masażykach. Wszystko bez pośpiechu i presji – z uważnością na potrzeby dzieci i dorosłych.\nZajęcia mają otwartą formułę. Prowadząca proponuje różne aktywności, ale dzieci mogą dobrowolnie do nich dołączać. Jeśli jakaś zabawa nie przypadnie Wam do gustu, zawsze można skorzystać z innych możliwości, jakie daje przestrzeń Klubu.\nW Figlach Miglach ważną częścią zabawy są również dorośli. Zapraszamy Was do wspólnego działania z dziećmi, a także do przygotowywania elementów zabawy i wspierania dzieci w aktywnościach, z którymi nie radzą sobie jeszcze samodzielnie.\nPo zakończeniu zajęć przestrzeń Klubu pozostaje do Waszej dyspozycji do godziny 14:00.\nZajęcia odbywają się co wtorki i piątki w Klubie pod Kolumnami\npl. św Macieja 21, Wrocław\ngodz. 10:00 — otwarcie Klubu;\ngodz. 10:00–10:30 — swobodne poznawanie przestrzeni;\ngodz. 10:30–11:30 — Figle Migle z prowadzącą;\ngodz. 11:30–14:00 — czas na samodzielną zabawę w Klubie.\nUdział w zajęciach jest bezpłatny, ale obowiązuje rezerwacja miejsc.\nBezpłatne bilety należy pobrać w sklepie internetowym Wrocławskiego Instytutu Kultury: instytutkultury.pl/sklep.\nWejścia na kolejny tydzień pojawiają się w sklepie co tydzień, z tygodniowym wyprzedzeniem.\n▪ Tydzień przed wybranymi zajęciami wejdź na stronę instytutkultury.pl/sklep.\n▪ Znajdź wydarzenie Figle Migle w wybranym terminie.\n▪ Podczas rezerwacji należy wybrać tyle biletów, ile osób weźmie udział w wydarzeniu - niezależnie od wieku uczestników. Przykładowo: rodzina składająca się z 2 osób dorosłych i 1 dziecka powinna zarezerwować 3 bilety, a 1 osoba dorosła z 2 dzieci - również 3 bilety.\n▪ Dokończ proces rezerwacji zgodnie z instrukcjami w sklepie.\n▪ Bezpłatne bilety i potwierdzenie rezerwacji miejsc powinny przyjść drogą mailową na wskazany adres mailowy.\n▪ Na zajęciach pokazujesz bilet bądź maila.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_976987461_original.jpg",
+      "location": {
+        "name": "Klub Pod Kolumnami (Wrocław)",
+        "district": "Stare Miasto"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/figle-migle-pod-kolumnami/kw/c5-3306127",
+      "source": "naszemiasto.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/figle-migle-pod-kolumnami/kw/c5-3306127",
+      "scrapped_timestamp": "2026-10-17T10:38:11.316815+00:00",
+      "category": "Sensory Play",
+      "age_range": {
+        "min": 0,
+        "max": 4
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Figle Migle Pod Kolumnami",
+          "description": "Figle Migle to zajęcia dla rodziców, opiekunów i opiekunek z małymi dziećmi w wieku od 0 do 4 lat. To 45 minut wspólnej, swobodnej zabawy, twórczych eksperymentów i odkrywania nowych zastosowań codziennych przedmiotów. Czy bawić można się tylko zabawkami? Oczywiście, że nie! Podczas zajęć będziemy z ciekawością przyglądać się przedmiotom, dotykać ich, sprawdzać, jakie wydają dźwięki, obserwować ich kształty i kolory oraz szukać dla nich zupełnie nowych zastosowań.\nCzasem pośpiewamy piosenki, czasem ruszymy w dzikie pląsy albo poudajemy dzikie zwierzęta. Innym razem zatrzymamy się na chwilę i wyciszymy przy relaksujących masażykach. Wszystko bez pośpiechu i presji – z uważnością na potrzeby dzieci i dorosłych.\nZajęcia mają otwartą formułę. Prowadząca proponuje różne aktywności, ale dzieci mogą dobrowolnie do nich dołączać. Jeśli jakaś zabawa nie przypadnie Wam do gustu, zawsze można skorzystać z innych możliwości, jakie daje przestrzeń Klubu.\nW Figlach Miglach ważną częścią zabawy są również dorośli. Zapraszamy Was do wspólnego działania z dziećmi, a także do przygotowywania elementów zabawy i wspierania dzieci w aktywnościach, z którymi nie radzą sobie jeszcze samodzielnie.\nPo zakończeniu zajęć przestrzeń Klubu pozostaje do Waszej dyspozycji do godziny 14:00.\nZajęcia odbywają się co wtorki i piątki w Klubie pod Kolumnami\npl. św Macieja 21, Wrocław\ngodz. 10:00 — otwarcie Klubu;\ngodz. 10:00–10:30 — swobodne poznawanie przestrzeni;\ngodz. 10:30–11:30 — Figle Migle z prowadzącą;\ngodz. 11:30–14:00 — czas na samodzielną zabawę w Klubie.\nUdział w zajęciach jest bezpłatny, ale obowiązuje rezerwacja miejsc.\nBezpłatne bilety należy pobrać w sklepie internetowym Wrocławskiego Instytutu Kultury: instytutkultury.pl/sklep.\nWejścia na kolejny tydzień pojawiają się w sklepie co tydzień, z tygodniowym wyprzedzeniem.\n▪ Tydzień przed wybranymi zajęciami wejdź na stronę instytutkultury.pl/sklep.\n▪ Znajdź wydarzenie Figle Migle w wybranym terminie.\n▪ Podczas rezerwacji należy wybrać tyle biletów, ile osób weźmie udział w wydarzeniu - niezależnie od wieku uczestników. Przykładowo: rodzina składająca się z 2 osób dorosłych i 1 dziecka powinna zarezerwować 3 bilety, a 1 osoba dorosła z 2 dzieci - również 3 bilety.\n▪ Dokończ proces rezerwacji zgodnie z instrukcjami w sklepie.\n▪ Bezpłatne bilety i potwierdzenie rezerwacji miejsc powinny przyjść drogą mailową na wskazany adres mailowy.\n▪ Na zajęciach pokazujesz bilet bądź maila."
+        },
+        "en": {
+          "title": "Figle Migle Under the Columns",
+          "description": "Figle Migle is a class for parents, guardians, and caregivers with small children aged 0 to 4 years. It is 45 minutes of shared, free play, creative experiments, and discovering new uses for everyday objects. Can you only play with toys? Of course not! During the classes, we will curiously observe objects, touch them, check what sounds they make, observe their shapes and colors, and look for completely new uses for them.\nSometimes we will sing songs, sometimes we will dance wildly or pretend to be wild animals. Other times we will pause for a moment and calm down with relaxing massages. Everything without haste and pressure – with mindfulness to the needs of children and adults.\nThe classes have an open format. The instructor proposes various activities, but the children m"
+        },
+        "uk": {
+          "title": "Фіглі Міглі Під Колонами",
+          "description": "Фіглі Міглі – це заняття для батьків, опікунів та вихователів з маленькими дітьми віком від 0 до 4 років. Це 45 хвилин спільної, вільної гри, творчих експериментів та відкриття нових застосувань повсякденних предметів. Чи можна грати тільки іграшками? Звичайно, що ні! Під час занять ми будемо з цікавістю розглядати предмети, торкатися їх, перевіряти, які вони видають звуки, спостерігати за їхніми формами та кольорами, а також шукати для них зовсім нові застосування.\nІноді ми заспіваємо пісеньки, іноді пустимося в дикий танець або вдаватимемо диких тварин. Іншим разом ми зупинимося на хвилинку і заспокоїмося під час релаксуючих масажиків. Все без поспіху та тиску – з увагою до потреб дітей та дорослих.\nЗаняття мають відкриту форму. Ведуча пропонує різні активності, але діти м"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-10-17T10:39:02.409974+00:00"
+    },
+    "dzie-na-wystawie-pie-o-roladzie-czyli-wroc-aw-od-kuchni-2026-10-17T10:00:00+02:00": {
+      "title": "Dzień na wystawie „Pieśń o roladzie, czyli Wrocław od kuchni”",
+      "date": "2026-10-17T10:00:00+02:00",
+      "end_date": "2026-10-17T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Dzień na wystawie „Pieśń o roladzie, czyli Wrocław od kuchni” pozwala poznać historię miasta przez dawne zwyczaje kulinarne. W programie są warsztaty lepienia pierników dla dzieci, otwarte warsztaty plastyczne, oprowadzanie kuratorskie i wykład związany z tematyką ekspozycji.\n\nWarsztaty „Śląskie kąski chłopskie” poprowadzą Pierniki Wrocławskie. Dzieci mogą wybrać jeden z trzech terminów:\n• 9:00–10:00\n• 10:30–11:30\n• 12:00–13:00\n\nOtwarte warsztaty plastyczne dla dzieci odbywają się w godz. 10:00–17:00. Na warsztaty piernikarskie obowiązują zapisy na wybraną godzinę: 71 347 16 96, wew. 332 lub dweiss@mmw.pl.\n\n• Kiedy: sobota, 17 października 2026 r.\n• Gdzie: Arsenał Miejski, Muzeum Archeologiczne, ul. Antoniego Cieszyńskiego 9, Wrocław\n• Udział w atrakcjach odbywa się w ramach biletu na wystawę",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/3fd4fb8c-39cf-4d41-a33c-3caae84ab688/cff7f476-ca5b-462c-b79e-ece107ce9806.jpg",
+      "location": {
+        "name": "Muzeum Archeologiczne – Muzeum Miejskie Wrocławia, Cieszyńskiego 9, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/dzien-na-wystawie-piesn-o-roladzie-czyli-wroclaw-od-kuchni-3fd4fb8c-39cf-4d41-a33c-3caae84ab688",
+      "source": "simplygo.pl",
+      "age_hint": "5-12",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/dzien-na-wystawie-piesn-o-roladzie-czyli-wroclaw-od-kuchni-3fd4fb8c-39cf-4d41-a33c-3caae84ab688",
+      "scrapped_timestamp": "2026-10-17T10:38:16.234870+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dzień na wystawie „Pieśń o roladzie, czyli Wrocław od kuchni”",
+          "description": "Dzień na wystawie „Pieśń o roladzie, czyli Wrocław od kuchni” pozwala poznać historię miasta przez dawne zwyczaje kulinarne. W programie są warsztaty lepienia pierników dla dzieci, otwarte warsztaty plastyczne, oprowadzanie kuratorskie i wykład związany z tematyką ekspozycji.\n\nWarsztaty „Śląskie kąski chłopskie” poprowadzą Pierniki Wrocławskie. Dzieci mogą wybrać jeden z trzech terminów:\n• 9:00–10:00\n• 10:30–11:30\n• 12:00–13:00\n\nOtwarte warsztaty plastyczne dla dzieci odbywają się w godz. 10:00–17:00. Na warsztaty piernikarskie obowiązują zapisy na wybraną godzinę: 71 347 16 96, wew. 332 lub dweiss@mmw.pl.\n\n• Kiedy: sobota, 17 października 2026 r.\n• Gdzie: Arsenał Miejski, Muzeum Archeologiczne, ul. Antoniego Cieszyńskiego 9, Wrocław\n• Udział w atrakcjach odbywa się w ramach biletu na wystawę"
+        },
+        "en": {
+          "title": "A Day at the Exhibition \"Song of the Roll, or Wrocław from the Kitchen\"",
+          "description": "A Day at the Exhibition \"Song of the Roll, or Wrocław from the Kitchen\" allows you to learn about the history of the city through old culinary customs. The program includes gingerbread-making workshops for children, open art workshops, curator-led tours, and a lecture related to the exhibition's theme.\n\nThe workshops \"Silesian Peasant Bites\" will be led by Wrocław Gingerbread. Children can choose one of three time slots:\n• 9:00–10:00\n• 10:30–11:30\n• 12:00–13:00\n\nOpen art workshops for children take place from 10:00 AM to 5:00 PM. Registration is required for the gingerbread workshops at the chosen time: 71 347 16 96, ext. 332 or dweiss@mmw.pl.\n\n• When: Saturday, October 17, 2026\n• Where: Municipal Arsenal, Archaeological Museum, ul. Antoniego Cieszyńskiego 9, Wrocław\n• Participation in attractions is included with the exhibition ticket."
+        },
+        "uk": {
+          "title": "День на виставці „Пісня про рулетку, або Вроцлав з кухні”",
+          "description": "День на виставці „Пісня про рулетку, або Вроцлав з кухні” дозволяє познайомитися з історією міста через давні кулінарні звичаї. У програмі є майстер-класи з ліплення пряників для дітей, відкриті художні майстер-класи, кураторські екскурсії та лекція, пов'язана з тематикою експозиції.\n\nМайстер-класи „Сілезькі страви для селян” проведуть Пряники Вроцлавські. Діти можуть вибрати один з трьох термінів:\n• 9:00–10:00\n• 10:30–11:30\n• 12:00–13:00\n\nВідкриті художні майстер-класи для дітей проходять з 10:00 до 17:00. На майстер-класи з виготовлення пряників обов'язкові записи на обрану годину: 71 347 16 96, внутр. 332 або dweiss@mmw.pl.\n\n• Коли: субота, 17 жовтня 2026 р.\n• Де: Міський арсенал, Археологічний музей, вул. Антонія Чешинського 9, Вроцлав\n• Участь в атракціях відбувається в рамках квитка на виставку"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-17T10:39:02.410020+00:00"
+    },
+    "dyniowe-szale-stwo-2026-bazar-dawna-pralnia-2026-10-17T10:00:00+02:00": {
+      "title": "Dyniowe Szaleństwo 2026 – Bazar Dawna Pralnia",
+      "date": "2026-10-17T10:00:00+02:00",
+      "end_date": "2026-10-17T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Szósta edycja jesiennego jarmarku dyniowego na Bazarze Dawna Pralnia (ul. Krakowska 180, Wrocław). Wydarzenie odbędzie się 17–18 października w godzinach 10:00–16:00.\n\nW programie:\n• Stoiska rzemieślników, rolników i rękodzielników.\n• Warsztaty, gry i zabawy dla dzieci.\n• Gastronomia: dyniowe pierogi, wyroby garmażeryjne, zupy w słoikach (Master Catering).\n• Wypieki i napoje na stoisku Dyniowy Zakątek: dyniowe drożdżówki, chleb, chałka, dyniowa latte oraz grzaniec.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/a5b60b37-83e2-46fd-89ad-c466046d942e/5c571838-ce8d-446e-b3dd-7a4d5705aff7.jpg",
+      "location": {
+        "name": "Bazar dawna Pralnia, Krakowska 180, Wrocław",
+        "district": "Krzyki"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/dyniowe-szalenstwo-2026-bazar-dawna-pralnia-a5b60b37-83e2-46fd-89ad-c466046d942e",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/dyniowe-szalenstwo-2026-bazar-dawna-pralnia-a5b60b37-83e2-46fd-89ad-c466046d942e",
+      "scrapped_timestamp": "2026-10-17T10:38:22.957831+00:00",
+      "category": "Seasonal Festival",
+      "additional_categories": [
+        "Workshops",
+        "Family Fun"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Dyniowe Szaleństwo 2026 – Bazar Dawna Pralnia",
+          "description": "Szósta edycja jesiennego jarmarku dyniowego na Bazarze Dawna Pralnia (ul. Krakowska 180, Wrocław). Wydarzenie odbędzie się 17–18 października w godzinach 10:00–16:00.\n\nW programie:\n• Stoiska rzemieślników, rolników i rękodzielników.\n• Warsztaty, gry i zabawy dla dzieci.\n• Gastronomia: dyniowe pierogi, wyroby garmażeryjne, zupy w słoikach (Master Catering).\n• Wypieki i napoje na stoisku Dyniowy Zakątek: dyniowe drożdżówki, chleb, chałka, dyniowa latte oraz grzaniec."
+        },
+        "en": {
+          "title": "Pumpkin Madness 2026 – Old Laundry Market",
+          "description": "The sixth edition of the autumn pumpkin market at the Old Laundry Market (ul. Krakowska 180, Wrocław). The event will take place on October 17–18 from 10:00 AM to 4:00 PM.\n\nProgram:\n• Stalls of artisans, farmers, and craftsmen.\n• Workshops, games, and activities for children.\n• Gastronomy: pumpkin dumplings, ready-made dishes, soups in jars (Master Catering).\n• Baked goods and drinks at the Pumpkin Corner stall: pumpkin rolls, bread, challah, pumpkin latte, and mulled wine."
+        },
+        "uk": {
+          "title": "Гарбузове Шалення 2026 – Базар Давня Пральня",
+          "description": "Шоста редакція осіннього ярмарку гарбузів на Базарі Давня Пральня (вул. Краківська 180, Вроцлав). Подія відбудеться 17–18 жовтня з 10:00 до 16:00.\n\nВ програмі:\n• Станції ремісників, фермерів та майстрів.\n• Майстер-класи, ігри та розваги для дітей.\n• Гастрономія: гарбузові пироги, кулінарні вироби, супи в банках (Master Catering).\n• Випічка та напої на стенді Гарбузовий Закуток: гарбузові булочки, хліб, challah, гарбузове латте та глінтвейн."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-10-17T10:39:02.410063+00:00"
+    },
+    "basket4kids-bezp-atne-zaj-cia-z-elementami-koszyk-wki-dla-dzieci-2026-10-17T10:45:00+02:00": {
+      "title": "Basket4Kids – bezpłatne zajęcia z elementami koszykówki dla dzieci",
+      "date": "2026-10-17T10:45:00+02:00",
+      "end_date": "2026-10-17T10:45:00+02:00",
+      "startTimeKnown": true,
+      "description": "Czy dziecko musi mieć sportowy talent, żeby czerpać radość z ruchu? Basket4Kids zaprasza najmłodszych na zajęcia ogólnorozwojowe z elementami koszykówki, podczas których najważniejsze są sprawność, koordynacja, pewność siebie i dobra zabawa. Zajęcia są przeznaczone dla dzieci od drugiego roku życia, które chcą odkrywać swoje możliwości i budować zdrowe nawyki.\n\nBasket4Kids – ruch to coś więcej niż sport\n\nBieganie, skakanie, utrzymywanie równowagi, rzucanie i łapanie piłki to podstawowe umiejętności ważne dla rozwoju dziecka. Zajęcia pomagają je ćwiczyć w przyjaznej atmosferze, bez presji na wyniki i sportową rywalizację. Koszykówka jest narzędziem, a nie celem samym w sobie. Wspólne aktywności rozwijają też współpracę, odwagę i umiejętność podejmowania decyzji.\n\nInformacje organizacyjne\n• zajęcia: Basket4Kids – zajęcia ogólnorozwojowe z elementami koszykówki\n• lokalizacja: IX Liceum Ogólnokształcące, ul. ks. Piotra Skargi 31, centrum Wrocławia\n• dojazd: wjazd od ul. Nowej\n• grupy wiekowe i godziny:\n• 2–3 lata: 9:15–10:00\n• 3–4 lata: 10:00–10:45\n• 4–5 lat: 10:45–11:45\n• 5–6 lat: 11:45–12:45\n• 6–8 lat: 12:45–13:45",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c9401705-cdcd-4c05-9874-8ac6e030836d/31893a39-d8f2-488e-a1f3-d1e88ec7590d.jpg",
+      "location": {
+        "name": "IX LO ul. ks. P. Skargi 31, Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/basket4kids-bezplatne-zajecia-z-elementami-koszykowki-dla-dzieci-c9401705-cdcd-4c05-9874-8ac6e030836d",
+      "source": "simplygo.pl",
+      "age_hint": "2-8",
+      "age_range": {
+        "min": 2,
+        "max": 8
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/basket4kids-bezplatne-zajecia-z-elementami-koszykowki-dla-dzieci-c9401705-cdcd-4c05-9874-8ac6e030836d",
+      "scrapped_timestamp": "2026-10-17T10:38:26.994474+00:00",
+      "category": "Sports",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Basket4Kids – bezpłatne zajęcia z elementami koszykówki dla dzieci",
+          "description": "Czy dziecko musi mieć sportowy talent, żeby czerpać radość z ruchu? Basket4Kids zaprasza najmłodszych na zajęcia ogólnorozwojowe z elementami koszykówki, podczas których najważniejsze są sprawność, koordynacja, pewność siebie i dobra zabawa. Zajęcia są przeznaczone dla dzieci od drugiego roku życia, które chcą odkrywać swoje możliwości i budować zdrowe nawyki.\n\nBasket4Kids – ruch to coś więcej niż sport\n\nBieganie, skakanie, utrzymywanie równowagi, rzucanie i łapanie piłki to podstawowe umiejętności ważne dla rozwoju dziecka. Zajęcia pomagają je ćwiczyć w przyjaznej atmosferze, bez presji na wyniki i sportową rywalizację. Koszykówka jest narzędziem, a nie celem samym w sobie. Wspólne aktywności rozwijają też współpracę, odwagę i umiejętność podejmowania decyzji.\n\nInformacje organizacyjne\n• zajęcia: Basket4Kids – zajęcia ogólnorozwojowe z elementami koszykówki\n• lokalizacja: IX Liceum Ogólnokształcące, ul. ks. Piotra Skargi 31, centrum Wrocławia\n• dojazd: wjazd od ul. Nowej\n• grupy wiekowe i godziny:\n• 2–3 lata: 9:15–10:00\n• 3–4 lata: 10:00–10:45\n• 4–5 lat: 10:45–11:45\n• 5–6 lat: 11:45–12:45\n• 6–8 lat: 12:45–13:45"
+        },
+        "en": {
+          "title": "Basket4Kids – free basketball-related activities for children",
+          "description": "Does a child need to have athletic talent to enjoy movement? Basket4Kids invites the youngest to general development classes with elements of basketball, where the most important aspects are fitness, coordination, self-confidence, and fun. The classes are intended for children from the age of two who want to discover their abilities and build healthy habits.\n\nBasket4Kids – movement is more than just sport\n\nRunning, jumping, balancing, throwing, and catching a ball are basic skills important for a child's development. The classes help practice these skills in a friendly atmosphere, without pressure for results and sports competition. Basketball is a tool, not an end in itself. Joint activities also develop cooperation, courage, and decision-making skills.\n\nOrganizational information\n• "
+        },
+        "uk": {
+          "title": "Basket4Kids – безкоштовні заняття з елементами баскетболу для дітей",
+          "description": "Чи повинна дитина мати спортивний талант, щоб отримувати задоволення від руху? Basket4Kids запрошує найменших на загальнорозвивальні заняття з елементами баскетболу, під час яких найважливіші є спритність, координація, впевненість у собі та гарний настрій. Заняття призначені для дітей від другого року життя, які хочуть відкривати свої можливості та будувати здорові звички.\n\nBasket4Kids – рух це щось більше ніж спорт\n\nБіг, стрибки, утримування рівноваги, кидання та ловлення м'яча – це основні навички, важливі для розвитку дитини. Заняття допомагають їх тренувати в дружній атмосфері, без тиску на результати та спортивну конкуренцію. Баскетбол є інструментом, а не метою самою по собі. Спільні активності також розвивають співпрацю, відвагу та вміння приймати рішення.\n\nОрганізаційна інформація\n• "
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-17T10:39:02.410087+00:00"
+    },
+    "fashion-meeting-63-targi-mody-autorskiej-2026-10-17T11:00:00+02:00": {
+      "title": "Fashion Meeting 63 – targi mody autorskiej",
+      "date": "2026-10-17T11:00:00+02:00",
+      "end_date": "2026-10-17T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Jesienna edycja targów mody autorskiej Fashion Meeting. Wydarzenie gromadzi polskich projektantów oferujących odzież, biżuterię oraz dodatki na sezon jesienny.\n\nOferta targów:\n• Płaszcze, marynarki i ciepłe okrycia\n• Szale, czapki i designerskie akcesoria\n• Biżuteria oraz torebki\n• Kolekcje damskie, męskie i dziecięce\n\nLogistyka:\n• Data: 17-18 października\n• Godziny: 11:00-18:00\n• Miejsce: Browar Mieszczański, ul. Hubska 44, Wrocław\n• Wstęp: bezpłatny\n• Parking: bezpłatny",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d38b5e06-c865-4673-af5e-a632a61fc2bc/8424ad2d-c1c4-4b60-97ee-d0b9aa060f71.jpg",
+      "location": {
+        "name": "Browar Mieszczański Wrocław",
+        "district": "Krzyki"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/fashion-meeting-63-targi-mody-autorskiej-d38b5e06-c865-4673-af5e-a632a61fc2bc",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/fashion-meeting-63-targi-mody-autorskiej-d38b5e06-c865-4673-af5e-a632a61fc2bc",
+      "scrapped_timestamp": "2026-10-17T10:38:32.747500+00:00",
+      "category": "Arts",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Fashion Meeting 63 – targi mody autorskiej",
+          "description": "Jesienna edycja targów mody autorskiej Fashion Meeting. Wydarzenie gromadzi polskich projektantów oferujących odzież, biżuterię oraz dodatki na sezon jesienny.\n\nOferta targów:\n• Płaszcze, marynarki i ciepłe okrycia\n• Szale, czapki i designerskie akcesoria\n• Biżuteria oraz torebki\n• Kolekcje damskie, męskie i dziecięce\n\nLogistyka:\n• Data: 17-18 października\n• Godziny: 11:00-18:00\n• Miejsce: Browar Mieszczański, ul. Hubska 44, Wrocław\n• Wstęp: bezpłatny\n• Parking: bezpłatny"
+        },
+        "en": {
+          "title": "Fashion Meeting 63 – Author's Fashion Fair",
+          "description": "Autumn edition of the Fashion Meeting author's fashion fair. The event gathers Polish designers offering clothing, jewelry, and accessories for the autumn season.\n\nOffer of the fair:\n• Coats, jackets, and warm outerwear\n• Scarves, hats, and designer accessories\n• Jewelry and handbags\n• Women's, men's, and children's collections\n\nLogistics:\n• Date: October 17-18\n• Hours: 11:00 AM - 6:00 PM\n• Place: Browar Mieszczański, ul. Hubska 44, Wrocław\n• Admission: free\n• Parking: free"
+        },
+        "uk": {
+          "title": "Fashion Meeting 63 – ярмарок авторської моди",
+          "description": "Осіння редакція ярмарку авторської моди Fashion Meeting. Подія збирає польських дизайнерів, які пропонують одяг, ювелірні вироби та аксесуари на осінній сезон.\n\nПропозиція ярмарку:\n• Пальта, піджаки та теплі покриття\n• Шарфи, шапки та дизайнерські аксесуари\n• Ювелірні вироби та сумки\n• Колекції жіночі, чоловічі та дитячі\n\nЛогістика:\n• Дата: 17-18 жовтня\n• Години: 11:00-18:00\n• Місце: Пивоварня Мєщанська, вул. Губська 44, Вроцлав\n• Вхід: безкоштовний\n• Паркування: безкоштовне"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-10-17T10:39:02.410106+00:00"
+    },
+    "zielono-mi-targi-ro-lin-dekoracji-i-dizajnu-2026-10-17T11:00:00+02:00": {
+      "title": "Zielono Mi – targi roślin, dekoracji i dizajnu",
+      "date": "2026-10-17T11:00:00+02:00",
+      "end_date": "2026-10-17T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na energetyczną edycję targów Zielono Mi, podczas których natura spotyka się ze stylem. Wydarzenie odbędzie się w dniach 17-18 października w godzinach 11:00-18:00 w przestrzeni Zajezdnia Dąbie - Czasoprzestrzeń przy ul. Tramwajowej 1 we Wrocławiu.\n\nW programie:\n• Rośliny doniczkowe: od klasycznych gatunków po egzotyczne okazy.\n• Rośliny do ogrodu i na balkon.\n• Porady ekspertów dotyczące pielęgnacji i aranżacji wnętrz.\n• Dekoracje inspirowane wiosną, w tym wianki i ozdoby.\n• Naturalne akcesoria dla roślin, rękodzieło oraz świece i zapachy.\n\nOrganizatorzy zapewniają bezpłatny wstęp oraz bezpłatne parkingi: na terenie Zajezdni Dąbie (wjazd od ul. Tramwajowej), przy ul. Wittiga (pomiędzy akademikami TEKI) oraz przy ul. Kazimierskiej. Dostępne są również parkingi płatne przy ul. Wróblewskiego 9 oraz przy ul. Dembowskiego 6-8. Szczegółowe informacje dostępne na stronie: http://www.czasoprzestrzen.org/",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/a83ba502-e365-4147-9eb9-6adfef946b61/1abc2f48-5c7c-4b5a-b542-ca48604e129a.jpg",
+      "location": {
+        "name": "Czasoprzestrzeń",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/zielono-mi-targi-roslin-dekoracji-i-dizajnu-a83ba502-e365-4147-9eb9-6adfef946b61",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/zielono-mi-targi-roslin-dekoracji-i-dizajnu-a83ba502-e365-4147-9eb9-6adfef946b61",
+      "scrapped_timestamp": "2026-10-17T10:38:36.801604+00:00",
+      "category": "Nature & Wildlife",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Zielono Mi – targi roślin, dekoracji i dizajnu",
+          "description": "Zapraszamy na energetyczną edycję targów Zielono Mi, podczas których natura spotyka się ze stylem. Wydarzenie odbędzie się w dniach 17-18 października w godzinach 11:00-18:00 w przestrzeni Zajezdnia Dąbie - Czasoprzestrzeń przy ul. Tramwajowej 1 we Wrocławiu.\n\nW programie:\n• Rośliny doniczkowe: od klasycznych gatunków po egzotyczne okazy.\n• Rośliny do ogrodu i na balkon.\n• Porady ekspertów dotyczące pielęgnacji i aranżacji wnętrz.\n• Dekoracje inspirowane wiosną, w tym wianki i ozdoby.\n• Naturalne akcesoria dla roślin, rękodzieło oraz świece i zapachy.\n\nOrganizatorzy zapewniają bezpłatny wstęp oraz bezpłatne parkingi: na terenie Zajezdni Dąbie (wjazd od ul. Tramwajowej), przy ul. Wittiga (pomiędzy akademikami TEKI) oraz przy ul. Kazimierskiej. Dostępne są również parkingi płatne przy ul. Wróblewskiego 9 oraz przy ul. Dembowskiego 6-8. Szczegółowe informacje dostępne na stronie: http://www.czasoprzestrzen.org/"
+        },
+        "en": {
+          "title": "Green Me – plant, decoration and design fair",
+          "description": "We invite you to an energetic edition of the Green Me fair, where nature meets style. The event will take place on October 17-18 from 11:00 AM to 6:00 PM at the Zajezdnia Dąbie - Czasoprzestrzeń space at Tramwajowa 1 in Wrocław.\n\nIn the program:\n• Potted plants: from classic species to exotic specimens.\n• Plants for the garden and balcony.\n• Expert advice on care and interior arrangement.\n• Spring-inspired decorations, including wreaths and ornaments.\n• Natural accessories for plants, handicrafts, as well as candles and scents.\n\nThe organizers provide free admission and free parking: on the premises of Zajezdnia Dąbie (entrance from Tramwajowa Street), at Wittiga Street (between TEKI dormitories) and at Kazimierska Street. Paid parking is also available at Wr"
+        },
+        "uk": {
+          "title": "Зелено Мі – ярмарок рослин, декорацій та дизайну",
+          "description": "Запрошуємо на енергійну редакцію ярмарку Зелено Мі, під час якого природа зустрічається зі стилем. Подія відбудеться 17-18 жовтня з 11:00 до 18:00 у просторі Залізничного депо Дабі - Часопростір за адресою вул. Трамвайна 1 у Вроцлаві.\n\nВ програмі:\n• Рослини в горщиках: від класичних видів до екзотичних зразків.\n• Рослини для саду та балкона.\n• Поради експертів щодо догляду та оформлення інтер'єрів.\n• Декорації, натхненні весною, включаючи вінки та прикраси.\n• Природні аксесуари для рослин, ручна робота, а також свічки та аромати.\n\nОрганізатори забезпечують безкоштовний вхід та безкоштовні парковки: на території Залізничного депо Дабі (в'їзд з вул. Трамвайної), біля вул. Віттіга (між гуртожитками ТЕКІ) та біля вул. Казимирської. Доступні також платні парковки біля вул. Вр"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-17T10:39:02.410126+00:00"
+    },
+    "wroc-awskie-skrzyd-a-rodzinna-misja-lotnicza-2026-10-17T11:00:00+02:00": {
+      "title": "Wrocławskie Skrzydła – rodzinna misja lotnicza",
+      "date": "2026-10-17T11:00:00+02:00",
+      "end_date": "2026-10-17T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Wrocławska Misja Lotnicza to rodzinna gra poszukiwawcza na historycznym lotnisku w Mirosławicach. Zamiast zwykłego zwiedzania uczestnicy odkrywają historię lotniska, szukają ukrytych wskazówek i rozwiązują zagadki.\n\nW programie znajduje się również wizyta w hangarze oraz możliwość zajrzenia do kabiny samolotu. Dzieci szukają wskazówek i kombinują, a rodzice pomagają w realizacji misji.\n\nWydarzenie jest przeznaczone dla dzieci od 6. roku życia wraz z rodzicami lub opiekunami. Nie ma górnej granicy wieku.\n\nTerminy:\n• Sobota, 17 października 2026 r.:\n  - I grupa: 11:00–11:50\n  - II grupa: 12:05–12:55\n• Niedziela, 18 października 2026 r.:\n  - III grupa: 11:00–11:50\n  - IV grupa: 12:05–12:55\n\nLogistyka:\n• Miejsce zbiórki: Wrocław – dokładny punkt zostanie wyznaczony wcześniej\n• Dojazd: własnym samochodem na lotnisko w Mirosławicach\n• Czas trwania misji: 50 minut\n\nRezerwacje pod numerem 515 387 693. Szczegóły na stronie: mrmodelarnia.pl",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/1170d8f2-e63e-4bb3-bd1f-9eef07422b72/2e295a90-6de9-4389-b821-10184cfd7820.jpg",
+      "location": {
+        "name": "Wrocław, ul. Stanki 5A, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/wroclawskie-skrzydla-rodzinna-misja-lotnicza-1170d8f2-e63e-4bb3-bd1f-9eef07422b72",
+      "source": "simplygo.pl",
+      "age_hint": "6-18",
+      "age_range": {
+        "min": 6,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/wroclawskie-skrzydla-rodzinna-misja-lotnicza-1170d8f2-e63e-4bb3-bd1f-9eef07422b72",
+      "scrapped_timestamp": "2026-10-17T10:38:42.350885+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Outdoor Adventure"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Wrocławskie Skrzydła – rodzinna misja lotnicza",
+          "description": "Wrocławska Misja Lotnicza to rodzinna gra poszukiwawcza na historycznym lotnisku w Mirosławicach. Zamiast zwykłego zwiedzania uczestnicy odkrywają historię lotniska, szukają ukrytych wskazówek i rozwiązują zagadki.\n\nW programie znajduje się również wizyta w hangarze oraz możliwość zajrzenia do kabiny samolotu. Dzieci szukają wskazówek i kombinują, a rodzice pomagają w realizacji misji.\n\nWydarzenie jest przeznaczone dla dzieci od 6. roku życia wraz z rodzicami lub opiekunami. Nie ma górnej granicy wieku.\n\nTerminy:\n• Sobota, 17 października 2026 r.:\n  - I grupa: 11:00–11:50\n  - II grupa: 12:05–12:55\n• Niedziela, 18 października 2026 r.:\n  - III grupa: 11:00–11:50\n  - IV grupa: 12:05–12:55\n\nLogistyka:\n• Miejsce zbiórki: Wrocław – dokładny punkt zostanie wyznaczony wcześniej\n• Dojazd: własnym samochodem na lotnisko w Mirosławicach\n• Czas trwania misji: 50 minut\n\nRezerwacje pod numerem 515 387 693. Szczegóły na stronie: mrmodelarnia.pl"
+        },
+        "en": {
+          "title": "Wrocław Wings – Family Aviation Mission",
+          "description": "The Wrocław Aviation Mission is a family scavenger hunt at the historic airport in Mirosławice. Instead of regular sightseeing, participants discover the history of the airport, search for hidden clues, and solve puzzles.\n\nThe program also includes a visit to the hangar and the opportunity to peek into the cockpit of the plane. Children search for clues and brainstorm, while parents assist in completing the mission.\n\nThe event is intended for children aged 6 and up, along with their parents or guardians. There is no upper age limit.\n\nDates:\n• Saturday, October 17, 2026:\n  - Group I: 11:00–11:50\n  - Group II: 12:05–12:55\n• Sunday, October 18, 2026:\n  - Group III: 11:00–11:50\n  - Group IV: 12:05–12:55\n\nLogistics:\n• Meeting point: Wrocław – the exact location will be designated in advance\n• Transportation: own"
+        },
+        "uk": {
+          "title": "Вроцлавські Крила – родинна авіаційна місія",
+          "description": "Вроцлавська Авіаційна Місія – це родинна гра-пошук на історичному аеродромі в Мірославіцях. Замість звичайного огляду учасники відкривають історію аеродрому, шукають приховані підказки та розв'язують загадки.\n\nУ програмі також є візит до ангару та можливість заглянути до кабіни літака. Діти шукають підказки та комбінують, а батьки допомагають у виконанні місії.\n\nПодія призначена для дітей від 6 років разом з батьками або опікунами. Немає верхньої межі віку.\n\nДати:\n• Субота, 17 жовтня 2026 р.:\n  - I група: 11:00–11:50\n  - II група: 12:05–12:55\n• Неділя, 18 жовтня 2026 р.:\n  - III група: 11:00–11:50\n  - IV група: 12:05–12:55\n\nЛогістика:\n• Місце збору: Вроцлав – точка збору буде визначена заздалегідь\n• Доїзд: власним"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-17T10:39:02.410145+00:00"
+    },
+    "zapach-ogrodu-i-jagodowy-raj-warsztaty-rodzinne-2026-10-22T17:00:00+02:00": {
+      "title": "Zapach ogrodu i jagodowy raj – warsztaty rodzinne",
+      "date": "2026-10-22T17:00:00+02:00",
+      "end_date": "2026-10-22T17:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Warsztaty łączące praktyczne ogrodnictwo z rodzinnym rękodziełem. Spotkanie składa się z dwóch części:\n\n• Część ogrodowa: wspólne zakładanie jagodowego zakątka w przycentrowym ogrodzie, przygotowanie ziemi i sadzenie roślin owocowych.\n• Część warsztatowa: tworzenie własnych woreczków zapachowych wypełnionych suszonymi kwiatami i ziołami przy kubku ciepłego naparu.\n\nZajęcia prowadzi Anna Chlebnikow (MIASTOwOGRÓD). Organizator zapewnia wszystkie niezbędne materiały i narzędzia. Wydarzenie skierowane jest do dzieci wraz z rodzicami i opiekunami. Bilety w cenie 30 zł - link.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/9e21d919-137f-4d95-a091-1c453e540870/003647ce-2482-4e80-93de-89687ec2eb88.jpg",
+      "location": {
+        "name": "Centrum Kultury Nowy Pafawag, Chociebuska 4-6, 54-433 Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/zapach-ogrodu-i-jagodowy-raj-warsztaty-rodzinne-9e21d919-137f-4d95-a091-1c453e540870",
+      "source": "simplygo.pl",
+      "age_hint": "3-12",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/zapach-ogrodu-i-jagodowy-raj-warsztaty-rodzinne-9e21d919-137f-4d95-a091-1c453e540870",
+      "scrapped_timestamp": "2026-10-17T10:38:47.885971+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "location_type": "both",
+      "translations": {
+        "pl": {
+          "title": "Zapach ogrodu i jagodowy raj – warsztaty rodzinne",
+          "description": "Warsztaty łączące praktyczne ogrodnictwo z rodzinnym rękodziełem. Spotkanie składa się z dwóch części:\n\n• Część ogrodowa: wspólne zakładanie jagodowego zakątka w przycentrowym ogrodzie, przygotowanie ziemi i sadzenie roślin owocowych.\n• Część warsztatowa: tworzenie własnych woreczków zapachowych wypełnionych suszonymi kwiatami i ziołami przy kubku ciepłego naparu.\n\nZajęcia prowadzi Anna Chlebnikow (MIASTOwOGRÓD). Organizator zapewnia wszystkie niezbędne materiały i narzędzia. Wydarzenie skierowane jest do dzieci wraz z rodzicami i opiekunami. Bilety w cenie 30 zł - link."
+        },
+        "en": {
+          "title": "The Scent of the Garden and Berry Paradise – Family Workshops",
+          "description": "Workshops combining practical gardening with family handicrafts. The meeting consists of two parts:\n\n• Garden part: jointly establishing a berry corner in the community garden, preparing the soil and planting fruit plants.\n• Workshop part: creating your own scented sachets filled with dried flowers and herbs while enjoying a cup of warm infusion.\n\nThe activities are led by Anna Chlebnikow (MIASTOwOGRÓD). The organizer provides all necessary materials and tools. The event is aimed at children along with their parents and guardians. Tickets priced at 30 PLN - link."
+        },
+        "uk": {
+          "title": "Запах саду та ягідний рай – сімейні майстер-класи",
+          "description": "Майстер-класи, що поєднують практичне садівництво з сімейним рукоділлям. Зустріч складається з двох частин:\n\n• Частина садова: спільне створення ягідного куточка в центральному саду, підготовка землі та посадка фруктових рослин.\n• Частина майстер-класу: створення власних ароматичних мішечків, наповнених сушеними квітами та травами, за чашкою теплого настою.\n\nЗаняття проводить Анна Хлебнікова (MIASTOwOGRÓD). Організатор забезпечує всі необхідні матеріали та інструменти. Подія спрямована на дітей разом з батьками та опікунами. Квитки в ціні 30 зл - посилання."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-10-17T10:39:02.410165+00:00"
+    },
+    "po-prostu-kosmos-teatrzyk-animacyjny-2026-10-24T11:00:00+02:00": {
+      "title": "Po prostu kosmos! – teatrzyk animacyjny",
+      "date": "2026-10-24T11:00:00+02:00",
+      "end_date": "2026-10-24T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Po prostu Kosmos! - Teatrzyk animacyjny z Nastazją, Gotowi na kosmiczną przygodę? Zapraszamy dzieci na wyjątkowy, interaktywny teatrzyk animacyjny, podczas którego wyruszymy w niezwykłą podróż poza Ziemię! Mali uczestnicy wcielą się w astronautów, zbudują własne rakiety, odwiedzą odległe planety i spotkają wesołego ufoludka. Przed nami międzygalaktyczna misja pełna zabawy, ruchu, muzyki i niespodzianek! To interaktywne przedstawienie stworzone z myślą o dzieciach w wieku przedszkolnym i wczesnoszkolnym. Tutaj nie ma miejsca na nudę - dzieci nie tylko oglądają, ale przede wszystkim aktywnie uczestniczą w kosmicznej wyprawie.\nW programie:\n• kosmiczna podróż i odkrywanie planet,\n• zabawy ruchowe i animacje,\n• spotkanie z wesołym ufoludkiem,\n• wspólna misja astronautów,\n• mnóstwo niespodzianek i dobrej zabawy!\nPrzygotujcie się na start - odliczanie rozpoczynamy już wkrótce!\nWydarzenie dla dzieci w wieku powyżej 5 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/4ea15d15-b4f8-4984-8f2a-a2039fe64f36/bae8f05d-c98e-453c-b281-f24724fcf52e.jpg",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 7, ul. Suwalska 11, 54-104 Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/po-prostu-kosmos-teatrzyk-animacyjny-4ea15d15-b4f8-4984-8f2a-a2039fe64f36",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/po-prostu-kosmos-teatrzyk-animacyjny-4ea15d15-b4f8-4984-8f2a-a2039fe64f36",
+      "scrapped_timestamp": "2026-10-17T10:38:52.274649+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun",
+        "Music & Dance"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Po prostu kosmos! – teatrzyk animacyjny",
+          "description": "Po prostu Kosmos! - Teatrzyk animacyjny z Nastazją, Gotowi na kosmiczną przygodę? Zapraszamy dzieci na wyjątkowy, interaktywny teatrzyk animacyjny, podczas którego wyruszymy w niezwykłą podróż poza Ziemię! Mali uczestnicy wcielą się w astronautów, zbudują własne rakiety, odwiedzą odległe planety i spotkają wesołego ufoludka. Przed nami międzygalaktyczna misja pełna zabawy, ruchu, muzyki i niespodzianek! To interaktywne przedstawienie stworzone z myślą o dzieciach w wieku przedszkolnym i wczesnoszkolnym. Tutaj nie ma miejsca na nudę - dzieci nie tylko oglądają, ale przede wszystkim aktywnie uczestniczą w kosmicznej wyprawie.\nW programie:\n• kosmiczna podróż i odkrywanie planet,\n• zabawy ruchowe i animacje,\n• spotkanie z wesołym ufoludkiem,\n• wspólna misja astronautów,\n• mnóstwo niespodzianek i dobrej zabawy!\nPrzygotujcie się na start - odliczanie rozpoczynamy już wkrótce!\nWydarzenie dla dzieci w wieku powyżej 5 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Simply Space! – Puppet Theater",
+          "description": "Simply Space! - Puppet Theater with Nastazja, Ready for a cosmic adventure? We invite children to a unique, interactive puppet theater, during which we will embark on an extraordinary journey beyond Earth! Little participants will become astronauts, build their own rockets, visit distant planets, and meet a cheerful little alien. Ahead of us is an intergalactic mission full of fun, movement, music, and surprises! This interactive performance is designed for preschool and early school-aged children. There is no room for boredom here - children not only watch but, above all, actively participate in the cosmic expedition.\nIn the program:\n• cosmic journey and planet exploration,\n• movement games and animations,\n• meeting with a cheerful little alien,\n• joint astronaut mission,\n• lots of surprises"
+        },
+        "uk": {
+          "title": "Просто космос! – анімаційний театр",
+          "description": "Просто Космос! - Анімаційний театр з Настасею, Готові до космічної пригоди? Запрошуємо дітей на унікальний, інтерактивний анімаційний театр, під час якого вирушимо в незвичайну подорож за межі Землі! Маленькі учасники втіляться в астронавтів, побудують власні ракети, відвідають віддалені планети та зустрінуть веселого прибульця. Перед нами міжгалактична місія, сповнена розваг, руху, музики та несподіванок! Це інтерактивна вистава, створена з думкою про дітей дошкільного та молодшого шкільного віку. Тут немає місця для нудьги - діти не лише дивляться, але перш за все активно беруть участь у космічній експедиції.\nВ програмі:\n• космічна подорож і відкриття планет,\n• рухливі ігри та анімації,\n• зустріч з веселим прибульцем,\n• спільна місія астронавтів,\n• безліч несподіванок"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/222194/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-10-17T10:39:02.410183+00:00"
     }
   }
 }

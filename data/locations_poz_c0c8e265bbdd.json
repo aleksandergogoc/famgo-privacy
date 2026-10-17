@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:25:31.840540+00:00",
+  "updated_at": "2026-10-17T10:49:41.877733+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1728,6 +1728,24 @@
       "lat": 52.4025325,
       "lng": 16.9223458,
       "updated_at": "2026-10-16T11:24:25.541967+00:00"
+    },
+    "dom kultury na...": {
+      "name": "Młodzieżowy Dom Kultury nr 2, 121, Za Cytadelą, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-659, Polska",
+      "district": "Nowe Miasto",
+      "address": "Młodzieżowy Dom Kultury nr 2, 121, Za Cytadelą, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-659, Polska",
+      "normalized": "dom kultury na...",
+      "lat": 52.4234217,
+      "lng": 16.9294554,
+      "updated_at": "2026-10-17T10:46:46.407145+00:00"
+    },
+    "osiedlowy dom kultury pod lipami": {
+      "name": "Aleja Pod Lipami, Nowe Winogrady Południe, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 61-634, Polska",
+      "district": "Nowe Miasto",
+      "address": "Aleja Pod Lipami, Nowe Winogrady Południe, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 61-634, Polska",
+      "normalized": "osiedlowy dom kultury pod lipami",
+      "lat": 52.4312821,
+      "lng": 16.9408549,
+      "updated_at": "2026-10-17T10:46:49.347986+00:00"
     }
   }
 }

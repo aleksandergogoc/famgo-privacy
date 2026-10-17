@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:25:33.412330+00:00",
+  "updated_at": "2026-10-17T10:49:43.039263+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2455,6 +2455,24 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-10-16T11:11:08.329408+00:00"
+    },
+    "wrocławskie centrum kongresowe wystawowa 1": {
+      "name": "Wrocławskie Centrum Kongresowe Wystawowa 1, Wrocław 51-618",
+      "district": "Śródmieście",
+      "address": "Wrocławskie Centrum Kongresowe Wystawowa 1, Wrocław 51-618",
+      "normalized": "wrocławskie centrum kongresowe wystawowa 1",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-17T10:35:36.095923+00:00"
+    },
+    "arlekin przy teatrze muzycznym capitol piłsudskiego": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "arlekin przy teatrze muzycznym capitol piłsudskiego",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-10-17T10:35:46.705707+00:00"
     }
   }
 }

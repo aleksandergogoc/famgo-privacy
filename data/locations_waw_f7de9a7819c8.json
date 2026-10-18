@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T11:25:34.628296+00:00",
+  "updated_at": "2026-10-18T11:04:28.509409+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9204,6 +9204,60 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-16T11:10:33.062885+00:00"
+    },
+    "stacja grawitacja warszawa": {
+      "name": "Stacja Grawitacja, 12, Aleja Bohaterów Września, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-389, Polska",
+      "district": "Ochota",
+      "address": "Stacja Grawitacja, 12, Aleja Bohaterów Września, Szczęśliwice, Ochota, Warszawa, województwo mazowieckie, 02-389, Polska",
+      "normalized": "stacja grawitacja warszawa",
+      "lat": 52.2126147,
+      "lng": 20.9621506,
+      "updated_at": "2026-10-18T10:42:13.562145+00:00"
+    },
+    "plac unii lubelskiej 1": {
+      "name": "Achiachi, 1, Plac Unii Lubelskiej, Oleandrów, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-623, Polska",
+      "district": "Śródmieście",
+      "address": "Achiachi, 1, Plac Unii Lubelskiej, Oleandrów, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-623, Polska",
+      "normalized": "plac unii lubelskiej 1",
+      "lat": 52.2133298,
+      "lng": 21.0210711,
+      "updated_at": "2026-10-18T10:42:14.813568+00:00"
+    },
+    "mokotowska _ aleja armii ludowej": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "mokotowska _ aleja armii ludowej",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-10-18T10:42:20.885576+00:00"
+    },
+    "ul. krakowskie przedmieście 11": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "ul. krakowskie przedmieście 11",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-10-18T10:42:30.217370+00:00"
+    },
+    "hulakula – rozrywkowe centrum miasta": {
+      "name": "Hulakula Rozrywkowe Centrum Miasta, 82b, Jagiellońska, Golędzinów, Pelcowizna, Praga-Północ, Warszawa, województwo mazowieckie, 03-301, Polska",
+      "district": "Praga-Północ",
+      "address": "Hulakula Rozrywkowe Centrum Miasta, 82b, Jagiellońska, Golędzinów, Pelcowizna, Praga-Północ, Warszawa, województwo mazowieckie, 03-301, Polska",
+      "normalized": "hulakula – rozrywkowe centrum miasta",
+      "lat": 52.2732681,
+      "lng": 21.0170546,
+      "updated_at": "2026-10-18T10:42:33.598582+00:00"
+    },
+    "tygmont live club": {
+      "name": "Mazowiecka 6/8, Warszawa",
+      "district": "Śródmieście",
+      "address": "Mazowiecka 6/8, Warszawa",
+      "normalized": "tygmont live club",
+      "lat": 52.238,
+      "lng": 21.012,
+      "updated_at": "2026-10-18T10:42:43.286946+00:00"
     }
   }
 }

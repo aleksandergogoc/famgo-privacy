@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T10:31:55.270103+00:00",
+  "updated_at": "2026-10-18T10:57:53.248466+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-11-15T14:00:00": {
       "scrapped_timestamp": "2026-07-10T13:27:53.516482+00:00",
@@ -10513,42 +10513,43 @@
       "updated_at": "2026-10-13T16:33:36.861198+00:00"
     },
     "wystawa-kr-lik-w-rasowych-hala-expo-2026-10-25T10:00:00+01:00": {
-      "title": "WYSTAWA KRÓLIKÓW RASOWYCH | Hala EXPO",
-      "description": "Wystawa odbywa się podczas wydarzenia Egzotyczne Zwierzęta w Hali Expo Aleje Politechniki 4 w dniu 25 października\n\nEgzotyczne Zwierzęta",
-      "image": "https://uml.lodz.pl/files/public/_processed_/1/1/csm_5gp6a00atny8ysrkmrhjbkhkz3ugyylt__1__44de5f301a.png",
-      "source": "uml.lodz.pl",
-      "location": {
-        "name": "Hala EXPO Łódź (al. Politechniki 4)",
-        "district": "Polesie"
-      },
-      "district": "Polesie",
+      "title": "Wystawa królików rasowych – Hala Expo",
       "date": "2026-10-25T10:00:00+01:00",
       "end_date": "2026-10-25T10:00:00+01:00",
       "startTimeKnown": true,
-      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wystawa-krolikow-rasowych-hala-expo-id181846/2026/10/25/",
-      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wystawa-krolikow-rasowych-hala-expo-id181846/2026/10/25/",
-      "scrapped_timestamp": "2026-10-17T10:42:45.911398+00:00",
-      "category": "Nature & Wildlife",
-      "age_range": {
-        "min": 3,
-        "max": 12
+      "description": "Wystawa zwierząt futerkowych, na której zaprezentowano ponad 300 królików z 40 ras. Program obejmuje także pokazy świnek rasowych.\n\nWystawa odbywa się podczas wydarzenia Egzotyczne Zwierzęta.\n\nMiejsce i termin:\n• Hala Expo, Aleje Politechniki 4\n• 25 października",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/36812c8b-c857-471a-b9ea-ddaf6fc9677d/d0429141-fc4d-479f-870c-6951f057a353.jpg",
+      "location": {
+        "name": "Hala EXPO Łódź (al. Politechniki 4)",
+        "district": "Polesie"
       },
+      "url": "https://simplygo.pl/wydarzenia/lodz/rozrywka/wydarzenie/wystawa-krolikow-rasowych-hala-expo-36812c8b-c857-471a-b9ea-ddaf6fc9677d",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/rozrywka/wydarzenie/wystawa-krolikow-rasowych-hala-expo-36812c8b-c857-471a-b9ea-ddaf6fc9677d",
+      "scrapped_timestamp": "2026-10-18T10:56:55.377352+00:00",
+      "category": "Nature & Wildlife",
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "WYSTAWA KRÓLIKÓW RASOWYCH | Hala EXPO",
-          "description": "Wystawa odbywa się podczas wydarzenia Egzotyczne Zwierzęta w Hali Expo Aleje Politechniki 4 w dniu 25 października\n\nEgzotyczne Zwierzęta"
+          "title": "Wystawa królików rasowych – Hala Expo",
+          "description": "Wystawa zwierząt futerkowych, na której zaprezentowano ponad 300 królików z 40 ras. Program obejmuje także pokazy świnek rasowych.\n\nWystawa odbywa się podczas wydarzenia Egzotyczne Zwierzęta.\n\nMiejsce i termin:\n• Hala Expo, Aleje Politechniki 4\n• 25 października"
         },
         "en": {
-          "title": "RABBIT BREED EXHIBITION | EXPO Hall",
-          "description": "The exhibition takes place during the Exotic Animals event at the Expo Hall Aleje Politechniki 4 on October 25th\n\nExotic Animals"
+          "title": "Rabbit Breed Exhibition – Expo Hall",
+          "description": "Fur animal exhibition featuring over 300 rabbits from 40 breeds. The program also includes shows of breed pigs.\n\nThe exhibition takes place during the Exotic Animals event.\n\nLocation and date:\n• Expo Hall, Aleje Politechniki 4\n• October 25"
         },
         "uk": {
-          "title": "ВИСТАВКА ПОРОДИСТИХ КРОЛИКІВ | Хала EXPO",
-          "description": "Виставка відбувається під час події Екзотичні Тварини в Халі Expo Алеї Політехніки 4 в день 25 жовтня\n\nЕкзотичні Тварини"
+          "title": "Виставка породистих кроликів – Хала Експо",
+          "description": "Виставка тварин хутрових, на якій представлено понад 300 кроликів з 40 порід. Програма також включає покази свинок породистих.\n\nВиставка відбувається під час події Екзотичні Тварини.\n\nМісце та термін:\n• Хала Експо, Алеї Політехніки 4\n• 25 жовтня"
         }
       },
-      "updated_at": "2026-10-17T10:43:15.655027+00:00"
+      "admission": {
+        "is_free": true
+      },
+      "district": "Polesie",
+      "updated_at": "2026-10-18T10:57:53.034446+00:00"
     },
     "neonowe-halloween-w-orientkowie-wiecz-r-pe-en-zabawy-orientarium-zoo-d-2026-10-31T17:00:00+01:00": {
       "title": "Neonowe Halloween w Orientkowie. Wieczór pełen zabawy! | Orientarium ZOO Łódź",
@@ -12381,6 +12382,657 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-10-17T10:43:15.655164+00:00"
+    },
+    "bajka-improwizowana-nie-tylko-dla-dzieci-2026-11-22T16:00:00+01:00": {
+      "title": "Bajka improwizowana (nie tylko) dla dzieci",
+      "date": "2026-11-22T16:00:00+01:00",
+      "end_date": "2026-11-22T16:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Improwizowany spektakl, w którym najmłodsi decydują o wszystkim, co zdarzy się na scenie: gdzie potoczy się akcja, w jakie postaci wcielą się aktorzy, jakie będą mieli kostiumy, wreszcie do jak bardzo zaczarowanego świata zabiorą siebie i innych. Dzieci stają się reżyserami, ale mogą też pojawić się na scenie w roli aktorów. Bajka improwizowana to inteligentna rodzinna zabawa w teatr na dwóch poziomach: dla rodzica i dla dziecka. To podróż w głąb wyobraźni, znakomita odskocznia od codzienności i gwarantowany relaks.",
+      "image": "https://assets.kupbilecik.pl/img/baza/12000/11646.webp?1788765396",
+      "url": "https://www.kupbilecik.pl/pl/event/224100/lodz/wymyslanka?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
+      "location": {
+        "name": "Teatr Komedii Impro w Łodzi scena OFF Piotrkowska",
+        "address": "ul. Piotrkowska 138/140",
+        "lat": 51.7613637,
+        "lng": 19.4597148,
+        "district": "Śródmieście"
+      },
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/224100/lodz/wymyslanka?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-10-18T10:56:13.099047+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bajka improwizowana (nie tylko) dla dzieci",
+          "description": "Improwizowany spektakl, w którym najmłodsi decydują o wszystkim, co zdarzy się na scenie: gdzie potoczy się akcja, w jakie postaci wcielą się aktorzy, jakie będą mieli kostiumy, wreszcie do jak bardzo zaczarowanego świata zabiorą siebie i innych. Dzieci stają się reżyserami, ale mogą też pojawić się na scenie w roli aktorów. Bajka improwizowana to inteligentna rodzinna zabawa w teatr na dwóch poziomach: dla rodzica i dla dziecka. To podróż w głąb wyobraźni, znakomita odskocznia od codzienności i gwarantowany relaks."
+        },
+        "en": {
+          "title": "Improvised Fairy Tale (not only) for Children",
+          "description": "An improvised performance in which the youngest decide everything that happens on stage: where the action will unfold, what characters the actors will embody, what costumes they will wear, and finally, how enchanted a world they will take themselves and others to. Children become directors, but they can also appear on stage as actors. The improvised fairy tale is an intelligent family fun in theater on two levels: for the parent and for the child. It is a journey into the depths of imagination, an excellent escape from everyday life, and guaranteed relaxation."
+        },
+        "uk": {
+          "title": "Імпровізована казка (не тільки) для дітей",
+          "description": "Імпровізований спектакль, в якому наймолодші вирішують про все, що станеться на сцені: де відбуватиметься дія, в які персонажі втіляться актори, які в них будуть костюми, нарешті, до якого дуже чарівного світу вони заберуть себе та інших.\n\nДіти стають режисерами, але можуть також з'явитися на сцені в ролі акторів. Імпровізована казка — це інтелектуальна сімейна розвага в театрі на двох рівнях: для батьків і для дітей. Це подорож у глибину уяви, чудова віддушина від повсякденності та гарантований релакс."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/224100/lodz/wymyslanka?utm_source=pp&utm_medium=604"
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-18T10:57:53.034292+00:00"
+    },
+    "touch-rugby-treningi-dla-ka-dego-2026-10-18T11:00:00+02:00": {
+      "title": "Touch rugby – treningi dla każdego",
+      "date": "2026-10-18T11:00:00+02:00",
+      "end_date": "2026-10-18T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Otwarte treningi touch rugby, czyli rugby lekko-kontaktowego, są przeznaczone dla osób w każdym wieku, niezależnie od płci i doświadczenia. To okazja do nauki gry od podstaw, ćwiczeń ruchowych dopasowanych do możliwości uczestników i wspólnej zabawy.\n\nTreningi odbywają się w każdą niedzielę o 11:00 na boisku im. Tomasza Sadłeckiego przy ul. Sępiej w Łodzi. Udział jest darmowy.\n\nNa trening warto zabrać strój i buty sportowe, butelkę wody oraz otwartą głowę i dobry humor. Boisko ma sztuczną nawierzchnię. W słoneczne dni przydadzą się czapka, bandana lub krem z filtrem.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/6465d4ba-909c-46ef-9d32-c350e8c7e22e/14a2d409-3145-4032-bfa9-6b21e55fe20d.jpg",
+      "location": {
+        "name": "ulica Sępia",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/sport/wydarzenie/touch-rugby-treningi-dla-kazdego-6465d4ba-909c-46ef-9d32-c350e8c7e22e",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/sport/wydarzenie/touch-rugby-treningi-dla-kazdego-6465d4ba-909c-46ef-9d32-c350e8c7e22e",
+      "scrapped_timestamp": "2026-10-18T10:56:17.599617+00:00",
+      "category": "Sports",
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Touch rugby – treningi dla każdego",
+          "description": "Otwarte treningi touch rugby, czyli rugby lekko-kontaktowego, są przeznaczone dla osób w każdym wieku, niezależnie od płci i doświadczenia. To okazja do nauki gry od podstaw, ćwiczeń ruchowych dopasowanych do możliwości uczestników i wspólnej zabawy.\n\nTreningi odbywają się w każdą niedzielę o 11:00 na boisku im. Tomasza Sadłeckiego przy ul. Sępiej w Łodzi. Udział jest darmowy.\n\nNa trening warto zabrać strój i buty sportowe, butelkę wody oraz otwartą głowę i dobry humor. Boisko ma sztuczną nawierzchnię. W słoneczne dni przydadzą się czapka, bandana lub krem z filtrem."
+        },
+        "en": {
+          "title": "Touch rugby – training for everyone",
+          "description": "Open touch rugby training sessions, which is a form of light-contact rugby, are intended for people of all ages, regardless of gender and experience. This is an opportunity to learn the game from scratch, engage in movement exercises tailored to participants' abilities, and have fun together.\n\nTraining sessions take place every Sunday at 11:00 at the Tomasz Sadłecki field on Sępia Street in Łódź. Participation is free.\n\nIt is advisable to bring sportswear and shoes, a bottle of water, as well as an open mind and good humor. The field has an artificial surface. On sunny days, a hat, bandana, or sunscreen will be useful."
+        },
+        "uk": {
+          "title": "Тач-регбі – тренінги для кожного",
+          "description": "Відкриті тренінги тач-регбі, тобто регбі легкого контакту, призначені для осіб будь-якого віку, незалежно від статі та досвіду. Це можливість навчитися грати з нуля, виконувати рухові вправи, адаптовані до можливостей учасників, та спільно розважатися.\n\nТренінги відбуваються щонеділі о 11:00 на полі імені Томаша Садлецького на вулиці Сепей в Łodzi. Участь безкоштовна.\n\nНа тренування варто взяти одяг та спортивне взуття, пляшку води, а також відкриту голову і гарний настрій. Поле має штучне покриття. У сонячні дні знадобляться капелюх, бандана або крем з фільтром."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-10-18T10:57:53.034326+00:00"
+    },
+    "build-the-change-warsztaty-lego-w-centrum-nauki-i-techniki-ec1-2026-10-18T12:00:00+02:00": {
+      "title": "Build the Change – warsztaty LEGO w Centrum Nauki i Techniki EC1",
+      "date": "2026-10-18T12:00:00+02:00",
+      "end_date": "2026-10-18T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Rodzinne warsztaty LEGO® Build the Change w Centrum Nauki i Techniki EC1. Dzieci i rodzice wspólnie projektują podwórko, szkołę marzeń albo wynalazek, który pomoże planecie. Nie korzysta się z gotowych instrukcji, a rozwiązania wymyślają sami uczestnicy.\n\nTermin i logistyka:\n• 18 października (niedziela), godz. 12:00,\n• miejsce: Centrum Nauki i Techniki EC1, Łódź,\n• czas trwania: 90 minut,\n• dla kogo: dzieci od 5 lat wraz z rodzicem lub opiekunem,\n• liczba miejsc jest ograniczona do 15.\n\nBilety:\n• 30 zł/os. – bilet na warsztaty,\n• 15 zł/os. – dla posiadaczy biletu wstępu do CNiT.\n\nZarówno dziecko, jak i opiekun potrzebują własnego biletu na warsztaty.\n\nBilety: https://ec1lodz.pl/.../warsztaty-lego-build-the-change...\nWięcej informacji: https://ec1lodz.pl/.../warsztaty-lego-build-the-change...",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/250e3b03-b182-4973-b41a-d8ecb3bb6d70/f4a04bc0-5f74-4e67-8de0-67320feab6d5.jpg",
+      "location": {
+        "name": "EC1 Łódź - Miasto Kultury",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/build-the-change-warsztaty-lego-w-centrum-nauki-i-techniki-ec1-250e3b03-b182-4973-b41a-d8ecb3bb6d70",
+      "source": "simplygo.pl",
+      "age_hint": "5-18",
+      "age_range": {
+        "min": 5,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/build-the-change-warsztaty-lego-w-centrum-nauki-i-techniki-ec1-250e3b03-b182-4973-b41a-d8ecb3bb6d70",
+      "scrapped_timestamp": "2026-10-18T10:56:22.564198+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "STEM"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Build the Change – warsztaty LEGO w Centrum Nauki i Techniki EC1",
+          "description": "Rodzinne warsztaty LEGO® Build the Change w Centrum Nauki i Techniki EC1. Dzieci i rodzice wspólnie projektują podwórko, szkołę marzeń albo wynalazek, który pomoże planecie. Nie korzysta się z gotowych instrukcji, a rozwiązania wymyślają sami uczestnicy.\n\nTermin i logistyka:\n• 18 października (niedziela), godz. 12:00,\n• miejsce: Centrum Nauki i Techniki EC1, Łódź,\n• czas trwania: 90 minut,\n• dla kogo: dzieci od 5 lat wraz z rodzicem lub opiekunem,\n• liczba miejsc jest ograniczona do 15.\n\nBilety:\n• 30 zł/os. – bilet na warsztaty,\n• 15 zł/os. – dla posiadaczy biletu wstępu do CNiT.\n\nZarówno dziecko, jak i opiekun potrzebują własnego biletu na warsztaty.\n\nBilety: https://ec1lodz.pl/.../warsztaty-lego-build-the-change...\nWięcej informacji: https://ec1lodz.pl/.../warsztaty-lego-build-the-change..."
+        },
+        "en": {
+          "title": "Build the Change – LEGO workshops at the EC1 Science and Technology Center",
+          "description": "Family LEGO® Build the Change workshops at the EC1 Science and Technology Center. Children and parents jointly design a backyard, a dream school, or an invention that will help the planet. No ready-made instructions are used, and the solutions are devised by the participants themselves.\n\nDate and logistics:\n• October 18 (Sunday), 12:00 PM,\n• location: EC1 Science and Technology Center, Łódź,\n• duration: 90 minutes,\n• for whom: children from 5 years old with a parent or guardian,\n• the number of places is limited to 15.\n\nTickets:\n• 30 PLN/person – ticket for the workshop,\n• 15 PLN/person – for holders of an entrance ticket to CNiT.\n\nBoth the child and the guardian need their own ticket for the workshop.\n\nTickets: https://ec1lodz.pl/.../warsztaty-lego-build-the-change...\nMore information: https://ec1lodz.pl/.../warsztaty-lego-build-the-change"
+        },
+        "uk": {
+          "title": "Зміни на краще – майстер-класи LEGO в Центрі науки та техніки EC1",
+          "description": "Сімейні майстер-класи LEGO® Зміни на краще в Центрі науки та техніки EC1. Діти та батьки спільно проектують подвір'я, школу мрій або винахід, який допоможе планеті. Не користуються готовими інструкціями, а рішення вигадують самі учасники.\n\nТермін і логістика:\n• 18 жовтня (неділя), год. 12:00,\n• місце: Центр науки та техніки EC1, Łódź,\n• тривалість: 90 хвилин,\n• для кого: діти від 5 років разом з батьком або опікуном,\n• кількість місць обмежена до 15.\n\nКвитки:\n• 30 зл/особа – квиток на майстер-класи,\n• 15 зл/особа – для власників квитка на вхід до CNiT.\n\nЯк дитина, так і опікун потребують власного квитка на майстер-класи.\n\nКвитки: https://ec1lodz.pl/.../warsztaty-lego-build-the-change...\nБільше інформації: https://ec1lodz.pl/.../warsztaty-lego-build-the-change"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-18T10:57:53.034351+00:00"
+    },
+    "ko-ysanka-dla-myszy-spektakl-w-teatrze-arlekin-2026-10-18T12:00:00+02:00": {
+      "title": "„Kołysanka dla myszy” – spektakl w Teatrze Arlekin",
+      "date": "2026-10-18T12:00:00+02:00",
+      "end_date": "2026-10-18T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "„Kołysanka dla myszy” to spektakl dla widzów powyżej 4. roku życia o lękach, które utrudniają zasypianie. Juli, kilkuletni chłopiec, otrzymuje wskazówki od Księżyca, Wiatru i Kota. Przedstawienie w ciepły i przewrotny sposób pomaga najmłodszym oswajać nocne niepokoje.\n\nTekst skonsultowano z psychologiem. Spektakl wykorzystuje kojące dźwięki i różnorodne formy lalkowe; twórcy zadbali o przyjazny dla ucha i oka charakter przedstawienia.\n\nBilety można kupić mailowo, telefonicznie, online lub w kasie Teatru Arlekin. Rezerwacje: 690 466 513 lub 695 087 008, także w weekendy. E-mail: biletyrezerwacja@teatrarlekin.pl. Teatr można znaleźć na Facebooku i Instagramie.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d68e90f8-d0d1-4475-8704-cb6cf30cb798/317c0c5f-0942-433b-8b09-95ff801ada09.jpg",
+      "location": {
+        "name": "Teatr Lalek Arlekin im. Henryka Ryla w Łodzi (ul. Wólczańska 5)",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/kolysanka-dla-myszy-spektakl-w-teatrze-arlekin-d68e90f8-d0d1-4475-8704-cb6cf30cb798",
+      "source": "simplygo.pl",
+      "age_hint": "4-18",
+      "age_range": {
+        "min": 4,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/kolysanka-dla-myszy-spektakl-w-teatrze-arlekin-d68e90f8-d0d1-4475-8704-cb6cf30cb798",
+      "scrapped_timestamp": "2026-10-18T10:56:29.311476+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "„Kołysanka dla myszy” – spektakl w Teatrze Arlekin",
+          "description": "„Kołysanka dla myszy” to spektakl dla widzów powyżej 4. roku życia o lękach, które utrudniają zasypianie. Juli, kilkuletni chłopiec, otrzymuje wskazówki od Księżyca, Wiatru i Kota. Przedstawienie w ciepły i przewrotny sposób pomaga najmłodszym oswajać nocne niepokoje.\n\nTekst skonsultowano z psychologiem. Spektakl wykorzystuje kojące dźwięki i różnorodne formy lalkowe; twórcy zadbali o przyjazny dla ucha i oka charakter przedstawienia.\n\nBilety można kupić mailowo, telefonicznie, online lub w kasie Teatru Arlekin. Rezerwacje: 690 466 513 lub 695 087 008, także w weekendy. E-mail: biletyrezerwacja@teatrarlekin.pl. Teatr można znaleźć na Facebooku i Instagramie."
+        },
+        "en": {
+          "title": "\"Lullaby for Mice\" – a performance at the Arlekin Theatre",
+          "description": "\"Lullaby for Mice\" is a performance for audiences aged 4 and above about fears that hinder falling asleep. Juli, a young boy, receives guidance from the Moon, the Wind, and the Cat. The show helps the youngest children to tame their nighttime anxieties in a warm and ironic way.\n\nThe text has been consulted with a psychologist. The performance uses soothing sounds and various puppet forms; the creators have ensured a pleasant auditory and visual character of the show.\n\nTickets can be purchased via email, phone, online, or at the Arlekin Theatre box office. Reservations: 690 466 513 or 695 087 008, also on weekends. Email: biletyrezerwacja@teatrarlekin.pl. The theatre can be found on Facebook and Instagram."
+        },
+        "uk": {
+          "title": "„Колискова для миші” – спектакль у Театрі Арлекін",
+          "description": "„Колискова для миші” – це спектакль для глядачів старше 4 років про страхи, які ускладнюють засинання. Юлі, кількарічний хлопчик, отримує підказки від Місяця, Вітру та Кота. Вистава в теплий і перевернутий спосіб допомагає найменшим освоювати нічні тривоги.\n\nТекст погоджено з психологом. Спектакль використовує заспокійливі звуки та різноманітні лялькові форми; творці подбали про дружній для вуха та ока характер вистави.\n\nКвитки можна купити електронною поштою, телефоном, онлайн або в касі Театру Арлекін. Резервування: 690 466 513 або 695 087 008, також у вихідні. Електронна пошта: biletyrezerwacja@teatrarlekin.pl. Театр можна знайти на Facebook та Instagram."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-18T10:57:53.034372+00:00"
+    },
+    "krav-maga-warsztaty-sportowe-dla-dzieci-i-m-odzie-y-2026-10-21T18:00:00+02:00": {
+      "title": "Krav Maga – warsztaty sportowe dla dzieci i młodzieży",
+      "date": "2026-10-21T18:00:00+02:00",
+      "end_date": "2026-10-21T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Cykliczne warsztaty Krav Maga w Fabryce Sztuki w Łodzi to zajęcia sportowe rozwijające sprawność, świadomość ciała oraz podstawy samoobrony. Treningi prowadzone przez Elinę Tonevę opierają się na formach zabawowych, nauce bezpiecznego upadania, rozpoznawaniu zagrożeń oraz zasadach udzielania pierwszej pomocy.\n\nTerminy (każda środa):\n• 18:00-19:00: grupa dzieci (6-9 lat)\n• 19:00-20:00: grupa młodzieży (10-15 lat)\n\nLokalizacja: Fabryka Sztuki w Łodzi, ul. Tymienieckiego 3.\n\nCennik:\n• Zajęcia próbne: 45 zł\n• Miesięczny cykl warsztatów: 160 zł\n\nZapisy i informacje:\n• E-mail: warsztaty@fabrykasztuki.org (poniedziałek-piątek, 12:00-18:00)\n• Wymagany strój sportowy i obuwie na gumowej podeszwie.\n• Regulamin: www.fabrykasztuki.org/Tworcze_Warsztaty_w_Fabryce_Sztuki\n• Strona organizatora: www.fabrykasztuki.org\n• Facebook: www.facebook.com/fabrykasztukilodz",
+      "image": null,
+      "location": {
+        "name": "Fabryka Sztuki w Łodzi (Art_Inkubator), bp. Wincentego Tymienieckiego 3, Łódź",
+        "district": "Widzew"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/krav-maga-warsztaty-sportowe-dla-dzieci-i-mlodziezy-010d9752-2405-4110-8777-1d346f914698",
+      "source": "simplygo.pl",
+      "age_hint": "6-15",
+      "age_range": {
+        "min": 6,
+        "max": 15
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/krav-maga-warsztaty-sportowe-dla-dzieci-i-mlodziezy-010d9752-2405-4110-8777-1d346f914698",
+      "scrapped_timestamp": "2026-10-18T10:56:35.244206+00:00",
+      "category": "Sports",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Krav Maga – warsztaty sportowe dla dzieci i młodzieży",
+          "description": "Cykliczne warsztaty Krav Maga w Fabryce Sztuki w Łodzi to zajęcia sportowe rozwijające sprawność, świadomość ciała oraz podstawy samoobrony. Treningi prowadzone przez Elinę Tonevę opierają się na formach zabawowych, nauce bezpiecznego upadania, rozpoznawaniu zagrożeń oraz zasadach udzielania pierwszej pomocy.\n\nTerminy (każda środa):\n• 18:00-19:00: grupa dzieci (6-9 lat)\n• 19:00-20:00: grupa młodzieży (10-15 lat)\n\nLokalizacja: Fabryka Sztuki w Łodzi, ul. Tymienieckiego 3.\n\nCennik:\n• Zajęcia próbne: 45 zł\n• Miesięczny cykl warsztatów: 160 zł\n\nZapisy i informacje:\n• E-mail: warsztaty@fabrykasztuki.org (poniedziałek-piątek, 12:00-18:00)\n• Wymagany strój sportowy i obuwie na gumowej podeszwie.\n• Regulamin: www.fabrykasztuki.org/Tworcze_Warsztaty_w_Fabryce_Sztuki\n• Strona organizatora: www.fabrykasztuki.org\n• Facebook: www.facebook.com/fabrykasztukilodz"
+        },
+        "en": {
+          "title": "Krav Maga – sports workshops for children and youth",
+          "description": "Cyclical Krav Maga workshops at the Art Factory in Łódź are sports activities that develop fitness, body awareness, and basic self-defense skills. The training sessions led by Elina Toneva are based on playful forms, learning safe falling, recognizing threats, and principles of first aid.\n\nDates (every Wednesday):\n• 18:00-19:00: children's group (6-9 years old)\n• 19:00-20:00: youth group (10-15 years old)\n\nLocation: Art Factory in Łódź, ul. Tymienieckiego 3.\n\nPricing:\n• Trial classes: 45 PLN\n• Monthly workshop cycle: 160 PLN\n\nRegistration and information:\n• E-mail: warsztaty@fabrykasztuki.org (Monday-Friday, 12:00-18:00)\n• Sportswear and shoes with rubber soles are required.\n• Regulations: www.fabrykasztuki.org/Tworcze_Warsztaty_w_Fabryce_Sztuki\n• Organizer's website: www.fabry"
+        },
+        "uk": {
+          "title": "Крав Мага – спортивні майстер-класи для дітей та молоді",
+          "description": "Циклічні майстер-класи Крав Мага у Фабриці Мистецтв у Łodzi – це спортивні заняття, що розвивають спритність, усвідомлення тіла та основи самооборони. Тренування проводяться Еліною Тоневою і базуються на ігрових формах, навчанні безпечного падіння, розпізнаванні загроз та принципах надання першої допомоги.\n\nТерміни (кожна середа):\n• 18:00-19:00: група дітей (6-9 років)\n• 19:00-20:00: група молоді (10-15 років)\n\nЛокація: Фабрика Мистецтв у Łodzi, вул. Тименєцького 3.\n\nЦіни:\n• Пробні заняття: 45 зл\n• Місячний цикл майстер-класів: 160 зл\n\nЗапис та інформація:\n• E-mail: warsztaty@fabrykasztuki.org (понеділок-п’ятниця, 12:00-18:00)\n• Потрібен спортивний одяг та взуття на гумовій підошві.\n• Правила: www.fabrykasztuki.org/Tworcze_Warsztaty_w_Fabryce_Sztuki\n• Сайт організатора: www.fabry"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Widzew",
+      "updated_at": "2026-10-18T10:57:53.034392+00:00"
+    },
+    "festiwal-klock-w-connect-kreatywna-zabawa-2026-10-24T11:00:00+02:00": {
+      "title": "Festiwal klocków CONNECT – kreatywna zabawa",
+      "date": "2026-10-24T11:00:00+02:00",
+      "end_date": "2026-10-24T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Przez trzy soboty czerwca Pasaż Łódzki zamieni się w strefę konstrukcyjną. Dzieci będą budować z klocków CONNECT pod okiem animatorów, a każda odsłona festiwalu otrzyma inny motyw przewodni.\n\n• 13 czerwca, 11:00–17:00 – „Miasto Przyszłości”: projektowanie budynków, mostów i wieżowców\n• 20 czerwca, 11:00–17:00 – „Wielki Wyścig”: budowanie pojazdów i testowanie ich na rampie zjazdowej\n• 27 czerwca, 11:00–17:00 – „Kosmos i Roboty”: tworzenie stacji kosmicznych, łazików, robotów i galaktycznych stworzeń\n\nPodczas pierwszej wizyty każde dziecko otrzyma „Paszport Konstruktora CONNECT”. Za udział w wyzwaniach animatorzy będą przyznawać pieczątki. Zdobycie minimum dwóch uprawnia do gwarantowanej nagrody głównej – zestawu klocków CONNECT, który można odebrać 20 lub 27 czerwca.\n\nW dniach 13–27 czerwca klienci, którzy zrobią zakupy na terenie Pasażu Łódzkiego za minimum 200 zł, na maksymalnie dwóch paragonach, będą mogli odebrać nagrody, między innymi vouchery na desery, bubble tea i karty podarunkowe do Empiku. Odbiór nagród odbędzie się w festiwalowe soboty w godzinach 11:00–17:00. Szczegółowe zasady akcji, w tym lista punktów wyłączonych z promocji, znajdują się w regulaminie na stronie internetowej centrum.\n\nUdział w Festiwalu klocków CONNECT i wszystkich atrakcjach jest bezpłatny.",
+      "image": null,
+      "location": {
+        "name": "Pasaż Łódzki, Aleja Jana Pawła II 30, Łódź",
+        "district": "Polesie"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/festiwal-klockow-connect-kreatywna-zabawa-620a027c-9507-4bf0-8e07-2c1b77c13009",
+      "source": "simplygo.pl",
+      "age_hint": "5-12",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/festiwal-klockow-connect-kreatywna-zabawa-620a027c-9507-4bf0-8e07-2c1b77c13009",
+      "scrapped_timestamp": "2026-10-18T10:56:42.408075+00:00",
+      "category": "STEM",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Festiwal klocków CONNECT – kreatywna zabawa",
+          "description": "Przez trzy soboty czerwca Pasaż Łódzki zamieni się w strefę konstrukcyjną. Dzieci będą budować z klocków CONNECT pod okiem animatorów, a każda odsłona festiwalu otrzyma inny motyw przewodni.\n\n• 13 czerwca, 11:00–17:00 – „Miasto Przyszłości”: projektowanie budynków, mostów i wieżowców\n• 20 czerwca, 11:00–17:00 – „Wielki Wyścig”: budowanie pojazdów i testowanie ich na rampie zjazdowej\n• 27 czerwca, 11:00–17:00 – „Kosmos i Roboty”: tworzenie stacji kosmicznych, łazików, robotów i galaktycznych stworzeń\n\nPodczas pierwszej wizyty każde dziecko otrzyma „Paszport Konstruktora CONNECT”. Za udział w wyzwaniach animatorzy będą przyznawać pieczątki. Zdobycie minimum dwóch uprawnia do gwarantowanej nagrody głównej – zestawu klocków CONNECT, który można odebrać 20 lub 27 czerwca.\n\nW dniach 13–27 czerwca klienci, którzy zrobią zakupy na terenie Pasażu Łódzkiego za minimum 200 zł, na maksymalnie dwóch paragonach, będą mogli odebrać nagrody, między innymi vouchery na desery, bubble tea i karty podarunkowe do Empiku. Odbiór nagród odbędzie się w festiwalowe soboty w godzinach 11:00–17:00. Szczegółowe zasady akcji, w tym lista punktów wyłączonych z promocji, znajdują się w regulaminie na stronie internetowej centrum.\n\nUdział w Festiwalu klocków CONNECT i wszystkich atrakcjach jest bezpłatny."
+        },
+        "en": {
+          "title": "CONNECT Brick Festival – Creative Fun",
+          "description": "For three Saturdays in June, Pasaż Łódzki will transform into a construction zone. Children will build with CONNECT bricks under the supervision of animators, and each edition of the festival will have a different theme.\n\n• June 13, 11:00 AM–5:00 PM – \"City of the Future\": designing buildings, bridges, and skyscrapers\n• June 20, 11:00 AM–5:00 PM – \"The Great Race\": building vehicles and testing them on a ramp\n• June 27, 11:00 AM–5:00 PM – \"Space and Robots\": creating space stations, rovers, robots, and galactic creatures\n\nDuring the first visit, each child will receive a \"CONNECT Constructor Passport\". For participating in challenges, animators will award stamps. Collecting at least two qualifies for a guaranteed grand prize – a set of CONNECT bricks, which can be picked up on June 20 or 27.\n\nOn the days of June 13–27"
+        },
+        "uk": {
+          "title": "Фестиваль конструкторів CONNECT – креативні розваги",
+          "description": "Протягом трьох субот червня Пассаж Лодзький перетвориться на зону конструкцій. Діти будуть будувати з конструкторів CONNECT під наглядом аніматорів, а кожна версія фестивалю отримає іншу тематичну лінію.\n\n• 13 червня, 11:00–17:00 – «Місто Майбутнього»: проектування будівель, мостів та хмарочосів\n• 20 червня, 11:00–17:00 – «Велика Перегона»: будування транспортних засобів та їх тестування на спусковій рампі\n• 27 червня, 11:00–17:00 – «Космос і Роботи»: створення космічних станцій, марсохід, роботів та галактичних істот\n\nПід час першого візиту кожна дитина отримає «Паспорт Конструктора CONNECT». За участь у викликах аніматори будуть надавати штампи. Отримання мінімум двох дає право на гарантовану головну нагороду – набір конструкторів CONNECT, який можна забрати 20 або 27 червня.\n\nУ дні з 13 по 27 червня"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Polesie",
+      "updated_at": "2026-10-18T10:57:53.034412+00:00"
+    },
+    "rodzinne-warsztaty-artystyczne-w-muzeum-sztuki-ms2-2026-10-24T12:30:00+02:00": {
+      "title": "Rodzinne warsztaty artystyczne w Muzeum Sztuki ms2",
+      "date": "2026-10-24T12:30:00+02:00",
+      "end_date": "2026-10-24T12:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Sobotnie spotkania dla dzieci w wieku 4–10 lat i ich opiekunów łączą ruch, eksperymenty i twórcze działania. Inspiracją będzie wystawa „Sposoby widzenia”. Uczestnicy będą malować, lepić, budować, odkrywać labirynty i tworzyć własne historie.\n\n• Miejsce: ms², Ogrodowa 19, sala edukacyjna\n• Termin: spotkania co tydzień w soboty\n• Wstęp: 10 zł za uczestnika i 5 zł za opiekuna\n• Zapisy: edu@msl.org.pl, tel. 605 060 063, od wtorku do piątku w godz. 10.00–16.00\n\nWięcej informacji: https://msl.org.pl/warsztat-rodzinny",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c830967a-2664-4a30-978d-ada01f02972a/b2519263-9419-4c87-a273-8c5202671736.jpg",
+      "location": {
+        "name": "Muzeum Sztuki w Łodzi MS2",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/rodzinne-warsztaty-artystyczne-w-muzeum-sztuki-ms2-c830967a-2664-4a30-978d-ada01f02972a",
+      "source": "simplygo.pl",
+      "age_hint": "4-10",
+      "age_range": {
+        "min": 4,
+        "max": 10
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/rodzinne-warsztaty-artystyczne-w-muzeum-sztuki-ms2-c830967a-2664-4a30-978d-ada01f02972a",
+      "scrapped_timestamp": "2026-10-18T10:56:50.144641+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Rodzinne warsztaty artystyczne w Muzeum Sztuki ms2",
+          "description": "Sobotnie spotkania dla dzieci w wieku 4–10 lat i ich opiekunów łączą ruch, eksperymenty i twórcze działania. Inspiracją będzie wystawa „Sposoby widzenia”. Uczestnicy będą malować, lepić, budować, odkrywać labirynty i tworzyć własne historie.\n\n• Miejsce: ms², Ogrodowa 19, sala edukacyjna\n• Termin: spotkania co tydzień w soboty\n• Wstęp: 10 zł za uczestnika i 5 zł za opiekuna\n• Zapisy: edu@msl.org.pl, tel. 605 060 063, od wtorku do piątku w godz. 10.00–16.00\n\nWięcej informacji: https://msl.org.pl/warsztat-rodzinny"
+        },
+        "en": {
+          "title": "Family Art Workshops at the ms2 Art Museum",
+          "description": "Saturday meetings for children aged 4–10 and their guardians combine movement, experiments, and creative activities. The inspiration will be the exhibition \"Ways of Seeing.\" Participants will paint, mold, build, explore mazes, and create their own stories.\n\n• Location: ms², Ogrodowa 19, educational room\n• Date: meetings every Saturday\n• Admission: 10 PLN per participant and 5 PLN per guardian\n• Registration: edu@msl.org.pl, tel. 605 060 063, from Tuesday to Friday from 10:00 AM to 4:00 PM\n\nMore information: https://msl.org.pl/warsztat-rodzinny"
+        },
+        "uk": {
+          "title": "Сімейні художні майстерні в Музеї мистецтв ms2",
+          "description": "Суботні зустрічі для дітей віком 4–10 років та їхніх опікунів поєднують рух, експерименти та творчі дії. Натхненням буде виставка «Способи бачення». Учасники будуть малювати, ліпити, будувати, відкривати лабіринти та створювати власні історії.\n\n• Місце: ms², Огородова 19, навчальна кімната\n• Терміни: зустрічі щосуботи\n• Вхід: 10 зл за учасника та 5 зл за опікуна\n• Запис: edu@msl.org.pl, тел. 605 060 063, з вівторка по п’ятницю з 10.00 до 16.00\n\nБільше інформації: https://msl.org.pl/warsztat-rodzinny"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-18T10:57:53.034429+00:00"
+    },
+    "rze-ba-z-papier-m-ch-rodzinne-warsztaty-w-bibule-2026-10-25T12:00:00+01:00": {
+      "title": "Rzeźba z papier mâché – rodzinne warsztaty w BIBULE",
+      "date": "2026-10-25T12:00:00+01:00",
+      "end_date": "2026-10-25T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Rodzinne spotkanie ze sztuką i twórczym działaniem. Najpierw uczestnicy przyjrzą się wystawie czasowej poświęconej nieprofesjonalnej rzeźbie, czyli twórczości osób bez artystycznego wykształcenia. Zastanowimy się, co może inspirować artystę i jak różne mogą być sposoby wyrażania własnych pomysłów.\n\nNastępnie każdy uczestnik wykona figurkę z papier mâché i nada jej indywidualny charakter, tworząc postać według własnego pomysłu.\n\nSzczegóły:\n• Dla kogo: uczestnicy indywidualni, dzieci w wieku 6–12 lat wraz z opiekunami\n• Kiedy: 25.10 (niedziela), godz. 12:00\n• Prowadzi: Izabela Werecka-Szczepańska\n• Cena: 20 zł – bilet dla dziecka, opiekun 0 zł, 10 zł – kolejny uczestnik\n• Zapisy: nie obowiązują; decyduje kolejność zakupu biletów\n\nBilety: bilety.muzeumpilsudski.pl oraz w kasie BIBUŁY przy ul. Wschodniej 19.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/8aea3883-3065-4189-8440-0c965a2ac638/ac3d20e5-ae26-46b7-b7de-b2b6d3b17ee4.jpg",
+      "location": {
+        "name": "\"Bibuła\" – Tajna Drukarnia Józefa i Marii Piłsudskich (Łódź, ul. Wschodnia 19)",
+        "district": "Bałuty"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/rzezba-z-papier-m-ch-rodzinne-warsztaty-w-bibule-8aea3883-3065-4189-8440-0c965a2ac638",
+      "source": "simplygo.pl",
+      "age_hint": "6-12",
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/rzezba-z-papier-m-ch-rodzinne-warsztaty-w-bibule-8aea3883-3065-4189-8440-0c965a2ac638",
+      "scrapped_timestamp": "2026-10-18T10:56:59.016693+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Rzeźba z papier mâché – rodzinne warsztaty w BIBULE",
+          "description": "Rodzinne spotkanie ze sztuką i twórczym działaniem. Najpierw uczestnicy przyjrzą się wystawie czasowej poświęconej nieprofesjonalnej rzeźbie, czyli twórczości osób bez artystycznego wykształcenia. Zastanowimy się, co może inspirować artystę i jak różne mogą być sposoby wyrażania własnych pomysłów.\n\nNastępnie każdy uczestnik wykona figurkę z papier mâché i nada jej indywidualny charakter, tworząc postać według własnego pomysłu.\n\nSzczegóły:\n• Dla kogo: uczestnicy indywidualni, dzieci w wieku 6–12 lat wraz z opiekunami\n• Kiedy: 25.10 (niedziela), godz. 12:00\n• Prowadzi: Izabela Werecka-Szczepańska\n• Cena: 20 zł – bilet dla dziecka, opiekun 0 zł, 10 zł – kolejny uczestnik\n• Zapisy: nie obowiązują; decyduje kolejność zakupu biletów\n\nBilety: bilety.muzeumpilsudski.pl oraz w kasie BIBUŁY przy ul. Wschodniej 19."
+        },
+        "en": {
+          "title": "Paper Mâché Sculpture – Family Workshops at BIBULE",
+          "description": "A family meeting with art and creative action. First, participants will take a look at the temporary exhibition dedicated to non-professional sculpture, that is, the work of people without artistic education. We will consider what can inspire an artist and how different ways of expressing one's ideas can be.\n\nThen, each participant will create a figure from paper mâché and give it an individual character, creating a character according to their own idea.\n\nDetails:\n• For whom: individual participants, children aged 6–12 with guardians\n• When: 25.10 (Sunday), 12:00 PM\n• Led by: Izabela Werecka-Szczepańska\n• Price: 20 PLN – ticket for a child, guardian 0 PLN, 10 PLN – additional participant\n• Registration: not required; ticket purchase order determines participation\n\nTickets: bilety.muzeumpilsudski.pl and at the BIBULE box office at ul."
+        },
+        "uk": {
+          "title": "Скульптура з пап'є-маше – сімейні майстер-класи в BIBULE",
+          "description": "Сімейна зустріч з мистецтвом та творчою діяльністю. Найперше учасники ознайомляться з тимчасовою виставкою, присвяченою непрофесійній скульптурі, тобто творчості осіб без художньої освіти. Подумаємо, що може надихати художника і якими можуть бути різні способи вираження власних ідей.\n\nНаступним кроком кожен учасник виготовить фігурку з пап'є-маше та надасть їй індивідуального характеру, створюючи образ за власною ідеєю.\n\nДеталі:\n• Для кого: індивідуальні учасники, діти віком 6–12 років разом з опікунами\n• Коли: 25.10 (неділя), о 12:00\n• Веде: Ізабела Верецька-Щепанська\n• Ціна: 20 зл – квиток для дитини, опікун 0 зл, 10 зл – наступний учасник\n• Запис: не обов'язковий; вирішує черговість покупки квитків\n\nКвитки: bilety.muzeumpilsudski.pl та в касі BIBULE на вул."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Bałuty",
+      "updated_at": "2026-10-18T10:57:53.034469+00:00"
+    },
+    "tajne-j-zyki-wiata-warsztaty-mi-dzykulturowe-z-art-studio-agrafka-2026-10-25T12:00:00+01:00": {
+      "title": "Tajne języki świata – warsztaty międzykulturowe z Art Studio Agrafka",
+      "date": "2026-10-25T12:00:00+01:00",
+      "end_date": "2026-10-25T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Festiwal Książki Kropka+Kreska powraca z jesiennymi wydarzeniami. Warsztat międzykulturowy oparty na książce „Do you read me?” stworzonej przez Art Studio Agrafka, czyli Romanę Romanyshyn i Andriya Lesiva, pokazuje, że komunikacja jest wszędzie: w falach wody, światłach latarni morskich, mruczeniu kota i kosmicznych sygnałach.\n\nPodczas zajęć uczestnicy nauczą się mówić rękami, wymyślać własne znaki i przesyłać tajne wiadomości. Będą badać świat bez słów za pomocą ruchu, dźwięku i obrazu.\n\nSzczegóły:\n• Data i godzina: 25.10.2026 (niedziela), godz. 12:00\n• Miejsce: Centrum Dialogu im. Marka Edelmana, sala 100\n• Prowadzący: Art Studio Agrafka (Romana Romanyshyn i Andriy Lesiv)\n• Wiek: 7+\n• Wstęp: 20 zł za osobę (małą i dużą)\n• Czas trwania: 1 h\n• Język: warsztat w języku ukraińskim z tłumaczeniem na język polski\n\nBilety: kropkapluskreska.pl",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/e1a12062-0e6d-4e71-99ee-0a35ee827ffb/cfd4443f-d1f4-47e1-9c60-215129956289.jpg",
+      "location": {
+        "name": "Centrum Dialogu im. Marka Edelmana w Łodzi (ul. Wojska Polskiego 83)",
+        "district": "Bałuty"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/tajne-jezyki-swiata-warsztaty-miedzykulturowe-z-art-studio-agrafka-e1a12062-0e6d-4e71-99ee-0a35ee827ffb",
+      "source": "simplygo.pl",
+      "age_hint": "7-18",
+      "age_range": {
+        "min": 7,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/tajne-jezyki-swiata-warsztaty-miedzykulturowe-z-art-studio-agrafka-e1a12062-0e6d-4e71-99ee-0a35ee827ffb",
+      "scrapped_timestamp": "2026-10-18T10:57:05.239931+00:00",
+      "category": "Workshops",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Tajne języki świata – warsztaty międzykulturowe z Art Studio Agrafka",
+          "description": "Festiwal Książki Kropka+Kreska powraca z jesiennymi wydarzeniami. Warsztat międzykulturowy oparty na książce „Do you read me?” stworzonej przez Art Studio Agrafka, czyli Romanę Romanyshyn i Andriya Lesiva, pokazuje, że komunikacja jest wszędzie: w falach wody, światłach latarni morskich, mruczeniu kota i kosmicznych sygnałach.\n\nPodczas zajęć uczestnicy nauczą się mówić rękami, wymyślać własne znaki i przesyłać tajne wiadomości. Będą badać świat bez słów za pomocą ruchu, dźwięku i obrazu.\n\nSzczegóły:\n• Data i godzina: 25.10.2026 (niedziela), godz. 12:00\n• Miejsce: Centrum Dialogu im. Marka Edelmana, sala 100\n• Prowadzący: Art Studio Agrafka (Romana Romanyshyn i Andriy Lesiv)\n• Wiek: 7+\n• Wstęp: 20 zł za osobę (małą i dużą)\n• Czas trwania: 1 h\n• Język: warsztat w języku ukraińskim z tłumaczeniem na język polski\n\nBilety: kropkapluskreska.pl"
+        },
+        "en": {
+          "title": "Secret Languages of the World – Intercultural Workshop with Art Studio Agrafka",
+          "description": "The Kropka+Kreska Book Festival returns with autumn events. The intercultural workshop based on the book \"Do you read me?\" created by Art Studio Agrafka, namely Romana Romanyshyn and Andriy Lesiv, shows that communication is everywhere: in the waves of water, the lights of lighthouses, the purring of a cat, and cosmic signals.\n\nDuring the sessions, participants will learn to speak with their hands, invent their own signs, and send secret messages. They will explore a world without words through movement, sound, and image.\n\nDetails:\n• Date and time: 25.10.2026 (Sunday), 12:00 PM\n• Location: Marek Edelman Dialogue Center, room 100\n• Instructors: Art Studio Agrafka (Romana Romanyshyn and Andriy Lesiv)\n• Age: 7+\n• Admission: 20 PLN per person (small and large)\n• Duration: 1 h\n• Language: workshop in Ukrainian with translation"
+        },
+        "uk": {
+          "title": "Тайні мови світу – міжкультурні майстер-класи з Art Studio Agrafka",
+          "description": "Фестиваль Книги Крапка+Риска повертається з осінніми подіями. Майстер-клас міжкультурний, оснований на книзі «Do you read me?» створеній Art Studio Agrafka, а саме Романою Романишин та Андрієм Лесівим, показує, що комунікація є скрізь: у хвилях води, вогнях маяків, муркотінні кота та космічних сигналах.\n\nПід час занять учасники навчаться говорити руками, вигадувати власні знаки та передавати таємні повідомлення. Вони будуть досліджувати світ без слів за допомогою руху, звуку та образу.\n\nДеталі:\n• Дата і година: 25.10.2026 (неділя), год. 12:00\n• Місце: Центр Діалогу ім. Марка Едельмана, зал 100\n• Ведучі: Art Studio Agrafka (Романа Романишин та Андрій Лесів)\n• Вік: 7+\n• Вступ: 20 зл за особу (малу і велику)\n• Час тривання: 1 год\n• Мова: майстер-клас українською мовою з перекладачем"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://biletomat.pl/embedded/rezerwacja/358435?salesChannelId=019734d6-6c2f-7d6c-818a-c8fa4e2a39e0"
+      },
+      "district": "Bałuty",
+      "updated_at": "2026-10-18T10:57:53.034491+00:00"
+    },
+    "z-ota-kaczka-i-duch-starego-zamku-spektakl-w-teatrze-piccolo-2026-10-25T12:30:00+01:00": {
+      "title": "„Złota Kaczka i Duch starego zamku” – spektakl w Teatrze Piccolo",
+      "date": "2026-10-25T12:30:00+01:00",
+      "end_date": "2026-10-25T12:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "„Złota Kaczka i Duch starego zamku” to barwna bajka dla dzieci, pełna humoru i piosenek. Spektakl łączy plan żywy i lalkowy, a spotkanie z widzami kończą zabawy i animacje. Historia rozpoczyna się, gdy Pan Bajarz trafia do tajemniczego zamku i znajduje w jego katakumbach złote jajo, które wpada w ręce złej wiedźmy.\n\nPrzedstawienie jest przeznaczone dla dzieci w wieku 3–9 lat. Teatr Piccolo określa je jako pierwszy w Polsce horror dla dzieci – straszny, a zarazem zabawny.\n\nRezerwacja jest możliwa pod numerem 887 800 002, przez wiadomość prywatną na Facebooku lub formularz rezerwacyjny.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/36972e8a-ea4c-4a68-b7fc-264158103244/bf17882c-968d-4e05-8b19-4334a5b8399d.jpg",
+      "location": {
+        "name": "Teatr Piccolo (Łódź, ul. Tuwima 34)",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/zlota-kaczka-i-duch-starego-zamku-spektakl-w-teatrze-piccolo-36972e8a-ea4c-4a68-b7fc-264158103244",
+      "source": "simplygo.pl",
+      "age_hint": "3-9",
+      "age_range": {
+        "min": 3,
+        "max": 9
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/zlota-kaczka-i-duch-starego-zamku-spektakl-w-teatrze-piccolo-36972e8a-ea4c-4a68-b7fc-264158103244",
+      "scrapped_timestamp": "2026-10-18T10:57:12.764339+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "„Złota Kaczka i Duch starego zamku” – spektakl w Teatrze Piccolo",
+          "description": "„Złota Kaczka i Duch starego zamku” to barwna bajka dla dzieci, pełna humoru i piosenek. Spektakl łączy plan żywy i lalkowy, a spotkanie z widzami kończą zabawy i animacje. Historia rozpoczyna się, gdy Pan Bajarz trafia do tajemniczego zamku i znajduje w jego katakumbach złote jajo, które wpada w ręce złej wiedźmy.\n\nPrzedstawienie jest przeznaczone dla dzieci w wieku 3–9 lat. Teatr Piccolo określa je jako pierwszy w Polsce horror dla dzieci – straszny, a zarazem zabawny.\n\nRezerwacja jest możliwa pod numerem 887 800 002, przez wiadomość prywatną na Facebooku lub formularz rezerwacyjny."
+        },
+        "en": {
+          "title": "\"The Golden Duck and the Ghost of the Old Castle\" – a performance at the Piccolo Theatre",
+          "description": "\"The Golden Duck and the Ghost of the Old Castle\" is a colorful fairy tale for children, full of humor and songs. The performance combines live action and puppetry, and the meeting with the audience ends with games and animations. The story begins when Mr. Storyteller arrives at a mysterious castle and finds a golden egg in its catacombs, which falls into the hands of an evil witch.\n\nThe performance is intended for children aged 3–9 years. The Piccolo Theatre describes it as the first horror for children in Poland – scary yet funny.\n\nReservations can be made at 887 800 002, via private message on Facebook, or through the reservation form."
+        },
+        "uk": {
+          "title": "„Золота Качка і Дух старого замку” – спектакль у Театрі Пікколо",
+          "description": "„Золота Качка і Дух старого замку” це барвиста казка для дітей, повна гумору та пісень. Спектакль поєднує живий та ляльковий план, а зустріч з глядачами закінчується іграми та анімаціями. Історія починається, коли Пан Байярж потрапляє до таємничого замку і знаходить у його катакомбах золоте яйце, яке потрапляє в руки злої відьми.\n\nПредставлення призначене для дітей віком 3–9 років. Театр Пікколо визначає його як перший в Польщі хорор для дітей – страшний, а водночас веселий.\n\nРезервування можливе за номером 887 800 002, через приватне повідомлення у Facebook або форму резервування."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-18T10:57:53.034512+00:00"
+    },
+    "urodziny-baby-jagi-spektakl-dla-grup-zorganizowanych-w-teatrze-piccolo-2026-10-28T10:00:00+01:00": {
+      "title": "Urodziny Baby Jagi – spektakl dla grup zorganizowanych w Teatrze Piccolo",
+      "date": "2026-10-28T10:00:00+01:00",
+      "end_date": "2026-10-28T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Lis Przechera porywa Panu Bajarzowi worek z bajkami, które rozsypują się po lesie i mieszają ze sobą. Na urodzinach Baby Jagi spotykają się różne postacie bajkowe przedstawione w krzywym zwierciadle, a w międzyczasie trwa poszukiwanie złego lisa.\n\nSpektakl to parodia znanych i lubianych bajek dla dzieci. Przedstawienie jest grane w planie żywym, z wykorzystaniem lalek (muppety i marionetki) oraz masą melodyjnych piosenek. Rozbawi zarówno najmłodszych, jak i dorosłych widzów.\n\nLogistyka:\n• Widownia: dzieci w wieku 3-12 lat\n• Rezerwacje: telefon 887 800 002, wiadomość prywatna na Facebooku lub formularz rezerwacyjny na stronie teatru",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/f8de1242-3be3-49dc-a618-9474dd535c0b/42f05f45-f86f-4fac-b87c-01e74976e627.jpg",
+      "location": {
+        "name": "Teatr Piccolo (Łódź, ul. Tuwima 34)",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/urodziny-baby-jagi-spektakl-dla-grup-zorganizowanych-w-teatrze-piccolo-f8de1242-3be3-49dc-a618-9474dd535c0b",
+      "source": "simplygo.pl",
+      "age_hint": "3-12",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/urodziny-baby-jagi-spektakl-dla-grup-zorganizowanych-w-teatrze-piccolo-f8de1242-3be3-49dc-a618-9474dd535c0b",
+      "scrapped_timestamp": "2026-10-18T10:57:17.954158+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Urodziny Baby Jagi – spektakl dla grup zorganizowanych w Teatrze Piccolo",
+          "description": "Lis Przechera porywa Panu Bajarzowi worek z bajkami, które rozsypują się po lesie i mieszają ze sobą. Na urodzinach Baby Jagi spotykają się różne postacie bajkowe przedstawione w krzywym zwierciadle, a w międzyczasie trwa poszukiwanie złego lisa.\n\nSpektakl to parodia znanych i lubianych bajek dla dzieci. Przedstawienie jest grane w planie żywym, z wykorzystaniem lalek (muppety i marionetki) oraz masą melodyjnych piosenek. Rozbawi zarówno najmłodszych, jak i dorosłych widzów.\n\nLogistyka:\n• Widownia: dzieci w wieku 3-12 lat\n• Rezerwacje: telefon 887 800 002, wiadomość prywatna na Facebooku lub formularz rezerwacyjny na stronie teatru"
+        },
+        "en": {
+          "title": "Baby Jaga's Birthday – a performance for organized groups at the Piccolo Theatre",
+          "description": "The Clever Fox steals a bag of fairy tales from Mr. Storyteller, which scatter across the forest and mix together. At Baby Jaga's birthday, various fairy tale characters meet in a distorted mirror, while the search for the wicked fox continues.\n\nThe performance is a parody of well-known and beloved children's fairy tales. The show is performed live, using puppets (muppets and marionettes) and a plethora of melodic songs. It will amuse both the youngest and adult audiences.\n\nLogistics:\n• Audience: children aged 3-12\n• Reservations: phone 887 800 002, private message on Facebook or reservation form on the theatre's website"
+        },
+        "uk": {
+          "title": "День народження Баби Яги – спектакль для організованих груп у Театрі Пікколо",
+          "description": "Лис Прехера викрадає у Пана Байярза мішок з казками, які розсипаються по лісі та змішуються між собою. На день народження Баби Яги зустрічаються різні казкові персонажі, представлені в кривому дзеркалі, а тим часом триває пошук злого лиса.\n\nСпектакль – це пародія на відомі та улюблені казки для дітей. Вистава грається в живому плані, з використанням ляльок (мупети та маріонетки) та масою мелодійних пісень. Розсмішить як наймолодших, так і дорослих глядачів.\n\nЛогістика:\n• Глядачі: діти віком 3-12 років\n• Резервування: телефон 887 800 002, приватне повідомлення на Facebook або форма резервування на сайті театру"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-18T10:57:53.034532+00:00"
+    },
+    "halloween-w-hopa-lupa-atrakcje-w-nowej-sukcesji-2026-10-30T10:00:00+01:00": {
+      "title": "Halloween w Hopa Lupa – atrakcje w Nowej Sukcesji",
+      "date": "2026-10-30T10:00:00+01:00",
+      "end_date": "2026-10-30T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Halloweenowe atrakcje w Nowej Sukcesji w Łodzi, 30–31 października. Program obejmuje:\n• Laboratorium Frankensteina: stwórz własnego, potwornego gluta\n• Wielki kocioł czarownicy: eksperymenty z suchym lodem\n• Fluo party: impreza w świetle UV i malowanie farbami fluo\n• konkurs na najlepsze przebranie\n• rodzinne ozdabianie dyń: kreatywna zabawa dla małych i dużych\n\nW programie są też halloweenowe niespodzianki i atrakcje. Kluczowe atrakcje odbywają się w godzinach 16:00–22:00, a bilet całodniowy obowiązuje w godzinach 10:00–22:00.\n\nPrzedsprzedaż biletów już trwa, a liczba miejsc jest ograniczona. Bilety kupicie na https://hopalupa.fun\n\nMiejsce: Hopa Lupa | Nowa Sukcesja, Łódź",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c66a6d7f-3827-4602-9c5a-fcf8f7375e1e/cc6a3bbf-b5e3-4fc8-b459-0588a7a06fc1.jpg",
+      "location": {
+        "name": "Nowa Sukcesja (Łódź, al. Politechniki 1)",
+        "district": "Polesie"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/rozrywka/wydarzenie/halloween-w-hopa-lupa-atrakcje-w-nowej-sukcesji-c66a6d7f-3827-4602-9c5a-fcf8f7375e1e",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/rozrywka/wydarzenie/halloween-w-hopa-lupa-atrakcje-w-nowej-sukcesji-c66a6d7f-3827-4602-9c5a-fcf8f7375e1e",
+      "scrapped_timestamp": "2026-10-18T10:57:23.978348+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Arts",
+        "STEM"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Halloween w Hopa Lupa – atrakcje w Nowej Sukcesji",
+          "description": "Halloweenowe atrakcje w Nowej Sukcesji w Łodzi, 30–31 października. Program obejmuje:\n• Laboratorium Frankensteina: stwórz własnego, potwornego gluta\n• Wielki kocioł czarownicy: eksperymenty z suchym lodem\n• Fluo party: impreza w świetle UV i malowanie farbami fluo\n• konkurs na najlepsze przebranie\n• rodzinne ozdabianie dyń: kreatywna zabawa dla małych i dużych\n\nW programie są też halloweenowe niespodzianki i atrakcje. Kluczowe atrakcje odbywają się w godzinach 16:00–22:00, a bilet całodniowy obowiązuje w godzinach 10:00–22:00.\n\nPrzedsprzedaż biletów już trwa, a liczba miejsc jest ograniczona. Bilety kupicie na https://hopalupa.fun\n\nMiejsce: Hopa Lupa | Nowa Sukcesja, Łódź"
+        },
+        "en": {
+          "title": "Halloween at Hopa Lupa – attractions at Nowa Sukcesja",
+          "description": "Halloween attractions at Nowa Sukcesja in Łódź, October 30–31. The program includes:\n• Frankenstein's Laboratory: create your own monstrous slime\n• Witch's Big Cauldron: experiments with dry ice\n• Fluo party: a party in UV light and painting with fluo paints\n• costume contest\n• family pumpkin decorating: creative fun for young and old\n\nThere will also be Halloween surprises and attractions. Key attractions take place from 4:00 PM to 10:00 PM, and a full-day ticket is valid from 10:00 AM to 10:00 PM.\n\nTicket pre-sale is already underway, and the number of places is limited. You can buy tickets at https://hopalupa.fun\n\nLocation: Hopa Lupa | Nowa Sukcesja, Łódź"
+        },
+        "uk": {
+          "title": "Хелловін в Hopa Lupa – атракції в Новій Сукцесії",
+          "description": "Хелловінські атракції в Новій Сукцесії в Łodzi, 30–31 жовтня. Програма включає:\n• Лабораторія Франкенштейна: створіть власного, потворного слизу\n• Великий котел відьми: експерименти з сухим льодом\n• Флуо вечірка: імпреза у світлі UV та малювання флуоресцентними фарбами\n• конкурс на найкращий костюм\n• сімейне прикрашання гарбузів: креативна гра для малих і великих\n\nУ програмі також є хелловінські сюрпризи та атракції. Ключові атракції відбуваються з 16:00 до 22:00, а квиток на цілий день дійсний з 10:00 до 22:00.\n\nПередпродаж квитків вже триває, а кількість місць обмежена. Квитки можна купити на https://hopalupa.fun\n\nМісце: Hopa Lupa | Нова Сукцесія, Łódź"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Polesie",
+      "updated_at": "2026-10-18T10:57:53.034550+00:00"
+    },
+    "warsztaty-ogrodnicze-w-ogrodzie-botanicznym-2026-11-05T17:00:00+01:00": {
+      "title": "Warsztaty ogrodnicze w Ogrodzie Botanicznym",
+      "date": "2026-11-05T17:00:00+01:00",
+      "end_date": "2026-11-05T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Cykl zajęć poświęconych pielęgnacji roślin w ogrodzie, na balkonie oraz w mieszkaniu. Warsztaty prowadzą pracownicy Ogrodu Botanicznego w Łodzi.\n\nTerminy i tematy:\n• 26 marca: Ogród starych odmian\n• 23 kwietnia: Ogrody w szkle\n• 14 maja: Dzikie rośliny jadalne\n• 25 czerwca: Zioła w ogrodzie\n• 9 lipca: Jadalne rośliny ozdobne\n• 7 sierpnia: Pachnący świat lawendy\n• 17 września: Zbiór i oczyszczanie nasion\n• 15 października: Rośliny cebulowe w ogrodzie i na parapecie\n• 5 listopada: Budujemy ptasią stołówkę\n\nLogistyka:\n• Godziny: 17:00 (w lutym, marcu i październiku o 16:00)\n• Miejsce zbiórki: kasa Ogrodu od strony ul. Retkińskiej 41\n• Cena: 25 zł (bilet indywidualny)\n• Zapisy: pod numerem 42 628 72 34 (rozpoczynają się tydzień przed wydarzeniem)",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/6c0701fc-9580-4be4-84c4-7aab61687a50/230b0a7d-6233-48d9-80f9-419b745c282f.jpg",
+      "location": {
+        "name": "Ogród Botaniczny w Łodzi",
+        "district": "Polesie"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/rozrywka/wydarzenie/warsztaty-ogrodnicze-w-ogrodzie-botanicznym-6c0701fc-9580-4be4-84c4-7aab61687a50",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/rozrywka/wydarzenie/warsztaty-ogrodnicze-w-ogrodzie-botanicznym-6c0701fc-9580-4be4-84c4-7aab61687a50",
+      "scrapped_timestamp": "2026-10-18T10:57:30.122613+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Nature & Wildlife"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Warsztaty ogrodnicze w Ogrodzie Botanicznym",
+          "description": "Cykl zajęć poświęconych pielęgnacji roślin w ogrodzie, na balkonie oraz w mieszkaniu. Warsztaty prowadzą pracownicy Ogrodu Botanicznego w Łodzi.\n\nTerminy i tematy:\n• 26 marca: Ogród starych odmian\n• 23 kwietnia: Ogrody w szkle\n• 14 maja: Dzikie rośliny jadalne\n• 25 czerwca: Zioła w ogrodzie\n• 9 lipca: Jadalne rośliny ozdobne\n• 7 sierpnia: Pachnący świat lawendy\n• 17 września: Zbiór i oczyszczanie nasion\n• 15 października: Rośliny cebulowe w ogrodzie i na parapecie\n• 5 listopada: Budujemy ptasią stołówkę\n\nLogistyka:\n• Godziny: 17:00 (w lutym, marcu i październiku o 16:00)\n• Miejsce zbiórki: kasa Ogrodu od strony ul. Retkińskiej 41\n• Cena: 25 zł (bilet indywidualny)\n• Zapisy: pod numerem 42 628 72 34 (rozpoczynają się tydzień przed wydarzeniem)"
+        },
+        "en": {
+          "title": "Gardening Workshops at the Botanical Garden",
+          "description": "A series of classes dedicated to plant care in the garden, on the balcony, and in the apartment. The workshops are conducted by employees of the Botanical Garden in Łódź.\n\nDates and topics:\n• 26 March: Garden of old varieties\n• 23 April: Gardens in glass\n• 14 May: Wild edible plants\n• 25 June: Herbs in the garden\n• 9 July: Edible ornamental plants\n• 7 August: The fragrant world of lavender\n• 17 September: Harvesting and cleaning seeds\n• 15 October: Bulbous plants in the garden and on the windowsill\n• 5 November: Building a bird feeder\n\nLogistics:\n• Hours: 17:00 (in February, March, and October at 16:00)\n• Meeting place: ticket office of the Garden from the side of Retkińska Street 41\n• Price: 25 PLN (individual ticket)\n• Registration: at the number 42 628 72 34 (starts a week before the event)"
+        },
+        "uk": {
+          "title": "Семінари з садівництва в Ботанічному саду",
+          "description": "Цикл занять, присвячених догляду за рослинами в саду, на балконі та в квартирі. Семінари проводять працівники Ботанічного саду в Лодзі.\n\nТерміни та теми:\n• 26 березня: Сад старих сортів\n• 23 квітня: Сади в склі\n• 14 травня: Дикі їстівні рослини\n• 25 червня: Трави в саду\n• 9 липня: Їстівні декоративні рослини\n• 7 серпня: Запашний світ лаванди\n• 17 вересня: Збір та очищення насіння\n• 15 жовтня: Цибулинні рослини в саду та на підвіконні\n• 5 листопада: Будуємо пташину годівницю\n\nЛогістика:\n• Години: 17:00 (в лютому, березні та жовтні о 16:00)\n• Місце збору: каса Саду з боку вул. Реткінської 41\n• Ціна: 25 зл (індивідуальний квиток)\n• Запис: за номером 42 628 72 34 (починається за тиждень до події)"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Polesie",
+      "updated_at": "2026-10-18T10:57:53.034567+00:00"
+    },
+    "ma-y-robot-spektakl-edukacyjny-2026-11-08T12:30:00+01:00": {
+      "title": "Mały Robot – spektakl edukacyjny",
+      "date": "2026-11-08T12:30:00+01:00",
+      "end_date": "2026-11-08T12:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "„Mały Robot” to edukacyjny spektakl science fiction dla dzieci, łączący kosmiczną przygodę z tematami nowych technologii, bezpieczeństwa cyfrowego i odpowiedzialnego korzystania z internetu.\n\nDżesika, Schabi i Ewa lecą statkiem kosmicznym Sławosz na planetę Kepler-452. Towarzyszy im robot Pin 0 K 10, który zaczyna interesować się ludzkimi emocjami, marzeniami, żartami i przyjaźnią. Po awaryjnym lądowaniu na Robotonie bohaterowie trafiają do świata elektronicznych odpadów, starych gier i robotów sterowanych przez sztuczną inteligencję. W przedstawieniu są także piosenki, interakcja z publicznością, multimedia i efekty świetlne.\n\nSpektakl porusza zagadnienia kosmosu, sztucznej inteligencji, bezpieczeństwa w sieci, mediów społecznościowych, przyjaźni i współpracy. Zadanie publiczne jest współfinansowane z budżetu Samorządu Województwa Łódzkiego.\n\nPartnerem merytorycznym jest Planetarium EC1, a wydarzenie odbywa się w partnerstwie z EC1 Łódź Miasto Kultury. Patronat medialny: TVP3 Łódź, TVP Info, Radio Łódź. Patronat honorowy: Kardynał Konrad Krajewski, Arcybiskup Metropolita Łódzki.\n\nlodzkie.pl\nwww.lodz.tvp.pl",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/4cdf6c7a-66fc-4bb5-abae-55686b96169b/b7a5e375-ef21-4c49-b67e-d39ea689d30b.jpg",
+      "location": {
+        "name": "Teatr Piccolo (Łódź, ul. Tuwima 34)",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/maly-robot-spektakl-edukacyjny-4cdf6c7a-66fc-4bb5-abae-55686b96169b",
+      "source": "simplygo.pl",
+      "age_hint": "3-8",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/maly-robot-spektakl-edukacyjny-4cdf6c7a-66fc-4bb5-abae-55686b96169b",
+      "scrapped_timestamp": "2026-10-18T10:57:37.644606+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Educational"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Mały Robot – spektakl edukacyjny",
+          "description": "„Mały Robot” to edukacyjny spektakl science fiction dla dzieci, łączący kosmiczną przygodę z tematami nowych technologii, bezpieczeństwa cyfrowego i odpowiedzialnego korzystania z internetu.\n\nDżesika, Schabi i Ewa lecą statkiem kosmicznym Sławosz na planetę Kepler-452. Towarzyszy im robot Pin 0 K 10, który zaczyna interesować się ludzkimi emocjami, marzeniami, żartami i przyjaźnią. Po awaryjnym lądowaniu na Robotonie bohaterowie trafiają do świata elektronicznych odpadów, starych gier i robotów sterowanych przez sztuczną inteligencję. W przedstawieniu są także piosenki, interakcja z publicznością, multimedia i efekty świetlne.\n\nSpektakl porusza zagadnienia kosmosu, sztucznej inteligencji, bezpieczeństwa w sieci, mediów społecznościowych, przyjaźni i współpracy. Zadanie publiczne jest współfinansowane z budżetu Samorządu Województwa Łódzkiego.\n\nPartnerem merytorycznym jest Planetarium EC1, a wydarzenie odbywa się w partnerstwie z EC1 Łódź Miasto Kultury. Patronat medialny: TVP3 Łódź, TVP Info, Radio Łódź. Patronat honorowy: Kardynał Konrad Krajewski, Arcybiskup Metropolita Łódzki.\n\nlodzkie.pl\nwww.lodz.tvp.pl"
+        },
+        "en": {
+          "title": "Little Robot – Educational Performance",
+          "description": "\"Little Robot\" is an educational science fiction performance for children, combining a cosmic adventure with themes of new technologies, digital safety, and responsible internet use.\n\nDżesika, Schabi, and Ewa are flying on the spaceship Sławosz to the planet Kepler-452. They are accompanied by the robot Pin 0 K 10, who begins to take an interest in human emotions, dreams, jokes, and friendship. After an emergency landing on Roboton, the heroes find themselves in a world of electronic waste, old games, and robots controlled by artificial intelligence. The performance also includes songs, audience interaction, multimedia, and light effects.\n\nThe performance addresses issues of space, artificial intelligence, online safety, social media, friendship, and cooperation. The public task is co"
+        },
+        "uk": {
+          "title": "Маленький Робот – освітній спектакль",
+          "description": "„Маленький Робот” – це освітній спектакль наукової фантастики для дітей, що поєднує космічну пригоду з темами нових технологій, цифрової безпеки та відповідального користування інтернетом.\n\nДжесіка, Шабі та Ева летять космічним кораблем Славош на планету Кеплер-452. Їм супроводжує робот Pin 0 K 10, який починає цікавитися людськими емоціями, мріями, жартами та дружбою. Після аварійної посадки на Роботоні герої потрапляють у світ електронних відходів, старих ігор та роботів, керованих штучним інтелектом. У виставі також є пісні, взаємодія з публікою, мультимедіа та світлові ефекти.\n\nСпектакль порушує питання космосу, штучного інтелекту, безпеки в мережі, соціальних медіа, дружби та співпраці. Завдання публічне є спів"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-18T10:57:53.034584+00:00"
+    },
+    "kr-lewna-p-telka-spektakl-dla-grup-w-teatrze-piccolo-2026-11-10T10:00:00+01:00": {
+      "title": "Królewna Pętelka – spektakl dla grup w Teatrze Piccolo",
+      "date": "2026-11-10T10:00:00+01:00",
+      "end_date": "2026-11-10T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "„Królewna Pętelka” to barwna, pełna humoru opowieść o niezwykłej dziewczynce, która zamiast grzecznie poddawać się dworskim zwyczajom, patrzy na świat po swojemu. Zamiast bogactwa wybiera przyjaźń i zabawę, a zamiast schematów – własne pomysły i odrobinę psot.\n\nJej upór i wesołe usposobienie prowadzą do wielu zabawnych, ale i pouczających przygód. Spektakl bawi, zaskakuje i skłania do refleksji nad tym, że warto być sobą, nawet jeśli oznacza to chodzenie pod prąd oczekiwaniom innych.\n\nSpektakl przeznaczony dla widzów w wieku 3–8 lat. Wydarzenie skierowane jest do grup zorganizowanych.\n\nKontakt i rezerwacje:\n• telefon: 887 800 002\n• wiadomość prywatna na Facebooku\n• formularz rezerwacyjny",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/14be8d0f-6533-42b8-95ab-430da38c83ef/c06e2cab-fb89-42db-b184-eb7f0323d693.jpg",
+      "location": {
+        "name": "Teatr Piccolo (Łódź, ul. Tuwima 34)",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/krolewna-petelka-spektakl-dla-grup-w-teatrze-piccolo-14be8d0f-6533-42b8-95ab-430da38c83ef",
+      "source": "simplygo.pl",
+      "age_hint": "3-8",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/krolewna-petelka-spektakl-dla-grup-w-teatrze-piccolo-14be8d0f-6533-42b8-95ab-430da38c83ef",
+      "scrapped_timestamp": "2026-10-18T10:57:43.438323+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Królewna Pętelka – spektakl dla grup w Teatrze Piccolo",
+          "description": "„Królewna Pętelka” to barwna, pełna humoru opowieść o niezwykłej dziewczynce, która zamiast grzecznie poddawać się dworskim zwyczajom, patrzy na świat po swojemu. Zamiast bogactwa wybiera przyjaźń i zabawę, a zamiast schematów – własne pomysły i odrobinę psot.\n\nJej upór i wesołe usposobienie prowadzą do wielu zabawnych, ale i pouczających przygód. Spektakl bawi, zaskakuje i skłania do refleksji nad tym, że warto być sobą, nawet jeśli oznacza to chodzenie pod prąd oczekiwaniom innych.\n\nSpektakl przeznaczony dla widzów w wieku 3–8 lat. Wydarzenie skierowane jest do grup zorganizowanych.\n\nKontakt i rezerwacje:\n• telefon: 887 800 002\n• wiadomość prywatna na Facebooku\n• formularz rezerwacyjny"
+        },
+        "en": {
+          "title": "Princess Loop – a performance for groups at the Piccolo Theatre",
+          "description": "\"Princess Loop\" is a colorful, humorous tale about an extraordinary girl who, instead of politely submitting to court customs, views the world in her own way. Instead of wealth, she chooses friendship and fun, and instead of patterns – her own ideas and a bit of mischief.\n\nHer stubbornness and cheerful disposition lead to many funny yet educational adventures. The performance entertains, surprises, and encourages reflection on the importance of being oneself, even if it means going against the expectations of others.\n\nThe performance is intended for audiences aged 3–8 years. The event is aimed at organized groups.\n\nContact and reservations:\n• phone: 887 800 002\n• private message on Facebook\n• reservation form"
+        },
+        "uk": {
+          "title": "Принцеса Петелька – спектакль для груп у Театрі Пікколо",
+          "description": "„Принцеса Петелька” – це барвиста, сповнена гумору оповідь про незвичайну дівчинку, яка замість того, щоб чемно підкорятися двірським звичаям, дивиться на світ по-своєму.\n\nЗамість багатства вона обирає дружбу та розваги, а замість схем – власні ідеї та трохи пустощів.\n\nЇї впертість і веселий характер призводять до багатьох кумедних, але й повчальних пригод. Спектакль розважає, дивує і спонукає до роздумів про те, що варто бути собою, навіть якщо це означає йти проти очікувань інших.\n\nСпектакль призначений для глядачів віком 3–8 років. Подія спрямована на організовані групи.\n\nКонтакт та резервування:\n• телефон: 887 800 002\n• приватне повідомлення у Facebook\n• форма резервування"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-18T10:57:53.034602+00:00"
     }
   }
 }

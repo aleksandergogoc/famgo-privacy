@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T11:04:28.509409+00:00",
+  "updated_at": "2026-10-19T12:54:40.308857+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9258,6 +9258,33 @@
       "lat": 52.238,
       "lng": 21.012,
       "updated_at": "2026-10-18T10:42:43.286946+00:00"
+    },
+    "mal fundacja bona fide- w dobrej wierze ul. szklanych domów13": {
+      "name": "MAL Fundacja Bona Fide- w Dobrej Wierze ul. Szklanych Domów13",
+      "district": "Praga-Południe",
+      "address": "MAL Fundacja Bona Fide- w Dobrej Wierze ul. Szklanych Domów13",
+      "normalized": "mal fundacja bona fide- w dobrej wierze ul. szklanych domów13",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-19T12:43:54.669438+00:00"
+    },
+    "ul. władysława skoczylasa 10_12": {
+      "name": "ul. Władysława Skoczylasa 10/12",
+      "district": "Praga-Północ",
+      "address": "ul. Władysława Skoczylasa 10/12",
+      "normalized": "ul. władysława skoczylasa 10_12",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-19T12:43:54.669881+00:00"
+    },
+    "nowy teatr": {
+      "name": "Nowy Teatr, ul.Madalińskiego 10/16",
+      "district": "Mokotów",
+      "address": "Nowy Teatr, ul.Madalińskiego 10/16",
+      "normalized": "nowy teatr",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-19T12:43:54.670365+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:49:44.089485+00:00",
+  "updated_at": "2026-10-19T12:54:41.929693+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5026,6 +5026,60 @@
       "lat": 50.061,
       "lng": 19.937,
       "updated_at": "2026-10-17T10:29:49.659104+00:00"
+    },
+    "filia „kosmos”": {
+      "name": "ul. Borkowska 25, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Borkowska 25, Kraków",
+      "normalized": "filia „kosmos”",
+      "lat": 50.062,
+      "lng": 19.926,
+      "updated_at": "2026-10-19T12:23:48.702961+00:00"
+    },
+    "moje boisko – orlik 2012": {
+      "name": "ul. Na Błonie 15b, Kraków",
+      "district": "Podgórze",
+      "address": "ul. Na Błonie 15b, Kraków",
+      "normalized": "moje boisko – orlik 2012",
+      "lat": 50.0345,
+      "lng": 19.9321,
+      "updated_at": "2026-10-19T12:24:23.242860+00:00"
+    },
+    "targowisko stary kleparz": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "targowisko stary kleparz",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-10-19T12:24:54.804036+00:00"
+    },
+    "zakole": {
+      "name": "os. Kantorowice ul. Zakole 31, Kraków",
+      "district": "Dębniki",
+      "address": "os. Kantorowice ul. Zakole 31, Kraków",
+      "normalized": "zakole",
+      "lat": 50.0345,
+      "lng": 19.9187,
+      "updated_at": "2026-10-19T12:29:34.607729+00:00"
+    },
+    "hala cracovia": {
+      "name": "Hala 100-lecia KS Cracovia 1906, 40, Aleja Marszałka Ferdinanda Focha, Błonia, Zwierzyniec, Kraków, województwo małopolskie, 30-119, Polska",
+      "district": "Zwierzyniec",
+      "address": "Hala 100-lecia KS Cracovia 1906, 40, Aleja Marszałka Ferdinanda Focha, Błonia, Zwierzyniec, Kraków, województwo małopolskie, 30-119, Polska",
+      "normalized": "hala cracovia",
+      "lat": 50.0567353,
+      "lng": 19.9105047,
+      "updated_at": "2026-10-19T12:37:54.529101+00:00"
+    },
+    "kopalnia soli w wieliczce": {
+      "name": "Kopalnia Soli w Wieliczce",
+      "district": "Nowa Huta",
+      "address": "Kopalnia Soli w Wieliczce",
+      "normalized": "kopalnia soli w wieliczce",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-19T12:37:54.530059+00:00"
     }
   }
 }

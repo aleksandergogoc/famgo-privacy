@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:23:03.072044+00:00",
+  "updated_at": "2026-10-19T12:47:35.171263+00:00",
   "events": {
     "fajnie-si-sk-ada-zlot-fan-w-klock-w-od-fan-w-dla-fan-w-2026-12-07T10:00:00": {
       "scrapped_timestamp": "2026-06-29T12:56:13.475074+00:00",
@@ -1312,39 +1312,42 @@
       "updated_at": "2026-09-07T12:12:45.441578+00:00"
     },
     "spoko-loko-koncert-dla-dzieci-2026-11-15T12:00:00+01:00": {
-      "title": "Spoko Loko – koncert dla dzieci",
+      "title": "Spoko Loko - koncert dla dzieci",
       "date": "2026-11-15T12:00:00+01:00",
       "end_date": "2026-11-15T12:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124/a22526ca-81c9-4f07-83ed-028c1fd7dba3.jpg",
+      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
+      "image": "https://assets.kupbilecik.pl/img/baza/8000/7104.webp?1788766325",
+      "url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
       "location": {
-        "name": "Centrum Kultury Nowy Pafawag, ul. Chociebuska 4-6, 54-433 Wrocław",
+        "name": "Centrum Kultury Nowy Pafawag",
+        "address": "ul. Chociebuska 4-6",
+        "lat": 51.115767,
+        "lng": 16.958181,
         "district": "Fabryczna"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "source": "simplygo.pl",
-      "age_hint": "2-8",
-      "age_range": {
-        "min": 2,
-        "max": 8
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "scrapped_timestamp": "2026-10-18T10:54:12.777313+00:00",
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-10-19T12:45:34.766956+00:00",
       "category": "Music & Dance",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Spoko Loko – koncert dla dzieci",
-          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
+          "title": "Spoko Loko - koncert dla dzieci",
+          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
         },
         "en": {
-          "title": "Spoko Loko – concert for children",
-          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They have prepared a unique, one-hour show during which children will be able to dance and sing along with the band. Classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\" will be performed, as well as new hits like \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will feature soap bubbles, riddles, and other surprises that will remain a mystery for now! Spoko Loko consists of Kasia, Mati, and Ola, who have already gathered several tens of millions of views on their YouTube channel. Satisfied parents' reviews speak for themselves - join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n* Children under 2 years old free admission (dz"
+          "title": "Spoko Loko - concert for children",
+          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They have prepared a unique, one-hour show during which children will be able to dance and sing along with the band. Classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\" will be sung, as well as new hits like \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will also feature soap bubbles, riddles, and other surprises that will remain a mystery for now! Spoko Loko consists of Kasia, Mati, and Ola, who have already gathered several dozen million views on their YouTube channel. The opinions of satisfied parents speak for themselves - join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n\n* Children under 2 years old enter for free (d"
         },
         "uk": {
-          "title": "Spoko Loko – концерт для дітей",
-          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Приготували унікальне, годинне шоу, під час якого діти зможуть танцювати та співати разом з командою. Засяють класики, такі як \"Танці Поламайці\", \"Чу чу ля\" та \"Тіла форма\", але також нові хіти, такі як \"Ідемо через джунглі\" та \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko - це Касія, Марті та Оля, які на своєму каналі YouTube зібрали вже кілька десятків мільйонів переглядів. Відгуки задоволених батьків говорять самі за себе - приєднуйтесь до нас і дайте себе захопити у божевільний світ Spoko Loko! Після концерту також буде можливість зробити фото з командою.\n* Діти до 2 років - вхід безкоштовний (д"
+          "title": "Spoko Loko - концерт для дітей",
+          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Приготували унікальне, годинне шоу, під час якого діти зможуть танцювати і співати разом з гуртом. Засяють класики, такі як \"Танці Поламайці\", \"Чу чу ля\" і \"Тіла форма\", але також нові хіти, такі як \"Йдемо через джунглі\" і \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko - це Касія, Марті і Оля, які на своєму каналі YouTube зібрали вже кілька десятків мільйонів переглядів. Відгуки задоволених батьків говорять самі за себе - приєднуйтесь до нас і дайте себе захопити у божевільний світ Spoko Loko! Після концерту також буде можливість зробити фото з гуртом.\n\n* Діти до 2 років - вхід безкоштовний (д"
         }
       },
       "admission": {
@@ -1352,7 +1355,7 @@
         "ticket_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604"
       },
       "district": "Fabryczna",
-      "updated_at": "2026-10-18T10:54:36.461622+00:00"
+      "updated_at": "2026-10-19T12:47:34.950279+00:00"
     },
     "historia-detektywistyczna-2026-11-08T10:00:00+01:00": {
       "title": "HISTORIA DETEKTYWISTYCZNA!",
@@ -5368,46 +5371,48 @@
       "updated_at": "2026-10-16T11:14:15.102737+00:00"
     },
     "graficzne-szkicowanko-bezp-atne-warsztaty-2026-10-20T11:30:00+02:00": {
-      "title": "Graficzne szkicowanko – bezpłatne warsztaty",
+      "title": "Graficzne szkicowanko [bezpłatne warsztaty]",
       "date": "2026-10-20T11:30:00+02:00",
       "end_date": "2026-10-20T11:30:00+02:00",
       "startTimeKnown": true,
-      "description": "Jesienne warsztaty artystyczne, podczas których uczestnicy poznają kolagrafię, czyli technikę graficzną inspirowaną kolażem. Odbędą się 20 października w Centrum Aktywności Lokalnej na Brochowie.\n\nUczestnicy wycinają, kleją i naklejają różne elementy, przygotowując matrycę do własnej grafiki. Tematykę pracy wyznacza wyobraźnia twórców. Nie trzeba mieć doświadczenia ani specjalnych umiejętności, a organizatorzy zapewniają wszystkie potrzebne materiały.\n\nInformacje organizacyjne:\n• Kiedy: wtorek, 20 października, godz. 11:30\n• Gdzie: Centrum Aktywności Lokalnej na Brochowie, ul. Koreańska 1a we Wrocławiu\n• Dojście: wejście i wjazd od ul. Chińskiej\n• Dla kogo: osoby od 6. roku życia; dzieci pod opieką rodziców lub opiekunów\n• Wstęp: bezpłatny\n• Zapisy: obowiązują przez formularz",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/18191065-e032-43d9-86d1-1d1f41e1b482/5e6e83e9-c68f-46ca-86a3-f6a285ffc1f0.jpg",
+      "description": "Jesienne popołudnie to idealny moment, by obudzić kreatywność i spróbować czegoś nowego! Już 20 października w **Centrum Aktywności Lokalnej na Brochowie** odbędą się **bezpłatne warsztaty artystyczne**, podczas których uczestnicy poznają **kolagrafię** – ciekawą technikę graficzną inspirowaną kolażem. To okazja, by twórczo się zrelaksować, pobawić formą i stworzyć własną, niepowtarzalną pracę.\n\nOdkryj kolagrafię i stwórz własną grafikę\n\nPodczas spotkania uczestnicy będą **wycinać, kleić i naklejać** różne elementy, by przygotować matrycę do swojej grafiki. Tematyka pracy zależy od wyobraźni twórców, dlatego każdy będzie mógł stworzyć coś wyjątkowego. **Nie trzeba mieć doświadczenia ani specjalnych umiejętności** – liczą się ciekawość, chęć eksperymentowania i dobra zabawa.\n\n**Organizatorzy zapewniają wszystkie potrzebne materiały**, więc wystarczy przyjść z otwartą głową i gotowością do twórczego działania.\n\nWarsztaty dla dzieci i dorosłych\n\nWarsztaty są otwarte dla osób od 6. roku życia. Młodszych uczestników zapraszamy pod opieką rodziców lub opiekunów. To świetna okazja, by wspólnie spędzić czas, poznać nową technikę artystyczną i przekonać się, ile radości daje tworzenie własnymi rękami.\n\nInformacje organizacyjne\n\n• **Kiedy:** wtorek, 20 października, godz. 11:30\n\n• **Gdzie:** Centrum Aktywności Lokalnej na Brochowie, ul. Koreańska 1a we Wrocławiu\n\n• **Dojście:** wejście i wjazd od ul. Chińskiej\n\n• **Dla kogo:** osoby od 6. roku życia; dzieci pod opieką rodziców lub opiekunów\n\n• **Wstęp** **bezpłatny**\n\nO​bowiązują zapisy przez formularz\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-f01d2d6aac110002647fcfa23fae440b/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417408-graficzne-szkicowanko",
+      "source": "wroclaw.pl",
       "location": {
-        "name": "Fundacja Made In Brochów, Wrocław",
+        "name": "Fundacja Made In Brochów",
         "district": "Śródmieście"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/graficzne-szkicowanko-bezplatne-warsztaty-18191065-e032-43d9-86d1-1d1f41e1b482",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/graficzne-szkicowanko-bezplatne-warsztaty-18191065-e032-43d9-86d1-1d1f41e1b482",
-      "scrapped_timestamp": "2026-10-18T10:53:36.544616+00:00",
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417408-graficzne-szkicowanko",
+      "scrapped_timestamp": "2026-10-19T12:45:41.293048+00:00",
       "category": "Workshops",
       "additional_categories": [
         "Arts"
       ],
+      "age_range": {
+        "min": 6,
+        "max": 18
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Graficzne szkicowanko – bezpłatne warsztaty",
-          "description": "Jesienne warsztaty artystyczne, podczas których uczestnicy poznają kolagrafię, czyli technikę graficzną inspirowaną kolażem. Odbędą się 20 października w Centrum Aktywności Lokalnej na Brochowie.\n\nUczestnicy wycinają, kleją i naklejają różne elementy, przygotowując matrycę do własnej grafiki. Tematykę pracy wyznacza wyobraźnia twórców. Nie trzeba mieć doświadczenia ani specjalnych umiejętności, a organizatorzy zapewniają wszystkie potrzebne materiały.\n\nInformacje organizacyjne:\n• Kiedy: wtorek, 20 października, godz. 11:30\n• Gdzie: Centrum Aktywności Lokalnej na Brochowie, ul. Koreańska 1a we Wrocławiu\n• Dojście: wejście i wjazd od ul. Chińskiej\n• Dla kogo: osoby od 6. roku życia; dzieci pod opieką rodziców lub opiekunów\n• Wstęp: bezpłatny\n• Zapisy: obowiązują przez formularz"
+          "title": "Graficzne szkicowanko [bezpłatne warsztaty]",
+          "description": "Jesienne popołudnie to idealny moment, by obudzić kreatywność i spróbować czegoś nowego! Już 20 października w **Centrum Aktywności Lokalnej na Brochowie** odbędą się **bezpłatne warsztaty artystyczne**, podczas których uczestnicy poznają **kolagrafię** – ciekawą technikę graficzną inspirowaną kolażem. To okazja, by twórczo się zrelaksować, pobawić formą i stworzyć własną, niepowtarzalną pracę.\n\nOdkryj kolagrafię i stwórz własną grafikę\n\nPodczas spotkania uczestnicy będą **wycinać, kleić i naklejać** różne elementy, by przygotować matrycę do swojej grafiki. Tematyka pracy zależy od wyobraźni twórców, dlatego każdy będzie mógł stworzyć coś wyjątkowego. **Nie trzeba mieć doświadczenia ani specjalnych umiejętności** – liczą się ciekawość, chęć eksperymentowania i dobra zabawa.\n\n**Organizatorzy zapewniają wszystkie potrzebne materiały**, więc wystarczy przyjść z otwartą głową i gotowością do twórczego działania.\n\nWarsztaty dla dzieci i dorosłych\n\nWarsztaty są otwarte dla osób od 6. roku życia. Młodszych uczestników zapraszamy pod opieką rodziców lub opiekunów. To świetna okazja, by wspólnie spędzić czas, poznać nową technikę artystyczną i przekonać się, ile radości daje tworzenie własnymi rękami.\n\nInformacje organizacyjne\n\n• **Kiedy:** wtorek, 20 października, godz. 11:30\n\n• **Gdzie:** Centrum Aktywności Lokalnej na Brochowie, ul. Koreańska 1a we Wrocławiu\n\n• **Dojście:** wejście i wjazd od ul. Chińskiej\n\n• **Dla kogo:** osoby od 6. roku życia; dzieci pod opieką rodziców lub opiekunów\n\n• **Wstęp** **bezpłatny**\n\nO​bowiązują zapisy przez formularz\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
         },
         "en": {
-          "title": "Graphic Sketching – Free Workshops",
-          "description": "Autumn artistic workshops where participants will learn about collagraphy, a graphic technique inspired by collage. They will take place on October 20th at the Local Activity Center in Brochów.\n\nParticipants will cut, glue, and stick various elements to prepare a matrix for their own graphics. The theme of the work is determined by the creators' imagination. No experience or special skills are required, and the organizers provide all necessary materials.\n\nOrganizational information:\n• When: Tuesday, October 20th, at 11:30 AM\n• Where: Local Activity Center in Brochów, ul. Koreańska 1a in Wrocław\n• Access: entrance and access from ul. Chińska\n• For whom: individuals from 6 years old; children under the care of parents or guardians\n• Admission: free\n• Registration: required via the form"
+          "title": "Graphic Sketching [free workshops]",
+          "description": "Autumn afternoons are the perfect time to awaken creativity and try something new! On October 20th at **Local Activity Center in Brochów**, **free artistic workshops** will take place, during which participants will learn about **collagraphy** – an interesting graphic technique inspired by collage. This is an opportunity to creatively relax, play with form, and create your own unique piece.\n\nDiscover collagraphy and create your own graphic\n\nDuring the meeting, participants will **cut, glue, and stick** various elements to prepare a matrix for their graphic. The theme of the work depends on the creators' imagination, so everyone will be able to create something special. **No experience or special skills are required** – curiosity, a willingness to experiment, and having fun are what matter.\n\n**Organizer**"
         },
         "uk": {
-          "title": "Графічне ескізування – безкоштовні майстер-класи",
-          "description": "Осінні художні майстер-класи, під час яких учасники познайомляться з колаграфією, тобто графічною технікою, натхненною колажем. Вони відбудуться 20 жовтня в Центрі Активності Локальної на Брохові.\n\nУчасники вирізають, клеять і наклеюють різні елементи, готуючи матрицю для власної графіки. Тематику роботи визначає уява творців. Не потрібно мати досвід або спеціальні навички, а організатори забезпечують всі необхідні матеріали.\n\nОрганізаційна інформація:\n• Коли: вівторок, 20 жовтня, о 11:30\n• Де: Центр Активності Локальної на Брохові, вул. Корейська 1а у Вроцлаві\n• Доступ: вхід і заїзд з вул. Китайської\n• Для кого: особи від 6 років; діти під наглядом батьків або опікунів\n• Вхід: безкоштовний\n• Реєстрація: обов'язкова через форму"
+          "title": "Графічне ескізування [безкоштовні майстер-класи]",
+          "description": "Осіннє пополудні – це ідеальний момент, щоб пробудити креативність і спробувати щось нове! Вже 20 жовтня в **Центрі Активності Місцевої Спільноти на Брохові** відбудуться **безкоштовні художні майстер-класи**, під час яких учасники познайомляться з **колаграфією** – цікавою графічною технікою, натхненною колажем. Це можливість творчо розслабитися, погратися формою і створити власну, неповторну роботу.\n\nВідкрийте колаграфію і створіть власну графіку\n\nПід час зустрічі учасники будуть **вирізати, клеїти і наклеювати** різні елементи, щоб підготувати матрицю для своєї графіки. Тематика роботи залежить від уяви творців, тому кожен зможе створити щось унікальне. **Не потрібно мати досвіду чи спеціальних навичок** – важливі цікавість, бажання експериментувати і гарний настрій.\n\n**Організатор**"
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Śródmieście",
-      "updated_at": "2026-10-18T10:54:36.461524+00:00"
+      "updated_at": "2026-10-19T12:47:34.950308+00:00"
     },
     "emocje-w-szkolnym-tornistrze-bezp-atny-cykl-zaj-z-elementami-arteterapii-dla-dzieci-6-8-lat-2026-10-22T17:00:00+02:00": {
       "title": "Emocje w szkolnym tornistrze. Bezpłatny cykl zajęć z elementami arteterapii dla dzieci 6-8 lat",
@@ -6673,6 +6678,517 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-10-18T10:54:36.461605+00:00"
+    },
+    "ma-e-gadu-y-warsztaty-logopedyczne-dla-dzieci-0-3-2026-10-21T10:00:00+02:00": {
+      "title": "Małe Gaduły - warsztaty logopedyczne dla dzieci 0-3",
+      "date": "2026-10-21T10:00:00+02:00",
+      "end_date": "2026-10-21T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Każde dziecko ma coś do powiedzenia – nawet jeśli dopiero poznaje pierwsze dźwięki i gesty! „Małe Gaduły” to spotkania dla rodziców i maluchów, podczas których wspólna zabawa staje się okazją do odkrywania świata komunikacji. Będzie muzyka, ruch, zabawy logopedyczne i mnóstwo okazji do budowania bliskości.\n\nZabawa, która wspiera rozwój mowy\n\nPodczas zajęć dzieci poznają dźwięki, gesty i słowa poprzez aktywności dostosowane do ich wieku. Zabawy logopedyczne, muzyka i ruch pomagają rozwijać umiejętności komunikacyjne w przyjaznej, swobodnej atmosferze.\n\nPierwsze kroki w świecie komunikacji\n\n„Małe Gaduły” to także okazja dla rodziców, by aktywnie uczestniczyć w zabawie i dowiedzieć się, jak wspierać rozwój mowy dziecka na co dzień. Proste pomysły i wspólne aktywności można później wykorzystać również w domu.\n\nZajęcia prowadzą specjaliści z zespołu logopedów i neurologopedów dziecięcych. Dobór prowadzącego zależy od lokalizacji.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Małe Gaduły\n\n• **Dla kogo:** rodzice z dziećmi w wieku 0–3 lat\n\n• **Prowadzący:** specjaliści z zespołu logopedów i neurologopedów dziecięcych\n\n• **Program:** zabawy logopedyczne, gesty, dźwięki, ruch i muzyka\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-11d96924ac11000216fab36b53780435/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417496-male-gaduly",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Przedszkole Columbus Przedszkole Magellan Przedszkole Leonardo Przedszkole Kropelka Przedszkole Marco Polo"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417496-male-gaduly",
+      "scrapped_timestamp": "2026-10-19T12:45:48.670630+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Małe Gaduły - warsztaty logopedyczne dla dzieci 0-3",
+          "description": "Każde dziecko ma coś do powiedzenia – nawet jeśli dopiero poznaje pierwsze dźwięki i gesty! „Małe Gaduły” to spotkania dla rodziców i maluchów, podczas których wspólna zabawa staje się okazją do odkrywania świata komunikacji. Będzie muzyka, ruch, zabawy logopedyczne i mnóstwo okazji do budowania bliskości.\n\nZabawa, która wspiera rozwój mowy\n\nPodczas zajęć dzieci poznają dźwięki, gesty i słowa poprzez aktywności dostosowane do ich wieku. Zabawy logopedyczne, muzyka i ruch pomagają rozwijać umiejętności komunikacyjne w przyjaznej, swobodnej atmosferze.\n\nPierwsze kroki w świecie komunikacji\n\n„Małe Gaduły” to także okazja dla rodziców, by aktywnie uczestniczyć w zabawie i dowiedzieć się, jak wspierać rozwój mowy dziecka na co dzień. Proste pomysły i wspólne aktywności można później wykorzystać również w domu.\n\nZajęcia prowadzą specjaliści z zespołu logopedów i neurologopedów dziecięcych. Dobór prowadzącego zależy od lokalizacji.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Małe Gaduły\n\n• **Dla kogo:** rodzice z dziećmi w wieku 0–3 lat\n\n• **Prowadzący:** specjaliści z zespołu logopedów i neurologopedów dziecięcych\n\n• **Program:** zabawy logopedyczne, gesty, dźwięki, ruch i muzyka\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Little Chatterboxes - Speech Therapy Workshops for Children Aged 0-3",
+          "description": "Every child has something to say – even if they are just getting to know their first sounds and gestures! \"Little Chatterboxes\" are meetings for parents and toddlers, during which shared play becomes an opportunity to discover the world of communication. There will be music, movement, speech therapy games, and plenty of opportunities to build closeness.\n\nPlay that supports speech development\n\nDuring the sessions, children will learn sounds, gestures, and words through activities tailored to their age. Speech therapy games, music, and movement help develop communication skills in a friendly, relaxed atmosphere.\n\nFirst steps in the world of communication\n\n\"Little Chatterboxes\" is also an opportunity for parents to actively participate in play and learn how to support their child's speech development in everyday life. Simple ideas and shared activities can later be used"
+        },
+        "uk": {
+          "title": "Малі Гадулі - логопедичні майстер-класи для дітей 0-3",
+          "description": "Кожна дитина має щось сказати – навіть якщо тільки знайомиться з першими звуками та жестами! \"Малі Гадулі\" – це зустрічі для батьків та малюків, під час яких спільна гра стає нагодою для відкриття світу комунікації. Буде музика, рух, логопедичні ігри та безліч можливостей для побудови близькості.\n\nЗабава, яка підтримує розвиток мови\n\nПід час занять діти знайомляться зі звуками, жестами та словами через активності, адаптовані до їхнього віку. Логопедичні ігри, музика та рух допомагають розвивати комунікативні навички в дружній, невимушеній атмосфері.\n\nПерші кроки у світі комунікації\n\n\"Малі Гадулі\" – це також нагода для батьків активно брати участь у грі та дізнатися, як підтримувати розвиток мови дитини щодня. Прості ідеї та спільні активності можна пізніше використати"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-10-19T12:47:34.950350+00:00"
+    },
+    "ycie-w-redniowiecznym-grodzie-le-ne-zaj-cia-dla-dzieci-6-2026-10-23T10:00:00+02:00": {
+      "title": "ŻYCIE W ŚREDNIOWIECZNYM GRODZIE - leśne zajęcia dla dzieci 6+",
+      "date": "2026-10-23T10:00:00+02:00",
+      "end_date": "2026-10-23T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Las zamieni się w salę lekcyjną, plac zabaw i średniowieczny gród! Podczas październikowych zajęć dzieci przeniosą się w czasie, by odkryć, jak wyglądało codzienne życie setki lat temu. Nie zabraknie przygód, kreatywnych zadań i nauki przez doświadczenie.\n\nJak wyglądało życie w średniowiecznym grodzie?\n\nCo jedli dawni mieszkańcy, jak budowali schronienia i radzili sobie bez prądu czy internetu? Uczestnicy poznają odpowiedzi na te pytania, wcielając się w mieszkańców średniowiecznego grodu. W programie znajdą się zadania z mapą i kompasem, projektowanie i tworzenie pieczęci, lepienie naczyń oraz wykonywanie gipsowych odlewów.\n\nNie zabraknie również wspólnego gotowania na ogniu. Dzięki praktycznym aktywnościom historia stanie się czymś więcej niż opowieścią – będzie przygodą, której można doświadczyć wszystkimi zmysłami.\n\nNauka, zabawa i bliskość natury\n\nLeśne zajęcia łączą edukację z ruchem, swobodną zabawą i współpracą. Dzieci mogą eksperymentować, zadawać pytania, rozwijać samodzielność i odkrywać otaczającą przyrodę we własnym tempie. Las staje się przestrzenią do poznawania świata, odpoczynku i wspólnego działania.\n\nWyprawę zakończy ognisko, przy którym uczestnicy będą mogli wspólnie odpocząć po dniu pełnym odkryć.\n\nInformacje organizacyjne\n\n• **Temat zajęć:** Życie w średniowiecznym grodzie\n\n• **Dla kogo:** dzieci w wieku 6+; młodsze dzieci mogą uczestniczyć z dorosłym opiekunem\n\n• **Miejsce:** las\n\n• **Charakter zajęć:** edukacja przyrodnicza i historyczna, aktywności praktyczne, ruch i swobodna zabawa\n\n• **Zakończenie:** wspólne ognisko\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-b4dd4772ac11000247c1087a50c92a4f/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417458-zycie-w-sredniowiecznym-grodzie-lesne-zajecia-dla-dzieci",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Las Sołtysowicki Sołtysowicka, Wrocław 50-001",
+        "district": "Psie Pole"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417458-zycie-w-sredniowiecznym-grodzie-lesne-zajecia-dla-dzieci",
+      "scrapped_timestamp": "2026-10-19T12:45:54.796746+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Nature & Wildlife",
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 14
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "ŻYCIE W ŚREDNIOWIECZNYM GRODZIE - leśne zajęcia dla dzieci 6+",
+          "description": "Las zamieni się w salę lekcyjną, plac zabaw i średniowieczny gród! Podczas październikowych zajęć dzieci przeniosą się w czasie, by odkryć, jak wyglądało codzienne życie setki lat temu. Nie zabraknie przygód, kreatywnych zadań i nauki przez doświadczenie.\n\nJak wyglądało życie w średniowiecznym grodzie?\n\nCo jedli dawni mieszkańcy, jak budowali schronienia i radzili sobie bez prądu czy internetu? Uczestnicy poznają odpowiedzi na te pytania, wcielając się w mieszkańców średniowiecznego grodu. W programie znajdą się zadania z mapą i kompasem, projektowanie i tworzenie pieczęci, lepienie naczyń oraz wykonywanie gipsowych odlewów.\n\nNie zabraknie również wspólnego gotowania na ogniu. Dzięki praktycznym aktywnościom historia stanie się czymś więcej niż opowieścią – będzie przygodą, której można doświadczyć wszystkimi zmysłami.\n\nNauka, zabawa i bliskość natury\n\nLeśne zajęcia łączą edukację z ruchem, swobodną zabawą i współpracą. Dzieci mogą eksperymentować, zadawać pytania, rozwijać samodzielność i odkrywać otaczającą przyrodę we własnym tempie. Las staje się przestrzenią do poznawania świata, odpoczynku i wspólnego działania.\n\nWyprawę zakończy ognisko, przy którym uczestnicy będą mogli wspólnie odpocząć po dniu pełnym odkryć.\n\nInformacje organizacyjne\n\n• **Temat zajęć:** Życie w średniowiecznym grodzie\n\n• **Dla kogo:** dzieci w wieku 6+; młodsze dzieci mogą uczestniczyć z dorosłym opiekunem\n\n• **Miejsce:** las\n\n• **Charakter zajęć:** edukacja przyrodnicza i historyczna, aktywności praktyczne, ruch i swobodna zabawa\n\n• **Zakończenie:** wspólne ognisko\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "LIFE IN A MEDIEVAL SETTLEMENT - forest activities for children 6+",
+          "description": "The forest will turn into a classroom, playground, and medieval settlement! During the October activities, children will travel back in time to discover what daily life was like hundreds of years ago. There will be no shortage of adventures, creative tasks, and learning through experience.\n\nWhat was life like in a medieval settlement?\n\nWhat did the ancient inhabitants eat, how did they build shelters, and how did they cope without electricity or the internet? Participants will find answers to these questions by embodying the residents of a medieval settlement. The program will include tasks with a map and compass, designing and creating seals, molding vessels, and making plaster casts.\n\nThere will also be communal cooking over a fire. Thanks to practical activities, history will become more than just a story – it will be an adventure that can be experienced."
+        },
+        "uk": {
+          "title": "ЖИТТЯ В СЕРЕДНЬОВІЧНОМУ ГРОДІ - лісові заняття для дітей 6+",
+          "description": "Ліс перетвориться на класну кімнату, ігровий майданчик та середньовічний град! Під час жовтневих занять діти перенесуться в часі, щоб відкрити, як виглядало повсякденне життя сотні років тому. Не бракуватиме пригод, креативних завдань та навчання через досвід.\n\nЯк виглядало життя в середньовічному граді?\n\nЩо їли давні мешканці, як будували укриття та як справлялися без електрики чи інтернету? Учасники дізнаються відповіді на ці питання, втілюючись у мешканців середньовічного граду. У програмі будуть завдання з картою та компасом, проектування та створення печаток, ліплення посуду та виконання гіпсових відливок.\n\nНе бракуватиме також спільного приготування їжі на вогні. Завдяки практичним активностям історія стане чимось більшим, ніж оповіддю – це буде пригода, яку можна до..."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Psie Pole",
+      "updated_at": "2026-10-19T12:47:34.950376+00:00"
+    },
+    "wernisa-wystawy-arthistorie-o-bina-spacer-sztuka-s-siedztwo-spotkanie-i-wyk-ad-2026-10-23T18:00:00+02:00": {
+      "title": "Wernisaż wystawy \"Arthistorie Ołbina: spacer, sztuka, sąsiedztwo\" - spotkanie i wykład",
+      "date": "2026-10-23T18:00:00+02:00",
+      "end_date": "2026-10-23T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Średniowieczne skarby, historia ołbińskiego opactwa i sztuka inspirowana lokalnym dziedzictwem – **wystawa „Arthistorie Ołbina”** będzie okazją, by odkryć niezwykłe historie tej części Wrocławia i zobaczyć, jak zainspirowały one mieszkańców do twórczego działania. Wernisaż odbędzie się w formule sąsiedzkiego spotkania z poczęstunkiem, wykładem historycznym i przestrzenią do rozmów. Zaproszeni są wszyscy zainteresowani, nie tylko osoby uczestniczące wcześniej w spacerach i warsztatach.\n\nHistoria Ołbina i średniowieczne skarby\n\nGościem specjalnym wydarzenia będzie **dr Agnieszka Patała**, która wygłosi wykład pt. **„Arthistoria ołbińskiego opactwa”**. Opowie o losach średniowiecznych skarbów i dekoracji związanych z dawnym opactwem, przybliżając słuchaczom bogate dziedzictwo historyczne i artystyczne Ołbina.\n\nW programie znajdzie się również prezentacja prac powstałych podczas projektu „Arthistorie Ołbina: spacer, sztuka, sąsiedztwo”. To okazja, by zobaczyć, jak historia i lokalna architektura mogą stać się inspiracją do tworzenia własnych dzieł.\n\nSztuka, sąsiedztwo i twórcze spotkanie\n\nProjekt odbył się **3–4 października 2026 roku**. Uczestnicy wyruszyli na spacery z przewodniczką, poznając ciekawostki historyczne, architektoniczne i artystyczne Ołbina. Następnie podczas warsztatów tworzyli własne **kafle, witraże i torby** inspirowane poznanymi motywami.\n\nWernisaż będzie podsumowaniem tych działań i okazją do spotkania w sąsiedzkiej atmosferze. Na gości czekać będą poczęstunek, rozmowy i czas na spokojne oglądanie wystawy. Dodatkowo przygotowany zostanie **kącik plastyczny z kafelkowymi wzornikami do kolorowania**, udostępnionymi przez Stowarzyszenie ARTIS.\n\nProjekt „Arthistorie Ołbina. Spacer, sztuka, sąsiedztwo” został sfinansowany z budżetu Samorządu Województwa Dolnośląskiego w ramach programu „Dolnośląskie Małe Granty 2026 – Lokalny impuls od FRW”.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** wernisaż wystawy „Arthistorie Ołbina”\n\n• **Program:**\n\n• **18:00** – otwarcie wernisażu\n\n• **18:15** – powitanie gości i podsumowanie projektu\n\n• **18:30** – wykład dr Agnieszki Patały „Arthistoria ołbińskiego opactwa”\n\n• **19:20** – poczęstunek, rozmowy i oglądanie wystawy\n\n• **Zakończenie:** 20:00\n\n• **Wstęp:** wydarzenie i wykład otwarte dla wszystkich gości\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-edfe1519ac1100023bc4d5c04c4785e8/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417445-wernisaz-wystawy-arthistorie-olbina-spacer-sztuka-sasiedztwo-spotkanie-i-wyklad",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "CAL Ołbin Prusa 37/39, Wrocław",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417445-wernisaz-wystawy-arthistorie-olbina-spacer-sztuka-sasiedztwo-spotkanie-i-wyklad",
+      "scrapped_timestamp": "2026-10-19T12:46:01.687618+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Wernisaż wystawy \"Arthistorie Ołbina: spacer, sztuka, sąsiedztwo\" - spotkanie i wykład",
+          "description": "Średniowieczne skarby, historia ołbińskiego opactwa i sztuka inspirowana lokalnym dziedzictwem – **wystawa „Arthistorie Ołbina”** będzie okazją, by odkryć niezwykłe historie tej części Wrocławia i zobaczyć, jak zainspirowały one mieszkańców do twórczego działania. Wernisaż odbędzie się w formule sąsiedzkiego spotkania z poczęstunkiem, wykładem historycznym i przestrzenią do rozmów. Zaproszeni są wszyscy zainteresowani, nie tylko osoby uczestniczące wcześniej w spacerach i warsztatach.\n\nHistoria Ołbina i średniowieczne skarby\n\nGościem specjalnym wydarzenia będzie **dr Agnieszka Patała**, która wygłosi wykład pt. **„Arthistoria ołbińskiego opactwa”**. Opowie o losach średniowiecznych skarbów i dekoracji związanych z dawnym opactwem, przybliżając słuchaczom bogate dziedzictwo historyczne i artystyczne Ołbina.\n\nW programie znajdzie się również prezentacja prac powstałych podczas projektu „Arthistorie Ołbina: spacer, sztuka, sąsiedztwo”. To okazja, by zobaczyć, jak historia i lokalna architektura mogą stać się inspiracją do tworzenia własnych dzieł.\n\nSztuka, sąsiedztwo i twórcze spotkanie\n\nProjekt odbył się **3–4 października 2026 roku**. Uczestnicy wyruszyli na spacery z przewodniczką, poznając ciekawostki historyczne, architektoniczne i artystyczne Ołbina. Następnie podczas warsztatów tworzyli własne **kafle, witraże i torby** inspirowane poznanymi motywami.\n\nWernisaż będzie podsumowaniem tych działań i okazją do spotkania w sąsiedzkiej atmosferze. Na gości czekać będą poczęstunek, rozmowy i czas na spokojne oglądanie wystawy. Dodatkowo przygotowany zostanie **kącik plastyczny z kafelkowymi wzornikami do kolorowania**, udostępnionymi przez Stowarzyszenie ARTIS.\n\nProjekt „Arthistorie Ołbina. Spacer, sztuka, sąsiedztwo” został sfinansowany z budżetu Samorządu Województwa Dolnośląskiego w ramach programu „Dolnośląskie Małe Granty 2026 – Lokalny impuls od FRW”.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** wernisaż wystawy „Arthistorie Ołbina”\n\n• **Program:**\n\n• **18:00** – otwarcie wernisażu\n\n• **18:15** – powitanie gości i podsumowanie projektu\n\n• **18:30** – wykład dr Agnieszki Patały „Arthistoria ołbińskiego opactwa”\n\n• **19:20** – poczęstunek, rozmowy i oglądanie wystawy\n\n• **Zakończenie:** 20:00\n\n• **Wstęp:** wydarzenie i wykład otwarte dla wszystkich gości\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Opening of the exhibition \"Arthistorie Ołbina: walk, art, neighborhood\" - meeting and lecture",
+          "description": "Medieval treasures, the history of the Ołbin abbey, and art inspired by local heritage – **the exhibition \"Arthistorie Ołbina\"** will be an opportunity to discover the extraordinary stories of this part of Wrocław and see how they inspired the residents to creative action. The opening will take place in the form of a neighborhood meeting with refreshments, a historical lecture, and space for conversations. Everyone interested is invited, not just those who have previously participated in walks and workshops.\n\nThe history of Ołbin and medieval treasures\n\nThe special guest of the event will be **Dr. Agnieszka Patała**, who will give a lecture titled **\"Arthistoria of the Ołbin abbey\"**. She will talk about the fate of medieval treasures and decorations related to the former abbey, bringing the rich historical heritage and art closer to the listeners."
+        },
+        "uk": {
+          "title": "Відкриття виставки \"Arthistorie Ołbina: прогулянка, мистецтво, сусідство\" - зустріч і лекція",
+          "description": "Середньовічні скарби, історія оłбінського абатства та мистецтво, натхненне місцевою спадщиною – **виставка „Arthistorie Ołbina”** буде нагодою, щоб відкрити неймовірні історії цієї частини Вроцлава та побачити, як вони надихнули мешканців на творчі дії. Відкриття відбудеться в форматі сусідської зустрічі з частуванням, історичною лекцією та простором для розмов. Запрошені всі зацікавлені, не лише особи, які раніше брали участь у прогулянках та майстер-класах.\n\nІсторія Оłбина та середньовічні скарби\n\nГостем спеціального заходу буде **д-р Агнєшка Патаła**, яка виголосить лекцію на тему **„Arthistoria оłбінського абатства”**. Розповість про долі середньовічних скарбів та декорацій, пов'язаних з давнім абатством, наближаючи слухачам багатий історичний спадок та ар"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-19T12:47:34.950402+00:00"
+    },
+    "artystyczna-cukiernia-straszne-przek-ski-z-ciasta-francuskiego-warsztaty-2026-10-24T11:00:00+02:00": {
+      "title": "Artystyczna cukiernia – Straszne przekąski z ciasta francuskiego [warsztaty]",
+      "date": "2026-10-24T11:00:00+02:00",
+      "end_date": "2026-10-24T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Potworki, pajęczyny i chrupiące przekąski, które wyglądają jak wyjęte z halloweenowej opowieści! Podczas warsztatów **„Straszne przekąski z ciasta francuskiego”** z cyklu Artystyczna Cukiernia dzieci zamienią się w małych kucharzy i stworzą smakołyki idealne na upiorną imprezę. Będzie kreatywnie, pysznie i odrobinę strasznie!\n\nHalloweenowe smakołyki własnej roboty\n\nJak wyczarować z ciasta francuskiego przekąski, które zachwycą wyglądem i smakiem? Uczestnicy poznają podstawy pracy z gotowym ciastem, nauczą się je formować i przygotowywać, a następnie poeksperymentują z kształtami oraz dodatkami. Zwykłe składniki zamienią się w zabawne potworki i inne halloweenowe przysmaki.\n\nKreatywna zabawa w kuchni\n\nWarsztaty to okazja, by połączyć naukę kulinarnych podstaw z twórczą zabawą. Dzieci rozwiną wyobraźnię, spróbują swoich sił w kuchni i przygotują własne przekąski, które mogą stać się ozdobą halloweenowego stołu. To propozycja dla małych miłośników gotowania i wszystkich, którzy lubią, gdy jedzenie zaskakuje nie tylko smakiem, ale też wyglądem.\n\nZajęcia przeznaczone są dla **dzieci w wieku 5–11 lat**. Podczas warsztatów dzieci powinny pozostawać pod opieką rodzica lub opiekuna, którego wejście jest wliczone w cenę biletu.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** Artystyczna Cukiernia – „Straszne przekąski z ciasta francuskiego”\n\n• **Dla kogo:** dzieci w wieku 5–11 lat\n\n• **Cena biletu:** od 90 zł\n\n• **Opieka:** obecność rodzica lub opiekuna jest wymagana, a jego wejście wliczono w cenę biletu.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-c5b9e596ac11000216fab36b52ee55e4/cc5caff7e955f71c84a8473a6c7e1766.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417477-artystyczna-cukiernia-straszne-przekaski-z-ciasta-francuskiego-warsztaty",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Aleja Bielany Czekoladowa 7-9, Kobierzyce 55-040"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417477-artystyczna-cukiernia-straszne-przekaski-z-ciasta-francuskiego-warsztaty",
+      "scrapped_timestamp": "2026-10-19T12:46:09.339395+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 11
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Artystyczna cukiernia – Straszne przekąski z ciasta francuskiego [warsztaty]",
+          "description": "Potworki, pajęczyny i chrupiące przekąski, które wyglądają jak wyjęte z halloweenowej opowieści! Podczas warsztatów **„Straszne przekąski z ciasta francuskiego”** z cyklu Artystyczna Cukiernia dzieci zamienią się w małych kucharzy i stworzą smakołyki idealne na upiorną imprezę. Będzie kreatywnie, pysznie i odrobinę strasznie!\n\nHalloweenowe smakołyki własnej roboty\n\nJak wyczarować z ciasta francuskiego przekąski, które zachwycą wyglądem i smakiem? Uczestnicy poznają podstawy pracy z gotowym ciastem, nauczą się je formować i przygotowywać, a następnie poeksperymentują z kształtami oraz dodatkami. Zwykłe składniki zamienią się w zabawne potworki i inne halloweenowe przysmaki.\n\nKreatywna zabawa w kuchni\n\nWarsztaty to okazja, by połączyć naukę kulinarnych podstaw z twórczą zabawą. Dzieci rozwiną wyobraźnię, spróbują swoich sił w kuchni i przygotują własne przekąski, które mogą stać się ozdobą halloweenowego stołu. To propozycja dla małych miłośników gotowania i wszystkich, którzy lubią, gdy jedzenie zaskakuje nie tylko smakiem, ale też wyglądem.\n\nZajęcia przeznaczone są dla **dzieci w wieku 5–11 lat**. Podczas warsztatów dzieci powinny pozostawać pod opieką rodzica lub opiekuna, którego wejście jest wliczone w cenę biletu.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** Artystyczna Cukiernia – „Straszne przekąski z ciasta francuskiego”\n\n• **Dla kogo:** dzieci w wieku 5–11 lat\n\n• **Cena biletu:** od 90 zł\n\n• **Opieka:** obecność rodzica lub opiekuna jest wymagana, a jego wejście wliczono w cenę biletu.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "Artistic Pastry Shop – Scary Puff Pastry Snacks [workshop]",
+          "description": "Monsters, cobwebs, and crunchy snacks that look like they came straight out of a Halloween tale! During the workshop **\"Scary Puff Pastry Snacks\"** from the Artistic Pastry Shop series, children will transform into little chefs and create treats perfect for a spooky party. It will be creative, delicious, and a little scary!\n\nHomemade Halloween Treats\n\nHow to conjure up snacks from puff pastry that will delight with their appearance and taste? Participants will learn the basics of working with ready-made dough, how to shape and prepare it, and then experiment with shapes and toppings. Ordinary ingredients will turn into fun monsters and other Halloween delicacies.\n\nCreative Fun in the Kitchen\n\nThe workshop is an opportunity to combine learning culinary basics with creative fun. Children will develop"
+        },
+        "uk": {
+          "title": "Художня кондитерська – Страшні закуски з листкового тіста [майстер-клас]",
+          "description": "Монстри, павутини та хрусткі закуски, які виглядають так, ніби їх витягли з історії на Хелловін! Під час майстер-класу **„Страшні закуски з листкового тіста”** з циклу Художня Кондитерська діти перетворяться на маленьких кухарів і створять смаколики, ідеальні для моторошної вечірки. Буде креативно, смачно і трохи страшно!\n\nХелловінські смаколики власного виробництва\n\nЯк виварити з листкового тіста закуски, які вразять виглядом і смаком? Учасники познайомляться з основами роботи з готовим тістом, навчаться його формувати та готувати, а потім поекспериментують з формами та добавками. Звичайні інгредієнти перетворяться на веселих монстрів та інші хелловінські делікатеси.\n\nКреативні розваги на кухні\n\nМайстер-клас – це можливість поєднати навчання кулінарним основам з творчими розвагами. Діти розвинуть"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-19T12:47:34.950425+00:00"
+    },
+    "pinokio-spektakl-2026-10-24T15:00:00+02:00": {
+      "title": "Pinokio [spektakl]",
+      "date": "2026-10-24T15:00:00+02:00",
+      "end_date": "2026-10-24T15:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Pinokio to nie tylko chłopiec, który musi nauczyć się odróżniać dobro od zła. W **nowej interpretacji** Joëla Pommerata bohater zyskuje prawo do błędów, własnych wyborów i samodzielnego odkrywania świata. To opowieść o dorastaniu, relacjach z dorosłymi i odwadze, by odnaleźć własną drogę.\n\nZnana historia w nowej odsłonie\n\nSpektakl inspirowany powieścią Carla Collodiego przedstawia Pinokia, który spotyka na swojej drodze zarówno osoby, które chcą go wykorzystać, jak i tych, którzy otaczają go miłością i troską. Wśród nich są poświęcający się dla niego ojciec oraz Wróżka, pomagająca mu odnaleźć właściwy kierunek.\n\nW tej wersji historii dobro nie wynika z lęku przed karą ani potrzeby spełniania oczekiwań dorosłych. Bohater uczy się odpowiedzialności przez doświadczenia, także te trudne, a popełnianie błędów staje się naturalną częścią dorastania.\n\nPinokio, który sam wybiera swoją drogę\n\nInterpretacja Joëla Pommerata odchodzi od obrazu „niegrzecznego” dziecka, które trzeba naprawić. Zamiast tego **pokazuje młodego człowieka, który poznaje świat**, konfrontuje się z dorosłymi i stopniowo nabiera odwagi, by samodzielnie podejmować decyzje.\n\n**To opowieść o dziecięcej podmiotowości, dojrzewaniu i uczeniu się troski o siebie oraz innych**. Przypomina, że dorastanie nie polega na bezrefleksyjnym posłuszeństwie, lecz na odkrywaniu własnych wartości i braniu odpowiedzialności za swoje wybory.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-efe27a14ac11000243b81d282fb0dea7/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1417184-pinokio-spektakl",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocławski Teatr Lalek Pl. Teatralny 4, Wrocław 50-051",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1417184-pinokio-spektakl",
+      "scrapped_timestamp": "2026-10-19T12:46:17.699263+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Pinokio [spektakl]",
+          "description": "Pinokio to nie tylko chłopiec, który musi nauczyć się odróżniać dobro od zła. W **nowej interpretacji** Joëla Pommerata bohater zyskuje prawo do błędów, własnych wyborów i samodzielnego odkrywania świata. To opowieść o dorastaniu, relacjach z dorosłymi i odwadze, by odnaleźć własną drogę.\n\nZnana historia w nowej odsłonie\n\nSpektakl inspirowany powieścią Carla Collodiego przedstawia Pinokia, który spotyka na swojej drodze zarówno osoby, które chcą go wykorzystać, jak i tych, którzy otaczają go miłością i troską. Wśród nich są poświęcający się dla niego ojciec oraz Wróżka, pomagająca mu odnaleźć właściwy kierunek.\n\nW tej wersji historii dobro nie wynika z lęku przed karą ani potrzeby spełniania oczekiwań dorosłych. Bohater uczy się odpowiedzialności przez doświadczenia, także te trudne, a popełnianie błędów staje się naturalną częścią dorastania.\n\nPinokio, który sam wybiera swoją drogę\n\nInterpretacja Joëla Pommerata odchodzi od obrazu „niegrzecznego” dziecka, które trzeba naprawić. Zamiast tego **pokazuje młodego człowieka, który poznaje świat**, konfrontuje się z dorosłymi i stopniowo nabiera odwagi, by samodzielnie podejmować decyzje.\n\n**To opowieść o dziecięcej podmiotowości, dojrzewaniu i uczeniu się troski o siebie oraz innych**. Przypomina, że dorastanie nie polega na bezrefleksyjnym posłuszeństwie, lecz na odkrywaniu własnych wartości i braniu odpowiedzialności za swoje wybory.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Pinocchio [performance]",
+          "description": "Pinocchio is not just a boy who must learn to distinguish between good and evil. In **a new interpretation** by Joël Pommerat, the hero gains the right to make mistakes, to make his own choices, and to discover the world independently. It is a story about growing up, relationships with adults, and the courage to find one's own path.\n\nA well-known story in a new version\n\nThe performance inspired by Carlo Collodi's novel presents Pinocchio, who encounters both those who want to exploit him and those who surround him with love and care. Among them are his self-sacrificing father and the Fairy, who helps him find the right direction.\n\nIn this version of the story, good does not stem from fear of punishment or the need to meet adult expectations. The hero learns responsibility through experiences, including the difficult ones, and pop"
+        },
+        "uk": {
+          "title": "Пінокіо [спектакль]",
+          "description": "Пінокіо — це не лише хлопчик, який мусить навчитися відрізняти добро від зла. У **новій інтерпретації** Жоеля Померата герой отримує право на помилки, власні вибори та самостійне відкриття світу. Це оповідь про дорослішання, стосунки з дорослими та відвагу знайти свій шлях.\n\nВідома історія в новій версії\n\nСпектакль, натхненний романом Карла Коллоді, представляє Пінокіо, який зустрічає на своєму шляху як людей, які хочуть його використати, так і тих, хто оточує його любов'ю та турботою. Серед них є батько, який жертвує собою заради нього, та Фея, яка допомагає йому знайти правильний шлях.\n\nУ цій версії історії добро не виникає зі страху перед покаранням чи потреби відповідати очікуванням дорослих. Герой вчиться відповідальності через досвід, також і через складні."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-19T12:47:34.950442+00:00"
+    },
+    "plan-na-weekend-we-wroc-awiu-szalona-zabawa-farbami-w-pigcasso-2026-10-24T00:00:00+02:00": {
+      "title": "Plan na weekend we Wrocławiu? Szalona zabawa farbami w PIGCASSO!",
+      "date": "2026-10-24T00:00:00+02:00",
+      "end_date": "2026-10-24T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "Malowanie bez zasad i ograniczeń\n\nW PIGCASSO sztuka spotyka się z zabawą, a tradycyjne podejście do malowania ustępuje miejsca swobodnej ekspresji. Studio oferuje sesje w technice **action painting**, w której liczy się kreatywność, spontaniczność i eksperymentowanie z farbami. Nie trzeba umieć malować ani mieć artystycznego doświadczenia – to przestrzeń zarówno dla początkujących, jak i tych, którzy po prostu chcą spróbować czegoś nowego.\n\nSzczególną atrakcją są sesje **FLUO**, czyli malowanie neonowymi farbami w ciemności. Efektowne kolory i niezwykła atmosfera sprawiają, że tworzenie obrazów staje się nie tylko artystycznym doświadczeniem, ale też świetną rozrywką.\n\nPomysł na urodziny, wieczór panieński i spotkanie z przyjaciółmi\n\nSzukasz sposobu na świętowanie, który wyróżni się na tle kolejnej kolacji czy wyjścia do kina? **PIGCASSO organizuje kreatywne imprezy na różne okazje**. To propozycja na urodziny dla dzieci, wieczór panieński, osiemnastkę czy spotkanie w gronie znajomych. Wspólne malowanie pozwala oderwać się od codzienności, poeksperymentować i stworzyć pamiątkę z wyjątkowego dnia.\n\nStudio przygotowuje również **imprezy integracyjne dla firm**. Wspólna twórcza aktywność to okazja do lepszego poznania się poza biurem, rozwijania współpracy i spędzenia czasu w nieformalnej atmosferze.\n\nKreatywna przygoda dla dzieci i młodzieży\n\nPIGCASSO to także miejsce dla młodszych uczestników. Zajęcia malarskie mogą być ciekawą atrakcją podczas **wycieczek szkolnych**, a także okazją do rozwijania wyobraźni i odkrywania własnych sposobów wyrażania emocji. Nie liczy się perfekcyjny efekt, lecz radość tworzenia i swoboda eksperymentowania.\n\nA jeśli szukasz prezentu, który dostarczy czegoś więcej niż kolejny przedmiot, warto rozważyć **voucher na sesję malarską**. Może sprawdzić się na święta, Walentynki, Dzień Matki, osiemnaste urodziny czy jako oryginalny upominek dla dwojga.\n\nNiezależnie od okazji, w PIGCASSO można na chwilę zapomnieć o codziennych obowiązkach i odkryć przyjemność tworzenia na własnych zasadach.\n\nInformacje organizacyjne\n\n• **Miejsce:** PIGCASSO, Wrocław\n\n• **Lokalizacja:** centrum miasta, w pobliżu Panoramy Racławickiej i Galerii Dominikańskiej\n\n• **Oferta:** sesje malarskie action painting, malowanie neonami FLUO, urodziny, wieczory panieńskie, imprezy integracyjne, zajęcia dla dzieci i młodzieży oraz vouchery prezentowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-c6cf3750ac1100022a16e925d634d9cc/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1414126-plan-na-weekend-we-wroclawiu-szalona-zabawa-farbami-w-pigcasso",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Pigcasso Creative Paint House Jana Ewangelisty Purkyniego 5, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1414126-plan-na-weekend-we-wroclawiu-szalona-zabawa-farbami-w-pigcasso",
+      "scrapped_timestamp": "2026-10-19T12:46:23.231383+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Plan na weekend we Wrocławiu? Szalona zabawa farbami w PIGCASSO!",
+          "description": "Malowanie bez zasad i ograniczeń\n\nW PIGCASSO sztuka spotyka się z zabawą, a tradycyjne podejście do malowania ustępuje miejsca swobodnej ekspresji. Studio oferuje sesje w technice **action painting**, w której liczy się kreatywność, spontaniczność i eksperymentowanie z farbami. Nie trzeba umieć malować ani mieć artystycznego doświadczenia – to przestrzeń zarówno dla początkujących, jak i tych, którzy po prostu chcą spróbować czegoś nowego.\n\nSzczególną atrakcją są sesje **FLUO**, czyli malowanie neonowymi farbami w ciemności. Efektowne kolory i niezwykła atmosfera sprawiają, że tworzenie obrazów staje się nie tylko artystycznym doświadczeniem, ale też świetną rozrywką.\n\nPomysł na urodziny, wieczór panieński i spotkanie z przyjaciółmi\n\nSzukasz sposobu na świętowanie, który wyróżni się na tle kolejnej kolacji czy wyjścia do kina? **PIGCASSO organizuje kreatywne imprezy na różne okazje**. To propozycja na urodziny dla dzieci, wieczór panieński, osiemnastkę czy spotkanie w gronie znajomych. Wspólne malowanie pozwala oderwać się od codzienności, poeksperymentować i stworzyć pamiątkę z wyjątkowego dnia.\n\nStudio przygotowuje również **imprezy integracyjne dla firm**. Wspólna twórcza aktywność to okazja do lepszego poznania się poza biurem, rozwijania współpracy i spędzenia czasu w nieformalnej atmosferze.\n\nKreatywna przygoda dla dzieci i młodzieży\n\nPIGCASSO to także miejsce dla młodszych uczestników. Zajęcia malarskie mogą być ciekawą atrakcją podczas **wycieczek szkolnych**, a także okazją do rozwijania wyobraźni i odkrywania własnych sposobów wyrażania emocji. Nie liczy się perfekcyjny efekt, lecz radość tworzenia i swoboda eksperymentowania.\n\nA jeśli szukasz prezentu, który dostarczy czegoś więcej niż kolejny przedmiot, warto rozważyć **voucher na sesję malarską**. Może sprawdzić się na święta, Walentynki, Dzień Matki, osiemnaste urodziny czy jako oryginalny upominek dla dwojga.\n\nNiezależnie od okazji, w PIGCASSO można na chwilę zapomnieć o codziennych obowiązkach i odkryć przyjemność tworzenia na własnych zasadach.\n\nInformacje organizacyjne\n\n• **Miejsce:** PIGCASSO, Wrocław\n\n• **Lokalizacja:** centrum miasta, w pobliżu Panoramy Racławickiej i Galerii Dominikańskiej\n\n• **Oferta:** sesje malarskie action painting, malowanie neonami FLUO, urodziny, wieczory panieńskie, imprezy integracyjne, zajęcia dla dzieci i młodzieży oraz vouchery prezentowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Weekend plan in Wrocław? Crazy fun with paints at PIGCASSO!",
+          "description": "Painting without rules and limitations\n\nAt PIGCASSO, art meets fun, and the traditional approach to painting gives way to free expression. The studio offers sessions in **action painting**, where creativity, spontaneity, and experimenting with paints are what matter. You don't need to know how to paint or have artistic experience – it's a space for both beginners and those who simply want to try something new.\n\nA special attraction is the **FLUO** sessions, which involve painting with neon paints in the dark. The striking colors and unique atmosphere make creating paintings not only an artistic experience but also great entertainment.\n\nAn idea for birthdays, bachelorette parties, and gatherings with friends\n\nAre you looking for a way to celebrate that stands out?"
+        },
+        "uk": {
+          "title": "План на вихідні у Вроцлаві? Шалена розвага фарбами в PIGCASSO!",
+          "description": "Малювання без правил і обмежень\n\nВ PIGCASSO мистецтво зустрічається з розвагою, а традиційний підхід до малювання поступається місцем вільній експресії. Студія пропонує сесії в техніці **action painting**, в якій важливі креативність, спонтанність і експериментування з фарбами. Не потрібно вміти малювати або мати художній досвід – це простір як для початківців, так і для тих, хто просто хоче спробувати щось нове.\n\nОсобливою атракцією є сесії **FLUO**, тобто малювання неоновими фарбами в темряві. Ефектні кольори та незвичайна атмосфера роблять створення картин не лише художнім досвідом, але й чудовою розвагою.\n\nІдея для дня народження, дівич-вечора та зустрічі з друзями\n\nШукаєш спосіб святкування, який вирізнятиметься на фоні"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-19T12:47:34.950465+00:00"
+    },
+    "niedzielne-animacje-dla-dzieci-w-hard-rock-cafe-wroc-aw-2026-10-25T00:00:00+02:00": {
+      "title": "Niedzielne animacje dla dzieci w Hard Rock Cafe Wrocław",
+      "date": "2026-10-25T00:00:00+02:00",
+      "end_date": "2026-10-25T00:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Obiad w Hard Rock Cafe z rozrywką dla dzieci? Brzmi świetnie, prawda?\n\nZapraszamy wszystkie dzieci (oraz rodziców) na zabawy w VIP Roomie, w każdą niedzielę od 14 września, w godzinach 13:00-16:00!\n\n**Atrakcje przygotują profesjonaliści z agencji Animatria, a w planie będą:**\n\n• gry i zabawy integracyjne - dostosowane do przestrzeni\n\n• warsztat origami  wspólne budowanie wieży\n\n• zabawa klockami konstrukcyjnymi\n\n• mini kącik plastyczny\n\n• kalambury\n\n• warsztaty tworzenia breloczków\n\n• i wiele innych atrakcji co tydzień!\n\nSala ma swoje ograniczenia, dlatego warto zrobić wcześniej **rezerwację stolika w restauracji** i dać nam znać, że chcecie dołączyć do zabawy.  **Rezerwacje stolika możecie zrobić:**\n\n• przez stronę internetową\n\n• mailowo przez [email protected]\n\n• przez kontakt w wiadomości prywatnej na naszym Facebooku / Instagramie\n\n• telefonicznie, dzwoniąc na numer restauracji +48 71 726 11 40.\n\nAnimacje w każdą niedzielę do końca grudnia, poza 11.10 i 1.11.\n\n*Animacje przewidziane są wyłącznie dla gości restauracji, a rezerwacja stolika nie gwarantuje miejsca w animacjach. Zabawy przewidziane są dla dzieci od 3 roku życia. Dzieci podczas zabawy pozostają pod opieką swoich opiekunów.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-fe5fb31aac1100022835e476fce291c8/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416829-niedzielne-animacje-dla-dzieci-w-hard-rock-cafe-wroclaw-2026",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Hard Rock Cafe Rynek 25, Wrocław 50-101",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416829-niedzielne-animacje-dla-dzieci-w-hard-rock-cafe-wroclaw-2026",
+      "scrapped_timestamp": "2026-10-19T12:46:28.916627+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Workshops",
+        "Games"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Niedzielne animacje dla dzieci w Hard Rock Cafe Wrocław",
+          "description": "Obiad w Hard Rock Cafe z rozrywką dla dzieci? Brzmi świetnie, prawda?\n\nZapraszamy wszystkie dzieci (oraz rodziców) na zabawy w VIP Roomie, w każdą niedzielę od 14 września, w godzinach 13:00-16:00!\n\n**Atrakcje przygotują profesjonaliści z agencji Animatria, a w planie będą:**\n\n• gry i zabawy integracyjne - dostosowane do przestrzeni\n\n• warsztat origami  wspólne budowanie wieży\n\n• zabawa klockami konstrukcyjnymi\n\n• mini kącik plastyczny\n\n• kalambury\n\n• warsztaty tworzenia breloczków\n\n• i wiele innych atrakcji co tydzień!\n\nSala ma swoje ograniczenia, dlatego warto zrobić wcześniej **rezerwację stolika w restauracji** i dać nam znać, że chcecie dołączyć do zabawy.  **Rezerwacje stolika możecie zrobić:**\n\n• przez stronę internetową\n\n• mailowo przez [email protected]\n\n• przez kontakt w wiadomości prywatnej na naszym Facebooku / Instagramie\n\n• telefonicznie, dzwoniąc na numer restauracji +48 71 726 11 40.\n\nAnimacje w każdą niedzielę do końca grudnia, poza 11.10 i 1.11.\n\n*Animacje przewidziane są wyłącznie dla gości restauracji, a rezerwacja stolika nie gwarantuje miejsca w animacjach. Zabawy przewidziane są dla dzieci od 3 roku życia. Dzieci podczas zabawy pozostają pod opieką swoich opiekunów.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "Sunday Animations for Children at Hard Rock Cafe Wrocław",
+          "description": "Lunch at Hard Rock Cafe with entertainment for kids? Sounds great, right?\n\nWe invite all children (and parents) to fun in the VIP Room, every Sunday starting from September 14, from 1:00 PM to 4:00 PM!\n\n**Attractions will be prepared by professionals from the Animatria agency, and the plan will include:**\n\n• integration games and activities - tailored to the space\n\n• origami workshop - building a tower together\n\n• construction block play\n\n• mini art corner\n\n• charades\n\n• keychain making workshops\n\n• and many other attractions every week!\n\nThe room has its limitations, so it's worth making a **table reservation at the restaurant** in advance and letting us know that you want to join the fun. **You can make table reservations:**\n\n• through the website\n\n• via email at [email protected]\n\n• through contact in the message"
+        },
+        "uk": {
+          "title": "Недільні анімації для дітей у Hard Rock Cafe Wrocław",
+          "description": "Обід у Hard Rock Cafe з розвагами для дітей? Звучить чудово, правда?\n\nЗапрошуємо всі діти (та батьків) на забави у VIP Room, кожної неділі з 14 вересня, з 13:00 до 16:00!\n\n**Атракції підготують професіонали з агенції Animatria, а в плані будуть:**\n\n• ігри та інтеграційні забави - адаптовані до простору\n\n• майстер-клас з орігамі спільне будування вежі\n\n• гра з конструкторами\n\n• міні куточок для творчості\n\n• каламбури\n\n• майстер-класи зі створення брелоків\n\n• і багато інших атракцій щотижня!\n\nЗал має свої обмеження, тому варто зробити заздалегідь **резервування столика в ресторані** і дати нам знати, що хочете приєднатися до забави. **Резервування столика ви можете зробити:**\n\n• через веб-сайт\n\n• електронною поштою на [email protected]\n\n• через контакт у повідомленні"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-19T12:47:34.950485+00:00"
+    },
+    "starsze-gadu-y-warsztaty-logopedyczne-dla-dzieci-4-6-lat-2026-11-18T16:00:00+01:00": {
+      "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
+      "date": "2026-11-18T16:00:00+01:00",
+      "end_date": "2026-11-18T16:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-f9ca0308ac11000216fab36b537c7ca5/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Przedszkole Columb"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
+      "scrapped_timestamp": "2026-10-19T12:46:35.624205+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 4,
+        "max": 6
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
+          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Older Chatterboxes - Speech Therapy Workshops for Children Aged 4-6",
+          "description": "Playing with words, sounds, and phonemes can be a great adventure! \"Older Chatterboxes\" is a speech therapy workshop for children aged 4–6, during which movement and creative activities help develop communication skills. It is also an opportunity to spend time together and discover new ways to play with language.\n\nLearning to Speak Through Play\n\nDuring the workshops, children will practice speech, play with sounds and words, and develop skills needed for everyday communication. Engaging tasks and movement will make learning a natural part of shared fun.\n\nJoint Discovery with Parents\n\nParents also actively participate in the activities. This way, they learn simple exercises and ideas that can be used daily to support their child's speech development. The workshops will take place in"
+        },
+        "uk": {
+          "title": "Старші Гадулі - логопедичні майстер-класи для дітей 4-6 років",
+          "description": "Гра зі словами, звуками та складів може бути чудовою пригодою! \"Старші Гадулі\" - це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і креативні активності допомагають розвивати комунікативні навички. Це також можливість провести час разом і відкривати нові способи гратися мовою.\n\nНавчання говорити через гру\n\nПід час майстер-класів діти будуть вправлятися у мовленні, гратися зі звуками та словами, а також розвивати навички, необхідні в повсякденному спілкуванні. Залучаючі завдання та рух зроблять навчання природною частиною спільної гри.\n\nСпільне відкриття з батьками\n\nУ заняттях активно беруть участь також батьки. Завдяки цьому вони знайомляться з простими вправами та ідеями, які можна використовувати щодня, щоб підтримувати розвиток мовлення дитини. Майстер-класи відбудуться в"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-10-19T12:47:34.950506+00:00"
+    },
+    "santa-claus-festival-2026-festiwal-wi-tego-miko-aja-2026-12-05T09:00:00+01:00": {
+      "title": "Santa Claus Festival 2026 - Festiwal Świętego Mikołaja",
+      "date": "2026-12-05T09:00:00+01:00",
+      "end_date": "2026-12-05T09:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Spektakularna Kraina Świętego Mikołaja we Wrocławiu! Santa Claus Festival zaprasza na Biegun Północny.\nNa Dolnym Śląsku otworzy się magiczne przejście prosto na Biegun Północny. Przez jeden mikołajkowy weekend – od 5 do 6 grudnia 2026 roku – Tarczyński Arena Wrocław zamieni się w spektakularny świat Świętego Mikołaja rodem z Laponii o powierzchni ponad 3000 m. Na odwiedzających czeka prawdziwie świąteczna przygoda, padający pod dachem śnieg, arktyczne światło oraz dziesiątki niezwykłych miejsc do odkrycia.\nMagiczne strefy. Jeden festiwal. Setki tysięcy emocji.\nPrzygoda rozpoczyna się już przy wejściu, gdzie świetlny portal przenosi uczestników w zimową scenerię. Każde dziecko otrzymuje własny Paszport Pomocnika Mikołaja, z którym odkrywa kolejne części festiwalu. Na trasie czeka Wielka Fabryka Zabawek, gdzie można pomóc elfom przy świątecznych przesyłkach, oraz Akademia Elfów pełna prób zręczności i sprytu. W Strefie Bieguna Północnego goście zanurzą się w krajobrazach inspirowanych zimową Laponią – wśród świerków, lodowych form i padającego śniegu. Santa Claus Festival to więcej niż wystawa – to interaktywna podróż, której finałem jest osobiste spotkanie z samym Świętym Mikołajem.\nAtrakcje, które zmieniają rzeczywistość\nTo nie tylko piękne dekoracje, monumentalne sanie i Kuchnia Pani Mikołajowej. Każdy dzień festiwalu to także rodzinne widowiska na scenie oraz spotkania z bohaterami krainy. Prawdziwą gratką jest Laboratorium Elfich Alchemików, gdzie odbywają się widowiskowe eksperymenty z kolorowymi miksturami, dymem i pianą.\nDla najmłodszych przygotowano strefę warsztatową, w której dzieci mogą własnoręcznie dekorować pierniki, tworzyć świąteczne bombki i wianki. Działa tu również Poczta Bieguna Północnego, z której najmłodsi mogą wysłać swój wymarzony list prosto do Świętego Mikołaja. Wszystko to w bezpiecznej, świątecznej przestrzeni zaprojektowanej z myślą o całych rodzinach.\nŚwiąteczne zakupy i magia w jednym\nFestiwalowi towarzyszy Zimowy Ogród Mikołaja – wyjątkowa strefa stworzona wspólnie z CocaFlora. Podczas gdy dzieci przeżywają festiwalowe przygody, dorośli mogą w cieple i spokoju przygotować swój dom na święta. W strefie dostępne będą tysiące starannie wyselekcjonowanych roślin sezonowych w festiwalowych cenach – od rzadkich odmian gwiazdy betlejemskiej (poinsecji) i monumentalnych amarylisów, po owocujące cytrusy i zdrowe choinki w donicach z prawdziwym systemem korzeniowym. To idealne połączenie rodzinnej rozrywki i bezstresowych, przedświątecznych zakupów.\nŚwięto wyobraźni dla całej rodziny\nWydarzenie jest kierowane do rodzin z dziećmi, przedszkoli, szkół oraz wszystkich tych, którzy chcą poczuć prawdziwą magię nadchodzących świąt. Organizatorzy zadbali o komfort uczestników – jeden bilet zapewnia dostęp zarówno do strefy festiwalowej, jak i Zimowego Ogrodu. Przestrzeń Tarczyński Areny gwarantuje wygodę niezależnie od zimowej pogody na zewnątrz.\nSanta Claus Festival – wydarzenie, które przenosi w świat świątecznej magii.\nZanurz się w zimowej bajce – tylko we Wrocławiu!",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_977342049_original.jpg",
+      "location": {
+        "name": "Tarczyński Arena Wrocław (Wrocław-Maślice)",
+        "district": "Fabryczna"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/santa-claus-festival-2026-festiwal-swietego-mikolaja/kw/c5-3310677",
+      "source": "naszemiasto.pl",
+      "district": "Fabryczna",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/santa-claus-festival-2026-festiwal-swietego-mikolaja/kw/c5-3310677",
+      "scrapped_timestamp": "2026-10-19T12:46:59.593269+00:00",
+      "category": "Seasonal Festival",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Santa Claus Festival 2026 - Festiwal Świętego Mikołaja",
+          "description": "Spektakularna Kraina Świętego Mikołaja we Wrocławiu! Santa Claus Festival zaprasza na Biegun Północny.\nNa Dolnym Śląsku otworzy się magiczne przejście prosto na Biegun Północny. Przez jeden mikołajkowy weekend – od 5 do 6 grudnia 2026 roku – Tarczyński Arena Wrocław zamieni się w spektakularny świat Świętego Mikołaja rodem z Laponii o powierzchni ponad 3000 m. Na odwiedzających czeka prawdziwie świąteczna przygoda, padający pod dachem śnieg, arktyczne światło oraz dziesiątki niezwykłych miejsc do odkrycia.\nMagiczne strefy. Jeden festiwal. Setki tysięcy emocji.\nPrzygoda rozpoczyna się już przy wejściu, gdzie świetlny portal przenosi uczestników w zimową scenerię. Każde dziecko otrzymuje własny Paszport Pomocnika Mikołaja, z którym odkrywa kolejne części festiwalu. Na trasie czeka Wielka Fabryka Zabawek, gdzie można pomóc elfom przy świątecznych przesyłkach, oraz Akademia Elfów pełna prób zręczności i sprytu. W Strefie Bieguna Północnego goście zanurzą się w krajobrazach inspirowanych zimową Laponią – wśród świerków, lodowych form i padającego śniegu. Santa Claus Festival to więcej niż wystawa – to interaktywna podróż, której finałem jest osobiste spotkanie z samym Świętym Mikołajem.\nAtrakcje, które zmieniają rzeczywistość\nTo nie tylko piękne dekoracje, monumentalne sanie i Kuchnia Pani Mikołajowej. Każdy dzień festiwalu to także rodzinne widowiska na scenie oraz spotkania z bohaterami krainy. Prawdziwą gratką jest Laboratorium Elfich Alchemików, gdzie odbywają się widowiskowe eksperymenty z kolorowymi miksturami, dymem i pianą.\nDla najmłodszych przygotowano strefę warsztatową, w której dzieci mogą własnoręcznie dekorować pierniki, tworzyć świąteczne bombki i wianki. Działa tu również Poczta Bieguna Północnego, z której najmłodsi mogą wysłać swój wymarzony list prosto do Świętego Mikołaja. Wszystko to w bezpiecznej, świątecznej przestrzeni zaprojektowanej z myślą o całych rodzinach.\nŚwiąteczne zakupy i magia w jednym\nFestiwalowi towarzyszy Zimowy Ogród Mikołaja – wyjątkowa strefa stworzona wspólnie z CocaFlora. Podczas gdy dzieci przeżywają festiwalowe przygody, dorośli mogą w cieple i spokoju przygotować swój dom na święta. W strefie dostępne będą tysiące starannie wyselekcjonowanych roślin sezonowych w festiwalowych cenach – od rzadkich odmian gwiazdy betlejemskiej (poinsecji) i monumentalnych amarylisów, po owocujące cytrusy i zdrowe choinki w donicach z prawdziwym systemem korzeniowym. To idealne połączenie rodzinnej rozrywki i bezstresowych, przedświątecznych zakupów.\nŚwięto wyobraźni dla całej rodziny\nWydarzenie jest kierowane do rodzin z dziećmi, przedszkoli, szkół oraz wszystkich tych, którzy chcą poczuć prawdziwą magię nadchodzących świąt. Organizatorzy zadbali o komfort uczestników – jeden bilet zapewnia dostęp zarówno do strefy festiwalowej, jak i Zimowego Ogrodu. Przestrzeń Tarczyński Areny gwarantuje wygodę niezależnie od zimowej pogody na zewnątrz.\nSanta Claus Festival – wydarzenie, które przenosi w świat świątecznej magii.\nZanurz się w zimowej bajce – tylko we Wrocławiu!"
+        },
+        "en": {
+          "title": "Santa Claus Festival 2026 - Santa Claus Festival",
+          "description": "Spectacular Land of Santa Claus in Wrocław! Santa Claus Festival invites you to the North Pole.\nA magical passage straight to the North Pole will open in Lower Silesia. For one Santa weekend – from December 5 to 6, 2026 – Tarczyński Arena Wrocław will transform into a spectacular world of Santa Claus straight from Lapland, covering over 3000 m. A truly festive adventure awaits visitors, with snow falling under the roof, arctic light, and dozens of extraordinary places to discover.\nMagical zones. One festival. Hundreds of thousands of emotions.\nThe adventure begins right at the entrance, where a light portal transports participants into a winter scenery. Every child receives their own Santa's Helper Passport, with which they discover the various parts of the festival. Along the route awaits the Great Fab"
+        },
+        "uk": {
+          "title": "Фестиваль Святого Миколая 2026 - Festiwal Świętego Mikołaja",
+          "description": "Спектакулярна Країна Святого Миколая у Вроцлаві! Фестиваль Святого Миколая запрошує на Північний полюс.\nНа Нижньому Сілезії відкриється магічний прохід прямо на Північний полюс. Протягом одного міколайського вікенду – з 5 по 6 грудня 2026 року – Арена Тарчинського у Вроцлаві перетвориться на спектакулярний світ Святого Миколая з Лапландії площею понад 3000 м. На відвідувачів чекає справжня святкова пригода, сніг, що падає під дахом, арктичне світло та десятки незвичайних місць для відкриття.\nМагічні зони. Один фестиваль. Сотні тисяч емоцій.\nПригода починається вже при вході, де світловий портал переносить учасників у зимову сцену. Кожна дитина отримує власний Паспорт Помічника Миколая, з яким відкриває наступні частини фестивалю. На маршруті чекає Велика Фабрика"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-19T12:47:34.950527+00:00"
+    },
+    "osiedlowe-centrum-gier-plansz-wki-i-e-sport-2026-10-19T14:00:00+02:00": {
+      "title": "Osiedlowe Centrum Gier – planszówki i e-sport",
+      "date": "2026-10-19T14:00:00+02:00",
+      "end_date": "2026-10-19T14:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Osiedlowe Centrum Gier w CAL Chopina zaprasza osoby w każdym wieku do wspólnej zabawy. Na miejscu można poznać nowoczesne gry planszowe: przygodowe, strategiczne, logiczne i ekonomiczne. Biblioteka obejmuje ponad 2 800 gier.\n\nCentrum planuje turnieje, konkursy i inne atrakcje, także elektroniczne. Do dyspozycji są trzy stanowiska do e-sportu, PS5, VR oraz stanowiska do wyścigów samochodowych.\n\n• Godziny: codziennie 14:00–20:00, w piątki do 22:00\n• Miejsce: CAL Chopina, ul. Chopina 9A, Wrocław\n• Wstęp wolny",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/7497d0fc-248b-41dd-92e4-188701bc30eb/783edd64-13dd-4437-8316-f311336e243b.jpg",
+      "location": {
+        "name": "CAL Chopina Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/osiedlowe-centrum-gier-planszowki-i-e-sport-7497d0fc-248b-41dd-92e4-188701bc30eb",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/osiedlowe-centrum-gier-planszowki-i-e-sport-7497d0fc-248b-41dd-92e4-188701bc30eb",
+      "scrapped_timestamp": "2026-10-19T12:47:06.645882+00:00",
+      "category": "Games",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Osiedlowe Centrum Gier – planszówki i e-sport",
+          "description": "Osiedlowe Centrum Gier w CAL Chopina zaprasza osoby w każdym wieku do wspólnej zabawy. Na miejscu można poznać nowoczesne gry planszowe: przygodowe, strategiczne, logiczne i ekonomiczne. Biblioteka obejmuje ponad 2 800 gier.\n\nCentrum planuje turnieje, konkursy i inne atrakcje, także elektroniczne. Do dyspozycji są trzy stanowiska do e-sportu, PS5, VR oraz stanowiska do wyścigów samochodowych.\n\n• Godziny: codziennie 14:00–20:00, w piątki do 22:00\n• Miejsce: CAL Chopina, ul. Chopina 9A, Wrocław\n• Wstęp wolny"
+        },
+        "en": {
+          "title": "Neighborhood Gaming Center – board games and e-sports",
+          "description": "The Neighborhood Gaming Center at CAL Chopina invites people of all ages to join in the fun. Here you can discover modern board games: adventure, strategy, logic, and economic games. The library includes over 2,800 games.\n\nThe center plans tournaments, competitions, and other attractions, including electronic ones. There are three e-sports stations available, PS5, VR, and racing stations.\n\n• Hours: daily 14:00–20:00, on Fridays until 22:00\n• Location: CAL Chopina, ul. Chopina 9A, Wrocław\n• Free entry"
+        },
+        "uk": {
+          "title": "Осередок ігор – настільні ігри та е-спорт",
+          "description": "Осередок ігор в CAL Chopina запрошує людей будь-якого віку до спільної гри. На місці можна познайомитися з сучасними настільними іграми: пригодницькими, стратегічними, логічними та економічними. Бібліотека налічує понад 2 800 ігор.\n\nЦентр планує турніри, конкурси та інші атракції, також електронні. До ваших послуг три місця для е-спорту, PS5, VR та місця для автогонок.\n\n• Години: щодня 14:00–20:00, у п’ятницю до 22:00\n• Місце: CAL Chopina, вул. Chopina 9A, Вроцлав\n• Вхід вільний"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-19T12:47:34.950548+00:00"
+    },
+    "awtar-targi-orientu-2026-10-24T10:00:00+02:00": {
+      "title": "Awtar – Targi Orientu",
+      "date": "2026-10-24T10:00:00+02:00",
+      "end_date": "2026-10-24T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Awtar – Targi Orientu we Wrocławiu to rodzinne wydarzenie, które zabierze odwiedzających w podróż przez barwny świat tradycji, rzemiosła i współczesnej kultury krajów Orientu. Bilety już w sprzedaży!\nAwtar Targi Orientu\nPrzez dwa dni Browar Mieszczański wypełnią smaki, zapachy, muzyka, taniec i opowieści pochodzące z różnych zakątków Orientu. Na uczestników będą czekać wyjątkowi wystawcy, orientalne rękodzieło, biżuteria, tkaniny, perfumy, kosmetyki, kadzidła, przyprawy, herbaty, kawa, słodycze oraz potrawy inspirowane kuchniami Orientu.\nProgram wydarzenia obejmie również muzykę na żywo, tradycyjne instrumenty, pokazy tańca, występy sceniczne, warsztaty, spotkania z kulturą oraz atrakcje przygotowane dla dzieci i całych rodzin.\nAwtar nie jest zwykłym targiem. To spotkanie kultur i ludzi – przestrzeń, w której można próbować, słuchać, oglądać, rozmawiać i doświadczać Orientu wszystkimi zmysłami.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d9f24ffa-7480-4805-9809-892f73c37f74/f802671a-0a12-405e-8d83-be57f42ed104.jpg",
+      "location": {
+        "name": "Browar Mieszczański, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/awtar-targi-orientu-d9f24ffa-7480-4805-9809-892f73c37f74",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/awtar-targi-orientu-d9f24ffa-7480-4805-9809-892f73c37f74",
+      "scrapped_timestamp": "2026-10-19T12:47:11.718474+00:00",
+      "category": "Seasonal Festival",
+      "additional_categories": [
+        "Arts",
+        "Music & Dance"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Awtar – Targi Orientu",
+          "description": "Awtar – Targi Orientu we Wrocławiu to rodzinne wydarzenie, które zabierze odwiedzających w podróż przez barwny świat tradycji, rzemiosła i współczesnej kultury krajów Orientu. Bilety już w sprzedaży!\nAwtar Targi Orientu\nPrzez dwa dni Browar Mieszczański wypełnią smaki, zapachy, muzyka, taniec i opowieści pochodzące z różnych zakątków Orientu. Na uczestników będą czekać wyjątkowi wystawcy, orientalne rękodzieło, biżuteria, tkaniny, perfumy, kosmetyki, kadzidła, przyprawy, herbaty, kawa, słodycze oraz potrawy inspirowane kuchniami Orientu.\nProgram wydarzenia obejmie również muzykę na żywo, tradycyjne instrumenty, pokazy tańca, występy sceniczne, warsztaty, spotkania z kulturą oraz atrakcje przygotowane dla dzieci i całych rodzin.\nAwtar nie jest zwykłym targiem. To spotkanie kultur i ludzi – przestrzeń, w której można próbować, słuchać, oglądać, rozmawiać i doświadczać Orientu wszystkimi zmysłami."
+        },
+        "en": {
+          "title": "Awtar – Oriental Fair",
+          "description": "Awtar – Oriental Fair in Wrocław is a family event that will take visitors on a journey through the colorful world of traditions, crafts, and contemporary culture of the Orient. Tickets are already on sale!\nAwtar Oriental Fair\nFor two days, the Mieszczański Brewery will be filled with flavors, scents, music, dance, and stories from various corners of the Orient. Unique exhibitors, oriental handicrafts, jewelry, fabrics, perfumes, cosmetics, incense, spices, teas, coffee, sweets, and dishes inspired by the cuisines of the Orient will be waiting for participants.\nThe event program will also include live music, traditional instruments, dance performances, stage shows, workshops, cultural meetings, and attractions prepared for children and entire families.\nAwtar is not an ordinary fair. It is a meeting of cultures and people –"
+        },
+        "uk": {
+          "title": "Аватар – Ярмарок Сходу",
+          "description": "Аватар – Ярмарок Сходу у Вроцлаві це сімейна подія, яка забере відвідувачів у подорож через барвистий світ традицій, ремесел та сучасної культури країн Сходу. Квитки вже у продажу!\nАватар Ярмарок Сходу\nПротягом двох днів Бровар Міщанський наповнять смаки, аромати, музика, танець та оповіді з різних куточків Сходу. На учасників чекатимуть унікальні виставці, східне рукоділля, ювелірні вироби, тканини, парфуми, косметика, ладани, спеції, чаї, кава, солодощі та страви, натхненні кухнями Сходу.\nПрограма події також включатиме живу музику, традиційні інструменти, покази танців, сценічні виступи, майстер-класи, зустрічі з культурою та атракції, підготовлені для дітей та цілих родин.\nАватар не є звичайним ярмарком. Це зустріч культур і людей – "
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.ebilet.pl/biznes/targi/awtar?partner=tradedoubler"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-19T12:47:34.950565+00:00"
+    },
+    "operanki-warsztaty-muzyczne-2026-10-24T10:00:00+02:00": {
+      "title": "OPERANKI – warsztaty muzyczne",
+      "date": "2026-10-24T10:00:00+02:00",
+      "end_date": "2026-10-24T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "OPERANKI to cykl edukacyjnych warsztatów muzycznych dla rodzin z dziećmi w wieku od 3 do 6 lat. Spotkania odbywają się raz w miesiącu w soboty i koncentrują się na aktywnym odkrywaniu kultury, tradycji oraz brzmień różnych krajów Europy.\n\nPodczas 45-minutowych zajęć dzieci wraz z opiekunami biorą udział w zabawach tanecznych, wokalnych i instrumentalnych, które wspierają integrację sensoryczną oraz rozwój artystyczny. Spotkania prowadzone są przez artystów w Foyer Opery (1 piętro, wejście główne).\n\nCennik:\n• Bilet ulgowy (uczestnik poniżej 18 r.ż.): 40 zł\n• Bilet normalny (opiekun powyżej 18 r.ż.): 30 zł",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/6449f217-e2a3-46ed-bc1a-c78a96eae7d1/049366f7-4958-4dd0-8511-cdb7d6d09870.jpg",
+      "location": {
+        "name": "Opera Wrocławska, Świdnicka 35, 50-066 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/operanki-warsztaty-muzyczne-6449f217-e2a3-46ed-bc1a-c78a96eae7d1",
+      "source": "simplygo.pl",
+      "age_hint": "3-6",
+      "age_range": {
+        "min": 3,
+        "max": 6
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/operanki-warsztaty-muzyczne-6449f217-e2a3-46ed-bc1a-c78a96eae7d1",
+      "scrapped_timestamp": "2026-10-19T12:47:17.945134+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "OPERANKI – warsztaty muzyczne",
+          "description": "OPERANKI to cykl edukacyjnych warsztatów muzycznych dla rodzin z dziećmi w wieku od 3 do 6 lat. Spotkania odbywają się raz w miesiącu w soboty i koncentrują się na aktywnym odkrywaniu kultury, tradycji oraz brzmień różnych krajów Europy.\n\nPodczas 45-minutowych zajęć dzieci wraz z opiekunami biorą udział w zabawach tanecznych, wokalnych i instrumentalnych, które wspierają integrację sensoryczną oraz rozwój artystyczny. Spotkania prowadzone są przez artystów w Foyer Opery (1 piętro, wejście główne).\n\nCennik:\n• Bilet ulgowy (uczestnik poniżej 18 r.ż.): 40 zł\n• Bilet normalny (opiekun powyżej 18 r.ż.): 30 zł"
+        },
+        "en": {
+          "title": "OPERANKI – music workshops",
+          "description": "OPERANKI is a series of educational music workshops for families with children aged 3 to 6 years. Meetings take place once a month on Saturdays and focus on actively discovering the culture, traditions, and sounds of various countries in Europe.\n\nDuring the 45-minute sessions, children along with their guardians participate in dance, vocal, and instrumental games that support sensory integration and artistic development. The meetings are led by artists in the Foyer of the Opera (1st floor, main entrance).\n\nPricing:\n• Reduced ticket (participant under 18 years old): 40 PLN\n• Regular ticket (guardian over 18 years old): 30 PLN"
+        },
+        "uk": {
+          "title": "ОПЕРАНКИ – музичні майстер-класи",
+          "description": "ОПЕРАНКИ – це цикл освітніх музичних майстер-класів для сімей з дітьми віком від 3 до 6 років. Зустрічі відбуваються раз на місяць у суботу та зосереджуються на активному відкритті культури, традицій та звуків різних країн Європи.\n\nПід час 45-хвилинних занять діти разом з опікунами беруть участь у танцювальних, вокальних та інструментальних іграх, які підтримують сенсорну інтеграцію та художній розвиток. Зустрічі проводяться артистами в Фойє Опери (1 поверх, головний вхід).\n\nЦіни:\n• Пільговий квиток (учасник до 18 років): 40 зл\n• Звичайний квиток (опікун старше 18 років): 30 зл"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-19T12:47:34.950583+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:54:41.929693+00:00",
+  "updated_at": "2026-10-20T11:37:32.625385+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5080,6 +5080,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-19T12:37:54.530059+00:00"
+    },
+    "młodzieżowy dom kultury im. k.i. gałczyńskiego": {
+      "name": "ul. Beskidzkiej 30, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Beskidzkiej 30, Kraków",
+      "normalized": "młodzieżowy dom kultury im. k.i. gałczyńskiego",
+      "lat": 50.057,
+      "lng": 19.932,
+      "updated_at": "2026-10-20T11:03:05.364505+00:00"
+    },
+    "uroczysko górka pychowicka": {
+      "name": "Uroczysko Górka Pychowicka, Tyniecka, Pychowice, Dębniki, Kraków, województwo małopolskie, 30-377, Polska",
+      "district": "Dębniki",
+      "address": "Uroczysko Górka Pychowicka, Tyniecka, Pychowice, Dębniki, Kraków, województwo małopolskie, 30-377, Polska",
+      "normalized": "uroczysko górka pychowicka",
+      "lat": 50.0346871,
+      "lng": 19.882627,
+      "updated_at": "2026-10-20T11:03:10.619474+00:00"
+    },
+    "przystań muzeum": {
+      "name": "Bulwar Rodła, Półwsie Zwierzynieckie, Zwierzyniec, Kraków, województwo małopolskie, 30-105, Polska",
+      "district": "Zwierzyniec",
+      "address": "Bulwar Rodła, Półwsie Zwierzynieckie, Zwierzyniec, Kraków, województwo małopolskie, 30-105, Polska",
+      "normalized": "przystań muzeum",
+      "lat": 50.0529084,
+      "lng": 19.9236652,
+      "updated_at": "2026-10-20T11:03:36.666924+00:00"
+    },
+    "ksos centrum": {
+      "name": "6, Aleja Powstania Warszawskiego, Grzegórzki, Kraków, województwo małopolskie, 31-549, Polska",
+      "district": "Grzegórzki",
+      "address": "6, Aleja Powstania Warszawskiego, Grzegórzki, Kraków, województwo małopolskie, 31-549, Polska",
+      "normalized": "ksos centrum",
+      "lat": 50.0606568,
+      "lng": 19.9608939,
+      "updated_at": "2026-10-20T11:04:11.706920+00:00"
+    },
+    "kultury „paleta”": {
+      "name": "ul. Wrocławska 91, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Wrocławska 91, Kraków",
+      "normalized": "kultury „paleta”",
+      "lat": 50.062,
+      "lng": 19.932,
+      "updated_at": "2026-10-20T11:05:13.632571+00:00"
     }
   }
 }

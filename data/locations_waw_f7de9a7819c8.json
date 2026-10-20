@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:54:40.308857+00:00",
+  "updated_at": "2026-10-20T11:37:30.669339+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9285,6 +9285,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-19T12:43:54.670365+00:00"
+    },
+    "wam (warszawa-czerniaków)": {
+      "name": "Teatr WAM, 15, Zgrupowania AK „Kampinos”, Huta, Bielany, Warszawa, województwo mazowieckie, 01-943, Polska",
+      "district": "Bielany",
+      "address": "Teatr WAM, 15, Zgrupowania AK „Kampinos”, Huta, Bielany, Warszawa, województwo mazowieckie, 01-943, Polska",
+      "normalized": "wam (warszawa-czerniaków)",
+      "lat": 52.2944519,
+      "lng": 20.9299553,
+      "updated_at": "2026-10-20T11:22:41.227974+00:00"
+    },
+    "ul. mochtyńska 91": {
+      "name": "ul. Mochtyńska 91",
+      "district": "Białołęka",
+      "address": "ul. Mochtyńska 91",
+      "normalized": "ul. mochtyńska 91",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-20T11:22:41.228929+00:00"
+    },
+    "ul. europejska_vogla": {
+      "name": "ul. Europejska/Vogla",
+      "district": "Wilanów",
+      "address": "ul. Europejska/Vogla",
+      "normalized": "ul. europejska_vogla",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-20T11:22:41.229261+00:00"
+    },
+    "osiedle jazdów": {
+      "name": "Osiedle Jazdów, ul. Jazdów 8/1",
+      "district": "Śródmieście",
+      "address": "Osiedle Jazdów, ul. Jazdów 8/1",
+      "normalized": "osiedle jazdów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-20T11:22:41.229619+00:00"
     }
   }
 }

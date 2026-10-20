@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T12:43:55.764975+00:00",
+  "updated_at": "2026-10-20T11:02:14.442979+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -1261,47 +1261,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-08-21T07:36:22.734223+00:00"
-    },
-    "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-10-20T11:00:00+02:00": {
-      "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-      "date": "2026-10-20T11:00:00+02:00",
-      "end_date": "2026-10-20T11:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan.",
-      "url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#20-10",
-      "source": "bielany.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
-        "district": "Bielany"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#20-10",
-      "scrapped_timestamp": "2026-08-31T13:35:20.639204+00:00",
-      "translations": {
-        "pl": {
-          "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-          "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan."
-        },
-        "en": {
-          "title": "On the Carpet – Neighborhood Toddler Zone",
-          "description": "Every Tuesday, we roll out the carpet and open our space for spontaneous neighborhood gatherings for the youngest children and parents from Bielany."
-        },
-        "uk": {
-          "title": "Ми на килимку – сусідська зона для малюків",
-          "description": "Щовівторка ми розкриваємо килим і відкриваємо наш простір для спонтанних сусідських зустрічей для найменших дітей та батьків з Білянів."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bielany",
-      "updated_at": "2026-08-31T13:38:42.690722+00:00"
     },
     "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-10-27T11:00:00+01:00": {
       "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
@@ -3250,90 +3209,6 @@
       "district": "Mokotów",
       "updated_at": "2026-09-20T11:04:53.564179+00:00"
     },
-    "the-harlem-globetrotters-100-years-world-tour-2026-10-19T19:00:00+02:00": {
-      "title": "THE HARLEM GLOBETROTTERS – 100 Years World Tour",
-      "date": "2026-10-19T19:00:00+02:00",
-      "end_date": "2026-10-19T19:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Harlem Globetrotters świętują swój wielki jubileusz 100-lecia istnienia i wyruszają w trasę 100 Years World Tour. To widowisko łączące koszykarski kunszt, styl i spektakularne umiejętności, takie jak rzuty z własnej połowy, wsady na maksymalnej wysokości czy sekwencje podań rodem z gier wideo. Od 1926 roku zespół jest ikoną sportu pokazowego, mając na koncie występy w ponad 120 krajach i wpisy do Księgi Rekordów Guinnessa.\n\nHarmonogram wydarzenia:\n• 17:00 – wstęp na MAGIC PASS\n• 17:30 – start MAGIC PASS\n• 18:00 – wstęp ogólny\n• 18:10 – pre-show\n• 18:30 – koniec pre-show\n• 18:40 – początek Celebrity Court Pass\n• 19:00 – start Harlem Globetrotters\n\nOpcje dodatkowe dla fanów:\n\nMAGIC PASS\nTo rozszerzenie biletu, które daje możliwość spędzenia czasu z zawodnikami na parkiecie przed rozpoczęciem show. Uczestnicy mogą rzucać piłką, ćwiczyć triki, zdobywać autografy i robić zdjęcia. Wymagany jest osobny bilet Magic Pass dla każdego uczestnika (zarówno dzieci, jak i dorosłych). Wymagane jest posiadanie czystych butów sportowych z jasną podeszwą.\n\nCELEBRITY COURT PASS\nDodatkowy pakiet (upgrade) do biletu wstępu, zapewniający ekskluzywny dostęp do parkietu podczas rozgrzewki zespołu. Dzieci poniżej 10 roku życia muszą przebywać pod opieką dorosłych.\n\nPLAYER BENCH FAN TICKET\nLimitowany pakiet all-inclusive, który obejmuje:\n• Miejsce na ławce drużyny Harlem Globetrotters lub Generals\n• Magic Pass\n• Spotkanie Meet & Greet z zawodnikami\n• Harlem Globetrotters VIP Pass\n• Pakiet fana z oryginalną koszulką meczową",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/ace3bf2e-f820-430c-be47-fb535e2e9d28/d97ef220-bfff-4ea3-9646-508cc576fbc8.jpg",
-      "location": {
-        "name": "Hala COS Torwar , Łazienkowska, Warszawa",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/the-harlem-globetrotters-100-years-world-tour-ace3bf2e-f820-430c-be47-fb535e2e9d28",
-      "source": "simplygo.pl",
-      "age_hint": "10-18",
-      "age_range": {
-        "min": 10,
-        "max": 18
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/the-harlem-globetrotters-100-years-world-tour-ace3bf2e-f820-430c-be47-fb535e2e9d28",
-      "scrapped_timestamp": "2026-09-21T12:40:01.464898+00:00",
-      "category": "Sports",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "THE HARLEM GLOBETROTTERS – 100 Years World Tour",
-          "description": "Harlem Globetrotters świętują swój wielki jubileusz 100-lecia istnienia i wyruszają w trasę 100 Years World Tour. To widowisko łączące koszykarski kunszt, styl i spektakularne umiejętności, takie jak rzuty z własnej połowy, wsady na maksymalnej wysokości czy sekwencje podań rodem z gier wideo. Od 1926 roku zespół jest ikoną sportu pokazowego, mając na koncie występy w ponad 120 krajach i wpisy do Księgi Rekordów Guinnessa.\n\nHarmonogram wydarzenia:\n• 17:00 – wstęp na MAGIC PASS\n• 17:30 – start MAGIC PASS\n• 18:00 – wstęp ogólny\n• 18:10 – pre-show\n• 18:30 – koniec pre-show\n• 18:40 – początek Celebrity Court Pass\n• 19:00 – start Harlem Globetrotters\n\nOpcje dodatkowe dla fanów:\n\nMAGIC PASS\nTo rozszerzenie biletu, które daje możliwość spędzenia czasu z zawodnikami na parkiecie przed rozpoczęciem show. Uczestnicy mogą rzucać piłką, ćwiczyć triki, zdobywać autografy i robić zdjęcia. Wymagany jest osobny bilet Magic Pass dla każdego uczestnika (zarówno dzieci, jak i dorosłych). Wymagane jest posiadanie czystych butów sportowych z jasną podeszwą.\n\nCELEBRITY COURT PASS\nDodatkowy pakiet (upgrade) do biletu wstępu, zapewniający ekskluzywny dostęp do parkietu podczas rozgrzewki zespołu. Dzieci poniżej 10 roku życia muszą przebywać pod opieką dorosłych.\n\nPLAYER BENCH FAN TICKET\nLimitowany pakiet all-inclusive, który obejmuje:\n• Miejsce na ławce drużyny Harlem Globetrotters lub Generals\n• Magic Pass\n• Spotkanie Meet & Greet z zawodnikami\n• Harlem Globetrotters VIP Pass\n• Pakiet fana z oryginalną koszulką meczową"
-        },
-        "en": {
-          "title": "THE HARLEM GLOBETROTTERS – 100 Years World Tour",
-          "description": "The Harlem Globetrotters are celebrating their grand 100th anniversary and embarking on the 100 Years World Tour. This show combines basketball artistry, style, and spectacular skills, such as half-court shots, maximum height dunks, and passing sequences straight out of video games. Since 1926, the team has been an icon of exhibition sports, having performed in over 120 countries and holding records in the Guinness World Records.\n\nEvent Schedule:\n• 17:00 – MAGIC PASS entry\n• 17:30 – MAGIC PASS start\n• 18:00 – general entry\n• 18:10 – pre-show\n• 18:30 – end of pre-show\n• 18:40 – start of Celebrity Court Pass\n• 19:00 – start of Harlem Globetrotters\n\nAdditional options for fans:\n\nMAGIC PASS\nThis is an upgrade to the ticket that allows fans to spend time with the players on the court before the show starts."
-        },
-        "uk": {
-          "title": "ГАРЛЕМ ГЛОБТРОТТЕРИ – Світове турне до 100-річчя",
-          "description": "Гарлем Глобтроттери святкують свій великий ювілей 100-річчя існування та вирушають у турне 100 Years World Tour. Це шоу поєднує баскетбольну майстерність, стиль та вражаючі навички, такі як кидки з власної половини, данки на максимальній висоті чи послідовності передач, як у відеоіграх. З 1926 року команда є іконою показового спорту, маючи на рахунку виступи в понад 120 країнах та записи в Книзі рекордів Гіннеса.\n\nГрафік події:\n• 17:00 – вхід на MAGIC PASS\n• 17:30 – початок MAGIC PASS\n• 18:00 – загальний вхід\n• 18:10 – пре-шоу\n• 18:30 – кінець пре-шоу\n• 18:40 – початок Celebrity Court Pass\n• 19:00 – початок виступу Гарлем Глобтроттерів.\n\nДодаткові опції для фанатів:\n\nMAGIC PASS\nЦе розширення квитка, яке дає можливість провести час з гравцями на паркеті перед початком."
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.ebilet.pl/sport/pozostale/harlem-globetrotters"
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-21T12:40:22.722526+00:00"
-    },
-    "dobranocka-na-szamotach-spotkanie-autorskie-2026-10-19T18:00:00+02:00": {
-      "title": "„Dobranocka na Szamotach” – spotkanie autorskie",
-      "date": "2026-10-19T18:00:00+02:00",
-      "end_date": "2026-10-19T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Wydarzenie\n\n 19.10.2026 18:00 - 19.10.2026 19:30\n\n  Biblioteka Publiczna - Filia „Szamoty”,   Silnikowa 8A,   02-495 Warszawa\n\nZapraszamy na **„Dobranockę na Szamotach” – spotkanie autorskie dla dzieci w wieku od 3 do 11 lat**, pełne opowieści, wyobraźni i wspólnego czytania. To wyjątkowa okazja do spotkania z autorem, wysłuchania fragmentów książek oraz rozmowy o bohaterach i ich przygodach. Wydarzenie stworzone z myślą o najmłodszych, sprzyjające rozwijaniu miłości do literatury i wspólnemu, rodzinnemu spędzaniu czasu.\n\n 📌 **Wstęp wolny.**\n\nInformacje o dostępności placówki: biblioteka dwupoziomowa, winda wewnętrzna. TOTUPOINT, PJM on-line, pętla indukcyjna.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie\n\nTrwa wczytywanie mapy. W przypadku problemów proszę wyczyścić ciasteczka.",
-      "image": "https://ursus.um.warszawa.pl/documents/49065/17622870/DOBRANOCKI.png/08bb8be8-709d-f8f0-a909-0316447a54c3?version=1.0&t=1779707005446&imagePreview=1",
-      "url": "https://ursus.um.warszawa.pl/-/-dobranocka-na-szamotach-spotkanie-autorsk-3",
-      "source": "um.warszawa.pl",
-      "district": "Ursus",
-      "location": {
-        "name": "Biblioteka Publiczna - Filia „Szamoty”, Silnikowa 8A, 02-495 Warszawa",
-        "district": "Ursus"
-      },
-      "scrapped_url": "https://ursus.um.warszawa.pl/-/-dobranocka-na-szamotach-spotkanie-autorsk-3",
-      "scrapped_timestamp": "2026-09-21T19:25:33.336014+00:00",
-      "category": "Storytime",
-      "age_range": {
-        "min": 3,
-        "max": 11
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "„Dobranocka na Szamotach” – spotkanie autorskie",
-          "description": "Wydarzenie\n\n 19.10.2026 18:00 - 19.10.2026 19:30\n\n  Biblioteka Publiczna - Filia „Szamoty”,   Silnikowa 8A,   02-495 Warszawa\n\nZapraszamy na **„Dobranockę na Szamotach” – spotkanie autorskie dla dzieci w wieku od 3 do 11 lat**, pełne opowieści, wyobraźni i wspólnego czytania. To wyjątkowa okazja do spotkania z autorem, wysłuchania fragmentów książek oraz rozmowy o bohaterach i ich przygodach. Wydarzenie stworzone z myślą o najmłodszych, sprzyjające rozwijaniu miłości do literatury i wspólnemu, rodzinnemu spędzaniu czasu.\n\n 📌 **Wstęp wolny.**\n\nInformacje o dostępności placówki: biblioteka dwupoziomowa, winda wewnętrzna. TOTUPOINT, PJM on-line, pętla indukcyjna.\n\n  Wydarzenie zapewnia następujące udogodnienia\n\n  Sprawdź lokalizację na mapie\n\nTrwa wczytywanie mapy. W przypadku problemów proszę wyczyścić ciasteczka."
-        },
-        "en": {
-          "title": "\"Good Night at Szamoty\" – author meeting",
-          "description": "Event\n\n 19.10.2026 18:00 - 19.10.2026 19:30\n\n  Public Library - Branch \"Szamoty\",   Silnikowa 8A,   02-495 Warsaw\n\nWe invite you to **\"Good Night at Szamoty\" – an author meeting for children aged 3 to 11**, full of stories, imagination, and shared reading. This is a unique opportunity to meet the author, listen to excerpts from books, and discuss the characters and their adventures. The event is designed for the youngest, promoting a love for literature and family time together.\n\n 📌 **Free admission.**\n\nInformation about the facility's accessibility: two-level library, internal elevator. TOTUPOINT, PJM online, induction loop.\n\n  The event provides the following amenities\n\n  Check the location on the map\n\nLoading map. If there are issues, please"
-        },
-        "uk": {
-          "title": "„Добраніч на Шамотах” – авторська зустріч",
-          "description": "Подія\n\n 19.10.2026 18:00 - 19.10.2026 19:30\n\n  Публічна бібліотека - Філія „Шамоти”,   Силникова 8А,   02-495 Варшава\n\nЗапрошуємо на **„Добраніч на Шамотах” – авторська зустріч для дітей віком від 3 до 11 років**, повну оповідей, уяви та спільного читання. Це унікальна можливість зустрітися з автором, послухати уривки з книг та поговорити про героїв і їхні пригоди. Подія створена з думкою про найменших, що сприяє розвитку любові до літератури та спільному, сімейному проведенню часу.\n\n 📌 **Вхід вільний.**\n\nІнформація про доступність закладу: бібліотека двоповерхова, внутрішній ліфт. TOTUPOINT, PJM онлайн, індукційна петля.\n\n  Подія забезпечує наступні зручності\n\n  Перевірте місцезнаходження на карті\n\nТриває завантаження карти. У разі проблем з"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "updated_at": "2026-09-21T19:27:35.721612+00:00"
-    },
     "spektakl-teatralny-dla-dzieci-na-tropie-piotrusia-pana-2026-10-24T12:00:00+02:00": {
       "title": "Spektakl teatralny dla dzieci \"Na tropie Piotrusia Pana\"",
       "date": "2026-10-24T12:00:00+02:00",
@@ -3839,51 +3714,6 @@
       },
       "district": "Targówek",
       "updated_at": "2026-09-28T13:48:22.635735+00:00"
-    },
-    "muzykoterapia-dla-dzieci-muzeum-muzyka-i-my-muzyczna-arka-noego-2026-10-20T10:30:00+02:00": {
-      "title": "Muzykoterapia dla dzieci / Muzeum Muzyka i My / Muzyczna Arka Noego",
-      "date": "2026-10-20T10:30:00+02:00",
-      "end_date": "2026-10-20T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia muzyczne wspomagające rozwój najmłodszych. W oparciu o proste ćwiczenia muzyczne połączone z treningiem sensorycznym i technikami muzykoterapeutycznymi będziemy wielozmysłowo poznawali świat. Składający się z czterech bloków tematycznych program zawiera elementy edukacji muzycznej, które stanowią dobrą podstawę do rozpoczęcia ogólnorozwojowej przygody z muzyką. Warsztaty poprowadzi Dagna Sadkowska – skrzypaczka, edukatorka , kuratorka wydarzeń muzycznych dla dzieci i młodzieży oraz kierowniczka muzyczna Młodej Orkiestry Nowego Teatru w Warszawie.\nCzy promienie słońca brzmią żółto czy biało? Ile kwiatów można zasadzić w tonacji C-dur? Jaki rytm wystukuje kopytami biały koń? Inspiracji do zabaw muzycznych poszukamy na obrazie Arka Noego Roelandta Savery’ego w Galerii Sztuki Dawnej.",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_976571013_original.jpg",
-      "location": {
-        "name": "Muzeum Narodowe w Warszawie (Warszawa)",
-        "district": "Śródmieście"
-      },
-      "url": "https://warszawa.naszemiasto.pl/muzykoterapia-dla-dzieci-muzeum-muzyka-i-my-muzyczna-arka-noego/kw/c5-3289453",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://warszawa.naszemiasto.pl/muzykoterapia-dla-dzieci-muzeum-muzyka-i-my-muzyczna-arka-noego/kw/c5-3289453",
-      "scrapped_timestamp": "2026-10-19T12:40:20.321171+00:00",
-      "category": "Music & Dance",
-      "additional_categories": [
-        "Workshops",
-        "Sensory Play"
-      ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Muzykoterapia dla dzieci / Muzeum Muzyka i My / Muzyczna Arka Noego",
-          "description": "Zapraszamy na zajęcia muzyczne wspomagające rozwój najmłodszych. W oparciu o proste ćwiczenia muzyczne połączone z treningiem sensorycznym i technikami muzykoterapeutycznymi będziemy wielozmysłowo poznawali świat. Składający się z czterech bloków tematycznych program zawiera elementy edukacji muzycznej, które stanowią dobrą podstawę do rozpoczęcia ogólnorozwojowej przygody z muzyką. Warsztaty poprowadzi Dagna Sadkowska – skrzypaczka, edukatorka , kuratorka wydarzeń muzycznych dla dzieci i młodzieży oraz kierowniczka muzyczna Młodej Orkiestry Nowego Teatru w Warszawie.\nCzy promienie słońca brzmią żółto czy biało? Ile kwiatów można zasadzić w tonacji C-dur? Jaki rytm wystukuje kopytami biały koń? Inspiracji do zabaw muzycznych poszukamy na obrazie Arka Noego Roelandta Savery’ego w Galerii Sztuki Dawnej."
-        },
-        "en": {
-          "title": "Music Therapy for Children / Museum Music and Us / Noah's Ark of Music",
-          "description": "We invite you to music classes that support the development of the youngest. Based on simple musical exercises combined with sensory training and music therapy techniques, we will explore the world in a multi-sensory way. The program, consisting of four thematic blocks, includes elements of music education that provide a good foundation for starting a comprehensive adventure with music. The workshops will be led by Dagna Sadkowska – a violinist, educator, curator of musical events for children and youth, and the musical director of the Young Orchestra of the New Theatre in Warsaw.\n\nDo the rays of the sun sound yellow or white? How many flowers can be planted in the key of C major? What rhythm does the white horse tap with its hooves? We will seek inspiration for musical games in the painting Noah's Ark by Roelandt Savery in the Gallery Sz"
-        },
-        "uk": {
-          "title": "Музикотерапія для дітей / Музей Музика і Я / Музична Арка Ноя",
-          "description": "Запрошуємо на заняття музичні, що підтримують розвиток найменших. В основі простих музичних вправ, поєднаних з сенсорним тренуванням та музикотерапевтичними техніками, ми будемо багатосенсорно пізнавати світ. Програма, що складається з чотирьох тематичних блоків, містить елементи музичної освіти, які становлять хорошу основу для початку загальнорозвивальної пригоди з музикою. Майстер-клас проведе Дагна Садковська – скрипалька, освітянка, кураторка музичних подій для дітей та молоді, а також музична керівниця Молодої Оркестри Нового Театру у Варшаві.\nЧи звучать промені сонця жовто чи біло? Скільки квітів можна посадити в тональності C-dur? Який ритм вибиває копитами білий кінь? Натхнення для музичних ігор ми шукатимемо на картині Арка Ноя Роеландта Савері в Галереї Ш"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-19T12:43:55.532080+00:00"
     },
     "tajemnice-drzew-spotkania-przyrodnicze-2026-10-20T15:30:00+02:00": {
       "title": "Tajemnice drzew. Spotkania przyrodnicze",
@@ -6006,43 +5836,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-09-30T12:35:33.296068+00:00"
-    },
-    "mama-w-centrum-maskotki-wspomnie-wyszywane-st-pki-warsztaty-tworzenia-pami-tek-z-dzieci-stwa-2026-10-20T12:00:00+02:00": {
-      "title": "Mama w Centrum: „Maskotki wspomnień, wyszywane stópki” – warsztaty tworzenia pamiątek z dzieciństwa",
-      "date": "2026-10-20T12:00:00+02:00",
-      "end_date": "2026-10-20T12:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na warsztaty szycia maskotek z ważnych dla Ciebie tkanin i ubranek maluszka. Stworzymy z nich wyjątkową przytulankę dla Twojego dziecka, która będzie mu towarzyszyć w ważnych chwilach – w przedszkolu, podczas pierwszych rozstań, małych i wielkich przygód. Jeśli wolisz zostawić ubranka w szafie, wyszyjemy stópki lub rączki maluszka z autentycznych odcisków (przygotuj je wg opisu*). Wzruszenia gwarantowane.\n\nW cyfrowym świecie nadmiaru zdjęć robionych telefonem chcemy stworzyć coś, co nie zginie wśród kolejnych gigabajtów. Ręcznie wykonana zabawka zatrzymuje czas, niesie matczyną miłość i zapis wspomnień. To będzie wyjątkowa przytulanka. Wyszyte matczyną ręką maleńkie stópki i rączki będą wzruszać po latach. Odżyją wspomnienia. Dzieciństwo zostanie uwiecznione jak bezcenny skarb.\n\n• Wybierz bezpieczne, zmywalne farby dla dzieci (np. z atestem od 1. roku życia lub nietoksyczne farby plakatowe). Nałóż cienką warstwę farby pędzelkiem na stopę malucha i zdecydowanym, szybkim ruchem odbij ją na papierze. Od razu po odciśnięciu zmyj resztki farby wilgotną chusteczką lub umyj stópkę w ciepłej wodzie. Odcisk przynieś na warsztaty.",
-      "url": "https://kulturawilanow.pl/events/mama-w-centrum/",
-      "source": "kulturawilanow.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "location": {
-        "name": "Centrum Kultury Wilanów, Filia Zawady · ul. Vogla 62",
-        "district": "Wilanów"
-      },
-      "image": "https://kulturawilanow.pl/wp-content/uploads/2026/09/zajecia-w-centrum-kultury-wilanow-1.jpeg",
-      "scrapped_url": "https://kulturawilanow.pl/events/mama-w-centrum/",
-      "scrapped_timestamp": "2026-09-30T12:31:17.780962+00:00",
-      "translations": {
-        "pl": {
-          "title": "Mama w Centrum: „Maskotki wspomnień, wyszywane stópki” – warsztaty tworzenia pamiątek z dzieciństwa",
-          "description": "Zapraszamy na warsztaty szycia maskotek z ważnych dla Ciebie tkanin i ubranek maluszka. Stworzymy z nich wyjątkową przytulankę dla Twojego dziecka, która będzie mu towarzyszyć w ważnych chwilach – w przedszkolu, podczas pierwszych rozstań, małych i wielkich przygód. Jeśli wolisz zostawić ubranka w szafie, wyszyjemy stópki lub rączki maluszka z autentycznych odcisków (przygotuj je wg opisu*). Wzruszenia gwarantowane.\n\nW cyfrowym świecie nadmiaru zdjęć robionych telefonem chcemy stworzyć coś, co nie zginie wśród kolejnych gigabajtów. Ręcznie wykonana zabawka zatrzymuje czas, niesie matczyną miłość i zapis wspomnień. To będzie wyjątkowa przytulanka. Wyszyte matczyną ręką maleńkie stópki i rączki będą wzruszać po latach. Odżyją wspomnienia. Dzieciństwo zostanie uwiecznione jak bezcenny skarb.\n\n• Wybierz bezpieczne, zmywalne farby dla dzieci (np. z atestem od 1. roku życia lub nietoksyczne farby plakatowe). Nałóż cienką warstwę farby pędzelkiem na stopę malucha i zdecydowanym, szybkim ruchem odbij ją na papierze. Od razu po odciśnięciu zmyj resztki farby wilgotną chusteczką lub umyj stópkę w ciepłej wodzie. Odcisk przynieś na warsztaty."
-        },
-        "en": {
-          "title": "Mama in the Center: \"Memory Stuffed Toys, Embroidered Little Feet\" – Childhood Keepsake Creation Workshop",
-          "description": "We invite you to a workshop on sewing stuffed toys from fabrics and clothes that are important to you and your little one. We will create a unique cuddle toy for your child that will accompany them in important moments – at preschool, during first separations, small and big adventures. If you prefer to leave the clothes in the closet, we will embroider the little feet or hands of your baby from authentic prints (prepare them according to the description*). Emotions guaranteed.\n\nIn a digital world overflowing with photos taken on phones, we want to create something that won't get lost among the next gigabytes. A handmade toy stops time, carries a mother's love, and preserves memories. It will be a unique cuddle toy. The little feet and hands embroidered by a mother's hand will evoke emotions for years to come. Memories will come alive. Childhood will be immortalized like a priceless treasure."
-        },
-        "uk": {
-          "title": "Мама в Центрі: „Маскотки спогадів, вишиті ніжки” – майстер-клас зі створення пам'яток з дитинства",
-          "description": "Запрошуємо на майстер-клас шиття маскоток з важливих для вас тканин та одягу малюка. Створимо з них унікальну іграшку для вашої дитини, яка буде супроводжувати її в важливі моменти – в дитячому садку, під час перших розставань, маленьких і великих пригод. Якщо ви віддаєте перевагу залишити одяг у шафі, вишиємо ніжки або ручки малюка з автентичних відбитків (підготуйте їх згідно з описом*). Емоції гарантовані.\n\nВ цифровому світі надмірності фотографій, зроблених телефоном, ми хочемо створити щось, що не зникне серед наступних гігабайтів. Ручна іграшка зупиняє час, несе материнську любов і запис спогадів. Це буде унікальна іграшка. Вишиті материнською рукою маленькі ніжки та ручки будуть зворушувати через роки. Відродяться спогади. Дитинство буде увічнене як безцінний скарб."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Wilanów",
-      "updated_at": "2026-09-30T12:35:33.297812+00:00"
     },
     "mama-i-bobas-w-murowance-2026-10-21T10:30:00+02:00": {
       "title": "Mama i Bobas w Murowance",
@@ -9145,47 +8938,6 @@
       "district": "Mokotów",
       "updated_at": "2026-10-07T13:19:11.603799+00:00"
     },
-    "poczytanki-na-ok-ciu-2026-10-19T17:00:00+02:00": {
-      "title": "Poczytanki na Okęciu",
-      "date": "2026-10-19T17:00:00+02:00",
-      "end_date": "2026-10-19T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Rozpocznijcie tydzień w bibliotece! Wypożyczalnia nr 71 zaprasza dzieci w wieku 3-6 lat wraz z opiekunami na „Poczytanki na Okęciu”, czyli poniedziałkowe głośne czytanie książek lub spotkanie z teatrzykiem kamishibai.",
-      "url": "https://wlochy.um.warszawa.pl/-/poczytanki-na-okeciu-5#19-10",
-      "source": "wlochy.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 3,
-        "max": 6
-      },
-      "location": {
-        "name": "Biblioteka Publiczna Włochy, Wypożyczalnia nr 71 · ul. Astronautów 1",
-        "district": "Włochy"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://wlochy.um.warszawa.pl/-/poczytanki-na-okeciu-5#19-10",
-      "scrapped_timestamp": "2026-10-07T13:13:00.289050+00:00",
-      "translations": {
-        "pl": {
-          "title": "Poczytanki na Okęciu",
-          "description": "Rozpocznijcie tydzień w bibliotece! Wypożyczalnia nr 71 zaprasza dzieci w wieku 3-6 lat wraz z opiekunami na „Poczytanki na Okęciu”, czyli poniedziałkowe głośne czytanie książek lub spotkanie z teatrzykiem kamishibai."
-        },
-        "en": {
-          "title": "Storytime at Okęcie",
-          "description": "Start the week at the library! Lending Library No. 71 invites children aged 3-6 years along with their guardians to \"Storytime at Okęcie\", which means Monday loud reading of books or a meeting with a kamishibai theater."
-        },
-        "uk": {
-          "title": "Почитання на Океню",
-          "description": "Розпочніть тиждень у бібліотеці! Випозичальня № 71 запрошує дітей віком 3-6 років разом з опікунами на «Почитання на Океню», тобто понеділкове гучне читання книг або зустріч з театриком камішибай."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Włochy",
-      "updated_at": "2026-10-07T13:19:11.604560+00:00"
-    },
     "parada-dzidziusi-w-park-skaryszewski-2026-10-21T13:00:00+02:00": {
       "title": "Parada Dzidziusiów: Park Skaryszewski",
       "date": "2026-10-21T13:00:00+02:00",
@@ -11376,51 +11128,6 @@
       "district": "Praga-Południe",
       "updated_at": "2026-10-09T13:02:48.965837+00:00"
     },
-    "rozegrani-rollo-warsztaty-dla-dzieci-4-6-lat-2026-10-19T17:30:00+02:00": {
-      "title": "Rozegrani \"Rollo\" - warsztaty dla dzieci 4-6 lat",
-      "date": "2026-10-19T17:30:00+02:00",
-      "end_date": "2026-10-19T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Czy uda Ci się zebrać całe stado wiewiórek? A może szereg żab? Dołącz do emocjonującej rozgrywki w „Rollo” i rzucaj kośćmi razem z nami! Świetna zabawa gwarantowana!\n\nZapraszamy amatorów gier i zabaw w wieku 4-6 lat na zajęcia z cyklu „Rozegrani”.\n\n*Dla kogo?\n\nDzieci w wieku 4-6 lat.\n\n*Kiedy?\n\n19.10.2026 r. godz. 17:30 (czas trwania: około 45 min.)\n\n*Gdzie?\n\nWypożyczalnia nr 17, Aleje Jerozolimskie 200; Piętro 0A, wejście A.\n\n*Czy muszę się zapisać?\n\nTak! Liczba miejsc jest ograniczona. Zapisy przyjmujemy pod nr. tel.: +48 (22) 667 00 00 lub mailowo: b17@bpwlochy.waw.pl\n\n(Prosimy o podanie: imienia, nazwiska i wieku uczestnika oraz imienia, nazwiska i numeru kontaktowego do opiekuna.)\n\n*Czy muszę coś płacić?\n\nNie! Nasze spotkania są całkowicie darmowe!\n\nWidzimy się? :)\n\n! Uwaga !\n\nUczestnicy proszeni są o poinformowanie prowadzącego, jeśli zapisali się na warsztaty, ale na nie nie dotrą.\n\nProwadzone są zapisy również na listę rezerwową. Niepoinformowanie o nieobecności będzie skutkowało brakiem możliwości zapisu na kolejne zajęcia.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1730.1791543129.webp",
-      "location": {
-        "name": "Wypożyczalnia nr 17, Aleje Jerozolimskie 200",
-        "district": "Włochy"
-      },
-      "url": "https://bpwlochy.waw.pl/wydarzenie/rozegrani-rollo/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://bpwlochy.waw.pl/wydarzenie/rozegrani-rollo/",
-      "scrapped_timestamp": "2026-10-10T12:26:01.347813+00:00",
-      "category": "Games",
-      "additional_categories": [
-        "Workshops"
-      ],
-      "age_range": {
-        "min": 4,
-        "max": 6
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Rozegrani \"Rollo\" - warsztaty dla dzieci 4-6 lat",
-          "description": "Czy uda Ci się zebrać całe stado wiewiórek? A może szereg żab? Dołącz do emocjonującej rozgrywki w „Rollo” i rzucaj kośćmi razem z nami! Świetna zabawa gwarantowana!\n\nZapraszamy amatorów gier i zabaw w wieku 4-6 lat na zajęcia z cyklu „Rozegrani”.\n\n*Dla kogo?\n\nDzieci w wieku 4-6 lat.\n\n*Kiedy?\n\n19.10.2026 r. godz. 17:30 (czas trwania: około 45 min.)\n\n*Gdzie?\n\nWypożyczalnia nr 17, Aleje Jerozolimskie 200; Piętro 0A, wejście A.\n\n*Czy muszę się zapisać?\n\nTak! Liczba miejsc jest ograniczona. Zapisy przyjmujemy pod nr. tel.: +48 (22) 667 00 00 lub mailowo: b17@bpwlochy.waw.pl\n\n(Prosimy o podanie: imienia, nazwiska i wieku uczestnika oraz imienia, nazwiska i numeru kontaktowego do opiekuna.)\n\n*Czy muszę coś płacić?\n\nNie! Nasze spotkania są całkowicie darmowe!\n\nWidzimy się? :)\n\n! Uwaga !\n\nUczestnicy proszeni są o poinformowanie prowadzącego, jeśli zapisali się na warsztaty, ale na nie nie dotrą.\n\nProwadzone są zapisy również na listę rezerwową. Niepoinformowanie o nieobecności będzie skutkowało brakiem możliwości zapisu na kolejne zajęcia."
-        },
-        "en": {
-          "title": "Rollo Unleashed - Workshops for Children Aged 4-6",
-          "description": "Can you gather a whole herd of squirrels? Or maybe a line of frogs? Join the exciting game of \"Rollo\" and roll the dice with us! Great fun guaranteed!\n\nWe invite game and play enthusiasts aged 4-6 to the \"Rollo Unleashed\" series of activities.\n\n*Who is it for?\n\nChildren aged 4-6.\n\n*When?\n\nOctober 19, 2026, at 5:30 PM (duration: about 45 min.)\n\n*Where?\n\nLibrary No. 17, Aleje Jerozolimskie 200; Floor 0A, Entrance A.\n\n*Do I need to register?\n\nYes! The number of places is limited. Registrations are accepted at tel.: +48 (22) 667 00 00 or by email: b17@bpwlochy.waw.pl\n\n(Please provide: the participant's first name, last name, and age, as well as the first name, last name, and contact number of the guardian.)\n\n*Do I need to pay anything?\n\nNo! Our meetings are completely free!\n\nSee you there? :)\n\n! Attention !\n\nParticipants"
-        },
-        "uk": {
-          "title": "Розігранi \"Rollo\" - майстер-класи для дітей 4-6 років",
-          "description": "Чи вдасться тобі зібрати ціле стадо білок? А може, ряд жаб? Приєднуйся до емоційної гри в «Rollo» і кидай кубики разом з нами! Чудовий відпочинок гарантовано!\n\nЗапрошуємо аматорів ігор та розваг віком 4-6 років на заняття з циклу «Розігранi».\n\n*Для кого?\n\nДіти віком 4-6 років.\n\n*Коли?\n\n19.10.2026 р. о 17:30 (тривалість: близько 45 хв.)\n\n*Де?\n\nПрокат № 17, Алеї Єрусалимські 200; Поверх 0A, вхід A.\n\n*Чи потрібно записуватись?\n\nТак! Кількість місць обмежена. Записуємо за номером тел.: +48 (22) 667 00 00 або електронною поштою: b17@bpwlochy.waw.pl\n\n(Просимо вказати: ім'я, прізвище та вік учасника, а також ім'я, прізвище та контактний номер опікуна.)\n\n*Чи потрібно щось платити?\n\nНі! Наші зустрічі абсолютно безкоштовні!\n\nБачимося? :)\n\n! Увага !\n\nУчасники"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Włochy",
-      "updated_at": "2026-10-10T12:27:47.035264+00:00"
-    },
     "mazowsze-kreatywne-rodzinne-warsztaty-muzyczne-opowiedz-mi-bajk-2026-11-07T11:00:00+01:00": {
       "title": "MAZOWSZE KREATYWNE / Rodzinne warsztaty muzyczne OPOWIEDZ MI BAJKĘ",
       "date": "2026-11-07T11:00:00+01:00",
@@ -11549,48 +11256,6 @@
         "ticket_url": "https://biletyna.pl/dla-dzieci/Teatralny-Poranek-Bajkowy-Balwankowa-koleda-czyli-swieta-na-sniezno"
       },
       "updated_at": "2026-10-11T12:39:11.650812+00:00"
-    },
-    "rollo-warsztaty-dla-dzieci-w-wieku-4-6-lat-2026-10-19T17:30:00+02:00": {
-      "title": "„Rollo” – warsztaty dla dzieci w wieku 4–6 lat",
-      "date": "2026-10-19T17:30:00+02:00",
-      "end_date": "2026-10-19T17:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zajęcia z cyklu „Rozegrani” to warsztaty dla dzieci w wieku 4–6 lat. Uczestnicy zagrają w „Rollo”, rzucając kośćmi i próbując zebrać całe stado wiewiórek lub szereg żab.\n\nSpotkanie odbędzie się 19 października 2026 roku o godz. 17:30 i potrwa około 45 minut. Miejscem wydarzenia jest Wypożyczalnia nr 17, Aleje Jerozolimskie 200, piętro 0A, wejście A.\n\n• Obowiązują zapisy; liczba miejsc jest ograniczona. Zgłoszenia przyjmowane są telefonicznie pod numerem +48 (22) 667 00 00 lub mailowo: b17@bpwlochy.waw.pl.\n• W zgłoszeniu należy podać imię, nazwisko i wiek dziecka oraz imię, nazwisko i numer kontaktowy opiekuna.\n• Udział jest bezpłatny. Prowadzona jest lista rezerwowa. W razie nieobecności należy poinformować prowadzącego; brak takiej informacji uniemożliwi zapis na kolejne zajęcia.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/f9f2343a-3339-4926-81a9-5d74b151a69a/a3cb814d-dbdb-468a-9c4e-c76bfdc7fa79.jpg",
-      "location": {
-        "name": "Wypożyczalnia nr 17 - Biblioteka Publiczna Włochy",
-        "district": "Włochy"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/rollo-warsztaty-dla-dzieci-w-wieku-4-6-lat-f9f2343a-3339-4926-81a9-5d74b151a69a",
-      "source": "simplygo.pl",
-      "age_hint": "4-6",
-      "age_range": {
-        "min": 4,
-        "max": 6
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/rollo-warsztaty-dla-dzieci-w-wieku-4-6-lat-f9f2343a-3339-4926-81a9-5d74b151a69a",
-      "scrapped_timestamp": "2026-10-11T12:38:28.165797+00:00",
-      "category": "Workshops",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "„Rollo” – warsztaty dla dzieci w wieku 4–6 lat",
-          "description": "Zajęcia z cyklu „Rozegrani” to warsztaty dla dzieci w wieku 4–6 lat. Uczestnicy zagrają w „Rollo”, rzucając kośćmi i próbując zebrać całe stado wiewiórek lub szereg żab.\n\nSpotkanie odbędzie się 19 października 2026 roku o godz. 17:30 i potrwa około 45 minut. Miejscem wydarzenia jest Wypożyczalnia nr 17, Aleje Jerozolimskie 200, piętro 0A, wejście A.\n\n• Obowiązują zapisy; liczba miejsc jest ograniczona. Zgłoszenia przyjmowane są telefonicznie pod numerem +48 (22) 667 00 00 lub mailowo: b17@bpwlochy.waw.pl.\n• W zgłoszeniu należy podać imię, nazwisko i wiek dziecka oraz imię, nazwisko i numer kontaktowy opiekuna.\n• Udział jest bezpłatny. Prowadzona jest lista rezerwowa. W razie nieobecności należy poinformować prowadzącego; brak takiej informacji uniemożliwi zapis na kolejne zajęcia."
-        },
-        "en": {
-          "title": "\"Rollo\" – workshops for children aged 4–6",
-          "description": "The \"Rozegrani\" series of activities are workshops for children aged 4–6. Participants will play \"Rollo\", rolling dice and trying to collect a whole herd of squirrels or a row of frogs.\n\nThe meeting will take place on October 19, 2026, at 5:30 PM and will last about 45 minutes. The event will be held at Library No. 17, Aleje Jerozolimskie 200, floor 0A, entrance A.\n\n• Registration is required; the number of places is limited. Applications are accepted by phone at +48 (22) 667 00 00 or by email: b17@bpwlochy.waw.pl.\n• The application must include the child's first name, last name, and age, as well as the first name, last name, and contact number of the guardian.\n• Participation is free of charge. A waiting list is maintained. In case of absence, the instructor must be informed; failure to do so will prevent registration for future classes."
-        },
-        "uk": {
-          "title": "„Rollo” – майстер-класи для дітей віком 4–6 років",
-          "description": "Заняття з циклу „Rozegrani” – це майстер-класи для дітей віком 4–6 років. Учасники зіграють у „Rollo”, кидаючи кубики та намагаючись зібрати ціле стадо білок або ряд жаб.\n\nЗустріч відбудеться 19 жовтня 2026 року о 17:30 і триватиме близько 45 хвилин. Місцем проведення є Випозичальня № 17, Алеї Єрусалимські 200, поверх 0A, вхід A.\n\n• Обов'язкові попередні записи; кількість місць обмежена. Заявки приймаються телефоном за номером +48 (22) 667 00 00 або електронною поштою: b17@bpwlochy.waw.pl.\n• У заявці необхідно вказати ім'я, прізвище та вік дитини, а також ім'я, прізвище та контактний номер опікуна.\n• Участь безкоштовна. Ведеться резервний список. У разі відсутності необхідно повідомити ведучого; відсутність такої інформації унеможливить запис на наступні заняття."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Włochy",
-      "updated_at": "2026-10-11T12:39:11.650941+00:00"
     },
     "akrobatyka-dla-dzieci-i-m-odzie-y-2026-10-24T10:00:00+02:00": {
       "title": "Akrobatyka dla dzieci i młodzieży",
@@ -12137,90 +11802,6 @@
       "district": "Wilanów",
       "updated_at": "2026-10-13T16:22:18.531957+00:00"
     },
-    "bezp-atne-zaj-cia-taneczne-dla-dzieci-4-8-lat-z-niepe-nosprawno-ciami-2026-10-19T17:00:00+02:00": {
-      "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-      "date": "2026-10-19T17:00:00+02:00",
-      "end_date": "2026-10-19T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-10-13T16:20:02.449220+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Children Aged 4-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District.\n\nHARMONOGRAM:\n\nMondays 17:00 - dance classes for children aged 4-8\n\nMondays 18:00 - dance classes for parents with children aged 3-8\n\nThursdays 12:00 - latino solo\n\nThursdays 13:00 - corrective gymnastics\n\nLocation: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor)\n\nRegistration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для дітей 4-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово.\n\nHARMONOGRAM:\n\nПонеділки 17:00 - танцювальні заняття для дітей 4-8 років\n\nПонеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років\n\nЧетверги 12:00 - латино соло\n\nЧетверги 13:00 - гімнастика для покращення рухливості\n\nЛокація: MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх)\n\nЗапис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-10-13T16:22:18.531981+00:00"
-    },
-    "bezp-atne-zaj-cia-taneczne-dla-rodzic-w-z-dzie-mi-3-8-lat-z-niepe-nosprawno-ciami-2026-10-19T18:00:00+02:00": {
-      "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-      "date": "2026-10-19T18:00:00+02:00",
-      "end_date": "2026-10-19T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-10-13T16:20:09.025362+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Parents with Children Aged 3-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District.\n\nHARMONOGRAM:\n\nMondays 17:00 - dance classes for children aged 4-8\n\nMondays 18:00 - dance classes for parents with children aged 3-8\n\nThursdays 12:00 - latino solo\n\nThursdays 13:00 - corrective gymnastics\n\nLocation: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor)\n\nRegistration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для батьків з дітьми 3-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово.\n\nHARMONOGRAM:\n\nПонеділки 17:00 - танцювальні заняття для дітей 4-8 років\n\nПонеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років\n\nЧетверги 12:00 - латино соло\n\nЧетверги 13:00 - гімнастика для покращення\n\nЛокація: MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх)\n\nЗапис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-10-13T16:22:18.532007+00:00"
-    },
     "przyjaciele-w-twoim-ciele-seans-w-mobilnym-planetarium-2026-10-24T11:00:00+02:00": {
       "title": "„Przyjaciele w Twoim ciele” | Seans w mobilnym planetarium",
       "date": "2026-10-24T11:00:00+02:00",
@@ -12704,51 +12285,6 @@
       "district": "Wola",
       "updated_at": "2026-10-13T16:22:18.532271+00:00"
     },
-    "zaj-cia-muzyczne-dla-dzieci-do-3-roku-ycia-2026-10-20T10:00:00+02:00": {
-      "title": "Zajęcia muzyczne dla dzieci do 3 roku życia",
-      "date": "2026-10-20T10:00:00+02:00",
-      "end_date": "2026-10-20T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia muzyczne przez cały październik we wtorki na 10:00.\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nMuzosmyki, wtorki 10-12\n\n06.10 – Jesienne piosenki\n\n13.10  – Leśne zwierzątka (jeż, lis i wiewiórka)\n\n20.10  – Pląsy harcerskie\n\n27.10  – Na spacerek idę z pieskiem, czyli Dzień Kundla i Pluszaka\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć muzycznych:\n\n- śpiewamy i bawimy się (wykorzystując elementy umuzykalnienia metodą Gordona, Orffa i innych oraz ruchu rozwijającego R. Labana lub W. Sherborne),\n\n- poznajemy jakiś kształt lub kolor (ogólnorozwojowa edukacja),\n\n- instrument (edukacja muzyczna),\n\n- piosenkę/utwór muzyczny lub wiersz (edukacja muzyczna),\n\n- praca z pomocami Montessori (w małej salce).",
-      "image": null,
-      "location": {
-        "name": "Świetojerska 12a",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/share/p/1BFYYTgRff/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/share/p/1BFYYTgRff/",
-      "scrapped_timestamp": "2026-10-14T11:38:36.952278+00:00",
-      "category": "Music & Dance",
-      "additional_categories": [
-        "Educational"
-      ],
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Zajęcia muzyczne dla dzieci do 3 roku życia",
-          "description": "Zapraszamy na zajęcia muzyczne przez cały październik we wtorki na 10:00.\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nMuzosmyki, wtorki 10-12\n\n06.10 – Jesienne piosenki\n\n13.10  – Leśne zwierzątka (jeż, lis i wiewiórka)\n\n20.10  – Pląsy harcerskie\n\n27.10  – Na spacerek idę z pieskiem, czyli Dzień Kundla i Pluszaka\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć muzycznych:\n\n- śpiewamy i bawimy się (wykorzystując elementy umuzykalnienia metodą Gordona, Orffa i innych oraz ruchu rozwijającego R. Labana lub W. Sherborne),\n\n- poznajemy jakiś kształt lub kolor (ogólnorozwojowa edukacja),\n\n- instrument (edukacja muzyczna),\n\n- piosenkę/utwór muzyczny lub wiersz (edukacja muzyczna),\n\n- praca z pomocami Montessori (w małej salce)."
-        },
-        "en": {
-          "title": "Music Classes for Children up to 3 Years Old",
-          "description": "We invite you to music classes throughout October on Tuesdays at 10:00.\n\nFree admission with mandatory phone registration at 500 080 498!\n\nLimited number of places!\n\nMuzosmyki, Tuesdays 10-12\n\n06.10 – Autumn Songs\n\n13.10  – Forest Animals (hedgehog, fox, and squirrel)\n\n20.10  – Scout Dances\n\n27.10  – I'm Going for a Walk with My Dog, or Mixed-Breed and Plush Toy Day\n\nClasses with caregivers. Free of charge.\n\nDuring each music class:\n\n- we sing and play (using elements of musicalization methods by Gordon, Orff, and others, as well as developmental movement by R. Laban or W. Sherborne),\n\n- we learn about a shape or color (general developmental education),\n\n- instrument (musical education),\n\n- song/musical piece or poem (musical education),\n\n- working with Montessori materials (in a small room)."
-        },
-        "uk": {
-          "title": "Музичні заняття для дітей до 3 року життя",
-          "description": "Запрошуємо на музичні заняття протягом усього жовтня у вівторок о 10:00.\n\nВхід вільний з обов'язковими записами телефонними 500 080 498!\n\nКількість місць обмежена!\n\nМузосмики, вівторки 10-12\n\n06.10 – Осінні пісеньки\n\n13.10  – Лісові звірята (їжак, лисиця та білка)\n\n20.10  – Танці скаутів\n\n27.10  – На прогулянку йду з песиком, тобто День Кунделя та Плюшевого\n\nЗаняття разом з опікунами. Безкоштовно.\n\nПід час кожних музичних занять:\n\n- співаємо і граємося (використовуючи елементи музикалізації методом Гордона, Орфа та інших, а також руху, що розвиває Р. Лабана або В. Шерборна),\n\n- знайомимося з якоюсь формою або кольором (загальноосвітня освіта),\n\n- інструмент (музична освіта),\n\n- пісня/музичний твір або вірш (музична освіта),\n\n- робота з допоміжними матеріалами Монтессорі (в маленькій кімнаті)."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-14T11:41:39.179396+00:00"
-    },
     "park-ujazdowski-rodzinny-spacer-z-przewodnikiem-2026-10-23T17:00:00+02:00": {
       "title": "Park Ujazdowski – rodzinny spacer z przewodnikiem",
       "date": "2026-10-23T17:00:00+02:00",
@@ -13213,51 +12749,6 @@
       },
       "district": "Wola",
       "updated_at": "2026-10-15T11:13:09.405496+00:00"
-    },
-    "zaj-cia-dla-dzieci-w-stacji-grawitacja-2026-10-19T16:00:00+02:00": {
-      "title": "Zajęcia dla dzieci w Stacji Grawitacja!",
-      "date": "2026-10-19T16:00:00+02:00",
-      "end_date": "2026-10-19T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne grupowe zajęcia organizowane przez Fundację Avalon w Stacji Grawitacja! To coś więcej niż park trampolin, to wyjątkowa przestrzeń, w której dzieci z niepełnosprawnościami jak i pełnosprawne mogą aktywnie spędzić czas\n\noraz integrować się podczas wspólnej zabawy.\n\nW Stacji Grawitacja oprócz wielu trampolin znajdziecie też dodatkowe atrakcje:\n\n-Całoroczny Park Linowy;\n\n-Boisko do koszykówki z trampolinami;\n\n-Tor przeszkód ninja;\n\n-Ścianki wspinaczkowe dla małych i dużych;\n\n-Poduszka z wieżami do skoków;\n\n-Sala gimnastyczna z ścieżką do ćwiczeń;\n\n-Antresola z przytulnym kącikiem bistro.\n\nKażdy uczestnik może wziąć udział w zabawie z jednym rodzicem/opiekunem.\n\nNie zapomnijcie zabrać ze sobą:\n\n-Wygodnego stroju do skakania\n\n-Skarpetek antypoślizgowych (istnieje możliwość zakupienia specjalnych skarpetek na miejscu)\n\nZapisy >> link\n\nGotowi na świetną zabawę?\n\nDołączcie do nas!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1600.1792133109.webp",
-      "location": {
-        "name": "Stacja Grawitacja, al. Bohaterów Września 12",
-        "district": "Ochota"
-      },
-      "url": "https://www.fundacjaavalon.pl/wydarzenie/zajecia-dla-dzieci-w-stacji-grawitacja-13/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.fundacjaavalon.pl/wydarzenie/zajecia-dla-dzieci-w-stacji-grawitacja-13/",
-      "scrapped_timestamp": "2026-10-16T11:08:51.018559+00:00",
-      "category": "Family Fun",
-      "additional_categories": [
-        "Outdoor Adventure"
-      ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Zajęcia dla dzieci w Stacji Grawitacja!",
-          "description": "Zapraszamy na bezpłatne grupowe zajęcia organizowane przez Fundację Avalon w Stacji Grawitacja! To coś więcej niż park trampolin, to wyjątkowa przestrzeń, w której dzieci z niepełnosprawnościami jak i pełnosprawne mogą aktywnie spędzić czas\n\noraz integrować się podczas wspólnej zabawy.\n\nW Stacji Grawitacja oprócz wielu trampolin znajdziecie też dodatkowe atrakcje:\n\n-Całoroczny Park Linowy;\n\n-Boisko do koszykówki z trampolinami;\n\n-Tor przeszkód ninja;\n\n-Ścianki wspinaczkowe dla małych i dużych;\n\n-Poduszka z wieżami do skoków;\n\n-Sala gimnastyczna z ścieżką do ćwiczeń;\n\n-Antresola z przytulnym kącikiem bistro.\n\nKażdy uczestnik może wziąć udział w zabawie z jednym rodzicem/opiekunem.\n\nNie zapomnijcie zabrać ze sobą:\n\n-Wygodnego stroju do skakania\n\n-Skarpetek antypoślizgowych (istnieje możliwość zakupienia specjalnych skarpetek na miejscu)\n\nZapisy >> link\n\nGotowi na świetną zabawę?\n\nDołączcie do nas!"
-        },
-        "en": {
-          "title": "Activities for Children at Gravity Station!",
-          "description": "We invite you to free group activities organized by the Avalon Foundation at Gravity Station! It's more than just a trampoline park; it's a unique space where children with disabilities and able-bodied children can actively spend time\n\nand integrate during shared fun.\n\nAt Gravity Station, in addition to many trampolines, you will also find additional attractions:\n\n-Year-round Rope Park;\n\n-Basketball court with trampolines;\n\n-Ninja obstacle course;\n\n-Climbing walls for small and large;\n\n-Jumping pillow with towers;\n\n-Gym with an exercise path;\n\n-Mezzanine with a cozy bistro corner.\n\nEach participant can join the fun with one parent/guardian.\n\nDon't forget to bring:\n\n-Comfortable clothes for jumping\n\n-Slip-resistant socks (there is a possibility"
-        },
-        "uk": {
-          "title": "Заняття для дітей на Станції Гравітація!",
-          "description": "Запрошуємо на безкоштовні групові заняття, організовані Фондом Авалон на Станції Гравітація! Це щось більше, ніж парк батутів, це унікальний простір, в якому діти з інвалідністю, а також здорові можуть активно проводити час\n\nта інтегруватися під час спільної гри.\n\nНа Станції Гравітація, окрім багатьох батутів, ви знайдете також додаткові атракції:\n\n-Цілорічний Лазний Парк;\n\n-Поле для баскетболу з батутами;\n\n-Траса з перешкодами ніндзя;\n\n-Стіни для скелелазіння для малих і великих;\n\n-Подушка з вежами для стрибків;\n\n-Спортивний зал з трасою для вправ;\n\n-Антресоль з затишним куточком бістро.\n\nКожен учасник може взяти участь у грі з одним батьком/опікуном.\n\nНе забудьте взяти з собою:\n\n-Зручний одяг для стрибків\n\n-Антиковзні шкарпетки (існує можливість..."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ochota",
-      "updated_at": "2026-10-16T11:10:33.690435+00:00"
     },
     "zaj-cia-sensoryczne-dla-dzieci-do-3-roku-ycia-2026-10-22T10:00:00+02:00": {
       "title": "Zajęcia sensoryczne dla dzieci do 3 roku życia",
@@ -13908,48 +13399,6 @@
       },
       "district": "Bielany",
       "updated_at": "2026-10-17T10:35:22.981101+00:00"
-    },
-    "zaj-cia-dla-dzieci-stacja-grawitacja-2026-10-19T16:00:00+02:00": {
-      "title": "Zajęcia dla dzieci – Stacja Grawitacja",
-      "date": "2026-10-19T16:00:00+02:00",
-      "end_date": "2026-10-19T16:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Fundacja Avalon zaprasza na bezpłatne grupowe zajęcia w Stacji Grawitacja, gdzie dzieci z niepełnosprawnościami i pełnosprawne mogą razem aktywnie spędzić czas i integrować się podczas wspólnej zabawy. To coś więcej niż park trampolin.\n\nW Stacji Grawitacja oprócz trampolin dostępne są:\n• całoroczny park linowy;\n• boisko do koszykówki z trampolinami;\n• tor przeszkód ninja;\n• ścianki wspinaczkowe dla małych i dużych;\n• poduszka z wieżami do skoków;\n• sala gimnastyczna z ścieżką do ćwiczeń;\n• antresola z przytulnym kącikiem bistro.\n\nKażdy uczestnik może wziąć udział w zabawie z jednym rodzicem lub opiekunem.\n\nNa zajęcia zabierz:\n• wygodny strój do skakania;\n• skarpetki antypoślizgowe (istnieje możliwość zakupu specjalnych skarpetek na miejscu).\n\nZapisy: https://www.fundacjaavalon.pl/wydarzenie/zajecia-dla-dzieci-w-stacji-grawitacja-13/",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/7d4ea216-e1d6-42a4-986c-031910862935/8acfbc02-0a9b-4eba-918f-52cb0eb941f4.jpg",
-      "location": {
-        "name": "Stacja Grawitacja Warszawa",
-        "district": "Ochota"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/zajecia-dla-dzieci-stacja-grawitacja-7d4ea216-e1d6-42a4-986c-031910862935",
-      "source": "simplygo.pl",
-      "age_hint": "3-12",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/zajecia-dla-dzieci-stacja-grawitacja-7d4ea216-e1d6-42a4-986c-031910862935",
-      "scrapped_timestamp": "2026-10-18T10:45:23.765743+00:00",
-      "category": "Family Fun",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Zajęcia dla dzieci – Stacja Grawitacja",
-          "description": "Fundacja Avalon zaprasza na bezpłatne grupowe zajęcia w Stacji Grawitacja, gdzie dzieci z niepełnosprawnościami i pełnosprawne mogą razem aktywnie spędzić czas i integrować się podczas wspólnej zabawy. To coś więcej niż park trampolin.\n\nW Stacji Grawitacja oprócz trampolin dostępne są:\n• całoroczny park linowy;\n• boisko do koszykówki z trampolinami;\n• tor przeszkód ninja;\n• ścianki wspinaczkowe dla małych i dużych;\n• poduszka z wieżami do skoków;\n• sala gimnastyczna z ścieżką do ćwiczeń;\n• antresola z przytulnym kącikiem bistro.\n\nKażdy uczestnik może wziąć udział w zabawie z jednym rodzicem lub opiekunem.\n\nNa zajęcia zabierz:\n• wygodny strój do skakania;\n• skarpetki antypoślizgowe (istnieje możliwość zakupu specjalnych skarpetek na miejscu).\n\nZapisy: https://www.fundacjaavalon.pl/wydarzenie/zajecia-dla-dzieci-w-stacji-grawitacja-13/"
-        },
-        "en": {
-          "title": "Activities for Children – Gravity Station",
-          "description": "The Avalon Foundation invites you to free group activities at the Gravity Station, where children with disabilities and able-bodied children can actively spend time together and integrate during shared fun. It's more than just a trampoline park.\n\nAt the Gravity Station, in addition to trampolines, you can find:\n• year-round rope park;\n• basketball court with trampolines;\n• ninja obstacle course;\n• climbing walls for small and large;\n• jump pad with towers;\n• gym with an exercise path;\n• mezzanine with a cozy bistro corner.\n\nEach participant can join the fun with one parent or guardian.\n\nWhat to bring to the activities:\n• comfortable outfit for jumping;\n• non-slip socks (there is an option to purchase special socks on-site).\n\nRegistration: https://www.fundacjaavalon.pl/wydarzeni"
-        },
-        "uk": {
-          "title": "Заняття для дітей – Станція Гравітація",
-          "description": "Фундація Avalon запрошує на безкоштовні групові заняття в Станції Гравітація, де діти з інвалідністю та здорові можуть разом активно проводити час і інтегруватися під час спільної гри. Це щось більше, ніж парк трамплінів.\n\nВ Станції Гравітація окрім трамплінів доступні:\n• цілорічний канатний парк;\n• майданчик для баскетболу з трамплінами;\n• траса з перешкодами ніндзя;\n• скелелазні стіни для малих і великих;\n• подушка з вежами для стрибків;\n• спортивний зал з трасою для вправ;\n• антресоль з затишним куточком бістро.\n\nКожен учасник може взяти участь у грі з одним батьком або опікуном.\n\nНа заняття візьміть:\n• зручний одяг для стрибків;\n• антиковзні шкарпетки (є можливість придбати спеціальні шкарпетки на місці).\n\nЗапис: https://www.fundacjaavalon.pl/wydarzeni"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ochota",
-      "updated_at": "2026-10-18T10:48:27.406002+00:00"
     },
     "boska-marsza-kowska-spacer-z-przewodnikiem-2026-10-20T18:00:00+02:00": {
       "title": "Boska Marszałkowska – spacer z przewodnikiem",
@@ -15648,88 +15097,6 @@
       },
       "district": "Bielany",
       "updated_at": "2026-10-19T12:43:55.532484+00:00"
-    },
-    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-10-20T10:00:00+02:00": {
-      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-      "date": "2026-10-20T10:00:00+02:00",
-      "end_date": "2026-10-20T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "scrapped_timestamp": "2026-10-19T12:42:58.357339+00:00",
-      "category": "Arts",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
-        },
-        "en": {
-          "title": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"",
-          "description": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"\n\nWe invite you to guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world masterpieces, including paintings by such masters as Maurice Denis, Paul Ranson, and Paul Sérusier. The curators of the exhibition and museum educators will tell us about them.\n\nThe exhibition \"Nabis. Prophets of New Art\" showcases, among other things, the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called School of Pont-Aven. It also includes works of a religious and esoteric nature, views of interiors, and genre scenes, as well as the activities of the magazine \"La Revue Blanche\" run by the Natanson brothers - Tadeusz and Aleksander. In total, we will see over 90 works in the fields of painting, drawing, and graphics. The works come from Polish and foreign collections."
-        },
-        "uk": {
-          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
-          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"\nЗапрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Зможемо побачити світові твори, а це, зокрема, картини таких майстрів, як Моріс Дені, Поль Рансон та Поль Серюзьє. Про них розкажуть куратори експозиції та музейні освітяни.\nВиставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Пола Гогена і так званої Школи Понтавен. Охоплює також твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, яку проводили брати Натансон - Тадеуш і Олександр - журналу \"La Revue Blanche\". Всього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних..."
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
-      },
-      "updated_at": "2026-10-19T12:43:55.532503+00:00"
-    },
-    "koncert-chopinowski-w-pa-acu-dziekana-2026-10-19T18:30:00+02:00": {
-      "title": "Koncert chopinowski w Pałacu Dziekana",
-      "date": "2026-10-19T18:30:00+02:00",
-      "end_date": "2026-10-19T18:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/6c214311-3987-4968-b0b6-b9d2e2b7f39f/db635e33-aef1-40ce-ac90-0b6d4330065c.jpg",
-      "location": {
-        "name": "Muzeum Archidiecezji Warszawskiej, Ulica Dziekania 1, 00-279 Warszawa",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-6c214311-3987-4968-b0b6-b9d2e2b7f39f",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-6c214311-3987-4968-b0b6-b9d2e2b7f39f",
-      "scrapped_timestamp": "2026-10-19T12:43:11.016737+00:00",
-      "category": "Music & Dance",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Koncert chopinowski w Pałacu Dziekana",
-          "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy."
-        },
-        "en": {
-          "title": "Chopin Concert at the Dean's Palace",
-          "description": "We cordially invite you to listen to Chopin concerts at 6:30 PM at the Dean's Palace in the Old Town of Warsaw. The most beautiful works of Fryderyk Chopin are performed by professional pianists, artists who perform in many countries around the world.\n\nRecitals take place in the historic, beautiful, and exclusively finished 16th-century Dean's Palace (now the Museum of the Archdiocese of Warsaw, ul. Dziekania 1, right next to the Archcathedral). You listen to music in close proximity to a collection of paintings by renowned artists.\n\nOur concert hall has phenomenal acoustics! The reception of music in this hall is essentially perfect, at the highest world level. We listen to the piano surrounded by pure and rich sound, we are enveloped by music in ideal proportions, not too little, not too much, we are as if in the middle of the performance."
-        },
-        "uk": {
-          "title": "Концерт шопенівський у Палаці Декана",
-          "description": "Щиро запрошуємо Вас послухати шопенівські концерти о 18:30 у Палаці Декана на Старому Місті у Варшаві. Найкрасивіші твори Фридерика Шопена виконують професійні піаністи, артисти, які виступають у багатьох країнах світу.\nРецитали відбуваються в історичному, красивому та ексклюзивно оформленому XVI столітті Палаці Декана (сьогодні Музей Архієпархії Варшавської, вул. Декана 1, поруч з Архікатедрою). Ви слухаєте музику в близькості колекції картин відомих художників.\nНаша концертна зала має феноменальну акустику! Сприйняття музики в цій залі є в принципі ідеальним, на найвищому світовому рівні. Ми слухаємо фортепіано, оточені чистим і багатим звуком, ми оточені музикою в ідеальних пропорціях, не занадто мало, не занадто багато, ми ніби в середині виконуваного у"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/210601/warszawa/koncert-chopinowski-stare-miasto?utm_source=pp&utm_medium=604"
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-19T12:43:55.532545+00:00"
     },
     "legendy-warszawskie-spacer-dla-rodzin-2026-10-25T12:00:00+01:00": {
       "title": "Legendy warszawskie – spacer dla rodzin",

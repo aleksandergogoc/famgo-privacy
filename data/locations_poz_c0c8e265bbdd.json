@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T10:49:41.877733+00:00",
+  "updated_at": "2026-10-20T11:37:25.645022+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1746,6 +1746,15 @@
       "lat": 52.4312821,
       "lng": 16.9408549,
       "updated_at": "2026-10-17T10:46:49.347986+00:00"
+    },
+    "plac pwk...": {
+      "name": "Plac Powszechnej Wystawy Krajowej, Łazarz, Poznań, województwo wielkopolskie, Polska",
+      "district": "Grunwald",
+      "address": "Plac Powszechnej Wystawy Krajowej, Łazarz, Poznań, województwo wielkopolskie, Polska",
+      "normalized": "plac pwk...",
+      "lat": 52.4023124,
+      "lng": 16.907828,
+      "updated_at": "2026-10-20T11:35:47.781412+00:00"
     }
   }
 }

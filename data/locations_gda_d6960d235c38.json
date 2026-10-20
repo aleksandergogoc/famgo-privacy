@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T15:12:24.267916+00:00",
+  "updated_at": "2026-10-20T11:37:27.321077+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1826,6 +1826,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-12T15:08:13.936267+00:00"
+    },
+    "miniatura": {
+      "name": "Teatr Miniatura, 16, Aleja Grunwaldzka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-236, Polska",
+      "district": "Wrzeszcz",
+      "address": "Teatr Miniatura, 16, Aleja Grunwaldzka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-236, Polska",
+      "normalized": "miniatura",
+      "lat": 54.3749961,
+      "lng": 18.6180144,
+      "updated_at": "2026-10-20T11:32:36.763992+00:00"
+    },
+    "hala targowa enjoy": {
+      "name": "Hala Targowa Enjoy, 1/2, Plac Dominikański, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-844, Polska",
+      "district": "Śródmieście",
+      "address": "Hala Targowa Enjoy, 1/2, Plac Dominikański, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-844, Polska",
+      "normalized": "hala targowa enjoy",
+      "lat": 54.3527422,
+      "lng": 18.652026,
+      "updated_at": "2026-10-20T11:32:38.374327+00:00"
     }
   }
 }

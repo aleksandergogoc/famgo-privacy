@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:02:20.519382+00:00",
+  "updated_at": "2026-10-20T11:31:43.119352+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-11-15T14:00:00": {
       "scrapped_timestamp": "2026-07-10T13:27:53.516482+00:00",
@@ -10305,43 +10305,42 @@
       "updated_at": "2026-10-13T16:33:36.861198+00:00"
     },
     "wystawa-kr-lik-w-rasowych-hala-expo-2026-10-25T10:00:00+01:00": {
-      "title": "Wystawa królików rasowych – Hala Expo",
+      "title": "WYSTAWA KRÓLIKÓW RASOWYCH | Hala EXPO",
+      "description": "Wystawa odbywa się podczas wydarzenia Egzotyczne Zwierzęta w Hali Expo Aleje Politechniki 4 w dniu 25 października\n\nEgzotyczne Zwierzęta",
+      "image": "https://uml.lodz.pl/files/public/_processed_/1/1/csm_5gp6a00atny8ysrkmrhjbkhkz3ugyylt__1__44de5f301a.png",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "Hala EXPO Łódź (al. Politechniki 4)",
+        "district": "Polesie"
+      },
+      "district": "Polesie",
       "date": "2026-10-25T10:00:00+01:00",
       "end_date": "2026-10-25T10:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Wystawa zwierząt futerkowych, na której zaprezentowano ponad 300 królików z 40 ras. Program obejmuje także pokazy świnek rasowych.\n\nWystawa odbywa się podczas wydarzenia Egzotyczne Zwierzęta.\n\nMiejsce i termin:\n• Hala Expo, Aleje Politechniki 4\n• 25 października",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/36812c8b-c857-471a-b9ea-ddaf6fc9677d/d0429141-fc4d-479f-870c-6951f057a353.jpg",
-      "location": {
-        "name": "Hala EXPO Łódź (al. Politechniki 4)",
-        "district": "Polesie"
-      },
-      "url": "https://simplygo.pl/wydarzenia/lodz/rozrywka/wydarzenie/wystawa-krolikow-rasowych-hala-expo-36812c8b-c857-471a-b9ea-ddaf6fc9677d",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/rozrywka/wydarzenie/wystawa-krolikow-rasowych-hala-expo-36812c8b-c857-471a-b9ea-ddaf6fc9677d",
-      "scrapped_timestamp": "2026-10-18T10:56:55.377352+00:00",
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wystawa-krolikow-rasowych-hala-expo-id181846/2026/10/25/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/wystawa-krolikow-rasowych-hala-expo-id181846/2026/10/25/",
+      "scrapped_timestamp": "2026-10-20T11:30:03.705015+00:00",
       "category": "Nature & Wildlife",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Wystawa królików rasowych – Hala Expo",
-          "description": "Wystawa zwierząt futerkowych, na której zaprezentowano ponad 300 królików z 40 ras. Program obejmuje także pokazy świnek rasowych.\n\nWystawa odbywa się podczas wydarzenia Egzotyczne Zwierzęta.\n\nMiejsce i termin:\n• Hala Expo, Aleje Politechniki 4\n• 25 października"
+          "title": "WYSTAWA KRÓLIKÓW RASOWYCH | Hala EXPO",
+          "description": "Wystawa odbywa się podczas wydarzenia Egzotyczne Zwierzęta w Hali Expo Aleje Politechniki 4 w dniu 25 października\n\nEgzotyczne Zwierzęta"
         },
         "en": {
-          "title": "Rabbit Breed Exhibition – Expo Hall",
-          "description": "Fur animal exhibition featuring over 300 rabbits from 40 breeds. The program also includes shows of breed pigs.\n\nThe exhibition takes place during the Exotic Animals event.\n\nLocation and date:\n• Expo Hall, Aleje Politechniki 4\n• October 25"
+          "title": "RABBIT BREED EXHIBITION | EXPO Hall",
+          "description": "The exhibition takes place during the Exotic Animals event at the Expo Hall, Aleje Politechniki 4 on October 25th\n\nExotic Animals"
         },
         "uk": {
-          "title": "Виставка породистих кроликів – Хала Експо",
-          "description": "Виставка тварин хутрових, на якій представлено понад 300 кроликів з 40 порід. Програма також включає покази свинок породистих.\n\nВиставка відбувається під час події Екзотичні Тварини.\n\nМісце та термін:\n• Хала Експо, Алеї Політехніки 4\n• 25 жовтня"
+          "title": "ВИСТАВКА ПОРОДИСТИХ КРОЛИКІВ | Хала EXPO",
+          "description": "Виставка відбувається під час події Екзотичні Тварини в Халі Експо Алеї Політехніки 4 в день 25 жовтня\n\nЕкзотичні Тварини"
         }
       },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Polesie",
-      "updated_at": "2026-10-18T10:57:53.034446+00:00"
+      "updated_at": "2026-10-20T11:31:42.873472+00:00"
     },
     "neonowe-halloween-w-orientkowie-wiecz-r-pe-en-zabawy-orientarium-zoo-d-2026-10-31T17:00:00+01:00": {
       "title": "Neonowe Halloween w Orientkowie. Wieczór pełen zabawy! | Orientarium ZOO Łódź",
@@ -12759,6 +12758,646 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-10-19T12:48:36.775677+00:00"
+    },
+    "filmowe-opowie-ci-bajka-na-ok-adce-warsztaty-dla-dzieci-w-muzuem-kinematografii-2026-11-08T12:00:00+01:00": {
+      "title": "Filmowe opowieści: Bajka na okładce - warsztaty dla dzieci w Muzuem Kinematografii",
+      "description": "Uczestnicy warsztatów poznają najsłynniejszych bohaterów filmowych od Misia Uszatka, przez Reksia, po Plastusia, by następnie wcielić się w rolę młodych projektantów i ilustratorów. Ich zadaniem będzie stworzenie własnej okładki książki o przygodach wybranej postaci lub ulubionego ekranowego duetu. Warsztaty rozwijają wyobraźnię, wrażliwość plastyczną i kreatywność, a jednocześnie zachęcają do sięgania po klasykę polskiej literatury i animacji dla dzieci w zupełnie nowy, twórczy sposób.\n\nWarsztatowi towarzyszy wizyta na wystawie Pałac pełen bajek.\n\n**Bilety: w ramach cyklu Filmowe opowieści: 15 zł normalny, 10 zł ulgowy**\n\n**Ilość miejsc ograniczona: do 12 osób**\n\n**Czas trwania: ok. 75 min**\n\n**Kategoria: dla dzieci w wieku 7-12 lat wraz z opiekunami**\n\n****Facebook****\n\n****Instagram****",
+      "image": "https://uml.lodz.pl/files/public/_processed_/d/f/csm_Kino_-_posty__38__939c29ffad.png",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "Muzeum Kinematografii w Łodzi (Łódź, plac Zwycięstwa 1)",
+        "district": "Widzew"
+      },
+      "district": "Widzew",
+      "date": "2026-11-08T12:00:00+01:00",
+      "end_date": "2026-11-08T12:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/filmowe-opowiesci-bajka-na-okladce-warsztaty-dla-dzieci-id182554/2026/11/8/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/filmowe-opowiesci-bajka-na-okladce-warsztaty-dla-dzieci-id182554/2026/11/8/",
+      "scrapped_timestamp": "2026-10-20T11:30:07.286479+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Cinema"
+      ],
+      "age_range": {
+        "min": 7,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Filmowe opowieści: Bajka na okładce - warsztaty dla dzieci w Muzuem Kinematografii",
+          "description": "Uczestnicy warsztatów poznają najsłynniejszych bohaterów filmowych od Misia Uszatka, przez Reksia, po Plastusia, by następnie wcielić się w rolę młodych projektantów i ilustratorów. Ich zadaniem będzie stworzenie własnej okładki książki o przygodach wybranej postaci lub ulubionego ekranowego duetu. Warsztaty rozwijają wyobraźnię, wrażliwość plastyczną i kreatywność, a jednocześnie zachęcają do sięgania po klasykę polskiej literatury i animacji dla dzieci w zupełnie nowy, twórczy sposób.\n\nWarsztatowi towarzyszy wizyta na wystawie Pałac pełen bajek.\n\n**Bilety: w ramach cyklu Filmowe opowieści: 15 zł normalny, 10 zł ulgowy**\n\n**Ilość miejsc ograniczona: do 12 osób**\n\n**Czas trwania: ok. 75 min**\n\n**Kategoria: dla dzieci w wieku 7-12 lat wraz z opiekunami**\n\n****Facebook****\n\n****Instagram****"
+        },
+        "en": {
+          "title": "Film Stories: Fairy Tale on the Cover - Workshops for Children at the Film Museum",
+          "description": "Participants of the workshops will get to know the most famous film characters from Teddy Uszatek, through Reksio, to Plastuś, and then take on the role of young designers and illustrators. Their task will be to create their own book cover about the adventures of a chosen character or favorite screen duo. The workshops develop imagination, artistic sensitivity, and creativity, while also encouraging engagement with the classics of Polish literature and children's animation in a completely new, creative way.\n\nThe workshop is accompanied by a visit to the exhibition Palace Full of Fairy Tales.\n\n**Tickets: as part of the Film Stories series: 15 PLN regular, 10 PLN reduced**\n\n**Limited spots: up to 12 people**\n\n**Duration: approx. 75 min**\n\n**Category: for children aged 7-12 with guardians**\n\n****Facebook****\n\n****Instagram****"
+        },
+        "uk": {
+          "title": "Кінематографічні оповіді: Казка на обкладинці - майстер-класи для дітей в Музеї кінематографії",
+          "description": "Учасники майстер-класів познайомляться з найвідомішими кіногероями від Ведмедика Ушастика, через Рексика, до Пластика, щоб потім втілитися в роль молодих дизайнерів та ілюстраторів. Їхнім завданням буде створення власної обкладинки книги про пригоди обраного персонажа або улюбленого екранного дуету. Майстер-класи розвивають уяву, чутливість до мистецтва та креативність, а також заохочують до звернення до класики польської літератури та анімації для дітей у зовсім новий, творчий спосіб.\n\nМайстер-клас супроводжується відвідуванням виставки Палац, повний казок.\n\n**Квитки: в рамках циклу Кінематографічні оповіді: 15 зл звичайний, 10 зл пільговий**\n\n**Кількість місць обмежена: до 12 осіб**\n\n**Час проведення: близько 75 хв**\n\n**Категорія: для дітей віком 7-12 років разом з опікунами**\n\n****Facebook****\n\n****Instagram****"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873504+00:00"
+    },
+    "akademia-polskiego-filmu-w-muzeum-kinematografii-2026-11-09T17:00:00+01:00": {
+      "title": "Akademia Polskiego Filmu w Muzeum Kinematografii",
+      "description": "Zajęcia odbywają się raz w tygodniu, w poniedziałki, składają się z godzinnych wykładów filmoznawców i specjalistów z polskich ośrodków naukowych oraz projekcji dwóch filmów (pełno- i krótkometrażowego).\n\n**Artystyczne poszukiwania kina niemego**\n\n• Wykład prof. Nataszy Korczarowskiej-Różyckiej\n\n• Mocny człowiek (1929), 78’\n\nreżyseria: Henryk Szaro\n\n• Europa (1932), 12’\n\nreżyseria: Franciszka Themerson, Stefan Themerson\n\n**Bilet: 15 zł. Karnet: 150 zł**\n\n****Facebook****\n\n****Instagram****",
+      "image": "https://uml.lodz.pl/files/public/_processed_/b/8/csm_Akademia_Polskiego_Filmu_f4e7bb569b.png",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "Muzeum Kinematografii w Łodzi (Łódź, plac Zwycięstwa 1)",
+        "district": "Widzew"
+      },
+      "district": "Widzew",
+      "date": "2026-11-09T17:00:00+01:00",
+      "end_date": "2026-11-09T17:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/akademia-polskiego-filmu-w-muzeum-kinematografii-1-id182560/2026/11/9/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/akademia-polskiego-filmu-w-muzeum-kinematografii-1-id182560/2026/11/9/",
+      "scrapped_timestamp": "2026-10-20T11:30:14.754326+00:00",
+      "category": "Cinema",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Akademia Polskiego Filmu w Muzeum Kinematografii",
+          "description": "Zajęcia odbywają się raz w tygodniu, w poniedziałki, składają się z godzinnych wykładów filmoznawców i specjalistów z polskich ośrodków naukowych oraz projekcji dwóch filmów (pełno- i krótkometrażowego).\n\n**Artystyczne poszukiwania kina niemego**\n\n• Wykład prof. Nataszy Korczarowskiej-Różyckiej\n\n• Mocny człowiek (1929), 78’\n\nreżyseria: Henryk Szaro\n\n• Europa (1932), 12’\n\nreżyseria: Franciszka Themerson, Stefan Themerson\n\n**Bilet: 15 zł. Karnet: 150 zł**\n\n****Facebook****\n\n****Instagram****"
+        },
+        "en": {
+          "title": "Academy of Polish Film at the Museum of Cinematography",
+          "description": "Classes take place once a week, on Mondays, consisting of hour-long lectures by film scholars and specialists from Polish scientific centers, as well as screenings of two films (feature and short).\n\n**Artistic explorations of silent cinema**\n\n• Lecture by Prof. Natasza Korczarowska-Różycka\n\n• Strong Man (1929), 78’\n\ndirected by: Henryk Szaro\n\n• Europe (1932), 12’\n\ndirected by: Franciszka Themerson, Stefan Themerson\n\n**Ticket: 15 PLN. Pass: 150 PLN**\n\n****Facebook****\n\n****Instagram****"
+        },
+        "uk": {
+          "title": "Академія Польського Кіно в Музеї Кінематографії",
+          "description": "Заняття відбуваються раз на тиждень, в понеділок, складаються з годинних лекцій фільмознавців і спеціалістів з польських наукових центрів, а також проекцій двох фільмів (повнометражного і короткометражного).\n\n**Художні пошуки німого кіно**\n\n• Лекція проф. Наташі Корчаровської-Розіцької\n\n• Могутня людина (1929), 78’\n\nрежисер: Генрик Шаро\n\n• Європа (1932), 12’\n\nрежисер: Францішка Темерсон, Стефан Темерсон\n\n**Квиток: 15 зл. Абонемент: 150 зл**\n\n****Facebook****\n\n****Instagram****"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873525+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2026-11-10T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2026-11-10T10:00:00+01:00",
+      "end_date": "2026-11-10T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/11/10/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/11/10/",
+      "scrapped_timestamp": "2026-10-20T11:30:21.052353+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The largest miniature Christmas town in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873547+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2026-11-17T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2026-11-17T10:00:00+01:00",
+      "end_date": "2026-11-17T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/11/17/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/11/17/",
+      "scrapped_timestamp": "2026-10-20T11:30:24.601488+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The largest miniature Christmas town in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873568+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2026-11-24T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2026-11-24T10:00:00+01:00",
+      "end_date": "2026-11-24T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/11/24/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/11/24/",
+      "scrapped_timestamp": "2026-10-20T11:30:28.213728+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The largest miniature Christmas town in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873588+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2026-12-01T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2026-12-01T10:00:00+01:00",
+      "end_date": "2026-12-01T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/12/1/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/12/1/",
+      "scrapped_timestamp": "2026-10-20T11:30:31.962663+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The largest miniature Christmas town in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873608+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2026-12-08T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2026-12-08T10:00:00+01:00",
+      "end_date": "2026-12-08T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/12/8/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/12/8/",
+      "scrapped_timestamp": "2026-10-20T11:30:35.613415+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The largest miniature Christmas town in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873628+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2026-12-15T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2026-12-15T10:00:00+01:00",
+      "end_date": "2026-12-15T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/12/15/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/12/15/",
+      "scrapped_timestamp": "2026-10-20T11:30:39.335601+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The largest miniature Christmas town in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873647+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2026-12-22T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2026-12-22T10:00:00+01:00",
+      "end_date": "2026-12-22T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/12/22/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/12/22/",
+      "scrapped_timestamp": "2026-10-20T11:30:42.632758+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The largest miniature Christmas town in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873667+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2026-12-29T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2026-12-29T10:00:00+01:00",
+      "end_date": "2026-12-29T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/12/29/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2026/12/29/",
+      "scrapped_timestamp": "2026-10-20T11:30:46.074545+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The largest Christmas miniature town in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873686+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2027-01-05T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2027-01-05T10:00:00+01:00",
+      "end_date": "2027-01-05T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2027/1/5/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2027/1/5/",
+      "scrapped_timestamp": "2026-10-20T11:30:49.677113+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The largest Christmas miniature town in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873706+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2027-01-12T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2027-01-12T10:00:00+01:00",
+      "end_date": "2027-01-12T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2027/1/12/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2027/1/12/",
+      "scrapped_timestamp": "2026-10-20T11:30:53.519544+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The largest miniature Christmas town in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873724+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2027-01-19T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2027-01-19T10:00:00+01:00",
+      "end_date": "2027-01-19T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2027/1/19/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2027/1/19/",
+      "scrapped_timestamp": "2026-10-20T11:30:56.980380+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The Largest Christmas Town Miniature in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to reserve tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873744+00:00"
+    },
+    "najwi-ksza-w-polsce-miniatura-wi-tecznego-miasteczka-w-bohoart-cafe-2027-01-26T10:00:00+01:00": {
+      "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+      "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””",
+      "image": "https://uml.lodz.pl/files/public/_processed_/5/3/csm_849773695_1427301189528232_4615477332780556099_n_1e19925ae7.jpg",
+      "source": "uml.lodz.pl",
+      "location": {
+        "name": "BohoArt Cafe (Łódź, ul. Rewolucji 1905 roku 2)"
+      },
+      "date": "2027-01-26T10:00:00+01:00",
+      "end_date": "2027-01-26T10:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2027/1/26/",
+      "scrapped_url": "https://uml.lodz.pl/kalendarz-wydarzen/wydarzenie/najwieksza-w-polsce-miniatura-swiatecznego-miasteczka-w-bohoart-cafe-id182752/2027/1/26/",
+      "scrapped_timestamp": "2026-10-20T11:31:00.690535+00:00",
+      "category": "Seasonal Festival",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Największa w Polsce miniatura świątecznego miasteczka w BohoArt Cafe",
+          "description": "Wystawa czynna będzie od 10 listopada do 30 stycznia 2027.\n Gorąco zachęcamy do rezerwacji biletów pod nr 692 476 892\n\nWięcej informacji\n\nBohoArt Cafe\n\n„Gllama-Studio””"
+        },
+        "en": {
+          "title": "The Largest Christmas Town Miniature in Poland at BohoArt Cafe",
+          "description": "The exhibition will be open from November 10 to January 30, 2027.\n We warmly encourage you to book tickets at 692 476 892\n\nMore information\n\nBohoArt Cafe\n\n\"Gllama-Studio\""
+        },
+        "uk": {
+          "title": "Найбільша в Польщі мініатюра святкового містечка в BohoArt Cafe",
+          "description": "Вистава чинна буде з 10 листопада до 30 січня 2027.\n Горяче закликаємо до резервування квитків під номером 692 476 892\n\nБільше інформації\n\nBohoArt Cafe\n\n„Gllama-Studio”"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-20T11:31:42.873763+00:00"
+    },
+    "ko-ysanka-dla-myszy-spektakl-w-teatrze-arlekin-2026-10-20T09:00:00+02:00": {
+      "title": "„Kołysanka dla myszy” – spektakl w Teatrze Arlekin",
+      "date": "2026-10-20T09:00:00+02:00",
+      "end_date": "2026-10-20T09:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "„Kołysanka dla myszy” to spektakl dla widzów powyżej 4. roku życia o lękach, które utrudniają zasypianie. Juli, kilkuletni chłopiec, otrzymuje wskazówki od Księżyca, Wiatru i Kota. Przedstawienie w ciepły i przewrotny sposób pomaga najmłodszym oswajać nocne niepokoje.\n\nTekst skonsultowano z psychologiem. Spektakl wykorzystuje kojące dźwięki i różnorodne formy lalkowe; twórcy zadbali o przyjazny dla ucha i oka charakter przedstawienia.\n\nBilety można kupić mailowo, telefonicznie, online lub w kasie Teatru Arlekin. Rezerwacje: 690 466 513 lub 695 087 008, także w weekendy. E-mail: biletyrezerwacja@teatrarlekin.pl. Teatr można znaleźć na Facebooku i Instagramie.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d68e90f8-d0d1-4475-8704-cb6cf30cb798/317c0c5f-0942-433b-8b09-95ff801ada09.jpg",
+      "location": {
+        "name": "Teatr Lalek Arlekin im. Henryka Ryla w Łodzi (ul. Wólczańska 5)",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/kolysanka-dla-myszy-spektakl-w-teatrze-arlekin-d68e90f8-d0d1-4475-8704-cb6cf30cb798",
+      "source": "simplygo.pl",
+      "age_hint": "4-18",
+      "age_range": {
+        "min": 4,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/kolysanka-dla-myszy-spektakl-w-teatrze-arlekin-d68e90f8-d0d1-4475-8704-cb6cf30cb798",
+      "scrapped_timestamp": "2026-10-20T11:31:04.552517+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "„Kołysanka dla myszy” – spektakl w Teatrze Arlekin",
+          "description": "„Kołysanka dla myszy” to spektakl dla widzów powyżej 4. roku życia o lękach, które utrudniają zasypianie. Juli, kilkuletni chłopiec, otrzymuje wskazówki od Księżyca, Wiatru i Kota. Przedstawienie w ciepły i przewrotny sposób pomaga najmłodszym oswajać nocne niepokoje.\n\nTekst skonsultowano z psychologiem. Spektakl wykorzystuje kojące dźwięki i różnorodne formy lalkowe; twórcy zadbali o przyjazny dla ucha i oka charakter przedstawienia.\n\nBilety można kupić mailowo, telefonicznie, online lub w kasie Teatru Arlekin. Rezerwacje: 690 466 513 lub 695 087 008, także w weekendy. E-mail: biletyrezerwacja@teatrarlekin.pl. Teatr można znaleźć na Facebooku i Instagramie."
+        },
+        "en": {
+          "title": "\"Lullaby for Mice\" – a performance at the Arlekin Theatre",
+          "description": "\"Lullaby for Mice\" is a performance for audiences aged 4 and above about fears that hinder falling asleep. Juli, a young boy, receives guidance from the Moon, the Wind, and the Cat. The show helps the youngest children to tame their nighttime anxieties in a warm and ironic way.\n\nThe text has been consulted with a psychologist. The performance uses soothing sounds and various puppet forms; the creators have ensured a pleasant experience for both the ear and the eye.\n\nTickets can be purchased via email, phone, online, or at the Arlekin Theatre box office. Reservations: 690 466 513 or 695 087 008, also on weekends. Email: biletyrezerwacja@teatrarlekin.pl. The theatre can be found on Facebook and Instagram."
+        },
+        "uk": {
+          "title": "„Колискова для миші” – спектакль у Театрі Арлекін",
+          "description": "„Колискова для миші” – це спектакль для глядачів старше 4 років про страхи, які ускладнюють засинання. Юлі, кількарічний хлопчик, отримує підказки від Місяця, Вітру та Кота. Вистава в теплий і перевернутий спосіб допомагає найменшим освоювати нічні тривоги.\n\nТекст погоджено з психологом. Спектакль використовує заспокійливі звуки та різноманітні лялькові форми; творці подбали про дружній для вуха та ока характер вистави.\n\nКвитки можна купити електронною поштою, телефоном, онлайн або в касі Театру Арлекін. Резервування: 690 466 513 або 695 087 008, також у вихідні. Електронна пошта: biletyrezerwacja@teatrarlekin.pl. Театр можна знайти на Facebook та Instagram."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-20T11:31:42.873785+00:00"
+    },
+    "skarb-kapitana-haka-spektakl-dla-dzieci-2026-11-19T10:00:00+01:00": {
+      "title": "Skarb Kapitana Haka – spektakl dla dzieci",
+      "date": "2026-11-19T10:00:00+01:00",
+      "end_date": "2026-11-19T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Na redzie niewielkiego portu w Indiach stoi opuszczony galeon. Na pokład wchodzi Wanda Kowalska, dama z Polski, która chce wynająć statek na daleką, pełną tajemnic podróż.\n\nOkazuje się, że statek w przeszłości należał do wielkiego pirata – Kapitana Haka. Wanda postanawia wyruszyć wraz z piratami w wyprawę, podczas której załoga zwiedzi różne lądy i pozna zwyczaje ich mieszkańców. Poszukiwanie tytułowego Skarbu Kapitana Haka odbywa się z udziałem młodych widzów.\n\nSpektakl dla widzów w wieku 4-12 lat.\n\nRezerwacje: telefonicznie pod numerem 887 800 002 lub przez wiadomość prywatną na Facebooku.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/0216e14b-4b3d-4c54-bf4d-7ac2c31973d0/65939b81-2ff2-4dba-9671-8fb2c21034d6.jpg",
+      "location": {
+        "name": "Teatr Piccolo (Łódź, ul. Tuwima 34)",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/skarb-kapitana-haka-spektakl-dla-dzieci-0216e14b-4b3d-4c54-bf4d-7ac2c31973d0",
+      "source": "simplygo.pl",
+      "age_hint": "4-12",
+      "age_range": {
+        "min": 4,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/lodz/dla-dzieci/wydarzenie/skarb-kapitana-haka-spektakl-dla-dzieci-0216e14b-4b3d-4c54-bf4d-7ac2c31973d0",
+      "scrapped_timestamp": "2026-10-20T11:31:10.518971+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Skarb Kapitana Haka – spektakl dla dzieci",
+          "description": "Na redzie niewielkiego portu w Indiach stoi opuszczony galeon. Na pokład wchodzi Wanda Kowalska, dama z Polski, która chce wynająć statek na daleką, pełną tajemnic podróż.\n\nOkazuje się, że statek w przeszłości należał do wielkiego pirata – Kapitana Haka. Wanda postanawia wyruszyć wraz z piratami w wyprawę, podczas której załoga zwiedzi różne lądy i pozna zwyczaje ich mieszkańców. Poszukiwanie tytułowego Skarbu Kapitana Haka odbywa się z udziałem młodych widzów.\n\nSpektakl dla widzów w wieku 4-12 lat.\n\nRezerwacje: telefonicznie pod numerem 887 800 002 lub przez wiadomość prywatną na Facebooku."
+        },
+        "en": {
+          "title": "Captain Haka's Treasure – a show for children",
+          "description": "In the anchorage of a small port in India stands an abandoned galleon. On board steps Wanda Kowalska, a lady from Poland, who wants to rent the ship for a long, mysterious journey.\n\nIt turns out that the ship once belonged to a great pirate – Captain Haka. Wanda decides to embark on an expedition with the pirates, during which the crew will explore various lands and learn about the customs of their inhabitants. The search for the titular Captain Haka's Treasure involves young viewers.\n\nA show for audiences aged 4-12.\n\nReservations: by phone at 887 800 002 or via private message on Facebook."
+        },
+        "uk": {
+          "title": "Скарб Капітана Хака – спектакль для дітей",
+          "description": "На реді невеликого порту в Індії стоїть покинутий галеон. На борт заходить Ванда Ковальська, дама з Польщі, яка хоче орендувати корабель на далеку, сповнену таємниць подорож.\n\nОказується, що корабель в минулому належав великому пірату – Капітану Хаку. Ванда вирішує вирушити разом з піратами в експедицію, під час якої команда відвідає різні землі та познайомиться з звичаями їхніх мешканців. Пошук титульного Скарбу Капітана Хака відбувається за участю молодих глядачів.\n\nСпектакль для глядачів віком 4-12 років.\n\nРезервування: телефонічно за номером 887 800 002 або через приватне повідомлення на Facebook."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-20T11:31:42.873805+00:00"
     }
   }
 }

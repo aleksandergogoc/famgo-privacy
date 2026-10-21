@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:37:30.669339+00:00",
+  "updated_at": "2026-10-21T12:01:45.221908+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9321,6 +9321,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-20T11:22:41.229619+00:00"
+    },
+    "ośrodek edukacji kulturalnej „sadyba”": {
+      "name": "ul. Korczyńska 6, Warszawa",
+      "district": "Ursynów",
+      "address": "ul. Korczyńska 6, Warszawa",
+      "normalized": "ośrodek edukacji kulturalnej „sadyba”",
+      "lat": 52.174,
+      "lng": 21.045,
+      "updated_at": "2026-10-21T11:33:33.506482+00:00"
+    },
+    "państwowe muzeum etnograficzne w warszawie ul. kredytowa 1": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "państwowe muzeum etnograficzne w warszawie ul. kredytowa 1",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-10-21T11:33:49.568409+00:00"
+    },
+    "brzeska 20": {
+      "name": "Brzeska 20, Galeria Brzeska_20",
+      "district": "Praga-Północ",
+      "address": "Brzeska 20, Galeria Brzeska_20",
+      "normalized": "brzeska 20",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-21T11:39:33.402981+00:00"
+    },
+    "warszawa ośrodek sportu i rekreacji dzielnicy śródmieście m.st. warszawy": {
+      "name": "Warszawa Ośrodek Sportu i Rekreacji Dzielnicy Śródmieście m.st. Warszawy, ul. Polna 7A",
+      "district": "Śródmieście",
+      "address": "Warszawa Ośrodek Sportu i Rekreacji Dzielnicy Śródmieście m.st. Warszawy, ul. Polna 7A",
+      "normalized": "warszawa ośrodek sportu i rekreacji dzielnicy śródmieście m.st. warszawy",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-21T11:39:33.403463+00:00"
+    },
+    "wck filia murowanka": {
+      "name": "WCK Filia Murowanka, ul. Płowiecka 77",
+      "district": "Wawer",
+      "address": "WCK Filia Murowanka, ul. Płowiecka 77",
+      "normalized": "wck filia murowanka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-21T11:39:33.403954+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T11:19:10.607048+00:00",
+  "updated_at": "2026-10-21T11:44:06.431001+00:00",
   "events": {
     "fajnie-si-sk-ada-zlot-fan-w-klock-w-od-fan-w-dla-fan-w-2026-12-07T10:00:00": {
       "scrapped_timestamp": "2026-06-29T12:56:13.475074+00:00",
@@ -1312,39 +1312,42 @@
       "updated_at": "2026-09-07T12:12:45.441578+00:00"
     },
     "spoko-loko-koncert-dla-dzieci-2026-11-15T12:00:00+01:00": {
-      "title": "Spoko Loko – koncert dla dzieci",
+      "title": "Spoko Loko - koncert dla dzieci",
       "date": "2026-11-15T12:00:00+01:00",
       "end_date": "2026-11-15T12:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124/a22526ca-81c9-4f07-83ed-028c1fd7dba3.jpg",
+      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
+      "image": "https://assets.kupbilecik.pl/img/baza/8000/7104.webp?1788766325",
+      "url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
       "location": {
-        "name": "Centrum Kultury Nowy Pafawag, ul. Chociebuska 4-6, 54-433 Wrocław",
+        "name": "Centrum Kultury Nowy Pafawag",
+        "address": "ul. Chociebuska 4-6",
+        "lat": 51.115767,
+        "lng": 16.958181,
         "district": "Fabryczna"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "source": "simplygo.pl",
-      "age_hint": "2-8",
-      "age_range": {
-        "min": 2,
-        "max": 8
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "scrapped_timestamp": "2026-10-20T11:25:47.274455+00:00",
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-10-21T11:41:23.100578+00:00",
       "category": "Music & Dance",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Spoko Loko – koncert dla dzieci",
-          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
+          "title": "Spoko Loko - koncert dla dzieci",
+          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
         },
         "en": {
-          "title": "Spoko Loko – concert for children",
-          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They have prepared a unique, one-hour show during which children will be able to dance and sing along with the band. Classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\" will be performed, as well as new hits like \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will also feature soap bubbles, riddles, and other surprises that will remain a mystery for now! Spoko Loko consists of Kasia, Mati, and Ola, who have already gathered several tens of millions of views on their YouTube channel. Satisfied parents' reviews speak for themselves - join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n* Children under 2 years old free admission (dz"
+          "title": "Spoko Loko - concert for children",
+          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They have prepared a unique, one-hour show during which children will be able to dance and sing along with the band. Classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\" will be sung, as well as new hits like \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will also feature soap bubbles, riddles, and other surprises that will remain a mystery for now! Spoko Loko consists of Kasia, Mati, and Ola, who have already gathered several tens of millions of views on their YouTube channel. Satisfied parents' reviews speak for themselves - join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n\n* Children under 2 years old have free admission (d"
         },
         "uk": {
-          "title": "Spoko Loko – концерт для дітей",
-          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Приготували унікальне, годинне шоу, під час якого діти зможуть танцювати та співати разом з командою. Засяють класики, такі як \"Танці Поламайці\", \"Чу чу ля\" та \"Тіла форма\", але також нові хіти, такі як \"Ідемо через джунглі\" та \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko - це Касія, Марті та Оля, які на своєму каналі YouTube зібрали вже кілька десятків мільйонів переглядів. Відгуки задоволених батьків говорять самі за себе - приєднуйтесь до нас і дайте себе захопити у божевільний світ Spoko Loko! Після концерту також буде можливість зробити фото з командою.\n* Діти до 2 років - вхід безкоштовний (д"
+          "title": "Spoko Loko - концерт для дітей",
+          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Приготували унікальне, годинне шоу, під час якого діти зможуть танцювати і співати разом з гуртом. Засяють класики, такі як \"Танці Поламайці\", \"Чу чу ля\" і \"Тіла форма\", але також нові хіти, такі як \"Ідемо через джунглі\" і \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko - це Касія, Марті і Оля, які на своєму каналі YouTube зібрали вже кілька десятків мільйонів переглядів. Відгуки задоволених батьків говорять самі за себе - приєднуйтесь до нас і дайте себе захопити у божевільний світ Spoko Loko! Після концерту також буде можливість зробити фото з гуртом.\n\n* Діти до 2 років - вхід безкоштовний (д"
         }
       },
       "admission": {
@@ -1352,7 +1355,7 @@
         "ticket_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604"
       },
       "district": "Fabryczna",
-      "updated_at": "2026-10-20T11:26:01.531043+00:00"
+      "updated_at": "2026-10-21T11:44:06.263762+00:00"
     },
     "historia-detektywistyczna-2026-11-08T10:00:00+01:00": {
       "title": "HISTORIA DETEKTYWISTYCZNA!",
@@ -6643,43 +6646,46 @@
       "updated_at": "2026-10-19T12:47:34.950485+00:00"
     },
     "starsze-gadu-y-warsztaty-logopedyczne-dla-dzieci-4-6-lat-2026-11-18T16:00:00+01:00": {
-      "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
+      "title": "Starsze Gaduły – warsztaty logopedyczne dla dzieci 4–6 lat",
       "date": "2026-11-18T16:00:00+01:00",
       "end_date": "2026-11-18T16:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-f9ca0308ac11000216fab36b537c7ca5/undefinedundefined",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
-      "source": "wroclaw.pl",
+      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą. „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbywają się w przyjaznej atmosferze, sprzyjającej zdobywaniu nowych umiejętności.\n\nInformacje organizacyjne\n\n• Nazwa zajęć: Starsze Gaduły\n• Dla kogo: dzieci w wieku 4–6 lat wraz z rodzicami\n• Prowadząca: Marta Czajkowska, neurologopeda dziecięcy\n• Charakter zajęć: warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9/692295e6-947d-4ffb-9faa-77f1574861d8.jpg",
       "location": {
-        "name": "Przedszkole Columb"
+        "name": "Przedszkole Columb, Wrocław",
+        "district": "Śródmieście"
       },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
-      "scrapped_timestamp": "2026-10-19T12:46:35.624205+00:00",
-      "category": "Workshops",
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/starsze-gaduly-warsztaty-logopedyczne-dla-dzieci-4-6-lat-c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9",
+      "source": "simplygo.pl",
+      "age_hint": "4-6",
       "age_range": {
         "min": 4,
         "max": 6
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/starsze-gaduly-warsztaty-logopedyczne-dla-dzieci-4-6-lat-c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9",
+      "scrapped_timestamp": "2026-10-21T11:43:59.000929+00:00",
+      "category": "Workshops",
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
-          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+          "title": "Starsze Gaduły – warsztaty logopedyczne dla dzieci 4–6 lat",
+          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą. „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbywają się w przyjaznej atmosferze, sprzyjającej zdobywaniu nowych umiejętności.\n\nInformacje organizacyjne\n\n• Nazwa zajęć: Starsze Gaduły\n• Dla kogo: dzieci w wieku 4–6 lat wraz z rodzicami\n• Prowadząca: Marta Czajkowska, neurologopeda dziecięcy\n• Charakter zajęć: warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe"
         },
         "en": {
-          "title": "Older Chatterboxes - Speech Therapy Workshops for Children Aged 4-6",
-          "description": "Playing with words, sounds, and phonemes can be a great adventure! \"Older Chatterboxes\" is a speech therapy workshop for children aged 4–6, during which movement and creative activities help develop communication skills. It is also an opportunity to spend time together and discover new ways to play with language.\n\nLearning to Speak Through Play\n\nDuring the workshops, children will practice speech, play with sounds and words, and develop skills needed for everyday communication. Engaging tasks and movement will make learning a natural part of shared fun.\n\nJoint Discovery with Parents\n\nParents also actively participate in the activities. This way, they learn simple exercises and ideas that can be used daily to support their child's speech development. The workshops will take place in"
+          "title": "Older Chatterboxes – Speech Therapy Workshops for Children Aged 4–6",
+          "description": "Playing with words, sounds, and syllables can be a great adventure. \"Older Chatterboxes\" is a speech therapy workshop for children aged 4–6, during which movement and creative activities help develop communication skills. It is also an opportunity to spend time together and discover new ways to play with language.\n\nLearning to Speak Through Play\n\nDuring the workshops, children will practice speech, play with sounds and words, and develop skills needed for everyday communication. Engaging tasks and movement will make learning a natural part of shared fun.\n\nJoint Discovery with Parents\n\nParents also actively participate in the activities. They will learn simple exercises and ideas that can be used daily to support their child's speech development. The workshops take place in a friendly"
         },
         "uk": {
-          "title": "Старші Гадулі - логопедичні майстер-класи для дітей 4-6 років",
-          "description": "Гра зі словами, звуками та складів може бути чудовою пригодою! \"Старші Гадулі\" - це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і креативні активності допомагають розвивати комунікативні навички. Це також можливість провести час разом і відкривати нові способи гратися мовою.\n\nНавчання говорити через гру\n\nПід час майстер-класів діти будуть вправлятися у мовленні, гратися зі звуками та словами, а також розвивати навички, необхідні в повсякденному спілкуванні. Залучаючі завдання та рух зроблять навчання природною частиною спільної гри.\n\nСпільне відкриття з батьками\n\nУ заняттях активно беруть участь також батьки. Завдяки цьому вони знайомляться з простими вправами та ідеями, які можна використовувати щодня, щоб підтримувати розвиток мовлення дитини. Майстер-класи відбудуться в"
+          "title": "Старші Гадулі – логопедичні майстер-класи для дітей 4–6 років",
+          "description": "Гра зі словами, звуками та складів може бути чудовою пригодою. \"Старші Гадулі\" – це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і креативні активності допомагають розвивати комунікативні навички. Це також можливість провести час разом і відкривати нові способи гратися мовою.\n\nНавчання говорити через гру\n\nПід час майстер-класів діти будуть вправлятися в мові, гратися зі звуками та словами, а також розвивати навички, необхідні в повсякденному спілкуванні. Захоплюючі завдання та рух зроблять навчання природною частиною спільної гри.\n\nСпільне відкриття з батьками\n\nУ заняттях активно беруть участь також батьки. Вони знайомляться з простими вправами та ідеями, які можна використовувати щодня, щоб підтримувати розвиток мови дитини. Майстер-класи проходять у дружній"
         }
       },
       "admission": {
-        "is_free": true
+        "is_free": false
       },
-      "updated_at": "2026-10-19T12:47:34.950506+00:00"
+      "district": "Śródmieście",
+      "updated_at": "2026-10-21T11:44:06.264333+00:00"
     },
     "santa-claus-festival-2026-festiwal-wi-tego-miko-aja-2026-12-05T09:00:00+01:00": {
       "title": "Santa Claus Festival 2026 - Festiwal Świętego Mikołaja",
@@ -7246,6 +7252,838 @@
       },
       "district": "Krzyki",
       "updated_at": "2026-10-20T11:26:01.531064+00:00"
+    },
+    "joga-dla-dzieci-2026-11-03T17:00:00+01:00": {
+      "title": "Joga dla dzieci",
+      "date": "2026-11-03T17:00:00+01:00",
+      "end_date": "2026-11-03T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Joga dla dzieci we Wrocławiu – ruch, zabawa i relaks\n\n**Joga dla dzieci** to twórcze połączenie **ruchu, zabawy i relaksu**, które wspiera rozwój fizyczny i emocjonalny najmłodszych. Warsztaty prowadzone są w oparciu o metodę **Animal Kids Yoga**, czyli jogę przez zabawę. Dzięki temu ćwiczenia są dla dzieci **ciekawe, angażujące i dostosowane do ich wieku**.\n\nTo doskonała propozycja dla rodziców szukających wartościowych zajęć z kategorii **wydarzenia Wrocław** i **co robić we Wrocławiu z dzieckiem**.\n\nDla kogo są zajęcia?\n\nZajęcia przeznaczone są dla:\n\n• **dzieci w wieku 7–12 lat**,\n\n• uczniów szkół podstawowych,\n\n• dzieci, które lubią ruch, zabawę i kreatywne formy aktywności.\n\nJak zapisać dziecko na jogę?\n\n• Dziecko zapisywane jest **na cały cykl zajęć**, realizowany **regularnie aż do czerwca**,\n\n• Nie ma możliwości zapisu na pojedyncze spotkanie – prosimy o **przemyślane decyzje**,\n\n• **Zajęcia są płatne** – opłata wynosi **20 zł miesięcznie**.\n\nZapisy poprzez formularz - link",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-1a05b403ac11000265bef74636ba2e09/pobrane.jfif",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1404860-joga-dla-dzieci",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "CAL Szczepin Zachodnia 1, Wrocław 53-643",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1404860-joga-dla-dzieci",
+      "scrapped_timestamp": "2026-10-21T11:41:30.692606+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 7,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Joga dla dzieci",
+          "description": "Joga dla dzieci we Wrocławiu – ruch, zabawa i relaks\n\n**Joga dla dzieci** to twórcze połączenie **ruchu, zabawy i relaksu**, które wspiera rozwój fizyczny i emocjonalny najmłodszych. Warsztaty prowadzone są w oparciu o metodę **Animal Kids Yoga**, czyli jogę przez zabawę. Dzięki temu ćwiczenia są dla dzieci **ciekawe, angażujące i dostosowane do ich wieku**.\n\nTo doskonała propozycja dla rodziców szukających wartościowych zajęć z kategorii **wydarzenia Wrocław** i **co robić we Wrocławiu z dzieckiem**.\n\nDla kogo są zajęcia?\n\nZajęcia przeznaczone są dla:\n\n• **dzieci w wieku 7–12 lat**,\n\n• uczniów szkół podstawowych,\n\n• dzieci, które lubią ruch, zabawę i kreatywne formy aktywności.\n\nJak zapisać dziecko na jogę?\n\n• Dziecko zapisywane jest **na cały cykl zajęć**, realizowany **regularnie aż do czerwca**,\n\n• Nie ma możliwości zapisu na pojedyncze spotkanie – prosimy o **przemyślane decyzje**,\n\n• **Zajęcia są płatne** – opłata wynosi **20 zł miesięcznie**.\n\nZapisy poprzez formularz - link"
+        },
+        "en": {
+          "title": "Yoga for Children",
+          "description": "Yoga for children in Wrocław – movement, fun, and relaxation\n\n**Yoga for children** is a creative combination of **movement, fun, and relaxation** that supports the physical and emotional development of the youngest. The workshops are based on the **Animal Kids Yoga** method, which means yoga through play. Thanks to this, the exercises are **interesting, engaging, and tailored to their age**.\n\nThis is an excellent proposal for parents looking for valuable activities in the category of **Wrocław events** and **what to do in Wrocław with a child**.\n\nWho are the classes for?\n\nThe classes are intended for:\n\n• **children aged 7–12 years**,  \n• primary school students,  \n• children who enjoy movement, fun, and creative forms of activity.\n\nHow to enroll a child in yoga?\n\n• The child is enrolled **for the entire cycle of classes**, conducted **regularly until"
+        },
+        "uk": {
+          "title": "Йога для дітей",
+          "description": "Йога для дітей у Вроцлаві – рух, гра та релакс\n\n**Йога для дітей** – це творче поєднання **руху, гри та релаксації**, яке підтримує фізичний та емоційний розвиток наймолодших. Майстер-класи проводяться на основі методу **Animal Kids Yoga**, тобто йоги через гру. Завдяки цьому вправи є для дітей **цікавими, залучаючими та адаптованими до їхнього віку**.\n\nЦе відмінна пропозиція для батьків, які шукають цінні заняття з категорії **події Вроцлава** та **що робити у Вроцлаві з дитиною**.\n\nДля кого призначені заняття?\n\nЗаняття призначені для:\n\n• **дітей віком 7–12 років**,  \n\n• учнів початкових шкіл,  \n\n• дітей, які люблять рух, гру та креативні форми активності.\n\nЯк записати дитину на йогу?\n\n• Дитина записується **на весь цикл занять**, що реалізується **регулярно до"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-21T11:44:06.263803+00:00"
+    },
+    "ma-e-gadu-y-warsztaty-logopedyczne-dla-dzieci-0-3-2026-10-27T15:00:00+01:00": {
+      "title": "Małe Gaduły - warsztaty logopedyczne dla dzieci 0-3",
+      "date": "2026-10-27T15:00:00+01:00",
+      "end_date": "2026-10-27T15:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Każde dziecko ma coś do powiedzenia – nawet jeśli dopiero poznaje pierwsze dźwięki i gesty! „Małe Gaduły” to spotkania dla rodziców i maluchów, podczas których wspólna zabawa staje się okazją do odkrywania świata komunikacji. Będzie muzyka, ruch, zabawy logopedyczne i mnóstwo okazji do budowania bliskości.\n\nZabawa, która wspiera rozwój mowy\n\nPodczas zajęć dzieci poznają dźwięki, gesty i słowa poprzez aktywności dostosowane do ich wieku. Zabawy logopedyczne, muzyka i ruch pomagają rozwijać umiejętności komunikacyjne w przyjaznej, swobodnej atmosferze.\n\nPierwsze kroki w świecie komunikacji\n\n„Małe Gaduły” to także okazja dla rodziców, by aktywnie uczestniczyć w zabawie i dowiedzieć się, jak wspierać rozwój mowy dziecka na co dzień. Proste pomysły i wspólne aktywności można później wykorzystać również w domu.\n\nZajęcia prowadzą specjaliści z zespołu logopedów i neurologopedów dziecięcych. Dobór prowadzącego zależy od lokalizacji.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Małe Gaduły\n\n• **Dla kogo:** rodzice z dziećmi w wieku 0–3 lat\n\n• **Prowadzący:** specjaliści z zespołu logopedów i neurologopedów dziecięcych\n\n• **Program:** zabawy logopedyczne, gesty, dźwięki, ruch i muzyka\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-11d96924ac11000216fab36b53780435/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417496-male-gaduly",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Przedszkole Magellan Przedszkole Leonardo Przedszkole Kropelka Przedszkole Marco Polo"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417496-male-gaduly",
+      "scrapped_timestamp": "2026-10-21T11:41:37.234523+00:00",
+      "category": "Workshops",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Małe Gaduły - warsztaty logopedyczne dla dzieci 0-3",
+          "description": "Każde dziecko ma coś do powiedzenia – nawet jeśli dopiero poznaje pierwsze dźwięki i gesty! „Małe Gaduły” to spotkania dla rodziców i maluchów, podczas których wspólna zabawa staje się okazją do odkrywania świata komunikacji. Będzie muzyka, ruch, zabawy logopedyczne i mnóstwo okazji do budowania bliskości.\n\nZabawa, która wspiera rozwój mowy\n\nPodczas zajęć dzieci poznają dźwięki, gesty i słowa poprzez aktywności dostosowane do ich wieku. Zabawy logopedyczne, muzyka i ruch pomagają rozwijać umiejętności komunikacyjne w przyjaznej, swobodnej atmosferze.\n\nPierwsze kroki w świecie komunikacji\n\n„Małe Gaduły” to także okazja dla rodziców, by aktywnie uczestniczyć w zabawie i dowiedzieć się, jak wspierać rozwój mowy dziecka na co dzień. Proste pomysły i wspólne aktywności można później wykorzystać również w domu.\n\nZajęcia prowadzą specjaliści z zespołu logopedów i neurologopedów dziecięcych. Dobór prowadzącego zależy od lokalizacji.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Małe Gaduły\n\n• **Dla kogo:** rodzice z dziećmi w wieku 0–3 lat\n\n• **Prowadzący:** specjaliści z zespołu logopedów i neurologopedów dziecięcych\n\n• **Program:** zabawy logopedyczne, gesty, dźwięki, ruch i muzyka\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Little Chatterboxes - Speech Therapy Workshops for Children Aged 0-3",
+          "description": "Every child has something to say – even if they are just getting to know their first sounds and gestures! \"Little Chatterboxes\" are meetings for parents and toddlers, during which shared play becomes an opportunity to discover the world of communication. There will be music, movement, speech therapy games, and plenty of opportunities to build closeness.\n\nPlay that supports speech development\n\nDuring the sessions, children will learn sounds, gestures, and words through activities tailored to their age. Speech therapy games, music, and movement help develop communication skills in a friendly, relaxed atmosphere.\n\nFirst steps in the world of communication\n\n\"Little Chatterboxes\" is also an opportunity for parents to actively participate in play and learn how to support their child's speech development in everyday life. Simple ideas and shared activities can later be used"
+        },
+        "uk": {
+          "title": "Малі Гадулі - логопедичні майстер-класи для дітей 0-3",
+          "description": "Кожна дитина має щось сказати – навіть якщо тільки знайомиться з першими звуками та жестами! \"Малі Гадулі\" – це зустрічі для батьків та малюків, під час яких спільна гра стає нагодою для відкриття світу комунікації. Буде музика, рух, логопедичні ігри та безліч можливостей для побудови близькості.\n\nЗабава, яка підтримує розвиток мови\n\nПід час занять діти знайомляться зі звуками, жестами та словами через активності, адаптовані до їхнього віку. Логопедичні ігри, музика та рух допомагають розвивати комунікативні навички в дружній, невимушеній атмосфері.\n\nПерші кроки у світі комунікації\n\n\"Малі Гадулі\" – це також нагода для батьків активно брати участь у грі та дізнатися, як підтримувати розвиток мови дитини щодня. Прості ідеї та спільні активності можна пізніше використати"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-10-21T11:44:06.263844+00:00"
+    },
+    "halloween-w-bibliotece-warsztaty-dla-dzieci-2026-10-29T17:00:00+01:00": {
+      "title": "Halloween w bibliotece [warsztaty dla dzieci]",
+      "date": "2026-10-29T17:00:00+01:00",
+      "end_date": "2026-10-29T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Dynie, duszki, nietoperze i mnóstwo kreatywnej zabawy – tak zapowiada się Halloween w bibliotece! Podczas specjalnych warsztatów najmłodsi będą mogli własnoręcznie ozdobić **własną torbę na halloweenowe słodycze**. To świetna okazja, by puścić wodze fantazji, stworzyć coś niepowtarzalnego i poczuć klimat zbliżającego się Halloween.\n\nStwórz własną torbę na słodycze\n\nNa małych artystów czeka kolorowa zabawa z halloweenowymi motywami. Każde dziecko będzie mogło samodzielnie zaprojektować i ozdobić torbę, która później przyda się podczas zbierania słodyczy. Dynie, duszki i nietoperze to dopiero początek pomysłów – reszta zależy od dziecięcej wyobraźni!\n\nWarsztaty są skierowane do **dzieci w wieku 5–8 lat wraz z rodzicami**. To propozycja na wspólne, twórcze popołudnie w halloweenowej atmosferze.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** Halloween w bibliotece – warsztaty plastyczne\n\n• **Data:** 29 października 2026 r.\n\n• **Godzina:** 17:00\n\n• **Dla kogo:** dzieci w wieku 5–8 lat z rodzicami\n\n• **Zapisy:** osobiście, telefonicznie pod numerem 71 347 12 81 lub mailowo: [email protected]\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=png/https://go.wroclaw.pl/api/download/img-c8f328b7ac11000252259f6e5959fdef/ms-silent-disco-halloween-kafel.png",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417592-halloween-w-bibliotece",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna - Filia nr 45 Traugutta 82, Wrocław 50-418",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417592-halloween-w-bibliotece",
+      "scrapped_timestamp": "2026-10-21T11:41:44.391793+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 8
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Halloween w bibliotece [warsztaty dla dzieci]",
+          "description": "Dynie, duszki, nietoperze i mnóstwo kreatywnej zabawy – tak zapowiada się Halloween w bibliotece! Podczas specjalnych warsztatów najmłodsi będą mogli własnoręcznie ozdobić **własną torbę na halloweenowe słodycze**. To świetna okazja, by puścić wodze fantazji, stworzyć coś niepowtarzalnego i poczuć klimat zbliżającego się Halloween.\n\nStwórz własną torbę na słodycze\n\nNa małych artystów czeka kolorowa zabawa z halloweenowymi motywami. Każde dziecko będzie mogło samodzielnie zaprojektować i ozdobić torbę, która później przyda się podczas zbierania słodyczy. Dynie, duszki i nietoperze to dopiero początek pomysłów – reszta zależy od dziecięcej wyobraźni!\n\nWarsztaty są skierowane do **dzieci w wieku 5–8 lat wraz z rodzicami**. To propozycja na wspólne, twórcze popołudnie w halloweenowej atmosferze.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** Halloween w bibliotece – warsztaty plastyczne\n\n• **Data:** 29 października 2026 r.\n\n• **Godzina:** 17:00\n\n• **Dla kogo:** dzieci w wieku 5–8 lat z rodzicami\n\n• **Zapisy:** osobiście, telefonicznie pod numerem 71 347 12 81 lub mailowo: [email protected]\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "Halloween at the Library [workshops for children]",
+          "description": "Pumpkins, ghosts, bats, and plenty of creative fun – that's what Halloween at the library looks like! During special workshops, the youngest will be able to decorate **their own Halloween candy bag** by hand. It's a great opportunity to unleash their imagination, create something unique, and feel the spirit of the upcoming Halloween.\n\nCreate your own candy bag\n\nColorful fun with Halloween themes awaits the little artists. Each child will be able to design and decorate a bag by themselves, which will later come in handy while collecting candies. Pumpkins, ghosts, and bats are just the beginning of ideas – the rest depends on the children's imagination!\n\nThe workshops are aimed at **children aged 5–8 years along with their parents**. It's a proposal for a creative afternoon together in a Halloween atmosphere."
+        },
+        "uk": {
+          "title": "Геловін у бібліотеці [майстер-класи для дітей]",
+          "description": "Дині, душки, кажани і безліч креативних розваг – так обіцяє виглядати Геловін у бібліотеці! Під час спеціальних майстер-класів наймолодші зможуть власноруч прикрасити **власну торбу на геловінські солодощі**. Це чудова нагода, щоб пустити в хід фантазію, створити щось неповторне і відчути атмосферу наближаючогося Геловіну.\n\nСтвори власну торбу на солодощі\n\nНа маленьких артистів чекає кольорова розвага з геловінськими мотивами. Кожна дитина зможе самостійно спроектувати і прикрасити торбу, яка потім стане в нагоді під час збору солодощів. Дині, душки і кажани – це лише початок ідей – решта залежить від дитячої уяви!\n\nМайстер-класи спрямовані на **дітей віком 5–8 років разом з батьками**. Це пропозиція на спільне, творче попередження в геловінській атмосфері."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-21T11:44:06.263867+00:00"
+    },
+    "halloween-dla-najm-odszych-w-coffee-planet-2026-10-31T11:00:00+01:00": {
+      "title": "Halloween Dla Najmłodszych w Coffee Planet",
+      "date": "2026-10-31T11:00:00+01:00",
+      "end_date": "2026-10-31T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Halloween to nie tylko zabawa dla dorosłych! 31 października Coffee Planet zaprasza najmłodszych na wyjątkowe spotkanie pełne halloweenowej magii, śmiechu i psot. Małe czarownice, duszki, wampirki i potworki mogą liczyć na świetną zabawę w klimacie jednego z najbardziej upiornych dni w roku.\n\nHalloweenowe zabawy dla najmłodszych\n\nNa dzieci czeka dzień pełen atrakcji, podczas którego nie zabraknie **zabaw z animatorami**, mnóstwa śmiechu i psot oraz strasznie fajnej atmosfery. To okazja, by wspólnie z rodziną poczuć halloweenowy klimat i przeżyć niezapomniane chwile.\n\nPrzebrania mile widziane!\n\nCzarownice, wampiry, duszki i inne halloweenowe stwory są jak najbardziej na miejscu. Im straszniej i śmieszniej, tym lepiej! Warto przygotować kostium i dołączyć do wspólnej zabawy.\n\nInformacje organizacyjne\n\n• **Data:** 31 października 2026 r.\n\n• **Godzina:** 11:00–15:00\n\n• **Miejsce:** Coffee Planet, ul. Księcia Witolda 60, Wrocław\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-11244c41ac1100026a5dff275d317b52/844826666-18644793277050785-9010190169364005770-n.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417687-halloween-dla-najmlodszych-w-coffee-planet",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Coffee Planet Księcia Witolda 60, Wrocław",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417687-halloween-dla-najmlodszych-w-coffee-planet",
+      "scrapped_timestamp": "2026-10-21T11:41:50.459768+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Halloween Dla Najmłodszych w Coffee Planet",
+          "description": "Halloween to nie tylko zabawa dla dorosłych! 31 października Coffee Planet zaprasza najmłodszych na wyjątkowe spotkanie pełne halloweenowej magii, śmiechu i psot. Małe czarownice, duszki, wampirki i potworki mogą liczyć na świetną zabawę w klimacie jednego z najbardziej upiornych dni w roku.\n\nHalloweenowe zabawy dla najmłodszych\n\nNa dzieci czeka dzień pełen atrakcji, podczas którego nie zabraknie **zabaw z animatorami**, mnóstwa śmiechu i psot oraz strasznie fajnej atmosfery. To okazja, by wspólnie z rodziną poczuć halloweenowy klimat i przeżyć niezapomniane chwile.\n\nPrzebrania mile widziane!\n\nCzarownice, wampiry, duszki i inne halloweenowe stwory są jak najbardziej na miejscu. Im straszniej i śmieszniej, tym lepiej! Warto przygotować kostium i dołączyć do wspólnej zabawy.\n\nInformacje organizacyjne\n\n• **Data:** 31 października 2026 r.\n\n• **Godzina:** 11:00–15:00\n\n• **Miejsce:** Coffee Planet, ul. Księcia Witolda 60, Wrocław\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Halloween for the Youngest at Coffee Planet",
+          "description": "Halloween is not just fun for adults! On October 31st, Coffee Planet invites the youngest for a special gathering full of Halloween magic, laughter, and mischief. Little witches, ghosts, vampires, and monsters can count on great fun in the atmosphere of one of the spookiest days of the year.\n\nHalloween fun for the youngest\n\nChildren can look forward to a day full of attractions, during which there will be no shortage of **fun with animators**, plenty of laughter and mischief, and a frightfully cool atmosphere. It's an opportunity to feel the Halloween spirit together with family and experience unforgettable moments.\n\nCostumes are welcome!\n\nWitches, vampires, ghosts, and other Halloween creatures are very much in place. The scarier and funnier, the better! It's worth preparing a costume and joining in the fun.\n\nOrganizational information"
+        },
+        "uk": {
+          "title": "Хелловін для наймолодших у Coffee Planet",
+          "description": "Хелловін — це не лише розвага для дорослих! 31 жовтня Coffee Planet запрошує наймолодших на унікальну зустріч, сповнену хелловінської магії, сміху та пустощів. Маленькі відьми, привиди, вампірчики та монстри можуть розраховувати на чудову розвагу в атмосфері одного з найстрашніших днів у році.\n\nХелловінські розваги для наймолодших\n\nНа дітей чекає день, сповнений атракцій, під час якого не бракуватиме **розваг з аніматорами**, безлічі сміху та пустощів, а також страшно класної атмосфери. Це нагода, щоб разом з родиною відчути хелловінський настрій і пережити незабутні миті.\n\nКостюми вітаються!\n\nВідьми, вампіри, привиди та інші хелловінські створіння цілком доречні. Чим страшніше і смішніше, тим краще! Варто підготувати костюм і приєднатися до спільної розваги.\n\nІнформація орг"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-21T11:44:06.263889+00:00"
+    },
+    "firlej-dzieciom-co-si-nie-przy-ni-o-to-si-nie-wydarzy-spektakl-2026-11-08T12:00:00+01:00": {
+      "title": "Firlej dzieciom: „Co się nie przyśniło, to się nie wydarzy” [spektakl]",
+      "date": "2026-11-08T12:00:00+01:00",
+      "end_date": "2026-11-08T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Czy można opowiedzieć baśń za pomocą słów, muzyki i wyobraźni? Spektakl „Co się nie przyśniło, to się nie wydarzy” zaprasza dzieci do niezwykłego świata snów, w którym nie potrzeba rozbudowanej scenografii ani efektów specjalnych. Wystarczą opowieść, hipnotyzujące dźwięki i odrobina wyobraźni, by odkryć magię ukrytą tuż obok nas.\n\nBaśniowy teatr bez nadmiaru bodźców\n\nAutorski Teatr Opowieści Katarzyny Jackowskiej-Enemuo proponuje najmłodszym spotkanie z teatrem, który stawia na bliskość, spokój i siłę opowieści. Zamiast ekranów i efektownych dekoracji są ludzki głos, cisza oraz muzyka, które wspólnie tworzą obrazy w głowach widzów.\n\nPodczas spektaklu dzieci poznają historię chłopca, którego snu pragnęli najwięksi władcy, oraz magicznego drzewa śniącego cały świat. Będą też mogły podzielić się własnymi marzeniami – dlatego warto przynieść ze sobą swój ulubiony sen!\n\nMuzyczna podróż do krainy wyobraźni\n\nPrzedstawienie jest również niezwykłym koncertem. Katarzyna Jackowska-Enemuo opowiada i śpiewa, grając na akordeonie, bębnie daf oraz afrykańskim ngoni. Towarzyszy jej Mateusz Szemraj, wirtuoz instrumentów strunowych. Publiczność usłyszy na żywo między innymi oud, rubab, cymbały i telenkę.\n\nMuzyka staje się integralną częścią opowieści, prowadząc widzów przez świat niezwykłych bohaterów i zdarzeń. Spektakl porusza także tematy odwagi do bycia sobą, wyrażania emocji i dzielenia się nimi z innymi. To propozycja dla rodzin, które chcą podarować dzieciom wartościowe doświadczenie teatralne pełne spokoju i magii.\n\nInformacje organizacyjne\n\n• **Data:** 8 listopada 2026 r. (niedziela)\n\n• **Godzina:** 12:00\n\n• **Miejsce:** Firlej, Wrocław\n\n• **Wiek:** dzieci od 5. roku życia\n\n• **Czas trwania:** 55 minut\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-6dd5a287ac1100026a5dff275d677f09/732853965-1658204516307614-5645402243506679790-n.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1417693-firlej-dzieciom-co-sie-nie-przysnilo-to-sie-nie-wydarzy-spektakl",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Firlej Grabiszyńska 56, Wrocław 53-504",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1417693-firlej-dzieciom-co-sie-nie-przysnilo-to-sie-nie-wydarzy-spektakl",
+      "scrapped_timestamp": "2026-10-21T11:41:57.079734+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Firlej dzieciom: „Co się nie przyśniło, to się nie wydarzy” [spektakl]",
+          "description": "Czy można opowiedzieć baśń za pomocą słów, muzyki i wyobraźni? Spektakl „Co się nie przyśniło, to się nie wydarzy” zaprasza dzieci do niezwykłego świata snów, w którym nie potrzeba rozbudowanej scenografii ani efektów specjalnych. Wystarczą opowieść, hipnotyzujące dźwięki i odrobina wyobraźni, by odkryć magię ukrytą tuż obok nas.\n\nBaśniowy teatr bez nadmiaru bodźców\n\nAutorski Teatr Opowieści Katarzyny Jackowskiej-Enemuo proponuje najmłodszym spotkanie z teatrem, który stawia na bliskość, spokój i siłę opowieści. Zamiast ekranów i efektownych dekoracji są ludzki głos, cisza oraz muzyka, które wspólnie tworzą obrazy w głowach widzów.\n\nPodczas spektaklu dzieci poznają historię chłopca, którego snu pragnęli najwięksi władcy, oraz magicznego drzewa śniącego cały świat. Będą też mogły podzielić się własnymi marzeniami – dlatego warto przynieść ze sobą swój ulubiony sen!\n\nMuzyczna podróż do krainy wyobraźni\n\nPrzedstawienie jest również niezwykłym koncertem. Katarzyna Jackowska-Enemuo opowiada i śpiewa, grając na akordeonie, bębnie daf oraz afrykańskim ngoni. Towarzyszy jej Mateusz Szemraj, wirtuoz instrumentów strunowych. Publiczność usłyszy na żywo między innymi oud, rubab, cymbały i telenkę.\n\nMuzyka staje się integralną częścią opowieści, prowadząc widzów przez świat niezwykłych bohaterów i zdarzeń. Spektakl porusza także tematy odwagi do bycia sobą, wyrażania emocji i dzielenia się nimi z innymi. To propozycja dla rodzin, które chcą podarować dzieciom wartościowe doświadczenie teatralne pełne spokoju i magii.\n\nInformacje organizacyjne\n\n• **Data:** 8 listopada 2026 r. (niedziela)\n\n• **Godzina:** 12:00\n\n• **Miejsce:** Firlej, Wrocław\n\n• **Wiek:** dzieci od 5. roku życia\n\n• **Czas trwania:** 55 minut\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Firlej for Children: \"What is not Dreamed, Does Not Happen\" [performance]",
+          "description": "Can a fairy tale be told through words, music, and imagination? The performance \"What is not Dreamed, Does Not Happen\" invites children into an extraordinary world of dreams, where elaborate scenery and special effects are not needed. A story, hypnotic sounds, and a bit of imagination are enough to discover the magic hidden right next to us.\n\nFairy tale theater without excessive stimuli\n\nThe original Story Theater by Katarzyna Jackowska-Enemuo offers the youngest an encounter with theater that emphasizes closeness, tranquility, and the power of storytelling. Instead of screens and flashy decorations, there are human voices, silence, and music that together create images in the minds of the audience.\n\nDuring the performance, children will learn the story of a boy whose dreams were desired by the greatest rulers, and of a magical tree dreaming the whole world. They will also be able to share"
+        },
+        "uk": {
+          "title": "Firlej дітям: „Що не приснилося, те не відбудеться” [спектакль]",
+          "description": "Чи можна розповісти казку за допомогою слів, музики та уяви? Спектакль „Що не приснилося, те не відбудеться” запрошує дітей до незвичайного світу снів, в якому не потрібно розгорнутої сценографії чи спецефектів. Досить оповіді, гіпнотичних звуків і трохи уяви, щоб відкрити магію, приховану поруч з нами.\n\nКазковий театр без надмірності подразників\n\nАвторський Театр Оповіді Катерини Яковської-Енемуо пропонує найменшим зустріч з театром, який ставить на близькість, спокій і силу оповіді. Замість екранів і ефектних декорацій є людський голос, тиша та музика, які разом створюють образи в головах глядачів.\n\nПід час спектаклю діти познайомляться з історією хлопчика, якого сну прагнули найбільші володарі, а також магічного дерева, що снить увесь світ. Вони також зможуть поділитися"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-21T11:44:06.263914+00:00"
+    },
+    "santa-claus-festival-2026-festiwal-wi-tego-miko-aja-2026-12-06T09:00:00+01:00": {
+      "title": "Santa Claus Festival 2026 - Festiwal Świętego Mikołaja",
+      "date": "2026-12-06T09:00:00+01:00",
+      "end_date": "2026-12-06T09:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Spektakularna Kraina Świętego Mikołaja we Wrocławiu! Santa Claus Festival zaprasza na Biegun Północny.\nNa Dolnym Śląsku otworzy się magiczne przejście prosto na Biegun Północny. Przez jeden mikołajkowy weekend – od 5 do 6 grudnia 2026 roku – Tarczyński Arena Wrocław zamieni się w spektakularny świat Świętego Mikołaja rodem z Laponii o powierzchni ponad 3000 m. Na odwiedzających czeka prawdziwie świąteczna przygoda, padający pod dachem śnieg, arktyczne światło oraz dziesiątki niezwykłych miejsc do odkrycia.\nMagiczne strefy. Jeden festiwal. Setki tysięcy emocji.\nPrzygoda rozpoczyna się już przy wejściu, gdzie świetlny portal przenosi uczestników w zimową scenerię. Każde dziecko otrzymuje własny Paszport Pomocnika Mikołaja, z którym odkrywa kolejne części festiwalu. Na trasie czeka Wielka Fabryka Zabawek, gdzie można pomóc elfom przy świątecznych przesyłkach, oraz Akademia Elfów pełna prób zręczności i sprytu. W Strefie Bieguna Północnego goście zanurzą się w krajobrazach inspirowanych zimową Laponią – wśród świerków, lodowych form i padającego śniegu. Santa Claus Festival to więcej niż wystawa – to interaktywna podróż, której finałem jest osobiste spotkanie z samym Świętym Mikołajem.\nAtrakcje, które zmieniają rzeczywistość\nTo nie tylko piękne dekoracje, monumentalne sanie i Kuchnia Pani Mikołajowej. Każdy dzień festiwalu to także rodzinne widowiska na scenie oraz spotkania z bohaterami krainy. Prawdziwą gratką jest Laboratorium Elfich Alchemików, gdzie odbywają się widowiskowe eksperymenty z kolorowymi miksturami, dymem i pianą.\nDla najmłodszych przygotowano strefę warsztatową, w której dzieci mogą własnoręcznie dekorować pierniki, tworzyć świąteczne bombki i wianki. Działa tu również Poczta Bieguna Północnego, z której najmłodsi mogą wysłać swój wymarzony list prosto do Świętego Mikołaja. Wszystko to w bezpiecznej, świątecznej przestrzeni zaprojektowanej z myślą o całych rodzinach.\nŚwiąteczne zakupy i magia w jednym\nFestiwalowi towarzyszy Zimowy Ogród Mikołaja – wyjątkowa strefa stworzona wspólnie z CocaFlora. Podczas gdy dzieci przeżywają festiwalowe przygody, dorośli mogą w cieple i spokoju przygotować swój dom na święta. W strefie dostępne będą tysiące starannie wyselekcjonowanych roślin sezonowych w festiwalowych cenach – od rzadkich odmian gwiazdy betlejemskiej (poinsecji) i monumentalnych amarylisów, po owocujące cytrusy i zdrowe choinki w donicach z prawdziwym systemem korzeniowym. To idealne połączenie rodzinnej rozrywki i bezstresowych, przedświątecznych zakupów.\nŚwięto wyobraźni dla całej rodziny\nWydarzenie jest kierowane do rodzin z dziećmi, przedszkoli, szkół oraz wszystkich tych, którzy chcą poczuć prawdziwą magię nadchodzących świąt. Organizatorzy zadbali o komfort uczestników – jeden bilet zapewnia dostęp zarówno do strefy festiwalowej, jak i Zimowego Ogrodu. Przestrzeń Tarczyński Areny gwarantuje wygodę niezależnie od zimowej pogody na zewnątrz.\nSanta Claus Festival – wydarzenie, które przenosi w świat świątecznej magii.\nZanurz się w zimowej bajce – tylko we Wrocławiu!",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_977342051_original.jpg",
+      "location": {
+        "name": "Tarczyński Arena Wrocław (Wrocław-Maślice)",
+        "district": "Fabryczna"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/santa-claus-festival-2026-festiwal-swietego-mikolaja/kw/c5-3310679",
+      "source": "naszemiasto.pl",
+      "district": "Fabryczna",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/santa-claus-festival-2026-festiwal-swietego-mikolaja/kw/c5-3310679",
+      "scrapped_timestamp": "2026-10-21T11:42:21.645431+00:00",
+      "category": "Seasonal Festival",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Santa Claus Festival 2026 - Festiwal Świętego Mikołaja",
+          "description": "Spektakularna Kraina Świętego Mikołaja we Wrocławiu! Santa Claus Festival zaprasza na Biegun Północny.\nNa Dolnym Śląsku otworzy się magiczne przejście prosto na Biegun Północny. Przez jeden mikołajkowy weekend – od 5 do 6 grudnia 2026 roku – Tarczyński Arena Wrocław zamieni się w spektakularny świat Świętego Mikołaja rodem z Laponii o powierzchni ponad 3000 m. Na odwiedzających czeka prawdziwie świąteczna przygoda, padający pod dachem śnieg, arktyczne światło oraz dziesiątki niezwykłych miejsc do odkrycia.\nMagiczne strefy. Jeden festiwal. Setki tysięcy emocji.\nPrzygoda rozpoczyna się już przy wejściu, gdzie świetlny portal przenosi uczestników w zimową scenerię. Każde dziecko otrzymuje własny Paszport Pomocnika Mikołaja, z którym odkrywa kolejne części festiwalu. Na trasie czeka Wielka Fabryka Zabawek, gdzie można pomóc elfom przy świątecznych przesyłkach, oraz Akademia Elfów pełna prób zręczności i sprytu. W Strefie Bieguna Północnego goście zanurzą się w krajobrazach inspirowanych zimową Laponią – wśród świerków, lodowych form i padającego śniegu. Santa Claus Festival to więcej niż wystawa – to interaktywna podróż, której finałem jest osobiste spotkanie z samym Świętym Mikołajem.\nAtrakcje, które zmieniają rzeczywistość\nTo nie tylko piękne dekoracje, monumentalne sanie i Kuchnia Pani Mikołajowej. Każdy dzień festiwalu to także rodzinne widowiska na scenie oraz spotkania z bohaterami krainy. Prawdziwą gratką jest Laboratorium Elfich Alchemików, gdzie odbywają się widowiskowe eksperymenty z kolorowymi miksturami, dymem i pianą.\nDla najmłodszych przygotowano strefę warsztatową, w której dzieci mogą własnoręcznie dekorować pierniki, tworzyć świąteczne bombki i wianki. Działa tu również Poczta Bieguna Północnego, z której najmłodsi mogą wysłać swój wymarzony list prosto do Świętego Mikołaja. Wszystko to w bezpiecznej, świątecznej przestrzeni zaprojektowanej z myślą o całych rodzinach.\nŚwiąteczne zakupy i magia w jednym\nFestiwalowi towarzyszy Zimowy Ogród Mikołaja – wyjątkowa strefa stworzona wspólnie z CocaFlora. Podczas gdy dzieci przeżywają festiwalowe przygody, dorośli mogą w cieple i spokoju przygotować swój dom na święta. W strefie dostępne będą tysiące starannie wyselekcjonowanych roślin sezonowych w festiwalowych cenach – od rzadkich odmian gwiazdy betlejemskiej (poinsecji) i monumentalnych amarylisów, po owocujące cytrusy i zdrowe choinki w donicach z prawdziwym systemem korzeniowym. To idealne połączenie rodzinnej rozrywki i bezstresowych, przedświątecznych zakupów.\nŚwięto wyobraźni dla całej rodziny\nWydarzenie jest kierowane do rodzin z dziećmi, przedszkoli, szkół oraz wszystkich tych, którzy chcą poczuć prawdziwą magię nadchodzących świąt. Organizatorzy zadbali o komfort uczestników – jeden bilet zapewnia dostęp zarówno do strefy festiwalowej, jak i Zimowego Ogrodu. Przestrzeń Tarczyński Areny gwarantuje wygodę niezależnie od zimowej pogody na zewnątrz.\nSanta Claus Festival – wydarzenie, które przenosi w świat świątecznej magii.\nZanurz się w zimowej bajce – tylko we Wrocławiu!"
+        },
+        "en": {
+          "title": "Santa Claus Festival 2026 - Santa Claus Festival",
+          "description": "Spectacular Land of Santa Claus in Wrocław! Santa Claus Festival invites you to the North Pole.\nA magical passage straight to the North Pole will open in Lower Silesia. For one Santa weekend – from December 5 to 6, 2026 – Tarczyński Arena Wrocław will transform into a spectacular world of Santa Claus straight from Lapland, covering over 3000 m. A truly festive adventure awaits visitors, with snow falling under the roof, arctic light, and dozens of extraordinary places to discover.\nMagical zones. One festival. Hundreds of thousands of emotions.\nThe adventure begins right at the entrance, where a light portal transports participants into a winter scenery. Every child receives their own Santa's Helper Passport, with which they discover the various parts of the festival. Along the route awaits the Great Fab"
+        },
+        "uk": {
+          "title": "Фестиваль Святого Миколая 2026 - Festiwal Świętego Mikołaja",
+          "description": "Спектакулярна Країна Святого Миколая у Вроцлаві! Фестиваль Святого Миколая запрошує на Північний полюс.\nНа Нижньому Сілезії відкриється магічний прохід прямо на Північний полюс. Протягом одного міколайського вікенду – з 5 по 6 грудня 2026 року – Арена Тарчинського у Вроцлаві перетвориться на спектакулярний світ Святого Миколая з Лапландії площею понад 3000 м. На відвідувачів чекає справжня святкова пригода, сніг, що падає під дахом, арктичне світло та десятки незвичайних місць для відкриття.\nМагічні зони. Один фестиваль. Сотні тисяч емоцій.\nПригода починається вже при вході, де світловий портал переносить учасників у зимову сцену. Кожна дитина отримує власний Паспорт Помічника Миколая, з яким відкриває наступні частини фестивалю. На маршруті чекає Велика Фабрика"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-21T11:44:06.263937+00:00"
+    },
+    "pi-ra-w-d-o-w-pracowni-skryby-i-iluminatora-2026-10-22T17:00:00+02:00": {
+      "title": "Pióra w dłoń! W pracowni skryby i iluminatora",
+      "date": "2026-10-22T17:00:00+02:00",
+      "end_date": "2026-10-22T17:00:00+02:00",
+      "startTimeKnown": true,
+      "url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,141082573.html",
+      "description": "Ossolineum i Miejska Biblioteka Publiczna im. Tadeusza Różewicza we Wrocławiu łączą siły, aby jeszcze szerzej udostępniać mieszkańcom Wrocławia kulturę, historię i literaturę.\n\nCzym pisano, zanim wynaleziono długopis? Jak powstawały zdobienia dawnych ksiąg? Podczas rodzinnych warsztatów poznamy przykłady pięknie zdobionych rękopisów ze zbiorów Ossolineum, które posłużą nam za inspirację do pracy twórczej. Każdy uczestnik spróbuje pisania gęsim piórem oraz stworzy własną dekoracyjną bordiurę nawiązującą do dawnych wzorów. Zapraszamy do świata, w którym książki są dziełami sztuki.\n\n✹ Filia nr 3 MBP, ul. Morelowskiego 43\n\n✹ 22 października 2026 (czwartek), godzina 17.00–18.30\n\n✹ dla dzieci w wieku 6-12 lat i opiekunów\n\n✹ prowadzenie: Marlena Kwiatkowska\n\n✹ wstęp bezpłatny, liczba miejsc ograniczona",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/147-15-592-592f_w_141082_9f4b3.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul. Szewska 37 50-139 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "district": "Stare Miasto",
+      "scrapped_url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,141082573.html",
+      "scrapped_timestamp": "2026-10-21T11:42:28.611451+00:00",
+      "category": "Workshops",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Pióra w dłoń! W pracowni skryby i iluminatora",
+          "description": "Ossolineum i Miejska Biblioteka Publiczna im. Tadeusza Różewicza we Wrocławiu łączą siły, aby jeszcze szerzej udostępniać mieszkańcom Wrocławia kulturę, historię i literaturę.\n\nCzym pisano, zanim wynaleziono długopis? Jak powstawały zdobienia dawnych ksiąg? Podczas rodzinnych warsztatów poznamy przykłady pięknie zdobionych rękopisów ze zbiorów Ossolineum, które posłużą nam za inspirację do pracy twórczej. Każdy uczestnik spróbuje pisania gęsim piórem oraz stworzy własną dekoracyjną bordiurę nawiązującą do dawnych wzorów. Zapraszamy do świata, w którym książki są dziełami sztuki.\n\n✹ Filia nr 3 MBP, ul. Morelowskiego 43\n\n✹ 22 października 2026 (czwartek), godzina 17.00–18.30\n\n✹ dla dzieci w wieku 6-12 lat i opiekunów\n\n✹ prowadzenie: Marlena Kwiatkowska\n\n✹ wstęp bezpłatny, liczba miejsc ograniczona"
+        },
+        "en": {
+          "title": "Feathers in Hand! In the Workshop of the Scribe and Illuminator",
+          "description": "Ossolineum and the Tadeusz Różewicz Public Library in Wrocław join forces to make culture, history, and literature even more accessible to the residents of Wrocław.\n\nWhat was used for writing before the invention of the ballpoint pen? How were the decorations of ancient books created? During family workshops, we will explore examples of beautifully decorated manuscripts from the Ossolineum collections, which will serve as inspiration for our creative work. Each participant will try writing with a goose quill and create their own decorative border inspired by ancient patterns. We invite you to a world where books are works of art.\n\n✹ Branch No. 3 MBP, ul. Morelowskiego 43\n\n✹ October 22, 2026 (Thursday), 5:00 PM–6:30 PM\n\n✹ for children aged 6-12 and guardians\n\n✹ led by: Marlena Kwiatkowska\n\n✹ free admission, limited number of places"
+        },
+        "uk": {
+          "title": "Пера в руку! У майстерні писаря та ілюмінатора",
+          "description": "Ossolineum та Міська публічна бібліотека ім. Тадеуша Рожевича у Вроцлаві об'єднують зусилля, щоб ще ширше надавати мешканцям Вроцлава культуру, історію та літературу.\n\nЧим писали, перш ніж винайшли ручку? Як виникали оздоби давніх книг? Під час сімейних майстер-класів ми познайомимося з прикладами красиво оформлених рукописів зі зборів Ossolineum, які послужать нам за натхнення для творчої роботи. Кожен учасник спробує писати гусиним пером та створить власну декоративну бордюру, що нагадує про давні зразки. Запрошуємо до світу, в якому книги є витворами мистецтва.\n\n✹ Філія № 3 MBP, вул. Мореловського 43\n\n✹ 22 жовтня 2026 (четвер), година 17.00–18.30\n\n✹ для дітей віком 6-12 років та опікунів\n\n✹ ведення: Марлена Квятковська\n\n✹ вхід безкоштовний, кількість місць обмежена"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-10-21T11:44:06.263967+00:00"
+    },
+    "ossoli-ski-w-wehikule-czasu-portretowe-metamorfozy-o-tw-rcze-odkrycia-rodzinne-warsztaty-artystyczne-dla-dzieci-w-wieku-6-12-lat-2026-10-24T00:00:00+02:00": {
+      "title": "Ossoliński w wehikule czasu – portretowe metamorfozy | O! Twórcze odkrycia – rodzinne warsztaty artystyczne dla dzieci w wieku 6–12 lat",
+      "date": "2026-10-24T00:00:00+02:00",
+      "end_date": "2026-10-24T00:00:00+02:00",
+      "startTimeKnown": false,
+      "url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,141078da2.html",
+      "description": "Zapraszamy do udziału w zajęciach rodzinnych  organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\n**Ossoliński w wehikule czasu – portretowe metamorfozy\n\n\t24 października (sobota), godz. 12–13.30**\n\nPodczas pierwszego spotkania poznamy sylwetki założycieli Ossolineum – hrabiego Józefa Maksymiliana i księcia Henryka. Za pomocą kolorowego papieru i fragmentów gazet nadamy ich portretom współczesny wygląd oraz zastanowimy się, czym różnią się wizerunki ludzi na starych obrazach czy rycinach od dzisiejszych fotografii.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat.",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/351-0-642-642f_w_141078_5366e.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul. Szewska 37 50-139 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "district": "Stare Miasto",
+      "scrapped_url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,141078da2.html",
+      "scrapped_timestamp": "2026-10-21T11:42:35.174045+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Ossoliński w wehikule czasu – portretowe metamorfozy | O! Twórcze odkrycia – rodzinne warsztaty artystyczne dla dzieci w wieku 6–12 lat",
+          "description": "Zapraszamy do udziału w zajęciach rodzinnych  organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\n**Ossoliński w wehikule czasu – portretowe metamorfozy\n\n\t24 października (sobota), godz. 12–13.30**\n\nPodczas pierwszego spotkania poznamy sylwetki założycieli Ossolineum – hrabiego Józefa Maksymiliana i księcia Henryka. Za pomocą kolorowego papieru i fragmentów gazet nadamy ich portretom współczesny wygląd oraz zastanowimy się, czym różnią się wizerunki ludzi na starych obrazach czy rycinach od dzisiejszych fotografii.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat."
+        },
+        "en": {
+          "title": "Ossoliński in the Time Machine – Portrait Metamorphoses | O! Creative Discoveries – Family Art Workshops for Children Aged 6–12",
+          "description": "We invite you to participate in family activities organized around the second edition of the permanent exhibition \"O! Ossolineum. Treasury under the Dome,\" titled \"Librarian-Visionary.\"\n\n**Ossoliński in the Time Machine – Portrait Metamorphoses\n\n\tOctober 24 (Saturday), 12:00–13:30**\n\nDuring the first meeting, we will learn about the profiles of the founders of Ossolineum – Count Józef Maksymilian and Prince Henryk. Using colored paper and fragments of newspapers, we will give their portraits a contemporary look and reflect on how the images of people in old paintings or engravings differ from today's photographs.\n\nAmong the priceless objects presented are medieval manuscripts, manuscripts of works by outstanding Polish writers, graphics measuring nearly three meters, and gold and silver coins. "
+        },
+        "uk": {
+          "title": "Осолінський у wehikule czasu – портретні метаморфози | О! Творчі відкриття – сімейні художні майстер-класи для дітей віком 6–12 років",
+          "description": "Запрошуємо до участі в заняттях сімейних  організованих навколо другої ода виставки постійної «О! Осолінум. Скарбниця під Куполом», званої «Бібліотекар-Візіонер».  \n\n**Осолінський у wehikule czasu – портретні метаморфози  \n\n\t24 жовтня (субота), год. 12–13.30**  \n\nПід час першої зустрічі познайомимося з постатями засновників Осолінуму – графа Йозефа Максиміліана та князя Генрика. За допомогою кольорового паперу та фрагментів газет надамо їх портретам сучасний вигляд та подумаємо, чим відрізняються образи людей на старих картинах чи гравюрах від сьогоднішніх фотографій.  \n\nСеред представлених на ній безцінних об'єктів знаходяться середньовічні манускрипти, рукописи творів видатних польських письменників, графіка, що вимірює майже три метри, а також золоті та срібні монети. "
+        }
+      },
+      "updated_at": "2026-10-21T11:44:06.264043+00:00"
+    },
+    "obrazkowa-rolka-na-papierze-rysunkowa-opowie-w-formie-zwoju-o-tw-rcze-odkrycia-rodzinne-warsztaty-artystyczne-dla-dzieci-w-wieku-6-12-lat-2026-11-14T12:00:00+01:00": {
+      "title": "Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju | O! Twórcze odkrycia – rodzinne warsztaty artystyczne dla dzieci w wieku 6–12 lat",
+      "date": "2026-11-14T12:00:00+01:00",
+      "end_date": "2026-11-14T12:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,1410793cd.html",
+      "description": "Zapraszamy do udziału w zajęciach rodzinnych  organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\n**Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju\n\n\t14 listopada (sobota)\n\n\tgodz. 12.00–13.30**\n\n\tZapisy od 30 października(opens in new tab)\n\n\tPoznajmy „rolkę” w innym wydaniu, niż internetowe – w muzeum to papierowy zwój ukazujący rozległy widok lub ważne wydarzenie, liczący nawet kilka metrów! Z okazji Weekendu Niepodległości stworzymy jej własne wersje, rysując obrazki przedstawiające „małą ojczyznę” – dom, podwórko, szkołę – i uzupełniając je o powycinane fragmenty starych rycin.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat.",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/351-0-642-642f_w_141079_988b5.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul. Szewska 37 50-139 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "district": "Stare Miasto",
+      "scrapped_url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,1410793cd.html",
+      "scrapped_timestamp": "2026-10-21T11:42:41.714108+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju | O! Twórcze odkrycia – rodzinne warsztaty artystyczne dla dzieci w wieku 6–12 lat",
+          "description": "Zapraszamy do udziału w zajęciach rodzinnych  organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\n**Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju\n\n\t14 listopada (sobota)\n\n\tgodz. 12.00–13.30**\n\n\tZapisy od 30 października(opens in new tab)\n\n\tPoznajmy „rolkę” w innym wydaniu, niż internetowe – w muzeum to papierowy zwój ukazujący rozległy widok lub ważne wydarzenie, liczący nawet kilka metrów! Z okazji Weekendu Niepodległości stworzymy jej własne wersje, rysując obrazki przedstawiające „małą ojczyznę” – dom, podwórko, szkołę – i uzupełniając je o powycinane fragmenty starych rycin.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat."
+        },
+        "en": {
+          "title": "Picture Roll… on Paper – a Drawing Story in the Form of a Scroll | O! Creative Discoveries – Family Art Workshops for Children Aged 6–12",
+          "description": "We invite you to participate in family activities organized around the second edition of the permanent exhibition \"O! Ossolineum. Treasury under the Dome,\" titled \"Librarian-Visionary.\"\n\n**Picture Roll… on Paper – a Drawing Story in the Form of a Scroll\n\n\tNovember 14 (Saturday)\n\n\t12:00 PM – 1:30 PM**\n\nRegistration starts on October 30(opens in new tab)\n\nLet’s get to know the \"roll\" in a different edition than the internet – in the museum, it is a paper scroll showing a vast view or an important event, measuring even several meters! On the occasion of the Independence Weekend, we will create our own versions by drawing pictures depicting the \"little homeland\" – home, backyard, school – and complementing them with cut-out fragments of old engravings.\n\nAmong the priceless objects presented on it are medieval manuscripts, handwritten works of outstanding authors..."
+        },
+        "uk": {
+          "title": "Образкова рулка… на папері – малюнкова оповідь у формі сувою | О! Творчі відкриття – сімейні художні майстерні для дітей віком 6–12 років",
+          "description": "Запрошуємо до участі в заняттях сімейних  організованих навколо другої частини виставки постійної «О! Оссолінеум. Скарбниця під Куполом», під назвою «Бібліотекар-Візіонер».\n\n**Образкова рулка… на папері – малюнкова оповідь у формі сувою\n\n\t14 листопада (субота)\n\n\tгод. 12.00–13.30**\n\n\tЗаписи з 30 жовтня(opens in new tab)\n\n\tПознайомимося з «рулкою» в іншому виконанні, ніж інтернетове – в музеї це паперовий сувій, що показує просторий вид або важливу подію, що налічує навіть кілька метрів! З нагоди Вікенду Незалежності створимо її власні версії, малюючи картинки, що зображують «малу батьківщину» – дім, подвір'я, школу – і доповнюючи їх вирізаними фрагментами старих гравюр.\n\nСеред представлених на ній безцінних об'єктів знаходяться середньовічні манускрипти, рукописи творів видатних п"
+        }
+      },
+      "updated_at": "2026-10-21T11:44:06.264077+00:00"
+    },
+    "z-ksi-gi-wr-b-tworzymy-naklejkowe-iluminacje-o-tw-rcze-odkrycia-rodzinne-warsztaty-artystyczne-2026-11-28T12:00:00+01:00": {
+      "title": "Z księgi wróżb – tworzymy naklejkowe iluminacje | O! Twórcze odkrycia – rodzinne warsztaty artystyczne",
+      "date": "2026-11-28T12:00:00+01:00",
+      "end_date": "2026-11-28T12:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,141080f1e.html",
+      "description": "Zapraszamy do udziału w zajęciach rodzinnych  organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\n**Z księgi wróżb – tworzymy naklejkowe iluminacje\n\n\t28 listopada (sobota)\n\n\tgodz. 12.00–13.30**\n\n\tDawniej książki często wykonywano tak, by każdy egzemplarz był wyjątkowy. Wszystko dzięki niezwykłym ozdobom – iluminacjom. W trakcie spotkania dowiemy się, co różniło je od współczesnych ilustracji książkowych, a w czym były podobne. Wyczarujemy też niepowtarzalne naklejki z własnymi iluminacjami. Po zajęciach można będzie nimi ozdobić swój notes lub księgę andrzejowych wróżb.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat.",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240_351-0-642-642d-0db,f_w_141080_6f758.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul. Szewska 37 50-139 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "district": "Stare Miasto",
+      "scrapped_url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,141080f1e.html",
+      "scrapped_timestamp": "2026-10-21T11:42:49.248640+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Z księgi wróżb – tworzymy naklejkowe iluminacje | O! Twórcze odkrycia – rodzinne warsztaty artystyczne",
+          "description": "Zapraszamy do udziału w zajęciach rodzinnych  organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\n**Z księgi wróżb – tworzymy naklejkowe iluminacje\n\n\t28 listopada (sobota)\n\n\tgodz. 12.00–13.30**\n\n\tDawniej książki często wykonywano tak, by każdy egzemplarz był wyjątkowy. Wszystko dzięki niezwykłym ozdobom – iluminacjom. W trakcie spotkania dowiemy się, co różniło je od współczesnych ilustracji książkowych, a w czym były podobne. Wyczarujemy też niepowtarzalne naklejki z własnymi iluminacjami. Po zajęciach można będzie nimi ozdobić swój notes lub księgę andrzejowych wróżb.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat."
+        },
+        "en": {
+          "title": "From the Book of Omens – Creating Sticker Illuminations | O! Creative Discoveries – Family Art Workshops",
+          "description": "We invite you to participate in family activities organized around the second edition of the permanent exhibition \"O! Ossolineum. Treasury under the Dome,\" titled \"Librarian-Visionary.\"\n\n**From the Book of Omens – Creating Sticker Illuminations\n\n\tNovember 28 (Saturday)\n\n\t12:00 PM – 1:30 PM**\n\nIn the past, books were often made in such a way that each copy was unique. All thanks to extraordinary decorations – illuminations. During the meeting, we will learn what distinguished them from contemporary book illustrations and in what ways they were similar. We will also conjure up unique stickers with our own illuminations. After the activities, you will be able to decorate your notebook or the book of Andrzej's omens with them.\n\nAmong the priceless objects presented are medieval manuscripts, handwritten works of outstanding Polish writers, graphics..."
+        },
+        "uk": {
+          "title": "З книги ворожінь – створюємо наклейкові ілюмінації | О! Творчі відкриття – сімейні художні майстерні",
+          "description": "Запрошуємо до участі в заняттях сімейних  організованих навколо другої ода виставки сталої «О! Осолінеум. Скарбниця під Куполом», званої «Бібліотекар-Візіонер».  \n\n**З книги ворожінь – створюємо наклейкові ілюмінації  \n\n\t28 листопада (субота)  \n\n\tгод. 12.00–13.30**  \n\nДавніше книги часто виконувалися так, щоб кожен екземпляр був унікальним. Все завдяки незвичайним оздобленням – ілюмінаціям. Під час зустрічі дізнаємося, чим вони відрізнялися від сучасних ілюстрацій книжок, а в чому були схожі. Виготовимо також неповторні наклейки з власними ілюмінаціями. Після занять можна буде ними прикрасити свій блокнот або книгу андріївських ворожінь.  \n\nСеред представлених на ній безцінних об'єктів знаходяться середньовічні манускрипти, рукописи творів видатних польських письменників, графіка мі"
+        }
+      },
+      "updated_at": "2026-10-21T11:44:06.264104+00:00"
+    },
+    "o-skarbiec-ze-szkatu-y-na-choink-o-tw-rcze-odkrycia-rodzinne-warsztaty-artystyczne-2026-12-05T12:00:00+01:00": {
+      "title": "O! Skarbiec – ze szkatuły na choinkę | O! Twórcze odkrycia – rodzinne warsztaty artystyczne",
+      "date": "2026-12-05T12:00:00+01:00",
+      "end_date": "2026-12-05T12:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,141081b25.html",
+      "description": "Zapraszamy do udziału w zajęciach rodzinnych  organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\n**O! Skarbiec – ze szkatuły na choinkę\n\n\t5 grudnia (sobota)\n\n\tgodz. 12.00–13.30**\n\n\tZapisy od 20 listopada(opens in new tab)\n\n\tW ramach spotkania porozmawiamy o detalach widniejących na monetach i medalach prezentowanych na wystawie. Zastanowimy się, co je łączy, co różni, a co szczególnie zaskakuje... Zainspirowani, w warsztatowej przestrzeni stworzymy spersonalizowane monety własnoręcznie tłoczone w aluminium, które będzie można zawiesić na choince.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat.",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240_351-0-642-642d-0db,f_w_141081_4a03a.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul. Szewska 37 50-139 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "district": "Stare Miasto",
+      "scrapped_url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,141081b25.html",
+      "scrapped_timestamp": "2026-10-21T11:42:55.451062+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "O! Skarbiec – ze szkatuły na choinkę | O! Twórcze odkrycia – rodzinne warsztaty artystyczne",
+          "description": "Zapraszamy do udziału w zajęciach rodzinnych  organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\n**O! Skarbiec – ze szkatuły na choinkę\n\n\t5 grudnia (sobota)\n\n\tgodz. 12.00–13.30**\n\n\tZapisy od 20 listopada(opens in new tab)\n\n\tW ramach spotkania porozmawiamy o detalach widniejących na monetach i medalach prezentowanych na wystawie. Zastanowimy się, co je łączy, co różni, a co szczególnie zaskakuje... Zainspirowani, w warsztatowej przestrzeni stworzymy spersonalizowane monety własnoręcznie tłoczone w aluminium, które będzie można zawiesić na choince.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat."
+        },
+        "en": {
+          "title": "O! Treasury – from the chest to the Christmas tree | O! Creative discoveries – family art workshops",
+          "description": "We invite you to participate in family activities organized around the second edition of the permanent exhibition \"O! Ossolineum. Treasury under the Dome\", titled \"Librarian-Visionary\".\n\n**O! Treasury – from the chest to the Christmas tree\n\n\tDecember 5 (Saturday)\n\n\thours: 12:00 PM – 1:30 PM**\n\n\nRegistration from November 20 (opens in new tab)\n\nDuring the meeting, we will discuss the details visible on the coins and medals presented at the exhibition. We will consider what connects them, what distinguishes them, and what particularly surprises... Inspired, in the workshop space we will create personalized coins hand-stamped in aluminum, which can be hung on the Christmas tree.\n\nAmong the priceless objects presented there are medieval manuscripts, handwritten works of outstanding Polish writers, graphics measuring nearly three meters."
+        },
+        "uk": {
+          "title": "О! Скарбниця – зі скарбниці на ялинку | О! Творчі відкриття – сімейні художні майстерні",
+          "description": "Запрошуємо до участі в заняттях сімейних  організованих навколо другого випуску виставки постійної \"О! Осолінеум. Скарбниця під Куполом\", під назвою \"Бібліотекар-Візіонер\".\n\n**О! Скарбниця – зі скарбниці на ялинку\n\n\t5 грудня (субота)\n\n\tгод. 12.00–13.30**\n\n\tЗаписи з 20 листопада(opens in new tab)\n\n\tВ рамках зустрічі поговоримо про деталі, що зображені на монетах і медалях, представлених на виставці. Подумаємо, що їх об'єднує, що відрізняє, а що особливо дивує... Надихнувшись, у майстерній просторі створимо персоналізовані монети, власноруч відтиснуті в алюмінії, які можна буде повісити на ялинку.\n\nСеред представлених на ній безцінних об'єктів знаходяться середньовічні манускрипти, рукописи творів видатних польських письменників, графіка, що вимірює майже три метри"
+        }
+      },
+      "updated_at": "2026-10-21T11:44:06.264128+00:00"
+    },
+    "straszne-przek-ski-z-ciasta-francuskiego-warsztaty-2026-10-24T11:00:00+02:00": {
+      "title": "Straszne przekąski z ciasta francuskiego – warsztaty",
+      "date": "2026-10-24T11:00:00+02:00",
+      "end_date": "2026-10-24T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Potworki, pajęczyny i chrupiące przekąski, które wyglądają jak z halloweenowej opowieści. Podczas warsztatów „Straszne przekąski z ciasta francuskiego” z cyklu Artystyczna Cukiernia dzieci zamienią się w małych kucharzy i przygotują smakołyki na upiorną imprezę.\n\nHalloweenowe smakołyki własnej roboty\n\nUczestnicy poznają podstawy pracy z gotowym ciastem francuskim, nauczą się je formować i przygotowywać, a następnie poeksperymentują z kształtami oraz dodatkami. Zwykłe składniki zamienią się w zabawne potworki i inne halloweenowe przysmaki.\n\nWarsztaty łączą naukę kulinarnych podstaw z twórczą zabawą. Dzieci rozwiną wyobraźnię i przygotują własne przekąski, które mogą stać się ozdobą halloweenowego stołu.\n\nInformacje organizacyjne\n\n• Wydarzenie: Artystyczna Cukiernia – „Straszne przekąski z ciasta francuskiego”\n• Dla kogo: dzieci w wieku 5–11 lat\n• Cena biletu: od 90 zł\n• Opieka: dzieci powinny pozostawać pod opieką rodzica lub opiekuna, którego wejście jest wliczone w cenę biletu",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/b28a05e3-c625-4526-9588-dfe32916cf10/d80b19da-9dc5-4b50-adf4-80d8ddb3e271.jpg",
+      "location": {
+        "name": "Aleja Bielany, Czekoladowa 7-9, 55-040 Kobierzyce",
+        "district": "Psie Pole"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/straszne-przekaski-z-ciasta-francuskiego-warsztaty-b28a05e3-c625-4526-9588-dfe32916cf10",
+      "source": "simplygo.pl",
+      "age_hint": "5-11",
+      "age_range": {
+        "min": 5,
+        "max": 11
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/straszne-przekaski-z-ciasta-francuskiego-warsztaty-b28a05e3-c625-4526-9588-dfe32916cf10",
+      "scrapped_timestamp": "2026-10-21T11:43:01.763030+00:00",
+      "category": "Workshops",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Straszne przekąski z ciasta francuskiego – warsztaty",
+          "description": "Potworki, pajęczyny i chrupiące przekąski, które wyglądają jak z halloweenowej opowieści. Podczas warsztatów „Straszne przekąski z ciasta francuskiego” z cyklu Artystyczna Cukiernia dzieci zamienią się w małych kucharzy i przygotują smakołyki na upiorną imprezę.\n\nHalloweenowe smakołyki własnej roboty\n\nUczestnicy poznają podstawy pracy z gotowym ciastem francuskim, nauczą się je formować i przygotowywać, a następnie poeksperymentują z kształtami oraz dodatkami. Zwykłe składniki zamienią się w zabawne potworki i inne halloweenowe przysmaki.\n\nWarsztaty łączą naukę kulinarnych podstaw z twórczą zabawą. Dzieci rozwiną wyobraźnię i przygotują własne przekąski, które mogą stać się ozdobą halloweenowego stołu.\n\nInformacje organizacyjne\n\n• Wydarzenie: Artystyczna Cukiernia – „Straszne przekąski z ciasta francuskiego”\n• Dla kogo: dzieci w wieku 5–11 lat\n• Cena biletu: od 90 zł\n• Opieka: dzieci powinny pozostawać pod opieką rodzica lub opiekuna, którego wejście jest wliczone w cenę biletu"
+        },
+        "en": {
+          "title": "Scary Puff Pastry Snacks – Workshop",
+          "description": "Monsters, cobwebs, and crunchy snacks that look like they came from a Halloween tale. During the workshop \"Scary Puff Pastry Snacks\" from the Artistic Pastry series, children will turn into little chefs and prepare treats for a spooky party.\n\nHomemade Halloween Treats\n\nParticipants will learn the basics of working with ready-made puff pastry, how to shape and prepare it, and then experiment with shapes and toppings. Ordinary ingredients will transform into fun monsters and other Halloween delicacies.\n\nThe workshop combines learning culinary basics with creative fun. Children will develop their imagination and prepare their own snacks that can become a decoration for the Halloween table.\n\nOrganizational Information\n\n• Event: Artistic Pastry – \"Scary Puff Pastry Snacks\""
+        },
+        "uk": {
+          "title": "Страшні закуски з листкового тіста – майстер-клас",
+          "description": "Потвори, павутини та хрусткі закуски, які виглядають як з халловінської історії. Під час майстер-класу «Страшні закуски з листкового тіста» з циклу Артистична Кондитерська діти перетворяться на маленьких кухарів і приготують смаколики на жахливу вечірку.\n\nХалловінські смаколики власного виробництва\n\nУчасники познайомляться з основами роботи з готовим листковим тістом, навчаться його формувати та готувати, а потім поекспериментують з формами та добавками. Звичайні інгредієнти перетворяться на веселих потвор і інші халловінські ласощі.\n\nМайстер-клас поєднує навчання кулінарним основам з творчою грою. Діти розвинуть уяву та приготують власні закуски, які можуть стати прикрасою халловінського столу.\n\nОрганізаційна інформація\n\n• Подія: Артистична Кондитерська – «Страшні закуски з листкового тіста»"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Psie Pole",
+      "updated_at": "2026-10-21T11:44:06.264149+00:00"
+    },
+    "misiaczek-spektakl-dla-dzieci-2026-10-24T13:00:00+02:00": {
+      "title": "Misiaczek – spektakl dla dzieci",
+      "date": "2026-10-24T13:00:00+02:00",
+      "end_date": "2026-10-24T13:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Co zrobić, kiedy sen nie przychodzi, a sprawdzone sposoby zawodzą? Na to pytanie szukają odpowiedzi bohaterowie spektaklu „Misiaczek” Marty Guśniowskiej. To pełna ciepła i humoru opowieść o małym misiu, któremu leśne zwierzęta próbują pomóc zasnąć. Gdy kołysanie, mleko z miodem i liczenie owiec nie przynoszą efektu, trzeba poszukać innego rozwiązania. Może najważniejsza okaże się nie metoda, lecz ktoś, kto jest obok?\n\nTeatr lalek, który zaprasza do wspólnej zabawy\n\nKameralny spektakl przygotowano z myślą o dzieciach w wieku od 3 do 6 lat. Trzy aktorki ożywiają świat bohaterów przede wszystkim za pomocą lalek, pozostając w bliskim kontakcie z publicznością. Twórcy nawiązują do tradycji teatru lalek i stawiają na zmysły, bezpośrednie spotkanie oraz wspólne przeżywanie historii.\n\nLas jako dom, o który trzeba dbać\n\nLas jest w przedstawieniu nie tylko tłem wydarzeń, lecz także domem, o który trzeba dbać. Bohaterowie przypominają, że przyroda jest ważną częścią naszego życia, a troska o nią zaczyna się od codziennych zachowań.\n\nEkologiczne podejście widać również w sposobie przygotowania spektaklu. Lalki i większość elementów scenografii powstały dzięki upcyklingowi, m.in. z tkanin znalezionych w teatralnych magazynach oraz ubrań z drugiej ręki. Twórcy zrezygnowali także z drukowania programu.\n\n„Misiaczek” to propozycja dla najmłodszych widzów i ich opiekunów: czuła opowieść o szukaniu ukojenia, sile obecności i odpowiedzialności za wspólny dom, jakim jest przyroda.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/6f0b5697-c7f9-4884-b58c-59537be69066/5e2d9904-c5b8-49f1-9548-9b677729c5cb.jpg",
+      "location": {
+        "name": "Wrocławski Teatr Lalek",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/misiaczek-spektakl-dla-dzieci-6f0b5697-c7f9-4884-b58c-59537be69066",
+      "source": "simplygo.pl",
+      "age_hint": "3-6",
+      "age_range": {
+        "min": 3,
+        "max": 6
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/misiaczek-spektakl-dla-dzieci-6f0b5697-c7f9-4884-b58c-59537be69066",
+      "scrapped_timestamp": "2026-10-21T11:43:07.372712+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Misiaczek – spektakl dla dzieci",
+          "description": "Co zrobić, kiedy sen nie przychodzi, a sprawdzone sposoby zawodzą? Na to pytanie szukają odpowiedzi bohaterowie spektaklu „Misiaczek” Marty Guśniowskiej. To pełna ciepła i humoru opowieść o małym misiu, któremu leśne zwierzęta próbują pomóc zasnąć. Gdy kołysanie, mleko z miodem i liczenie owiec nie przynoszą efektu, trzeba poszukać innego rozwiązania. Może najważniejsza okaże się nie metoda, lecz ktoś, kto jest obok?\n\nTeatr lalek, który zaprasza do wspólnej zabawy\n\nKameralny spektakl przygotowano z myślą o dzieciach w wieku od 3 do 6 lat. Trzy aktorki ożywiają świat bohaterów przede wszystkim za pomocą lalek, pozostając w bliskim kontakcie z publicznością. Twórcy nawiązują do tradycji teatru lalek i stawiają na zmysły, bezpośrednie spotkanie oraz wspólne przeżywanie historii.\n\nLas jako dom, o który trzeba dbać\n\nLas jest w przedstawieniu nie tylko tłem wydarzeń, lecz także domem, o który trzeba dbać. Bohaterowie przypominają, że przyroda jest ważną częścią naszego życia, a troska o nią zaczyna się od codziennych zachowań.\n\nEkologiczne podejście widać również w sposobie przygotowania spektaklu. Lalki i większość elementów scenografii powstały dzięki upcyklingowi, m.in. z tkanin znalezionych w teatralnych magazynach oraz ubrań z drugiej ręki. Twórcy zrezygnowali także z drukowania programu.\n\n„Misiaczek” to propozycja dla najmłodszych widzów i ich opiekunów: czuła opowieść o szukaniu ukojenia, sile obecności i odpowiedzialności za wspólny dom, jakim jest przyroda."
+        },
+        "en": {
+          "title": "Misiaczek – a show for children",
+          "description": "What to do when sleep doesn't come, and tried-and-true methods fail? The characters of the play \"Misiaczek\" by Marta Guśniowska seek answers to this question. It is a warm and humorous tale about a little bear, who is helped by forest animals to fall asleep. When rocking, milk with honey, and counting sheep do not bring results, another solution must be sought. Perhaps the most important thing will not be the method, but someone who is nearby?\n\nPuppet theater inviting you to join the fun\n\nThe intimate performance has been prepared for children aged 3 to 6 years. Three actresses bring the world of the characters to life primarily through puppets, remaining in close contact with the audience. The creators refer to the tradition of puppet theater and focus on the senses, direct encounters, and shared experiences of the story.\n\nThe forest as a home"
+        },
+        "uk": {
+          "title": "Місічок – спектакль для дітей",
+          "description": "Що робити, коли сон не приходить, а перевірені способи підводять? На це питання шукають відповіді герої спектаклю «Місічок» Марти Гушнівської. Це повна тепла і гумору оповідь про маленького ведмедика, якому лісові тварини намагаються допомогти заснути. Коли колисання, молоко з медом і рахування овець не приносять результату, потрібно шукати інше рішення. Може, найважливішим виявиться не метод, а хтось, хто поруч?\n\nТеатр ляльок, який запрошує до спільної гри\n\nКамерний спектакль підготовлено з думкою про дітей віком від 3 до 6 років. Три акторки оживляють світ героїв переважно за допомогою ляльок, залишаючись у близькому контакті з публікою. Творці посилаються на традиції театру ляльок і ставлять на відчуття, безпосередню зустріч та спільне переживання історії.\n\nЛіс як дім"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-21T11:44:06.264167+00:00"
+    },
+    "noc-pokaz-w-zako-czenie-sezonu-fontanny-multimedialnej-2026-10-24T18:00:00+02:00": {
+      "title": "Noc pokazów – zakończenie sezonu Fontanny Multimedialnej",
+      "date": "2026-10-24T18:00:00+02:00",
+      "end_date": "2026-10-24T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Jedna noc w roku, w której na Pergoli Hali Stulecia wyświetlone zostają wszystkie pokazy sezonu Fontanny Multimedialnej.\n\nW sobotę 24 października odbędzie się Noc pokazów, która tradycyjnie kończy sezon Fontanny Multimedialnej. Wszystkie pokazy z programu Hali Stulecia zostaną wyświetlone jeden po drugim, w dwóch takich samych turach.\n\nW programie znajdą się pokazy: Cztery Żywioły, Dzień dobry Marilyn, Mikro&Makro Kosmos, Katedra Demokracji oraz najnowsza premiera – Pixar: Lato przyjaźni.\n\nLogistyka:\n• godzina pierwszej tury: 18:00\n• godzina drugiej tury: 20:00\n• czas trwania każdej tury: ok. 70 minut\n• miejsce: Pergola, Hala Stulecia\n• wstęp wolny\n\nWarto zająć miejsce od strony Wrocławskiego Centrum Kongresowego, gdzie projekcje multimedialne robią największe wrażenie. Wszystkie uszkodzenia wynikające z czerwcowego uderzenia pioruna zostały już naprawione, a widowisko odbędzie się w pełnym zakresie.\n\nNoc pokazów kończy sezon pokazów Fontanny Multimedialnej. Nowy sezon wystartuje wiosną 2027 roku.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/eb673add-30ac-4970-9c6b-fc392432ea87/439125cd-16d7-419d-a406-3eef2d706e63.jpg",
+      "location": {
+        "name": "Pergola, Wystawowa 1, 51-618 Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/noc-pokazow-zakonczenie-sezonu-fontanny-multimedialnej-eb673add-30ac-4970-9c6b-fc392432ea87",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/noc-pokazow-zakonczenie-sezonu-fontanny-multimedialnej-eb673add-30ac-4970-9c6b-fc392432ea87",
+      "scrapped_timestamp": "2026-10-21T11:43:13.707716+00:00",
+      "category": "Cinema",
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Noc pokazów – zakończenie sezonu Fontanny Multimedialnej",
+          "description": "Jedna noc w roku, w której na Pergoli Hali Stulecia wyświetlone zostają wszystkie pokazy sezonu Fontanny Multimedialnej.\n\nW sobotę 24 października odbędzie się Noc pokazów, która tradycyjnie kończy sezon Fontanny Multimedialnej. Wszystkie pokazy z programu Hali Stulecia zostaną wyświetlone jeden po drugim, w dwóch takich samych turach.\n\nW programie znajdą się pokazy: Cztery Żywioły, Dzień dobry Marilyn, Mikro&Makro Kosmos, Katedra Demokracji oraz najnowsza premiera – Pixar: Lato przyjaźni.\n\nLogistyka:\n• godzina pierwszej tury: 18:00\n• godzina drugiej tury: 20:00\n• czas trwania każdej tury: ok. 70 minut\n• miejsce: Pergola, Hala Stulecia\n• wstęp wolny\n\nWarto zająć miejsce od strony Wrocławskiego Centrum Kongresowego, gdzie projekcje multimedialne robią największe wrażenie. Wszystkie uszkodzenia wynikające z czerwcowego uderzenia pioruna zostały już naprawione, a widowisko odbędzie się w pełnym zakresie.\n\nNoc pokazów kończy sezon pokazów Fontanny Multimedialnej. Nowy sezon wystartuje wiosną 2027 roku."
+        },
+        "en": {
+          "title": "Show Night – End of the Multimedia Fountain Season",
+          "description": "One night a year, when all the shows of the Multimedia Fountain season are screened at the Pergola of the Centennial Hall.\n\nOn Saturday, October 24, the Show Night will take place, traditionally marking the end of the Multimedia Fountain season. All shows from the Centennial Hall program will be screened one after another, in two identical rounds.\n\nThe program will include shows: Four Elements, Good Morning Marilyn, Micro & Macro Cosmos, Cathedral of Democracy, and the latest premiere – Pixar: Summer of Friendship.\n\nLogistics:\n• time of the first round: 18:00\n• time of the second round: 20:00\n• duration of each round: approx. 70 minutes\n• location: Pergola, Centennial Hall\n• free admission\n\nIt is worth taking a seat from the side of the Wrocław Congress Center, where the multimedia projections make the greatest impression. All damages"
+        },
+        "uk": {
+          "title": "Ніч показів – завершення сезону Фонтану Мультимедійного",
+          "description": "Одна ніч у році, в якій на Перголі Хали Стулеття відображаються всі покази сезону Фонтану Мультимедійного.\n\nВ суботу 24 жовтня відбудеться Ніч показів, яка традиційно завершує сезон Фонтану Мультимедійного. Усі покази з програми Хали Стулеття будуть відображені один за одним, у двох таких самих турах.\n\nУ програмі будуть покази: Чотири Стихії, Доброго ранку, Мерилін, Мікро&Макро Космос, Кафедра Демократії та найновіша прем'єра – Pixar: Літо дружби.\n\nЛогістика:\n• година першого туру: 18:00\n• година другого туру: 20:00\n• час тривалості кожного туру: ок. 70 хвилин\n• місце: Пергола, Хала Стулеття\n• вхід вільний\n\nВарто зайняти місце з боку Вроцлавського Центру Конгресового, де мультимедійні проекції справляють найбільше враження. Усі пошкодження"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-21T11:44:06.264187+00:00"
+    },
+    "osiedlowe-centrum-gier-plansz-wki-i-e-sport-2026-10-26T14:00:00+01:00": {
+      "title": "Osiedlowe Centrum Gier – planszówki i e-sport",
+      "date": "2026-10-26T14:00:00+01:00",
+      "end_date": "2026-10-26T14:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Osiedlowe Centrum Gier w CAL Chopina zaprasza osoby w każdym wieku do wspólnej zabawy. Na miejscu można poznać nowoczesne gry planszowe: przygodowe, strategiczne, logiczne i ekonomiczne. Biblioteka obejmuje ponad 2 800 gier.\n\nCentrum planuje turnieje, konkursy i inne atrakcje, także elektroniczne. Do dyspozycji są trzy stanowiska do e-sportu, PS5, VR oraz stanowiska do wyścigów samochodowych.\n\n• Godziny: codziennie 14:00–20:00, w piątki do 22:00\n• Miejsce: CAL Chopina, ul. Chopina 9A, Wrocław\n• Wstęp wolny",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/af27417e-7d9c-40d1-8a4c-32ab6550f857/29c878ec-1ccc-446b-8929-a15110a55ce5.jpg",
+      "location": {
+        "name": "CAL Chopina Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/osiedlowe-centrum-gier-planszowki-i-e-sport-af27417e-7d9c-40d1-8a4c-32ab6550f857",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/osiedlowe-centrum-gier-planszowki-i-e-sport-af27417e-7d9c-40d1-8a4c-32ab6550f857",
+      "scrapped_timestamp": "2026-10-21T11:43:20.053994+00:00",
+      "category": "Games",
+      "additional_categories": [
+        "Family Fun",
+        "Sports"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Osiedlowe Centrum Gier – planszówki i e-sport",
+          "description": "Osiedlowe Centrum Gier w CAL Chopina zaprasza osoby w każdym wieku do wspólnej zabawy. Na miejscu można poznać nowoczesne gry planszowe: przygodowe, strategiczne, logiczne i ekonomiczne. Biblioteka obejmuje ponad 2 800 gier.\n\nCentrum planuje turnieje, konkursy i inne atrakcje, także elektroniczne. Do dyspozycji są trzy stanowiska do e-sportu, PS5, VR oraz stanowiska do wyścigów samochodowych.\n\n• Godziny: codziennie 14:00–20:00, w piątki do 22:00\n• Miejsce: CAL Chopina, ul. Chopina 9A, Wrocław\n• Wstęp wolny"
+        },
+        "en": {
+          "title": "Neighborhood Game Center – board games and e-sports",
+          "description": "The Neighborhood Game Center at CAL Chopina invites people of all ages to join in the fun. Here you can discover modern board games: adventure, strategy, logic, and economic games. The library includes over 2,800 games.\n\nThe center plans tournaments, competitions, and other attractions, including electronic ones. There are three e-sports stations available, PS5, VR, and racing stations.\n\n• Hours: daily 14:00–20:00, on Fridays until 22:00\n• Location: CAL Chopina, ul. Chopina 9A, Wrocław\n• Free entry"
+        },
+        "uk": {
+          "title": "Осередок ігор – настільні ігри та е-спорт",
+          "description": "Осередок ігор в CAL Chopina запрошує людей будь-якого віку до спільної гри. На місці можна познайомитися з сучасними настільними іграми: пригодницькими, стратегічними, логічними та економічними. Бібліотека налічує понад 2 800 ігор.\n\nЦентр планує турніри, конкурси та інші атракції, також електронні. До ваших послуг три місця для е-спорту, PS5, VR та місця для автогонок.\n\n• Години: щодня 14:00–20:00, у п’ятницю до 22:00\n• Місце: CAL Chopina, вул. Chopina 9A, Вроцлав\n• Вхід вільний"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-21T11:44:06.264206+00:00"
+    },
+    "pracownia-modelarska-sklejanie-modeli-i-tworzenie-makiet-2026-10-26T17:00:00+01:00": {
+      "title": "Pracownia modelarska – sklejanie modeli i tworzenie makiet",
+      "date": "2026-10-26T17:00:00+01:00",
+      "end_date": "2026-10-26T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Pracownia modelarska to zajęcia ze sklejania modeli i tworzenia makiet. Uczestnicy poznają budowę modeli i ich historię, a przy pracy ćwiczą cierpliwość, precyzję oraz koncentrację.\n\nZajęcia odbywają się w CAL Chopina, przy ul. Chopina 9A, w każdy poniedziałek w godzinach 17:00–20:00. Wstęp wolny.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/28bf927e-3f11-4f6c-bfba-a6271e57794a/6d73f1ff-bf2b-4f0a-bb58-acd950cc03c0.jpg",
+      "location": {
+        "name": "CAL Chopina Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/pracownia-modelarska-sklejanie-modeli-i-tworzenie-makiet-28bf927e-3f11-4f6c-bfba-a6271e57794a",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/pracownia-modelarska-sklejanie-modeli-i-tworzenie-makiet-28bf927e-3f11-4f6c-bfba-a6271e57794a",
+      "scrapped_timestamp": "2026-10-21T11:43:24.945383+00:00",
+      "category": "Workshops",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Pracownia modelarska – sklejanie modeli i tworzenie makiet",
+          "description": "Pracownia modelarska to zajęcia ze sklejania modeli i tworzenia makiet. Uczestnicy poznają budowę modeli i ich historię, a przy pracy ćwiczą cierpliwość, precyzję oraz koncentrację.\n\nZajęcia odbywają się w CAL Chopina, przy ul. Chopina 9A, w każdy poniedziałek w godzinach 17:00–20:00. Wstęp wolny."
+        },
+        "en": {
+          "title": "Model Workshop – Assembling Models and Creating Diagrams",
+          "description": "Model Workshop is a class focused on assembling models and creating diagrams. Participants learn about the construction of models and their history, while practicing patience, precision, and concentration.\n\nClasses take place at CAL Chopina, at Chopina 9A, every Monday from 5:00 PM to 8:00 PM. Free admission."
+        },
+        "uk": {
+          "title": "Модельна майстерня – склеювання моделей та створення макетів",
+          "description": "Модельна майстерня – це заняття зі склеювання моделей та створення макетів. Учасники знайомляться з будовою моделей та їх історією, а під час роботи тренують терпіння, точність та концентрацію.\n\nЗаняття відбуваються в CAL Chopina, за адресою вул. Шопена 9A, кожного понеділка з 17:00 до 20:00. Вхід вільний."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-21T11:44:06.264225+00:00"
+    },
+    "mi-dzypokoleniowe-warsztaty-scrapbookingu-albumy-rodzinne-2026-10-28T15:00:00+01:00": {
+      "title": "Międzypokoleniowe warsztaty scrapbookingu – albumy rodzinne",
+      "date": "2026-10-28T15:00:00+01:00",
+      "end_date": "2026-10-28T15:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "W starych fotografiach kryją się wspomnienia, rodzinne sekrety i historie, które warto ocalić od zapomnienia. Międzypokoleniowe warsztaty scrapbookingu w CAL Duosfera to okazja, by zamienić zdjęcia z domowych archiwów w wyjątkowy album rodzinny. Uczestnicy stworzą własną pamiątkę i podzielą się opowieściami, które łączą pokolenia.\n\nRodzinne wspomnienia zamknięte w albumie\n\nPodczas warsztatów uczestnicy wybiorą fotografie, opowiedzą historię swojej rodziny lub własnego życia, a następnie uzupełnią zdjęcia komentarzami i przygotują album metodą scrapbookingu. Nie trzeba mieć zdolności plastycznych ani wcześniejszego doświadczenia. Wystarczą zdjęcia, chęć tworzenia i gotowość do dzielenia się historiami. Na spotkania można przyjść samodzielnie lub zaprosić babcię, wnuka, rodzica czy przyjaciółkę.\n\nFinał z rodzinnymi historiami\n\nCykl zakończy się wernisażem albumów, podczas którego uczestnicy zaprezentują efekty swojej pracy. Na wydarzenie zaproszone zostaną również rodziny autorów, w tym dzieci, wnuki i prawnuki.\n\nInformacje organizacyjne\n• Miejsce: CAL Duosfera, ul. Bałtycka 8, Wrocław\n• Udział: bezpłatny\n• Terminy spotkań:\n  28 października 2026 r. (środa), godz. 15:00–18:00\n  12 listopada 2026 r. (czwartek), godz. 15:00–18:00\n  26 listopada 2026 r. (czwartek), godz. 15:00–18:00\n  3 grudnia 2026 r. (czwartek), godz. 15:00–18:00 – wernisaż\n• Zapisy: warto.opowiadac@emma.org.pl\n• Ważne: liczba miejsc jest ograniczona. Warto zabrać ze sobą zdjęcia z rodzinnego archiwum.\n\nZadanie realizuje Fundacja Emma w ramach projektu „Seniorzy z pasją – razem dla lokalnych społeczności”, finansowanego w ramach programu „AKTYWNI SENIORZY – ASY” na lata 2026–2030, Priorytet IV, edycja 2026.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/38f72152-c2f3-4302-902b-556d0bb331b5/925cd158-02f1-41d3-9b1f-82f42e804841.jpg",
+      "location": {
+        "name": "CAL Karłowice-Różanka, Bałtycka 8, 51-109 Wrocław",
+        "district": "Psie Pole"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/miedzypokoleniowe-warsztaty-scrapbookingu-albumy-rodzinne-38f72152-c2f3-4302-902b-556d0bb331b5",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/miedzypokoleniowe-warsztaty-scrapbookingu-albumy-rodzinne-38f72152-c2f3-4302-902b-556d0bb331b5",
+      "scrapped_timestamp": "2026-10-21T11:43:34.380030+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Międzypokoleniowe warsztaty scrapbookingu – albumy rodzinne",
+          "description": "W starych fotografiach kryją się wspomnienia, rodzinne sekrety i historie, które warto ocalić od zapomnienia. Międzypokoleniowe warsztaty scrapbookingu w CAL Duosfera to okazja, by zamienić zdjęcia z domowych archiwów w wyjątkowy album rodzinny. Uczestnicy stworzą własną pamiątkę i podzielą się opowieściami, które łączą pokolenia.\n\nRodzinne wspomnienia zamknięte w albumie\n\nPodczas warsztatów uczestnicy wybiorą fotografie, opowiedzą historię swojej rodziny lub własnego życia, a następnie uzupełnią zdjęcia komentarzami i przygotują album metodą scrapbookingu. Nie trzeba mieć zdolności plastycznych ani wcześniejszego doświadczenia. Wystarczą zdjęcia, chęć tworzenia i gotowość do dzielenia się historiami. Na spotkania można przyjść samodzielnie lub zaprosić babcię, wnuka, rodzica czy przyjaciółkę.\n\nFinał z rodzinnymi historiami\n\nCykl zakończy się wernisażem albumów, podczas którego uczestnicy zaprezentują efekty swojej pracy. Na wydarzenie zaproszone zostaną również rodziny autorów, w tym dzieci, wnuki i prawnuki.\n\nInformacje organizacyjne\n• Miejsce: CAL Duosfera, ul. Bałtycka 8, Wrocław\n• Udział: bezpłatny\n• Terminy spotkań:\n  28 października 2026 r. (środa), godz. 15:00–18:00\n  12 listopada 2026 r. (czwartek), godz. 15:00–18:00\n  26 listopada 2026 r. (czwartek), godz. 15:00–18:00\n  3 grudnia 2026 r. (czwartek), godz. 15:00–18:00 – wernisaż\n• Zapisy: warto.opowiadac@emma.org.pl\n• Ważne: liczba miejsc jest ograniczona. Warto zabrać ze sobą zdjęcia z rodzinnego archiwum.\n\nZadanie realizuje Fundacja Emma w ramach projektu „Seniorzy z pasją – razem dla lokalnych społeczności”, finansowanego w ramach programu „AKTYWNI SENIORZY – ASY” na lata 2026–2030, Priorytet IV, edycja 2026."
+        },
+        "en": {
+          "title": "Intergenerational Scrapbooking Workshops – Family Albums",
+          "description": "In old photographs lie memories, family secrets, and stories worth saving from oblivion. The intergenerational scrapbooking workshops at CAL Duosfera are an opportunity to turn photos from home archives into a unique family album. Participants will create their own keepsake and share stories that connect generations.\n\nFamily memories captured in an album\n\nDuring the workshops, participants will choose photographs, tell the story of their family or their own life, and then complement the photos with comments and prepare the album using the scrapbooking method. No artistic skills or prior experience are required. Just bring photos, a willingness to create, and a readiness to share stories. You can come alone or invite your grandmother, grandchild, parent, or friend."
+        },
+        "uk": {
+          "title": "Міжпоколінні майстер-класи скрапбукінгу – сімейні альбоми",
+          "description": "У старих фотографіях приховані спогади, сімейні секрети та історії, які варто врятувати від забуття. Міжпоколінні майстер-класи скрапбукінгу в CAL Duosfera – це можливість перетворити фотографії з домашніх архівів на унікальний сімейний альбом. Учасники створять власну пам'ятку та поділяться оповідями, які об'єднують покоління.\n\nСімейні спогади, закриті в альбомі\n\nПід час майстер-класів учасники виберуть фотографії, розкажуть історію своєї родини або власного життя, а потім доповнять фотографії коментарями та підготують альбом методом скрапбукінгу. Не потрібно мати художніх здібностей або попереднього досвіду. Достатньо фотографій, бажання творити та готовності ділитися історіями. На зустрічі можна прийти самостійно або запросити бабусю, онука, батька чи друга."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Psie Pole",
+      "updated_at": "2026-10-21T11:44:06.264245+00:00"
+    },
+    "halloween-party-w-gojump-monster-alert-2026-10-29T18:00:00+01:00": {
+      "title": "Halloween Party w GOjump – Monster Alert!",
+      "date": "2026-10-29T18:00:00+01:00",
+      "end_date": "2026-10-29T18:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Małe potwory, halloweenowe wyzwania i trzy godziny szalonej zabawy czekają w GOjump MEGApark Wrocław. Park trampolin zamieni się 29 października 2026 roku w królestwo halloweenowych atrakcji, gdzie nie zabraknie skakania, śmiechu i niespodzianek. Warto przygotować kreatywne przebranie.\n\nParada potworów i halloweenowe wyzwania\n\nNa uczestników czekają specjalne halloweenowe wyzwania, parada potworów oraz upiornie pyszny poczęstunek. Dodatkowe emocje zapewni nowa strefa GOtrix. Całość dopełni halloweenowa atmosfera, kolorowe kostiumy i wspólna zabawa.\n\nTo propozycja dla tych, którzy chcą spędzić Halloween aktywnie, spotkać inne małe potwory i sprawdzić się w nietypowych wyzwaniach.\n\nInformacje organizacyjne\n• Data: 29 października 2026 r.\n• Godzina: 18:00–21:00\n• Miejsce: GOjump MEGApark Wrocław\n• Cena: 129 zł za osobę\n• Atrakcje: halloweenowe wyzwania, parada potworów, poczęstunek i zabawa na strefie GOtrix\n• Dodatkowo: mile widziane halloweenowe przebrania",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/439a434f-37b1-4892-b3f2-cb24d3aaebe2/a81bf97c-1d4f-4db1-8fa2-55cc221999f0.jpg",
+      "location": {
+        "name": "GOjump Park Trampolin Wrocław, Długosza 59, Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/halloween-party-w-gojump-monster-alert-439a434f-37b1-4892-b3f2-cb24d3aaebe2",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/halloween-party-w-gojump-monster-alert-439a434f-37b1-4892-b3f2-cb24d3aaebe2",
+      "scrapped_timestamp": "2026-10-21T11:43:40.006628+00:00",
+      "category": "Family Fun",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Halloween Party w GOjump – Monster Alert!",
+          "description": "Małe potwory, halloweenowe wyzwania i trzy godziny szalonej zabawy czekają w GOjump MEGApark Wrocław. Park trampolin zamieni się 29 października 2026 roku w królestwo halloweenowych atrakcji, gdzie nie zabraknie skakania, śmiechu i niespodzianek. Warto przygotować kreatywne przebranie.\n\nParada potworów i halloweenowe wyzwania\n\nNa uczestników czekają specjalne halloweenowe wyzwania, parada potworów oraz upiornie pyszny poczęstunek. Dodatkowe emocje zapewni nowa strefa GOtrix. Całość dopełni halloweenowa atmosfera, kolorowe kostiumy i wspólna zabawa.\n\nTo propozycja dla tych, którzy chcą spędzić Halloween aktywnie, spotkać inne małe potwory i sprawdzić się w nietypowych wyzwaniach.\n\nInformacje organizacyjne\n• Data: 29 października 2026 r.\n• Godzina: 18:00–21:00\n• Miejsce: GOjump MEGApark Wrocław\n• Cena: 129 zł za osobę\n• Atrakcje: halloweenowe wyzwania, parada potworów, poczęstunek i zabawa na strefie GOtrix\n• Dodatkowo: mile widziane halloweenowe przebrania"
+        },
+        "en": {
+          "title": "Halloween Party w GOjump – Monster Alert!",
+          "description": "Little monsters, Halloween challenges, and three hours of crazy fun await at GOjump MEGApark Wrocław. The trampoline park will transform on October 29, 2026, into a kingdom of Halloween attractions, where there will be no shortage of jumping, laughter, and surprises. It's worth preparing a creative costume.\n\nMonster parade and Halloween challenges\n\nParticipants can look forward to special Halloween challenges, a monster parade, and eerily delicious snacks. Additional excitement will be provided by the new GOtrix zone. The whole experience will be complemented by a Halloween atmosphere, colorful costumes, and shared fun.\n\nThis is a proposal for those who want to spend Halloween actively, meet other little monsters, and test themselves in unusual challenges.\n\nOrganizational information\n• Date: October 29, 2026\n• Time: 18:00–21:00\n• Place: GOjump MEGApark Wroc"
+        },
+        "uk": {
+          "title": "Хелловінська вечірка в GOjump – Попередження про монстрів!",
+          "description": "Маленькі монстри, хелловінські виклики та три години шаленої розваги чекають у GOjump MEGApark Вроцлав. Парк стрибків перетвориться 29 жовтня 2026 року на королівство хелловінських атракцій, де не бракуватиме стрибків, сміху та сюрпризів. Варто підготувати креативний костюм.\n\nПарад монстрів та хелловінські виклики\n\nНа учасників чекають спеціальні хелловінські виклики, парад монстрів та моторошно смачний перекус. Додаткові емоції забезпечить нова зона GOtrix. Усе це доповнить хелловінська атмосфера, кольорові костюми та спільна розвага.\n\nЦе пропозиція для тих, хто хоче провести Хелловін активно, зустріти інших маленьких монстрів та перевірити себе в незвичних викликах.\n\nОрганізаційна інформація\n• Дата: 29 жовтня 2026 р.\n• Година: 18:00–21:00\n• Місце: GOjump MEGApark Вроцлав"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-21T11:44:06.264265+00:00"
+    },
+    "warsztaty-tw-rczego-dialogu-w-rodzinie-bezp-atne-spotkania-weekendowe-2026-10-31T12:30:00+01:00": {
+      "title": "Warsztaty twórczego dialogu w rodzinie – bezpłatne spotkania weekendowe",
+      "date": "2026-10-31T12:30:00+01:00",
+      "end_date": "2026-10-31T12:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "Jak lepiej się słuchać, wyrażać emocje i budować rodzinne więzi? Bezpłatne weekendowe warsztaty twórczego dialogu w rodzinie to okazja, by rodzice i dzieci spędzili czas razem w kreatywny sposób. Wspólne działania artystyczne, zabawa i ćwiczenia uważności mają pomóc w rozwijaniu wzajemnego zrozumienia i odkrywaniu nowych sposobów komunikacji.\n\nTwórczość, która zbliża\n\nPodczas spotkania uczestnicy wyrażają emocje poprzez działania artystyczne, ćwiczą uważne słuchanie i lepiej poznają swoje potrzeby. Nie chodzi o stworzenie idealnego dzieła, lecz o wspólne doświadczenie, otwartość i radość z bycia razem.\n\nNie są potrzebne wcześniejsze doświadczenia artystyczne, wystarczy ciekawość i gotowość do wspólnej zabawy.\n\nUważność i relaks w hamakach\n\nArtystycznym aktywnościom towarzyszą elementy uważności, które pomagają zwolnić tempo i lepiej wsłuchać się w siebie nawzajem. Nie zabraknie też relaksu w hamakach, czyli chwili odpoczynku po wspólnych działaniach.\n\nWarsztaty organizuje Stowarzyszenie „Żyć Inaczej”, działające we Wrocławiu od 26 lat. Zajęcia realizowane są w ramach zadania publicznego „Świadoma Rodzina”, współfinansowanego przez Gminę Wrocław.\n\nLogistyka\n\n• Dla kogo: rodzice z dziećmi\n• Miejsce: Stowarzyszenie „Żyć Inaczej”, ul. Kamieńskiego 10a, Wrocław\n• Czas trwania: około 2,5–3 godzin, w zależności od potrzeb grupy\n• Termin: można wybrać dowolny, dogodny termin zajęć\n• Zapisy: SMS do Jagody Błotny pod numerem 721 072 439\n• Co zabrać: napój i obuwie zmienne\n\nGodziny zajęć mogą ulec zmianie. W takim przypadku wszyscy zapisani uczestnicy zostaną o tym poinformowani.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/66c9627d-f13c-4cf2-bc46-c23c708b29d7/8e01d274-e240-4010-80c4-710590fbad5f.jpg",
+      "location": {
+        "name": "Stowarzyszenie „Żyć Inaczej”, Kamieńskiego 10b, Wrocław",
+        "district": "Psie Pole"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/warsztaty-tworczego-dialogu-w-rodzinie-bezplatne-spotkania-weekendowe-66c9627d-f13c-4cf2-bc46-c23c708b29d7",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/warsztaty-tworczego-dialogu-w-rodzinie-bezplatne-spotkania-weekendowe-66c9627d-f13c-4cf2-bc46-c23c708b29d7",
+      "scrapped_timestamp": "2026-10-21T11:43:47.724567+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Warsztaty twórczego dialogu w rodzinie – bezpłatne spotkania weekendowe",
+          "description": "Jak lepiej się słuchać, wyrażać emocje i budować rodzinne więzi? Bezpłatne weekendowe warsztaty twórczego dialogu w rodzinie to okazja, by rodzice i dzieci spędzili czas razem w kreatywny sposób. Wspólne działania artystyczne, zabawa i ćwiczenia uważności mają pomóc w rozwijaniu wzajemnego zrozumienia i odkrywaniu nowych sposobów komunikacji.\n\nTwórczość, która zbliża\n\nPodczas spotkania uczestnicy wyrażają emocje poprzez działania artystyczne, ćwiczą uważne słuchanie i lepiej poznają swoje potrzeby. Nie chodzi o stworzenie idealnego dzieła, lecz o wspólne doświadczenie, otwartość i radość z bycia razem.\n\nNie są potrzebne wcześniejsze doświadczenia artystyczne, wystarczy ciekawość i gotowość do wspólnej zabawy.\n\nUważność i relaks w hamakach\n\nArtystycznym aktywnościom towarzyszą elementy uważności, które pomagają zwolnić tempo i lepiej wsłuchać się w siebie nawzajem. Nie zabraknie też relaksu w hamakach, czyli chwili odpoczynku po wspólnych działaniach.\n\nWarsztaty organizuje Stowarzyszenie „Żyć Inaczej”, działające we Wrocławiu od 26 lat. Zajęcia realizowane są w ramach zadania publicznego „Świadoma Rodzina”, współfinansowanego przez Gminę Wrocław.\n\nLogistyka\n\n• Dla kogo: rodzice z dziećmi\n• Miejsce: Stowarzyszenie „Żyć Inaczej”, ul. Kamieńskiego 10a, Wrocław\n• Czas trwania: około 2,5–3 godzin, w zależności od potrzeb grupy\n• Termin: można wybrać dowolny, dogodny termin zajęć\n• Zapisy: SMS do Jagody Błotny pod numerem 721 072 439\n• Co zabrać: napój i obuwie zmienne\n\nGodziny zajęć mogą ulec zmianie. W takim przypadku wszyscy zapisani uczestnicy zostaną o tym poinformowani."
+        },
+        "en": {
+          "title": "Creative Dialogue Workshops in the Family – Free Weekend Meetings",
+          "description": "How to listen better, express emotions, and build family bonds? Free weekend workshops on creative dialogue in the family are an opportunity for parents and children to spend time together in a creative way. Joint artistic activities, play, and mindfulness exercises aim to help develop mutual understanding and discover new ways of communication.\n\nCreativity that brings us closer\n\nDuring the meeting, participants express emotions through artistic activities, practice mindful listening, and get to know their needs better. It’s not about creating a perfect piece of art, but about shared experience, openness, and joy of being together.\n\nNo prior artistic experience is needed, just curiosity and readiness for shared fun.\n\nMindfulness and relaxation in hammocks\n\nArtistic activities are accompanied by elements of mindfulness..."
+        },
+        "uk": {
+          "title": "Майстер-класи творчого діалогу в родині – безкоштовні вихідні зустрічі",
+          "description": "Як краще слухати, виражати емоції та будувати сімейні зв'язки? Безкоштовні вихідні майстер-класи творчого діалогу в родині – це можливість для батьків та дітей провести час разом у креативний спосіб. Спільні художні дії, гра та вправи на уважність мають допомогти в розвитку взаєморозуміння та відкритті нових способів комунікації.\n\nТворчість, яка зближує\n\nПід час зустрічі учасники виражають емоції через художні дії, практикують уважне слухання та краще пізнають свої потреби. Не йдеться про створення ідеального твору, а про спільний досвід, відкритість та радість від спільного перебування.\n\nНе потрібні попередні художні досвіди, достатньо цікавості та готовності до спільної гри.\n\nУважність і релакс у гамаку\n\nХудожнім активностям супроводжують елементи уважності..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Psie Pole",
+      "updated_at": "2026-10-21T11:44:06.264288+00:00"
+    },
+    "halloween-party-dla-dzieci-od-7-lat-w-forma-klub-fitness-2026-10-31T16:00:00+01:00": {
+      "title": "Halloween Party dla dzieci od 7 lat w Forma Klub Fitness",
+      "date": "2026-10-31T16:00:00+01:00",
+      "end_date": "2026-10-31T16:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Duchy, czarownice, potwory i mnóstwo halloweenowych atrakcji. Pod koniec października Forma Klub Fitness zamieni się w miejsce pełne tajemnic, tańca i wesołych wyzwań. Halloween Party to propozycja dla dzieci od 7. roku życia, które lubią aktywnie spędzać czas i przebierać się za niezwykłe postacie.\n\nTanecznie, upiornie i na sportowo\n\nNa uczestników czeka program pełen ruchu i niespodzianek. Dzieci zaprezentują swoje kostiumy podczas Upiornego Pokazu Mody, nauczą się tańca z mrocznym twistem i zmierzą się z potwornie sportowymi wyzwaniami. Nie zabraknie animacji, konkursów z zaświatów i strasznych tatuaży.\n\nW planie jest także halloweenowa fotościanka, przy której można uwiecznić upiorne stylizacje, oraz przerażająco pyszne przekąski. Własne przebranie jest mile widziane, a im więcej kreatywności, tym lepiej.\n\nInformacje organizacyjne\n• Data: 31 października 2026 r.\n• Godzina: 16:00–18:00\n• Miejsce: Forma Klub Fitness, ul. Starogajowa 107\n• Wiek uczestników: od 7 lat\n• Cena: 79 zł\n• Zapisy: formularz zgłoszeniowy\n• Kontakt: 530 022 244\n\nLiczba miejsc jest ograniczona. Po wypełnieniu formularza organizatorzy proszą o niezwłoczne dokonanie płatności, aby zagwarantować dziecku udział w wydarzeniu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/1f431bb3-d25e-4ed5-aad4-fe23475b5b3f/f9a2829a-9ffa-472e-99dc-55f044db5ad3.jpg",
+      "location": {
+        "name": "Forma Klub Fitness, Starogajowa 107, 54-047 Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/halloween-party-dla-dzieci-od-7-lat-w-forma-klub-fitness-1f431bb3-d25e-4ed5-aad4-fe23475b5b3f",
+      "source": "simplygo.pl",
+      "age_hint": "7-18",
+      "age_range": {
+        "min": 7,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/halloween-party-dla-dzieci-od-7-lat-w-forma-klub-fitness-1f431bb3-d25e-4ed5-aad4-fe23475b5b3f",
+      "scrapped_timestamp": "2026-10-21T11:43:53.099078+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Music & Dance",
+        "Seasonal Festival"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Halloween Party dla dzieci od 7 lat w Forma Klub Fitness",
+          "description": "Duchy, czarownice, potwory i mnóstwo halloweenowych atrakcji. Pod koniec października Forma Klub Fitness zamieni się w miejsce pełne tajemnic, tańca i wesołych wyzwań. Halloween Party to propozycja dla dzieci od 7. roku życia, które lubią aktywnie spędzać czas i przebierać się za niezwykłe postacie.\n\nTanecznie, upiornie i na sportowo\n\nNa uczestników czeka program pełen ruchu i niespodzianek. Dzieci zaprezentują swoje kostiumy podczas Upiornego Pokazu Mody, nauczą się tańca z mrocznym twistem i zmierzą się z potwornie sportowymi wyzwaniami. Nie zabraknie animacji, konkursów z zaświatów i strasznych tatuaży.\n\nW planie jest także halloweenowa fotościanka, przy której można uwiecznić upiorne stylizacje, oraz przerażająco pyszne przekąski. Własne przebranie jest mile widziane, a im więcej kreatywności, tym lepiej.\n\nInformacje organizacyjne\n• Data: 31 października 2026 r.\n• Godzina: 16:00–18:00\n• Miejsce: Forma Klub Fitness, ul. Starogajowa 107\n• Wiek uczestników: od 7 lat\n• Cena: 79 zł\n• Zapisy: formularz zgłoszeniowy\n• Kontakt: 530 022 244\n\nLiczba miejsc jest ograniczona. Po wypełnieniu formularza organizatorzy proszą o niezwłoczne dokonanie płatności, aby zagwarantować dziecku udział w wydarzeniu."
+        },
+        "en": {
+          "title": "Halloween Party for children aged 7 and up at Forma Klub Fitness",
+          "description": "Ghosts, witches, monsters, and plenty of Halloween attractions. At the end of October, Forma Klub Fitness will transform into a place full of mysteries, dance, and cheerful challenges. The Halloween Party is an offer for children aged 7 and up who enjoy spending time actively and dressing up as extraordinary characters.\n\nDance, spooky, and sporty\n\nParticipants can expect a program full of movement and surprises. Children will showcase their costumes during the Spooky Fashion Show, learn a dance with a dark twist, and face monstrous sports challenges. There will be animations, competitions from the afterlife, and scary tattoos.\n\nThere is also a Halloween photo booth planned, where you can capture your spooky styles, as well as frightfully delicious snacks. Costumes are welcome, and the more creative, the better!"
+        },
+        "uk": {
+          "title": "Хелловінська вечірка для дітей від 7 років у Forma Klub Fitness",
+          "description": "Духи, відьми, монстри та безліч хелловінських атракцій. Наприкінці жовтня Forma Klub Fitness перетвориться на місце, сповнене таємниць, танців та веселих викликів. Хелловінська вечірка - це пропозиція для дітей від 7 року життя, які люблять активно проводити час та перевдягатися в незвичайні персонажі.\n\nТанцювально, моторошно та спортивно\n\nНа учасників чекає програма, сповнена руху та несподіванок. Діти продемонструють свої костюми під час Моторошного Показу Моди, навчаться танцю з темним твістом та змагатимуться з моторошно спортивними викликами. Не бракуватиме анімацій, конкурсів з потойбіччя та страшних татуювань.\n\nУ плані також є хелловінська фотозона, біля якої можна увічнити моторошні стилізації, а також жахливо смачні закуски. Власне вбрання вітається, а чим більше креативу, тим краще!"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-10-21T11:44:06.264311+00:00"
     }
   }
 }

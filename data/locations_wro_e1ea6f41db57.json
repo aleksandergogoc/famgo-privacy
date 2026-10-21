@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:37:28.863592+00:00",
+  "updated_at": "2026-10-21T12:01:43.446532+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2554,6 +2554,96 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-10-20T11:23:12.846682+00:00"
+    },
+    "miejska biblioteka publiczna - filia nr 45 traugutta 82": {
+      "name": "Miejska Biblioteka Publiczna, filia nr 45, 82, Generała Romualda Traugutta, Trójkąt, Przedmieście Oławskie, Wrocław, województwo dolnośląskie, 50-418, Polska",
+      "district": "Stare Miasto",
+      "address": "Miejska Biblioteka Publiczna, filia nr 45, 82, Generała Romualda Traugutta, Trójkąt, Przedmieście Oławskie, Wrocław, województwo dolnośląskie, 50-418, Polska",
+      "normalized": "miejska biblioteka publiczna - filia nr 45 traugutta 82",
+      "lat": 51.1024445,
+      "lng": 17.0518241,
+      "updated_at": "2026-10-21T11:39:50.520012+00:00"
+    },
+    "coffee planet księcia witolda 60": {
+      "name": "Coffee Planet, 60/3, Księcia Witolda, Nadodrze, Wrocław, województwo dolnośląskie, 50-203, Polska",
+      "district": "Śródmieście",
+      "address": "Coffee Planet, 60/3, Księcia Witolda, Nadodrze, Wrocław, województwo dolnośląskie, 50-203, Polska",
+      "normalized": "coffee planet księcia witolda 60",
+      "lat": 51.1152822,
+      "lng": 17.0225821,
+      "updated_at": "2026-10-21T11:39:51.863630+00:00"
+    },
+    "radio wrocław karkonoska 10": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "radio wrocław karkonoska 10",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-10-21T11:39:59.360402+00:00"
+    },
+    "aleja bielany": {
+      "name": "Helios, 7-9, Czekoladowa, Bielany Wrocławskie, gmina Kobierzyce, powiat wrocławski, województwo dolnośląskie, 55-040, Polska",
+      "district": "Psie Pole",
+      "address": "Helios, 7-9, Czekoladowa, Bielany Wrocławskie, gmina Kobierzyce, powiat wrocławski, województwo dolnośląskie, 55-040, Polska",
+      "normalized": "aleja bielany",
+      "lat": 51.0493703,
+      "lng": 16.958687,
+      "updated_at": "2026-10-21T11:41:01.390247+00:00"
+    },
+    "pergola": {
+      "name": "Hala Stulecia, 1, Wystawowa, Dąbie, Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, województwo dolnośląskie, 51-618, Polska",
+      "district": "Śródmieście",
+      "address": "Hala Stulecia, 1, Wystawowa, Dąbie, Biskupin-Sępolno-Dąbie-Bartoszowice, Wrocław, województwo dolnośląskie, 51-618, Polska",
+      "normalized": "pergola",
+      "lat": 51.1068875,
+      "lng": 17.0773185,
+      "updated_at": "2026-10-21T11:41:04.231931+00:00"
+    },
+    "cal karłowice-różanka": {
+      "name": "CAL Duosfera, 8, Bałtycka, Polanka, Różanka, Karłowice-Różanka, Wrocław, województwo dolnośląskie, 51-109, Polska",
+      "district": "Psie Pole",
+      "address": "CAL Duosfera, 8, Bałtycka, Polanka, Różanka, Karłowice-Różanka, Wrocław, województwo dolnośląskie, 51-109, Polska",
+      "normalized": "cal karłowice-różanka",
+      "lat": 51.1387889,
+      "lng": 17.0303354,
+      "updated_at": "2026-10-21T11:41:08.392680+00:00"
+    },
+    "miejska biblioteka publiczna - filia nr 45": {
+      "name": "82, Generała Romualda Traugutta, Trójkąt, Przedmieście Oławskie, Wrocław, województwo dolnośląskie, 50-418, Polska",
+      "district": "Stare Miasto",
+      "address": "82, Generała Romualda Traugutta, Trójkąt, Przedmieście Oławskie, Wrocław, województwo dolnośląskie, 50-418, Polska",
+      "normalized": "miejska biblioteka publiczna - filia nr 45",
+      "lat": 51.1024788,
+      "lng": 17.0518816,
+      "updated_at": "2026-10-21T11:41:11.787831+00:00"
+    },
+    "stowarzyszenie „żyć inaczej”": {
+      "name": "Henryka Michała Kamieńskiego, Karłowice, Karłowice-Różanka, Wrocław, województwo dolnośląskie, 51-124, Polska",
+      "district": "Psie Pole",
+      "address": "Henryka Michała Kamieńskiego, Karłowice, Karłowice-Różanka, Wrocław, województwo dolnośląskie, 51-124, Polska",
+      "normalized": "stowarzyszenie „żyć inaczej”",
+      "lat": 51.1473285,
+      "lng": 17.0423481,
+      "updated_at": "2026-10-21T11:41:14.952012+00:00"
+    },
+    "forma klub fitness": {
+      "name": "107, Starogajowa, Stabłowice, Leśnica, Wrocław, województwo dolnośląskie, 54-047, Polska",
+      "district": "Fabryczna",
+      "address": "107, Starogajowa, Stabłowice, Leśnica, Wrocław, województwo dolnośląskie, 54-047, Polska",
+      "normalized": "forma klub fitness",
+      "lat": 51.1543769,
+      "lng": 16.8914588,
+      "updated_at": "2026-10-21T11:41:18.841608+00:00"
+    },
+    "przedszkole columb": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "przedszkole columb",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-10-21T11:41:22.895476+00:00"
     }
   }
 }

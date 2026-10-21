@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:37:32.625385+00:00",
+  "updated_at": "2026-10-21T12:01:46.728403+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5125,6 +5125,51 @@
       "lat": 50.062,
       "lng": 19.932,
       "updated_at": "2026-10-20T11:05:13.632571+00:00"
+    },
+    "plac na stawach": {
+      "name": "Plac Na Stawach, Zwierzyniec, Kraków, województwo małopolskie, Polska",
+      "district": "Zwierzyniec",
+      "address": "Plac Na Stawach, Zwierzyniec, Kraków, województwo małopolskie, Polska",
+      "normalized": "plac na stawach",
+      "lat": 50.0547093,
+      "lng": 19.9201598,
+      "updated_at": "2026-10-21T11:19:44.305788+00:00"
+    },
+    "wypożyczalnia i pracownia dla dzieci wojewódzkiej biblioteki publicznej": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "wypożyczalnia i pracownia dla dzieci wojewódzkiej biblioteki publicznej",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-10-21T11:19:50.649024+00:00"
+    },
+    "kościół św. salwatora": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "kościół św. salwatora",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-10-21T11:20:18.575277+00:00"
+    },
+    "sala obrad urzędu miasta krakowa": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "sala obrad urzędu miasta krakowa",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-10-21T11:20:51.075144+00:00"
+    },
+    "(expo kraków": {
+      "name": "ul. Galicyjska 9, Kraków",
+      "district": "Krowodrza",
+      "address": "ul. Galicyjska 9, Kraków",
+      "normalized": "(expo kraków",
+      "lat": 50.066,
+      "lng": 19.914,
+      "updated_at": "2026-10-21T11:31:41.925823+00:00"
     }
   }
 }

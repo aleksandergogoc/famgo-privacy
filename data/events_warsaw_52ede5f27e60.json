@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:22:43.194780+00:00",
+  "updated_at": "2026-10-21T11:19:07.918674+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -2998,48 +2998,6 @@
       "district": "Mokotów",
       "updated_at": "2026-09-19T10:54:28.605536+00:00"
     },
-    "ch-r-mam-2026-10-21T10:30:00+02:00": {
-      "title": "Chór Mam",
-      "date": "2026-10-21T10:30:00+02:00",
-      "end_date": "2026-10-21T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy wszystkie mamy w ciąży i z małymi dziećmi. Nie musisz umieć śpiewać - najważniejsze, żebyś wyszła z domu na spotkanie z innymi kobietami. Bez przesłuchań i ocen! Więcej informacji na Facebooku na grupie „Chór Mam na Żoliborzu”.",
-      "url": "https://zoliborskidomkultury.pl/wydarzenie/chor-mam#21-10",
-      "source": "zoliborskidomkultury.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "Żoliborski Dom Kultury – MAL · ul. Marii Kazimiery 20",
-        "district": "Żoliborz"
-      },
-      "image": "https://zoliborskidomkultury.pl/assets/ogimage.jpg",
-      "scrapped_url": "https://zoliborskidomkultury.pl/wydarzenie/chor-mam#21-10",
-      "scrapped_timestamp": "2026-09-19T10:49:39.193707+00:00",
-      "category": "Music & Dance",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Chór Mam",
-          "description": "Zapraszamy wszystkie mamy w ciąży i z małymi dziećmi. Nie musisz umieć śpiewać - najważniejsze, żebyś wyszła z domu na spotkanie z innymi kobietami. Bez przesłuchań i ocen! Więcej informacji na Facebooku na grupie „Chór Mam na Żoliborzu”."
-        },
-        "en": {
-          "title": "Moms' Choir",
-          "description": "We invite all pregnant moms and those with small children. You don't need to know how to sing - the most important thing is to get out of the house and meet other women. No auditions or judgments! More information on Facebook in the group 'Moms' Choir in Żoliborz.'"
-        },
-        "uk": {
-          "title": "Хор Мам",
-          "description": "Запрошуємо всіх мам у вагітності та з маленькими дітьми. Тобі не потрібно вміти співати - найголовніше, щоб ти вийшла з дому на зустріч з іншими жінками. Без прослуховувань і оцінок! Більше інформації на Facebook у групі «Хор Мам на Жолібожі»."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Żoliborz",
-      "updated_at": "2026-09-19T10:54:28.605958+00:00"
-    },
     "ch-r-mam-2026-10-28T10:30:00+01:00": {
       "title": "Chór Mam",
       "date": "2026-10-28T10:30:00+01:00",
@@ -3714,47 +3672,6 @@
       },
       "district": "Targówek",
       "updated_at": "2026-09-28T13:48:22.635735+00:00"
-    },
-    "tajemnice-drzew-spotkania-przyrodnicze-2026-10-20T15:30:00+02:00": {
-      "title": "Tajemnice drzew. Spotkania przyrodnicze",
-      "date": "2026-10-20T15:30:00+02:00",
-      "end_date": "2026-10-20T15:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Uczestnicy dowiedzą się o rywalizacji i współpracy drzew, nauczą się rozpoznawać gatunki, poznają warstwy lasu oraz przyczyny sezonowych zmian. Część praktyczna obejmuje przygotowanie własnej karty zielnikowej.",
-      "url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/tajemnice-drzew#20-10",
-      "source": "lazienki-krolewskie.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 6,
-        "max": 6
-      },
-      "location": {
-        "name": "90 min Łazienki Królewskie, Nowa Palmiarnia · ul. Agrykola 1",
-        "district": "Śródmieście"
-      },
-      "image": "http://www.lazienki-krolewskie.pl/public/upload/pages/thumb/545b63bf8a50d.jpg",
-      "scrapped_url": "https://www.lazienki-krolewskie.pl/pl/wydarzenia/tajemnice-drzew#20-10",
-      "scrapped_timestamp": "2026-09-28T13:38:40.530749+00:00",
-      "translations": {
-        "pl": {
-          "title": "Tajemnice drzew. Spotkania przyrodnicze",
-          "description": "Uczestnicy dowiedzą się o rywalizacji i współpracy drzew, nauczą się rozpoznawać gatunki, poznają warstwy lasu oraz przyczyny sezonowych zmian. Część praktyczna obejmuje przygotowanie własnej karty zielnikowej."
-        },
-        "en": {
-          "title": "The Secrets of Trees. Nature Meetings",
-          "description": "Participants will learn about the competition and cooperation of trees, learn to recognize species, discover the layers of the forest, and understand the reasons for seasonal changes. The practical part includes preparing their own herbarium card."
-        },
-        "uk": {
-          "title": "Таємниці дерев. Природничі зустрічі",
-          "description": "Учасники дізнаються про конкуренцію та співпрацю дерев, навчаться розпізнавати види, познайомляться з шарами лісу та причинами сезонних змін. Частина практична охоплює підготовку власної картки гербарію."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-09-28T13:48:22.637135+00:00"
     },
     "tajemnice-drzew-spotkania-przyrodnicze-2026-10-21T15:30:00+02:00": {
       "title": "Tajemnice drzew. Spotkania przyrodnicze",
@@ -5837,48 +5754,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-09-30T12:35:33.296068+00:00"
     },
-    "mama-i-bobas-w-murowance-2026-10-21T10:30:00+02:00": {
-      "title": "Mama i Bobas w Murowance",
-      "date": "2026-10-21T10:30:00+02:00",
-      "end_date": "2026-10-21T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Jeśli chcesz przyjść i poznać inne kobiety na tym samym etapie życia – przyjdź do Murowanki. Otrzymasz wsparcie oraz czas dla siebie pomimo przebywania z bobasem. Być może znajdziesz tu swoją wioskę, bezpieczną przystań, która pozwoli odetchnąć i rozpuścić wiele ciężkich mentalnych ciężarów, które codziennie nosisz.\n\nNaszym celem jest przeciwdziałanie depresji poporodowej i wypaleniu rodzicielskiemu. Dodatkowo marzymy o tym aby młode mamy zintegrowały się po sąsiedzku i poczuły, że nie są same w tej bardzo pięknej oraz wymagającej drodze macierzyństwa.\n\nP.S. W Murowance czeka na maluszki mata do zabawy, a dla wygody Mam – przewijak.\n\nProwadząca: Dorota Frydecka – kulturoznawczyni, prowadząca kręgi kobiet (szczególnie dla przyszłych i młodych mam), mama dwóch dziewczynek.",
-      "url": "https://www.wck-wawer.pl/wck-murowanka/aktualnosci/archiwum-2026/mama-i-bobas2#21-10",
-      "source": "wck-wawer.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 1
-      },
-      "location": {
-        "name": "Wawerskie Centrum Kultury, Filia Murowanka · ul. Płowiecka 77",
-        "district": "Wawer"
-      },
-      "image": "https://www.wck-wawer.pl/assets/cache/images/aktualnosci-murowanka/2026/Mama%20i%20bobas%20pa%C5%BAdziernik%20a3-684x-e97.png",
-      "scrapped_url": "https://www.wck-wawer.pl/wck-murowanka/aktualnosci/archiwum-2026/mama-i-bobas2#21-10",
-      "scrapped_timestamp": "2026-09-30T12:31:24.362175+00:00",
-      "category": "Family Fun",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Mama i Bobas w Murowance",
-          "description": "Jeśli chcesz przyjść i poznać inne kobiety na tym samym etapie życia – przyjdź do Murowanki. Otrzymasz wsparcie oraz czas dla siebie pomimo przebywania z bobasem. Być może znajdziesz tu swoją wioskę, bezpieczną przystań, która pozwoli odetchnąć i rozpuścić wiele ciężkich mentalnych ciężarów, które codziennie nosisz.\n\nNaszym celem jest przeciwdziałanie depresji poporodowej i wypaleniu rodzicielskiemu. Dodatkowo marzymy o tym aby młode mamy zintegrowały się po sąsiedzku i poczuły, że nie są same w tej bardzo pięknej oraz wymagającej drodze macierzyństwa.\n\nP.S. W Murowance czeka na maluszki mata do zabawy, a dla wygody Mam – przewijak.\n\nProwadząca: Dorota Frydecka – kulturoznawczyni, prowadząca kręgi kobiet (szczególnie dla przyszłych i młodych mam), mama dwóch dziewczynek."
-        },
-        "en": {
-          "title": "Mama and Baby in Murowanka",
-          "description": "If you want to come and meet other women at the same stage of life – come to Murowanka. You will receive support and time for yourself despite being with a baby. Perhaps you will find your village here, a safe haven that allows you to breathe and let go of many heavy mental burdens that you carry every day.\n\nOur goal is to counteract postpartum depression and parental burnout. Additionally, we dream of young mothers integrating with each other in the neighborhood and feeling that they are not alone on this very beautiful and demanding journey of motherhood.\n\nP.S. In Murowanka, there is a play mat waiting for the little ones, and for the convenience of Moms – a changing table.\n\nLeader: Dorota Frydecka – cultural studies expert, leading women's circles (especially for future and young moms), mother of two girls."
-        },
-        "uk": {
-          "title": "Мама і Бобас в Мурованці",
-          "description": "Якщо ти хочеш прийти і познайомитися з іншими жінками на тому ж етапі життя – прийди до Мурованки. Отримаєш підтримку та час для себе, незважаючи на перебування з бобасом. Можливо, ти знайдеш тут свою село, безпечну гавань, яка дозволить відпочити і розпустити багато важких ментальних тягарів, які ти щодня носиш.\n\nНашою метою є протидія депресії після пологів і вигоранню батьків. Додатково мріємо про те, щоб молоді мами інтегрувалися по сусідству і відчули, що не самотні на цій дуже красивій та вимогливій дорозі материнства.\n\nP.S. У Мурованці чекає на малюків килимок для ігор, а для зручності Мам – пеленальний столик.\n\nВедуча: Дорота Фридецька – культурологиня, ведуча жіночих кругів (особливо для майбутніх і молодих мам), мама двох дівчаток."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wawer",
-      "updated_at": "2026-09-30T12:35:33.297828+00:00"
-    },
     "plastusie-warsztaty-interdyscyplinarne-2026-10-22T11:00:00+02:00": {
       "title": "Plastusie - warsztaty interdyscyplinarne",
       "date": "2026-10-22T11:00:00+02:00",
@@ -7002,47 +6877,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-10-01T12:57:03.903231+00:00"
     },
-    "warsztaty-w-chatce-niez-e-zi-ka-2026-10-21T10:30:00+02:00": {
-      "title": "Warsztaty w Chatce: Niezłe ziółka",
-      "date": "2026-10-21T10:30:00+02:00",
-      "end_date": "2026-10-21T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "W każdą 3 środę miesiąca zapraszamy na cykl warsztatów zielarskich – jak w mieście żyć zgodnie z naturą.\n\nNiezłe Ziółko to nie tylko warsztaty.\nTo powrót do korzeni.\nTo przypomnienie, że natura jest bliżej, niż nam się wydaje.\n\nW październiku w Bogatej Chacie będzie fermentować!\n\nBędziemy robić octy, oxymele i kombuchę. Będzie trochę teorii, ale przede wszystkim dużo praktyki – będziemy nastawiać, mieszać, próbować i rozmawiać o tym, co sprawia, że te nasze słoiki zaczynają żyć.\n\nPokażę Wam, jak zrobić własny ocet, jak przygotować oxymele i od czego zacząć przygodę z kombuchą. Będzie też o tym, co można wykorzystać, z czym połączyć i jak później prowadzić swoje fermenty w domu.\n\nBędzie dużo ciekawostek, zapachów, smaków i oczywiście degustacja.\n\nJeśli chcecie poznać trochę tajemnic fermentacji i zrobić coś własnymi rękami – zapraszam!",
-      "url": "https://fundacjabogatachata.com/wydarzenia/warsztaty-w-chatce-niezle-ziolka-2/",
-      "source": "fundacjabogatachata.com",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 4
-      },
-      "location": {
-        "name": "Fundacja Bogata Chata · ul. Kossakowskiego 26/28",
-        "district": "Wawer"
-      },
-      "image": "https://fundacjabogatachata.com/wp-content/uploads/2026/09/14-1024x576.png",
-      "scrapped_url": "https://fundacjabogatachata.com/wydarzenia/warsztaty-w-chatce-niezle-ziolka-2/",
-      "scrapped_timestamp": "2026-10-01T12:54:29.380231+00:00",
-      "translations": {
-        "pl": {
-          "title": "Warsztaty w Chatce: Niezłe ziółka",
-          "description": "W każdą 3 środę miesiąca zapraszamy na cykl warsztatów zielarskich – jak w mieście żyć zgodnie z naturą.\n\nNiezłe Ziółko to nie tylko warsztaty.\nTo powrót do korzeni.\nTo przypomnienie, że natura jest bliżej, niż nam się wydaje.\n\nW październiku w Bogatej Chacie będzie fermentować!\n\nBędziemy robić octy, oxymele i kombuchę. Będzie trochę teorii, ale przede wszystkim dużo praktyki – będziemy nastawiać, mieszać, próbować i rozmawiać o tym, co sprawia, że te nasze słoiki zaczynają żyć.\n\nPokażę Wam, jak zrobić własny ocet, jak przygotować oxymele i od czego zacząć przygodę z kombuchą. Będzie też o tym, co można wykorzystać, z czym połączyć i jak później prowadzić swoje fermenty w domu.\n\nBędzie dużo ciekawostek, zapachów, smaków i oczywiście degustacja.\n\nJeśli chcecie poznać trochę tajemnic fermentacji i zrobić coś własnymi rękami – zapraszam!"
-        },
-        "en": {
-          "title": "Workshops in the Cottage: Nice Herbs",
-          "description": "Every 3rd Wednesday of the month, we invite you to a series of herbal workshops – how to live in harmony with nature in the city.\n\nNice Herb is not just workshops.\nIt’s a return to the roots.\nIt’s a reminder that nature is closer than we think.\n\nIn October, it will be fermenting in the Rich Cottage!\n\nWe will be making vinegars, oxymeals, and kombucha. There will be some theory, but above all, a lot of practice – we will be setting, mixing, tasting, and talking about what makes our jars come to life.\n\nI will show you how to make your own vinegar, how to prepare oxymeals, and where to start your adventure with kombucha. There will also be information on what can be used, what to combine, and how to manage your ferments at home later on.\n\nThere will be plenty of curiosities, scents, flavors, and of course, tasting.\n\nIf you want to learn some secrets of fermentation..."
-        },
-        "uk": {
-          "title": "Майстер-класи в Чатці: Непогані трави",
-          "description": "В кожну 3 середу місяця запрошуємо на цикл майстер-класів з травництва – як у місті жити згідно з природою.\n\nНепогане Трави це не тільки майстер-класи.\nЦе повернення до коренів.\nЦе нагадування, що природа ближче, ніж нам здається.\n\nВ жовтні в Багатій Чаті буде ферментувати!\n\nМи будемо робити оцти, оксімелі та комбучу. Буде трохи теорії, але перш за все багато практики – будемо готувати, змішувати, пробувати і говорити про те, що робить наші банки починають жити.\n\nПокажу вам, як зробити власний оцет, як приготувати оксімелі і з чого почати пригоду з комбучею. Буде також про те, що можна використати, з чим поєднати і як потім вести свої ферменти вдома.\n\nБуде багато цікавостей, запахів, смаків і звичайно дегустація.\n\nЯкщо хочете дізнатися трохи таємниць ферментації"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Wawer",
-      "updated_at": "2026-10-01T12:57:03.903370+00:00"
-    },
     "spektakl-dla-dzieci-na-jesiennym-li-ciu-w-wykonaniu-teatru-dur-moll-2026-10-21T18:00:00+02:00": {
       "title": "Spektakl dla dzieci „Na jesiennym liściu” w wykonaniu Teatru Dur-Moll",
       "date": "2026-10-21T18:00:00+02:00",
@@ -7996,49 +7830,6 @@
       "district": "Bielany",
       "updated_at": "2026-10-03T11:42:15.453783+00:00"
     },
-    "ania-z-zielonego-wzg-rza-spektakl-rodzinny-2026-10-21T09:30:00+02:00": {
-      "title": "Ania z Zielonego Wzgórza – spektakl rodzinny",
-      "date": "2026-10-21T09:30:00+02:00",
-      "end_date": "2026-10-21T09:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Ania z Zielonego Wzgórza na deskach Teatru Kamienica w Warszawie - serdecznie zapraszamy na wyjątkowy spektakl dla całej rodziny! \nAnia Shirley, nastoletnia bohaterka powieści Lucy Maud Montgomery, romantyczna, osobliwa dziewczynka walcząca o swoje marzenia, roztaczająca wokół siebie wielką radość i miłość. Jej przygody od lat zachwycają, bawią i wzruszają czytelników.\nSpecjalnie dla Młodych Widzów marzycielską Anię ożywimy na scenie Teatru Kamienica. Tu skradnie serca swych opiekunów – Maryli i Mateusza – rozbawi Was do łez i pokaże, że wiara w marzenia czyni cuda, a bycie damą nie zależy od ilości kwiatów na kapeluszu, ale od tego jak potrafimy wybrnąć z każdej, nawet najtrudniejszej sytuacji. Niech na dzisiejszym przedstawieniu Ania zostanie Waszym przewodnikiem po Zielonym Wzgórzu i napełni Wasze serca radością!\nCzas trwania spektaklu: 120 minut z przerwą.\nDla Widzów powyżej 8 roku życia.\n \nReżyseria: Karol Stępkowski\nMuzyka: Mateusz Dębski\nScenografia: Małgorzata Grabowska-Kozera\nKostiumy: Małgorzata Grabowska-Kozera\nObsada: Olga Sarzyńska, Dominika Majewska, Anna Zagórska, Joanna Węgrzynowska, Joanna Pach-Żbikowska, Karol Stępkowski, Cezary Morawski\nRealizujemy projekty „Klasa w Warszawie. Warszawa z klasą” oraz „Kulturalny przedszkolak”.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/7889677a-8424-4eae-9a69-835f52914a1d/d646abe7-a99b-46c7-8180-50566277a45d.jpg",
-      "location": {
-        "name": "Teatr Kamienica w Warszawie - Scena Orla, Warszawa",
-        "district": "Ochota"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/ania-z-zielonego-wzgorza-spektakl-rodzinny-7889677a-8424-4eae-9a69-835f52914a1d",
-      "source": "simplygo.pl",
-      "age_hint": "7-14",
-      "age_range": {
-        "min": 7,
-        "max": 14
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/ania-z-zielonego-wzgorza-spektakl-rodzinny-7889677a-8424-4eae-9a69-835f52914a1d",
-      "scrapped_timestamp": "2026-10-03T11:42:06.269265+00:00",
-      "category": "Theater",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Ania z Zielonego Wzgórza – spektakl rodzinny",
-          "description": "Ania z Zielonego Wzgórza na deskach Teatru Kamienica w Warszawie - serdecznie zapraszamy na wyjątkowy spektakl dla całej rodziny! \nAnia Shirley, nastoletnia bohaterka powieści Lucy Maud Montgomery, romantyczna, osobliwa dziewczynka walcząca o swoje marzenia, roztaczająca wokół siebie wielką radość i miłość. Jej przygody od lat zachwycają, bawią i wzruszają czytelników.\nSpecjalnie dla Młodych Widzów marzycielską Anię ożywimy na scenie Teatru Kamienica. Tu skradnie serca swych opiekunów – Maryli i Mateusza – rozbawi Was do łez i pokaże, że wiara w marzenia czyni cuda, a bycie damą nie zależy od ilości kwiatów na kapeluszu, ale od tego jak potrafimy wybrnąć z każdej, nawet najtrudniejszej sytuacji. Niech na dzisiejszym przedstawieniu Ania zostanie Waszym przewodnikiem po Zielonym Wzgórzu i napełni Wasze serca radością!\nCzas trwania spektaklu: 120 minut z przerwą.\nDla Widzów powyżej 8 roku życia.\n \nReżyseria: Karol Stępkowski\nMuzyka: Mateusz Dębski\nScenografia: Małgorzata Grabowska-Kozera\nKostiumy: Małgorzata Grabowska-Kozera\nObsada: Olga Sarzyńska, Dominika Majewska, Anna Zagórska, Joanna Węgrzynowska, Joanna Pach-Żbikowska, Karol Stępkowski, Cezary Morawski\nRealizujemy projekty „Klasa w Warszawie. Warszawa z klasą” oraz „Kulturalny przedszkolak”."
-        },
-        "en": {
-          "title": "Anne of Green Gables – family show",
-          "description": "Anne of Green Gables on the stage of the Kamienica Theatre in Warsaw - we warmly invite you to a unique show for the whole family!  \nAnne Shirley, the teenage heroine of Lucy Maud Montgomery's novel, a romantic, quirky girl fighting for her dreams, radiating great joy and love around her. Her adventures have delighted, entertained, and moved readers for years.  \nEspecially for Young Viewers, we will bring the dreamy Anne to life on the stage of the Kamienica Theatre. Here she will steal the hearts of her guardians – Marilla and Matthew – make you laugh to tears, and show that believing in dreams makes miracles happen, and being a lady does not depend on the number of flowers on a hat, but on how we can get out of any, even the most difficult situation. Let Anne be your guide through Green Gables in today's performance and to"
-        },
-        "uk": {
-          "title": "Аня з Зеленого Пагорба – сімейний спектакль",
-          "description": "Аня з Зеленого Пагорба на сцені Театру Кам'яниця у Варшаві - сердечно запрошуємо на унікальний спектакль для всієї родини! \nАня Ширлі, підліткова героїня роману Люсі Мод Монтгомері, романтична, незвичайна дівчинка, яка бореться за свої мрії, розкриваючи навколо себе велику радість і любов. Її пригоди вже багато років захоплюють, веселять і зворушують читачів.\nСпеціально для Молодих Глядачів мрійливу Аню ми оживимо на сцені Театру Кам'яниця. Тут вона вкраде серця своїх опікунів – Марили і Матвія – розсмішить вас до сліз і покаже, що віра в мрії творить дива, а бути леді не залежить від кількості квітів на капелюсі, а від того, як ми можемо вибратися з кожної, навіть найскладнішої ситуації. Нехай на сьогоднішньому представленні Аня стане вашим провідником по Зеленому Пагорбу і на"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.ebilet.pl/rodzina/spektakle-dla-dzieci/ania-z-zielonego-wzgorza-1?partner=tradedoubler"
-      },
-      "district": "Ochota",
-      "updated_at": "2026-10-03T11:42:15.454179+00:00"
-    },
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-11-18T11:00:00+01:00": {
       "title": "Interaktywne, humorystyczne widowisko z wykonaniem doświadczeń chemicznych i fizycznych na żywo",
       "date": "2026-11-18T11:00:00+01:00",
@@ -8936,48 +8727,6 @@
       },
       "district": "Mokotów",
       "updated_at": "2026-10-07T13:19:11.603799+00:00"
-    },
-    "parada-dzidziusi-w-park-skaryszewski-2026-10-21T13:00:00+02:00": {
-      "title": "Parada Dzidziusiów: Park Skaryszewski",
-      "date": "2026-10-21T13:00:00+02:00",
-      "end_date": "2026-10-21T13:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Podczas naszych spotkań odkrywasz ciekawostki o Warszawie, dowiadujesz się czegoś nowego o architekturze i sztuce, poznajesz innych rodziców i wymieniasz się doświadczeniami, nawiązujesz znajomości, które często przeradzają się w przyjaźnie.\n\nNasze spacery z wózkami odbywają się w różnych dzielnicach Warszawy – czasem w parkach i ogrodach, innym razem w urokliwych uliczkach, a niekiedy wchodzimy do muzeum czy innego ciekawego miejsca. Trasy są w 100% dostosowane do wózków, a atmosfera na spacerach jest zawsze luźna i życzliwa.\n\nNie ma pośpiechu – w razie potrzeby robimy przerwy na karmienie, przewijanie czy chwilę oddechu. Płacz dziecka? Nikomu to nie przeszkadza. Pomagamy sobie nawzajem.\n\nSpacer jest skierowany do dorosłych, nie do dzieci – starszaki często się nudzą i uciekają z wózków.",
-      "url": "https://www.przewodnikwarszawa.com.pl/paradadzidziusiow/",
-      "source": "przewodnikwarszawa.com.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "age_range": {
-        "min": 0,
-        "max": 1
-      },
-      "location": {
-        "name": "1,5 godz. Park Skaryszewski",
-        "district": "Praga-Południe"
-      },
-      "image": "https://www.przewodnikwarszawa.com.pl/wp-content/uploads/2022/12/cropped-cropped-cropped-D96CAC91-544D-441E-BC18-1AC74B2567DF-scaled-1.jpeg",
-      "scrapped_url": "https://www.przewodnikwarszawa.com.pl/paradadzidziusiow/",
-      "scrapped_timestamp": "2026-10-07T13:13:03.063401+00:00",
-      "category": "Family Fun",
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Parada Dzidziusiów: Park Skaryszewski",
-          "description": "Podczas naszych spotkań odkrywasz ciekawostki o Warszawie, dowiadujesz się czegoś nowego o architekturze i sztuce, poznajesz innych rodziców i wymieniasz się doświadczeniami, nawiązujesz znajomości, które często przeradzają się w przyjaźnie.\n\nNasze spacery z wózkami odbywają się w różnych dzielnicach Warszawy – czasem w parkach i ogrodach, innym razem w urokliwych uliczkach, a niekiedy wchodzimy do muzeum czy innego ciekawego miejsca. Trasy są w 100% dostosowane do wózków, a atmosfera na spacerach jest zawsze luźna i życzliwa.\n\nNie ma pośpiechu – w razie potrzeby robimy przerwy na karmienie, przewijanie czy chwilę oddechu. Płacz dziecka? Nikomu to nie przeszkadza. Pomagamy sobie nawzajem.\n\nSpacer jest skierowany do dorosłych, nie do dzieci – starszaki często się nudzą i uciekają z wózków."
-        },
-        "en": {
-          "title": "Dziśdziów Parade: Skaryszewski Park",
-          "description": "During our meetings, you discover interesting facts about Warsaw, learn something new about architecture and art, meet other parents and exchange experiences, and establish connections that often turn into friendships.\n\nOur stroller walks take place in various districts of Warsaw – sometimes in parks and gardens, other times in charming streets, and occasionally we enter a museum or another interesting place. The routes are 100% stroller-friendly, and the atmosphere during the walks is always relaxed and friendly.\n\nThere is no rush – if needed, we take breaks for feeding, changing, or a moment to catch our breath. A crying baby? It doesn't bother anyone. We help each other out.\n\nThe walk is aimed at adults, not children – older kids often get bored and escape from the strollers."
-        },
-        "uk": {
-          "title": "Парада Дзидзюсів: Парк Скаришевський",
-          "description": "Під час наших зустрічей ти відкриваєш цікаві факти про Варшаву, дізнаєшся щось нове про архітектуру та мистецтво, знайомишся з іншими батьками та обмінюєшся досвідом, зав'язуєш знайомства, які часто перетворюються на дружбу.\n\nНаші прогулянки з візками відбуваються в різних районах Варшави – іноді в парках та садах, іншим разом у затишних вуличках, а іноді ми заходимо до музею чи іншого цікавого місця. Маршрути на 100% адаптовані до візків, а атмосфера на прогулянках завжди невимушена та доброзичлива.\n\nНемає поспіху – у разі потреби робимо перерви на годування, підгузки чи хвилинку відпочинку. Плач дитини? Нікому це не заважає. Ми допомагаємо один одному.\n\nПрогулянка спрямована на дорослих, а не на дітей – старші діти часто нудьгують і втікають з візків."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-10-07T13:19:11.604578+00:00"
     },
     "naukowe-zaj-cia-kreatywne-dla-dzieci-2026-10-21T16:00:00+02:00": {
       "title": "Naukowe zajęcia kreatywne dla dzieci",
@@ -9972,48 +9721,6 @@
       "district": "Praga-Południe",
       "updated_at": "2026-10-07T13:19:11.605031+00:00"
     },
-    "rodzinne-zaj-cia-koszykarskie-2026-10-20T19:30:00+02:00": {
-      "title": "Rodzinne zajęcia koszykarskie",
-      "date": "2026-10-20T19:30:00+02:00",
-      "end_date": "2026-10-20T19:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Centrum Sportu Wilanów w ramach programu AKTYWNA RODZINA zaprasza “Zagrajmy wspólnie w kosza od 6 października w hali Uprawna 9/17”.\n\nBezpłatne, rodzinne zajęcia z trenerem - WTORKI w godz. 19:30-21:00 do 15 grudnia\n\nZapisy >> e-mail csw@wilanow.pl 22 885 00 60 wew. 109\n\nZapraszamy!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1930.1791364437.webp",
-      "location": {
-        "name": "Hala sportowa, ul. Uprawna 9/17",
-        "district": "Wilanów"
-      },
-      "url": "https://sport.um.warszawa.pl/waw/csw/-/zagrajmy-wspolnie-w-kosza-w-hali-uprawna-9-17",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://sport.um.warszawa.pl/waw/csw/-/zagrajmy-wspolnie-w-kosza-w-hali-uprawna-9-17",
-      "scrapped_timestamp": "2026-10-07T13:18:04.895885+00:00",
-      "category": "Sports",
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Rodzinne zajęcia koszykarskie",
-          "description": "Centrum Sportu Wilanów w ramach programu AKTYWNA RODZINA zaprasza “Zagrajmy wspólnie w kosza od 6 października w hali Uprawna 9/17”.\n\nBezpłatne, rodzinne zajęcia z trenerem - WTORKI w godz. 19:30-21:00 do 15 grudnia\n\nZapisy >> e-mail csw@wilanow.pl 22 885 00 60 wew. 109\n\nZapraszamy!"
-        },
-        "en": {
-          "title": "Family Basketball Activities",
-          "description": "The Wilanów Sports Center, as part of the ACTIVE FAMILY program, invites you to \"Let's Play Basketball Together starting October 6 at the Uprawna 9/17 hall\".\n\nFree family activities with a coach - TUESDAYS from 19:30 to 21:00 until December 15\n\nSign up >> e-mail csw@wilanow.pl 22 885 00 60 ext. 109\n\nWe invite you!"
-        },
-        "uk": {
-          "title": "Сімейні заняття з баскетболу",
-          "description": "Центр Спорту Віланов у рамках програми АКТИВНА СІМ'Я запрошує “Граємо разом у баскетбол з 6 жовтня в залі Управа 9/17”.\n\nБезкоштовні, сімейні заняття з тренером - ВІВТОРКИ з 19:30 до 21:00 до 15 грудня\n\nЗаписи >> e-mail csw@wilanow.pl 22 885 00 60 в. 109\n\nЗапрошуємо!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wilanów",
-      "updated_at": "2026-10-07T13:19:11.605212+00:00"
-    },
     "rodzinne-zaj-cia-koszykarskie-2026-10-27T19:30:00+01:00": {
       "title": "Rodzinne zajęcia koszykarskie",
       "date": "2026-10-27T19:30:00+01:00",
@@ -10097,48 +9804,6 @@
       },
       "district": "Wola",
       "updated_at": "2026-10-07T13:19:11.605248+00:00"
-    },
-    "klub-r-kodzielniczy-wsp-lne-dzierganie-i-haftowanie-2026-10-20T17:00:00+02:00": {
-      "title": "Klub rękodzielniczy – wspólne dzierganie i haftowanie",
-      "date": "2026-10-20T17:00:00+02:00",
-      "end_date": "2026-10-20T17:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Klub rękodzielniczy to otwarte spotkania dla osób, które dziergają, szydełkują, haftują lub chcą dokończyć własny projekt. Nie ma znaczenia poziom umiejętności; uczestnicy wymieniają się wiedzą i doświadczeniami. Spotkania nie mają osoby prowadzącej.\n\nW Miejscu Aktywności Lokalnej dostępne są podstawowe materiały dziewiarskie i krawieckie: włóczki, muliny, szydełka, igły i nici. Wstęp wolny. Dzieci mogą uczestniczyć wyłącznie pod opieką rodzica. Organizator zachęca do przyniesienia przekąski, herbaty lub czegoś na sąsiedzki stół.\n\nSpotkania odbywają się we wtorki w godz. 17:00–19:30, w Miejscu Aktywności Lokalnej na Żoliborzu, ul. Marii Kazimiery 20.\n\nDojazd i dostępność:\n• Najbliższy przystanek to Marymont, około 4–5 minut pieszo. Trasa prowadzi płaskim chodnikiem; przejścia mają obniżone krawężniki.\n• Przy ulicy jest strefa płatnego parkowania, a niedaleko wejścia znajdują się dwa miejsca dla osób z niepełnosprawnością.\n• MAL jest płaskie i bezprogowe, ma dostępną toaletę i jest przyjazne sensorycznie. Można wypożyczyć słuchawki wyciszające oraz koc obciążeniowy.\n• Nad drzwiami znajduje się znacznik ToTuPoint.\n\nSzczegóły dostępności: https://zoliborskidomkultury.pl/deklaracja-dostepnosci",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/2aaeec0c-2354-4e15-aca9-90c2369c647e/15110ae6-8a82-4ac2-85a9-f69560e8d482.jpg",
-      "location": {
-        "name": "Marii Kazimiery 20/1",
-        "district": "Żoliborz"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/klub-rekodzielniczy-wspolne-dzierganie-i-haftowanie-2aaeec0c-2354-4e15-aca9-90c2369c647e",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/klub-rekodzielniczy-wspolne-dzierganie-i-haftowanie-2aaeec0c-2354-4e15-aca9-90c2369c647e",
-      "scrapped_timestamp": "2026-10-07T13:18:53.878506+00:00",
-      "category": "Arts",
-      "additional_categories": [
-        "Workshops"
-      ],
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Klub rękodzielniczy – wspólne dzierganie i haftowanie",
-          "description": "Klub rękodzielniczy to otwarte spotkania dla osób, które dziergają, szydełkują, haftują lub chcą dokończyć własny projekt. Nie ma znaczenia poziom umiejętności; uczestnicy wymieniają się wiedzą i doświadczeniami. Spotkania nie mają osoby prowadzącej.\n\nW Miejscu Aktywności Lokalnej dostępne są podstawowe materiały dziewiarskie i krawieckie: włóczki, muliny, szydełka, igły i nici. Wstęp wolny. Dzieci mogą uczestniczyć wyłącznie pod opieką rodzica. Organizator zachęca do przyniesienia przekąski, herbaty lub czegoś na sąsiedzki stół.\n\nSpotkania odbywają się we wtorki w godz. 17:00–19:30, w Miejscu Aktywności Lokalnej na Żoliborzu, ul. Marii Kazimiery 20.\n\nDojazd i dostępność:\n• Najbliższy przystanek to Marymont, około 4–5 minut pieszo. Trasa prowadzi płaskim chodnikiem; przejścia mają obniżone krawężniki.\n• Przy ulicy jest strefa płatnego parkowania, a niedaleko wejścia znajdują się dwa miejsca dla osób z niepełnosprawnością.\n• MAL jest płaskie i bezprogowe, ma dostępną toaletę i jest przyjazne sensorycznie. Można wypożyczyć słuchawki wyciszające oraz koc obciążeniowy.\n• Nad drzwiami znajduje się znacznik ToTuPoint.\n\nSzczegóły dostępności: https://zoliborskidomkultury.pl/deklaracja-dostepnosci"
-        },
-        "en": {
-          "title": "Craft Club – Joint Knitting and Embroidery",
-          "description": "The Craft Club is an open meeting for people who knit, crochet, embroider, or want to finish their own project. Skill level does not matter; participants share knowledge and experiences. There is no designated leader for the meetings.\n\nBasic knitting and sewing materials are available at the Local Activity Place: yarns, threads, hooks, needles, and threads. Free entry. Children can participate only under the supervision of a parent. The organizer encourages bringing a snack, tea, or something for the neighborly table.\n\nMeetings take place on Tuesdays from 5:00 PM to 7:30 PM at the Local Activity Place in Żoliborz, ul. Marii Kazimiery 20.\n\nAccess and availability:\n• The nearest stop is Marymont, about 4–5 minutes on foot. The route leads along a flat sidewalk; crossings have lowered curbs."
-        },
-        "uk": {
-          "title": "Клуб рукоділля – спільне в'язання та вишивання",
-          "description": "Клуб рукоділля – це відкриті зустрічі для людей, які в'яжуть, в'яжуть гачком, вишивають або хочуть закінчити свій проект. Не має значення рівень навичок; учасники обмінюються знаннями та досвідом. Зустрічі не мають ведучого.\n\nУ Місці Активності Локальної доступні базові матеріали для в'язання та шиття: пряжа, муліне, гачки, голки та нитки. Вхід вільний. Діти можуть брати участь лише під наглядом батьків. Організатор закликає принести закуску, чай або щось на сусідський стіл.\n\nЗустрічі відбуваються у вівторок з 17:00 до 19:30, у Місці Активності Локальної на Жолібожі, вул. Марії Казимири, 20.\n\nДоїзд та доступність:\n• Найближча зупинка – це Мари́монт, приблизно 4–5 хвилин пішки. Маршрут проходить рівним тротуаром; переходи мають знижені"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Żoliborz",
-      "updated_at": "2026-10-07T13:19:11.605381+00:00"
     },
     "mama-i-bobas-w-murowance-spotkania-dla-mam-z-maluszkami-2026-10-23T10:30:00+02:00": {
       "title": "Mama i Bobas w Murowance – spotkania dla mam z maluszkami",
@@ -13390,84 +13055,6 @@
       "district": "Bielany",
       "updated_at": "2026-10-17T10:35:22.981101+00:00"
     },
-    "boska-marsza-kowska-spacer-z-przewodnikiem-2026-10-20T18:00:00+02:00": {
-      "title": "Boska Marszałkowska – spacer z przewodnikiem",
-      "date": "2026-10-20T18:00:00+02:00",
-      "end_date": "2026-10-20T18:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Spacer z cyklu „Odkryj Skarby Warszawy” po jednej z najważniejszych warszawskich ulic. Trasa pokaże, jak losy i zróżnicowana architektura Marszałkowskiej odzwierciedlają najnowszą historię miasta. Podczas wędrówki zajrzymy także w boczne uliczki i podwórka.\n\nPodczas spaceru poruszymy m.in. pytania:\n• Gdzie znajduje się najstarszy słup ogłoszeniowy i najmniejsze podwórko-studnia?\n• Skąd koński łeb przed teatrem Syrena?\n• Czym jest Latawiec?\n• Kim są Platerki?\n• Co skrywa nazwa MDM?\n• Który marszałek dał nazwę ulicy?\n\nMiejsce zbiórki: Plac Unii Lubelskiej 1, przy zachodniej rogatce.\nTermin: wtorek, 20 października, godz. 18:00.\nPrzewodnik: Marcin Strachota.\n\nCeny biletów:\n• normalny – 20 zł,\n• młodzież do 18 lat – 10 zł,\n• dzieci do 10 lat – bezpłatnie.\n\nNa spacer nie są prowadzone zapisy, wystarczy przyjść na miejsce zbiórki.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/a0df9ff9-48b9-4138-aacb-a2a603e53083/11b79b1e-20a3-42a9-a1d9-1ee775aeff8c.jpg",
-      "location": {
-        "name": "Plac Unii Lubelskiej 1, Warszawa",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/boska-marszalkowska-spacer-z-przewodnikiem-a0df9ff9-48b9-4138-aacb-a2a603e53083",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/boska-marszalkowska-spacer-z-przewodnikiem-a0df9ff9-48b9-4138-aacb-a2a603e53083",
-      "scrapped_timestamp": "2026-10-18T10:45:29.884400+00:00",
-      "category": "Field Trips",
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Boska Marszałkowska – spacer z przewodnikiem",
-          "description": "Spacer z cyklu „Odkryj Skarby Warszawy” po jednej z najważniejszych warszawskich ulic. Trasa pokaże, jak losy i zróżnicowana architektura Marszałkowskiej odzwierciedlają najnowszą historię miasta. Podczas wędrówki zajrzymy także w boczne uliczki i podwórka.\n\nPodczas spaceru poruszymy m.in. pytania:\n• Gdzie znajduje się najstarszy słup ogłoszeniowy i najmniejsze podwórko-studnia?\n• Skąd koński łeb przed teatrem Syrena?\n• Czym jest Latawiec?\n• Kim są Platerki?\n• Co skrywa nazwa MDM?\n• Który marszałek dał nazwę ulicy?\n\nMiejsce zbiórki: Plac Unii Lubelskiej 1, przy zachodniej rogatce.\nTermin: wtorek, 20 października, godz. 18:00.\nPrzewodnik: Marcin Strachota.\n\nCeny biletów:\n• normalny – 20 zł,\n• młodzież do 18 lat – 10 zł,\n• dzieci do 10 lat – bezpłatnie.\n\nNa spacer nie są prowadzone zapisy, wystarczy przyjść na miejsce zbiórki."
-        },
-        "en": {
-          "title": "Boska Marszałkowska – guided walk",
-          "description": "A walk from the \"Discover the Treasures of Warsaw\" series along one of the most important streets in Warsaw. The route will show how the fate and diverse architecture of Marszałkowska reflect the city's recent history. During the walk, we will also peek into side streets and courtyards.\n\nDuring the walk, we will address questions such as:\n• Where is the oldest announcement pillar and the smallest courtyard-well?\n• Where does the horse's head in front of the Syrena Theatre come from?\n• What is the Kite?\n• Who are the Platerki?\n• What does the name MDM conceal?\n• Which marshal gave the street its name?\n\nMeeting point: Plac Unii Lubelskiej 1, by the western gate.\nDate: Tuesday, October 20, at 18:00.\nGuide: Marcin Strachota.\n\nTicket prices:\n• regular – 20 PLN,\n• youth up to 18 years – 10 PLN,\n• children up to 10 years – free.\n\nNo registration is required for the walk."
-        },
-        "uk": {
-          "title": "Боска Маршалковська – прогулянка з гідом",
-          "description": "Прогулянка з циклу «Відкрий скарби Варшави» по одній з найважливіших варшавських вулиць. Траса покаже, як долі та різноманітна архітектура Маршалковської відображають найновішу історію міста. Під час мандрівки заглянемо також у бічні вулички та подвір'я.\n\nПід час прогулянки порушимо зокрема питання:\n• Де знаходиться найстаріший стовп оголошень і найменше подвір'я-колодязь?\n• Звідки кінська голова перед театром Сірена?\n• Чим є Летючий змій?\n• Хто такі Платерки?\n• Що приховує назва МДМ?\n• Який маршал дав назву вулиці?\n\nМісце збору: Площа Унії Любельської 1, біля західних воріт.\nТермін: вівторок, 20 жовтня, год. 18:00.\nГід: Марцін Страхота.\n\nЦіни квитків:\n• звичайний – 20 зл,\n• молодь до 18 років – 10 зл,\n• діти до 10 років – безкоштовно.\n\nНа прогулянку не ведуться записи, в"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-18T10:48:27.406019+00:00"
-    },
-    "rodzinne-zaj-cia-koszykarskie-w-wilanowie-2026-10-20T19:30:00+02:00": {
-      "title": "Rodzinne zajęcia koszykarskie w Wilanowie",
-      "date": "2026-10-20T19:30:00+02:00",
-      "end_date": "2026-10-20T19:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Bezpłatne rodzinne zajęcia koszykarskie z trenerem odbywają się w ramach programu AKTYWNA RODZINA. Spotkania są zaplanowane we wtorki od 6 października do 15 grudnia, w godz. 19:30–21:00.\n\n• Hala Uprawna 9/17\n• Zapisy: csw@wilanow.pl lub telefonicznie pod numerem 22 885 00 60 wew. 109",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/1bd3d13e-cad8-43c7-b73a-02e22f98240c/4ccf1707-1c70-4d3e-9464-693b2d52ed78.jpg",
-      "location": {
-        "name": "Hala sportowa, ul. Uprawna 9/17, Warszawa",
-        "district": "Wilanów"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/sport/wydarzenie/rodzinne-zajecia-koszykarskie-w-wilanowie-1bd3d13e-cad8-43c7-b73a-02e22f98240c",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/sport/wydarzenie/rodzinne-zajecia-koszykarskie-w-wilanowie-1bd3d13e-cad8-43c7-b73a-02e22f98240c",
-      "scrapped_timestamp": "2026-10-18T10:45:36.954077+00:00",
-      "category": "Sports",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Rodzinne zajęcia koszykarskie w Wilanowie",
-          "description": "Bezpłatne rodzinne zajęcia koszykarskie z trenerem odbywają się w ramach programu AKTYWNA RODZINA. Spotkania są zaplanowane we wtorki od 6 października do 15 grudnia, w godz. 19:30–21:00.\n\n• Hala Uprawna 9/17\n• Zapisy: csw@wilanow.pl lub telefonicznie pod numerem 22 885 00 60 wew. 109"
-        },
-        "en": {
-          "title": "Family Basketball Activities in Wilanów",
-          "description": "Free family basketball activities with a coach are held as part of the ACTIVE FAMILY program. Meetings are scheduled on Tuesdays from October 6 to December 15, from 7:30 PM to 9:00 PM.\n\n• Sports Hall 9/17\n• Registration: csw@wilanow.pl or by phone at 22 885 00 60 ext. 109"
-        },
-        "uk": {
-          "title": "Сімейні заняття з баскетболу у Віланові",
-          "description": "Безкоштовні сімейні заняття з баскетболу з тренером відбуваються в рамках програми АКТИВНА СІМ'Я. Зустрічі заплановані у вівторок з 6 жовтня до 15 грудня, з 19:30 до 21:00.\n\n• Спортивний зал 9/17\n• Запис: csw@wilanow.pl або телефонічно за номером 22 885 00 60 внутрішній 109"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Wilanów",
-      "updated_at": "2026-10-18T10:48:27.406036+00:00"
-    },
     "paszport-i-dobre-maniery-warsztaty-dla-rodzin-2026-10-22T15:30:00+02:00": {
       "title": "Paszport i dobre maniery – warsztaty dla rodzin",
       "date": "2026-10-22T15:30:00+02:00",
@@ -15387,93 +14974,6 @@
       "district": "Bielany",
       "updated_at": "2026-10-20T11:22:42.948785+00:00"
     },
-    "muzykoterapia-dla-dzieci-muzeum-muzyka-i-my-muzyczna-arka-noego-2026-10-20T10:30:00+02:00": {
-      "title": "Muzykoterapia dla dzieci / Muzeum Muzyka i My / Muzyczna Arka Noego",
-      "date": "2026-10-20T10:30:00+02:00",
-      "end_date": "2026-10-20T10:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia muzyczne wspomagające rozwój najmłodszych. W oparciu o proste ćwiczenia muzyczne połączone z treningiem sensorycznym i technikami muzykoterapeutycznymi będziemy wielozmysłowo poznawali świat. Składający się z czterech bloków tematycznych program zawiera elementy edukacji muzycznej, które stanowią dobrą podstawę do rozpoczęcia ogólnorozwojowej przygody z muzyką. Warsztaty poprowadzi Dagna Sadkowska – skrzypaczka, edukatorka , kuratorka wydarzeń muzycznych dla dzieci i młodzieży oraz kierowniczka muzyczna Młodej Orkiestry Nowego Teatru w Warszawie.\nCzy promienie słońca brzmią żółto czy biało? Ile kwiatów można zasadzić w tonacji C-dur? Jaki rytm wystukuje kopytami biały koń? Inspiracji do zabaw muzycznych poszukamy na obrazie Arka Noego Roelandta Savery’ego w Galerii Sztuki Dawnej.",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_976571013_original.jpg",
-      "location": {
-        "name": "Muzeum Narodowe w Warszawie (Warszawa)",
-        "district": "Śródmieście"
-      },
-      "url": "https://warszawa.naszemiasto.pl/muzykoterapia-dla-dzieci-muzeum-muzyka-i-my-muzyczna-arka-noego/kw/c5-3289453",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://warszawa.naszemiasto.pl/muzykoterapia-dla-dzieci-muzeum-muzyka-i-my-muzyczna-arka-noego/kw/c5-3289453",
-      "scrapped_timestamp": "2026-10-20T11:20:12.705497+00:00",
-      "category": "Music & Dance",
-      "additional_categories": [
-        "Workshops",
-        "Sensory Play"
-      ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Muzykoterapia dla dzieci / Muzeum Muzyka i My / Muzyczna Arka Noego",
-          "description": "Zapraszamy na zajęcia muzyczne wspomagające rozwój najmłodszych. W oparciu o proste ćwiczenia muzyczne połączone z treningiem sensorycznym i technikami muzykoterapeutycznymi będziemy wielozmysłowo poznawali świat. Składający się z czterech bloków tematycznych program zawiera elementy edukacji muzycznej, które stanowią dobrą podstawę do rozpoczęcia ogólnorozwojowej przygody z muzyką. Warsztaty poprowadzi Dagna Sadkowska – skrzypaczka, edukatorka , kuratorka wydarzeń muzycznych dla dzieci i młodzieży oraz kierowniczka muzyczna Młodej Orkiestry Nowego Teatru w Warszawie.\nCzy promienie słońca brzmią żółto czy biało? Ile kwiatów można zasadzić w tonacji C-dur? Jaki rytm wystukuje kopytami biały koń? Inspiracji do zabaw muzycznych poszukamy na obrazie Arka Noego Roelandta Savery’ego w Galerii Sztuki Dawnej."
-        },
-        "en": {
-          "title": "Music Therapy for Children / Museum Music and Us / Noah's Musical Ark",
-          "description": "We invite you to musical activities that support the development of the youngest. Based on simple musical exercises combined with sensory training and music therapy techniques, we will explore the world in a multi-sensory way. The program, consisting of four thematic blocks, includes elements of music education that provide a good foundation for starting a comprehensive adventure with music. The workshops will be led by Dagna Sadkowska – a violinist, educator, curator of musical events for children and youth, and the musical director of the Young Orchestra of the New Theatre in Warsaw.\n\nDo the rays of the sun sound yellow or white? How many flowers can be planted in the key of C major? What rhythm does the white horse tap with its hooves? We will seek inspiration for musical games in the painting Noah's Ark by Roelandt Savery in the Gallery Sz"
-        },
-        "uk": {
-          "title": "Музикотерапія для дітей / Музей Музика і Я / Музична Арка Ноя",
-          "description": "Запрошуємо на заняття музичні, що сприяють розвитку наймолодших. В основі простих музичних вправ, поєднаних з сенсорним тренуванням та музикотерапевтичними техніками, ми будемо багатосенсорно пізнавати світ. Програма, що складається з чотирьох тематичних блоків, містить елементи музичної освіти, які є хорошою основою для початку загальнорозвивальної пригоди з музикою. Майстер-класи проведе Дагна Садковська – скрипалька, освітянка, кураторка музичних подій для дітей та молоді, а також музична керівниця Молодого Оркестру Нового Театру у Варшаві.\nЧи звучать промені сонця жовто чи біло? Скільки квітів можна посадити в тональності C-dur? Який ритм вибиває копитами білий кінь? Натхнення для музичних ігор ми шукатимемо на картині Арка Ноя Роеландта Савері в Галереї Ш"
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-20T11:22:42.948808+00:00"
-    },
-    "zaj-cia-muzyczne-dla-dzieci-do-3-roku-ycia-2026-10-20T10:00:00+02:00": {
-      "title": "Zajęcia muzyczne dla dzieci do 3 roku życia",
-      "date": "2026-10-20T10:00:00+02:00",
-      "end_date": "2026-10-20T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na zajęcia muzyczne przez cały październik we wtorki na 10:00.\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nMuzosmyki, wtorki 10-12\n\n06.10 – Jesienne piosenki\n\n13.10  – Leśne zwierzątka (jeż, lis i wiewiórka)\n\n20.10  – Pląsy harcerskie\n\n27.10  – Na spacerek idę z pieskiem, czyli Dzień Kundla i Pluszaka\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć muzycznych:\n\n- śpiewamy i bawimy się (wykorzystując elementy umuzykalnienia metodą Gordona, Orffa i innych oraz ruchu rozwijającego R. Labana lub W. Sherborne),\n\n- poznajemy jakiś kształt lub kolor (ogólnorozwojowa edukacja),\n\n- instrument (edukacja muzyczna),\n\n- piosenkę/utwór muzyczny lub wiersz (edukacja muzyczna),\n\n- praca z pomocami Montessori (w małej salce).",
-      "image": null,
-      "location": {
-        "name": "Świetojerska 12a",
-        "district": "Śródmieście"
-      },
-      "url": "https://www.facebook.com/share/p/1BFYYTgRff/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/share/p/1BFYYTgRff/",
-      "scrapped_timestamp": "2026-10-20T11:20:24.987604+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Zajęcia muzyczne dla dzieci do 3 roku życia",
-          "description": "Zapraszamy na zajęcia muzyczne przez cały październik we wtorki na 10:00.\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nMuzosmyki, wtorki 10-12\n\n06.10 – Jesienne piosenki\n\n13.10  – Leśne zwierzątka (jeż, lis i wiewiórka)\n\n20.10  – Pląsy harcerskie\n\n27.10  – Na spacerek idę z pieskiem, czyli Dzień Kundla i Pluszaka\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć muzycznych:\n\n- śpiewamy i bawimy się (wykorzystując elementy umuzykalnienia metodą Gordona, Orffa i innych oraz ruchu rozwijającego R. Labana lub W. Sherborne),\n\n- poznajemy jakiś kształt lub kolor (ogólnorozwojowa edukacja),\n\n- instrument (edukacja muzyczna),\n\n- piosenkę/utwór muzyczny lub wiersz (edukacja muzyczna),\n\n- praca z pomocami Montessori (w małej salce)."
-        },
-        "en": {
-          "title": "Music Classes for Children up to 3 Years Old",
-          "description": "We invite you to music classes throughout October on Tuesdays at 10:00.\n\nFree admission with mandatory phone registration at 500 080 498!\n\nLimited spots available!\n\nMuzosmyki, Tuesdays 10-12\n\n06.10 – Autumn Songs\n\n13.10  – Forest Animals (hedgehog, fox, and squirrel)\n\n20.10  – Scout Dances\n\n27.10  – I'm Going for a Walk with My Dog, or Mixed Breed and Plush Toy Day\n\nClasses with caregivers. Free of charge.\n\nDuring each music class:\n\n- we sing and play (using elements of musicalization methods by Gordon, Orff, and others, as well as developmental movement by R. Laban or W. Sherborne),\n\n- we learn about a shape or color (general developmental education),\n\n- instrument (musical education),\n\n- song/musical piece or poem (musical education),\n\n- working with Montessori materials (in a small room)."
-        },
-        "uk": {
-          "title": "Музичні заняття для дітей до 3 року життя",
-          "description": "Запрошуємо на музичні заняття протягом усього жовтня у вівторок о 10:00.\n\nВхід вільний з обов'язковими записами телефонними 500 080 498!\n\nКількість місць обмежена!\n\nМузосмики, вівторки 10-12\n\n06.10 – Осінні пісеньки\n\n13.10  – Лісові звірята (їжак, лисиця та білка)\n\n20.10  – Танці скаутів\n\n27.10  – На прогулянку йду з песиком, тобто День Кунделя та Плюшевого\n\nЗаняття разом з опікунами. Безкоштовно.\n\nПід час кожних музичних занять:\n\n- співаємо і граємося (використовуючи елементи музикалізації методом Гордона, Орфа та інших, а також руху, що розвиває Р. Лабана або В. Шерборна),\n\n- знайомимося з якоюсь формою або кольором (загальноосвітня освіта),\n\n- інструмент (музична освіта),\n\n- пісня/музичний твір або вірш (музична освіта),\n\n- робота з матеріалами Монтессорі (в маленькій кімнаті)."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-20T11:22:42.948875+00:00"
-    },
     "bezp-atne-popo-udniowe-warsztaty-na-stolarni-pracownia-w-tym-s-k-2026-10-24T14:30:00+02:00": {
       "title": "Bezpłatne Popołudniowe Warsztaty na Stolarni - Pracownia W Tym Sęk!",
       "date": "2026-10-24T14:30:00+02:00",
@@ -15515,52 +15015,6 @@
       },
       "district": "Ursynów",
       "updated_at": "2026-10-20T11:22:42.948901+00:00"
-    },
-    "gra-miejska-z-elementami-rozszerzonej-rzeczywisto-ci-ar-2026-10-21T08:00:00+02:00": {
-      "title": "Gra miejska z elementami rozszerzonej rzeczywistości (AR)",
-      "date": "2026-10-21T08:00:00+02:00",
-      "end_date": "2026-10-21T08:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na darmowe testy naszej gry miejskiej o tematyce poszukiwań zaginionego depozytu z czasów Powstania. Ze względu na ładną pogodę w tym tygodniu, przedłużamy testowanie na kilka najbliższych dni. Jeśli jesteś chętny, napisz na e-mail: kontakt@secretgate.pl\n\nGra jest prowadzona przez wirtualnego przewodnika na urządzeniu mobilnym (działa w przeglądarce, nie trzeba nic instalować). Polega na rozwiązywaniu zagadek logicznych powiązanych z konkretnymi miejscami związanymi z historią Powstania Warszawskiego. Wykorzystuje nowoczesne technologie (np. rozszerzoną rzeczywistość - AR, wykonywanie połączeń telefonicznych). Grę można udostępniać innym osobom (każdy ma podgląd gry na własnym smartfonie).\n\nCo na Was czeka?\n\n🔎 Zagadki i zadania do rozwiązania w terenie\n\n📖 Fabuła inspirowana Powstaniem Warszawskim\n\n🌳 Odkrywanie ciekawych miejsc\n\n📱 Elementy rozszerzonej rzeczywistości (AR)\n\n👥 Świetna okazja do wspólnej zabawy i spaceru ze znajomymi\n\nPrzyjdźcie, przetestujcie grę jako jedni z pierwszych i podzielcie się swoimi wrażeniami. Wasza opinia pomoże nam bardziej dopracować tę miejską przygodę!\n\nKontakt do nas: kontakt@secretgate.pl",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-0000.1791932699.webp",
-      "location": {
-        "name": "Fontanna przed kinem Muranów",
-        "district": "Śródmieście"
-      },
-      "url": "https://waw4free.pl/wydarzenie-160412-gra-miejska-z-elementami-rozszerzonej-rzeczywistosci-ar",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://waw4free.pl/wydarzenie-160412-gra-miejska-z-elementami-rozszerzonej-rzeczywistosci-ar",
-      "scrapped_timestamp": "2026-10-20T11:20:38.503426+00:00",
-      "category": "Games",
-      "additional_categories": [
-        "Educational",
-        "Outdoor Adventure"
-      ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
-      "location_type": "outdoor",
-      "translations": {
-        "pl": {
-          "title": "Gra miejska z elementami rozszerzonej rzeczywistości (AR)",
-          "description": "Zapraszamy na darmowe testy naszej gry miejskiej o tematyce poszukiwań zaginionego depozytu z czasów Powstania. Ze względu na ładną pogodę w tym tygodniu, przedłużamy testowanie na kilka najbliższych dni. Jeśli jesteś chętny, napisz na e-mail: kontakt@secretgate.pl\n\nGra jest prowadzona przez wirtualnego przewodnika na urządzeniu mobilnym (działa w przeglądarce, nie trzeba nic instalować). Polega na rozwiązywaniu zagadek logicznych powiązanych z konkretnymi miejscami związanymi z historią Powstania Warszawskiego. Wykorzystuje nowoczesne technologie (np. rozszerzoną rzeczywistość - AR, wykonywanie połączeń telefonicznych). Grę można udostępniać innym osobom (każdy ma podgląd gry na własnym smartfonie).\n\nCo na Was czeka?\n\n🔎 Zagadki i zadania do rozwiązania w terenie\n\n📖 Fabuła inspirowana Powstaniem Warszawskim\n\n🌳 Odkrywanie ciekawych miejsc\n\n📱 Elementy rozszerzonej rzeczywistości (AR)\n\n👥 Świetna okazja do wspólnej zabawy i spaceru ze znajomymi\n\nPrzyjdźcie, przetestujcie grę jako jedni z pierwszych i podzielcie się swoimi wrażeniami. Wasza opinia pomoże nam bardziej dopracować tę miejską przygodę!\n\nKontakt do nas: kontakt@secretgate.pl"
-        },
-        "en": {
-          "title": "City Game with Elements of Augmented Reality (AR)",
-          "description": "We invite you to free tests of our city game themed around the search for a lost deposit from the time of the Uprising. Due to the nice weather this week, we are extending the testing for a few more days. If you are interested, please write to the email: kontakt@secretgate.pl\n\nThe game is conducted by a virtual guide on a mobile device (works in the browser, no installation required). It involves solving logical puzzles related to specific places connected to the history of the Warsaw Uprising. It utilizes modern technologies (e.g., augmented reality - AR, making phone calls). The game can be shared with others (everyone has a view of the game on their own smartphone).\n\nWhat awaits you?\n\n🔎 Puzzles and tasks to solve in the field\n\n📖 A storyline inspired by the Pows"
-        },
-        "uk": {
-          "title": "Міська гра з елементами доповненої реальності (AR)",
-          "description": "Запрошуємо на безкоштовні тести нашої міської гри на тему пошуків зниклого депозиту з часів Повстання. З огляду на гарну погоду цього тижня, продовжуємо тестування на кілька найближчих днів. Якщо ви бажаєте, напишіть на e-mail: kontakt@secretgate.pl\n\nГра проводиться віртуальним гідом на мобільному пристрої (працює в браузері, нічого не потрібно встановлювати). Полягає на розв'язуванні логічних загадок, пов'язаних з конкретними місцями, що стосуються історії Повстання Варшави. Використовує сучасні технології (наприклад, доповнену реальність - AR, виконання телефонних дзвінків). Гру можна ділитися з іншими людьми (кожен має перегляд гри на власному смартфоні).\n\nЩо на вас чекає?\n\n🔎 Загадки та завдання для розв'язання на місцевості\n\n📖 Сюжет, натхненний Пово..."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-20T11:22:42.948924+00:00"
     },
     "spektakl-dla-dzieci-na-jesiennym-li-ciu-2026-10-21T18:00:00+02:00": {
       "title": "Spektakl dla dzieci „Na jesiennym liściu”",
@@ -15943,88 +15397,6 @@
       },
       "district": "Mokotów",
       "updated_at": "2026-10-20T11:22:42.949110+00:00"
-    },
-    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-10-20T10:00:00+02:00": {
-      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-      "date": "2026-10-20T10:00:00+02:00",
-      "end_date": "2026-10-20T10:00:00+02:00",
-      "startTimeKnown": true,
-      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "scrapped_timestamp": "2026-10-20T11:21:35.362515+00:00",
-      "category": "Arts",
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
-        },
-        "en": {
-          "title": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"",
-          "description": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"\n\nWe invite you to guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world masterpieces, including paintings by such masters as Maurice Denis, Paul Ranson, and Paul Sérusier. The curators of the exhibition and museum educators will tell us about them.\n\nThe exhibition \"Nabis. Prophets of New Art\" showcases, among other things, the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called School of Pont-Aven. It also includes works of a religious and esoteric nature, views of interiors, and genre scenes, as well as the activities of the magazine \"La Revue Blanche\" run by the Natanson brothers - Tadeusz and Aleksander. In total, we will see over 90 works in the fields of painting, drawing, and graphics. The works come from Polish and foreign collections."
-        },
-        "uk": {
-          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
-          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"\nЗапрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Зможемо побачити світові твори, а це, зокрема, картини таких майстрів, як Моріс Дені, Поль Рансон та Поль Серюзьє. Про них розкажуть куратори експозиції та музейні освітяни.\nВиставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Пола Гогена і так званої Школи Понтавен. Охоплює також твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, яку проводили брати Натансон - Тадеуш і Олександр - журналу \"La Revue Blanche\". Всього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних..."
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
-      },
-      "updated_at": "2026-10-20T11:22:42.949130+00:00"
-    },
-    "koncert-chopinowski-w-pa-acu-dziekana-2026-10-20T18:30:00+02:00": {
-      "title": "Koncert chopinowski w Pałacu Dziekana",
-      "date": "2026-10-20T18:30:00+02:00",
-      "end_date": "2026-10-20T18:30:00+02:00",
-      "startTimeKnown": true,
-      "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c2834ee3-e83e-47dd-a253-0becbf874e09/8c29ddbb-2ec3-48c9-97a7-0c1ddcb7f7e5.jpg",
-      "location": {
-        "name": "Muzeum Archidiecezji Warszawskiej, Ulica Dziekania 1, 00-279 Warszawa",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-c2834ee3-e83e-47dd-a253-0becbf874e09",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-c2834ee3-e83e-47dd-a253-0becbf874e09",
-      "scrapped_timestamp": "2026-10-20T11:21:41.720068+00:00",
-      "category": "Music & Dance",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Koncert chopinowski w Pałacu Dziekana",
-          "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy."
-        },
-        "en": {
-          "title": "Chopin Concert at the Dean's Palace",
-          "description": "We cordially invite you to listen to Chopin concerts at 6:30 PM at the Dean's Palace in the Old Town of Warsaw. The most beautiful works of Fryderyk Chopin are performed by professional pianists, artists who perform in many countries around the world.\n\nRecitals take place in the historic, beautiful, and exclusively finished 16th-century Dean's Palace (now the Museum of the Archdiocese of Warsaw, ul. Dziekania 1, right next to the Archcathedral). You listen to music in close proximity to a collection of paintings by renowned artists.\n\nOur concert hall has phenomenal acoustics! The reception of music in this hall is essentially perfect, at the highest world level. We listen to the piano surrounded by pure and rich sound, we are enveloped by music in ideal proportions, not too little, not too much, we are as if in the middle of the performance."
-        },
-        "uk": {
-          "title": "Концерт шопенівський у Палаці Декана",
-          "description": "Щиро запрошуємо Вас послухати шопенівські концерти о 18:30 у Палаці Декана на Старому Місті у Варшаві. Найкрасивіші твори Фридерика Шопена виконують професійні піаністи, артисти, які виступають у багатьох країнах світу.\nРецитали відбуваються в історичному, красивому та ексклюзивно оформленому XVI столітті Палаці Декана (сьогодні Музей Архієпархії Варшавської, вул. Декана 1, поруч з Архікатедрою). Ви слухаєте музику в близькості колекції картин відомих художників.\nНаша концертна зала має феноменальну акустику! Сприйняття музики в цій залі є фактично ідеальним, на найвищому світовому рівні. Ми слухаємо фортепіано, оточені чистим і багатим звуком, ми оточені музикою в ідеальних пропорціях, не занадто мало, не занадто багато, ми ніби в середині виконуваного у"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/210602/warszawa/koncert-chopinowski-stare-miasto?utm_source=pp&utm_medium=604"
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-20T11:22:42.949150+00:00"
     }
   }
 }

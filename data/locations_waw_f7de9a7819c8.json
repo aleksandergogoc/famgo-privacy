@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T12:01:45.221908+00:00",
+  "updated_at": "2026-10-22T12:07:31.011551+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9366,6 +9366,69 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-21T11:39:33.403954+00:00"
+    },
+    "podchorążówka (start)": {
+      "name": "Podchorążówka, Łazienki Królewskie, Warszawa",
+      "district": "Śródmieście",
+      "address": "Podchorążówka, Łazienki Królewskie, Warszawa",
+      "normalized": "podchorążówka (start)",
+      "lat": 52.2297,
+      "lng": 21.0118,
+      "updated_at": "2026-10-22T11:45:46.597724+00:00"
+    },
+    "sp 407": {
+      "name": "SP 407, ul. Jana Heweliusza 3",
+      "district": "Bemowo",
+      "address": "SP 407, ul. Jana Heweliusza 3",
+      "normalized": "sp 407",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-22T11:45:46.598537+00:00"
+    },
+    "białej floty 2": {
+      "name": "Białej Floty 2",
+      "district": "Mokotów",
+      "address": "Białej Floty 2",
+      "normalized": "białej floty 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-22T11:45:46.598708+00:00"
+    },
+    "mochtyńska 91": {
+      "name": "Mochtyńska 91",
+      "district": "Białołęka",
+      "address": "Mochtyńska 91",
+      "normalized": "mochtyńska 91",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-22T11:45:46.598849+00:00"
+    },
+    "ul. radzymińska 50": {
+      "name": "ul. Radzymińska 50, Biblioteka dla Dzieci i Młodzieży nr 59",
+      "district": "Praga-Północ",
+      "address": "ul. Radzymińska 50, Biblioteka dla Dzieci i Młodzieży nr 59",
+      "normalized": "ul. radzymińska 50",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-22T11:45:46.599021+00:00"
+    },
+    "ul. kolegiacka 3": {
+      "name": "ul. Kolegiacka 3",
+      "district": "Wilanów",
+      "address": "ul. Kolegiacka 3",
+      "normalized": "ul. kolegiacka 3",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-22T11:45:46.599212+00:00"
+    },
+    "arkady kubickiego": {
+      "name": "Arkady Kubickiego, Zamek Królewski, Plac Zamkowy 4",
+      "district": "Śródmieście",
+      "address": "Arkady Kubickiego, Zamek Królewski, Plac Zamkowy 4",
+      "normalized": "arkady kubickiego",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-22T11:45:46.599379+00:00"
     }
   }
 }

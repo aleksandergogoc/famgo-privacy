@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T12:01:46.728403+00:00",
+  "updated_at": "2026-10-23T11:43:11.276639+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5170,6 +5170,24 @@
       "lat": 50.066,
       "lng": 19.914,
       "updated_at": "2026-10-21T11:31:41.925823+00:00"
+    },
+    "biblioteka kraków – filia nr 15": {
+      "name": "ul. Dobrego Pasterza 100, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Dobrego Pasterza 100, Kraków",
+      "normalized": "biblioteka kraków – filia nr 15",
+      "lat": 50.059,
+      "lng": 19.944,
+      "updated_at": "2026-10-23T11:22:29.250320+00:00"
+    },
+    "czytelnia naukowa filia 21 biblioteki kraków ul. królewska 59": {
+      "name": "ul. Królewska 59, Kraków",
+      "district": "Stare Miasto",
+      "address": "ul. Królewska 59, Kraków",
+      "normalized": "czytelnia naukowa filia 21 biblioteki kraków ul. królewska 59",
+      "lat": 50.064,
+      "lng": 19.937,
+      "updated_at": "2026-10-23T11:22:31.636378+00:00"
     }
   }
 }

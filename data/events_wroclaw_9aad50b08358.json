@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:09:24.227285+00:00",
+  "updated_at": "2026-10-23T11:31:30.756322+00:00",
   "events": {
     "fajnie-si-sk-ada-zlot-fan-w-klock-w-od-fan-w-dla-fan-w-2026-12-07T10:00:00": {
       "scrapped_timestamp": "2026-06-29T12:56:13.475074+00:00",
@@ -1275,39 +1275,42 @@
       "updated_at": "2026-09-07T12:12:45.441578+00:00"
     },
     "spoko-loko-koncert-dla-dzieci-2026-11-15T12:00:00+01:00": {
-      "title": "Spoko Loko – koncert dla dzieci",
+      "title": "Spoko Loko - koncert dla dzieci",
       "date": "2026-11-15T12:00:00+01:00",
       "end_date": "2026-11-15T12:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124/a22526ca-81c9-4f07-83ed-028c1fd7dba3.jpg",
+      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
+      "image": "https://assets.kupbilecik.pl/img/baza/8000/7104.webp?1788766325",
+      "url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
       "location": {
-        "name": "Centrum Kultury Nowy Pafawag, ul. Chociebuska 4-6, 54-433 Wrocław",
+        "name": "Centrum Kultury Nowy Pafawag",
+        "address": "ul. Chociebuska 4-6",
+        "lat": 51.115767,
+        "lng": 16.958181,
         "district": "Fabryczna"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "source": "simplygo.pl",
-      "age_hint": "2-8",
-      "age_range": {
-        "min": 2,
-        "max": 8
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "scrapped_timestamp": "2026-10-22T11:51:21.424331+00:00",
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-10-23T11:28:37.338221+00:00",
       "category": "Music & Dance",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Spoko Loko – koncert dla dzieci",
-          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
+          "title": "Spoko Loko - koncert dla dzieci",
+          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
         },
         "en": {
-          "title": "Spoko Loko – concert for children",
-          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They have prepared a unique, one-hour show during which children will be able to dance and sing along with the band. Classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\" will be performed, as well as new hits like \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will feature soap bubbles, riddles, and other surprises that will remain a mystery for now! Spoko Loko consists of Kasia, Mati, and Ola, who have already gathered several tens of millions of views on their YouTube channel. Satisfied parents' reviews speak for themselves - join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n* Children under 2 years old free admission (dz"
+          "title": "Spoko Loko - concert for children",
+          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They have prepared a unique, one-hour show during which children will be able to dance and sing along with the band. Classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\" will be performed, as well as new hits like \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will also feature soap bubbles, riddles, and other surprises that will remain a mystery for now! Spoko Loko consists of Kasia, Mati, and Ola, who have already gathered several dozen million views on their YouTube channel. The opinions of satisfied parents speak for themselves - join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n\n* Children under 2 years old enter for free (d"
         },
         "uk": {
-          "title": "Spoko Loko – концерт для дітей",
-          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Приготували унікальне, годинне шоу, під час якого діти зможуть танцювати та співати разом з гуртом. Засяють класики, такі як \"Танці Поламайці\", \"Цю цю ля\" та \"Тіла форма\", але також нові хіти, такі як \"Ідемо через джунглі\" та \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko - це Касія, Марті та Оля, які на своєму каналі YouTube зібрали вже кілька десятків мільйонів переглядів. Відгуки задоволених батьків говорять самі за себе - приєднуйтесь до нас і дайте себе захопити у божевільний світ Spoko Loko! Після концерту також буде можливість зробити фото з гуртом.\n* Діти до 2 років - вхід безкоштовний (д"
+          "title": "Spoko Loko - концерт для дітей",
+          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Приготували унікальне, годинне шоу, під час якого діти зможуть танцювати та співати разом з гуртом. Засяють класики, такі як \"Танці Поламайці\", \"Чу чу ля\" та \"Тіла форма\", але також нові хіти, такі як \"Йдемо через джунглі\" та \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko - це Касія, Марті та Оля, які на своєму каналі YouTube зібрали вже кілька десятків мільйонів переглядів. Відгуки задоволених батьків говорять самі за себе - приєднуйтесь до нас і дайте себе захопити у божевільний світ Spoko Loko! Після концерту також буде можливість зробити фото з гуртом.\n\n* Діти до 2 років вхід безкоштовний (д"
         }
       },
       "admission": {
@@ -1315,7 +1318,7 @@
         "ticket_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604"
       },
       "district": "Fabryczna",
-      "updated_at": "2026-10-22T11:51:53.638103+00:00"
+      "updated_at": "2026-10-23T11:31:30.549583+00:00"
     },
     "historia-detektywistyczna-2026-11-08T10:00:00+01:00": {
       "title": "HISTORIA DETEKTYWISTYCZNA!",
@@ -6130,45 +6133,46 @@
       "updated_at": "2026-10-19T12:47:34.950485+00:00"
     },
     "starsze-gadu-y-warsztaty-logopedyczne-dla-dzieci-4-6-lat-2026-11-18T16:00:00+01:00": {
-      "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
+      "title": "Starsze Gaduły – warsztaty logopedyczne dla dzieci 4–6 lat",
       "date": "2026-11-18T16:00:00+01:00",
       "end_date": "2026-11-18T16:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
-      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-f9ca0308ac11000216fab36b537c7ca5/undefinedundefined",
-      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
-      "source": "wroclaw.pl",
+      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą. „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbywają się w przyjaznej atmosferze, sprzyjającej zdobywaniu nowych umiejętności.\n\nInformacje organizacyjne\n\n• Nazwa zajęć: Starsze Gaduły\n• Dla kogo: dzieci w wieku 4–6 lat wraz z rodzicami\n• Prowadząca: Marta Czajkowska, neurologopeda dziecięcy\n• Charakter zajęć: warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9/692295e6-947d-4ffb-9faa-77f1574861d8.jpg",
       "location": {
-        "name": "Przedszkole Columb",
+        "name": "Przedszkole Columb, Wrocław",
         "district": "Śródmieście"
       },
-      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
-      "scrapped_timestamp": "2026-10-22T11:49:43.109107+00:00",
-      "category": "Workshops",
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/starsze-gaduly-warsztaty-logopedyczne-dla-dzieci-4-6-lat-c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9",
+      "source": "simplygo.pl",
+      "age_hint": "4-6",
       "age_range": {
         "min": 4,
         "max": 6
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/starsze-gaduly-warsztaty-logopedyczne-dla-dzieci-4-6-lat-c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9",
+      "scrapped_timestamp": "2026-10-23T11:30:57.092869+00:00",
+      "category": "Workshops",
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
-          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+          "title": "Starsze Gaduły – warsztaty logopedyczne dla dzieci 4–6 lat",
+          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą. „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbywają się w przyjaznej atmosferze, sprzyjającej zdobywaniu nowych umiejętności.\n\nInformacje organizacyjne\n\n• Nazwa zajęć: Starsze Gaduły\n• Dla kogo: dzieci w wieku 4–6 lat wraz z rodzicami\n• Prowadząca: Marta Czajkowska, neurologopeda dziecięcy\n• Charakter zajęć: warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe"
         },
         "en": {
-          "title": "Older Chatterboxes - Speech Therapy Workshops for Children Aged 4-6",
-          "description": "Playing with words, sounds, and phonemes can be a great adventure! \"Older Chatterboxes\" is a speech therapy workshop for children aged 4–6, during which movement and creative activities help develop communication skills. It is also an opportunity to spend time together and discover new ways to play with language.\n\nLearning to Speak Through Play\n\nDuring the workshops, children will practice speech, play with sounds and words, and develop skills needed for everyday communication. Engaging tasks and movement will make learning a natural part of shared fun.\n\nJoint Discovery with Parents\n\nParents also actively participate in the activities. This way, they learn simple exercises and ideas that can be used daily to support their child's speech development. The workshops will take place in"
+          "title": "Older Chatterboxes – Speech Therapy Workshops for Children Aged 4–6",
+          "description": "Playing with words, sounds, and syllables can be a great adventure. \"Older Chatterboxes\" is a speech therapy workshop for children aged 4–6, during which movement and creative activities help develop communication skills. It is also an opportunity to spend time together and discover new ways to play with language.\n\nLearning to Speak Through Play\n\nDuring the workshops, children will practice speech, play with sounds and words, and develop skills needed for everyday communication. Engaging tasks and movement will make learning a natural part of shared fun.\n\nJoint Discovery with Parents\n\nParents also actively participate in the activities. They will learn simple exercises and ideas that can be used daily to support their child's speech development. The workshops take place in a friendly"
         },
         "uk": {
-          "title": "Старші Гадулі - логопедичні майстер-класи для дітей 4-6 років",
-          "description": "Забава словами, звуками і складів може бути чудовою пригодою! \"Старші Гадулі\" - це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і креативні активності допомагають розвивати комунікативні навички. Це також можливість провести час разом і відкривати нові способи гри з мовою.\n\nНавчання говорити через гру\n\nПід час майстер-класів діти будуть вправлятися в мові, гратися зі звуками і словами, а також розвивати навички, необхідні в повсякденному спілкуванні. Залучаючі завдання і рух зроблять навчання природною частиною спільної гри.\n\nСпільне відкриття з батьками\n\nУ заняттях активно беруть участь також батьки. Завдяки цьому вони знайомляться з простими вправами і ідеями, які можна використовувати щодня, щоб підтримувати розвиток мови дитини. Майстер-класи відбудуться в"
+          "title": "Старші Гадулі – логопедичні майстер-класи для дітей 4–6 років",
+          "description": "Гра зі словами, звуками та складів може бути чудовою пригодою. \"Старші Гадулі\" – це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і креативні активності допомагають розвивати комунікативні навички. Це також можливість провести час разом і відкривати нові способи гратися мовою.\n\nНавчання говорити через гру\n\nПід час майстер-класів діти будуть вправлятися у мові, гратися зі звуками та словами, а також розвивати навички, необхідні в повсякденному спілкуванні. Захоплюючі завдання та рух зроблять навчання природною частиною спільної гри.\n\nСпільне відкриття з батьками\n\nУ заняттях активно беруть участь також батьки. Вони знайомляться з простими вправами та ідеями, які можна використовувати щодня, щоб підтримувати розвиток мови дитини. Майстер-класи проходять у дружній"
         }
       },
       "admission": {
-        "is_free": true
+        "is_free": false
       },
       "district": "Śródmieście",
-      "updated_at": "2026-10-22T11:51:53.638009+00:00"
+      "updated_at": "2026-10-23T11:31:30.549899+00:00"
     },
     "santa-claus-festival-2026-festiwal-wi-tego-miko-aja-2026-12-05T09:00:00+01:00": {
       "title": "Santa Claus Festival 2026 - Festiwal Świętego Mikołaja",
@@ -6773,46 +6777,48 @@
       "updated_at": "2026-10-21T11:44:06.263844+00:00"
     },
     "halloween-w-bibliotece-warsztaty-dla-dzieci-2026-10-29T17:00:00+01:00": {
-      "title": "Halloween w bibliotece – warsztaty dla dzieci",
+      "title": "Halloween w bibliotece [warsztaty dla dzieci]",
       "date": "2026-10-29T17:00:00+01:00",
       "end_date": "2026-10-29T17:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Halloweenowe warsztaty plastyczne dla dzieci w wieku 5–8 lat wraz z rodzicami. Najmłodsi samodzielnie ozdobią własną torbę na słodycze, używając motywów dyń, duszków i nietoperzy.\n\nSzczegóły\n• Data: 29 października 2026 r.\n• Godzina: 17:00\n• Dla kogo: dzieci w wieku 5–8 lat z rodzicami\n\nZapisy\n• osobiście\n• telefonicznie pod numerem 71 347 12 81\n• mailowo: mbp45@biblioteka.wroc.pl",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/aaab8fc8-205b-4a43-b9c0-16f82b8a8095/25c3b9b4-4726-48c0-ab3e-c76413f69017.jpg",
+      "description": "Dynie, duszki, nietoperze i mnóstwo kreatywnej zabawy – tak zapowiada się Halloween w bibliotece! Podczas specjalnych warsztatów najmłodsi będą mogli własnoręcznie ozdobić **własną torbę na halloweenowe słodycze**. To świetna okazja, by puścić wodze fantazji, stworzyć coś niepowtarzalnego i poczuć klimat zbliżającego się Halloween.\n\nStwórz własną torbę na słodycze\n\nNa małych artystów czeka kolorowa zabawa z halloweenowymi motywami. Każde dziecko będzie mogło samodzielnie zaprojektować i ozdobić torbę, która później przyda się podczas zbierania słodyczy. Dynie, duszki i nietoperze to dopiero początek pomysłów – reszta zależy od dziecięcej wyobraźni!\n\nWarsztaty są skierowane do **dzieci w wieku 5–8 lat wraz z rodzicami**. To propozycja na wspólne, twórcze popołudnie w halloweenowej atmosferze.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** Halloween w bibliotece – warsztaty plastyczne\n\n• **Data:** 29 października 2026 r.\n\n• **Godzina:** 17:00\n\n• **Dla kogo:** dzieci w wieku 5–8 lat z rodzicami\n\n• **Zapisy:** osobiście, telefonicznie pod numerem 71 347 12 81 lub mailowo: [email protected]\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=png/https://go.wroclaw.pl/api/download/img-c8f328b7ac11000252259f6e5959fdef/ms-silent-disco-halloween-kafel.png",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417592-halloween-w-bibliotece",
+      "source": "wroclaw.pl",
       "location": {
-        "name": "Miejska Biblioteka Publiczna - Filia nr 45, Traugutta 82, 50-418 Wrocław",
+        "name": "Miejska Biblioteka Publiczna - Filia nr 45 Traugutta 82, Wrocław 50-418",
         "district": "Stare Miasto"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/halloween-w-bibliotece-warsztaty-dla-dzieci-aaab8fc8-205b-4a43-b9c0-16f82b8a8095",
-      "source": "simplygo.pl",
-      "age_hint": "5-8",
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417592-halloween-w-bibliotece",
+      "scrapped_timestamp": "2026-10-23T11:29:13.480743+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
       "age_range": {
         "min": 5,
         "max": 8
       },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/halloween-w-bibliotece-warsztaty-dla-dzieci-aaab8fc8-205b-4a43-b9c0-16f82b8a8095",
-      "scrapped_timestamp": "2026-10-22T11:51:11.970412+00:00",
-      "category": "Workshops",
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Halloween w bibliotece – warsztaty dla dzieci",
-          "description": "Halloweenowe warsztaty plastyczne dla dzieci w wieku 5–8 lat wraz z rodzicami. Najmłodsi samodzielnie ozdobią własną torbę na słodycze, używając motywów dyń, duszków i nietoperzy.\n\nSzczegóły\n• Data: 29 października 2026 r.\n• Godzina: 17:00\n• Dla kogo: dzieci w wieku 5–8 lat z rodzicami\n\nZapisy\n• osobiście\n• telefonicznie pod numerem 71 347 12 81\n• mailowo: mbp45@biblioteka.wroc.pl"
+          "title": "Halloween w bibliotece [warsztaty dla dzieci]",
+          "description": "Dynie, duszki, nietoperze i mnóstwo kreatywnej zabawy – tak zapowiada się Halloween w bibliotece! Podczas specjalnych warsztatów najmłodsi będą mogli własnoręcznie ozdobić **własną torbę na halloweenowe słodycze**. To świetna okazja, by puścić wodze fantazji, stworzyć coś niepowtarzalnego i poczuć klimat zbliżającego się Halloween.\n\nStwórz własną torbę na słodycze\n\nNa małych artystów czeka kolorowa zabawa z halloweenowymi motywami. Każde dziecko będzie mogło samodzielnie zaprojektować i ozdobić torbę, która później przyda się podczas zbierania słodyczy. Dynie, duszki i nietoperze to dopiero początek pomysłów – reszta zależy od dziecięcej wyobraźni!\n\nWarsztaty są skierowane do **dzieci w wieku 5–8 lat wraz z rodzicami**. To propozycja na wspólne, twórcze popołudnie w halloweenowej atmosferze.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** Halloween w bibliotece – warsztaty plastyczne\n\n• **Data:** 29 października 2026 r.\n\n• **Godzina:** 17:00\n\n• **Dla kogo:** dzieci w wieku 5–8 lat z rodzicami\n\n• **Zapisy:** osobiście, telefonicznie pod numerem 71 347 12 81 lub mailowo: [email protected]\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
         },
         "en": {
-          "title": "Halloween at the Library – Workshops for Children",
-          "description": "Halloween art workshops for children aged 5–8 years along with their parents. The youngest will independently decorate their own candy bag using motifs of pumpkins, ghosts, and bats.\n\nDetails\n• Date: October 29, 2026.\n• Time: 5:00 PM\n• For whom: children aged 5–8 years with parents\n\nRegistration\n• in person\n• by phone at 71 347 12 81\n• by email: mbp45@biblioteka.wroc.pl"
+          "title": "Halloween at the Library [workshops for children]",
+          "description": "Pumpkins, ghosts, bats, and plenty of creative fun – that's what Halloween at the library looks like! During special workshops, the youngest will be able to decorate **their own Halloween candy bag** by hand. It's a great opportunity to unleash their imagination, create something unique, and feel the spirit of the upcoming Halloween.\n\nCreate your own candy bag\n\nLittle artists can look forward to colorful fun with Halloween themes. Each child will be able to design and decorate a bag on their own, which will later come in handy while collecting candies. Pumpkins, ghosts, and bats are just the beginning of ideas – the rest depends on the children's imagination!\n\nThe workshops are aimed at **children aged 5–8 years along with their parents**. It's a proposal for a creative afternoon together in a Halloween atmosphere."
         },
         "uk": {
-          "title": "Хелловін у бібліотеці – майстер-класи для дітей",
-          "description": "Хелловінські художні майстер-класи для дітей віком 5–8 років разом з батьками. Наймолодші самостійно прикрасять власну торбу для цукерок, використовуючи мотиви гарбузів, привидів та кажанів.\n\nСкладові\n• Дата: 29 жовтня 2026 р.\n• Час: 17:00\n• Для кого: діти віком 5–8 років з батьками\n\nЗапис\n• особисто\n• телефоном за номером 71 347 12 81\n• електронною поштою: mbp45@biblioteka.wroc.pl"
+          "title": "Геловін у бібліотеці [майстер-класи для дітей]",
+          "description": "Гарбузи, привиди, кажани та безліч креативних розваг – так обіцяє виглядати Геловін у бібліотеці! Під час спеціальних майстер-класів наймолодші зможуть власноруч прикрасити **власну торбу для геловінських солодощів**. Це чудова нагода, щоб пустити на волю фантазію, створити щось неповторне та відчути атмосферу наближаючогося Геловіну.\n\nСтвори власну торбу для солодощів\n\nНа маленьких артистів чекає кольорова розвага з геловінськими мотивами. Кожна дитина зможе самостійно спроектувати та прикрасити торбу, яка потім стане в нагоді під час збору солодощів. Гарбузи, привиди та кажани – це лише початок ідей – решта залежить від дитячої уяви!\n\nМайстер-класи спрямовані на **дітей віком 5–8 років разом з батьками**. Це пропозиція на спільне, творче попередження в геловінській атмосфері."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Stare Miasto",
-      "updated_at": "2026-10-22T11:51:53.638088+00:00"
+      "updated_at": "2026-10-23T11:31:30.549691+00:00"
     },
     "halloween-dla-najm-odszych-w-coffee-planet-2026-10-31T11:00:00+01:00": {
       "title": "Halloween Dla Najmłodszych w Coffee Planet",
@@ -8177,6 +8183,685 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-10-22T11:51:53.638119+00:00"
+    },
+    "noc-pokaz-w-wroc-awskiej-fontanny-multimedialnej-2026-10-24T18:00:00+02:00": {
+      "title": "Noc pokazów Wrocławskiej Fontanny Multimedialnej",
+      "date": "2026-10-24T18:00:00+02:00",
+      "end_date": "2026-10-24T18:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Przed nami wyjątkowe widowisko, które rozświetli Pergolę i zakończy tegoroczny sezon Wrocławskiej Fontanny Multimedialnej! **W sobotę 24 października odbędzie się Noc pokazów**, podczas której będzie można zobaczyć wszystkie widowiska prezentowane w tym sezonie. To ostatnia szansa, by w tym roku zanurzyć się w świecie muzyki, światła, wody i niezwykłych wizualizacji.\n\nPięć widowisk podczas jednej nocy\n\nNa uczestników czeka prawdziwa uczta dla zmysłów. W programie znalazły się wszystkie pokazy z repertuaru Hali Stulecia:\n\n• **Cztery Żywioły**\n\n• **Dzień dobry Marilyn**\n\n• **Mikro&Makro Kosmos**\n\n• **Katedra Demokracji**\n\n• **Pixar: Lato przyjaźni**\n\nPokazy zostaną zaprezentowane w dwóch turach, dzięki czemu będzie można wybrać dogodną godzinę i ponownie przeżyć ulubione widowiska lub odkryć te, których wcześniej nie udało się zobaczyć.\n\nPożegnanie sezonu na Pergoli\n\nNoc pokazów to nie tylko okazja do obejrzenia wyjątkowych multimedialnych spektakli, ale także symboliczne zakończenie sezonu fontanny. Na kolejne widowiska trzeba będzie poczekać do wiosny 2027 roku. Warto więc wykorzystać tę ostatnią szansę, by zobaczyć, jak woda, światło i muzyka tworzą niezwykłe widowisko pod gołym niebem.\n\nInformacje organizacyjne\n\n• **Data:** sobota, 24 października 2026 r.\n\n• **Miejsce:** Wrocławska Fontanna Multimedialna na Perg",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-5b256850ac11000255af45ef6813101c/mg-7779.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417835-noc-pokazow-wroclawskiej-fontanny-multimedialnej",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Fontanna Multimedialna we Wrocławiu Wystawowa 1, Wrocław 51-618",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417835-noc-pokazow-wroclawskiej-fontanny-multimedialnej",
+      "scrapped_timestamp": "2026-10-23T11:28:45.150912+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Noc pokazów Wrocławskiej Fontanny Multimedialnej",
+          "description": "Przed nami wyjątkowe widowisko, które rozświetli Pergolę i zakończy tegoroczny sezon Wrocławskiej Fontanny Multimedialnej! **W sobotę 24 października odbędzie się Noc pokazów**, podczas której będzie można zobaczyć wszystkie widowiska prezentowane w tym sezonie. To ostatnia szansa, by w tym roku zanurzyć się w świecie muzyki, światła, wody i niezwykłych wizualizacji.\n\nPięć widowisk podczas jednej nocy\n\nNa uczestników czeka prawdziwa uczta dla zmysłów. W programie znalazły się wszystkie pokazy z repertuaru Hali Stulecia:\n\n• **Cztery Żywioły**\n\n• **Dzień dobry Marilyn**\n\n• **Mikro&Makro Kosmos**\n\n• **Katedra Demokracji**\n\n• **Pixar: Lato przyjaźni**\n\nPokazy zostaną zaprezentowane w dwóch turach, dzięki czemu będzie można wybrać dogodną godzinę i ponownie przeżyć ulubione widowiska lub odkryć te, których wcześniej nie udało się zobaczyć.\n\nPożegnanie sezonu na Pergoli\n\nNoc pokazów to nie tylko okazja do obejrzenia wyjątkowych multimedialnych spektakli, ale także symboliczne zakończenie sezonu fontanny. Na kolejne widowiska trzeba będzie poczekać do wiosny 2027 roku. Warto więc wykorzystać tę ostatnią szansę, by zobaczyć, jak woda, światło i muzyka tworzą niezwykłe widowisko pod gołym niebem.\n\nInformacje organizacyjne\n\n• **Data:** sobota, 24 października 2026 r.\n\n• **Miejsce:** Wrocławska Fontanna Multimedialna na Perg"
+        },
+        "en": {
+          "title": "Night of the Wrocław Multimedia Fountain Shows",
+          "description": "An exceptional spectacle awaits us, which will illuminate the Pergola and conclude this year's season of the Wrocław Multimedia Fountain! **On Saturday, October 24, the Night of Shows will take place**, during which all performances presented this season will be showcased. This is the last chance to immerse yourself in the world of music, light, water, and extraordinary visualizations this year.\n\nFive performances in one night\n\nParticipants can expect a true feast for the senses. The program includes all shows from the Centennial Hall repertoire:\n\n• **Four Elements**\n\n• **Good Morning Marilyn**\n\n• **Micro & Macro Cosmos**\n\n• **Cathedral of Democracy**\n\n• **Pixar: Summer of Friendship**\n\nThe shows will be presented in two rounds, allowing attendees to choose a convenient time and relive their favorite performances or discover new ones."
+        },
+        "uk": {
+          "title": "Ніч показів Вроцлавської Мультимедійної Фонтану",
+          "description": "Перед нами унікальне видовище, яке освітить Перголу і завершить цьогорічний сезон Вроцлавської Мультимедійної Фонтану! **В суботу 24 жовтня відбудеться Ніч показів**, під час якої буде можливість побачити всі видовище, представлені в цьому сезоні. Це остання можливість, щоб цього року зануритися у світ музики, світла, води та незвичайних візуалізацій.\n\nП’ять видовище під час однієї ночі\n\nНа учасників чекає справжнє свято для почуттів. У програмі були всі покази з репертуару Зали Століття:\n\n• **Чотири Стихії**\n\n• **Доброго ранку, Мерилін**\n\n• **Мікро&Макро Космос**\n\n• **Кафедра Демократії**\n\n• **Піксар: Літо дружби**\n\nПокази будуть представлені в двох турах, завдяки чому буде можливість вибрати зручний час і знову пережити улюблені видовище або відкрити"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:31:30.549614+00:00"
+    },
+    "baaach-3-2026-10-23T17:30:00+02:00": {
+      "title": "BAAACH! | 3+",
+      "date": "2026-10-23T17:30:00+02:00",
+      "end_date": "2026-10-23T17:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Przeprowadzka to wielka przygoda, ale też spore zamieszanie! Pakowanie, sprzątanie, podróż i wreszcie nowe mieszkanie. Tylko dlaczego wszystko wydaje się takie obce, a dom nagle zniknął gdzieś pomiędzy kartonami? Spektakl **„BAAACH!”** Wrocławskiego Teatru Lalek opowiada o zmianach, szukaniu swojego miejsca i budowaniu poczucia bezpieczeństwa w nowej rzeczywistości.\n\nCo kryje się w kartonach?\n\nDwójka bohaterów staje przed niełatwym zadaniem: jak oswoić nieznane miejsce i poukładać świat na nowo? Z pomocą wyobraźni odkrywają niezwykłe możliwości zwyczajnych pudeł, a minimalistyczna scenografia stopniowo odsłania kolejne niespodzianki i nowe światy.\n\nTwórcy sięgają po teatr formy i teatr przedmiotu, którym towarzyszy muzyka klasyczna. Dzięki temu codzienna sytuacja nabiera magicznego wymiaru, a zwykłe kartony stają się początkiem opowieści o odkrywaniu, zmianie i bliskości.\n\nO domu, relacjach i poczuciu bezpieczeństwa\n\n„BAAACH!” to przedstawienie, które podejmuje dialog zarówno z najmłodszymi widzami, jak i z towarzyszącymi im dorosłymi. Każdy może odczytać je na swój sposób, zależnie od wieku i własnych doświadczeń. Spektakl przypomina, że nawet gdy dotychczasowy świat się zmienia, można zbudować go na nowo – dzięki miłości, zaufaniu i bliskości.\n\nTo kolejna propozycja twórców znanych publiczności Wrocławskiego Teatru Lalek z przedstawień „Kulka” i „Kręcipupa”.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-e017db38ac11000216fab36b538778ea/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1417499-baaach-3-plus",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocławski Teatr Lalek Pl. Teatralny 4, Wrocław 50-051",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1417499-baaach-3-plus",
+      "scrapped_timestamp": "2026-10-23T11:28:51.771128+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 11
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "BAAACH! | 3+",
+          "description": "Przeprowadzka to wielka przygoda, ale też spore zamieszanie! Pakowanie, sprzątanie, podróż i wreszcie nowe mieszkanie. Tylko dlaczego wszystko wydaje się takie obce, a dom nagle zniknął gdzieś pomiędzy kartonami? Spektakl **„BAAACH!”** Wrocławskiego Teatru Lalek opowiada o zmianach, szukaniu swojego miejsca i budowaniu poczucia bezpieczeństwa w nowej rzeczywistości.\n\nCo kryje się w kartonach?\n\nDwójka bohaterów staje przed niełatwym zadaniem: jak oswoić nieznane miejsce i poukładać świat na nowo? Z pomocą wyobraźni odkrywają niezwykłe możliwości zwyczajnych pudeł, a minimalistyczna scenografia stopniowo odsłania kolejne niespodzianki i nowe światy.\n\nTwórcy sięgają po teatr formy i teatr przedmiotu, którym towarzyszy muzyka klasyczna. Dzięki temu codzienna sytuacja nabiera magicznego wymiaru, a zwykłe kartony stają się początkiem opowieści o odkrywaniu, zmianie i bliskości.\n\nO domu, relacjach i poczuciu bezpieczeństwa\n\n„BAAACH!” to przedstawienie, które podejmuje dialog zarówno z najmłodszymi widzami, jak i z towarzyszącymi im dorosłymi. Każdy może odczytać je na swój sposób, zależnie od wieku i własnych doświadczeń. Spektakl przypomina, że nawet gdy dotychczasowy świat się zmienia, można zbudować go na nowo – dzięki miłości, zaufaniu i bliskości.\n\nTo kolejna propozycja twórców znanych publiczności Wrocławskiego Teatru Lalek z przedstawień „Kulka” i „Kręcipupa”.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "BAAACH! | 3+",
+          "description": "Moving is a great adventure, but also quite a mess! Packing, cleaning, traveling, and finally a new apartment. But why does everything seem so foreign, and the home suddenly disappeared somewhere among the boxes? The performance **“BAAACH!”** by the Wrocław Puppet Theatre tells the story of changes, searching for one's place, and building a sense of security in a new reality.\n\nWhat is hidden in the boxes?\n\nTwo heroes face the challenging task: how to tame the unknown place and rearrange the world anew? With the help of imagination, they discover extraordinary possibilities of ordinary boxes, while the minimalist scenery gradually reveals more surprises and new worlds.\n\nThe creators draw on form theatre and object theatre, accompanied by classical music. Thanks to this, the everyday situation takes on a magical dimension."
+        },
+        "uk": {
+          "title": "BAAACH! | 3+",
+          "description": "Переїзд — це велика пригода, але також і чималий хаос! Упаковка, прибирання, подорож і, нарешті, нова квартира. Тільки чому все здається таким чужим, а дім раптом зник десь між коробками? Спектакль **„BAAACH!”** Вроцлавського театру ляльок розповідає про зміни, пошук свого місця та побудову відчуття безпеки в новій реальності.\n\nЩо ховається в коробках?\n\nДвоє героїв стикаються з нелегким завданням: як приручити незнайоме місце та впорядкувати світ заново? З допомогою уяви вони відкривають неймовірні можливості звичайних коробок, а мінімалістична сценографія поступово відкриває нові сюрпризи та нові світи.\n\nТворці звертаються до театру форми та театру предмета, яким супроводжує класична музика. Завдяки цьому повсякденна ситуація набирає магічного виміру."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-23T11:31:30.549631+00:00"
+    },
+    "cykl-city-trail-2026-10-24T11:00:00+02:00": {
+      "title": "Cykl CITY TRAIL",
+      "date": "2026-10-24T11:00:00+02:00",
+      "end_date": "2026-10-24T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Biegowa jesień we Wrocławiu nabiera tempa! **CITY TRAIL z Fundacją LOTTO wraca do Lasu Osobowickiego**, zapraszając na trasy zarówno dorosłych biegaczy, jak i dzieci oraz młodzież. To okazja, by sprawdzić swoją formę, poprawić życiówkę albo po prostu rozpocząć przygodę z bieganiem w otoczeniu przyrody. Pierwsze zawody sezonu 2026/2027 odbędą się już **24 października**.\n\nPięć kilometrów dla dorosłych i biegi dla najmłodszych\n\nW biegu głównym uczestnicy zmierzą się z dystansem **5 km**, a w ramach CITY TRAIL Junior na dzieci i młodzież czekają trasy o długości od **200 m do 1 km**. Wrocławska pętla uchodzi za jedną z najszybszych w całym ogólnopolskim cyklu, a jej przebieg pozostaje niezmienny. Dzięki temu biegacze mogą porównywać swoje wyniki podczas kolejnych startów i obserwować postępy przez cały sezon.\n\nStart, meta oraz miasteczko biegowe będą zlokalizowane w pobliżu boiska w Lesie Osobowickim. Trasa jest odpowiednia także dla osób początkujących, dlatego nie trzeba być doświadczonym zawodnikiem, by dołączyć do sportowej rywalizacji.\n\nBiegaj indywidualnie lub drużynowo\n\nCITY TRAIL to nie tylko walka o jak najlepszy czas, lecz także okazja do wspólnego biegania. Uczestnicy mogą wystartować w klasyfikacji drużynowej, w której rywalizują **czteroosobowe zespoły**. Drużyny mogą być mieszane, a ich składy nie podlegają ograniczeniom ze względu na płeć.\n\nNa zakończenie sezonu na najszybsze zawodniczki i najszybszych zawodników w poszczególnych lokalizacjach czekają nagrody w klasyfikacjach open oraz wiekowych. Pamiątkowe medale otrzymają wszyscy, którzy ukończą co najmniej **trzy biegi główne** lub **dwa biegi CITY TRAIL Junior**. Zgłoszenia drużyn można dokonywać do dnia drugiego biegu sezonu.\n  Co ważne - w cyklu nie ma limitu miejsc, a to oznacza, że rejestracji można dokonać również w dniu każdego biegu.\n\nKalendarz CITY TRAIL we Wrocławiu\n\nW sezonie 2026/2027 wrocławskie zawody zaplanowano na cztery terminy:\n\n• **24 października 2026 r.**\n\n• **5 grudnia 2026 r.**\n\n• **13 lutego 2027 r.**\n\n• **13 marca 2027 r.**\n\nInformacje organizacyjne\n\n• **Miejsce:** Las Osobowicki we Wrocławiu, okolice boiska\n\n• **Bieg główny:** 5 km\n\n• **CITY TRAIL Junior:** dystanse od 200 m do 1 km\n\n• **Sezon:** październik 2026 – kwiecień 2027\n\nWiele ciekawostek można znaleźć na profilach CITY TRAIL na Facebooku oraz Instagramie. Organizatorem biegów jest Fundacja Krok do Natury.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram\n\n• Otwiera się w nowej karcie\nYouTube",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-762cf136ac11000255af45ef67f35485/city-trail-bieg-6.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1401677-cykl-city-trail",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Las Osobowicki Las Osobowicki, Wrocław"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1401677-cykl-city-trail",
+      "scrapped_timestamp": "2026-10-23T11:28:59.293921+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 5,
+        "max": 18
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Cykl CITY TRAIL",
+          "description": "Biegowa jesień we Wrocławiu nabiera tempa! **CITY TRAIL z Fundacją LOTTO wraca do Lasu Osobowickiego**, zapraszając na trasy zarówno dorosłych biegaczy, jak i dzieci oraz młodzież. To okazja, by sprawdzić swoją formę, poprawić życiówkę albo po prostu rozpocząć przygodę z bieganiem w otoczeniu przyrody. Pierwsze zawody sezonu 2026/2027 odbędą się już **24 października**.\n\nPięć kilometrów dla dorosłych i biegi dla najmłodszych\n\nW biegu głównym uczestnicy zmierzą się z dystansem **5 km**, a w ramach CITY TRAIL Junior na dzieci i młodzież czekają trasy o długości od **200 m do 1 km**. Wrocławska pętla uchodzi za jedną z najszybszych w całym ogólnopolskim cyklu, a jej przebieg pozostaje niezmienny. Dzięki temu biegacze mogą porównywać swoje wyniki podczas kolejnych startów i obserwować postępy przez cały sezon.\n\nStart, meta oraz miasteczko biegowe będą zlokalizowane w pobliżu boiska w Lesie Osobowickim. Trasa jest odpowiednia także dla osób początkujących, dlatego nie trzeba być doświadczonym zawodnikiem, by dołączyć do sportowej rywalizacji.\n\nBiegaj indywidualnie lub drużynowo\n\nCITY TRAIL to nie tylko walka o jak najlepszy czas, lecz także okazja do wspólnego biegania. Uczestnicy mogą wystartować w klasyfikacji drużynowej, w której rywalizują **czteroosobowe zespoły**. Drużyny mogą być mieszane, a ich składy nie podlegają ograniczeniom ze względu na płeć.\n\nNa zakończenie sezonu na najszybsze zawodniczki i najszybszych zawodników w poszczególnych lokalizacjach czekają nagrody w klasyfikacjach open oraz wiekowych. Pamiątkowe medale otrzymają wszyscy, którzy ukończą co najmniej **trzy biegi główne** lub **dwa biegi CITY TRAIL Junior**. Zgłoszenia drużyn można dokonywać do dnia drugiego biegu sezonu.\n  Co ważne - w cyklu nie ma limitu miejsc, a to oznacza, że rejestracji można dokonać również w dniu każdego biegu.\n\nKalendarz CITY TRAIL we Wrocławiu\n\nW sezonie 2026/2027 wrocławskie zawody zaplanowano na cztery terminy:\n\n• **24 października 2026 r.**\n\n• **5 grudnia 2026 r.**\n\n• **13 lutego 2027 r.**\n\n• **13 marca 2027 r.**\n\nInformacje organizacyjne\n\n• **Miejsce:** Las Osobowicki we Wrocławiu, okolice boiska\n\n• **Bieg główny:** 5 km\n\n• **CITY TRAIL Junior:** dystanse od 200 m do 1 km\n\n• **Sezon:** październik 2026 – kwiecień 2027\n\nWiele ciekawostek można znaleźć na profilach CITY TRAIL na Facebooku oraz Instagramie. Organizatorem biegów jest Fundacja Krok do Natury.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram\n\n• Otwiera się w nowej karcie\nYouTube"
+        },
+        "en": {
+          "title": "CITY TRAIL Cycle",
+          "description": "The running autumn in Wrocław is gaining momentum! **CITY TRAIL with the LOTTO Foundation returns to the Osobowice Forest**, inviting both adult runners and children and youth to the trails. It's an opportunity to check your fitness, improve your personal best, or simply start your adventure with running in a natural environment. The first competition of the 2026/2027 season will take place on **October 24**.\n\nFive kilometers for adults and races for the youngest\n\nIn the main race, participants will face a distance of **5 km**, while in the CITY TRAIL Junior, children and youth can look forward to routes ranging from **200 m to 1 km**. The Wrocław loop is considered one of the fastest in the entire national cycle, and its course remains unchanged. This allows runners to compare their results during subsequent starts and observe their progress."
+        },
+        "uk": {
+          "title": "Цикл CITY TRAIL",
+          "description": "Бігова осінь у Вроцлаві набирає обертів! **CITY TRAIL з Фундацією LOTTO повертається до Лісу Особовіцького**, запрошуючи на траси як дорослих бігунів, так і дітей та молодь. Це нагода, щоб перевірити свою форму, покращити особистий рекорд або просто розпочати пригоду з бігом в оточенні природи. Перші змагання сезону 2026/2027 відбудуться вже **24 жовтня**.\n\nП’ять кілометрів для дорослих і біги для наймолодших\n\nУ головному забігу учасники змагатимуться на дистанції **5 км**, а в рамках CITY TRAIL Junior на дітей та молодь чекають траси довжиною від **200 м до 1 км**. Вроцлавська петля вважається однією з найшвидших у всьому загальнонаціональному циклі, а її маршрут залишається незмінним. Завдяки цьому бігуни можуть порівнювати свої результати під час наступних стартів і спостерігати за прогресом"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-23T11:31:30.549647+00:00"
+    },
+    "emocje-w-szkolnym-tornistrze-bezp-atny-cykl-zaj-z-elementami-arteterapii-dla-dzieci-6-8-lat-2026-10-29T17:00:00+01:00": {
+      "title": "Emocje w szkolnym tornistrze. Bezpłatny cykl zajęć z elementami arteterapii dla dzieci 6-8 lat",
+      "date": "2026-10-29T17:00:00+01:00",
+      "end_date": "2026-10-29T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Szkolna codzienność to nie tylko lekcje i zadania. To także nowe sytuacje, relacje z rówieśnikami, współpraca, konflikty, sukcesy i chwile, kiedy coś po prostu nie wychodzi. „Emocje w szkolnym tornistrze” to cykl zajęć pedagogicznych dla dzieci w wieku 6-8 lat organizowane przez Wrocławskie Centrum Rozwoju Społecznego, które wspierają je w radzeniu sobie z codziennymi sytuacjami w szkole. Podczas spotkań dzieci będą rozmawiać o emocjach, uczyć się je rozpoznawać i wyrażać, a także ćwiczyć komunikację, współpracę i szukanie rozwiązań w trudniejszych momentach. Zajęcia będą prowadzone w formie zabawy i wspólnego działania – z wykorzystaniem rozmowy, ruchu, działań twórczych oraz elementów arteterapii. Nie zabraknie przestrzeni na swobodną ekspresję, rozwijanie relacji z innymi i odkrywanie własnych sposobów radzenia sobie z codziennymi wyzwaniami. Jedno spotkanie potrwa 60 minut. Po zajęciach przewidziano dodatkowe 30 minut konsultacji dla rodziców i opiekunów, podczas których będzie można porozmawiać o codziennych wyzwaniach i potrzebach dzieci. Kiedy? czwartki, 17:00-18:30 (start: 15 października 2026) Gdzie? Przejście Dialogu, Świdnicka 19 (Przejście Świdnickie) Dla kogo? Dzieci w wieku 6-8 lat Język: polski Udział w spotkaniach jest bezpłatny. Obowiązują zapisy przez formularz zgłoszeniowy na stronie www.przejsciedialogu.wcrs.wroclaw.pl\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-172fc5adac11000201b2e692214bfd02/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417159-emocje-w-szkolnym-tornistrze-bezplatny-cykl-zajec",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Przejście Dialogu Świdnicka 19, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417159-emocje-w-szkolnym-tornistrze-bezplatny-cykl-zajec",
+      "scrapped_timestamp": "2026-10-23T11:29:05.778753+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 8
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Emocje w szkolnym tornistrze. Bezpłatny cykl zajęć z elementami arteterapii dla dzieci 6-8 lat",
+          "description": "Szkolna codzienność to nie tylko lekcje i zadania. To także nowe sytuacje, relacje z rówieśnikami, współpraca, konflikty, sukcesy i chwile, kiedy coś po prostu nie wychodzi. „Emocje w szkolnym tornistrze” to cykl zajęć pedagogicznych dla dzieci w wieku 6-8 lat organizowane przez Wrocławskie Centrum Rozwoju Społecznego, które wspierają je w radzeniu sobie z codziennymi sytuacjami w szkole. Podczas spotkań dzieci będą rozmawiać o emocjach, uczyć się je rozpoznawać i wyrażać, a także ćwiczyć komunikację, współpracę i szukanie rozwiązań w trudniejszych momentach. Zajęcia będą prowadzone w formie zabawy i wspólnego działania – z wykorzystaniem rozmowy, ruchu, działań twórczych oraz elementów arteterapii. Nie zabraknie przestrzeni na swobodną ekspresję, rozwijanie relacji z innymi i odkrywanie własnych sposobów radzenia sobie z codziennymi wyzwaniami. Jedno spotkanie potrwa 60 minut. Po zajęciach przewidziano dodatkowe 30 minut konsultacji dla rodziców i opiekunów, podczas których będzie można porozmawiać o codziennych wyzwaniach i potrzebach dzieci. Kiedy? czwartki, 17:00-18:30 (start: 15 października 2026) Gdzie? Przejście Dialogu, Świdnicka 19 (Przejście Świdnickie) Dla kogo? Dzieci w wieku 6-8 lat Język: polski Udział w spotkaniach jest bezpłatny. Obowiązują zapisy przez formularz zgłoszeniowy na stronie www.przejsciedialogu.wcrs.wroclaw.pl\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "Emotions in the School Backpack. Free series of classes with elements of art therapy for children aged 6-8",
+          "description": "School life is not just about lessons and assignments. It also includes new situations, relationships with peers, cooperation, conflicts, successes, and moments when things simply don't go right. \"Emotions in the School Backpack\" is a series of educational classes for children aged 6-8 organized by the Wrocław Social Development Center, which support them in coping with everyday situations at school. During the meetings, children will talk about emotions, learn to recognize and express them, as well as practice communication, cooperation, and finding solutions in more challenging moments. The classes will be conducted in a playful and collaborative manner – using conversation, movement, creative activities, and elements of art therapy. There will be plenty of space for free expression, developing relationships with others, and discovering in"
+        },
+        "uk": {
+          "title": "Емоції в шкільному рюкзаку. Безкоштовний цикл занять з елементами арт-терапії для дітей 6-8 років",
+          "description": "Шкільна буденність – це не лише уроки та завдання. Це також нові ситуації, стосунки з однолітками, співпраця, конфлікти, успіхи та моменти, коли щось просто не виходить. \"Емоції в шкільному рюкзаку\" – це цикл педагогічних занять для дітей віком 6-8 років, організованих Вроцлавським Центром Розвитку Соціального, які підтримують їх у подоланні щоденних ситуацій у школі. Під час зустрічей діти будуть говорити про емоції, вчитися їх розпізнавати та виражати, а також практикувати комунікацію, співпрацю та пошук рішень у складніші моменти. Заняття будуть проводитися у формі гри та спільної діяльності – з використанням розмови, руху, творчих дій та елементів арт-терапії. Не бракуватиме простору для вільної експресії, розвитку стосунків з іншими та відкриття в"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-23T11:31:30.549672+00:00"
+    },
+    "xiv-festiwal-niezale-nej-kultury-bia-oruskiej-2026-10-23T00:00:00+02:00": {
+      "title": "XIV Festiwal Niezależnej Kultury Białoruskiej",
+      "date": "2026-10-23T00:00:00+02:00",
+      "end_date": "2026-10-23T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "Białoruska poezja, teatr, kino, muzyka i sztuki wizualne spotkają się we Wrocławiu podczas **XIV Festiwalu Niezależnej Kultury Białoruskiej „Żywica / ЖЫВІЦА”**. Od 17 do 24 października miasto stanie się przestrzenią spotkań artystów, mieszkańców i osób z białoruskiej diaspory. To tydzień pełen twórczości, rozmów i wydarzeń, które pokazują, jak kultura pomaga zachować pamięć, budować wspólnotę i tworzyć nowe miejsce do życia.\n\n„Żywica” – kultura, która łączy\n\nFestiwal od lat prezentuje niezależną kulturę białoruską i tworzy przestrzeń do spotkania różnych doświadczeń, języków oraz perspektyw. Tegoroczna nazwa – „Żywica” – symbolizuje energię, która chroni, spaja i pozwala się odradzać. Wydarzenie przypomina o białoruskiej historii i współczesnych doświadczeniach, ale jednocześnie pokazuje kulturę jako żywy proces, który rozwija się również poza granicami kraju.\n\nW programie znalazły się spektakle teatralne, projekcje filmowe, spotkania autorskie, debaty, warsztaty artystyczne, wystawy i wydarzenia poetyckie. To okazja, by poznać twórczość białoruskich artystów, porozmawiać o pamięci i tożsamości oraz zobaczyć, jak ich kultura współtworzy dzisiejszy Wrocław.\n\nTeatr, kino i sztuka opowiadają o pamięci\n\nJednym z ważnych punktów programu będzie spektakl **„Bieżeńcy 1915”** w wykonaniu BYteatru, przygotowany na podstawie książki Anety Prymaki-Oniszk „Bieżeństwo 1915. Zapomniani uchodźcy”. Przedstawienie podejmuje temat przymusowej migracji, utraconych domów i pamięci rodzinnej. Wielojęzyczna forma łączy polszczyznę, białoruski, rosyjski i podlaski dialekt.\n\nW programie znalazł się również pokaz filmu **„Pod szarym niebem”** w reżyserii Mary Tamkovich, inspirowanego historią białoruskich dziennikarzy Igora Iljasha i Katsiaryny Andreyevej. Po seansie zaplanowano rozmowę z reżyserką oraz Aliaksandrą Vajcechovich, aktorką wcielającą się w główną rolę.\n\nTemat doświadczenia represji i pamięci podejmie także wystawa Alesa Papkovicha **„Sny więźnia politycznego”** w Domku Miedziorytnika. Prezentowane rysunki powstały podczas uwięzienia artysty w 2020 roku i stanowią osobisty zapis doświadczenia izolacji.\n\nPoezja, warsztaty i spotkania z kulturą\n\nSzczególne miejsce w tegorocznej edycji zajmie polsko-białorusko-ukraiński konkurs poetycki. Podczas finałowego slamu zabrzmią utwory w trzech językach, a po raz pierwszy zostanie wręczona **Nagroda Poetycka im. Adama Mickiewicza**. To spotkanie poświęcone językowi, korzeniom, wolności i tożsamości.\n\nMiłośników sztuki zainteresuje projekt **„Otwarte Formy”** – cykl warsztatów obejmujących m.in. grafikę, linoryt, pracę z tkaniną, wyszywanie i działania fotograficzne. Wspólna praca uczestników zakończy się wystawą, pokazującą kulturę jako proces współtworzenia i wymiany doświadczeń.\n\nNie zabraknie także bardziej niekonwencjonalnych propozycji. **„Cały Szekspir w niecałą godzinę”** Henryka Mazurkiewicza to autoironiczny stand-up teoretyczny o teatralnym kanonie, szkolnych kliszach i mitach kultury. Program uzupełnią spacer po białoruskich miejscach Wrocławia, spotkania i debaty poświęcone przyszłości Białorusi, w tym dyskusja „Białoruska droga do demokracji”.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** XIV Festiwal Niezależnej Kultury Białoruskiej „Żywica / ЖЫВІЦА”\n\n• **Termin:** 17–24 października 2026 r.\n\n• **Miejsce:** różne lokalizacje we Wrocławiu\n\n• **Klub Proza:** wydarzenia 23 października o godz. 19:00 oraz 24 października o godz. 17:00\n\n• **Wstęp:** wolny na wydarzenia wskazane w zapowiedzi\n\nFestiwal organizuje Fundacja „Za Wolność Waszą i Naszą”.\n\nPrzedsięwzięcie dofinansowane z budżetu Samorządu Województwa Dolnośląskiego oraz przez Centrum Mieroszewskiego w ramach IV Otwartego Konkursu.\n\n**Organizatorzy**: Fundacja „Za Wolność Waszą i Naszą”. Współorganizatorzy: Biuro Parlamentu\n  Europejskiego we Wrocławiu, Domek Miedziorytnika, Kolegium Europy Wschodniej im. Jana\n  Nowaka-Jeziorańskiego, Ośrodek Kultury i Sztuki we Wrocławiu, Otwarte Pracownie Plastyczne im.\n  Gepperta, Stowarzyszenie Białoruski Związek Solidarności, Filia we Wrocławiu Akademii Sztuk\n  Teatralnych im. Stanisława Wyspiańskiego w Krakowie, Wrocławski Dom Literatury, Zakład\n  Narodowy im. Ossolińskich / Ossolineum.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-dc5aaa73ac11000255af45ef684798f3/festiwal-bialorus-wroc-416x520.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sztuka/1416975-xiv-festiwal-niezaleznej-kultury-bialoruskiej",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocław - różne lokalizacje wg programu dnia Wrocław"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sztuka/1416975-xiv-festiwal-niezaleznej-kultury-bialoruskiej",
+      "scrapped_timestamp": "2026-10-23T11:29:20.957485+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Theater",
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "unknown",
+      "translations": {
+        "pl": {
+          "title": "XIV Festiwal Niezależnej Kultury Białoruskiej",
+          "description": "Białoruska poezja, teatr, kino, muzyka i sztuki wizualne spotkają się we Wrocławiu podczas **XIV Festiwalu Niezależnej Kultury Białoruskiej „Żywica / ЖЫВІЦА”**. Od 17 do 24 października miasto stanie się przestrzenią spotkań artystów, mieszkańców i osób z białoruskiej diaspory. To tydzień pełen twórczości, rozmów i wydarzeń, które pokazują, jak kultura pomaga zachować pamięć, budować wspólnotę i tworzyć nowe miejsce do życia.\n\n„Żywica” – kultura, która łączy\n\nFestiwal od lat prezentuje niezależną kulturę białoruską i tworzy przestrzeń do spotkania różnych doświadczeń, języków oraz perspektyw. Tegoroczna nazwa – „Żywica” – symbolizuje energię, która chroni, spaja i pozwala się odradzać. Wydarzenie przypomina o białoruskiej historii i współczesnych doświadczeniach, ale jednocześnie pokazuje kulturę jako żywy proces, który rozwija się również poza granicami kraju.\n\nW programie znalazły się spektakle teatralne, projekcje filmowe, spotkania autorskie, debaty, warsztaty artystyczne, wystawy i wydarzenia poetyckie. To okazja, by poznać twórczość białoruskich artystów, porozmawiać o pamięci i tożsamości oraz zobaczyć, jak ich kultura współtworzy dzisiejszy Wrocław.\n\nTeatr, kino i sztuka opowiadają o pamięci\n\nJednym z ważnych punktów programu będzie spektakl **„Bieżeńcy 1915”** w wykonaniu BYteatru, przygotowany na podstawie książki Anety Prymaki-Oniszk „Bieżeństwo 1915. Zapomniani uchodźcy”. Przedstawienie podejmuje temat przymusowej migracji, utraconych domów i pamięci rodzinnej. Wielojęzyczna forma łączy polszczyznę, białoruski, rosyjski i podlaski dialekt.\n\nW programie znalazł się również pokaz filmu **„Pod szarym niebem”** w reżyserii Mary Tamkovich, inspirowanego historią białoruskich dziennikarzy Igora Iljasha i Katsiaryny Andreyevej. Po seansie zaplanowano rozmowę z reżyserką oraz Aliaksandrą Vajcechovich, aktorką wcielającą się w główną rolę.\n\nTemat doświadczenia represji i pamięci podejmie także wystawa Alesa Papkovicha **„Sny więźnia politycznego”** w Domku Miedziorytnika. Prezentowane rysunki powstały podczas uwięzienia artysty w 2020 roku i stanowią osobisty zapis doświadczenia izolacji.\n\nPoezja, warsztaty i spotkania z kulturą\n\nSzczególne miejsce w tegorocznej edycji zajmie polsko-białorusko-ukraiński konkurs poetycki. Podczas finałowego slamu zabrzmią utwory w trzech językach, a po raz pierwszy zostanie wręczona **Nagroda Poetycka im. Adama Mickiewicza**. To spotkanie poświęcone językowi, korzeniom, wolności i tożsamości.\n\nMiłośników sztuki zainteresuje projekt **„Otwarte Formy”** – cykl warsztatów obejmujących m.in. grafikę, linoryt, pracę z tkaniną, wyszywanie i działania fotograficzne. Wspólna praca uczestników zakończy się wystawą, pokazującą kulturę jako proces współtworzenia i wymiany doświadczeń.\n\nNie zabraknie także bardziej niekonwencjonalnych propozycji. **„Cały Szekspir w niecałą godzinę”** Henryka Mazurkiewicza to autoironiczny stand-up teoretyczny o teatralnym kanonie, szkolnych kliszach i mitach kultury. Program uzupełnią spacer po białoruskich miejscach Wrocławia, spotkania i debaty poświęcone przyszłości Białorusi, w tym dyskusja „Białoruska droga do demokracji”.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** XIV Festiwal Niezależnej Kultury Białoruskiej „Żywica / ЖЫВІЦА”\n\n• **Termin:** 17–24 października 2026 r.\n\n• **Miejsce:** różne lokalizacje we Wrocławiu\n\n• **Klub Proza:** wydarzenia 23 października o godz. 19:00 oraz 24 października o godz. 17:00\n\n• **Wstęp:** wolny na wydarzenia wskazane w zapowiedzi\n\nFestiwal organizuje Fundacja „Za Wolność Waszą i Naszą”.\n\nPrzedsięwzięcie dofinansowane z budżetu Samorządu Województwa Dolnośląskiego oraz przez Centrum Mieroszewskiego w ramach IV Otwartego Konkursu.\n\n**Organizatorzy**: Fundacja „Za Wolność Waszą i Naszą”. Współorganizatorzy: Biuro Parlamentu\n  Europejskiego we Wrocławiu, Domek Miedziorytnika, Kolegium Europy Wschodniej im. Jana\n  Nowaka-Jeziorańskiego, Ośrodek Kultury i Sztuki we Wrocławiu, Otwarte Pracownie Plastyczne im.\n  Gepperta, Stowarzyszenie Białoruski Związek Solidarności, Filia we Wrocławiu Akademii Sztuk\n  Teatralnych im. Stanisława Wyspiańskiego w Krakowie, Wrocławski Dom Literatury, Zakład\n  Narodowy im. Ossolińskich / Ossolineum.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "XIV Festival of Independent Belarusian Culture",
+          "description": "Belarusian poetry, theater, cinema, music, and visual arts will meet in Wrocław during the **XIV Festival of Independent Belarusian Culture \"Żywica / ЖЫВІЦА\"**. From October 17 to 24, the city will become a space for meetings between artists, residents, and members of the Belarusian diaspora. It is a week full of creativity, conversations, and events that show how culture helps preserve memory, build community, and create new places to live.\n\n\"Żywica\" – a culture that connects\n\nThe festival has been presenting independent Belarusian culture for years and creates a space for the meeting of different experiences, languages, and perspectives. This year's name – \"Żywica\" – symbolizes the energy that protects, binds, and allows for rebirth. The event reminds us of Belarusian history and contemporary experiences, but at the same time shows"
+        },
+        "uk": {
+          "title": "XIV Фестиваль Незалежної Культури Білорусі",
+          "description": "Білоруська поезія, театр, кіно, музика і візуальні мистецтва зустрінуться у Вроцлаві під час **XIV Фестивалю Незалежної Культури Білорусі „Живиця / ЖЫВІЦА”**. Від 17 до 24 жовтня місто стане простором зустрічей артистів, мешканців та осіб з білоруської діаспори. Це тиждень, наповнений творчістю, розмовами та подіями, які показують, як культура допомагає зберегти пам'ять, будувати спільноту та створювати нове місце для життя.\n\n„Живиця” – культура, яка об'єднує\n\nФестиваль протягом багатьох років презентує незалежну білоруську культуру та створює простір для зустрічі різних досвідів, мов та перспектив. Цьогорічна назва – „Живиця” – символізує енергію, яка захищає, з'єднує та дозволяє відроджуватися. Подія нагадує про білоруську історію та сучасні досвіди, але водночас показує "
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-10-23T11:31:30.549713+00:00"
+    },
+    "tajemniczy-poci-g-zatrzyma-si-w-ch-korona-rozwi-zagadk-sprzed-ponad-100-lat-2026-10-23T00:00:00+02:00": {
+      "title": "„Tajemniczy Pociąg” zatrzyma się w CH Korona. Rozwiąż zagadkę sprzed ponad 100 lat!",
+      "date": "2026-10-23T00:00:00+02:00",
+      "end_date": "2026-10-23T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "Zaginiony pociąg, czworo tajemniczych pasażerów i zaledwie 15 minut na odkrycie prawdy! **„Tajemniczy Pociąg”** to bezpłatna gra pełna zagadek i ukrytych wskazówek, która przeniesie uczestników do Wrocławia z początku XX wieku. Już **23 i 24 października w CH Korona** będzie można wcielić się w detektywów i spróbować rozwikłać historię, której finał zależy od spostrzegawczości, logicznego myślenia i współpracy.\n\nZagadka z dawnego Breslau\n\nWszystko zaczyna się na dworcu w dawnym Breslau. W podróż wyrusza pociąg, którym jadą Skrzypek, Dama, Podróżnik i Naukowczyni. Choć twierdzą, że są sobie obcy, każde z nich skrywa własną historię i tajemnice. Niespodziewanie skład znika, nie docierając do kolejnej stacji. Co wydarzyło się podczas podróży? Co łączyło pasażerów i dlaczego pociąg nie dotarł do celu?\n\nUczestnicy będą musieli dokładnie przyjrzeć się pozostawionym bagażom, rozszyfrować wiadomości i połączyć pozornie niezwiązane ze sobą wskazówki. Cel jest jasny: odkryć sekret pasażerów, zatrzymać pociąg i znaleźć sposób na otwarcie drzwi. **Na rozwiązanie zagadki będzie około 15 minut**, dlatego liczyć się będą refleks, spostrzegawczość i dobra współpraca.\n\nPodejmij wyzwanie w CH Korona\n\n„Tajemniczy Pociąg” to propozycja dla miłośników łamigłówek, kryminalnych historii i dawnego Wrocławia. Do zabawy mogą dołączyć zarówno dorośli, jak i dzieci od 9. roku życia. Gra może być ciekawym pomysłem na wspólne wyjście z rodziną lub znajomymi.\n\nNie trzeba wcześniej się zapisywać, by spróbować swoich sił. Osoby, które chcą mieć zagwarantowaną konkretną godzinę, mogą jednak zarezerwować termin przez formularz na stronie wydarzenia.\n\nNa uczestników czeka również dodatkowa niespodzianka: **10% rabatu na ofertę kawową Deserowni** po okazaniu biletu wstępu do gry podczas wydarzenia.\n\nInformacje organizacyjne\n\n• **Termin:** 23–24 października 2026 r.\n\n• **Godziny:** 10:00–20:00\n\n• **Miejsce:** CH Korona, Plac Piastowski, Wrocław\n\n• **Udział:** bezpłatny\n\n• **Wiek uczestników:** od 9 lat\n\n• **Czas rozgrywki:** około 15 minut\n\n• **Rezerwacje:** x-5.pl/tajemniczy-pociag-wroclawski; można też dołączyć bez wcześniejszych zapisów",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-91b6dd74ac1100027b3d9824634e495f/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417813-tajemniczy-pociag-ch-korona",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Centrum Handlowe Korona Krzywoustego 126, Wrocław",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417813-tajemniczy-pociag-ch-korona",
+      "scrapped_timestamp": "2026-10-23T11:29:28.863051+00:00",
+      "category": "Games",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "„Tajemniczy Pociąg” zatrzyma się w CH Korona. Rozwiąż zagadkę sprzed ponad 100 lat!",
+          "description": "Zaginiony pociąg, czworo tajemniczych pasażerów i zaledwie 15 minut na odkrycie prawdy! **„Tajemniczy Pociąg”** to bezpłatna gra pełna zagadek i ukrytych wskazówek, która przeniesie uczestników do Wrocławia z początku XX wieku. Już **23 i 24 października w CH Korona** będzie można wcielić się w detektywów i spróbować rozwikłać historię, której finał zależy od spostrzegawczości, logicznego myślenia i współpracy.\n\nZagadka z dawnego Breslau\n\nWszystko zaczyna się na dworcu w dawnym Breslau. W podróż wyrusza pociąg, którym jadą Skrzypek, Dama, Podróżnik i Naukowczyni. Choć twierdzą, że są sobie obcy, każde z nich skrywa własną historię i tajemnice. Niespodziewanie skład znika, nie docierając do kolejnej stacji. Co wydarzyło się podczas podróży? Co łączyło pasażerów i dlaczego pociąg nie dotarł do celu?\n\nUczestnicy będą musieli dokładnie przyjrzeć się pozostawionym bagażom, rozszyfrować wiadomości i połączyć pozornie niezwiązane ze sobą wskazówki. Cel jest jasny: odkryć sekret pasażerów, zatrzymać pociąg i znaleźć sposób na otwarcie drzwi. **Na rozwiązanie zagadki będzie około 15 minut**, dlatego liczyć się będą refleks, spostrzegawczość i dobra współpraca.\n\nPodejmij wyzwanie w CH Korona\n\n„Tajemniczy Pociąg” to propozycja dla miłośników łamigłówek, kryminalnych historii i dawnego Wrocławia. Do zabawy mogą dołączyć zarówno dorośli, jak i dzieci od 9. roku życia. Gra może być ciekawym pomysłem na wspólne wyjście z rodziną lub znajomymi.\n\nNie trzeba wcześniej się zapisywać, by spróbować swoich sił. Osoby, które chcą mieć zagwarantowaną konkretną godzinę, mogą jednak zarezerwować termin przez formularz na stronie wydarzenia.\n\nNa uczestników czeka również dodatkowa niespodzianka: **10% rabatu na ofertę kawową Deserowni** po okazaniu biletu wstępu do gry podczas wydarzenia.\n\nInformacje organizacyjne\n\n• **Termin:** 23–24 października 2026 r.\n\n• **Godziny:** 10:00–20:00\n\n• **Miejsce:** CH Korona, Plac Piastowski, Wrocław\n\n• **Udział:** bezpłatny\n\n• **Wiek uczestników:** od 9 lat\n\n• **Czas rozgrywki:** około 15 minut\n\n• **Rezerwacje:** x-5.pl/tajemniczy-pociag-wroclawski; można też dołączyć bez wcześniejszych zapisów"
+        },
+        "en": {
+          "title": "\"The Mysterious Train\" will stop at CH Korona. Solve the mystery from over 100 years ago!",
+          "description": "A lost train, four mysterious passengers, and only 15 minutes to uncover the truth! **\"The Mysterious Train\"** is a free game full of puzzles and hidden clues that will transport participants to early 20th century Wrocław. On **October 23 and 24 at CH Korona**, you will have the chance to become detectives and try to unravel a story whose outcome depends on observation, logical thinking, and collaboration.\n\nThe riddle from old Breslau\n\nIt all begins at the station in old Breslau. A train departs with Skrzypek, Dama, Podróżnik, and Naukowczyni on board. Although they claim to be strangers, each of them hides their own story and secrets. Unexpectedly, the train disappears without reaching the next station. What happened during the journey? What connected the passengers and why did the train not arrive?"
+        },
+        "uk": {
+          "title": "„Таємничий Поїзд” зупиниться в ТЦ Корона. Розв'яжіть загадку, що виникла понад 100 років тому!",
+          "description": "Зниклий поїзд, четверо таємничих пасажирів і всього 15 хвилин на відкриття правди! **„Таємничий Поїзд”** — це безкоштовна гра, наповнена загадками та прихованими підказками, яка перенесе учасників до Вроцлава початку XX століття. Вже **23 та 24 жовтня в ТЦ Корона** можна буде втілитися в детективів і спробувати розгадати історію, фінал якої залежить від спостережливості, логічного мислення та співпраці.\n\nЗагадка з давнього Бреслау\n\nВсе починається на вокзалі в давньому Бреслау. У подорож вирушає поїзд, яким їдуть Скрипаль, Дама, Мандрівник і Науковиця. Хоча стверджують, що вони чужі один одному, кожен з них приховує власну історію та таємниці. Несподівано склад зникає, не досягнувши наступної станції. Що сталося під час подорожі? Що пов'язувало пасажирів і чому поїзд не прибув?"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:31:30.549739+00:00"
+    },
+    "rush-2-m-odzie-owy-festiwal-teatru-i-teatru-ta-ca-2026-10-23T00:00:00+02:00": {
+      "title": "RUSH 2. – Młodzieżowy Festiwal Teatru i Teatru Tańca",
+      "date": "2026-10-23T00:00:00+02:00",
+      "end_date": "2026-10-23T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "RUSH wraca\n\nRUSH wraca! Po udanej pierwszej edycji ponownie zapraszamy młodzieżowe grupy teatralne oraz teatru tańca z całej Polski do wspólnego tworzenia wydarzenia, w którym młodzi ludzie nie tylko prezentują swoje spektakle, ale także współtworzą atmosferę festiwalu, wymieniają doświadczenia i mają realny wpływ na jego przebieg.\n\nRUSH to ogólnopolski festiwal skierowany do osób w wieku 12–19 lat, działających w grupach teatralnych, zespołach teatru tańca, domach kultury, szkołach, organizacjach pozarządowych oraz niezależnych kolektywach artystycznych.\n\nTo przestrzeń dla młodych twórców i twórczyń, którzy chcą pokazać swoją pracę, spotkać rówieśników z całej Polski oraz rozwijać się pod okiem doświadczonych artystów.\n\nProgram festiwalu\n\nW programie znajdą się:\n\n• prezentacje konkursowe\n\n• warsztaty\n\n• masterclassy\n\n• spotkania z jurorami\n\n• wydarzenia integracyjne\n\nWszystkie zakwalifikowane grupy będą mogły bezpłatnie uczestniczyć w części edukacyjnej festiwalu. Szczegóły zapisów na warsztaty i masterclassy zostaną opublikowane w późniejszym terminie.\n\nZasady udziału\n\nDo udziału zapraszamy młodzieżowe grupy teatralne i teatru tańca, których członkowie mają od 12 do 19 lat.\n\nKażda grupa może zgłosić jedną prezentację teatralną lub taneczną o maksymalnym czasie trwania 40 minut.\n\nNie przyjmujemy zgłoszeń kabaretów, stand upów ani spektakli prezentowanych podczas pierwszej edycji RUSH.\n\nNagrody i formuła festiwalu\n\nRUSH to nie tylko możliwość pokazania spektaklu przed publicznością i profesjonalnym jury. To także okazja do udziału w warsztatach prowadzonych przez uznanych twórców, poznania młodych artystów z całej Polski oraz wymiany doświadczeń i inspiracji.\n\nFestiwal odbywa się w formule konkursowej, a łączna pula nagród finansowych wynosi 10 000 zł.\n\nO przyznaniu nagród decydować będzie zarówno Jury Festiwalu, złożone z ekspertów związanych z teatrem, tańcem i edukacją artystyczną, jak i Jury Młodzieżowe, tworzone przez przedstawicieli wszystkich zakwalifikowanych zespołów.\n\nW RUSH wierzymy, że młodzi ludzie powinni mieć głos nie tylko na scenie, ale również podczas rozmowy o sztuce.\n\nZgłoszenia\n\nNabór trwa do 30 czerwca 2026 roku do godziny 12:00.\n\nZgłoszenie należy przesłać za pomocą formularza online, dołączając:\n\n• pełne nagranie spektaklu z jednej kamery\n\n• 2–5 zdjęć prezentacji\n\n• podpisane zgody na wykorzystanie wizerunku uczestników\n\nInformację o wynikach preselekcji opublikujemy do 7 lipca 2026 roku na stronie internetowej oraz w mediach społecznościowych Centrum Kultury Nowy Pafawag.\n\nLink do formularza zgłoszeniowego\n\nUdział w festiwalu jest całkowicie bezpłatny. Organizator nie pokrywa kosztów transportu, noclegów ani wyżywienia uczestników.\n\nDofinansowano ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: Kultura – Interwencje. Edycja 2026.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-ff25b00aac110002273436f1cf68cacd/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1412101-rush-2-mlodziezowy-festiwal-teatru-i-teatru-tanca",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Centrum Kultury Nowy Pafawag Chociebuska 4-6, Wrocław 54-433",
+        "district": "Fabryczna"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1412101-rush-2-mlodziezowy-festiwal-teatru-i-teatru-tanca",
+      "scrapped_timestamp": "2026-10-23T11:29:35.738278+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 12,
+        "max": 18
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "RUSH 2. – Młodzieżowy Festiwal Teatru i Teatru Tańca",
+          "description": "RUSH wraca\n\nRUSH wraca! Po udanej pierwszej edycji ponownie zapraszamy młodzieżowe grupy teatralne oraz teatru tańca z całej Polski do wspólnego tworzenia wydarzenia, w którym młodzi ludzie nie tylko prezentują swoje spektakle, ale także współtworzą atmosferę festiwalu, wymieniają doświadczenia i mają realny wpływ na jego przebieg.\n\nRUSH to ogólnopolski festiwal skierowany do osób w wieku 12–19 lat, działających w grupach teatralnych, zespołach teatru tańca, domach kultury, szkołach, organizacjach pozarządowych oraz niezależnych kolektywach artystycznych.\n\nTo przestrzeń dla młodych twórców i twórczyń, którzy chcą pokazać swoją pracę, spotkać rówieśników z całej Polski oraz rozwijać się pod okiem doświadczonych artystów.\n\nProgram festiwalu\n\nW programie znajdą się:\n\n• prezentacje konkursowe\n\n• warsztaty\n\n• masterclassy\n\n• spotkania z jurorami\n\n• wydarzenia integracyjne\n\nWszystkie zakwalifikowane grupy będą mogły bezpłatnie uczestniczyć w części edukacyjnej festiwalu. Szczegóły zapisów na warsztaty i masterclassy zostaną opublikowane w późniejszym terminie.\n\nZasady udziału\n\nDo udziału zapraszamy młodzieżowe grupy teatralne i teatru tańca, których członkowie mają od 12 do 19 lat.\n\nKażda grupa może zgłosić jedną prezentację teatralną lub taneczną o maksymalnym czasie trwania 40 minut.\n\nNie przyjmujemy zgłoszeń kabaretów, stand upów ani spektakli prezentowanych podczas pierwszej edycji RUSH.\n\nNagrody i formuła festiwalu\n\nRUSH to nie tylko możliwość pokazania spektaklu przed publicznością i profesjonalnym jury. To także okazja do udziału w warsztatach prowadzonych przez uznanych twórców, poznania młodych artystów z całej Polski oraz wymiany doświadczeń i inspiracji.\n\nFestiwal odbywa się w formule konkursowej, a łączna pula nagród finansowych wynosi 10 000 zł.\n\nO przyznaniu nagród decydować będzie zarówno Jury Festiwalu, złożone z ekspertów związanych z teatrem, tańcem i edukacją artystyczną, jak i Jury Młodzieżowe, tworzone przez przedstawicieli wszystkich zakwalifikowanych zespołów.\n\nW RUSH wierzymy, że młodzi ludzie powinni mieć głos nie tylko na scenie, ale również podczas rozmowy o sztuce.\n\nZgłoszenia\n\nNabór trwa do 30 czerwca 2026 roku do godziny 12:00.\n\nZgłoszenie należy przesłać za pomocą formularza online, dołączając:\n\n• pełne nagranie spektaklu z jednej kamery\n\n• 2–5 zdjęć prezentacji\n\n• podpisane zgody na wykorzystanie wizerunku uczestników\n\nInformację o wynikach preselekcji opublikujemy do 7 lipca 2026 roku na stronie internetowej oraz w mediach społecznościowych Centrum Kultury Nowy Pafawag.\n\nLink do formularza zgłoszeniowego\n\nUdział w festiwalu jest całkowicie bezpłatny. Organizator nie pokrywa kosztów transportu, noclegów ani wyżywienia uczestników.\n\nDofinansowano ze środków Ministra Kultury i Dziedzictwa Narodowego w ramach programu Narodowego Centrum Kultury: Kultura – Interwencje. Edycja 2026.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "RUSH 2. – Youth Festival of Theatre and Dance Theatre",
+          "description": "RUSH is back\n\nRUSH is back! After a successful first edition, we once again invite youth theatre groups and dance theatre from all over Poland to co-create an event where young people not only present their performances but also co-create the atmosphere of the festival, exchange experiences, and have a real impact on its course.\n\nRUSH is a nationwide festival aimed at individuals aged 12–19, involved in theatre groups, dance theatre ensembles, cultural centers, schools, non-governmental organizations, and independent artistic collectives.\n\nIt is a space for young creators who want to showcase their work, meet peers from all over Poland, and develop under the guidance of experienced artists.\n\nFestival program\n\nThe program will include:\n\n• competitive presentations"
+        },
+        "uk": {
+          "title": "RUSH 2. – Молодіжний фестиваль театру та театру танцю",
+          "description": "RUSH повертається\n\nRUSH повертається! Після успішної першої редакції знову запрошуємо молодіжні театральні групи та театри танцю з усієї Польщі до спільного створення події, в якій молоді люди не лише презентують свої спектаклі, але й спільно створюють атмосферу фестивалю, обмінюються досвідом і мають реальний вплив на його перебіг.\n\nRUSH – це загальнонаціональний фестиваль, спрямований на осіб віком 12–19 років, які діють у театральних групах, колективах театру танцю, будинках культури, школах, неурядових організаціях та незалежних художніх колективах.\n\nЦе простір для молодих творців, які хочуть показати свою роботу, зустріти однолітків з усієї Польщі та розвиватися під оком досвідчених артистів.\n\nПрограма фестивалю\n\nУ програмі знайдуться:\n\n• конкурсні презентації"
+        }
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-10-23T11:31:30.549761+00:00"
+    },
+    "klub-kola-u-pod-kolumnami-2026-11-05T18:00:00+01:00": {
+      "title": "Klub Kolażu Pod Kolumnami",
+      "date": "2026-11-05T18:00:00+01:00",
+      "end_date": "2026-11-05T18:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Nie trzeba być artystą, by tworzyć coś wyjątkowego! Wystarczą odrobina wyobraźni, chęć eksperymentowania i materiały, które wpadną w ręce. **Klub Kolażu Pod Kolumnami** zaprasza na kolejne spotkanie, podczas którego dasz się ponieść kreatywności i sprawdzisz, dokąd zaprowadzi Cię zabawa formą i kolorem.\n\nWyobraźnia w ruch!\n\nGazety i materiały prasowe to tylko początek. Podczas spotkania liczą się przede wszystkim pomysły, eksperymenty i swobodne łączenie różnych elementów. Nie musisz mieć artystycznego doświadczenia ani konkretnego planu - wystarczy otwarta głowa i gotowość do twórczej zabawy.\n\nDołącz do Klubu Kolażu\n\nPierwsze spotkanie już za nami, ale to dopiero początek! Na kolejne zapraszamy **22 października**. Wydarzenie jest otwarte dla wszystkich zainteresowanych, niezależnie od umiejętności i wcześniejszych doświadczeń.\n\n**Koszt udziału 20 zł za spotkanie**. Bilety można kupić na miejscu przed wydarzeniem.\n\nChwyć nożyczki, klej i kolorowe papiery - i przekonaj się, co uda Ci się stworzyć!\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-0345296fac11000255ef40711f52f27c/839498135-1495363612624264-4080501054970380263-n.jfif",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417066-klub-kolazu-pod-kolumnami",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Klub Pod Kolumnami pl. św. Macieja 21, Wrocław 50-244",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1417066-klub-kolazu-pod-kolumnami",
+      "scrapped_timestamp": "2026-10-23T11:29:44.474187+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Klub Kolażu Pod Kolumnami",
+          "description": "Nie trzeba być artystą, by tworzyć coś wyjątkowego! Wystarczą odrobina wyobraźni, chęć eksperymentowania i materiały, które wpadną w ręce. **Klub Kolażu Pod Kolumnami** zaprasza na kolejne spotkanie, podczas którego dasz się ponieść kreatywności i sprawdzisz, dokąd zaprowadzi Cię zabawa formą i kolorem.\n\nWyobraźnia w ruch!\n\nGazety i materiały prasowe to tylko początek. Podczas spotkania liczą się przede wszystkim pomysły, eksperymenty i swobodne łączenie różnych elementów. Nie musisz mieć artystycznego doświadczenia ani konkretnego planu - wystarczy otwarta głowa i gotowość do twórczej zabawy.\n\nDołącz do Klubu Kolażu\n\nPierwsze spotkanie już za nami, ale to dopiero początek! Na kolejne zapraszamy **22 października**. Wydarzenie jest otwarte dla wszystkich zainteresowanych, niezależnie od umiejętności i wcześniejszych doświadczeń.\n\n**Koszt udziału 20 zł za spotkanie**. Bilety można kupić na miejscu przed wydarzeniem.\n\nChwyć nożyczki, klej i kolorowe papiery - i przekonaj się, co uda Ci się stworzyć!\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Collage Club Under the Columns",
+          "description": "You don't have to be an artist to create something special! All it takes is a little imagination, a willingness to experiment, and materials that come to hand. **Collage Club Under the Columns** invites you to the next meeting, where you will let your creativity flow and see where the fun with form and color takes you.\n\nImagination in motion!\n\nNewspapers and press materials are just the beginning. During the meeting, ideas, experiments, and freely combining different elements are what matter most. You don't need artistic experience or a specific plan - just an open mind and a readiness for creative fun.\n\nJoin the Collage Club\n\nThe first meeting is already behind us, but this is just the beginning! We invite you to the next one on **October 22**. The event is open to everyone interested, regardless of experience."
+        },
+        "uk": {
+          "title": "Клуб Колажу Під Колонами",
+          "description": "Не треба бути артистом, щоб створювати щось унікальне! Досить трохи уяви, бажання експериментувати та матеріалів, які потраплять під руку. **Клуб Колажу Під Колонами** запрошує на наступну зустріч, під час якої ти віддасися креативності та перевіриш, куди тебе заведе гра з формою та кольором.\n\nУява в русі!\n\nГазети та пресматеріали - це лише початок. Під час зустрічі важливі, перш за все, ідеї, експерименти та вільне поєднання різних елементів. Тобі не потрібно мати художнього досвіду чи конкретного плану - достатньо відкритої голови та готовності до творчої гри.\n\nПриєднуйся до Клубу Колажу\n\nПерша зустріч вже позаду, але це лише початок! На наступну запрошуємо **22 жовтня**. Подія відкрита для всіх зацікавлених, незалежно від ум"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:31:30.549778+00:00"
+    },
+    "apa-w-ap-z-yczliwo-ci-kiermasz-charytatywny-dla-ekostra-y-2026-11-19T10:00:00+01:00": {
+      "title": "ŁAPA W ŁAPĘ Z ŻYCZLIWOŚCIĄ – Kiermasz charytatywny dla EKOSTRAŻY",
+      "date": "2026-11-19T10:00:00+01:00",
+      "end_date": "2026-11-19T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Życzliwość ma wiele twarzy – czasem ma też cztery łapy, kolce, skrzydła albo mokry nos! Z okazji Światowego Dnia Życzliwości i Pozdrowień we Wrocławiu odbędzie się wyjątkowe wydarzenie charytatywne **„Łapa w łapę z życzliwością”**. To dzień pełen atrakcji, edukacji i pomagania zwierzętom, które same nie potrafią poprosić o wsparcie. Dochód i zaangażowanie uczestników wesprą Ośrodek Rehabilitacji Dzikich Zwierząt Stowarzyszenia EKOSTRAŻ.\n\nKiermasz, konkursy i rodzinna przygoda\n\nNa uczestników wydarzenia czekać będzie kiermasz charytatywny EKOSTRAŻY, na którym znajdą się rękodzieło, książki, gadżety i drobiazgi. To również okazja do spotkania wolontariuszy, poznania ich codziennej pracy i rozmowy o pomocy dzikim zwierzętom.\n\nNie zabraknie emocji podczas **konkursu „Koło Fortuny”**, w którym będzie można wygrać upominki, vouchery i niespodzianki przygotowane przez partnerów oraz najemców Sky Tower. Wśród nagród znajdą się również darmowe wjazdy na taras widokowy.\n\nNa dzieci i całe rodziny przez cały dzień czekać będzie edukacyjna gra **„Przygoda jeżyka Eryka”**. Zagadki, zadania i ciekawostki ze świata przyrody pozwolą poznać dzikie zwierzęta w przystępny, angażujący sposób. Do zabawy można dołączyć w dowolnym momencie wydarzenia.\n\nJak mądrze pomagać zwierzętom? Warsztaty EKOSTRAŻY\n\nWażną częścią wydarzenia będą warsztaty edukacyjne prowadzone przez specjalistki, które pomogą lepiej zrozumieć potrzeby i zachowania zwierząt.\n\n• **15:00 – „Dzikie w mieście – jak pomagać jeżom?”** Marta Zienkiewicz opowie, jak reagować na spotkanie z jeżem w mieście, rozpoznawać sytuacje wymagające interwencji i pomagać dzikim zwierzętom bez narażania ich na dodatkowy stres.\n\n• **16:15 – „Kocie rozmowy”** Daria Glinka przybliży tajniki kociej komunikacji. Uczestnicy dowiedzą się, co mogą oznaczać mruczenie, miauczenie, mrużenie oczu i inne zachowania kotów.\n\n• **17:00 – „HOW are you?”** Agnieszka Zadrożna i Julia Kiełbasa, trenerka i behawiorystka psów, pokażą, jak odczytywać sygnały wysyłane przez psy i lepiej rozumieć ich emocje.\n\nTo świetna okazja, by zdobyć praktyczną wiedzę i przekonać się, że troska o zwierzęta zaczyna się od uważności, empatii i odpowiedzialnych decyzji.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** „Łapa w łapę z życzliwością”\n\n• **Data:** czwartek, 19 listopada 2026 r.\n\n• **Godziny:** 10:00–18:00\n\n• **Miejsce:** Sky Tower we Wrocławiu, parter\n\n• **Organizator:** Stowarzyszenie EKOSTRAŻ\n\n• **Cel:** wsparcie Ośrodka Rehabilitacji Dzikich Zwierząt EKOSTRAŻ\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-c0b3a727ac1100023e89690d65187755/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417828-lapa-w-lape-z-zyczliwoscia-kiermasz-charytatywny-dla-ekostrazy",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Galeria Handlowa Sky Tower Powstańców Śląskich 73/95, Wrocław 53-332",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417828-lapa-w-lape-z-zyczliwoscia-kiermasz-charytatywny-dla-ekostrazy",
+      "scrapped_timestamp": "2026-10-23T11:29:51.633204+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "ŁAPA W ŁAPĘ Z ŻYCZLIWOŚCIĄ – Kiermasz charytatywny dla EKOSTRAŻY",
+          "description": "Życzliwość ma wiele twarzy – czasem ma też cztery łapy, kolce, skrzydła albo mokry nos! Z okazji Światowego Dnia Życzliwości i Pozdrowień we Wrocławiu odbędzie się wyjątkowe wydarzenie charytatywne **„Łapa w łapę z życzliwością”**. To dzień pełen atrakcji, edukacji i pomagania zwierzętom, które same nie potrafią poprosić o wsparcie. Dochód i zaangażowanie uczestników wesprą Ośrodek Rehabilitacji Dzikich Zwierząt Stowarzyszenia EKOSTRAŻ.\n\nKiermasz, konkursy i rodzinna przygoda\n\nNa uczestników wydarzenia czekać będzie kiermasz charytatywny EKOSTRAŻY, na którym znajdą się rękodzieło, książki, gadżety i drobiazgi. To również okazja do spotkania wolontariuszy, poznania ich codziennej pracy i rozmowy o pomocy dzikim zwierzętom.\n\nNie zabraknie emocji podczas **konkursu „Koło Fortuny”**, w którym będzie można wygrać upominki, vouchery i niespodzianki przygotowane przez partnerów oraz najemców Sky Tower. Wśród nagród znajdą się również darmowe wjazdy na taras widokowy.\n\nNa dzieci i całe rodziny przez cały dzień czekać będzie edukacyjna gra **„Przygoda jeżyka Eryka”**. Zagadki, zadania i ciekawostki ze świata przyrody pozwolą poznać dzikie zwierzęta w przystępny, angażujący sposób. Do zabawy można dołączyć w dowolnym momencie wydarzenia.\n\nJak mądrze pomagać zwierzętom? Warsztaty EKOSTRAŻY\n\nWażną częścią wydarzenia będą warsztaty edukacyjne prowadzone przez specjalistki, które pomogą lepiej zrozumieć potrzeby i zachowania zwierząt.\n\n• **15:00 – „Dzikie w mieście – jak pomagać jeżom?”** Marta Zienkiewicz opowie, jak reagować na spotkanie z jeżem w mieście, rozpoznawać sytuacje wymagające interwencji i pomagać dzikim zwierzętom bez narażania ich na dodatkowy stres.\n\n• **16:15 – „Kocie rozmowy”** Daria Glinka przybliży tajniki kociej komunikacji. Uczestnicy dowiedzą się, co mogą oznaczać mruczenie, miauczenie, mrużenie oczu i inne zachowania kotów.\n\n• **17:00 – „HOW are you?”** Agnieszka Zadrożna i Julia Kiełbasa, trenerka i behawiorystka psów, pokażą, jak odczytywać sygnały wysyłane przez psy i lepiej rozumieć ich emocje.\n\nTo świetna okazja, by zdobyć praktyczną wiedzę i przekonać się, że troska o zwierzęta zaczyna się od uważności, empatii i odpowiedzialnych decyzji.\n\nInformacje organizacyjne\n\n• **Wydarzenie:** „Łapa w łapę z życzliwością”\n\n• **Data:** czwartek, 19 listopada 2026 r.\n\n• **Godziny:** 10:00–18:00\n\n• **Miejsce:** Sky Tower we Wrocławiu, parter\n\n• **Organizator:** Stowarzyszenie EKOSTRAŻ\n\n• **Cel:** wsparcie Ośrodka Rehabilitacji Dzikich Zwierząt EKOSTRAŻ\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "PAW IN PAW WITH KINDNESS – Charity Fair for EKOSTRAŻ",
+          "description": "Kindness has many faces – sometimes it also has four paws, spikes, wings, or a wet nose! On the occasion of World Kindness and Greetings Day, a unique charity event **\"Paw in Paw with Kindness\"** will take place in Wrocław. It will be a day full of attractions, education, and helping animals that cannot ask for support themselves. The income and involvement of participants will support the Wildlife Rehabilitation Center of the EKOSTRAŻ Association.\n\nCharity fair, competitions, and family adventure\n\nParticipants of the event will find a charity fair organized by EKOSTRAŻ, featuring handmade crafts, books, gadgets, and trinkets. It is also an opportunity to meet volunteers, learn about their daily work, and discuss helping wild animals.\n\nThere will be no shortage of excitement during the **\"Wheel of Fortune\"** competition, in which"
+        },
+        "uk": {
+          "title": "ЛАПА В ЛАПУ З ДОБРОТОЮ – Благодійний ярмарок для ЕКОСТРАЖІ",
+          "description": "Добро має багато облич – іноді воно має також чотири лапи, колючки, крила або мокрий ніс! З нагоди Всесвітнього Дня Добра і Привітань у Вроцлаві відбудеться унікальна благодійна подія **„Лапа в лапу з добротою”**. Це день, наповнений атракціями, освітою та допомогою тваринам, які самі не можуть попросити про підтримку. Доходи та залучення учасників підтримає Центр Реабілітації Диких Тварин Товариства ЕКОСТРАЖ.\n\nЯрмарок, конкурси та сімейна пригода\n\nНа учасників події чекатиме благодійний ярмарок ЕКОСТРАЖІ, на якому будуть представлені вироби ручної роботи, книги, гаджети та дрібнички. Це також можливість зустріти волонтерів, дізнатися про їхню щоденну роботу та поговорити про допомогу диким тваринам.\n\nНе бракуватиме емоцій під час **конкурсу „Колесо Фортуни”**, в якому"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:31:30.549801+00:00"
+    },
+    "xxxiv-wojew-dzki-konkurs-rze-biarski-najpi-kniejsza-szopka-betlejemska-2026-2026-10-23T00:00:00+02:00": {
+      "title": "XXXIV Wojewódzki Konkurs Rzeźbiarski \"Najpiękniejsza Szopka Betlejemska 2026\"",
+      "date": "2026-10-23T00:00:00+02:00",
+      "end_date": "2026-10-23T00:00:00+02:00",
+      "startTimeKnown": false,
+      "description": "Młodzi artyści, czas uruchomić wyobraźnię! Młodzieżowy Dom Kultury Śródmieście zaprasza dzieci i młodzież do udziału w konkursie rzeźbiarskim **„Najpiękniejsza Szopka Betlejemska 2026”**. To okazja, by za pomocą własnoręcznie wykonanej pracy opowiedzieć bożonarodzeniową historię, pielęgnować świąteczne tradycje i pokazać swój artystyczny talent.\n\nŚwiąteczna tradycja w twórczej odsłonie\n\nKonkurs zachęca młodych twórców do kreatywnego spojrzenia na scenę narodzin Jezusa. Uczestnicy mogą puścić wodze fantazji, eksperymentować z formą i stworzyć szopki, które wyróżnią się pomysłowością oraz indywidualnym charakterem. To także szansa na rozwijanie zdolności plastycznych i podtrzymywanie pięknej tradycji bożonarodzeniowej.\n\nWystawa w Muzeum Etnograficznym\n\nNad konkursem patronat merytoryczny sprawuje **Muzeum Etnograficzne we Wrocławiu**. Wybrane prace zostaną zaprezentowane na wystawie w muzeum w **grudniu 2026 roku i styczniu 2027 roku**. Dzięki temu dzieła młodych artystów będą mogły stać się częścią świątecznej opowieści i trafić do szerszego grona odbiorców.\n\nInformacje organizacyjne\n\n• **Organizator:** Młodzieżowy Dom Kultury Śródmieście\n\n• **Konkurs:** „Najpiękniejsza Szopka Betlejemska 2026”\n\n• **Dla kogo:** dzieci i młodzież\n\n• **Wystawa wybranych prac:** grudzień 2026 – styczeń 2027\n\n• **Patronat merytoryczny:** Muzeum Etnograficzne we Wrocławiu\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-18e7922cac11000255af45ef67ef12fa/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417834-xxxiv-wojewodzki-konkurs-rzezbiarski-najpiekniejsza-szopka-betlejemska-2026",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Galeria MDK Śródmieście Dubois S. 5, Wrocław 50-208",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417834-xxxiv-wojewodzki-konkurs-rzezbiarski-najpiekniejsza-szopka-betlejemska-2026",
+      "scrapped_timestamp": "2026-10-23T11:29:59.962715+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "XXXIV Wojewódzki Konkurs Rzeźbiarski \"Najpiękniejsza Szopka Betlejemska 2026\"",
+          "description": "Młodzi artyści, czas uruchomić wyobraźnię! Młodzieżowy Dom Kultury Śródmieście zaprasza dzieci i młodzież do udziału w konkursie rzeźbiarskim **„Najpiękniejsza Szopka Betlejemska 2026”**. To okazja, by za pomocą własnoręcznie wykonanej pracy opowiedzieć bożonarodzeniową historię, pielęgnować świąteczne tradycje i pokazać swój artystyczny talent.\n\nŚwiąteczna tradycja w twórczej odsłonie\n\nKonkurs zachęca młodych twórców do kreatywnego spojrzenia na scenę narodzin Jezusa. Uczestnicy mogą puścić wodze fantazji, eksperymentować z formą i stworzyć szopki, które wyróżnią się pomysłowością oraz indywidualnym charakterem. To także szansa na rozwijanie zdolności plastycznych i podtrzymywanie pięknej tradycji bożonarodzeniowej.\n\nWystawa w Muzeum Etnograficznym\n\nNad konkursem patronat merytoryczny sprawuje **Muzeum Etnograficzne we Wrocławiu**. Wybrane prace zostaną zaprezentowane na wystawie w muzeum w **grudniu 2026 roku i styczniu 2027 roku**. Dzięki temu dzieła młodych artystów będą mogły stać się częścią świątecznej opowieści i trafić do szerszego grona odbiorców.\n\nInformacje organizacyjne\n\n• **Organizator:** Młodzieżowy Dom Kultury Śródmieście\n\n• **Konkurs:** „Najpiękniejsza Szopka Betlejemska 2026”\n\n• **Dla kogo:** dzieci i młodzież\n\n• **Wystawa wybranych prac:** grudzień 2026 – styczeń 2027\n\n• **Patronat merytoryczny:** Muzeum Etnograficzne we Wrocławiu\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "XXXIV Provincial Sculpture Competition \"The Most Beautiful Nativity Scene 2026\"",
+          "description": "Young artists, it's time to unleash your imagination! The Youth Cultural Center in Śródmieście invites children and youth to participate in the sculpture competition **\"The Most Beautiful Nativity Scene 2026\"**. This is an opportunity to tell the Christmas story through your own handmade work, nurture holiday traditions, and showcase your artistic talent.\n\nHoliday tradition in a creative form\n\nThe competition encourages young creators to take a creative look at the scene of Jesus' birth. Participants can let their imagination run wild, experiment with form, and create nativity scenes that stand out for their ingenuity and individual character. This is also a chance to develop artistic skills and uphold the beautiful Christmas tradition.\n\nExhibition at the Ethnographic Museum\n\nThe competition is under the substantive patronage of..."
+        },
+        "uk": {
+          "title": "XXXIV Обласний конкурс скульптури \"Найкрасивіша різдвяна шопка 2026\"",
+          "description": "Молоді артисти, час запустити уяву! Молодіжний Будинок Культури Середмістя запрошує дітей та молодь до участі в конкурсі скульптури **„Найкрасивіша різдвяна шопка 2026”**. Це можливість, щоб за допомогою власноруч виконаної роботи розповісти різдвяну історію, підтримувати святкові традиції та показати свій художній талант.\n\nСвяткова традиція в творчій інтерпретації\n\nКонкурс заохочує молодих творців до креативного погляду на сцену народження Ісуса. Учасники можуть дати волю фантазії, експериментувати з формою та створити шопки, які вирізнятимуться оригінальністю та індивідуальним характером. Це також шанс на розвиток художніх здібностей та підтримання прекрасної традиції різдвяного святкування.\n\nВиставка в Етнографічному музеї\n\nНад конкурсом патронат мери..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:31:30.549823+00:00"
+    },
+    "santa-claus-festival-2026-2026-12-05T00:00:00+01:00": {
+      "title": "Santa Claus Festival 2026",
+      "date": "2026-12-05T00:00:00+01:00",
+      "end_date": "2026-12-05T00:00:00+01:00",
+      "startTimeKnown": false,
+      "description": "Wrocław na jeden weekend zamieni się w magiczną krainę rodem z Laponii! Santa Claus Festival 2026 zaprosi całe rodziny do spektakularnego świata Świętego Mikołaja, w którym nie zabraknie padającego śniegu, arktycznych iluminacji, spotkań z elfami i niezwykłych świątecznych atrakcji. W dniach 5–6 grudnia Tarczyński Arena Wrocław przemieni się w ponad 3000 m² zimowej przygody. To okazja, by poczuć atmosferę nadchodzących świąt i przenieść się prosto na Biegun Północny!\n\nWyrusz na Biegun Północny!\n\nJuż od wejścia na uczestników czekać będzie świetlny portal prowadzący do świątecznej krainy. Każde dziecko otrzyma Paszport Pomocnika Mikołaja, który pozwoli odkrywać kolejne strefy festiwalu i wykonywać przygotowane zadania. W Wielkiej Fabryce Zabawek będzie można pomóc elfom w świątecznych przygotowaniach, a w Akademii Elfów sprawdzić swoją zręczność i spryt.\n\nNie zabraknie również Strefy Bieguna Północnego, inspirowanej zimowymi krajobrazami Laponii, z lodowymi formami, świerkami i śniegiem padającym pod dachem. Na odwiedzających czekają także monumentalne sanie, Kuchnia Pani Mikołajowej oraz wyjątkowa okazja do osobistego spotkania ze Świętym Mikołajem.\n\nWidowiska, eksperymenty i świąteczne warsztaty\n\nSanta Claus Festival to nie tylko bajkowa scenografia, ale również mnóstwo aktywności dla małych i dużych. W programie znalazły się rodzinne widowiska sceniczne oraz spotkania z bohaterami świątecznej krainy. Szczególną atrakcją będzie Laboratorium Elfich Alchemików, gdzie odbędą się efektowne eksperymenty z kolorowymi miksturami, dymem i pianą.\n\nNajmłodsi będą mogli również rozwinąć kreatywność podczas warsztatów, własnoręcznie dekorując pierniki, tworząc świąteczne bombki i wianki. Na Biegunie Północnym działać będzie także specjalna poczta, dzięki której dzieci wyślą list ze swoimi świątecznymi marzeniami prosto do Mikołaja.\n\nZimowy Ogród Mikołaja i świąteczne zakupy\n\nFestiwalowi towarzyszyć będzie Zimowy Ogród Mikołaja, przygotowany we współpracy z CocaFlora. To propozycja dla osób, które chcą połączyć rodzinną zabawę z przygotowaniami do świąt. W strefie pojawią się sezonowe rośliny, w tym różne odmiany gwiazdy betlejemskiej, amarylisy, owocujące cytrusy oraz choinki w donicach z naturalnym systemem korzeniowym.\n\nCo ważne, według organizatorów jeden bilet zapewnia dostęp zarówno do strefy festiwalowej, jak i Zimowego Ogrodu. Całość odbywa się pod dachem Tarczyński Areny, dzięki czemu zimowa aura na zewnątrz nie przeszkodzi w odkrywaniu kolejnych atrakcji.\n\nSanta Claus Festival to propozycja dla rodzin z dziećmi, grup przedszkolnych i szkolnych oraz wszystkich, którzy chcą rozpocząć grudzień w wyjątkowo świątecznym stylu.\n\nInformacje organizacyjne\n\n• Termin: 5–6 grudnia 2026 r.\n\n• Miejsce: Tarczyński Arena Wrocław\n\n• Adres: al. Śląska 1, 54-118 Wrocław\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-bb54574fac1100020ea5d4666366a7b4/img-3333.jpeg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/uroczystosci-i-swieta/1417820-santa-claus-festival-2026",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Tarczyński Arena Wrocław aleja Śląska 1, Wrocław 54-118",
+        "district": "Fabryczna"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/uroczystosci-i-swieta/1417820-santa-claus-festival-2026",
+      "scrapped_timestamp": "2026-10-23T11:30:06.793694+00:00",
+      "category": "Seasonal Festival",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Santa Claus Festival 2026",
+          "description": "Wrocław na jeden weekend zamieni się w magiczną krainę rodem z Laponii! Santa Claus Festival 2026 zaprosi całe rodziny do spektakularnego świata Świętego Mikołaja, w którym nie zabraknie padającego śniegu, arktycznych iluminacji, spotkań z elfami i niezwykłych świątecznych atrakcji. W dniach 5–6 grudnia Tarczyński Arena Wrocław przemieni się w ponad 3000 m² zimowej przygody. To okazja, by poczuć atmosferę nadchodzących świąt i przenieść się prosto na Biegun Północny!\n\nWyrusz na Biegun Północny!\n\nJuż od wejścia na uczestników czekać będzie świetlny portal prowadzący do świątecznej krainy. Każde dziecko otrzyma Paszport Pomocnika Mikołaja, który pozwoli odkrywać kolejne strefy festiwalu i wykonywać przygotowane zadania. W Wielkiej Fabryce Zabawek będzie można pomóc elfom w świątecznych przygotowaniach, a w Akademii Elfów sprawdzić swoją zręczność i spryt.\n\nNie zabraknie również Strefy Bieguna Północnego, inspirowanej zimowymi krajobrazami Laponii, z lodowymi formami, świerkami i śniegiem padającym pod dachem. Na odwiedzających czekają także monumentalne sanie, Kuchnia Pani Mikołajowej oraz wyjątkowa okazja do osobistego spotkania ze Świętym Mikołajem.\n\nWidowiska, eksperymenty i świąteczne warsztaty\n\nSanta Claus Festival to nie tylko bajkowa scenografia, ale również mnóstwo aktywności dla małych i dużych. W programie znalazły się rodzinne widowiska sceniczne oraz spotkania z bohaterami świątecznej krainy. Szczególną atrakcją będzie Laboratorium Elfich Alchemików, gdzie odbędą się efektowne eksperymenty z kolorowymi miksturami, dymem i pianą.\n\nNajmłodsi będą mogli również rozwinąć kreatywność podczas warsztatów, własnoręcznie dekorując pierniki, tworząc świąteczne bombki i wianki. Na Biegunie Północnym działać będzie także specjalna poczta, dzięki której dzieci wyślą list ze swoimi świątecznymi marzeniami prosto do Mikołaja.\n\nZimowy Ogród Mikołaja i świąteczne zakupy\n\nFestiwalowi towarzyszyć będzie Zimowy Ogród Mikołaja, przygotowany we współpracy z CocaFlora. To propozycja dla osób, które chcą połączyć rodzinną zabawę z przygotowaniami do świąt. W strefie pojawią się sezonowe rośliny, w tym różne odmiany gwiazdy betlejemskiej, amarylisy, owocujące cytrusy oraz choinki w donicach z naturalnym systemem korzeniowym.\n\nCo ważne, według organizatorów jeden bilet zapewnia dostęp zarówno do strefy festiwalowej, jak i Zimowego Ogrodu. Całość odbywa się pod dachem Tarczyński Areny, dzięki czemu zimowa aura na zewnątrz nie przeszkodzi w odkrywaniu kolejnych atrakcji.\n\nSanta Claus Festival to propozycja dla rodzin z dziećmi, grup przedszkolnych i szkolnych oraz wszystkich, którzy chcą rozpocząć grudzień w wyjątkowo świątecznym stylu.\n\nInformacje organizacyjne\n\n• Termin: 5–6 grudnia 2026 r.\n\n• Miejsce: Tarczyński Arena Wrocław\n\n• Adres: al. Śląska 1, 54-118 Wrocław\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Santa Claus Festival 2026",
+          "description": "Wrocław na jeden weekend zamieni się w magiczną krainę rodem z Laponii! Santa Claus Festival 2026 zaprosi całe rodziny do spektakularnego świata Świętego Mikołaja, w którym nie zabraknie padającego śniegu, arktycznych iluminacji, spotkań z elfami i niezwykłych świątecznych atrakcji. W dniach 5–6 grudnia Tarczyński Arena Wrocław przemieni się w ponad 3000 m² zimowej przygody. To okazja, by poczuć atmosferę nadchodzących świąt i przenieść się prosto na Biegun Północny!\n\nWyrusz na Biegun Północny!\n\nJuż od wejścia na uczestników czekać będzie świetlny portal prowadzący do świątecznej krainy. Każde dziecko otrzyma Paszport Pomocnika Mikołaja, który pozwoli odkrywać kolejne strefy festiwalu i wykonywać przygotowane zadania. W Wielkiej Fabryce Zabawek będzie można pomóc elfom w świątecznych przyg"
+        },
+        "uk": {
+          "title": "Фестиваль Святого Миколая 2026",
+          "description": "Вроцлав на один вікенд перетвориться на магічну країну з Лапландії! Фестиваль Святого Миколая 2026 запрошує цілі сім'ї до спектакулярного світу Святого Миколая, в якому не бракуватиме падаючого снігу, арктичних ілюмінацій, зустрічей з ельфами та незвичайних святкових атракцій. У дні 5–6 грудня Тарчиньський Арена Вроцлав перетвориться на понад 3000 м² зимової пригоди. Це нагода відчути атмосферу наближаючих свят і перенестися прямо на Північний полюс!\n\nВирушай на Північний полюс!\n\nВже з входу на учасників чекатиме світловий портал, що веде до святкової країни. Кожна дитина отримає Паспорт Помічника Миколая, який дозволить відкривати наступні зони фестивалю та виконувати підготовлені завдання. У Великій Фабриці Іграшок можна буде допомогти ельфам у святкових пригодах."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-10-23T11:31:30.549840+00:00"
+    },
+    "figle-migle-pod-kolumnami-2026-10-23T10:30:00+02:00": {
+      "title": "Figle Migle Pod Kolumnami",
+      "date": "2026-10-23T10:30:00+02:00",
+      "end_date": "2026-10-23T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Figle Migle to zajęcia dla rodziców, opiekunów i opiekunek z małymi dziećmi w wieku od 0 do 4 lat. To 45 minut wspólnej, swobodnej zabawy, twórczych eksperymentów i odkrywania nowych zastosowań codziennych przedmiotów. Czy bawić można się tylko zabawkami? Oczywiście, że nie! Podczas zajęć będziemy z ciekawością przyglądać się przedmiotom, dotykać ich, sprawdzać, jakie wydają dźwięki, obserwować ich kształty i kolory oraz szukać dla nich zupełnie nowych zastosowań.\nCzasem pośpiewamy piosenki, czasem ruszymy w dzikie pląsy albo poudajemy dzikie zwierzęta. Innym razem zatrzymamy się na chwilę i wyciszymy przy relaksujących masażykach. Wszystko bez pośpiechu i presji – z uważnością na potrzeby dzieci i dorosłych.\nZajęcia mają otwartą formułę. Prowadząca proponuje różne aktywności, ale dzieci mogą dobrowolnie do nich dołączać. Jeśli jakaś zabawa nie przypadnie Wam do gustu, zawsze można skorzystać z innych możliwości, jakie daje przestrzeń Klubu.\nW Figlach Miglach ważną częścią zabawy są również dorośli. Zapraszamy Was do wspólnego działania z dziećmi, a także do przygotowywania elementów zabawy i wspierania dzieci w aktywnościach, z którymi nie radzą sobie jeszcze samodzielnie.\nPo zakończeniu zajęć przestrzeń Klubu pozostaje do Waszej dyspozycji do godziny 14:00.\nZajęcia odbywają się co wtorki i piątki w Klubie pod Kolumnami\npl. św Macieja 21, Wrocław\ngodz. 10:00 — otwarcie Klubu;\ngodz. 10:00–10:30 — swobodne poznawanie przestrzeni;\ngodz. 10:30–11:30 — Figle Migle z prowadzącą;\ngodz. 11:30–14:00 — czas na samodzielną zabawę w Klubie.\nUdział w zajęciach jest bezpłatny, ale obowiązuje rezerwacja miejsc.\nBezpłatne bilety należy pobrać w sklepie internetowym Wrocławskiego Instytutu Kultury: instytutkultury.pl/sklep.\nWejścia na kolejny tydzień pojawiają się w sklepie co tydzień, z tygodniowym wyprzedzeniem.\n▪ Tydzień przed wybranymi zajęciami wejdź na stronę instytutkultury.pl/sklep.\n▪ Znajdź wydarzenie Figle Migle w wybranym terminie.\n▪ Podczas rezerwacji należy wybrać tyle biletów, ile osób weźmie udział w wydarzeniu - niezależnie od wieku uczestników. Przykładowo: rodzina składająca się z 2 osób dorosłych i 1 dziecka powinna zarezerwować 3 bilety, a 1 osoba dorosła z 2 dzieci - również 3 bilety.\n▪ Dokończ proces rezerwacji zgodnie z instrukcjami w sklepie.\n▪ Bezpłatne bilety i potwierdzenie rezerwacji miejsc powinny przyjść drogą mailową na wskazany adres mailowy.\n▪ Na zajęciach pokazujesz bilet bądź maila.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_976987451_original.jpg",
+      "location": {
+        "name": "Klub Pod Kolumnami (Wrocław)",
+        "district": "Stare Miasto"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/figle-migle-pod-kolumnami/kw/c5-3306117",
+      "source": "naszemiasto.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/figle-migle-pod-kolumnami/kw/c5-3306117",
+      "scrapped_timestamp": "2026-10-23T11:30:13.872303+00:00",
+      "category": "Sensory Play",
+      "age_range": {
+        "min": 0,
+        "max": 4
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Figle Migle Pod Kolumnami",
+          "description": "Figle Migle to zajęcia dla rodziców, opiekunów i opiekunek z małymi dziećmi w wieku od 0 do 4 lat. To 45 minut wspólnej, swobodnej zabawy, twórczych eksperymentów i odkrywania nowych zastosowań codziennych przedmiotów. Czy bawić można się tylko zabawkami? Oczywiście, że nie! Podczas zajęć będziemy z ciekawością przyglądać się przedmiotom, dotykać ich, sprawdzać, jakie wydają dźwięki, obserwować ich kształty i kolory oraz szukać dla nich zupełnie nowych zastosowań.\nCzasem pośpiewamy piosenki, czasem ruszymy w dzikie pląsy albo poudajemy dzikie zwierzęta. Innym razem zatrzymamy się na chwilę i wyciszymy przy relaksujących masażykach. Wszystko bez pośpiechu i presji – z uważnością na potrzeby dzieci i dorosłych.\nZajęcia mają otwartą formułę. Prowadząca proponuje różne aktywności, ale dzieci mogą dobrowolnie do nich dołączać. Jeśli jakaś zabawa nie przypadnie Wam do gustu, zawsze można skorzystać z innych możliwości, jakie daje przestrzeń Klubu.\nW Figlach Miglach ważną częścią zabawy są również dorośli. Zapraszamy Was do wspólnego działania z dziećmi, a także do przygotowywania elementów zabawy i wspierania dzieci w aktywnościach, z którymi nie radzą sobie jeszcze samodzielnie.\nPo zakończeniu zajęć przestrzeń Klubu pozostaje do Waszej dyspozycji do godziny 14:00.\nZajęcia odbywają się co wtorki i piątki w Klubie pod Kolumnami\npl. św Macieja 21, Wrocław\ngodz. 10:00 — otwarcie Klubu;\ngodz. 10:00–10:30 — swobodne poznawanie przestrzeni;\ngodz. 10:30–11:30 — Figle Migle z prowadzącą;\ngodz. 11:30–14:00 — czas na samodzielną zabawę w Klubie.\nUdział w zajęciach jest bezpłatny, ale obowiązuje rezerwacja miejsc.\nBezpłatne bilety należy pobrać w sklepie internetowym Wrocławskiego Instytutu Kultury: instytutkultury.pl/sklep.\nWejścia na kolejny tydzień pojawiają się w sklepie co tydzień, z tygodniowym wyprzedzeniem.\n▪ Tydzień przed wybranymi zajęciami wejdź na stronę instytutkultury.pl/sklep.\n▪ Znajdź wydarzenie Figle Migle w wybranym terminie.\n▪ Podczas rezerwacji należy wybrać tyle biletów, ile osób weźmie udział w wydarzeniu - niezależnie od wieku uczestników. Przykładowo: rodzina składająca się z 2 osób dorosłych i 1 dziecka powinna zarezerwować 3 bilety, a 1 osoba dorosła z 2 dzieci - również 3 bilety.\n▪ Dokończ proces rezerwacji zgodnie z instrukcjami w sklepie.\n▪ Bezpłatne bilety i potwierdzenie rezerwacji miejsc powinny przyjść drogą mailową na wskazany adres mailowy.\n▪ Na zajęciach pokazujesz bilet bądź maila."
+        },
+        "en": {
+          "title": "Figle Migle Under the Columns",
+          "description": "Figle Migle is a class for parents, guardians, and caregivers with small children aged 0 to 4 years. It is 45 minutes of shared, free play, creative experiments, and discovering new uses for everyday objects. Can we only play with toys? Of course not! During the classes, we will curiously observe objects, touch them, check what sounds they make, observe their shapes and colors, and look for completely new uses for them.\nSometimes we will sing songs, sometimes we will dance wildly, or pretend to be wild animals. Other times we will pause for a moment and relax with soothing massages. Everything at a leisurely pace and without pressure – with mindfulness to the needs of both children and adults.\nThe classes have an open format. The instructor proposes various activities, but the children m"
+        },
+        "uk": {
+          "title": "Фігле Мігле Під Колонами",
+          "description": "Фігле Мігле – це заняття для батьків, опікунів та вихователів з маленькими дітьми віком від 0 до 4 років. Це 45 хвилин спільної, вільної гри, творчих експериментів та відкриття нових застосувань повсякденних предметів. Чи можна грати тільки іграшками? Звичайно, що ні! Під час занять ми будемо з цікавістю розглядати предмети, торкатися їх, перевіряти, які вони видають звуки, спостерігати за їхніми формами та кольорами, а також шукати для них зовсім нові застосування.\nІноді ми заспіваємо пісеньки, іноді пустимося в дикий танець або вдаватимемо диких тварин. Іншим разом зупинимося на мить і заспокоїмося під час релаксуючих масажиків. Все без поспіху та тиску – з увагою до потреб дітей та дорослих.\nЗаняття мають відкриту форму. Ведуча пропонує різні активності, але діти м"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-10-23T11:31:30.549856+00:00"
+    },
+    "ycie-w-redniowiecznym-grodzie-le-ne-zaj-cia-dla-dzieci-2026-10-23T10:00:00+02:00": {
+      "title": "Życie w średniowiecznym grodzie – leśne zajęcia dla dzieci",
+      "date": "2026-10-23T10:00:00+02:00",
+      "end_date": "2026-10-23T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Leśne Dziatki zapraszają na zajęcia dla dzieci poświęcone życiu w średniowiecznym grodzie. Uczestnicy poznają dawne sposoby życia przez ruch, zabawę i praktyczne zadania.\n\nW programie:\n• praca z mapą i kompasem\n• projektowanie i wykonywanie pieczęci\n• lepienie naczyń i wykonywanie odlewów gipsowych\n• wspólne gotowanie na ogniu\n• zakończenie przy ognisku\n\nDzieci od 6 lat mogą uczestniczyć samodzielnie. Młodsze dzieci są zaproszone z dorosłym opiekunem. Koszt wynosi 80 zł za dziecko bez opiekuna lub 60 zł za dziecko z opiekunem. Liczba miejsc jest ograniczona.\n\nProwadzą Marta, biolog, ratownik medyczny i edukator leśny, oraz Foka, etnolog, nauczycielka i ratownik medyczny. Zapisy: lesnedziatki@gmail.com",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/2e9120d7-9b3c-4be7-aead-8f2807a573aa/c7be4d5f-8b4f-4189-8779-4e59f3e47c92.jpg",
+      "location": {
+        "name": "Las Sołtysowicki",
+        "district": "Psie Pole"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/zycie-w-sredniowiecznym-grodzie-lesne-zajecia-dla-dzieci-2e9120d7-9b3c-4be7-aead-8f2807a573aa",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/zycie-w-sredniowiecznym-grodzie-lesne-zajecia-dla-dzieci-2e9120d7-9b3c-4be7-aead-8f2807a573aa",
+      "scrapped_timestamp": "2026-10-23T11:30:42.071613+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Outdoor Adventure",
+        "Family Fun"
+      ],
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "Życie w średniowiecznym grodzie – leśne zajęcia dla dzieci",
+          "description": "Leśne Dziatki zapraszają na zajęcia dla dzieci poświęcone życiu w średniowiecznym grodzie. Uczestnicy poznają dawne sposoby życia przez ruch, zabawę i praktyczne zadania.\n\nW programie:\n• praca z mapą i kompasem\n• projektowanie i wykonywanie pieczęci\n• lepienie naczyń i wykonywanie odlewów gipsowych\n• wspólne gotowanie na ogniu\n• zakończenie przy ognisku\n\nDzieci od 6 lat mogą uczestniczyć samodzielnie. Młodsze dzieci są zaproszone z dorosłym opiekunem. Koszt wynosi 80 zł za dziecko bez opiekuna lub 60 zł za dziecko z opiekunem. Liczba miejsc jest ograniczona.\n\nProwadzą Marta, biolog, ratownik medyczny i edukator leśny, oraz Foka, etnolog, nauczycielka i ratownik medyczny. Zapisy: lesnedziatki@gmail.com"
+        },
+        "en": {
+          "title": "Life in a Medieval Settlement – Forest Activities for Children",
+          "description": "Leśne Dziatki zapraszają na zajęcia dla dzieci poświęcone życiu w średniowiecznym grodzie. Uczestnicy poznają dawne sposoby życia przez ruch, zabawę i praktyczne zadania.\n\nW programie:\n• praca z mapą i kompasem\n• projektowanie i wykonywanie pieczęci\n• lepienie naczyń i wykonywanie odlewów gipsowych\n• wspólne gotowanie na ogniu\n• zakończenie przy ognisku\n\nDzieci od 6 lat mogą uczestniczyć samodzielnie. Młodsze dzieci są zaproszone z dorosłym opiekunem. Koszt wynosi 80 zł za dziecko bez opiekuna lub 60 zł za dziecko z opiekunem. Liczba miejsc jest ograniczona.\n\nProwadzą Marta, biolog, ratownik medyczny i edukator leśny, oraz Foka, etnolog, nauczycielka i ratownik medyczny. Zapisy: lesnedziatki@gmail.com"
+        },
+        "uk": {
+          "title": "Життя в середньовічному городі – лісові заняття для дітей",
+          "description": "Лісові Дзіатки запрошують на заняття для дітей, присвячені життю в середньовічному городі. Учасники познайомляться з давніми способами життя через рух, гру та практичні завдання.\n\nВ програмі:\n• робота з картою та компасом\n• проектування та виготовлення печаток\n• ліплення посуду та виготовлення гіпсових відливок\n• спільне приготування їжі на вогні\n• завершення біля вогнища\n\nДіти від 6 років можуть брати участь самостійно. Молодші діти запрошені з дорослим опікуном. Вартість становить 80 зл за дитину без опікуна або 60 зл за дитину з опікуном. Кількість місць обмежена.\n\nВедуть заняття Марта, біолог, медичний рятувальник та лісовий педагог, а також Фока, етнолог, вчителька та медичний рятувальник. Записи: lesnedziatki@gmail.com"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Psie Pole",
+      "updated_at": "2026-10-23T11:31:30.549879+00:00"
+    },
+    "pustynne-portato-muzyczne-spotkanie-dla-najm-odszych-2026-11-22T10:00:00+01:00": {
+      "title": "Pustynne portato – muzyczne spotkanie dla najmłodszych",
+      "date": "2026-11-22T10:00:00+01:00",
+      "end_date": "2026-11-22T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Niedzielne spotkanie muzyczne Centrum Edukacyjnego NFM dla dzieci w wieku od 0 do 4 lat z opiekunem. Podczas 40 minut zabawy przy muzyce granej na żywo dzieci i dorośli będą aktywnie słuchać, śpiewać i improwizować. Zajęcia wykorzystują elementy koncepcji Émile’a Jaques’a-Dalcroze’a, Edwina E. Gordona oraz Veroniki Sherborne.\n\nSpotkanie wspiera rozwój wyobraźni muzycznej, słuchania i rozumienia dźwięków, a także integrację sensoryczną, koordynację słuchowo-ruchową, koncentrację, pamięć i świadomość emocji.\n\nProwadzący:\n• Prowadzący zajęcia w Centrum Edukacyjnym NFM wraz z zaproszonymi gośćmi",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/a2d4cf00-1cdd-4291-b458-551916ac82cf/0525f122-185a-4e3b-b966-9bdfcdfca6a9.jpg",
+      "location": {
+        "name": "Narodowe Forum Muzyki im. Witolda Lutosławskiego",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/pustynne-portato-muzyczne-spotkanie-dla-najmlodszych-a2d4cf00-1cdd-4291-b458-551916ac82cf",
+      "source": "simplygo.pl",
+      "age_hint": "0-4",
+      "age_range": {
+        "min": 0,
+        "max": 4
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/pustynne-portato-muzyczne-spotkanie-dla-najmlodszych-a2d4cf00-1cdd-4291-b458-551916ac82cf",
+      "scrapped_timestamp": "2026-10-23T11:31:03.763227+00:00",
+      "category": "Music & Dance",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Pustynne portato – muzyczne spotkanie dla najmłodszych",
+          "description": "Niedzielne spotkanie muzyczne Centrum Edukacyjnego NFM dla dzieci w wieku od 0 do 4 lat z opiekunem. Podczas 40 minut zabawy przy muzyce granej na żywo dzieci i dorośli będą aktywnie słuchać, śpiewać i improwizować. Zajęcia wykorzystują elementy koncepcji Émile’a Jaques’a-Dalcroze’a, Edwina E. Gordona oraz Veroniki Sherborne.\n\nSpotkanie wspiera rozwój wyobraźni muzycznej, słuchania i rozumienia dźwięków, a także integrację sensoryczną, koordynację słuchowo-ruchową, koncentrację, pamięć i świadomość emocji.\n\nProwadzący:\n• Prowadzący zajęcia w Centrum Edukacyjnym NFM wraz z zaproszonymi gośćmi"
+        },
+        "en": {
+          "title": "Desert Portato – Musical Meeting for the Youngest",
+          "description": "Sunday musical meeting at the NFM Educational Center for children aged 0 to 4 years with a guardian. During 40 minutes of fun with live music, children and adults will actively listen, sing, and improvise. The activities utilize elements of Émile Jaques-Dalcroze's, Edwin E. Gordon's, and Veronika Sherborne's concepts.\n\nThe meeting supports the development of musical imagination, listening and understanding of sounds, as well as sensory integration, auditory-motor coordination, concentration, memory, and emotional awareness.\n\nFacilitator:\n• Facilitator of activities at the NFM Educational Center along with invited guests"
+        },
+        "uk": {
+          "title": "Пустинне портато – музичне зустріч для найменших",
+          "description": "Недільне музичне зустріч Центру Освітнього NFM для дітей віком від 0 до 4 років з опікуном. Під час 40 хвилин гри під музику, що грається наживо, діти та дорослі будуть активно слухати, співати та імпровізувати. Заняття використовують елементи концепції Еміля Жака-Далькрооза, Едвіна Е. Гордона та Вероніки Шерборн.\n\nЗустріч підтримує розвиток музичної уяви, слухання та розуміння звуків, а також інтеграцію сенсорну, координацію слухово-рухову, концентрацію, пам'ять та свідомість емоцій.\n\nВедучий:\n• Ведучий занять у Центрі Освітньому NFM разом із запрошеними гостями"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-10-23T11:31:30.549921+00:00"
+    },
+    "grinch-familijny-spektakl-muzyczny-2026-11-22T10:00:00+01:00": {
+      "title": "Grinch – familijny spektakl muzyczny",
+      "date": "2026-11-22T10:00:00+01:00",
+      "end_date": "2026-11-22T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "\"GRINCH\" w reżyserii Piotra Wiśniewskiego to wyjątkowy, familijny spektakl muzyczny, który zabierze Was w emocjonującą podróż do magicznego świata Świąt Bożego Narodzenia. Przygotujcie się na najlepsze teatralne widowisko na żywo, które zachwyci Was od pierwszej minuty!\nGrinch, zielony stwór o niecnym planie odebrania radości świątecznej mieszkańcom Ktosiowa. Czy uda mu się zrealizować swój zamysł? Sprawdźcie sami i przekonajcie się, jak zakończy się ta pełna wzruszeń i śmiechu historia. Monumentalna dekoracja Ktosiowa przygotowana została z niezwykłą dbałością o detale, by przenieść widzów w magiczny świat! Każdy element scenografii, od kostiumów po specjalne efekty, został starannie zaplanowany, by dostarczyć niezapomnianych wrażeń.\nW spektaklu usłyszycie wyjątkowe kompozycje Marcina Sosińskiego, stworzone specjalnie na potrzeby \"Grincha\" porwą Was i z pewnością pozostaną w pamięci na długo. Świąteczna Superprodukcja Teatru Żelaznego: Spektakl oparty jest na ruchu, a piękna układy choreograficzne w wykonaniu utalentowanej obsady dodają przedstawieniu energii i rytmu. Zapraszamy na premierę - to świąteczna superprodukcja, która porwie i wzruszy każdego widza!\nZapraszamy Was do Ktosiowa - dajcie się porwać magii świąt i sztuce teatralnej w najlepszym wydaniu!\nFamilijny spektakl dla widzów od 3 do 100 lat!\nScenografia i reżyseria: Piotr Wiśniewski\nScenariusz: Marta Marzęcka-Wiśniewska\nMuzyka: Marcin Sosiński\nChoreografia: Maciej Cierzniak\nObsada:\nCindy - Cecylia Misiuna\nBetty Lou /Martha - Monika Paprocka\nBurmistrz May - Maciej Cierzniak\nListonosz Lou Lou - Wojciech Kondzielnik\nGrinch - Jan Naturski /Piotr Wiśniewski",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/dda94106-09dd-4e90-b777-57ad165d4969/d9aba32b-1515-4d55-bc94-3bf1d4bab6d4.jpg",
+      "location": {
+        "name": "Impart Centrum, ul. Piłsudskiego 19, 50-529 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/grinch-familijny-spektakl-muzyczny-dda94106-09dd-4e90-b777-57ad165d4969",
+      "source": "simplygo.pl",
+      "age_hint": "3-18",
+      "age_range": {
+        "min": 3,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/grinch-familijny-spektakl-muzyczny-dda94106-09dd-4e90-b777-57ad165d4969",
+      "scrapped_timestamp": "2026-10-23T11:31:09.831229+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Grinch – familijny spektakl muzyczny",
+          "description": "\"GRINCH\" w reżyserii Piotra Wiśniewskiego to wyjątkowy, familijny spektakl muzyczny, który zabierze Was w emocjonującą podróż do magicznego świata Świąt Bożego Narodzenia. Przygotujcie się na najlepsze teatralne widowisko na żywo, które zachwyci Was od pierwszej minuty!\nGrinch, zielony stwór o niecnym planie odebrania radości świątecznej mieszkańcom Ktosiowa. Czy uda mu się zrealizować swój zamysł? Sprawdźcie sami i przekonajcie się, jak zakończy się ta pełna wzruszeń i śmiechu historia. Monumentalna dekoracja Ktosiowa przygotowana została z niezwykłą dbałością o detale, by przenieść widzów w magiczny świat! Każdy element scenografii, od kostiumów po specjalne efekty, został starannie zaplanowany, by dostarczyć niezapomnianych wrażeń.\nW spektaklu usłyszycie wyjątkowe kompozycje Marcina Sosińskiego, stworzone specjalnie na potrzeby \"Grincha\" porwą Was i z pewnością pozostaną w pamięci na długo. Świąteczna Superprodukcja Teatru Żelaznego: Spektakl oparty jest na ruchu, a piękna układy choreograficzne w wykonaniu utalentowanej obsady dodają przedstawieniu energii i rytmu. Zapraszamy na premierę - to świąteczna superprodukcja, która porwie i wzruszy każdego widza!\nZapraszamy Was do Ktosiowa - dajcie się porwać magii świąt i sztuce teatralnej w najlepszym wydaniu!\nFamilijny spektakl dla widzów od 3 do 100 lat!\nScenografia i reżyseria: Piotr Wiśniewski\nScenariusz: Marta Marzęcka-Wiśniewska\nMuzyka: Marcin Sosiński\nChoreografia: Maciej Cierzniak\nObsada:\nCindy - Cecylia Misiuna\nBetty Lou /Martha - Monika Paprocka\nBurmistrz May - Maciej Cierzniak\nListonosz Lou Lou - Wojciech Kondzielnik\nGrinch - Jan Naturski /Piotr Wiśniewski"
+        },
+        "en": {
+          "title": "Grinch – family musical spectacle",
+          "description": "\"GRINCH\" directed by Piotr Wiśniewski is a unique family musical spectacle that will take you on an exciting journey to the magical world of Christmas. Get ready for the best live theatrical performance that will captivate you from the very first minute!\nGrinch, a green creature with a wicked plan to steal the holiday joy from the residents of Whoville. Will he succeed in his scheme? Check for yourselves and see how this story full of emotions and laughter will end. The monumental decoration of Whoville has been prepared with extraordinary attention to detail to transport the audience into a magical world! Every element of the set design, from costumes to special effects, has been carefully planned to provide unforgettable experiences.\nIn the performance, you will hear unique compositions by Marcin Sos"
+        },
+        "uk": {
+          "title": "Грінч – сімейний музичний спектакль",
+          "description": "\"ГРІНЧ\" у режисурі Петра Вішневського – це унікальний, сімейний музичний спектакль, який забере вас в емоційну подорож до магічного світу Різдва. Приготуйтеся до найкращого театрального шоу наживо, яке вразить вас з першої хвилини!\nГрінч, зелений створіння з підступним планом відібрати радість святкову у мешканців Ктосіва. Чи вдасться йому реалізувати свій задум? Перевірте самі і переконайтеся, як закінчиться ця сповнена зворушень і сміху історія. Монументальна декорація Ктосіва була підготовлена з надзвичайною увагою до деталей, щоб перенести глядачів у магічний світ! Кожен елемент сценографії, від костюмів до спеціальних ефектів, був ретельно спланований, щоб забезпечити незабутні враження.\nУ спектаклі ви почуєте унікальні композиції Марціна Соса"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/221747/wroclaw/grinch?utm_source=pp&utm_medium=604"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-23T11:31:30.549939+00:00"
+    },
+    "deszczowe-preludium-koncert-dla-dzieci-2026-11-22T12:00:00+01:00": {
+      "title": "Deszczowe Preludium – koncert dla dzieci",
+      "date": "2026-11-22T12:00:00+01:00",
+      "end_date": "2026-11-22T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Deszczowe Preludium to muzyczne spotkanie dla dzieci prowadzone przez Basię Piotrowską, wrocławską wokalistkę, autorkę piosenek, logopedkę i nauczycielkę śpiewu. Wspólne śpiewanie, klaskanie i taniec przeniosą uczestników w zaczarowany świat muzyki.\n\nW programie znajdą się autorskie utwory dla dzieci z jazzowymi akcentami, piosenki z bajek oraz znane piosenki dla całej rodziny. Sugerowany wiek dzieci: 4–8 lat.\n\nW Vertigo na najmłodszych czekają dania przygotowane przez szefa kuchni, między innymi pancake’i, autorskie koktajle oraz frytki z ketchupem. Dla starszych dostępna jest klasyczna karta menu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/302ab080-19d4-4d1c-b317-4fa63da268c2/4f4b34c5-aa09-4954-8f56-46a920a55c80.jpg",
+      "location": {
+        "name": "Vertigo Jazz Club & Restaurant, Oławska 13, 50-123 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/deszczowe-preludium-koncert-dla-dzieci-302ab080-19d4-4d1c-b317-4fa63da268c2",
+      "source": "simplygo.pl",
+      "age_hint": "4-8",
+      "age_range": {
+        "min": 4,
+        "max": 8
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/deszczowe-preludium-koncert-dla-dzieci-302ab080-19d4-4d1c-b317-4fa63da268c2",
+      "scrapped_timestamp": "2026-10-23T11:31:16.965113+00:00",
+      "category": "Music & Dance",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Deszczowe Preludium – koncert dla dzieci",
+          "description": "Deszczowe Preludium to muzyczne spotkanie dla dzieci prowadzone przez Basię Piotrowską, wrocławską wokalistkę, autorkę piosenek, logopedkę i nauczycielkę śpiewu. Wspólne śpiewanie, klaskanie i taniec przeniosą uczestników w zaczarowany świat muzyki.\n\nW programie znajdą się autorskie utwory dla dzieci z jazzowymi akcentami, piosenki z bajek oraz znane piosenki dla całej rodziny. Sugerowany wiek dzieci: 4–8 lat.\n\nW Vertigo na najmłodszych czekają dania przygotowane przez szefa kuchni, między innymi pancake’i, autorskie koktajle oraz frytki z ketchupem. Dla starszych dostępna jest klasyczna karta menu."
+        },
+        "en": {
+          "title": "Rainy Prelude – concert for children",
+          "description": "Rainy Prelude is a musical meeting for children led by Basia Piotrowska, a vocalist from Wrocław, songwriter, speech therapist, and singing teacher. Joint singing, clapping, and dancing will transport participants to a magical world of music.\n\nThe program will include original pieces for children with jazz accents, songs from fairy tales, and well-known songs for the whole family. Suggested age for children: 4–8 years.\n\nAt Vertigo, the youngest will find dishes prepared by the chef, including pancakes, signature cocktails, and fries with ketchup. For older guests, a classic menu is available."
+        },
+        "uk": {
+          "title": "Дощове Прелюдія – концерт для дітей",
+          "description": "Дощове Прелюдія це музичне зустріч для дітей, проведене Басьою Піотровською, вроцлавською вокалісткою, авторкою пісень, логопедкою та вчителькою співу.\n\nСпільне співання, плескання в долоні та танець перенесуть учасників у зачарований світ музики.\n\nВ програмі знайдуться авторські твори для дітей з джазовими акцентами, пісні з казок та відомі пісні для всієї родини. Сuggested age of children: 4–8 років.\n\nУ Vertigo на наймолодших чекають страви, приготовані шефом-кухарем, зокрема панкейки, авторські коктейлі та картопля фрі з кетчупом. Для старших доступне класичне меню."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-10-23T11:31:30.549958+00:00"
     }
   }
 }

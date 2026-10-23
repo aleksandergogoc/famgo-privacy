@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:07:31.011551+00:00",
+  "updated_at": "2026-10-23T11:43:09.320062+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9429,6 +9429,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-22T11:45:46.599379+00:00"
+    },
+    "syrena": {
+      "name": "Syrena, Litewska, Oleandrów, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-589, Polska",
+      "district": "Śródmieście",
+      "address": "Syrena, Litewska, Oleandrów, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-589, Polska",
+      "normalized": "syrena",
+      "lat": 52.2164477,
+      "lng": 21.0220793,
+      "updated_at": "2026-10-23T11:24:15.464213+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:09:20.377017+00:00",
+  "updated_at": "2026-10-23T11:26:51.884151+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -2681,50 +2681,49 @@
       "updated_at": "2026-09-07T12:09:57.251825+00:00"
     },
     "szop-m-wi-stop-familijny-spektakl-o-bezpiecze-stwie-2026-10-24T15:00:00+02:00": {
-      "title": "Szop mówi stop – familijny spektakl o bezpieczeństwie",
+      "title": "\"SZOP MÓWI STOP\" - familijny spektakl o bezpieczeństwie!",
       "date": "2026-10-24T15:00:00+02:00",
       "end_date": "2026-10-24T15:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Familijny musical uczy dzieci zasad bezpieczeństwa na drodze, nad wodą, w domu i w internecie. Leśna ekipa z Szopem Mikim, Wiewiórką Basią, Orłem Bolesławem, Łosiem Emilem, Rysiem Ryszardem, Małą Myszką i Julką przekazuje wiedzę przez piosenki, zabawę i interakcję z publicznością.\n\nW weekendowych spektaklach dzieci mogą zostać zaproszone na scenę i wziąć udział w teleturniejowym wyzwaniu. Przedstawienie jest odpowiednie dla grup przedszkolnych w wieku 3–6 lat oraz szkolnych w wieku 7–9 lat. Spektakl odbywa się w Teatrze WAM.\n\nBilety do nabycia na KupBilecik.pl",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/091bca83-b4fe-417c-a73f-b58480fe157c/b59bf4cd-a38a-4b65-b656-ac39904bf6ee.jpg",
+      "description": "**Czy Twoje dziecko zna numer alarmowy? Potrafi zachować się na pasach dla pieszych? Wie czego nie wolno robić w internetowej sieci?**\nZapewniamy, że leśna ekipa w składzie: Szop Miki, Wiewiórka Basia, Orzeł Bolesław, Łoś Emil, Ryś Ryszard, Mała Myszka oraz ich ludzka przyjaciółka Julka, zadbają o odpowiednią edukację Twojego Dziecka w temacie mądrej zabawy, prawidłowego zachowania na drodze, nad wodą czy w sytuacji zagrożenia.\n\n**Zwierzaki z leśnej paki uświadomią każdego, że:** - rower i kask muszą chodzić w parze\n- opuszczone budynki to kiepski pomysł na miejsce do zabawy\n- od obcych trzymamy się z daleka\n- plac budowy to nie plac zabaw\n- odblaski to super sprawa\n- ostrożności w sieci nigdy za wiele\n- ważny jest sen, ruch, dobre odżywianie i higiena\n- unikamy ostrych przedmiotów, gniazdek elektrycznych, tabletek i płynów chemicznych\n\nMyślisz, że będzie nudno, strasznie i poważnie?! Nic bardziej mylnego! Musical przepełniony jest doskonałą zabawą, śmiechem i interakcją z publicznością. Muzyka oraz treści piosenek spowodują, że każde Dziecko wyjdzie z Teatru WAM nie tylko z uśmiechem na twarzy, ale także z tekstami wpadających w ucho utworów, dzięki którym najważniejsze zasady bezpiecznego dzieciństwa będziecie śpiewać rodzinnie śpiewać przy każdej podróży samochodem.\n\nUWAGA podczas weekendowych spektakli to właśnie Twoje Dziecko może zostać zaproszone na scenę i wraz z głównymi bohaterami podjąć teleturniejowe wyzwanie!!! Nie wierzysz?! Zapraszamy na \"Szop mówi stop\".\n\nSpektakl familijny. Zapraszamy także grupy przedszkolne 3-6 lat oraz szkolne 7-9 lat.\n **JEDEN SPEKTAKL - WIELE WARTOŚCI.\nJEDNO SPOTKANIE - BEZPIECZNE DZICIŃSTWO KAŻDEGO DNIA.**",
+      "image": "https://assets.kupbilecik.pl/img/baza/23000/22624.webp?1788760328",
+      "url": "https://www.kupbilecik.pl/pl/event/214993/warszawa/szop-mowi-stop?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
       "location": {
-        "name": "Teatr WAM, Zgrupowania AK Kampinos 15, Warszawa",
+        "name": "Teatr WAM",
+        "address": "Zgrupowania AK Kampinos 15",
+        "lat": 52.2940527,
+        "lng": 20.9301237,
         "district": "Bielany"
       },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/szop-mowi-stop-familijny-spektakl-o-bezpieczenstwie-091bca83-b4fe-417c-a73f-b58480fe157c",
-      "source": "simplygo.pl",
-      "age_hint": "3-9",
+      "featured": true,
       "age_range": {
         "min": 3,
-        "max": 9
+        "max": 6
       },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/szop-mowi-stop-familijny-spektakl-o-bezpieczenstwie-091bca83-b4fe-417c-a73f-b58480fe157c",
-      "scrapped_timestamp": "2026-10-22T11:44:14.358819+00:00",
-      "category": "Theater",
-      "additional_categories": [
-        "Family Fun"
-      ],
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/214993/warszawa/szop-mowi-stop?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-10-23T11:24:15.670385+00:00",
+      "category": "Educational",
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Szop mówi stop – familijny spektakl o bezpieczeństwie",
-          "description": "Familijny musical uczy dzieci zasad bezpieczeństwa na drodze, nad wodą, w domu i w internecie. Leśna ekipa z Szopem Mikim, Wiewiórką Basią, Orłem Bolesławem, Łosiem Emilem, Rysiem Ryszardem, Małą Myszką i Julką przekazuje wiedzę przez piosenki, zabawę i interakcję z publicznością.\n\nW weekendowych spektaklach dzieci mogą zostać zaproszone na scenę i wziąć udział w teleturniejowym wyzwaniu. Przedstawienie jest odpowiednie dla grup przedszkolnych w wieku 3–6 lat oraz szkolnych w wieku 7–9 lat. Spektakl odbywa się w Teatrze WAM.\n\nBilety do nabycia na KupBilecik.pl"
+          "title": "\"SZOP MÓWI STOP\" - familijny spektakl o bezpieczeństwie!",
+          "description": "**Czy Twoje dziecko zna numer alarmowy? Potrafi zachować się na pasach dla pieszych? Wie czego nie wolno robić w internetowej sieci?**\nZapewniamy, że leśna ekipa w składzie: Szop Miki, Wiewiórka Basia, Orzeł Bolesław, Łoś Emil, Ryś Ryszard, Mała Myszka oraz ich ludzka przyjaciółka Julka, zadbają o odpowiednią edukację Twojego Dziecka w temacie mądrej zabawy, prawidłowego zachowania na drodze, nad wodą czy w sytuacji zagrożenia.\n\n**Zwierzaki z leśnej paki uświadomią każdego, że:** - rower i kask muszą chodzić w parze\n- opuszczone budynki to kiepski pomysł na miejsce do zabawy\n- od obcych trzymamy się z daleka\n- plac budowy to nie plac zabaw\n- odblaski to super sprawa\n- ostrożności w sieci nigdy za wiele\n- ważny jest sen, ruch, dobre odżywianie i higiena\n- unikamy ostrych przedmiotów, gniazdek elektrycznych, tabletek i płynów chemicznych\n\nMyślisz, że będzie nudno, strasznie i poważnie?! Nic bardziej mylnego! Musical przepełniony jest doskonałą zabawą, śmiechem i interakcją z publicznością. Muzyka oraz treści piosenek spowodują, że każde Dziecko wyjdzie z Teatru WAM nie tylko z uśmiechem na twarzy, ale także z tekstami wpadających w ucho utworów, dzięki którym najważniejsze zasady bezpiecznego dzieciństwa będziecie śpiewać rodzinnie śpiewać przy każdej podróży samochodem.\n\nUWAGA podczas weekendowych spektakli to właśnie Twoje Dziecko może zostać zaproszone na scenę i wraz z głównymi bohaterami podjąć teleturniejowe wyzwanie!!! Nie wierzysz?! Zapraszamy na \"Szop mówi stop\".\n\nSpektakl familijny. Zapraszamy także grupy przedszkolne 3-6 lat oraz szkolne 7-9 lat.\n **JEDEN SPEKTAKL - WIELE WARTOŚCI.\nJEDNO SPOTKANIE - BEZPIECZNE DZICIŃSTWO KAŻDEGO DNIA.**"
         },
         "en": {
-          "title": "The Raccoon Says Stop – A Family Show About Safety",
-          "description": "A family musical teaches children the rules of safety on the road, by the water, at home, and online.\n\nThe forest crew with Raccoon Miki, Squirrel Basia, Eagle Bolesław, Moose Emil, Lynx Ryszard, Little Mouse, and Julka conveys knowledge through songs, fun, and interaction with the audience.\n\nIn weekend performances, children may be invited on stage to participate in a quiz challenge. The show is suitable for preschool groups aged 3–6 years and school groups aged 7–9 years. The performance takes place at the WAM Theatre.\n\nTickets available at KupBilecik.pl"
+          "title": "\"RACCOON SAYS STOP\" - family show about safety!",
+          "description": "**Does your child know the emergency number? Can they behave properly at pedestrian crossings? Do they know what not to do on the internet?**\nWe assure you that the forest team consisting of: Raccoon Miki, Squirrel Basia, Eagle Bolesław, Moose Emil, Lynx Ryszard, Little Mouse, and their human friend Julka, will take care of your child's proper education on the topic of smart play, correct behavior on the road, by the water, or in a dangerous situation.\n\n**The animals from the forest crew will make everyone aware that:**\n- a bike and a helmet must go together\n- abandoned buildings are a bad idea for a place to play\n- we keep our distance from strangers\n- a construction site is not a playground\n- reflectors are a great thing\n- caution on the internet is never too much\n- sleep, exercise, good nutrition, and hygiene are important\n- we avoid sharp objects, nests"
         },
         "uk": {
-          "title": "Шоп говорить стоп – сімейний спектакль про безпеку",
-          "description": "Сімейний мюзикл навчає дітей правил безпеки на дорозі, біля води, вдома та в інтернеті. Лісова команда з Шопом Мікі, Белкою Басьою, Орлом Болеславом, Лосем Емілом, Рисем Ришардом, Маленькою Мишкою та Юлькою передає знання через пісні, гру та взаємодію з публікою.\n\nУ вихідних спектаклях діти можуть бути запрошені на сцену та взяти участь у телевізійному виклику. Вистава підходить для груп дошкільного віку 3–6 років та шкільного віку 7–9 років. Спектакль відбувається в Театрі ВАМ.\n\nКвитки можна придбати на KupBilecik.pl"
+          "title": "\"SZOP MÓWI STOP\" - сімейний спектакль про безпеку!",
+          "description": "**Чи знає ваша дитина номер екстреної служби? Чи вміє вона поводитися на пішохідному переході? Чи знає, чого не можна робити в інтернеті?**\nЗапевняємо, що лісова команда у складі: Шоп Мікі, Белка Басі, Орел Болеслав, Лось Еміль, Рись Ришард, Маленька Мишка та їхня людська подруга Юлька, подбають про належну освіту вашої дитини в темі розумної гри, правильного поводження на дорозі, біля води чи в ситуації загрози.\n\n**Тваринки з лісової компанії усвідомлять кожного, що:** - велосипед і шолом повинні йти в парі\n- покинуті будівлі - це погана ідея для місця для гри\n- від чужих тримаємося подалі\n- будівельний майданчик - це не дитячий майданчик\n- світловідбивачі - це супер річ\n- обережності в мережі ніколи не буває забагато\n- важливий сон, рух, правильне харчування та гігієна\n- уникаємо гострих предметів, гнізд"
         }
       },
       "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/214993/warszawa/szop-mowi-stop?utm_source=pp&utm_medium=604"
+        "is_free": true
       },
       "district": "Bielany",
-      "updated_at": "2026-10-22T11:45:47.861689+00:00"
+      "updated_at": "2026-10-23T11:26:51.683363+00:00"
     },
     "teatru-piasku-zwyci-czyni-mam-talent-tetiany-galitsyny-2026-10-27T19:00:00+01:00": {
       "title": "Teatru Piasku zwyciężczyni \"Mam Talent\" Tetiany Galitsyny",
@@ -6923,46 +6922,50 @@
       "updated_at": "2026-10-01T12:57:03.903778+00:00"
     },
     "dzieci-ca-pota-c-wka-w-klimacie-halloween-2026-10-24T14:15:00+02:00": {
-      "title": "Dziecięca potańcówka w klimacie Halloween",
+      "title": "Dziecięca potańcówka w klimacie Halloween!",
       "date": "2026-10-24T14:15:00+02:00",
       "end_date": "2026-10-24T14:15:00+02:00",
       "startTimeKnown": true,
-      "description": "Dziecięca potańcówka w klimacie Halloween to popołudnie z muzyką, tańcem i animacjami.\n\nW programie:\n• halloweenowa potańcówka\n• malowanie twarzy\n• warsztaty tworzenia wiaderek na cukierki z metalowych puszek\n\nBezpłatne wejściówki będą dostępne w biletomacie od 21 października od godz. 16:00. Wejściówkę musi mieć zarówno dziecko, jak i osoba dorosła. Limit wynosi 6 wejściówek na osobę.\n\nPrzedsięwzięcie „Dziecięce potańcówki” jest finansowane z Gminnego Programu Rewitalizacji m.st. Warszawy do roku 2030.\n\nOsoby ze szczególnymi potrzebami mogą zgłaszać je koordynatorowi ds. dostępności: tel. 22 277 08 31, e-mail: galeria@cpk.art.pl. Informacje ogólne: tel. 22 277 08 20, e-mail: sekretariat@cpk.art.pl.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/8212f543-ffd3-4de2-8524-24a02cbb9765/98f0597d-db5e-4681-9b92-311d12c3c94f.jpg",
+      "description": "Dziecięca potańcówka w klimacie Halloween! 👻🎃\n\n📅 24 października (sobota)\n\n⏰ godz. 14:15\n\n🎟️ Bezpłatne wejściówki dostępne w biletomacie od 21 października (środa) od godz. 16:00.\n\n❗ Wejściówkę musi posiadać zarówno dziecko, jak i osoba dorosła.\n\n🎟️ Limit: 6 wejściówek na osobę.\n\nZapraszamy wszystkie dzieci na wyjątkowe, pełne muzyki, tańca i halloweenowych atrakcji popołudnie! 🕷️🧙‍♀️🦇\n\nCzekają na Was animacje:\n\n💃 halloweenowa potańcówka – dużo muzyki, ruchu i świetnej zabawy,\n\n🎨 malowanie twarzy w halloweenowym klimacie,\n\n🍬 warsztaty tworzenia własnych wiaderek na cukierki – z metalowych puszek przygotujemy pojemniki idealne na hasło „cukierek albo psikus”! 🎃\n\n✨ oraz mnóstwo dobrej zabawy!\n\nPrzebierzcie się w swoje ulubione halloweenowe stroje i dołączcie do wspólnej zabawy! 🎃👻\n\nPrzedsięwzięcie pn. „Dziecięce potańcówki” jest finansowane z Gminnego Programu Rewitalizacji m.st. Warszawy do roku 2030.\n\nInformacja o dostępności:\n\nOsoby ze szczególnymi potrzebami mogą je zgłaszać bezpośrednio do koordynatora ds. dostępności:\n\ntel. 22 277 08 31, e-mail: galeria@cpk.art.pl\n\nInformacje ogólne:\n\ntel.: 22 277 08 20, e-mail: sekretariat@cpk.art.pl",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1790935655.webp",
       "location": {
-        "name": "Centrum Promocji Kultury, ul. Podskarbińska 2, Warszawa",
+        "name": "Centrum Promocji Kultury, ul. Podskarbińska 2",
         "district": "Praga-Południe"
       },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/dziecieca-potancowka-w-klimacie-halloween-8212f543-ffd3-4de2-8524-24a02cbb9765",
-      "source": "simplygo.pl",
-      "age_hint": "3-12",
+      "url": "https://www.facebook.com/events/1800765394397323/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1800765394397323/",
+      "scrapped_timestamp": "2026-10-23T11:25:16.749942+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Family Fun",
+        "Arts"
+      ],
       "age_range": {
         "min": 3,
         "max": 12
       },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/dziecieca-potancowka-w-klimacie-halloween-8212f543-ffd3-4de2-8524-24a02cbb9765",
-      "scrapped_timestamp": "2026-10-22T11:44:05.738229+00:00",
-      "category": "Music & Dance",
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Dziecięca potańcówka w klimacie Halloween",
-          "description": "Dziecięca potańcówka w klimacie Halloween to popołudnie z muzyką, tańcem i animacjami.\n\nW programie:\n• halloweenowa potańcówka\n• malowanie twarzy\n• warsztaty tworzenia wiaderek na cukierki z metalowych puszek\n\nBezpłatne wejściówki będą dostępne w biletomacie od 21 października od godz. 16:00. Wejściówkę musi mieć zarówno dziecko, jak i osoba dorosła. Limit wynosi 6 wejściówek na osobę.\n\nPrzedsięwzięcie „Dziecięce potańcówki” jest finansowane z Gminnego Programu Rewitalizacji m.st. Warszawy do roku 2030.\n\nOsoby ze szczególnymi potrzebami mogą zgłaszać je koordynatorowi ds. dostępności: tel. 22 277 08 31, e-mail: galeria@cpk.art.pl. Informacje ogólne: tel. 22 277 08 20, e-mail: sekretariat@cpk.art.pl."
+          "title": "Dziecięca potańcówka w klimacie Halloween!",
+          "description": "Dziecięca potańcówka w klimacie Halloween! 👻🎃\n\n📅 24 października (sobota)\n\n⏰ godz. 14:15\n\n🎟️ Bezpłatne wejściówki dostępne w biletomacie od 21 października (środa) od godz. 16:00.\n\n❗ Wejściówkę musi posiadać zarówno dziecko, jak i osoba dorosła.\n\n🎟️ Limit: 6 wejściówek na osobę.\n\nZapraszamy wszystkie dzieci na wyjątkowe, pełne muzyki, tańca i halloweenowych atrakcji popołudnie! 🕷️🧙‍♀️🦇\n\nCzekają na Was animacje:\n\n💃 halloweenowa potańcówka – dużo muzyki, ruchu i świetnej zabawy,\n\n🎨 malowanie twarzy w halloweenowym klimacie,\n\n🍬 warsztaty tworzenia własnych wiaderek na cukierki – z metalowych puszek przygotujemy pojemniki idealne na hasło „cukierek albo psikus”! 🎃\n\n✨ oraz mnóstwo dobrej zabawy!\n\nPrzebierzcie się w swoje ulubione halloweenowe stroje i dołączcie do wspólnej zabawy! 🎃👻\n\nPrzedsięwzięcie pn. „Dziecięce potańcówki” jest finansowane z Gminnego Programu Rewitalizacji m.st. Warszawy do roku 2030.\n\nInformacja o dostępności:\n\nOsoby ze szczególnymi potrzebami mogą je zgłaszać bezpośrednio do koordynatora ds. dostępności:\n\ntel. 22 277 08 31, e-mail: galeria@cpk.art.pl\n\nInformacje ogólne:\n\ntel.: 22 277 08 20, e-mail: sekretariat@cpk.art.pl"
         },
         "en": {
-          "title": "Children's Dance Party in Halloween Atmosphere",
-          "description": "Children's dance party in Halloween atmosphere is an afternoon of music, dance, and animations.\n\nIn the program:\n• Halloween dance party\n• Face painting\n• Workshops for creating candy buckets from metal cans\n\nFree tickets will be available at the ticket machine from October 21st at 4:00 PM. Both the child and the adult must have a ticket. The limit is 6 tickets per person.\n\nThe \"Children's Dance Parties\" initiative is funded by the Municipal Revitalization Program of the City of Warsaw until 2030.\n\nIndividuals with special needs can report them to the accessibility coordinator: tel. 22 277 08 31, e-mail: galeria@cpk.art.pl. General information: tel. 22 277 08 20, e-mail: sekretariat@cpk.art.pl."
+          "title": "Children's Dance Party in Halloween Spirit!",
+          "description": "Children's Dance Party in Halloween Spirit! 👻🎃\n\n📅 October 24 (Saturday)\n\n⏰ 2:15 PM\n\n🎟️ Free tickets available at the ticket machine from October 21 (Wednesday) starting at 4:00 PM.\n\n❗ Both the child and the adult must have a ticket.\n\n🎟️ Limit: 6 tickets per person.\n\nWe invite all children to a special afternoon full of music, dance, and Halloween attractions! 🕷️🧙‍♀️🦇\n\nYou can look forward to animations:\n\n💃 Halloween dance party – lots of music, movement, and great fun,\n\n🎨 face painting in Halloween spirit,\n\n🍬 workshops for creating your own candy buckets – we will prepare containers from metal cans perfect for the phrase \"trick or treat\"! 🎃\n\n✨ and plenty of good fun!\n\nDress up in your favorite Halloween costumes and join the fun! 🎃👻\n\nEvent"
         },
         "uk": {
-          "title": "Дитяча потанцівка в атмосфері Хелловіна",
-          "description": "Дитяча потанцівка в атмосфері Хелловіна – це післяобідній захід з музикою, танцями та анімаціями.\n\nВ програмі:\n• хелловінська потанцівка\n• малювання облич\n• майстер-класи зі створення відер для цукерок з металевих банок\n\nБезкоштовні квитки будуть доступні в квиткоматі з 21 жовтня з 16:00. Квиток повинен мати як дитина, так і доросла особа. Ліміт становить 6 квитків на особу.\n\nЗахід «Дитячі потанцівки» фінансується з Громадської програми ревіталізації м. Варшави до 2030 року.\n\nОсоби з особливими потребами можуть повідомити про них координатору з доступності: тел. 22 277 08 31, e-mail: galeria@cpk.art.pl. Загальна інформація: тел. 22 277 08 20, e-mail: sekretariat@cpk.art.pl."
+          "title": "Дитяча потанцюха в атмосфері Хелловіну!",
+          "description": "Дитяча потанцюха в атмосфері Хелловіну! 👻🎃\n\n📅 24 жовтня (субота)\n\n⏰ год. 14:15\n\n🎟️ Безкоштовні квитки доступні в квиткоматі з 21 жовтня (середа) з 16:00.\n\n❗ Квиток повинні мати як дитина, так і доросла особа.\n\n🎟️ Ліміт: 6 квитків на особу.\n\nЗапрошуємо всіх дітей на унікальне, наповнене музикою, танцями та хелловінськими атракціями пополудні! 🕷️🧙‍♀️🦇\n\nЧекають на вас анімації:\n\n💃 хелловінська потанцюха – багато музики, руху та чудового відпочинку,\n\n🎨 малювання облич в хелловінському стилі,\n\n🍬 майстер-клас зі створення власних відер для цукерок – з металевих банок підготуємо контейнери, ідеальні на заклик \"цукерка або жарт\"! 🎃\n\n✨ та безліч гарного відпочинку!\n\nПревдягніться у свої улюблені хелловінські костюми та приєднайтеся до спільного веселощів! 🎃👻\n\nПередсвятковий"
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Praga-Południe",
-      "updated_at": "2026-10-22T11:45:47.861674+00:00"
+      "updated_at": "2026-10-23T11:26:51.683577+00:00"
     },
     "27-urodziny-hulakula-patrycja-lipi-ska-rodzinna-niedziela-2026-11-22T12:00:00+01:00": {
       "title": "27. URODZINY HULAKULA | PATRYCJA LIPIŃSKA | RODZINNA NIEDZIELA",
@@ -9914,49 +9917,49 @@
       "updated_at": "2026-10-09T13:02:48.965510+00:00"
     },
     "mokotowska-akademia-strach-w-rodzinna-gra-miejska-2026-10-30T16:00:00+01:00": {
-      "title": "Mokotowska Akademia Strachów. Rodzinna gra miejska",
+      "title": "Mokotowska Akademia Strachów – rodzinna gra miejska",
       "date": "2026-10-30T16:00:00+01:00",
       "end_date": "2026-10-30T16:00:00+01:00",
       "startTimeKnown": true,
-      "description": "🎃 Akademia Strachów świętuje 10-lecie!\n\nWszystko miało być gotowe na Wielką Noc Strachów. Czarownice szykowały magiczny poczęstunek, wampiry przygotowywały występ, duchy pomagały w organizacji uroczystości, a potwory zajmowały się dekoracjami.\n\nMiało być…\n\nTuż przed rozpoczęciem jubileuszowej gali mieszkańcy Akademii pokłócili się na dobre! Czarownice uważają, że to one powinny odpowiadać za najważniejszą część uroczystości. Wampiry twierdzą, że bez nich świętowanie nie może się odbyć. Duchy obraziły się, ponieważ nikt nie docenia ich pracy, a potwory odmówiły dalszych przygotowań.\n\nMuzyka ucichła, dekoracje nie są gotowe, a jubileuszowa księga Akademii pozostaje zamknięta.\n\nDyrektor Dracula potrzebuje Waszej pomocy!\n\n🧛 Dołączcie do Mokotowskiej Akademii Strachów\n\n30 października rodzinne drużyny wkroczą do świata czarownic, duchów, wampirów i potworów. Wyruszą na trasę prowadzącą przez Pasaż Plac Unii i jego okolicę, aby odwiedzić miejsca związane z przygotowaniami do wielkiej gali i pomóc mieszkańcom rozwiązać problemy, które pojawiły się po Wielkiej Kłótni.\n\nNa uczestników będą czekały tajemnicze postacie, halloweenowe zagadki i niezwykłe wyzwania. Przydadzą się spryt, spostrzegawczość, wiedza, dobra pamięć, kreatywność, a czasem również odwaga.\n\nNajważniejsza będzie jednak współpraca, ponieważ tej uroczystości nie da się uratować w pojedynkę!\n\nSzczegóły misji pozostaną tajemnicą aż do rozpoczęcia gry. Dopiero na trasie dowiecie się, z jakimi problemami mieszkańców przyjdzie Wam się zmierzyć.\n\nKażde wykonane zadanie przybliży Akademię do wielkiego finału. Pomóżcie mieszkańcom zakopać topór wojenny, dokończyć przygotowania, przywrócić muzykę i sprawić, aby wszystkie straszne stworzenia znów stanęły po jednej stronie.\n\n🏆 Filmowy finał Mokotowskiej Akademii Strachów\n\nZwieńczeniem rodzinnej przygody będzie uroczysta gala rozdania nagród w filmowym stylu. Po wykonaniu misji uczestnicy spotkają się na wielkim finale i poczują jak bohaterowie najważniejszej premiery w świecie strachów.\n\nCzy uda Wam się zdobyć uznanie mieszkańców Akademii i znaleźć wśród gwiazd jubileuszowej gali?\n\n🧙 Przyjdźcie w halloweenowych przebraniach!\n\nWiedźmowy kapelusz, płaszcz wampira, strój ducha, a może zupełnie nowa postać ze świata strachów? Uruchomcie wyobraźnię i przygotujcie wyjątkowe stroje.\n\nUczestnicy w halloweenowych przebraniach zdobędą dodatkowe punkty dla swoich drużyn.\n\nNa uczestników będą czekały także słodkie upominki przekazane przez markę Wawel oraz dynie od Sigma Fresh związane z jedną z halloweenowych niespodzianek. Do czego będą potrzebne mieszkańcom Akademii? Tego dowiecie się podczas gry!\n\nInformacje organizacyjne\n\n📅 Data: 30 października\n\n🕓 Rozpoczęcie gry: godz. 16.00\n\n📍 Miejsce: Pasaż Plac Unii, ul. Puławska 2, oraz okolica\n\n🎟️ Udział: bezpłatny, obowiązują wcześniejsze zapisy >> link\n\n📝 Rozpoczęcie zapisów: 20 października o godz. 10.00\n\n🔗 Więcej informacji: link\n\nGra przeznaczona jest dla rodzin z dziećmi. Nie trzeba znać tajemnych zaklęć, umieć rozmawiać z duchami ani posiadać nadprzyrodzonych mocy. Wystarczą ciekawość, dobry humor, wygodne buty i gotowość do wspólnego działania.\n\nZbierzcie drużynę i pomóżcie Dyrektorowi Draculi. Wielka Noc Strachów sama się nie uratuje!\n\nMokotowska Akademia Strachów jest współfinansowana przez Urząd Dzielnicy Mokotów m.st. Warszawy.\n\nOrganizator: Fundacja Zwalcz Nudę\n\nPartner: Plac Unii\n\nSponsorzy nagród i upominków: Wawel, Sigma Fresh\n\nPatroni medialni: TVP3 Warszawa, Radio Kolor, mjakmama.pl, warszawa.naszemiasto.pl, waw4free.pl, echowarszawy.pl, wolnasobota.pl, conamokotowie.pl, cowwilanowie.pl, Mój Wawer, Kurier Wawerski",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1791538888.webp",
+      "description": "Rodzinne drużyny wyruszą na halloweenową grę miejską z okazji 10-lecia Mokotowskiej Akademii Strachów. Czarownice, wampiry, duchy i potwory potrzebują pomocy w przygotowaniach do jubileuszowej gali. Na trasie czekają zagadki, wyzwania i spotkania z tajemniczymi postaciami, a finałem będzie gala rozdania nagród w filmowym stylu.\n\nUczestnicy odwiedzą Pasaż Plac Unii i jego okolicę. Gra rozpocznie się 30 października o godz. 16.00. Wydarzenie jest przeznaczone dla rodzin z dziećmi; przydadzą się wygodne buty i gotowość do wspólnego działania. Halloweenowe przebrania zapewniają drużynom dodatkowe punkty. Na uczestników czekają także słodkie upominki od marki Wawel oraz dynie od Sigma Fresh.\n\nUdział jest bezpłatny, obowiązują wcześniejsze zapisy. Zapisy rozpoczną się 20 października o godz. 10.00.\n• Zapisy: https://zwalcznude.pl/kalendarz-wydarzen\n• Więcej informacji: https://zwalcznude.pl/akademia-strachow-2026",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/a21cb34b-453d-4493-b39f-35d782dce5bf/4cf2d393-22e4-48c4-9ec5-784062eda451.jpg",
       "location": {
-        "name": "Pasaż handlowo-usługowy Plac Unii",
+        "name": "Pasaż handlowo-usługowy Plac Unii, Warszawa",
         "district": "Mokotów"
       },
-      "url": "https://www.facebook.com/events/1410655075461024/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/events/1410655075461024/",
-      "scrapped_timestamp": "2026-10-22T11:42:55.621321+00:00",
+      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/mokotowska-akademia-strachow-rodzinna-gra-miejska-a21cb34b-453d-4493-b39f-35d782dce5bf",
+      "source": "simplygo.pl",
+      "age_hint": "6-12",
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/mokotowska-akademia-strachow-rodzinna-gra-miejska-a21cb34b-453d-4493-b39f-35d782dce5bf",
+      "scrapped_timestamp": "2026-10-23T11:26:35.438176+00:00",
       "category": "Family Fun",
       "additional_categories": [
         "Games"
       ],
-      "age_range": {
-        "min": 3,
-        "max": 12
-      },
       "location_type": "outdoor",
       "translations": {
         "pl": {
-          "title": "Mokotowska Akademia Strachów. Rodzinna gra miejska",
-          "description": "🎃 Akademia Strachów świętuje 10-lecie!\n\nWszystko miało być gotowe na Wielką Noc Strachów. Czarownice szykowały magiczny poczęstunek, wampiry przygotowywały występ, duchy pomagały w organizacji uroczystości, a potwory zajmowały się dekoracjami.\n\nMiało być…\n\nTuż przed rozpoczęciem jubileuszowej gali mieszkańcy Akademii pokłócili się na dobre! Czarownice uważają, że to one powinny odpowiadać za najważniejszą część uroczystości. Wampiry twierdzą, że bez nich świętowanie nie może się odbyć. Duchy obraziły się, ponieważ nikt nie docenia ich pracy, a potwory odmówiły dalszych przygotowań.\n\nMuzyka ucichła, dekoracje nie są gotowe, a jubileuszowa księga Akademii pozostaje zamknięta.\n\nDyrektor Dracula potrzebuje Waszej pomocy!\n\n🧛 Dołączcie do Mokotowskiej Akademii Strachów\n\n30 października rodzinne drużyny wkroczą do świata czarownic, duchów, wampirów i potworów. Wyruszą na trasę prowadzącą przez Pasaż Plac Unii i jego okolicę, aby odwiedzić miejsca związane z przygotowaniami do wielkiej gali i pomóc mieszkańcom rozwiązać problemy, które pojawiły się po Wielkiej Kłótni.\n\nNa uczestników będą czekały tajemnicze postacie, halloweenowe zagadki i niezwykłe wyzwania. Przydadzą się spryt, spostrzegawczość, wiedza, dobra pamięć, kreatywność, a czasem również odwaga.\n\nNajważniejsza będzie jednak współpraca, ponieważ tej uroczystości nie da się uratować w pojedynkę!\n\nSzczegóły misji pozostaną tajemnicą aż do rozpoczęcia gry. Dopiero na trasie dowiecie się, z jakimi problemami mieszkańców przyjdzie Wam się zmierzyć.\n\nKażde wykonane zadanie przybliży Akademię do wielkiego finału. Pomóżcie mieszkańcom zakopać topór wojenny, dokończyć przygotowania, przywrócić muzykę i sprawić, aby wszystkie straszne stworzenia znów stanęły po jednej stronie.\n\n🏆 Filmowy finał Mokotowskiej Akademii Strachów\n\nZwieńczeniem rodzinnej przygody będzie uroczysta gala rozdania nagród w filmowym stylu. Po wykonaniu misji uczestnicy spotkają się na wielkim finale i poczują jak bohaterowie najważniejszej premiery w świecie strachów.\n\nCzy uda Wam się zdobyć uznanie mieszkańców Akademii i znaleźć wśród gwiazd jubileuszowej gali?\n\n🧙 Przyjdźcie w halloweenowych przebraniach!\n\nWiedźmowy kapelusz, płaszcz wampira, strój ducha, a może zupełnie nowa postać ze świata strachów? Uruchomcie wyobraźnię i przygotujcie wyjątkowe stroje.\n\nUczestnicy w halloweenowych przebraniach zdobędą dodatkowe punkty dla swoich drużyn.\n\nNa uczestników będą czekały także słodkie upominki przekazane przez markę Wawel oraz dynie od Sigma Fresh związane z jedną z halloweenowych niespodzianek. Do czego będą potrzebne mieszkańcom Akademii? Tego dowiecie się podczas gry!\n\nInformacje organizacyjne\n\n📅 Data: 30 października\n\n🕓 Rozpoczęcie gry: godz. 16.00\n\n📍 Miejsce: Pasaż Plac Unii, ul. Puławska 2, oraz okolica\n\n🎟️ Udział: bezpłatny, obowiązują wcześniejsze zapisy >> link\n\n📝 Rozpoczęcie zapisów: 20 października o godz. 10.00\n\n🔗 Więcej informacji: link\n\nGra przeznaczona jest dla rodzin z dziećmi. Nie trzeba znać tajemnych zaklęć, umieć rozmawiać z duchami ani posiadać nadprzyrodzonych mocy. Wystarczą ciekawość, dobry humor, wygodne buty i gotowość do wspólnego działania.\n\nZbierzcie drużynę i pomóżcie Dyrektorowi Draculi. Wielka Noc Strachów sama się nie uratuje!\n\nMokotowska Akademia Strachów jest współfinansowana przez Urząd Dzielnicy Mokotów m.st. Warszawy.\n\nOrganizator: Fundacja Zwalcz Nudę\n\nPartner: Plac Unii\n\nSponsorzy nagród i upominków: Wawel, Sigma Fresh\n\nPatroni medialni: TVP3 Warszawa, Radio Kolor, mjakmama.pl, warszawa.naszemiasto.pl, waw4free.pl, echowarszawy.pl, wolnasobota.pl, conamokotowie.pl, cowwilanowie.pl, Mój Wawer, Kurier Wawerski"
+          "title": "Mokotowska Akademia Strachów – rodzinna gra miejska",
+          "description": "Rodzinne drużyny wyruszą na halloweenową grę miejską z okazji 10-lecia Mokotowskiej Akademii Strachów. Czarownice, wampiry, duchy i potwory potrzebują pomocy w przygotowaniach do jubileuszowej gali. Na trasie czekają zagadki, wyzwania i spotkania z tajemniczymi postaciami, a finałem będzie gala rozdania nagród w filmowym stylu.\n\nUczestnicy odwiedzą Pasaż Plac Unii i jego okolicę. Gra rozpocznie się 30 października o godz. 16.00. Wydarzenie jest przeznaczone dla rodzin z dziećmi; przydadzą się wygodne buty i gotowość do wspólnego działania. Halloweenowe przebrania zapewniają drużynom dodatkowe punkty. Na uczestników czekają także słodkie upominki od marki Wawel oraz dynie od Sigma Fresh.\n\nUdział jest bezpłatny, obowiązują wcześniejsze zapisy. Zapisy rozpoczną się 20 października o godz. 10.00.\n• Zapisy: https://zwalcznude.pl/kalendarz-wydarzen\n• Więcej informacji: https://zwalcznude.pl/akademia-strachow-2026"
         },
         "en": {
-          "title": "Mokotowska Academy of Frights. Family City Game",
-          "description": "🎃 The Academy of Frights is celebrating its 10th anniversary!\n\nEverything was supposed to be ready for the Great Night of Frights. Witches were preparing a magical treat, vampires were getting ready for a performance, ghosts were helping organize the festivities, and monsters were taking care of the decorations.\n\nIt was supposed to be...\n\nJust before the start of the anniversary gala, the residents of the Academy had a serious quarrel! Witches believe they should be responsible for the most important part of the celebration. Vampires claim that without them, the celebration cannot take place. Ghosts are offended because no one appreciates their work, and monsters have refused to continue preparations.\n\nThe music has stopped, the decorations are not ready, and the anniversary book of the Academy remains closed.\n\nDirector Dracula needs your help!\n\n🧛 Join the Mokotowska Academy of Frights\n\nOctober 30th family"
+          "title": "Mokotowska Academy of Frights – family urban game",
+          "description": "Family teams will embark on a Halloween urban game to celebrate the 10th anniversary of the Mokotowska Academy of Frights. Witches, vampires, ghosts, and monsters need help preparing for the anniversary gala. Along the route, there will be puzzles, challenges, and encounters with mysterious characters, culminating in an awards gala in a cinematic style.\n\nParticipants will visit the Pasaż Plac Unii and its surroundings. The game will start on October 30 at 4:00 PM. The event is intended for families with children; comfortable shoes and readiness for joint action will be helpful. Halloween costumes will earn teams extra points. Participants can also look forward to sweet gifts from the Wawel brand and pumpkins from Sigma Fresh.\n\nParticipation is free, but prior registration is required. Registration will begin on October 20 at 10:00 AM."
         },
         "uk": {
-          "title": "Мокотовська Академія Страхів. Сімейна міська гра",
-          "description": "🎃 Академія Страхів святкує 10-річчя!\n\nВсе мало бути готове на Великій Ночі Страхів. Чарівниці готували магічний частунок, вампіри готували виступ, духи допомагали в організації урочистостей, а монстри займалися декораціями.\n\nМало бути…\n\nНезадовго до початку ювілейної гали мешканці Академії посварилися на довго! Чарівниці вважають, що саме вони повинні відповідати за найважливішу частину урочистостей. Вампіри стверджують, що без них святкування не може відбутися. Духи образилися, оскільки ніхто не цінує їхньої роботи, а монстри відмовилися від подальших приготувань.\n\nМузика замовкла, декорації не готові, а ювілейна книга Академії залишається закритою.\n\nДиректор Дракула потребує вашої допомоги!\n\n🧛 Приєднуйтесь до Мокотовської Академії Страхів\n\n30 жовтня сімейне"
+          "title": "Мокотовська Академія Страхів – сімейна гра міська",
+          "description": "Сімейні команди вирушать на хеловінську міську гру з нагоди 10-річчя Мокотовської Академії Страхів. Чарівниці, вампіри, духи та монстри потребують допомоги в підготовці до ювілейної гала. На трасі чекають загадки, виклики та зустрічі з таємничими персонажами, а фіналом буде гала роздачі нагород у кінематографічному стилі.\n\nУчасники відвідають Пассаж Плац Унії та його околиці. Гра розпочнеться 30 жовтня о 16:00. Подія призначена для сімей з дітьми; знадобляться зручне взуття та готовність до спільних дій. Хеловінські костюми забезпечують командам додаткові бали. На учасників чекають також солодкі подарунки від марки Wawel та гарбузи від Sigma Fresh.\n\nУчасть безкоштовна, діють попередні записи. Записи розпочнуться 20 жовтня о 10:00."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Mokotów",
-      "updated_at": "2026-10-22T11:45:47.861566+00:00"
+      "updated_at": "2026-10-23T11:26:51.683802+00:00"
     },
     "akademia-strach-w-wi-tuje-10-lecie-rodzinna-gra-miejska-w-wawrze-2026-10-31T16:00:00+01:00": {
       "title": "Akademia Strachów świętuje 10-lecie! Rodzinna gra miejska w Wawrze",
@@ -10639,46 +10642,49 @@
       "updated_at": "2026-10-12T15:01:48.484581+00:00"
     },
     "dzie-z-ycia-jego-kr-lewskiej-mo-ci-rodzinne-oprowadzanie-po-pa-acu-2026-11-15T10:00:00+01:00": {
-      "title": "Dzień z życia Jego Królewskiej Mości – rodzinne oprowadzanie po pałacu",
+      "title": "Dzień z życia Jego Królewskiej Mości | rodzinne oprowadzanie po pałacu",
       "date": "2026-11-15T10:00:00+01:00",
       "end_date": "2026-11-15T10:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Rodzinne zwiedzanie z edukatorem, podczas którego uczestnicy dowiedzą się, jak wyglądało życie codzienne w Pałacu w Wilanowie za czasów króla Jana III i królowej Marysieńki.\n\nSzczegóły:\n• Dla kogo: rodziny z dziećmi\n• Kiedy: godz. 10:00, terminy: 8 lutego, 15 marca, 12 kwietnia, 10 maja, 14 czerwca, 19 lipca, 16 sierpnia, 13 września, 11 października, 15 listopada, 13 grudnia 2026 r.\n• Gdzie: zbiórka w pałacowej szatni\n\nBilety:\n• 60 zł normalny\n• 30 zł ulgowy\n• 1 zł dziecko/młodzież do 16 r. ż.\n\nBilety są dostępne online i w kasie muzeum na miesiąc przed wydarzeniem. Listopadowe spotkanie jest bezpłatne, a bilety pojawią się dwa tygodnie przed wydarzeniem.\n\nWięcej informacji: https://wilanow-palac.pl/wydarzenie/dzien-z-zycia-jego-krolewskiej-mosci",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/7f8fb80d-e376-4233-b72a-7683b9ec57fc/90361876-3891-4e80-92cb-4cebfb610de3.jpg",
+      "description": "Dawno, dawno temu, w pięknym pałacu żyli król Jan III i królowa Marysieńka. Zapraszamy na rodzinne zwiedzanie z edukatorem, podczas którego dowiecie się jak wyglądało życie codzienne w Pałacu w Wilanowie! Dla kogo rodziny z dziećmi Kiedy 8 lutego, 15 marca, 12 kwietnia, 10 maja, 14 czerwca, 19 lipca, 16 sierpnia, 13 września, 11 października, 15 listopada, 13 grudnia 2026 r., godz. 10:00 Gdzie zbiórka w pałacowej szatni Bilet* 60 zł normalny, 30 zł ulgowy, 1 zł dziecko/młodzież do 16 r. ż. (dostępne online i w kasie muzeum) * bilety dostępne na miesiąc przed wydarzeniem; listopadowe spotkanie jest bezpłatne – bilety włączą się dwa tygodnie przed wydarzeniem Więcej informacji",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F5bf34002-b142-42fb-bbd9-a1bbe198aa8f.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/c34a21b8-f5d8-4d8a-b287-1d5e7a78a663",
+      "source": "gojammin.com",
+      "district": "Wilanów",
       "location": {
-        "name": "ul. Stanisława Kostki Potockiego 10/16",
+        "name": "Stanisława Kostki Potockiego 10/16, 02-958 Warszawa, Poland",
         "district": "Wilanów"
       },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/dzien-z-zycia-jego-krolewskiej-mosci-rodzinne-oprowadzanie-po-palacu-7f8fb80d-e376-4233-b72a-7683b9ec57fc",
-      "source": "simplygo.pl",
-      "age_hint": "5-10",
+      "scrapped_url": "https://gojammin.com/pl-PL/events/c34a21b8-f5d8-4d8a-b287-1d5e7a78a663",
+      "scrapped_timestamp": "2026-10-23T11:26:21.341856+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Educational"
+      ],
       "age_range": {
-        "min": 5,
-        "max": 10
+        "min": 3,
+        "max": 12
       },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/dzien-z-zycia-jego-krolewskiej-mosci-rodzinne-oprowadzanie-po-palacu-7f8fb80d-e376-4233-b72a-7683b9ec57fc",
-      "scrapped_timestamp": "2026-10-22T11:45:17.096247+00:00",
-      "category": "Educational",
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Dzień z życia Jego Królewskiej Mości – rodzinne oprowadzanie po pałacu",
-          "description": "Rodzinne zwiedzanie z edukatorem, podczas którego uczestnicy dowiedzą się, jak wyglądało życie codzienne w Pałacu w Wilanowie za czasów króla Jana III i królowej Marysieńki.\n\nSzczegóły:\n• Dla kogo: rodziny z dziećmi\n• Kiedy: godz. 10:00, terminy: 8 lutego, 15 marca, 12 kwietnia, 10 maja, 14 czerwca, 19 lipca, 16 sierpnia, 13 września, 11 października, 15 listopada, 13 grudnia 2026 r.\n• Gdzie: zbiórka w pałacowej szatni\n\nBilety:\n• 60 zł normalny\n• 30 zł ulgowy\n• 1 zł dziecko/młodzież do 16 r. ż.\n\nBilety są dostępne online i w kasie muzeum na miesiąc przed wydarzeniem. Listopadowe spotkanie jest bezpłatne, a bilety pojawią się dwa tygodnie przed wydarzeniem.\n\nWięcej informacji: https://wilanow-palac.pl/wydarzenie/dzien-z-zycia-jego-krolewskiej-mosci"
+          "title": "Dzień z życia Jego Królewskiej Mości | rodzinne oprowadzanie po pałacu",
+          "description": "Dawno, dawno temu, w pięknym pałacu żyli król Jan III i królowa Marysieńka. Zapraszamy na rodzinne zwiedzanie z edukatorem, podczas którego dowiecie się jak wyglądało życie codzienne w Pałacu w Wilanowie! Dla kogo rodziny z dziećmi Kiedy 8 lutego, 15 marca, 12 kwietnia, 10 maja, 14 czerwca, 19 lipca, 16 sierpnia, 13 września, 11 października, 15 listopada, 13 grudnia 2026 r., godz. 10:00 Gdzie zbiórka w pałacowej szatni Bilet* 60 zł normalny, 30 zł ulgowy, 1 zł dziecko/młodzież do 16 r. ż. (dostępne online i w kasie muzeum) * bilety dostępne na miesiąc przed wydarzeniem; listopadowe spotkanie jest bezpłatne – bilety włączą się dwa tygodnie przed wydarzeniem Więcej informacji"
         },
         "en": {
-          "title": "A Day in the Life of His Royal Majesty – Family Tour of the Palace",
-          "description": "Family tour with an educator, during which participants will learn what daily life was like in the Wilanów Palace during the time of King Jan III and Queen Marysieńka.\n\nDetails:\n• For whom: families with children\n• When: 10:00 AM, dates: February 8, March 15, April 12, May 10, June 14, July 19, August 16, September 13, October 11, November 15, December 13, 2026.\n• Where: meeting point at the palace cloakroom\n\nTickets:\n• 60 PLN regular\n• 30 PLN reduced\n• 1 PLN child/youth up to 16 years old.\n\nTickets are available online and at the museum box office one month before the event. The November meeting is free, and tickets will be available two weeks before the event.\n\nMore information: https://wilanow-palac.pl/wydarzenie/dzien-z-zycia-jego-krolewskiej-mosci"
+          "title": "A Day in the Life of His Royal Majesty | Family Tour of the Palace",
+          "description": "Once upon a time, in a beautiful palace, lived King Jan III and Queen Marysieńka. We invite you to a family tour with an educator, during which you will learn what daily life was like in the Wilanów Palace!\n\nFor whom: families with children\nWhen: February 8, March 15, April 12, May 10, June 14, July 19, August 16, September 13, October 11, November 15, December 13, 2026, at 10:00 AM\nWhere: meeting at the palace cloakroom\nTicket*: 60 PLN regular, 30 PLN reduced, 1 PLN child/youth up to 16 years old (available online and at the museum box office)\n* tickets available one month before the event; the November meeting is free – tickets will be activated two weeks before the event\nMore information"
         },
         "uk": {
-          "title": "День з життя Його Королівської Величності – сімейна екскурсія по палацу",
-          "description": "Сімейне відвідування з освітнім працівником, під час якого учасники дізнаються, як виглядало повсякденне життя в Палаці у Віланові за часів короля Яна III та королеви Марисеньки.\n\nСкладові:\n• Для кого: сім'ї з дітьми\n• Коли: год. 10:00, терміни: 8 лютого, 15 березня, 12 квітня, 10 травня, 14 червня, 19 липня, 16 серпня, 13 вересня, 11 жовтня, 15 листопада, 13 грудня 2026 р.\n• Де: збір у палацовій гардеробній\n\nКвитки:\n• 60 зл звичайний\n• 30 зл пільговий\n• 1 зл дитина/молодь до 16 р. ж.\n\nКвитки доступні онлайн та в касі музею за місяць до події. Листопадова зустріч безкоштовна, а квитки з'являться за два тижні до події.\n\nБільше інформації: https://wilanow-palac.pl/wydarzenie/dzien-z-zycia-jego-krolewskiej-mosci"
+          "title": "День з життя Його Королівської Величності | сімейна екскурсія по палацу",
+          "description": "Давним-давно, в прекрасному палаці жили король Ян III та королева Марисенька. Запрошуємо на сімейне відвідування з освітнім працівником, під час якого ви дізнаєтеся, як виглядало повсякденне життя в Палаці у Віланові!\n\nДля кого\nсім'ї з дітьми\n\nКоли\n8 лютого, 15 березня, 12 квітня, 10 травня, 14 червня, 19 липня, 16 серпня, 13 вересня, 11 жовтня, 15 листопада, 13 грудня 2026 р., год. 10:00\n\nДе\nзбір у палацовій гардеробній\n\nКвиток*\n60 зл звичайний, 30 зл пільговий, 1 зл дитина/молодь до 16 р. ж. (доступні онлайн і в касі музею)\n\n* квитки доступні за місяць до події; листопадова зустріч безкоштовна – квитки з'являться за два тижні до події\n\nБільше інформації"
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": false,
+        "ticket_url": "https://wilanow-palac.pl/bilety/indywidualne/termin/72/1116/346267"
       },
-      "district": "Wilanów",
-      "updated_at": "2026-10-22T11:45:47.861777+00:00"
+      "updated_at": "2026-10-23T11:26:51.683761+00:00"
     },
     "oprowadzania-po-wystawie-czasowej-miasto-zwierz-t-domicella-bo-ekowska-2026-12-13T10:00:00+01:00": {
       "title": "Oprowadzania po wystawie czasowej \"Miasto zwierząt. Domicella Bożekowska",
@@ -10764,46 +10770,46 @@
       "updated_at": "2026-10-13T16:22:18.531957+00:00"
     },
     "przyjaciele-w-twoim-ciele-seans-w-mobilnym-planetarium-2026-10-24T11:00:00+02:00": {
-      "title": "Przyjaciele w Twoim ciele – seans w mobilnym planetarium",
+      "title": "„Przyjaciele w Twoim ciele” | Seans w mobilnym planetarium",
       "date": "2026-10-24T11:00:00+02:00",
       "end_date": "2026-10-24T11:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Mobilne planetarium ponownie zagości w bibliotece. Pokaz w mobilnej kopule jest przeznaczony dla dzieci w wieku 4-6 lat.\n\nTym razem podróż prowadzi w głąb ludzkiego ciała. Dzieci dowiedzą się, jak działa mózg i serce, jaką drogę przemierza tlen i jak stanąć do walki z groźnymi wirusami.\n\nObowiązują zapisy, liczba miejsc jest ograniczona.\n• Kontakt e-mail: b17@bpwlochy.waw.pl\n• Telefon: +48 (22) 667 00 00\n• Prosimy o podanie imienia, nazwiska i wieku uczestnika oraz imienia, nazwiska i numeru kontaktowego do opiekuna.\n\nWstęp bezpłatny.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/5cb56dbc-b332-4563-a926-e84ad281a55f/924933c2-6a9b-4494-a9f3-7bbf2511474e.jpg",
+      "description": "Mobilne planetarium ponownie w bibliotece!\n\nZapraszamy dzieci w wieku 4-6 lat do obejrzenia pokazu w mobilnej kopule planetarium.\n\nTym razem ruszamy w fascynującą podróż w głąb ludzkiego ciała. Dowiemy się jak działa mózg i serce, jaką drogę przemierza tlen oraz staniemy do walku z groźnymi wirusami!\n\nObowiązują zapisy. Liczba miejsc ograniczona!\n\nb17@bpwlochy.waw.pl, +48 (22) 667 00 00.\n\nProsimy o podanie: imienia, nazwiska i wieku uczestnika oraz imienia, nazwiska i numeru kontaktowego do opiekuna.\n\nWstęp bezpłatny!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1100.1791891355.webp",
       "location": {
-        "name": "Wypożyczalnia nr 17 - Biblioteka Publiczna Włochy",
+        "name": "Wypożyczalnia nr 17, Aleje Jerozolimskie 200",
         "district": "Włochy"
       },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/przyjaciele-w-twoim-ciele-seans-w-mobilnym-planetarium-5cb56dbc-b332-4563-a926-e84ad281a55f",
-      "source": "simplygo.pl",
-      "age_hint": "4-6",
+      "url": "https://bpwlochy.waw.pl/wydarzenie/przyjaciele-w-twoim-ciele-seans-w-mobilnym-planetarium/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://bpwlochy.waw.pl/wydarzenie/przyjaciele-w-twoim-ciele-seans-w-mobilnym-planetarium/",
+      "scrapped_timestamp": "2026-10-23T11:25:02.751927+00:00",
+      "category": "STEM",
       "age_range": {
         "min": 4,
         "max": 6
       },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/przyjaciele-w-twoim-ciele-seans-w-mobilnym-planetarium-5cb56dbc-b332-4563-a926-e84ad281a55f",
-      "scrapped_timestamp": "2026-10-22T11:43:56.852811+00:00",
-      "category": "STEM",
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Przyjaciele w Twoim ciele – seans w mobilnym planetarium",
-          "description": "Mobilne planetarium ponownie zagości w bibliotece. Pokaz w mobilnej kopule jest przeznaczony dla dzieci w wieku 4-6 lat.\n\nTym razem podróż prowadzi w głąb ludzkiego ciała. Dzieci dowiedzą się, jak działa mózg i serce, jaką drogę przemierza tlen i jak stanąć do walki z groźnymi wirusami.\n\nObowiązują zapisy, liczba miejsc jest ograniczona.\n• Kontakt e-mail: b17@bpwlochy.waw.pl\n• Telefon: +48 (22) 667 00 00\n• Prosimy o podanie imienia, nazwiska i wieku uczestnika oraz imienia, nazwiska i numeru kontaktowego do opiekuna.\n\nWstęp bezpłatny."
+          "title": "„Przyjaciele w Twoim ciele” | Seans w mobilnym planetarium",
+          "description": "Mobilne planetarium ponownie w bibliotece!\n\nZapraszamy dzieci w wieku 4-6 lat do obejrzenia pokazu w mobilnej kopule planetarium.\n\nTym razem ruszamy w fascynującą podróż w głąb ludzkiego ciała. Dowiemy się jak działa mózg i serce, jaką drogę przemierza tlen oraz staniemy do walku z groźnymi wirusami!\n\nObowiązują zapisy. Liczba miejsc ograniczona!\n\nb17@bpwlochy.waw.pl, +48 (22) 667 00 00.\n\nProsimy o podanie: imienia, nazwiska i wieku uczestnika oraz imienia, nazwiska i numeru kontaktowego do opiekuna.\n\nWstęp bezpłatny!"
         },
         "en": {
-          "title": "Friends in Your Body – a session in a mobile planetarium",
-          "description": "The mobile planetarium will once again visit the library. The show in the mobile dome is intended for children aged 4-6 years.\n\nThis time the journey leads deep into the human body. Children will learn how the brain and heart work, the path oxygen takes, and how to fight dangerous viruses.\n\nRegistration is required, and the number of places is limited.\n• Email contact: b17@bpwlochy.waw.pl\n• Phone: +48 (22) 667 00 00\n• Please provide the participant's first name, last name, and age, as well as the first name, last name, and contact number of the guardian.\n\nAdmission is free."
+          "title": "\"Friends in Your Body\" | Show in a Mobile Planetarium",
+          "description": "Mobile planetarium back at the library!\n\nWe invite children aged 4-6 to watch a show in the mobile planetarium dome.\n\nThis time we embark on a fascinating journey into the human body. We will learn how the brain and heart work, the path oxygen takes, and we will fight against dangerous viruses!\n\nRegistration is required. Limited number of places!\n\nb17@bpwlochy.waw.pl, +48 (22) 667 00 00.\n\nPlease provide: the participant's first name, last name, and age, as well as the guardian's first name, last name, and contact number.\n\nFree admission!"
         },
         "uk": {
-          "title": "Друзі у твоєму тілі – сеанс у мобільному планетарії",
-          "description": "Мобільний планетарій знову завітає до бібліотеки. Показ у мобільній куполі призначений для дітей віком 4-6 років.\n\nТим часом подорож веде в глибину людського тіла. Діти дізнаються, як працює мозок і серце, яку дорогу проходить кисень і як стати на боротьбу з небезпечними вірусами.\n\nОбов'язкові записи, кількість місць обмежена.\n• Контакт e-mail: b17@bpwlochy.waw.pl\n• Телефон: +48 (22) 667 00 00\n• Просимо вказати ім'я, прізвище та вік учасника, а також ім'я, прізвище та номер контактний до опікуна.\n\nВхід безкоштовний."
+          "title": "„Друзі у твоєму тілі” | Сеанс у мобільному планетарії",
+          "description": "Мобільний планетарій знову в бібліотеці!\n\nЗапрошуємо дітей віком 4-6 років на перегляд показу в мобільній куполі планетарію.\n\nЦього разу вирушаємо в захоплюючу подорож у глибину людського тіла. Дізнаємося, як працює мозок і серце, яку дорогу проходить кисень та станемо до боротьби з небезпечними вірусами!\n\nОбов'язкові попередні записи. Кількість місць обмежена!\n\nb17@bpwlochy.waw.pl, +48 (22) 667 00 00.\n\nПросимо вказати: ім'я, прізвище та вік учасника, а також ім'я, прізвище та контактний номер опікуна.\n\nВхід безкоштовний!"
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Włochy",
-      "updated_at": "2026-10-22T11:45:47.861660+00:00"
+      "updated_at": "2026-10-23T11:26:51.683526+00:00"
     },
     "le-ne-poranki-rodzinne-warsztaty-dobrostanowe-w-naturze-2026-10-25T10:00:00+01:00": {
       "title": "Leśne Poranki - rodzinne warsztaty dobrostanowe w naturze",
@@ -10851,22 +10857,25 @@
       "updated_at": "2026-10-13T16:22:18.532078+00:00"
     },
     "odetchn-pi-knem-2-0-sensoryczna-przygoda-rodzica-i-dziecka-2026-10-25T11:30:00+01:00": {
-      "title": "„ODETCHNĄĆ PIĘKNEM 2.0”. SENSORYCZNA PRZYGODA RODZICA I DZIECKA",
+      "title": "Odetchnąć pięknem 2.0 | Sensoryczna przygoda rodzica i dziecka",
       "date": "2026-10-25T11:30:00+01:00",
       "end_date": "2026-10-25T11:30:00+01:00",
       "startTimeKnown": true,
-      "description": "W ramach projektu \"Odetchnąć pięknem 2.0\" zapraszamy rodziny z dziećmi w wieku 2–6 lat na warsztaty inspirowane integracją sensoryczną. Będzie to czas wspólnej zabawy, odkrywania nowych wrażeń i doświadczania otaczającego nas świata poprzez ruch, dotyk i dźwięk.\n\nPodczas spotkania najmłodsi będą mogli rozwijać swoją ciekawość, eksperymentować i poznawać różnorodne bodźce w atmosferze swobody i bezpieczeństwa. Rodzice z kolei otrzymają okazję, by na chwilę zwolnić, spojrzeć na świat z perspektywy dziecka i czerpać radość ze wspólnego odkrywania.\n\nBo piękno kryje się nie tylko w tym, na co patrzymy, ale również w tym, co czujemy i czego doświadczamy razem.\n\nWarsztaty poprowadzi Inga Jarosz, terapeutka i diagnosta integracji sensorycznej oraz terapeutka ręki. Absolwentka studiów podyplomowych z zakresu diagnozy i terapii integracji sensorycznej oraz przygotowania pedagogicznego. W swojej pracy kieruje się zasadami Porozumienia bez Przemocy (NVC), stawiając na uważność, budowanie relacji i poszanowanie indywidualnych potrzeb dziecka.\n\nUczestnicy: dzieci w wieku 2–6 lat wraz z rodzicami lub opiekunami\n\nUdział: bezpłatny, obowiązują wcześniejsze zapisy.\n\nZapisz się na warsztaty >> link\n\nZapraszamy do wspólnego odkrywania, jak wiele piękna można odnaleźć w prostych doświadczeniach, dziecięcej ciekawości i chwilach spędzonych razem.",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1130.1792578332.webp",
+      "description": "🌿 Piękno można odkrywać na wiele sposobów – także poprzez dotyk, ruch, dźwięk i wspólne doświadczanie świata. 💛\n\nW ramach projektu „Odetchnąć pięknem 2.0” zapraszamy rodziców i dzieci w wieku 2–6 lat na wyjątkowe warsztaty integracji sensorycznej. To okazja, by na chwilę zwolnić, pobudzić dziecięcą ciekawość i spojrzeć na otaczający nas świat z nowej perspektywy – wszystkimi zmysłami!\n\nPodczas spotkania nie zabraknie wspólnej zabawy i doświadczeń, które wspierają poznawanie świata przez najmłodszych. To również piękna okazja do budowania bliskości i spędzenia wartościowego czasu razem.\n\nZatrzymajcie się na chwilę w codziennym biegu, by wspólnie odetchnąć pięknem i odkrywać je wszystkimi zmysłami!\n\n👩‍🏫 🌿 Warsztaty poprowadzi Inga Jarosz – terapeutka i diagnostka integracji sensorycznej oraz terapeutka ręki. W swojej pracy stawia na uważność, relację i indywidualne potrzeby dziecka. Podczas spotkania stworzy przestrzeń do wspólnego odkrywania świata zmysłami, zabawy i radosnego doświadczania.\n\n📅 Kiedy? 25 października 2026 r. (niedziela), godz. 11:30\n\n📍 Gdzie? Muzeum Jana Pawła II i Prymasa Wyszyńskiego, Warszawa-Wilanów, ul. Hlonda 1\n\n👶 Dla kogo? Dzieci w wieku 2–6 lat wraz z rodzicami\n\n🎟️ Udział bezpłatny!\n\n📝 Obowiązują zapisy >> link\n\nDołączcie do nas i przekonajcie się, jak wiele piękna kryje się w małych odkryciach! 🌿💙",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1130.1791898294.webp",
       "location": {
-        "name": "Mt 5,14 | Muzeum Jana Pawła II i Prymasa Wyszyńskiego, ul. Prymasa Augusta Hlonda 1",
+        "name": "ul. Hlonda 1",
         "district": "Wilanów"
       },
-      "url": "https://mt514.pl/wydarzenia/sensoryczna-przygoda-rodzica-i-dziecka/",
+      "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=JtyW0ZP7mkSCKqMoFl_GhXqJfySY_dFNsKYAcrkAUZZUQk9XVDdVTEo0VE1WM0Q5MTlUU0FFNkFPWS4u&route=shorturl",
       "source": "waw4free.pl",
       "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://mt514.pl/wydarzenia/sensoryczna-przygoda-rodzica-i-dziecka/",
-      "scrapped_timestamp": "2026-10-22T11:41:53.984091+00:00",
+      "scrapped_url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=JtyW0ZP7mkSCKqMoFl_GhXqJfySY_dFNsKYAcrkAUZZUQk9XVDdVTEo0VE1WM0Q5MTlUU0FFNkFPWS4u&route=shorturl",
+      "scrapped_timestamp": "2026-10-23T11:25:24.602563+00:00",
       "category": "Sensory Play",
+      "additional_categories": [
+        "Workshops"
+      ],
       "age_range": {
         "min": 2,
         "max": 6
@@ -10874,23 +10883,23 @@
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "„ODETCHNĄĆ PIĘKNEM 2.0”. SENSORYCZNA PRZYGODA RODZICA I DZIECKA",
-          "description": "W ramach projektu \"Odetchnąć pięknem 2.0\" zapraszamy rodziny z dziećmi w wieku 2–6 lat na warsztaty inspirowane integracją sensoryczną. Będzie to czas wspólnej zabawy, odkrywania nowych wrażeń i doświadczania otaczającego nas świata poprzez ruch, dotyk i dźwięk.\n\nPodczas spotkania najmłodsi będą mogli rozwijać swoją ciekawość, eksperymentować i poznawać różnorodne bodźce w atmosferze swobody i bezpieczeństwa. Rodzice z kolei otrzymają okazję, by na chwilę zwolnić, spojrzeć na świat z perspektywy dziecka i czerpać radość ze wspólnego odkrywania.\n\nBo piękno kryje się nie tylko w tym, na co patrzymy, ale również w tym, co czujemy i czego doświadczamy razem.\n\nWarsztaty poprowadzi Inga Jarosz, terapeutka i diagnosta integracji sensorycznej oraz terapeutka ręki. Absolwentka studiów podyplomowych z zakresu diagnozy i terapii integracji sensorycznej oraz przygotowania pedagogicznego. W swojej pracy kieruje się zasadami Porozumienia bez Przemocy (NVC), stawiając na uważność, budowanie relacji i poszanowanie indywidualnych potrzeb dziecka.\n\nUczestnicy: dzieci w wieku 2–6 lat wraz z rodzicami lub opiekunami\n\nUdział: bezpłatny, obowiązują wcześniejsze zapisy.\n\nZapisz się na warsztaty >> link\n\nZapraszamy do wspólnego odkrywania, jak wiele piękna można odnaleźć w prostych doświadczeniach, dziecięcej ciekawości i chwilach spędzonych razem."
+          "title": "Odetchnąć pięknem 2.0 | Sensoryczna przygoda rodzica i dziecka",
+          "description": "🌿 Piękno można odkrywać na wiele sposobów – także poprzez dotyk, ruch, dźwięk i wspólne doświadczanie świata. 💛\n\nW ramach projektu „Odetchnąć pięknem 2.0” zapraszamy rodziców i dzieci w wieku 2–6 lat na wyjątkowe warsztaty integracji sensorycznej. To okazja, by na chwilę zwolnić, pobudzić dziecięcą ciekawość i spojrzeć na otaczający nas świat z nowej perspektywy – wszystkimi zmysłami!\n\nPodczas spotkania nie zabraknie wspólnej zabawy i doświadczeń, które wspierają poznawanie świata przez najmłodszych. To również piękna okazja do budowania bliskości i spędzenia wartościowego czasu razem.\n\nZatrzymajcie się na chwilę w codziennym biegu, by wspólnie odetchnąć pięknem i odkrywać je wszystkimi zmysłami!\n\n👩‍🏫 🌿 Warsztaty poprowadzi Inga Jarosz – terapeutka i diagnostka integracji sensorycznej oraz terapeutka ręki. W swojej pracy stawia na uważność, relację i indywidualne potrzeby dziecka. Podczas spotkania stworzy przestrzeń do wspólnego odkrywania świata zmysłami, zabawy i radosnego doświadczania.\n\n📅 Kiedy? 25 października 2026 r. (niedziela), godz. 11:30\n\n📍 Gdzie? Muzeum Jana Pawła II i Prymasa Wyszyńskiego, Warszawa-Wilanów, ul. Hlonda 1\n\n👶 Dla kogo? Dzieci w wieku 2–6 lat wraz z rodzicami\n\n🎟️ Udział bezpłatny!\n\n📝 Obowiązują zapisy >> link\n\nDołączcie do nas i przekonajcie się, jak wiele piękna kryje się w małych odkryciach! 🌿💙"
         },
         "en": {
-          "title": "\"BREATHE IN BEAUTY 2.0\". A SENSORY ADVENTURE FOR PARENTS AND CHILDREN",
-          "description": "As part of the \"Breathe in Beauty 2.0\" project, we invite families with children aged 2–6 to workshops inspired by sensory integration. This will be a time of shared fun, discovering new sensations, and experiencing the world around us through movement, touch, and sound.\n\nDuring the meeting, the youngest will be able to develop their curiosity, experiment, and explore various stimuli in an atmosphere of freedom and safety. Parents, in turn, will have the opportunity to slow down for a moment, look at the world from a child's perspective, and enjoy the joy of discovering together.\n\nBecause beauty lies not only in what we see but also in what we feel and experience together.\n\nThe workshops will be led by Inga Jarosz, a therapist and sensory integration diagnostician, as well as a hand therapist. A graduate of postgraduate studies."
+          "title": "Breathe in Beauty 2.0 | Sensory Adventure for Parents and Children",
+          "description": "🌿 Beauty can be discovered in many ways – also through touch, movement, sound, and shared experiences of the world. 💛\n\nAs part of the project \"Breathe in Beauty 2.0,\" we invite parents and children aged 2–6 to unique sensory integration workshops. This is an opportunity to slow down for a moment, stimulate children's curiosity, and look at the world around us from a new perspective – with all our senses!\n\nDuring the meeting, there will be no shortage of fun and experiences that support the youngest in exploring the world. It is also a beautiful opportunity to build closeness and spend valuable time together.\n\nTake a moment to pause in the daily rush, to breathe in beauty together and discover it with all your senses!\n\n👩‍🏫 🌿 The workshops will be led by Inga Jarosz – a therapist and sensory integration diagnostician."
         },
         "uk": {
-          "title": "„ОДЕТЬСЯ КРАСОЮ 2.0”. СЕНСОРНА ПРИГОДА БАТЬКА І ДИТИНИ",
-          "description": "В рамках проекту \"Одетись красою 2.0\" запрошуємо родини з дітьми віком 2–6 років на майстер-класи, натхненні інтеграцією сенсорних вражень. Буде це час спільної гри, відкриття нових відчуттів і досвіду навколишнього світу через рух, дотик і звук.\n\nПід час зустрічі найменші зможуть розвивати свою цікавість, експериментувати та знайомитися з різноманітними подразниками в атмосфері свободи та безпеки. Батьки, в свою чергу, отримають можливість на мить сповільнитися, подивитися на світ з перспективи дитини та отримувати радість від спільного відкриття.\n\nБо краса ховається не лише в тому, на що ми дивимося, але також у тому, що ми відчуваємо і чого досвідчуємо разом.\n\nМайстер-класи проведе Інга Ярош, терапевтка та діагност інтеграції сенсорної, а також терапевтка руки. Випускниця магістерських програм."
+          "title": "Вдихнути красою 2.0 | Сенсорна пригода батька і дитини",
+          "description": "🌿 Красу можна відкривати багатьма способами – також через дотик, рух, звук і спільне переживання світу. 💛\n\nВ рамках проекту «Вдихнути красою 2.0» запрошуємо батьків і дітей віком 2–6 років на унікальні майстер-класи інтеграції сенсорики. Це можливість на мить сповільнитися, активізувати дитячу цікавість і подивитися на навколишній світ з нової перспективи – всіма відчуттями!\n\nПід час зустрічі не бракуватиме спільних ігор і досвідів, які підтримують пізнання світу найменшими. Це також прекрасна можливість для побудови близькості та проведення цінного часу разом.\n\nЗупиніться на мить у повсякденному бігу, щоб спільно вдихнути красу і відкривати її всіма відчуттями!\n\n👩‍🏫 🌿 Майстер-клас проведе Інга Ярош – терапевтка та діагностка інтеграції сенсорики та"
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Wilanów",
-      "updated_at": "2026-10-22T11:45:47.861485+00:00"
+      "updated_at": "2026-10-23T11:26:51.683601+00:00"
     },
     "do-dzie-a-warsztaty-dla-dzieci-bzy-czy-bzyyy-2026-10-29T17:30:00+01:00": {
       "title": "\"do DZIEŁA\" warsztaty dla dzieci | \"Bzy czy bzyyy?\"",
@@ -10977,47 +10986,50 @@
       "updated_at": "2026-10-13T16:22:18.532140+00:00"
     },
     "fiesta-del-d-a-de-muertos-meksyka-skie-obchody-wi-ta-zmar-ych-2026-10-31T16:00:00+01:00": {
-      "title": "Fiesta del Día de Muertos – meksykańskie obchody Święta Zmarłych",
+      "title": "Fiesta del Día de Muertos - Meksykańskie obchody Święta Zmarłych",
       "date": "2026-10-31T16:00:00+01:00",
       "end_date": "2026-10-31T16:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Meksykańskie obchody Dnia Zmarłych w centrum Warszawy, prowadzone zgodnie z tradycją rdzennych mieszkańców Meksyku. Wydarzenie łączy ceremonię, muzykę, taniec i warsztaty.\n\nUczestnicy poznają symbolikę i znaczenie elementów ołtarza ofiarowania, takich jak kwiaty, świece, żywica, święte przedmioty czy zdjęcia zmarłych. Omówione zostaną także znaczenie tańców, muzyki, rytuałów oraz potraw towarzyszących celebracji.\n\nCeremonia upamiętniająca osoby zmarłe, zarówno z rodziny, jak i znajome, zostanie przeprowadzona w języku Nahuatl, czyli języku Azteków.\n\nWarsztaty:\n• Dzieci pomalują własne kartonowe czaszki, mistyczne zwierzęta kultury azteckiej oraz Katrinas, czyli szkielety\n• Uczestnicy będą malować gliniane czaszki zgodnie z tradycją meksykańskich Azteków\n\nProwadzący warsztaty to artysta David Marcelino Cayetano, pochodzący z rdzennej społeczności Nahua-Azteca z rejonu Huasteca Potosina na północy Meksyku. Podczas wydarzenia zostanie także wyjaśniony symbolizm kulturowy i jego wartość we współczesnym świecie.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/698a9b9e-4c9e-4252-be9d-1081b6d352f6/e7a52877-18e3-41fa-8432-f84cb732a1c7.jpg",
+      "description": "Kolory, tradycja i muzyka meksykańska teraz odwiedzą Polskę, będziemy wspólnie celebrować Dzień Zmarłych, w tradycji rdzennej kultury Meksyku!\n\nZapraszamy do przeżycia autentycznego świętowania Dia de los Muertos w centrum Warszawy.\n\nBędziemy uczestniczyć w tradycyjnym przygotowaniu Dnia Zmarłych, zgodnie z tradycją rdzennych mieszkańców Meksyku, wydarzenie to odbędzie się w Warszawie.\n\nPoznamy symbolikę i znaczenie poszczególnych składników, obiektów i rzeczy (takich jak: kwiaty, świece, żywica, święte elementy, zdjęcia zmarłych...) związanych z ołtarzem ofiarowania i samym ofiarowaniem, znaczenie tańców, muzyki i rytuałów.\n\nPrzeprowadzimy ceremonię w języku Nahuatl (język Azteków) upamiętniającą osoby zmarłe (rodzina i znajomi).\n\nRównież przedstawimy znaczenie różnorodnych potraw w czasie celebrowania Dnia Zmarłych. To będzie wyjątkowe wydarzenie ponieważ będzie również prowadzone w języku Azteków- język Nahuatl.\n\nDzieci będą mogły pomalować swoje własne kartonowe: czaszki, mistyczne zwierzęta kultury azteckiej, Katrinas- szkielety.\n\nRównież będziemy malować czaszki wykonane z gliny, będziemy malować je zgodnie z tradycją meksykańskich Azteków.\n\nWytłumaczymy symbolizm kulturalny i jego wartości we współczesnym świecie.\n\nProwadzącym warsztaty jest artysta David Marcelino Cayetano, pochodzący z rdzennej społeczności Nahua-Azteca z rejonu Huasteca Potosina, z północy Meksyku.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1791822385.webp",
       "location": {
-        "name": "MAL, ul. Grójecka 109, Warszawa",
+        "name": "MAL, ul. Grójecka 109",
         "district": "Ochota"
       },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/fiesta-del-d-a-de-muertos-meksykanskie-obchody-swieta-zmarlych-698a9b9e-4c9e-4252-be9d-1081b6d352f6",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/fiesta-del-d-a-de-muertos-meksykanskie-obchody-swieta-zmarlych-698a9b9e-4c9e-4252-be9d-1081b6d352f6",
-      "scrapped_timestamp": "2026-10-22T11:44:44.252562+00:00",
-      "category": "Family Fun",
+      "url": "https://www.facebook.com/events/s/fiesta-del-dia-de-muertos-meks/1845126709814759/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/s/fiesta-del-dia-de-muertos-meks/1845126709814759/",
+      "scrapped_timestamp": "2026-10-23T11:25:38.859687+00:00",
+      "category": "Seasonal Festival",
       "additional_categories": [
-        "Workshops",
+        "Arts",
         "Music & Dance"
       ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Fiesta del Día de Muertos – meksykańskie obchody Święta Zmarłych",
-          "description": "Meksykańskie obchody Dnia Zmarłych w centrum Warszawy, prowadzone zgodnie z tradycją rdzennych mieszkańców Meksyku. Wydarzenie łączy ceremonię, muzykę, taniec i warsztaty.\n\nUczestnicy poznają symbolikę i znaczenie elementów ołtarza ofiarowania, takich jak kwiaty, świece, żywica, święte przedmioty czy zdjęcia zmarłych. Omówione zostaną także znaczenie tańców, muzyki, rytuałów oraz potraw towarzyszących celebracji.\n\nCeremonia upamiętniająca osoby zmarłe, zarówno z rodziny, jak i znajome, zostanie przeprowadzona w języku Nahuatl, czyli języku Azteków.\n\nWarsztaty:\n• Dzieci pomalują własne kartonowe czaszki, mistyczne zwierzęta kultury azteckiej oraz Katrinas, czyli szkielety\n• Uczestnicy będą malować gliniane czaszki zgodnie z tradycją meksykańskich Azteków\n\nProwadzący warsztaty to artysta David Marcelino Cayetano, pochodzący z rdzennej społeczności Nahua-Azteca z rejonu Huasteca Potosina na północy Meksyku. Podczas wydarzenia zostanie także wyjaśniony symbolizm kulturowy i jego wartość we współczesnym świecie."
+          "title": "Fiesta del Día de Muertos - Meksykańskie obchody Święta Zmarłych",
+          "description": "Kolory, tradycja i muzyka meksykańska teraz odwiedzą Polskę, będziemy wspólnie celebrować Dzień Zmarłych, w tradycji rdzennej kultury Meksyku!\n\nZapraszamy do przeżycia autentycznego świętowania Dia de los Muertos w centrum Warszawy.\n\nBędziemy uczestniczyć w tradycyjnym przygotowaniu Dnia Zmarłych, zgodnie z tradycją rdzennych mieszkańców Meksyku, wydarzenie to odbędzie się w Warszawie.\n\nPoznamy symbolikę i znaczenie poszczególnych składników, obiektów i rzeczy (takich jak: kwiaty, świece, żywica, święte elementy, zdjęcia zmarłych...) związanych z ołtarzem ofiarowania i samym ofiarowaniem, znaczenie tańców, muzyki i rytuałów.\n\nPrzeprowadzimy ceremonię w języku Nahuatl (język Azteków) upamiętniającą osoby zmarłe (rodzina i znajomi).\n\nRównież przedstawimy znaczenie różnorodnych potraw w czasie celebrowania Dnia Zmarłych. To będzie wyjątkowe wydarzenie ponieważ będzie również prowadzone w języku Azteków- język Nahuatl.\n\nDzieci będą mogły pomalować swoje własne kartonowe: czaszki, mistyczne zwierzęta kultury azteckiej, Katrinas- szkielety.\n\nRównież będziemy malować czaszki wykonane z gliny, będziemy malować je zgodnie z tradycją meksykańskich Azteków.\n\nWytłumaczymy symbolizm kulturalny i jego wartości we współczesnym świecie.\n\nProwadzącym warsztaty jest artysta David Marcelino Cayetano, pochodzący z rdzennej społeczności Nahua-Azteca z rejonu Huasteca Potosina, z północy Meksyku."
         },
         "en": {
-          "title": "Day of the Dead Festival – Mexican Celebrations of the Day of the Dead",
-          "description": "Mexican celebrations of the Day of the Dead in the center of Warsaw, conducted according to the traditions of the indigenous people of Mexico. The event combines ceremony, music, dance, and workshops.\n\nParticipants will learn about the symbolism and significance of the elements of the offering altar, such as flowers, candles, resin, sacred objects, and photos of the deceased. The significance of dances, music, rituals, and dishes accompanying the celebration will also be discussed.\n\nA ceremony commemorating deceased individuals, both from family and friends, will be conducted in Nahuatl, the language of the Aztecs.\n\nWorkshops:\n• Children will paint their own cardboard skulls, mystical animals of Aztec culture, and Katrinas, which are skeletons\n• Participants will paint clay skulls according to the tradition of Mexican Aztecs\n\nThe workshop will be led by artist Dav"
+          "title": "Day of the Dead Festival - Mexican Celebrations of the Day of the Dead",
+          "description": "Colors, tradition, and Mexican music will now visit Poland, as we will celebrate the Day of the Dead together, in the tradition of the indigenous culture of Mexico!\n\nWe invite you to experience the authentic celebration of Dia de los Muertos in the center of Warsaw.\n\nWe will participate in the traditional preparation of the Day of the Dead, according to the traditions of the indigenous peoples of Mexico; this event will take place in Warsaw.\n\nWe will learn about the symbolism and significance of individual components, objects, and items (such as: flowers, candles, resin, sacred elements, photos of the deceased...) related to the altar of offerings and the act of offering itself, the significance of dances, music, and rituals.\n\nWe will conduct a ceremony in Nahuatl (the language of the Aztecs) commemorating the deceased (family and friends).\n\nWe will also present the significance of various dishes during the..."
         },
         "uk": {
-          "title": "Фієста Дня Мертвих – мексиканські святкування Свята Померлих",
-          "description": "Мексиканські святкування Дня Мертвих у центрі Варшави, проведені відповідно до традицій корінних мешканців Мексики. Подія поєднує церемонію, музику, танець і майстер-класи.\n\nУчасники познайомляться з символікою та значенням елементів вівтаря жертвопринесення, таких як квіти, свічки, смола, священні предмети чи фотографії померлих. Обговорюватимуться також значення танців, музики, ритуалів та страв, що супроводжують святкування.\n\nЦеремонія вшанування померлих, як з родини, так і знайомих, буде проведена мовою науатль, тобто мовою ацтеків.\n\nМайстер-класи:\n• Діти розфарбують власні картонні черепи, містичні тварини культури ацтеків та Катрінас, тобто скелети\n• Учасники будуть малювати глиняні черепи відповідно до традиції мексиканських ацтеків\n\nВедучий майстер-класів – художник Дав"
+          "title": "Фієста Дня Мертвих - Мексиканські святкування Свята Померлих",
+          "description": "Кольори, традиція і мексиканська музика тепер відвідають Польщу, ми разом будемо святкувати День Мертвих, у традиції корінної культури Мексики!\n\nЗапрошуємо до переживання автентичного святкування Dia de los Muertos в центрі Варшави.\n\nМи будемо брати участь у традиційному приготуванні Дня Мертвих, відповідно до традиції корінних мешканців Мексики, ця подія відбудеться у Варшаві.\n\nПознайомимося з символікою і значенням окремих складових, об'єктів і речей (таких як: квіти, свічки, смола, священні елементи, фотографії померлих...) пов'язаних з вівтарем жертвоприношення і самим жертвоприношенням, значенням танців, музики і ритуалів.\n\nПроведемо церемонію мовою науатль (мова ацтеків), що вшановує померлих (сім'я і знайомі).\n\nТакож представимо значення різноманітних страв у часи"
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Ochota",
-      "updated_at": "2026-10-22T11:45:47.861732+00:00"
+      "updated_at": "2026-10-23T11:26:51.683649+00:00"
     },
     "piknik-niepodleg-o-ci-w-bogatej-chacie-2026-11-07T11:00:00+01:00": {
       "title": "Piknik Niepodległości w Bogatej Chacie",
@@ -11451,49 +11463,49 @@
       "updated_at": "2026-10-14T11:41:39.179881+00:00"
     },
     "mapa-kt-rej-jeszcze-nie-ma-terenowa-przygoda-kartograficzna-dla-dzieci-2026-10-24T10:00:00+02:00": {
-      "title": "Mapa, której jeszcze nie ma – terenowa przygoda kartograficzna dla dzieci",
+      "title": "MAPA, KTÓREJ JESZCZE NIE MA - Terenowa przygoda kartograficzna dla dzieci",
       "date": "2026-10-24T10:00:00+02:00",
       "end_date": "2026-10-24T10:00:00+02:00",
       "startTimeKnown": true,
-      "description": "Terenowe warsztaty kartograficzne dla dzieci w Lesie Kabackim. Podczas dwugodzinnego spaceru uczestnicy samodzielnie stworzą własne mapy terenu, zaznaczając odkryte miejsca i obiekty. Na mapie mogą znaleźć się m.in. niezwykłe drzewo, powalone drzewo, kałuża lub strumień, mrowisko, głaz, ciekawa roślina, ławka, ścieżka, droga rowerowa czy ślady zwierząt.\n\nW trakcie zajęć uczestnicy ustalą wspólnie znaki kartograficzne, nauczą się rozpoznawać północ i poznają pojęcie skali. Na koniec porównają swoje mapy, które będą różne, ponieważ każda mapa jest subiektywnym wyborem ważnych miejsc.\n\nWydarzenie odbywa się pod honorowym patronatem Burmistrza Dzielnicy Ursynów m.st. Warszawy Roberta Kempy.\n\nSzczegóły:\n• Termin: sobota, 24 października, godz. 10:00.\n• Miejsce: Las Kabacki. Dokładne miejsce zbiórki zostanie przekazane zapisanym uczestnikom.\n• Dla kogo: dzieci z klas 1–4 szkoły podstawowej (7–11 lat).\n• Koszt: udział jest bezpłatny.\n\nZgłoszenia przez Messenger, w wiadomości do Dzieci Puszczy: https://www.facebook.com/dziecipuszczypl\n\nLiczba miejsc jest ograniczona, decyduje kolejność zgłoszeń. Zapisani uczestnicy otrzymają potwierdzenie i szczegóły zbiórki. W razie konieczności zmiany terminu ze względu na pogodę organizatorzy skontaktują się z uczestnikami.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/3c3a5798-c432-49ab-988d-fb36c6e2c040/b63f4f52-dd81-4dc0-b142-4314f4a5415b.jpg",
+      "description": "Czy można stworzyć mapę lasu, w którym właśnie jesteśmy? No… OCZYWIŚCIE! Dzieci Puszczy pokażą Wam, jak to zrobić! 🌳🧭\n\nWyruszymy do Lasu Kabackiego, by podczas dwugodzinnego spaceru stworzyć własne mapy terenu. Każdy uczestnik otrzyma kartkę złożoną jak prawdziwa mapa i samodzielnie będzie zaznaczać na niej odkryte miejsca oraz obiekty.\n\nCo może znaleźć się na naszej mapie?\n\n🌳 niezwykłe drzewo\n\n🪵 powalone drzewo\n\n💧 kałuża lub strumień\n\n🐜 mrowisko\n\n🪨 głaz\n\n🌿 ciekawa roślina\n\n🪑 ławka\n\n🚶 ścieżka\n\n🚲 droga rowerowa\n\n🐾 ślady zwierząt\n\nAle to nie wszystko! Wspólnie ustalimy jakich znaków kartograficznych używać, nauczymy się rozpoznawać północ i poznamy pojęcie skali. Zastanowimy się też, czy wszystko, co widzimy, powinno znaleźć się na mapie. Przecież kartograf musi dokonywać wyborów!\n\nNa koniec porównamy nasze mapy i odkryjemy coś ważnego: **KAŻDA MAPA JEST WAŻNA I KAŻDA JEST INNA!** ❤️\n\nNie ma złych map. Każda jest subiektywnym wyborem miejsc, które uznaliśmy za ważne. To, co dla jednej osoby jest tylko zwykłym drzewem, dla innej może być najważniejszym punktem całej wyprawy.\n\nWydarzenie odbywa się pod honorowym patronatem Burmistrza Dzielnicy Ursynów m.st. Warszawy Roberta Kempy.\n\n📅 KIEDY? Sobota, 24 października, godz. 10:00\n\n📍 GDZIE? Las Kabacki — dokładne miejsce zbiórki przekażemy zapisanym uczestnikom\n\n👧🧒 DLA KOGO? Dzieci z klas 1–4 szkoły podstawowej (7-11 lat)\n\n💚 KOSZT? ZERO ZŁOTYCH — udział jest bezpłatny!\n\n✉️ JAK SIĘ ZAPISAĆ?\n\nZgłoszenia przyjmujemy przez Messenger, w wiadomości do Dzieci Puszczy >> link\n\nLiczba miejsc jest ograniczona — decyduje kolejność zgłoszeń. Osobom zapisanym potwierdzimy udział i przekażemy szczegóły dotyczące zbiórki.\n\nBędziemy również kontaktować się z uczestnikami w przypadku konieczności zmiany terminu ze względu na pogodę.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1000.1792049580.webp",
       "location": {
-        "name": "Warszawa",
-        "district": "Ochota"
+        "name": "Ursynów",
+        "district": "Ursynów"
       },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/mapa-ktorej-jeszcze-nie-ma-terenowa-przygoda-kartograficzna-dla-dzieci-3c3a5798-c432-49ab-988d-fb36c6e2c040",
-      "source": "simplygo.pl",
-      "age_hint": "7-11",
+      "url": "https://www.facebook.com/events/1764356494774617/?acontext={\"event_action_history\":[{\"surface\":\"search\"},{\"mechanism\":\"attachment\",\"surface\":\"newsfeed\"}],\"ref_notif_type\":null}",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1764356494774617/?acontext={\"event_action_history\":[{\"surface\":\"search\"},{\"mechanism\":\"attachment\",\"surface\":\"newsfeed\"}],\"ref_notif_type\":null}",
+      "scrapped_timestamp": "2026-10-23T11:24:55.238041+00:00",
+      "category": "Nature & Wildlife",
+      "additional_categories": [
+        "Educational"
+      ],
       "age_range": {
         "min": 7,
         "max": 11
       },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/mapa-ktorej-jeszcze-nie-ma-terenowa-przygoda-kartograficzna-dla-dzieci-3c3a5798-c432-49ab-988d-fb36c6e2c040",
-      "scrapped_timestamp": "2026-10-22T11:43:46.333443+00:00",
-      "category": "Workshops",
-      "additional_categories": [
-        "Outdoor Adventure"
-      ],
       "location_type": "outdoor",
       "translations": {
         "pl": {
-          "title": "Mapa, której jeszcze nie ma – terenowa przygoda kartograficzna dla dzieci",
-          "description": "Terenowe warsztaty kartograficzne dla dzieci w Lesie Kabackim. Podczas dwugodzinnego spaceru uczestnicy samodzielnie stworzą własne mapy terenu, zaznaczając odkryte miejsca i obiekty. Na mapie mogą znaleźć się m.in. niezwykłe drzewo, powalone drzewo, kałuża lub strumień, mrowisko, głaz, ciekawa roślina, ławka, ścieżka, droga rowerowa czy ślady zwierząt.\n\nW trakcie zajęć uczestnicy ustalą wspólnie znaki kartograficzne, nauczą się rozpoznawać północ i poznają pojęcie skali. Na koniec porównają swoje mapy, które będą różne, ponieważ każda mapa jest subiektywnym wyborem ważnych miejsc.\n\nWydarzenie odbywa się pod honorowym patronatem Burmistrza Dzielnicy Ursynów m.st. Warszawy Roberta Kempy.\n\nSzczegóły:\n• Termin: sobota, 24 października, godz. 10:00.\n• Miejsce: Las Kabacki. Dokładne miejsce zbiórki zostanie przekazane zapisanym uczestnikom.\n• Dla kogo: dzieci z klas 1–4 szkoły podstawowej (7–11 lat).\n• Koszt: udział jest bezpłatny.\n\nZgłoszenia przez Messenger, w wiadomości do Dzieci Puszczy: https://www.facebook.com/dziecipuszczypl\n\nLiczba miejsc jest ograniczona, decyduje kolejność zgłoszeń. Zapisani uczestnicy otrzymają potwierdzenie i szczegóły zbiórki. W razie konieczności zmiany terminu ze względu na pogodę organizatorzy skontaktują się z uczestnikami."
+          "title": "MAPA, KTÓREJ JESZCZE NIE MA - Terenowa przygoda kartograficzna dla dzieci",
+          "description": "Czy można stworzyć mapę lasu, w którym właśnie jesteśmy? No… OCZYWIŚCIE! Dzieci Puszczy pokażą Wam, jak to zrobić! 🌳🧭\n\nWyruszymy do Lasu Kabackiego, by podczas dwugodzinnego spaceru stworzyć własne mapy terenu. Każdy uczestnik otrzyma kartkę złożoną jak prawdziwa mapa i samodzielnie będzie zaznaczać na niej odkryte miejsca oraz obiekty.\n\nCo może znaleźć się na naszej mapie?\n\n🌳 niezwykłe drzewo\n\n🪵 powalone drzewo\n\n💧 kałuża lub strumień\n\n🐜 mrowisko\n\n🪨 głaz\n\n🌿 ciekawa roślina\n\n🪑 ławka\n\n🚶 ścieżka\n\n🚲 droga rowerowa\n\n🐾 ślady zwierząt\n\nAle to nie wszystko! Wspólnie ustalimy jakich znaków kartograficznych używać, nauczymy się rozpoznawać północ i poznamy pojęcie skali. Zastanowimy się też, czy wszystko, co widzimy, powinno znaleźć się na mapie. Przecież kartograf musi dokonywać wyborów!\n\nNa koniec porównamy nasze mapy i odkryjemy coś ważnego: **KAŻDA MAPA JEST WAŻNA I KAŻDA JEST INNA!** ❤️\n\nNie ma złych map. Każda jest subiektywnym wyborem miejsc, które uznaliśmy za ważne. To, co dla jednej osoby jest tylko zwykłym drzewem, dla innej może być najważniejszym punktem całej wyprawy.\n\nWydarzenie odbywa się pod honorowym patronatem Burmistrza Dzielnicy Ursynów m.st. Warszawy Roberta Kempy.\n\n📅 KIEDY? Sobota, 24 października, godz. 10:00\n\n📍 GDZIE? Las Kabacki — dokładne miejsce zbiórki przekażemy zapisanym uczestnikom\n\n👧🧒 DLA KOGO? Dzieci z klas 1–4 szkoły podstawowej (7-11 lat)\n\n💚 KOSZT? ZERO ZŁOTYCH — udział jest bezpłatny!\n\n✉️ JAK SIĘ ZAPISAĆ?\n\nZgłoszenia przyjmujemy przez Messenger, w wiadomości do Dzieci Puszczy >> link\n\nLiczba miejsc jest ograniczona — decyduje kolejność zgłoszeń. Osobom zapisanym potwierdzimy udział i przekażemy szczegóły dotyczące zbiórki.\n\nBędziemy również kontaktować się z uczestnikami w przypadku konieczności zmiany terminu ze względu na pogodę."
         },
         "en": {
-          "title": "Map that doesn't exist yet – a field cartographic adventure for children",
-          "description": "Field cartographic workshops for children in Kabacki Forest. During a two-hour walk, participants will independently create their own maps of the area, marking discovered places and objects. The map may include, among others, an unusual tree, a fallen tree, a puddle or stream, an anthill, a boulder, an interesting plant, a bench, a path, a bike trail, or animal tracks.\n\nDuring the activities, participants will collectively establish cartographic symbols, learn to recognize north, and understand the concept of scale. At the end, they will compare their maps, which will be different, as each map is a subjective choice of important places.\n\nThe event is held under the honorary patronage of the Mayor of the Ursynów District of the Capital City of Warsaw, Robert Kempa.\n\nDetails:\n• Date: Saturday, October 24, at 10:00 AM.\n• Location: Kabacki Forest. Exact meeting place will be provided."
+          "title": "A MAP THAT DOESN'T EXIST YET - A Field Cartographic Adventure for Children",
+          "description": "Can we create a map of the forest we are in? Well... OF COURSE! The Children of the Forest will show you how to do it! 🌳🧭\n\nWe will head to Kabacki Forest to create our own maps during a two-hour walk. Each participant will receive a sheet folded like a real map and will independently mark the places and objects they discover on it.\n\nWhat can we find on our map?\n\n🌳 an extraordinary tree\n\n🪵 a fallen tree\n\n💧 a puddle or stream\n\n🐜 an anthill\n\n🪨 a boulder\n\n🌿 an interesting plant\n\n🪑 a bench\n\n🚶 a path\n\n🚲 a bike path\n\n🐾 animal tracks\n\nBut that's not all! Together we will determine what cartographic symbols to use, learn to recognize north, and understand the concept of scale. We will also consider whether everything we see should be included on the map. After all, a cartographer must make choices!\n\nIn the end"
         },
         "uk": {
-          "title": "Карта, якої ще немає – територіальна картографічна пригода для дітей",
-          "description": "Територіальні картографічні майстер-класи для дітей у Лісі Кабацькому. Під час двогодинної прогулянки учасники самостійно створять власні карти території, позначаючи відкриті місця та об'єкти. На карті можуть бути, зокрема, незвичайне дерево, повалене дерево, калюжа або струмок, мурашник, валун, цікава рослина, лавка, стежка, велосипедна дорога чи сліди тварин.\n\nВ ході занять учасники спільно визначать картографічні знаки, навчаться розпізнавати північ і ознайомляться з поняттям масштабу. На кінець порівняють свої карти, які будуть різними, оскільки кожна карта є суб'єктивним вибором важливих місць.\n\nПодія відбувається під почесним патронатом Бургомістра Району Урсинов м. Варшави Роберта Кемпи.\n\nДеталі:\n• Дата: субота, 24 жовтня, о 10:00.\n• Місце: Ліс Кабацький. Точне місце збору..."
+          "title": "КАРТА, ЯКОЇ ЩЕ НЕМА - Польова картографічна пригода для дітей",
+          "description": "Чи можна створити карту лісу, в якому ми саме знаходимося? Ну… ЗВИЧАЙНО! Діти Пущі покажуть вам, як це зробити! 🌳🧭\n\nВирушимо до Лісу Кабацького, щоб під час двогодинної прогулянки створити власні карти місцевості. Кожен учасник отримає аркуш, складений як справжня карта, і самостійно буде позначати на ній відкриті місця та об'єкти.\n\nЩо може бути на нашій карті?\n\n🌳 незвичайне дерево\n\n🪵 повалене дерево\n\n💧 калюжа або струмок\n\n🐜 мурашник\n\n🪨 валун\n\n🌿 цікава рослина\n\n🪑 лавка\n\n🚶 стежка\n\n🚲 велосипедна доріжка\n\n🐾 сліди тварин\n\nАле це ще не все! Разом ми визначимо, які картографічні знаки використовувати, навчимося розпізнавати північ і познайомимося з поняттям масштабу. Подумаємо також, чи все, що ми бачимо, повинно бути на карті. Адже картограф повинен робити вибір!\n\nНа кінець"
         }
       },
       "admission": {
         "is_free": true
       },
-      "district": "Ochota",
-      "updated_at": "2026-10-22T11:45:47.861645+00:00"
+      "district": "Ursynów",
+      "updated_at": "2026-10-23T11:26:51.683480+00:00"
     },
     "sztormowe-szantowanie-dla-ma-ych-korsarzy-2026-10-25T12:00:00+01:00": {
       "title": "SZTORMOWE SZANTOWANIE DLA MAŁYCH KORSARZY",
@@ -11805,46 +11817,49 @@
       "updated_at": "2026-10-16T11:10:33.690555+00:00"
     },
     "w-gierskie-halloween-nad-wis-festiwal-latarni-dyniowych-2026-10-31T17:00:00+01:00": {
-      "title": "Węgierskie Halloween nad Wisłą – festiwal latarni dyniowych",
+      "title": "WĘGIERSKIE HALLOWEEN NAD WISŁĄ – FESTIWAL LATARNI DYNIowych!",
       "date": "2026-10-31T17:00:00+01:00",
       "end_date": "2026-10-31T17:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Węgierskie Halloween nad Wisłą z festiwalem latarni dyniowych odbędzie się 31 października 2026 r. o godz. 17.00 w Domu Figula na Bulwarach Wiślanych (pawilon 8). Udział w wydarzeniu jest bezpłatny.\n\nInspiracją są jesienne tradycje i wydarzenia organizowane na Węgrzech. Program obejmuje:\n• wspólne wycinanie dyni i tworzenie lampionów, konkurs z nagrodami na najpiękniej wyciętą dynię,\n• Festiwal Latarni Dyniowych,\n• jesienną zabawę dla całych rodzin.\n\nRównolegle trwa zbiórka dla Fundacji Mam Marzenie. Można przynosić nowe pluszaki, gry, puzzle, książki lub materiały plastyczne dla dzieci przebywających w szpitalach. Przyjmowanie darów: od 31.10.2026 do 10.11.2026 r. Zbiórka jest związana z Dniem Pluszowego Misia (25 listopada). Od 13 lat wolontariusze Fundacji przekazują małym pacjentom pluszaki i zabawki właśnie w tym dniu.\n\nZabierzcie dzieci, przyjaciół i dobry humor.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/996cf337-0165-4502-92ee-88491165132b/3428cc4b-5f06-47ad-915a-0d1e368b84a6.jpg",
+      "description": "🎃🏮 WĘGIERSKIE HALLOWEEN NAD WISŁĄ – FESTIWAL LATARNI DYNIowych! 🏮🎃\n\nJuż 31 października zapraszamy Was do Domu Figula na Bulwarach Wiślanych na wyjątkowe, jesienne spotkanie pełne dyni, rodzinnej zabawy i pomagania! 🇭🇺❤️\n\nZainspirowani jesiennymi tradycjami i wydarzeniami organizowanymi na Węgrzech, chcemy przenieść nad Wisłę odrobinę węgierskiego klimatu i stworzyć miejsce, w którym dobrze będą się bawić zarówno dzieci, jak i dorośli.\n\n✨ Co planujemy?\n\n🎃 wspólne wycinanie dyni i tworzenie niezwykłych lampionów - konkurs z nagrodami na najpiękniej wyciętą dynię,\n\n🏮 Festiwal Latarni Dyniowych,\n\n👨‍👩‍👧‍👦 jesienną zabawę dla całych rodzin,\n\n❤️ razem z Fundacją Mam Marzenie zbiórkę nowych pluszaków i zabawek dla Dzieci przebywających w szpitalach.\n\nPluszaki i zabawki można przynosić od 31.10 .2026 do 10.11.2026 r.\n\nWielkimi krokami zbliża się 25 listopada - Dzień Pluszowego Misia. 🐻 i to właśnie na ten dzień zbieramy nowe pluszaki,\n\nzabawki dla Dzieci przebywających w szpitalach.\n\nJuż od 13 lat wolontariusze Fundacji Mam Marzenie, widząc potrzebę wsparcia psychologicznego dzieci przebywających\n\nw szpitalach, przekazują małym pacjentom pluszaki i zabawki właśnie w tym wyjątkowym dniu. Jest to możliwe dzięki Waszemu zaangażowaniu i wsparciu, za które dziękujemy.\n\nChcemy, aby tego dnia dynie nie tylko rozświetliły Bulwary Wiślane, ale też pomogły wywołać uśmiech na twarzach małych pacjentów. 🧸\n\nDlatego zachęcamy Was do przyniesienia nowych pluszaków, gier, puzzli, książek lub materiałów plastycznych, które mogą umilić dzieciom pobyt w szpitalu. Zbiórkę chcemy zorganizować z myślą o inicjatywie Fundacji Mam Marzenie.\n\n📍 Dom Figula, Bulwary Wiślane, Warszawa – pawilon 8\n\n📅 31 października 2026 r. godz. 17.00.\n\n🎟️ Udział w wydarzeniu jest bezpłatny.\n\nZabierzcie dzieci, przyjaciół i dobry humor. Stwórzmy razem piękne dyniowe święto, w którym liczy się nie tylko zabawa,\n\nale przede wszystkim serce! ❤️\n\nWęgry nad Wisłą. To dopiero początek",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1792147712.webp",
       "location": {
-        "name": "Dom Figula, Bulwary Wiślane, Warszawa",
+        "name": "Dom Figula, Bulwary Wiślane",
         "district": "Śródmieście"
       },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/wegierskie-halloween-nad-wisla-festiwal-latarni-dyniowych-996cf337-0165-4502-92ee-88491165132b",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/wegierskie-halloween-nad-wisla-festiwal-latarni-dyniowych-996cf337-0165-4502-92ee-88491165132b",
-      "scrapped_timestamp": "2026-10-22T11:44:55.276503+00:00",
+      "url": "https://www.facebook.com/events/1874668196866246",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1874668196866246",
+      "scrapped_timestamp": "2026-10-23T11:25:46.574544+00:00",
       "category": "Seasonal Festival",
       "additional_categories": [
         "Family Fun"
       ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "outdoor",
       "translations": {
         "pl": {
-          "title": "Węgierskie Halloween nad Wisłą – festiwal latarni dyniowych",
-          "description": "Węgierskie Halloween nad Wisłą z festiwalem latarni dyniowych odbędzie się 31 października 2026 r. o godz. 17.00 w Domu Figula na Bulwarach Wiślanych (pawilon 8). Udział w wydarzeniu jest bezpłatny.\n\nInspiracją są jesienne tradycje i wydarzenia organizowane na Węgrzech. Program obejmuje:\n• wspólne wycinanie dyni i tworzenie lampionów, konkurs z nagrodami na najpiękniej wyciętą dynię,\n• Festiwal Latarni Dyniowych,\n• jesienną zabawę dla całych rodzin.\n\nRównolegle trwa zbiórka dla Fundacji Mam Marzenie. Można przynosić nowe pluszaki, gry, puzzle, książki lub materiały plastyczne dla dzieci przebywających w szpitalach. Przyjmowanie darów: od 31.10.2026 do 10.11.2026 r. Zbiórka jest związana z Dniem Pluszowego Misia (25 listopada). Od 13 lat wolontariusze Fundacji przekazują małym pacjentom pluszaki i zabawki właśnie w tym dniu.\n\nZabierzcie dzieci, przyjaciół i dobry humor."
+          "title": "WĘGIERSKIE HALLOWEEN NAD WISŁĄ – FESTIWAL LATARNI DYNIowych!",
+          "description": "🎃🏮 WĘGIERSKIE HALLOWEEN NAD WISŁĄ – FESTIWAL LATARNI DYNIowych! 🏮🎃\n\nJuż 31 października zapraszamy Was do Domu Figula na Bulwarach Wiślanych na wyjątkowe, jesienne spotkanie pełne dyni, rodzinnej zabawy i pomagania! 🇭🇺❤️\n\nZainspirowani jesiennymi tradycjami i wydarzeniami organizowanymi na Węgrzech, chcemy przenieść nad Wisłę odrobinę węgierskiego klimatu i stworzyć miejsce, w którym dobrze będą się bawić zarówno dzieci, jak i dorośli.\n\n✨ Co planujemy?\n\n🎃 wspólne wycinanie dyni i tworzenie niezwykłych lampionów - konkurs z nagrodami na najpiękniej wyciętą dynię,\n\n🏮 Festiwal Latarni Dyniowych,\n\n👨‍👩‍👧‍👦 jesienną zabawę dla całych rodzin,\n\n❤️ razem z Fundacją Mam Marzenie zbiórkę nowych pluszaków i zabawek dla Dzieci przebywających w szpitalach.\n\nPluszaki i zabawki można przynosić od 31.10 .2026 do 10.11.2026 r.\n\nWielkimi krokami zbliża się 25 listopada - Dzień Pluszowego Misia. 🐻 i to właśnie na ten dzień zbieramy nowe pluszaki,\n\nzabawki dla Dzieci przebywających w szpitalach.\n\nJuż od 13 lat wolontariusze Fundacji Mam Marzenie, widząc potrzebę wsparcia psychologicznego dzieci przebywających\n\nw szpitalach, przekazują małym pacjentom pluszaki i zabawki właśnie w tym wyjątkowym dniu. Jest to możliwe dzięki Waszemu zaangażowaniu i wsparciu, za które dziękujemy.\n\nChcemy, aby tego dnia dynie nie tylko rozświetliły Bulwary Wiślane, ale też pomogły wywołać uśmiech na twarzach małych pacjentów. 🧸\n\nDlatego zachęcamy Was do przyniesienia nowych pluszaków, gier, puzzli, książek lub materiałów plastycznych, które mogą umilić dzieciom pobyt w szpitalu. Zbiórkę chcemy zorganizować z myślą o inicjatywie Fundacji Mam Marzenie.\n\n📍 Dom Figula, Bulwary Wiślane, Warszawa – pawilon 8\n\n📅 31 października 2026 r. godz. 17.00.\n\n🎟️ Udział w wydarzeniu jest bezpłatny.\n\nZabierzcie dzieci, przyjaciół i dobry humor. Stwórzmy razem piękne dyniowe święto, w którym liczy się nie tylko zabawa,\n\nale przede wszystkim serce! ❤️\n\nWęgry nad Wisłą. To dopiero początek"
         },
         "en": {
-          "title": "Hungarian Halloween on the Vistula – Pumpkin Lantern Festival",
-          "description": "Hungarian Halloween on the Vistula with the Pumpkin Lantern Festival will take place on October 31, 2026, at 5:00 PM at the Figula House on the Vistula Boulevards (pavilion 8). Participation in the event is free.\n\nThe inspiration comes from autumn traditions and events organized in Hungary. The program includes:\n• joint pumpkin carving and lantern making, a competition with prizes for the most beautifully carved pumpkin,\n• Pumpkin Lantern Festival,\n• autumn fun for the whole family.\n\nAt the same time, a collection for the Mam Marzenie Foundation is ongoing. You can bring new stuffed animals, games, puzzles, books, or art supplies for children in hospitals. Donations will be accepted from 31.10.2026 to 10.11.2026. The collection is related to Teddy Bear Day (November 25). For 13 years, volunteers from the Foundation have been delivering stuffed animals to young patients."
+          "title": "HUNGARIAN HALLOWEEN BY THE VISTULA – PUMPKIN LANTERN FESTIVAL!",
+          "description": "🎃🏮 HUNGARIAN HALLOWEEN BY THE VISTULA – PUMPKIN LANTERN FESTIVAL! 🏮🎃\n\nOn October 31st, we invite you to Dom Figula on the Vistula Boulevards for a unique autumn gathering full of pumpkins, family fun, and helping! 🇭🇺❤️\n\nInspired by autumn traditions and events held in Hungary, we want to bring a bit of Hungarian atmosphere to the Vistula and create a place where both children and adults can have a great time.\n\n✨ What do we plan?\n\n🎃 pumpkin carving together and creating extraordinary lanterns - a contest with prizes for the most beautifully carved pumpkin,\n\n🏮 Pumpkin Lantern Festival,\n\n👨‍👩‍👧‍👦 autumn fun for the whole family,\n\n❤️ together with the Mam Marzenie Foundation, a collection of new stuffed animals and toys for children in hospitals.\n\nStuffed animals and toys can be brought starting from 31.10."
         },
         "uk": {
-          "title": "Угорське Хелловін над Віслою – фестиваль гарбузових ліхтарів",
-          "description": "Угорське Хелловін над Віслою з фестивалем гарбузових ліхтарів відбудеться 31 жовтня 2026 р. о 17.00 в Домі Фігула на Бульварах Вісла (павільйон 8). Участь у заході безкоштовна.\n\nІнспірацією є осінні традиції та події, що організовуються в Угорщині. Програма включає:\n• спільне вирізання гарбуза та створення ліхтарів, конкурс з нагородами на найкрасивіше вирізаний гарбуз,\n• Фестиваль Гарбузових Ліхтарів,\n• осіннє свято для цілих родин.\n\nПаралельно триває збір для Фонду \"Маю Мрію\". Можна приносити нові плюшеві іграшки, ігри, пазли, книги або матеріали для творчості для дітей, які перебувають у лікарнях. Прийом дарунків: з 31.10.2026 до 10.11.2026 р. Збір пов'язаний з Днем Плюшевого Ведмедика (25 листопада). Протягом 13 років волонтери Фонду передають маленьким пацієнтам плюшеві..."
+          "title": "УГОРСЬКЕ ХЕЛЛОУІН НА ВІСЛІ – ФЕСТИВАЛЬ ГАРБУЗОВИХ ЛІТНІХ!",
+          "description": "🎃🏮 УГОРСЬКЕ ХЕЛЛОУІН НА ВІСЛІ – ФЕСТИВАЛЬ ГАРБУЗОВИХ ЛІТНІХ! 🏮🎃\n\nJuż 31 października zapraszamy Was do Domu Figula na Bulwarach Wiślanych na wyjątkowe, jesienne spotkanie pełne dyni, rodzinnej zabawy i pomagania! 🇭🇺❤️\n\nZainspirowani jesiennymi tradycjami i wydarzeniami organizowanymi na Węgrzech, chcemy przenieść над Wisłę odrobinę вугорського клімату і створити місце, в якому добре будуть розважатися як діти, так і дорослі.\n\n✨ Що плануємо?\n\n🎃 спільне вирізання гарбуза і створення незвичайних ліхтарів - конкурс з нагородами на найкрасивіше вирізаний гарбуз,\n\n🏮 Фестиваль Гарбузових Ліхтарів,\n\n👨‍👩‍👧‍👦 осінню розвагу для цілих родин,\n\n❤️ разом з Фундацією Мам Мрія збір нових плюшевих іграшок і іграшок для дітей, які перебувають у лікарнях.\n\nПлюшки та іграшки можна приносити з 31.10."
         }
       },
       "admission": {
         "is_free": true
       },
       "district": "Śródmieście",
-      "updated_at": "2026-10-22T11:45:47.861747+00:00"
+      "updated_at": "2026-10-23T11:26:51.683672+00:00"
     },
     "koncert-rodzinny-muzyczna-podr-do-krainy-wyobra-ni-2026-11-08T12:00:00+01:00": {
       "title": "Koncert rodzinny - Muzyczna podróż do krainy wyobraźni",
@@ -16891,6 +16906,479 @@
       },
       "district": "Mokotów",
       "updated_at": "2026-10-22T11:45:47.861790+00:00"
+    },
+    "mama-tata-w-muzeum-adolph-menzel-artysta-i-jego-epoka-2026-10-23T11:00:00+02:00": {
+      "title": "Mama, Tata w muzeum / Adolph Menzel – artysta i jego epoka",
+      "date": "2026-10-23T11:00:00+02:00",
+      "end_date": "2026-10-23T11:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na spotkanie poświęcone twórczości Adolpha Menzla – jednego z najwybitniejszych artystów niemieckich XIX wieku. Prezentowane na wystawie obrazy, grafiki i rysunki pozwolą poznać różnorodność jego dorobku oraz prześledzić rozwój warsztatu artystycznego. Spotkanie będzie także okazją do poszerzenia lub utrwalenia wiedzy na temat technik malarskich i graficznych oraz najważniejszych kierunków i nurtów w sztuce XIX wieku.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_976570971_original.jpg",
+      "location": {
+        "name": "Muzeum Narodowe w Warszawie (Warszawa)",
+        "district": "Śródmieście"
+      },
+      "url": "https://warszawa.naszemiasto.pl/mama-tata-w-muzeum-adolph-menzel-artysta-i-jego-epoka/kw/c5-3289411",
+      "source": "naszemiasto.pl",
+      "scrapped_url": "https://warszawa.naszemiasto.pl/mama-tata-w-muzeum-adolph-menzel-artysta-i-jego-epoka/kw/c5-3289411",
+      "scrapped_timestamp": "2026-10-23T11:24:23.681307+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Mama, Tata w muzeum / Adolph Menzel – artysta i jego epoka",
+          "description": "Zapraszamy na spotkanie poświęcone twórczości Adolpha Menzla – jednego z najwybitniejszych artystów niemieckich XIX wieku. Prezentowane na wystawie obrazy, grafiki i rysunki pozwolą poznać różnorodność jego dorobku oraz prześledzić rozwój warsztatu artystycznego. Spotkanie będzie także okazją do poszerzenia lub utrwalenia wiedzy na temat technik malarskich i graficznych oraz najważniejszych kierunków i nurtów w sztuce XIX wieku."
+        },
+        "en": {
+          "title": "Mama, Tata in the museum / Adolph Menzel – artist and his era",
+          "description": "We invite you to a meeting dedicated to the work of Adolph Menzel – one of the most outstanding German artists of the 19th century. The paintings, graphics, and drawings presented at the exhibition will allow you to explore the diversity of his oeuvre and trace the development of his artistic workshop. The meeting will also be an opportunity to expand or reinforce knowledge about painting and graphic techniques as well as the most important directions and movements in 19th-century art."
+        },
+        "uk": {
+          "title": "Мама, Тато в музеї / Адольф Менцель – художник і його епоха",
+          "description": "Запрошуємо на зустріч, присвячену творчості Адольфа Менцля – одного з найвидатніших художників німецького XIX століття. Презентовані на виставці картини, графіки та малюнки дозволять познайомитися з різноманітністю його доробку та простежити розвиток художнього ремесла.\n\nЗустріч буде також нагодою для розширення або закріплення знань про техніки живопису та графіки, а також найважливіші напрямки та течії в мистецтві XIX століття."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:26:51.683395+00:00"
+    },
+    "kolorowy-b-czek-animacje-dla-dzieci-w-wieku-1-3-lat-i-opiekun-w-2026-10-23T00:00:00+02:00": {
+      "title": "Kolorowy bączek | Animacje dla dzieci w wieku 1-3 lat i opiekunów",
+      "date": "2026-10-23T00:00:00+02:00",
+      "end_date": "2026-10-23T00:00:00+02:00",
+      "startTimeKnown": false,
+      "url": "https://czasdzieci.pl/warszawa/wydarzenia/id,1410928d7.html",
+      "description": "Animacje dla najmłodszych będą pełne kolorów, ruchu i ekspresji. Naszą inspiracją do twórczych działań staną się wybrane obrazy z wystawy \"Nabiści. Prorocy nowej sztuki\".\n\nKażde spotkanie będzie poświęcone innemu kolorowi, do którego nawiążemy poprzez wybrane dzieło z wystawy. Sztuka stanie się punktem wyjścia do sensorycznych doświadczeń, zabaw ruchowych i wspólnego odkrywania świata wszystkimi zmysłami. Kolory, kształty i nastroje obecne w obrazach nabistów przełożymy na proste aktywności angażujące ruch, dotyk, dźwięk i wyobraźnię.\n\nW atmosferze bliskości, uważności i swobodnej eksploracji będziemy poznawać dzieła w sposób dostosowany do wieku i potrzeb najmłodszych. Każde 30-minutowe spotkanie oprzemy na sensorycznej opowieści, która wesprze rozwój dziecka, wzmacnianie relacji oraz budowanie pierwszych pozytywnych doświadczeń związanych ze sztuką.\n\n**23 października - Czarny**\n\n\tCzarny kolor stanie się okazją do odkrywania świata cieni, kontrastów i tajemniczych kształtów. Podczas spotkania będziemy obserwować sylwetki, bawić się światłem i cieniem oraz podążać za spokojną opowieścią o krowach wracających wieczorem do domu. To łagodne spotkanie pokaże najmłodszym, że ciemność może być ciekawa, bezpieczna i pełna odkryć. Inspiracja: Paul Sérusier \"Panneau bretońskie z krowami\".\n\n**Miejsce**: Stara Kordegarda (start, czas wolny), łazienkowskie ogrody (animacje)\n\n\tWstęp: bezpłatny; obowiązują zapisy: [email protected] (zapisy rozpoczynają się dwa tygodnie przed terminem danego spotkania)\n\n**Prowadzenie**: Beata Kabzińska, Michał Tokarski",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/10-1-261-261f_w_141092_8c09c.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul. Agrykola 1, 00-460 Warszawa",
+        "district": "Śródmieście"
+      },
+      "age_range": {
+        "min": 1,
+        "max": 3
+      },
+      "scrapped_url": "https://czasdzieci.pl/warszawa/wydarzenia/id,1410928d7.html",
+      "scrapped_timestamp": "2026-10-23T11:24:29.009623+00:00",
+      "category": "Sensory Play",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kolorowy bączek | Animacje dla dzieci w wieku 1-3 lat i opiekunów",
+          "description": "Animacje dla najmłodszych będą pełne kolorów, ruchu i ekspresji. Naszą inspiracją do twórczych działań staną się wybrane obrazy z wystawy \"Nabiści. Prorocy nowej sztuki\".\n\nKażde spotkanie będzie poświęcone innemu kolorowi, do którego nawiążemy poprzez wybrane dzieło z wystawy. Sztuka stanie się punktem wyjścia do sensorycznych doświadczeń, zabaw ruchowych i wspólnego odkrywania świata wszystkimi zmysłami. Kolory, kształty i nastroje obecne w obrazach nabistów przełożymy na proste aktywności angażujące ruch, dotyk, dźwięk i wyobraźnię.\n\nW atmosferze bliskości, uważności i swobodnej eksploracji będziemy poznawać dzieła w sposób dostosowany do wieku i potrzeb najmłodszych. Każde 30-minutowe spotkanie oprzemy na sensorycznej opowieści, która wesprze rozwój dziecka, wzmacnianie relacji oraz budowanie pierwszych pozytywnych doświadczeń związanych ze sztuką.\n\n**23 października - Czarny**\n\n\tCzarny kolor stanie się okazją do odkrywania świata cieni, kontrastów i tajemniczych kształtów. Podczas spotkania będziemy obserwować sylwetki, bawić się światłem i cieniem oraz podążać za spokojną opowieścią o krowach wracających wieczorem do domu. To łagodne spotkanie pokaże najmłodszym, że ciemność może być ciekawa, bezpieczna i pełna odkryć. Inspiracja: Paul Sérusier \"Panneau bretońskie z krowami\".\n\n**Miejsce**: Stara Kordegarda (start, czas wolny), łazienkowskie ogrody (animacje)\n\n\tWstęp: bezpłatny; obowiązują zapisy: [email protected] (zapisy rozpoczynają się dwa tygodnie przed terminem danego spotkania)\n\n**Prowadzenie**: Beata Kabzińska, Michał Tokarski"
+        },
+        "en": {
+          "title": "Colorful Spinning Top | Animations for Children Aged 1-3 and Caregivers",
+          "description": "Animations for the youngest will be full of colors, movement, and expression. Our inspiration for creative activities will be selected paintings from the exhibition \"Nabis. Prophets of New Art\".\n\nEach meeting will be dedicated to a different color, which we will reference through a selected work from the exhibition. Art will become a starting point for sensory experiences, movement games, and joint exploration of the world with all senses. The colors, shapes, and moods present in the paintings of the Nabis will be translated into simple activities engaging movement, touch, sound, and imagination.\n\nIn an atmosphere of closeness, mindfulness, and free exploration, we will get to know the works in a way adapted to the age and needs of the youngest. Each 30-minute meeting will be based on a sensory story that will support the child's development, strengthen relationships, and build"
+        },
+        "uk": {
+          "title": "Кольоровий бублик | Анімації для дітей віком 1-3 роки та опікунів",
+          "description": "Анімації для найменших будуть сповнені кольорів, руху та експресії. Нашою натхненням для творчих дій стануть обрані картини з виставки \"Набісти. Пророки нової мистецтва\".\n\nКожна зустріч буде присвячена іншому кольору, до якого ми звернемося через обране твір з виставки. Мистецтво стане відправною точкою для сенсорних досвідів, рухливих ігор та спільного відкриття світу всіма відчуттями. Кольори, форми та настрої, присутні в картинах набістів, ми перенесемо на прості активності, що залучають рух, дотик, звук та уяву.\n\nВ атмосфері близькості, уважності та вільної експлорації ми будемо знайомитися з творами у спосіб, адаптований до віку та потреб найменших. Кожну 30-хвилинну зустріч ми побудуємо на сенсорній оповіді, яка підтримає розвиток дитини, зміцнення стосунків та побуд"
+        }
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:26:51.683419+00:00"
+    },
+    "rysujemy-zwierz-ta-spotkania-w-nowej-palmiarni-2026-10-23T10:30:00+02:00": {
+      "title": "Rysujemy zwierzęta - spotkania w Nowej Palmiarni",
+      "date": "2026-10-23T10:30:00+02:00",
+      "end_date": "2026-10-23T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Kto mówi, że rysowanie zwierząt jest trudne?\n\nCzas sprawdzić to w praktyce - w przyrodniczym klimacie Nowej Palmiarni. 🌿✏️\n\nSpotkania dla dzieci od 6 lat i opiekunów, młodzieży oraz dorosłych\n\nWstęp: bezpłatny; obowiązują darmowe wejściówki - POBIERZ WEJŚCIÓWKĘ >> link\n\nTerminy: 2, 9, 16, 23 i 30 października 2026 r., godz. 10.30-12.00, 12.00-13.30, 14.00-15.30 i 15.30-17.00\n\nMiejsce: Nowa Palmiarnia\n\n⏳ 1,5 godz. | 1 godz. rysowania + 0,5 godz. czasu wolnego w strefie edukacyjnej\n\nRysowanie zwierząt bywa wyzwaniem - ich proporcje różnią się od ludzkich, a budowa często wydaje się nieoczywista.\n\nNa zajęciach będziemy wspólnie rysować zwierzęta, przyjrzymy się ich kończynom, pyskom, a także szkieletom. Przejdziemy przez proces tworzenia pracy:\n\n✏️ szkic ołówkiem\n\n🖊️ dopracowanie długopisem\n\n🎨 kolor i cieniowanie kredkami\n\nWarsztaty prowadzi Radosław Pomagalski - z wykształcenia i zamiłowania przyrodnik, absolwent biologii na Uniwersytecie Warszawskim. Od czasów studenckich uczy mądrej miłości do przyrody podczas lekcji muzealnych i warsztatów prowadzonych w Łazienkach Królewskich. Hobbystycznie od ponad 20 lat rysuje zwierzęta na papierze oraz cyfrowo, zarówno w formie wysokiej jakości ilustracji wzorowanych na dawnych atlasach przyrody jak i projektowania gatunków fantastycznych (speculative evolution). Jest też autorem wielu realistycznych materiałów do rysowania dla dzieci przedstawiających zwierzęta żyjące w ogrodach Łazienek Królewskich. Prywatnie opiekun wielu gatunków egzotycznych zwierząt.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1771860021.webp",
+      "location": {
+        "name": "Łazienki Królewskie, Nowa Palmiarnia",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.lazienki-krolewskie.pl/pl/edukacja/rodziny-i-dzieci/dzialania-stacjonarne/dzialania-stacjonarne-rysujemy-zwierzeta",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.lazienki-krolewskie.pl/pl/edukacja/rodziny-i-dzieci/dzialania-stacjonarne/dzialania-stacjonarne-rysujemy-zwierzeta",
+      "scrapped_timestamp": "2026-10-23T11:24:35.815418+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 18
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Rysujemy zwierzęta - spotkania w Nowej Palmiarni",
+          "description": "Kto mówi, że rysowanie zwierząt jest trudne?\n\nCzas sprawdzić to w praktyce - w przyrodniczym klimacie Nowej Palmiarni. 🌿✏️\n\nSpotkania dla dzieci od 6 lat i opiekunów, młodzieży oraz dorosłych\n\nWstęp: bezpłatny; obowiązują darmowe wejściówki - POBIERZ WEJŚCIÓWKĘ >> link\n\nTerminy: 2, 9, 16, 23 i 30 października 2026 r., godz. 10.30-12.00, 12.00-13.30, 14.00-15.30 i 15.30-17.00\n\nMiejsce: Nowa Palmiarnia\n\n⏳ 1,5 godz. | 1 godz. rysowania + 0,5 godz. czasu wolnego w strefie edukacyjnej\n\nRysowanie zwierząt bywa wyzwaniem - ich proporcje różnią się od ludzkich, a budowa często wydaje się nieoczywista.\n\nNa zajęciach będziemy wspólnie rysować zwierzęta, przyjrzymy się ich kończynom, pyskom, a także szkieletom. Przejdziemy przez proces tworzenia pracy:\n\n✏️ szkic ołówkiem\n\n🖊️ dopracowanie długopisem\n\n🎨 kolor i cieniowanie kredkami\n\nWarsztaty prowadzi Radosław Pomagalski - z wykształcenia i zamiłowania przyrodnik, absolwent biologii na Uniwersytecie Warszawskim. Od czasów studenckich uczy mądrej miłości do przyrody podczas lekcji muzealnych i warsztatów prowadzonych w Łazienkach Królewskich. Hobbystycznie od ponad 20 lat rysuje zwierzęta na papierze oraz cyfrowo, zarówno w formie wysokiej jakości ilustracji wzorowanych na dawnych atlasach przyrody jak i projektowania gatunków fantastycznych (speculative evolution). Jest też autorem wielu realistycznych materiałów do rysowania dla dzieci przedstawiających zwierzęta żyjące w ogrodach Łazienek Królewskich. Prywatnie opiekun wielu gatunków egzotycznych zwierząt."
+        },
+        "en": {
+          "title": "Drawing Animals - Meetings at the New Palm House",
+          "description": "Who says that drawing animals is difficult?\n\nIt's time to check this in practice - in the natural atmosphere of the New Palm House. 🌿✏️\n\nMeetings for children from 6 years old and their guardians, youth, and adults\n\nAdmission: free; free tickets are required - DOWNLOAD TICKET >> link\n\nDates: October 2, 9, 16, 23, and 30, 2026, 10:30 AM - 12:00 PM, 12:00 PM - 1:30 PM, 2:00 PM - 3:30 PM, and 3:30 PM - 5:00 PM\n\nLocation: New Palm House\n\n⏳ 1.5 hours | 1 hour of drawing + 0.5 hours of free time in the educational zone\n\nDrawing animals can be a challenge - their proportions differ from humans, and their structure often seems non-obvious.\n\nIn the classes, we will draw animals together, we will take a closer look at their limbs, snouts, and skeletons. We will go through the process of creating a work:\n\n✏️ pencil sketch\n\n🖊️ refinement with a pen"
+        },
+        "uk": {
+          "title": "Малюємо тварин - зустрічі в Новій Пальмярні",
+          "description": "Хто каже, що малювати тварин важко?\n\nЧас перевірити це на практиці - в природному кліматі Нової Пальмярні. 🌿✏️\n\nЗустрічі для дітей від 6 років та опікунів, молоді та дорослих\n\nВхід: безкоштовний; діють безкоштовні квитки - СКАЧАТИ КВИТОК >> посилання\n\nДати: 2, 9, 16, 23 та 30 жовтня 2026 р., год. 10.30-12.00, 12.00-13.30, 14.00-15.30 та 15.30-17.00\n\nМісце: Нова Пальмярня\n\n⏳ 1,5 год. | 1 год. малювання + 0,5 год. вільного часу в освітній зоні\n\nМалювання тварин може бути викликом - їх пропорції відрізняються від людських, а будова часто здається неочевидною.\n\nНа заняттях ми будемо разом малювати тварин, розглянемо їх кінцівки, морди, а також скелети. Пройдемо через процес створення роботи:\n\n✏️ ескіз олівцем\n\n🖊️ доопрацювання ручкою"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:26:51.683440+00:00"
+    },
+    "mama-i-bobas-w-murowance-2026-10-23T10:30:00+02:00": {
+      "title": "Mama i Bobas w Murowance",
+      "date": "2026-10-23T10:30:00+02:00",
+      "end_date": "2026-10-23T10:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Mama i Bobas w Murowance\n\n7.10 i 21.10  godz. 10:30\n\nWCK Murowanka\n\nul. Płowiecka 77 Warszawa\n\nwstęp wolny\n\nMama i Bobas w Murowance to spotkania dla mam z maluszkami w wieku od 0 do 16 miesiąca życia.\n\nTworzymy bezpieczną przestrzeń do rozmowy ze zrozumieniem i wysłuchaniem bez oceny. Będziemy dzielić się swoimi doświadczeniami dotyczącymi macierzyństwa, wyzwaniami i pięknymi chwilami bez presji.\n\nJeśli chcesz przyjść i poznać inne kobiety na tym samym etapie życia – przyjdź do Murowanki. Otrzymasz wsparcie oraz czas\n\ndla siebie pomimo przebywania z bobasem. Być może znajdziesz tu swoją wioskę, bezpieczną przystań, która pozwoli odetchnąć\n\ni rozpuścić wiele ciężkich mentalnych ciężarów, które codziennie nosisz.\n\nNaszym celem jest przeciwdziałanie depresji poporodowej i wypaleniu rodzicielskiemu. Dodatkowo marzymy o tym aby młode mamy zintegrowały się po sąsiedzku i poczuły, że nie są same w tej bardzo pięknej oraz wymagającej drodze macierzyństwa.\n\nP.S. W Murowance czeka na maluszki mata do zabawy, a dla wygody Mam – przewijak.\n\nProwadząca: Dorota Frydecka – kulturoznawczyni , prowadząca kręgi kobiet (szczególnie dla przyszłych i młodych mam),\n\nmama dwóch dziewczynek.\n\nWstęp wolny – do zobaczenia!",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1030.1790263394.webp",
+      "location": {
+        "name": "Murowanka, ul. Płowiecka 77",
+        "district": "Wawer"
+      },
+      "url": "https://www.facebook.com/events/1766827794220503/1766827800887169?event_time_id=1766827800887169",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1766827794220503/1766827800887169?event_time_id=1766827800887169",
+      "scrapped_timestamp": "2026-10-23T11:24:45.647557+00:00",
+      "category": "Family Fun",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Mama i Bobas w Murowance",
+          "description": "Mama i Bobas w Murowance\n\n7.10 i 21.10  godz. 10:30\n\nWCK Murowanka\n\nul. Płowiecka 77 Warszawa\n\nwstęp wolny\n\nMama i Bobas w Murowance to spotkania dla mam z maluszkami w wieku od 0 do 16 miesiąca życia.\n\nTworzymy bezpieczną przestrzeń do rozmowy ze zrozumieniem i wysłuchaniem bez oceny. Będziemy dzielić się swoimi doświadczeniami dotyczącymi macierzyństwa, wyzwaniami i pięknymi chwilami bez presji.\n\nJeśli chcesz przyjść i poznać inne kobiety na tym samym etapie życia – przyjdź do Murowanki. Otrzymasz wsparcie oraz czas\n\ndla siebie pomimo przebywania z bobasem. Być może znajdziesz tu swoją wioskę, bezpieczną przystań, która pozwoli odetchnąć\n\ni rozpuścić wiele ciężkich mentalnych ciężarów, które codziennie nosisz.\n\nNaszym celem jest przeciwdziałanie depresji poporodowej i wypaleniu rodzicielskiemu. Dodatkowo marzymy o tym aby młode mamy zintegrowały się po sąsiedzku i poczuły, że nie są same w tej bardzo pięknej oraz wymagającej drodze macierzyństwa.\n\nP.S. W Murowance czeka na maluszki mata do zabawy, a dla wygody Mam – przewijak.\n\nProwadząca: Dorota Frydecka – kulturoznawczyni , prowadząca kręgi kobiet (szczególnie dla przyszłych i młodych mam),\n\nmama dwóch dziewczynek.\n\nWstęp wolny – do zobaczenia!"
+        },
+        "en": {
+          "title": "Mama and Babies in Murowanka",
+          "description": "Mama i Bobas w Murowance\n\n7.10 i 21.10  godz. 10:30\n\nWCK Murowanka\n\nul. Płowiecka 77 Warszawa\n\nwstęp wolny\n\nMama i Bobas w Murowance to spotkania dla mam z maluszkami w wieku od 0 do 16 miesiąca życia.\n\nTworzymy bezpieczną przestrzeń do rozmowy ze zrozumieniem i wysłuchaniem bez oceny. Będziemy dzielić się swoimi doświadczeniami dotyczącymi macierzyństwa, wyzwaniami i pięknymi chwilami bez presji.\n\nJeśli chcesz przyjść i poznać inne kobiety na tym samym etapie życia – przyjdź do Murowanki. Otrzymasz wsparcie oraz czas\n\ndla siebie pomimo przebywania z bobasem. Być może znajdziesz tu swoją wioskę, bezpieczną przystań, która pozwoli odetchnąć\n\ni rozpuścić wiele ciężkich mentalnych ciężarów, które codziennie nosisz.\n\nNaszym celem jest przeciwdziałanie depresji poporodowej i wypaleniu rodziciel"
+        },
+        "uk": {
+          "title": "Мама і Бобас в Мурованці",
+          "description": "Мама і Бобас в Мурованці\n\n7.10 і 21.10  год. 10:30\n\nWCK Мурованка\n\nул. Пловецька 77 Варшава\n\nвхід вільний\n\nМама і Бобас в Мурованці – це зустрічі для мам з малюками віком від 0 до 16 місяців.\n\nСтворюємо безпечний простір для розмови з розумінням і вислуховуванням без оцінки. Будемо ділитися своїм досвідом щодо материнства, викликами та прекрасними моментами без тиску.\n\nЯкщо хочеш прийти і познайомитися з іншими жінками на тому ж етапі життя – приходь до Мурованки. Отримаєш підтримку та час\n\nдля себе, незважаючи на перебування з бобасом. Можливо, знайдеш тут свою село, безпечну гавань, яка дозволить відпочити\n\nі розпустити багато важких ментальних тягарів, які ти щодня носиш.\n\nНашою метою є протидія післяпологовій депресії та вигоранню батьків."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wawer",
+      "updated_at": "2026-10-23T11:26:51.683457+00:00"
+    },
+    "dzie-grecki-2026-10-24T12:00:00+02:00": {
+      "title": "Dzień grecki",
+      "date": "2026-10-24T12:00:00+02:00",
+      "end_date": "2026-10-24T12:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "🔴 [Informujemy, że wszystkie miejsca na koncert Eleni oraz warsztaty zostały już zarezerwowane].\n\nPrzez cały dzień zapraszamy na spotkania z grecką kulturą i kuchnią: warsztaty tańca, ceramiki, architektury i rękodzieła, degustacje, naukę języka, grecką kawiarnię i wspólną ucztę. Na zakończenie wystąpi Eleni, świętująca 50-lecie pracy artystycznej.\n\nNa wydarzenie zapraszają Burmistrz Rafał Miastowski wraz z Radą i Zarządem Dzielnicy Mokotów.\n\nOrganizator: Służewski Dom Kultury.\n\nPartnerzy: Greek Community in Warsaw - Stowarzyszenie Greków w Warszawie i Tańce greckie, zespół Ilios.\n\nPROGRAM:\n\n🔵 12.00–14.00: Warsztaty tańców greckich (foyer / wstęp wolny)\n\n⚪ 12.00–14.00: Rodzinne warsztaty architektoniczne (studio foto / wstęp wolny / wiek: 4+)\n\n🔵 12.00–13.30: Warsztaty ceramiczne (sala plastyczna / bezpłatne / wiek: 6+ / zapisy: link )\n\n⚪ 12.00–18.00: Kafenion – greckie gry i książki, stoisko z greckimi produktami, poczęstunek herbatą (sala taneczna / wstęp wolny)\n\n🔵 12.00–13.00 i 13.00–14.00: Warsztaty: smakowe oliwy (sala muzyczna / zapisy: link )\n\n⚪ 14.00–14.30: Pokazowa lekcja języka greckiego (sala multimedialna / wstęp wolny)\n\n🔵 14.00–15.00 i 15.00–16.00: Warsztaty kulinarne: horiatiki – sałatka grecka (sala plastyczna / bezpłatne / zapisy: link )\n\n⚪ 14.15–16.00: Kolaż: mitologiczne hybrydy (foyer / wstęp wolny)\n\n🔵 14.15–16.00: Warsztaty architektoniczne (foyer / wstęp wolny / 6+)\n\n⚪ 14.15–16.00: Warsztaty krawieckie (foyer / wstęp wolny)\n\n🔵 16.30–17.30: Wspólna grecka uczta z muzyką na żywo – zagra zespół Muzyka Południa (foyer / wstęp wolny)\n\n⚪ 18.00: koncert Eleni (sala widowiskowa / bezpłatne wejściówki dostępne od 12.10: link )",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1792753804.webp",
+      "location": {
+        "name": "Służewski Dom Kultury, ul. Jana Sebastiana Bacha 15",
+        "district": "Mokotów"
+      },
+      "url": "https://www.facebook.com/events/s/dzien-grecki/1660002912406294/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/s/dzien-grecki/1660002912406294/",
+      "scrapped_timestamp": "2026-10-23T11:25:08.802183+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Workshops",
+        "Arts"
+      ],
+      "age_range": {
+        "min": 4,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dzień grecki",
+          "description": "🔴 [Informujemy, że wszystkie miejsca na koncert Eleni oraz warsztaty zostały już zarezerwowane].\n\nPrzez cały dzień zapraszamy na spotkania z grecką kulturą i kuchnią: warsztaty tańca, ceramiki, architektury i rękodzieła, degustacje, naukę języka, grecką kawiarnię i wspólną ucztę. Na zakończenie wystąpi Eleni, świętująca 50-lecie pracy artystycznej.\n\nNa wydarzenie zapraszają Burmistrz Rafał Miastowski wraz z Radą i Zarządem Dzielnicy Mokotów.\n\nOrganizator: Służewski Dom Kultury.\n\nPartnerzy: Greek Community in Warsaw - Stowarzyszenie Greków w Warszawie i Tańce greckie, zespół Ilios.\n\nPROGRAM:\n\n🔵 12.00–14.00: Warsztaty tańców greckich (foyer / wstęp wolny)\n\n⚪ 12.00–14.00: Rodzinne warsztaty architektoniczne (studio foto / wstęp wolny / wiek: 4+)\n\n🔵 12.00–13.30: Warsztaty ceramiczne (sala plastyczna / bezpłatne / wiek: 6+ / zapisy: link )\n\n⚪ 12.00–18.00: Kafenion – greckie gry i książki, stoisko z greckimi produktami, poczęstunek herbatą (sala taneczna / wstęp wolny)\n\n🔵 12.00–13.00 i 13.00–14.00: Warsztaty: smakowe oliwy (sala muzyczna / zapisy: link )\n\n⚪ 14.00–14.30: Pokazowa lekcja języka greckiego (sala multimedialna / wstęp wolny)\n\n🔵 14.00–15.00 i 15.00–16.00: Warsztaty kulinarne: horiatiki – sałatka grecka (sala plastyczna / bezpłatne / zapisy: link )\n\n⚪ 14.15–16.00: Kolaż: mitologiczne hybrydy (foyer / wstęp wolny)\n\n🔵 14.15–16.00: Warsztaty architektoniczne (foyer / wstęp wolny / 6+)\n\n⚪ 14.15–16.00: Warsztaty krawieckie (foyer / wstęp wolny)\n\n🔵 16.30–17.30: Wspólna grecka uczta z muzyką na żywo – zagra zespół Muzyka Południa (foyer / wstęp wolny)\n\n⚪ 18.00: koncert Eleni (sala widowiskowa / bezpłatne wejściówki dostępne od 12.10: link )"
+        },
+        "en": {
+          "title": "Greek Day",
+          "description": "🔴 [We inform you that all places for the concert of Eleni and workshops have already been reserved].\n\nThroughout the day, we invite you to meetings with Greek culture and cuisine: dance workshops, ceramics, architecture and handicrafts, tastings, language learning, a Greek café, and a communal feast. To conclude, Eleni will perform, celebrating her 50th anniversary of artistic work.\n\nThe event is hosted by Mayor Rafał Miastowski along with the Council and Management of the Mokotów District.\n\nOrganizer: Służewski Dom Kultury.\n\nPartners: Greek Community in Warsaw - Stowarzyszenie Greków w Warszawie and Greek Dances, the Ilios ensemble.\n\nPROGRAM:\n\n🔵 12.00–14.00: Greek dance workshops (foyer / free entry)\n\n⚪ 12.00–14.00: Family architectural workshops (photo studio / free entry / age: 4+)\n\n🔵 12.00–13.30: Ceramics workshops (plaster room / free entry)"
+        },
+        "uk": {
+          "title": "Грецький день",
+          "description": "🔴 [Інформуємо, що всі місця на концерт Елені та майстер-класи вже зарезервовані].\n\nПротягом усього дня запрошуємо на зустрічі з грецькою культурою та кухнею: майстер-класи з танців, кераміки, архітектури та рукоділля, дегустації, вивчення мови, грецька кав'ярня та спільна трапеза. На завершення виступить Елені, святкуючи 50-річчя художньої діяльності.\n\nНа подію запрошують Бургомістр Рафаł Мястовський разом з Радою та Управлінням Району Мокотів.\n\nОрганізатор: Служевський Дім Культури.\n\nПартнери: Грецька громада у Варшаві - Товариство греків у Варшаві та Грецькі танці, ансамбль Іліос.\n\nПРОГРАМА:\n\n🔵 12.00–14.00: Майстер-класи з грецьких танців (фойє / вхід вільний)\n\n⚪ 12.00–14.00: Сімейні архітектурні майстер-класи (фото-студія / вхід вільний / вік: 4+)\n\n🔵 12.00–13.30: Керамічні майстер-класи (зал пла..."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Mokotów",
+      "updated_at": "2026-10-23T11:26:51.683554+00:00"
+    },
+    "zaj-cia-sensoryczne-dla-dzieci-do-3-roku-ycia-2026-10-29T10:00:00+01:00": {
+      "title": "Zajęcia sensoryczne dla dzieci do 3 roku życia",
+      "date": "2026-10-29T10:00:00+01:00",
+      "end_date": "2026-10-29T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na zajęcia sensoryczne przez cały październik we czwartki (10:00).\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nSensosmyki, czwartki 10-12\n\n01.10 – Ciepła jesień (poznajemy kolory ciepłej jesieni)\n\n08.10 – Jesienne drzewo i liście\n\n15.10 – Kasztan, orzech i szyszka, czyli jesienna sensoryka\n\n22.10 – W czasie deszczu dzieci się bawią (kolory zgaszonej jesieni)\n\n29.10 – Pajęcza sieć (kolorystyka ciemnej jesieni)\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć sensorycznych:\n\n- angażujemy swoje ciało, wykorzystując metodę 5 zmysłów: wzrok, dotyk, słuch, węch i smak,\n\n- zabawę sensoplastyczną (jeśli starczy nam sił i czasu),\n\n- praca z pomocami Montessori (w małej salce).",
+      "image": null,
+      "location": {
+        "name": "Świetojerska 12a",
+        "district": "Śródmieście"
+      },
+      "url": "https://www.facebook.com/share/p/1BFYYTgRff/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/share/p/1BFYYTgRff/",
+      "scrapped_timestamp": "2026-10-23T11:25:31.168860+00:00",
+      "category": "Sensory Play",
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Zajęcia sensoryczne dla dzieci do 3 roku życia",
+          "description": "Zapraszamy na zajęcia sensoryczne przez cały październik we czwartki (10:00).\n\nWstęp wolny z obowiązkowymi zapisami telefonicznymi 500 080 498!\n\nIlość miejsc ograniczona!\n\nSensosmyki, czwartki 10-12\n\n01.10 – Ciepła jesień (poznajemy kolory ciepłej jesieni)\n\n08.10 – Jesienne drzewo i liście\n\n15.10 – Kasztan, orzech i szyszka, czyli jesienna sensoryka\n\n22.10 – W czasie deszczu dzieci się bawią (kolory zgaszonej jesieni)\n\n29.10 – Pajęcza sieć (kolorystyka ciemnej jesieni)\n\nZajęcia wraz z opiekunami. Za darmo.\n\nW czasie każdych zajęć sensorycznych:\n\n- angażujemy swoje ciało, wykorzystując metodę 5 zmysłów: wzrok, dotyk, słuch, węch i smak,\n\n- zabawę sensoplastyczną (jeśli starczy nam sił i czasu),\n\n- praca z pomocami Montessori (w małej salce)."
+        },
+        "en": {
+          "title": "Sensory Activities for Children up to 3 Years Old",
+          "description": "We invite you to sensory activities throughout October on Thursdays (10:00).\n\nFree admission with mandatory phone registration at 500 080 498!\n\nLimited spots available!\n\nSensory Thursdays 10-12\n\n01.10 – Warm Autumn (exploring the colors of warm autumn)\n\n08.10 – Autumn Tree and Leaves\n\n15.10 – Chestnut, Nut, and Pine Cone, or Autumn Sensory Fun\n\n22.10 – Playing in the Rain (the colors of muted autumn)\n\n29.10 – Spider Web (the colors of dark autumn)\n\nActivities with caregivers. Free of charge.\n\nDuring each sensory activity:\n\n- we engage our bodies using the 5 senses method: sight, touch, hearing, smell, and taste,\n\n- sensory play (if we have enough energy and time),\n\n- working with Montessori materials (in a small room)."
+        },
+        "uk": {
+          "title": "Сенсорні заняття для дітей до 3 року життя",
+          "description": "Запрошуємо на сенсорні заняття протягом усього жовтня по четвергах (10:00).\n\nВхід вільний з обов'язковими записами телефонними 500 080 498!\n\nКількість місць обмежена!\n\nСенсосмики, четверги 10-12\n\n01.10 – Тепла осінь (пізнаємо кольори теплої осені)\n\n08.10 – Осіннє дерево і листя\n\n15.10 – Каштан, горіх і шишка, тобто осіння сенсорика\n\n22.10 – У час дощу діти граються (кольори згаслої осені)\n\n29.10 – Павуча мережа (колористика темної осені)\n\nЗаняття разом з опікунами. Безкоштовно.\n\nУ час кожних сенсорних занять:\n\n- залучаємо своє тіло, використовуючи метод 5 почуттів: зір, дотик, слух, нюх і смак,\n\n- гру сенсопластичну (якщо вистачить нам сил і часу),\n\n- робота з допоміжними матеріалами Монтессорі (в маленькій кімнаті)."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:26:51.683625+00:00"
+    },
+    "przyjaciel-weso-ego-diab-a-spektakl-muzyczny-dla-widz-w-w-wieku-6-10-lat-2026-11-07T12:00:00+01:00": {
+      "title": "„Przyjaciel Wesołego Diabła”. Spektakl muzyczny dla widzów w wieku 6–10 lat",
+      "date": "2026-11-07T12:00:00+01:00",
+      "end_date": "2026-11-07T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "7 listopada 2026 (sobota), godz. 12:00\n\nbilety: 15 zł dostępne w biletomacie w CPK oraz online >> link\n\nSpektakl muzyczny grupy poZAGRANIcami dla widzów w wieku 6–10 lat na motywach powieści Kornela Makuszyńskiego. Janka wyrusza do Krainy Ciemności po kryształ, który przywróci wzrok jej matce. Towarzyszy jej kudłaty, hałaśliwy, ale wierny diabeł Piszczałka. To opowieść o dobru, przyjaźni i lojalności zaprezentowana w atrakcyjny i pełen humoru sposób, w pięć osób, z akordeonem, klarnetem i ksafonem na scenie.",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1792701186.webp",
+      "location": {
+        "name": "Centrum Promocji Kultury, ul. Podskarbińska 2",
+        "district": "Praga-Południe"
+      },
+      "url": "https://cpk.art.pl/imprezy/przyjaciel-wesolego-diabla-spektakl-muzyczny-dla-widzow-w-wieku-6-10-lat/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://cpk.art.pl/imprezy/przyjaciel-wesolego-diabla-spektakl-muzyczny-dla-widzow-w-wieku-6-10-lat/",
+      "scrapped_timestamp": "2026-10-23T11:25:56.462657+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 10
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "„Przyjaciel Wesołego Diabła”. Spektakl muzyczny dla widzów w wieku 6–10 lat",
+          "description": "7 listopada 2026 (sobota), godz. 12:00\n\nbilety: 15 zł dostępne w biletomacie w CPK oraz online >> link\n\nSpektakl muzyczny grupy poZAGRANIcami dla widzów w wieku 6–10 lat na motywach powieści Kornela Makuszyńskiego. Janka wyrusza do Krainy Ciemności po kryształ, który przywróci wzrok jej matce. Towarzyszy jej kudłaty, hałaśliwy, ale wierny diabeł Piszczałka. To opowieść o dobru, przyjaźni i lojalności zaprezentowana w atrakcyjny i pełen humoru sposób, w pięć osób, z akordeonem, klarnetem i ksafonem na scenie."
+        },
+        "en": {
+          "title": "\"The Friend of the Merry Devil\". A musical performance for audiences aged 6–10",
+          "description": "November 7, 2026 (Saturday), 12:00 PM\n\nTickets: 15 PLN available at the ticket machine in CPK and online >> link\n\nA musical performance by the group poZAGRANIcami for audiences aged 6–10 based on the novel by Kornel Makuszyński. Janka sets off to the Land of Darkness to find a crystal that will restore her mother's sight. She is accompanied by a shaggy, noisy, but loyal devil named Piszczałka. It is a story about good, friendship, and loyalty presented in an attractive and humorous way, performed by five people, with an accordion, clarinet, and saxophone on stage."
+        },
+        "uk": {
+          "title": "„Друг Веселого Диявола”. Музичний спектакль для глядачів віком 6–10 років",
+          "description": "7 листопада 2026 (субота), год. 12:00\n\nбілети: 15 зл доступні в білетоматі в CPK та онлайн >> посилання\n\nМузичний спектакль групи poZAGRANIcami для глядачів віком 6–10 років на мотивах роману Корнела Макушинського. Янка вирушає до Країни Темряви за кристалом, який відновить зір її матері. Супроводжує її кучерявий, галасливий, але вірний диявол Піщалка. Це оповідь про добро, дружбу та лояльність, представлене в привабливий і наповнений гумором спосіб, у п’ятьох осіб, з акордеоном, кларнетом і ксилофоном на сцені."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Południe",
+      "updated_at": "2026-10-23T11:26:51.683698+00:00"
+    },
+    "rodzinna-niedziela-wiat-giga-klock-w-2026-11-15T12:00:00+01:00": {
+      "title": "RODZINNA NIEDZIELA | ŚWIAT GIGA KLOCKÓW",
+      "date": "2026-11-15T12:00:00+01:00",
+      "end_date": "2026-11-15T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "💚 15 listopada - Rodzinna Niedziela w Hulakula 💚\n\nKto jest gotowy na niedzielę pełną kreatywnej zabawy, tanecznych rytmów i motoryzacyjnych emocji? 🤩 Już 15 listopada zapraszamy Was do Hulakula na kolejną odsłonę Rodzinnej Niedzieli! Tym razem przeniesiemy się do świata wielkich konstrukcji, nieograniczonej wyobraźni i fantastycznej zabawy! 🧱💃🏍️\n\nSprawdźcie, co będzie się działo! 👇\n\n🕐 12:00 - Just Dance 💃🕺\n\nRozgrzewamy parkiet i ruszamy w rytm największych hitów! 🎶 Czekają na Was taneczne wyzwania, mnóstwo śmiechu i świetna zabawa dla małych i dużych. Pokażcie, co potraficie! 😎\n\n🕑 13:00 - Klockomania - Świat GIGA KLOCKÓW 🧱🚀\n\nCzas puścić wodze fantazji! Zapraszamy do świata wielkich klocków, w którym jedynym ograniczeniem jest wyobraźnia. Budowanie niezwykłych konstrukcji, kreatywne pomysły i wspólna zabawa sprawią, że mali konstruktorzy będą mogli poczuć się jak prawdziwi architekci! 🏰✨\n\n🕒 15:00 - Elektryczne motocykle dla dzieci 🏍️⚡\n\nNa zakończenie dnia dawka motoryzacyjnych emocji! Na najmłodszych miłośników dwóch kółek czeka ekscytująca jazda na elektrycznych motocyklach. 🔥\n\nAby skorzystać z przejażdżki, dziecko powinno spełniać następujące warunki:\n\n✔️ wiek: 6-14 lat,\n\n✔️ wzrost: 100-160 cm,\n\n✔️ waga: do 65 kg,\n\n✔️ umiejętność samodzielnej jazdy na rowerze.\n\n💚 Rodzinna Niedziela to idealny pretekst, by spędzić czas razem! Niezależnie od tego, czy lubicie tańczyć, budować niezwykłe konstrukcje, czy przeżywać sportowe emocje - w Hulakula każdy znajdzie coś dla siebie! 🥳\n\n📍 HULAKULA, ul. Jagiellońska 82b, Warszawa\n\n📅 15 listopada 2026\n\n🎟️ Wstęp na wydarzenie bezpłatny!\n\nZabierzcie rodzinę, uruchomcie wyobraźnię i spędźcie z nami niedzielę pełną dobrej energii! 💚 Do zobaczenia w Hulakula!\n\n[Wstęp na salę zabaw zgodnie z cennikiem.]",
+      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1792669184.webp",
+      "location": {
+        "name": "Hulakula Rozrywkowe Centrum Miasta, Jagiellońska 82B",
+        "district": "Praga-Północ"
+      },
+      "url": "https://www.facebook.com/events/1814573779698725/",
+      "source": "waw4free.pl",
+      "real_source": "https://waw4free.pl/",
+      "scrapped_url": "https://www.facebook.com/events/1814573779698725/",
+      "scrapped_timestamp": "2026-10-23T11:26:02.894627+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Games",
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 14
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "RODZINNA NIEDZIELA | ŚWIAT GIGA KLOCKÓW",
+          "description": "💚 15 listopada - Rodzinna Niedziela w Hulakula 💚\n\nKto jest gotowy na niedzielę pełną kreatywnej zabawy, tanecznych rytmów i motoryzacyjnych emocji? 🤩 Już 15 listopada zapraszamy Was do Hulakula na kolejną odsłonę Rodzinnej Niedzieli! Tym razem przeniesiemy się do świata wielkich konstrukcji, nieograniczonej wyobraźni i fantastycznej zabawy! 🧱💃🏍️\n\nSprawdźcie, co będzie się działo! 👇\n\n🕐 12:00 - Just Dance 💃🕺\n\nRozgrzewamy parkiet i ruszamy w rytm największych hitów! 🎶 Czekają na Was taneczne wyzwania, mnóstwo śmiechu i świetna zabawa dla małych i dużych. Pokażcie, co potraficie! 😎\n\n🕑 13:00 - Klockomania - Świat GIGA KLOCKÓW 🧱🚀\n\nCzas puścić wodze fantazji! Zapraszamy do świata wielkich klocków, w którym jedynym ograniczeniem jest wyobraźnia. Budowanie niezwykłych konstrukcji, kreatywne pomysły i wspólna zabawa sprawią, że mali konstruktorzy będą mogli poczuć się jak prawdziwi architekci! 🏰✨\n\n🕒 15:00 - Elektryczne motocykle dla dzieci 🏍️⚡\n\nNa zakończenie dnia dawka motoryzacyjnych emocji! Na najmłodszych miłośników dwóch kółek czeka ekscytująca jazda na elektrycznych motocyklach. 🔥\n\nAby skorzystać z przejażdżki, dziecko powinno spełniać następujące warunki:\n\n✔️ wiek: 6-14 lat,\n\n✔️ wzrost: 100-160 cm,\n\n✔️ waga: do 65 kg,\n\n✔️ umiejętność samodzielnej jazdy na rowerze.\n\n💚 Rodzinna Niedziela to idealny pretekst, by spędzić czas razem! Niezależnie od tego, czy lubicie tańczyć, budować niezwykłe konstrukcje, czy przeżywać sportowe emocje - w Hulakula każdy znajdzie coś dla siebie! 🥳\n\n📍 HULAKULA, ul. Jagiellońska 82b, Warszawa\n\n📅 15 listopada 2026\n\n🎟️ Wstęp na wydarzenie bezpłatny!\n\nZabierzcie rodzinę, uruchomcie wyobraźnię i spędźcie z nami niedzielę pełną dobrej energii! 💚 Do zobaczenia w Hulakula!\n\n[Wstęp na salę zabaw zgodnie z cennikiem.]"
+        },
+        "en": {
+          "title": "FAMILY SUNDAY | WORLD OF GIGA BLOCKS",
+          "description": "💚 November 15 - Family Sunday at Hulakula 💚\n\nWho is ready for a Sunday full of creative fun, dance rhythms, and automotive emotions? 🤩 On November 15, we invite you to Hulakula for another edition of Family Sunday! This time we will move to the world of great constructions, unlimited imagination, and fantastic fun! 🧱💃🏍️\n\nCheck out what will be happening! 👇\n\n🕐 12:00 - Just Dance 💃🕺\n\nWe warm up the dance floor and move to the rhythm of the biggest hits! 🎶 Dance challenges await you, lots of laughter, and great fun for both young and old. Show us what you can do! 😎\n\n🕑 13:00 - Blockomania - World of GIGA BLOCKS 🧱🚀\n\nIt's time to unleash your imagination! We invite you to the world of big blocks, where the only limit is your imagination. Building extraordinary constructions, creative ideas"
+        },
+        "uk": {
+          "title": "СІМЕЙНЕ НЕДІЛЯ | СВІТ ГІГА КУБИКІВ",
+          "description": "💚 15 листопада - Сімейне неділю в Hulakula 💚\n\nХто готовий до неділі, наповненої креативними розвагами, танцювальними ритмами та автомобільними емоціями? 🤩 Вже 15 листопада запрошуємо вас до Hulakula на чергову частину Сімейного неділі! Цього разу ми перенесемося до світу великих конструкцій, безмежної уяви та фантастичних розваг! 🧱💃🏍️\n\nПеревірте, що буде відбуватися! 👇\n\n🕐 12:00 - Just Dance 💃🕺\n\nРозігріваємо паркет і вирушаємо в ритмі найбільших хітів! 🎶 Чекають на вас танцювальні виклики, безліч сміху та чудова розвага для малих і великих. Покажіть, на що ви здатні! 😎\n\n🕑 13:00 - Кубкоманія - Світ ГІГА КУБИКІВ 🧱🚀\n\nЧас пустити вільні фантазії! Запрошуємо до світу великих кубиків, де єдиним обмеженням є уява. Будівництво незвичайних конструкцій, креативні ідеї"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Praga-Północ",
+      "updated_at": "2026-10-23T11:26:51.683717+00:00"
+    },
+    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-10-23T10:00:00+02:00": {
+      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
+      "date": "2026-10-23T10:00:00+02:00",
+      "end_date": "2026-10-23T10:00:00+02:00",
+      "startTimeKnown": true,
+      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
+      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
+      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
+      "source": "gojammin.com",
+      "district": "Śródmieście",
+      "location": {
+        "name": "Agrykola 1, 00-460 Warszawa, Poland",
+        "district": "Śródmieście"
+      },
+      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
+      "scrapped_timestamp": "2026-10-23T11:26:10.988544+00:00",
+      "category": "Arts",
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
+          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
+        },
+        "en": {
+          "title": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"",
+          "description": "Guided Tours of the Exhibition \"Nabis. Prophets of New Art\"\n\nWe invite you to guided tours of the exhibition dedicated to the Nabis, who influenced the development of modern art. We will see world masterpieces, including paintings by such masters as Maurice Denis, Paul Ranson, and Paul Sérusier. The curators of the exhibition and museum educators will tell us about them.\n\nThe exhibition \"Nabis. Prophets of New Art\" showcases, among other things, the beginnings of the artistic movement and the influence of Paul Gauguin and the so-called School of Pont-Aven. It also includes works of a religious and esoteric nature, views of interiors, and genre scenes, as well as the activities of the magazine \"La Revue Blanche\" run by the Natanson brothers - Tadeusz and Aleksander. In total, we will see over 90 works in the fields of painting, drawing, and graphics. The works come from Polish and foreign collections."
+        },
+        "uk": {
+          "title": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"",
+          "description": "Екскурсії по виставці \"Набісти. Пророки нової мистецтва\"\n\nЗапрошуємо на екскурсії по виставці, присвяченій набістам, які вплинули на розвиток сучасного мистецтва. Зможемо побачити світові твори, а це, зокрема, картини таких майстрів, як Моріс Дені, Поль Рансон та Поль Серюзьє. Про них розкажуть куратори експозиції та музейні освітяни.\n\nВиставка \"Набісти. Пророки нової мистецтва\" демонструє, зокрема, початки художнього руху та вплив Пола Гогена і так званої Школи Пон-Авен. Охоплює також твори релігійного та езотеричного характеру, види інтер'єрів і жанрові сцени, а також діяльність, яку проводили брати Натансон - Тадеуш і Олександр - журналу \"La Revue Blanche\". Усього ми побачимо понад 90 робіт у галузі живопису, малюнка та графіки. Роботи походять з польських та закордонних..."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
+      },
+      "updated_at": "2026-10-23T11:26:51.683738+00:00"
+    },
+    "koncert-chopinowski-w-pa-acu-dziekana-2026-10-23T18:30:00+02:00": {
+      "title": "Koncert chopinowski w Pałacu Dziekana",
+      "date": "2026-10-23T18:30:00+02:00",
+      "end_date": "2026-10-23T18:30:00+02:00",
+      "startTimeKnown": true,
+      "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/b4542f13-48cc-420b-98bb-58081f9e9613/9d2104ea-2d3f-4424-a260-28f7dd2f4bac.jpg",
+      "location": {
+        "name": "Muzeum Archidiecezji Warszawskiej, Ulica Dziekania 1, 00-279 Warszawa",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-b4542f13-48cc-420b-98bb-58081f9e9613",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-b4542f13-48cc-420b-98bb-58081f9e9613",
+      "scrapped_timestamp": "2026-10-23T11:26:29.014985+00:00",
+      "category": "Music & Dance",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Koncert chopinowski w Pałacu Dziekana",
+          "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy."
+        },
+        "en": {
+          "title": "Chopin Concert at the Dean's Palace",
+          "description": "We cordially invite you to listen to Chopin concerts at 18:30 in the Dean's Palace in the Old Town of Warsaw. The most beautiful works of Fryderyk Chopin are performed by professional pianists, artists performing in many countries around the world.\nRecitals take place in the historic, beautiful, and exclusively finished 16th-century Dean's Palace (now the Museum of the Archdiocese of Warsaw, ul. Dziekania 1, right next to the Archcathedral). You listen to music in close proximity to a collection of paintings by renowned artists.\nOur concert hall has phenomenal acoustics! The reception of music in this hall is essentially perfect, at the highest world level. We listen to the piano surrounded by pure and rich sound, we are enveloped by music in ideal proportions, not too little, not too much, we are as if in the middle of the performance."
+        },
+        "uk": {
+          "title": "Концерт шопенівський у Палаці Декана",
+          "description": "Щиро запрошуємо Вас послухати шопенівські концерти о 18:30 у Палаці Декана на Старому Місті у Варшаві. Найкрасивіші твори Фридерика Шопена виконують професійні піаністи, артисти, які виступають у багатьох країнах світу.\nРецитали відбуваються в історичному, красивому та ексклюзивно оформленому XVI столітті Палаці Декана (сьогодні Музей Архієпархії Варшавської, вул. Декана 1, поруч з Архікатедрою). Ви слухаєте музику в близькості колекції картин відомих художників.\nНаша концертна зала має феноменальну акустику! Сприйняття музики в цій залі є фактично ідеальним, на найвищому світовому рівні. Ми слухаємо фортепіано, оточені чистим і багатим звуком, ми оточені музикою в ідеальних пропорціях, не занадто мало, не занадто багато, ми ніби в середині виконуваного у"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/210605/warszawa/koncert-chopinowski-stare-miasto?utm_source=pp&utm_medium=604"
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:26:51.683782+00:00"
+    },
+    "kajko-i-kokosz-szko-a-latania-musical-2026-11-22T11:00:00+01:00": {
+      "title": "Kajko i Kokosz. Szkoła latania – musical",
+      "date": "2026-11-22T11:00:00+01:00",
+      "end_date": "2026-11-22T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na musical Kajko i Kokosz. Szkoła latania do Teatru Syrena w Warszawie! To musicalowa adaptacja komiksu Janusza Christy w reżyserii Jakuba Szydłowskiego i z muzyką Jakuba Lubowicza. Kajko i Kokosz. Szkoła latania bilety już w sprzedaży.\nO spektaklu Kajko i Kokosz. Szkoła latania\nJanusz Christa przygody dwóch słowiańskich wojów – Kajka i Kokosza – rysował od 1972 r. Na początku w odcinkach, w „Wieczorze Wybrzeża”, a później w „Świecie Młodych”. To tam w 1975 r. zadebiutowała „Szkoła latania”. Jest to pierwszy komiks z serii, który został wydany w formie osobnego albumu oraz pierwszy komiks w Polsce, który trafił do kanonu lektur (w 2016 r. jako lektura dla IV klasy szkoły podstawowej). Teraz przyszedł czas na inscenizację w Teatrze Syrena w Warszawie.\nJak wygląda proces zamiany komiksu w musical? - Z kompozytorem Jakubem Lubowiczem współpracujemy od lat. Zanim postanie muzyka, omawiamy kierunek, który chcemy obrać. Dzięki temu piosenki stają się uzupełnieniem i wzbogaceniem historii, a nie tylko dodatkami – mówi reżyser Jakub Szydłowski. – „Kajko i Kokosz” to wspaniała intryga i skrzący się dowcip. W inscenizacji trzeba przekazać najważniejsze cechy każdej postaci, zależności między bohaterami i wierność zdarzeń. Muszą wybrzmieć kultowe teksty. Istotne będzie odwzorowanie kostiumów. Kiedy widz znający oryginał zorientuje się, że nie zmieniamy na siłę pierwowzoru, będzie mógł czerpać przyjemność z tego, w jaki sposób podobna, a w jaki nowatorska będzie musicalowa inscenizacja. Przemycimy też kilka zabawnych odniesień do obecnych czasów. Jednak istotą musi być zachowanie ducha pierwowzoru!\nTwórcy i obsada spektaklu Kajko i Kokosz. Szkoła latania\nScenariusz: Marcin Pieszczyk i Marcin Zawada\nTeksty piosenek i reżyseria: Jakub Szydłowski\nMuzyka i przygotowanie wokalne: Jakub Lubowicz\nKostiumy: Anna Chadaj\nSenografia: Grzegorz Policiński\nChoreografia: Paulina Andrzejewska-Damięcka\nŚwiatła: Artur Wytrykus\nProjekcje: Robert Burzyński\nCharakteryzacja: Aleksandra Tomaszewicz\nDźwięk: Jakub Niedźwiedź\nInspicjentka: Marta Skoczek\nSuflerka: Katarzyna Kulik\nKierownictwo produkcji: Grzegorz Rychlik\nProdukcja: Aleksandra Ślązak\nAsystentka reżysera: Beatrycze Łukaszewska\nEfekty kaskaderskie: AS-RIG Andrzej Słomiński\nObsada:\nMarek Grabiniok\nPiotr Siejka\nMarcin Wortmann\nMagdalena Placek-Boryń/\nJolanta Litwin-Sarzyńska/\nBeata Olga Kowalska\nBeatrycze Łukaszewska\nKamil Zięba\nMichał Konarski\nPrzemysław Glapiński\nJacek Pluta\nAlbert Osik\nAgnieszka Rose\nMarta Walesiak-Łabęcka\n Wydarzenie rekomendowane dla dzieci od 8 lat.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/cf07d368-a649-470a-b49c-2a79ab277234/600ecf28-0b3d-41dc-86d5-03c0bb69a8b5.jpg",
+      "location": {
+        "name": "Teatr Syrena",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/kajko-i-kokosz-szkola-latania-musical-cf07d368-a649-470a-b49c-2a79ab277234",
+      "source": "simplygo.pl",
+      "age_hint": "6-12",
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/kajko-i-kokosz-szkola-latania-musical-cf07d368-a649-470a-b49c-2a79ab277234",
+      "scrapped_timestamp": "2026-10-23T11:26:41.901965+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kajko i Kokosz. Szkoła latania – musical",
+          "description": "Zapraszamy na musical Kajko i Kokosz. Szkoła latania do Teatru Syrena w Warszawie! To musicalowa adaptacja komiksu Janusza Christy w reżyserii Jakuba Szydłowskiego i z muzyką Jakuba Lubowicza. Kajko i Kokosz. Szkoła latania bilety już w sprzedaży.\nO spektaklu Kajko i Kokosz. Szkoła latania\nJanusz Christa przygody dwóch słowiańskich wojów – Kajka i Kokosza – rysował od 1972 r. Na początku w odcinkach, w „Wieczorze Wybrzeża”, a później w „Świecie Młodych”. To tam w 1975 r. zadebiutowała „Szkoła latania”. Jest to pierwszy komiks z serii, który został wydany w formie osobnego albumu oraz pierwszy komiks w Polsce, który trafił do kanonu lektur (w 2016 r. jako lektura dla IV klasy szkoły podstawowej). Teraz przyszedł czas na inscenizację w Teatrze Syrena w Warszawie.\nJak wygląda proces zamiany komiksu w musical? - Z kompozytorem Jakubem Lubowiczem współpracujemy od lat. Zanim postanie muzyka, omawiamy kierunek, który chcemy obrać. Dzięki temu piosenki stają się uzupełnieniem i wzbogaceniem historii, a nie tylko dodatkami – mówi reżyser Jakub Szydłowski. – „Kajko i Kokosz” to wspaniała intryga i skrzący się dowcip. W inscenizacji trzeba przekazać najważniejsze cechy każdej postaci, zależności między bohaterami i wierność zdarzeń. Muszą wybrzmieć kultowe teksty. Istotne będzie odwzorowanie kostiumów. Kiedy widz znający oryginał zorientuje się, że nie zmieniamy na siłę pierwowzoru, będzie mógł czerpać przyjemność z tego, w jaki sposób podobna, a w jaki nowatorska będzie musicalowa inscenizacja. Przemycimy też kilka zabawnych odniesień do obecnych czasów. Jednak istotą musi być zachowanie ducha pierwowzoru!\nTwórcy i obsada spektaklu Kajko i Kokosz. Szkoła latania\nScenariusz: Marcin Pieszczyk i Marcin Zawada\nTeksty piosenek i reżyseria: Jakub Szydłowski\nMuzyka i przygotowanie wokalne: Jakub Lubowicz\nKostiumy: Anna Chadaj\nSenografia: Grzegorz Policiński\nChoreografia: Paulina Andrzejewska-Damięcka\nŚwiatła: Artur Wytrykus\nProjekcje: Robert Burzyński\nCharakteryzacja: Aleksandra Tomaszewicz\nDźwięk: Jakub Niedźwiedź\nInspicjentka: Marta Skoczek\nSuflerka: Katarzyna Kulik\nKierownictwo produkcji: Grzegorz Rychlik\nProdukcja: Aleksandra Ślązak\nAsystentka reżysera: Beatrycze Łukaszewska\nEfekty kaskaderskie: AS-RIG Andrzej Słomiński\nObsada:\nMarek Grabiniok\nPiotr Siejka\nMarcin Wortmann\nMagdalena Placek-Boryń/\nJolanta Litwin-Sarzyńska/\nBeata Olga Kowalska\nBeatrycze Łukaszewska\nKamil Zięba\nMichał Konarski\nPrzemysław Glapiński\nJacek Pluta\nAlbert Osik\nAgnieszka Rose\nMarta Walesiak-Łabęcka\n Wydarzenie rekomendowane dla dzieci od 8 lat."
+        },
+        "en": {
+          "title": "Kajko and Kokosz. School of Flying – musical",
+          "description": "We invite you to the musical Kajko and Kokosz. School of Flying at the Syrena Theatre in Warsaw! This is a musical adaptation of the comic by Janusz Christa, directed by Jakub Szydłowski and with music by Jakub Lubowicz. Tickets for Kajko and Kokosz. School of Flying are already on sale.\nAbout the performance Kajko and Kokosz. School of Flying\nJanusz Christa illustrated the adventures of two Slavic warriors – Kajko and Kokosz – since 1972. Initially in episodes, in \"Wieczór Wybrzeża\", and later in \"Świecie Młodych\". It was there that \"School of Flying\" debuted in 1975. This is the first comic from the series that was published as a separate album and the first comic in Poland that made it to the canon of readings (in 2016 as reading for the IV grade of primary school). Now it's time for the staging at the Syrena Theatre in Warsaw.\nWhat does the process of transforming k"
+        },
+        "uk": {
+          "title": "Кайко і Кокош. Школа літання – мюзикл",
+          "description": "Запрошуємо на мюзикл Кайко і Кокош. Школа літання до Театру Сірена у Варшаві! Це мюзиклова адаптація коміксу Януша Христі у режисурі Якуба Шидловського та з музикою Якуба Любовича. Кайко і Кокош. Школа літання квитки вже у продажу.\nО спектаклі Кайко і Кокош. Школа літання\nЯнуш Христя пригоди двох слов'янських воїнів – Кайка і Кокоша – малював з 1972 р. Спочатку в епізодах, у «Вечорі Узбережжя», а пізніше в «Світ Молодих». Саме там у 1975 р. дебютувала «Школа літання». Це перший комікс з серії, який був виданий у формі окремого альбому та перший комікс в Польщі, який потрапив до канону читань (у 2016 р. як читання для IV класу початкової школи). Тепер настав час для інсценізації в Театрі Сірена у Варшаві.\nЯк виглядає процес заміни к"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.ebilet.pl/rodzina/spektakle-dla-dzieci/kajko-i-kokosz?partner=tradedoubler"
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-10-23T11:26:51.683825+00:00"
     }
   }
 }

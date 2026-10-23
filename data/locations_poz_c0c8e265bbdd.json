@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:37:25.645022+00:00",
+  "updated_at": "2026-10-23T11:43:05.231778+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1755,6 +1755,15 @@
       "lat": 52.4023124,
       "lng": 16.907828,
       "updated_at": "2026-10-20T11:35:47.781412+00:00"
+    },
+    "polski w poznaniu": {
+      "name": "Polski Teatr Tańca, 8, Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-818, Polska",
+      "district": "Stare Miasto",
+      "address": "Polski Teatr Tańca, 8, Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-818, Polska",
+      "normalized": "polski w poznaniu",
+      "lat": 52.4053595,
+      "lng": 16.9222605,
+      "updated_at": "2026-10-23T11:42:20.819652+00:00"
     }
   }
 }

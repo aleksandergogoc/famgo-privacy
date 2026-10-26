@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:43:11.276639+00:00",
+  "updated_at": "2026-10-26T13:11:51.843801+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5188,6 +5188,24 @@
       "lat": 50.064,
       "lng": 19.937,
       "updated_at": "2026-10-23T11:22:31.636378+00:00"
+    },
+    "park przy forcie w bronowicach": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "park przy forcie w bronowicach",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-10-26T12:26:36.644812+00:00"
+    },
+    "filia nr 47": {
+      "name": "Biblioteka Kraków Filia 47, 1, Osiedle Dywizjonu 303, Czyżyny, Kraków, województwo małopolskie, 31-871, Polska",
+      "district": "Czyżyny",
+      "address": "Biblioteka Kraków Filia 47, 1, Osiedle Dywizjonu 303, Czyżyny, Kraków, województwo małopolskie, 31-871, Polska",
+      "normalized": "filia nr 47",
+      "lat": 50.0817996,
+      "lng": 20.0048094,
+      "updated_at": "2026-10-26T12:45:44.617447+00:00"
     }
   }
 }

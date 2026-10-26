@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T11:43:09.320062+00:00",
+  "updated_at": "2026-10-26T13:11:49.748684+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9438,6 +9438,33 @@
       "lat": 52.2164477,
       "lng": 21.0220793,
       "updated_at": "2026-10-23T11:24:15.464213+00:00"
+    },
+    "plac zamkowy. pod kolumną zygmunta": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "plac zamkowy. pod kolumną zygmunta",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-10-26T12:47:29.516716+00:00"
+    },
+    "ul. ostrobramska 75c": {
+      "name": "ul. Ostrobramska 75C",
+      "district": "Praga-Południe",
+      "address": "ul. Ostrobramska 75C",
+      "normalized": "ul. ostrobramska 75c",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-26T12:53:07.069805+00:00"
+    },
+    "ośrodek sportu i rekreacji dzielnicy śródmieście m.st. warszawy": {
+      "name": "Ośrodek Sportu i Rekreacji Dzielnicy Śródmieście m.st. Warszawy, ul. Polna 7A",
+      "district": "Śródmieście",
+      "address": "Ośrodek Sportu i Rekreacji Dzielnicy Śródmieście m.st. Warszawy, ul. Polna 7A",
+      "normalized": "ośrodek sportu i rekreacji dzielnicy śródmieście m.st. warszawy",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-26T12:53:07.070455+00:00"
     }
   }
 }

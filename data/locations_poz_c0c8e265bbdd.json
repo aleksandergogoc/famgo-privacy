@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T11:01:29.449222+00:00",
+  "updated_at": "2026-10-26T13:11:44.108275+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1773,6 +1773,15 @@
       "lat": 52.4315995,
       "lng": 16.9268881,
       "updated_at": "2026-10-24T10:59:12.261777+00:00"
+    },
+    "kino rialto": {
+      "name": "Parkuj i Idź Jana Pawła II (O.M.Żelazka), Ojca Mariana Żelazka, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-553, Polska",
+      "district": "Stare Miasto",
+      "address": "Parkuj i Idź Jana Pawła II (O.M.Żelazka), Ojca Mariana Żelazka, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-553, Polska",
+      "normalized": "kino rialto",
+      "lat": 52.3915841,
+      "lng": 16.927294,
+      "updated_at": "2026-10-26T13:09:12.064903+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:11:51.843801+00:00",
+  "updated_at": "2026-10-27T12:22:00.720630+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5206,6 +5206,42 @@
       "lat": 50.0817996,
       "lng": 20.0048094,
       "updated_at": "2026-10-26T12:45:44.617447+00:00"
+    },
+    "gmach główny muzeum lotnictwa polskiego": {
+      "name": "Gmach Główny Muzeum Lotnictwa Polskiego, Kraków",
+      "district": "Czyżyny",
+      "address": "Gmach Główny Muzeum Lotnictwa Polskiego, Kraków",
+      "normalized": "gmach główny muzeum lotnictwa polskiego",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-27T11:44:23.410725+00:00"
+    },
+    "pracownia młodych centrum c9": {
+      "name": "Osiedle Centrum E, Nowa Huta, Kraków, województwo małopolskie, 31-934, Polska",
+      "district": "Nowa Huta",
+      "address": "Osiedle Centrum E, Nowa Huta, Kraków, województwo małopolskie, 31-934, Polska",
+      "normalized": "pracownia młodych centrum c9",
+      "lat": 50.069193,
+      "lng": 20.0404,
+      "updated_at": "2026-10-27T11:49:49.907316+00:00"
+    },
+    "kopernika 19": {
+      "name": "19, Mikołaja Kopernika, Wesoła, Grzegórzki, Kraków, województwo małopolskie, 31-501, Polska",
+      "district": "Grzegórzki",
+      "address": "19, Mikołaja Kopernika, Wesoła, Grzegórzki, Kraków, województwo małopolskie, 31-501, Polska",
+      "normalized": "kopernika 19",
+      "lat": 50.062729,
+      "lng": 19.9519379,
+      "updated_at": "2026-10-27T11:50:06.409117+00:00"
+    },
+    "aleja jana pawła ii 232 31-913 kraków": {
+      "name": "232, Aleja Jana Pawła II, Nowa Huta, Kraków, województwo małopolskie, 31-982, Polska",
+      "district": "Nowa Huta",
+      "address": "232, Aleja Jana Pawła II, Nowa Huta, Kraków, województwo małopolskie, 31-982, Polska",
+      "normalized": "aleja jana pawła ii 232 31-913 kraków",
+      "lat": 50.0707937,
+      "lng": 20.0348285,
+      "updated_at": "2026-10-27T12:00:03.234193+00:00"
     }
   }
 }

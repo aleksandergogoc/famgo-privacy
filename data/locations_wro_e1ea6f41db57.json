@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:11:48.027147+00:00",
+  "updated_at": "2026-10-27T12:21:58.840765+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2734,6 +2734,60 @@
       "lat": 51.0646349,
       "lng": 17.0430271,
       "updated_at": "2026-10-26T12:53:58.311222+00:00"
+    },
+    "nowowiejska 38": {
+      "name": "Dom Edyty Stein, 38, Nowowiejska, Ołbin, Wrocław, województwo dolnośląskie, 50-315, Polska",
+      "district": "Śródmieście",
+      "address": "Dom Edyty Stein, 38, Nowowiejska, Ołbin, Wrocław, województwo dolnośląskie, 50-315, Polska",
+      "normalized": "nowowiejska 38",
+      "lat": 51.1232576,
+      "lng": 17.0498505,
+      "updated_at": "2026-10-27T12:06:53.737099+00:00"
+    },
+    "stara piekarnia_fundacja opieka i troska": {
+      "name": "Bolesława Krzywoustego, Karłowice, Karłowice-Różanka, Wrocław, województwo dolnośląskie, 51-165, Polska",
+      "district": "Psie Pole",
+      "address": "Bolesława Krzywoustego, Karłowice, Karłowice-Różanka, Wrocław, województwo dolnośląskie, 51-165, Polska",
+      "normalized": "stara piekarnia_fundacja opieka i troska",
+      "lat": 51.1374709,
+      "lng": 17.0721627,
+      "updated_at": "2026-10-27T12:06:57.101727+00:00"
+    },
+    "coffee planet": {
+      "name": "Coffee Planet, 60/3, Księcia Witolda, Nadodrze, Wrocław, województwo dolnośląskie, 50-203, Polska",
+      "district": "Śródmieście",
+      "address": "Coffee Planet, 60/3, Księcia Witolda, Nadodrze, Wrocław, województwo dolnośląskie, 50-203, Polska",
+      "normalized": "coffee planet",
+      "lat": 51.1152822,
+      "lng": 17.0225821,
+      "updated_at": "2026-10-27T12:06:58.424133+00:00"
+    },
+    "hydropolis – centrum wiedzy o wodzie": {
+      "name": "17, Na Grobli, Rakowiec, Trójkąt, Przedmieście Oławskie, Wrocław, województwo dolnośląskie, 50-421, Polska",
+      "district": "Stare Miasto",
+      "address": "17, Na Grobli, Rakowiec, Trójkąt, Przedmieście Oławskie, Wrocław, województwo dolnośląskie, 50-421, Polska",
+      "normalized": "hydropolis – centrum wiedzy o wodzie",
+      "lat": 51.104238,
+      "lng": 17.0566224,
+      "updated_at": "2026-10-27T12:07:01.481856+00:00"
+    },
+    "sky bowling": {
+      "name": "Sky Bowling, Szczęśliwa, Powstańców Śląskich, Wrocław, województwo dolnośląskie, 53-332, Polska",
+      "district": "Krzyki",
+      "address": "Sky Bowling, Szczęśliwa, Powstańców Śląskich, Wrocław, województwo dolnośląskie, 53-332, Polska",
+      "normalized": "sky bowling",
+      "lat": 51.0945058,
+      "lng": 17.0197003,
+      "updated_at": "2026-10-27T12:07:06.441581+00:00"
+    },
+    "park skowroni": {
+      "name": "Park Skowroni, Gaj, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Krzyki",
+      "address": "Park Skowroni, Gaj, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "park skowroni",
+      "lat": 51.0792254,
+      "lng": 17.0267228,
+      "updated_at": "2026-10-27T12:07:08.092816+00:00"
     }
   }
 }

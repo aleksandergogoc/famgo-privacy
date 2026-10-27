@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:11:46.055461+00:00",
+  "updated_at": "2026-10-27T12:21:56.929264+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -945,6 +945,24 @@
       "lat": 51.7647545,
       "lng": 19.4409536,
       "updated_at": "2026-10-26T13:02:06.877904+00:00"
+    },
+    "wojewódzka biblioteka publiczna im. marszałka józefa piłsudskiego w łodzi (ul. gdańska 100_102)": {
+      "name": "Wojewódzka Biblioteka Publiczna im. Marszałka Józefa Piłsudskiego w Łodzi, 100/102, Gdańska, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-508, Polska",
+      "district": "Polesie",
+      "address": "Wojewódzka Biblioteka Publiczna im. Marszałka Józefa Piłsudskiego w Łodzi, 100/102, Gdańska, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-508, Polska",
+      "normalized": "wojewódzka biblioteka publiczna im. marszałka józefa piłsudskiego w łodzi (ul. gdańska 100_102)",
+      "lat": 51.7634757,
+      "lng": 19.4509758,
+      "updated_at": "2026-10-27T12:12:52.233225+00:00"
+    },
+    "miasta łodzi": {
+      "name": "Muzeum Miasta Łodzi, 15, Ogrodowa, Bałuty-Centrum, Stare Miasto, Łódź-Bałuty, Łódź, województwo łódzkie, 91-065, Polska",
+      "district": "Bałuty",
+      "address": "Muzeum Miasta Łodzi, 15, Ogrodowa, Bałuty-Centrum, Stare Miasto, Łódź-Bałuty, Łódź, województwo łódzkie, 91-065, Polska",
+      "normalized": "miasta łodzi",
+      "lat": 51.7787211,
+      "lng": 19.4510486,
+      "updated_at": "2026-10-27T12:14:21.381469+00:00"
     }
   }
 }

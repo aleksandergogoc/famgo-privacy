@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T13:11:49.748684+00:00",
+  "updated_at": "2026-10-28T12:51:35.845165+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9465,6 +9465,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-26T12:53:07.070455+00:00"
+    },
+    "ul. wiertnicza 26a": {
+      "name": "ul. Wiertnicza 26a",
+      "district": "Wilanów",
+      "address": "ul. Wiertnicza 26a",
+      "normalized": "ul. wiertnicza 26a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-28T12:31:31.972062+00:00"
+    },
+    "ul. korkowa 119_123": {
+      "name": "ul. Korkowa 119/123",
+      "district": "Wawer",
+      "address": "ul. Korkowa 119/123",
+      "normalized": "ul. korkowa 119_123",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-28T12:31:31.972282+00:00"
     }
   }
 }

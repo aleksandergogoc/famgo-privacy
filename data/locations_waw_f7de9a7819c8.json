@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T12:51:35.845165+00:00",
+  "updated_at": "2026-10-29T13:12:56.363928+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9483,6 +9483,60 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-28T12:31:31.972282+00:00"
+    },
+    "tor służewiec": {
+      "name": "Ulica Puławska, 166/172, Puławska, Królikarnia, Ksawerów, Mokotów, Warszawa, województwo mazowieckie, 02-670, Polska",
+      "district": "Mokotów",
+      "address": "Ulica Puławska, 166/172, Puławska, Królikarnia, Ksawerów, Mokotów, Warszawa, województwo mazowieckie, 02-670, Polska",
+      "normalized": "tor służewiec",
+      "lat": 52.1851211,
+      "lng": 21.0238316,
+      "updated_at": "2026-10-29T12:40:10.455998+00:00"
+    },
+    "osir śródmieście polna": {
+      "name": "OSiR Śródmieście, 7A, Polna, Oleandrów, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-631, Polska",
+      "district": "Śródmieście",
+      "address": "OSiR Śródmieście, 7A, Polna, Oleandrów, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-631, Polska",
+      "normalized": "osir śródmieście polna",
+      "lat": 52.2155697,
+      "lng": 21.0171936,
+      "updated_at": "2026-10-29T12:40:19.582786+00:00"
+    },
+    "kamienica": {
+      "name": "Teatr Kamienica, 93, Aleja „Solidarności”, Żelazna Brama, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-144, Polska",
+      "district": "Śródmieście",
+      "address": "Teatr Kamienica, 93, Aleja „Solidarności”, Żelazna Brama, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-144, Polska",
+      "normalized": "kamienica",
+      "lat": 52.2432284,
+      "lng": 20.9985792,
+      "updated_at": "2026-10-29T12:40:26.144642+00:00"
+    },
+    "kino elektronik": {
+      "name": "Kino Elektronik, ul. Generała Zajączka 7",
+      "district": "Żoliborz",
+      "address": "Kino Elektronik, ul. Generała Zajączka 7",
+      "normalized": "kino elektronik",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-29T12:48:13.242111+00:00"
+    },
+    "krakowskie przedmieście": {
+      "name": "Krakowskie Przedmieście",
+      "district": "Śródmieście",
+      "address": "Krakowskie Przedmieście",
+      "normalized": "krakowskie przedmieście",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-29T12:48:13.242529+00:00"
+    },
+    "ul. miodowa 22_24": {
+      "name": "ul. Miodowa 22/24, Teatr Collegium Nobilium, Akademia Teatralna",
+      "district": "Śródmieście",
+      "address": "ul. Miodowa 22/24, Teatr Collegium Nobilium, Akademia Teatralna",
+      "normalized": "ul. miodowa 22_24",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-29T12:48:13.242895+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:22:00.720630+00:00",
+  "updated_at": "2026-10-29T13:12:58.295068+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5242,6 +5242,24 @@
       "lat": 50.0707937,
       "lng": 20.0348285,
       "updated_at": "2026-10-27T12:00:03.234193+00:00"
+    },
+    "ośrodek kultury norwida – kuźnia": {
+      "name": "14, Osiedle Złotego Wieku, Mistrzejowice, Kraków, województwo małopolskie, 31-616, Polska",
+      "district": "Mistrzejowice",
+      "address": "14, Osiedle Złotego Wieku, Mistrzejowice, Kraków, województwo małopolskie, 31-616, Polska",
+      "normalized": "ośrodek kultury norwida – kuźnia",
+      "lat": 50.0968461,
+      "lng": 20.0014158,
+      "updated_at": "2026-10-29T12:28:09.253971+00:00"
+    },
+    "centrum kultury w świątnikach górnych": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "centrum kultury w świątnikach górnych",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-10-29T12:32:03.483942+00:00"
     }
   }
 }

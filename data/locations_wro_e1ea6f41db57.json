@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:12:54.528618+00:00",
+  "updated_at": "2026-10-30T12:56:42.005459+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2833,6 +2833,42 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-10-29T12:51:48.857184+00:00"
+    },
+    "hkf centrum wspierania rozwoju dziecka - niepubliczna poradnia psychologiczno - pedagogiczna (wrocław-karłowice)": {
+      "name": "HKF Centrum Wspierania Rozwoju Dziecka - Niepubliczna Poradnia Psychologiczno - Pedagogiczna (Wrocław-Karłowice)",
+      "district": "Psie Pole",
+      "address": "HKF Centrum Wspierania Rozwoju Dziecka - Niepubliczna Poradnia Psychologiczno - Pedagogiczna (Wrocław-Karłowice)",
+      "normalized": "hkf centrum wspierania rozwoju dziecka - niepubliczna poradnia psychologiczno - pedagogiczna (wrocław-karłowice)",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-30T12:43:02.167157+00:00"
+    },
+    "bwa wrocław główny (wrocław-huby)": {
+      "name": "Galeria BWA Wrocław Główny (Wrocław-Huby)",
+      "district": "Krzyki",
+      "address": "Galeria BWA Wrocław Główny (Wrocław-Huby)",
+      "normalized": "bwa wrocław główny (wrocław-huby)",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-30T12:43:02.167496+00:00"
+    },
+    "dziedziniec muzeum pana tadeusza (wrocław)": {
+      "name": "Dziedziniec Muzeum Pana Tadeusza (Wrocław)",
+      "district": "Stare Miasto",
+      "address": "Dziedziniec Muzeum Pana Tadeusza (Wrocław)",
+      "normalized": "dziedziniec muzeum pana tadeusza (wrocław)",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-30T12:43:02.167724+00:00"
+    },
+    "opera wrocławska (wrocław)": {
+      "name": "Opera Wrocławska (Wrocław)",
+      "district": "Stare Miasto",
+      "address": "Opera Wrocławska (Wrocław)",
+      "normalized": "opera wrocławska (wrocław)",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-10-30T12:43:02.168004+00:00"
     }
   }
 }

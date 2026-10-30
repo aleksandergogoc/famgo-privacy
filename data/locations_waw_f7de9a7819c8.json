@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:12:56.363928+00:00",
+  "updated_at": "2026-10-30T12:56:43.941584+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9537,6 +9537,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-29T12:48:13.242895+00:00"
+    },
+    "rampa na targówku": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "rampa na targówku",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-10-30T12:34:43.106222+00:00"
+    },
+    "pałac na wyspie": {
+      "name": "Pałac na Wyspie, Łazienki Królewskie",
+      "district": "Śródmieście",
+      "address": "Pałac na Wyspie, Łazienki Królewskie",
+      "normalized": "pałac na wyspie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-30T12:38:26.786319+00:00"
+    },
+    "dom kultury „świt”": {
+      "name": "Dom Kultury „Świt”, ul. Piotra Wysockiego 11",
+      "district": "Targówek",
+      "address": "Dom Kultury „Świt”, ul. Piotra Wysockiego 11",
+      "normalized": "dom kultury „świt”",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-30T12:38:26.786697+00:00"
     }
   }
 }

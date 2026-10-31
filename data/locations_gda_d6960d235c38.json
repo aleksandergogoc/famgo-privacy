@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T11:37:27.321077+00:00",
+  "updated_at": "2026-10-31T12:24:04.465849+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1844,6 +1844,24 @@
       "lat": 54.3527422,
       "lng": 18.652026,
       "updated_at": "2026-10-20T11:32:38.374327+00:00"
+    },
+    "szeroka 52_54": {
+      "name": "Dom Pod Łososiem, 52/54, Szeroka, Zamczysko, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-835, Polska",
+      "district": "Śródmieście",
+      "address": "Dom Pod Łososiem, 52/54, Szeroka, Zamczysko, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-835, Polska",
+      "normalized": "szeroka 52_54",
+      "lat": 54.3507049,
+      "lng": 18.6556816,
+      "updated_at": "2026-10-31T12:18:29.702064+00:00"
+    },
+    "ministerstwo magii gdańsk": {
+      "name": "Ministerstwo Magii Gdańsk",
+      "district": "Śródmieście",
+      "address": "Ministerstwo Magii Gdańsk",
+      "normalized": "ministerstwo magii gdańsk",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-10-31T12:20:28.843544+00:00"
     }
   }
 }

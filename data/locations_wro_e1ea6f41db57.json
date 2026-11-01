@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:56:42.005459+00:00",
+  "updated_at": "2026-11-01T13:19:26.014698+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2869,6 +2869,42 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-10-30T12:43:02.168004+00:00"
+    },
+    "miejska biblioteka publiczna filia nr 19 sołtysowicka 29h": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "miejska biblioteka publiczna filia nr 19 sołtysowicka 29h",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-11-01T13:02:00.614657+00:00"
+    },
+    "restauracja milo obornicka 86a": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "restauracja milo obornicka 86a",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-11-01T13:02:04.583444+00:00"
+    },
+    "pub schody pl. solny 13": {
+      "name": "Schody Donikąd, 13, Plac Solny, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-061, Polska",
+      "district": "Stare Miasto",
+      "address": "Schody Donikąd, 13, Plac Solny, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-061, Polska",
+      "normalized": "pub schody pl. solny 13",
+      "lat": 51.1091187,
+      "lng": 17.0286159,
+      "updated_at": "2026-11-01T13:02:06.753336+00:00"
+    },
+    "dolnośląski ośrodek doradztwa rolniczego zwycięska 8": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "dolnośląski ośrodek doradztwa rolniczego zwycięska 8",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-11-01T13:02:22.684543+00:00"
     }
   }
 }

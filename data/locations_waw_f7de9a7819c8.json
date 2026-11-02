@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T13:19:27.584371+00:00",
+  "updated_at": "2026-11-02T15:44:13.703293+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9582,6 +9582,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-01T13:01:26.692355+00:00"
+    },
+    "tor wyścigów konnych służewiec": {
+      "name": "Tor Wyścigów Konnych Służewiec, Galopu, Zielony Ursynów, Wyczółki, Ursynów, Warszawa, województwo mazowieckie, 02-822, Polska",
+      "district": "Ursynów",
+      "address": "Tor Wyścigów Konnych Służewiec, Galopu, Zielony Ursynów, Wyczółki, Ursynów, Warszawa, województwo mazowieckie, 02-822, Polska",
+      "normalized": "tor wyścigów konnych służewiec",
+      "lat": 52.1620222,
+      "lng": 21.0099229,
+      "updated_at": "2026-11-02T15:16:34.709166+00:00"
+    },
+    "palladium": {
+      "name": "Palladium, 9, Złota, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-019, Polska",
+      "district": "Śródmieście",
+      "address": "Palladium, 9, Złota, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-019, Polska",
+      "normalized": "palladium",
+      "lat": 52.2327185,
+      "lng": 21.0117601,
+      "updated_at": "2026-11-02T15:16:53.838299+00:00"
+    },
+    "ursynowskie centrum kultury „alternatywy”": {
+      "name": "Ursynowskie Centrum Kultury Alternatywy, 9, Indiry Gandhi, Wysoki Ursynów, Ursynów Centrum, Ursynów, Warszawa, województwo mazowieckie, 02-776, Polska",
+      "district": "Ursynów",
+      "address": "Ursynowskie Centrum Kultury Alternatywy, 9, Indiry Gandhi, Wysoki Ursynów, Ursynów Centrum, Ursynów, Warszawa, województwo mazowieckie, 02-776, Polska",
+      "normalized": "ursynowskie centrum kultury „alternatywy”",
+      "lat": 52.1484183,
+      "lng": 21.0445155,
+      "updated_at": "2026-11-02T15:17:02.953631+00:00"
+    },
+    "ul. waldorffa 41": {
+      "name": "ul. Waldorffa 41",
+      "district": "Bemowo",
+      "address": "ul. Waldorffa 41",
+      "normalized": "ul. waldorffa 41",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-02T15:25:31.086583+00:00"
+    },
+    "ssp fae": {
+      "name": "ssp fae, ul. Nowolipki 2a",
+      "district": "Wola",
+      "address": "ssp fae, ul. Nowolipki 2a",
+      "normalized": "ssp fae",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-02T15:25:31.087179+00:00"
     }
   }
 }

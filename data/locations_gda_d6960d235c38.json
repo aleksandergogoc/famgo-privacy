@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T12:24:04.465849+00:00",
+  "updated_at": "2026-11-02T15:44:09.785616+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1862,6 +1862,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-10-31T12:20:28.843544+00:00"
+    },
+    "olejarna 2": {
+      "name": "Schron przeciwlotniczy, 2, Olejarna, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-843, Polska",
+      "district": "Śródmieście",
+      "address": "Schron przeciwlotniczy, 2, Olejarna, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-843, Polska",
+      "normalized": "olejarna 2",
+      "lat": 54.3545775,
+      "lng": 18.6546196,
+      "updated_at": "2026-11-02T15:36:53.629937+00:00"
+    },
+    "pionova_cafe luis": {
+      "name": "Galeria Pionova/Cafe Luis",
+      "district": "Śródmieście",
+      "address": "Galeria Pionova/Cafe Luis",
+      "normalized": "pionova_cafe luis",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-02T15:38:39.624303+00:00"
     }
   }
 }

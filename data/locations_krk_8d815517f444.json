@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:56:45.848593+00:00",
+  "updated_at": "2026-11-02T15:44:15.525461+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5278,6 +5278,15 @@
       "lat": 50.0483094,
       "lng": 19.9420843,
       "updated_at": "2026-10-30T12:33:04.495836+00:00"
+    },
+    "centrum edukacji lotniczej kraków airport": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "centrum edukacji lotniczej kraków airport",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-11-02T14:59:09.969669+00:00"
     }
   }
 }

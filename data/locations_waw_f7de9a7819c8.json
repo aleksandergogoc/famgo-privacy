@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T15:44:13.703293+00:00",
+  "updated_at": "2026-11-03T14:28:56.216744+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9627,6 +9627,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-02T15:25:31.087179+00:00"
+    },
+    "mal spotykalnia": {
+      "name": "MAL Spotykalnia, ul. Powstańców Śląskich 126",
+      "district": "Bemowo",
+      "address": "MAL Spotykalnia, ul. Powstańców Śląskich 126",
+      "normalized": "mal spotykalnia",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-03T14:06:34.662231+00:00"
+    },
+    "biblioteka publiczna w dzielnicy żoliborz": {
+      "name": "Biblioteka Publiczna w Dzielnicy Żoliborz, ul. Mickiewicza 65",
+      "district": "Żoliborz",
+      "address": "Biblioteka Publiczna w Dzielnicy Żoliborz, ul. Mickiewicza 65",
+      "normalized": "biblioteka publiczna w dzielnicy żoliborz",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-03T14:06:34.662519+00:00"
+    },
+    "ul. mordechaja anielewicza 6": {
+      "name": "ul. Mordechaja Anielewicza 6",
+      "district": "Śródmieście",
+      "address": "ul. Mordechaja Anielewicza 6",
+      "normalized": "ul. mordechaja anielewicza 6",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-03T14:06:34.662833+00:00"
     }
   }
 }

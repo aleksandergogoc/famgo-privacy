@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T14:28:56.216744+00:00",
+  "updated_at": "2026-11-04T14:45:18.927423+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9654,6 +9654,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-03T14:06:34.662833+00:00"
+    },
+    "studio": {
+      "name": "Teatr Studio, 1, Plac Defilad, Żelazna Brama, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-017, Polska",
+      "district": "Śródmieście",
+      "address": "Teatr Studio, 1, Plac Defilad, Żelazna Brama, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-017, Polska",
+      "normalized": "studio",
+      "lat": 52.2326368,
+      "lng": 21.0067376,
+      "updated_at": "2026-11-04T14:16:44.330459+00:00"
+    },
+    "miejsce aktywności lokalnej kotłownia ul. jana olbrachta 7a": {
+      "name": "Miejsce Aktywności Lokalnej KOTŁOWNIA ul. Jana Olbrachta 7A",
+      "district": "Wola",
+      "address": "Miejsce Aktywności Lokalnej KOTŁOWNIA ul. Jana Olbrachta 7A",
+      "normalized": "miejsce aktywności lokalnej kotłownia ul. jana olbrachta 7a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-04T14:22:08.686808+00:00"
+    },
+    "integracji rodzinno-sąsiedzkiej ul. walerego sławka 2": {
+      "name": "Klub Integracji Rodzinno-Sąsiedzkiej ul. Walerego Sławka 2",
+      "district": "Ursus",
+      "address": "Klub Integracji Rodzinno-Sąsiedzkiej ul. Walerego Sławka 2",
+      "normalized": "integracji rodzinno-sąsiedzkiej ul. walerego sławka 2",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-04T14:22:08.687143+00:00"
+    },
+    "broniewskiego 7": {
+      "name": "Broniewskiego 7, Studio Tańca \"Spin\", RADOCHA DANCE",
+      "district": "Żoliborz",
+      "address": "Broniewskiego 7, Studio Tańca \"Spin\", RADOCHA DANCE",
+      "normalized": "broniewskiego 7",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-04T14:22:08.687478+00:00"
     }
   }
 }

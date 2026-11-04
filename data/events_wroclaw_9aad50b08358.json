@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T13:53:54.309889+00:00",
+  "updated_at": "2026-11-04T14:28:14.442776+00:00",
   "events": {
     "fajnie-si-sk-ada-zlot-fan-w-klock-w-od-fan-w-dla-fan-w-2026-12-07T10:00:00": {
       "scrapped_timestamp": "2026-06-29T12:56:13.475074+00:00",
@@ -1148,47 +1148,52 @@
       "updated_at": "2026-09-07T12:12:45.441578+00:00"
     },
     "spoko-loko-koncert-dla-dzieci-2026-11-15T12:00:00+01:00": {
-      "title": "Spoko Loko – koncert dla dzieci",
+      "title": "Spoko Loko - koncert dla dzieci",
       "date": "2026-11-15T12:00:00+01:00",
       "end_date": "2026-11-15T12:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n Bilet normalny przeznaczony jest dla opiekuna.\n Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124/a22526ca-81c9-4f07-83ed-028c1fd7dba3.jpg",
+      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
+      "image": "https://assets.kupbilecik.pl/img/baza/8000/7104.webp?1788766325",
+      "url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
       "location": {
-        "name": "Centrum Kultury Nowy Pafawag, ul. Chociebuska 4-6, 54-433 Wrocław",
+        "name": "Centrum Kultury Nowy Pafawag",
+        "address": "ul. Chociebuska 4-6",
+        "lat": 51.115767,
+        "lng": 16.958181,
         "district": "Fabryczna"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "source": "simplygo.pl",
-      "age_hint": "2-8",
-      "age_range": {
-        "min": 2,
-        "max": 8
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "scrapped_timestamp": "2026-11-03T14:12:49.337055+00:00",
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-11-04T14:25:22.257221+00:00",
       "category": "Music & Dance",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Spoko Loko – koncert dla dzieci",
-          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n Bilet normalny przeznaczony jest dla opiekuna.\n Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
+          "title": "Spoko Loko - koncert dla dzieci",
+          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
         },
         "en": {
-          "title": "Spoko Loko – concert for children",
-          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They have prepared a unique, one-hour show during which children will be able to dance and sing along with the band. Classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\" will be performed, as well as new hits like \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will also feature soap bubbles, riddles, and other surprises that will remain a mystery for now! Spoko Loko consists of Kasia, Mati, and Ola, who have already gathered several tens of millions of views on their YouTube channel. Satisfied parents' reviews speak for themselves - join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n* Children under 2 years old free admission (dz"
+          "title": "Spoko Loko - concert for children",
+          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They’ve prepared a special one-hour show where children can dance and sing along with the band. They’ll perform classics such as \"Crazy Dances\", \"Ciu ciu ła\" and \"Body Shape\", as well as new hits like \"We’re Walking Through the Jungle\" and \"Head, Shoulders\". The concert will also feature soap bubbles, riddles and other surprises that will remain a secret for now! Spoko Loko are Kasia, Mati and Ola, who have already amassed tens of millions of views on their YouTube channel. The reviews from happy parents speak for themselves—join us and let yourself be swept away into the zany world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n\n* Children under 2 enter free (d"
         },
         "uk": {
-          "title": "Spoko Loko – концерт для дітей",
-          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Приготували унікальне, годинне шоу, під час якого діти зможуть танцювати та співати разом з гуртом. Засяють класики, такі як \"Танці Поламайці\", \"Цю цю ля\" та \"Тіла форма\", але також нові хіти, такі як \"Ідемо через джунглі\" та \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko - це Касія, Марті та Оля, які на своєму каналі YouTube зібрали вже кілька десятків мільйонів переглядів. Відгуки задоволених батьків говорять самі за себе - приєднуйтесь до нас і дайте себе захопити у божевільний світ Spoko Loko! Після концерту також буде можливість зробити фото з гуртом.\n* Діти до 2 років вхід безкоштовний (д"
+          "title": "Spoko Loko — концерт для дітей",
+          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Підготували особливе годинне шоу, під час якого діти зможуть танцювати й співати разом із гуртом. Прозвучать такі класичні хіти, як \"Танці-ламання\", \"Цю-цю-ля\" і \"Форма тіла\", а також нові хіти, як-от \"Йдемо крізь джунглі\" та \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko — це Кася, Маті й Оля, які вже зібрали десятки мільйонів переглядів на своєму YouTube-каналі. Відгуки задоволених батьків говорять самі за себе — приєднуйтеся до нас і пориньте у божевільний світ Spoko Loko! Після концерту також буде нагода сфотографуватися з гуртом.\n\n* Дітям до 2 років вхід безкоштовний (д"
         }
       },
       "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604"
+        "is_free": true
       },
       "district": "Fabryczna",
-      "updated_at": "2026-11-03T14:13:15.297503+00:00"
+      "updated_at": "2026-11-04T14:28:14.264077+00:00"
     },
     "historia-detektywistyczna-2026-11-08T10:00:00+01:00": {
       "title": "HISTORIA DETEKTYWISTYCZNA!",
@@ -3087,46 +3092,48 @@
       "updated_at": "2026-10-18T10:54:36.461415+00:00"
     },
     "starsze-gadu-y-warsztaty-logopedyczne-dla-dzieci-4-6-lat-2026-11-18T16:00:00+01:00": {
-      "title": "Starsze Gaduły – warsztaty logopedyczne dla dzieci 4–6 lat",
+      "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
       "date": "2026-11-18T16:00:00+01:00",
       "end_date": "2026-11-18T16:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą. „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbywają się w przyjaznej atmosferze, sprzyjającej zdobywaniu nowych umiejętności.\n\nInformacje organizacyjne\n\n• Nazwa zajęć: Starsze Gaduły\n• Dla kogo: dzieci w wieku 4–6 lat wraz z rodzicami\n• Prowadząca: Marta Czajkowska, neurologopeda dziecięcy\n• Charakter zajęć: warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9/692295e6-947d-4ffb-9faa-77f1574861d8.jpg",
+      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-f9ca0308ac11000216fab36b537c7ca5/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
+      "source": "wroclaw.pl",
       "location": {
-        "name": "Przedszkole Columb, Wrocław",
+        "name": "Przedszkole Columb",
         "district": "Śródmieście"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/starsze-gaduly-warsztaty-logopedyczne-dla-dzieci-4-6-lat-c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9",
-      "source": "simplygo.pl",
-      "age_hint": "4-6",
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
+      "scrapped_timestamp": "2026-11-04T14:26:17.487681+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Educational"
+      ],
       "age_range": {
         "min": 4,
         "max": 6
       },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/starsze-gaduly-warsztaty-logopedyczne-dla-dzieci-4-6-lat-c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9",
-      "scrapped_timestamp": "2026-11-03T14:12:56.958087+00:00",
-      "category": "Workshops",
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Starsze Gaduły – warsztaty logopedyczne dla dzieci 4–6 lat",
-          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą. „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbywają się w przyjaznej atmosferze, sprzyjającej zdobywaniu nowych umiejętności.\n\nInformacje organizacyjne\n\n• Nazwa zajęć: Starsze Gaduły\n• Dla kogo: dzieci w wieku 4–6 lat wraz z rodzicami\n• Prowadząca: Marta Czajkowska, neurologopeda dziecięcy\n• Charakter zajęć: warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe"
+          "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
+          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
         },
         "en": {
-          "title": "Older Chatterboxes – Speech Therapy Workshops for Children Aged 4–6",
-          "description": "Playing with words, sounds, and syllables can be a great adventure. \"Older Chatterboxes\" is a speech therapy workshop for children aged 4–6, during which movement and creative activities help develop communication skills. It is also an opportunity to spend time together and discover new ways to have fun with language.\n\nLearning to Speak Through Play\n\nDuring the workshops, children will practice speech, play with sounds and words, and develop skills needed for everyday communication. Engaging tasks and movement will make learning a natural part of shared fun.\n\nJoint Discovery with Parents\n\nParents also actively participate in the activities. They will learn simple exercises and ideas that can be used daily to support their child's speech development. The workshops take place in a friendly"
+          "title": "Older Chatterboxes - speech therapy workshops for children aged 4–6",
+          "description": "Playing with words, sounds, and speech sounds can be a great adventure! “Older Chatterboxes” is a speech therapy workshop for children aged 4–6, where movement and creative activities help develop communication skills. It’s also an opportunity to spend time together and discover new ways to play with language.\n\nLearning to speak through play\n\nDuring the workshop, children will practice speaking, play with sounds and words, and develop skills needed for everyday communication. Engaging activities and movement will make learning a natural part of playing together.\n\nDiscovering together with parents\n\nParents also actively participate in the activities. This gives them a chance to learn simple exercises and ideas they can use every day to support their child’s speech development. The workshop will take place in"
         },
         "uk": {
-          "title": "Старші Гадулі – логопедичні майстер-класи для дітей 4–6 років",
-          "description": "Гра зі словами, звуками та складів може бути чудовою пригодою. \"Старші Гадулі\" – це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і креативні активності допомагають розвивати комунікативні навички. Це також можливість провести час разом і відкривати нові способи гратися мовою.\n\nНавчання говорити через гру\n\nПід час майстер-класів діти будуть вправлятися в мові, гратися зі звуками та словами, а також розвивати навички, необхідні в повсякденному спілкуванні. Захоплюючі завдання та рух зроблять навчання природною частиною спільної гри.\n\nСпільне відкриття з батьками\n\nУ заняттях активно беруть участь також батьки. Вони знайомляться з простими вправами та ідеями, які можна використовувати щодня, щоб підтримувати розвиток мови дитини. Майстер-класи проходять у дружній"
+          "title": "Старші балакуни — логопедичні майстер-класи для дітей 4–6 років",
+          "description": "Гра зі словами, звуками та фонемами може стати чудовою пригодою! «Старші балакуни» — це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і творчі заняття допомагають розвивати комунікативні навички. Це також нагода провести час разом і відкрити для себе нові способи гратися з мовою.\n\nНавчання мовлення через гру\n\nПід час майстер-класів діти вправлятимуться в мовленні, гратимуться зі звуками та словами й розвиватимуть навички, необхідні для щоденного спілкування. Цікаві завдання та рух зроблять навчання природною частиною спільної гри.\n\nСпільні відкриття з батьками\n\nУ заняттях активно беруть участь і батьки. Завдяки цьому вони дізнаються про прості вправи та ідеї, які можна використовувати щодня, щоб підтримувати розвиток мовлення дитини. Майстер-класи відбудуться в"
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": true
       },
       "district": "Śródmieście",
-      "updated_at": "2026-11-03T14:13:15.297539+00:00"
+      "updated_at": "2026-11-04T14:28:14.264167+00:00"
     },
     "santa-claus-festival-2026-festiwal-wi-tego-miko-aja-2026-12-05T09:00:00+01:00": {
       "title": "Santa Claus Festival 2026 - Festiwal Świętego Mikołaja",
@@ -3173,42 +3180,46 @@
       "updated_at": "2026-10-19T12:47:34.950527+00:00"
     },
     "spotkanie-z-pani-jesie-teatrzyk-animacyjny-z-nastazj-2026-11-07T11:00:00+01:00": {
-      "title": "Spotkanie z Panią Jesień – teatrzyk animacyjny z Nastazją",
+      "title": "Spotkanie z Panią Jesień - Teatrzyk animacyjny z Nastazją",
       "date": "2026-11-07T11:00:00+01:00",
       "end_date": "2026-11-07T11:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Czy wiecie, co dzieje się w lesie, gdy nadchodzi jesień? Zapraszamy dzieci na wyjątkowe, interaktywne spotkanie z Panią Jesienią, która zabierze nas do świata pełnego kolorowych liści, jesiennych zagadek i niespodzianek!\nPodczas wspólnej przygody mali uczestnicy będą rozwiązywać zagadki, bawić się, tańczyć i odkrywać sekrety jesiennej przyrody. Na dzieci czeka również wyjątkowy gość prosto z lasu – Borówko, który z pewnością ma do opowiedzenia niejedną ciekawą historię!\nTo pełne ruchu, muzyki i dobrej zabawy przedstawienie, w którym dzieci nie są tylko widzami – aktywnie włączają się w wydarzenia i pomagają bohaterom przeżyć prawdziwie jesienną przygodę.\nW programie:\nspotkanie z Panią Jesienią,\njesienne zagadki i zabawy,\nmuzyka, ruch i animacje,\npoznawanie darów jesieni,\nspotkanie z leśnym gościem – Borówko,\nmnóstwo niespodzianek i wspólnej zabawy!\nZapraszamy na kolorową jesienną przygodę!\nWydarzenie dla dzieci w wieku powyżej 5 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/2f2b6f07-38fc-48cd-bbc2-a2dfde3fcab7/107ffcce-dc6b-4dff-8fea-a0b3f522d1bf.jpg",
+      "description": "Czy wiecie, co dzieje się w lesie, gdy nadchodzi jesień? Zapraszamy dzieci na wyjątkowe, interaktywne spotkanie z Panią Jesienią, która zabierze nas do świata pełnego kolorowych liści, jesiennych zagadek i niespodzianek!\n\nPodczas wspólnej przygody mali uczestnicy będą rozwiązywać zagadki, bawić się, tańczyć i odkrywać sekrety jesiennej przyrody. Na dzieci czeka również wyjątkowy gość prosto z lasu – Borówko, który z pewnością ma do opowiedzenia niejedną ciekawą historię!\n\nTo pełne ruchu, muzyki i dobrej zabawy przedstawienie, w którym dzieci nie są tylko widzami – aktywnie włączają się w wydarzenia i pomagają bohaterom przeżyć prawdziwie jesienną przygodę.\n\nW programie:\n\n• spotkanie z Panią Jesienią,\n• jesienne zagadki i zabawy,\n• muzyka, ruch i animacje,\n• poznawanie darów jesieni,\n• spotkanie z leśnym gościem – Borówko,\n• mnóstwo niespodzianek i wspólnej zabawy!\n\nZapraszamy na kolorową jesienną przygodę!\n\nWydarzenie dla dzieci w wieku powyżej 5 lat.\n\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://assets.kupbilecik.pl/img/baza/21000/20383.webp?1788766990",
+      "url": "https://www.kupbilecik.pl/pl/event/224467/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
       "location": {
-        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 7, ul. Suwalska 11, 54-104 Wrocław",
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 7",
+        "address": "ul. Suwalska 11",
+        "lat": 51.1550882151282,
+        "lng": 16.9293254835847,
         "district": "Fabryczna"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spotkanie-z-pania-jesien-teatrzyk-animacyjny-z-nastazja-2f2b6f07-38fc-48cd-bbc2-a2dfde3fcab7",
-      "source": "simplygo.pl",
-      "age_hint": "5-18",
-      "age_range": {
-        "min": 5,
-        "max": 18
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spotkanie-z-pania-jesien-teatrzyk-animacyjny-z-nastazja-2f2b6f07-38fc-48cd-bbc2-a2dfde3fcab7",
-      "scrapped_timestamp": "2026-11-03T14:12:41.385137+00:00",
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/224467/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-11-04T14:25:11.268439+00:00",
       "category": "Theater",
       "additional_categories": [
-        "Family Fun"
+        "Family Fun",
+        "Music & Dance"
       ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Spotkanie z Panią Jesień – teatrzyk animacyjny z Nastazją",
-          "description": "Czy wiecie, co dzieje się w lesie, gdy nadchodzi jesień? Zapraszamy dzieci na wyjątkowe, interaktywne spotkanie z Panią Jesienią, która zabierze nas do świata pełnego kolorowych liści, jesiennych zagadek i niespodzianek!\nPodczas wspólnej przygody mali uczestnicy będą rozwiązywać zagadki, bawić się, tańczyć i odkrywać sekrety jesiennej przyrody. Na dzieci czeka również wyjątkowy gość prosto z lasu – Borówko, który z pewnością ma do opowiedzenia niejedną ciekawą historię!\nTo pełne ruchu, muzyki i dobrej zabawy przedstawienie, w którym dzieci nie są tylko widzami – aktywnie włączają się w wydarzenia i pomagają bohaterom przeżyć prawdziwie jesienną przygodę.\nW programie:\nspotkanie z Panią Jesienią,\njesienne zagadki i zabawy,\nmuzyka, ruch i animacje,\npoznawanie darów jesieni,\nspotkanie z leśnym gościem – Borówko,\nmnóstwo niespodzianek i wspólnej zabawy!\nZapraszamy na kolorową jesienną przygodę!\nWydarzenie dla dzieci w wieku powyżej 5 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+          "title": "Spotkanie z Panią Jesień - Teatrzyk animacyjny z Nastazją",
+          "description": "Czy wiecie, co dzieje się w lesie, gdy nadchodzi jesień? Zapraszamy dzieci na wyjątkowe, interaktywne spotkanie z Panią Jesienią, która zabierze nas do świata pełnego kolorowych liści, jesiennych zagadek i niespodzianek!\n\nPodczas wspólnej przygody mali uczestnicy będą rozwiązywać zagadki, bawić się, tańczyć i odkrywać sekrety jesiennej przyrody. Na dzieci czeka również wyjątkowy gość prosto z lasu – Borówko, który z pewnością ma do opowiedzenia niejedną ciekawą historię!\n\nTo pełne ruchu, muzyki i dobrej zabawy przedstawienie, w którym dzieci nie są tylko widzami – aktywnie włączają się w wydarzenia i pomagają bohaterom przeżyć prawdziwie jesienną przygodę.\n\nW programie:\n\n• spotkanie z Panią Jesienią,\n• jesienne zagadki i zabawy,\n• muzyka, ruch i animacje,\n• poznawanie darów jesieni,\n• spotkanie z leśnym gościem – Borówko,\n• mnóstwo niespodzianek i wspólnej zabawy!\n\nZapraszamy na kolorową jesienną przygodę!\n\nWydarzenie dla dzieci w wieku powyżej 5 lat.\n\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
         },
         "en": {
-          "title": "Meeting with Mrs. Autumn – puppet theater with Nastazja",
-          "description": "Do you know what happens in the forest when autumn arrives? We invite children to a unique, interactive meeting with Mrs. Autumn, who will take us to a world full of colorful leaves, autumn riddles, and surprises!\nDuring this joint adventure, little participants will solve riddles, play, dance, and discover the secrets of autumn nature. A special guest straight from the forest – Borówko – is also waiting for the children, who surely has many interesting stories to tell!\nThis lively performance, filled with movement, music, and fun, allows children to not just be spectators – they actively engage in the events and help the heroes experience a truly autumn adventure.\nIn the program:\nmeeting with Mrs. Autumn,\nautumn riddles and games,\nmusic, movement, and animations,\nexploring the gifts of autumn,\na meeting with the forest"
+          "title": "Meeting Lady Autumn – Animated Theatre with Nastazja",
+          "description": "Do you know what happens in the forest when autumn arrives? We invite children to a special, interactive meeting with Lady Autumn, who will take us to a world full of colorful leaves, autumn riddles and surprises!\n\nDuring our adventure together, young participants will solve riddles, play, dance and discover the secrets of autumn nature. The children will also meet a special guest straight from the forest – Borówko, who surely has more than one interesting story to tell!\n\nThis lively performance full of music and fun is one where children are not just spectators – they actively join in and help the characters experience a truly autumnal adventure.\n\nThe programme includes:\n\n• meeting Lady Autumn,\n• autumn riddles and games,\n• music, movement and activities,\n• discovering the gifts of autumn,\n• meet"
         },
         "uk": {
-          "title": "Зустріч з Пані Осінь – театральна анімація з Настасією",
-          "description": "Чи знаєте ви, що відбувається в лісі, коли приходить осінь? Запрошуємо дітей на унікальну, інтерактивну зустріч з Пані Осінню, яка забере нас у світ, наповнений кольоровим листям, осінніми загадками та несподіванками!\nПід час спільної пригоди маленькі учасники будуть розгадувати загадки, гратися, танцювати та відкривати секрети осінньої природи. На дітей чекає також унікальний гість прямо з лісу – Борівко, який, безумовно, має що розповісти!\nЦе повне руху, музики та гарного настрою представлення, в якому діти не лише глядачі – активно залучаються до подій і допомагають героям пережити справжню осінню пригоду.\nУ програмі:\nзустріч з Пані Осінню,\nосінні загадки та ігри,\nмузика, рух та анімації,\nознайомлення з дарами осені,\nзустріч з лісним"
+          "title": "Зустріч із Пані Осінню — інтерактивна вистава з Настазією",
+          "description": "Чи знаєте ви, що відбувається в лісі, коли приходить осінь? Запрошуємо дітей на особливу інтерактивну зустріч із Пані Осінню, яка поведе нас у світ, сповнений різнокольорового листя, осінніх загадок і сюрпризів!\n\nПід час спільної пригоди маленькі учасники розгадуватимуть загадки, гратимуться, танцюватимуть і відкриватимуть таємниці осінньої природи. На дітей також чекає особливий гість просто з лісу — Боровко, якому, без сумніву, є що розповісти!\n\nЦе вистава, сповнена руху, музики та веселощів, у якій діти не просто глядачі — вони активно долучаються до подій і допомагають героям пережити справжню осінню пригоду.\n\nУ програмі:\n\n• зустріч із Пані Осінню,\n• осінні загадки та ігри,\n• музика, рух і розваги,\n• знайомство з осінніми дарами,\n• зустріч"
         }
       },
       "admission": {
@@ -3216,7 +3227,7 @@
         "ticket_url": "https://www.kupbilecik.pl/pl/event/224467/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
       },
       "district": "Fabryczna",
-      "updated_at": "2026-11-03T14:13:15.297482+00:00"
+      "updated_at": "2026-11-04T14:28:14.264053+00:00"
     },
     "jarmark-wi-teczny-na-marinie-kleczk-w-2026-11-20T00:00:00+01:00": {
       "title": "Jarmark Świąteczny na Marinie Kleczków",
@@ -4493,45 +4504,42 @@
       "updated_at": "2026-10-26T12:58:25.749231+00:00"
     },
     "tworzymy-komiks-warsztaty-rysunkowe-dla-dzieci-2026-11-14T11:30:00+01:00": {
-      "title": "Tworzymy komiks - warsztaty rysunkowe dla dzieci",
+      "title": "Tworzymy komiks – warsztaty rysunkowe dla dzieci",
       "date": "2026-11-14T11:30:00+01:00",
       "end_date": "2026-11-14T11:30:00+01:00",
       "startTimeKnown": true,
-      "description": "Na warsztatach komiksowych dowiecie się, jak stworzyć scenariusz i własnych bohaterów, co to takiego kadry, dymki, plansze, jak powinny wyglądać szkice i ostateczny kształt komiksu oraz jak odpowiednio dobierać kolory w komiksie.\n\nWydarzenie dla dzieci w wieku powyżej 7 lat.\n\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
-      "image": "https://assets.kupbilecik.pl/img/baza/21000/20383.webp?1788766990",
-      "url": "https://www.kupbilecik.pl/pl/event/225433/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
-      "source": "kupbilecik.pl",
+      "description": "Na warsztatach komiksowych dowiecie się, jak stworzyć scenariusz i własnych bohaterów, co to takiego kadry, dymki, plansze, jak powinny wyglądać szkice i ostateczny kształt komiksu oraz jak odpowiednio dobierać kolory w komiksie.\nWydarzenie dla dzieci w wieku powyżej 7 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/56e2e6f5-ed91-4cd2-a1f5-53973a2b4830/5edb3e67-a8a6-4c20-b825-17db1d8c1153.jpg",
       "location": {
-        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 44",
-        "address": "Powstańców Śląskich 210",
-        "lat": 51.076691324509,
-        "lng": 17.0079835420925,
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 44, Powstańców Śląskich 210, 53-125 Wrocław",
         "district": "Fabryczna"
       },
-      "featured": true,
-      "scrapped_url": "https://www.kupbilecik.pl/pl/event/225433/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
-      "scrapped_timestamp": "2026-11-03T14:10:03.468732+00:00",
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/tworzymy-komiks-warsztaty-rysunkowe-dla-dzieci-56e2e6f5-ed91-4cd2-a1f5-53973a2b4830",
+      "source": "simplygo.pl",
+      "age_hint": "7-18",
+      "age_range": {
+        "min": 7,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/tworzymy-komiks-warsztaty-rysunkowe-dla-dzieci-56e2e6f5-ed91-4cd2-a1f5-53973a2b4830",
+      "scrapped_timestamp": "2026-11-04T14:28:00.913892+00:00",
       "category": "Workshops",
       "additional_categories": [
         "Arts"
       ],
-      "age_range": {
-        "min": 7,
-        "max": 12
-      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Tworzymy komiks - warsztaty rysunkowe dla dzieci",
-          "description": "Na warsztatach komiksowych dowiecie się, jak stworzyć scenariusz i własnych bohaterów, co to takiego kadry, dymki, plansze, jak powinny wyglądać szkice i ostateczny kształt komiksu oraz jak odpowiednio dobierać kolory w komiksie.\n\nWydarzenie dla dzieci w wieku powyżej 7 lat.\n\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+          "title": "Tworzymy komiks – warsztaty rysunkowe dla dzieci",
+          "description": "Na warsztatach komiksowych dowiecie się, jak stworzyć scenariusz i własnych bohaterów, co to takiego kadry, dymki, plansze, jak powinny wyglądać szkice i ostateczny kształt komiksu oraz jak odpowiednio dobierać kolory w komiksie.\nWydarzenie dla dzieci w wieku powyżej 7 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
         },
         "en": {
-          "title": "Creating Comics - Drawing Workshops for Children",
-          "description": "In the comic workshops, you will learn how to create a script and your own characters, what frames, speech bubbles, and pages are, how sketches and the final shape of the comic should look, and how to appropriately choose colors in comics.\n\nEvent for children aged over 7 years.\n\n**One ticket is valid for a pair: child and guardian.**\n\nDiscounted tickets for people with an MBP Wrocław library card.\n\nA place friendly to people with mobility disabilities.\n\nThe Parent Club is a series of literary, educational, and artistic meetings for children and their guardians held in selected branches of the Tadeusz Różewicz Municipal Public Library in Wrocław."
+          "title": "Creating a Comic – Drawing Workshop for Children",
+          "description": "At the comic workshop, you’ll learn how to create a script and your own characters, what panels, speech bubbles and pages are, what sketches and the finished comic should look like, and how to choose the right colors for a comic.\nEvent for children aged 7 and over.\nOne ticket is required per pair: child and caregiver.\nDiscounted tickets are available to holders of an MBP Wrocław library card.\nThe venue is accessible to people with mobility disabilities.\nParent Club is a series of literary, educational and artistic meetups for children and their caregivers, held at selected branches of the Tadeusz Różewicz Municipal Public Library in Wrocław."
         },
         "uk": {
-          "title": "Створюємо комікс - малювальні майстер-класи для дітей",
-          "description": "На майстер-класах коміксів ви дізнаєтеся, як створити сценарій і власних героїв, що таке кадри, димки, плани, як повинні виглядати ескізи та остаточна форма коміксу, а також як правильно підбирати кольори в коміксі.\n\nВідкриття для дітей віком від 7 років.\n\n**Діє один квиток для пари: дитина та опікун.**\n\nПільгові квитки для осіб з карткою бібліотеки MBP Вроцлав.\n\nМісце дружнє до осіб з обмеженими можливостями.\n\nКлуб Батьків - це циклічні літературні, освітні та художні зустрічі для дітей та їх опікунів, які проходять у вибраних філіях Міської бібліотеки імені Тадеуша Рожевича у Вроцлаві."
+          "title": "Створюємо комікс – майстер-клас із малювання для дітей",
+          "description": "На комікс-майстерні ви дізнаєтеся, як створити сценарій і власних героїв, що таке кадри, хмаринки для реплік і сторінки, як мають виглядати ескізи та остаточний вигляд коміксу, а також як правильно добирати кольори в коміксі.\nЗахід для дітей віком від 7 років.\nПотрібен один квиток на пару: дитину та супроводжуючу особу.\nПільгові квитки для власників читацького квитка MBP Wrocław.\nМісце доступне для людей з порушеннями рухливості.\nКлуб батьків — це цикл літературних, освітніх і мистецьких зустрічей для дітей та їхніх опікунів, що відбуваються в окремих філіях Міської публічної бібліотеки імені Тадеуша Ружевича у Вроцлаві."
         }
       },
       "admission": {
@@ -4539,7 +4547,7 @@
         "ticket_url": "https://www.kupbilecik.pl/pl/event/225433/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
       },
       "district": "Fabryczna",
-      "updated_at": "2026-11-03T14:13:15.297070+00:00"
+      "updated_at": "2026-11-04T14:28:14.264322+00:00"
     },
     "spotkania-przy-hu-tawkach-2026-11-17T11:30:00+01:00": {
       "title": "Spotkania przy huśtawkach",
@@ -8242,6 +8250,404 @@
       },
       "district": "Krzyki",
       "updated_at": "2026-11-03T14:13:15.297565+00:00"
+    },
+    "teatr-magii-macieja-pola-interaktywne-familijne-widowisko-najs-ynniejszego-polskiego-iluzjonisty-2026-11-04T17:00:00+01:00": {
+      "title": "Teatr Magii Macieja Pola - Interaktywne Familijne Widowisko Najsłynniejszego Polskiego Iluzjonisty",
+      "date": "2026-11-04T17:00:00+01:00",
+      "end_date": "2026-11-04T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "**Zapraszamy na niezwykłe widowisko \"Teatr Magii Macieja Pola\" - spektakl, który przeniesie Państwa w świat pełen czarów, tajemnic i niesamowitych wrażeń.**\n\nMaciej Pol, najsłynniejszy polski iluzjonista, laureat wielu międzynarodowych festiwali sztuki iluzji, zaprezentuje swoje najnowsze i najbardziej spektakularne numery, które zachwyciły publiczność na całym świecie. Magia, która zaprasza do interakcji! Maciej Pol słynie z angażowania publiczności w swoje pokazy. Widzowie nie są tylko obserwatorami - stają się częścią niezwykłej podróży do krainy magii! Każdy numer to dawka emocji, zaskoczenia i radości. Oto kilka z nich:\n\n**- Królik rozrabiaka** - Czy możliwe jest, by zwykły chłopiec wyczarował królika z pustej skrzyni? A co, jeśli ten królik nagle zniknie? Publiczność wstrzymuje oddech, gdy rozpoczynają się poszukiwania zaginionego zwierzaka! Zabawny i interaktywny numer, który zachwyca najmłodszych i bawi dorosłych.\n**- Zegary** - Niezwykle elegancka etiuda, w której czas przestaje mieć znaczenie! Maciej Pol, w rytm klimatycznej muzyki, materializuje zegarki - jedne dzwonią, inne unoszą się w powietrzu. W kulminacyjnym momencie na scenie pojawiają się gigantyczne zegary, wprawiając publiczność w osłupienie.\n**- Origami** - Co się stanie, gdy mały sześcian zamieni się w ogromną bryłę, do której wejdzie asystentka? A potem... zostanie przecięta na pół magicznymi mieczami! Finał numeru to prawdziwy pokaz ognia i efektów specjalnych, który zapiera dech w piersiach.\n**- Niefortunny strzelec** - Widzowie uwielbiają ten numer! Losowo wybrana osoba z publiczności staje się strzelcem, ale jej strzały sieją spustoszenie w scenografii. Czy w finałowym strzale uda się odsłonić wybraną wcześniej kartę? Wstrzymaj oddech i przekonaj się sam!\n**- Błyskawiczne odchudzenie** - Nieprawdopodobna przemiana! Asystentka Macieja Pola wchodzi do barwnej skrzyni, a iluzjonista... skręca jej ciało wokół własnej osi! Jej sylwetka staje się niemal nierealna. Po chwili wszystko wraca do normy, wywołując salwy śmiechu i burzę oklasków!\n**- Kosmiczny robot** - Spektakularna transformacja inspirowana grami komputerowymi! Maciej Pol przeistacza się w kosmicznego robota, a jego ciało zdaje się rozpływać w powietrzu. Widowisko pełne futurystycznych efektów, które przenosi widzów do innego wymiaru!\n**- Przecięcie osoby** - Niesamowita iluzja, w której asystentka zostaje przecięta na dwie części! Wszystko dzieje się na oczach publiczności, w pełnym oświetleniu. Czy to możliwe? Oczywiście - w Teatrze Magii wszystko może się zdarzyć!\n**- Śnieżna zamieć** - Maciej Pol zabiera nas do krainy, w której nigdy nie pada śnieg. Aż nagle, za sprawą jego rąk, scena zmienia się w prawdziwą zamieć! Tysące płatków wirują w powietrzu, otaczając widownię w zimowym czarze. Efekt zapiera dech w piersiach!\n\n**Dlaczego nie możesz tego przegapić?** Teatr Magii Macieja Pola to nie tylko pokaz iluzji - to prawdziwe widowisko, które przenosi widzów w inny wymiar. Połączenie sztuki, humoru i spektakularnych efektów sprawia, że ten show to absolutne must-see dla całej rodziny! \"Teatr Magii Macieja Pola\" to wspaniałe widowisko, które łączy w sobie elementy iluzji, teatru i muzyki. Każdy pokaz to starannie przygotowana opowieść, w której magia staje się narzędziem do przekazywania emocji i pobudzania wyobraźni. W trakcie spektaklu widzowie będą świadkami znikających przedmiotów, lewitacji, teleportacji oraz wielu innych efektów, które zaskoczą każdego widza.\n\n**Dlaczego warto wziąć udział w tym spektaklu?**\n\n- Unikalne doświadczenie: Maciej Pol nie tylko prezentuje triki iluzjonistyczne, ale tworzy całe historie, które angażują i poruszają publiczność.\n\n- Interaktywność: Wielu widzów ma okazję stać się częścią przedstawienia, co czyni każdy spektakl niepowtarzalnym.\n- Profesjonalizm: Wieloletnie doświadczenie i pasja Macieja Pola gwarantują widowisko na najwyższym poziomie artystycznym.\n **Maciej Pol** to mistrz iluzji, którego talent doceniono na renomowanych scenach w Casablance, Paryżu, Wiedniu, Chicago, Moskwie czy Dreźnie. Jego nowoczesne i niepowtarzalne kreacje przenoszą widza w świat pełen czarów i niezwykłych tajemnic. Od 1985 roku jest członkiem Krajowego Klubu Iluzjonistów w Łodzi, a jego kariera obfituje w liczne nagrody i wyróżnienia, takie jak Grand Prix Festiwalu w Żelaznym Brodzie czy Grand Prix największego Festiwalu Sztuki Iluzji w Pradze.\n\n**Opinie mediów:**\n- Polskie Radio w 2017 roku podkreśliło, że Maciej Pol to \"najpopularniejszy polski iluzjonista\", którego \"niezwykły Teatr Magii wystąpił w 17 polskich miastach podczas trasy koncertowej Lata z Radiem\".\n- TVN w 2016 roku relacjonował występ Macieja Pola w Londynie jako \"gwiazdy Wielkiej Orkiestry Świątecznej Pomocy\", który odbył się w \"przepięknej wiktoriańskiej sali koncertowej The Grand na Clapham Junction\".\n\nCzas trwania show - 80 minut.\nDla widzów w wieku od 3 do 103 lat.",
+      "image": "https://assets.kupbilecik.pl/img/baza/2000/1166.webp?1788761742",
+      "url": "https://www.kupbilecik.pl/pl/event/192786/wroclaw/teatr-magii-macieja-pola?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
+      "location": {
+        "name": "Sala Koncertowa Radia Wrocław",
+        "address": "Aleja Karkonoska 10",
+        "lat": 51.071741,
+        "lng": 17.006947,
+        "district": "Krzyki"
+      },
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/192786/wroclaw/teatr-magii-macieja-pola?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-11-04T14:24:54.203527+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 18
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Teatr Magii Macieja Pola - Interaktywne Familijne Widowisko Najsłynniejszego Polskiego Iluzjonisty",
+          "description": "**Zapraszamy na niezwykłe widowisko \"Teatr Magii Macieja Pola\" - spektakl, który przeniesie Państwa w świat pełen czarów, tajemnic i niesamowitych wrażeń.**\n\nMaciej Pol, najsłynniejszy polski iluzjonista, laureat wielu międzynarodowych festiwali sztuki iluzji, zaprezentuje swoje najnowsze i najbardziej spektakularne numery, które zachwyciły publiczność na całym świecie. Magia, która zaprasza do interakcji! Maciej Pol słynie z angażowania publiczności w swoje pokazy. Widzowie nie są tylko obserwatorami - stają się częścią niezwykłej podróży do krainy magii! Każdy numer to dawka emocji, zaskoczenia i radości. Oto kilka z nich:\n\n**- Królik rozrabiaka** - Czy możliwe jest, by zwykły chłopiec wyczarował królika z pustej skrzyni? A co, jeśli ten królik nagle zniknie? Publiczność wstrzymuje oddech, gdy rozpoczynają się poszukiwania zaginionego zwierzaka! Zabawny i interaktywny numer, który zachwyca najmłodszych i bawi dorosłych.\n**- Zegary** - Niezwykle elegancka etiuda, w której czas przestaje mieć znaczenie! Maciej Pol, w rytm klimatycznej muzyki, materializuje zegarki - jedne dzwonią, inne unoszą się w powietrzu. W kulminacyjnym momencie na scenie pojawiają się gigantyczne zegary, wprawiając publiczność w osłupienie.\n**- Origami** - Co się stanie, gdy mały sześcian zamieni się w ogromną bryłę, do której wejdzie asystentka? A potem... zostanie przecięta na pół magicznymi mieczami! Finał numeru to prawdziwy pokaz ognia i efektów specjalnych, który zapiera dech w piersiach.\n**- Niefortunny strzelec** - Widzowie uwielbiają ten numer! Losowo wybrana osoba z publiczności staje się strzelcem, ale jej strzały sieją spustoszenie w scenografii. Czy w finałowym strzale uda się odsłonić wybraną wcześniej kartę? Wstrzymaj oddech i przekonaj się sam!\n**- Błyskawiczne odchudzenie** - Nieprawdopodobna przemiana! Asystentka Macieja Pola wchodzi do barwnej skrzyni, a iluzjonista... skręca jej ciało wokół własnej osi! Jej sylwetka staje się niemal nierealna. Po chwili wszystko wraca do normy, wywołując salwy śmiechu i burzę oklasków!\n**- Kosmiczny robot** - Spektakularna transformacja inspirowana grami komputerowymi! Maciej Pol przeistacza się w kosmicznego robota, a jego ciało zdaje się rozpływać w powietrzu. Widowisko pełne futurystycznych efektów, które przenosi widzów do innego wymiaru!\n**- Przecięcie osoby** - Niesamowita iluzja, w której asystentka zostaje przecięta na dwie części! Wszystko dzieje się na oczach publiczności, w pełnym oświetleniu. Czy to możliwe? Oczywiście - w Teatrze Magii wszystko może się zdarzyć!\n**- Śnieżna zamieć** - Maciej Pol zabiera nas do krainy, w której nigdy nie pada śnieg. Aż nagle, za sprawą jego rąk, scena zmienia się w prawdziwą zamieć! Tysące płatków wirują w powietrzu, otaczając widownię w zimowym czarze. Efekt zapiera dech w piersiach!\n\n**Dlaczego nie możesz tego przegapić?** Teatr Magii Macieja Pola to nie tylko pokaz iluzji - to prawdziwe widowisko, które przenosi widzów w inny wymiar. Połączenie sztuki, humoru i spektakularnych efektów sprawia, że ten show to absolutne must-see dla całej rodziny! \"Teatr Magii Macieja Pola\" to wspaniałe widowisko, które łączy w sobie elementy iluzji, teatru i muzyki. Każdy pokaz to starannie przygotowana opowieść, w której magia staje się narzędziem do przekazywania emocji i pobudzania wyobraźni. W trakcie spektaklu widzowie będą świadkami znikających przedmiotów, lewitacji, teleportacji oraz wielu innych efektów, które zaskoczą każdego widza.\n\n**Dlaczego warto wziąć udział w tym spektaklu?**\n\n- Unikalne doświadczenie: Maciej Pol nie tylko prezentuje triki iluzjonistyczne, ale tworzy całe historie, które angażują i poruszają publiczność.\n\n- Interaktywność: Wielu widzów ma okazję stać się częścią przedstawienia, co czyni każdy spektakl niepowtarzalnym.\n- Profesjonalizm: Wieloletnie doświadczenie i pasja Macieja Pola gwarantują widowisko na najwyższym poziomie artystycznym.\n **Maciej Pol** to mistrz iluzji, którego talent doceniono na renomowanych scenach w Casablance, Paryżu, Wiedniu, Chicago, Moskwie czy Dreźnie. Jego nowoczesne i niepowtarzalne kreacje przenoszą widza w świat pełen czarów i niezwykłych tajemnic. Od 1985 roku jest członkiem Krajowego Klubu Iluzjonistów w Łodzi, a jego kariera obfituje w liczne nagrody i wyróżnienia, takie jak Grand Prix Festiwalu w Żelaznym Brodzie czy Grand Prix największego Festiwalu Sztuki Iluzji w Pradze.\n\n**Opinie mediów:**\n- Polskie Radio w 2017 roku podkreśliło, że Maciej Pol to \"najpopularniejszy polski iluzjonista\", którego \"niezwykły Teatr Magii wystąpił w 17 polskich miastach podczas trasy koncertowej Lata z Radiem\".\n- TVN w 2016 roku relacjonował występ Macieja Pola w Londynie jako \"gwiazdy Wielkiej Orkiestry Świątecznej Pomocy\", który odbył się w \"przepięknej wiktoriańskiej sali koncertowej The Grand na Clapham Junction\".\n\nCzas trwania show - 80 minut.\nDla widzów w wieku od 3 do 103 lat."
+        },
+        "en": {
+          "title": "Maciej Pol's Theatre of Magic - An Interactive Family Show by Poland's Most Famous Illusionist",
+          "description": "**We invite you to an extraordinary performance, “Maciej Pol's Theatre of Magic” — a show that will transport you to a world full of magic, mystery, and incredible experiences.**\n\nMaciej Pol, Poland's most famous illusionist and winner of numerous international illusion festivals, will present his latest and most spectacular acts, which have amazed audiences around the world. Magic that invites you to take part! Maciej Pol is known for involving the audience in his shows. The audience members are not just spectators — they become part of an extraordinary journey into the land of magic! Every act brings excitement, surprise, and joy. Here are a few of them:\n\n**- Mischievous Rabbit** - Is it possible for an ordinary boy to conjure a rabbit out of an empty box? And what if the rabbit suddenly disappears? The audience holds its breath."
+        },
+        "uk": {
+          "title": "Театр магії Мацея Поля — інтерактивне сімейне шоу найвідомішого польського ілюзіоніста",
+          "description": "**Запрошуємо на неймовірне шоу «Театр магії Мацея Поля» — виставу, яка перенесе вас у світ, сповнений чарів, таємниць і незабутніх вражень.**\n\nМацей Поль, найвідоміший польський ілюзіоніст, лауреат багатьох міжнародних фестивалів мистецтва ілюзії, представить свої найновіші та найвидовищніші номери, які захопили публіку в усьому світі. Магія, що запрошує до взаємодії! Мацей Поль відомий тим, що залучає публіку до своїх виступів. Глядачі не просто спостерігають — вони стають частиною незвичайної подорожі до країни магії! Кожен номер дарує емоції, здивування та радість. Ось деякі з них:\n\n**- Кролик-пустун** - Чи можливо, щоб звичайний хлопчик дістав кролика з порожньої скрині? А що, якщо цей кролик раптом зникне? Глядачі затамовують подих"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/192786/wroclaw/teatr-magii-macieja-pola?utm_source=pp&utm_medium=604"
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-11-04T14:28:14.264022+00:00"
+    },
+    "joga-dla-dzieci-2026-11-17T17:00:00+01:00": {
+      "title": "Joga dla dzieci",
+      "date": "2026-11-17T17:00:00+01:00",
+      "end_date": "2026-11-17T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Joga dla dzieci we Wrocławiu – ruch, zabawa i relaks\n\n**Joga dla dzieci** to twórcze połączenie **ruchu, zabawy i relaksu**, które wspiera rozwój fizyczny i emocjonalny najmłodszych. Warsztaty prowadzone są w oparciu o metodę **Animal Kids Yoga**, czyli jogę przez zabawę. Dzięki temu ćwiczenia są dla dzieci **ciekawe, angażujące i dostosowane do ich wieku**.\n\nTo doskonała propozycja dla rodziców szukających wartościowych zajęć z kategorii **wydarzenia Wrocław** i **co robić we Wrocławiu z dzieckiem**.\n\nDla kogo są zajęcia?\n\nZajęcia przeznaczone są dla:\n\n• **dzieci w wieku 7–12 lat**,\n\n• uczniów szkół podstawowych,\n\n• dzieci, które lubią ruch, zabawę i kreatywne formy aktywności.\n\nJak zapisać dziecko na jogę?\n\n• Dziecko zapisywane jest **na cały cykl zajęć**, realizowany **regularnie aż do czerwca**,\n\n• Nie ma możliwości zapisu na pojedyncze spotkanie – prosimy o **przemyślane decyzje**,\n\n• **Zajęcia są płatne** – opłata wynosi **20 zł miesięcznie**.\n\nZapisy poprzez formularz - link",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-1a05b403ac11000265bef74636ba2e09/pobrane.jfif",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1404860-joga-dla-dzieci",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "CAL Szczepin Zachodnia 1, Wrocław 53-643",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1404860-joga-dla-dzieci",
+      "scrapped_timestamp": "2026-11-04T14:25:37.464971+00:00",
+      "category": "Sports",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 7,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Joga dla dzieci",
+          "description": "Joga dla dzieci we Wrocławiu – ruch, zabawa i relaks\n\n**Joga dla dzieci** to twórcze połączenie **ruchu, zabawy i relaksu**, które wspiera rozwój fizyczny i emocjonalny najmłodszych. Warsztaty prowadzone są w oparciu o metodę **Animal Kids Yoga**, czyli jogę przez zabawę. Dzięki temu ćwiczenia są dla dzieci **ciekawe, angażujące i dostosowane do ich wieku**.\n\nTo doskonała propozycja dla rodziców szukających wartościowych zajęć z kategorii **wydarzenia Wrocław** i **co robić we Wrocławiu z dzieckiem**.\n\nDla kogo są zajęcia?\n\nZajęcia przeznaczone są dla:\n\n• **dzieci w wieku 7–12 lat**,\n\n• uczniów szkół podstawowych,\n\n• dzieci, które lubią ruch, zabawę i kreatywne formy aktywności.\n\nJak zapisać dziecko na jogę?\n\n• Dziecko zapisywane jest **na cały cykl zajęć**, realizowany **regularnie aż do czerwca**,\n\n• Nie ma możliwości zapisu na pojedyncze spotkanie – prosimy o **przemyślane decyzje**,\n\n• **Zajęcia są płatne** – opłata wynosi **20 zł miesięcznie**.\n\nZapisy poprzez formularz - link"
+        },
+        "en": {
+          "title": "Yoga for Children",
+          "description": "Yoga for children in Wrocław – movement, fun and relaxation\n\n**Yoga for children** is a creative combination of **movement, fun and relaxation** that supports the physical and emotional development of young children. The workshops are based on the **Animal Kids Yoga** method, which uses play to teach yoga. This makes the exercises **interesting, engaging and tailored to their age**.\n\nIt’s an excellent option for parents looking for meaningful activities in the categories **events in Wrocław** and **what to do in Wrocław with a child**.\n\nWho are the classes for?\n\nThe classes are intended for:\n\n• **children aged 7–12**,\n\n• primary school students,\n\n• children who enjoy movement, fun and creative activities.\n\nHow do you sign your child up for yoga?\n\n• Children are registered **for the entire series of classes**, which takes place **regularly until"
+        },
+        "uk": {
+          "title": "Йога для дітей",
+          "description": "Йога для дітей у Вроцлаві – рух, гра та релакс\n\n**Йога для дітей** — це творче поєднання **руху, гри та релаксу**, яке підтримує фізичний та емоційний розвиток наймолодших. Майстер-класи проводяться за методикою **Animal Kids Yoga**, тобто йоги через гру. Завдяки цьому вправи для дітей **цікаві, захопливі та адаптовані до їхнього віку**.\n\nЦе чудова пропозиція для батьків, які шукають змістовні заняття в категоріях **події у Вроцлаві** та **чим зайнятися у Вроцлаві з дитиною**.\n\nДля кого ці заняття?\n\nЗаняття призначені для:\n\n• **дітей віком 7–12 років**,\n\n• учнів початкових шкіл,\n\n• дітей, яким подобаються рух, гра та творчі види активності.\n\nЯк записати дитину на йогу?\n\n• Дитина записується **на весь цикл занять**, який проводиться **регулярно аж до"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-04T14:28:14.264098+00:00"
+    },
+    "skrzyd-a-wroc-awia-rodzinna-misja-lotnicza-wroc-aw-miros-awice-2026-11-07T11:00:00+01:00": {
+      "title": "SKRZYDŁA WROCŁAWIA - RODZINNA MISJA LOTNICZA – WROCŁAW → MIROSŁAWICE",
+      "date": "2026-11-07T11:00:00+01:00",
+      "end_date": "2026-11-07T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Pięć tajemnic do odkrycia, jedno lotnisko i rodzinna przygoda, która pozwoli spojrzeć na świat lotnictwa z zupełnie innej perspektywy! W ramach inicjatywy **„Skrzydła Wrocławia – Rodzinna Misja Lotnicza”** uczestnicy wyruszą z Wrocławia do Mirosławic, gdzie czeka na nich wyjątkowa wyprawa pełna zagadek, ciekawostek i odkrywania lotniczych sekretów.\n\nPięć zagadek i niezwykłe odkrycia na lotnisku\n\nNa uczestników czeka **pięć lotniczych zagadek**, których rozwiązanie pozwoli lepiej poznać historię i specyfikę lotniska w Mirosławicach. W programie przewidziano również wizytę w hangarze oraz możliwość zajrzenia do kabiny samolotu. To okazja, by z bliska zobaczyć miejsca i elementy, które na co dzień pozostają niedostępne dla większości osób.\n\nRodzinna wyprawa z Wrocławia do Mirosławic\n\nPrzygoda rozpocznie się we Wrocławiu, skąd uczestnicy wyruszą własnym transportem na lotnisko w Mirosławicach. Organizatorzy przygotowali kilka grup, dzięki czemu można wybrać dogodną godzinę udziału. To propozycja dla rodzin, które chcą wspólnie spędzić czas, rozbudzić ciekawość i poznać fascynujący świat lotnictwa.\n\nInformacje organizacyjne\n\n• **Terminy:** 7 i 8 listopada 2026 r. (sobota i niedziela)\n\n• **Godziny – w oba dni:**\n\n• I grupa: 11:00–11:50\n\n• II grupa: 12:05–12:55\n\n• **Miejsce:** lotnisko w Mirosławicach\n\n• **Zbiórka:** we Wrocławiu; dokładne miejsce zostanie przekazane uczestnikom\n\n• **Dojazd:** własnym transportem\n\n• **Cena:** 40 zł za każdego uczestnika\n\n• **Rezerwacje:** 515 387 693\n\n• **Więcej informacji:** www.mrmodelarnia.pl",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-d95c3b58ac11000226ef88dda096d6ab/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1418733-skrzydla-wroclawia-rodzinna-misja-lotnicza-wroclaw-miroslawice",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Lotnisko Mirosławice Lotnicza 14, Mirosławice",
+        "district": "Psie Pole"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1418733-skrzydla-wroclawia-rodzinna-misja-lotnicza-wroclaw-miroslawice",
+      "scrapped_timestamp": "2026-11-04T14:25:51.247748+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Educational",
+        "Games"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "both",
+      "translations": {
+        "pl": {
+          "title": "SKRZYDŁA WROCŁAWIA - RODZINNA MISJA LOTNICZA – WROCŁAW → MIROSŁAWICE",
+          "description": "Pięć tajemnic do odkrycia, jedno lotnisko i rodzinna przygoda, która pozwoli spojrzeć na świat lotnictwa z zupełnie innej perspektywy! W ramach inicjatywy **„Skrzydła Wrocławia – Rodzinna Misja Lotnicza”** uczestnicy wyruszą z Wrocławia do Mirosławic, gdzie czeka na nich wyjątkowa wyprawa pełna zagadek, ciekawostek i odkrywania lotniczych sekretów.\n\nPięć zagadek i niezwykłe odkrycia na lotnisku\n\nNa uczestników czeka **pięć lotniczych zagadek**, których rozwiązanie pozwoli lepiej poznać historię i specyfikę lotniska w Mirosławicach. W programie przewidziano również wizytę w hangarze oraz możliwość zajrzenia do kabiny samolotu. To okazja, by z bliska zobaczyć miejsca i elementy, które na co dzień pozostają niedostępne dla większości osób.\n\nRodzinna wyprawa z Wrocławia do Mirosławic\n\nPrzygoda rozpocznie się we Wrocławiu, skąd uczestnicy wyruszą własnym transportem na lotnisko w Mirosławicach. Organizatorzy przygotowali kilka grup, dzięki czemu można wybrać dogodną godzinę udziału. To propozycja dla rodzin, które chcą wspólnie spędzić czas, rozbudzić ciekawość i poznać fascynujący świat lotnictwa.\n\nInformacje organizacyjne\n\n• **Terminy:** 7 i 8 listopada 2026 r. (sobota i niedziela)\n\n• **Godziny – w oba dni:**\n\n• I grupa: 11:00–11:50\n\n• II grupa: 12:05–12:55\n\n• **Miejsce:** lotnisko w Mirosławicach\n\n• **Zbiórka:** we Wrocławiu; dokładne miejsce zostanie przekazane uczestnikom\n\n• **Dojazd:** własnym transportem\n\n• **Cena:** 40 zł za każdego uczestnika\n\n• **Rezerwacje:** 515 387 693\n\n• **Więcej informacji:** www.mrmodelarnia.pl"
+        },
+        "en": {
+          "title": "WINGS OF WROCŁAW – FAMILY AVIATION MISSION – WROCŁAW → MIROSŁAWICE",
+          "description": "Five mysteries to uncover, one airport, and a family adventure that will let you see the world of aviation from a completely different perspective! As part of the **“Wings of Wrocław – Family Aviation Mission”** initiative, participants will set off from Wrocław to Mirosławice, where an extraordinary expedition awaits, full of puzzles, fascinating facts, and aviation secrets to uncover.\n\nFive puzzles and extraordinary discoveries at the airport\n\nParticipants will take on **five aviation puzzles**, solving them to learn more about the history and character of the airport in Mirosławice. The program also includes a visit to a hangar and the opportunity to look inside an aircraft cockpit. It’s a chance to see up close places and features that are usually inaccessible to most people.\n\nA family expedition from Wrocław to Mirosławice\n\nAdventure"
+        },
+        "uk": {
+          "title": "КРИЛА ВРОЦЛАВА — СІМЕЙНА АВІАЦІЙНА МІСІЯ – ВРОЦЛАВ → МІРОШЛАВІЦЕ",
+          "description": "П’ять таємниць, які потрібно розкрити, один аеропорт і сімейна пригода, що дасть змогу поглянути на світ авіації зовсім під іншим кутом! У межах ініціативи **«Крила Вроцлава — Сімейна авіаційна місія»** учасники вирушать із Вроцлава до Мірошлавіце, де на них чекає особлива мандрівка, сповнена загадок, цікавих фактів і відкриттів авіаційних таємниць.\n\nП’ять загадок і незвичайні відкриття в аеропорту\n\nНа учасників чекає **п’ять авіаційних загадок**, розв’язання яких допоможе краще пізнати історію та особливості аеропорту в Мірошлавіце. У програмі також передбачено відвідування ангара та можливість зазирнути до кабіни літака. Це нагода зблизька побачити місця й елементи, які зазвичай залишаються недоступними для більшості людей.\n\nСімейна подорож із Вроцлава до Мірошлавіце\n\nПригода"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Psie Pole",
+      "updated_at": "2026-11-04T14:28:14.264124+00:00"
+    },
+    "wyobra-sobie-wiek-9-2026-11-07T15:00:00+01:00": {
+      "title": "Wyobraź sobie... | wiek 9+",
+      "date": "2026-11-07T15:00:00+01:00",
+      "end_date": "2026-11-07T15:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Podróż do świata dziecięcej wyobraźni\n\nZnacie zabawę w berka? A w chowanego? Albo w „Raz, dwa, trzy, Baba Jaga patrzy”?\n\nKtoś ni stąd, ni zowąd krzyczy na ulicy: „Baba Jaga patrzy!”. Biegniecie jak szaleni i zatrzymujecie się dopiero wtedy, gdy zabraknie wam tchu. Macie ciarki na plecach i zakrywacie dłonią usta, żeby serce nie wyskoczyło wam z piersi.\n\nWszyscy się schowali, tylko Anusia nie zdążyła uciec. Baba Jaga łapie ją do worka i leci z nią jak wiatr, daleko, daleko. A w tym worku jest dziura i Anusia widzi przez nią zupełnie nowy świat.\n\nWidzi dom, ogród i tajemniczy las. Dom, w którym mieszka pan Tralaliński z rodziną, pan Hilary, kózka, co skakała, Zosia Samosia i inne postacie z wierszy **Juliana Tuwima**. Spotyka też aktorkę, wilka i wypchanego myśliwego, a do tego kraba, małpę z walizką oraz małego czarodzieja.\n\nBędą z nią rozmawiać zardzewiała wanna, stara kanapa i róża na krzaku.\n\nAnusia przypomni dzieciom i dorosłym najsłynniejsze wiersze Juliana Tuwima, ale przedstawi także polskiej publiczności dwóch mniej znanych poetów: **Ivana Wernischa** z Czech oraz **Jána Sedala** ze Słowacji.\n\nZ ich tekstów wyczaruje przed oczami widzów świat poezji, który ożyje dzięki nieskrępowanej dziecięcej wyobraźni.\n\nBędzie to podróż pełna zabawy, humoru, barw i przygód, których każdy z nas może doświadczyć na końcu swojej ulicy, za rogiem domu czy za płotem tajemniczego ogrodu.\n\nDofinansowanie\n\nDofinansowano ze środków **Ministra Kultury i Dziedzictwa Narodowego**, pochodzących z **Funduszu Promocji Kultury**, państwowego funduszu celowego.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-e7ec7888ac110002443b4914a63ffef5/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1411802-wyobraz-sobie-wiek-9",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Wrocławski Teatr Lalek Pl. Teatralny 4, Wrocław 50-051",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/teatr/1411802-wyobraz-sobie-wiek-9",
+      "scrapped_timestamp": "2026-11-04T14:26:03.702585+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 9,
+        "max": 17
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Wyobraź sobie... | wiek 9+",
+          "description": "Podróż do świata dziecięcej wyobraźni\n\nZnacie zabawę w berka? A w chowanego? Albo w „Raz, dwa, trzy, Baba Jaga patrzy”?\n\nKtoś ni stąd, ni zowąd krzyczy na ulicy: „Baba Jaga patrzy!”. Biegniecie jak szaleni i zatrzymujecie się dopiero wtedy, gdy zabraknie wam tchu. Macie ciarki na plecach i zakrywacie dłonią usta, żeby serce nie wyskoczyło wam z piersi.\n\nWszyscy się schowali, tylko Anusia nie zdążyła uciec. Baba Jaga łapie ją do worka i leci z nią jak wiatr, daleko, daleko. A w tym worku jest dziura i Anusia widzi przez nią zupełnie nowy świat.\n\nWidzi dom, ogród i tajemniczy las. Dom, w którym mieszka pan Tralaliński z rodziną, pan Hilary, kózka, co skakała, Zosia Samosia i inne postacie z wierszy **Juliana Tuwima**. Spotyka też aktorkę, wilka i wypchanego myśliwego, a do tego kraba, małpę z walizką oraz małego czarodzieja.\n\nBędą z nią rozmawiać zardzewiała wanna, stara kanapa i róża na krzaku.\n\nAnusia przypomni dzieciom i dorosłym najsłynniejsze wiersze Juliana Tuwima, ale przedstawi także polskiej publiczności dwóch mniej znanych poetów: **Ivana Wernischa** z Czech oraz **Jána Sedala** ze Słowacji.\n\nZ ich tekstów wyczaruje przed oczami widzów świat poezji, który ożyje dzięki nieskrępowanej dziecięcej wyobraźni.\n\nBędzie to podróż pełna zabawy, humoru, barw i przygód, których każdy z nas może doświadczyć na końcu swojej ulicy, za rogiem domu czy za płotem tajemniczego ogrodu.\n\nDofinansowanie\n\nDofinansowano ze środków **Ministra Kultury i Dziedzictwa Narodowego**, pochodzących z **Funduszu Promocji Kultury**, państwowego funduszu celowego.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Imagine... | ages 9+",
+          "description": "A journey into the world of a child’s imagination\n\nDo you know how to play tag? Hide-and-seek? Or “One, two, three, Baba Yaga is watching!”?\n\nSomeone suddenly shouts in the street: “Baba Yaga is watching!”. You run like mad and stop only when you run out of breath. You get goosebumps and cover your mouth with your hand so your heart doesn’t leap out of your chest.\n\nEveryone has hidden, but little Anusia didn’t manage to get away in time. Baba Yaga catches her and puts her in a sack, then flies off with her like the wind, far, far away. And there’s a hole in the sack, and through it Anusia sees a completely new world.\n\nShe sees a house, a garden, and a mysterious forest. A house where Mr. Tralaliński lives with his family, along with Mr. Hilary, the little goat that jumped, Zosia Samosia, and other characters from the poems of **Julian Tuwim**. She also meets an actress, a wolf, and a stuffed hunter, as well as a crab, a monkey"
+        },
+        "uk": {
+          "title": "Уяви собі... | вік 9+",
+          "description": "Подорож у світ дитячої уяви\n\nЗнаєте гру в квача? А в хованки? Або в «Раз, два, три, Баба-Яга дивиться!»?\n\nХтось ні сіло ні впало кричить на вулиці: «Баба-Яга дивиться!». Ви біжите щодуху й зупиняєтеся лише тоді, коли вам забракне подиху. У вас мурашки по спині, і ви прикриваєте долонею рот, щоб серце не вискочило з грудей.\n\nУсі поховалися, тільки Анюся не встигла втекти. Баба-Яга хапає її в мішок і летить із нею, як вітер, далеко-далеко. А в тому мішку є дірка, і крізь неї Анюся бачить зовсім новий світ.\n\nВона бачить будинок, сад і таємничий ліс. Будинок, у якому живе пан Тралалінський із родиною, пан Гілярий, кізонька, що стрибала, Зося Самося та інші персонажі з віршів **Юліана Тувіма**. Вона також зустрічає акторку, вовка й опудало мисливця, а ще краба, мавпу"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-04T14:28:14.264144+00:00"
+    },
+    "z-o-absolutne-arty-ci-wroc-awscy-i-l-scy-na-us-ugach-nazistowskiej-propagandy-w-latach-30-i-pocz-lat-40-xx-w-2026-11-21T12:00:00+01:00": {
+      "title": "Zło absolutne. Artyści wrocławscy i śląscy na usługach nazistowskiej propagandy w latach 30. i pocz. lat 40. XX w.",
+      "date": "2026-11-21T12:00:00+01:00",
+      "end_date": "2026-11-21T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wykład dr. hab. Piotra Oszczanowskiego towarzyszący wystawie „Maestro i uczniowie, Cirillo dell’Antonio i Szkoła Snycerska w Cieplicach”\nSpotkanie poświęcone artystom wrocławskim i śląskim, którzy identyfikowali się z nową rzeczywistością, jaką było dojście do władzy w Niemczech nazistów w 1933 r. Zaprezentowane zostaną przypadki tych twórców (zwłaszcza malarzy i rzeźbiarzy), którzy z całą świadomością i przekonaniem opowiedzieli się za nową władzą i w swej twórczości dali liczne dowody jej afirmacji. Dotyczyło to w szczególności ich aktywności w obszarze szeroko pojętej propagandy, w tym także apoteozy władzy nazistowskiej i jej najważniejszych reprezentantów. Będzie to opowieść o oportunizmie i koniunkturalizmie licznej grupy tutejszych artystów. O świadomych wyborach, o służalczości i dehumanizacji sztuki. Bo ta stała się w ich wydaniu narzędziem skrajnie zideologizowanego oddziaływania na społeczeństwo niemieckie. W konsekwencji tego ich zaangażowania, to po roku 1945 najczęściej starali się oni o tym świadomie zapomnieć, w przysłowiowy sposób „wygumkować” ten wcześniejszy okres aktywności artystycznej w swoich życiorysach. Stąd dzisiaj często ich twórczość jest znana i omawiana tylko z okresu powojennego.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny. W przypadku pytań informacji udziela Dział Edukacji MNWr: tel. 71 372 51 48 lub edukacja@mnwr.pl.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_978000429_original.jpg",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu (Wrocław-Plac Grunwaldzki)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/zlo-absolutne-artysci-wroclawscy-i-slascy-na-uslugach-nazistowskiej-propagandy-w-latach-30-i-pocz-lat-40-xx-w/kw/c5-3318253",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/zlo-absolutne-artysci-wroclawscy-i-slascy-na-uslugach-nazistowskiej-propagandy-w-latach-30-i-pocz-lat-40-xx-w/kw/c5-3318253",
+      "scrapped_timestamp": "2026-11-04T14:26:42.625425+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Zło absolutne. Artyści wrocławscy i śląscy na usługach nazistowskiej propagandy w latach 30. i pocz. lat 40. XX w.",
+          "description": "Wykład dr. hab. Piotra Oszczanowskiego towarzyszący wystawie „Maestro i uczniowie, Cirillo dell’Antonio i Szkoła Snycerska w Cieplicach”\nSpotkanie poświęcone artystom wrocławskim i śląskim, którzy identyfikowali się z nową rzeczywistością, jaką było dojście do władzy w Niemczech nazistów w 1933 r. Zaprezentowane zostaną przypadki tych twórców (zwłaszcza malarzy i rzeźbiarzy), którzy z całą świadomością i przekonaniem opowiedzieli się za nową władzą i w swej twórczości dali liczne dowody jej afirmacji. Dotyczyło to w szczególności ich aktywności w obszarze szeroko pojętej propagandy, w tym także apoteozy władzy nazistowskiej i jej najważniejszych reprezentantów. Będzie to opowieść o oportunizmie i koniunkturalizmie licznej grupy tutejszych artystów. O świadomych wyborach, o służalczości i dehumanizacji sztuki. Bo ta stała się w ich wydaniu narzędziem skrajnie zideologizowanego oddziaływania na społeczeństwo niemieckie. W konsekwencji tego ich zaangażowania, to po roku 1945 najczęściej starali się oni o tym świadomie zapomnieć, w przysłowiowy sposób „wygumkować” ten wcześniejszy okres aktywności artystycznej w swoich życiorysach. Stąd dzisiaj często ich twórczość jest znana i omawiana tylko z okresu powojennego.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny. W przypadku pytań informacji udziela Dział Edukacji MNWr: tel. 71 372 51 48 lub edukacja@mnwr.pl."
+        },
+        "en": {
+          "title": "Absolute Evil. Wrocław and Silesian Artists in the Service of Nazi Propaganda in the 1930s and Early 1940s",
+          "description": "A lecture by Piotr Oszczanowski, PhD, accompanying the exhibition “Maestro and His Students, Cirillo dell’Antonio and the School of Woodcarving in Cieplice”\nA meeting devoted to Wrocław and Silesian artists who identified with the new reality ushered in by the Nazis’ rise to power in Germany in 1933. We will look at the cases of those artists (especially painters and sculptors) who, fully aware and convinced of their choice, declared their support for the new regime and provided ample evidence of their affirmation of it in their work. This was particularly evident in their activity in the broad field of propaganda, including the glorification of Nazi rule and its most important representatives. This is a story of the opportunism and careerism of a large group of local artists. Of conscious choices, servility, and d"
+        },
+        "uk": {
+          "title": "Абсолютне зло. Вроцлавські та сілезькі митці на службі нацистської пропаганди у 30-х і на початку 40-х років ХХ ст.",
+          "description": "Лекція д-ра габ. Пйотра Ошчановського, що супроводжує виставку «Маестро та учні, Cirillo dell’Antonio і Школа різьбярства в Цепліцах»\nЗустріч присвячена вроцлавським і сілезьким митцям, які ототожнювали себе з новою дійсністю, якою стало прихід до влади нацистів у Німеччині в 1933 р. Будуть представлені випадки митців (особливо живописців і скульпторів), які цілком свідомо й переконано підтримали нову владу та у своїй творчості дали численні докази її схвалення. Це стосувалося передусім їхньої діяльності у сфері широко трактованої пропаганди, зокрема й апофеозу нацистської влади та її найважливіших представників. Це буде розповідь про опортунізм і кон’юнктурництво численної групи місцевих митців. Про свідомий вибір, про прислужництво і д"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-04T14:28:14.264201+00:00"
+    },
+    "rze-ba-wsp-czesna-od-br-ncu-iego-do-land-artu-2026-11-21T16:00:00+01:00": {
+      "title": "Rzeźba współczesna. Od Brâncușiego do land artu",
+      "date": "2026-11-21T16:00:00+01:00",
+      "end_date": "2026-11-21T16:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wykład Iwony Gołaj towarzyszący prezentacji rzeźby „Popiersie robotnika” (1948) Xawerego Dunikowskiego\nPretekstem do wykładu jest eksponowana od kilku miesięcy na dziedzińcu Pawilonu Czterech Kopuł rzeźba autorstwa Xawerego Dunikowskiego (1875–1964). Spotkanie stanie się także swoistym aneksem do popularnego cyklu edukacyjnego realizowanego w Pawilonie Czterech Kopuł – „Kurs historii sztuki. Klasycy nowoczesności”. Prelegentka opowie, jak zmieniał się sposób traktowania formy w przestrzeni od czasów klasycznych po XXI w. oraz jak rzeźba od tradycyjnego portretu – poprzez abstrakcję, asamblaż i land art – pokonała drogę do współczesności.\nSpotkanie w Pawilonie Czterech Kopuł we Wrocławiu, wstęp wolny.\nW przypadku pytań informacji udziela Dział Edukacji P4K: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_978000431_original.jpg",
+      "location": {
+        "name": "Pawilon Czterech Kopuł oddz.  Muzeum Narodowe we Wrocławiu (Wrocław-Dąbie)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/rzezba-wspolczesna-od-brancusiego-do-land-artu/kw/c5-3318255",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/rzezba-wspolczesna-od-brancusiego-do-land-artu/kw/c5-3318255",
+      "scrapped_timestamp": "2026-11-04T14:27:02.967333+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Rzeźba współczesna. Od Brâncușiego do land artu",
+          "description": "Wykład Iwony Gołaj towarzyszący prezentacji rzeźby „Popiersie robotnika” (1948) Xawerego Dunikowskiego\nPretekstem do wykładu jest eksponowana od kilku miesięcy na dziedzińcu Pawilonu Czterech Kopuł rzeźba autorstwa Xawerego Dunikowskiego (1875–1964). Spotkanie stanie się także swoistym aneksem do popularnego cyklu edukacyjnego realizowanego w Pawilonie Czterech Kopuł – „Kurs historii sztuki. Klasycy nowoczesności”. Prelegentka opowie, jak zmieniał się sposób traktowania formy w przestrzeni od czasów klasycznych po XXI w. oraz jak rzeźba od tradycyjnego portretu – poprzez abstrakcję, asamblaż i land art – pokonała drogę do współczesności.\nSpotkanie w Pawilonie Czterech Kopuł we Wrocławiu, wstęp wolny.\nW przypadku pytań informacji udziela Dział Edukacji P4K: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81."
+        },
+        "en": {
+          "title": "Contemporary Sculpture. From Brâncuși to Land Art",
+          "description": "Iwona Gołaj’s lecture accompanying the presentation of the sculpture “Bust of a Worker” (1948) by Xawery Dunikowski\nThe lecture is prompted by a sculpture by Xawery Dunikowski (1875–1964), which has been on display for several months in the courtyard of the Four Domes Pavilion. The event will also serve as a kind of appendix to the popular educational series held at the Four Domes Pavilion, “Art History Course: Classics of Modernity”. The speaker will talk about how the treatment of form in space has changed from classical times to the 21st century, and how sculpture has made its way into the present day—from traditional portraiture through abstraction, assemblage and land art.\nMeeting at the Four Domes Pavilion in Wrocław; free admission.\nFor questions, contact the P4K Education Department: edukacja.pawilon@mnwr.pl or tel."
+        },
+        "uk": {
+          "title": "Сучасна скульптура. Від Бранкузі до ленд-арту",
+          "description": "Лекція Івони Ґолай, що супроводжує презентацію скульптури «Погруддя робітника» (1948) Ксаверія Дуниковського\nПриводом для лекції стала скульптура авторства Ксаверія Дуниковського (1875–1964), що вже кілька місяців експонується у дворі Павільйону чотирьох куполів. Зустріч також стане своєрідним доповненням до популярного освітнього циклу, що проходить у Павільйоні чотирьох куполів, — «Курс історії мистецтва. Класики модернізму». Лекторка розповість, як змінювалося ставлення до форми у просторі від класичних часів до XXI століття, а також як скульптура пройшла шлях від традиційного портрета — через абстракцію, асамбляж і ленд-арт — до сучасності.\nЗустріч у Павільйоні чотирьох куполів у Вроцлаві, вхід вільний.\nУ разі запитань інформацію надасть Відділ освіти П4К: edukacja.pawilon@mnwr.pl або тел."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-04T14:28:14.264222+00:00"
+    },
+    "kurs-historii-sztuk-sztuka-bizantyjska-w-blasku-estetyki-orientu-2026-11-22T11:00:00+01:00": {
+      "title": "Kurs historii sztuk /Sztuka bizantyjska – w blasku estetyki Orientu",
+      "date": "2026-11-22T11:00:00+01:00",
+      "end_date": "2026-11-22T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wykład dr. Dariusza Galewskiego w ramach cyklu „Kurs historii sztuki”\nSztuka cesarstwa wschodniorzymskiego rozwijała się od schyłku IV w. jako kontynuacja sztuki późnoantycznej i wczesnochrześcijańskiej. Swój pierwszy „złoty okres” przeżywała za panowania Justyniana Wielkiego (527–565), kiedy to powstały bazylika Hagia Sophia w Konstantynopolu czy kościół San Vitale w Rawennie. Dekorację ich wnętrz stanowiły mozaiki ukazujące dostojne i hieratyczne postacie, o wydłużonych proporcjach, ukazane frontalnie i pozbawione niemal ruchu. Podobnie jak ikony wskazywały na rzeczywistość duchową i były dla odbiorców „oknem” otwartym na świat idealny. Od schyłku IX w. nastąpiła ekspansja sztuki bizantyńskiej na niemal całym obszarze basenu Morza Śródziemnego i w krajach słowiańskich. Wykształciły się wówczas takie formy artystyczne, które są do dzisiaj kontynuowane w Kościołach wschodnich, jak świątynia kopułowa na planie krzyża greckiego czy oparte na wzornikach przedstawienia scen biblijnych. Pomimo tego, że imperium bizantyńskie upadło w 1453 r., odegrało nieocenioną rolę w przyswojeniu, ugruntowaniu i przekazaniu krajom europejskim dziedzictwa kultury starożytnej, co miało istotny wpływ dla ponownego jej odkrycia w okresie renesansu.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej [s. 116], wstęp z biletem w cenie 15 zł dostępnym w kasie biletowej oraz online [od wtorku poprzedzającego zajęcia]. Członkowie Stowarzyszenia Przyjaciół Muzeum Narodowego we Wrocławiu – wstęp bezpłatny.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_978000437_original.jpg",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu (Wrocław-Plac Grunwaldzki)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/kurs-historii-sztuk-sztuka-bizantyjska-w-blasku-estetyki-orientu/kw/c5-3318261",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/kurs-historii-sztuk-sztuka-bizantyjska-w-blasku-estetyki-orientu/kw/c5-3318261",
+      "scrapped_timestamp": "2026-11-04T14:27:16.975646+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kurs historii sztuk /Sztuka bizantyjska – w blasku estetyki Orientu",
+          "description": "Wykład dr. Dariusza Galewskiego w ramach cyklu „Kurs historii sztuki”\nSztuka cesarstwa wschodniorzymskiego rozwijała się od schyłku IV w. jako kontynuacja sztuki późnoantycznej i wczesnochrześcijańskiej. Swój pierwszy „złoty okres” przeżywała za panowania Justyniana Wielkiego (527–565), kiedy to powstały bazylika Hagia Sophia w Konstantynopolu czy kościół San Vitale w Rawennie. Dekorację ich wnętrz stanowiły mozaiki ukazujące dostojne i hieratyczne postacie, o wydłużonych proporcjach, ukazane frontalnie i pozbawione niemal ruchu. Podobnie jak ikony wskazywały na rzeczywistość duchową i były dla odbiorców „oknem” otwartym na świat idealny. Od schyłku IX w. nastąpiła ekspansja sztuki bizantyńskiej na niemal całym obszarze basenu Morza Śródziemnego i w krajach słowiańskich. Wykształciły się wówczas takie formy artystyczne, które są do dzisiaj kontynuowane w Kościołach wschodnich, jak świątynia kopułowa na planie krzyża greckiego czy oparte na wzornikach przedstawienia scen biblijnych. Pomimo tego, że imperium bizantyńskie upadło w 1453 r., odegrało nieocenioną rolę w przyswojeniu, ugruntowaniu i przekazaniu krajom europejskim dziedzictwa kultury starożytnej, co miało istotny wpływ dla ponownego jej odkrycia w okresie renesansu.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej [s. 116], wstęp z biletem w cenie 15 zł dostępnym w kasie biletowej oraz online [od wtorku poprzedzającego zajęcia]. Członkowie Stowarzyszenia Przyjaciół Muzeum Narodowego we Wrocławiu – wstęp bezpłatny."
+        },
+        "en": {
+          "title": "Art History Course / Byzantine Art – in the Splendor of Oriental Aesthetics",
+          "description": "Lecture by Dr. Dariusz Galewski as part of the “Art History Course” series\nThe art of the Eastern Roman Empire developed from the late 4th century as a continuation of Late Antique and Early Christian art. It experienced its first “golden age” during the reign of Justinian the Great (527–565), when the Hagia Sophia in Constantinople and the church of San Vitale in Ravenna were built. Their interiors were decorated with mosaics depicting dignified, hieratic figures with elongated proportions, shown frontally and almost entirely devoid of movement. Like icons, they pointed to spiritual reality and served as a “window” open to an ideal world for viewers. From the late 9th century, Byzantine art expanded across almost the entire Mediterranean basin and into Slavic countries. They developed in."
+        },
+        "uk": {
+          "title": "Курс історії мистецтва /Візантійське мистецтво – у сяйві естетики Сходу",
+          "description": "Лекція д-ра Даріуша Галевського в рамках циклу «Курс історії мистецтва»\nМистецтво Східної Римської імперії розвивалося з кінця IV ст. як продовження пізньоантичного та ранньохристиянського мистецтва. Свій перший «золотий період» воно переживало за правління Юстиніана Великого (527–565), коли постали базиліка Святої Софії в Константинополі та церква Сан-Вітале в Равенні. Їхні інтер’єри прикрашали мозаїки із зображеннями величних і статичних постатей видовжених пропорцій, показаних фронтально й майже позбавлених руху. Подібно до ікон, вони вказували на духовну реальність і були для глядачів «вікном», відкритим у світ ідеальний. З кінця IX ст. візантійське мистецтво поширилося майже на всій території басейну Середземного моря та в слов’янських країнах. Сформувалися в"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-04T14:28:14.264257+00:00"
+    },
+    "m-j-l-sk-fascynacje-zaginione-skarby-faberg-l-skie-historie-2026-11-22T13:00:00+01:00": {
+      "title": "Mój Śląsk. Fascynacje / Zaginione skarby Fabergé – śląskie historie",
+      "date": "2026-11-22T13:00:00+01:00",
+      "end_date": "2026-11-22T13:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wykład Moniki Raspen w ramach cyklu „Mój Śląsk. Fascynacje”\nCo może łączyć carską Rosję ze Śląskiem? Więcej niż moglibyśmy przypuszczać. Świat Fabergé nie kończył się przecież na murach petersburskich pałaców ani na rodzinie Romanowów. Jego klientami byli przedstawiciele najpotężniejszych europejskich rodów, arystokraci, milionerzy i kolekcjonerzy, a niezwykłe przedmioty opuszczające słynną pracownię wędrowały wraz ze swoimi właścicielami przez granice i epoki. Niektóre z tych historii prowadzą właśnie na Śląsk. „Zaginione skarby Fabergé – śląskie historie” będą opowieścią o zaskakujących związkach regionu ze światem rosyjskiej arystokracji, o ludziach, których losy połączyły odległe miejsca, oraz o klejnotach, które stawały się świadkami rodzinnych dramatów, politycznych przewrotów i upadku wielkich fortun.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_978000447_original.jpg",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu (Wrocław-Plac Grunwaldzki)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/moj-slask-fascynacje-zaginione-skarby-faberge-slaskie-historie/kw/c5-3318265",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/moj-slask-fascynacje-zaginione-skarby-faberge-slaskie-historie/kw/c5-3318265",
+      "scrapped_timestamp": "2026-11-04T14:27:28.758429+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Mój Śląsk. Fascynacje / Zaginione skarby Fabergé – śląskie historie",
+          "description": "Wykład Moniki Raspen w ramach cyklu „Mój Śląsk. Fascynacje”\nCo może łączyć carską Rosję ze Śląskiem? Więcej niż moglibyśmy przypuszczać. Świat Fabergé nie kończył się przecież na murach petersburskich pałaców ani na rodzinie Romanowów. Jego klientami byli przedstawiciele najpotężniejszych europejskich rodów, arystokraci, milionerzy i kolekcjonerzy, a niezwykłe przedmioty opuszczające słynną pracownię wędrowały wraz ze swoimi właścicielami przez granice i epoki. Niektóre z tych historii prowadzą właśnie na Śląsk. „Zaginione skarby Fabergé – śląskie historie” będą opowieścią o zaskakujących związkach regionu ze światem rosyjskiej arystokracji, o ludziach, których losy połączyły odległe miejsca, oraz o klejnotach, które stawały się świadkami rodzinnych dramatów, politycznych przewrotów i upadku wielkich fortun.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny."
+        },
+        "en": {
+          "title": "My Silesia. Fascinations / The Lost Fabergé Treasures – Silesian Stories",
+          "description": "Lecture by Monika Raspen as part of the “My Silesia. Fascinations” series\nWhat could Tsarist Russia and Silesia have in common? More than we might imagine. The world of Fabergé did not end at the walls of St. Petersburg’s palaces or with the Romanov family. Its clients included members of Europe’s most powerful families, aristocrats, millionaires and collectors, and the extraordinary objects leaving the famous workshop travelled with their owners across borders and through the ages. Some of these stories lead straight to Silesia. “The Lost Fabergé Treasures – Silesian Stories” will tell of the region’s surprising connections with the world of the Russian aristocracy, of people whose lives linked distant places, and of jewels that bore witness to family dramas, political upheavals and downfalls"
+        },
+        "uk": {
+          "title": "Моя Сілезія. Захоплення / Загублені скарби Фаберже — сілезькі історії",
+          "description": "Лекція Моніки Распен у межах циклу «Моя Сілезія. Захоплення»\nЩо може пов’язувати царську Росію із Сілезією? Більше, ніж ми могли б припустити. Світ Фаберже ж не обмежувався стінами петербурзьких палаців чи родиною Романових. Його клієнтами були представники наймогутніших європейських родів, аристократи, мільйонери й колекціонери, а незвичайні предмети, що залишали знамениту майстерню, мандрували разом зі своїми власниками крізь кордони й епохи. Деякі з цих історій ведуть саме до Сілезії. «Загублені скарби Фаберже — сілезькі історії» — це розповідь про несподівані зв’язки регіону зі світом російської аристократії, про людей, чиї долі поєднали віддалені місця, та про коштовності, які ставали свідками сімейних драм, політичних переворотів і пад"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-04T14:28:14.264280+00:00"
+    },
+    "teatr-magii-macieja-pola-familijne-widowisko-iluzji-2026-11-04T17:00:00+01:00": {
+      "title": "Teatr Magii Macieja Pola – familijne widowisko iluzji",
+      "date": "2026-11-04T17:00:00+01:00",
+      "end_date": "2026-11-04T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na niezwykłe widowisko \"Teatr Magii Macieja Pola\" - spektakl, który przeniesie Państwa w świat pełen czarów, tajemnic i niesamowitych wrażeń.\nMaciej Pol, najsłynniejszy polski iluzjonista, laureat wielu międzynarodowych festiwali sztuki iluzji, zaprezentuje swoje najnowsze i najbardziej spektakularne numery, które zachwyciły publiczność na całym świecie. Magia, która zaprasza do interakcji! Maciej Pol słynie z angażowania publiczności w swoje pokazy. Widzowie nie są tylko obserwatorami - stają się częścią niezwykłej podróży do krainy magii! Każdy numer to dawka emocji, zaskoczenia i radości. Oto kilka z nich:\n• Królik rozrabiaka - Czy możliwe jest, by zwykły chłopiec wyczarował królika z pustej skrzyni? A co, jeśli ten królik nagle zniknie? Publiczność wstrzymuje oddech, gdy rozpoczynają się poszukiwania zaginionego zwierzaka! Zabawny i interaktywny numer, który zachwyca najmłodszych i bawi dorosłych.\n• Zegary - Niezwykle elegancka etiuda, w której czas przestaje mieć znaczenie! Maciej Pol, w rytm klimatycznej muzyki, materializuje zegarki - jedne dzwonią, inne unoszą się w powietrzu. W kulminacyjnym momencie na scenie pojawiają się gigantyczne zegary, wprawiając publiczność w osłupienie.\n• Origami - Co się stanie, gdy mały sześcian zamieni się w ogromną bryłę, do której wejdzie asystentka? A potem... zostanie przecięta na pół magicznymi mieczami! Finał numeru to prawdziwy pokaz ognia i efektów specjalnych, który zapiera dech w piersiach.\n• Niefortunny strzelec - Widzowie uwielbiają ten numer! Losowo wybrana osoba z publiczności staje się strzelcem, ale jej strzały sieją spustoszenie w scenografii. Czy w finałowym strzale uda się odsłonić wybraną wcześniej kartę? Wstrzymaj oddech i przekonaj się sam!\n• Błyskawiczne odchudzenie - Nieprawdopodobna przemiana! Asystentka Macieja Pola wchodzi do barwnej skrzyni, a iluzjonista... skręca jej ciało wokół własnej osi! Jej sylwetka staje się niemal nierealna. Po chwili wszystko wraca do normy, wywołując salwy śmiechu i burzę oklasków!\n• Kosmiczny robot - Spektakularna transformacja inspirowana grami komputerowymi! Maciej Pol przeistacza się w kosmicznego robota, a jego ciało zdaje się rozpływać w powietrzu. Widowisko pełne futurystycznych efektów, które przenosi widzów do innego wymiaru!\n• Przecięcie osoby - Niesamowita iluzja, w której asystentka zostaje przecięta na dwie części! Wszystko dzieje się na oczach publiczności, w pełnym oświetleniu. Czy to możliwe? Oczywiście - w Teatrze Magii wszystko może się zdarzyć!\n• Śnieżna zamieć - Maciej Pol zabiera nas do krainy, w której nigdy nie pada śnieg. Aż nagle, za sprawą jego rąk, scena zmienia się w prawdziwą zamieć! Tysące płatków wirują w powietrzu, otaczając widownię w zimowym czarze. Efekt zapiera dech w piersiach!",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/12e5cc03-ad86-4ba3-921f-23b3b2b2764b/e7eddb6d-f63b-4224-b496-5e8c4ec05ec5.jpg",
+      "location": {
+        "name": "Sala Koncertowa Radia Wrocław, Aleja Karkonoska 10, 53-015 Wrocław",
+        "district": "Krzyki"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/teatr-magii-macieja-pola-familijne-widowisko-iluzji-12e5cc03-ad86-4ba3-921f-23b3b2b2764b",
+      "source": "simplygo.pl",
+      "age_hint": "3-18",
+      "age_range": {
+        "min": 3,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/teatr-magii-macieja-pola-familijne-widowisko-iluzji-12e5cc03-ad86-4ba3-921f-23b3b2b2764b",
+      "scrapped_timestamp": "2026-11-04T14:27:45.091590+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Teatr Magii Macieja Pola – familijne widowisko iluzji",
+          "description": "Zapraszamy na niezwykłe widowisko \"Teatr Magii Macieja Pola\" - spektakl, który przeniesie Państwa w świat pełen czarów, tajemnic i niesamowitych wrażeń.\nMaciej Pol, najsłynniejszy polski iluzjonista, laureat wielu międzynarodowych festiwali sztuki iluzji, zaprezentuje swoje najnowsze i najbardziej spektakularne numery, które zachwyciły publiczność na całym świecie. Magia, która zaprasza do interakcji! Maciej Pol słynie z angażowania publiczności w swoje pokazy. Widzowie nie są tylko obserwatorami - stają się częścią niezwykłej podróży do krainy magii! Każdy numer to dawka emocji, zaskoczenia i radości. Oto kilka z nich:\n• Królik rozrabiaka - Czy możliwe jest, by zwykły chłopiec wyczarował królika z pustej skrzyni? A co, jeśli ten królik nagle zniknie? Publiczność wstrzymuje oddech, gdy rozpoczynają się poszukiwania zaginionego zwierzaka! Zabawny i interaktywny numer, który zachwyca najmłodszych i bawi dorosłych.\n• Zegary - Niezwykle elegancka etiuda, w której czas przestaje mieć znaczenie! Maciej Pol, w rytm klimatycznej muzyki, materializuje zegarki - jedne dzwonią, inne unoszą się w powietrzu. W kulminacyjnym momencie na scenie pojawiają się gigantyczne zegary, wprawiając publiczność w osłupienie.\n• Origami - Co się stanie, gdy mały sześcian zamieni się w ogromną bryłę, do której wejdzie asystentka? A potem... zostanie przecięta na pół magicznymi mieczami! Finał numeru to prawdziwy pokaz ognia i efektów specjalnych, który zapiera dech w piersiach.\n• Niefortunny strzelec - Widzowie uwielbiają ten numer! Losowo wybrana osoba z publiczności staje się strzelcem, ale jej strzały sieją spustoszenie w scenografii. Czy w finałowym strzale uda się odsłonić wybraną wcześniej kartę? Wstrzymaj oddech i przekonaj się sam!\n• Błyskawiczne odchudzenie - Nieprawdopodobna przemiana! Asystentka Macieja Pola wchodzi do barwnej skrzyni, a iluzjonista... skręca jej ciało wokół własnej osi! Jej sylwetka staje się niemal nierealna. Po chwili wszystko wraca do normy, wywołując salwy śmiechu i burzę oklasków!\n• Kosmiczny robot - Spektakularna transformacja inspirowana grami komputerowymi! Maciej Pol przeistacza się w kosmicznego robota, a jego ciało zdaje się rozpływać w powietrzu. Widowisko pełne futurystycznych efektów, które przenosi widzów do innego wymiaru!\n• Przecięcie osoby - Niesamowita iluzja, w której asystentka zostaje przecięta na dwie części! Wszystko dzieje się na oczach publiczności, w pełnym oświetleniu. Czy to możliwe? Oczywiście - w Teatrze Magii wszystko może się zdarzyć!\n• Śnieżna zamieć - Maciej Pol zabiera nas do krainy, w której nigdy nie pada śnieg. Aż nagle, za sprawą jego rąk, scena zmienia się w prawdziwą zamieć! Tysące płatków wirują w powietrzu, otaczając widownię w zimowym czarze. Efekt zapiera dech w piersiach!"
+        },
+        "en": {
+          "title": "Maciej Pol’s Theatre of Magic – a family illusion show",
+          "description": "We invite you to an extraordinary show, “Maciej Pol’s Theatre of Magic” — a performance that will transport you to a world full of magic, mystery, and incredible experiences.\nMaciej Pol, Poland’s most famous illusionist and a winner of many international illusion festivals, will present his latest and most spectacular acts, which have delighted audiences around the world. Magic that invites you to participate! Maciej Pol is renowned for involving audiences in his shows. Viewers are not just observers — they become part of an extraordinary journey into the land of magic! Every act is packed with excitement, surprise, and joy. Here are a few of them:\n• Mischievous Rabbit — Is it possible for an ordinary boy to conjure a rabbit from an empty box? And what if the rabbit suddenly disappears? The audience holds its breath as..."
+        },
+        "uk": {
+          "title": "Театр магії Мацея Поля – сімейне ілюзійне шоу",
+          "description": "Запрошуємо на незвичайне шоу «Театр магії Мацея Поля» — виставу, яка перенесе вас у світ, сповнений чарів, таємниць і неймовірних вражень.\nМацей Поль, найвідоміший польський ілюзіоніст, лауреат багатьох міжнародних фестивалів мистецтва ілюзії, представить свої найновіші та найвидовищніші номери, які захопили публіку в усьому світі. Магія, що запрошує до взаємодії! Мацей Поль славиться тим, що залучає глядачів до своїх шоу. Глядачі не просто спостерігачі — вони стають частиною незвичайної подорожі до країни магії! Кожен номер дарує емоції, несподіванки й радість. Ось деякі з них:\n• Кролик-шалапут — Чи можливо, щоб звичайний хлопчик дістав кролика з порожньої скрині? А що, як цей кролик раптом зникне? Публіка затамовує подих, коли роз"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/192786/wroclaw/teatr-magii-macieja-pola?utm_source=pp&utm_medium=604"
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-11-04T14:28:14.264302+00:00"
     }
   }
 }

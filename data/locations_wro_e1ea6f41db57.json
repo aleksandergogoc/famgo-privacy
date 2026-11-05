@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T13:19:26.014698+00:00",
+  "updated_at": "2026-11-05T15:39:48.853167+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2905,6 +2905,24 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-11-01T13:02:22.684543+00:00"
+    },
+    "krupa art foundation rynek 27_28": {
+      "name": "Krupa Art Foundation, 27-28, Rynek, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-101, Polska",
+      "district": "Stare Miasto",
+      "address": "Krupa Art Foundation, 27-28, Rynek, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-101, Polska",
+      "normalized": "krupa art foundation rynek 27_28",
+      "lat": 51.109066,
+      "lng": 17.032585,
+      "updated_at": "2026-11-05T15:05:52.959843+00:00"
+    },
+    "strefa kultury wrocław – impart centrum": {
+      "name": "19, Marszałka Józefa Piłsudskiego, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-044, Polska",
+      "district": "Stare Miasto",
+      "address": "19, Marszałka Józefa Piłsudskiego, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-044, Polska",
+      "normalized": "strefa kultury wrocław – impart centrum",
+      "lat": 51.1029913,
+      "lng": 17.0236347,
+      "updated_at": "2026-11-05T15:08:29.370017+00:00"
     }
   }
 }

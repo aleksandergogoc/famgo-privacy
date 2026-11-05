@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:12:50.945153+00:00",
+  "updated_at": "2026-11-05T15:39:45.199192+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1800,6 +1800,15 @@
       "lat": 52.4390354,
       "lng": 16.9299741,
       "updated_at": "2026-10-29T13:09:12.056626+00:00"
+    },
+    "kino rialto poznań": {
+      "name": "Rialto, 38, Jana Henryka Dąbrowskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-842, Polska",
+      "district": "Jeżyce",
+      "address": "Rialto, 38, Jana Henryka Dąbrowskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-842, Polska",
+      "normalized": "kino rialto poznań",
+      "lat": 52.4115188,
+      "lng": 16.9065564,
+      "updated_at": "2026-11-05T15:32:27.551906+00:00"
     }
   }
 }

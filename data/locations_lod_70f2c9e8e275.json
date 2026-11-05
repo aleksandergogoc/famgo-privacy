@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T15:44:11.828654+00:00",
+  "updated_at": "2026-11-05T15:39:47.188724+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -981,6 +981,69 @@
       "lat": 51.761815,
       "lng": 19.4616216,
       "updated_at": "2026-11-02T15:34:27.431683+00:00"
+    },
+    "manufaktura": {
+      "name": "Manufaktura",
+      "district": "Bałuty",
+      "address": "Manufaktura",
+      "normalized": "manufaktura",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-05T15:16:33.289776+00:00"
+    },
+    "nowa sukcesja": {
+      "name": "Nowa Sukcesja, 1, Aleje Politechniki, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 93-590, Polska",
+      "district": "Polesie",
+      "address": "Nowa Sukcesja, 1, Aleje Politechniki, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 93-590, Polska",
+      "normalized": "nowa sukcesja",
+      "lat": 51.7496371,
+      "lng": 19.4485762,
+      "updated_at": "2026-11-05T15:16:37.245849+00:00"
+    },
+    "bibuła – tajna drukarnia": {
+      "name": "19, Wschodnia, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 91-417, Polska",
+      "district": "Śródmieście",
+      "address": "19, Wschodnia, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 91-417, Polska",
+      "normalized": "bibuła – tajna drukarnia",
+      "lat": 51.7772957,
+      "lng": 19.4571255,
+      "updated_at": "2026-11-05T15:16:49.483425+00:00"
+    },
+    "m1": {
+      "name": "M1 Łódź, 27/29, Brzezińska, Stoki-Sikawa-Podgórze, Sikawa, Łódź-Widzew, Łódź, województwo łódzkie, 92-103, Polska",
+      "district": "Widzew",
+      "address": "M1 Łódź, 27/29, Brzezińska, Stoki-Sikawa-Podgórze, Sikawa, Łódź-Widzew, Łódź, województwo łódzkie, 92-103, Polska",
+      "normalized": "m1",
+      "lat": 51.7936755,
+      "lng": 19.5094981,
+      "updated_at": "2026-11-05T15:17:16.432065+00:00"
+    },
+    "łódź sport arena": {
+      "name": "Stadion Miejski Łódzkiego Klubu Sportowego im. Władysława Króla, 2, Aleja Unii Lubelskiej, Zdrowie-Mania, Łódź-Polesie, Łódź, województwo łódzkie, 94-020, Polska",
+      "district": "Polesie",
+      "address": "Stadion Miejski Łódzkiego Klubu Sportowego im. Władysława Króla, 2, Aleja Unii Lubelskiej, Zdrowie-Mania, Łódź-Polesie, Łódź, województwo łódzkie, 94-020, Polska",
+      "normalized": "łódź sport arena",
+      "lat": 51.7589479,
+      "lng": 19.4252474,
+      "updated_at": "2026-11-05T15:17:25.597427+00:00"
+    },
+    "sala koncertowa akademii muzycznej w łodzi": {
+      "name": "Sala Koncertowa Akademii Muzycznej, 2a, Żubardzka, Teofilów-Wielkopolska, Żubardź, Łódź-Bałuty, Łódź, województwo łódzkie, 91-032, Polska",
+      "district": "Bałuty",
+      "address": "Sala Koncertowa Akademii Muzycznej, 2a, Żubardzka, Teofilów-Wielkopolska, Żubardź, Łódź-Bałuty, Łódź, województwo łódzkie, 91-032, Polska",
+      "normalized": "sala koncertowa akademii muzycznej w łodzi",
+      "lat": 51.7855914,
+      "lng": 19.4204581,
+      "updated_at": "2026-11-05T15:17:30.654435+00:00"
+    },
+    "off piotrkowska center": {
+      "name": "OFF Piotrkowska Center, Piotrkowska, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-434, Polska",
+      "district": "Śródmieście",
+      "address": "OFF Piotrkowska Center, Piotrkowska, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-434, Polska",
+      "normalized": "off piotrkowska center",
+      "lat": 51.7609734,
+      "lng": 19.4585061,
+      "updated_at": "2026-11-05T15:17:34.965175+00:00"
     }
   }
 }

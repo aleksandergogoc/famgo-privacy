@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T14:28:57.816201+00:00",
+  "updated_at": "2026-11-05T15:39:52.566142+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5296,6 +5296,60 @@
       "lat": 50.0323915,
       "lng": 19.9633651,
       "updated_at": "2026-11-03T13:46:20.015540+00:00"
+    },
+    "wydział architektury politechniki krakowskiej": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "wydział architektury politechniki krakowskiej",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-11-05T14:21:25.264187+00:00"
+    },
+    "studencki żaczek": {
+      "name": "Hotel Studencki Żaczek, 5, Aleja 3 Maja, Błonia, Zwierzyniec, Kraków, województwo małopolskie, 30-063, Polska",
+      "district": "Krowodrza",
+      "address": "Hotel Studencki Żaczek, 5, Aleja 3 Maja, Błonia, Zwierzyniec, Kraków, województwo małopolskie, 30-063, Polska",
+      "normalized": "studencki żaczek",
+      "lat": 50.0604441,
+      "lng": 19.9213815,
+      "updated_at": "2026-11-05T14:21:59.318093+00:00"
+    },
+    "al. adama mickiewicza 30": {
+      "name": "Biblioteka Główna AGH, 30, Aleja Adama Mickiewicza, Czarna Wieś, Krowodrza, Kraków, województwo małopolskie, 30-059, Polska",
+      "district": "Krowodrza",
+      "address": "Biblioteka Główna AGH, 30, Aleja Adama Mickiewicza, Czarna Wieś, Krowodrza, Kraków, województwo małopolskie, 30-059, Polska",
+      "normalized": "al. adama mickiewicza 30",
+      "lat": 50.0656968,
+      "lng": 19.921503,
+      "updated_at": "2026-11-05T14:22:02.146095+00:00"
+    },
+    "scena supernova": {
+      "name": "12, Mikołaja Zyblikiewicza, Wesoła, Stare Miasto, Kraków, województwo małopolskie, 31-029, Polska",
+      "district": "Stare Miasto",
+      "address": "12, Mikołaja Zyblikiewicza, Wesoła, Stare Miasto, Kraków, województwo małopolskie, 31-029, Polska",
+      "normalized": "scena supernova",
+      "lat": 50.0598693,
+      "lng": 19.9460497,
+      "updated_at": "2026-11-05T14:22:05.623404+00:00"
+    },
+    "filia nr 56": {
+      "name": "7, Osiedle Zgody, Nowa Huta, Kraków, województwo małopolskie, 31-949, Polska",
+      "district": "Nowa Huta",
+      "address": "7, Osiedle Zgody, Nowa Huta, Kraków, województwo małopolskie, 31-949, Polska",
+      "normalized": "filia nr 56",
+      "lat": 50.0759262,
+      "lng": 20.0379002,
+      "updated_at": "2026-11-05T14:45:15.376785+00:00"
+    },
+    "ośrodek dokumentacji i inicjatyw artystycznych piwnica pod baranami ul. św. tomasza 26": {
+      "name": "Ośrodek Dokumentacji i Inicjatyw Artystycznych Piwnica pod Baranami ul. Św. Tomasza 26",
+      "district": "Stare Miasto",
+      "address": "Ośrodek Dokumentacji i Inicjatyw Artystycznych Piwnica pod Baranami ul. Św. Tomasza 26",
+      "normalized": "ośrodek dokumentacji i inicjatyw artystycznych piwnica pod baranami ul. św. tomasza 26",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-05T14:45:21.153736+00:00"
     }
   }
 }

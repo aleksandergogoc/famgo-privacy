@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:39:50.470969+00:00",
+  "updated_at": "2026-11-06T14:51:29.901248+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9870,6 +9870,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-05T15:04:56.804236+00:00"
+    },
+    "warsaw": {
+      "name": "Senat RP, Piotra Maszyńskiego, Powiśle-Solec, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-485, Polska",
+      "district": "Śródmieście",
+      "address": "Senat RP, Piotra Maszyńskiego, Powiśle-Solec, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-485, Polska",
+      "normalized": "warsaw",
+      "lat": 52.2255319,
+      "lng": 21.029948,
+      "updated_at": "2026-11-06T14:21:37.517165+00:00"
+    },
+    "voodoo": {
+      "name": "48A, Aleja Prymasa Tysiąclecia, Odolany, Wola, Warszawa, województwo mazowieckie, 01-242, Polska",
+      "district": "Wola",
+      "address": "48A, Aleja Prymasa Tysiąclecia, Odolany, Wola, Warszawa, województwo mazowieckie, 01-242, Polska",
+      "normalized": "voodoo",
+      "lat": 52.2243465,
+      "lng": 20.9592281,
+      "updated_at": "2026-11-06T14:21:40.141343+00:00"
+    },
+    "garnizon sztuki": {
+      "name": "Garnizon Sztuki, 6, Marii Konopnickiej, Powiśle-Solec, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-491, Polska",
+      "district": "Śródmieście",
+      "address": "Garnizon Sztuki, 6, Marii Konopnickiej, Powiśle-Solec, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-491, Polska",
+      "normalized": "garnizon sztuki",
+      "lat": 52.2284423,
+      "lng": 21.0263559,
+      "updated_at": "2026-11-06T14:21:46.265895+00:00"
+    },
+    "pracownia duży pokój": {
+      "name": "Pracownia Duży Pokój, Warecka 4/6",
+      "district": "Śródmieście",
+      "address": "Pracownia Duży Pokój, Warecka 4/6",
+      "normalized": "pracownia duży pokój",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-06T14:30:45.866801+00:00"
     }
   }
 }

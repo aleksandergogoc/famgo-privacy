@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:39:52.566142+00:00",
+  "updated_at": "2026-11-06T14:51:31.727050+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5350,6 +5350,33 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-11-05T14:45:21.153736+00:00"
+    },
+    "witrażu": {
+      "name": "23, Aleja Zygmunta Krasińskiego, Półwsie Zwierzynieckie, Zwierzyniec, Kraków, województwo małopolskie, 31-111, Polska",
+      "district": "Stare Miasto",
+      "address": "23, Aleja Zygmunta Krasińskiego, Półwsie Zwierzynieckie, Zwierzyniec, Kraków, województwo małopolskie, 31-111, Polska",
+      "normalized": "witrażu",
+      "lat": 50.0589844,
+      "lng": 19.9259361,
+      "updated_at": "2026-11-06T13:52:18.915278+00:00"
+    },
+    "kino kijów": {
+      "name": "Kijów, 34, Aleja Zygmunta Krasińskiego, Półwsie Zwierzynieckie, Zwierzyniec, Kraków, województwo małopolskie, 30-101, Polska",
+      "district": "Zwierzyniec",
+      "address": "Kijów, 34, Aleja Zygmunta Krasińskiego, Półwsie Zwierzynieckie, Zwierzyniec, Kraków, województwo małopolskie, 30-101, Polska",
+      "normalized": "kino kijów",
+      "lat": 50.0582838,
+      "lng": 19.924901,
+      "updated_at": "2026-11-06T14:02:13.960712+00:00"
+    },
+    "al. bora-komorowskiego 41": {
+      "name": "Centrum Serenada, 41, Aleja Generała Tadeusza Bora-Komorowskiego, Czyżyny, Kraków, województwo małopolskie, 31-876, Polska",
+      "district": "Mistrzejowice",
+      "address": "Centrum Serenada, 41, Aleja Generała Tadeusza Bora-Komorowskiego, Czyżyny, Kraków, województwo małopolskie, 31-876, Polska",
+      "normalized": "al. bora-komorowskiego 41",
+      "lat": 50.0880157,
+      "lng": 19.9856889,
+      "updated_at": "2026-11-06T14:02:20.581773+00:00"
     }
   }
 }

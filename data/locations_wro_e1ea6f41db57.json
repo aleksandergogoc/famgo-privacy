@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:39:48.853167+00:00",
+  "updated_at": "2026-11-06T14:51:28.317561+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2923,6 +2923,15 @@
       "lat": 51.1029913,
       "lng": 17.0236347,
       "updated_at": "2026-11-05T15:08:29.370017+00:00"
+    },
+    "stary klasztor": {
+      "name": "Stary Klasztor, 1, Jana Ewangelisty Purkyniego, Ostrów Tumski, Stare Miasto, Wrocław, województwo dolnośląskie, 50-155, Polska",
+      "district": "Stare Miasto",
+      "address": "Stary Klasztor, 1, Jana Ewangelisty Purkyniego, Ostrów Tumski, Stare Miasto, Wrocław, województwo dolnośląskie, 50-155, Polska",
+      "normalized": "stary klasztor",
+      "lat": 51.1101385,
+      "lng": 17.0394225,
+      "updated_at": "2026-11-06T14:33:43.881076+00:00"
     }
   }
 }

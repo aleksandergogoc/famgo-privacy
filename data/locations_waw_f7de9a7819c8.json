@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T14:51:29.901248+00:00",
+  "updated_at": "2026-11-07T13:36:41.267517+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9906,6 +9906,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-06T14:30:45.866801+00:00"
+    },
+    "baj w warszawie (warszawa-praga-północ)": {
+      "name": "Teatr Baj w Warszawie (Warszawa-Praga-Północ)",
+      "district": "Praga-Północ",
+      "address": "Teatr Baj w Warszawie (Warszawa-Praga-Północ)",
+      "normalized": "baj w warszawie (warszawa-praga-północ)",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-07T13:09:19.711904+00:00"
+    },
+    "niepodległości": {
+      "name": "Muzeum Niepodległości, al. Solidarności 62",
+      "district": "Śródmieście",
+      "address": "Muzeum Niepodległości, al. Solidarności 62",
+      "normalized": "niepodległości",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-07T13:09:32.089479+00:00"
+    },
+    "rydzowa 1a": {
+      "name": "Rydzowa 1A",
+      "district": "Ursynów",
+      "address": "Rydzowa 1A",
+      "normalized": "rydzowa 1a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-07T13:09:32.089788+00:00"
     }
   }
 }

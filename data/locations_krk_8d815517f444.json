@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T14:51:31.727050+00:00",
+  "updated_at": "2026-11-08T13:50:44.844213+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5377,6 +5377,15 @@
       "lat": 50.0880157,
       "lng": 19.9856889,
       "updated_at": "2026-11-06T14:02:20.581773+00:00"
+    },
+    "rynek w skawinie": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "rynek w skawinie",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-11-08T12:59:12.725966+00:00"
     }
   }
 }

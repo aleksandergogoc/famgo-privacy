@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:39:47.188724+00:00",
+  "updated_at": "2026-11-08T13:50:40.205861+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -1044,6 +1044,24 @@
       "lat": 51.7609734,
       "lng": 19.4585061,
       "updated_at": "2026-11-05T15:17:34.965175+00:00"
+    },
+    "schron brus": {
+      "name": "98, Konstantynowska, Brus, Retkinia Zachód-Smulsko, Łódź-Polesie, Łódź, województwo łódzkie, 94-311, Polska",
+      "district": "Polesie",
+      "address": "98, Konstantynowska, Brus, Retkinia Zachód-Smulsko, Łódź-Polesie, Łódź, województwo łódzkie, 94-311, Polska",
+      "normalized": "schron brus",
+      "lat": 51.7530373,
+      "lng": 19.3799971,
+      "updated_at": "2026-11-08T13:31:43.741254+00:00"
+    },
+    "archeologiczne i etnograficzne w łodzi": {
+      "name": "Muzeum Archeologiczne i Etnograficzne w Łodzi, 14, Plac Wolności, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 91-415, Polska",
+      "district": "Śródmieście",
+      "address": "Muzeum Archeologiczne i Etnograficzne w Łodzi, 14, Plac Wolności, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 91-415, Polska",
+      "normalized": "archeologiczne i etnograficzne w łodzi",
+      "lat": 51.776416,
+      "lng": 19.455577,
+      "updated_at": "2026-11-08T13:31:47.886154+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T14:51:28.317561+00:00",
+  "updated_at": "2026-11-08T13:50:41.579759+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2932,6 +2932,24 @@
       "lat": 51.1101385,
       "lng": 17.0394225,
       "updated_at": "2026-11-06T14:33:43.881076+00:00"
+    },
+    "pana tadeusza - kamienica pod złotym słońcem (wrocław)": {
+      "name": "Muzeum Pana Tadeusza - Kamienica Pod Złotym Słońcem (Wrocław)",
+      "district": "Stare Miasto",
+      "address": "Muzeum Pana Tadeusza - Kamienica Pod Złotym Słońcem (Wrocław)",
+      "normalized": "pana tadeusza - kamienica pod złotym słońcem (wrocław)",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-08T13:25:01.033025+00:00"
+    },
+    "al. śląska 1": {
+      "name": "Tarczyński Arena, 1, aleja Śląska, Pilczyce, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 54-118, Polska",
+      "district": "Fabryczna",
+      "address": "Tarczyński Arena, 1, aleja Śląska, Pilczyce, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 54-118, Polska",
+      "normalized": "al. śląska 1",
+      "lat": 51.1411861,
+      "lng": 16.9438067,
+      "updated_at": "2026-11-08T13:25:07.135253+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:36:41.267517+00:00",
+  "updated_at": "2026-11-08T13:50:43.209467+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9933,6 +9933,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-07T13:09:32.089788+00:00"
+    },
+    "ul. modlińska_sądziedzka": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "ul. modlińska_sądziedzka",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-11-08T13:13:11.756266+00:00"
+    },
+    "ul. wolska 168 (róg sowińskiego)": {
+      "name": "Ulica Wolska, 91, Wolska, Czyste, Wola, Warszawa, województwo mazowieckie, 01-229, Polska",
+      "district": "Wola",
+      "address": "Ulica Wolska, 91, Wolska, Czyste, Wola, Warszawa, województwo mazowieckie, 01-229, Polska",
+      "normalized": "ul. wolska 168 (róg sowińskiego)",
+      "lat": 52.2318074,
+      "lng": 20.9595301,
+      "updated_at": "2026-11-08T13:13:34.963358+00:00"
+    },
+    "karowa 20": {
+      "name": "Dom Spotkań z Historią, 20, Karowa, Staromiejskie, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-324, Polska",
+      "district": "Śródmieście",
+      "address": "Dom Spotkań z Historią, 20, Karowa, Staromiejskie, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-324, Polska",
+      "normalized": "karowa 20",
+      "lat": 52.2423949,
+      "lng": 21.0167091,
+      "updated_at": "2026-11-08T13:13:44.144303+00:00"
+    },
+    "ul. podskarbińska 34 lok. u3": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "ul. podskarbińska 34 lok. u3",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-11-08T13:13:47.465344+00:00"
+    },
+    "sala widowiskowa radomska ośrodka kultury ochoty (warszawa-ochota)": {
+      "name": "Sala Widowiskowa Radomska Ośrodka Kultury Ochoty (Warszawa-Ochota)",
+      "district": "Ochota",
+      "address": "Sala Widowiskowa Radomska Ośrodka Kultury Ochoty (Warszawa-Ochota)",
+      "normalized": "sala widowiskowa radomska ośrodka kultury ochoty (warszawa-ochota)",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-08T13:23:28.322356+00:00"
     }
   }
 }

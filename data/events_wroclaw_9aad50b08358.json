@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T12:53:35.819079+00:00",
+  "updated_at": "2026-11-08T13:28:56.032157+00:00",
   "events": {
     "fajnie-si-sk-ada-zlot-fan-w-klock-w-od-fan-w-dla-fan-w-2026-12-07T10:00:00": {
       "scrapped_timestamp": "2026-06-29T12:56:13.475074+00:00",
@@ -1061,50 +1061,52 @@
       "updated_at": "2026-09-07T12:12:45.441578+00:00"
     },
     "spoko-loko-koncert-dla-dzieci-2026-11-15T12:00:00+01:00": {
-      "title": "Spoko Loko – koncert dla dzieci",
+      "title": "Spoko Loko - koncert dla dzieci",
       "date": "2026-11-15T12:00:00+01:00",
       "end_date": "2026-11-15T12:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n Bilet normalny przeznaczony jest dla opiekuna.\n Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124/a22526ca-81c9-4f07-83ed-028c1fd7dba3.jpg",
+      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
+      "image": "https://assets.kupbilecik.pl/img/baza/8000/7104.webp?1788766325",
+      "url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
       "location": {
-        "name": "Centrum Kultury Nowy Pafawag, ul. Chociebuska 4-6, 54-433 Wrocław",
+        "name": "Centrum Kultury Nowy Pafawag",
+        "address": "ul. Chociebuska 4-6",
+        "lat": 51.115767,
+        "lng": 16.958181,
         "district": "Fabryczna"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "source": "simplygo.pl",
-      "age_hint": "2-8",
-      "age_range": {
-        "min": 2,
-        "max": 8
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "scrapped_timestamp": "2026-11-07T13:18:09.248631+00:00",
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-11-08T13:25:17.390960+00:00",
       "category": "Music & Dance",
       "additional_categories": [
         "Family Fun"
       ],
+      "age_range": {
+        "min": 2,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Spoko Loko – koncert dla dzieci",
-          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n Bilet normalny przeznaczony jest dla opiekuna.\n Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
+          "title": "Spoko Loko - koncert dla dzieci",
+          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
         },
         "en": {
-          "title": "Spoko Loko – concert for children",
-          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They’ve prepared a special one-hour show where children can dance and sing along with the band. They’ll perform classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\", as well as new hits like \"We’re Walking Through the Jungle\" and \"Head, Shoulders\". The concert will also feature soap bubbles, riddles and other surprises that will remain a secret for now! Spoko Loko is Kasia, Mati and Ola, who have already amassed tens of millions of views on their YouTube channel. The reviews from happy parents speak for themselves—join us and let yourself be swept away into the zany world of Spoko Loko! There will also be a chance to take photos with the band after the concert.\n* Children under 2 enter free (dz"
+          "title": "Spoko Loko - concert for children",
+          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They’ve prepared a special one-hour show where children can dance and sing along with the band. They’ll perform classics such as “Crazy Dances,” “Ciu ciu ła” and “Body Shape,” as well as new hits like “We’re Walking Through the Jungle” and “Head, Shoulders.” The concert will also feature soap bubbles, riddles and other surprises that will remain a secret for now! Spoko Loko are Kasia, Mati and Ola, who have already racked up tens of millions of views on their YouTube channel. The reviews from happy parents speak for themselves—join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n\n* Children under 2 years old enter free (f"
         },
         "uk": {
-          "title": "Spoko Loko – концерт для дітей",
-          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Вони підготували особливе годинне шоу, під час якого діти зможуть танцювати й співати разом із гуртом. Прозвучать такі хіти, як \"Танці-поламанці\", \"Цю-цю-ля\" і \"Форма тіла\", а також нові пісні, як-от \"Ідемо крізь джунглі\" та \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko — це Кася, Маті й Оля, які вже зібрали десятки мільйонів переглядів на своєму каналі YouTube. Відгуки задоволених батьків говорять самі за себе — приєднуйтеся до нас і пориньте у шалений світ Spoko Loko! Після концерту також буде нагода сфотографуватися з гуртом.\n* Дітям до 2 років вхід безкоштовний (dz"
+          "title": "Spoko Loko — концерт для дітей",
+          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Вони підготували особливе годинне шоу, під час якого діти зможуть танцювати й співати разом із гуртом. Прозвучать такі класичні хіти, як \"Tańce Połamańce\", \"Ciu ciu ła\" і \"Ciała kształt\", а також нові хіти, як-от \"Idziemy przez dżunglę\" і \"Głowa, ramiona\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko — це Кася, Маті та Оля, які вже зібрали десятки мільйонів переглядів на своєму каналі YouTube. Відгуки задоволених батьків говорять самі за себе — приєднуйтеся до нас і пориньте у шалений світ Spoko Loko! Після концерту також буде нагода сфотографуватися з гуртом.\n\n* Дітям до 2 років вхід безкоштовний (d"
         }
       },
       "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604"
+        "is_free": true
       },
       "district": "Fabryczna",
-      "updated_at": "2026-11-07T13:19:07.236929+00:00"
+      "updated_at": "2026-11-08T13:28:55.859657+00:00"
     },
     "dla-dzieci-6-dla-rodzin-muzyka-na-ywo-edukacja-przez-zabaw-2027-09-04T13:30:00+02:00": {
       "title": "Dla dzieci 6+ | Dla rodzin | Muzyka na żywo | Edukacja przez zabawę",
@@ -2654,49 +2656,48 @@
       "updated_at": "2026-10-18T10:54:36.461415+00:00"
     },
     "starsze-gadu-y-warsztaty-logopedyczne-dla-dzieci-4-6-lat-2026-11-18T16:00:00+01:00": {
-      "title": "Starsze Gaduły – warsztaty logopedyczne dla dzieci 4–6 lat",
+      "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
       "date": "2026-11-18T16:00:00+01:00",
       "end_date": "2026-11-18T16:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą. „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbywają się w przyjaznej atmosferze, sprzyjającej zdobywaniu nowych umiejętności.\n\nInformacje organizacyjne\n\n• Nazwa zajęć: Starsze Gaduły\n• Dla kogo: dzieci w wieku 4–6 lat wraz z rodzicami\n• Prowadząca: Marta Czajkowska, neurologopeda dziecięcy\n• Charakter zajęć: warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9/692295e6-947d-4ffb-9faa-77f1574861d8.jpg",
+      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-f9ca0308ac11000216fab36b537c7ca5/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
+      "source": "wroclaw.pl",
       "location": {
-        "name": "Przedszkole Columb, Wrocław",
+        "name": "Przedszkole Columb",
         "district": "Śródmieście"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/starsze-gaduly-warsztaty-logopedyczne-dla-dzieci-4-6-lat-c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9",
-      "source": "simplygo.pl",
-      "age_hint": "4-6",
-      "age_range": {
-        "min": 4,
-        "max": 6
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/starsze-gaduly-warsztaty-logopedyczne-dla-dzieci-4-6-lat-c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9",
-      "scrapped_timestamp": "2026-11-07T13:18:22.730379+00:00",
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
+      "scrapped_timestamp": "2026-11-08T13:26:21.209196+00:00",
       "category": "Workshops",
       "additional_categories": [
         "Educational"
       ],
+      "age_range": {
+        "min": 4,
+        "max": 6
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Starsze Gaduły – warsztaty logopedyczne dla dzieci 4–6 lat",
-          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą. „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbywają się w przyjaznej atmosferze, sprzyjającej zdobywaniu nowych umiejętności.\n\nInformacje organizacyjne\n\n• Nazwa zajęć: Starsze Gaduły\n• Dla kogo: dzieci w wieku 4–6 lat wraz z rodzicami\n• Prowadząca: Marta Czajkowska, neurologopeda dziecięcy\n• Charakter zajęć: warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe"
+          "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
+          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
         },
         "en": {
-          "title": "Older Chatterboxes – speech therapy workshops for children aged 4–6",
-          "description": "Playing with words, sounds and speech sounds can be a wonderful adventure. “Older Chatterboxes” is a speech therapy workshop for children aged 4–6, where movement and creative activities help develop communication skills. It is also an opportunity to spend time together and discover new ways to play with language.\n\nLearning to speak through play\n\nDuring the workshop, children will practise speaking, play with sounds and words, and develop skills needed for everyday communication. Engaging activities and movement will make learning a natural part of playing together.\n\nDiscovering together with parents\n\nParents also take an active part in the sessions. They will learn simple exercises and ideas they can use every day to support their child’s speech development. The workshops take place in a friendly"
+          "title": "Big Talkers - speech therapy workshops for children aged 4–6",
+          "description": "Playing with words, sounds, and speech sounds can be a wonderful adventure! “Big Talkers” is a speech therapy workshop for children aged 4–6, where movement and creative activities help develop communication skills. It is also an opportunity to spend time together and discover new ways to play with language.\n\nLearning to speak through play\n\nDuring the workshops, children will practise speaking, play with sounds and words, and develop skills needed for everyday communication. Engaging activities and movement will make learning a natural part of playing together.\n\nDiscovering together with parents\n\nParents also take an active part in the sessions. This gives them the chance to learn simple exercises and ideas they can use every day to support their child’s speech development. The workshops will take place in"
         },
         "uk": {
-          "title": "Старші балакуни – логопедичні майстер-класи для дітей 4–6 років",
-          "description": "Гра зі словами, звуками та фонемами може стати чудовою пригодою. «Старші балакуни» — це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і творчі заняття допомагають розвивати комунікативні навички. Це також нагода провести час разом і відкрити нові способи гратися з мовою.\n\nНавчання мовлення через гру\n\nПід час майстер-класів діти вправлятимуться в мовленні, гратимуться зі звуками та словами й розвиватимуть навички, необхідні для повсякденного спілкування. Цікаві завдання та рух зроблять навчання природною частиною спільної гри.\n\nСпільні відкриття з батьками\n\nУ заняттях також активно беруть участь батьки. Вони дізнаються про прості вправи та ідеї, які можна використовувати щодня, щоб підтримувати розвиток мовлення дитини. Майстер-класи проходять у дружній"
+          "title": "Старші базіки — логопедичні майстер-класи для дітей 4–6 років",
+          "description": "Гра зі словами, звуками та фонемами може стати чудовою пригодою! «Старші базіки» — це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і творчі заняття допомагають розвивати комунікативні навички. Це також нагода провести час разом і відкрити нові способи гратися з мовою.\n\nНавчання мовлення через гру\n\nПід час майстер-класів діти вправлятимуться в мовленні, гратимуться зі звуками та словами й розвиватимуть навички, потрібні для щоденного спілкування. Цікаві завдання та рух зроблять навчання природною частиною спільної гри.\n\nСпільні відкриття з батьками\n\nУ заняттях активно беруть участь також батьки. Завдяки цьому вони познайомляться з простими вправами та ідеями, які можна використовувати щодня, щоб підтримувати розвиток мовлення дитини. Майстер-класи відбудуться у"
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": true
       },
       "district": "Śródmieście",
-      "updated_at": "2026-11-07T13:19:07.236950+00:00"
+      "updated_at": "2026-11-08T13:28:55.859745+00:00"
     },
     "santa-claus-festival-2026-festiwal-wi-tego-miko-aja-2026-12-05T09:00:00+01:00": {
       "title": "Santa Claus Festival 2026 - Festiwal Świętego Mikołaja",
@@ -3706,45 +3707,42 @@
       "updated_at": "2026-10-26T12:58:25.749231+00:00"
     },
     "tworzymy-komiks-warsztaty-rysunkowe-dla-dzieci-2026-11-14T11:30:00+01:00": {
-      "title": "Tworzymy komiks - warsztaty rysunkowe dla dzieci",
+      "title": "Tworzymy komiks – warsztaty rysunkowe dla dzieci",
       "date": "2026-11-14T11:30:00+01:00",
       "end_date": "2026-11-14T11:30:00+01:00",
       "startTimeKnown": true,
-      "description": "Na warsztatach komiksowych dowiecie się, jak stworzyć scenariusz i własnych bohaterów, co to takiego kadry, dymki, plansze, jak powinny wyglądać szkice i ostateczny kształt komiksu oraz jak odpowiednio dobierać kolory w komiksie.\n\nWydarzenie dla dzieci w wieku powyżej 7 lat.\n\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
-      "image": "https://assets.kupbilecik.pl/img/baza/21000/20383.webp?1788766990",
-      "url": "https://www.kupbilecik.pl/pl/event/225433/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
-      "source": "kupbilecik.pl",
+      "description": "Na warsztatach komiksowych dowiecie się, jak stworzyć scenariusz i własnych bohaterów, co to takiego kadry, dymki, plansze, jak powinny wyglądać szkice i ostateczny kształt komiksu oraz jak odpowiednio dobierać kolory w komiksie.\nWydarzenie dla dzieci w wieku powyżej 7 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/56e2e6f5-ed91-4cd2-a1f5-53973a2b4830/5edb3e67-a8a6-4c20-b825-17db1d8c1153.jpg",
       "location": {
-        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 44",
-        "address": "Powstańców Śląskich 210",
-        "lat": 51.076691324509,
-        "lng": 17.0079835420925,
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 44, Powstańców Śląskich 210, 53-125 Wrocław",
         "district": "Fabryczna"
       },
-      "featured": true,
-      "scrapped_url": "https://www.kupbilecik.pl/pl/event/225433/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604",
-      "scrapped_timestamp": "2026-11-07T13:14:43.191973+00:00",
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/tworzymy-komiks-warsztaty-rysunkowe-dla-dzieci-56e2e6f5-ed91-4cd2-a1f5-53973a2b4830",
+      "source": "simplygo.pl",
+      "age_hint": "7-18",
+      "age_range": {
+        "min": 7,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/tworzymy-komiks-warsztaty-rysunkowe-dla-dzieci-56e2e6f5-ed91-4cd2-a1f5-53973a2b4830",
+      "scrapped_timestamp": "2026-11-08T13:28:00.675460+00:00",
       "category": "Workshops",
       "additional_categories": [
         "Arts"
       ],
-      "age_range": {
-        "min": 7,
-        "max": 12
-      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Tworzymy komiks - warsztaty rysunkowe dla dzieci",
-          "description": "Na warsztatach komiksowych dowiecie się, jak stworzyć scenariusz i własnych bohaterów, co to takiego kadry, dymki, plansze, jak powinny wyglądać szkice i ostateczny kształt komiksu oraz jak odpowiednio dobierać kolory w komiksie.\n\nWydarzenie dla dzieci w wieku powyżej 7 lat.\n\n**Obowiązuje jeden bilet dla pary: dziecko i opiekun.**\n\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\n\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\n\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+          "title": "Tworzymy komiks – warsztaty rysunkowe dla dzieci",
+          "description": "Na warsztatach komiksowych dowiecie się, jak stworzyć scenariusz i własnych bohaterów, co to takiego kadry, dymki, plansze, jak powinny wyglądać szkice i ostateczny kształt komiksu oraz jak odpowiednio dobierać kolory w komiksie.\nWydarzenie dla dzieci w wieku powyżej 7 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
         },
         "en": {
-          "title": "Let's Create a Comic - Drawing Workshop for Children",
-          "description": "At the comic workshop, you'll learn how to create a script and your own characters, what panels, speech bubbles and comic pages are, what sketches and the finished comic should look like, and how to choose the right colors for a comic.\n\nAn event for children aged 7 and up.\n\n**One ticket is valid for a pair: a child and a guardian.**\n\nDiscounted tickets are available to holders of an MBP Wrocław library card.\n\nThe venue is accessible to people with mobility disabilities.\n\nThe Parent Club is a series of literary, educational and artistic meetings for children and their guardians, held at selected branches of the Tadeusz Różewicz Municipal Public Library in Wrocław."
+          "title": "Creating a Comic – Drawing Workshop for Children",
+          "description": "At the comic workshop, you’ll learn how to create a script and your own characters, what panels, speech bubbles and pages are, what sketches and the final comic should look like, and how to choose the right colors for a comic.\nEvent for children aged 7 and over.\nOne ticket is required per pair: a child and their guardian.\nDiscounted tickets are available to holders of an MBP Wrocław library card.\nThe venue is accessible to people with mobility disabilities.\nParent Club is a series of literary, educational and artistic events for children and their guardians, held at selected branches of the Tadeusz Różewicz Municipal Public Library in Wrocław."
         },
         "uk": {
-          "title": "Створюємо комікс — майстер-клас із малювання для дітей",
-          "description": "На майстер-класі з коміксів ви дізнаєтеся, як створити сценарій і власних персонажів, що таке кадри, хмарки, сторінки, як мають виглядати ескізи й остаточний вигляд коміксу, а також як правильно добирати кольори в коміксі.\n\nЗахід для дітей віком понад 7 років.\n\n**Для пари діє один квиток: дитина та дорослий, який її супроводжує.**\n\nПільгові квитки для власників бібліотечного квитка MBP Wrocław.\n\nМісце пристосоване для людей з порушеннями опорно-рухового апарату.\n\nКлуб батьків — це регулярні літературні, освітні та мистецькі зустрічі для дітей та їхніх опікунів, що відбуваються в окремих філіях Міської публічної бібліотеки імені Тадеуша Ружевича у Вроцлаві."
+          "title": "Створюємо комікс – майстер-клас із малювання для дітей",
+          "description": "На майстер-класі з коміксів ви дізнаєтеся, як створити сценарій і власних героїв, що таке кадри, хмарки для тексту й сторінки, як мають виглядати ескізи та остаточний вигляд коміксу, а також як правильно добирати кольори в коміксі.\nЗахід для дітей віком від 7 років.\nДіє один квиток на пару: дитину й опікуна.\nПільгові квитки для осіб із читацьким квитком MBP Wrocław.\nМісце пристосоване для людей з порушеннями опорно-рухового апарату.\nКлуб батьків — це цикл літературних, освітніх і мистецьких зустрічей для дітей та їхніх опікунів, що відбуваються в окремих філіях Міської публічної бібліотеки імені Тадеуша Ружевича у Вроцлаві."
         }
       },
       "admission": {
@@ -3752,7 +3750,7 @@
         "ticket_url": "https://www.kupbilecik.pl/pl/event/225433/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
       },
       "district": "Fabryczna",
-      "updated_at": "2026-11-07T13:19:07.236698+00:00"
+      "updated_at": "2026-11-08T13:28:55.859846+00:00"
     },
     "spotkania-przy-hu-tawkach-2026-11-17T11:30:00+01:00": {
       "title": "Spotkania przy huśtawkach",
@@ -8070,6 +8068,625 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-11-07T13:19:07.236987+00:00"
+    },
+    "bajkowe-poranki-w-centrum-historii-zajezdnia-2026-12-13T10:30:00+01:00": {
+      "title": "Bajkowe Poranki w Centrum Historii Zajezdnia",
+      "date": "2026-12-13T10:30:00+01:00",
+      "end_date": "2026-12-13T10:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "Seanse dawnych polskich bajek w Centrum Historii Zajezdnia\n\nZapraszamy wszystkie dzieci i rodziców na seanse starych polskich bajek, które co miesiąc odbywają się w sali kinowej **Centrum Historii Zajezdnia**. Oglądamy dawne hity, bez których dzieci kiedyś nie wyobrażały sobie wieczorynki – **„Reksio”**, **„Bolek i Lolek”**, **„Przygody Myszki”** oraz inne animacje tworzone przez **Studio Filmów Rysunkowych w Bielsku-Białej**.\n\nPo seansie uczestnicy biorą udział w **warsztatach plastycznych**, związanych z tematyką wyświetlanej bajki.\n\nWidzimy się w **Centrum Historii Zajezdnia**!\n\nWażne informacje\n\n• **Bilety** muszą zakupić zarówno dzieci, jak i opiekunowie.\n\n• Nie ma możliwości udziału samego dziecka.\n\n• Zakupione bilety należy zeskanować w recepcji Centrum Historii Zajezdnia.\n\n• Prosimy o przybycie około **15 minut wcześniej** do holu CHZ, aby uniknąć opóźnień w rozpoczęciu seansu.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-b6109765ac1100023d0ba8647720e450/0ca06178259f3b3f72f0ff8f6f1fa7c8.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/dla-dzieci/1403864-bajkowe-poranki-w-centrum-historii-zajezdnia-1",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Centrum Historii Zajezdnia Grabiszyńska 184, Wrocław",
+        "district": "Krzyki"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/dla-dzieci/1403864-bajkowe-poranki-w-centrum-historii-zajezdnia-1",
+      "scrapped_timestamp": "2026-11-08T13:25:31.231836+00:00",
+      "category": "Cinema",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bajkowe Poranki w Centrum Historii Zajezdnia",
+          "description": "Seanse dawnych polskich bajek w Centrum Historii Zajezdnia\n\nZapraszamy wszystkie dzieci i rodziców na seanse starych polskich bajek, które co miesiąc odbywają się w sali kinowej **Centrum Historii Zajezdnia**. Oglądamy dawne hity, bez których dzieci kiedyś nie wyobrażały sobie wieczorynki – **„Reksio”**, **„Bolek i Lolek”**, **„Przygody Myszki”** oraz inne animacje tworzone przez **Studio Filmów Rysunkowych w Bielsku-Białej**.\n\nPo seansie uczestnicy biorą udział w **warsztatach plastycznych**, związanych z tematyką wyświetlanej bajki.\n\nWidzimy się w **Centrum Historii Zajezdnia**!\n\nWażne informacje\n\n• **Bilety** muszą zakupić zarówno dzieci, jak i opiekunowie.\n\n• Nie ma możliwości udziału samego dziecka.\n\n• Zakupione bilety należy zeskanować w recepcji Centrum Historii Zajezdnia.\n\n• Prosimy o przybycie około **15 minut wcześniej** do holu CHZ, aby uniknąć opóźnień w rozpoczęciu seansu.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Fairytale Mornings at the Zajezdnia History Centre",
+          "description": "Screenings of classic Polish cartoons at the Zajezdnia History Centre\n\nWe invite all children and parents to screenings of old Polish cartoons, held every month in the cinema room at the **Zajezdnia History Centre**. We watch old hits that children once couldn’t imagine their bedtime TV without – **“Reksio”**, **“Bolek and Lolek”**, **“The Adventures of a Little Mouse”** and other animated films created by the **Animated Film Studio in Bielsko-Biała**.\n\nAfter the screening, participants take part in **arts and crafts workshops** related to the theme of the cartoon shown.\n\nSee you at the **Zajezdnia History Centre**!\n\nImportant information\n\n• **Tickets** must be purchased for both children and guardians.\n\n• Children cannot attend on their own.\n\n• Purchased tickets must be scanned at the reception desk of the Zajezdnia History Centre.\n\n• Plea"
+        },
+        "uk": {
+          "title": "Казкові ранки в Центрі історії Zajezdnia",
+          "description": "Покази давніх польських казок у Центрі історії Zajezdnia\n\nЗапрошуємо всіх дітей і батьків на покази старих польських казок, які щомісяця відбуваються в кінозалі **Центру історії Zajezdnia**. Переглядаємо давні хіти, без яких діти колись не уявляли собі вечірнього перегляду мультфільмів, — **«Рексіо»**, **«Болек і Льолек»**, **«Пригоди Мишки»** та інші анімаційні фільми, створені **Студією анімаційних фільмів у Бельсько-Бялій**.\n\nПісля показу учасники беруть участь у **творчих майстер-класах**, пов’язаних із тематикою переглянутої казки.\n\nЗустрінемося в **Центрі історії Zajezdnia**!\n\nВажлива інформація\n\n• **Квитки** мають придбати як діти, так і супроводжуючі дорослі.\n\n• Участь лише дитини без супроводу неможлива.\n\n• Придбані квитки потрібно відсканувати на рецепції Центру історії Zajezdnia.\n\n• Просимо"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-11-08T13:28:55.859681+00:00"
+    },
+    "pod-aj-za-latarnikiem-spacer-po-wroc-awiu-2026-11-14T15:00:00+01:00": {
+      "title": "„Podążaj za latarnikiem” – spacer po Wrocławiu",
+      "date": "2026-11-14T15:00:00+01:00",
+      "end_date": "2026-11-14T15:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Dwugodzinny spacer z licencjonowanym przewodnikiem pełen niesamowitych opowieści, zagadek i legend. Oświetlony gazowymi latarniami Ostrów Tumski pełen gotyckich budowli i wąskich uliczek to najpiękniejsza zabytkowa dzielnica Wrocławia na Starym Mieście.\n\nW godzinach spaceru na trasie wycieczki pojawia się Wrocławski Latarnik! Poznaj Wrocław i jego tajemnice! Sympatycznie i z poczuciem humoru. Dla dorosłych i dla dzieci.\n\nCzas trwania to około 2 godzin.\n\nKoszt wycieczki\n\n• Dzieci do lat 14 | 30 zł/os.\n\n• Dorośli | 40 zł/os.\n\nPłatne gotówką na miejscu u przewodnika.\n\nStart przy Niedźwiadku Malajskim przy Starym Ratuszu na Rynku.\n\nWymagana rezerwacja telefoniczna: 513 946 946 (wyślij SMS lub WhatsApp – a otrzymasz potwierdzenie!)\n\nLiczba miejsc ograniczona. Liczba miejsc ograniczona. Zapraszamy w każdą sobotę o godz. 17:00.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-eba9c379ac1100023b210e1babf1691a/wroclaw-latarnik-podazaj-za-latarnikiem.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1390010-tajemnice-ostrowa-tumskiego-spacer-po-wroclawiu",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Rynek we Wrocławiu Rynek, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1390010-tajemnice-ostrowa-tumskiego-spacer-po-wroclawiu",
+      "scrapped_timestamp": "2026-11-08T13:25:42.974826+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "outdoor",
+      "translations": {
+        "pl": {
+          "title": "„Podążaj za latarnikiem” – spacer po Wrocławiu",
+          "description": "Dwugodzinny spacer z licencjonowanym przewodnikiem pełen niesamowitych opowieści, zagadek i legend. Oświetlony gazowymi latarniami Ostrów Tumski pełen gotyckich budowli i wąskich uliczek to najpiękniejsza zabytkowa dzielnica Wrocławia na Starym Mieście.\n\nW godzinach spaceru na trasie wycieczki pojawia się Wrocławski Latarnik! Poznaj Wrocław i jego tajemnice! Sympatycznie i z poczuciem humoru. Dla dorosłych i dla dzieci.\n\nCzas trwania to około 2 godzin.\n\nKoszt wycieczki\n\n• Dzieci do lat 14 | 30 zł/os.\n\n• Dorośli | 40 zł/os.\n\nPłatne gotówką na miejscu u przewodnika.\n\nStart przy Niedźwiadku Malajskim przy Starym Ratuszu na Rynku.\n\nWymagana rezerwacja telefoniczna: 513 946 946 (wyślij SMS lub WhatsApp – a otrzymasz potwierdzenie!)\n\nLiczba miejsc ograniczona. Liczba miejsc ograniczona. Zapraszamy w każdą sobotę o godz. 17:00.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "“Follow the Lamplighter” – a walk around Wrocław",
+          "description": "A two-hour walk with a licensed guide, full of amazing stories, riddles and legends. Illuminated by gas lamps, Ostrów Tumski, with its Gothic buildings and narrow streets, is the most beautiful historic district of Wrocław’s Old Town.\n\nDuring the walk, the Wrocław Lamplighter appears along the tour route! Discover Wrocław and its secrets! In a friendly way and with a sense of humor. For adults and children.\n\nThe walk lasts approximately 2 hours.\n\nTour price\n\n• Children up to 14 years old | 30 PLN/person\n\n• Adults | 40 PLN/person\n\nPay in cash on site to the guide.\n\nMeeting point: the Malayan Bear next to the Old Town Hall in the Market Square.\n\nAdvance booking by phone required: 513 946 946 (send an SMS or WhatsApp message and you’ll receive confirmation!)\n\nPlaces are limited. Places are limited. You are invited."
+        },
+        "uk": {
+          "title": "«Іди за ліхтарником» – прогулянка Вроцлавом",
+          "description": "Двогодинна прогулянка з ліцензованим гідом, сповнена неймовірних історій, загадок і легенд. Острів Тумський, освітлений газовими ліхтарями та повний готичних споруд і вузьких вуличок, — найкрасивіший історичний район Вроцлава у Старому місті.\n\nПід час прогулянки на маршруті екскурсії з’являється Вроцлавський Ліхтарник! Пізнайте Вроцлав і його таємниці! У дружній атмосфері та з почуттям гумору. Для дорослих і дітей.\n\nТривалість — приблизно 2 години.\n\nВартість екскурсії\n\n• Діти до 14 років | 30 zł/особа\n\n• Дорослі | 40 zł/особа\n\nОплата готівкою на місці гідові.\n\nПочаток біля Малайського ведмедика біля Старої ратуші на Ринковій площі.\n\nНеобхідне бронювання телефоном: 513 946 946 (надішліть SMS або повідомлення у WhatsApp — і отримаєте підтвердження!)\n\nКількість місць обмежена. Кількість місць обмежена. Запрошуємо."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-08T13:28:55.859699+00:00"
+    },
+    "bezp-atne-zaj-cia-og-lnorozwojowe-z-elementami-koszyk-wki-dla-dzieci-4-7-lat-2026-11-14T10:45:00+01:00": {
+      "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci 4-7 lat",
+      "date": "2026-11-14T10:45:00+01:00",
+      "end_date": "2026-11-14T10:45:00+01:00",
+      "startTimeKnown": true,
+      "description": "Czy dziecko musi mieć sportowy talent, żeby czerpać radość z ruchu? Absolutnie nie! **Basket4Kids zaprasza najmłodszych na zajęcia ogólnorozwojowe z elementami koszykówki**, podczas których najważniejsze są sprawność, koordynacja, pewność siebie i dobra zabawa. To propozycja dla dzieci już od drugiego roku życia, które chcą odkrywać swoje możliwości, uczyć się nowych umiejętności i budować zdrowe nawyki na przyszłość.\n\nBasket4Kids – ruch to coś więcej niż sport\n\nBieganie, skakanie, utrzymywanie równowagi, rzucanie i łapanie piłki – te podstawowe umiejętności mają **ogromne znaczenie dla rozwoju dziecka**. Zajęcia Basket4Kids pomagają ćwiczyć je w przyjaznej atmosferze, bez presji na wyniki i sportową rywalizację.\n\nKoszykówka jest tutaj narzędziem, a nie celem samym w sobie. Piłka **wspiera rozwój koordynacji**, zabawy pomagają doskonalić szybkość i zwinność, a rzuty uczą kontroli nad ciałem. Wspólne aktywności rozwijają również współpracę, odwagę i umiejętność podejmowania decyzji.\n\nNie małego zawodowca, lecz dziecko, które lubi ruch\n\nW Basket4Kids nie chodzi o to, by jak najwcześniej wyłonić przyszłego mistrza koszykówki. Najważniejsze jest **stworzenie solidnych podstaw**, które przydadzą się niezależnie od tego, jaką aktywność dziecko wybierze w przyszłości – koszykówkę, piłkę nożną, taniec, jazdę na rowerze czy inną formę ruchu.\n\nZajęcia mają **pomagać najmłodszym nabierać pewności siebie**, próbować nowych rzeczy i przekonywać się, że ruch może być źródłem radości. To także okazja do rozwijania sprawności w naturalny sposób – poprzez zabawę, aktywność i stopniowe poznawanie własnych możliwości.\n\nInformacje organizacyjne\n\n• **Zajęcia:** Basket4Kids – zajęcia ogólnorozwojowe z elementami koszykówki\n\n• **Lokalizacja:** IX Liceum Ogólnokształcące, ul. ks. Piotra Skargi 31, centrum Wrocławia\n\n• **Dojazd:** wjazd od ul. Nowej\n\n• **Grupy wiekowe i godziny:**\n\n• 2–3 lata: 9:15–10:00\n\n• 3–4 lata: 10:00–10:45\n\n• 4–5 lat: 10:45–11:45\n\n• 5–6 lat: 11:45–12:45\n\n• 6–8 lat: 12:45–13:45\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-bbeb72b5ac1100024d3fe848354af505/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417277-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417277-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci",
+      "scrapped_timestamp": "2026-11-08T13:25:56.070402+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 2,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci 4-7 lat",
+          "description": "Czy dziecko musi mieć sportowy talent, żeby czerpać radość z ruchu? Absolutnie nie! **Basket4Kids zaprasza najmłodszych na zajęcia ogólnorozwojowe z elementami koszykówki**, podczas których najważniejsze są sprawność, koordynacja, pewność siebie i dobra zabawa. To propozycja dla dzieci już od drugiego roku życia, które chcą odkrywać swoje możliwości, uczyć się nowych umiejętności i budować zdrowe nawyki na przyszłość.\n\nBasket4Kids – ruch to coś więcej niż sport\n\nBieganie, skakanie, utrzymywanie równowagi, rzucanie i łapanie piłki – te podstawowe umiejętności mają **ogromne znaczenie dla rozwoju dziecka**. Zajęcia Basket4Kids pomagają ćwiczyć je w przyjaznej atmosferze, bez presji na wyniki i sportową rywalizację.\n\nKoszykówka jest tutaj narzędziem, a nie celem samym w sobie. Piłka **wspiera rozwój koordynacji**, zabawy pomagają doskonalić szybkość i zwinność, a rzuty uczą kontroli nad ciałem. Wspólne aktywności rozwijają również współpracę, odwagę i umiejętność podejmowania decyzji.\n\nNie małego zawodowca, lecz dziecko, które lubi ruch\n\nW Basket4Kids nie chodzi o to, by jak najwcześniej wyłonić przyszłego mistrza koszykówki. Najważniejsze jest **stworzenie solidnych podstaw**, które przydadzą się niezależnie od tego, jaką aktywność dziecko wybierze w przyszłości – koszykówkę, piłkę nożną, taniec, jazdę na rowerze czy inną formę ruchu.\n\nZajęcia mają **pomagać najmłodszym nabierać pewności siebie**, próbować nowych rzeczy i przekonywać się, że ruch może być źródłem radości. To także okazja do rozwijania sprawności w naturalny sposób – poprzez zabawę, aktywność i stopniowe poznawanie własnych możliwości.\n\nInformacje organizacyjne\n\n• **Zajęcia:** Basket4Kids – zajęcia ogólnorozwojowe z elementami koszykówki\n\n• **Lokalizacja:** IX Liceum Ogólnokształcące, ul. ks. Piotra Skargi 31, centrum Wrocławia\n\n• **Dojazd:** wjazd od ul. Nowej\n\n• **Grupy wiekowe i godziny:**\n\n• 2–3 lata: 9:15–10:00\n\n• 3–4 lata: 10:00–10:45\n\n• 4–5 lat: 10:45–11:45\n\n• 5–6 lat: 11:45–12:45\n\n• 6–8 lat: 12:45–13:45\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Free general fitness classes with basketball elements for children aged 4–7",
+          "description": "Does a child need to have athletic talent to enjoy being active? Absolutely not! **Basket4Kids invites the youngest children to general fitness classes with basketball elements**, where the most important things are fitness, coordination, confidence, and having fun. These classes are for children as young as two, who want to discover what they can do, learn new skills, and build healthy habits for the future.\n\nBasket4Kids – movement is more than sport\n\nRunning, jumping, balancing, throwing, and catching a ball – these basic skills are **extremely important for a child's development**. Basket4Kids classes help children practice them in a friendly atmosphere, without pressure to perform or compete in sports.\n\nBasketball is a tool here, not an end in itself. The ball **supports"
+        },
+        "uk": {
+          "title": "Безкоштовні загальнорозвивальні заняття з елементами баскетболу для дітей 4–7 років",
+          "description": "Чи мусить дитина мати спортивний талант, щоб отримувати радість від руху? Абсолютно ні! **Basket4Kids запрошує найменших на загальнорозвивальні заняття з елементами баскетболу**, під час яких найважливішими є фізична вправність, координація, впевненість у собі та гарний настрій. Це пропозиція для дітей уже від дворічного віку, які хочуть відкривати свої можливості, опановувати нові навички та формувати здорові звички на майбутнє.\n\nBasket4Kids – рух — це щось більше, ніж спорт\n\nБіг, стрибки, утримання рівноваги, кидання та ловіння м’яча – ці базові навички мають **величезне значення для розвитку дитини**. Заняття Basket4Kids допомагають тренувати їх у дружній атмосфері, без тиску щодо результатів і спортивного суперництва.\n\nБаскетбол тут є інструментом, а не самоціллю. М’яч **сприяє"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-08T13:28:55.859716+00:00"
+    },
+    "niedzielne-animacje-dla-dzieci-w-hard-rock-cafe-wroc-aw-2026-11-15T00:00:00+01:00": {
+      "title": "Niedzielne animacje dla dzieci w Hard Rock Cafe Wrocław",
+      "date": "2026-11-15T00:00:00+01:00",
+      "end_date": "2026-11-15T00:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Obiad w Hard Rock Cafe z rozrywką dla dzieci? Brzmi świetnie, prawda?\n\nZapraszamy wszystkie dzieci (oraz rodziców) na zabawy w VIP Roomie, w każdą niedzielę od 14 września, w godzinach 13:00-16:00!\n\n**Atrakcje przygotują profesjonaliści z agencji Animatria, a w planie będą:**\n\n• gry i zabawy integracyjne - dostosowane do przestrzeni\n\n• warsztat origami  wspólne budowanie wieży\n\n• zabawa klockami konstrukcyjnymi\n\n• mini kącik plastyczny\n\n• kalambury\n\n• warsztaty tworzenia breloczków\n\n• i wiele innych atrakcji co tydzień!\n\nSala ma swoje ograniczenia, dlatego warto zrobić wcześniej **rezerwację stolika w restauracji** i dać nam znać, że chcecie dołączyć do zabawy.  **Rezerwacje stolika możecie zrobić:**\n\n• przez stronę internetową\n\n• mailowo przez [email protected]\n\n• przez kontakt w wiadomości prywatnej na naszym Facebooku / Instagramie\n\n• telefonicznie, dzwoniąc na numer restauracji +48 71 726 11 40.\n\nAnimacje w każdą niedzielę do końca grudnia, poza 11.10 i 1.11.\n\n*Animacje przewidziane są wyłącznie dla gości restauracji, a rezerwacja stolika nie gwarantuje miejsca w animacjach. Zabawy przewidziane są dla dzieci od 3 roku życia. Dzieci podczas zabawy pozostają pod opieką swoich opiekunów.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-fe5fb31aac1100022835e476fce291c8/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416829-niedzielne-animacje-dla-dzieci-w-hard-rock-cafe-wroclaw-2026",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Hard Rock Cafe Rynek 25, Wrocław 50-101",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416829-niedzielne-animacje-dla-dzieci-w-hard-rock-cafe-wroclaw-2026",
+      "scrapped_timestamp": "2026-11-08T13:26:08.162828+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Workshops",
+        "Games"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Niedzielne animacje dla dzieci w Hard Rock Cafe Wrocław",
+          "description": "Obiad w Hard Rock Cafe z rozrywką dla dzieci? Brzmi świetnie, prawda?\n\nZapraszamy wszystkie dzieci (oraz rodziców) na zabawy w VIP Roomie, w każdą niedzielę od 14 września, w godzinach 13:00-16:00!\n\n**Atrakcje przygotują profesjonaliści z agencji Animatria, a w planie będą:**\n\n• gry i zabawy integracyjne - dostosowane do przestrzeni\n\n• warsztat origami  wspólne budowanie wieży\n\n• zabawa klockami konstrukcyjnymi\n\n• mini kącik plastyczny\n\n• kalambury\n\n• warsztaty tworzenia breloczków\n\n• i wiele innych atrakcji co tydzień!\n\nSala ma swoje ograniczenia, dlatego warto zrobić wcześniej **rezerwację stolika w restauracji** i dać nam znać, że chcecie dołączyć do zabawy.  **Rezerwacje stolika możecie zrobić:**\n\n• przez stronę internetową\n\n• mailowo przez [email protected]\n\n• przez kontakt w wiadomości prywatnej na naszym Facebooku / Instagramie\n\n• telefonicznie, dzwoniąc na numer restauracji +48 71 726 11 40.\n\nAnimacje w każdą niedzielę do końca grudnia, poza 11.10 i 1.11.\n\n*Animacje przewidziane są wyłącznie dla gości restauracji, a rezerwacja stolika nie gwarantuje miejsca w animacjach. Zabawy przewidziane są dla dzieci od 3 roku życia. Dzieci podczas zabawy pozostają pod opieką swoich opiekunów.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "Sunday Activities for Children at Hard Rock Cafe Wrocław",
+          "description": "Lunch at Hard Rock Cafe with entertainment for children? Sounds great, doesn't it?\n\nWe invite all children (and parents) to join us for fun in the VIP Room every Sunday, starting September 14, from 1:00 PM to 4:00 PM!\n\n**Activities will be prepared by professionals from the Animatria agency, and the plan includes:**\n\n• games and team-building activities - adapted to the space\n\n• origami workshop  building a tower together\n\n• construction block play\n\n• mini arts and crafts corner\n\n• charades\n\n• keychain-making workshops\n\n• and many other attractions every week!\n\nThe room has its limitations, so it’s worth **booking a table at the restaurant** in advance and letting us know you’d like to join in the fun.  **You can book a table:**\n\n• through the website\n\n• by email at [email protected]\n\n• by contacting us via messag"
+        },
+        "uk": {
+          "title": "Недільні розваги для дітей у Hard Rock Cafe Wrocław",
+          "description": "Обід у Hard Rock Cafe з розвагами для дітей? Звучить чудово, правда ж?\n\nЗапрошуємо всіх дітей (а також батьків) на розваги у VIP-залі щонеділі, починаючи з 14 вересня, з 13:00 до 16:00!\n\n**Розваги підготують професіонали з агенції Animatria, а в програмі будуть:**\n\n• ігри та розваги для знайомства й згуртування — адаптовані до простору\n\n• майстер-клас з орігамі  спільне будування вежі\n\n• розваги з конструкторами\n\n• мінітворча майстерня\n\n• шаради\n\n• майстер-класи зі створення брелоків\n\n• та багато інших розваг щотижня!\n\nЗала має свої обмеження, тому варто заздалегідь **зарезервувати столик у ресторані** та повідомити нам, що ви хочете долучитися до розваг.  **Зарезервувати столик можна:**\n\n• на вебсайті\n\n• електронною поштою через [email protected]\n\n• зв’язавшись із нами у повідомленні"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-08T13:28:55.859731+00:00"
+    },
+    "malowana-skrzynia-2026-11-08T12:00:00+01:00": {
+      "title": "Malowana skrzynia",
+      "date": "2026-11-08T12:00:00+01:00",
+      "end_date": "2026-11-08T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "**Warsztaty rodzinne dla dzieci w wieku 6–12 lat w ramach cyklu „Etno w południe”, prowadzenie: Olga Budzan**\n\nSkrzynia wianna służyła dawniej niezamożnym panienkom do przechowywania wszelkiego dobra, jakie przydać się miało w nowym domu, gdy przeprowadzą się do przyszłego męża. W skrzyni takiej trzymało się wszystko to, co dla młodej dziewczyny ważne i piękne. Wspólnie przyjrzymy się skrzyniom, które przyjechały na Dolny Śląsk z różnych regionów kraju. Podczas warsztatów każdy będzie mógł pomalować drewnianą skrzyneczkę wedle swojego uznania a potem trzymać w niej to, co sam uważa za najcenniejsze.\n\nSpotkanie w Muzeum Etnograficznym, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja@muzeumetnograficzne.pl lub 71 344 33 13 (od poniedziałku do piątku, w godz. 8:00–16:00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.\n\n■ Wydarzenia edukacyjne ➸\n\n■ Fotorelacje edukacyjne ➸",
+      "image": "https://mnwr.pl/wp-content/uploads/2018/06/wizyta_MNWr-1.jpg",
+      "url": "https://mnwr.pl/malowana-skrzynia",
+      "source": "mnwr.pl",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu",
+        "district": "Śródmieście"
+      },
+      "age_hint": "6-12",
+      "scrapped_url": "https://mnwr.pl/malowana-skrzynia",
+      "scrapped_timestamp": "2026-11-08T13:26:30.182165+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts",
+        "Educational"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Malowana skrzynia",
+          "description": "**Warsztaty rodzinne dla dzieci w wieku 6–12 lat w ramach cyklu „Etno w południe”, prowadzenie: Olga Budzan**\n\nSkrzynia wianna służyła dawniej niezamożnym panienkom do przechowywania wszelkiego dobra, jakie przydać się miało w nowym domu, gdy przeprowadzą się do przyszłego męża. W skrzyni takiej trzymało się wszystko to, co dla młodej dziewczyny ważne i piękne. Wspólnie przyjrzymy się skrzyniom, które przyjechały na Dolny Śląsk z różnych regionów kraju. Podczas warsztatów każdy będzie mógł pomalować drewnianą skrzyneczkę wedle swojego uznania a potem trzymać w niej to, co sam uważa za najcenniejsze.\n\nSpotkanie w Muzeum Etnograficznym, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja@muzeumetnograficzne.pl lub 71 344 33 13 (od poniedziałku do piątku, w godz. 8:00–16:00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.\n\n■ Wydarzenia edukacyjne ➸\n\n■ Fotorelacje edukacyjne ➸"
+        },
+        "en": {
+          "title": "Painted Chest",
+          "description": "**Family workshop for children aged 6–12 as part of the “Ethno at Noon” series, led by Olga Budzan**\n\nA dowry chest once served less affluent young women as a place to store all the things they might need in their new home after moving in with their future husband. They kept in such a chest everything that was important and beautiful to a young girl. Together, we will take a look at chests that came to Lower Silesia from various regions of the country. During the workshop, everyone will be able to paint a small wooden chest however they wish and then keep in it whatever they consider most precious.\n\nThe meeting will take place at the Ethnographic Museum. Tickets cost PLN 10 and can be purchased at the museum ticket office. Registration during the week before the workshop: edukacja@muzeumetnograficzne.pl or 71 344 33 13 (from Monday to"
+        },
+        "uk": {
+          "title": "Розмальована скриня",
+          "description": "**Сімейні майстер-класи для дітей віком 6–12 років у межах циклу «Етно опівдні», ведуча: Ольга Будзан**\n\nСкриня для приданого колись слугувала незаможним дівчатам для зберігання всілякого добра, яке мало стати в пригоді в новому домі, коли вони переїдуть до майбутнього чоловіка. У такій скрині зберігали все, що було важливим і прекрасним для молодої дівчини. Разом розглянемо скрині, які прибули до Нижньої Сілезії з різних регіонів країни. Під час майстер-класу кожен зможе розмалювати дерев’яну скриньку на власний розсуд, а потім зберігати в ній те, що сам вважає найціннішим.\n\nЗустріч в Етнографічному музеї, квитки за ціною 10 злотих можна придбати в касі музею. Запис протягом тижня перед заняттям: edukacja@muzeumetnograficzne.pl або 71 344 33 13 (з понеділка д"
+        }
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-11-08T13:28:55.859758+00:00"
+    },
+    "sub-rosa-rozkwitaj-po-swojemu-2026-11-08T11:00:00+01:00": {
+      "title": "Sub rosa. Rozkwitaj po swojemu",
+      "date": "2026-11-08T11:00:00+01:00",
+      "end_date": "2026-11-08T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "**Rodzinne warsztaty jogi dla rodzin z dziećmi w wieku 3–10 lat, prowadzenie: Katarzyna Badan**\n\nTwórczo inspirować się będziemy rzeźbą Anny Bujak. Każdy z nas nosi w sobie kwiat, który rozkwita we własnym tempie. Czasem potrzebuje więcej światła, innym razem troski, czułości i chwili wytchnienia. Warto dać mu przestrzeń, by mógł rozwijać się na swój własny, niepowtarzalny sposób.\n\nW trakcie spotkania poprzez ruch, oddech i twórcze działanie będziemy odkrywać siebie, swoją wyjątkowość i piękno bycia razem. Rozpoczniemy od łagodnej praktyki Powitania Wewnętrznego Słońca – bo tak jak kwiat potrzebuje światła, tak i my potrzebujemy ciepła, akceptacji i uważności. Następnie, mocno zakorzenieni w ziemi, pozwolimy naszym ciałom rozkwitać w kolejnych asanach – od małego ziarenka, przez nieśmiały pąk, aż po kwiat otwierający swoje płatki. Każdy w swoim tempie, na miarę własnych możliwości, bez pośpiechu i porównywania się z innymi. Skierujemy uwagę na kolorowy oddech, który pomoże nam odnaleźć spokój, oraz na płatki odwagi – małe symbole siły i wiary w siebie, które zabierzemy do domu jako przypomnienie, że możemy rozkwitać po swojemu. Na zakończenie, otuleni ciepłym zapachem, zanurzymy się w chwili relaksu. Pozwolimy ciałom odpocząć, myślom zwolnić, a wspólnemu doświadczeniu pozostać z nami na dłużej. Bo nie każdy kwiat musi rozkwitać tak samo. Wystarczy, że pozwolimy mu być sobą.\n\nSpotkanie w Pawilonie Czterech Kopuł, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81 (od poniedziałku do piątku, w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.\n\n■ Wydarzenia edukacyjne ➸\n\n**■ Fotorelacje edukacyjne ➸**",
+      "image": "https://mnwr.pl/wp-content/uploads/2018/06/wizyta_MNWr-1.jpg",
+      "url": "https://mnwr.pl/sub-rosa-rozkwitaj-po-swojemu",
+      "source": "mnwr.pl",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu",
+        "district": "Śródmieście"
+      },
+      "age_hint": "3-10",
+      "scrapped_url": "https://mnwr.pl/sub-rosa-rozkwitaj-po-swojemu",
+      "scrapped_timestamp": "2026-11-08T13:26:43.069810+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 10
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Sub rosa. Rozkwitaj po swojemu",
+          "description": "**Rodzinne warsztaty jogi dla rodzin z dziećmi w wieku 3–10 lat, prowadzenie: Katarzyna Badan**\n\nTwórczo inspirować się będziemy rzeźbą Anny Bujak. Każdy z nas nosi w sobie kwiat, który rozkwita we własnym tempie. Czasem potrzebuje więcej światła, innym razem troski, czułości i chwili wytchnienia. Warto dać mu przestrzeń, by mógł rozwijać się na swój własny, niepowtarzalny sposób.\n\nW trakcie spotkania poprzez ruch, oddech i twórcze działanie będziemy odkrywać siebie, swoją wyjątkowość i piękno bycia razem. Rozpoczniemy od łagodnej praktyki Powitania Wewnętrznego Słońca – bo tak jak kwiat potrzebuje światła, tak i my potrzebujemy ciepła, akceptacji i uważności. Następnie, mocno zakorzenieni w ziemi, pozwolimy naszym ciałom rozkwitać w kolejnych asanach – od małego ziarenka, przez nieśmiały pąk, aż po kwiat otwierający swoje płatki. Każdy w swoim tempie, na miarę własnych możliwości, bez pośpiechu i porównywania się z innymi. Skierujemy uwagę na kolorowy oddech, który pomoże nam odnaleźć spokój, oraz na płatki odwagi – małe symbole siły i wiary w siebie, które zabierzemy do domu jako przypomnienie, że możemy rozkwitać po swojemu. Na zakończenie, otuleni ciepłym zapachem, zanurzymy się w chwili relaksu. Pozwolimy ciałom odpocząć, myślom zwolnić, a wspólnemu doświadczeniu pozostać z nami na dłużej. Bo nie każdy kwiat musi rozkwitać tak samo. Wystarczy, że pozwolimy mu być sobą.\n\nSpotkanie w Pawilonie Czterech Kopuł, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81 (od poniedziałku do piątku, w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.\n\n■ Wydarzenia edukacyjne ➸\n\n**■ Fotorelacje edukacyjne ➸**"
+        },
+        "en": {
+          "title": "Sub rosa. Bloom in Your Own Way",
+          "description": "**Family yoga workshops for families with children aged 3–10, led by Katarzyna Badan**\n\nWe will draw creative inspiration from Anna Bujak’s sculpture. Each of us carries a flower within us that blooms at its own pace. Sometimes it needs more light; at other times, care, tenderness, and a moment of respite. It is worth giving it space so it can grow in its own unique way.\n\nDuring the meeting, through movement, breathing, and creative activities, we will discover ourselves, our uniqueness, and the beauty of being together. We will begin with a gentle practice of the Inner Sun Salutation—because just as a flower needs light, so too do we need warmth, acceptance, and mindfulness. Then, firmly rooted in the earth, we will let our bodies bloom in successive asanas—from a tiny seed, through a shy"
+        },
+        "uk": {
+          "title": "Sub rosa. Розквітай по-своєму",
+          "description": "**Сімейні майстер-класи з йоги для родин із дітьми віком 3–10 років, проводить: Катажина Бадан**\n\nТворчо надихатимемося скульптурою Анни Буяк. Кожен із нас носить у собі квітку, яка розквітає у власному темпі. Іноді їй потрібно більше світла, а іншим разом — турботи, ніжності й хвилини перепочинку. Варто дати їй простір, щоб вона могла розвиватися у свій власний, неповторний спосіб.\n\nПід час зустрічі через рух, дихання і творчу діяльність ми відкриватимемо себе, свою унікальність і красу бути разом. Почнемо з м’якої практики Привітання Внутрішнього Сонця — адже так само, як квітці потрібне світло, нам теж потрібні тепло, прийняття й уважність. Потім, міцно вкорінившись у землю, дозволимо нашим тілам розквітати в наступних асанах — від маленької зернини, через несміливий"
+        }
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-11-08T13:28:55.859770+00:00"
+    },
+    "firlej-dzieciom-co-si-nie-przy-ni-o-to-si-nie-wydarzy-2026-11-08T12:00:00+01:00": {
+      "title": "Firlej dzieciom: „Co się nie przyśniło, to się nie wydarzy”",
+      "date": "2026-11-08T12:00:00+01:00",
+      "end_date": "2026-11-08T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Prawdziwa magia nie potrzebuje wielkich dekoracji ani skomplikowanych efektów specjalnych. Może narodzić się tam, gdzie słowo spotyka hipnotyzującą muzykę. W ten sposób w Firleju otworzą się drzwi do krainy, która istnieje tuż obok nas, choć w codziennym pędzie rzadko mamy czas do niej zaglądać. „Co się nie przyśniło, to się nie wydarzy” to niezwykłe spotkanie z baśnią, które udowadnia, że najpotężniejsze obrazy powstają w naszych głowach.\n\n**Teatr dla dzieci bez nadmiaru bodźców**\n\nW świecie zdominowanym przez krzykliwe bajki i wszechobecne ekrany Autorski Teatr Opowieści Katarzyny Jackowskiej-Enemuo proponuje radykalną, a zarazem zachwycającą zmianę formy. Spektakl opiera się na archaicznej technice teatru opowieści. Na scenie nie znajdziemy skomplikowanej scenografii ani nowoczesnych gadżetów.\n\nZamiast tego artyści używają najstarszych narzędzi świata: **ludzkiego głosu, sugestywnej ciszy i dźwięku instrumentów**. To właśnie z nich tkane są niesamowite opowieści o chłopcu, którego snu pragnęli najwięksi władcy, oraz o magicznym drzewie śniącym cały nasz świat. Widzowie również są zaproszeni do tej krainy – twórcy zachęcają, by dzieci przyniosły ze sobą… swoje własne, ulubione sny!\n\n**Historie opowiadane muzyką**\n\n„Co się nie przyśniło, to się nie wydarzy” to w równej mierze spektakl, co niezwykły koncert dla dzieci. Opowieściom **Katarzyny Jackowskiej-Enemuo** (która oprócz śpiewu gra na akordeonie, bębnie daf i afrykańskim ngoni) towarzyszy wirtuoz instrumentów strunowych, **Mateusz Szemraj**.\n\nDzieci będą miały rzadką okazję usłyszeć na żywo brzmienie takich unikalnych instrumentów jak oud, rubab, cymbały czy telenka. Ta niezwykła, organiczna ścieżka dźwiękowa nie pozwala na nudę – ilustruje przygody bohaterów i sprawia, że całe przedstawienie staje się głębokim, sensorycznym doświadczeniem.\n\n**Przedstawienie dla dzieci o tym, co niewidzialne**\n\nTwórcy spektaklu nie szukają taniego moralizatorstwa, ale dotykają tematów, które we współczesnym świecie bywają spychane na margines. Opowieści z krainy snów stają się pretekstem do pięknej rozmowy z młodą publicznością o odwadze do bycia sobą. To lekcja o tym, że to, co niewidzialne i ulotne, często ukrywa w sobie największą siłę. Spektakl uczy dzieci podążania za własnym głosem i pokazuje, jak wielką wartością jest dzielenie się swoimi emocjami z innymi.\n\nWypatrując mądrego wydarzenia dla dzieci we Wrocławiu, warto na chwilę zwolnić bieg. Autorski Teatr Opowieści Katarzyny Jackowskiej-Enemuo proponuje coś zupełnie wyjątkowego – powrót do korzeni sztuki widowiskowej. To idealna propozycja dla dzieci od 5. roku życia oraz rodziców, którzy chcą podarować swoim pociechom przestrzeń pełną spokoju i bliskości. Koniecznie przynieście swoje sny!",
+      "image": "https://strefakultury.pl/wp-content/uploads/2026/06/2026-11-08-co-sie-nie-przysnilo_kalendarium-800x1000.png",
+      "url": "https://strefakultury.pl/event/firlej-dzieciom-co-sie-nie-przysnilo-to-sie-nie-wydarzy",
+      "source": "strefakultury.pl",
+      "location": {
+        "name": "Firlej , ul. Grabiszyńska 56, 53-503 Wrocław Zobacz na mapie",
+        "district": "Stare Miasto"
+      },
+      "age_hint": "5-9",
+      "scrapped_url": "https://strefakultury.pl/event/firlej-dzieciom-co-sie-nie-przysnilo-to-sie-nie-wydarzy",
+      "scrapped_timestamp": "2026-11-08T13:26:57.018435+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Storytime",
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 9
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Firlej dzieciom: „Co się nie przyśniło, to się nie wydarzy”",
+          "description": "Prawdziwa magia nie potrzebuje wielkich dekoracji ani skomplikowanych efektów specjalnych. Może narodzić się tam, gdzie słowo spotyka hipnotyzującą muzykę. W ten sposób w Firleju otworzą się drzwi do krainy, która istnieje tuż obok nas, choć w codziennym pędzie rzadko mamy czas do niej zaglądać. „Co się nie przyśniło, to się nie wydarzy” to niezwykłe spotkanie z baśnią, które udowadnia, że najpotężniejsze obrazy powstają w naszych głowach.\n\n**Teatr dla dzieci bez nadmiaru bodźców**\n\nW świecie zdominowanym przez krzykliwe bajki i wszechobecne ekrany Autorski Teatr Opowieści Katarzyny Jackowskiej-Enemuo proponuje radykalną, a zarazem zachwycającą zmianę formy. Spektakl opiera się na archaicznej technice teatru opowieści. Na scenie nie znajdziemy skomplikowanej scenografii ani nowoczesnych gadżetów.\n\nZamiast tego artyści używają najstarszych narzędzi świata: **ludzkiego głosu, sugestywnej ciszy i dźwięku instrumentów**. To właśnie z nich tkane są niesamowite opowieści o chłopcu, którego snu pragnęli najwięksi władcy, oraz o magicznym drzewie śniącym cały nasz świat. Widzowie również są zaproszeni do tej krainy – twórcy zachęcają, by dzieci przyniosły ze sobą… swoje własne, ulubione sny!\n\n**Historie opowiadane muzyką**\n\n„Co się nie przyśniło, to się nie wydarzy” to w równej mierze spektakl, co niezwykły koncert dla dzieci. Opowieściom **Katarzyny Jackowskiej-Enemuo** (która oprócz śpiewu gra na akordeonie, bębnie daf i afrykańskim ngoni) towarzyszy wirtuoz instrumentów strunowych, **Mateusz Szemraj**.\n\nDzieci będą miały rzadką okazję usłyszeć na żywo brzmienie takich unikalnych instrumentów jak oud, rubab, cymbały czy telenka. Ta niezwykła, organiczna ścieżka dźwiękowa nie pozwala na nudę – ilustruje przygody bohaterów i sprawia, że całe przedstawienie staje się głębokim, sensorycznym doświadczeniem.\n\n**Przedstawienie dla dzieci o tym, co niewidzialne**\n\nTwórcy spektaklu nie szukają taniego moralizatorstwa, ale dotykają tematów, które we współczesnym świecie bywają spychane na margines. Opowieści z krainy snów stają się pretekstem do pięknej rozmowy z młodą publicznością o odwadze do bycia sobą. To lekcja o tym, że to, co niewidzialne i ulotne, często ukrywa w sobie największą siłę. Spektakl uczy dzieci podążania za własnym głosem i pokazuje, jak wielką wartością jest dzielenie się swoimi emocjami z innymi.\n\nWypatrując mądrego wydarzenia dla dzieci we Wrocławiu, warto na chwilę zwolnić bieg. Autorski Teatr Opowieści Katarzyny Jackowskiej-Enemuo proponuje coś zupełnie wyjątkowego – powrót do korzeni sztuki widowiskowej. To idealna propozycja dla dzieci od 5. roku życia oraz rodziców, którzy chcą podarować swoim pociechom przestrzeń pełną spokoju i bliskości. Koniecznie przynieście swoje sny!"
+        },
+        "en": {
+          "title": "Firlej for Children: “What Hasn’t Been Dreamed Won’t Happen”",
+          "description": "True magic doesn’t need grand decorations or complicated special effects. It can be born where words meet hypnotic music. In this way, the doors in Firlej will open to a realm that exists right beside us, though in the rush of everyday life we rarely have time to visit it. “What Hasn’t Been Dreamed Won’t Happen” is an extraordinary encounter with a fairy tale, proving that the most powerful images are created in our minds.\n\n**Theatre for children without sensory overload**\n\nIn a world dominated by loud cartoons and ubiquitous screens, Katarzyna Jackowska-Enemuo’s Storytelling Theatre proposes a radical yet delightful change of form. The performance is based on the archaic technique of storytelling theatre. On stage, we will find neither elaborate scenery nor modern gadgets"
+        },
+        "uk": {
+          "title": "Firlej дітям: «Чого не наснилося, того не станеться»",
+          "description": "Справжня магія не потребує пишних декорацій чи складних спецефектів. Вона може народитися там, де слово зустрічається з гіпнотичною музикою. Так у Firlej відчиняться двері до країни, яка існує зовсім поруч із нами, хоча в щоденній метушні ми рідко маємо час туди зазирнути. «Чого не наснилося, того не станеться» — це незвичайна зустріч із казкою, яка доводить, що наймогутніші образи виникають у наших головах.\n\n**Театр для дітей без надмірної кількості подразників**\n\nУ світі, де панують галасливі мультфільми та повсюдні екрани, Авторський театр оповідей Катажини Яцковської-Енемуо пропонує радикальну, але водночас захопливу зміну форми. Вистава спирається на архаїчну техніку театру оповідей. На сцені ми не побачимо складних декорацій чи сучасних ґаджетів."
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://bilet.strefakultury.pl/rezerwacja/nienumerowane.html?id=599&idt=5d232a1e4913c6c0feb90ed8c2a42732&d=3&idw=538"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-08T13:28:55.859785+00:00"
+    },
+    "kurs-historii-sztuk-sztuka-staro-ytnego-rzymu-trwa-o-architektury-i-realizm-narracji-2026-11-08T11:00:00+01:00": {
+      "title": "Kurs historii sztuk / Sztuka starożytnego Rzymu – trwałość architektury i realizm narracji",
+      "date": "2026-11-08T11:00:00+01:00",
+      "end_date": "2026-11-08T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wykład Grzegorza Wojturskiego w ramach cyklu „Kurs historii sztuki”\nSłuchacze będą mieli okazję poznać źródła sztuki rzymskiej – m.in. w tkwiące w kulturze Etrusków, Latynów oraz Greków z italskich miast. Zobaczą typowe rzymskie budowle, specyficzne rozwiązania konstrukcyjne oparte na półkolistym łuku, filarach i sklepieniach kopułowych, kolebkowych i krzyżowych. Prelegent zaprezentuje też zapewniające niezwykłą trwałość nowatorskie rozwiązania technologiczne i materiałowe oraz stosowane przez Rzymian metody wznoszenia mostów, akweduktów, amfiteatrów czy bazylik. Ukaże dzieła w większości anonimowych rzeźbiarzy rzymskich inspirujących się sztuką grecką oraz rozmiłowanych w realistycznej narracji figuralnej. Byli to twórcy portretowych popiersi konsulów i cezarów, jak również rozbudowanych scen narracyjnych wyrażonych w reliefie na kolumnach i sarkofagach.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej [s. 116], wstęp z biletem w cenie 15 zł dostępnym w kasie biletowej oraz online [od wtorku poprzedzającego zajęcia].\nCzłonkowie Stowarzyszenia Przyjaciół Muzeum Narodowego we Wrocławiu – wstęp bezpłatny.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_978000403_original.jpg",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu (Wrocław-Plac Grunwaldzki)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/kurs-historii-sztuk-sztuka-starozytnego-rzymu-trwalosc-architektury-i-realizm-narracji/kw/c5-3318227",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/kurs-historii-sztuk-sztuka-starozytnego-rzymu-trwalosc-architektury-i-realizm-narracji/kw/c5-3318227",
+      "scrapped_timestamp": "2026-11-08T13:27:13.180322+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kurs historii sztuk / Sztuka starożytnego Rzymu – trwałość architektury i realizm narracji",
+          "description": "Wykład Grzegorza Wojturskiego w ramach cyklu „Kurs historii sztuki”\nSłuchacze będą mieli okazję poznać źródła sztuki rzymskiej – m.in. w tkwiące w kulturze Etrusków, Latynów oraz Greków z italskich miast. Zobaczą typowe rzymskie budowle, specyficzne rozwiązania konstrukcyjne oparte na półkolistym łuku, filarach i sklepieniach kopułowych, kolebkowych i krzyżowych. Prelegent zaprezentuje też zapewniające niezwykłą trwałość nowatorskie rozwiązania technologiczne i materiałowe oraz stosowane przez Rzymian metody wznoszenia mostów, akweduktów, amfiteatrów czy bazylik. Ukaże dzieła w większości anonimowych rzeźbiarzy rzymskich inspirujących się sztuką grecką oraz rozmiłowanych w realistycznej narracji figuralnej. Byli to twórcy portretowych popiersi konsulów i cezarów, jak również rozbudowanych scen narracyjnych wyrażonych w reliefie na kolumnach i sarkofagach.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej [s. 116], wstęp z biletem w cenie 15 zł dostępnym w kasie biletowej oraz online [od wtorku poprzedzającego zajęcia].\nCzłonkowie Stowarzyszenia Przyjaciół Muzeum Narodowego we Wrocławiu – wstęp bezpłatny."
+        },
+        "en": {
+          "title": "Art History Course / The Art of Ancient Rome – The Durability of Architecture and the Realism of Narrative",
+          "description": "Lecture by Grzegorz Wojturski as part of the “Art History Course” series\nParticipants will have the opportunity to learn about the sources of Roman art, including those rooted in the cultures of the Etruscans, Latins, and Greeks from the cities of Italy. They will see typical Roman buildings and distinctive structural solutions based on the semicircular arch, piers, and domed, barrel, and cross vaults. The speaker will also present innovative technological and material solutions that ensured exceptional durability, as well as the methods used by the Romans to build bridges, aqueducts, amphitheatres, and basilicas. He will showcase works by mostly anonymous Roman sculptors, who drew inspiration from Greek art and were devoted to realistic figurative narrative. They were creators of portrait busts of consuls and Caesars, as well as elaborate"
+        },
+        "uk": {
+          "title": "Курс історії мистецтва / Мистецтво Стародавнього Риму – довговічність архітектури та реалізм оповіді",
+          "description": "Лекція Гжегожа Войтурського в межах циклу «Курс історії мистецтва»\nСлухачі матимуть змогу познайомитися з джерелами римського мистецтва — зокрема, тими, що сягають корінням культури етрусків, латинян і греків з італійських міст. Вони побачать типові римські споруди, специфічні конструктивні рішення, засновані на напівкруглій арці, стовпах і купольних, циліндричних та хрестових склепіннях. Доповідач також представить новаторські технологічні й матеріальні рішення, що забезпечували надзвичайну довговічність, а також методи, які римляни застосовували для спорудження мостів, акведуків, амфітеатрів і базилік. Він покаже твори переважно анонімних римських скульпторів, які надихалися грецьким мистецтвом і захоплювалися реалістичною фігуративною оповіддю. Це були творці портретних погрудь консулів і цезарів, а також розгорнутих"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-08T13:28:55.859801+00:00"
+    },
+    "l-skie-ko-cio-y-pokoju-pi-kno-ukryte-w-skromnej-bryle-2026-11-08T13:00:00+01:00": {
+      "title": "Śląskie kościoły pokoju – piękno ukryte w skromnej bryle",
+      "date": "2026-11-08T13:00:00+01:00",
+      "end_date": "2026-11-08T13:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wykład dr Agnieszki Seidel-Grzesińskiej towarzyszący wystawie „Nowożytne złotnictwo śląskich kościołów pokoju”\nŚwiatową sławę śląskie kościoły pokoju zawdzięczają przede wszystkim spektakularnym okolicznościom powstania oraz innowacyjnym rozwiązaniom konstrukcyjnym. Niemniej godne uwagi są jednak wystroje i wyposażenia ich wnętrz, które – rzec można – zostały całkowicie zdominowane przez obraz. I nawet jeżeli pod względem artystycznym rzeźbie i malarstwu zdobiącym luterańskie kościoły Jawora i Świdnicy trudno konkurować z czołowymi osiągnięciami baroku w Europie, to pod względem treści mało jest takich, które mogłyby się z nimi równać. Zapraszam zatem na niezwykłą podróż tropem ukrytych w tych dziełach znaczeń – symbolicznych, alegorycznych i emblematycznych.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny. W przypadku pytań informacji udziela Dział Edukacji MNWr: tel. 71 372 51 48 lub edukacja@mnwr.pl.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_978000401_original.jpg",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu (Wrocław-Plac Grunwaldzki)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/slaskie-koscioly-pokoju-piekno-ukryte-w-skromnej-bryle/kw/c5-3318225",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/slaskie-koscioly-pokoju-piekno-ukryte-w-skromnej-bryle/kw/c5-3318225",
+      "scrapped_timestamp": "2026-11-08T13:27:23.011310+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Śląskie kościoły pokoju – piękno ukryte w skromnej bryle",
+          "description": "Wykład dr Agnieszki Seidel-Grzesińskiej towarzyszący wystawie „Nowożytne złotnictwo śląskich kościołów pokoju”\nŚwiatową sławę śląskie kościoły pokoju zawdzięczają przede wszystkim spektakularnym okolicznościom powstania oraz innowacyjnym rozwiązaniom konstrukcyjnym. Niemniej godne uwagi są jednak wystroje i wyposażenia ich wnętrz, które – rzec można – zostały całkowicie zdominowane przez obraz. I nawet jeżeli pod względem artystycznym rzeźbie i malarstwu zdobiącym luterańskie kościoły Jawora i Świdnicy trudno konkurować z czołowymi osiągnięciami baroku w Europie, to pod względem treści mało jest takich, które mogłyby się z nimi równać. Zapraszam zatem na niezwykłą podróż tropem ukrytych w tych dziełach znaczeń – symbolicznych, alegorycznych i emblematycznych.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny. W przypadku pytań informacji udziela Dział Edukacji MNWr: tel. 71 372 51 48 lub edukacja@mnwr.pl."
+        },
+        "en": {
+          "title": "Silesian Churches of Peace – beauty hidden within a modest structure",
+          "description": "Lecture by Dr Agnieszka Seidel-Grzesińska accompanying the exhibition “Early Modern Goldsmithing in the Silesian Churches of Peace”\nThe Silesian Churches of Peace owe their worldwide fame above all to the spectacular circumstances of their creation and their innovative structural solutions. Nevertheless, the decoration and furnishings of their interiors are also worthy of attention; one might say they were completely dominated by imagery. And even if, artistically, the sculpture and painting adorning the Lutheran churches in Jawor and Świdnica find it difficult to compete with the leading achievements of the Baroque in Europe, few can match them in terms of content. I therefore invite you on an extraordinary journey in search of the meanings hidden in these works – symbolic, allegorical and emblematic.\nNational Museum in Wrocław,"
+        },
+        "uk": {
+          "title": "Сілезькі церкви миру — краса, прихована у скромній споруді",
+          "description": "Лекція д-р Агнешки Зайдель-Ґжесінської, що супроводжує виставку «Ранньомодерне золотарство сілезьких церков миру»\nСвітовою славою сілезькі церкви миру завдячують передусім вражаючим обставинам свого виникнення та інноваційним конструктивним рішенням. Однак не меншої уваги заслуговують оздоблення й облаштування їхніх інтер’єрів, які, можна сказати, були цілковито підпорядковані образу. І навіть якщо з мистецького погляду скульптурі та живопису, що прикрашають лютеранські церкви Явора і Свідниці, важко конкурувати з провідними досягненнями бароко в Європі, то за змістом мало знайдеться творів, які могли б із ними зрівнятися. Тож запрошую у незвичайну подорож слідами прихованих у цих творах значень — символічних, алегоричних та емблематичних.\nНаціональний музей у Вроцлаві,"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-08T13:28:55.859816+00:00"
+    },
+    "dolno-l-skie-targi-zoologiczne-targi-dla-mi-o-nik-w-zwierz-t-2026-11-22T10:00:00+01:00": {
+      "title": "Dolnośląskie Targi Zoologiczne – targi dla miłośników zwierząt",
+      "date": "2026-11-22T10:00:00+01:00",
+      "end_date": "2026-11-22T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Jesienne święto dla miłośników zwierząt. Atrakcjami tej edycji będą między innymi pokaz kotów rasowych, strefa psów, strefa zwierząt egzotycznych oraz prelekcje z ekspertami i hodowcami.\n\nProgram obejmuje także Ogólnopolską Giełdę Ptaków Egzotycznych, zakupową oraz atrakcje rodzinne.\n\nBilety i szczegóły dostępne są na stronie: tinyurl.com/TargiZoologiczne2026",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/a3231e50-e98c-4686-b3de-0f53b8dd99c7/137358eb-37e8-47a1-86ac-478681f15b54.jpg",
+      "location": {
+        "name": "Al. Śląska 1, 54-118 Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/dolnoslaskie-targi-zoologiczne-targi-dla-milosnikow-zwierzat-a3231e50-e98c-4686-b3de-0f53b8dd99c7",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/dolnoslaskie-targi-zoologiczne-targi-dla-milosnikow-zwierzat-a3231e50-e98c-4686-b3de-0f53b8dd99c7",
+      "scrapped_timestamp": "2026-11-08T13:27:51.635022+00:00",
+      "category": "Nature & Wildlife",
+      "additional_categories": [
+        "Family Fun",
+        "Educational"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dolnośląskie Targi Zoologiczne – targi dla miłośników zwierząt",
+          "description": "Jesienne święto dla miłośników zwierząt. Atrakcjami tej edycji będą między innymi pokaz kotów rasowych, strefa psów, strefa zwierząt egzotycznych oraz prelekcje z ekspertami i hodowcami.\n\nProgram obejmuje także Ogólnopolską Giełdę Ptaków Egzotycznych, zakupową oraz atrakcje rodzinne.\n\nBilety i szczegóły dostępne są na stronie: tinyurl.com/TargiZoologiczne2026"
+        },
+        "en": {
+          "title": "Lower Silesian Zoological Fair – a fair for animal lovers",
+          "description": "An autumn celebration for animal lovers. Highlights of this edition will include a pedigree cat show, a dog zone, an exotic animal zone, and talks with experts and breeders.\n\nThe program also includes the National Exotic Bird Market, shopping opportunities, and family attractions.\n\nTickets and details are available at: tinyurl.com/TargiZoologiczne2026"
+        },
+        "uk": {
+          "title": "Нижньосілезький зоологічний ярмарок – ярмарок для любителів тварин",
+          "description": "Осіннє свято для любителів тварин. Серед атракцій цього разу — шоу породистих котів, зона собак, зона екзотичних тварин, а також лекції за участю експертів і заводчиків.\n\nУ програмі також Всеукраїнська біржа екзотичних птахів, шопінг та сімейні розваги.\n\nКвитки та детальна інформація доступні на сайті: tinyurl.com/TargiZoologiczne2026"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-11-08T13:28:55.859831+00:00"
+    },
+    "zaczarowane-kamienie-warsztaty-plastyczne-klub-rodzica-2026-11-21T11:00:00+01:00": {
+      "title": "Zaczarowane kamienie – warsztaty plastyczne (Klub Rodzica)",
+      "date": "2026-11-21T11:00:00+01:00",
+      "end_date": "2026-11-21T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy małych artystów na wyjątkowe warsztaty kreatywne, podczas których zwykłe kamienie zamienią się w niezwykłe, kolorowe dzieła sztuki! Dzieci poznają świat barw, wzorów i nieograniczonej wyobraźni. Przy pomocy farb, pisaków i innych kreatywnych materiałów będą ozdabiać kamienie, tworząc własne, niepowtarzalne dekoracje.\nPodczas warsztatów każdy uczestnik będzie mógł:\nRozwijać kreatywność i wyobraźnię.\nEksperymentować z kolorami i wzorami.\nĆwiczyć sprawność małych rączek i motorykę małą.\nStworzyć własny, wyjątkowy kamień, który zabierze do domu.\nNie trzeba mieć zdolności plastycznych ani doświadczenia - wystarczy odrobina fantazji i chęć do zabawy! To będzie czas pełen kolorów, uśmiechu i twórczej radości. Każdy kamień będzie inny, tak jak wyjątkowy jest każdy mały artysta! Zapewniamy: wszystkie materiały potrzebne do wykonania pracy. Przyjdźcie i przekonajcie się, jak wiele magii kryje się w zwykłym kamieniu!\nWydarzenie dla dzieci w wieku 4-7 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/56ad8760-662a-41fb-a815-4ba9f2d40b31/e3f67c63-263e-4b9b-bc4d-cb75c7596512.jpg",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 29, Mikołaja Reja 1, 50-354 Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/zaczarowane-kamienie-warsztaty-plastyczne-klub-rodzica-56ad8760-662a-41fb-a815-4ba9f2d40b31",
+      "source": "simplygo.pl",
+      "age_hint": "4-7",
+      "age_range": {
+        "min": 4,
+        "max": 7
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/zaczarowane-kamienie-warsztaty-plastyczne-klub-rodzica-56ad8760-662a-41fb-a815-4ba9f2d40b31",
+      "scrapped_timestamp": "2026-11-08T13:28:09.283698+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Zaczarowane kamienie – warsztaty plastyczne (Klub Rodzica)",
+          "description": "Zapraszamy małych artystów na wyjątkowe warsztaty kreatywne, podczas których zwykłe kamienie zamienią się w niezwykłe, kolorowe dzieła sztuki! Dzieci poznają świat barw, wzorów i nieograniczonej wyobraźni. Przy pomocy farb, pisaków i innych kreatywnych materiałów będą ozdabiać kamienie, tworząc własne, niepowtarzalne dekoracje.\nPodczas warsztatów każdy uczestnik będzie mógł:\nRozwijać kreatywność i wyobraźnię.\nEksperymentować z kolorami i wzorami.\nĆwiczyć sprawność małych rączek i motorykę małą.\nStworzyć własny, wyjątkowy kamień, który zabierze do domu.\nNie trzeba mieć zdolności plastycznych ani doświadczenia - wystarczy odrobina fantazji i chęć do zabawy! To będzie czas pełen kolorów, uśmiechu i twórczej radości. Każdy kamień będzie inny, tak jak wyjątkowy jest każdy mały artysta! Zapewniamy: wszystkie materiały potrzebne do wykonania pracy. Przyjdźcie i przekonajcie się, jak wiele magii kryje się w zwykłym kamieniu!\nWydarzenie dla dzieci w wieku 4-7 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Enchanted Stones – art workshop (Parent Club)",
+          "description": "We invite young artists to a special creative workshop where ordinary stones will become extraordinary, colorful works of art! Children will discover a world of colors, patterns, and limitless imagination. Using paints, markers, and other creative materials, they will decorate stones and create their own unique decorations.\nDuring the workshop, each participant will be able to:\nDevelop creativity and imagination.\nExperiment with colors and patterns.\nPractice hand dexterity and fine motor skills.\nCreate their own special stone to take home.\nNo artistic talent or experience is needed—all you need is a little imagination and a desire to have fun! It will be a time full of color, smiles, and creative joy. Every stone will be different, just as every young artist is unique! Provides"
+        },
+        "uk": {
+          "title": "Чарівні камінці – творчий майстер-клас (Клуб батьків)",
+          "description": "Запрошуємо маленьких митців на особливий творчий майстер-клас, під час якого звичайні камінці перетворяться на незвичайні барвисті витвори мистецтва! Діти познайомляться зі світом кольорів, візерунків і безмежної уяви. За допомогою фарб, фломастерів та інших творчих матеріалів вони прикрашатимуть камінці, створюючи власні неповторні декорації.\nПід час майстер-класу кожен учасник зможе:\nРозвивати творчі здібності та уяву.\nЕкспериментувати з кольорами й візерунками.\nТренувати спритність маленьких рученят і дрібну моторику.\nСтворити власний неповторний камінець, який забере додому.\nНе потрібно мати художніх здібностей чи досвіду — достатньо трохи фантазії та бажання розважитися! Це буде час, сповнений кольорів, усмішок і творчої радості. Кожен камінець буде особливим, як і кожен маленький митець! Забезпечує"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/226956/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-11-08T13:28:55.859861+00:00"
+    },
+    "warsztaty-z-higieny-cyfrowej-klub-rodzica-2026-11-24T17:00:00+01:00": {
+      "title": "Warsztaty z higieny cyfrowej (Klub Rodzica)",
+      "date": "2026-11-24T17:00:00+01:00",
+      "end_date": "2026-11-24T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na zajęcia edukacyjne skierowane do dzieci w wieku 10-12 lat, których celem jest kształtowanie zdrowych i bezpiecznych nawyków związanych z korzystaniem z urządzeń cyfrowych oraz Internetu. Podczas spotkania uczestnicy dowiedzą się, jak świadomie zarządzać czasem spędzanym przed ekranem, dbać o równowagę między aktywnością online i offline oraz chronić swoje dane i prywatność w sieci.\nZajęcia będą miały charakter interaktywny a dzięki angażującym zabawom, pracy w grupach, analizie codziennych sytuacji oraz wspólnemu rozwiązywaniu problemów dzieci poznają zasady bezpiecznego korzystania z mediów cyfrowych. Porozmawiają również o wpływie nadmiernego korzystania z urządzeń elektronicznych na sen, koncentrację, samopoczucie i relacje z innymi.\nWydarzenie dla dzieci w wieku 10-12 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c5d15218-0081-45f3-ae96-6b236c63c0e7/f9bae8e0-7011-4bbe-8043-e5f0306b208c.jpg",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 4, ul. Wieczysta 105, 50-550 Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/warsztaty-z-higieny-cyfrowej-klub-rodzica-c5d15218-0081-45f3-ae96-6b236c63c0e7",
+      "source": "simplygo.pl",
+      "age_hint": "10-12",
+      "age_range": {
+        "min": 10,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/warsztaty-z-higieny-cyfrowej-klub-rodzica-c5d15218-0081-45f3-ae96-6b236c63c0e7",
+      "scrapped_timestamp": "2026-11-08T13:28:18.070363+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Educational"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Warsztaty z higieny cyfrowej (Klub Rodzica)",
+          "description": "Zapraszamy na zajęcia edukacyjne skierowane do dzieci w wieku 10-12 lat, których celem jest kształtowanie zdrowych i bezpiecznych nawyków związanych z korzystaniem z urządzeń cyfrowych oraz Internetu. Podczas spotkania uczestnicy dowiedzą się, jak świadomie zarządzać czasem spędzanym przed ekranem, dbać o równowagę między aktywnością online i offline oraz chronić swoje dane i prywatność w sieci.\nZajęcia będą miały charakter interaktywny a dzięki angażującym zabawom, pracy w grupach, analizie codziennych sytuacji oraz wspólnemu rozwiązywaniu problemów dzieci poznają zasady bezpiecznego korzystania z mediów cyfrowych. Porozmawiają również o wpływie nadmiernego korzystania z urządzeń elektronicznych na sen, koncentrację, samopoczucie i relacje z innymi.\nWydarzenie dla dzieci w wieku 10-12 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Digital Hygiene Workshop (Parent Club)",
+          "description": "We invite children aged 10–12 to an educational session aimed at developing healthy and safe habits related to using digital devices and the Internet. During the session, participants will learn how to consciously manage the time they spend in front of screens, maintain a balance between online and offline activities, and protect their data and privacy online.\nThe session will be interactive, and through engaging games, group work, analysis of everyday situations, and collaborative problem-solving, children will learn the principles of using digital media safely. They will also talk about how excessive use of electronic devices affects sleep, concentration, well-being, and relationships with others.\nEvent for children aged 10–12"
+        },
+        "uk": {
+          "title": "Майстер-клас із цифрової гігієни (Клуб батьків)",
+          "description": "Запрошуємо на освітні заняття для дітей віком 10–12 років, мета яких — формування здорових і безпечних звичок користування цифровими пристроями та інтернетом. Під час зустрічі учасники дізнаються, як свідомо керувати часом, проведеним перед екраном, дбати про баланс між активністю онлайн і офлайн, а також захищати свої дані й приватність у мережі.\nЗаняття матимуть інтерактивний формат, а завдяки захопливим іграм, роботі в групах, аналізу повсякденних ситуацій і спільному розв’язанню проблем діти дізнаються про правила безпечного користування цифровими медіа. Також вони поговорять про вплив надмірного користування електронними пристроями на сон, концентрацію, самопочуття та стосунки з іншими.\nЗахід для дітей віком 10–12 років"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/226899/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-11-08T13:28:55.859873+00:00"
+    },
+    "szaleni-naukowcy-naukowy-pokaz-dla-dzieci-2026-11-25T11:00:00+01:00": {
+      "title": "Szaleni Naukowcy – naukowy pokaz dla dzieci",
+      "date": "2026-11-25T11:00:00+01:00",
+      "end_date": "2026-11-25T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Szaleni Naukowcy to naukowe show dla dzieci, czyli barwne widowisko o perypetiach niezwykłych bohaterów: Człowieka-Robaka, Igreka, Niny i Profesora Trauta. Pokaz łączy eksperymenty z różnych dziedzin wiedzy z humorem i odpowiedziami na nurtujące pytania.\n\nW programie:\n• Szalona piana: wyrazisty eksperyment z setkami litrów kolorowej piany\n• Ciekły azot: eksperymenty z właściwościami ciekłego azotu i innych gazów, mgła na stole oraz ogromny wybuch azotowy\n• Cewki Tesli: eksperymenty z urządzeniami generującymi wysokiej częstotliwości wyładowania elektryczne (zamek błyskawiczny)\n• jonizacja gazów i ich blask oraz przesyłanie energii na odległość, pojęcie błyskawicy\n• Theremin: zasada działania i prezentacja gry na instrumencie, na którym gra się bez dotyku\n• pokaz laserów oraz wiele innych doświadczeń\n\nPokaz ma charakter rozrywkowy. Rekomendowany jest dla dzieci w wieku od 3 do 12 lat. Czas trwania: 70 minut.\n\nUwaga: pole elektromagnetyczne wytwarzane podczas eksperymentu „Cewki Tesli” może zaburzać działanie, a nawet zniszczyć stymulatory serca i aparaty słuchowe w promieniu około 10 metrów od maszyny. Osoby z takimi urządzeniami proszone są o przeniesienie się z pierwszych dziesięciu rzędów na miejsca w dalszych rzędach.\n\nStrona wydarzenia: https://hypeglobal.pro/sn-wroclaw/",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/0bd56f2d-edb6-4d1d-9655-5e6c9e3072d2/56c98d42-8708-459e-a263-7ea15016f03b.jpg",
+      "location": {
+        "name": "Sala Koncertowa Radia Wrocław Al. Karkonoska 10",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/szaleni-naukowcy-naukowy-pokaz-dla-dzieci-0bd56f2d-edb6-4d1d-9655-5e6c9e3072d2",
+      "source": "simplygo.pl",
+      "age_hint": "3-12",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/szaleni-naukowcy-naukowy-pokaz-dla-dzieci-0bd56f2d-edb6-4d1d-9655-5e6c9e3072d2",
+      "scrapped_timestamp": "2026-11-08T13:28:26.281956+00:00",
+      "category": "STEM",
+      "additional_categories": [
+        "Educational",
+        "Family Fun"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Szaleni Naukowcy – naukowy pokaz dla dzieci",
+          "description": "Szaleni Naukowcy to naukowe show dla dzieci, czyli barwne widowisko o perypetiach niezwykłych bohaterów: Człowieka-Robaka, Igreka, Niny i Profesora Trauta. Pokaz łączy eksperymenty z różnych dziedzin wiedzy z humorem i odpowiedziami na nurtujące pytania.\n\nW programie:\n• Szalona piana: wyrazisty eksperyment z setkami litrów kolorowej piany\n• Ciekły azot: eksperymenty z właściwościami ciekłego azotu i innych gazów, mgła na stole oraz ogromny wybuch azotowy\n• Cewki Tesli: eksperymenty z urządzeniami generującymi wysokiej częstotliwości wyładowania elektryczne (zamek błyskawiczny)\n• jonizacja gazów i ich blask oraz przesyłanie energii na odległość, pojęcie błyskawicy\n• Theremin: zasada działania i prezentacja gry na instrumencie, na którym gra się bez dotyku\n• pokaz laserów oraz wiele innych doświadczeń\n\nPokaz ma charakter rozrywkowy. Rekomendowany jest dla dzieci w wieku od 3 do 12 lat. Czas trwania: 70 minut.\n\nUwaga: pole elektromagnetyczne wytwarzane podczas eksperymentu „Cewki Tesli” może zaburzać działanie, a nawet zniszczyć stymulatory serca i aparaty słuchowe w promieniu około 10 metrów od maszyny. Osoby z takimi urządzeniami proszone są o przeniesienie się z pierwszych dziesięciu rzędów na miejsca w dalszych rzędach.\n\nStrona wydarzenia: https://hypeglobal.pro/sn-wroclaw/"
+        },
+        "en": {
+          "title": "Crazy Scientists – a science show for children",
+          "description": "Crazy Scientists is a science show for children: a colorful spectacle about the adventures of extraordinary characters: Worm-Man, Igrek, Nina, and Professor Traut. The show combines experiments from various fields of knowledge with humor and answers to intriguing questions.\n\nThe program includes:\n• Crazy foam: a striking experiment involving hundreds of liters of colorful foam\n• Liquid nitrogen: experiments demonstrating the properties of liquid nitrogen and other gases, fog on the table, and a huge nitrogen explosion\n• Tesla coils: experiments with devices that generate high-frequency electrical discharges (lightning bolts)\n• ionization of gases and their glow, as well as transmitting energy over a distance and the concept of lightning\n• Theremin: how it works and a demonstration of playing an instrument that is played without touching it\n• a laser show and many other d"
+        },
+        "uk": {
+          "title": "Божевільні науковці – наукове шоу для дітей",
+          "description": "«Божевільні науковці» — це наукове шоу для дітей, барвисте видовище про пригоди незвичайних героїв: Людини-Хробака, Ігрека, Ніни та професора Траута. Шоу поєднує експерименти з різних галузей знань із гумором і відповідями на цікаві запитання.\n\nУ програмі:\n• Божевільна піна: яскравий експеримент із сотнями літрів кольорової піни\n• Рідкий азот: експерименти з властивостями рідкого азоту та інших газів, туман на столі й величезний вибух азоту\n• Котушки Тесли: експерименти з пристроями, що генерують високочастотні електричні розряди (блискавка)\n• Іонізація газів і їхнє світіння, а також передавання енергії на відстань, поняття блискавки\n• Терменвокс: принцип роботи та демонстрація гри на інструменті, на якому грають без дотику\n• Лазерне шоу та багато інших д"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-11-08T13:28:55.859886+00:00"
+    },
+    "drewniane-domki-szachulcowe-warsztaty-plastyczne-klub-rodzica-2026-11-28T11:00:00+01:00": {
+      "title": "Drewniane domki szachulcowe – warsztaty plastyczne (Klub Rodzica)",
+      "date": "2026-11-28T11:00:00+01:00",
+      "end_date": "2026-11-28T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy wszystkich małych Czytelników na wyjątkowe warsztaty, w czasie których zanurzycie się w architekturze Dolnego Śląska. Nie tylko poznacie jak powstały te piękne, czarno-białe domy, dlaczego i z jakich materiałów zostały wykonane, ale także dowiecie się jak to się stało, że niemal wszystkie są dziś ruiną. Przede wszystkim zbudujecie jednak własne modele domków szachulcowych!\nZajęcia odbędą się we współpracy z Etno Warsztaty.\nWydarzenie dla dzieci w wieku 5-8 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/f2c00ee0-06d5-4d55-899e-9994aabb1cc6/0bd1512e-a3d1-419c-8a9e-91ad90eecc7e.jpg",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 23, Bulwar Ikara 29-31, 54-130 Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/drewniane-domki-szachulcowe-warsztaty-plastyczne-klub-rodzica-f2c00ee0-06d5-4d55-899e-9994aabb1cc6",
+      "source": "simplygo.pl",
+      "age_hint": "5-8",
+      "age_range": {
+        "min": 5,
+        "max": 8
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/drewniane-domki-szachulcowe-warsztaty-plastyczne-klub-rodzica-f2c00ee0-06d5-4d55-899e-9994aabb1cc6",
+      "scrapped_timestamp": "2026-11-08T13:28:37.229223+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts",
+        "Educational"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Drewniane domki szachulcowe – warsztaty plastyczne (Klub Rodzica)",
+          "description": "Zapraszamy wszystkich małych Czytelników na wyjątkowe warsztaty, w czasie których zanurzycie się w architekturze Dolnego Śląska. Nie tylko poznacie jak powstały te piękne, czarno-białe domy, dlaczego i z jakich materiałów zostały wykonane, ale także dowiecie się jak to się stało, że niemal wszystkie są dziś ruiną. Przede wszystkim zbudujecie jednak własne modele domków szachulcowych!\nZajęcia odbędą się we współpracy z Etno Warsztaty.\nWydarzenie dla dzieci w wieku 5-8 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Wooden Half-Timbered Houses – Art Workshops (Parent Club)",
+          "description": "We invite all young readers to special workshops where you’ll immerse yourselves in the architecture of Lower Silesia. You’ll not only learn how these beautiful black-and-white houses were built, why they were built and what materials were used, but also discover how it came about that almost all of them are now in ruins. Above all, however, you’ll build your own models of half-timbered houses!\nThe workshops are organized in cooperation with Etno Warsztaty.\nFor children aged 5–8.\nOne ticket is required per pair: child and accompanying adult.\nDiscounted tickets are available to MBP Wrocław library card holders.\nThe venue is accessible to people with mobility disabilities.\nThe Parent Club is a series of literary, educational and artistic events for children and their caregivers, held at selected branches of the Wrocław Municipal Library Pu"
+        },
+        "uk": {
+          "title": "Дерев’яні фахверкові будиночки – майстер-клас з образотворчого мистецтва (Клуб батьків)",
+          "description": "Запрошуємо всіх маленьких читачів на незвичайний майстер-клас, під час якого ви зануритеся в архітектуру Нижньої Сілезії. Ви не лише дізнаєтеся, як з’явилися ці красиві чорно-білі будинки, чому і з яких матеріалів їх збудували, а й довідаєтеся, як сталося, що майже всі вони сьогодні є руїнами. Але найголовніше — ви збудуєте власні моделі фахверкових будиночків!\nЗаняття відбудеться у співпраці з Etno Warsztaty.\nЗахід для дітей віком 5–8 років.\nПотрібен один квиток на пару: дитина та дорослий.\nПільгові квитки для власників бібліотечної картки МБП Вроцлав.\nМісце пристосоване для людей з порушеннями опорно-рухового апарату.\nКлуб батьків — це циклічні літературні, освітні та мистецькі зустрічі для дітей та їхніх опікунів, що відбуваються в окремих філіях Міської бібліотеки Пу"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/227098/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-11-08T13:28:55.859898+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:50:37.141665+00:00",
+  "updated_at": "2026-11-09T16:12:21.078115+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1818,6 +1818,33 @@
       "lat": 52.4072865,
       "lng": 16.9346527,
       "updated_at": "2026-11-08T13:44:44.158949+00:00"
+    },
+    "m1 poznań": {
+      "name": "M1 Poznań, ul. Szwajcarska 14, 61-285 Poznań",
+      "district": "Stare Miasto",
+      "address": "M1 Poznań, ul. Szwajcarska 14, 61-285 Poznań",
+      "normalized": "m1 poznań",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-09T16:08:07.810815+00:00"
+    },
+    "międzynarodowe targi...": {
+      "name": "Międzynarodowe Targi Poznańskie, Głogowska, Łazarz, Poznań, województwo wielkopolskie, 60-734, Polska",
+      "district": "Grunwald",
+      "address": "Międzynarodowe Targi Poznańskie, Głogowska, Łazarz, Poznań, województwo wielkopolskie, 60-734, Polska",
+      "normalized": "międzynarodowe targi...",
+      "lat": 52.4032147,
+      "lng": 16.9070454,
+      "updated_at": "2026-11-09T16:08:10.588274+00:00"
+    },
+    "pałac działyńskich...": {
+      "name": "Pałac Działyńskich, 78, Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-768, Polska",
+      "district": "Stare Miasto",
+      "address": "Pałac Działyńskich, 78, Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-768, Polska",
+      "normalized": "pałac działyńskich...",
+      "lat": 52.4085089,
+      "lng": 16.9322677,
+      "updated_at": "2026-11-09T16:08:14.965881+00:00"
     }
   }
 }

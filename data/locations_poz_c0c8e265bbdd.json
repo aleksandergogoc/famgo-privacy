@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T16:12:21.078115+00:00",
+  "updated_at": "2026-11-10T15:35:54.001127+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1845,6 +1845,15 @@
       "lat": 52.4085089,
       "lng": 16.9322677,
       "updated_at": "2026-11-09T16:08:14.965881+00:00"
+    },
+    "x-demon": {
+      "name": "X-Demon Poznań, 10, Ignacego Paderewskiego, Piekary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-001, Polska",
+      "district": "Stare Miasto",
+      "address": "X-Demon Poznań, 10, Ignacego Paderewskiego, Piekary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-001, Polska",
+      "normalized": "x-demon",
+      "lat": 52.4080653,
+      "lng": 16.93161,
+      "updated_at": "2026-11-10T15:32:40.682042+00:00"
     }
   }
 }

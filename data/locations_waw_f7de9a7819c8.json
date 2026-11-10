@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:50:43.209467+00:00",
+  "updated_at": "2026-11-10T15:35:59.730930+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -9978,6 +9978,42 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-11-08T13:23:28.322356+00:00"
+    },
+    "ch king cross praga": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "ch king cross praga",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-11-10T14:59:39.071182+00:00"
+    },
+    "dom kultury \"portiernia\" (warszawa-ursus)": {
+      "name": "Dom Kultury \"Portiernia\" (Warszawa-Ursus)",
+      "district": "Ursus",
+      "address": "Dom Kultury \"Portiernia\" (Warszawa-Ursus)",
+      "normalized": "dom kultury \"portiernia\" (warszawa-ursus)",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-10T15:07:53.744604+00:00"
+    },
+    "aleja hrabska 3": {
+      "name": "Aleja Hrabska 3, Falenty, Raszyn",
+      "district": "okolice Warszawy",
+      "address": "Aleja Hrabska 3, Falenty, Raszyn",
+      "normalized": "aleja hrabska 3",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-10T15:07:54.379552+00:00"
+    },
+    "ul. głębocka 15": {
+      "name": "ul. Głębocka 15",
+      "district": "Targówek",
+      "address": "ul. Głębocka 15",
+      "normalized": "ul. głębocka 15",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-10T15:07:54.379797+00:00"
     }
   }
 }

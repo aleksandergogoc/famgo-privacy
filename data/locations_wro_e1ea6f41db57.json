@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T16:12:22.633935+00:00",
+  "updated_at": "2026-11-10T15:35:57.693054+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -2968,6 +2968,123 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-11-09T15:54:08.351850+00:00"
+    },
+    "centrum historii zajezdnia": {
+      "name": "Centrum Historii Zajezdnia, 184, Grabiszyńska, Grabiszyn, Grabiszyn-Grabiszynek, Wrocław, województwo dolnośląskie, 53-235, Polska",
+      "district": "Fabryczna",
+      "address": "Centrum Historii Zajezdnia, 184, Grabiszyńska, Grabiszyn, Grabiszyn-Grabiszynek, Wrocław, województwo dolnośląskie, 53-235, Polska",
+      "normalized": "centrum historii zajezdnia",
+      "lat": 51.0965976,
+      "lng": 16.9912403,
+      "updated_at": "2026-11-10T15:09:50.708135+00:00"
+    },
+    "wrocław - różne lokalizacje wg programu dnia": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "wrocław - różne lokalizacje wg programu dnia",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-11-10T15:09:54.075386+00:00"
+    },
+    "wopr": {
+      "name": "Na Grobli, Rakowiec, Przedmieście Oławskie, Wrocław, województwo dolnośląskie, 50-422, Polska",
+      "district": "Stare Miasto",
+      "address": "Na Grobli, Rakowiec, Przedmieście Oławskie, Wrocław, województwo dolnośląskie, 50-422, Polska",
+      "normalized": "wopr",
+      "lat": 51.1016252,
+      "lng": 17.0689726,
+      "updated_at": "2026-11-10T15:10:13.845275+00:00"
+    },
+    "harcerski ośrodek wodny \"zatoka\"": {
+      "name": "65a, Długa, Szczepin, Wrocław, województwo dolnośląskie, 53-633, Polska",
+      "district": "Stare Miasto",
+      "address": "65a, Długa, Szczepin, Wrocław, województwo dolnośląskie, 53-633, Polska",
+      "normalized": "harcerski ośrodek wodny \"zatoka\"",
+      "lat": 51.1265745,
+      "lng": 17.0154896,
+      "updated_at": "2026-11-10T15:10:17.111146+00:00"
+    },
+    "stary ratusz we wrocławiu": {
+      "name": "Rynek Ratusz, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-116, Polska",
+      "district": "Stare Miasto",
+      "address": "Rynek Ratusz, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-116, Polska",
+      "normalized": "stary ratusz we wrocławiu",
+      "lat": 51.1106152,
+      "lng": 17.0318425,
+      "updated_at": "2026-11-10T15:10:35.271747+00:00"
+    },
+    "miejska biblioteka publiczna - filia nr 29": {
+      "name": "1, Mikołaja Reja, Manhattan, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-354, Polska",
+      "district": "Śródmieście",
+      "address": "1, Mikołaja Reja, Manhattan, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-354, Polska",
+      "normalized": "miejska biblioteka publiczna - filia nr 29",
+      "lat": 51.1133343,
+      "lng": 17.0573892,
+      "updated_at": "2026-11-10T15:10:38.985133+00:00"
+    },
+    "pasaż grunwaldzki": {
+      "name": "Pasaż Grunwaldzki, 22, plac Grunwaldzki, Manhattan, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-363, Polska",
+      "district": "Śródmieście",
+      "address": "Pasaż Grunwaldzki, 22, plac Grunwaldzki, Manhattan, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-363, Polska",
+      "normalized": "pasaż grunwaldzki",
+      "lat": 51.1125754,
+      "lng": 17.0593128,
+      "updated_at": "2026-11-10T15:10:54.876835+00:00"
+    },
+    "krupa art foundation": {
+      "name": "27-28, Rynek, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-101, Polska",
+      "district": "Stare Miasto",
+      "address": "27-28, Rynek, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-101, Polska",
+      "normalized": "krupa art foundation",
+      "lat": 51.1089238,
+      "lng": 17.0326214,
+      "updated_at": "2026-11-10T15:10:57.714579+00:00"
+    },
+    "sic! bwa wrocław": {
+      "name": "Galeria SiC!, 9/10, Plac Tadeusza Kościuszki, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-028, Polska",
+      "district": "Stare Miasto",
+      "address": "Galeria SiC!, 9/10, Plac Tadeusza Kościuszki, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-028, Polska",
+      "normalized": "sic! bwa wrocław",
+      "lat": 51.1025544,
+      "lng": 17.0287526,
+      "updated_at": "2026-11-10T15:11:06.478921+00:00"
+    },
+    "dolnośląski ośrodek doskonalenia nauczycieli": {
+      "name": "Trzebnicka, Nadodrze, Wrocław, województwo dolnośląskie, 50-245, Polska",
+      "district": "Śródmieście",
+      "address": "Trzebnicka, Nadodrze, Wrocław, województwo dolnośląskie, 50-245, Polska",
+      "normalized": "dolnośląski ośrodek doskonalenia nauczycieli",
+      "lat": 51.1214911,
+      "lng": 17.0363415,
+      "updated_at": "2026-11-10T15:11:09.242136+00:00"
+    },
+    "cukr – centrum ukraińskiej kultury i rozwoju": {
+      "name": "Surowiec, 46a, Ruska, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-079, Polska",
+      "district": "Stare Miasto",
+      "address": "Surowiec, 46a, Ruska, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-079, Polska",
+      "normalized": "cukr – centrum ukraińskiej kultury i rozwoju",
+      "lat": 51.1102855,
+      "lng": 17.0245017,
+      "updated_at": "2026-11-10T15:11:12.314669+00:00"
+    },
+    "wyspa słodowa": {
+      "name": "Wyspa Słodowa, Ostrów Tumski, Stare Miasto, Wrocław, województwo dolnośląskie, Polska",
+      "district": "Stare Miasto",
+      "address": "Wyspa Słodowa, Ostrów Tumski, Stare Miasto, Wrocław, województwo dolnośląskie, Polska",
+      "normalized": "wyspa słodowa",
+      "lat": 51.1160692,
+      "lng": 17.0373468,
+      "updated_at": "2026-11-10T15:11:26.584904+00:00"
+    },
+    "wrocławski teatr pantomimy im. henryka tomaszewskiego": {
+      "name": "Wrocławski Teatr Pantomimy im. Henryka Tomaszewskiego, 16, aleja Dębowa, Borek, Wrocław, województwo dolnośląskie, 53-121, Polska",
+      "district": "Krzyki",
+      "address": "Wrocławski Teatr Pantomimy im. Henryka Tomaszewskiego, 16, aleja Dębowa, Borek, Wrocław, województwo dolnośląskie, 53-121, Polska",
+      "normalized": "wrocławski teatr pantomimy im. henryka tomaszewskiego",
+      "lat": 51.0804706,
+      "lng": 17.0203569,
+      "updated_at": "2026-11-10T15:11:28.027312+00:00"
     }
   }
 }

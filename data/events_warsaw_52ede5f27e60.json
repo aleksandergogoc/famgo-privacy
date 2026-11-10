@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T15:53:35.947811+00:00",
+  "updated_at": "2026-11-10T14:28:27.808721+00:00",
   "events": {
     "biegaj-po-woli-ii-bieg-miko-ajkowy-2026-12-06": {
       "scrapped_timestamp": "2026-06-23T18:58:38.030426+00:00",
@@ -1069,47 +1069,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-08-21T07:36:22.734223+00:00"
-    },
-    "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-11-10T11:00:00+01:00": {
-      "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-      "date": "2026-11-10T11:00:00+01:00",
-      "end_date": "2026-11-10T11:00:00+01:00",
-      "startTimeKnown": true,
-      "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan.",
-      "url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#10-11",
-      "source": "bielany.um.warszawa.pl",
-      "real_source": "https://www.malywarszawiak.pl/",
-      "category": "Workshops",
-      "age_range": {
-        "min": 0,
-        "max": 3
-      },
-      "location": {
-        "name": "MAL Kasprowicza 14 · ul. Kasprowicza 14",
-        "district": "Bielany"
-      },
-      "image": "https://static-um-warszawa.s3.eu-west-1.amazonaws.com/bad_request/img/PIUW_ico_service_unavailable.svg",
-      "scrapped_url": "https://bielany.um.warszawa.pl/-/mamy-na-dywaniku-sasiedzka-strefa-malucha-2026#10-11",
-      "scrapped_timestamp": "2026-08-31T13:35:27.800388+00:00",
-      "translations": {
-        "pl": {
-          "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
-          "description": "W każdy wtorek rozwijamy dywan i otwieramy naszą przestrzeń na spontaniczne sąsiedzkie spotkania dla najmłodszych pociech i rodziców z Bielan."
-        },
-        "en": {
-          "title": "On the Carpet – Neighborhood Toddler Zone",
-          "description": "Every Tuesday, we roll out the carpet and open our space for spontaneous neighborhood gatherings for the youngest children and parents from Bielany."
-        },
-        "uk": {
-          "title": "Ми на килимку – сусідська зона для малюків",
-          "description": "Щовівторка ми розкриваємо килим і відкриваємо наш простір для спонтанних сусідських зустрічей для найменших дітей та батьків з Білянів."
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bielany",
-      "updated_at": "2026-08-31T13:38:42.690776+00:00"
     },
     "mamy-na-dywaniku-s-siedzka-strefa-malucha-2026-11-17T11:00:00+01:00": {
       "title": "Mamy na dywaniku – sąsiedzka strefa malucha",
@@ -4128,45 +4087,6 @@
       },
       "district": "Bielany",
       "updated_at": "2026-10-17T10:35:22.981101+00:00"
-    },
-    "wtorek-z-nurkiem-w-akwarium-amazo-skim-2026-11-10T12:00:00+01:00": {
-      "title": "Wtorek z nurkiem w Akwarium Amazońskim",
-      "date": "2026-11-10T12:00:00+01:00",
-      "end_date": "2026-11-10T12:00:00+01:00",
-      "startTimeKnown": true,
-      "description": "Podczas spotkania zobaczycie, jak opiekun nurkuje w Akwarium Amazońskim, poznacie kulisy pracy nurka i dowiecie się, jakie zwierzęta tam mieszkają. Będzie też okazja, by zadać pytania opiekunowi. Warto zabrać aparat.\n\nGodzina: 12:00\nMiejsce: Warszawskie ZOO – Akwarium Amazońskie (od strony ul. Ratuszowej)\nWydarzenie w cenie biletu wstępu do ZOO. Do udziału uprawnia ważny bilet wstępu do Warszawskiego ZOO.\n\nTerminy:\n• 13 stycznia, 10 lutego, 14 kwietnia, 12 maja, 9 czerwca, 14 lipca, 8 września, 13 października, 10 listopada, 8 grudnia\n• 10 marca (ODWOŁANY)\n\nDostępność dla osób z różnymi potrzebami:\nW sprawie informacji o dostępności ZOO napisz na adres j.piotrowska@zoo.waw.pl lub zadzwoń pod numer koordynatora dostępności: 885 523 323.\nWięcej informacji o udogodnieniach (dostępność architektoniczna, informacyjna, ewakuacja) znajdziesz na stronie: http://www.zoo.waw.pl/ w zakładce Dostępne ZOO oraz w deklaracji.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/152a86ce-ae3f-4ea7-8ac9-1d681c3699ad/8c521a6f-7229-4361-81e4-65667ae78595.jpg",
-      "location": {
-        "name": "Ul. Ratuszowa 1/3",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/wtorek-z-nurkiem-w-akwarium-amazonskim-152a86ce-ae3f-4ea7-8ac9-1d681c3699ad",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/wtorek-z-nurkiem-w-akwarium-amazonskim-152a86ce-ae3f-4ea7-8ac9-1d681c3699ad",
-      "scrapped_timestamp": "2026-10-18T10:48:06.501681+00:00",
-      "category": "Nature & Wildlife",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Wtorek z nurkiem w Akwarium Amazońskim",
-          "description": "Podczas spotkania zobaczycie, jak opiekun nurkuje w Akwarium Amazońskim, poznacie kulisy pracy nurka i dowiecie się, jakie zwierzęta tam mieszkają. Będzie też okazja, by zadać pytania opiekunowi. Warto zabrać aparat.\n\nGodzina: 12:00\nMiejsce: Warszawskie ZOO – Akwarium Amazońskie (od strony ul. Ratuszowej)\nWydarzenie w cenie biletu wstępu do ZOO. Do udziału uprawnia ważny bilet wstępu do Warszawskiego ZOO.\n\nTerminy:\n• 13 stycznia, 10 lutego, 14 kwietnia, 12 maja, 9 czerwca, 14 lipca, 8 września, 13 października, 10 listopada, 8 grudnia\n• 10 marca (ODWOŁANY)\n\nDostępność dla osób z różnymi potrzebami:\nW sprawie informacji o dostępności ZOO napisz na adres j.piotrowska@zoo.waw.pl lub zadzwoń pod numer koordynatora dostępności: 885 523 323.\nWięcej informacji o udogodnieniach (dostępność architektoniczna, informacyjna, ewakuacja) znajdziesz na stronie: http://www.zoo.waw.pl/ w zakładce Dostępne ZOO oraz w deklaracji."
-        },
-        "en": {
-          "title": "Tuesday with a Diver at the Amazon Aquarium",
-          "description": "During the meeting, you will see how the caretaker dives in the Amazon Aquarium, learn about the behind-the-scenes work of a diver, and find out what animals live there. There will also be an opportunity to ask the caretaker questions. It's worth bringing a camera.\n\nTime: 12:00\nLocation: Warsaw ZOO – Amazon Aquarium (from Ratuszowa Street)\nThe event is included in the entrance ticket to the ZOO. A valid entrance ticket to the Warsaw ZOO is required for participation.\n\nDates:\n• January 13, February 10, April 14, May 12, June 9, July 14, September 8, October 13, November 10, December 8\n• March 10 (CANCELLED)\n\nAccessibility for people with various needs:\nFor information about the accessibility of the ZOO, please write to j.piotrowska@zoo.waw.pl or call the accessibility coordinator at: 885 523 323.\nMore information about facilities (architectural accessibility) will be provided."
-        },
-        "uk": {
-          "title": "Вівторок з нирцем в Амазонському акваріумі",
-          "description": "Під час зустрічі ви побачите, як опікун ниркає в Амазонському акваріумі, познайомитеся з закуліссям роботи нирця і дізнаєтеся, які тварини там мешкають. Буде також можливість задати питання опікуну. Варто взяти фотоапарат.\n\nГодина: 12:00\nМісце: Варшавське ЗОО – Амазонський акваріум (з боку вул. Ратушевої)\nПодія в ціні квитка на вхід до ЗОО. Для участі потрібен дійсний квиток на вхід до Варшавського ЗОО.\n\nТерміни:\n• 13 січня, 10 лютого, 14 квітня, 12 травня, 9 червня, 14 липня, 8 вересня, 13 жовтня, 10 листопада, 8 грудня\n• 10 березня (СКАСОВАНО)\n\nДоступність для осіб з різними потребами:\nЩодо інформації про доступність ЗОО напишіть на адресу j.piotrowska@zoo.waw.pl або зателефонуйте за номером координатора доступності: 885 523 323.\nБільше інформації про зручності (доступність архітектури..."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-10-18T10:48:27.406530+00:00"
     },
     "spektakl-familijny-2026-12-05T15:00:00+01:00": {
       "title": "Spektakl Familijny",
@@ -9183,90 +9103,6 @@
       "district": "Żoliborz",
       "updated_at": "2026-11-03T14:06:35.859325+00:00"
     },
-    "bezp-atne-zaj-cia-taneczne-dla-dzieci-4-8-lat-z-niepe-nosprawno-ciami-2026-11-09T17:00:00+01:00": {
-      "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-      "date": "2026-11-09T17:00:00+01:00",
-      "end_date": "2026-11-09T17:00:00+01:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-11-03T14:05:00.560902+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla dzieci 4-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Children Aged 4-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District.\n\nHARMONOGRAM:\n\nMondays 17:00 - dance classes for children aged 4-8\n\nMondays 18:00 - dance classes for parents with children aged 3-8\n\nThursdays 12:00 - latino solo\n\nThursdays 13:00 - corrective gymnastics\n\nLocation: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor)\n\nRegistration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для дітей 4-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово.\n\nHARMONOGRAM:\n\nПонеділки 17:00 - танцювальні заняття для дітей 4-8 років\n\nПонеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років\n\nЧетверги 12:00 - латина соло\n\nЧетверги 13:00 - гімнастика, що покращує рухливість\n\nЛокація: MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх)\n\nЗапис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-11-03T14:06:35.859557+00:00"
-    },
-    "bezp-atne-zaj-cia-taneczne-dla-rodzic-w-z-dzie-mi-3-8-lat-z-niepe-nosprawno-ciami-2026-11-09T18:00:00+01:00": {
-      "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-      "date": "2026-11-09T18:00:00+01:00",
-      "end_date": "2026-11-09T18:00:00+01:00",
-      "startTimeKnown": true,
-      "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1773850177.webp",
-      "location": {
-        "name": "Powstańców Śląskich 126",
-        "district": "Bemowo"
-      },
-      "url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.facebook.com/photo?fbid=1258843609733878&set=a.121593746792209",
-      "scrapped_timestamp": "2026-11-03T14:05:08.049174+00:00",
-      "category": "Music & Dance",
-      "age_range": {
-        "min": 4,
-        "max": 8
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Bezpłatne zajęcia taneczne dla rodziców z dziećmi 3-8 lat z niepełnosprawnościami",
-          "description": "Zapraszamy na bezpłatne zajęcia dla osób z niepełnosprawnościami na Bemowie. Zajęcia współfinansowane są ze środków Dzielnicy Bemowo.\n\nHARMONOGRAM:\n\nPoniedziałki 17:00 - zajęcia taneczne dla dzieci 4-8 lat\n\nPoniedziałki 18:00 - zajęcia taneczne dla rodziców z dziećmi 3-8 lat\n\nCzwartki 12:00 - latino solo\n\nCzwartki 13:00 - gimnastyka usprawniająca\n\nLokalizacja: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, I piętro)\n\nZapisy: 518 551 914 (od poniedziałku do piątku w godzinach 9:00-17:00)"
-        },
-        "en": {
-          "title": "Free Dance Classes for Parents with Children Aged 3-8 with Disabilities",
-          "description": "We invite you to free classes for people with disabilities in Bemowo. The classes are co-financed by the Bemowo District.\n\nHARMONOGRAM:\n\nMondays 17:00 - dance classes for children aged 4-8\n\nMondays 18:00 - dance classes for parents with children aged 3-8\n\nThursdays 12:00 - latino solo\n\nThursdays 13:00 - corrective gymnastics\n\nLocation: MAL Spotykalnia, ul. Powstańców Śląskich 126 (Galeria Bemowo, 1st floor)\n\nRegistration: 518 551 914 (Monday to Friday from 9:00 AM to 5:00 PM)"
-        },
-        "uk": {
-          "title": "Безкоштовні танцювальні заняття для батьків з дітьми 3-8 років з інвалідністю",
-          "description": "Запрошуємо на безкоштовні заняття для осіб з інвалідністю на Бемові. Заняття співфінансуються з коштів Району Бемово.\n\nHARMONOGRAM:\n\nПонеділки 17:00 - танцювальні заняття для дітей 4-8 років\n\nПонеділки 18:00 - танцювальні заняття для батьків з дітьми 3-8 років\n\nЧетверги 12:00 - латино соло\n\nЧетверги 13:00 - гімнастика для покращення\n\nЛокація: MAL Spotykalnia, вул. Повстанців Сілезьких 126 (Галерея Бемово, I поверх)\n\nЗапис: 518 551 914 (з понеділка по п'ятницю з 9:00 до 17:00)"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Bemowo",
-      "updated_at": "2026-11-03T14:06:35.859581+00:00"
-    },
     "warsztaty-plastyczne-dla-dzieci-do-dzie-a-misie-mi-ki-i-nied-wiedzie-2026-11-19T17:30:00+01:00": {
       "title": "Warsztaty plastyczne dla dzieci - do DZIEŁA „Misie, miśki i niedźwiedzie”",
       "date": "2026-11-19T17:30:00+01:00",
@@ -9842,48 +9678,6 @@
       },
       "district": "Śródmieście",
       "updated_at": "2026-11-05T15:05:06.681787+00:00"
-    },
-    "listopadowe-spotkania-z-teatrem-dla-dzieci-strachy-na-dachy-2026-11-09T17:00:00+01:00": {
-      "title": "Listopadowe spotkania z teatrem dla dzieci - „Strachy na dachy”",
-      "date": "2026-11-09T17:00:00+01:00",
-      "end_date": "2026-11-09T17:00:00+01:00",
-      "startTimeKnown": true,
-      "description": "W listopadzie zapraszamy na wyjątkowe spotkania teatralne dla dzieci! Naszymi gośćmi będą Teatr Bajaderka i Teatr Wariacja, którzy zabiorą małych widzów w świat pełen przygód i niezwykłych opowieści.\n\nSprawdźcie nasz listopadowy repertuar:\n\n9 listopada, godz. 17:00 – „Strachy na dachy”\n\nKŁOSOWA – ul. Kłosowa 6A\n\nZapisy: 22 676 59 00\n\n19 listopada, godz. 17:00 – „Ciekawski miś”\n\nZIELONA – ul. Berensona 3\n\nZapisy: 22 675 05 12\n\n28 listopada, godz. 11:00 – „O motylku, który tupał nóżką”\n\nBD IV – ul. Antalla 5\n\nZapisy: 22 884 47 70\n\n28 listopada, godz. 13:00 – „Brzydkie kaczątko”\n\nNAUTILUS – ul. Pancera 18\n\nZapisy: 22 614 60 80\n\nSpektakle przeznaczone są dla dzieci 5+\n\nZapraszamy do wspólnego odkrywania magicznego świata teatru!",
-      "image": "https://waw4free.pl/upload/wydarzenia-warszawa-1700.1793793270.webp",
-      "location": {
-        "name": "ul. Kłosowa 6A",
-        "district": "Białołęka"
-      },
-      "url": "https://www.bibliotekabialoleka.pl/listopadowe-spotkania-z-teatrem-dla-dzieci/",
-      "source": "waw4free.pl",
-      "real_source": "https://waw4free.pl/",
-      "scrapped_url": "https://www.bibliotekabialoleka.pl/listopadowe-spotkania-z-teatrem-dla-dzieci/",
-      "scrapped_timestamp": "2026-11-05T14:51:12.704932+00:00",
-      "category": "Theater",
-      "age_range": {
-        "min": 5,
-        "max": 13
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Listopadowe spotkania z teatrem dla dzieci - „Strachy na dachy”",
-          "description": "W listopadzie zapraszamy na wyjątkowe spotkania teatralne dla dzieci! Naszymi gośćmi będą Teatr Bajaderka i Teatr Wariacja, którzy zabiorą małych widzów w świat pełen przygód i niezwykłych opowieści.\n\nSprawdźcie nasz listopadowy repertuar:\n\n9 listopada, godz. 17:00 – „Strachy na dachy”\n\nKŁOSOWA – ul. Kłosowa 6A\n\nZapisy: 22 676 59 00\n\n19 listopada, godz. 17:00 – „Ciekawski miś”\n\nZIELONA – ul. Berensona 3\n\nZapisy: 22 675 05 12\n\n28 listopada, godz. 11:00 – „O motylku, który tupał nóżką”\n\nBD IV – ul. Antalla 5\n\nZapisy: 22 884 47 70\n\n28 listopada, godz. 13:00 – „Brzydkie kaczątko”\n\nNAUTILUS – ul. Pancera 18\n\nZapisy: 22 614 60 80\n\nSpektakle przeznaczone są dla dzieci 5+\n\nZapraszamy do wspólnego odkrywania magicznego świata teatru!"
-        },
-        "en": {
-          "title": "November Theater Meetings for Children – “Frights on the Roofs”",
-          "description": "In November, we invite you to enjoy special theater performances for children! Our guests will be Bajaderka Theatre and Wariacja Theatre, who will take young audiences into a world full of adventures and extraordinary stories.\n\nCheck out our November program:\n\nNovember 9, 5:00 PM – “Frights on the Roofs”\n\nKŁOSOWA – 6A Kłosowa Street\n\nRegistration: 22 676 59 00\n\nNovember 19, 5:00 PM – “The Curious Little Bear”\n\nZIELONA – 3 Berensona Street\n\nRegistration: 22 675 05 12\n\nNovember 28, 11:00 AM – “About the Little Butterfly Who Stamped Its Foot”\n\nBD IV – 5 Antalla Street\n\nRegistration: 22 884 47 70\n\nNovember 28, 1:00 PM – “The Ugly Duckling”\n\nNAUTILUS – 18 Pancera Street\n\nRegistration: 22 614 60 80\n\nThe performances are intended for children aged 5 and up.\n\nJoin us in discovering the magical world of theater!"
-        },
-        "uk": {
-          "title": "Листопадові зустрічі з театром для дітей — «Страхи на дахах»",
-          "description": "У листопаді запрошуємо на особливі театральні зустрічі для дітей! Нашими гостями будуть театр «Баядерка» і театр «Варіація», які запросять маленьких глядачів у світ, сповнений пригод і незвичайних історій.\n\nОзнайомтеся з нашою листопадовою програмою:\n\n9 листопада, о 17:00 – «Страхи на дахах»\n\nКЛОСОВА – вул. Клосова, 6А\n\nЗапис: 22 676 59 00\n\n19 листопада, о 17:00 – «Допитливе ведмежа»\n\nЗЕЛОНА – вул. Беренсона, 3\n\nЗапис: 22 675 05 12\n\n28 листопада, об 11:00 – «Про метелика, який тупав ніжкою»\n\nBD IV – вул. Анталла, 5\n\nЗапис: 22 884 47 70\n\n28 листопада, о 13:00 – «Гидке каченя»\n\nНАУТІЛУС – вул. Панцера, 18\n\nЗапис: 22 614 60 80\n\nВистави призначені для дітей віком від 5 років\n\nЗапрошуємо разом відкривати чарівний світ театру!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Białołęka",
-      "updated_at": "2026-11-05T15:05:06.681905+00:00"
     },
     "spotkanie-autorskie-z-panem-poet-2026-11-12T10:30:00+01:00": {
       "title": "Spotkanie autorskie z Panem Poetą",
@@ -10644,48 +10438,6 @@
       },
       "district": "Ochota",
       "updated_at": "2026-11-05T15:05:06.682463+00:00"
-    },
-    "listopadowe-spotkania-z-teatrem-dla-dzieci-spektakle-2026-11-09T17:00:00+01:00": {
-      "title": "Listopadowe spotkania z teatrem dla dzieci – spektakle",
-      "date": "2026-11-09T17:00:00+01:00",
-      "end_date": "2026-11-09T17:00:00+01:00",
-      "startTimeKnown": true,
-      "description": "W listopadzie zapraszamy na wyjątkowe spotkania teatralne dla dzieci. Naszymi gośćmi będą Teatr Bajaderka i Teatr Wariacja, którzy zabiorą małych widzów w świat pełen przygód i niezwykłych opowieści.\n\nListopadowy repertuar:\n• Kłosowa, ul. Kłosowa 6A, 9 listopada (godz. 17:00): „Strachy na dachy”. Zapisy: 22 676 59 00\n• Zielona, ul. Berensona 3, 19 listopada (godz. 17:00): „Ciekawski miś”. Zapisy: 22 675 05 12\n• BD IV, ul. Antalla 5, 28 listopada (godz. 11:00): „O motylku, który tupał nóżką”. Zapisy: 22 884 47 70\n• Nautilus, ul. Pancera 18, 28 listopada (godz. 13:00): „Brzydkie kaczątko”. Zapisy: 22 614 60 80\n\nSpektakle przeznaczone są dla dzieci 5+.\n\nWspólnie odkrywajmy magiczny świat teatru!",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/e99e0559-5fa6-45e1-a9c2-fe3324fbb4da/f9d9de3d-1102-4b09-af3c-7da3a8360b5d.jpg",
-      "location": {
-        "name": "ul. Kłosowa 6A, Warszawa",
-        "district": "Ochota"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/listopadowe-spotkania-z-teatrem-dla-dzieci-spektakle-e99e0559-5fa6-45e1-a9c2-fe3324fbb4da",
-      "source": "simplygo.pl",
-      "age_hint": "5-10",
-      "age_range": {
-        "min": 5,
-        "max": 10
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/dla-dzieci/wydarzenie/listopadowe-spotkania-z-teatrem-dla-dzieci-spektakle-e99e0559-5fa6-45e1-a9c2-fe3324fbb4da",
-      "scrapped_timestamp": "2026-11-05T14:58:52.072779+00:00",
-      "category": "Theater",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Listopadowe spotkania z teatrem dla dzieci – spektakle",
-          "description": "W listopadzie zapraszamy na wyjątkowe spotkania teatralne dla dzieci. Naszymi gośćmi będą Teatr Bajaderka i Teatr Wariacja, którzy zabiorą małych widzów w świat pełen przygód i niezwykłych opowieści.\n\nListopadowy repertuar:\n• Kłosowa, ul. Kłosowa 6A, 9 listopada (godz. 17:00): „Strachy na dachy”. Zapisy: 22 676 59 00\n• Zielona, ul. Berensona 3, 19 listopada (godz. 17:00): „Ciekawski miś”. Zapisy: 22 675 05 12\n• BD IV, ul. Antalla 5, 28 listopada (godz. 11:00): „O motylku, który tupał nóżką”. Zapisy: 22 884 47 70\n• Nautilus, ul. Pancera 18, 28 listopada (godz. 13:00): „Brzydkie kaczątko”. Zapisy: 22 614 60 80\n\nSpektakle przeznaczone są dla dzieci 5+.\n\nWspólnie odkrywajmy magiczny świat teatru!"
-        },
-        "en": {
-          "title": "November Theater Events for Children – Performances",
-          "description": "In November, we invite you to special theater events for children. Our guests will be Bajaderka Theater and Wariacja Theater, who will take young audiences into a world full of adventures and extraordinary stories.\n\nNovember program:\n• Kłosowa, 6A Kłosowa St., November 9 (5:00 p.m.): “Frights on the Rooftops”. Reservations: 22 676 59 00\n• Zielona, 3 Berensona St., November 19 (5:00 p.m.): “The Curious Bear”. Reservations: 22 675 05 12\n• BD IV, 5 Antalla St., November 28 (11:00 a.m.): “About the Little Butterfly Who Stamped Its Foot”. Reservations: 22 884 47 70\n• Nautilus, 18 Pancera St., November 28 (1:00 p.m.): “The Ugly Duckling”. Reservations: 22 614 60 80\n\nThe performances are intended for children aged 5 and up.\n\nLet’s discover the magical world of theater together!"
-        },
-        "uk": {
-          "title": "Листопадові зустрічі з театром для дітей – вистави",
-          "description": "У листопаді запрошуємо на особливі театральні зустрічі для дітей. Нашими гостями будуть театр «Баядерка» і театр «Варіація», які перенесуть маленьких глядачів у світ, сповнений пригод і незвичайних історій.\n\nЛистопадова програма:\n• Клосова, вул. Клосова 6A, 9 листопада (о 17:00): «Страхи на дахах». Запис: 22 676 59 00\n• Зелона, вул. Беренсона 3, 19 листопада (о 17:00): «Допитливий ведмедик». Запис: 22 675 05 12\n• BD IV, вул. Анталла 5, 28 листопада (об 11:00): «Про метелика, який тупотів ніжкою». Запис: 22 884 47 70\n• Наутілус, вул. Пансера 18, 28 листопада (о 13:00): «Гидке каченя». Запис: 22 614 60 80\n\nВистави призначені для дітей віком від 5 років.\n\nВідкриваймо разом чарівний світ театру!"
-        }
-      },
-      "admission": {
-        "is_free": true
-      },
-      "district": "Ochota",
-      "updated_at": "2026-11-05T15:05:06.682497+00:00"
     },
     "klub-r-kodzielniczy-wsp-lne-dzierganie-i-haftowanie-2026-11-10T17:00:00+01:00": {
       "title": "Klub rękodzielniczy – wspólne dzierganie i haftowanie",
@@ -12366,46 +12118,6 @@
       "district": "Ursynów",
       "updated_at": "2026-11-07T13:09:37.434646+00:00"
     },
-    "koncert-chopinowski-w-pa-acu-dziekana-2026-11-09T18:30:00+01:00": {
-      "title": "Koncert chopinowski w Pałacu Dziekana",
-      "date": "2026-11-09T18:30:00+01:00",
-      "end_date": "2026-11-09T18:30:00+01:00",
-      "startTimeKnown": true,
-      "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/26a377a8-f62d-49ed-af10-511835ae7dee/4694f8b1-2e10-4d25-9e55-4df0d30927df.jpg",
-      "location": {
-        "name": "Muzeum Archidiecezji Warszawskiej, Ulica Dziekania 1, 00-279 Warszawa",
-        "district": "Śródmieście"
-      },
-      "url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-26a377a8-f62d-49ed-af10-511835ae7dee",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/warszawa/rozrywka/wydarzenie/koncert-chopinowski-w-palacu-dziekana-26a377a8-f62d-49ed-af10-511835ae7dee",
-      "scrapped_timestamp": "2026-11-07T13:06:40.644110+00:00",
-      "category": "Music & Dance",
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Koncert chopinowski w Pałacu Dziekana",
-          "description": "Serdecznie zapraszamy Państwa do wysłuchania koncertów chopinowskich o godzinie 18:30 w Pałacu Dziekana na Starym Mieście w Warszawie. Najpiękniejsze utwory Fryderyka Chopina wykonują profesjonalni pianiści, artyści występujący w wielu krajach świata.\nRecitale odbywają się w zabytkowym, pięknym i ekskluzywnie wykończonym XVI-wiecznym Pałacu Dziekana (dziś Muzeum Archidiecezji Warszawskiej, ul. Dziekania 1, tuż obok Archikatedry). Słuchasz muzyki w bliskości kolekcji obrazów znanych artystów.\nNasza sala koncertowa ma fenomenalną akustykę! Odbiór muzyki w tej sali jest w zasadzie idealny, na najwyższym światowym poziomie. Słuchamy fortepianu otoczeni czystym i bogatym dźwiękiem, jesteśmy otoczeni muzyką w idealnych proporcjach, nie za mało, nie za dużo, jesteśmy jakby w środku wykonywanego utworu.\nPianiści grają na najwyższej jakości nowym fortepianie koncertowym KAWAI. Atmosfera koncertów jest romantyczna i kameralna. Publiczność ma bardzo bliski kontakt z artystą - tak jak w czasach Chopina. Sala posiada ok. 80 miejsc siedzących. Zapewniamy emocjonalny i komfortowy odbiór recitali.\nZapraszam Państwa na piękne koncerty w wykonaniu bardzo dobrych pianistów: Ewy Ossowskiej, Marii Slivy, Mamiko Ueyamy, Justyny Galant - Wojciechowskiej i Mauricia Slivy.\n*Dzieci poniżej 11 lat - wstęp darmowy."
-        },
-        "en": {
-          "title": "Chopin Concert at the Dean’s Palace",
-          "description": "We warmly invite you to enjoy Chopin concerts at 18:30 at the Dean’s Palace in Warsaw’s Old Town. The most beautiful works by Fryderyk Chopin are performed by professional pianists who have appeared in many countries around the world.\nRecitals take place in the historic, beautiful and sumptuously furnished 16th-century Dean’s Palace (now the Archdiocese Museum of Warsaw, 1 Dziekania Street, right next to the Archcathedral). You listen to music in the company of a collection of paintings by renowned artists.\nOur concert hall has phenomenal acoustics! The sound in this hall is essentially perfect, at the highest international standard. We listen to the piano surrounded by a pure, rich sound; we are enveloped by music in ideal proportions—not too little, not too much—as if we were in the middle of the piece being performed."
-        },
-        "uk": {
-          "title": "Концерт Шопена в Палаці Декана",
-          "description": "Щиро запрошуємо вас послухати концерти Шопена о 18:30 у Палаці Декана в Старому місті Варшави. Найпрекрасніші твори Фридерика Шопена виконують професійні піаністи, артисти, які виступають у багатьох країнах світу.\nРециталі відбуваються в історичному, прекрасному та розкішно оздобленому Палаці Декана XVI століття (сьогодні — Музей Варшавської архідієцезії, вул. Деканія, 1, поруч з архикатедрою). Ви слухаєте музику серед колекції картин відомих художників.\nНаша концертна зала має феноменальну акустику! Сприйняття музики в цій залі, по суті, ідеальне, на найвищому світовому рівні. Ми слухаємо фортепіано, оточені чистим і насиченим звучанням, нас оточує музика в ідеальних пропорціях — не надто мало й не надто багато, ми ніби перебуваємо всередині виконуваного твору"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/210621/warszawa/koncert-chopinowski-stare-miasto?utm_source=pp&utm_medium=604"
-      },
-      "district": "Śródmieście",
-      "updated_at": "2026-11-07T13:09:37.434721+00:00"
-    },
     "to-jest-ustawione-stand-up-magiczny-iluzjonisty-y-2026-12-06T14:00:00+01:00": {
       "title": "To jest ustawione! – stand-up magiczny Iluzjonisty Y",
       "date": "2026-12-06T14:00:00+01:00",
@@ -13487,47 +13199,6 @@
       "district": "Śródmieście",
       "updated_at": "2026-11-08T13:23:33.764125+00:00"
     },
-    "warsztaty-dla-doros-ych-stw-rz-tabliczk-czekolady-2026-11-09T17:30:00+01:00": {
-      "title": "Warsztaty dla dorosłych Stwórz tabliczkę czekolady",
-      "date": "2026-11-09T17:30:00+01:00",
-      "end_date": "2026-11-09T17:30:00+01:00",
-      "startTimeKnown": true,
-      "description": "W Fabryce Czekolady E. Wedel oferujemy warsztaty czekoladowe dla dzieci z rodzicami oraz dla samych dorosłych. Niezależnie od wieku, u nas MOŻESZ tworzyć, bawić się a nawet gotować! W trakcie warsztatów poznasz tajniki produkcji Torcików Wedlowskich i udekorujesz swój własny Torcik. Możesz też poznać historię czekolady od ziarenka do tabliczki i stworzyć własną tabliczkę czekolady! Oferujemy również warsztaty dla dzieci, na których będą mogły stworzyć pralinki. Na każdego uczestnika czeka profesjonalnie wyposażona sala warsztatowa, doświadczeni prowadzący, dużo czekolady i wspaniała zabawa!\nWARSZTATY DLA DOROSŁYCH\nStwórz tabliczkę czekolady\nZostań mistrzem czekolady! W czasie tych warsztatów własnoręcznie stworzysz i udekorujesz tabliczkę czekolady.",
-      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_977707891_original.jpg",
-      "location": {
-        "name": "Muzeum Fabryka Czekolady E.Wedel (Warszawa-Kamionek)",
-        "district": "Praga-Południe"
-      },
-      "url": "https://naszemiasto.pl/warsztaty-dla-doroslych-stworz-tabliczke-czekolady/kw/c5-3314649",
-      "source": "naszemiasto.pl",
-      "scrapped_url": "https://naszemiasto.pl/warsztaty-dla-doroslych-stworz-tabliczke-czekolady/kw/c5-3314649",
-      "scrapped_timestamp": "2026-11-09T15:46:39.884466+00:00",
-      "category": "Workshops",
-      "age_range": {
-        "min": 3,
-        "max": 18
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Warsztaty dla dorosłych Stwórz tabliczkę czekolady",
-          "description": "W Fabryce Czekolady E. Wedel oferujemy warsztaty czekoladowe dla dzieci z rodzicami oraz dla samych dorosłych. Niezależnie od wieku, u nas MOŻESZ tworzyć, bawić się a nawet gotować! W trakcie warsztatów poznasz tajniki produkcji Torcików Wedlowskich i udekorujesz swój własny Torcik. Możesz też poznać historię czekolady od ziarenka do tabliczki i stworzyć własną tabliczkę czekolady! Oferujemy również warsztaty dla dzieci, na których będą mogły stworzyć pralinki. Na każdego uczestnika czeka profesjonalnie wyposażona sala warsztatowa, doświadczeni prowadzący, dużo czekolady i wspaniała zabawa!\nWARSZTATY DLA DOROSŁYCH\nStwórz tabliczkę czekolady\nZostań mistrzem czekolady! W czasie tych warsztatów własnoręcznie stworzysz i udekorujesz tabliczkę czekolady."
-        },
-        "en": {
-          "title": "Workshops for Adults: Create a Chocolate Bar",
-          "description": "At the E. Wedel Chocolate Factory, we offer chocolate workshops for children with their parents, as well as for adults on their own. Regardless of age, with us you CAN create, have fun, and even cook! During the workshop, you’ll learn the secrets of making Wedel Cakes and decorate your own. You can also discover the history of chocolate, from bean to bar, and create your own chocolate bar! We also offer workshops for children, where they can make pralines. Every participant can look forward to a fully equipped workshop room, experienced instructors, plenty of chocolate, and lots of fun!\nWORSHOPS FOR ADULTS\nCreate a chocolate bar\nBecome a chocolate master! During this workshop, you’ll make and decorate your own chocolate bar."
-        },
-        "uk": {
-          "title": "Майстер-клас для дорослих Створи шоколадну плитку",
-          "description": "На шоколадній фабриці E. Wedel ми пропонуємо шоколадні майстер-класи для дітей із батьками, а також для дорослих. Незалежно від віку, у нас ТИ МОЖЕШ творити, розважатися і навіть готувати! Під час майстер-класу ти дізнаєшся секрети виробництва тістечок Wedel і прикрасиш власне тістечко. Також ти можеш дізнатися історію шоколаду — від зернини до плитки — і створити власну шоколадну плитку! Ми також пропонуємо майстер-класи для дітей, на яких вони зможуть створити праліне. На кожного учасника чекають професійно обладнаний зал для майстер-класів, досвідчені ведучі, багато шоколаду та чудові розваги!\nМАЙСТЕР-КЛАСИ ДЛЯ ДОРОСЛИХ\nСтвори шоколадну плитку\nСтань майстром шоколаду! Під час цього майстер-класу ти власноруч створиш і прикрасиш шоколадну плитку."
-        }
-      },
-      "admission": {
-        "is_free": false
-      },
-      "district": "Praga-Południe",
-      "updated_at": "2026-11-09T15:53:35.718450+00:00"
-    },
     "wyk-ad-mi-szczyzna-kraj-lat-dziecinnych-j-zefa-czapskiego-2026-11-10T17:30:00+01:00": {
       "title": "Wykład: Mińszczyzna – kraj lat dziecinnych Józefa Czapskiego",
       "date": "2026-11-10T17:30:00+01:00",
@@ -14105,51 +13776,6 @@
       },
       "district": "Ursynów",
       "updated_at": "2026-11-09T15:53:35.718810+00:00"
-    },
-    "oprowadzania-po-wystawie-nabi-ci-prorocy-nowej-sztuki-2026-11-10T10:00:00+01:00": {
-      "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-      "date": "2026-11-10T10:00:00+01:00",
-      "end_date": "2026-11-10T10:00:00+01:00",
-      "startTimeKnown": true,
-      "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową.",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2F2d01c6b6-00f6-4f57-ac6f-609215c67aac.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "source": "gojammin.com",
-      "district": "Śródmieście",
-      "location": {
-        "name": "Agrykola 1, 00-460 Warszawa, Poland",
-        "district": "Śródmieście"
-      },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/4854fc79-7ea0-467c-b43b-1059dc2038dc",
-      "scrapped_timestamp": "2026-11-09T15:51:19.260454+00:00",
-      "category": "Arts",
-      "additional_categories": [
-        "Educational"
-      ],
-      "age_range": {
-        "min": 6,
-        "max": 12
-      },
-      "location_type": "indoor",
-      "translations": {
-        "pl": {
-          "title": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\"",
-          "description": "Oprowadzania po wystawie \"Nabiści. Prorocy nowej sztuki\" Zapraszamy na oprowadzania po wystawie poświęconej nabistom, którzy wpłynęli na rozwój sztuki nowoczesnej. Zobaczymy światowe dzieła, a będą to m.in. obrazy takich mistrzów, jak Maurice Denis, Paul Ranson i Paul Sérusier. Opowiedzą o nich kuratorzy ekspozycji oraz muzealni edukatorzy. Wystawa \"Nabiści. Prorocy nowej sztuki\" ukazuje m.in. początki ruchu artystycznego oraz wpływ Paula Gauguina i tzw. Szkoły Pont-Aven. Obejmuje ponadto dzieła o charakterze religijnym i ezoterycznym, widoki wnętrz i sceny rodzajowe, a także działalność prowadzonego przez braci Natansonów - Tadeusza i Aleksandra - czasopisma \"La Revue Blanche\". W sumie zobaczymy ponad 90 prac z zakresu malarstwa, rysunku i grafiki. Prace pochodzą z polskich i zagranicznych kolekcji, w tym słynnego francuskiego Musée d'Orsay. Wstęp na oprowadzania W ramach biletu na wystawę (30 zł - bilet normalny, 15 zł - ulgowy, 20 zł - dorośli z Kartą Dużej Rodziny; bilety do nabycia w kasie w Podchorążówce); członkowie Klubu Przyjaciół Muzeum Łazienki Królewskie - bezpłatnie. Więcej informacji o oprowadzaniach Terminy oprowadzań 16 lipca, godz. 15.00-16.00 - oprowadzanie kuratorskie dr Ewy Bobrowskiej w języku polskim. 16 lipca, godz. 16.30-17.30 - oprowadzanie kuratorskie dr Ewy Bobrowskiej i Jeana-Rene Saillarda w języku angielskim z tłumaczeniem na język polski. 19 i 26 lipca, 2 i 9 sierpnia, godz. 13.00-14.00 - oprowadzania dla rodzin z dziećmi w wieku 6-12 lat. Prowadzenie: muzealni edukatorzy. 16, 23, 30 sierpnia i 6 września, godz. 13.00-14.00 - oprowadzania z audiodeskrypcją. Prowadzenie: muzealni edukatorzy. 13 września, godz. 13.00-14.00 - oprowadzanie w języku angielskim. Prowadzenie: muzealni edukatorzy. 20 września, godz. 13.00-14.00 - oprowadzanie z tłumaczeniem na polski język migowy (PJM). Prowadzenie: muzealni edukatorzy. 27 września i 4 października, godz. 13.00-14.00 - oprowadzania dla opiekunów z małymi dziećmi. Prowadzenie: muzealni edukatorzy. 11, 18 i 25 października, 8 i 15 listopada, godz. 13.00-14.00 - oprowadzania dla dorosłych i młodzieży (14+). Prowadzenie: muzealni edukatorzy. O wystawie Artystyczna rewolucja, która zmieniła historię malarstwa. Niemal 100 wyjątkowych dzieł, w tym prace z Musée d'Orsay. „Nabiści. Prorocy nowej sztuki\" – pierwsza w Polsce tak szeroka prezentacja artystów, którzy odważyli się zerwać z tradycją i otworzyli drogę sztuce nowoczesnej. 16 lipca – 15 listopada 2026 | Podchorążówka | Muzeum Łazienki Królewskie w Warszawie. Bilety w kasach i online Wstęp 30 zł - bilet normalny 15 zł - ulgowy 20 zł - dorośli z Kartą Dużej Rodziny 0 zł - w piątki (bez biletu) 0 zł - z kartą Przyjaciela Muzeum Wystawa czynna od wtorku do środy w godz. 10.00-17.00 od czwartku do piątku w godz. 10.00-18.00 w sobotę w godz. 12.00-20.00 w niedzielę w godz. 10.00-16.00 Ostatnie wejście odbywa się 30 minut przed zamknięciem. Co na Was czeka od 16 lipca w Łazienkach Królewskich? To pierwsza w Polsce tak szeroka prezentacja tego fascynującego ruchu! Zanim nadszedł wiek XX, pojawili się ONI i postanowili wymyślić malarstwo od nowa. Zamiast kopiować rzeczywistość, postawili na kolor, rytm form i czystą siłę wyobraźni. Udowodnili, że obraz nie musi pokazywać świata – może tworzyć własny. Nazwali siebie nabistami - prorokami. I nie było w tym ani krzty przesady. Na wystawie zobaczycie: Niemal sto dzieł malarstwa, rysunku i grafiki. Arcydzieła z kolekcji polskich i zagranicznych, w tym z legendarnego paryskiego Musée d'Orsay. Absolutne premiery: większość prac nigdy wcześniej nie była pokazywana w naszym kraju! Zobaczycie dzieła mistrzów takich jak Félix Vallotton, Paul Sérusier, Édouard Vuillard czy Pierre Bonnard, zestawione z polskimi twórcami, którzy również odważyli się rzucić wyzwanie tradycji. Kuratorami wystawy są dr Ewa Bobrowska oraz Jean-René Saillard. Wydarzenia Wejdźcie głębiej w świat „Proroków\" Samo oglądanie obrazów to za mało? Wystawie towarzyszy bogaty program wydarzeń – przygotowaliśmy dla Was spotkania, które pozwolą Wam jeszcze lepiej poczuć klimat tej artystycznej rewolucji: Oprowadzania kuratorskie Więcej informacji Wykłady ekspertów Więcej informacji Warsztaty dla dzieci Więcej informacji Warsztaty dla młodzieży i dorosłych Więcej informacji Organizatorzy i Partnerzy Patronat wystawy: Ambassade de France en Pologne, Instytut Francuski / Institut français de Pologne à Varsovie Partner wystawy: Polska Fundacja Narodowa Mecenas Muzeum: PZU, Fundacja PZU Partner Strategiczny Muzeum: ORLEN Partner Muzeum: PKO Bank Polski Organizator Muzeum: Ministerstwo Kultury i Dziedzictwa Narodowego Patroni medialni wystawy: Smart OOH - AMS SA, RMF Classic, TVP Kultura, Weranda, Warszawa naszemiasto.pl, Puls Biznesu, Minerva, Warsaw Insider, Dziewczyna z obrazem, Niezła Sztuka, Poza Ramami, Wernisażeria Dofinansowane przez Polską Fundację Narodową."
-        },
-        "en": {
-          "title": "Guided Tours of the Exhibition “The Nabis. Prophets of a New Art”",
-          "description": "Guided Tours of the Exhibition “The Nabis. Prophets of a New Art” Join us for guided tours of the exhibition devoted to the Nabis, who influenced the development of modern art. We will see works of international renown, including paintings by such masters as Maurice Denis, Paul Ranson and Paul Sérusier. The exhibition’s curators and museum educators will tell us about them. The exhibition “The Nabis. Prophets of a New Art” explores, among other things, the origins of the artistic movement and the influence of Paul Gauguin and the so-called Pont-Aven School. It also features religious and esoteric works, interior views and genre scenes, as well as the activities of “La Revue Blanche,” the magazine run by the Natanson brothers, Tadeusz and Aleksander. In total, we will see more than 90 works of painting, drawing and printmaking. The works come from Polish and foreign"
-        },
-        "uk": {
-          "title": "Екскурсії виставкою \"Набісти. Пророки нового мистецтва\"",
-          "description": "Екскурсії виставкою \"Набісти. Пророки нового мистецтва\" Запрошуємо на екскурсії виставкою, присвяченою набістам, які вплинули на розвиток сучасного мистецтва. Ми побачимо твори світового значення, зокрема картини таких майстрів, як Моріс Дені, Поль Рансон і Поль Серюзьє. Про них розкажуть куратори експозиції та музейні освітяни. Виставка \"Набісти. Пророки нового мистецтва\" розповідає, зокрема, про витоки мистецького руху та вплив Поля Ґоґена і так званої школи Понт-Авен. Вона також охоплює твори релігійного й езотеричного характеру, інтер’єри та побутові сцени, а також діяльність журналу \"La Revue Blanche\", який видавали брати Тадеуш і Александр Натансони. Загалом ми побачимо понад 90 творів живопису, рисунка та графіки. Твори походять із польських і закордонних"
-        }
-      },
-      "admission": {
-        "is_free": false,
-        "ticket_url": "https://bilety.lazienki-krolewskie.pl/rezerwacja/termin.html?y=2026&m=7&back=1&idw=536&idg=12"
-      },
-      "updated_at": "2026-11-09T15:53:35.718832+00:00"
     },
     "2025-2026-koncerty-stypendyst-w-zdolni-krajowego-funduszu-na-rzecz-dzieci-2026-12-06T12:00:00+01:00": {
       "title": "2025/2026 | Koncerty stypendystów ZDOLNI Krajowego Funduszu na rzecz Dzieci",

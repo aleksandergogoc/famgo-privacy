@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:36:02.263948+00:00",
+  "updated_at": "2026-11-11T14:35:55.512375+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5422,6 +5422,15 @@
       "lat": 50.0498315,
       "lng": 19.9583537,
       "updated_at": "2026-11-10T14:57:20.829099+00:00"
+    },
+    "malwa": {
+      "name": "Klub Malwa, ul. Dobrego Pasterza 6, Kraków",
+      "district": "Prądnik Czerwony",
+      "address": "Klub Malwa, ul. Dobrego Pasterza 6, Kraków",
+      "normalized": "malwa",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-11T13:43:26.511245+00:00"
     }
   }
 }

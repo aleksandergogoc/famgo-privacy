@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:35:59.730930+00:00",
+  "updated_at": "2026-11-11T14:35:53.462022+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10014,6 +10014,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-10T15:07:54.379797+00:00"
+    },
+    "polna 7a": {
+      "name": "Polna 7A, Ośrodek Sportu i Rekreacji Dzielnicy Śródmieście m.st. Warszawy",
+      "district": "Śródmieście",
+      "address": "Polna 7A, Ośrodek Sportu i Rekreacji Dzielnicy Śródmieście m.st. Warszawy",
+      "normalized": "polna 7a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-11T14:16:13.495283+00:00"
+    },
+    "ul. 1 praskiego pułku 31": {
+      "name": "ul. 1 Praskiego Pułku 31, Wesoła",
+      "district": "Wesoła",
+      "address": "ul. 1 Praskiego Pułku 31, Wesoła",
+      "normalized": "ul. 1 praskiego pułku 31",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-11T14:16:13.495696+00:00"
     }
   }
 }

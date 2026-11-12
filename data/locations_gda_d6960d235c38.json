@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T14:35:51.915090+00:00",
+  "updated_at": "2026-11-12T16:06:48.392066+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1898,6 +1898,15 @@
       "lat": 54.3771068,
       "lng": 18.6082254,
       "updated_at": "2026-11-11T14:26:51.360606+00:00"
+    },
+    "kreatywna akademia kaseta": {
+      "name": "Kreatywna Akademia Kaseta",
+      "district": "Wrzeszcz",
+      "address": "Kreatywna Akademia Kaseta",
+      "normalized": "kreatywna akademia kaseta",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-12T15:59:42.928429+00:00"
     }
   }
 }

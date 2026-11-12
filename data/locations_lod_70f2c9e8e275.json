@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:35:55.962845+00:00",
+  "updated_at": "2026-11-12T16:06:50.151585+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -1071,6 +1071,33 @@
       "lat": 51.7589818,
       "lng": 19.4605689,
       "updated_at": "2026-11-10T15:22:50.617777+00:00"
+    },
+    "v6": {
+      "name": "Stefana Żeromskiego, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-545, Polska",
+      "district": "Polesie",
+      "address": "Stefana Żeromskiego, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-545, Polska",
+      "normalized": "v6",
+      "lat": 51.7617896,
+      "lng": 19.4477171,
+      "updated_at": "2026-11-12T15:50:12.944650+00:00"
+    },
+    "centrum dialogu im. marka edelmana w łodzi": {
+      "name": "Centrum Dialogu im. Marka Edelmana, 83, Wojska Polskiego, Helenów, Łódź-Bałuty, Łódź, województwo łódzkie, 91-755, Polska",
+      "district": "Bałuty",
+      "address": "Centrum Dialogu im. Marka Edelmana, 83, Wojska Polskiego, Helenów, Łódź-Bałuty, Łódź, województwo łódzkie, 91-755, Polska",
+      "normalized": "centrum dialogu im. marka edelmana w łodzi",
+      "lat": 51.7861916,
+      "lng": 19.4742047,
+      "updated_at": "2026-11-12T15:50:21.681966+00:00"
+    },
+    "charlie": {
+      "name": "Charlie, 203/205, Piotrkowska, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-451, Polska",
+      "district": "Śródmieście",
+      "address": "Charlie, 203/205, Piotrkowska, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-451, Polska",
+      "normalized": "charlie",
+      "lat": 51.754929,
+      "lng": 19.4584934,
+      "updated_at": "2026-11-12T15:50:25.825608+00:00"
     }
   }
 }

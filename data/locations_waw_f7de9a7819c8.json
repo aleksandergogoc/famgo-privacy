@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T14:35:53.462022+00:00",
+  "updated_at": "2026-11-12T16:06:53.048170+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10032,6 +10032,60 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-11T14:16:13.495696+00:00"
+    },
+    "studio buffo": {
+      "name": "Studio Buffo, 6, Marii Konopnickiej, Powiśle-Solec, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-491, Polska",
+      "district": "Śródmieście",
+      "address": "Studio Buffo, 6, Marii Konopnickiej, Powiśle-Solec, Śródmieście Południowe, Śródmieście, Warszawa, województwo mazowieckie, 00-491, Polska",
+      "normalized": "studio buffo",
+      "lat": 52.2280534,
+      "lng": 21.0265631,
+      "updated_at": "2026-11-12T15:22:53.449989+00:00"
+    },
+    "pałacu króla jana iii w wilanowie (warszawa-powsinek)": {
+      "name": "Pałac w Wilanowie, 10/16, Stanisława Kostki Potockiego, Wilanów Królewski, Wilanów, Warszawa, województwo mazowieckie, 02-958, Polska",
+      "district": "Wilanów",
+      "address": "Pałac w Wilanowie, 10/16, Stanisława Kostki Potockiego, Wilanów Królewski, Wilanów, Warszawa, województwo mazowieckie, 02-958, Polska",
+      "normalized": "pałacu króla jana iii w wilanowie (warszawa-powsinek)",
+      "lat": 52.1650986,
+      "lng": 21.090469,
+      "updated_at": "2026-11-12T15:36:35.337538+00:00"
+    },
+    "gersona 16": {
+      "name": "Gersona 16",
+      "district": "Praga-Północ",
+      "address": "Gersona 16",
+      "normalized": "gersona 16",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-12T15:36:36.984388+00:00"
+    },
+    "stacja grawitacja al. bohaterów września 12": {
+      "name": "Stacja Grawitacja al. Bohaterów Września 12",
+      "district": "Mokotów",
+      "address": "Stacja Grawitacja al. Bohaterów Września 12",
+      "normalized": "stacja grawitacja al. bohaterów września 12",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-12T15:36:36.984870+00:00"
+    },
+    "ul. 3 maja 129": {
+      "name": "ul. 3 maja 129, Józefów, Szkoła STRUMIENIE",
+      "district": "okolice Warszawy",
+      "address": "ul. 3 maja 129, Józefów, Szkoła STRUMIENIE",
+      "normalized": "ul. 3 maja 129",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-12T15:36:36.985185+00:00"
+    },
+    "ul. krakowskie przedmieście 87_89": {
+      "name": "ul. Krakowskie Przedmieście 87/89",
+      "district": "Śródmieście",
+      "address": "ul. Krakowskie Przedmieście 87/89",
+      "normalized": "ul. krakowskie przedmieście 87_89",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-12T15:36:36.985532+00:00"
     }
   }
 }

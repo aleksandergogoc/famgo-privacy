@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:35:57.693054+00:00",
+  "updated_at": "2026-11-12T16:06:51.502104+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -3085,6 +3085,51 @@
       "lat": 51.0804706,
       "lng": 17.0203569,
       "updated_at": "2026-11-10T15:11:28.027312+00:00"
+    },
+    "pomi pomi - sala zabaw dla dzieci we wrocławiu brücknera 32_34": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "pomi pomi - sala zabaw dla dzieci we wrocławiu brücknera 32_34",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-11-12T15:36:51.790721+00:00"
+    },
+    "wrocław fashion outlet graniczna 2": {
+      "name": "Wrocław, Rogowska, Nowy Dwór, Wrocław, województwo dolnośląskie, 54-438, Polska",
+      "district": "Fabryczna",
+      "address": "Wrocław, Rogowska, Nowy Dwór, Wrocław, województwo dolnośląskie, 54-438, Polska",
+      "normalized": "wrocław fashion outlet graniczna 2",
+      "lat": 51.1183985,
+      "lng": 16.9568182,
+      "updated_at": "2026-11-12T15:37:12.322323+00:00"
+    },
+    "ryneczek jemiołowa": {
+      "name": "Ryneczek Jemiołowa, Jemiołowa, Gajowice, Wrocław, województwo dolnośląskie, 53-427, Polska",
+      "district": "Krzyki",
+      "address": "Ryneczek Jemiołowa, Jemiołowa, Gajowice, Wrocław, województwo dolnośląskie, 53-427, Polska",
+      "normalized": "ryneczek jemiołowa",
+      "lat": 51.09651,
+      "lng": 17.0080223,
+      "updated_at": "2026-11-12T15:38:43.732462+00:00"
+    },
+    "radio wrocław": {
+      "name": "Radio Wrocław, Żołnierska, Krzyki, Krzyki-Partynice, Wrocław, województwo dolnośląskie, 53-014, Polska",
+      "district": "Krzyki",
+      "address": "Radio Wrocław, Żołnierska, Krzyki, Krzyki-Partynice, Wrocław, województwo dolnośląskie, 53-014, Polska",
+      "normalized": "radio wrocław",
+      "lat": 51.0712929,
+      "lng": 17.0069641,
+      "updated_at": "2026-11-12T15:38:46.231786+00:00"
+    },
+    "wrocławski klub formaty": {
+      "name": "Wrocławski Klub Formaty, 3-5, Samborska, Muchobór Wielki, Wrocław, województwo dolnośląskie, 54-615, Polska",
+      "district": "Fabryczna",
+      "address": "Wrocławski Klub Formaty, 3-5, Samborska, Muchobór Wielki, Wrocław, województwo dolnośląskie, 54-615, Polska",
+      "normalized": "wrocławski klub formaty",
+      "lat": 51.097521,
+      "lng": 16.9437482,
+      "updated_at": "2026-11-12T15:39:00.031321+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:06:53.048170+00:00",
+  "updated_at": "2026-11-13T15:08:14.662450+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10086,6 +10086,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-12T15:36:36.985532+00:00"
+    },
+    "scena metro (warszawa-bródno)": {
+      "name": "Scena Metro, Ludwika Kondratowicza, Toruńska, Bródno, Targówek, Warszawa, województwo mazowieckie, 03-362, Polska",
+      "district": "Targówek",
+      "address": "Scena Metro, Ludwika Kondratowicza, Toruńska, Bródno, Targówek, Warszawa, województwo mazowieckie, 03-362, Polska",
+      "normalized": "scena metro (warszawa-bródno)",
+      "lat": 52.2938054,
+      "lng": 21.0284262,
+      "updated_at": "2026-11-13T14:42:03.877320+00:00"
+    },
+    "ul. siennicka 40": {
+      "name": "ul. Siennicka 40, Hala \"Siennicka\"",
+      "district": "Praga-Południe",
+      "address": "ul. Siennicka 40, Hala \"Siennicka\"",
+      "normalized": "ul. siennicka 40",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-13T14:42:05.394170+00:00"
+    },
+    "biblioteka narodowa": {
+      "name": "Biblioteka Narodowa, al. Niepodległości 213",
+      "district": "Śródmieście",
+      "address": "Biblioteka Narodowa, al. Niepodległości 213",
+      "normalized": "biblioteka narodowa",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-13T14:42:05.394508+00:00"
     }
   }
 }

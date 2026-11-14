@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:08:14.662450+00:00",
+  "updated_at": "2026-11-14T14:16:16.921941+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10113,6 +10113,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-13T14:42:05.394508+00:00"
+    },
+    "władysława skoczylasa 10": {
+      "name": "10/12, Władysława Skoczylasa, Praga II, Nowa Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-465, Polska",
+      "district": "Praga-Północ",
+      "address": "10/12, Władysława Skoczylasa, Praga II, Nowa Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-465, Polska",
+      "normalized": "władysława skoczylasa 10",
+      "lat": 52.2608251,
+      "lng": 21.026318,
+      "updated_at": "2026-11-14T13:34:46.232952+00:00"
+    },
+    "jeziorna 4": {
+      "name": "4, Jeziorna, Augustówka, Mokotów, Warszawa, województwo mazowieckie, 02-911, Polska",
+      "district": "Mokotów",
+      "address": "4, Jeziorna, Augustówka, Mokotów, Warszawa, województwo mazowieckie, 02-911, Polska",
+      "normalized": "jeziorna 4",
+      "lat": 52.1874622,
+      "lng": 21.0718203,
+      "updated_at": "2026-11-14T13:34:57.536079+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:08:13.006214+00:00",
+  "updated_at": "2026-11-14T14:16:15.282407+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -3139,6 +3139,15 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-11-13T14:42:22.006209+00:00"
+    },
+    "kghm ślęza arena": {
+      "name": "1, Kłokoczycka, Psie Pole, Psie Pole-Zawidawie, Wrocław, województwo dolnośląskie, 51-376, Polska",
+      "district": "Psie Pole",
+      "address": "1, Kłokoczycka, Psie Pole, Psie Pole-Zawidawie, Wrocław, województwo dolnośląskie, 51-376, Polska",
+      "normalized": "kghm ślęza arena",
+      "lat": 51.1497016,
+      "lng": 17.1117816,
+      "updated_at": "2026-11-14T13:48:40.043008+00:00"
     }
   }
 }

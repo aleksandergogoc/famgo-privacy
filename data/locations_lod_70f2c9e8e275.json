@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:08:11.480209+00:00",
+  "updated_at": "2026-11-14T14:16:13.865784+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -1107,6 +1107,24 @@
       "lat": 51.8338835,
       "lng": 19.4835784,
       "updated_at": "2026-11-13T14:52:05.378049+00:00"
+    },
+    "monopolis": {
+      "name": "Wydawnicza, Polesie Widzewskie, Stary Widzew, Łódź-Widzew, Łódź, województwo łódzkie, 92-333, Polska",
+      "district": "Widzew",
+      "address": "Wydawnicza, Polesie Widzewskie, Stary Widzew, Łódź-Widzew, Łódź, województwo łódzkie, 92-333, Polska",
+      "normalized": "monopolis",
+      "lat": 51.7649993,
+      "lng": 19.4867519,
+      "updated_at": "2026-11-14T13:58:55.085412+00:00"
+    },
+    "planszówkowi astronauci": {
+      "name": "4, Generała Romualda Traugutta, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-107, Polska",
+      "district": "Śródmieście",
+      "address": "4, Generała Romualda Traugutta, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 90-107, Polska",
+      "normalized": "planszówkowi astronauci",
+      "lat": 51.7690236,
+      "lng": 19.4582198,
+      "updated_at": "2026-11-14T13:59:01.063797+00:00"
     }
   }
 }

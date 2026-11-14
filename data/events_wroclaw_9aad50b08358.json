@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:05:41.061083+00:00",
+  "updated_at": "2026-11-14T13:54:40.134554+00:00",
   "events": {
     "fajnie-si-sk-ada-zlot-fan-w-klock-w-od-fan-w-dla-fan-w-2026-12-07T10:00:00": {
       "scrapped_timestamp": "2026-06-29T12:56:13.475074+00:00",
@@ -1061,50 +1061,52 @@
       "updated_at": "2026-09-07T12:12:45.441578+00:00"
     },
     "spoko-loko-koncert-dla-dzieci-2026-11-15T12:00:00+01:00": {
-      "title": "Spoko Loko – koncert dla dzieci",
+      "title": "Spoko Loko - koncert dla dzieci",
       "date": "2026-11-15T12:00:00+01:00",
       "end_date": "2026-11-15T12:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n Bilet normalny przeznaczony jest dla opiekuna.\n Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124/a22526ca-81c9-4f07-83ed-028c1fd7dba3.jpg",
+      "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com.",
+      "image": "https://assets.kupbilecik.pl/img/baza/8000/7104.webp?1788766325",
+      "url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "source": "kupbilecik.pl",
       "location": {
-        "name": "Centrum Kultury Nowy Pafawag, ul. Chociebuska 4-6, 54-433 Wrocław",
+        "name": "Centrum Kultury Nowy Pafawag",
+        "address": "ul. Chociebuska 4-6",
+        "lat": 51.115767,
+        "lng": 16.958181,
         "district": "Fabryczna"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "source": "simplygo.pl",
-      "age_hint": "2-8",
-      "age_range": {
-        "min": 2,
-        "max": 8
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spoko-loko-koncert-dla-dzieci-d2a6b2af-eaa3-4c2f-aa45-ae86a4cbc124",
-      "scrapped_timestamp": "2026-11-13T14:48:04.893006+00:00",
+      "featured": true,
+      "scrapped_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604",
+      "scrapped_timestamp": "2026-11-14T13:48:44.413114+00:00",
       "category": "Music & Dance",
       "additional_categories": [
         "Family Fun"
       ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Spoko Loko – koncert dla dzieci",
-          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n Bilet normalny przeznaczony jest dla opiekuna.\n Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
+          "title": "Spoko Loko - koncert dla dzieci",
+          "description": "Spoko Loko, czyli szalone trio, powraca na scenę z nowymi piosenkami! Przygotowali wyjątkowe, godzinne show, podczas którego dzieci będą mogły tańczyć i śpiewać razem z zespołem. Zaśpiewane zostaną klasyki, takie jak \"Tańce Połamańce\", \"Ciu ciu ła\" i \"Ciała kształt\", ale również nowe hity, takie jak \"Idziemy przez dżunglę\" i \"Głowa, ramiona\". Podczas koncertu nie zabraknie baniek mydlanych, zagadek i innych niespodzianek, które na razie pozostaną tajemnicą! Spoko Loko to Kasia, Mati i Ola, którzy na swoim kanale YouTube zgromadzili już kilkadziesiąt milionów wyświetleń. Opinie zadowolonych rodziców mówią same za siebie - dołączcie do nas i dajcie się porwać w zwariowany świat Spoko Loko! Po koncercie będzie również szansa na zrobienie zdjęć z zespołem.\n\n* Dzieci do lat 2 wstęp bezpłatny (dziecko na kolanach rodziców).\n** Bilet ulgowy przeznaczony jest dla dziecka od ukończenia 2 roku życia.\n*** Bilet normalny przeznaczony jest dla opiekuna.\n**** Dziecko z orzeczeniem o niepełnosprawności - wstęp bezpłatny / Prosimy o kontakt z organizatorem przed zakupem biletów - spoko.loko.muzyka@gmail.com."
         },
         "en": {
-          "title": "Spoko Loko – concert for children",
-          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They’ve prepared a special, hour-long show where children can dance and sing along with the band. They’ll perform classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\", as well as new hits such as \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will feature soap bubbles, riddles and other surprises that will remain a secret for now! Spoko Loko is Kasia, Mati and Ola, who have already racked up tens of millions of views on their YouTube channel. The reviews from happy parents speak for themselves—join us and let yourself be swept away into the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n* Children under 2 years old enter free (ch"
+          "title": "Spoko Loko - concert for children",
+          "description": "Spoko Loko, the crazy trio, is back on stage with new songs! They’ve prepared a special one-hour show where children can dance and sing along with the band. They’ll perform classics such as \"Tańce Połamańce\", \"Ciu ciu ła\" and \"Ciała kształt\", as well as new hits like \"Idziemy przez dżunglę\" and \"Głowa, ramiona\". The concert will also feature soap bubbles, riddles and other surprises that will remain a secret for now! Spoko Loko are Kasia, Mati and Ola, who have already racked up tens of millions of views on their YouTube channel. The reviews from happy parents speak for themselves—join us and get swept up in the crazy world of Spoko Loko! After the concert, there will also be a chance to take photos with the band.\n\n* Children under 2 admitted free (d"
         },
         "uk": {
-          "title": "Споко Локо – концерт для дітей",
-          "description": "Споко Локо, тобто шалене тріо, повертається на сцену з новими піснями! Вони підготували особливе годинне шоу, під час якого діти зможуть танцювати й співати разом із гуртом. Прозвучать такі класичні хіти, як \"Танці-ламайці\", \"Чу-чу-ля\" і \"Форма тіла\", а також нові хіти, як-от \"Ідемо крізь джунглі\" та \"Голова, плечі\". Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Споко Локо — це Кася, Маті та Оля, які зібрали вже десятки мільйонів переглядів на своєму каналі YouTube. Відгуки задоволених батьків говорять самі за себе — приєднуйтеся до нас і пориньте у шалений світ Споко Локо! Після концерту також буде можливість сфотографуватися з гуртом.\n* Для дітей до 2 років вхід безкоштовний (ді"
+          "title": "Spoko Loko — концерт для дітей",
+          "description": "Spoko Loko, тобто шалене тріо, повертається на сцену з новими піснями! Вони підготували особливе годинне шоу, під час якого діти зможуть танцювати й співати разом із гуртом. Прозвучать такі хіти, як «Танці-поламанці», «Цю-цю-ля» та «Форма тіла», а також нові пісні — «Йдемо крізь джунглі» та «Голова, плечі». Під час концерту не бракуватиме мильних бульбашок, загадок та інших сюрпризів, які поки що залишаться таємницею! Spoko Loko — це Кася, Маті й Оля, які зібрали вже десятки мільйонів переглядів на своєму каналі YouTube. Відгуки задоволених батьків говорять самі за себе — приєднуйтеся до нас і пориньте у шалений світ Spoko Loko! Після концерту також буде можливість сфотографуватися з гуртом.\n\n* Дітям до 2 років вхід безкоштовний (d"
         }
       },
       "admission": {
-        "is_free": false,
-        "ticket_url": "https://www.kupbilecik.pl/pl/event/207980/wroclaw/spoko-loko?utm_source=pp&utm_medium=604"
+        "is_free": true
       },
       "district": "Fabryczna",
-      "updated_at": "2026-11-13T14:48:54.278499+00:00"
+      "updated_at": "2026-11-14T13:54:39.768610+00:00"
     },
     "dla-dzieci-6-dla-rodzin-muzyka-na-ywo-edukacja-przez-zabaw-2027-09-04T13:30:00+02:00": {
       "title": "Dla dzieci 6+ | Dla rodzin | Muzyka na żywo | Edukacja przez zabawę",
@@ -2363,49 +2365,48 @@
       "updated_at": "2026-10-18T10:54:36.461415+00:00"
     },
     "starsze-gadu-y-warsztaty-logopedyczne-dla-dzieci-4-6-lat-2026-11-18T16:00:00+01:00": {
-      "title": "Starsze Gaduły – warsztaty logopedyczne dla dzieci 4–6 lat",
+      "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
       "date": "2026-11-18T16:00:00+01:00",
       "end_date": "2026-11-18T16:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą. „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbywają się w przyjaznej atmosferze, sprzyjającej zdobywaniu nowych umiejętności.\n\nInformacje organizacyjne\n\n• Nazwa zajęć: Starsze Gaduły\n• Dla kogo: dzieci w wieku 4–6 lat wraz z rodzicami\n• Prowadząca: Marta Czajkowska, neurologopeda dziecięcy\n• Charakter zajęć: warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9/692295e6-947d-4ffb-9faa-77f1574861d8.jpg",
+      "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-f9ca0308ac11000216fab36b537c7ca5/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
+      "source": "wroclaw.pl",
       "location": {
-        "name": "Przedszkole Columb, Wrocław",
+        "name": "Przedszkole Columb",
         "district": "Śródmieście"
       },
-      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/starsze-gaduly-warsztaty-logopedyczne-dla-dzieci-4-6-lat-c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9",
-      "source": "simplygo.pl",
-      "age_hint": "4-6",
-      "age_range": {
-        "min": 4,
-        "max": 6
-      },
-      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/starsze-gaduly-warsztaty-logopedyczne-dla-dzieci-4-6-lat-c17e3c34-6d4c-4c8d-bc3d-56343a0a99f9",
-      "scrapped_timestamp": "2026-11-13T14:48:25.158431+00:00",
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417497-starsze-gaduly",
+      "scrapped_timestamp": "2026-11-14T13:50:03.118266+00:00",
       "category": "Workshops",
       "additional_categories": [
         "Educational"
       ],
+      "age_range": {
+        "min": 4,
+        "max": 6
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Starsze Gaduły – warsztaty logopedyczne dla dzieci 4–6 lat",
-          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą. „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbywają się w przyjaznej atmosferze, sprzyjającej zdobywaniu nowych umiejętności.\n\nInformacje organizacyjne\n\n• Nazwa zajęć: Starsze Gaduły\n• Dla kogo: dzieci w wieku 4–6 lat wraz z rodzicami\n• Prowadząca: Marta Czajkowska, neurologopeda dziecięcy\n• Charakter zajęć: warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe"
+          "title": "Starsze Gaduły - warsztaty logopedyczne dla dzieci 4-6 lat",
+          "description": "Zabawa słowami, dźwiękami i głoskami może być świetną przygodą! „Starsze Gaduły” to warsztaty logopedyczne dla dzieci w wieku 4–6 lat, podczas których ruch i kreatywne aktywności pomagają rozwijać umiejętności komunikacyjne. To także okazja do wspólnego spędzenia czasu i odkrywania nowych sposobów na zabawę językiem.\n\nNauka mówienia przez zabawę\n\nPodczas warsztatów dzieci będą ćwiczyć mowę, bawić się dźwiękami i słowami oraz rozwijać umiejętności potrzebne w codziennej komunikacji. Angażujące zadania i ruch sprawią, że nauka stanie się naturalną częścią wspólnej zabawy.\n\nWspólne odkrywanie z rodzicami\n\nW zajęciach aktywnie uczestniczą również rodzice. Dzięki temu poznają proste ćwiczenia i pomysły, które można wykorzystać na co dzień, by wspierać rozwój mowy dziecka. Warsztaty odbędą się w przyjaznej atmosferze, sprzyjającej odkrywaniu i zdobywaniu nowych umiejętności.\n\nZajęcia poprowadzi **Marta Czajkowska, neurologopeda dziecięcy**.\n\nInformacje organizacyjne\n\n• **Nazwa zajęć:** Starsze Gaduły\n\n• **Dla kogo:** dzieci w wieku 4–6 lat wraz z rodzicami\n\n• **Prowadząca:** Marta Czajkowska – neurologopeda dziecięcy\n\n• **Charakter zajęć:** warsztaty logopedyczne, ćwiczenia mowy, zabawy słowami i dźwiękami oraz aktywności ruchowe\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nFacebook"
         },
         "en": {
-          "title": "Older Chatterboxes – speech therapy workshops for children aged 4–6",
-          "description": "Playing with words, sounds, and speech sounds can be a wonderful adventure. “Older Chatterboxes” is a speech therapy workshop for children aged 4–6, where movement and creative activities help develop communication skills. It is also an opportunity to spend time together and discover new ways to play with language.\n\nLearning to speak through play\n\nDuring the workshop, children will practice speaking, play with sounds and words, and develop skills needed for everyday communication. Engaging activities and movement will make learning a natural part of playing together.\n\nDiscovering together with parents\n\nParents also take an active part in the sessions. They will learn simple exercises and ideas that can be used every day to support their child’s speech development. The workshops are held in a welcoming"
+          "title": "Older Chatterboxes - speech therapy workshops for children aged 4–6",
+          "description": "Playing with words, sounds, and speech sounds can be a wonderful adventure! “Older Chatterboxes” is a speech therapy workshop for children aged 4–6, where movement and creative activities help develop communication skills. It’s also an opportunity to spend time together and discover new ways to play with language.\n\nLearning to speak through play\n\nDuring the workshop, children will practise speaking, play with sounds and words, and develop skills needed for everyday communication. Engaging activities and movement will make learning a natural part of playing together.\n\nDiscovering together with parents\n\nParents also take an active part in the sessions. This gives them the chance to learn simple exercises and ideas they can use every day to support their child’s speech development. The workshop will take place at"
         },
         "uk": {
-          "title": "Старші базіки – логопедичні майстер-класи для дітей 4–6 років",
-          "description": "Гра зі словами, звуками та фонемами може стати чудовою пригодою. «Старші базіки» — це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і творчі заняття допомагають розвивати комунікативні навички. Це також нагода провести час разом і відкрити нові способи мовної гри.\n\nНавчання мовлення через гру\n\nПід час майстер-класів діти вправлятимуться в мовленні, гратимуться зі звуками та словами й розвиватимуть навички, необхідні для повсякденного спілкування. Цікаві завдання та рух зроблять навчання природною частиною спільної гри.\n\nСпільні відкриття з батьками\n\nУ заняттях також активно беруть участь батьки. Вони дізнаються про прості вправи та ідеї, які можна використовувати щодня, щоб підтримувати розвиток мовлення дитини. Майстер-класи відбуваються у дружній"
+          "title": "Старші балакуни — логопедичні майстер-класи для дітей 4–6 років",
+          "description": "Гра зі словами, звуками та фонемами може стати чудовою пригодою! «Старші балакуни» — це логопедичні майстер-класи для дітей віком 4–6 років, під час яких рух і творчі активності допомагають розвивати комунікативні навички. Це також нагода провести час разом і відкрити нові способи гратися з мовою.\n\nНавчання мовлення через гру\n\nПід час майстер-класів діти вправлятимуться у мовленні, гратимуться зі звуками та словами й розвиватимуть навички, потрібні для щоденного спілкування. Цікаві завдання та рух зроблять навчання природною частиною спільної гри.\n\nСпільні відкриття з батьками\n\nУ заняттях також активно беруть участь батьки. Завдяки цьому вони дізнаються про прості вправи та ідеї, які можна використовувати щодня, щоб підтримувати розвиток мовлення дитини. Майстер-класи відбудуться в"
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": true
       },
       "district": "Śródmieście",
-      "updated_at": "2026-11-13T14:48:54.278522+00:00"
+      "updated_at": "2026-11-14T13:54:39.768735+00:00"
     },
     "santa-claus-festival-2026-festiwal-wi-tego-miko-aja-2026-12-05T09:00:00+01:00": {
       "title": "Santa Claus Festival 2026 - Festiwal Świętego Mikołaja",
@@ -8201,6 +8202,988 @@
         "is_free": false
       },
       "updated_at": "2026-11-13T14:48:54.278543+00:00"
+    },
+    "tajemnice-uniwersytetu-wroc-awskiego-wycieczka-po-wroc-awiu-2026-11-21T13:30:00+01:00": {
+      "title": "„Tajemnice Uniwersytetu Wrocławskiego\" – wycieczka po Wrocławiu",
+      "date": "2026-11-21T13:30:00+01:00",
+      "end_date": "2026-11-21T13:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wycieczka z przewodnikiem do Uniwersytetu Wrocławskiego to jedyna okazja, aby poznać tą **barokową perłę Wrocławia**. Posłuchaj jak żyli profesorowie i studenci! Poznaj historię życia akademickiego we Wrocławiu. Odkryj z nami tajemnice tego miejsca.\n\nPodczas wycieczki dowiesz się wielu zaskakujących rzeczy o tym słynnym zabytkowym miejscu. Będziesz spacerować po wnętrzach muzeum z profesjonalnym przewodnikiem. Budynek powstał już w 1702 roku! W swych murach skrywa wiele tajemnic. **To tutaj kształcili się słynni niemieccy nobliści, jest ich aż 14!** Theodor Mommsen, Fritz Haber, Max Born, Gerhart Hauptmann a także polska powieściopisarka Olga Tokarczuk.\n\nZwiedzanie rozpoczyna się od słynnych barokowych sal reprezentacyjnych – **Auli Leopoldyna** i **Oratorium Marianum**. To tutaj odbywa się uroczyste rozpoczęcie roku akademickiego wszystkich wyższych uczelni we Wrocławiu. Sala robi imponujące wrażenie! To jedyne w Polsce, tak dobrze zachowane świeckie wnętrze barokowe z pełnym wystrojem, na który składa się iluzjonistyczne malarstwo ścienne Johanna Christopha Handkego. W centrum sali zobaczyć można rzeźbę króla Niemiec i cesarza Leopolda I Habsburga na tronie.\n\nTuż obok pięknem zachwyca druga z sal – Oratorium Muzyczne, Dzięki znakomitej akustyce oratorium stało się jedną z głównych sal muzycznych Wrocławia. W XIX wieku koncertowali w niej Johannes Brahms, Ferenc Liszt, Niccolò Paganini, Anton Rubinstein, Klara Schumann i Henryk Wieniawski.\n\nPo zwiedzaniu sal udajemy wygodnymi dużymi schodami cesarskimi się na **Wieże Matematyczną Uniwersytetu Wrocławskiego.** Widok z wieży sięga na całą Starówkę! Zobaczyć stąd można wszystkie najważniejsze zabytki Wrocławia łącznie z Katedrą Wrocławską. Taras widokowy na wieży zdobią cztery potężne rzeźby dłuta Franza Mangoldta.\n\nNa koniec docieramy do **Muzeum Uniwersyteckiego**, aby tam odkryć barwną historię uniwersytetu. Wrocław od wieków był miastem studentów. W muzeum poznamy jak się uczyli i jak się bawili wrocławscy studenci – dziś i przed wojną. Jest o czym opowiadać!\n\nSpacer kończymy na zewnątrz – przed uniwersytetem stoi pomnik nagiego szermierza. Dlaczego nagiego? Chcesz poznać tą zabawną historię? Oczywiście możesz to zrobić! Zapraszamy na naszą wycieczkę z przewodnikiem.\n\n**Cennik**\n\n• 60 zł / osoba\n\nPodany koszt biletu zawiera opłatę za wstęp do Muzeum Uniwersytetu Wrocławskiego, Aulę Leopoldyna, Oratorium Marianum i na Wieżę Matematyczną.\n\nPłatne gotówką na miejscu u przewodnika lub przez evently.pl.\n\n**Wymagana rezerwacja pod numerem: 513 946 946**. Wyślij SMS lub WhatsUp – a otrzymasz potwierdzenie!\n\nZapraszamy w każdą sobotę o godz. 13:30! Liczba miejsc ograniczona.\n\nStart: Rynek, Stary Ratusz, przy niedźwiadku, obok Piwnicy Świdnickiej.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-a42b0f19ac1100023b210e1babebfa70/wroclaw-zwiedzanie-uniwersytetu-wroclawskiego.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1391238-tajemnice-uniwersytetu-wroclawskiego-wycieczka-po-wroclawiu",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Rynek we Wrocławiu Rynek, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/sport-i-rekreacja/1391238-tajemnice-uniwersytetu-wroclawskiego-wycieczka-po-wroclawiu",
+      "scrapped_timestamp": "2026-11-14T13:49:04.013151+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "both",
+      "translations": {
+        "pl": {
+          "title": "„Tajemnice Uniwersytetu Wrocławskiego\" – wycieczka po Wrocławiu",
+          "description": "Wycieczka z przewodnikiem do Uniwersytetu Wrocławskiego to jedyna okazja, aby poznać tą **barokową perłę Wrocławia**. Posłuchaj jak żyli profesorowie i studenci! Poznaj historię życia akademickiego we Wrocławiu. Odkryj z nami tajemnice tego miejsca.\n\nPodczas wycieczki dowiesz się wielu zaskakujących rzeczy o tym słynnym zabytkowym miejscu. Będziesz spacerować po wnętrzach muzeum z profesjonalnym przewodnikiem. Budynek powstał już w 1702 roku! W swych murach skrywa wiele tajemnic. **To tutaj kształcili się słynni niemieccy nobliści, jest ich aż 14!** Theodor Mommsen, Fritz Haber, Max Born, Gerhart Hauptmann a także polska powieściopisarka Olga Tokarczuk.\n\nZwiedzanie rozpoczyna się od słynnych barokowych sal reprezentacyjnych – **Auli Leopoldyna** i **Oratorium Marianum**. To tutaj odbywa się uroczyste rozpoczęcie roku akademickiego wszystkich wyższych uczelni we Wrocławiu. Sala robi imponujące wrażenie! To jedyne w Polsce, tak dobrze zachowane świeckie wnętrze barokowe z pełnym wystrojem, na który składa się iluzjonistyczne malarstwo ścienne Johanna Christopha Handkego. W centrum sali zobaczyć można rzeźbę króla Niemiec i cesarza Leopolda I Habsburga na tronie.\n\nTuż obok pięknem zachwyca druga z sal – Oratorium Muzyczne, Dzięki znakomitej akustyce oratorium stało się jedną z głównych sal muzycznych Wrocławia. W XIX wieku koncertowali w niej Johannes Brahms, Ferenc Liszt, Niccolò Paganini, Anton Rubinstein, Klara Schumann i Henryk Wieniawski.\n\nPo zwiedzaniu sal udajemy wygodnymi dużymi schodami cesarskimi się na **Wieże Matematyczną Uniwersytetu Wrocławskiego.** Widok z wieży sięga na całą Starówkę! Zobaczyć stąd można wszystkie najważniejsze zabytki Wrocławia łącznie z Katedrą Wrocławską. Taras widokowy na wieży zdobią cztery potężne rzeźby dłuta Franza Mangoldta.\n\nNa koniec docieramy do **Muzeum Uniwersyteckiego**, aby tam odkryć barwną historię uniwersytetu. Wrocław od wieków był miastem studentów. W muzeum poznamy jak się uczyli i jak się bawili wrocławscy studenci – dziś i przed wojną. Jest o czym opowiadać!\n\nSpacer kończymy na zewnątrz – przed uniwersytetem stoi pomnik nagiego szermierza. Dlaczego nagiego? Chcesz poznać tą zabawną historię? Oczywiście możesz to zrobić! Zapraszamy na naszą wycieczkę z przewodnikiem.\n\n**Cennik**\n\n• 60 zł / osoba\n\nPodany koszt biletu zawiera opłatę za wstęp do Muzeum Uniwersytetu Wrocławskiego, Aulę Leopoldyna, Oratorium Marianum i na Wieżę Matematyczną.\n\nPłatne gotówką na miejscu u przewodnika lub przez evently.pl.\n\n**Wymagana rezerwacja pod numerem: 513 946 946**. Wyślij SMS lub WhatsUp – a otrzymasz potwierdzenie!\n\nZapraszamy w każdą sobotę o godz. 13:30! Liczba miejsc ograniczona.\n\nStart: Rynek, Stary Ratusz, przy niedźwiadku, obok Piwnicy Świdnickiej.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora"
+        },
+        "en": {
+          "title": "“Secrets of the University of Wrocław” – a tour of Wrocław",
+          "description": "A guided tour of the University of Wrocław is a unique opportunity to discover this **baroque gem of Wrocław**. Listen to how professors and students lived! Learn about the history of academic life in Wrocław. Discover the secrets of this place with us.\n\nDuring the tour, you’ll learn many surprising things about this famous historic site. You’ll explore the museum’s interiors with a professional guide. The building was built as early as 1702! Its walls conceal many secrets. **This is where famous German Nobel laureates studied—there are as many as 14 of them!** Theodor Mommsen, Fritz Haber, Max Born, Gerhart Hauptmann, as well as the Polish novelist Olga Tokarczuk.\n\nThe tour begins in the famous Baroque ceremonial halls – **Leopoldina Hall** and **Oratorium Marianum**. This is where"
+        },
+        "uk": {
+          "title": "«Таємниці Вроцлавського університету» – екскурсія Вроцлавом",
+          "description": "Екскурсія з гідом до Вроцлавського університету — це унікальна нагода познайомитися з цією **бароковою перлиною Вроцлава**. Послухай, як жили професори та студенти! Дізнайся про історію академічного життя у Вроцлаві. Відкрий разом із нами таємниці цього місця.\n\nПід час екскурсії ти дізнаєшся багато дивовижних фактів про цю знамениту історичну пам’ятку. Ти прогуляєшся залами музею з професійним гідом. Будівлю звели ще 1702 року! У її стінах приховано багато таємниць. **Саме тут навчалися видатні німецькі нобелівські лауреати — аж 14!** Теодор Моммзен, Фріц Габер, Макс Борн, Ґергарт Гауптман, а також польська письменниця Ольга Токарчук.\n\nЕкскурсія починається зі знаменитих барокових парадних залів – **Аули Леопольдина** та **Ораторіум Маріанум**. Саме тут відбувається"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-14T13:54:39.768643+00:00"
+    },
+    "world-balloon-festival-wystawa-2026-11-14T00:00:00+01:00": {
+      "title": "World Balloon Festival [wystawa]",
+      "date": "2026-11-14T00:00:00+01:00",
+      "end_date": "2026-11-14T00:00:00+01:00",
+      "startTimeKnown": false,
+      "description": "Wystawa artystycznych instalacji z ponad 100 000 balonów, tworzonych przez międzynarodowych mistrzów sztuki balonowej (realizacje m.in. w Arabii Saudyjskiej, Belgii, na Węgrzech).\n\n• **Termin:** 13–15 listopada 2026\n\n• **Godziny:** 9:00–20:00\n\n• **Miejsce:** Tarczyński Arena Wrocław, al. Śląska 1, Wrocław\n\n• **Bilety:** dostępne online; dzieci do lat 3 – wstęp bezpłatny\n\n**Ekspozycja obejmuje pięć tematycznych stref:**\n\n• tropikalną dżunglę,\n\n• świat podwodny,\n\n• panoramy architektoniczne,\n\n• krajobrazy kosmiczne oraz strefy instagramowe.\n\nProgram dodatkowo zawiera codzienne pokazy na żywo (animatorzy, performerzy, muzyka, światło) oraz strefę kreatywną dla dzieci z warsztatami baloniarskimi i malowaniem buziek. Instalacje wykonane z biodegradowalnego lateksu naturalnego. Przestrzeń dostosowana do wózków i osób z ograniczoną mobilnością.",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-153492fbac1100021a3f3c13c8a9635f/1080x1080-wbf-1.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416373-world-balloon-festival",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Tarczyński Arena Wrocław aleja Śląska 1, Wrocław 54-118",
+        "district": "Fabryczna"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1416373-world-balloon-festival",
+      "scrapped_timestamp": "2026-11-14T13:49:19.436162+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Family Fun",
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "World Balloon Festival [wystawa]",
+          "description": "Wystawa artystycznych instalacji z ponad 100 000 balonów, tworzonych przez międzynarodowych mistrzów sztuki balonowej (realizacje m.in. w Arabii Saudyjskiej, Belgii, na Węgrzech).\n\n• **Termin:** 13–15 listopada 2026\n\n• **Godziny:** 9:00–20:00\n\n• **Miejsce:** Tarczyński Arena Wrocław, al. Śląska 1, Wrocław\n\n• **Bilety:** dostępne online; dzieci do lat 3 – wstęp bezpłatny\n\n**Ekspozycja obejmuje pięć tematycznych stref:**\n\n• tropikalną dżunglę,\n\n• świat podwodny,\n\n• panoramy architektoniczne,\n\n• krajobrazy kosmiczne oraz strefy instagramowe.\n\nProgram dodatkowo zawiera codzienne pokazy na żywo (animatorzy, performerzy, muzyka, światło) oraz strefę kreatywną dla dzieci z warsztatami baloniarskimi i malowaniem buziek. Instalacje wykonane z biodegradowalnego lateksu naturalnego. Przestrzeń dostosowana do wózków i osób z ograniczoną mobilnością."
+        },
+        "en": {
+          "title": "World Balloon Festival [exhibition]",
+          "description": "An exhibition of artistic installations made from over 100,000 balloons, created by international balloon art masters (projects include those in Saudi Arabia, Belgium, and Hungary).\n\n• **Dates:** November 13–15, 2026\n\n• **Hours:** 9:00–20:00\n\n• **Venue:** Tarczyński Arena Wrocław, al. Śląska 1, Wrocław\n\n• **Tickets:** available online; children under 3 – free admission\n\n**The exhibition includes five themed zones:**\n\n• a tropical jungle,\n\n• an underwater world,\n\n• architectural panoramas,\n\n• cosmic landscapes, and Instagram zones.\n\nThe program also includes daily live shows (entertainers, performers, music, lighting) and a creative zone for children with balloon-making workshops and face painting. The installations are made from biodegradable natural latex. The space is adapted."
+        },
+        "uk": {
+          "title": "Всесвітній фестиваль повітряних куль [виставка]",
+          "description": "Виставка мистецьких інсталяцій із понад 100 000 повітряних куль, створених міжнародними майстрами повітряного мистецтва (зокрема, роботи в Саудівській Аравії, Бельгії, Угорщині).\n\n• **Дати:** 13–15 листопада 2026 року\n\n• **Години роботи:** 9:00–20:00\n\n• **Місце:** Tarczyński Arena Wrocław, вул. Śląska, 1, Вроцлав\n\n• **Квитки:** доступні онлайн; дітям до 3 років — вхід безкоштовний\n\n**Експозиція охоплює п’ять тематичних зон:**\n\n• тропічні джунглі,\n\n• підводний світ,\n\n• архітектурні панорами,\n\n• космічні пейзажі та зони для Instagram.\n\nПрограма також включає щоденні живі шоу (аніматори, перформери, музика, світло) та творчу зону для дітей із майстер-класами з виготовлення фігур із повітряних куль і розписом обличчя. Інсталяції виготовлені з біорозкладного натурального латексу. Простір пристос"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-11-14T13:54:39.768664+00:00"
+    },
+    "wi-teczna-zabawa-z-pepp-seanse-z-konkursami-2026-11-15T10:30:00+01:00": {
+      "title": "Świąteczna zabawa z Peppą – seanse z konkursami",
+      "date": "2026-11-15T10:30:00+01:00",
+      "end_date": "2026-11-15T10:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "Świąteczna atmosfera zawita do kin Helios we Wrocławiu, a jej przewodniczką będzie uwielbiana przez najmłodszych Świnka Peppa! W listopadowe weekendy na dzieci i ich rodziny czeka **„Świąteczna zabawa z Peppą – seanse z konkursami”**. Na wielkim ekranie pojawią się świąteczne przygody Peppy i jej bliskich, a przed projekcją nie zabraknie quizów oraz zagadek do rozwiązania.\n\nŚwiąteczne przygody Peppy na wielkim ekranie\n\nTym razem Peppa i jej rodzina zaproszą widzów do wspólnego świętowania pierwszej Gwiazdki małej Evie. W programie znalazło się **siedem klasycznych świątecznych odcinków „Świnki Peppy” oraz cztery zupełnie nowe piosenki**, przy których dzieci będą mogły śpiewać i tańczyć.\n\nNa ekranie nie zabraknie śnieżnych przygód, świątecznych przedstawień, ubierania choinki i wielu ciepłych chwil. Całość potrwa około godziny, tworząc idealną okazję do rodzinnego wyjścia do kina i wspólnego poczucia magii nadchodzących świąt.\n\nQuizy, zagadki i dobra zabawa\n\nFilmowe spotkanie rozpocznie się jeszcze przed seansem. Na uczestników czekać będą **quizy i zagadki**, które pozwolą wejść w świąteczny nastrój i sprawdzić swoją wiedzę. To propozycja dla najmłodszych widzów bez ograniczeń wiekowych, pełna muzyki, śmiechu i rodzinnej atmosfery.\n\nInformacje organizacyjne\n\n• **Terminy:** 14, 15, 21 i 22 listopada 2026 r.\n\n• **Godzina:** 10:30\n\n• **Miejsca:**\n\n• Kino Helios Magnolia Park, ul. Legnicka 58, Wrocław\n\n• Kino Helios Aleja Bielany, ul. Czekoladowa 7–9, Bielany Wrocławskie\n\n• **Czas trwania:** 60 minut\n\n• **Cena biletu dla każdego uczestnika:**\n\n• 4 i więcej dni przed seansem – 22,90 zł\n\n• 3 dni przed seansem – 26,90 zł\n\n• 2 dni przed seansem – 29,90 zł\n\n• 1 dzień przed seansem – 31,90 zł\n\n• w dniu seansu – 33,90 zł",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-6980605dac1100021e9c8307d3f43dba/helios-peppa-swiatecznazabawa-202610-1080x1920px-rgb-v01.jpg",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1419163-swiateczna-zabawa-z-peppa",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Helios Magnolia Park Legnicka 58, Wrocław 54-202 Kino Helios Aleja Bielany Czekoladowa 5-22, Bielany Wrocławskie 55-040",
+        "district": "Krzyki"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1419163-swiateczna-zabawa-z-peppa",
+      "scrapped_timestamp": "2026-11-14T13:49:34.246347+00:00",
+      "category": "Cinema",
+      "additional_categories": [
+        "Family Fun",
+        "Games"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 6
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Świąteczna zabawa z Peppą – seanse z konkursami",
+          "description": "Świąteczna atmosfera zawita do kin Helios we Wrocławiu, a jej przewodniczką będzie uwielbiana przez najmłodszych Świnka Peppa! W listopadowe weekendy na dzieci i ich rodziny czeka **„Świąteczna zabawa z Peppą – seanse z konkursami”**. Na wielkim ekranie pojawią się świąteczne przygody Peppy i jej bliskich, a przed projekcją nie zabraknie quizów oraz zagadek do rozwiązania.\n\nŚwiąteczne przygody Peppy na wielkim ekranie\n\nTym razem Peppa i jej rodzina zaproszą widzów do wspólnego świętowania pierwszej Gwiazdki małej Evie. W programie znalazło się **siedem klasycznych świątecznych odcinków „Świnki Peppy” oraz cztery zupełnie nowe piosenki**, przy których dzieci będą mogły śpiewać i tańczyć.\n\nNa ekranie nie zabraknie śnieżnych przygód, świątecznych przedstawień, ubierania choinki i wielu ciepłych chwil. Całość potrwa około godziny, tworząc idealną okazję do rodzinnego wyjścia do kina i wspólnego poczucia magii nadchodzących świąt.\n\nQuizy, zagadki i dobra zabawa\n\nFilmowe spotkanie rozpocznie się jeszcze przed seansem. Na uczestników czekać będą **quizy i zagadki**, które pozwolą wejść w świąteczny nastrój i sprawdzić swoją wiedzę. To propozycja dla najmłodszych widzów bez ograniczeń wiekowych, pełna muzyki, śmiechu i rodzinnej atmosfery.\n\nInformacje organizacyjne\n\n• **Terminy:** 14, 15, 21 i 22 listopada 2026 r.\n\n• **Godzina:** 10:30\n\n• **Miejsca:**\n\n• Kino Helios Magnolia Park, ul. Legnicka 58, Wrocław\n\n• Kino Helios Aleja Bielany, ul. Czekoladowa 7–9, Bielany Wrocławskie\n\n• **Czas trwania:** 60 minut\n\n• **Cena biletu dla każdego uczestnika:**\n\n• 4 i więcej dni przed seansem – 22,90 zł\n\n• 3 dni przed seansem – 26,90 zł\n\n• 2 dni przed seansem – 29,90 zł\n\n• 1 dzień przed seansem – 31,90 zł\n\n• w dniu seansu – 33,90 zł"
+        },
+        "en": {
+          "title": "Christmas Fun with Peppa – Screenings with Competitions",
+          "description": "The Christmas spirit is coming to Helios cinemas in Wrocław, with the much-loved Peppa Pig as its guide! On November weekends, children and their families can look forward to **“Christmas Fun with Peppa – Screenings with Competitions”**. Peppa and her loved ones’ Christmas adventures will appear on the big screen, and before the screening there will be quizzes and riddles to solve.\n\nPeppa’s Christmas adventures on the big screen\n\nThis time, Peppa and her family will invite viewers to celebrate little Evie’s first Christmas together. The programme features **seven classic Christmas episodes of “Peppa Pig” and four brand-new songs**, which children will be able to sing and dance along to.\n\nThere will be snowy adventures, Christmas plays, decorating the Christmas tree, and many warm"
+        },
+        "uk": {
+          "title": "Різдвяні розваги з Пеппою — сеанси з конкурсами",
+          "description": "Різдвяна атмосфера завітає до кінотеатрів Helios у Вроцлаві, а її провідницею стане улюблена найменшими Свинка Пеппа! У листопадові вихідні на дітей та їхні родини чекає **«Різдвяні розваги з Пеппою — сеанси з конкурсами»**. На великому екрані з’являться різдвяні пригоди Пеппи та її близьких, а перед показом не бракуватиме вікторин і загадок, які потрібно розгадати.\n\nРіздвяні пригоди Пеппи на великому екрані\n\nЦього разу Пеппа та її родина запросять глядачів разом відсвяткувати перше Різдво маленької Еві. У програмі — **сім класичних різдвяних епізодів «Свинка Пеппа» та чотири абсолютно нові пісні**, під які діти зможуть співати й танцювати.\n\nНа екрані не бракуватиме снігових пригод, різдвяних вистав, прикрашання ялинки та багатьох теплих"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-11-14T13:54:39.768687+00:00"
+    },
+    "skrzyd-a-wroc-awia-rodzinna-misja-lotnicza-wroc-aw-miros-awice-2026-11-15T11:00:00+01:00": {
+      "title": "SKRZYDŁA WROCŁAWIA - RODZINNA MISJA LOTNICZA – WROCŁAW → MIROSŁAWICE",
+      "date": "2026-11-15T11:00:00+01:00",
+      "end_date": "2026-11-15T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Pięć tajemnic do odkrycia, jedno lotnisko i rodzinna przygoda, która pozwoli spojrzeć na świat lotnictwa z zupełnie innej perspektywy! W ramach inicjatywy **„Skrzydła Wrocławia – Rodzinna Misja Lotnicza”** uczestnicy wyruszą z Wrocławia do Mirosławic, gdzie czeka na nich wyjątkowa wyprawa pełna zagadek, ciekawostek i odkrywania lotniczych sekretów.\n\nPięć zagadek i niezwykłe odkrycia na lotnisku\n\nNa uczestników czeka **pięć lotniczych zagadek**, których rozwiązanie pozwoli lepiej poznać historię i specyfikę lotniska w Mirosławicach. W programie przewidziano również wizytę w hangarze oraz możliwość zajrzenia do kabiny samolotu. To okazja, by z bliska zobaczyć miejsca i elementy, które na co dzień pozostają niedostępne dla większości osób.\n\nRodzinna wyprawa z Wrocławia do Mirosławic\n\nPrzygoda rozpocznie się we Wrocławiu, skąd uczestnicy wyruszą własnym transportem na lotnisko w Mirosławicach. Organizatorzy przygotowali kilka grup, dzięki czemu można wybrać dogodną godzinę udziału. To propozycja dla rodzin, które chcą wspólnie spędzić czas, rozbudzić ciekawość i poznać fascynujący świat lotnictwa.\n\nInformacje organizacyjne\n\n• **Terminy:** 7 i 8 listopada 2026 r. (sobota i niedziela)\n\n• **Godziny – w oba dni:**\n\n• I grupa: 11:00–11:50\n\n• II grupa: 12:05–12:55\n\n• **Miejsce:** lotnisko w Mirosławicach\n\n• **Zbiórka:** we Wrocławiu; dokładne miejsce zostanie przekazane uczestnikom\n\n• **Dojazd:** własnym transportem\n\n• **Cena:** 40 zł za każdego uczestnika\n\n• **Rezerwacje:** 515 387 693\n\n• **Więcej informacji:** www.mrmodelarnia.pl",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-d95c3b58ac11000226ef88dda096d6ab/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1418733-skrzydla-wroclawia-rodzinna-misja-lotnicza-wroclaw-miroslawice",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Lotnisko Mirosławice Lotnicza 14, Mirosławice",
+        "district": "Psie Pole"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/rozrywka/1418733-skrzydla-wroclawia-rodzinna-misja-lotnicza-wroclaw-miroslawice",
+      "scrapped_timestamp": "2026-11-14T13:49:47.398966+00:00",
+      "category": "Field Trips",
+      "additional_categories": [
+        "Educational",
+        "STEM"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "both",
+      "translations": {
+        "pl": {
+          "title": "SKRZYDŁA WROCŁAWIA - RODZINNA MISJA LOTNICZA – WROCŁAW → MIROSŁAWICE",
+          "description": "Pięć tajemnic do odkrycia, jedno lotnisko i rodzinna przygoda, która pozwoli spojrzeć na świat lotnictwa z zupełnie innej perspektywy! W ramach inicjatywy **„Skrzydła Wrocławia – Rodzinna Misja Lotnicza”** uczestnicy wyruszą z Wrocławia do Mirosławic, gdzie czeka na nich wyjątkowa wyprawa pełna zagadek, ciekawostek i odkrywania lotniczych sekretów.\n\nPięć zagadek i niezwykłe odkrycia na lotnisku\n\nNa uczestników czeka **pięć lotniczych zagadek**, których rozwiązanie pozwoli lepiej poznać historię i specyfikę lotniska w Mirosławicach. W programie przewidziano również wizytę w hangarze oraz możliwość zajrzenia do kabiny samolotu. To okazja, by z bliska zobaczyć miejsca i elementy, które na co dzień pozostają niedostępne dla większości osób.\n\nRodzinna wyprawa z Wrocławia do Mirosławic\n\nPrzygoda rozpocznie się we Wrocławiu, skąd uczestnicy wyruszą własnym transportem na lotnisko w Mirosławicach. Organizatorzy przygotowali kilka grup, dzięki czemu można wybrać dogodną godzinę udziału. To propozycja dla rodzin, które chcą wspólnie spędzić czas, rozbudzić ciekawość i poznać fascynujący świat lotnictwa.\n\nInformacje organizacyjne\n\n• **Terminy:** 7 i 8 listopada 2026 r. (sobota i niedziela)\n\n• **Godziny – w oba dni:**\n\n• I grupa: 11:00–11:50\n\n• II grupa: 12:05–12:55\n\n• **Miejsce:** lotnisko w Mirosławicach\n\n• **Zbiórka:** we Wrocławiu; dokładne miejsce zostanie przekazane uczestnikom\n\n• **Dojazd:** własnym transportem\n\n• **Cena:** 40 zł za każdego uczestnika\n\n• **Rezerwacje:** 515 387 693\n\n• **Więcej informacji:** www.mrmodelarnia.pl"
+        },
+        "en": {
+          "title": "WINGS OF WROCŁAW - FAMILY AVIATION MISSION – WROCŁAW → MIROSŁAWICE",
+          "description": "Five mysteries to uncover, one airport, and a family adventure that will let you see the world of aviation from a completely different perspective! As part of the **“Wings of Wrocław – Family Aviation Mission”** initiative, participants will set off from Wrocław to Mirosławice, where an extraordinary expedition full of puzzles, fascinating facts, and aviation secrets awaits them.\n\nFive puzzles and extraordinary discoveries at the airport\n\nParticipants will take on **five aviation puzzles**, whose solutions will help them learn more about the history and specifics of the airport in Mirosławice. The program also includes a visit to the hangar and the chance to look inside an aircraft cockpit. It’s an opportunity to see up close places and features that are usually inaccessible to most people.\n\nA family trip from Wrocław to Mirosławice\n\nAdventure"
+        },
+        "uk": {
+          "title": "КРИЛА ВРОЦЛАВА — СІМЕЙНА АВІАЦІЙНА МІСІЯ – ВРОЦЛАВ → МІРОСЛАВІЦЕ",
+          "description": "П’ять таємниць, які потрібно розкрити, один аеродром і сімейна пригода, що дозволить поглянути на світ авіації зовсім з іншої перспективи! У межах ініціативи **«Крила Вроцлава — Сімейна авіаційна місія»** учасники вирушать із Вроцлава до Міrosławice, де на них чекає особлива подорож, сповнена загадок, цікавих фактів і відкриття авіаційних таємниць.\n\nП’ять загадок і незвичайні відкриття на аеродромі\n\nНа учасників чекають **п’ять авіаційних загадок**, розв’язання яких допоможе краще познайомитися з історією та особливостями аеродрому в Міrosławice. Програмою також передбачено відвідування ангара та можливість зазирнути до кабіни літака. Це нагода зблизька побачити місця й елементи, які зазвичай недоступні для більшості людей.\n\nСімейна подорож із Вроцлава до Міrosławice\n\nПригода"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Psie Pole",
+      "updated_at": "2026-11-14T13:54:39.768712+00:00"
+    },
+    "bezp-atne-zaj-cia-og-lnorozwojowe-z-elementami-koszyk-wki-dla-dzieci-od-2-roku-ycia-2026-11-21T09:15:00+01:00": {
+      "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci od 2 roku życia",
+      "date": "2026-11-21T09:15:00+01:00",
+      "end_date": "2026-11-21T09:15:00+01:00",
+      "startTimeKnown": true,
+      "description": "**HARMONOGRAM 12.09.2026 (w centrum Wrocławia IX LO, ul. ks. P. Skargi 31 (wjazd od ul. Nowej):**\n\n• 09:15-10:00: 2-3 lata,\n\n• 10:00-10:45: 3-3,5 lat,\n\n• 10:45-11:45: 3,5-4,5 lat,\n\n• 11:45-12:45: 4,5-6 lat,\n\n• 12:45-13:45: 6,5-8,0 lat.\n\n**HARMONOGRAM 18.09.2026 (Lipa Piotrowska) ZSP26, ul. Cynamonowa 40 (wejście szkolne - duża sala na parterze)**\n\n• 17:15-18:00: 3-5 lat,\n\n• 18:00-19:00: 6-8 lat,\n\n• 19:00-20:00: 9-12 lat.\n\n**Drogi rodzicu:**\n\n• Chcesz rozwijać motywację i pewność siebie u swojego dziecka?\n\n• Chcesz poprawić intuicję i koncentracje swojego malucha?\n\n• Twoje dziecko jest spragnione pozytywnych wrażeń i nie cierpi nudy?\n\n• Pragniesz poprawić dziecku kondycję i ogólną sprawność fizyczną?\n\n• Zależy ci na znalezieniu dla swojej pociechy przyjaźni na całe życie poprzez kształtowanie jego kompetencji, intencji i współpracy w grupie?\n\nJeśli chociaż raz odpowiedziałeś TAK, to nasza propozycja jest właśnie dla ciebie! Przyjdź na pierwsze bezpłatne i niezobowiązujące zajęcia i przekonaj się, jak świetnie twoje dziecko może spędzić czas.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-ad9e0708ac1100026d1ae29d85b928f4/undefinedundefined",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415734-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci-od-2-roku-zycia-wroclaw",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1415734-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci-od-2-roku-zycia-wroclaw",
+      "scrapped_timestamp": "2026-11-14T13:50:14.044273+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 2,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci od 2 roku życia",
+          "description": "**HARMONOGRAM 12.09.2026 (w centrum Wrocławia IX LO, ul. ks. P. Skargi 31 (wjazd od ul. Nowej):**\n\n• 09:15-10:00: 2-3 lata,\n\n• 10:00-10:45: 3-3,5 lat,\n\n• 10:45-11:45: 3,5-4,5 lat,\n\n• 11:45-12:45: 4,5-6 lat,\n\n• 12:45-13:45: 6,5-8,0 lat.\n\n**HARMONOGRAM 18.09.2026 (Lipa Piotrowska) ZSP26, ul. Cynamonowa 40 (wejście szkolne - duża sala na parterze)**\n\n• 17:15-18:00: 3-5 lat,\n\n• 18:00-19:00: 6-8 lat,\n\n• 19:00-20:00: 9-12 lat.\n\n**Drogi rodzicu:**\n\n• Chcesz rozwijać motywację i pewność siebie u swojego dziecka?\n\n• Chcesz poprawić intuicję i koncentracje swojego malucha?\n\n• Twoje dziecko jest spragnione pozytywnych wrażeń i nie cierpi nudy?\n\n• Pragniesz poprawić dziecku kondycję i ogólną sprawność fizyczną?\n\n• Zależy ci na znalezieniu dla swojej pociechy przyjaźni na całe życie poprzez kształtowanie jego kompetencji, intencji i współpracy w grupie?\n\nJeśli chociaż raz odpowiedziałeś TAK, to nasza propozycja jest właśnie dla ciebie! Przyjdź na pierwsze bezpłatne i niezobowiązujące zajęcia i przekonaj się, jak świetnie twoje dziecko może spędzić czas.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Free general development classes with basketball elements for children from the age of 2",
+          "description": "**SCHEDULE 12.09.2026 (in central Wrocław, IX LO, 31 ks. P. Skargi St. (entrance from Nowa St.)):**\n\n• 09:15-10:00: ages 2-3,\n\n• 10:00-10:45: ages 3-3.5,\n\n• 10:45-11:45: ages 3.5-4.5,\n\n• 11:45-12:45: ages 4.5-6,\n\n• 12:45-13:45: ages 6.5-8.0.\n\n**SCHEDULE 18.09.2026 (Lipa Piotrowska) ZSP26, 40 Cynamonowa St. (school entrance - large ground-floor hall)**\n\n• 17:15-18:00: ages 3-5,\n\n• 18:00-19:00: ages 6-8,\n\n• 19:00-20:00: ages 9-12.\n\n**Dear parent:**\n\n• Would you like to develop your child's motivation and self-confidence?\n\n• Would you like to improve your little one's intuition and concentration?\n\n• Is your child eager for positive experiences and hates being bored?\n\n• Would you like to improve your child's fitness and overall physical abilities?\n\n• Is it important to you to help your child find lifelong friendships through building"
+        },
+        "uk": {
+          "title": "Безкоштовні загальнорозвивальні заняття з елементами баскетболу для дітей від 2 років",
+          "description": "**РОЗКЛАД 12.09.2026 (у центрі Вроцлава, IX LO, вул. ks. P. Skargi 31 (заїзд з вул. Nowej):**\n\n• 09:15-10:00: 2-3 роки,\n\n• 10:00-10:45: 3-3,5 року,\n\n• 10:45-11:45: 3,5-4,5 року,\n\n• 11:45-12:45: 4,5-6 років,\n\n• 12:45-13:45: 6,5-8,0 років.\n\n**РОЗКЛАД 18.09.2026 (Липа-Пйотровська) ZSP26, вул. Cynamonowa 40 (шкільний вхід — велика зала на першому поверсі)**\n\n• 17:15-18:00: 3-5 років,\n\n• 18:00-19:00: 6-8 років,\n\n• 19:00-20:00: 9-12 років.\n\n**Дорогі батьки:**\n\n• Хочете розвивати мотивацію та впевненість у собі у своєї дитини?\n\n• Хочете покращити інтуїцію та концентрацію свого малюка?\n\n• Ваша дитина прагне позитивних вражень і не терпить нудьги?\n\n• Бажаєте покращити фізичну форму та загальну фізичну підготовку дитини?\n\n• Для вас важливо знайти для своєї дитини друзів на все життя завдяки формуванню"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-14T13:54:39.768765+00:00"
+    },
+    "bezp-atne-zaj-cia-og-lnorozwojowe-z-elementami-koszyk-wki-dla-dzieci-4-7-lat-2026-11-21T10:45:00+01:00": {
+      "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci 4-7 lat",
+      "date": "2026-11-21T10:45:00+01:00",
+      "end_date": "2026-11-21T10:45:00+01:00",
+      "startTimeKnown": true,
+      "description": "Czy dziecko musi mieć sportowy talent, żeby czerpać radość z ruchu? Absolutnie nie! **Basket4Kids zaprasza najmłodszych na zajęcia ogólnorozwojowe z elementami koszykówki**, podczas których najważniejsze są sprawność, koordynacja, pewność siebie i dobra zabawa. To propozycja dla dzieci już od drugiego roku życia, które chcą odkrywać swoje możliwości, uczyć się nowych umiejętności i budować zdrowe nawyki na przyszłość.\n\nBasket4Kids – ruch to coś więcej niż sport\n\nBieganie, skakanie, utrzymywanie równowagi, rzucanie i łapanie piłki – te podstawowe umiejętności mają **ogromne znaczenie dla rozwoju dziecka**. Zajęcia Basket4Kids pomagają ćwiczyć je w przyjaznej atmosferze, bez presji na wyniki i sportową rywalizację.\n\nKoszykówka jest tutaj narzędziem, a nie celem samym w sobie. Piłka **wspiera rozwój koordynacji**, zabawy pomagają doskonalić szybkość i zwinność, a rzuty uczą kontroli nad ciałem. Wspólne aktywności rozwijają również współpracę, odwagę i umiejętność podejmowania decyzji.\n\nNie małego zawodowca, lecz dziecko, które lubi ruch\n\nW Basket4Kids nie chodzi o to, by jak najwcześniej wyłonić przyszłego mistrza koszykówki. Najważniejsze jest **stworzenie solidnych podstaw**, które przydadzą się niezależnie od tego, jaką aktywność dziecko wybierze w przyszłości – koszykówkę, piłkę nożną, taniec, jazdę na rowerze czy inną formę ruchu.\n\nZajęcia mają **pomagać najmłodszym nabierać pewności siebie**, próbować nowych rzeczy i przekonywać się, że ruch może być źródłem radości. To także okazja do rozwijania sprawności w naturalny sposób – poprzez zabawę, aktywność i stopniowe poznawanie własnych możliwości.\n\nInformacje organizacyjne\n\n• **Zajęcia:** Basket4Kids – zajęcia ogólnorozwojowe z elementami koszykówki\n\n• **Lokalizacja:** IX Liceum Ogólnokształcące, ul. ks. Piotra Skargi 31, centrum Wrocławia\n\n• **Dojazd:** wjazd od ul. Nowej\n\n• **Grupy wiekowe i godziny:**\n\n• 2–3 lata: 9:15–10:00\n\n• 3–4 lata: 10:00–10:45\n\n• 4–5 lat: 10:45–11:45\n\n• 5–6 lat: 11:45–12:45\n\n• 6–8 lat: 12:45–13:45\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=jpeg/https://go.wroclaw.pl/api/download/img-bbeb72b5ac1100024d3fe848354af505/public-form-image",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417277-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31 IX LO ul. ks. P. Skargi 31"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1417277-bezplatne-zajecia-ogolnorozwojowe-z-elementami-koszykowki-dla-dzieci",
+      "scrapped_timestamp": "2026-11-14T13:50:29.582333+00:00",
+      "category": "Sports",
+      "age_range": {
+        "min": 2,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bezpłatne zajęcia ogólnorozwojowe z elementami koszykówki dla dzieci 4-7 lat",
+          "description": "Czy dziecko musi mieć sportowy talent, żeby czerpać radość z ruchu? Absolutnie nie! **Basket4Kids zaprasza najmłodszych na zajęcia ogólnorozwojowe z elementami koszykówki**, podczas których najważniejsze są sprawność, koordynacja, pewność siebie i dobra zabawa. To propozycja dla dzieci już od drugiego roku życia, które chcą odkrywać swoje możliwości, uczyć się nowych umiejętności i budować zdrowe nawyki na przyszłość.\n\nBasket4Kids – ruch to coś więcej niż sport\n\nBieganie, skakanie, utrzymywanie równowagi, rzucanie i łapanie piłki – te podstawowe umiejętności mają **ogromne znaczenie dla rozwoju dziecka**. Zajęcia Basket4Kids pomagają ćwiczyć je w przyjaznej atmosferze, bez presji na wyniki i sportową rywalizację.\n\nKoszykówka jest tutaj narzędziem, a nie celem samym w sobie. Piłka **wspiera rozwój koordynacji**, zabawy pomagają doskonalić szybkość i zwinność, a rzuty uczą kontroli nad ciałem. Wspólne aktywności rozwijają również współpracę, odwagę i umiejętność podejmowania decyzji.\n\nNie małego zawodowca, lecz dziecko, które lubi ruch\n\nW Basket4Kids nie chodzi o to, by jak najwcześniej wyłonić przyszłego mistrza koszykówki. Najważniejsze jest **stworzenie solidnych podstaw**, które przydadzą się niezależnie od tego, jaką aktywność dziecko wybierze w przyszłości – koszykówkę, piłkę nożną, taniec, jazdę na rowerze czy inną formę ruchu.\n\nZajęcia mają **pomagać najmłodszym nabierać pewności siebie**, próbować nowych rzeczy i przekonywać się, że ruch może być źródłem radości. To także okazja do rozwijania sprawności w naturalny sposób – poprzez zabawę, aktywność i stopniowe poznawanie własnych możliwości.\n\nInformacje organizacyjne\n\n• **Zajęcia:** Basket4Kids – zajęcia ogólnorozwojowe z elementami koszykówki\n\n• **Lokalizacja:** IX Liceum Ogólnokształcące, ul. ks. Piotra Skargi 31, centrum Wrocławia\n\n• **Dojazd:** wjazd od ul. Nowej\n\n• **Grupy wiekowe i godziny:**\n\n• 2–3 lata: 9:15–10:00\n\n• 3–4 lata: 10:00–10:45\n\n• 4–5 lat: 10:45–11:45\n\n• 5–6 lat: 11:45–12:45\n\n• 6–8 lat: 12:45–13:45\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\n\n                                                                                    Strona organizatora\n\n• Otwiera się w nowej karcie\nInstagram"
+        },
+        "en": {
+          "title": "Free general development classes with basketball elements for children aged 4–7",
+          "description": "Does a child need to have athletic talent to enjoy being active? Absolutely not! **Basket4Kids invites little ones to general development classes with basketball elements**, where the most important things are fitness, coordination, self-confidence, and having fun. These classes are for children as young as two years old who want to discover what they can do, learn new skills, and build healthy habits for the future.\n\nBasket4Kids – movement is more than just sport\n\nRunning, jumping, balancing, throwing, and catching a ball – these basic skills are **hugely important for a child’s development**. Basket4Kids classes help children practice them in a friendly atmosphere, without pressure to achieve results or compete in sports.\n\nBasketball is a tool here, not an end in itself. The ball **supports"
+        },
+        "uk": {
+          "title": "Безкоштовні загальнорозвивальні заняття з елементами баскетболу для дітей 4–7 років",
+          "description": "Чи мусить дитина мати спортивний талант, щоб радіти руху? Зовсім ні! **Basket4Kids запрошує найменших на загальнорозвивальні заняття з елементами баскетболу**, під час яких найважливіші спритність, координація, впевненість у собі та гарний настрій. Це пропозиція для дітей уже від дворічного віку, які хочуть відкривати свої можливості, навчатися нових навичок і формувати здорові звички на майбутнє.\n\nBasket4Kids – рух — це щось більше, ніж спорт\n\nБіг, стрибки, утримання рівноваги, кидання та ловіння м’яча — ці основні навички мають **величезне значення для розвитку дитини**. Заняття Basket4Kids допомагають їх відпрацьовувати у дружній атмосфері, без тиску щодо результатів і спортивного суперництва.\n\nБаскетбол тут — це інструмент, а не самоціль. М’яч **сприяє"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-14T13:54:39.768789+00:00"
+    },
+    "jesie-w-kaf-rodzinne-warsztaty-2026-11-28T12:00:00+01:00": {
+      "title": "Jesień w KAF [rodzinne warsztaty]",
+      "date": "2026-11-28T12:00:00+01:00",
+      "end_date": "2026-11-28T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Jak zamienić wizytę w galerii w twórczą przygodę? W listopadzie **Krupa Art Foundation** zaprasza dzieci w wieku 6–12 lat wraz z opiekunami na rodzinne warsztaty, podczas których sztuka stanie się inspiracją do własnych eksperymentów. W programie znalazły się dwa spotkania łączące odkrywanie wystaw, rozmowy o dziełach i kreatywne działania.\n\nPocztówka z galerii – 14 listopada\n\nCzy wspomnienia z wizyty w galerii można zamknąć w niewielkiej kartce i wysłać pocztą? Podczas pierwszych warsztatów uczestnicy poznają technikę **mail artu**, czyli sztuki tworzonej z myślą o przesyłaniu jej tradycyjną pocztą.\n\nWykorzystując tekst, kolory i różnorodne materiały, dzieci stworzą niepowtarzalne pocztówki pełne osobistych skojarzeń i emocji. Gotowe prace będzie można wysłać z pobliskiej placówki pocztowej. To pomysł na artystyczną pamiątkę, która zamiast trafić do szuflady, może wyruszyć w świat!\n\nWymalowane – 28 listopada\n\nGdzie zaczyna się obraz? Czy wszystko może stać się dziełem sztuki? Podczas drugiego spotkania uczestnicy przyjrzą się pracom prezentowanym na wystawie i spróbują rozpoznać jak najwięcej technik ich wykonania.\n\nWarsztaty będą okazją do sprawdzenia spostrzegawczości i odkrywania różnorodnych sposobów tworzenia obrazów. Wspólne oglądanie, rozmowy i twórcze eksperymenty pozwolą spojrzeć na sztukę z nowej perspektywy i przekonać się, że inspiracje można znaleźć w wielu miejscach.\n\nRodzinne odkrywanie sztuki w Krupa Art Foundation\n\nKażde spotkanie rozpocznie się od zwiedzania galerii z edukatorem. Następnie dzieci wraz z opiekunami przejdą do części warsztatowej, podczas której wykorzystają swoje obserwacje i pomysły w praktyce. To propozycja na wspólne spędzenie czasu, rozwijanie wyobraźni i poznawanie sztuki poprzez działanie.\n\nInformacje organizacyjne\n\n• **Terminy:** 14 i 28 listopada 2026 r. (soboty)\n\n• **Godzina:** 12:00\n\n• **Miejsce:** Krupa Art Foundation, Rynek 27/28, Wrocław\n\n• **Czas trwania:** około 90 minut\n\n• **Dla kogo:** dzieci w wieku 6–12 lat wraz z opiekunem lub opiekunką\n\n• **Koszt udziału:**\n\n• 40 zł – opiekun + 1 dziecko\n\n• 60 zł – opiekun + maksymalnie 2 dzieci\n\n• 70 zł – opiekun + maksymalnie 3 dzieci\n\n• **Bilety:** dostępne online oraz w kasie galerii\n\nLiczba miejsc jest ograniczona, a o udziale decyduje kolejność zakupu biletów.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook",
+      "image": "https://www.wroclaw.pl/cdn-cgi/image/w=1200,h=630,fit=crop,f=png/https://go.wroclaw.pl/api/download/img-0eb8e0e4ac1100023b210e1babc73f82/kaf-jesien-w-kaf-warsztaty-rodzinne-cover-fb.png",
+      "url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1418837-jesien-w-kaf",
+      "source": "wroclaw.pl",
+      "location": {
+        "name": "Krupa Art Foundation Rynek 27/28, Wrocław",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://www.wroclaw.pl/go/wydarzenia/edukacja-i-rozwoj/1418837-jesien-w-kaf",
+      "scrapped_timestamp": "2026-11-14T13:50:40.430226+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Jesień w KAF [rodzinne warsztaty]",
+          "description": "Jak zamienić wizytę w galerii w twórczą przygodę? W listopadzie **Krupa Art Foundation** zaprasza dzieci w wieku 6–12 lat wraz z opiekunami na rodzinne warsztaty, podczas których sztuka stanie się inspiracją do własnych eksperymentów. W programie znalazły się dwa spotkania łączące odkrywanie wystaw, rozmowy o dziełach i kreatywne działania.\n\nPocztówka z galerii – 14 listopada\n\nCzy wspomnienia z wizyty w galerii można zamknąć w niewielkiej kartce i wysłać pocztą? Podczas pierwszych warsztatów uczestnicy poznają technikę **mail artu**, czyli sztuki tworzonej z myślą o przesyłaniu jej tradycyjną pocztą.\n\nWykorzystując tekst, kolory i różnorodne materiały, dzieci stworzą niepowtarzalne pocztówki pełne osobistych skojarzeń i emocji. Gotowe prace będzie można wysłać z pobliskiej placówki pocztowej. To pomysł na artystyczną pamiątkę, która zamiast trafić do szuflady, może wyruszyć w świat!\n\nWymalowane – 28 listopada\n\nGdzie zaczyna się obraz? Czy wszystko może stać się dziełem sztuki? Podczas drugiego spotkania uczestnicy przyjrzą się pracom prezentowanym na wystawie i spróbują rozpoznać jak najwięcej technik ich wykonania.\n\nWarsztaty będą okazją do sprawdzenia spostrzegawczości i odkrywania różnorodnych sposobów tworzenia obrazów. Wspólne oglądanie, rozmowy i twórcze eksperymenty pozwolą spojrzeć na sztukę z nowej perspektywy i przekonać się, że inspiracje można znaleźć w wielu miejscach.\n\nRodzinne odkrywanie sztuki w Krupa Art Foundation\n\nKażde spotkanie rozpocznie się od zwiedzania galerii z edukatorem. Następnie dzieci wraz z opiekunami przejdą do części warsztatowej, podczas której wykorzystają swoje obserwacje i pomysły w praktyce. To propozycja na wspólne spędzenie czasu, rozwijanie wyobraźni i poznawanie sztuki poprzez działanie.\n\nInformacje organizacyjne\n\n• **Terminy:** 14 i 28 listopada 2026 r. (soboty)\n\n• **Godzina:** 12:00\n\n• **Miejsce:** Krupa Art Foundation, Rynek 27/28, Wrocław\n\n• **Czas trwania:** około 90 minut\n\n• **Dla kogo:** dzieci w wieku 6–12 lat wraz z opiekunem lub opiekunką\n\n• **Koszt udziału:**\n\n• 40 zł – opiekun + 1 dziecko\n\n• 60 zł – opiekun + maksymalnie 2 dzieci\n\n• 70 zł – opiekun + maksymalnie 3 dzieci\n\n• **Bilety:** dostępne online oraz w kasie galerii\n\nLiczba miejsc jest ograniczona, a o udziale decyduje kolejność zakupu biletów.\n\nInformacje dodatkowe\n\n• Otwiera się w nowej karcie\nFacebook"
+        },
+        "en": {
+          "title": "Autumn at KAF [family workshops]",
+          "description": "How can a visit to a gallery become a creative adventure? In November, **Krupa Art Foundation** invites children aged 6–12, together with their caregivers, to family workshops where art will inspire their own experiments. The program includes two sessions combining exhibition discovery, conversations about artworks, and creative activities.\n\nA Postcard from the Gallery – November 14\n\nCan memories of a gallery visit be captured on a small card and sent by post? During the first workshop, participants will learn the **mail art** technique, or art created with the intention of sending it through the traditional postal service.\n\nUsing text, colors, and a variety of materials, children will create unique postcards full of personal associations and emotions. The finished works can be sent from a nearby post offi"
+        },
+        "uk": {
+          "title": "Осінь у KAF [сімейні майстер-класи]",
+          "description": "Як перетворити відвідування галереї на творчу пригоду? У листопаді **Krupa Art Foundation** запрошує дітей віком 6–12 років разом із дорослими на сімейні майстер-класи, під час яких мистецтво стане натхненням для власних експериментів. У програмі — дві зустрічі, що поєднують знайомство з виставками, розмови про твори та творчу діяльність.\n\nЛистівка з галереї – 14 листопада\n\nЧи можна зберегти спогади про відвідування галереї на невеликій листівці й надіслати її поштою? Під час першого майстер-класу учасники познайомляться з технікою **мейл-арту** — мистецтва, створеного для надсилання традиційною поштою.\n\nВикористовуючи текст, кольори та різноманітні матеріали, діти створять неповторні листівки, сповнені особистих асоціацій та емоцій. Готові роботи можна буде надіслати з найближчого поштового відділення."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-14T13:54:39.768809+00:00"
+    },
+    "s-dy-i-os-dy-2026-11-14T11:00:00+01:00": {
+      "title": "Sądy i osądy",
+      "date": "2026-11-14T11:00:00+01:00",
+      "end_date": "2026-11-14T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "**Warsztaty dla dzieci i młodzieży w wieku 10–15 lat towarzyszące wystawie „Stulecie. W rocznicę wielkiej wystawy śląskiej sztuki średniowiecznej”, prowadzenie: Julia Czerwińska**\n\nUśmiech, zmarszczone brwi, szeroko otwarte oczy – czasem wystarczy jeden szczegół, aby zupełnie zmienić wyraz twarzy. Ale czy zawsze potrafimy prawidłowo odczytać emocje innych? W poszukiwaniu odpowiedzi sięgniemy do dzieł prezentowanych na wystawie „Stulecie”, zwracając uwagę na sposób przedstawiania ludzkich twarzy i towarzyszących im emocji. W części plastycznej zaprojektujemy maski podzielone na dwie kontrastujące ze sobą połowy, sprawdzając, jak za pomocą formy i koloru można nadać jednej twarzy dwa odmienne oblicza.\n\nSpotkanie w Pawilonie Czterech Kopuł, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81 (od poniedziałku do piątku, w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.\n\n■ Wydarzenia edukacyjne ➸\n\n**■ Fotorelacje edukacyjne ➸**",
+      "image": "https://mnwr.pl/wp-content/uploads/2018/06/wizyta_MNWr-1.jpg",
+      "url": "https://mnwr.pl/sady-i-osady",
+      "source": "mnwr.pl",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu",
+        "district": "Śródmieście"
+      },
+      "age_hint": "10-15",
+      "scrapped_url": "https://mnwr.pl/sady-i-osady",
+      "scrapped_timestamp": "2026-11-14T13:50:52.894715+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts",
+        "Educational"
+      ],
+      "age_range": {
+        "min": 10,
+        "max": 15
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Sądy i osądy",
+          "description": "**Warsztaty dla dzieci i młodzieży w wieku 10–15 lat towarzyszące wystawie „Stulecie. W rocznicę wielkiej wystawy śląskiej sztuki średniowiecznej”, prowadzenie: Julia Czerwińska**\n\nUśmiech, zmarszczone brwi, szeroko otwarte oczy – czasem wystarczy jeden szczegół, aby zupełnie zmienić wyraz twarzy. Ale czy zawsze potrafimy prawidłowo odczytać emocje innych? W poszukiwaniu odpowiedzi sięgniemy do dzieł prezentowanych na wystawie „Stulecie”, zwracając uwagę na sposób przedstawiania ludzkich twarzy i towarzyszących im emocji. W części plastycznej zaprojektujemy maski podzielone na dwie kontrastujące ze sobą połowy, sprawdzając, jak za pomocą formy i koloru można nadać jednej twarzy dwa odmienne oblicza.\n\nSpotkanie w Pawilonie Czterech Kopuł, bilety w cenie 10 zł do nabycia w kasie muzeum. Zapisy w tygodniu poprzedzającym zajęcia: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81 (od poniedziałku do piątku, w godz. 8.00–16.00). Prosimy o informację w przypadku rezygnacji z uczestnictwa w spotkaniu.\n\n■ Wydarzenia edukacyjne ➸\n\n**■ Fotorelacje edukacyjne ➸**"
+        },
+        "en": {
+          "title": "Courts and Judgments",
+          "description": "**Workshops for children and young people aged 10–15, accompanying the exhibition “Centenary. On the Anniversary of the Great Exhibition of Silesian Medieval Art,” led by Julia Czerwińska**\n\nA smile, furrowed brows, wide-open eyes—sometimes one detail is enough to completely change a facial expression. But can we always correctly read other people’s emotions? To look for answers, we’ll turn to works presented in the “Centenary” exhibition, paying attention to how human faces and the emotions accompanying them are portrayed. In the art-making part, we’ll design masks divided into two contrasting halves, exploring how form and colour can give one face two different appearances.\n\nThe session takes place at the Four Domes Pavilion. Tickets cost PLN 10 and are available at the museum ticket office. Registration"
+        },
+        "uk": {
+          "title": "Суди й осуди",
+          "description": "**Майстер-клас для дітей та підлітків віком 10–15 років, що супроводжує виставку «Століття. До річниці великої виставки середньовічного мистецтва Сілезії», веде: Юлія Червінська**\n\nУсмішка, насуплені брови, широко розплющені очі – іноді достатньо однієї деталі, щоб цілком змінити вираз обличчя. Але чи завжди ми вміємо правильно зчитувати емоції інших? У пошуках відповіді звернемося до творів, представлених на виставці «Століття», звертаючи увагу на спосіб зображення людських облич і супутніх їм емоцій. У творчій частині ми створимо маски, поділені на дві контрастні половини, і перевіримо, як за допомогою форми й кольору можна надати одному обличчю два різні вигляди.\n\nЗустріч у Павільйоні чотирьох куполів, квитки за ціною 10 злотих можна придбати в касі музею. Запи"
+        }
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-11-14T13:54:39.768827+00:00"
+    },
+    "obrazy-wojciecha-kossaka-w-zbiorach-muzeum-narodowego-we-wroc-awiu-2026-11-14T12:00:00+01:00": {
+      "title": "Obrazy Wojciecha Kossaka w zbiorach Muzeum Narodowego we Wrocławiu",
+      "date": "2026-11-14T12:00:00+01:00",
+      "end_date": "2026-11-14T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Jubileuszowy wykład Anny Jezierskiej z okazji 170-lecia urodzin Wojciecha Kossaka\nWojciech Kossak – jeden z najwybitniejszych polskich malarzy batalistów, znakomity interpretator scen historycznych, a zarazem artysta o niezwykle barwnej osobowości i burzliwym życiorysie. Jego twórczość, związana z historią i tradycją patriotyczną nieprzerwanie zajmuje ważne miejsce w polskiej kulturze i ikonografii. Muzeum Narodowe we Wrocławiu posiada kilka interesujących dzieł współtwórcy „Panoramy Racławickiej”, które pozwalają przyjrzeć się charakterystycznym cechom malarstwa Kossaka oraz różnorodności podejmowanych przez niego tematów, zamiłowaniu do efektownych ujęć oraz dbałości o szczegóły. Wrocławskie obrazy staną się również punktem wyjścia do szerszej opowieści o artystycznych zainteresowaniach i inspiracjach Wojciecha Kossaka, a także o wybranych wątkach z życia artysty.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny. W przypadku pytań informacji udziela Dział Edukacji MNWr: tel. 71 372 51 48 lub edukacja@mnwr.pl.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_978000413_original.jpg",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu (Wrocław-Plac Grunwaldzki)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/obrazy-wojciecha-kossaka-w-zbiorach-muzeum-narodowego-we-wroclawiu/kw/c5-3318237",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/obrazy-wojciecha-kossaka-w-zbiorach-muzeum-narodowego-we-wroclawiu/kw/c5-3318237",
+      "scrapped_timestamp": "2026-11-14T13:51:13.259923+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Obrazy Wojciecha Kossaka w zbiorach Muzeum Narodowego we Wrocławiu",
+          "description": "Jubileuszowy wykład Anny Jezierskiej z okazji 170-lecia urodzin Wojciecha Kossaka\nWojciech Kossak – jeden z najwybitniejszych polskich malarzy batalistów, znakomity interpretator scen historycznych, a zarazem artysta o niezwykle barwnej osobowości i burzliwym życiorysie. Jego twórczość, związana z historią i tradycją patriotyczną nieprzerwanie zajmuje ważne miejsce w polskiej kulturze i ikonografii. Muzeum Narodowe we Wrocławiu posiada kilka interesujących dzieł współtwórcy „Panoramy Racławickiej”, które pozwalają przyjrzeć się charakterystycznym cechom malarstwa Kossaka oraz różnorodności podejmowanych przez niego tematów, zamiłowaniu do efektownych ujęć oraz dbałości o szczegóły. Wrocławskie obrazy staną się również punktem wyjścia do szerszej opowieści o artystycznych zainteresowaniach i inspiracjach Wojciecha Kossaka, a także o wybranych wątkach z życia artysty.\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny. W przypadku pytań informacji udziela Dział Edukacji MNWr: tel. 71 372 51 48 lub edukacja@mnwr.pl."
+        },
+        "en": {
+          "title": "Paintings by Wojciech Kossak in the Collections of the National Museum in Wrocław",
+          "description": "A commemorative lecture by Anna Jezierska on the occasion of the 170th anniversary of Wojciech Kossak’s birth\nWojciech Kossak was one of Poland’s most outstanding battle painters, a remarkable interpreter of historical scenes, and an artist with an exceptionally colorful personality and a turbulent life. His work, associated with history and patriotic tradition, continues to occupy an important place in Polish culture and iconography. The National Museum in Wrocław owns several fascinating works by the co-creator of the “Racławice Panorama,” which offer an opportunity to examine the distinctive features of Kossak’s painting, the variety of subjects he tackled, his fondness for dramatic compositions, and his attention to detail. The paintings in Wrocław will also serve as a starting point for a broader account of his artistic interests"
+        },
+        "uk": {
+          "title": "Картини Войцеха Коссака у збірках Національного музею у Вроцлаві",
+          "description": "Ювілейна лекція Анни Єзерської з нагоди 170-річчя від дня народження Войцеха Коссака\nВойцех Коссак — один із найвидатніших польських батальних живописців, видатний інтерпретатор історичних сцен, а водночас митець із надзвичайно яскравою особистістю та бурхливою біографією. Його творчість, пов’язана з історією та патріотичною традицією, незмінно посідає важливе місце в польській культурі та іконографії. Національний музей у Вроцлаві має кілька цікавих робіт співавтора «Рацлавицької панорами», які дають змогу придивитися до характерних особливостей живопису Коссака та розмаїття тем, до яких він звертався, його любові до ефектних ракурсів і уваги до деталей. Картини зі Вроцлава також стануть відправною точкою для ширшої розповіді про мистецькі зацікавлення"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-14T13:54:39.768850+00:00"
+    },
+    "splendor-duchowy-i-materialny-o-strojach-w-redniowiecznej-sztuce-2026-11-14T12:00:00+01:00": {
+      "title": "Splendor duchowy i materialny. O strojach w średniowiecznej sztuce",
+      "date": "2026-11-14T12:00:00+01:00",
+      "end_date": "2026-11-14T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wykład w formie spaceru towarzyszący wystawie „Stulecie. W rocznicę wielkiej wystawy śląskiej sztuki średniowiecznej”, prowadzenie: dr Małgorzata Możdżyńska-Nawotka\nSpotkanie poświęcone będzie kilku wybranym zagadnieniom związanym z przedstawieniami tkanin i ubiorów w sztuce gotyckiej: ich materialnej formie, kulturowym kontekstom i symbolicznym znaczeniom oraz konwencjom artystycznym określającym stroje postaci w scenach biblijnych i wizerunkach świętych.\nSpotkanie w Pawilonie Czterech Kopuł, wstęp z biletem na wystawę czasową.\nW przypadku pytań informacji udziela Dział Edukacji P4K: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_978118293_original.jpg",
+      "location": {
+        "name": "Pawilon Czterech Kopuł oddz.  Muzeum Narodowe we Wrocławiu (Wrocław-Dąbie)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/splendor-duchowy-i-materialny-o-strojach-w-sredniowiecznej-sztuce/kw/c5-3320647",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/splendor-duchowy-i-materialny-o-strojach-w-sredniowiecznej-sztuce/kw/c5-3320647",
+      "scrapped_timestamp": "2026-11-14T13:51:25.071669+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Splendor duchowy i materialny. O strojach w średniowiecznej sztuce",
+          "description": "Wykład w formie spaceru towarzyszący wystawie „Stulecie. W rocznicę wielkiej wystawy śląskiej sztuki średniowiecznej”, prowadzenie: dr Małgorzata Możdżyńska-Nawotka\nSpotkanie poświęcone będzie kilku wybranym zagadnieniom związanym z przedstawieniami tkanin i ubiorów w sztuce gotyckiej: ich materialnej formie, kulturowym kontekstom i symbolicznym znaczeniom oraz konwencjom artystycznym określającym stroje postaci w scenach biblijnych i wizerunkach świętych.\nSpotkanie w Pawilonie Czterech Kopuł, wstęp z biletem na wystawę czasową.\nW przypadku pytań informacji udziela Dział Edukacji P4K: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81."
+        },
+        "en": {
+          "title": "Spiritual and Material Splendor. On Clothing in Medieval Art",
+          "description": "A walking lecture accompanying the exhibition “A Century. On the Anniversary of the Great Exhibition of Silesian Medieval Art”, led by Dr. Małgorzata Możdżyńska-Nawotka\nThe event will focus on several selected topics related to depictions of textiles and clothing in Gothic art: their material form, cultural contexts and symbolic meanings, as well as the artistic conventions that determined the clothing of figures in biblical scenes and images of saints.\nThe event will take place at the Four Domes Pavilion. Admission with a ticket to the temporary exhibition.\nFor inquiries, contact the P4K Education Department: edukacja.pawilon@mnwr.pl or tel. 71 712 71 81."
+        },
+        "uk": {
+          "title": "Духовна й матеріальна розкіш. Про одяг у середньовічному мистецтві",
+          "description": "Лекція у форматі прогулянки, що супроводжує виставку «Століття. До річниці великої виставки сілезького середньовічного мистецтва», веде: д-р Малгожата Можджинська-Навотка\nЗустріч буде присвячена кільком вибраним темам, пов’язаним із зображеннями тканин та одягу в готичному мистецтві: їхньою матеріальною формою, культурними контекстами й символічними значеннями, а також мистецькими умовностями, що визначають одяг персонажів у біблійних сценах і на зображеннях святих.\nЗустріч у Павільйоні чотирьох куполів, вхід за квитком на тимчасову виставку.\nЯкщо у вас виникнуть запитання, інформацію надасть відділ освіти П4К: edukacja.pawilon@mnwr.pl або тел. 71 712 71 81."
+        }
+      },
+      "updated_at": "2026-11-14T13:54:39.768871+00:00"
+    },
+    "wyk-ad-wilhelm-sasnal-2026-11-28T17:00:00+01:00": {
+      "title": "Wykład: Wilhelm Sasnal",
+      "date": "2026-11-28T17:00:00+01:00",
+      "end_date": "2026-11-28T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wykład Iwony Gołaj\nWilhelm Sasnal (rocznik 1972) w listopadzie tego roku odbiera Nagrodę Rubensa (Rubens Prize) – jedno z najważniejszych europejskich wyróżnień malarskich, przyznawane od 1957 r. przez niemieckie miasto Siegen. To nie pierwszy międzynarodowy sukces tego wybitnego artysty – malarza, grafika, twórcy kina autorskiego (projekty filmowe najczęściej realizuje z żoną Anką. W 2025 r. premierę miał film ich autorstwa oparty na prozie Roberta Walsera „Człowiek do wszystkiego”). W 2006 r. prestiżowy magazyn Flash Art umieścił Sasnala na pierwszym miejscu w rankingu najlepszych młodych artystów świata, również w tym samym roku malarz otrzymał The Vincent Award – nagrodę przyznaną przez Stedelijk Museum w Amsterdamie.\nW kolekcji Muzeum Narodowego we Wrocławiu znajduje się praca „Ślusarnia” (2013) – wielkoformatowy rysunek tuszem na papierze, który był prezentowany w Pawilonie Czterech Kopuł jako dzieło miesiąca.\nW trakcie wykładu spróbujemy prześledzić dotychczasową drogę twórczą Wilhelma Sasnala, która według uzasadnienia jury Nagrody Rubensa „łączy intymne momenty z życia samego artysty z obrazami zbiorowego doświadczenia i pamięci, tworząc wyrazisty kalejdoskop teraźniejszości”.\nSpotkanie w Pawilonie Czterech Kopuł, wstęp wolny. W przypadku pytań informacji udziela Dział Edukacji P4K: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_978000455_original.jpg",
+      "location": {
+        "name": "Pawilon Czterech Kopuł oddz.  Muzeum Narodowe we Wrocławiu (Wrocław-Dąbie)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/wyklad-wilhelm-sasnal/kw/c5-3318273",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/wyklad-wilhelm-sasnal/kw/c5-3318273",
+      "scrapped_timestamp": "2026-11-14T13:51:47.767890+00:00",
+      "category": "Educational",
+      "additional_categories": [
+        "Arts"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Wykład: Wilhelm Sasnal",
+          "description": "Wykład Iwony Gołaj\nWilhelm Sasnal (rocznik 1972) w listopadzie tego roku odbiera Nagrodę Rubensa (Rubens Prize) – jedno z najważniejszych europejskich wyróżnień malarskich, przyznawane od 1957 r. przez niemieckie miasto Siegen. To nie pierwszy międzynarodowy sukces tego wybitnego artysty – malarza, grafika, twórcy kina autorskiego (projekty filmowe najczęściej realizuje z żoną Anką. W 2025 r. premierę miał film ich autorstwa oparty na prozie Roberta Walsera „Człowiek do wszystkiego”). W 2006 r. prestiżowy magazyn Flash Art umieścił Sasnala na pierwszym miejscu w rankingu najlepszych młodych artystów świata, również w tym samym roku malarz otrzymał The Vincent Award – nagrodę przyznaną przez Stedelijk Museum w Amsterdamie.\nW kolekcji Muzeum Narodowego we Wrocławiu znajduje się praca „Ślusarnia” (2013) – wielkoformatowy rysunek tuszem na papierze, który był prezentowany w Pawilonie Czterech Kopuł jako dzieło miesiąca.\nW trakcie wykładu spróbujemy prześledzić dotychczasową drogę twórczą Wilhelma Sasnala, która według uzasadnienia jury Nagrody Rubensa „łączy intymne momenty z życia samego artysty z obrazami zbiorowego doświadczenia i pamięci, tworząc wyrazisty kalejdoskop teraźniejszości”.\nSpotkanie w Pawilonie Czterech Kopuł, wstęp wolny. W przypadku pytań informacji udziela Dział Edukacji P4K: edukacja.pawilon@mnwr.pl lub tel. 71 712 71 81."
+        },
+        "en": {
+          "title": "Lecture: Wilhelm Sasnal",
+          "description": "Lecture by Iwona Gołaj\nWilhelm Sasnal (born in 1972) will receive the Rubens Prize (Rubens Prize) this November – one of the most important European awards for painting, presented since 1957 by the German city of Siegen. This is not the first international success for this outstanding artist – painter, graphic artist, and filmmaker (he most often makes films with his wife Anka. In 2025, a film they made based on the prose of Robert Walser, “The Man for All Work,” premiered). In 2006, the prestigious magazine Flash Art placed Sasnal at the top of its ranking of the world's best young artists; also that same year, the painter received The Vincent Award – a prize awarded by the Stedelijk Museum in Amsterdam.\nThe collection of the National Museum in Wrocław includes the work “Locksmith"
+        },
+        "uk": {
+          "title": "Лекція: Вільгельм Саснал",
+          "description": "Лекція Івони Ґолай\nВільгельм Саснал (1972 року народження) у листопаді цього року отримує премію Рубенса (Rubens Prize) — одну з найважливіших європейських відзнак у галузі живопису, яку з 1957 року присуджує німецьке місто Зіген. Це не перший міжнародний успіх видатного митця — живописця, графіка, автора авторського кіно (кінопроєкти він найчастіше реалізує разом із дружиною Анкою. У 2025 році відбулася прем’єра їхнього фільму, знятого за прозою Роберта Вальзера «Людина на всі руки»). У 2006 році престижний журнал Flash Art поставив Саснала на перше місце в рейтингу найкращих молодих художників світу; також того самого року митець отримав The Vincent Award — нагороду, присуджену Музеєм Стеделек в Амстердамі.\nУ колекції Національного музею у Вроцлаві є робота «Слюсар"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-14T13:54:39.768888+00:00"
+    },
+    "oblicza-staro-ytno-ci-jedwabny-szlak-2026-11-29T12:00:00+01:00": {
+      "title": "Oblicza starożytności / Jedwabny Szlak",
+      "date": "2026-11-29T12:00:00+01:00",
+      "end_date": "2026-11-29T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wykład dr. Mateusza Żmudzińskiego w ramach cyklu „Oblicza starożytności”\nJedwabny Szlak – 12 tysięcy kilometrów, które pokonywali kupcy podążając z zachodu na wschód i ze wschodu na zachód, przenosząc towary, idee, technologie, wierzenia i… zarazy. W trakcie wykładu omówione zostaną znane i nowo odkryte trasy lądowe oraz morskie, organizacja transportu, miejsca przeładunkowe tego słynnego szlaku. Będzie się też można dowiedzieć m.in. i tego, do czego służyły kupcom rzymskie amfiteatry…\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny. W przypadku pytań informacji udziela Dział Edukacji MNWr: tel. 71 372 51 48 lub edukacja@mnwr.pl.",
+      "image": "https://d-pa.ppstatic.pl/frames/pa-def/b4/6a/1_978000457_original.jpg",
+      "location": {
+        "name": "Muzeum Narodowe we Wrocławiu (Wrocław-Plac Grunwaldzki)",
+        "district": "Śródmieście"
+      },
+      "url": "https://wroclaw.naszemiasto.pl/oblicza-starozytnosci-jedwabny-szlak/kw/c5-3318275",
+      "source": "naszemiasto.pl",
+      "district": "Śródmieście",
+      "scrapped_url": "https://wroclaw.naszemiasto.pl/oblicza-starozytnosci-jedwabny-szlak/kw/c5-3318275",
+      "scrapped_timestamp": "2026-11-14T13:52:04.285575+00:00",
+      "category": "Educational",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Oblicza starożytności / Jedwabny Szlak",
+          "description": "Wykład dr. Mateusza Żmudzińskiego w ramach cyklu „Oblicza starożytności”\nJedwabny Szlak – 12 tysięcy kilometrów, które pokonywali kupcy podążając z zachodu na wschód i ze wschodu na zachód, przenosząc towary, idee, technologie, wierzenia i… zarazy. W trakcie wykładu omówione zostaną znane i nowo odkryte trasy lądowe oraz morskie, organizacja transportu, miejsca przeładunkowe tego słynnego szlaku. Będzie się też można dowiedzieć m.in. i tego, do czego służyły kupcom rzymskie amfiteatry…\nMuzeum Narodowe we Wrocławiu, spotkanie w sali audiowizualnej (s. 116), wstęp wolny. W przypadku pytań informacji udziela Dział Edukacji MNWr: tel. 71 372 51 48 lub edukacja@mnwr.pl."
+        },
+        "en": {
+          "title": "Faces of Antiquity / The Silk Road",
+          "description": "Lecture by Dr. Mateusz Żmudziński as part of the “Faces of Antiquity” series\nThe Silk Road – 12,000 kilometers traversed by merchants traveling from west to east and east to west, carrying goods, ideas, technologies, beliefs and… plagues. The lecture will discuss known and newly discovered land and sea routes, the organization of transport, and the transshipment points along this famous route. You will also learn, among other things, what Roman amphitheatres were used for by merchants…\nNational Museum in Wrocław, meeting in the audiovisual room (room 116), free admission. For questions, please contact the MNWr Education Department: tel. 71 372 51 48 or edukacja@mnwr.pl."
+        },
+        "uk": {
+          "title": "Обличчя давнини / Шовковий шлях",
+          "description": "Лекція д-ра Матеуша Жмудзінського в рамках циклу «Обличчя давнини»\nШовковий шлях — 12 тисяч кілометрів, які долали купці, прямуючи із заходу на схід і зі сходу на захід та перевозячи товари, ідеї, технології, вірування і… пошесті. Під час лекції буде розглянуто відомі та нещодавно відкриті сухопутні й морські маршрути, організацію перевезень і пункти перевантаження на цьому знаменитому шляху. Також можна буде дізнатися, зокрема, для чого римським купцям служили амфітеатри…\nНаціональний музей у Вроцлаві, зустріч в аудіовізуальній залі (зал 116), вхід вільний. Якщо у вас виникнуть запитання, інформацію надасть відділ освіти Національного музею у Вроцлаві: тел. 71 372 51 48 або edukacja@mnwr.pl."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-14T13:54:39.768907+00:00"
+    },
+    "obrazkowa-rolka-na-papierze-rysunkowa-opowie-w-formie-zwoju-o-tw-rcze-odkrycia-rodzinne-warsztaty-artystyczne-dla-dzieci-w-wieku-6-12-lat-2026-11-14T12:00:00+01:00": {
+      "title": "Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju | O! Twórcze odkrycia – rodzinne warsztaty artystyczne dla dzieci w wieku 6–12 lat",
+      "date": "2026-11-14T12:00:00+01:00",
+      "end_date": "2026-11-14T12:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,1410793cd.html",
+      "description": "Zapraszamy do udziału w zajęciach rodzinnych  organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\n**Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju\n\n\t14 listopada (sobota)\n\n\tgodz. 12.00–13.30**\n\n\tZapisy od 30 października(opens in new tab)\n\n\tPoznajmy „rolkę” w innym wydaniu, niż internetowe – w muzeum to papierowy zwój ukazujący rozległy widok lub ważne wydarzenie, liczący nawet kilka metrów! Z okazji Weekendu Niepodległości stworzymy jej własne wersje, rysując obrazki przedstawiające „małą ojczyznę” – dom, podwórko, szkołę – i uzupełniając je o powycinane fragmenty starych rycin.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat.",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/351-0-642-642f_w_141079_988b5.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul. Szewska 37 50-139 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "district": "Stare Miasto",
+      "scrapped_url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,1410793cd.html",
+      "scrapped_timestamp": "2026-11-14T13:52:14.852611+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts",
+        "Family Fun"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju | O! Twórcze odkrycia – rodzinne warsztaty artystyczne dla dzieci w wieku 6–12 lat",
+          "description": "Zapraszamy do udziału w zajęciach rodzinnych  organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\n**Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju\n\n\t14 listopada (sobota)\n\n\tgodz. 12.00–13.30**\n\n\tZapisy od 30 października(opens in new tab)\n\n\tPoznajmy „rolkę” w innym wydaniu, niż internetowe – w muzeum to papierowy zwój ukazujący rozległy widok lub ważne wydarzenie, liczący nawet kilka metrów! Z okazji Weekendu Niepodległości stworzymy jej własne wersje, rysując obrazki przedstawiające „małą ojczyznę” – dom, podwórko, szkołę – i uzupełniając je o powycinane fragmenty starych rycin.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat."
+        },
+        "en": {
+          "title": "Picture Scroll… on Paper – A Drawn Story in the Form of a Scroll | O! Creative Discoveries – Family Art Workshops for Children Aged 6–12",
+          "description": "We invite you to take part in family activities organized around the second edition of the permanent exhibition “O! Ossolineum. A Treasury Beneath the Dome”, entitled “The Visionary Librarian”.\n\n**Picture Scroll… on Paper – A Drawn Story in the Form of a Scroll\n\n\t14 November (Saturday)\n\n\t12:00–13:30**\n\n\tRegistration from 30 October (opens in new tab)\n\n\tLet’s discover a “scroll” in a different form from the internet kind – in a museum, it is a paper scroll showing a sweeping view or an important event, and can be several metres long! For Independence Weekend, we’ll create our own versions by drawing pictures depicting our “little homeland” – home, courtyard, school – and adding cut-out fragments of old engravings.\n\nAmong the priceless objects displayed there are medieval manuscripts, manuscripts of works by eminent p"
+        },
+        "uk": {
+          "title": "Ілюстрований ролик… на папері – мальована оповідь у формі сувою | О! Творчі відкриття – родинні мистецькі майстер-класи для дітей віком 6–12 років",
+          "description": "Запрошуємо взяти участь у сімейних  заняттях, організованих у рамках другої частини постійної виставки «О! Ossolineum. Скарбниця під Куполом» під назвою «Бібліотекар-Візіонер».\n\n**Ілюстрований ролик… на папері – мальована оповідь у формі сувою\n\n\t14 листопада (субота)\n\n\tо 12.00–13.30**\n\n\tРеєстрація з 30 жовтня(відкривається в новій вкладці)\n\n\tПознайомимося з «роликом» в іншому значенні, ніж в інтернеті, – у музеї це паперовий сувій із широким краєвидом або важливою подією, завдовжки навіть у кілька метрів! З нагоди Вікенду Незалежності ми створимо власні версії, намалювавши картинки, що зображують «маленьку батьківщину» – дім, подвір’я, школу, – і доповнивши їх вирізаними фрагментами старовинних гравюр.\n\nСеред представлених на ньому безцінних предметів є середньовічні манускрипти, рукописи творів видатних п"
+        }
+      },
+      "updated_at": "2026-11-14T13:54:39.768940+00:00"
+    },
+    "obrazkowa-rolka-na-papierze-rysunkowa-opowie-w-formie-zwoju-o-tw-rcze-odkrycia-w-ossolineum-2026-11-14T12:00:00+01:00": {
+      "title": "Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju | O! Twórcze odkrycia w Ossolineum",
+      "date": "2026-11-14T12:00:00+01:00",
+      "end_date": "2026-11-14T12:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,140973508.html",
+      "description": "Zapraszamy do udziału w zajęciach rodzinnych organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat.\n\n**Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju** **|** **Warsztat rodzinny realizowany w ramach cyklu \"O! Twórcze odkrycia - rodzinne warsztaty artystyczne w Ossolineum\"**\n\nWięcej informacji: https://www.ossolineum.pl/wydarzenia/o-tworcze-odkrycia/\n\nPoznajmy „rolkę” w innym wydaniu, niż internetowe – w muzeum to papierowy zwój ukazujący rozległy widok lub ważne wydarzenie, liczący nawet kilka metrów! Z okazji Weekendu Niepodległości stworzymy jej własne wersje, rysując obrazki przedstawiające „małą ojczyznę” – dom, podwórko, szkołę – i uzupełniając je o powycinane fragmenty starych rycin.",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/5-5-395-395f_w_140973_01bd0.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul. Szewska 37 50-139 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "age_range": {
+        "min": 6,
+        "max": 12
+      },
+      "district": "Stare Miasto",
+      "scrapped_url": "https://czasdzieci.pl/wroclaw/wydarzenia/id,140973508.html",
+      "scrapped_timestamp": "2026-11-14T13:52:30.729512+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts",
+        "Family Fun"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju | O! Twórcze odkrycia w Ossolineum",
+          "description": "Zapraszamy do udziału w zajęciach rodzinnych organizowanych wokół drugiej odsłony wystawy stałej „O! Ossolineum. Skarbiec pod Kopułą”, zatytułowanej „Bibliotekarz-Wizjoner”.\n\nWśród prezentowanych na niej bezcennych obiektów znajdują się średniowieczne manuskrypty, rękopisy dzieł wybitnych polskich pisarzy, grafika mierząca niemal trzy metry oraz złote i srebrne monety. Wiele lat temu znalazły swój nowy dom we Wrocławiu, a teraz staną się dla nas inspiracją do kreatywnych działań plastycznych. To okazja do wspólnej zabawy – zarówno dla dzieci, jak i opiekunów – oraz sposób na oswojenie muzealnej przestrzeni i nawiązanie kontaktu z kulturą już od najmłodszych lat.\n\n**Obrazkowa rolka… na papierze – rysunkowa opowieść w formie zwoju** **|** **Warsztat rodzinny realizowany w ramach cyklu \"O! Twórcze odkrycia - rodzinne warsztaty artystyczne w Ossolineum\"**\n\nWięcej informacji: https://www.ossolineum.pl/wydarzenia/o-tworcze-odkrycia/\n\nPoznajmy „rolkę” w innym wydaniu, niż internetowe – w muzeum to papierowy zwój ukazujący rozległy widok lub ważne wydarzenie, liczący nawet kilka metrów! Z okazji Weekendu Niepodległości stworzymy jej własne wersje, rysując obrazki przedstawiające „małą ojczyznę” – dom, podwórko, szkołę – i uzupełniając je o powycinane fragmenty starych rycin."
+        },
+        "en": {
+          "title": "Picture Scroll… on Paper – a Drawn Story in Scroll Form | O! Creative Discoveries at Ossolineum",
+          "description": "We invite you to take part in family activities organized around the second installment of the permanent exhibition “O! Ossolineum. Treasury Under the Dome,” entitled “The Visionary Librarian.”\n\nAmong the priceless objects on display are medieval manuscripts, handwritten works by outstanding Polish writers, a print measuring almost three meters, and gold and silver coins. Many years ago, they found a new home in Wrocław, and now they will inspire us to get creative with art. This is an opportunity to have fun together—for children and their caregivers alike—and a way to become familiar with the museum space and connect with culture from an early age.\n\n**Picture Scroll… on Paper – a Drawn Story in Scroll Form** **|** **Family workshop held as part of the “O! Tw"
+        },
+        "uk": {
+          "title": "Ілюстрований сувій… на папері — мальована оповідь у формі сувою | О! Творчі відкриття в Оссолінеумі",
+          "description": "Запрошуємо взяти участь у сімейних заняттях, організованих навколо другої частини постійної виставки «О! Оссолінеум. Скарбниця під Куполом» під назвою «Бібліотекар-візіонер».\n\nСеред представлених на ній безцінних експонатів — середньовічні манускрипти, рукописи творів видатних польських письменників, графічний твір завдовжки майже три метри, а також золоті й срібні монети. Багато років тому вони знайшли свій новий дім у Вроцлаві, а тепер стануть для нас натхненням для творчих мистецьких занять. Це нагода разом розважитися — і дітям, і дорослим, які їх супроводжують, — а також спосіб звикнути до музейного простору й познайомитися з культурою змалечку.\n\n**Ілюстрований сувій… на папері — мальована оповідь у формі сувою** **|** **Сімейний майстер-клас у рамках циклу «О! Тв"
+        }
+      },
+      "updated_at": "2026-11-14T13:54:39.768965+00:00"
+    },
+    "list-do-wi-tego-miko-aja-warsztaty-w-pasa-u-grunwaldzkim-2026-11-14T12:00:00+01:00": {
+      "title": "List do Świętego Mikołaja – warsztaty w Pasażu Grunwaldzkim",
+      "date": "2026-11-14T12:00:00+01:00",
+      "end_date": "2026-11-14T12:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Święta to doskonały moment, by na chwilę zwolnić, uruchomić wyobraźnię i przypomnieć sobie o marzeniach. W listopadzie w Pasażu Grunwaldzkim odbędzie się akcja „List do Świętego Mikołaja”. To zaproszenie do kreatywnej zabawy, która pozwoli spojrzeć na świąteczne życzenia nieco inaczej, nie tylko przez pryzmat prezentów, ale także tego, co naprawdę ważne.\n\nNie tylko lista prezentów – napisz o swoich marzeniach\n\nPrzy stoiskach artystycznych uczestnicy będą mogli skorzystać ze specjalnej przestrzeni do tworzenia świątecznych listów. Każdy będzie mógł własnoręcznie udekorować kartkę, puścić wodze fantazji i napisać kilka słów do Świętego Mikołaja.\n\nOrganizatorzy zachęcają, by tym razem odejść od tradycyjnej listy zakupów. Na papierze można zapisać największe marzenia, małe i wielkie pragnienia, a także życzenia dla siebie i najbliższych. Bo przecież nie wszystkie najważniejsze prezenty da się zapakować w ozdobny papier i przewiązać wstążką.\n\nŚwiąteczna kreatywność i wyjątkowe przedmioty\n\nAkcja odbędzie się podczas Dni Biżuterii i Ceramiki Artystycznej, które zagoszczą w Pasażu Grunwaldzkim. Wydarzenie będzie okazją do spotkania z twórcami oraz zakupu wyjątkowych, ręcznie wykonanych przedmiotów.\n\nTo propozycja dla wszystkich, którzy chcą poczuć świąteczną atmosferę, pobudzić kreatywność i przypomnieć sobie, że ten czas to coś więcej niż przedświąteczne zakupy. Liczą się bliskość, wyobraźnia, dobre życzenia i dziecięca radość, niezależnie od wieku.\n\nInformacje organizacyjne\n• Akcja „List do Świętego Mikołaja”: godz. 12:00–15:00\n• Miejsce: Pasaż Grunwaldzki we Wrocławiu, Główne Wejście na parterze\n• Dni Biżuterii i Ceramiki Artystycznej: godz. 9:00–21:00",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/7858dccc-5e66-4ce3-b2bb-8c223c27eec6/37e453f3-7aea-4769-bd92-07cff8bc009c.jpg",
+      "location": {
+        "name": "Pasaż Grunwaldzki, Plac Grunwaldzki 22, 50-363 Wrocław",
+        "district": "Śródmieście"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/list-do-swietego-mikolaja-warsztaty-w-pasazu-grunwaldzkim-7858dccc-5e66-4ce3-b2bb-8c223c27eec6",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/list-do-swietego-mikolaja-warsztaty-w-pasazu-grunwaldzkim-7858dccc-5e66-4ce3-b2bb-8c223c27eec6",
+      "scrapped_timestamp": "2026-11-14T13:52:44.509538+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Arts"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "List do Świętego Mikołaja – warsztaty w Pasażu Grunwaldzkim",
+          "description": "Święta to doskonały moment, by na chwilę zwolnić, uruchomić wyobraźnię i przypomnieć sobie o marzeniach. W listopadzie w Pasażu Grunwaldzkim odbędzie się akcja „List do Świętego Mikołaja”. To zaproszenie do kreatywnej zabawy, która pozwoli spojrzeć na świąteczne życzenia nieco inaczej, nie tylko przez pryzmat prezentów, ale także tego, co naprawdę ważne.\n\nNie tylko lista prezentów – napisz o swoich marzeniach\n\nPrzy stoiskach artystycznych uczestnicy będą mogli skorzystać ze specjalnej przestrzeni do tworzenia świątecznych listów. Każdy będzie mógł własnoręcznie udekorować kartkę, puścić wodze fantazji i napisać kilka słów do Świętego Mikołaja.\n\nOrganizatorzy zachęcają, by tym razem odejść od tradycyjnej listy zakupów. Na papierze można zapisać największe marzenia, małe i wielkie pragnienia, a także życzenia dla siebie i najbliższych. Bo przecież nie wszystkie najważniejsze prezenty da się zapakować w ozdobny papier i przewiązać wstążką.\n\nŚwiąteczna kreatywność i wyjątkowe przedmioty\n\nAkcja odbędzie się podczas Dni Biżuterii i Ceramiki Artystycznej, które zagoszczą w Pasażu Grunwaldzkim. Wydarzenie będzie okazją do spotkania z twórcami oraz zakupu wyjątkowych, ręcznie wykonanych przedmiotów.\n\nTo propozycja dla wszystkich, którzy chcą poczuć świąteczną atmosferę, pobudzić kreatywność i przypomnieć sobie, że ten czas to coś więcej niż przedświąteczne zakupy. Liczą się bliskość, wyobraźnia, dobre życzenia i dziecięca radość, niezależnie od wieku.\n\nInformacje organizacyjne\n• Akcja „List do Świętego Mikołaja”: godz. 12:00–15:00\n• Miejsce: Pasaż Grunwaldzki we Wrocławiu, Główne Wejście na parterze\n• Dni Biżuterii i Ceramiki Artystycznej: godz. 9:00–21:00"
+        },
+        "en": {
+          "title": "Letter to Santa Claus – Workshops at Pasaż Grunwaldzki",
+          "description": "The holidays are the perfect time to slow down for a moment, fire up your imagination and remember your dreams. In November, the “Letter to Santa Claus” event will take place at Pasaż Grunwaldzki. It’s an invitation to get creative and look at holiday wishes a little differently—not only in terms of presents, but also in terms of what really matters.\n\nNot just a gift list – write about your dreams\n\nAt the art stations, participants will be able to use a special space to create holiday letters. Everyone will be able to decorate a card by hand, let their imagination run wild and write a few words to Santa Claus.\n\nThe organizers encourage everyone to move away from the traditional shopping list this time. You can write down your biggest dreams, small and great wishes\nand wishes for your loved ones, or even words of gratitude for what we already have. It’s a chance to think about what brings us joy and how we want to spend the time ahead.\n\nReady-made templates, decorative materials and inspiring examples will also be available to help you get started. The workshops are open to everyone, regardless of age or artistic ability.\n\nLetters placed in a special mailbox will be entered into a contest. The most interesting entries will win prizes, and their authors will receive gifts.\n\nIt’s the perfect opportunity to find a moment for yourself amid the pre-holiday rush, spark your creativity and remember that the holidays begin with dreams."
+        },
+        "uk": {
+          "title": "Лист до Святого Миколая – майстер-класи в Пасажі Ґрунвальдському",
+          "description": "Свята — чудова нагода на мить сповільнитися, дати волю уяві й згадати про мрії. У листопаді в Пасажі Ґрунвальдському відбудеться акція «Лист до Святого Миколая». Це запрошення до творчої розваги, яка дасть змогу поглянути на святкові побажання трохи інакше — не лише крізь призму подарунків, а й зосередитися на тому, що справді важливе.\n\nНе лише список подарунків — напишіть про свої мрії\n\nБіля мистецьких стендів учасники зможуть скористатися спеціальним простором для створення святкових листів. Кожен зможе власноруч прикрасити листівку, дати волю фантазії та написати кілька слів Святому Миколаю.\n\nОрганізатори заохочують цього разу відійти від традиційного списку покупок. На папері можна записати найбільші мрії, маленькі й великі бажання"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Śródmieście",
+      "updated_at": "2026-11-14T13:54:39.768986+00:00"
+    },
+    "world-balloon-festival-festiwal-balonowych-rze-b-2026-11-14T17:00:00+01:00": {
+      "title": "World Balloon Festival – festiwal balonowych rzeźb",
+      "date": "2026-11-14T17:00:00+01:00",
+      "end_date": "2026-11-14T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Jedno miejsce. 5 światów. Ponad 100 000 balonów. We Wrocławiu już niebawem powstanie coś absolutnie wyjątkowego – World Balloon Festival, czyli pierwsze w Polsce miasto zbudowane w całości z powietrznych rzeźb. Ponad sto tysięcy balonów zamieni się w przestrzeń, w której każdy krok prowadzi do innego świata! Bilety na World Balloon Festival już w sprzedaży.\nWorld Balloon Festival informacje\nTarczyński Arena - Wrocław\nGodziny:\nPiątek 13.11.2026: 09:00 - 20:00\nSobota 14.11.2026: 09:00 - 20:00\nNiedziela 15.11.2026: 09:00 - 20:00\n\nWBF – Festiwal Balonów to powietrzna sztuka na gigantyczną skalę. Przekroczysz bramę do 5 zupełnie różnych krain - zobaczysz największe cuda światowej architektury, zanurzysz się w podwodnych głębinach, przelecisz przez galaktyki, spotkasz dzikie zwierzęta – całkowicie wykonane z misternie uplecionych balonów.\nKażdy detal – od filigranowych figurek po monumentalne konstrukcje – to owoc pracy międzynarodowych mistrzów, którzy tworzyli instalacje dla największych światowych produkcji. Ich realizacje oglądała już publiczność między innymi w Arabii Saudyjskiej, Belgii czy na Węgrzech.\nCzeka na Ciebie aż pięć niezwykłych stref, z których każda przenosi do zupełnie innego świata – od tropikalnej dżungli, aż po galaktyki i cuda architektury. Ponad 100 000 balonów tworzy spektakularne instalacje, które angażują zmysły i rozbudzają wyobraźnię. Powstają z naturalnego, biodegradowalnego materiału z drzewa kauczukowego. To dzięki niemu sztuka może być efektowna i ekologiczna jednocześnie.\n\nBalonowa dżungla\nWysokie palmy, małpy, papugi i pnącza, które dosłownie otaczają zwiedzających. Tropikalna przygoda, którą dzieci będą wspominać przez lata.\n\nWodny świat\nRafy koralowe, ośmiornice, syreny i statki pirackie. Wszystko w perłowych odcieniach błękitu. To miejsce, w którym można dosłownie poczuć klimat podwodnej przygody.\n\nPowietrzna architektura\nZnane na całym świecie budowle – m.in. Wieża Eiffla, Big Ben, Koloseum – odwzorowane z tysięcy lekkich kul, które tworzą niecodzienną panoramę miasta marzeń.\n\nKosmos i galaktyka\nPlanety, rakiety, kosmici i czarne dziury. To strefa, która przenosi w inne wymiary – wizualnie i emocjonalnie.\n\nStrefy instagramowe – ścianki foto\nZaaranżowane specjalnie do zdjęć. Zmienisz fotografię w prawdziwe dzieło, a relację w viral. Idealne do mediów społecznościowych – szczególnie jeśli chcesz, by Twoje wspomnienia trafiły do tysięcy odbiorców.\n\nZobacz, jak powstaje balonowa arcysztuka! Każdego dnia odbywać się będzie Balonowy Spektakl na żywo. Odkryjesz, jak z zaledwie kilku balonów powstaje figura, która mogłaby stanąć w prestiżowej przestrzeni artystycznej. Animatorzy, performerzy, balonowe rekwizyty – wszystko wciąga do świata, który żyje kolorem!\n\nTo także przestrzeń pełna radości dla najmłodszych. Dzieci mogą wziąć udział w kolorowym malowaniu buziek, stworzyć własne balonowe figurki podczas kreatywnych warsztatów, a także bawić się pod okiem doświadczonych animatorów, którzy prowadzą gry, zabawy i animacje dostosowane do wieku uczestników. Tu nikt się nie nudzi – nawet przez chwilę!\n\nZarezerwuj miejsce dla całej rodziny! World Balloon Festival – Festiwal Balonów - wydarzenie, które wznosi emocje w powietrze.\nWorld Balloon Festival bilety\nBilety ulgowe przysługują: dzieciom do 18 roku życia, uczniom i studentom do 26 roku życia, emerytom, rencistom i niepełnosprawnym (osoby korzystające z ulgi muszą przedstawić niezbędne dokumenty takie jak legitymacje, orzeczenia itp.)\nDla dzieci do ukończenia 2. roku życia – wstęp bezpłatny.\nLiczba biletów jest ograniczona: najlepsze godziny znikają w pierwszej kolejności\n\nWszelkie zaprezentowane grafiki wydarzenia mają charakter poglądowy - każda Wystawa World Balloon Festival jest wyjątkowa i może różnić się od zaprezentowanych obrazów, oferując zawsze jedyne w swoim rodzaju doświadczenie.\n\nRegulamin wydarzenia dostępny TUTAJ.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/0f505580-d537-4df0-a167-dcb1de6f8423/c1f53190-4e6d-4184-bf37-394ecf6cb37b.jpg",
+      "location": {
+        "name": "Tarczyński Arena Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/world-balloon-festival-festiwal-balonowych-rzezb-0f505580-d537-4df0-a167-dcb1de6f8423",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/world-balloon-festival-festiwal-balonowych-rzezb-0f505580-d537-4df0-a167-dcb1de6f8423",
+      "scrapped_timestamp": "2026-11-14T13:52:58.273895+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "World Balloon Festival – festiwal balonowych rzeźb",
+          "description": "Jedno miejsce. 5 światów. Ponad 100 000 balonów. We Wrocławiu już niebawem powstanie coś absolutnie wyjątkowego – World Balloon Festival, czyli pierwsze w Polsce miasto zbudowane w całości z powietrznych rzeźb. Ponad sto tysięcy balonów zamieni się w przestrzeń, w której każdy krok prowadzi do innego świata! Bilety na World Balloon Festival już w sprzedaży.\nWorld Balloon Festival informacje\nTarczyński Arena - Wrocław\nGodziny:\nPiątek 13.11.2026: 09:00 - 20:00\nSobota 14.11.2026: 09:00 - 20:00\nNiedziela 15.11.2026: 09:00 - 20:00\n\nWBF – Festiwal Balonów to powietrzna sztuka na gigantyczną skalę. Przekroczysz bramę do 5 zupełnie różnych krain - zobaczysz największe cuda światowej architektury, zanurzysz się w podwodnych głębinach, przelecisz przez galaktyki, spotkasz dzikie zwierzęta – całkowicie wykonane z misternie uplecionych balonów.\nKażdy detal – od filigranowych figurek po monumentalne konstrukcje – to owoc pracy międzynarodowych mistrzów, którzy tworzyli instalacje dla największych światowych produkcji. Ich realizacje oglądała już publiczność między innymi w Arabii Saudyjskiej, Belgii czy na Węgrzech.\nCzeka na Ciebie aż pięć niezwykłych stref, z których każda przenosi do zupełnie innego świata – od tropikalnej dżungli, aż po galaktyki i cuda architektury. Ponad 100 000 balonów tworzy spektakularne instalacje, które angażują zmysły i rozbudzają wyobraźnię. Powstają z naturalnego, biodegradowalnego materiału z drzewa kauczukowego. To dzięki niemu sztuka może być efektowna i ekologiczna jednocześnie.\n\nBalonowa dżungla\nWysokie palmy, małpy, papugi i pnącza, które dosłownie otaczają zwiedzających. Tropikalna przygoda, którą dzieci będą wspominać przez lata.\n\nWodny świat\nRafy koralowe, ośmiornice, syreny i statki pirackie. Wszystko w perłowych odcieniach błękitu. To miejsce, w którym można dosłownie poczuć klimat podwodnej przygody.\n\nPowietrzna architektura\nZnane na całym świecie budowle – m.in. Wieża Eiffla, Big Ben, Koloseum – odwzorowane z tysięcy lekkich kul, które tworzą niecodzienną panoramę miasta marzeń.\n\nKosmos i galaktyka\nPlanety, rakiety, kosmici i czarne dziury. To strefa, która przenosi w inne wymiary – wizualnie i emocjonalnie.\n\nStrefy instagramowe – ścianki foto\nZaaranżowane specjalnie do zdjęć. Zmienisz fotografię w prawdziwe dzieło, a relację w viral. Idealne do mediów społecznościowych – szczególnie jeśli chcesz, by Twoje wspomnienia trafiły do tysięcy odbiorców.\n\nZobacz, jak powstaje balonowa arcysztuka! Każdego dnia odbywać się będzie Balonowy Spektakl na żywo. Odkryjesz, jak z zaledwie kilku balonów powstaje figura, która mogłaby stanąć w prestiżowej przestrzeni artystycznej. Animatorzy, performerzy, balonowe rekwizyty – wszystko wciąga do świata, który żyje kolorem!\n\nTo także przestrzeń pełna radości dla najmłodszych. Dzieci mogą wziąć udział w kolorowym malowaniu buziek, stworzyć własne balonowe figurki podczas kreatywnych warsztatów, a także bawić się pod okiem doświadczonych animatorów, którzy prowadzą gry, zabawy i animacje dostosowane do wieku uczestników. Tu nikt się nie nudzi – nawet przez chwilę!\n\nZarezerwuj miejsce dla całej rodziny! World Balloon Festival – Festiwal Balonów - wydarzenie, które wznosi emocje w powietrze.\nWorld Balloon Festival bilety\nBilety ulgowe przysługują: dzieciom do 18 roku życia, uczniom i studentom do 26 roku życia, emerytom, rencistom i niepełnosprawnym (osoby korzystające z ulgi muszą przedstawić niezbędne dokumenty takie jak legitymacje, orzeczenia itp.)\nDla dzieci do ukończenia 2. roku życia – wstęp bezpłatny.\nLiczba biletów jest ograniczona: najlepsze godziny znikają w pierwszej kolejności\n\nWszelkie zaprezentowane grafiki wydarzenia mają charakter poglądowy - każda Wystawa World Balloon Festival jest wyjątkowa i może różnić się od zaprezentowanych obrazów, oferując zawsze jedyne w swoim rodzaju doświadczenie.\n\nRegulamin wydarzenia dostępny TUTAJ."
+        },
+        "en": {
+          "title": "World Balloon Festival – balloon sculpture festival",
+          "description": "One place. 5 worlds. Over 100,000 balloons. Something truly extraordinary will soon take shape in Wrocław – the World Balloon Festival, the first city in Poland built entirely from aerial sculptures. Over a hundred thousand balloons will transform the space into a place where every step leads to a different world! Tickets for the World Balloon Festival are on sale now.\nWorld Balloon Festival information\nTarczyński Arena - Wrocław\nHours:\nFriday 13.11.2026: 09:00 - 20:00\nSaturday 14.11.2026: 09:00 - 20:00\nSunday 15.11.2026: 09:00 - 20:00\n\nWBF – Balloon Festival is aerial art on a gigantic scale. You’ll pass through the gateway to 5 completely different realms – see the greatest wonders of world architecture, dive into the underwater depths, fly through galaxies, meet wild animals – completely"
+        },
+        "uk": {
+          "title": "World Balloon Festival – фестиваль повітряних скульптур",
+          "description": "Одне місце. 5 світів. Понад 100 000 повітряних кульок. Незабаром у Вроцлаві з’явиться щось абсолютно виняткове — World Balloon Festival, тобто перше в Польщі місто, повністю збудоване з повітряних скульптур. Понад сто тисяч повітряних кульок перетворяться на простір, де кожен крок веде до іншого світу! Квитки на World Balloon Festival уже в продажу.\nІнформація про World Balloon Festival\nTarczyński Arena - Вроцлав\nГодини роботи:\nП’ятниця 13.11.2026: 09:00 - 20:00\nСубота 14.11.2026: 09:00 - 20:00\nНеділя 15.11.2026: 09:00 - 20:00\n\nWBF — Фестиваль повітряних кульок — це повітряне мистецтво гігантського масштабу. Ви пройдете крізь браму до 5 абсолютно різних країн — побачите найбільші дива світової архітектури, зануритеся в підводні глибини, пролетите крізь галактики, зустрінете диких тварин — цілков"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.ebilet.pl/rodzina/pozostale/wbf-festiwal-balonow?partner=tradedoubler"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-11-14T13:54:39.769006+00:00"
+    },
+    "eonarium-genesis-immersyjny-pokaz-wietlny-2026-11-14T18:00:00+01:00": {
+      "title": "Eonarium Genesis – immersyjny pokaz świetlny",
+      "date": "2026-11-14T18:00:00+01:00",
+      "end_date": "2026-11-14T18:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "⭐ Eonarium prezentuje Genesis w Wrocławia: hipnotyzujące widowisko światła i dźwięku inspirowane historią stworzenia, które zachwyciło ponad 2 miliona widzów na całym świecie. Przeżyj moment narodzin Wszechświata dzięki olśniewającym wizualizacjom i porywającej ścieżce dźwiękowej w spektaklu, którego nie zapomnisz. Bilety są już w sprzedaży! Atrakcje 🌎 Podróż audiowizualna przedstawiająca historię stworzenia z nowej perspektywy 🎥 Najnowocześniejsze projekcje i mapowanie wideo przedstawiają światło, wodę, ziemię i naturę jak nigdy dotąd ✨ Spektakl podzielony na dni stworzenia i odpowiednio dobrana muzyka zapewniają jeszcze bardziej niesamowite wrażenia ⛪ Pokaz odbywa się w Katedrze św. Marii Magdaleny, niezwykłym miejscu idealnie dopasowanym do muzycznej atmosfery 🎻 Koncerty z muzyką na żywo ⛪ Przeżyj niezwykłą imersję muzyczną i wizualną. Skosztuj wyjątkowych wrażeń przy muzyce kwartetu smyczkowego na żywo w majestatycznej scenerii. Pod architektonicznym majestatem tej przestrzeni ożywają zniewalające melodie, a pasjonujące wykonania tworzą niezapomnianą podróż dla zmysłów. Informacje ogólne 📅 Terminy: wybierz datę i godzinę w selektorze biletów ⏳ Czas trwania: standardowy pokaz trwa 30 minut, a pokaz na żywo 45 minut 📍 Miejsce: Katedra św. Marii Magdaleny 👤 Wymagania wiekowe: najlepiej powyżej 2. roku życia, ale mile widziane są osoby w każdym wieku Wstęp dla dzieci poniżej 5. roku życia jest bezpłatny ♿ Dostępność: miejsce jest przystosowane do wózków inwalidzkich 🪑 Miejsca: posiadacze biletów standardowych mogą zajmować miejsca na ławkach, osoby z biletami premium – na pufach ❓ Zajrzyj na stronę z często zadawanymi pytaniami na temat tego wydarzenia tutaj Opis Genesis to niezwykłe świętowanie początków życia. Piękne animacje dopełnione muzyką, doskonale dopasowane do architektonicznych detali ścian i sufitów, w pełni wciągają widzów w opowieść. Najnowocześniejsza technologia i kreatywne animacje zapewniają wyjątkowe doświadczenie, które daje wgląd w powstawanie wszechświata, jaki znamy. Kup bilety na Eonarium Genesis: immersyjny pokaz świetlny we Wrocławiu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/258bc031-c760-430e-8845-000cddfa8b9c/a5464837-5d4d-4423-b295-58325fc30267.jpg",
+      "location": {
+        "name": "Punkt widokowy na Mostku Pokutnic",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/eonarium-genesis-immersyjny-pokaz-swietlny-258bc031-c760-430e-8845-000cddfa8b9c",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/eonarium-genesis-immersyjny-pokaz-swietlny-258bc031-c760-430e-8845-000cddfa8b9c",
+      "scrapped_timestamp": "2026-11-14T13:53:11.875680+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Eonarium Genesis – immersyjny pokaz świetlny",
+          "description": "⭐ Eonarium prezentuje Genesis w Wrocławia: hipnotyzujące widowisko światła i dźwięku inspirowane historią stworzenia, które zachwyciło ponad 2 miliona widzów na całym świecie. Przeżyj moment narodzin Wszechświata dzięki olśniewającym wizualizacjom i porywającej ścieżce dźwiękowej w spektaklu, którego nie zapomnisz. Bilety są już w sprzedaży! Atrakcje 🌎 Podróż audiowizualna przedstawiająca historię stworzenia z nowej perspektywy 🎥 Najnowocześniejsze projekcje i mapowanie wideo przedstawiają światło, wodę, ziemię i naturę jak nigdy dotąd ✨ Spektakl podzielony na dni stworzenia i odpowiednio dobrana muzyka zapewniają jeszcze bardziej niesamowite wrażenia ⛪ Pokaz odbywa się w Katedrze św. Marii Magdaleny, niezwykłym miejscu idealnie dopasowanym do muzycznej atmosfery 🎻 Koncerty z muzyką na żywo ⛪ Przeżyj niezwykłą imersję muzyczną i wizualną. Skosztuj wyjątkowych wrażeń przy muzyce kwartetu smyczkowego na żywo w majestatycznej scenerii. Pod architektonicznym majestatem tej przestrzeni ożywają zniewalające melodie, a pasjonujące wykonania tworzą niezapomnianą podróż dla zmysłów. Informacje ogólne 📅 Terminy: wybierz datę i godzinę w selektorze biletów ⏳ Czas trwania: standardowy pokaz trwa 30 minut, a pokaz na żywo 45 minut 📍 Miejsce: Katedra św. Marii Magdaleny 👤 Wymagania wiekowe: najlepiej powyżej 2. roku życia, ale mile widziane są osoby w każdym wieku Wstęp dla dzieci poniżej 5. roku życia jest bezpłatny ♿ Dostępność: miejsce jest przystosowane do wózków inwalidzkich 🪑 Miejsca: posiadacze biletów standardowych mogą zajmować miejsca na ławkach, osoby z biletami premium – na pufach ❓ Zajrzyj na stronę z często zadawanymi pytaniami na temat tego wydarzenia tutaj Opis Genesis to niezwykłe świętowanie początków życia. Piękne animacje dopełnione muzyką, doskonale dopasowane do architektonicznych detali ścian i sufitów, w pełni wciągają widzów w opowieść. Najnowocześniejsza technologia i kreatywne animacje zapewniają wyjątkowe doświadczenie, które daje wgląd w powstawanie wszechświata, jaki znamy. Kup bilety na Eonarium Genesis: immersyjny pokaz świetlny we Wrocławiu."
+        },
+        "en": {
+          "title": "Eonarium Genesis – immersive light show",
+          "description": "⭐ Eonarium presents Genesis in Wrocław: a mesmerizing light and sound show inspired by the story of creation, which has captivated over 2 million viewers around the world. Experience the birth of the Universe through dazzling visuals and a captivating soundtrack in a show you won’t forget. Tickets are on sale now! Attractions 🌎 An audiovisual journey presenting the story of creation from a new perspective 🎥 State-of-the-art projections and video mapping depict light, water, earth, and nature like never before ✨ A show divided into the days of creation, accompanied by carefully selected music, provides an even more incredible experience ⛪ The show takes place at St. Mary Magdalene Cathedral, an extraordinary venue perfectly suited to the musical atmosphere 🎻 Concerts with live music"
+        },
+        "uk": {
+          "title": "Eonarium Genesis – immersyjne widowisko świetlne",
+          "description": "⭐ Eonarium prezentuje Genesis we Wrocławiu: hipnotyzujące widowisko światła i dźwięku inspirowane historią stworzenia, które zachwyciło ponad 2 miliony widzów na całym świecie. Przeżyj moment narodzin Wszechświata dzięki olśniewającym wizualizacjom i porywającej ścieżce dźwiękowej w spektaklu, którego nie zapomnisz. Bilety są już w sprzedaży! Atrakcje 🌎 Podróż audiowizualna przedstawiająca historię stworzenia z nowej perspektywy 🎥 Najnowocześniejsze projekcje i mapowanie wideo przedstawiają światło, wodę, ziemię i naturę jak nigdy dotąd ✨ Spektakl podzielony na dni stworzenia i odpowiednio dobrana muzyka zapewniają jeszcze bardziej niesamowite wrażenia ⛪ Pokaz odbywa się w Katedrze św. Marii Magdaleny, niezwykłym miejscu idealnie dopasowanym do muzycznej atmosfery 🎻 Koncerty z muzyką na żyw"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-11-14T13:54:39.769026+00:00"
+    },
+    "klub-rodzica-warsztaty-aromatyczne-dla-dzieci-i-rodzic-w-2026-11-20T17:00:00+01:00": {
+      "title": "Klub Rodzica – warsztaty aromatyczne dla dzieci i rodziców",
+      "date": "2026-11-20T17:00:00+01:00",
+      "end_date": "2026-11-20T17:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na wspólne odkrywanie świata olejków eterycznych! Dzieci wraz z rodzicami poznają różnorodne aromaty i stworzą własną kompozycję zapachową. Co nas czeka?\nCzy dobry humor może mieć swój zapach? Poznamy olejki eteryczne - dowiemy się, skąd pochodzą i jak można je wykorzystywać na co dzień. Odkryjemy zapachy - poznamy aromaty cytrusów i mięty, będziemy je wąchać, porównywać i wybierać ulubione. Stworzymy własną kompozycję - wspólnie, pod okiem prowadzącej, skomponujemy wyjątkową mieszankę cytrusowo-miętową lub kwiatową.\nInformacje szczegółowe:\nWydarzenie dla dzieci od 5 lat wraz z opiekunem\nObowiązuje jeden bilet dla pary dziecko i opiekun.\nBilety ulgowe dla osób z aktywną kartą biblioteczną MBP Wrocław\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c6923cc7-2d62-4c33-92ea-4a6dcf6c67b1/8628be1f-9276-4a23-893d-703518db15f4.jpg",
+      "location": {
+        "name": "FAMA Centrum Biblioteczno-Kulturalne, Bolesława Krzywoustego 286, 51-312 Wrocław",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/klub-rodzica-warsztaty-aromatyczne-dla-dzieci-i-rodzicow-c6923cc7-2d62-4c33-92ea-4a6dcf6c67b1",
+      "source": "simplygo.pl",
+      "age_hint": "5-10",
+      "age_range": {
+        "min": 5,
+        "max": 10
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/klub-rodzica-warsztaty-aromatyczne-dla-dzieci-i-rodzicow-c6923cc7-2d62-4c33-92ea-4a6dcf6c67b1",
+      "scrapped_timestamp": "2026-11-14T13:53:23.859607+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Educational",
+        "Sensory Play"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Klub Rodzica – warsztaty aromatyczne dla dzieci i rodziców",
+          "description": "Zapraszamy na wspólne odkrywanie świata olejków eterycznych! Dzieci wraz z rodzicami poznają różnorodne aromaty i stworzą własną kompozycję zapachową. Co nas czeka?\nCzy dobry humor może mieć swój zapach? Poznamy olejki eteryczne - dowiemy się, skąd pochodzą i jak można je wykorzystywać na co dzień. Odkryjemy zapachy - poznamy aromaty cytrusów i mięty, będziemy je wąchać, porównywać i wybierać ulubione. Stworzymy własną kompozycję - wspólnie, pod okiem prowadzącej, skomponujemy wyjątkową mieszankę cytrusowo-miętową lub kwiatową.\nInformacje szczegółowe:\nWydarzenie dla dzieci od 5 lat wraz z opiekunem\nObowiązuje jeden bilet dla pary dziecko i opiekun.\nBilety ulgowe dla osób z aktywną kartą biblioteczną MBP Wrocław\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Parent Club – Aromatherapy Workshops for Children and Parents",
+          "description": "Join us to discover the world of essential oils together! Children and their parents will explore a variety of aromas and create their own fragrance blend. What’s in store?\nCan a good mood have its own scent? We’ll learn about essential oils—where they come from and how they can be used every day. We’ll discover scents—we’ll explore the aromas of citrus and mint, smell them, compare them, and choose our favorites. We’ll create our own blend—together, with the instructor’s guidance, we’ll compose a unique citrus-and-mint or floral blend.\nDetailed information:\nEvent for children aged 5 and up, accompanied by an adult\nOne ticket is required for each child-and-adult pair.\nDiscounted tickets are available to holders of an active MBP Wrocław library card\nParent Club is a series of regular literary, educational, and arts events for children"
+        },
+        "uk": {
+          "title": "Клуб батьків – ароматичний майстер-клас для дітей і батьків",
+          "description": "Запрошуємо разом відкрити світ ефірних олій! Діти разом із батьками познайомляться з різноманітними ароматами та створять власну ароматичну композицію. Що на нас чекає?\nЧи може гарний настрій мати свій аромат? Познайомимося з ефірними оліями — дізнаємося, звідки вони походять і як їх можна використовувати щодня. Відкриємо для себе аромати — познайомимося із запахами цитрусів і м’яти, нюхатимемо їх, порівнюватимемо та обиратимемо улюблені. Створимо власну композицію — разом, під керівництвом ведучої, складемо особливу цитрусово-м’ятну або квіткову суміш.\nДетальна інформація:\nЗахід для дітей від 5 років у супроводі дорослого\nПотрібен один квиток на пару: дитина та дорослий.\nПільгові квитки для осіб з активною бібліотечною карткою MBP Wrocław\nКлуб батьків — це регулярні літературні, освітні та мистецькі зустрічі для дітей"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/227458/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-14T13:54:39.769047+00:00"
+    },
+    "wi-teczna-ba-kolandia-spektakl-z-ba-kami-mydlanymi-2026-12-14T11:00:00+01:00": {
+      "title": "Świąteczna Bańkolandia – spektakl z bańkami mydlanymi",
+      "date": "2026-12-14T11:00:00+01:00",
+      "end_date": "2026-12-14T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wesoło-mydlana, śnieżno-magiczna historia dla całej rodziny!\nZapraszamy wszystkie dzieci i ich rodziny na niezapomnianą przygodę do krainy czarów i uśmiechu! \"Teatr Baniek Mydlanych\" zaprasza na wyjątkowy spektakl świąteczny - pełen kolorowych baniek, magii i dobrej zabawy: \"Świąteczna Bańkolandia\"! To nie jest zwykłe przedstawienie - to prawdziwe teatralne widowisko, w którym głównymi bohaterami są... bańki mydlane! Unoszą się nad sceną, tańczą w powietrzu i tworzą bajeczny świat, który zachwyca zarówno dzieci, jak i dorosłych.\nDla kogo jest ten spektakl? Dla wszystkich, którzy kochają dobrą zabawę, śmiech i magię świąt! Dla rodzin z dziećmi, przedszkoli, szkół, a także dla tych, którzy chcą na chwilę wrócić do beztroskiego dzieciństwa.\nO czym opowiada Świąteczna Bańkolandia? W odległej i cudownej krainie - Bańkolandii - nigdy nie widziano prawdziwego śniegu! Zbliżają się święta, a najlepsi uczniowie Magicznej Bubble Szkoły - urocza Mydlaneczka i energiczny Bąbelek - mają szalony pomysł: stworzyć śnieg z baniek mydlanych! Ale nie wszystko idzie zgodnie z planem... Mistrz Bulbulas, zmęczony przesłodzonymi historiami, kreuje własną bajkę o złym, krzywym zwierciadle - takim, które ukazuje wszystko co złe, a to co dobre - ukrywa. Mieszkańcy Bańkolandii zostają wciągnięci w wir niesamowitych przygód, a nasi bohaterowie muszą wykazać się odwagą, mądrością i... liczyć na pomoc widzów! To właśnie dzieci obecne na widowni mają ogromny wpływ na przebieg historii - mogą pomóc Mydlaneczce i Bąbelkowi uratować święta!\nDlaczego warto zobaczyć ten spektakl?\n• Unikalna forma - połączenie teatru, iluzji i widowiska bańkowego.\n• Interaktywna zabawa z dziećmi.\n• Świąteczny klimat i pozytywne przesłanie.\n• Kolorowa scenografia, muzyka i efekty specjalne.\n• 60 minut magii, śmiechu i rodzinnej radości!\nZabierz całą rodzinę i przeżyjcie razem niezapomnianą świąteczną przygodę! Niech \"Świąteczna Bańkolandia\" stanie się częścią Waszych najpiękniejszych wspomnień. Nie zwlekaj - liczba miejsc ograniczona! Zanurz się w magiczny świat baniek i odkryj najbardziej niezwykłe święta w roku!",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/91d01c7b-8473-4c28-bcda-6125af19c134/8b3e0086-55e1-4850-a0d0-997039a7e070.jpg",
+      "location": {
+        "name": "Sala Koncertowa Radia Wrocław, Aleja Karkonoska 10, 53-015 Wrocław",
+        "district": "Krzyki"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/swiateczna-bankolandia-spektakl-z-bankami-mydlanymi-91d01c7b-8473-4c28-bcda-6125af19c134",
+      "source": "simplygo.pl",
+      "age_hint": "3-10",
+      "age_range": {
+        "min": 3,
+        "max": 10
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/swiateczna-bankolandia-spektakl-z-bankami-mydlanymi-91d01c7b-8473-4c28-bcda-6125af19c134",
+      "scrapped_timestamp": "2026-11-14T13:53:37.975446+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Świąteczna Bańkolandia – spektakl z bańkami mydlanymi",
+          "description": "Wesoło-mydlana, śnieżno-magiczna historia dla całej rodziny!\nZapraszamy wszystkie dzieci i ich rodziny na niezapomnianą przygodę do krainy czarów i uśmiechu! \"Teatr Baniek Mydlanych\" zaprasza na wyjątkowy spektakl świąteczny - pełen kolorowych baniek, magii i dobrej zabawy: \"Świąteczna Bańkolandia\"! To nie jest zwykłe przedstawienie - to prawdziwe teatralne widowisko, w którym głównymi bohaterami są... bańki mydlane! Unoszą się nad sceną, tańczą w powietrzu i tworzą bajeczny świat, który zachwyca zarówno dzieci, jak i dorosłych.\nDla kogo jest ten spektakl? Dla wszystkich, którzy kochają dobrą zabawę, śmiech i magię świąt! Dla rodzin z dziećmi, przedszkoli, szkół, a także dla tych, którzy chcą na chwilę wrócić do beztroskiego dzieciństwa.\nO czym opowiada Świąteczna Bańkolandia? W odległej i cudownej krainie - Bańkolandii - nigdy nie widziano prawdziwego śniegu! Zbliżają się święta, a najlepsi uczniowie Magicznej Bubble Szkoły - urocza Mydlaneczka i energiczny Bąbelek - mają szalony pomysł: stworzyć śnieg z baniek mydlanych! Ale nie wszystko idzie zgodnie z planem... Mistrz Bulbulas, zmęczony przesłodzonymi historiami, kreuje własną bajkę o złym, krzywym zwierciadle - takim, które ukazuje wszystko co złe, a to co dobre - ukrywa. Mieszkańcy Bańkolandii zostają wciągnięci w wir niesamowitych przygód, a nasi bohaterowie muszą wykazać się odwagą, mądrością i... liczyć na pomoc widzów! To właśnie dzieci obecne na widowni mają ogromny wpływ na przebieg historii - mogą pomóc Mydlaneczce i Bąbelkowi uratować święta!\nDlaczego warto zobaczyć ten spektakl?\n• Unikalna forma - połączenie teatru, iluzji i widowiska bańkowego.\n• Interaktywna zabawa z dziećmi.\n• Świąteczny klimat i pozytywne przesłanie.\n• Kolorowa scenografia, muzyka i efekty specjalne.\n• 60 minut magii, śmiechu i rodzinnej radości!\nZabierz całą rodzinę i przeżyjcie razem niezapomnianą świąteczną przygodę! Niech \"Świąteczna Bańkolandia\" stanie się częścią Waszych najpiękniejszych wspomnień. Nie zwlekaj - liczba miejsc ograniczona! Zanurz się w magiczny świat baniek i odkryj najbardziej niezwykłe święta w roku!"
+        },
+        "en": {
+          "title": "Christmas Bubbleland – a soap bubble show",
+          "description": "A bubbly, snowy-magical story for the whole family!\nWe invite all children and their families on an unforgettable adventure to a land of wonder and smiles! The \"Soap Bubble Theatre\" invites you to a unique Christmas show—full of colorful bubbles, magic and fun: \"Christmas Bubbleland\"! This is no ordinary performance—it’s a true theatrical spectacle in which the main characters are... soap bubbles! They float above the stage, dance in the air and create a fairy-tale world that delights both children and adults.\nWho is this show for? For everyone who loves fun, laughter and the magic of Christmas! For families with children, preschools, schools, and anyone who wants to return for a moment to the carefree days of childhood.\nWhat is Christmas Bubbleland about? In a distant and"
+        },
+        "uk": {
+          "title": "Святкова Бульбашкова країна – вистава з мильними бульбашками",
+          "description": "Весела, мильно-сніжно-магічна історія для всієї родини!\nЗапрошуємо всіх дітей та їхні родини на незабутню пригоду до країни чудес і усмішок! «Театр Мильних Бульбашок» запрошує на особливу святкову виставу — сповнену кольорових бульбашок, магії та веселощів: «Святкова Бульбашкова країна»! Це не звичайна вистава — це справжнє театральне видовище, у якому головні герої — мильні бульбашки! Вони здіймаються над сценою, танцюють у повітрі й створюють казковий світ, який захоплює і дітей, і дорослих.\nДля кого ця вистава? Для всіх, хто любить веселощі, сміх і магію свят! Для родин із дітьми, дитячих садків, шкіл, а також для тих, хто хоче хоча б на мить повернутися в безтурботне дитинство.\nПро що розповідає «Святкова Бульбашкова країна»? У далекій і"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/201597/wroclaw/teatr-baniek-mydlanych-swiateczna-bankolandia?utm_source=pp&utm_medium=604"
+      },
+      "district": "Krzyki",
+      "updated_at": "2026-11-14T13:54:39.769068+00:00"
+    },
+    "l-za-wroc-aw-enea-azs-politechnika-pozna-karnety-2026-11-29T18:00:00+01:00": {
+      "title": "Ślęza Wrocław – Enea AZS Politechnika Poznań – karnety",
+      "date": "2026-11-29T18:00:00+01:00",
+      "end_date": "2026-11-29T18:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Przy zakupie karnetu do 31.08 kupujący otrzymają gratis klubową koszulkę projektu Macieja Świętego. Koszulki będą dostępne w rozmiarach unisex, prosimy o podanie preferowanych rozmiarów na adres mailowy bilety@slezawroclaw.pl Koszulki są gratisem do karnetów normalnych i ulgowych, promocja nie obejmuje darmowych karnetów dla dzieci do 6. roku życia.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/7eee63a7-d934-4ef2-b2be-db64400d6ff9/6dde30ca-4305-4c08-9ef5-de43bbb8f729.jpg",
+      "location": {
+        "name": "KGHM Ślęza Arena, Kłokoczycka 1, Wrocław",
+        "district": "Psie Pole"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/sport/wydarzenie/sleza-wroclaw-enea-azs-politechnika-poznan-karnety-7eee63a7-d934-4ef2-b2be-db64400d6ff9",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/sport/wydarzenie/sleza-wroclaw-enea-azs-politechnika-poznan-karnety-7eee63a7-d934-4ef2-b2be-db64400d6ff9",
+      "scrapped_timestamp": "2026-11-14T13:53:51.089819+00:00",
+      "category": "Sports",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Ślęza Wrocław – Enea AZS Politechnika Poznań – karnety",
+          "description": "Przy zakupie karnetu do 31.08 kupujący otrzymają gratis klubową koszulkę projektu Macieja Świętego. Koszulki będą dostępne w rozmiarach unisex, prosimy o podanie preferowanych rozmiarów na adres mailowy bilety@slezawroclaw.pl Koszulki są gratisem do karnetów normalnych i ulgowych, promocja nie obejmuje darmowych karnetów dla dzieci do 6. roku życia."
+        },
+        "en": {
+          "title": "Ślęza Wrocław – Enea AZS Politechnika Poznań – season tickets",
+          "description": "When purchasing a season ticket by 31 August, buyers will receive a free club T-shirt designed by Maciej Święty. T-shirts will be available in unisex sizes; please send your preferred sizes to bilety@slezawroclaw.pl. The T-shirts are free with full-price and discounted season tickets; the promotion does not apply to free season tickets for children under 6."
+        },
+        "uk": {
+          "title": "Ślęza Wrocław – Enea AZS Politechnika Poznań – абонементи",
+          "description": "При купівлі абонемента до 31.08 покупці отримають у подарунок клубну футболку за дизайном Мацея Свєнтого. Футболки будуть доступні в унісекс-розмірах, просимо повідомити бажані розміри на електронну адресу bilety@slezawroclaw.pl Футболки додаються безкоштовно до звичайних і пільгових абонементів, акція не поширюється на безкоштовні абонементи для дітей до 6 років."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Psie Pole",
+      "updated_at": "2026-11-14T13:54:39.769102+00:00"
+    },
+    "spektakl-dla-dzieci-o-feliksach-dw-ch-2026-12-05T11:00:00+01:00": {
+      "title": "Spektakl dla dzieci – O Feliksach dwóch",
+      "date": "2026-12-05T11:00:00+01:00",
+      "end_date": "2026-12-05T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "\"O Feliksach dwóch\" to historia opowiadająca o sile marzeń i podążaniu za głosem swojego serca. Mały lisek Feliks wychowuje się w rodzinie w której łapanie i tropienie kur jest najważniejszą umiejętnością przekazywaną sobie z pokolenia na pokolenie. Robił tak pradziadek lis, dziadek lis, tata lis i teraz przyszła kolej na Feliksa. Okazuje się jednak, że jego największym marzeniem jest...śpiew! Bardzo nietypowo jak na małego liska. Opór rodziny jest ogromny tak samo jak chęć śpiewania. Czy Feliksowi uda się spełnić marzenie i przekonać do tego swoich bliskich?\nReżyseria: Magdalena Młynarczyk\nLalki lisów: Alicja Helfojer\nScenariusz: praca zespołowa\nWystępują:\nEwa Butrym\nDaryna Mihdal\nWydarzenie dla dzieci w wieku powyżej 4 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/b3507797-a2bf-46a5-894e-22d184b4209e/342e7b14-9ca9-4483-993f-232010103c58.jpg",
+      "location": {
+        "name": "Miejska Biblioteka Publiczna im. T. Różewicza we Wrocławiu, Filia 5, ul. Namysłowska 8, 50-332 Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spektakl-dla-dzieci-o-feliksach-dwoch-b3507797-a2bf-46a5-894e-22d184b4209e",
+      "source": "simplygo.pl",
+      "age_hint": "5-10",
+      "age_range": {
+        "min": 5,
+        "max": 10
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/dla-dzieci/wydarzenie/spektakl-dla-dzieci-o-feliksach-dwoch-b3507797-a2bf-46a5-894e-22d184b4209e",
+      "scrapped_timestamp": "2026-11-14T13:53:59.853802+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Spektakl dla dzieci – O Feliksach dwóch",
+          "description": "\"O Feliksach dwóch\" to historia opowiadająca o sile marzeń i podążaniu za głosem swojego serca. Mały lisek Feliks wychowuje się w rodzinie w której łapanie i tropienie kur jest najważniejszą umiejętnością przekazywaną sobie z pokolenia na pokolenie. Robił tak pradziadek lis, dziadek lis, tata lis i teraz przyszła kolej na Feliksa. Okazuje się jednak, że jego największym marzeniem jest...śpiew! Bardzo nietypowo jak na małego liska. Opór rodziny jest ogromny tak samo jak chęć śpiewania. Czy Feliksowi uda się spełnić marzenie i przekonać do tego swoich bliskich?\nReżyseria: Magdalena Młynarczyk\nLalki lisów: Alicja Helfojer\nScenariusz: praca zespołowa\nWystępują:\nEwa Butrym\nDaryna Mihdal\nWydarzenie dla dzieci w wieku powyżej 4 lat.\nObowiązuje jeden bilet dla pary: dziecko i opiekun.\nBilety ulgowe dla osób z kartą biblioteczną MBP Wrocław.\nMiejsce przyjazne osobom z niepełnosprawnością ruchową.\nKlub Rodzica to cykliczne spotkania literackie, edukacyjne i artystyczne dla dzieci i ich opiekunów odbywające się w wybranych filiach Miejskiej Biblioteki Publicznej im. Tadeusza Różewicza we Wrocławiu."
+        },
+        "en": {
+          "title": "Children’s performance – About Two Felixes",
+          "description": "\"About Two Felixes\" is a story about the power of dreams and following your heart. The little fox Feliks is growing up in a family where catching and tracking chickens is the most important skill, passed down from generation to generation. His great-grandfather fox did it, his grandfather fox did it, his father fox did it, and now it is Feliks’s turn. It turns out, however, that his biggest dream is... singing! A very unusual thing for a little fox to dream of. His family’s resistance is just as strong as his desire to sing. Will Feliks manage to make his dream come true and convince his loved ones?\nDirected by: Magdalena Młynarczyk\nFox puppets: Alicja Helfojer\nScript: collaborative work\nCast:\nEwa Butrym\nDaryna Mihdal\nFor children aged 4 and up.\nOne ticket is required per pair: child and accompanying adult.\nDiscounted tick"
+        },
+        "uk": {
+          "title": "Дитяча вистава – Про двох Феліксів",
+          "description": "\"Про двох Феліксів\" — це історія про силу мрій і про те, як важливо йти за покликом свого серця. Маленький лисеня Фелікс росте в родині, де ловити й вистежувати курей — найважливіше вміння, яке передають із покоління в покоління. Так робили прадід-лис, дідусь-лис, тато-лис, і тепер настала черга Фелікса. Однак виявляється, що його найбільша мрія — це... співати! Дуже нетипово для маленького лисеняти. Опір родини такий же великий, як і бажання співати. Чи вдасться Феліксу здійснити свою мрію та переконати в цьому близьких?\nРежисура: Магдалена Млинарчик\nЛяльки лисів: Аліція Гельфойєр\nСценарій: колективна робота\nУ виставі беруть участь:\nЕва Бутрим\nДарина Міхдал\nЗахід для дітей віком від 4 років.\nДіє один квиток на пару: дитина й супроводжуючий дорослий.\nПільгові квитки"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/227639/wroclaw/klub-rodzica?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-11-14T13:54:39.769124+00:00"
+    },
+    "najpi-kniejsze-wi-teczne-przeboje-koncert-przy-wiecach-2026-12-12T18:00:00+01:00": {
+      "title": "Najpiękniejsze świąteczne przeboje – koncert przy świecach",
+      "date": "2026-12-12T18:00:00+01:00",
+      "end_date": "2026-12-12T18:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Dreamlive Concerts zaprasza na wyjątkowy koncert przy świecach Najpiękniejsze Świąteczne Przeboje - wieczór pełen muzyki, ciepła i atmosfery, za którą każdego roku tęsknimy najbardziej. Są melodie, które wracają do nas tylko raz w roku, a mimo to znamy je niemal od pierwszych dźwięków. Przywołują wspomnienia, zapach choinki, zimowe wieczory i chwile spędzone z najbliższymi. Tego wieczoru pozwól sobie na moment zwolnić i poczuć magię nadchodzących Świąt.\nW blasku tysiąca świec oraz przy subtelnych projekcjach świetlnych zabrzmią najbardziej znane świąteczne przeboje w instrumentalnych aranżacjach na kwartet smyczkowy. To muzyczna podróż przez różne pokolenia świątecznych hitów - od ponadczasowej elegancji utworów znanych z wykonań Franka Sinatry, przez ciepłe, stylowe brzmienie Michaela Bublé, aż po współczesne świąteczne przeboje Sii, Mariah Carey i innych artystów, którzy stworzyli muzykę nieodłącznie związaną z grudniową atmosferą.\nPodczas koncertu usłyszysz m.in.:\nIt's Beginning to Look a Lot Like Christmas\nLet It Snow! Let It Snow! Let It Snow!\nHave Yourself a Merry Little Christmas\nWhite Christmas\nSanta Claus Is Coming to Town\nJingle Bell Rock\nFeliz Navidad\nSnowman\nAll I Want for Christmas Is You... i wiele innych.\nW aranżacjach kwartetu smyczkowego dobrze znane melodie nabiorą nowego charakteru - bardziej eleganckiego, nastrojowego i wypełnionego otulającym ciepłem smyczkowego brzmienia. Obok romantycznych i nostalgicznych momentów nie zabraknie też tanecznej lekkości, radości i energii, dzięki którym trudno oprzeć się prawdziwie świątecznej atmosferze. To właśnie te utwory mają w sobie coś wyjątkowego - przez większość roku niemal ich nie słyszymy, a kiedy wracają w grudniu, potrafią w jednej chwili wprawić nas w Świąteczny nastrój.\nTo koncert dla tych, którzy chcą na chwilę zostawić przedświąteczny pośpiech za drzwiami i spędzić wieczór wypełniony piękną muzyką, światłem i atmosferą, która przypomina, za co tak naprawdę kochamy ten czas w roku. Usiądź w blasku tysiąca świec, wsłuchaj się w pierwsze dźwięki i pozwól, żeby magia Świąt zaczęła się właśnie tutaj.\n• Repertuar może ulec drobnym modyfikacjom.\nINFORMACJE DODATKOWE:\n• Wydarzenie organizowane jest przez Dreamlive Concerts -- ogólnopolską markę koncertową specjalizującą się w kameralnych koncertach przy świecach.\nDreamlive Concerts tworzy wyjątkowe wydarzenia muzyczne w eleganckiej, nastrojowej oprawie, łącząc muzykę filmową, klasykę, pop oraz koncerty tribute największych artystów.\n• Czas trwania koncertu to około 60 minut.\n• Otwarcie bram/wejście na salę - 20 minut przed rozpoczęciem koncertu.\n• Miejsca będą wskazywane Państwu zgodnie z zakupioną strefą, dlatego prosimy o wcześniejsze przybycie.\n• Zastrzegamy sobie prawo do niewpuszczania na salę po rozpoczęciu koncertu, aby nie zakłócać odbioru innym uczestnikom oraz muzykom, lub do wpuszczania osób spóźnionych jedynie w trakcie przerwy na brawa.\n• Minimalny wiek gości to 8 lat. Osoby poniżej 16 roku życia prosimy o przybycie na wydarzenie w towarzystwie osoby dorosłej.\n• Szczegółowe zasady udziału w wydarzeniu oraz pozostałe kwestie organizacyjne określa Regulamin koncertu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/6b65fae8-77b1-48b5-b75e-d52219aedc0c/8ea53b63-0fa5-4fac-b3e2-f8175d39ebb8.jpg",
+      "location": {
+        "name": "Centrum Kultury Nowy Pafawag, ul. Chociebuska 4-6, 54-433 Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/najpiekniejsze-swiateczne-przeboje-koncert-przy-swiecach-6b65fae8-77b1-48b5-b75e-d52219aedc0c",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/najpiekniejsze-swiateczne-przeboje-koncert-przy-swiecach-6b65fae8-77b1-48b5-b75e-d52219aedc0c",
+      "scrapped_timestamp": "2026-11-14T13:54:12.658047+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Seasonal Festival"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Najpiękniejsze świąteczne przeboje – koncert przy świecach",
+          "description": "Dreamlive Concerts zaprasza na wyjątkowy koncert przy świecach Najpiękniejsze Świąteczne Przeboje - wieczór pełen muzyki, ciepła i atmosfery, za którą każdego roku tęsknimy najbardziej. Są melodie, które wracają do nas tylko raz w roku, a mimo to znamy je niemal od pierwszych dźwięków. Przywołują wspomnienia, zapach choinki, zimowe wieczory i chwile spędzone z najbliższymi. Tego wieczoru pozwól sobie na moment zwolnić i poczuć magię nadchodzących Świąt.\nW blasku tysiąca świec oraz przy subtelnych projekcjach świetlnych zabrzmią najbardziej znane świąteczne przeboje w instrumentalnych aranżacjach na kwartet smyczkowy. To muzyczna podróż przez różne pokolenia świątecznych hitów - od ponadczasowej elegancji utworów znanych z wykonań Franka Sinatry, przez ciepłe, stylowe brzmienie Michaela Bublé, aż po współczesne świąteczne przeboje Sii, Mariah Carey i innych artystów, którzy stworzyli muzykę nieodłącznie związaną z grudniową atmosferą.\nPodczas koncertu usłyszysz m.in.:\nIt's Beginning to Look a Lot Like Christmas\nLet It Snow! Let It Snow! Let It Snow!\nHave Yourself a Merry Little Christmas\nWhite Christmas\nSanta Claus Is Coming to Town\nJingle Bell Rock\nFeliz Navidad\nSnowman\nAll I Want for Christmas Is You... i wiele innych.\nW aranżacjach kwartetu smyczkowego dobrze znane melodie nabiorą nowego charakteru - bardziej eleganckiego, nastrojowego i wypełnionego otulającym ciepłem smyczkowego brzmienia. Obok romantycznych i nostalgicznych momentów nie zabraknie też tanecznej lekkości, radości i energii, dzięki którym trudno oprzeć się prawdziwie świątecznej atmosferze. To właśnie te utwory mają w sobie coś wyjątkowego - przez większość roku niemal ich nie słyszymy, a kiedy wracają w grudniu, potrafią w jednej chwili wprawić nas w Świąteczny nastrój.\nTo koncert dla tych, którzy chcą na chwilę zostawić przedświąteczny pośpiech za drzwiami i spędzić wieczór wypełniony piękną muzyką, światłem i atmosferą, która przypomina, za co tak naprawdę kochamy ten czas w roku. Usiądź w blasku tysiąca świec, wsłuchaj się w pierwsze dźwięki i pozwól, żeby magia Świąt zaczęła się właśnie tutaj.\n• Repertuar może ulec drobnym modyfikacjom.\nINFORMACJE DODATKOWE:\n• Wydarzenie organizowane jest przez Dreamlive Concerts -- ogólnopolską markę koncertową specjalizującą się w kameralnych koncertach przy świecach.\nDreamlive Concerts tworzy wyjątkowe wydarzenia muzyczne w eleganckiej, nastrojowej oprawie, łącząc muzykę filmową, klasykę, pop oraz koncerty tribute największych artystów.\n• Czas trwania koncertu to około 60 minut.\n• Otwarcie bram/wejście na salę - 20 minut przed rozpoczęciem koncertu.\n• Miejsca będą wskazywane Państwu zgodnie z zakupioną strefą, dlatego prosimy o wcześniejsze przybycie.\n• Zastrzegamy sobie prawo do niewpuszczania na salę po rozpoczęciu koncertu, aby nie zakłócać odbioru innym uczestnikom oraz muzykom, lub do wpuszczania osób spóźnionych jedynie w trakcie przerwy na brawa.\n• Minimalny wiek gości to 8 lat. Osoby poniżej 16 roku życia prosimy o przybycie na wydarzenie w towarzystwie osoby dorosłej.\n• Szczegółowe zasady udziału w wydarzeniu oraz pozostałe kwestie organizacyjne określa Regulamin koncertu."
+        },
+        "en": {
+          "title": "The Most Beautiful Christmas Hits – Candlelight Concert",
+          "description": "Dreamlive Concerts invites you to a unique candlelight concert, The Most Beautiful Christmas Hits—a night filled with music, warmth, and the atmosphere we long for most each year. There are melodies that return to us only once a year, and yet we know them almost from the very first notes. They bring back memories, the scent of the Christmas tree, winter evenings, and moments spent with our loved ones. This evening, let yourself slow down for a moment and feel the magic of the coming holidays.\nIn the glow of a thousand candles and accompanied by subtle light projections, the best-known Christmas hits will ring out in instrumental arrangements for string quartet. It’s a musical journey through generations of holiday hits—from the timeless elegance of songs made famous by Frank Sinatra to the warm, stylish sound of Michael Bub"
+        },
+        "uk": {
+          "title": "Найкрасивіші різдвяні хіти — концерт при свічках",
+          "description": "Dreamlive Concerts запрошує на особливий концерт при свічках «Найкрасивіші різдвяні хіти» — вечір, сповнений музики, тепла й атмосфери, за якою ми щороку сумуємо найбільше. Є мелодії, які повертаються до нас лише раз на рік, але ми впізнаємо їх майже з перших нот. Вони пробуджують спогади, запах ялинки, зимові вечори та миті, проведені з найріднішими. Цього вечора дозволь собі на мить сповільнитися й відчути магію прийдешніх свят.\nУ сяйві тисячі свічок і під супровід витончених світлових проєкцій пролунають найвідоміші різдвяні хіти в інструментальних аранжуваннях для струнного квартету. Це музична подорож крізь покоління різдвяних хітів — від позачасової елегантності творів у виконанні Френка Сінатри до теплого, стильного звучання Майкла Буб"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/227739/wroclaw/najpiekniejsze-swiateczne-przeboje-koncert-przy-swiecach?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-11-14T13:54:39.769144+00:00"
+    },
+    "wi-teczna-muzyka-filmowa-koncert-przy-wiecach-2026-12-12T20:00:00+01:00": {
+      "title": "Świąteczna muzyka filmowa – koncert przy świecach",
+      "date": "2026-12-12T20:00:00+01:00",
+      "end_date": "2026-12-12T20:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Dreamlive Concerts zaprasza na wyjątkowy koncert przy świecach z najpiekniejszą Świąteczną Muzyką Filmową - wieczór pełen melodii, które od lat towarzyszą najbardziej ukochanym świątecznym historiom. Są filmy, do których wracamy niemal co roku. Wystarczy kilka pierwszych dźwięków, aby znów zobaczyć zaśnieżony dom Kevina, poczuć magię podróży Ekspresem Polarnym albo przypomnieć sobie najbardziej wzruszające sceny z ulubionych świątecznych opowieści.\nTego wieczoru to właśnie muzyka stanie się przewodnikiem po świecie świątecznego kina. W blasku tysiąca świec oraz przy subtelnych projekcjach świetlnych zabrzmią najbardziej rozpoznawalne motywy z filmów świątecznych w wyjątkowych aranżacjach na kwartet smyczkowy. Ciepłe brzmienie smyczków, filmowe melodie i nastrojowa oprawa pozwolą na chwilę zostawić codzienność za drzwiami i zanurzyć się w atmosferze grudniowych historii.\nPodczas koncertu usłyszysz muzykę z filmów:\n• Kevin sam w domu\n• Ekspres polarny\n• To właśnie miłość (Love Actually)\n• Holiday\n• Grinch: Świąt nie będzie\n• Opowieść wigilijna\n• Elf\n• Święta Last Minute\n• Klaus... i wielu innych.\nW programie pojawią się również znane zimowe i świąteczne motywy z innych kultowych produkcji filmowych, w których zimowa magia i niezwykła atmosfera odgrywają równie ważną rolę - między innymi z Harry'ego Pottera. W aranżacjach kwartetu smyczkowego dobrze znane filmowe melodie nabiorą nowego charakteru - bardziej eleganckiego, nastrojowego i wypełnionego ciepłem smyczkowego brzmienia. Raz będzie baśniowo i wzruszająco, chwilę później lekko, radośnie i z odrobiną filmowego humoru.\nTo koncert dla tych, którzy kochają świąteczne kino i chcą jeszcze raz poczuć emocje towarzyszące historiom, które każdego roku wracają na nasze ekrany. Usiądź w blasku tysiąca świec, wsłuchaj się w pierwsze dźwięki i pozwól muzyce zabrać Cię prosto do świata najbardziej ukochanych świątecznych filmów.\n*Repertuar może ulec drobnym modyfikacjom.\nINFORMACJE DODATKOWE:\n• Wydarzenie organizowane jest przez Dreamlive Concerts -- ogólnopolską markę koncertową specjalizującą się w kameralnych koncertach przy świecach.\nDreamlive Concerts tworzy wyjątkowe wydarzenia muzyczne w eleganckiej, nastrojowej oprawie, łącząc muzykę filmową, klasykę, pop oraz koncerty tribute największych artystów.\n• Czas trwania koncertu to około 60 minut.\n• Otwarcie bram/wejście na salę - 20 minut przed rozpoczęciem koncertu.\n• Miejsca będą wskazywane Państwu zgodnie z zakupioną strefą, dlatego prosimy o wcześniejsze przybycie.\n• Zastrzegamy sobie prawo do niewpuszczania na salę po rozpoczęciu koncertu, aby nie zakłócać odbioru innym uczestnikom oraz muzykom, lub do wpuszczania osób spóźnionych jedynie w trakcie przerwy na brawa.\n• Minimalny wiek gości to 8 lat. Osoby poniżej 16 roku życia prosimy o przybycie na wydarzenie w towarzystwie osoby dorosłej.\n• Szczegółowe zasady udziału w wydarzeniu oraz pozostałe kwestie organizacyjne określa Regulamin koncertu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/c6e64564-3517-4836-9d31-001c1275e8bd/df624463-206f-4199-a481-6c2d031afe70.jpg",
+      "location": {
+        "name": "Centrum Kultury Nowy Pafawag, ul. Chociebuska 4-6, 54-433 Wrocław",
+        "district": "Fabryczna"
+      },
+      "url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/swiateczna-muzyka-filmowa-koncert-przy-swiecach-c6e64564-3517-4836-9d31-001c1275e8bd",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/wroclaw/rozrywka/wydarzenie/swiateczna-muzyka-filmowa-koncert-przy-swiecach-c6e64564-3517-4836-9d31-001c1275e8bd",
+      "scrapped_timestamp": "2026-11-14T13:54:23.942390+00:00",
+      "category": "Music & Dance",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Świąteczna muzyka filmowa – koncert przy świecach",
+          "description": "Dreamlive Concerts zaprasza na wyjątkowy koncert przy świecach z najpiekniejszą Świąteczną Muzyką Filmową - wieczór pełen melodii, które od lat towarzyszą najbardziej ukochanym świątecznym historiom. Są filmy, do których wracamy niemal co roku. Wystarczy kilka pierwszych dźwięków, aby znów zobaczyć zaśnieżony dom Kevina, poczuć magię podróży Ekspresem Polarnym albo przypomnieć sobie najbardziej wzruszające sceny z ulubionych świątecznych opowieści.\nTego wieczoru to właśnie muzyka stanie się przewodnikiem po świecie świątecznego kina. W blasku tysiąca świec oraz przy subtelnych projekcjach świetlnych zabrzmią najbardziej rozpoznawalne motywy z filmów świątecznych w wyjątkowych aranżacjach na kwartet smyczkowy. Ciepłe brzmienie smyczków, filmowe melodie i nastrojowa oprawa pozwolą na chwilę zostawić codzienność za drzwiami i zanurzyć się w atmosferze grudniowych historii.\nPodczas koncertu usłyszysz muzykę z filmów:\n• Kevin sam w domu\n• Ekspres polarny\n• To właśnie miłość (Love Actually)\n• Holiday\n• Grinch: Świąt nie będzie\n• Opowieść wigilijna\n• Elf\n• Święta Last Minute\n• Klaus... i wielu innych.\nW programie pojawią się również znane zimowe i świąteczne motywy z innych kultowych produkcji filmowych, w których zimowa magia i niezwykła atmosfera odgrywają równie ważną rolę - między innymi z Harry'ego Pottera. W aranżacjach kwartetu smyczkowego dobrze znane filmowe melodie nabiorą nowego charakteru - bardziej eleganckiego, nastrojowego i wypełnionego ciepłem smyczkowego brzmienia. Raz będzie baśniowo i wzruszająco, chwilę później lekko, radośnie i z odrobiną filmowego humoru.\nTo koncert dla tych, którzy kochają świąteczne kino i chcą jeszcze raz poczuć emocje towarzyszące historiom, które każdego roku wracają na nasze ekrany. Usiądź w blasku tysiąca świec, wsłuchaj się w pierwsze dźwięki i pozwól muzyce zabrać Cię prosto do świata najbardziej ukochanych świątecznych filmów.\n*Repertuar może ulec drobnym modyfikacjom.\nINFORMACJE DODATKOWE:\n• Wydarzenie organizowane jest przez Dreamlive Concerts -- ogólnopolską markę koncertową specjalizującą się w kameralnych koncertach przy świecach.\nDreamlive Concerts tworzy wyjątkowe wydarzenia muzyczne w eleganckiej, nastrojowej oprawie, łącząc muzykę filmową, klasykę, pop oraz koncerty tribute największych artystów.\n• Czas trwania koncertu to około 60 minut.\n• Otwarcie bram/wejście na salę - 20 minut przed rozpoczęciem koncertu.\n• Miejsca będą wskazywane Państwu zgodnie z zakupioną strefą, dlatego prosimy o wcześniejsze przybycie.\n• Zastrzegamy sobie prawo do niewpuszczania na salę po rozpoczęciu koncertu, aby nie zakłócać odbioru innym uczestnikom oraz muzykom, lub do wpuszczania osób spóźnionych jedynie w trakcie przerwy na brawa.\n• Minimalny wiek gości to 8 lat. Osoby poniżej 16 roku życia prosimy o przybycie na wydarzenie w towarzystwie osoby dorosłej.\n• Szczegółowe zasady udziału w wydarzeniu oraz pozostałe kwestie organizacyjne określa Regulamin koncertu."
+        },
+        "en": {
+          "title": "Christmas Film Music – Candlelight Concert",
+          "description": "Dreamlive Concerts invites you to a special candlelight concert featuring the most beautiful Christmas film music—a night full of melodies that have accompanied the most beloved Christmas stories for years. There are films we return to almost every year. Just a few opening notes are enough to see Kevin’s snow-covered house again, feel the magic of a journey on the Polar Express, or recall the most moving scenes from our favorite Christmas tales.\nThis evening, music itself will guide you through the world of Christmas cinema. In the glow of a thousand candles and accompanied by subtle light projections, the most recognizable themes from Christmas films will be performed in exceptional arrangements for string quartet. The warm sound of the strings, cinematic melodies, and atmospheric setting will let you, for a moment"
+        },
+        "uk": {
+          "title": "Різдвяна кіномузика – концерт при свічках",
+          "description": "Dreamlive Concerts запрошує на особливий концерт при свічках із найпрекраснішою різдвяною кіномузикою — вечір, сповнений мелодій, які вже багато років супроводжують найулюбленіші різдвяні історії. Є фільми, до яких ми повертаємося майже щороку. Достатньо почути кілька перших звуків, щоб знову побачити засніжений будинок Кевіна, відчути магію подорожі Полярним експресом або згадати найзворушливіші сцени з улюблених різдвяних історій.\nЦього вечора саме музика стане провідником у світ різдвяного кіно. У сяйві тисячі свічок і під акомпанемент делікатних світлових проєкцій прозвучать найвідоміші мотиви з різдвяних фільмів в особливих аранжуваннях для струнного квартету. Тепле звучання струнних, кіномелодії та атмосферне оформлення дозволять на мить "
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/227742/wroclaw/swiateczna-muzyka-filmowa-koncert-przy-swiecach?utm_source=pp&utm_medium=604"
+      },
+      "district": "Fabryczna",
+      "updated_at": "2026-11-14T13:54:39.769163+00:00"
     }
   }
 }

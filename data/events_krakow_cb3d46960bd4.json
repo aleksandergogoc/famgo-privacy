@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T13:34:10.331910+00:00",
+  "updated_at": "2026-11-15T13:53:24.749096+00:00",
   "events": {
     "interaktywne-humorystyczne-widowisko-z-wykonaniem-do-wiadcze-chemicznych-i-fizycznych-na-ywo-2026-11-26": {
       "source_url": "https://www.kupbilecik.pl/imprezy/201459/Krak%C3%B3w/Szaleni+Naukowcy+Show+-+naukowo-muzyczne+show+dla+dzieci/?utm_source=pp&utm_medium=604",
@@ -1370,45 +1370,49 @@
       "updated_at": "2026-09-26T11:14:15.082663+00:00"
     },
     "kidsy-targi-dzieci-ce-jakich-jeszcze-nie-by-o-2026-12-05T10:00:00+01:00": {
-      "title": "KIDSY- Targi dziecięce, jakich jeszcze nie było!",
+      "title": "KIDSY – targi dziecięce, jakich jeszcze nie było",
       "date": "2026-12-05T10:00:00+01:00",
       "end_date": "2026-12-05T10:00:00+01:00",
       "startTimeKnown": true,
-      "description": "KIDSY - Targi dziecięce, jakich jeszcze nie było! Dla dzieci i rodziców. Kiedy: 5-6 grudnia Gdzie: EXPO Kraków, Galicyjska 9 Zgłoś markę Otwórz formularz DO 15.09 -10% OD CEN WYJŚCIOWYCH. Szczegóły wkrótce! Więcej informacji",
-      "image": "https://gojammin.com/_next/image?url=https%3A%2F%2Fmedia-jammin-prod.s3.eu-central-1.amazonaws.com%2Fprocessed_events%2Fe341ed3f-074e-4e56-b74a-a712156d6db0.jpg&w=3840&q=60",
-      "url": "https://gojammin.com/pl-PL/events/e341ed3f-074e-4e56-b74a-a712156d6db0",
-      "source": "gojammin.com",
-      "district": "Czyżyny",
+      "description": "Targi dziecięce dla dzieci i rodziców, które odbędą się 5-6 grudnia w EXPO Kraków, przy ul. Galicyjskiej 9.\n\nNa targach znajdziesz 8 stref tematycznych, a także znane firmy polskiej branży dziecięcej i premierowe marki. Program obejmuje zajęcia dla dzieci oraz warsztaty dla rodziców.\n\nWydarzenie skierowane jest do kobiet w ciąży i po porodzie, rodzin z dziećmi w wieku od 0 do 8 lat oraz wszystkich zainteresowanych tematyką parentingową.\n\nSzczegóły:\n• Termin: 5-6 grudnia\n• Miejsce: EXPO Kraków, Galicyjska 9\n• Do 10 października obowiązuje -10% od cen wyjściowych\n\nMarkę można zgłosić przez formularz: https://tally.so/r/QKkz2p\n\nWięcej informacji: http://targikidsy.pl/",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/f74e499b-52b8-4845-88c5-01b440d8ce89/1dc95ac1-5b37-4605-bc22-26f22af84869.jpg",
       "location": {
-        "name": "Galicyjska 9, 31-586 Kraków, Poland",
+        "name": "EXPO Kraków",
         "district": "Czyżyny"
       },
-      "scrapped_url": "https://gojammin.com/pl-PL/events/e341ed3f-074e-4e56-b74a-a712156d6db0",
-      "scrapped_timestamp": "2026-11-14T13:28:59.120553+00:00",
-      "category": "Family Fun",
+      "url": "https://simplygo.pl/wydarzenia/krakow/dla-dzieci/wydarzenie/kidsy-targi-dzieciece-jakich-jeszcze-nie-bylo-f74e499b-52b8-4845-88c5-01b440d8ce89",
+      "source": "simplygo.pl",
+      "age_hint": "0-8",
       "age_range": {
-        "min": 3,
-        "max": 12
+        "min": 0,
+        "max": 8
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/krakow/dla-dzieci/wydarzenie/kidsy-targi-dzieciece-jakich-jeszcze-nie-bylo-f74e499b-52b8-4845-88c5-01b440d8ce89",
+      "scrapped_timestamp": "2026-11-15T13:53:11.887200+00:00",
+      "category": "Family Fun",
+      "additional_categories": [
+        "Workshops"
+      ],
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "KIDSY- Targi dziecięce, jakich jeszcze nie było!",
-          "description": "KIDSY - Targi dziecięce, jakich jeszcze nie było! Dla dzieci i rodziców. Kiedy: 5-6 grudnia Gdzie: EXPO Kraków, Galicyjska 9 Zgłoś markę Otwórz formularz DO 15.09 -10% OD CEN WYJŚCIOWYCH. Szczegóły wkrótce! Więcej informacji"
+          "title": "KIDSY – targi dziecięce, jakich jeszcze nie było",
+          "description": "Targi dziecięce dla dzieci i rodziców, które odbędą się 5-6 grudnia w EXPO Kraków, przy ul. Galicyjskiej 9.\n\nNa targach znajdziesz 8 stref tematycznych, a także znane firmy polskiej branży dziecięcej i premierowe marki. Program obejmuje zajęcia dla dzieci oraz warsztaty dla rodziców.\n\nWydarzenie skierowane jest do kobiet w ciąży i po porodzie, rodzin z dziećmi w wieku od 0 do 8 lat oraz wszystkich zainteresowanych tematyką parentingową.\n\nSzczegóły:\n• Termin: 5-6 grudnia\n• Miejsce: EXPO Kraków, Galicyjska 9\n• Do 10 października obowiązuje -10% od cen wyjściowych\n\nMarkę można zgłosić przez formularz: https://tally.so/r/QKkz2p\n\nWięcej informacji: http://targikidsy.pl/"
         },
         "en": {
-          "title": "KIDSY - A children's fair like no other!",
-          "description": "KIDSY - A children's fair like no other! For children and parents. When: December 5–6 Where: EXPO Kraków, Galicyjska 9 Register your brand Open the form BY 15.09 -10% OFF STARTING PRICES. More details soon! More information"
+          "title": "KIDSY – a children's fair like no other",
+          "description": "A children's fair for children and parents, taking place on December 5–6 at EXPO Kraków, 9 Galicyjska Street.\n\nAt the fair, you'll find 8 themed zones, as well as well-known companies from the Polish children's industry and brand-new brands. The program includes activities for children and workshops for parents.\n\nThe event is aimed at women who are pregnant or have recently given birth, families with children aged 0 to 8, and anyone interested in parenting.\n\nDetails:\n• Dates: December 5–6\n• Venue: EXPO Kraków, 9 Galicyjska Street\n• 10% off the standard prices until October 10\n\nYou can register your brand using the form: https://tally.so/r/QKkz2p\n\nMore information: http://targikidsy.pl/"
         },
         "uk": {
-          "title": "KIDSY- Дитячий ярмарок, якого ще не було!",
-          "description": "KIDSY - Дитячий ярмарок, якого ще не було! Для дітей та батьків. Коли: 5-6 грудня Де: EXPO Kraków, Galicyjska 9 Подайте заявку на участь бренду Відкрити форму ДО 15.09 -10% ВІД СТАРТОВИХ ЦІН. Деталі незабаром! Більше інформації"
+          "title": "KIDSY – дитячий ярмарок, якого ще не було",
+          "description": "Дитячий ярмарок для дітей і батьків, який відбудеться 5–6 грудня в EXPO Kraków, за адресою: вул. Галицька, 9.\n\nНа ярмарку ви знайдете 8 тематичних зон, а також відомі компанії польської індустрії дитячих товарів і бренди, які вперше представлять свою продукцію. У програмі — заняття для дітей і майстер-класи для батьків.\n\nЗахід призначений для вагітних жінок і жінок після пологів, сімей із дітьми віком від 0 до 8 років, а також усіх, хто цікавиться темою батьківства.\n\nДеталі:\n• Дата: 5–6 грудня\n• Місце: EXPO Kraków, вул. Галицька, 9\n• До 10 жовтня діє знижка 10% від початкових цін\n\nПодати заявку на участь бренду можна через форму: https://tally.so/r/QKkz2p\n\nБільше інформації: http://targikidsy.pl/"
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": true
       },
-      "updated_at": "2026-11-14T13:32:48.304392+00:00"
+      "district": "Czyżyny",
+      "updated_at": "2026-11-15T13:53:24.531383+00:00"
     },
     "y-sobie-pies-2026-12-21T15:00:00+01:00": {
       "title": "„Żył sobie Pies”",
@@ -8720,92 +8724,97 @@
       "updated_at": "2026-11-03T15:12:13.408992+00:00"
     },
     "aladyn-jr-musical-krakowskiej-akademii-musicalu-2026-11-24T09:00:00+01:00": {
-      "title": "„Aladyn JR” – musical Krakowskiej Akademii Musicalu",
+      "title": "Aladyn JR – musical Krakowskiej Akademii Musicalu",
       "date": "2026-11-24T09:00:00+01:00",
       "end_date": "2026-11-24T09:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Kup bilet\n\n•\n\n„Aladyn JR” – musical Krakowskiej Akademii Musicalu\n\nMusical ALADYN JR to broadwayowska adaptacja scenicznych oscarowego filmu animowanego Walt Disney Company „Aladdin” z 1992 r. Pierwotny film powstał w oparciu o „Baśnie z 1001 nocy”, znane także, jako „Opowieści Szeherezady”. Twórcy uwspółcześnili przesłanie tej dawnej historii, przypisując bohaterom motywacje, które łatwiej zrozumieć współczesnemu młodemu odbiorcy.\n\nUliczny złodziejaszek Aladyn poznaje przypadkiem piękną i zbuntowaną księżniczkę Jasmin, która uciekła właśnie z pałacu przed niechcianym małżeństwem. Chłopiec, pojmany przez gwardzistów złego wezyra Dżafara, znajduje pomoc u Dżina spełniającego trzy życzenia i – jako „książę Ali” – prosi o rękę Jasmin. Tylko, czy młody ulicznik będzie wiarygodny w przebraniu, które nie do końca mu pasuje? I jak przyjmie go księżniczka, marząca o prawdziwym Aladynie?\n\nAtutem tego porywającego, zabawnego i pouczającego widowiska są piękne, melodyjne piosenki z muzyką Alana Menkena, nagrodzonego za „Aladyna” dwoma Oscarami, oraz ponadczasowe przesłanie, że mimo wszelkich pokus losu, zawsze warto być sobą. Co, oczywiście, nie zawsze jest proste.\n\nPrzedstawienie trwa ok. 1 godziny 15 minut i zawiera większość znanych piosenek z filmu oraz jedną nową. Spektakl jest bez ograniczeń wiekowych.\n\nKrakowska Akademia Musicalu, założona w 2019 r. przez dyrygenta, dra Tadeusza Płatka ma na swoim koncie m.in. owacyjnie przyjęte premiery musicali – Lew Król sawanny, Hanka, Grease – Powrót legendy, Magia Lodu, Shrek, Piękna i Bestia, Legalna Blondynka, czy High School Musical 2, na który jako pierwsza szkoła w Polsce uzyskała licencję Disney-MTI Music Shows.\n\nmuzyka – **Alan Menken** libretto: **Howard Ashman i Tim Rice** tłumaczenie: **Tadeusz Płatek, Maria Zarycka** reżyseria/video – **Artur Wołoch**\n\nasystent reżysera – **Julia Turczynowicz-Suszycka** choreografia: **Natalia Soboń, Sabina Onderka** asystent kierownika muzycznego – **Małgorzata Chyła**\n\nkostiumy – **Magdalena Wesołowska-Kuta** reżyseria światła – **Mateusz Kołodziej** reżyseria dźwięku: **Szczepan Sołtys, Paweł Kostuj**\n\nmikroporty – **Dariusz Rzepiszczak** realizacja video – **Maciej Kycler** kierownictwo muzyczne, produkcja – **Tadeusz Płatek**\n\n**Występują (Uczniowie Krakowskiej Akademii Musicalu):**\n\n **Kornelia Chatłas, Marzena Ciuła, Eliza Dewera, Alicja Dewera, Daria Gladus, Zuzanna Skoczylas, Izabela Gumuła, Natasza Paluch, Milena Jakubiak, Beniamin Jakubiak, Antonina Jędrzczak-Grzesiak, Kamelia Kirejczyk, Adam Klasiński, Amelia Krzysztofik-Woch, Zuzia Kułaj, Martyna Kurleto, Marcela Kurleto, Margerita Melnychuk, Weronika Obrębska, Łucja Olszewska, Viera Pavlova, Pola Porębska, Iga Piaskowska, Wiktoria Przybyło, Helena Supanenka, Łucja Szymczyk, Marysia Walaszek, Joanna Weksej, Aleksandra  Włodek, Mila Wojnicka, Iga Barańska, Lena Chwyć, Jagoda Goraj, Blanka Hanarz, Ola Jazowska, Zosia Kułaj, Tobiasz Walaszek, Ada Marczak, Laura Mazuga, Laura  Meinardi-Sadowska, Lena Wąsowicz, Nina Wójcik, Oliwia Zemła, Hania Homenda, Małgorzata Przebinda, Matylda Ślusarczyk, Nikolas Tverberg, Anfisa Vasilieva, Rita Walaszek, Oliwia Przybyło, Marcel Rams, Irena Różańska, Jan Walaszek, Hanna Sagan, Hanna Sznyterman, Ania Mróz, Evelina Pieczara, Piotr Babiarski, Jagoda Biała, Natalia Bulsza, Ola Skórkowska, Alicja Drelicharz, Tosia Gimińska, Wiktoria Gowin, Magda Gumuła, Maja Hancock, Anna Hermut, Maria Jacko, Inga Krummel, Paweł Kucharczyk, Jaśmina Kwiecińska, Maja  Kysela, Michał Maruszczak, Wiktoria Miodek, Jan Dybiec, Lidia Ostrowska, Lena Pieculewicz, Melanie Pieczara, Krył Zhuk, Natasza Taborska, Antonina Bukowy, Stanisław Wołkowski, Anna Gwara, Emilia Sapała, Maja Sąsiadek, Marcelina Płatek, Stella Notopulos, Anna Ptaszek, Sonia Biernat, Alina Zontek-Lipka, Jagoda Szałańska, Maja Walasek, Julia Waligóra, Magnus Lubomirski-Aksamit, Łucja Machnik, Nina Lech, Oliwia Lech, Roman Vasiliev, Amelia Wandas, Aurora Bzura Van de Walle, Oliwia Majewska, Aleksandra Micek, Camilla Nowicka, Zuzanna Lepiarz, Serena Lubomirska-Aksamit, Natalia Lech, Kira Efimova, Zofia Głuszak, Zofia Kalita, Maria Kalita, Julia Miernik, Alicja Rybak, Zuzanna Starek, Zara Żesławska-Zając, Emilia Markiewicz, Natalia Weksej, Maja Zgliczyńska, Kaja łomnicka, Karolina Sochacka, Maja Zgórkiewicz, Julia Castiglione-Basiewicz, Maja Duras, Hanna Liss, Franek Majewski, Helena Migas, Paulina Riedel, Maria Tiupa**\n\n**sugerowany wiek: 4+**\n\n**czas trwania: 70 minut**\n\n                        Wtorek, 24.11.2026, Scena NCK\n                                                        godz.  **09:00**\n\n                                godz.  **11:30**\n\n                                godz.  **18:00**\n\n                        Środa, 25.11.2026, Scena NCK\n                                                        godz.  **09:00**\n\n                                godz.  **11:30**\n\n                                godz.  **18:00**\n\n                        Wtorek, 15.12.2026, Scena NCK\n                                                        godz.  **09:00**\n\n                                godz.  **11:30**\n\n                                godz.  **18:00**\n\n                        Środa, 16.12.2026, Scena NCK\n                                                        godz.  **09:00**\n\n                                godz.  **11:30**\n\n                                godz.  **18:00**\n\n                                        Bilet na spektakle o g. 9.00 i 11.30 - 70 / 60 zł\nBilet na spektakle o g. 18.00 - 80 / 60 zł\nBilet grupowy - 50 zł\n\nInformacje i rezerwacja:\n\nBiuro Organizacji Widowni\n\ntelefon: 12 644 02 66 wew. 55\n\ne-mail: REZERWACJA@NCK.KRAKOW.PL\n\nOsoby z niepełnosprawnością ruchową prosimy o wcześniejszy kontakt z Biurem Organizacji Widowni w celu wyznaczenia miejsc.\n\nPierwszy i drugi rząd widowni Sceny NCK jest wyposażony w pętlę indukcyjną dla osób słabosłyszących.",
-      "image": "https://nck.krakow.pl/wp-content/uploads/2026/01/aladyn_kam-2026-850.png",
+      "description": "Musical ALADYN JR to broadwayowska adaptacja sceniczna oscarowego filmu animowanego Walt Disney Company „Aladdin” z 1992 r. Film powstał na podstawie „Baśni z 1001 nocy”, znanych także jako „Opowieści Szeherezady”. Twórcy uwspółcześnili przesłanie tej dawnej historii, nadając bohaterom motywacje łatwiejsze do zrozumienia dla współczesnego młodego odbiorcy.\n\nUliczny złodziejaszek Aladyn przypadkiem poznaje piękną i zbuntowaną księżniczkę Jasmin, która uciekła właśnie z pałacu przed niechcianym małżeństwem. Chłopiec, pojmany przez gwardzistów złego wezyra Dżafara, znajduje pomoc u Dżina spełniającego trzy życzenia i – jako „książę Ali” – prosi o rękę Jasmin. Pytanie, czy młody ulicznik będzie wiarygodny w przebraniu, które nie do końca mu pasuje, i jak przyjmie go księżniczka, marząca o prawdziwym Aladynie.\n\nAtutem widowiska są piękne, melodyjne piosenki z muzyką Alana Menkena, nagrodzonego za „Aladyna” dwoma Oscarami, oraz ponadczasowe przesłanie, że mimo wszelkich pokus losu zawsze warto być sobą. Co, oczywiście, nie zawsze jest proste.\n\nPrzedstawienie trwa ok. 1 godziny 15 minut i zawiera większość znanych piosenek z filmu oraz jedną nową. Spektakl jest bez ograniczeń wiekowych, sugerowany wiek: 4+. Czas trwania: 70 minut.\n\nKrakowska Akademia Musicalu, założona w 2019 r. przez dyrygenta, dra Tadeusza Płatka, ma na swoim koncie m.in. owacyjnie przyjęte premiery musicali: Lew Król sawanny, Hanka, Grease – Powrót legendy, Magia Lodu, Shrek, Piękna i Bestia, Legalna Blondynka oraz High School Musical 2, na który jako pierwsza szkoła w Polsce uzyskała licencję Disney-MTI Music Shows.\n\nTwórcy:\n• muzyka – Alan Menken\n• libretto: Howard Ashman i Tim Rice\n• tłumaczenie: Tadeusz Płatek, Maria Zarycka\n• reżyseria/video – Artur Wołoch\n• asystent reżysera – Julia Turczynowicz-Suszycka\n• choreografia: Natalia Soboń, Sabina Onderka\n• kostiumy – Magdalena Wesołowska-Kuta\n• reżyseria światła – Mateusz Kołodziej\n• reżyseria dźwięku: Szczepan Sołtys, Paweł Kostuj\n• kierownictwo muzyczne, produkcja – Tadeusz Płatek\n\nWystępują uczniowie Krakowskiej Akademii Musicalu: Kornelia Chatłas, Marzena Ciuła, Eliza Dewera, Alicja Dewera, Daria Gladus, Zuzanna Skoczylas, Izabela Gumuła, Natasza Paluch, Milena Jakubiak, Beniamin Jakubiak, Antonina Jędrzczak-Grzesiak, Kamelia Kirejczyk, Adam Klasiński, Amelia Krzysztofik-Woch, Zuzia Kułaj, Martyna Kurleto, Marcela Kurleto, Margerita Melnychuk, Weronika Obrębska, Łucja Olszewska, Viera Pavlova, Pola Porębska, Iga Piaskowska, Wiktoria Przybyło, Helena Supanenka, Łucja Szymczyk, Marysia Walaszek, Joanna Weksej, Aleksandra Włodek, Mila Wojnicka, Iga Barańska, Lena Chwyć, Jagoda Goraj, Blanka Hanarz, Ola Jazowska, Zosia Kułaj, Tobiasz Walaszek, Ada Marczak, Laura Mazuga, Laura Meinardi-Sadowska, Lena Wąsowicz, Nina Wójcik, Oliwia Zemła, Hania Homenda, Małgorzata Przebinda, Matylda Ślusarczyk, Nikolas Tverberg, Anfisa Vasilieva, Rita Walaszek, Oliwia Przybyło, Marcel Rams, Irena Różańska, Jan Walaszek, Hanna Sagan, Hanna Sznyterman, Ania Mróz, Evelina Pieczara, Piotr Babiarski, Jagoda Biała, Natalia Bulsza, Ola Skórkowska, Alicja Drelicharz, Tosia Gimińska, Wiktoria Gowin, Magda Gumuła, Maja Hancock, Anna Hermut, Maria Jacko, Inga Krummel, Paweł Kucharczyk, Jaśmina Kwiecińska, Maja Kysela, Michał Maruszczak, Wiktoria Miodek, Jan Dybiec, Lidia Ostrowska, Lena Pieculewicz, Melanie Pieczara, Krył Zhuk, Natasza Taborska, Antonina Bukowy, Stanisław Wołkowski, Anna Gwara, Emilia Sapała, Maja Sąsiadek, Marcelina Płatek, Stella Notopulos, Anna Ptaszek, Sonia Biernat, Alina Zontek-Lipka, Jagoda Szałańska, Maja Walasek, Julia Waligóra, Magnus Lubomirski-Aksamit, Łucja Machnik, Nina Lech, Oliwia Lech, Roman Vasiliev, Amelia Wandas, Aurora Bzura Van de Walle, Oliwia Majewska, Aleksandra Micek, Camilla Nowicka, Zuzanna Lepiarz, Serena Lubomirska-Aksamit, Natalia Lech, Kira Efimova, Zofia Głuszak, Zofia Kalita, Maria Kalita, Julia Miernik, Alicja Rybak, Zuzanna Starek, Zara Żesławska-Zająć, Emilia Markiewicz, Natalia Weksej, Maja Zgliczyńska, Kaja Łomnicka, Karolina Sochacka, Maja Zgórkiewicz, Julia Castiglione-Basiewicz, Maja Duras, Hanna Liss, Franek Majewski, Helena Migas, Paulina Riedel, Maria Tiupa.\n\nTerminy, Scena NCK:\n• godz. 9:00, 11:30 i 18:00: wtorek 24.11.2026, środa 25.11.2026, wtorek 15.12.2026, środa 16.12.2026\n\nBilety:\n• na spektakle o godz. 9:00 i 11:30: 70 / 60 zł\n• na spektakl o godz. 18:00: 80 / 60 zł\n• bilet grupowy: 50 zł\n\nInformacje i rezerwacja: Biuro Organizacji Widowni, telefon: 12 644 02 66 wew. 55, e-mail: REZERWACJA@NCK.KRAKOW.PL\n\nOsoby z niepełnosprawnością ruchową prosimy o wcześniejszy kontakt z Biurem Organizacji Widowni w celu wyznaczenia miejsc. Pierwszy i drugi rząd widowni Sceny NCK jest wyposażony w pętlę indukcyjną dla osób słabosłyszących.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/dc38295f-a363-4918-a461-9438466b2dd2/56367abd-049c-432a-90d8-4cf8624ec34f.jpg",
       "location": {
-        "name": "Nowohuckie Centrum Kultury",
-        "district": "Nowa Huta"
+        "name": "Scena NCK, Nowohuckie Centrum Kultury, al. Jana Pawła II 232, 31-913 Kraków",
+        "district": "Grzegórzki"
       },
-      "url": "https://nck.krakow.pl/aladyn-jr-musical-krakowskiej-akademii-musicalu-2/",
-      "source": "nck.krakow.pl",
-      "scrapped_url": "https://nck.krakow.pl/aladyn-jr-musical-krakowskiej-akademii-musicalu-2/",
-      "scrapped_timestamp": "2026-11-14T13:17:02.241944+00:00",
-      "category": "Theater",
-      "additional_categories": [
-        "Music & Dance"
-      ],
+      "url": "https://simplygo.pl/wydarzenia/krakow/dla-dzieci/wydarzenie/aladyn-jr-musical-krakowskiej-akademii-musicalu-dc38295f-a363-4918-a461-9438466b2dd2",
+      "source": "simplygo.pl",
+      "age_hint": "4-12",
       "age_range": {
         "min": 4,
         "max": 12
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/krakow/dla-dzieci/wydarzenie/aladyn-jr-musical-krakowskiej-akademii-musicalu-dc38295f-a363-4918-a461-9438466b2dd2",
+      "scrapped_timestamp": "2026-11-15T13:52:24.686295+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "„Aladyn JR” – musical Krakowskiej Akademii Musicalu",
-          "description": "Kup bilet\n\n•\n\n„Aladyn JR” – musical Krakowskiej Akademii Musicalu\n\nMusical ALADYN JR to broadwayowska adaptacja scenicznych oscarowego filmu animowanego Walt Disney Company „Aladdin” z 1992 r. Pierwotny film powstał w oparciu o „Baśnie z 1001 nocy”, znane także, jako „Opowieści Szeherezady”. Twórcy uwspółcześnili przesłanie tej dawnej historii, przypisując bohaterom motywacje, które łatwiej zrozumieć współczesnemu młodemu odbiorcy.\n\nUliczny złodziejaszek Aladyn poznaje przypadkiem piękną i zbuntowaną księżniczkę Jasmin, która uciekła właśnie z pałacu przed niechcianym małżeństwem. Chłopiec, pojmany przez gwardzistów złego wezyra Dżafara, znajduje pomoc u Dżina spełniającego trzy życzenia i – jako „książę Ali” – prosi o rękę Jasmin. Tylko, czy młody ulicznik będzie wiarygodny w przebraniu, które nie do końca mu pasuje? I jak przyjmie go księżniczka, marząca o prawdziwym Aladynie?\n\nAtutem tego porywającego, zabawnego i pouczającego widowiska są piękne, melodyjne piosenki z muzyką Alana Menkena, nagrodzonego za „Aladyna” dwoma Oscarami, oraz ponadczasowe przesłanie, że mimo wszelkich pokus losu, zawsze warto być sobą. Co, oczywiście, nie zawsze jest proste.\n\nPrzedstawienie trwa ok. 1 godziny 15 minut i zawiera większość znanych piosenek z filmu oraz jedną nową. Spektakl jest bez ograniczeń wiekowych.\n\nKrakowska Akademia Musicalu, założona w 2019 r. przez dyrygenta, dra Tadeusza Płatka ma na swoim koncie m.in. owacyjnie przyjęte premiery musicali – Lew Król sawanny, Hanka, Grease – Powrót legendy, Magia Lodu, Shrek, Piękna i Bestia, Legalna Blondynka, czy High School Musical 2, na który jako pierwsza szkoła w Polsce uzyskała licencję Disney-MTI Music Shows.\n\nmuzyka – **Alan Menken** libretto: **Howard Ashman i Tim Rice** tłumaczenie: **Tadeusz Płatek, Maria Zarycka** reżyseria/video – **Artur Wołoch**\n\nasystent reżysera – **Julia Turczynowicz-Suszycka** choreografia: **Natalia Soboń, Sabina Onderka** asystent kierownika muzycznego – **Małgorzata Chyła**\n\nkostiumy – **Magdalena Wesołowska-Kuta** reżyseria światła – **Mateusz Kołodziej** reżyseria dźwięku: **Szczepan Sołtys, Paweł Kostuj**\n\nmikroporty – **Dariusz Rzepiszczak** realizacja video – **Maciej Kycler** kierownictwo muzyczne, produkcja – **Tadeusz Płatek**\n\n**Występują (Uczniowie Krakowskiej Akademii Musicalu):**\n\n **Kornelia Chatłas, Marzena Ciuła, Eliza Dewera, Alicja Dewera, Daria Gladus, Zuzanna Skoczylas, Izabela Gumuła, Natasza Paluch, Milena Jakubiak, Beniamin Jakubiak, Antonina Jędrzczak-Grzesiak, Kamelia Kirejczyk, Adam Klasiński, Amelia Krzysztofik-Woch, Zuzia Kułaj, Martyna Kurleto, Marcela Kurleto, Margerita Melnychuk, Weronika Obrębska, Łucja Olszewska, Viera Pavlova, Pola Porębska, Iga Piaskowska, Wiktoria Przybyło, Helena Supanenka, Łucja Szymczyk, Marysia Walaszek, Joanna Weksej, Aleksandra  Włodek, Mila Wojnicka, Iga Barańska, Lena Chwyć, Jagoda Goraj, Blanka Hanarz, Ola Jazowska, Zosia Kułaj, Tobiasz Walaszek, Ada Marczak, Laura Mazuga, Laura  Meinardi-Sadowska, Lena Wąsowicz, Nina Wójcik, Oliwia Zemła, Hania Homenda, Małgorzata Przebinda, Matylda Ślusarczyk, Nikolas Tverberg, Anfisa Vasilieva, Rita Walaszek, Oliwia Przybyło, Marcel Rams, Irena Różańska, Jan Walaszek, Hanna Sagan, Hanna Sznyterman, Ania Mróz, Evelina Pieczara, Piotr Babiarski, Jagoda Biała, Natalia Bulsza, Ola Skórkowska, Alicja Drelicharz, Tosia Gimińska, Wiktoria Gowin, Magda Gumuła, Maja Hancock, Anna Hermut, Maria Jacko, Inga Krummel, Paweł Kucharczyk, Jaśmina Kwiecińska, Maja  Kysela, Michał Maruszczak, Wiktoria Miodek, Jan Dybiec, Lidia Ostrowska, Lena Pieculewicz, Melanie Pieczara, Krył Zhuk, Natasza Taborska, Antonina Bukowy, Stanisław Wołkowski, Anna Gwara, Emilia Sapała, Maja Sąsiadek, Marcelina Płatek, Stella Notopulos, Anna Ptaszek, Sonia Biernat, Alina Zontek-Lipka, Jagoda Szałańska, Maja Walasek, Julia Waligóra, Magnus Lubomirski-Aksamit, Łucja Machnik, Nina Lech, Oliwia Lech, Roman Vasiliev, Amelia Wandas, Aurora Bzura Van de Walle, Oliwia Majewska, Aleksandra Micek, Camilla Nowicka, Zuzanna Lepiarz, Serena Lubomirska-Aksamit, Natalia Lech, Kira Efimova, Zofia Głuszak, Zofia Kalita, Maria Kalita, Julia Miernik, Alicja Rybak, Zuzanna Starek, Zara Żesławska-Zając, Emilia Markiewicz, Natalia Weksej, Maja Zgliczyńska, Kaja łomnicka, Karolina Sochacka, Maja Zgórkiewicz, Julia Castiglione-Basiewicz, Maja Duras, Hanna Liss, Franek Majewski, Helena Migas, Paulina Riedel, Maria Tiupa**\n\n**sugerowany wiek: 4+**\n\n**czas trwania: 70 minut**\n\n                        Wtorek, 24.11.2026, Scena NCK\n                                                        godz.  **09:00**\n\n                                godz.  **11:30**\n\n                                godz.  **18:00**\n\n                        Środa, 25.11.2026, Scena NCK\n                                                        godz.  **09:00**\n\n                                godz.  **11:30**\n\n                                godz.  **18:00**\n\n                        Wtorek, 15.12.2026, Scena NCK\n                                                        godz.  **09:00**\n\n                                godz.  **11:30**\n\n                                godz.  **18:00**\n\n                        Środa, 16.12.2026, Scena NCK\n                                                        godz.  **09:00**\n\n                                godz.  **11:30**\n\n                                godz.  **18:00**\n\n                                        Bilet na spektakle o g. 9.00 i 11.30 - 70 / 60 zł\nBilet na spektakle o g. 18.00 - 80 / 60 zł\nBilet grupowy - 50 zł\n\nInformacje i rezerwacja:\n\nBiuro Organizacji Widowni\n\ntelefon: 12 644 02 66 wew. 55\n\ne-mail: REZERWACJA@NCK.KRAKOW.PL\n\nOsoby z niepełnosprawnością ruchową prosimy o wcześniejszy kontakt z Biurem Organizacji Widowni w celu wyznaczenia miejsc.\n\nPierwszy i drugi rząd widowni Sceny NCK jest wyposażony w pętlę indukcyjną dla osób słabosłyszących."
+          "title": "Aladyn JR – musical Krakowskiej Akademii Musicalu",
+          "description": "Musical ALADYN JR to broadwayowska adaptacja sceniczna oscarowego filmu animowanego Walt Disney Company „Aladdin” z 1992 r. Film powstał na podstawie „Baśni z 1001 nocy”, znanych także jako „Opowieści Szeherezady”. Twórcy uwspółcześnili przesłanie tej dawnej historii, nadając bohaterom motywacje łatwiejsze do zrozumienia dla współczesnego młodego odbiorcy.\n\nUliczny złodziejaszek Aladyn przypadkiem poznaje piękną i zbuntowaną księżniczkę Jasmin, która uciekła właśnie z pałacu przed niechcianym małżeństwem. Chłopiec, pojmany przez gwardzistów złego wezyra Dżafara, znajduje pomoc u Dżina spełniającego trzy życzenia i – jako „książę Ali” – prosi o rękę Jasmin. Pytanie, czy młody ulicznik będzie wiarygodny w przebraniu, które nie do końca mu pasuje, i jak przyjmie go księżniczka, marząca o prawdziwym Aladynie.\n\nAtutem widowiska są piękne, melodyjne piosenki z muzyką Alana Menkena, nagrodzonego za „Aladyna” dwoma Oscarami, oraz ponadczasowe przesłanie, że mimo wszelkich pokus losu zawsze warto być sobą. Co, oczywiście, nie zawsze jest proste.\n\nPrzedstawienie trwa ok. 1 godziny 15 minut i zawiera większość znanych piosenek z filmu oraz jedną nową. Spektakl jest bez ograniczeń wiekowych, sugerowany wiek: 4+. Czas trwania: 70 minut.\n\nKrakowska Akademia Musicalu, założona w 2019 r. przez dyrygenta, dra Tadeusza Płatka, ma na swoim koncie m.in. owacyjnie przyjęte premiery musicali: Lew Król sawanny, Hanka, Grease – Powrót legendy, Magia Lodu, Shrek, Piękna i Bestia, Legalna Blondynka oraz High School Musical 2, na który jako pierwsza szkoła w Polsce uzyskała licencję Disney-MTI Music Shows.\n\nTwórcy:\n• muzyka – Alan Menken\n• libretto: Howard Ashman i Tim Rice\n• tłumaczenie: Tadeusz Płatek, Maria Zarycka\n• reżyseria/video – Artur Wołoch\n• asystent reżysera – Julia Turczynowicz-Suszycka\n• choreografia: Natalia Soboń, Sabina Onderka\n• kostiumy – Magdalena Wesołowska-Kuta\n• reżyseria światła – Mateusz Kołodziej\n• reżyseria dźwięku: Szczepan Sołtys, Paweł Kostuj\n• kierownictwo muzyczne, produkcja – Tadeusz Płatek\n\nWystępują uczniowie Krakowskiej Akademii Musicalu: Kornelia Chatłas, Marzena Ciuła, Eliza Dewera, Alicja Dewera, Daria Gladus, Zuzanna Skoczylas, Izabela Gumuła, Natasza Paluch, Milena Jakubiak, Beniamin Jakubiak, Antonina Jędrzczak-Grzesiak, Kamelia Kirejczyk, Adam Klasiński, Amelia Krzysztofik-Woch, Zuzia Kułaj, Martyna Kurleto, Marcela Kurleto, Margerita Melnychuk, Weronika Obrębska, Łucja Olszewska, Viera Pavlova, Pola Porębska, Iga Piaskowska, Wiktoria Przybyło, Helena Supanenka, Łucja Szymczyk, Marysia Walaszek, Joanna Weksej, Aleksandra Włodek, Mila Wojnicka, Iga Barańska, Lena Chwyć, Jagoda Goraj, Blanka Hanarz, Ola Jazowska, Zosia Kułaj, Tobiasz Walaszek, Ada Marczak, Laura Mazuga, Laura Meinardi-Sadowska, Lena Wąsowicz, Nina Wójcik, Oliwia Zemła, Hania Homenda, Małgorzata Przebinda, Matylda Ślusarczyk, Nikolas Tverberg, Anfisa Vasilieva, Rita Walaszek, Oliwia Przybyło, Marcel Rams, Irena Różańska, Jan Walaszek, Hanna Sagan, Hanna Sznyterman, Ania Mróz, Evelina Pieczara, Piotr Babiarski, Jagoda Biała, Natalia Bulsza, Ola Skórkowska, Alicja Drelicharz, Tosia Gimińska, Wiktoria Gowin, Magda Gumuła, Maja Hancock, Anna Hermut, Maria Jacko, Inga Krummel, Paweł Kucharczyk, Jaśmina Kwiecińska, Maja Kysela, Michał Maruszczak, Wiktoria Miodek, Jan Dybiec, Lidia Ostrowska, Lena Pieculewicz, Melanie Pieczara, Krył Zhuk, Natasza Taborska, Antonina Bukowy, Stanisław Wołkowski, Anna Gwara, Emilia Sapała, Maja Sąsiadek, Marcelina Płatek, Stella Notopulos, Anna Ptaszek, Sonia Biernat, Alina Zontek-Lipka, Jagoda Szałańska, Maja Walasek, Julia Waligóra, Magnus Lubomirski-Aksamit, Łucja Machnik, Nina Lech, Oliwia Lech, Roman Vasiliev, Amelia Wandas, Aurora Bzura Van de Walle, Oliwia Majewska, Aleksandra Micek, Camilla Nowicka, Zuzanna Lepiarz, Serena Lubomirska-Aksamit, Natalia Lech, Kira Efimova, Zofia Głuszak, Zofia Kalita, Maria Kalita, Julia Miernik, Alicja Rybak, Zuzanna Starek, Zara Żesławska-Zająć, Emilia Markiewicz, Natalia Weksej, Maja Zgliczyńska, Kaja Łomnicka, Karolina Sochacka, Maja Zgórkiewicz, Julia Castiglione-Basiewicz, Maja Duras, Hanna Liss, Franek Majewski, Helena Migas, Paulina Riedel, Maria Tiupa.\n\nTerminy, Scena NCK:\n• godz. 9:00, 11:30 i 18:00: wtorek 24.11.2026, środa 25.11.2026, wtorek 15.12.2026, środa 16.12.2026\n\nBilety:\n• na spektakle o godz. 9:00 i 11:30: 70 / 60 zł\n• na spektakl o godz. 18:00: 80 / 60 zł\n• bilet grupowy: 50 zł\n\nInformacje i rezerwacja: Biuro Organizacji Widowni, telefon: 12 644 02 66 wew. 55, e-mail: REZERWACJA@NCK.KRAKOW.PL\n\nOsoby z niepełnosprawnością ruchową prosimy o wcześniejszy kontakt z Biurem Organizacji Widowni w celu wyznaczenia miejsc. Pierwszy i drugi rząd widowni Sceny NCK jest wyposażony w pętlę indukcyjną dla osób słabosłyszących."
         },
         "en": {
-          "title": "“Aladdin JR” – a musical by the Krakow Musical Academy",
-          "description": "Buy a ticket\n\n•\n\n“Aladdin JR” – a musical by the Krakow Musical Academy\n\nThe musical ALADDIN JR is a Broadway stage adaptation of Walt Disney Company’s 1992 Oscar-winning animated film “Aladdin”. The original film was based on “The Thousand and One Nights”, also known as “The Tales of Scheherazade”. The creators brought the message of this ancient story up to date, giving the characters motivations that are easier for today’s young audiences to understand.\n\nStreet thief Aladdin happens to meet the beautiful and rebellious Princess Jasmine, who has just fled the palace to escape an unwanted marriage. Captured by the guards of the evil vizier Jafar, the boy finds help from the Genie, who grants three wishes, and—as “Prince Ali”—asks for Jasmine’s hand in marriage. But will the young street urchin be convincing in disguise,"
+          "title": "Aladdin JR – a musical by the Krakow Musical Academy",
+          "description": "The musical ALADDIN JR is a Broadway stage adaptation of Walt Disney Company's Oscar-winning animated film “Aladdin” from 1992. The film was based on “The Book of One Thousand and One Nights,” also known as “The Tales of Scheherazade.” The creators have modernized the message of this ancient story, giving the characters motivations that are easier for today’s young audiences to understand.\n\nThe streetwise thief Aladdin accidentally meets the beautiful and rebellious Princess Jasmine, who has just escaped from the palace to avoid an unwanted marriage. Captured by the guards of the evil vizier Jafar, the boy finds help from the Genie, who grants three wishes, and—as “Prince Ali”—asks for Jasmine’s hand in marriage. The question is whether the young street urchin will be convincing in a disguise that doesn’t quite suit him, and how the princess will receive him, as she dreams of true..."
         },
         "uk": {
-          "title": "«Аладдін JR» – мюзикл Краківської академії мюзиклу",
-          "description": "Купити квиток\n\n•\n\n«Аладдін JR» – мюзикл Краківської академії мюзиклу\n\nМюзикл ALADYN JR — бродвейська сценічна адаптація оскароносного анімаційного фільму Walt Disney Company «Aladdin» 1992 року. Оригінальний фільм створено на основі «Казок тисячі й однієї ночі», відомих також як «Оповіді Шехерезади». Творці осучаснили послання цієї давньої історії, наділивши героїв мотиваціями, які сучасній молодій аудиторії легше зрозуміти.\n\nВуличний злодюжка Аладдін випадково знайомиться з прекрасною і бунтівною принцесою Жасмін, яка щойно втекла з палацу, щоб уникнути небажаного шлюбу. Хлопець, схоплений гвардійцями злого візира Джафара, знаходить допомогу в Джина, який виконує три бажання, і — як «принц Алі» — просить руки Жасмін. Та чи буде юний вуличний хлопець переконливим у маскуванні,"
+          "title": "Аладдін JR – мюзикл Краківської академії мюзиклу",
+          "description": "Мюзикл ALADYN JR — це бродвейська сценічна адаптація оскароносного анімаційного фільму Walt Disney Company «Aladdin» 1992 року. Фільм створено за мотивами «Казок 1001 ночі», відомих також як «Оповіді Шехерезади». Творці осучаснили посил цієї давньої історії, наділивши героїв мотиваціями, зрозумілішими сучасній юній аудиторії.\n\nВуличний злодюжка Аладдін випадково знайомиться з прекрасною та бунтівною принцесою Жасмін, яка щойно втекла з палацу, щоб уникнути небажаного шлюбу. Хлопець, схоплений гвардійцями злого візира Джафара, знаходить допомогу у Джина, який виконує три бажання, і — як «принц Алі» — просить руки Жасмін. Питання в тому, чи буде юний вуличник переконливим у перевдяганні, яке йому не зовсім пасує, і як його прийме принцеса, яка мріє про справ"
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": false,
+        "ticket_url": "https://biletyna.pl/spektakl/ALADYN-JR-musical-Krakowska-Akademia-Musicalu"
       },
-      "district": "Nowa Huta",
-      "updated_at": "2026-11-14T13:32:48.303959+00:00"
+      "district": "Grzegórzki",
+      "updated_at": "2026-11-15T13:53:24.531312+00:00"
     },
     "fabryka-niegu-spektakle-miko-ajowe-2026-12-03T09:00:00+01:00": {
-      "title": "„Fabryka śniegu” – spektakle mikołajowe",
+      "title": "Fabryka śniegu – spektakle mikołajowe",
       "date": "2026-12-03T09:00:00+01:00",
       "end_date": "2026-12-03T09:00:00+01:00",
       "startTimeKnown": true,
-      "description": "Kup bilet\n\n•\n\n„Fabryka śniegu” – spektakle mikołajowe\n\n**Teatr Trip**\n\nHen, daleko nad głowami, gdzie mróz szczypie za uszami, w podniebnym świecie nad chmurami, codziennie wrze praca. Pracowite Obłoczka i Sopelka odbierają z Ziemi zamówienia na śnieg. Niestety na wielką maszynę do produkcji śniegu czai się zagrożenie w postaci pewnego tajemniczego Francuza… Przez jego działania maszyna nagle przestaje działać. Nikt nie potrafi sobie poradzić z jej naprawą, nawet inżynier Złota Łapka. Czy dzielni pracownicy Fabryki poradzą sobie z tą sytuacją? Na pewno przyda się im pomoc dzieci zasiadających na widowni.\n\nSpektakl zakończony spotkaniem ze Świętym Mikołajem, który rozda zakupione przez opiekunów prezenty.\n\n**sugerowany wiek: dla dzieci w wieku przedszkolnym i wczesnoszkolnym**\n\n**czas trwania: 55 minut + rozdawanie prezentów**\n\n                        Czwartek, 03.12.2026, Scena NCK\n                                                        godz.  **09:00**\n                                 - Rezerwacja tylko za pośrednictwem Biura Organizacji NCK.\n                                godz.  **11:45**\n                                 - Rezerwacja tylko za pośrednictwem Biura Organizacji NCK.\n\n                        Piątek, 04.12.2026, Scena NCK\n                                                        godz.  **09:00**\n                                 - Rezerwacja tylko za pośrednictwem Biura Organizacji NCK.\n                                godz.  **11:45**\n                                 - Rezerwacja tylko za pośrednictwem Biura Organizacji NCK.\n                                godz.  **17:00**\n                                 - Sprzedaż online oraz za pośrednictwem Biura Organizacji NCK.\n\n                        Niedziela, 06.12.2026, Scena NCK\n                                                        godz.  **17:00**\n                                 - Sprzedaż online oraz za pośrednictwem Biura Organizacji NCK.\n\n                                        Bilet indywidualny - 55 zł\nBilet grupowy - 45 zł\n\nInformacje i rezerwacja:\n\nBiuro Organizacji Widowni\n\ntelefon: 12 644 02 66 wew. 55\n\ne-mail: REZERWACJA@NCK.KRAKOW.PL\n\nOsoby z niepełnosprawnością ruchową prosimy o wcześniejszy kontakt z Biurem Organizacji Widowni w celu wyznaczenia miejsc.\n\nPierwszy i drugi rząd widowni Sceny NCK jest wyposażony w pętlę indukcyjną dla osób słabosłyszących.",
-      "image": "https://nck.krakow.pl/wp-content/uploads/2020/10/fabryka-śniegu-850.jpg",
+      "description": "Teatr Trip zaprasza dzieci w wieku przedszkolnym i wczesnoszkolnym na spektakl „Fabryka śniegu” na Scenie NCK. Obłoczka i Sopelka odbierają zamówienia na śnieg, ale tajemniczy Francuz zagraża maszynie do jego produkcji. W naprawie mogą pomóc dzieci na widowni. Po spektaklu odbędzie się spotkanie ze Świętym Mikołajem, który rozda prezenty zakupione przez opiekunów. Czas trwania: 55 minut oraz rozdawanie prezentów.\n\nScena NCK:\n• 3 grudnia 2026, godz. 09:00 i 11:45 – rezerwacja wyłącznie za pośrednictwem Biura Organizacji NCK\n• 4 grudnia 2026, godz. 09:00 i 11:45 – rezerwacja wyłącznie za pośrednictwem Biura Organizacji NCK\n• 4 grudnia 2026, godz. 17:00 – sprzedaż online oraz za pośrednictwem Biura Organizacji NCK\n• 6 grudnia 2026, godz. 17:00 – sprzedaż online oraz za pośrednictwem Biura Organizacji NCK\n\nBilet indywidualny kosztuje 55 zł, a grupowy 45 zł. Informacje i rezerwacje prowadzi Biuro Organizacji Widowni NCK: telefon 12 644 02 66 wew. 55, e-mail REZERWACJA@NCK.KRAKOW.PL.\n\nOsoby z niepełnosprawnością ruchową proszone są o wcześniejszy kontakt z Biurem Organizacji Widowni w celu wyznaczenia miejsc. Pierwszy i drugi rząd widowni Sceny NCK jest wyposażony w pętlę indukcyjną dla osób słabosłyszących.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/47fca23c-2c90-4f64-b8b0-4b8f0d55a7de/794066f9-710a-4f98-af6c-4c4a8343c9e9.jpg",
       "location": {
-        "name": "Nowohuckie Centrum Kultury",
-        "district": "Nowa Huta"
+        "name": "Scena NCK, Nowohuckie Centrum Kultury, al. Jana Pawła II 232, 31-913 Kraków",
+        "district": "Grzegórzki"
       },
-      "url": "https://nck.krakow.pl/fabryka-sniegu-spektakle-mikolajowe-2026/",
-      "source": "nck.krakow.pl",
-      "scrapped_url": "https://nck.krakow.pl/fabryka-sniegu-spektakle-mikolajowe-2026/",
-      "scrapped_timestamp": "2026-11-14T13:17:17.775837+00:00",
-      "category": "Theater",
-      "additional_categories": [
-        "Family Fun"
-      ],
+      "url": "https://simplygo.pl/wydarzenia/krakow/dla-dzieci/wydarzenie/fabryka-sniegu-spektakle-mikolajowe-47fca23c-2c90-4f64-b8b0-4b8f0d55a7de",
+      "source": "simplygo.pl",
+      "age_hint": "3-10",
       "age_range": {
         "min": 3,
         "max": 10
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/krakow/dla-dzieci/wydarzenie/fabryka-sniegu-spektakle-mikolajowe-47fca23c-2c90-4f64-b8b0-4b8f0d55a7de",
+      "scrapped_timestamp": "2026-11-15T13:52:57.493948+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun",
+        "Seasonal Festival"
+      ],
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "„Fabryka śniegu” – spektakle mikołajowe",
-          "description": "Kup bilet\n\n•\n\n„Fabryka śniegu” – spektakle mikołajowe\n\n**Teatr Trip**\n\nHen, daleko nad głowami, gdzie mróz szczypie za uszami, w podniebnym świecie nad chmurami, codziennie wrze praca. Pracowite Obłoczka i Sopelka odbierają z Ziemi zamówienia na śnieg. Niestety na wielką maszynę do produkcji śniegu czai się zagrożenie w postaci pewnego tajemniczego Francuza… Przez jego działania maszyna nagle przestaje działać. Nikt nie potrafi sobie poradzić z jej naprawą, nawet inżynier Złota Łapka. Czy dzielni pracownicy Fabryki poradzą sobie z tą sytuacją? Na pewno przyda się im pomoc dzieci zasiadających na widowni.\n\nSpektakl zakończony spotkaniem ze Świętym Mikołajem, który rozda zakupione przez opiekunów prezenty.\n\n**sugerowany wiek: dla dzieci w wieku przedszkolnym i wczesnoszkolnym**\n\n**czas trwania: 55 minut + rozdawanie prezentów**\n\n                        Czwartek, 03.12.2026, Scena NCK\n                                                        godz.  **09:00**\n                                 - Rezerwacja tylko za pośrednictwem Biura Organizacji NCK.\n                                godz.  **11:45**\n                                 - Rezerwacja tylko za pośrednictwem Biura Organizacji NCK.\n\n                        Piątek, 04.12.2026, Scena NCK\n                                                        godz.  **09:00**\n                                 - Rezerwacja tylko za pośrednictwem Biura Organizacji NCK.\n                                godz.  **11:45**\n                                 - Rezerwacja tylko za pośrednictwem Biura Organizacji NCK.\n                                godz.  **17:00**\n                                 - Sprzedaż online oraz za pośrednictwem Biura Organizacji NCK.\n\n                        Niedziela, 06.12.2026, Scena NCK\n                                                        godz.  **17:00**\n                                 - Sprzedaż online oraz za pośrednictwem Biura Organizacji NCK.\n\n                                        Bilet indywidualny - 55 zł\nBilet grupowy - 45 zł\n\nInformacje i rezerwacja:\n\nBiuro Organizacji Widowni\n\ntelefon: 12 644 02 66 wew. 55\n\ne-mail: REZERWACJA@NCK.KRAKOW.PL\n\nOsoby z niepełnosprawnością ruchową prosimy o wcześniejszy kontakt z Biurem Organizacji Widowni w celu wyznaczenia miejsc.\n\nPierwszy i drugi rząd widowni Sceny NCK jest wyposażony w pętlę indukcyjną dla osób słabosłyszących."
+          "title": "Fabryka śniegu – spektakle mikołajowe",
+          "description": "Teatr Trip zaprasza dzieci w wieku przedszkolnym i wczesnoszkolnym na spektakl „Fabryka śniegu” na Scenie NCK. Obłoczka i Sopelka odbierają zamówienia na śnieg, ale tajemniczy Francuz zagraża maszynie do jego produkcji. W naprawie mogą pomóc dzieci na widowni. Po spektaklu odbędzie się spotkanie ze Świętym Mikołajem, który rozda prezenty zakupione przez opiekunów. Czas trwania: 55 minut oraz rozdawanie prezentów.\n\nScena NCK:\n• 3 grudnia 2026, godz. 09:00 i 11:45 – rezerwacja wyłącznie za pośrednictwem Biura Organizacji NCK\n• 4 grudnia 2026, godz. 09:00 i 11:45 – rezerwacja wyłącznie za pośrednictwem Biura Organizacji NCK\n• 4 grudnia 2026, godz. 17:00 – sprzedaż online oraz za pośrednictwem Biura Organizacji NCK\n• 6 grudnia 2026, godz. 17:00 – sprzedaż online oraz za pośrednictwem Biura Organizacji NCK\n\nBilet indywidualny kosztuje 55 zł, a grupowy 45 zł. Informacje i rezerwacje prowadzi Biuro Organizacji Widowni NCK: telefon 12 644 02 66 wew. 55, e-mail REZERWACJA@NCK.KRAKOW.PL.\n\nOsoby z niepełnosprawnością ruchową proszone są o wcześniejszy kontakt z Biurem Organizacji Widowni w celu wyznaczenia miejsc. Pierwszy i drugi rząd widowni Sceny NCK jest wyposażony w pętlę indukcyjną dla osób słabosłyszących."
         },
         "en": {
-          "title": "“Snow Factory” – Santa Claus performances",
-          "description": "Buy a ticket\n\n•\n\n“Snow Factory” – Santa Claus performances\n\n**Trip Theatre**\n\nFar away, high above our heads, where frost nips at your ears, in the sky above the clouds, work is in full swing every day. The hardworking Cloudlet and Icicle receive orders for snow from Earth. Unfortunately, a certain mysterious Frenchman is lurking near the enormous snow-making machine… Because of his actions, the machine suddenly stops working. Nobody can figure out how to repair it—not even Engineer Golden Paw. Will the brave workers at the Factory manage to deal with the situation? They could certainly use some help from the children in the audience.\n\nThe performance is followed by a meeting with Santa Claus, who will hand out the presents purchased by the guardians.\n\n**suggested age: preschool and early elementary school children**\n\n**duration"
+          "title": "Snow Factory – St. Nicholas Shows",
+          "description": "Teatr Trip invites preschool- and early school-age children to the performance “Snow Factory” at the NCK Stage. Cloudlet and Icicle take orders for snow, but a mysterious Frenchman threatens the machine that makes it. The children in the audience can help repair it. After the performance, there will be a meeting with Santa Claus, who will hand out gifts purchased by the caregivers. Duration: 55 minutes, plus gift distribution.\n\nNCK Stage:\n• 3 December 2026, 09:00 and 11:45 – reservations exclusively through the NCK Organization Office\n• 4 December 2026, 09:00 and 11:45 – reservations exclusively through the NCK Organization Office\n• 4 December 2026, 17:00 – tickets available online and through the NCK Organization Office\n• 6 December 2026, 17:00 – tickets available online and through the NCK Org"
         },
         "uk": {
-          "title": "«Фабрика снігу» – миколайські вистави",
-          "description": "Придбати квиток\n\n•\n\n«Фабрика снігу» – миколайські вистави\n\n**Театр Trip**\n\nДесь далеко, високо над головами, де мороз щипає за вуха, у небесному світі над хмарами щодня кипить робота. Працьовиті Хмаринка й Бурулька приймають із Землі замовлення на сніг. На жаль, великій машині для виробництва снігу загрожує один таємничий француз… Через його дії машина раптом перестає працювати. Ніхто не може впоратися з її ремонтом, навіть інженер Золота Лапка. Чи дадуть раду цій ситуації відважні працівники Фабрики? Їм неодмінно стане в пригоді допомога дітей, які сидять у залі.\n\nВистава завершується зустріччю зі Святим Миколаєм, який роздасть подарунки, придбані опікунами.\n\n**рекомендований вік: для дітей дошкільного та молодшого шкільного віку**\n\n**тривалість"
+          "title": "Фабрика снігу – миколайкові вистави",
+          "description": "Театр Trip запрошує дітей дошкільного та молодшого шкільного віку на виставу «Фабрика снігу» на сцені NCK. Хмаринка та Бурулька приймають замовлення на сніг, але таємничий француз загрожує машині для його виробництва. Діти в залі можуть допомогти її полагодити. Після вистави відбудеться зустріч зі Святим Миколаєм, який роздасть подарунки, придбані опікунами. Тривалість: 55 хвилин, а також роздавання подарунків.\n\nСцена NCK:\n• 3 грудня 2026 року, о 09:00 та 11:45 – бронювання виключно через Організаційне бюро NCK\n• 4 грудня 2026 року, о 09:00 та 11:45 – бронювання виключно через Організаційне бюро NCK\n• 4 грудня 2026 року, о 17:00 – онлайн-продаж та продаж через Організаційне бюро NCK\n• 6 грудня 2026 року, о 17:00 – онлайн-продаж та продаж через Організаційне бюро"
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": false,
+        "ticket_url": "https://biletyna.pl/spektakl/Fabryka-sniegu-spektakl-mikolajowy"
       },
-      "district": "Nowa Huta",
-      "updated_at": "2026-11-14T13:32:48.303983+00:00"
+      "district": "Grzegórzki",
+      "updated_at": "2026-11-15T13:53:24.531359+00:00"
     },
     "rodzinne-warsztaty-inspirowane-wystaw-kingi-nowak-2026-11-28T11:00:00+01:00": {
       "title": "Rodzinne warsztaty inspirowane wystawą Kingi Nowak",
@@ -9412,46 +9421,48 @@
       "updated_at": "2026-11-03T15:12:13.409972+00:00"
     },
     "ireneusz-krosny-the-best-of-2026-11-28T16:00:00+01:00": {
-      "title": "Ireneusz Krosny – The Best Of",
+      "title": "Ireneusz Krosny. The Best Of",
       "date": "2026-11-28T16:00:00+01:00",
-      "end_date": "2026-11-28T16:00:00+01:00",
+      "url": "https://karnet.krakowculture.pl/57467-krakow-ireneusz-krosny-the-best-of",
+      "description": "Ireneusz Krosny!!! W programie najlepsze numery.\nTeatr Jednego Mima Ireneusz Krosny bawi publiczność w Polsce i na całym świecie od ponad 30 lat. Wysoka kultura, inteligentny humor, zabawa dla całej rodziny. Kto był ten wie, kto nie był – niech się przekona. Ireneusz Krosny ma własny, oryginalny styl. Jako mim nie używa makijażu, jego kostiumem jest czarny trykot, stosuje skromną scenografię i niewiele rekwizytów. Treścią jego autorskich skeczy i etiud są tematy z życia społecznego i towarzyskiego, okraszone absurdalnym humorem i zakończone zaskakującą pointą oraz ciekawym przesłaniem. Wielokrotnie widzieliśmy Irka Krosnego jako gwiazdę programów rozrywkowych i kabaretowych emitowanych na ekranach TVP 1, TVP 2, POLSATU i TVN. Karierę rozpoczął od mocnego uderzenia. W jednym sezonie 1995/1996 zdobył trzykrotnie Grand Prix na najważniejszych festiwalach kabaretowych w Polsce – Biesiadach Humoru i Satyry w Lidzbarku Warmińskim, Przeglądzie Kabaretów PAKA w Krakowie, Mazurskim Lecie Kabaretowym „Mulatka” w Ełku. W 1998 roku od amerykańskiego magazynu artystycznego „Chicago Reader” otrzymał prestiżowe wyróżnienie „The Critics’ Choice” dla najlepszego spektaklu w Chicago. W tym samym roku został laureatem głównej nagrody festiwalu kabaretowego „Kataryniarze” w Gdańsku. W 2000 roku zdobył nagrodę im. Andrzeja Waligórskiego „Andrzej 2000”, a w roku 2008 otrzymał Złotą Różę Festiwalu w Montreux (Szwajcaria).",
+      "image": "https://media.krakow.travel/photos/70893/m.jpg",
       "startTimeKnown": true,
-      "description": "Ireneusz Krosny prezentuje w programie „The Best Of” najlepsze numery ze swojego repertuaru.\n\nTeatr Jednego Mima Ireneusza Krosnego bawi publiczność w Polsce i na całym świecie od ponad 30 lat. Wysoka kultura, inteligentny humor i zabawa dla całej rodziny.\n\nArtysta ma własny, oryginalny styl. Jako mim nie używa makijażu, jego kostiumem jest czarny trykot, a scenografia jest skromna, rekwizytów jest niewiele.\n\nTreścią jego autorskich skeczy i etiud są tematy z życia społecznego i towarzyskiego, okraszone absurdalnym humorem, zakończone zaskakującą puentą i ciekawym przesłaniem.\n\nIrek Krosny występował jako gwiazda programów rozrywkowych i kabaretowych emitowanych w TVP 1, TVP 2, Polsacie i TVN.\n\nKarierę rozpoczął od mocnego uderzenia. W sezonie 1995/1996 zdobył trzykrotnie Grand Prix na festiwalach:\n• Biesiady Humoru i Satyry w Lidzbarku Warmińskim,\n• Przegląd Kabaretów PAKA w Krakowie,\n• Mazurskie Lato Kabaretowe „Mulatka” w Ełku.\n\nKolejne wyróżnienia:\n• 1998: prestiżowe wyróżnienie „The Critics’ Choice” od amerykańskiego magazynu artystycznego „Chicago Reader” dla najlepszego spektaklu w Chicago,\n• 1998: laureat głównej nagrody festiwalu kabaretowego „Kataryniarze” w Gdańsku,\n• 2000: nagroda im. Andrzeja Waligórskiego „Andrzej 2000”,\n• 2008: Złota Róża Festiwalu w Montreux (Szwajcaria).",
-      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/77e90f0f-6cf1-4b74-a9aa-d68b1ae8e8de/15bf6bd1-4225-4046-a546-ca91b1817132.jpg",
       "location": {
-        "name": "Teatr Szczęście, Kraków",
+        "name": "Teatr Szczęście, os. Zielone 9",
         "district": "Nowa Huta"
       },
-      "url": "https://simplygo.pl/wydarzenia/krakow/rozrywka/wydarzenie/ireneusz-krosny-the-best-of-77e90f0f-6cf1-4b74-a9aa-d68b1ae8e8de",
-      "source": "simplygo.pl",
-      "age_hint": null,
-      "age_range": null,
-      "scrapped_url": "https://simplygo.pl/wydarzenia/krakow/rozrywka/wydarzenie/ireneusz-krosny-the-best-of-77e90f0f-6cf1-4b74-a9aa-d68b1ae8e8de",
-      "scrapped_timestamp": "2026-11-12T15:19:40.611882+00:00",
+      "end_date": "2026-11-28T16:00:00+01:00",
+      "scrapped_url": "https://karnet.krakowculture.pl/57467-krakow-ireneusz-krosny-the-best-of",
+      "scrapped_timestamp": "2026-11-15T13:50:33.659082+00:00",
       "category": "Theater",
       "additional_categories": [
         "Family Fun"
       ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Ireneusz Krosny – The Best Of",
-          "description": "Ireneusz Krosny prezentuje w programie „The Best Of” najlepsze numery ze swojego repertuaru.\n\nTeatr Jednego Mima Ireneusza Krosnego bawi publiczność w Polsce i na całym świecie od ponad 30 lat. Wysoka kultura, inteligentny humor i zabawa dla całej rodziny.\n\nArtysta ma własny, oryginalny styl. Jako mim nie używa makijażu, jego kostiumem jest czarny trykot, a scenografia jest skromna, rekwizytów jest niewiele.\n\nTreścią jego autorskich skeczy i etiud są tematy z życia społecznego i towarzyskiego, okraszone absurdalnym humorem, zakończone zaskakującą puentą i ciekawym przesłaniem.\n\nIrek Krosny występował jako gwiazda programów rozrywkowych i kabaretowych emitowanych w TVP 1, TVP 2, Polsacie i TVN.\n\nKarierę rozpoczął od mocnego uderzenia. W sezonie 1995/1996 zdobył trzykrotnie Grand Prix na festiwalach:\n• Biesiady Humoru i Satyry w Lidzbarku Warmińskim,\n• Przegląd Kabaretów PAKA w Krakowie,\n• Mazurskie Lato Kabaretowe „Mulatka” w Ełku.\n\nKolejne wyróżnienia:\n• 1998: prestiżowe wyróżnienie „The Critics’ Choice” od amerykańskiego magazynu artystycznego „Chicago Reader” dla najlepszego spektaklu w Chicago,\n• 1998: laureat głównej nagrody festiwalu kabaretowego „Kataryniarze” w Gdańsku,\n• 2000: nagroda im. Andrzeja Waligórskiego „Andrzej 2000”,\n• 2008: Złota Róża Festiwalu w Montreux (Szwajcaria)."
+          "title": "Ireneusz Krosny. The Best Of",
+          "description": "Ireneusz Krosny!!! W programie najlepsze numery.\nTeatr Jednego Mima Ireneusz Krosny bawi publiczność w Polsce i na całym świecie od ponad 30 lat. Wysoka kultura, inteligentny humor, zabawa dla całej rodziny. Kto był ten wie, kto nie był – niech się przekona. Ireneusz Krosny ma własny, oryginalny styl. Jako mim nie używa makijażu, jego kostiumem jest czarny trykot, stosuje skromną scenografię i niewiele rekwizytów. Treścią jego autorskich skeczy i etiud są tematy z życia społecznego i towarzyskiego, okraszone absurdalnym humorem i zakończone zaskakującą pointą oraz ciekawym przesłaniem. Wielokrotnie widzieliśmy Irka Krosnego jako gwiazdę programów rozrywkowych i kabaretowych emitowanych na ekranach TVP 1, TVP 2, POLSATU i TVN. Karierę rozpoczął od mocnego uderzenia. W jednym sezonie 1995/1996 zdobył trzykrotnie Grand Prix na najważniejszych festiwalach kabaretowych w Polsce – Biesiadach Humoru i Satyry w Lidzbarku Warmińskim, Przeglądzie Kabaretów PAKA w Krakowie, Mazurskim Lecie Kabaretowym „Mulatka” w Ełku. W 1998 roku od amerykańskiego magazynu artystycznego „Chicago Reader” otrzymał prestiżowe wyróżnienie „The Critics’ Choice” dla najlepszego spektaklu w Chicago. W tym samym roku został laureatem głównej nagrody festiwalu kabaretowego „Kataryniarze” w Gdańsku. W 2000 roku zdobył nagrodę im. Andrzeja Waligórskiego „Andrzej 2000”, a w roku 2008 otrzymał Złotą Różę Festiwalu w Montreux (Szwajcaria)."
         },
         "en": {
-          "title": "Ireneusz Krosny – The Best Of",
-          "description": "Ireneusz Krosny presents the best pieces from his repertoire in the “The Best Of” show.\n\nIreneusz Krosny’s One-Man Mime Theatre has been entertaining audiences in Poland and around the world for over 30 years. Refined, intelligent humor and fun for the whole family.\n\nThe artist has his own unique style. As a mime, he wears no makeup; his costume is a black leotard, and the set is simple, with few props.\n\nHis original sketches and short performances draw on themes from social and everyday life, seasoned with absurd humor and ending with a surprising punchline and an engaging message.\n\nIrek Krosny has appeared as a star on entertainment and comedy shows broadcast on TVP 1, TVP 2, Polsat, and TVN.\n\nHe launched his career with a bang. In the 1995/1996 season, he won the Grand Prix three times at fes"
+          "title": "Ireneusz Krosny. The Best Of",
+          "description": "Ireneusz Krosny!!! The show features his best acts.\nThe One-Man Mime Theatre: Ireneusz Krosny has been entertaining audiences in Poland and around the world for over 30 years. High standards, intelligent humor, and fun for the whole family. Those who have seen him know; those who haven’t should come and see for themselves. Ireneusz Krosny has his own, original style. As a mime, he wears no makeup; his costume is a black leotard, and he uses simple stage sets and few props. His original sketches and mime pieces deal with social and everyday life, seasoned with absurd humor and ending with a surprising punchline and an interesting message. We have seen Irek Krosny many times as a star of entertainment and cabaret shows broadcast on TVP 1, TVP 2, POLSAT, and TVN. He began his career with a bang. In one season, 1995/19."
         },
         "uk": {
-          "title": "Іренеуш Кросни – Найкраще",
-          "description": "Іренеуш Кросни представляє у програмі «Найкраще» найкращі номери зі свого репертуару.\n\nТеатр одного міма Іренеуша Кросного розважає публіку в Польщі та в усьому світі вже понад 30 років. Висока культура, інтелектуальний гумор і розвага для всієї родини.\n\nАртист має власний, оригінальний стиль. Як мім, він не використовує гриму, його костюм — чорний трико, а сценографія скромна, реквізиту небагато.\n\nТемами його авторських скетчів та етюдів є суспільне й світське життя; вони приправлені абсурдним гумором, завершуються несподіваною кінцівкою та несуть цікаве послання.\n\nІрек Кросни виступав як зірка розважальних і кабаретних програм, що транслювалися на TVP 1, TVP 2, Polsat і TVN.\n\nВін розпочав кар’єру з потужного удару. У сезоні 1995/1996 він тричі здобув Гран-прі на фес"
+          "title": "Іренеуш Кросни. Найкраще",
+          "description": "Іренеуш Кросни!!! У програмі — найкращі номери.\nТеатр одного міма Іренеуша Кросни розважає публіку в Польщі та в усьому світі вже понад 30 років. Висока культура, інтелектуальний гумор, розвага для всієї родини. Хто був — той знає, а хто не був — нехай переконається. Іренеуш Кросни має власний, оригінальний стиль. Як мім він не використовує макіяжу, його костюм — чорний трико, він використовує скромні декорації та небагато реквізиту. Темами його авторських скетчів і мініатюр є сюжети із суспільного та світського життя, приправлені абсурдним гумором і завершені несподіваною кульмінацією та цікавим посилом. Ми неодноразово бачили Ірека Кросного як зірку розважальних і кабаретних програм, що транслювалися на телеканалах TVP 1, TVP 2, POLSAT і TVN. Він розпочав кар’єру з потужного старту. В одному сезоні 1995/19"
         }
       },
       "admission": {
-        "is_free": false
+        "is_free": false,
+        "ticket_url": "https://teatrszczescie.pl/repertuar/"
       },
       "district": "Nowa Huta",
-      "updated_at": "2026-11-12T15:21:09.349241+00:00"
+      "updated_at": "2026-11-15T13:53:24.531165+00:00"
     },
     "adonis-ma-go-cia-2026-11-30T09:00:00+01:00": {
       "title": "Adonis ma gościa",
@@ -21526,6 +21537,813 @@
       },
       "district": "Stare Miasto",
       "updated_at": "2026-11-14T13:32:48.304699+00:00"
+    },
+    "listopadowe-wydarzenia-w-centrum-kultury-podg-rza-wielka-wyprawa-pana-malu-kiewicza-2026-11-20T09:45:00+01:00": {
+      "description": "W listopadowym programie wydarzeń organizowanych przez Centrum Kultury Podgórza nie zabraknie charakterystycznych dla tego miesiąca elementów. Pojawią się jednak w formach mniej oczywistych – ze sporą dawką muzyki i śpiewu.\n\nFot. archiwum Centrum Kultury Podgórza\n\nAntidotum na jesienną nudę\n\nKapryśna listopadowa aura sprawia, że mniej jest okazji do aktywności na świeżym powietrzu, co doskwiera zwłaszcza najmłodszym (choć nie tylko). Centrum Kultury Podgórza ma na to sposób – a właściwie kilka.\n\nKolejna teatralna propozycja to **spektakl „Wielka wyprawa Pana Maluśkiewicza”** (dla dzieci 3+), w wykonaniu O! Teatru, który będzie wystawiany w Ośrodku Ruczaj już w piątek, **20 listopada**,o godz. 9.45 (wydarzenie dla odbiorców indywidualnych i grup zorganizowanych). Wraz z Panem Maluśkiewiczem dzieci poznają mieszkańców Afryki i ich niezwykłe cechy. Motylim samolotem dotrą nad morze, gdzie wspólnie z kapitanem nauczą się piosenki prawdziwego wilka morskiego. A wszystko to za sprawą niespodziewanej wizyty listonosza... Przedstawienie jest oparte na wierszach J. Tuwima („Pan Maluśkiewicz”, „Murzynek Bambo\", „Pan Hilary\", „Lokomotywa”, „Motyle”) oraz Jana Brzechwy („Zoo”). Wykorzystuje też różnorodne motywy muzyczne – od kołysanki, przez operę i muzykę etniczną i filmową po odgłosy przyrody. Bilety na **stronie**.\n\nW niedzielę, **29 listopada**, o godz. 11.00 odbędzie siętam**muzyczne widowisko „W krainie dziecięcej wyobraźni”**. Duo Performance (wokaliści Monika Biederman-Pers i Piotr Karzełek) wykonają znane i lubiane piosenki z filmów animowanych Disney’a (m.in. „Mała Syrenka”, „Aladyn”, „Kraina Lodu”, „Vaiana”, „Pocahontas”, „Król Lew”) oraz innych popularnych bajek. Muzyczne występy będą połączone ze wspólną zabawą i interakcją z publicznością. Na najmłodszych czekają animacje, konkursy, tańce oraz spotkania z bajkowymi bohaterami. Całość dopełnią efekty specjalne – widowiskowe bańki mydlane i śnieżna zamieć. Bilety do nabycia online lub w biurze Klubu Płaszów.\n\nNie zapominamy również o najmłodszych. Z okazji Dnia Życzliwości, w sobotę, **21 listopada**, o godz. 11.00, Ośrodek Ruczaj zaprasza dzieci w wieku 0-3 lat z opiekunami na **koncert gordonowski „Bobobrzmienia”**. Bilety na **stronie**.",
+      "image": "https://plikimpi.krakow.pl/zalacznik/638050/4.webp",
+      "url": "https://krakow.pl/aktualnosci/344032,33,komunikat,listopadowe_wydarzenia_w_centrum_kultury_podgorza.html",
+      "source": "krakow.pl",
+      "title": "Listopadowe wydarzenia w Centrum Kultury Podgórza: Wielka wyprawa Pana Maluśkiewicza",
+      "date": "2026-11-20T09:45:00+01:00",
+      "end_date": "2026-11-20T09:45:00+01:00",
+      "startTimeKnown": true,
+      "source_url": "https://krakow.pl/aktualnosci/344032,33,komunikat,listopadowe_wydarzenia_w_centrum_kultury_podgorza.html",
+      "location": {
+        "name": "Ośrodek Ruczaj",
+        "address": "Ośrodek Ruczaj",
+        "district": "Dębniki"
+      },
+      "scrapped_url": "https://krakow.pl/aktualnosci/344032,33,komunikat,listopadowe_wydarzenia_w_centrum_kultury_podgorza.html",
+      "scrapped_timestamp": "2026-11-15T13:40:40.425230+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Listopadowe wydarzenia w Centrum Kultury Podgórza: Wielka wyprawa Pana Maluśkiewicza",
+          "description": "W listopadowym programie wydarzeń organizowanych przez Centrum Kultury Podgórza nie zabraknie charakterystycznych dla tego miesiąca elementów. Pojawią się jednak w formach mniej oczywistych – ze sporą dawką muzyki i śpiewu.\n\nFot. archiwum Centrum Kultury Podgórza\n\nAntidotum na jesienną nudę\n\nKapryśna listopadowa aura sprawia, że mniej jest okazji do aktywności na świeżym powietrzu, co doskwiera zwłaszcza najmłodszym (choć nie tylko). Centrum Kultury Podgórza ma na to sposób – a właściwie kilka.\n\nKolejna teatralna propozycja to **spektakl „Wielka wyprawa Pana Maluśkiewicza”** (dla dzieci 3+), w wykonaniu O! Teatru, który będzie wystawiany w Ośrodku Ruczaj już w piątek, **20 listopada**,o godz. 9.45 (wydarzenie dla odbiorców indywidualnych i grup zorganizowanych). Wraz z Panem Maluśkiewiczem dzieci poznają mieszkańców Afryki i ich niezwykłe cechy. Motylim samolotem dotrą nad morze, gdzie wspólnie z kapitanem nauczą się piosenki prawdziwego wilka morskiego. A wszystko to za sprawą niespodziewanej wizyty listonosza... Przedstawienie jest oparte na wierszach J. Tuwima („Pan Maluśkiewicz”, „Murzynek Bambo\", „Pan Hilary\", „Lokomotywa”, „Motyle”) oraz Jana Brzechwy („Zoo”). Wykorzystuje też różnorodne motywy muzyczne – od kołysanki, przez operę i muzykę etniczną i filmową po odgłosy przyrody. Bilety na **stronie**.\n\nW niedzielę, **29 listopada**, o godz. 11.00 odbędzie siętam**muzyczne widowisko „W krainie dziecięcej wyobraźni”**. Duo Performance (wokaliści Monika Biederman-Pers i Piotr Karzełek) wykonają znane i lubiane piosenki z filmów animowanych Disney’a (m.in. „Mała Syrenka”, „Aladyn”, „Kraina Lodu”, „Vaiana”, „Pocahontas”, „Król Lew”) oraz innych popularnych bajek. Muzyczne występy będą połączone ze wspólną zabawą i interakcją z publicznością. Na najmłodszych czekają animacje, konkursy, tańce oraz spotkania z bajkowymi bohaterami. Całość dopełnią efekty specjalne – widowiskowe bańki mydlane i śnieżna zamieć. Bilety do nabycia online lub w biurze Klubu Płaszów.\n\nNie zapominamy również o najmłodszych. Z okazji Dnia Życzliwości, w sobotę, **21 listopada**, o godz. 11.00, Ośrodek Ruczaj zaprasza dzieci w wieku 0-3 lat z opiekunami na **koncert gordonowski „Bobobrzmienia”**. Bilety na **stronie**."
+        },
+        "en": {
+          "title": "November Events at Podgórze Cultural Centre: The Great Expedition of Mr. Maluśkiewicz",
+          "description": "The November program of events organized by Podgórze Cultural Centre will include some of the elements characteristic of this month. They will appear, however, in less obvious forms—with a generous dose of music and singing.\n\nPhoto: Podgórze Cultural Centre archive\n\nAn antidote to autumn boredom\n\nThe capricious November weather means fewer opportunities for outdoor activities, which is especially hard on the youngest children (though not only them). Podgórze Cultural Centre has a solution for this—or rather, several.\n\nAnother theatrical offering is the **performance “The Great Expedition of Mr. Maluśkiewicz”** (for children aged 3+), performed by O! Theatre, which will be staged at the Ruczaj Centre as soon as Friday, **November 20**,at 9:45 a.m. (an event for individual visitors and organized groups). Together with Mr. Maluśkiewicz"
+        },
+        "uk": {
+          "title": "Листопадові події в Центрі культури Подгуже: Велика подорож пана Малуськевича",
+          "description": "У листопадовій програмі подій, організованих Центром культури Подгуже, не бракуватиме характерних для цього місяця елементів. Однак вони з’являться в менш очевидних формах — із чималою дозою музики та співу.\n\nФото: архів Центру культури Подгуже\n\nПротиотрута від осінньої нудьги\n\nПримхлива листопадова погода означає, що нагод для активного відпочинку на свіжому повітрі стає менше, і це особливо дошкуляє наймолодшим (хоча не лише їм). Центр культури Подгуже має спосіб зарадити цьому — а точніше, кілька.\n\nНаступна театральна пропозиція — **вистава «Велика подорож пана Малуськевича»** (для дітей віком від 3 років) у виконанні театру O!, яку покажуть у Центрі Ручай уже в п’ятницю, **20 листопада**,о 9.45 (подія для індивідуальних відвідувачів і організованих груп). Разом із паном Малуськевичем"
+        }
+      },
+      "district": "Dębniki",
+      "updated_at": "2026-11-15T13:53:24.530858+00:00"
+    },
+    "listopadowe-wydarzenia-w-centrum-kultury-podg-rza-w-krainie-dzieci-cej-wyobra-ni-2026-11-29T11:00:00+01:00": {
+      "description": "W listopadowym programie wydarzeń organizowanych przez Centrum Kultury Podgórza nie zabraknie charakterystycznych dla tego miesiąca elementów. Pojawią się jednak w formach mniej oczywistych – ze sporą dawką muzyki i śpiewu.\n\nFot. archiwum Centrum Kultury Podgórza\n\nAntidotum na jesienną nudę\n\nKapryśna listopadowa aura sprawia, że mniej jest okazji do aktywności na świeżym powietrzu, co doskwiera zwłaszcza najmłodszym (choć nie tylko). Centrum Kultury Podgórza ma na to sposób – a właściwie kilka.\n\nKolejna teatralna propozycja to **spektakl „Wielka wyprawa Pana Maluśkiewicza”** (dla dzieci 3+), w wykonaniu O! Teatru, który będzie wystawiany w Ośrodku Ruczaj już w piątek, **20 listopada**,o godz. 9.45 (wydarzenie dla odbiorców indywidualnych i grup zorganizowanych). Wraz z Panem Maluśkiewiczem dzieci poznają mieszkańców Afryki i ich niezwykłe cechy. Motylim samolotem dotrą nad morze, gdzie wspólnie z kapitanem nauczą się piosenki prawdziwego wilka morskiego. A wszystko to za sprawą niespodziewanej wizyty listonosza... Przedstawienie jest oparte na wierszach J. Tuwima („Pan Maluśkiewicz”, „Murzynek Bambo\", „Pan Hilary\", „Lokomotywa”, „Motyle”) oraz Jana Brzechwy („Zoo”). Wykorzystuje też różnorodne motywy muzyczne – od kołysanki, przez operę i muzykę etniczną i filmową po odgłosy przyrody. Bilety na **stronie**.\n\nW niedzielę, **29 listopada**, o godz. 11.00 odbędzie siętam**muzyczne widowisko „W krainie dziecięcej wyobraźni”**. Duo Performance (wokaliści Monika Biederman-Pers i Piotr Karzełek) wykonają znane i lubiane piosenki z filmów animowanych Disney’a (m.in. „Mała Syrenka”, „Aladyn”, „Kraina Lodu”, „Vaiana”, „Pocahontas”, „Król Lew”) oraz innych popularnych bajek. Muzyczne występy będą połączone ze wspólną zabawą i interakcją z publicznością. Na najmłodszych czekają animacje, konkursy, tańce oraz spotkania z bajkowymi bohaterami. Całość dopełnią efekty specjalne – widowiskowe bańki mydlane i śnieżna zamieć. Bilety do nabycia online lub w biurze Klubu Płaszów.\n\nNie zapominamy również o najmłodszych. Z okazji Dnia Życzliwości, w sobotę, **21 listopada**, o godz. 11.00, Ośrodek Ruczaj zaprasza dzieci w wieku 0-3 lat z opiekunami na **koncert gordonowski „Bobobrzmienia”**. Bilety na **stronie**.",
+      "image": "https://plikimpi.krakow.pl/zalacznik/638050/4.webp",
+      "url": "https://krakow.pl/aktualnosci/344032,33,komunikat,listopadowe_wydarzenia_w_centrum_kultury_podgorza.html",
+      "source": "krakow.pl",
+      "title": "Listopadowe wydarzenia w Centrum Kultury Podgórza: W krainie dziecięcej wyobraźni",
+      "date": "2026-11-29T11:00:00+01:00",
+      "end_date": "2026-11-29T11:00:00+01:00",
+      "startTimeKnown": true,
+      "source_url": "https://krakow.pl/aktualnosci/344032,33,komunikat,listopadowe_wydarzenia_w_centrum_kultury_podgorza.html",
+      "location": {
+        "name": "Ośrodek Ruczaj",
+        "address": "Ośrodek Ruczaj",
+        "district": "Dębniki"
+      },
+      "scrapped_url": "https://krakow.pl/aktualnosci/344032,33,komunikat,listopadowe_wydarzenia_w_centrum_kultury_podgorza.html",
+      "scrapped_timestamp": "2026-11-15T13:40:58.620472+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Listopadowe wydarzenia w Centrum Kultury Podgórza: W krainie dziecięcej wyobraźni",
+          "description": "W listopadowym programie wydarzeń organizowanych przez Centrum Kultury Podgórza nie zabraknie charakterystycznych dla tego miesiąca elementów. Pojawią się jednak w formach mniej oczywistych – ze sporą dawką muzyki i śpiewu.\n\nFot. archiwum Centrum Kultury Podgórza\n\nAntidotum na jesienną nudę\n\nKapryśna listopadowa aura sprawia, że mniej jest okazji do aktywności na świeżym powietrzu, co doskwiera zwłaszcza najmłodszym (choć nie tylko). Centrum Kultury Podgórza ma na to sposób – a właściwie kilka.\n\nKolejna teatralna propozycja to **spektakl „Wielka wyprawa Pana Maluśkiewicza”** (dla dzieci 3+), w wykonaniu O! Teatru, który będzie wystawiany w Ośrodku Ruczaj już w piątek, **20 listopada**,o godz. 9.45 (wydarzenie dla odbiorców indywidualnych i grup zorganizowanych). Wraz z Panem Maluśkiewiczem dzieci poznają mieszkańców Afryki i ich niezwykłe cechy. Motylim samolotem dotrą nad morze, gdzie wspólnie z kapitanem nauczą się piosenki prawdziwego wilka morskiego. A wszystko to za sprawą niespodziewanej wizyty listonosza... Przedstawienie jest oparte na wierszach J. Tuwima („Pan Maluśkiewicz”, „Murzynek Bambo\", „Pan Hilary\", „Lokomotywa”, „Motyle”) oraz Jana Brzechwy („Zoo”). Wykorzystuje też różnorodne motywy muzyczne – od kołysanki, przez operę i muzykę etniczną i filmową po odgłosy przyrody. Bilety na **stronie**.\n\nW niedzielę, **29 listopada**, o godz. 11.00 odbędzie siętam**muzyczne widowisko „W krainie dziecięcej wyobraźni”**. Duo Performance (wokaliści Monika Biederman-Pers i Piotr Karzełek) wykonają znane i lubiane piosenki z filmów animowanych Disney’a (m.in. „Mała Syrenka”, „Aladyn”, „Kraina Lodu”, „Vaiana”, „Pocahontas”, „Król Lew”) oraz innych popularnych bajek. Muzyczne występy będą połączone ze wspólną zabawą i interakcją z publicznością. Na najmłodszych czekają animacje, konkursy, tańce oraz spotkania z bajkowymi bohaterami. Całość dopełnią efekty specjalne – widowiskowe bańki mydlane i śnieżna zamieć. Bilety do nabycia online lub w biurze Klubu Płaszów.\n\nNie zapominamy również o najmłodszych. Z okazji Dnia Życzliwości, w sobotę, **21 listopada**, o godz. 11.00, Ośrodek Ruczaj zaprasza dzieci w wieku 0-3 lat z opiekunami na **koncert gordonowski „Bobobrzmienia”**. Bilety na **stronie**."
+        },
+        "en": {
+          "title": "November Events at the Podgórze Culture Centre: In the Land of Children's Imagination",
+          "description": "The November program of events organized by Podgórze Cultural Centre will include some of the elements characteristic of this month. They will appear, however, in less obvious forms—with a generous dose of music and singing.\n\nPhoto: Podgórze Cultural Centre archive\n\nAn antidote to autumn boredom\n\nThe capricious November weather means fewer opportunities for outdoor activities, which is especially hard on the youngest children (though not only them). Podgórze Cultural Centre has a solution for this—or rather, several.\n\nAnother theatrical offering is the **performance “The Great Expedition of Mr. Maluśkiewicz”** (for children aged 3+), performed by O! Theatre, which will be staged at the Ruczaj Centre as soon as Friday, **November 20**,at 9:45 a.m. (an event for individual visitors and organized groups). Together with Mr. Maluśkiewicz"
+        },
+        "uk": {
+          "title": "Листопадові події в Центрі культури Подгуже: У країні дитячої уяви",
+          "description": "У листопадовій програмі подій, організованих Центром культури Подгуже, не бракуватиме характерних для цього місяця елементів. Однак вони з’являться в менш очевидних формах — із чималою дозою музики та співу.\n\nФото: архів Центру культури Подгуже\n\nПротиотрута від осінньої нудьги\n\nПримхлива листопадова погода означає, що нагод для активного відпочинку на свіжому повітрі стає менше, і це особливо дошкуляє наймолодшим (хоча не лише їм). Центр культури Подгуже має спосіб зарадити цьому — а точніше, кілька.\n\nНаступна театральна пропозиція — **вистава «Велика подорож пана Малуськевича»** (для дітей віком від 3 років) у виконанні театру O!, яку покажуть у Центрі Ручай уже в п’ятницю, **20 листопада**,о 9.45 (подія для індивідуальних відвідувачів і організованих груп). Разом із паном Малуськевичем"
+        }
+      },
+      "district": "Dębniki",
+      "updated_at": "2026-11-15T13:53:24.530932+00:00"
+    },
+    "listopadowe-wydarzenia-w-centrum-kultury-podg-rza-bobobrzmienia-2026-11-21T11:00:00+01:00": {
+      "description": "W listopadowym programie wydarzeń organizowanych przez Centrum Kultury Podgórza nie zabraknie charakterystycznych dla tego miesiąca elementów. Pojawią się jednak w formach mniej oczywistych – ze sporą dawką muzyki i śpiewu.\n\nFot. archiwum Centrum Kultury Podgórza\n\nAntidotum na jesienną nudę\n\nKapryśna listopadowa aura sprawia, że mniej jest okazji do aktywności na świeżym powietrzu, co doskwiera zwłaszcza najmłodszym (choć nie tylko). Centrum Kultury Podgórza ma na to sposób – a właściwie kilka.\n\nKolejna teatralna propozycja to **spektakl „Wielka wyprawa Pana Maluśkiewicza”** (dla dzieci 3+), w wykonaniu O! Teatru, który będzie wystawiany w Ośrodku Ruczaj już w piątek, **20 listopada**,o godz. 9.45 (wydarzenie dla odbiorców indywidualnych i grup zorganizowanych). Wraz z Panem Maluśkiewiczem dzieci poznają mieszkańców Afryki i ich niezwykłe cechy. Motylim samolotem dotrą nad morze, gdzie wspólnie z kapitanem nauczą się piosenki prawdziwego wilka morskiego. A wszystko to za sprawą niespodziewanej wizyty listonosza... Przedstawienie jest oparte na wierszach J. Tuwima („Pan Maluśkiewicz”, „Murzynek Bambo\", „Pan Hilary\", „Lokomotywa”, „Motyle”) oraz Jana Brzechwy („Zoo”). Wykorzystuje też różnorodne motywy muzyczne – od kołysanki, przez operę i muzykę etniczną i filmową po odgłosy przyrody. Bilety na **stronie**.\n\nW niedzielę, **29 listopada**, o godz. 11.00 odbędzie siętam**muzyczne widowisko „W krainie dziecięcej wyobraźni”**. Duo Performance (wokaliści Monika Biederman-Pers i Piotr Karzełek) wykonają znane i lubiane piosenki z filmów animowanych Disney’a (m.in. „Mała Syrenka”, „Aladyn”, „Kraina Lodu”, „Vaiana”, „Pocahontas”, „Król Lew”) oraz innych popularnych bajek. Muzyczne występy będą połączone ze wspólną zabawą i interakcją z publicznością. Na najmłodszych czekają animacje, konkursy, tańce oraz spotkania z bajkowymi bohaterami. Całość dopełnią efekty specjalne – widowiskowe bańki mydlane i śnieżna zamieć. Bilety do nabycia online lub w biurze Klubu Płaszów.\n\nNie zapominamy również o najmłodszych. Z okazji Dnia Życzliwości, w sobotę, **21 listopada**, o godz. 11.00, Ośrodek Ruczaj zaprasza dzieci w wieku 0-3 lat z opiekunami na **koncert gordonowski „Bobobrzmienia”**. Bilety na **stronie**.",
+      "image": "https://plikimpi.krakow.pl/zalacznik/638050/4.webp",
+      "url": "https://krakow.pl/aktualnosci/344032,33,komunikat,listopadowe_wydarzenia_w_centrum_kultury_podgorza.html",
+      "source": "krakow.pl",
+      "title": "Listopadowe wydarzenia w Centrum Kultury Podgórza: Bobobrzmienia",
+      "date": "2026-11-21T11:00:00+01:00",
+      "end_date": "2026-11-21T11:00:00+01:00",
+      "startTimeKnown": true,
+      "source_url": "https://krakow.pl/aktualnosci/344032,33,komunikat,listopadowe_wydarzenia_w_centrum_kultury_podgorza.html",
+      "location": {
+        "name": "Ośrodek Ruczaj",
+        "address": "Ośrodek Ruczaj",
+        "district": "Dębniki"
+      },
+      "scrapped_url": "https://krakow.pl/aktualnosci/344032,33,komunikat,listopadowe_wydarzenia_w_centrum_kultury_podgorza.html",
+      "scrapped_timestamp": "2026-11-15T13:41:03.401954+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 0,
+        "max": 3
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Listopadowe wydarzenia w Centrum Kultury Podgórza: Bobobrzmienia",
+          "description": "W listopadowym programie wydarzeń organizowanych przez Centrum Kultury Podgórza nie zabraknie charakterystycznych dla tego miesiąca elementów. Pojawią się jednak w formach mniej oczywistych – ze sporą dawką muzyki i śpiewu.\n\nFot. archiwum Centrum Kultury Podgórza\n\nAntidotum na jesienną nudę\n\nKapryśna listopadowa aura sprawia, że mniej jest okazji do aktywności na świeżym powietrzu, co doskwiera zwłaszcza najmłodszym (choć nie tylko). Centrum Kultury Podgórza ma na to sposób – a właściwie kilka.\n\nKolejna teatralna propozycja to **spektakl „Wielka wyprawa Pana Maluśkiewicza”** (dla dzieci 3+), w wykonaniu O! Teatru, który będzie wystawiany w Ośrodku Ruczaj już w piątek, **20 listopada**,o godz. 9.45 (wydarzenie dla odbiorców indywidualnych i grup zorganizowanych). Wraz z Panem Maluśkiewiczem dzieci poznają mieszkańców Afryki i ich niezwykłe cechy. Motylim samolotem dotrą nad morze, gdzie wspólnie z kapitanem nauczą się piosenki prawdziwego wilka morskiego. A wszystko to za sprawą niespodziewanej wizyty listonosza... Przedstawienie jest oparte na wierszach J. Tuwima („Pan Maluśkiewicz”, „Murzynek Bambo\", „Pan Hilary\", „Lokomotywa”, „Motyle”) oraz Jana Brzechwy („Zoo”). Wykorzystuje też różnorodne motywy muzyczne – od kołysanki, przez operę i muzykę etniczną i filmową po odgłosy przyrody. Bilety na **stronie**.\n\nW niedzielę, **29 listopada**, o godz. 11.00 odbędzie siętam**muzyczne widowisko „W krainie dziecięcej wyobraźni”**. Duo Performance (wokaliści Monika Biederman-Pers i Piotr Karzełek) wykonają znane i lubiane piosenki z filmów animowanych Disney’a (m.in. „Mała Syrenka”, „Aladyn”, „Kraina Lodu”, „Vaiana”, „Pocahontas”, „Król Lew”) oraz innych popularnych bajek. Muzyczne występy będą połączone ze wspólną zabawą i interakcją z publicznością. Na najmłodszych czekają animacje, konkursy, tańce oraz spotkania z bajkowymi bohaterami. Całość dopełnią efekty specjalne – widowiskowe bańki mydlane i śnieżna zamieć. Bilety do nabycia online lub w biurze Klubu Płaszów.\n\nNie zapominamy również o najmłodszych. Z okazji Dnia Życzliwości, w sobotę, **21 listopada**, o godz. 11.00, Ośrodek Ruczaj zaprasza dzieci w wieku 0-3 lat z opiekunami na **koncert gordonowski „Bobobrzmienia”**. Bilety na **stronie**."
+        },
+        "en": {
+          "title": "November events at the Podgórze Cultural Center: Bobobrzmienia",
+          "description": "The November program of events organized by Podgórze Cultural Centre will include some of the elements characteristic of this month. They will appear, however, in less obvious forms—with a generous dose of music and singing.\n\nPhoto: Podgórze Cultural Centre archive\n\nAn antidote to autumn boredom\n\nThe capricious November weather means fewer opportunities for outdoor activities, which is especially hard on the youngest children (though not only them). Podgórze Cultural Centre has a solution for this—or rather, several.\n\nAnother theatrical offering is the **performance “The Great Expedition of Mr. Maluśkiewicz”** (for children aged 3+), performed by O! Theatre, which will be staged at the Ruczaj Centre as soon as Friday, **November 20**,at 9:45 a.m. (an event for individual visitors and organized groups). Together with Mr. Maluśkiewicz"
+        },
+        "uk": {
+          "title": "Листопадові події в Центрі культури Подгуже: Бобобрзміння",
+          "description": "У листопадовій програмі подій, організованих Центром культури Подгуже, не бракуватиме характерних для цього місяця елементів. Однак вони з’являться в менш очевидних формах — із чималою дозою музики та співу.\n\nФото: архів Центру культури Подгуже\n\nПротиотрута від осінньої нудьги\n\nПримхлива листопадова погода означає, що нагод для активного відпочинку на свіжому повітрі стає менше, і це особливо дошкуляє наймолодшим (хоча не лише їм). Центр культури Подгуже має спосіб зарадити цьому — а точніше, кілька.\n\nНаступна театральна пропозиція — **вистава «Велика подорож пана Малуськевича»** (для дітей віком від 3 років) у виконанні театру O!, яку покажуть у Центрі Ручай уже в п’ятницю, **20 листопада**,о 9.45 (подія для індивідуальних відвідувачів і організованих груп). Разом із паном Малуськевичем"
+        }
+      },
+      "district": "Dębniki",
+      "updated_at": "2026-11-15T13:53:24.530958+00:00"
+    },
+    "archeologiczne-wykopaliska-w-spektaklu-teatru-groteska-2026-12-19T19:00:00+01:00": {
+      "description": "Archeologiczne wykopaliska w ekstremalnych warunkach – Teatr Groteska zaprasza młodzież i dorosłych na spektakl, który zabierze widzów w zupełnie odmienne rzeczywistości.\n\nFot. archiwum Teatru Groteska\n\n„**Przemiany**” w reżyserii Natalii Sakowicz-Cempury to opowieść rozgrywająca się na rozgrzanych słońcem wykopaliskach archeologicznych. Skwar, kończąca się woda i zawodzący sprzęt wystawiają na próbę grupę archeolożek i archeologów. W niewielkiej, odciętej od świata społeczności napięcia narastają szybciej niż pojawiają się kolejne znaleziska. Spektakl otwiera scenę eksperymentalną Teatru Groteska, zapraszając do świata, w którym trudne warunki pracy stają się próbą dla całego zespołu.\n\nNajbliższe terminy:\n\n• **19 grudnia**, godz. 19.00\n\nSzczegółowe informacje o spektaklu, repertuarze i aktualnej ofercie Teatru Groteska można znaleźć na stronie **www.groteska.pl**.",
+      "image": "https://plikimpi.krakow.pl/zalacznik/632131/4.jpg",
+      "url": "https://krakow.pl/aktualnosci/341875,33,komunikat,archeologiczne_wykopaliska_w_spektaklu_teatru_groteska.html",
+      "source": "krakow.pl",
+      "location": {
+        "name": "Teatr Groteska, Kraków",
+        "address": "Teatr Groteska, Kraków",
+        "district": "Stare Miasto"
+      },
+      "district": "Stare Miasto",
+      "title": "Archeologiczne wykopaliska w spektaklu Teatru Groteska",
+      "date": "2026-12-19T19:00:00+01:00",
+      "end_date": "2026-12-19T19:00:00+01:00",
+      "startTimeKnown": true,
+      "source_url": "https://krakow.pl/aktualnosci/341875,33,komunikat,archeologiczne_wykopaliska_w_spektaklu_teatru_groteska.html",
+      "scrapped_url": "https://krakow.pl/aktualnosci/341875,33,komunikat,archeologiczne_wykopaliska_w_spektaklu_teatru_groteska.html",
+      "scrapped_timestamp": "2026-11-15T13:41:10.655452+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 13,
+        "max": 18
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Archeologiczne wykopaliska w spektaklu Teatru Groteska",
+          "description": "Archeologiczne wykopaliska w ekstremalnych warunkach – Teatr Groteska zaprasza młodzież i dorosłych na spektakl, który zabierze widzów w zupełnie odmienne rzeczywistości.\n\nFot. archiwum Teatru Groteska\n\n„**Przemiany**” w reżyserii Natalii Sakowicz-Cempury to opowieść rozgrywająca się na rozgrzanych słońcem wykopaliskach archeologicznych. Skwar, kończąca się woda i zawodzący sprzęt wystawiają na próbę grupę archeolożek i archeologów. W niewielkiej, odciętej od świata społeczności napięcia narastają szybciej niż pojawiają się kolejne znaleziska. Spektakl otwiera scenę eksperymentalną Teatru Groteska, zapraszając do świata, w którym trudne warunki pracy stają się próbą dla całego zespołu.\n\nNajbliższe terminy:\n\n• **19 grudnia**, godz. 19.00\n\nSzczegółowe informacje o spektaklu, repertuarze i aktualnej ofercie Teatru Groteska można znaleźć na stronie **www.groteska.pl**."
+        },
+        "en": {
+          "title": "Archaeological Excavations in a Teatr Groteska Performance",
+          "description": "Archaeological excavations in extreme conditions – Teatr Groteska invites young people and adults to a performance that will take audiences into entirely different realities.\n\nPhoto: Teatr Groteska archive\n\n“**Transformations**,” directed by Natalia Sakowicz-Cempura, is a story set at archaeological excavations under the scorching sun. The heat, dwindling water supplies and failing equipment put a group of women and men archaeologists to the test. In a small community cut off from the world, tensions rise faster than new discoveries emerge. The performance opens Teatr Groteska’s experimental stage, inviting audiences into a world where difficult working conditions become a test for the entire team.\n\nUpcoming dates:\n\n• **December 19**, 7:00 p.m.\n\nFor detailed information about the performance, repertoire and ..."
+        },
+        "uk": {
+          "title": "Археологічні розкопки у виставі Театру «Ґротеска»",
+          "description": "Археологічні розкопки в екстремальних умовах — Театр «Ґротеска» запрошує молодь і дорослих на виставу, яка перенесе глядачів у цілком інші реальності.\n\nФото: архів Театру «Ґротеска»\n\n«**Перетворення**» у постановці Наталії Сакович-Цемпури — це історія, що розгортається на розпечених сонцем археологічних розкопках. Спека, вода, що закінчується, і техніка, яка підводить, випробовують групу археологинь і археологів. У невеликій, відрізаній від світу спільноті напруга зростає швидше, ніж з’являються нові знахідки. Вистава відкриває експериментальну сцену Театру «Ґротеска», запрошуючи у світ, де складні умови праці стають випробуванням для всієї команди.\n\nНайближчі дати:\n\n• **19 грудня**, о 19:00\n\nДетальна інформація про виставу, репертуар і ак"
+        }
+      },
+      "updated_at": "2026-11-15T13:53:24.530980+00:00"
+    },
+    "ksi-gi-krzysztoforskie-bitwa-mag-w-2026-11-15T11:00:00+01:00": {
+      "title": "Księgi Krzysztoforskie „Bitwa magów”",
+      "date": "2026-11-15T11:00:00+01:00",
+      "end_date": "2026-11-15T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Na czwartkowy obiad do Pałacu Krzysztofory przybywa Pan Twardowski. Pojawia się tu na zaproszenie Krzysztofora Wielkiego. Daniem głównym ma być rosół z koguta, który przyrządza kucharka Maryśka. Podczas spotkania dochodzi jednak do awantury – jak to zwykle między czarnoksiężnikami bywa, każdy z nich chce udowodnić swoją wyższość nad drugim.\n\nUczestnicząca w przedstawieniu publiczność zostanie podzielona na dwie drużyny, którym przewodzić będą czarnoksiężnicy. Podczas zmagań, nie tylko sportowych, będą ćwiczyć m.in. rzut kamieniem filozoficznym … na Księżyc. Co z tych zmagań wyniknie, dowiemy się w trakcie przedstawienia.\n\nKsięgi Krzysztoforskie to cykl spektakli dla dzieci w wieku 5-10 lat, podczas których dzieci poznają bogaty świat krakowskich podań i opowieści. W przedstawieniach pojawiają się m.in. Pan Twardowski, Smok Wawelski, szewc Skuba, Lajkonik, a także inni bohaterowie znani z legend Krakowa. Przedstawienia realizowanie są przez Teatr Otwarty. Spektakle odbywają się w Sali Miedzianej Pałacu Krzysztofory w niedzielne przedpołudnia.\n\n**Prowadzenie: Teatr Otwarty** Najważniejsze informacje Przedstawienie dla rodzin z dziećmi Miejsce wydarzenia: Sala Miedziana, Pałac Krzysztofory (1 piętro) Grupa odbiorców: Rodziny z dziećmi w wieku 5-10 lat Limit osób: 100 osób (łącznie rodziców z dziećmi) Koszt: 30 zł/ dziecko (jeden opiekun wstęp wolny) Konieczność rezerwacji przez COZ: Centrum Obsługi Zwiedzających, Rynek Główny 35, tel. (12) 426 50 60, e-mail: info@muzeumkrakowa.pl",
+      "image": "https://muzeumkrakowa.pl/media/event/ksiegi-1_detail.jpg",
+      "location": {
+        "name": "Pałac Krzysztofory",
+        "district": "Stare Miasto"
+      },
+      "url": "https://muzeumkrakowa.pl/kalendarium/ksiegi-krzysztoforskie-bitwa-magow",
+      "source": "muzeumkrakowa.pl",
+      "age_hint": "5-10",
+      "age_range": {
+        "min": 5,
+        "max": 10
+      },
+      "scrapped_url": "https://muzeumkrakowa.pl/kalendarium/ksiegi-krzysztoforskie-bitwa-magow",
+      "scrapped_timestamp": "2026-11-15T13:41:49.949964+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun",
+        "Games"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Księgi Krzysztoforskie „Bitwa magów”",
+          "description": "Na czwartkowy obiad do Pałacu Krzysztofory przybywa Pan Twardowski. Pojawia się tu na zaproszenie Krzysztofora Wielkiego. Daniem głównym ma być rosół z koguta, który przyrządza kucharka Maryśka. Podczas spotkania dochodzi jednak do awantury – jak to zwykle między czarnoksiężnikami bywa, każdy z nich chce udowodnić swoją wyższość nad drugim.\n\nUczestnicząca w przedstawieniu publiczność zostanie podzielona na dwie drużyny, którym przewodzić będą czarnoksiężnicy. Podczas zmagań, nie tylko sportowych, będą ćwiczyć m.in. rzut kamieniem filozoficznym … na Księżyc. Co z tych zmagań wyniknie, dowiemy się w trakcie przedstawienia.\n\nKsięgi Krzysztoforskie to cykl spektakli dla dzieci w wieku 5-10 lat, podczas których dzieci poznają bogaty świat krakowskich podań i opowieści. W przedstawieniach pojawiają się m.in. Pan Twardowski, Smok Wawelski, szewc Skuba, Lajkonik, a także inni bohaterowie znani z legend Krakowa. Przedstawienia realizowanie są przez Teatr Otwarty. Spektakle odbywają się w Sali Miedzianej Pałacu Krzysztofory w niedzielne przedpołudnia.\n\n**Prowadzenie: Teatr Otwarty** Najważniejsze informacje Przedstawienie dla rodzin z dziećmi Miejsce wydarzenia: Sala Miedziana, Pałac Krzysztofory (1 piętro) Grupa odbiorców: Rodziny z dziećmi w wieku 5-10 lat Limit osób: 100 osób (łącznie rodziców z dziećmi) Koszt: 30 zł/ dziecko (jeden opiekun wstęp wolny) Konieczność rezerwacji przez COZ: Centrum Obsługi Zwiedzających, Rynek Główny 35, tel. (12) 426 50 60, e-mail: info@muzeumkrakowa.pl"
+        },
+        "en": {
+          "title": "Krzysztofory Books “The Battle of the Magicians”",
+          "description": "Mr. Twardowski arrives at Krzysztofory Palace for Thursday lunch. He is here at the invitation of Krzysztofor the Great. The main course is to be rooster broth, prepared by the cook Maryśka. During the gathering, however, an argument breaks out—as is usually the case between sorcerers, each wants to prove his superiority over the other.\n\nThe audience taking part in the performance will be divided into two teams, led by the sorcerers. During the challenges, which are not all sporting ones, they will practise, among other things, throwing the philosopher’s stone … to the Moon. What will come of these challenges? We’ll find out during the performance.\n\nKrzysztofory Books is a series of performances for children aged 5–10, during which they discover the rich world of Krakow’s legends and stories. In the performances, there appears"
+        },
+        "uk": {
+          "title": "Кшиштофорські книги «Битва магів»",
+          "description": "На четверговий обід до палацу Кшиштофори прибуває пан Твардовський. Він з’являється тут на запрошення Кшиштофора Великого. Головною стравою має бути курячий бульйон, який готує куховарка Мариська. Однак під час зустрічі спалахує сварка — як це зазвичай буває між чарівниками, кожен із них хоче довести свою перевагу над іншим.\n\nГлядачів, які братимуть участь у виставі, поділять на дві команди, очолювані чарівниками. Під час змагань, не лише спортивних, вони тренуватимуться, зокрема, кидати філософський камінь… на Місяць. Що з цього вийде, дізнаємося під час вистави.\n\n«Кшиштофорські книги» — це цикл вистав для дітей віком 5–10 років, під час яких діти знайомляться з багатим світом краківських легенд і оповідей. У виставах з’явля"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531003+00:00"
+    },
+    "s-siedzka-pota-c-wka-silent-disco-2026-11-28T18:00:00+01:00": {
+      "title": "Sąsiedzka potańcówka | Silent Disco",
+      "date": "2026-11-28T18:00:00+01:00",
+      "end_date": "2026-11-28T18:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "• **28 listopada (sob.), 18:00-20:00**\n\n**Klub Strych, ul. Masarska  14**\n\nPodczas silent disco uczestnicy zakładają bezprzewodowe słuchawki i wybierają spośród dwóch kanałów muzycznych, dopasowując repertuar do własnego gustu i nastroju. Z zewnątrz impreza może wydawać się zaskakująco cicha, ale wystarczy założyć słuchawki, by odkryć parkiet pełen energii, rytmu i dobrej zabawy.\n\n.\n\n**Prowadzenie:** Michał Sagucki\n\n**Wstęp wolny!**\n\n**Informacje:** 12 421 89 92, klub.strych@krakowskieforum.pl, facebook.com/klubstrychkrakow\n\n**Uwaga!** Klub Strych znajduje się na drugim piętrze budynku bez windy.\n\nSpotkajmy się w kulturze – projekt integracji lokalnej. Projekt finansowany z budżetu Gminy Miejskiej Kraków.\n\nRegulamin zajęć i wydarzeń znajduje się na stronie Krakowskiego Forum Kultury w zakładce Regulaminy i procedury.",
+      "image": "https://krakowskieforum.pl/uploads/temp/kali/impr_3791/zajawki/normal_c1885778cf60313e791e72f0ef2f42196353b25c.jpg",
+      "location": {
+        "name": "Klub Strych ul. Masarska 14",
+        "district": "Stare Miasto"
+      },
+      "url": "https://krakowskieforum.pl/wydarzenie-3791-sasiedzka_potancowka_silent_disco-szczegoly-44966.html",
+      "source": "krakowskieforum.pl",
+      "scrapped_url": "https://krakowskieforum.pl/wydarzenie-3791-sasiedzka_potancowka_silent_disco-szczegoly-44966.html",
+      "scrapped_timestamp": "2026-11-15T13:48:09.536420+00:00",
+      "category": "Music & Dance",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Sąsiedzka potańcówka | Silent Disco",
+          "description": "• **28 listopada (sob.), 18:00-20:00**\n\n**Klub Strych, ul. Masarska  14**\n\nPodczas silent disco uczestnicy zakładają bezprzewodowe słuchawki i wybierają spośród dwóch kanałów muzycznych, dopasowując repertuar do własnego gustu i nastroju. Z zewnątrz impreza może wydawać się zaskakująco cicha, ale wystarczy założyć słuchawki, by odkryć parkiet pełen energii, rytmu i dobrej zabawy.\n\n.\n\n**Prowadzenie:** Michał Sagucki\n\n**Wstęp wolny!**\n\n**Informacje:** 12 421 89 92, klub.strych@krakowskieforum.pl, facebook.com/klubstrychkrakow\n\n**Uwaga!** Klub Strych znajduje się na drugim piętrze budynku bez windy.\n\nSpotkajmy się w kulturze – projekt integracji lokalnej. Projekt finansowany z budżetu Gminy Miejskiej Kraków.\n\nRegulamin zajęć i wydarzeń znajduje się na stronie Krakowskiego Forum Kultury w zakładce Regulaminy i procedury."
+        },
+        "en": {
+          "title": "Neighborhood Dance Party | Silent Disco",
+          "description": "• **November 28 (Sat.), 18:00-20:00**\n\n**Klub Strych, 14 Masarska St.**\n\nAt the silent disco, participants put on wireless headphones and choose between two music channels, matching the playlist to their own taste and mood. From the outside, the party may seem surprisingly quiet, but all it takes is putting on the headphones to discover a dance floor full of energy, rhythm, and fun.\n\n.\n\n**Hosted by:** Michał Sagucki\n\n**Free admission!**\n\n**Information:** 12 421 89 92, klub.strych@krakowskieforum.pl, facebook.com/klubstrychkrakow\n\n**Please note!** Klub Strych is located on the second floor of a building with no elevator.\n\nLet's meet through culture – a local integration project. The project is funded by the budget of the Municipality of Kraków.\n\nThe rules for classes and events can be found on the Krakow Forum of Culture website in the tab"
+        },
+        "uk": {
+          "title": "Sąsiedzka potańcówka | Silent Disco",
+          "description": "• **28 listopada (sob.), 18:00-20:00**\n\n**Klub Strych, ul. Masarska  14**\n\nPodczas silent disco uczestnicy zakładają bezprzewodowe słuchawki i wybierają spośród dwóch kanałów muzycznych, dopasowując repertuar do własnego gustu i nastroju. Z zewnątrz impreza może wydawać się zaskakująco cicha, ale wystarczy założyć słuchawki, by odkryć parkiet pełen energii, rytmu i dobrej zabawy.\n\n.\n\n**Prowadzenie:** Michał Sagucki\n\n**Wstęp wolny!**\n\n**Informacje:** 12 421 89 92, klub.strych@krakowskieforum.pl, facebook.com/klubstrychkrakow\n\n**Uwaga!** Klub Strych znajduje się na drugim piętrze budynku bez windy.\n\nSpotkajmy się w kulturze – projekt integracji lokalnej. Projekt finansowany z budżetu Gminy Miejskiej Kraków.\n\nRegulamin zajęć i wydarzeń znajduje się na stronie Krakowskiego Forum Kultury w zakładce Regulaminy i procedury."
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531026+00:00"
+    },
+    "kabaret-piwnicy-pod-baranami-listopad-2026-11-28T20:00:00+01:00": {
+      "title": "Kabaret Piwnicy pod Baranami – listopad",
+      "date": "2026-11-28T20:00:00+01:00",
+      "end_date": "2026-11-28T20:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "• **7, 28 listopada (sob.), 20:00–?...**\n\n**Piwnica pod Baranami, Rynek Główny 27**\n\nTa zabawa miała trwać parę tygodni. Może parę miesięcy. Najwyżej rok. Nie dłużej. Trwa nieprzerwanie od lat sześćdziesięciu ośmiu. W dziejach kabaretu to rekord wszechświatowy. Niestety, nie ma już Piotra Skrzyneckiego. Ale magiczne miejsce w podziemiach Pałacu pod Baranami przy Rynku Głównym dalej żyje i przyciąga tłumy. Czy to zasługa legendy, genius loci, czy talentów coraz młodszych wykonawców? Przychodzi już trzecie pokolenie widzów: córki chcą zobaczyć gdzie bawiły się ich matki, dziadkowie przyprowadzają wnuki i opowiadają o euforycznej atmosferze piwnicznego szaleństwa.\n\n**Bilety:** 100 zł, dostępne po wcześniejszej rezerwacji telefonicznej (12 421 25 00) lub mailowej (bomicek@gmail.com)",
+      "image": "https://krakowskieforum.pl/uploads/temp/kali/impr_3681/zajawki/normal_3fdc3b38a0e1a852a8de8be7bc39360329e88423.jpg",
+      "location": {
+        "name": "Piwnica pod Baranami Ośrodek Dokumentacji i Inicjatyw Artystycznych Piwnica pod Baranami ul. Św. Tomasza 26",
+        "district": "Stare Miasto"
+      },
+      "url": "https://krakowskieforum.pl/wydarzenie-3681-kabaret_piwnicy_pod_baranami_listopad-szczegoly-44268.html",
+      "source": "krakowskieforum.pl",
+      "scrapped_url": "https://krakowskieforum.pl/wydarzenie-3681-kabaret_piwnicy_pod_baranami_listopad-szczegoly-44268.html",
+      "scrapped_timestamp": "2026-11-15T13:48:30.022477+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kabaret Piwnicy pod Baranami – listopad",
+          "description": "• **7, 28 listopada (sob.), 20:00–?...**\n\n**Piwnica pod Baranami, Rynek Główny 27**\n\nTa zabawa miała trwać parę tygodni. Może parę miesięcy. Najwyżej rok. Nie dłużej. Trwa nieprzerwanie od lat sześćdziesięciu ośmiu. W dziejach kabaretu to rekord wszechświatowy. Niestety, nie ma już Piotra Skrzyneckiego. Ale magiczne miejsce w podziemiach Pałacu pod Baranami przy Rynku Głównym dalej żyje i przyciąga tłumy. Czy to zasługa legendy, genius loci, czy talentów coraz młodszych wykonawców? Przychodzi już trzecie pokolenie widzów: córki chcą zobaczyć gdzie bawiły się ich matki, dziadkowie przyprowadzają wnuki i opowiadają o euforycznej atmosferze piwnicznego szaleństwa.\n\n**Bilety:** 100 zł, dostępne po wcześniejszej rezerwacji telefonicznej (12 421 25 00) lub mailowej (bomicek@gmail.com)"
+        },
+        "en": {
+          "title": "Piwnica pod Baranami Cabaret – November",
+          "description": "• **November 7, 28 (Sat.), 20:00–?...**\n\n**Piwnica pod Baranami, Rynek Główny 27**\n\nThis revelry was supposed to last a few weeks. Maybe a few months. A year at most. No longer. It has been going on uninterrupted for sixty-eight years. In the history of cabaret, that’s a world record. Sadly, Piotr Skrzynecki is no longer with us. But the magical place in the basement of the Palace under the Rams, by the Main Market Square, is still alive and continues to draw crowds. Is it thanks to its legend, its genius loci, or the talents of ever-younger performers? The third generation of audience members is already coming: daughters want to see where their mothers used to have fun, while grandparents bring their grandchildren and tell them about the euphoric atmosphere of the cellar’s wild revelry.\n\n**Tickets:** PLN 100, available by advance reservation by phone (12 421 25 00) or email (bomicek@gmail.com)"
+        },
+        "uk": {
+          "title": "Кабаре «Пивниці під Баранами» – листопад",
+          "description": "• **7, 28 листопада (сб.), 20:00–?...**\n\n**Пивниця під Баранами, Головний Ринок, 27**\n\nЦя розвага мала тривати кілька тижнів. Може, кілька місяців. Щонайбільше рік. Не довше. Вона триває безперервно вже шістдесят вісім років. В історії кабаре це світовий рекорд. На жаль, Пйотра Скшинецького вже немає. Але чарівне місце в підземеллях палацу Під Баранами на Головному Ринку й далі живе та приваблює натовпи. Чи це заслуга легенди, генія місця, чи дедалі молодших виконавців? Уже приходить третє покоління глядачів: доньки хочуть побачити, де розважалися їхні матері, дідусі й бабусі приводять онуків і розповідають про ейфорійну атмосферу підвального шаленства.\n\n**Квитки:** 100 злотих, доступні за попереднім бронюванням телефоном (12 421 25 00) або електронною поштою (bomicek@gmail.com)"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531047+00:00"
+    },
+    "co-w-trawie-piszczy-spektakl-teatru-figurki-2026-11-15T10:30:00+01:00": {
+      "title": "CO W TRAWIE PISZCZY - spektakl Teatru Figurki",
+      "date": "2026-11-15T10:30:00+01:00",
+      "end_date": "2026-11-15T10:30:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://czasdzieci.pl/krakow/wydarzenia/id,141104897.html",
+      "description": "Kameralny spektakl w technice teatru cieni dla dzieci w wieku 1-4 lat oraz ich rodziców.\n\nPierwszy spektakl Teatru Figurki adresowany do dzieci najnajmłodszych. Ta historia nie dzieje się ani dawno dawno temu, ani za siedmioma górami i siedmioma morzami. Ta historia dzieje się tuż za drzwiami naszych domów. Mały ślimak wykluwa się z jajka, gąsienica właśnie zamyka się w kokonie, a mała żabka zaraz zrobi pierwszy skok. W tym spektaklu nie będzie wielkich przygód ani strasznych katastrof. Za to zobaczycie tutaj małą mrówkę, dźwigającą zdecydowanie zbyt duży liść, gonitwę pszczół, które robią sobie wyścigi do kwiatka i pająka, który nie ma się z kim bawić.\n\nPo spektaklu zapraszamy do cieniowej zabawy.\n\nreżyseria – Dagmara Żabska\n\n\tscenariusz – zespół\n\n\tscenografia – Agnieszka Polańska\n\n\tmuzyka – Tomasz Krzyżanowski\n\n\twystępują: Luna Sawka i Tadeusz Dylawerski\n\n\tprodukcja: Marta Hankus, Andrzej Pietyra\n\nSpektakl powstał dla „figurkowych najnajów”: Ani, Oliwki, Julka i Ludwisia, ale Teatr zagra go dla wszystkich dzieci od 1 do 4 roku życia, które zechcą do nas przyjść.\n\nsugerowany wiek: 1-4\n\n\tczas trwania: 30 minut (+ zabawa)\n\nNiedziela, 15.11.2026, sala 014\n\n\tgodz. 10:30\n\n\tgodz. 12:00\n\nBilet - 55 zł\n\n\tNa spektakl należy zakupić bilety zarówno dla dziecka jak i opiekuna. Obowiązuje jedna cena biletów dla dzieci i osób dorosłych.",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/220-0-409-4096adf551d1e2621793021213i-insert-i.jpg",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "Aleja Jana Pawła II 232 31-913 Kraków",
+        "district": "Nowa Huta"
+      },
+      "age_range": {
+        "min": 1,
+        "max": 5
+      },
+      "scrapped_url": "https://czasdzieci.pl/krakow/wydarzenia/id,141104897.html",
+      "scrapped_timestamp": "2026-11-15T13:48:48.115448+00:00",
+      "category": "Theater",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "CO W TRAWIE PISZCZY - spektakl Teatru Figurki",
+          "description": "Kameralny spektakl w technice teatru cieni dla dzieci w wieku 1-4 lat oraz ich rodziców.\n\nPierwszy spektakl Teatru Figurki adresowany do dzieci najnajmłodszych. Ta historia nie dzieje się ani dawno dawno temu, ani za siedmioma górami i siedmioma morzami. Ta historia dzieje się tuż za drzwiami naszych domów. Mały ślimak wykluwa się z jajka, gąsienica właśnie zamyka się w kokonie, a mała żabka zaraz zrobi pierwszy skok. W tym spektaklu nie będzie wielkich przygód ani strasznych katastrof. Za to zobaczycie tutaj małą mrówkę, dźwigającą zdecydowanie zbyt duży liść, gonitwę pszczół, które robią sobie wyścigi do kwiatka i pająka, który nie ma się z kim bawić.\n\nPo spektaklu zapraszamy do cieniowej zabawy.\n\nreżyseria – Dagmara Żabska\n\n\tscenariusz – zespół\n\n\tscenografia – Agnieszka Polańska\n\n\tmuzyka – Tomasz Krzyżanowski\n\n\twystępują: Luna Sawka i Tadeusz Dylawerski\n\n\tprodukcja: Marta Hankus, Andrzej Pietyra\n\nSpektakl powstał dla „figurkowych najnajów”: Ani, Oliwki, Julka i Ludwisia, ale Teatr zagra go dla wszystkich dzieci od 1 do 4 roku życia, które zechcą do nas przyjść.\n\nsugerowany wiek: 1-4\n\n\tczas trwania: 30 minut (+ zabawa)\n\nNiedziela, 15.11.2026, sala 014\n\n\tgodz. 10:30\n\n\tgodz. 12:00\n\nBilet - 55 zł\n\n\tNa spektakl należy zakupić bilety zarówno dla dziecka jak i opiekuna. Obowiązuje jedna cena biletów dla dzieci i osób dorosłych."
+        },
+        "en": {
+          "title": "WHAT'S GOING ON IN THE GRASS - a Teatr Figurki performance",
+          "description": "An intimate shadow theatre performance for children aged 1–4 and their parents.\n\nThe first Teatr Figurki performance created for the very youngest children. This story takes place neither long, long ago nor beyond the seven mountains and seven seas. It takes place just outside the doors of our homes. A little snail hatches from an egg, a caterpillar is just wrapping itself in a cocoon, and a little frog is about to make its first leap. There will be no grand adventures or terrible disasters in this performance. Instead, you’ll see a little ant carrying a leaf that is definitely much too big, a race between bees as they dash to a flower, and a spider with no one to play with.\n\nAfter the performance, join us for some shadow play.\n\nstage direction – Dagmara Żabska\n\n\tscript – the ensemble\n\n\tscenography – Agnieszka Polańska\n\n\tmusic"
+        },
+        "uk": {
+          "title": "ЩО ПИЩИТЬ У ТРАВІ - вистава Театру «Фігурки»",
+          "description": "Камерна вистава в техніці театру тіней для дітей віком 1-4 років та їхніх батьків.\n\nПерша вистава Театру «Фігурки», адресована най-найменшим дітям. Ця історія відбувається не давним-давно і не за сімома горами та сімома морями. Ця історія відбувається просто за дверима наших домівок. Маленький равлик вилуплюється з яйця, гусінь саме загортається в кокон, а маленька жабка ось-ось зробить свій перший стрибок. У цій виставі не буде великих пригод чи страшних катастроф. Зате ви побачите тут маленьку мурашку, яка тягне надто великий листок, гонитву бджіл, які влаштовують перегони до квітки, і павука, якому немає з ким гратися.\n\nПісля вистави запрошуємо до гри з тінями.\n\nрежисура – Дагмара Жабська\n\n\tсценарій – колектив\n\n\tсценографія – Агнешка Полянська\n\n\tмузикант"
+        }
+      },
+      "district": "Nowa Huta",
+      "updated_at": "2026-11-15T13:53:24.531069+00:00"
+    },
+    "czytamy-i-ogl-damy-w-agrafce-2026-11-15T11:00:00+01:00": {
+      "title": "Czytamy i Oglądamy w Agrafce",
+      "date": "2026-11-15T11:00:00+01:00",
+      "end_date": "2026-11-15T11:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://czasdzieci.pl/krakow/wydarzenia/id,1411604b7.html",
+      "description": "Czytamy i Oglądamy to dobrze już znany krakowskim rodzicom cykl pokazów filmowych dla młodych widzów połączony z warsztatami rozwijającymi wyobraźnię.\n\nProjekt współfinansowany ze środków Miasta Krakowa.\n\n15 listopada  (niedziela), godz. 11:00\n\n**Czytamy: Dolina Muminków w listopadzie | Tove Jansson\n\n\tOglądamy: PAMIĘTNIKI TATUSIA MUMINKA | Muminpappans bravader - En ung Mumins äventyr, reż. Ira Carpelan, Finlandia/Polska 2021, 74’**\n\n\tW odległej krainie leży Dolina Muminków, urzekające, przyprawiające o zdumienie miejsce pełne tajemnic. Spokojne wieczory sprzyjają snuciu niebywałych opowieści z przeszłości, a Tatuś Muminka ma ich całkiem sporo. On też był kiedyś małym Muminkiem i nie uwierzycie, co wtedy robił!\n\nLatający statek, bal u króla, morskie przeprawy… Czy Tatuś Muminka spełnił marzenia i został w młodości prawdziwym łowcą przygód? Samotne wędrówki, tajemnicza Buka i podwodny świat to dopiero początek historii! Młody Tatuś Muminka zabiera nas w swoje pełne przygód dzieciństwo, odkrywa nowe, niezwykłe krainy, a po drodze spotyka wspaniałych, dobrze nam znanych przyjaciół. Czy to na pewno ten sam spokojny i poważny Tatuś Muminka?\n\n\tKategoria wiekowa 5+",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/180-0-674-674f_w_141160_445da.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul. Krowoderska 8 31-142 Kraków",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://czasdzieci.pl/krakow/wydarzenia/id,1411604b7.html",
+      "scrapped_timestamp": "2026-11-15T13:49:09.349712+00:00",
+      "category": "Cinema",
+      "additional_categories": [
+        "Workshops",
+        "Storytime"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 13
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Czytamy i Oglądamy w Agrafce",
+          "description": "Czytamy i Oglądamy to dobrze już znany krakowskim rodzicom cykl pokazów filmowych dla młodych widzów połączony z warsztatami rozwijającymi wyobraźnię.\n\nProjekt współfinansowany ze środków Miasta Krakowa.\n\n15 listopada  (niedziela), godz. 11:00\n\n**Czytamy: Dolina Muminków w listopadzie | Tove Jansson\n\n\tOglądamy: PAMIĘTNIKI TATUSIA MUMINKA | Muminpappans bravader - En ung Mumins äventyr, reż. Ira Carpelan, Finlandia/Polska 2021, 74’**\n\n\tW odległej krainie leży Dolina Muminków, urzekające, przyprawiające o zdumienie miejsce pełne tajemnic. Spokojne wieczory sprzyjają snuciu niebywałych opowieści z przeszłości, a Tatuś Muminka ma ich całkiem sporo. On też był kiedyś małym Muminkiem i nie uwierzycie, co wtedy robił!\n\nLatający statek, bal u króla, morskie przeprawy… Czy Tatuś Muminka spełnił marzenia i został w młodości prawdziwym łowcą przygód? Samotne wędrówki, tajemnicza Buka i podwodny świat to dopiero początek historii! Młody Tatuś Muminka zabiera nas w swoje pełne przygód dzieciństwo, odkrywa nowe, niezwykłe krainy, a po drodze spotyka wspaniałych, dobrze nam znanych przyjaciół. Czy to na pewno ten sam spokojny i poważny Tatuś Muminka?\n\n\tKategoria wiekowa 5+"
+        },
+        "en": {
+          "title": "Reading and Watching at Agrafka",
+          "description": "Reading and Watching is a film screening series, already well known to parents in Krakow, for young audiences, combined with workshops that nurture the imagination.\n\nThe project is co-financed by the City of Krakow.\n\n15 November  (Sunday), 11:00 a.m.\n\n**Reading: Moominvalley in November | Tove Jansson\n\n\tWatching: MOOMINPAPPA'S MEMOIRS | Muminpappans bravader - En ung Mumins äventyr, dir. Ira Carpelan, Finland/Poland 2021, 74’**\n\n\tIn a faraway land lies Moominvalley, an enchanting, astonishing place full of mystery. Quiet evenings are perfect for telling extraordinary stories from the past, and Moominpappa has quite a few of them. He was once a little Moomin too, and you won't believe what he got up to!\n\nA flying ship, a ball at the king’s palace, sea voyages… Did Moominpappa fulfill his dreams?"
+        },
+        "uk": {
+          "title": "Czytamy i Oglądamy w Agrafce",
+          "description": "Czytamy i Oglądamy to dobrze już znany krakowskim rodzicom cykl pokazów filmowych dla młodych widzów połączony z warsztatami rozwijającymi wyobraźnię.\n\nProjekt współfinansowany ze środków Miasta Krakowa.\n\n15 listopada  (niedziela), godz. 11:00\n\n**Czytamy: Dolina Muminków w listopadzie | Tove Jansson\n\n\tOglądamy: PAMIĘTNIKI TATUSIA MUMINKA | Muminpappans bravader - En ung Mumins äventyr, reż. Ira Carpelan, Finlandia/Polska 2021, 74’**\n\n\tW odległej krainie leży Dolina Muminków, urzekające, przyprawiające o zdumienie miejsce pełne tajemnic. Spokojne wieczory sprzyjają snuciu niebywałych opowieści z przeszłości, a Tatuś Muminka ma ich całkiem sporo. On też był kiedyś małym Muminkiem i nie uwierzycie, co wtedy robił!\n\nLatający statek, bal u króla, morskie przeprawy… Czy Tatuś Muminka spełnił marzenia i został w młodości prawdziwym łowcą przygód? Samotne wędrówki, tajemnicza Buka i podwodny świat to dopiero początek historii! Młody Tatuś Muminka zabiera nas w swoje pełne przygód dzieciństwo, odkrywa nowe, niezwykłe krainy, a po drodze spotyka wspaniałych, dobrze nam znanych przyjaciół. Czy to na pewno ten sam spokojny i poważny Tatuś Muminka?\n\n\tKategoria wiekowa 5+"
+        }
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531089+00:00"
+    },
+    "ma-a-kika-2026-11-15T12:00:00+01:00": {
+      "title": "Mała KIKA",
+      "date": "2026-11-15T12:00:00+01:00",
+      "end_date": "2026-11-15T12:00:00+01:00",
+      "startTimeKnown": true,
+      "url": "https://czasdzieci.pl/krakow/wydarzenia/id,141161695.html",
+      "description": "Mała KIKA to coniedzielne filmowe spotkania dla młodych Widzów połączone z ciekawymi warsztatami.\n\nProjekt współfinansowany ze środków Miasta Krakowa.\n\nBilety: 20 zł.\n\n\t15 listopada  (niedziela), godz. 12:00\n\n**NIESAMOWITE PRZYGODY SKARPETEK 4. DO ROBOTY! | Niesamowite przygody skarpetek 4. Do roboty!, reż. Paweł Wendorff; Mateusz Kmieć, Natalia Bartska-Kmieć, Anna Jadwiszczak, Małgorzata Mianowska, Polska/Portugalia 2026, 55’**\n\n\tSkarpetki znów biorą się do roboty! Nie ma co liczyć na nudę – odlotowi bohaterowie będą mieć niezłe urwanie głowy. Koncerty na żywo, konkursy kulinarne, budowanie robotów, a nawet… pomaganie Świętemu Mikołajowi!\n\n\tIść za głosem serca i robić to, co się kocha – tymi mądrymi słowami kierują się wszystkie skarpetki! Dzięki odwadze w próbowaniu nowych rzeczy oraz dzięki wrodzonemu entuzjazmowi nietypowi bohaterowie ruszają w świat, gotowi na nowe przygody. Kto powiedział, że skarpetka nie może zostać kulinarną celebrytką, odkrywcą żeglującym dookoła świata czy pomocnikiem Świętego Mikołaja? Skarpetki są zawsze chętne do roboty i wciąż zaskakują! Trzymajcie się mocno kinowych foteli, bo będzie się działo!\n\nFilm oparty na kultowej lekturze szkolnej oraz na pozostałych książkach bestsellerowej serii Justyny Bednarek i Daniela de Latoura, którą pokochały miliony młodych czytelników.\n\n\tO SKARPETCE, KTÓREJ SŁUCHAJĄ SIĘ ROBOTY | O SKARPETCE SMAKOSZCE | O SKARPETCE, KTÓRA ZOSTAŁA MUZYKIEM | O SKARPETCE, KTÓRA ZOSTAŁA POMOCNIKIEM LEKARZA | O SKARPETCE, KTÓRA ODNALAZŁA NIEZNANY LĄD | O SKARPETCE, KTÓRA ZOSTAŁA POMOCNIKIEM MIKOŁAJA\n\n\tKategoria wiekowa 5+",
+      "image": "https://czasdzieci.pl/pliki/wydarzenia/2026/240w240/95-0-555-555f_w_141161_30982.webp",
+      "source": "czasdzieci.pl",
+      "location": {
+        "name": "ul.Ignacego Krasickiego 18, 30-503 Kraków",
+        "district": "Stare Miasto"
+      },
+      "scrapped_url": "https://czasdzieci.pl/krakow/wydarzenia/id,141161695.html",
+      "scrapped_timestamp": "2026-11-15T13:49:34.235597+00:00",
+      "category": "Cinema",
+      "additional_categories": [
+        "Workshops"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 13
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Mała KIKA",
+          "description": "Mała KIKA to coniedzielne filmowe spotkania dla młodych Widzów połączone z ciekawymi warsztatami.\n\nProjekt współfinansowany ze środków Miasta Krakowa.\n\nBilety: 20 zł.\n\n\t15 listopada  (niedziela), godz. 12:00\n\n**NIESAMOWITE PRZYGODY SKARPETEK 4. DO ROBOTY! | Niesamowite przygody skarpetek 4. Do roboty!, reż. Paweł Wendorff; Mateusz Kmieć, Natalia Bartska-Kmieć, Anna Jadwiszczak, Małgorzata Mianowska, Polska/Portugalia 2026, 55’**\n\n\tSkarpetki znów biorą się do roboty! Nie ma co liczyć na nudę – odlotowi bohaterowie będą mieć niezłe urwanie głowy. Koncerty na żywo, konkursy kulinarne, budowanie robotów, a nawet… pomaganie Świętemu Mikołajowi!\n\n\tIść za głosem serca i robić to, co się kocha – tymi mądrymi słowami kierują się wszystkie skarpetki! Dzięki odwadze w próbowaniu nowych rzeczy oraz dzięki wrodzonemu entuzjazmowi nietypowi bohaterowie ruszają w świat, gotowi na nowe przygody. Kto powiedział, że skarpetka nie może zostać kulinarną celebrytką, odkrywcą żeglującym dookoła świata czy pomocnikiem Świętego Mikołaja? Skarpetki są zawsze chętne do roboty i wciąż zaskakują! Trzymajcie się mocno kinowych foteli, bo będzie się działo!\n\nFilm oparty na kultowej lekturze szkolnej oraz na pozostałych książkach bestsellerowej serii Justyny Bednarek i Daniela de Latoura, którą pokochały miliony młodych czytelników.\n\n\tO SKARPETCE, KTÓREJ SŁUCHAJĄ SIĘ ROBOTY | O SKARPETCE SMAKOSZCE | O SKARPETCE, KTÓRA ZOSTAŁA MUZYKIEM | O SKARPETCE, KTÓRA ZOSTAŁA POMOCNIKIEM LEKARZA | O SKARPETCE, KTÓRA ODNALAZŁA NIEZNANY LĄD | O SKARPETCE, KTÓRA ZOSTAŁA POMOCNIKIEM MIKOŁAJA\n\n\tKategoria wiekowa 5+"
+        },
+        "en": {
+          "title": "Little KIKA",
+          "description": "Little KIKA is a series of Sunday film screenings for young audiences, combined with fun workshops.\n\nThe project is co-financed by the City of Kraków.\n\nTickets: 20 PLN.\n\n\t15 November  (Sunday), 12:00\n\n**THE AMAZING ADVENTURES OF SOCKS 4. GET TO WORK! | The Amazing Adventures of Socks 4. Get to Work!, dir. Paweł Wendorff; Mateusz Kmieć, Natalia Bartska-Kmieć, Anna Jadwiszczak, Małgorzata Mianowska, Poland/Portugal 2026, 55’**\n\n\tThe socks are back at work! There’s no chance of getting bored – these wild heroes will have their hands full. Live concerts, cooking competitions, building robots, and even… helping Santa Claus!\n\n\tFollow your heart and do what you love – all the socks live by these wise words! Thanks to their courage to try new things and take action"
+        },
+        "uk": {
+          "title": "Маленька KIKA",
+          "description": "Маленька KIKA — це щонедільні кінозустрічі для юних глядачів, поєднані з цікавими майстер-класами.\n\nПроєкт співфінансується коштами міста Кракова.\n\nКвитки: 20 злотих.\n\n\t15 листопада  (неділя), год. 12:00\n\n**НЕЙМОВІРНІ ПРИГОДИ ШКАРПЕТОК 4. ДО РОБОТИ! | Неймовірні пригоди шкарпеток 4. До роботи!, реж. Павел Вендофф; Матеуш Кмєць, Наталія Бартська-Кмєць, Анна Ядвіщак, Малгожата Мяновська, Польща/Португалія 2026, 55’**\n\n\tШкарпетки знову беруться до роботи! Нудьгувати не доведеться — навіжені герої матимуть клопоту по самі вуха. Концерти наживо, кулінарні конкурси, будівництво роботів, а ще… допомога Святому Миколаю!\n\n\tЙти за покликом серця й робити те, що любиш, — цими мудрими словами керуються всі шкарпетки! Завдяки сміливості пробувати щось нове, а також зав..."
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531107+00:00"
+    },
+    "ma-y-ksi-teatr-ludowy-2026-11-17T10:00:00+01:00": {
+      "title": "Mały Książę (Teatr Ludowy)",
+      "date": "2026-11-17T10:00:00+01:00",
+      "url": "https://karnet.krakowculture.pl/56168-krakow-maly-ksiaze-teatr-ludowy",
+      "description": "**Niewielką, uroczo ilustrowaną opowieść o małym wędrowcu z asteroidy B 612 zakochanym w róży, zna każdy, kto pamięta, że był dzieckiem.**\nAntoine de Saint Exupéry dedykował ją przewrotnie i wzruszająco przeżywającemu trudne chwile dorosłemu przyjacielowi z jego czasów, kiedy był chłopcem. Teatr Ludowy „Małego Księcia” zaadaptował i nadzwyczaj celnie dedykował młodej, kilkunastoletniej publiczności. W baśniowej, poetyckiej formie jest tu mowa o sprawach najważniejszych: sensie istnienia, przyjaźni, miłości, wierności, radości, cierpieniu i potrzebie piękna. Parę tygodni po październikowej premierze spektakl w reżyserii Evy Rysovej będzie reprezentował Polskę na organizowanym przez Teatralny Instytut Młodych międzynarodowym festiwalu „Teatr Otwarcia”, którego druga edycja zwrócona jest właśnie ku nastolatkom.",
+      "image": "https://media.krakow.travel/photos/69507/m.jpg",
+      "startTimeKnown": true,
+      "location": {
+        "name": "Teatralny Instytut Młodych, os. Teatralne 23",
+        "district": "Nowa Huta"
+      },
+      "end_date": "2026-11-17T10:00:00+01:00",
+      "scrapped_url": "https://karnet.krakowculture.pl/56168-krakow-maly-ksiaze-teatr-ludowy",
+      "scrapped_timestamp": "2026-11-15T13:49:59.148535+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 13,
+        "max": 18
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Mały Książę (Teatr Ludowy)",
+          "description": "**Niewielką, uroczo ilustrowaną opowieść o małym wędrowcu z asteroidy B 612 zakochanym w róży, zna każdy, kto pamięta, że był dzieckiem.**\nAntoine de Saint Exupéry dedykował ją przewrotnie i wzruszająco przeżywającemu trudne chwile dorosłemu przyjacielowi z jego czasów, kiedy był chłopcem. Teatr Ludowy „Małego Księcia” zaadaptował i nadzwyczaj celnie dedykował młodej, kilkunastoletniej publiczności. W baśniowej, poetyckiej formie jest tu mowa o sprawach najważniejszych: sensie istnienia, przyjaźni, miłości, wierności, radości, cierpieniu i potrzebie piękna. Parę tygodni po październikowej premierze spektakl w reżyserii Evy Rysovej będzie reprezentował Polskę na organizowanym przez Teatralny Instytut Młodych międzynarodowym festiwalu „Teatr Otwarcia”, którego druga edycja zwrócona jest właśnie ku nastolatkom."
+        },
+        "en": {
+          "title": "The Little Prince (Ludowy Theatre)",
+          "description": "**Everyone who remembers being a child knows this little, charmingly illustrated story about a young traveler from asteroid B 612 who falls in love with a rose.**\nAntoine de Saint-Exupéry dedicated it, in a wry and moving way, to an adult friend going through a difficult time—a friend from the days when he was a boy. Ludowy Theatre adapted “The Little Prince” and, with remarkable insight, dedicated it to a young audience in their teens. In a fairy-tale, poetic form, it speaks of the most important things: the meaning of existence, friendship, love, faithfulness, joy, suffering, and the need for beauty. A few weeks after its October premiere, the production directed by Eva Rysová will represent Poland at the international “Theatre of Openness” festival, organized by the Theatre Institute for Young People. Its second edition is aimed specifically"
+        },
+        "uk": {
+          "title": "Маленький принц (Народний театр)",
+          "description": "**Невеличку, чарівно ілюстровану оповідь про маленького мандрівника з астероїда B 612, закоханого в троянду, знає кожен, хто пам’ятає, що був дитиною.**\nАнтуан де Сент-Екзюпері присвятив її — іронічно й зворушливо — дорослому другові, який переживав важкі часи, з тих часів, коли сам був хлопчиком. Народний театр адаптував «Маленького принца» й надзвичайно влучно присвятив його молодій аудиторії підліткового віку. У казковій, поетичній формі тут ідеться про найважливіше: сенс існування, дружбу, любов, вірність, радість, страждання та потребу в красі. За кілька тижнів після жовтневої прем’єри вистава в постановці Єви Рисової представлятиме Польщу на міжнародному фестивалі «Театр відкриття», організованому Театральним інститутом молоді, другий випуск якого присвячений саме"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Nowa Huta",
+      "updated_at": "2026-11-15T13:53:24.531127+00:00"
+    },
+    "bankructwo-ma-ego-d-eka-2026-11-21T10:00:00+01:00": {
+      "title": "Bankructwo małego Dżeka",
+      "date": "2026-11-21T10:00:00+01:00",
+      "url": "https://karnet.krakowculture.pl/60513-krakow-bankructwo-malego-dzeka",
+      "description": "**Dżek Fulton mieszka w Ameryce, chodzi do szkoły, ma dobrych rodziców, przyjaciół, małą siostrę, a także… naprawdę poważny szkolny biznes.**\nNapisana przeszło sto lat temu książka Janusza Korczaka to opowieść o chłopcu z podstawówki, który marzy, żeby zostać kupcem. Dżek ma szansę realizować swoje marzenie i uczyć się skomplikowanego świata pieniądza dzięki solidarności i odpowiedzialności szkolnych kolegów i koleżanek, którzy łączą własne oszczędności, żeby wspólnie osiągnąć jak największe korzyści. Narodowy Stary Teatr, wraz z twórcami spektaklu – reżyserem Maciejem Podstawnym i dramaturżką Dorotą Kowalkowską, sięga po przywróconą niedawno na listę lektur książkę, proponując widzkom i widzom lekcję o komunikacji, zaradności, a także o tym, jak zarządzać pieniędzmi, które mamy, żeby szczęśliwie żyć. *\n\nwedług Janusza Korczaka, reż. Maciej Podstawny\n\nSpektakl rekomendowany dla publiczności w wieku 9–12 lat\n\nPremiera 11 października 2025 r.\n\n* Źródło: Narodowy Stary Teatr",
+      "image": "https://media.krakow.travel/photos/76705/m.jpg",
+      "startTimeKnown": true,
+      "location": {
+        "name": "Narodowy Stary Teatr im. Heleny Modrzejewskiej, ul. Jagiellońska 1",
+        "district": "Stare Miasto"
+      },
+      "end_date": "2026-11-21T10:00:00+01:00",
+      "scrapped_url": "https://karnet.krakowculture.pl/60513-krakow-bankructwo-malego-dzeka",
+      "scrapped_timestamp": "2026-11-15T13:50:15.423233+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 9,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bankructwo małego Dżeka",
+          "description": "**Dżek Fulton mieszka w Ameryce, chodzi do szkoły, ma dobrych rodziców, przyjaciół, małą siostrę, a także… naprawdę poważny szkolny biznes.**\nNapisana przeszło sto lat temu książka Janusza Korczaka to opowieść o chłopcu z podstawówki, który marzy, żeby zostać kupcem. Dżek ma szansę realizować swoje marzenie i uczyć się skomplikowanego świata pieniądza dzięki solidarności i odpowiedzialności szkolnych kolegów i koleżanek, którzy łączą własne oszczędności, żeby wspólnie osiągnąć jak największe korzyści. Narodowy Stary Teatr, wraz z twórcami spektaklu – reżyserem Maciejem Podstawnym i dramaturżką Dorotą Kowalkowską, sięga po przywróconą niedawno na listę lektur książkę, proponując widzkom i widzom lekcję o komunikacji, zaradności, a także o tym, jak zarządzać pieniędzmi, które mamy, żeby szczęśliwie żyć. *\n\nwedług Janusza Korczaka, reż. Maciej Podstawny\n\nSpektakl rekomendowany dla publiczności w wieku 9–12 lat\n\nPremiera 11 października 2025 r.\n\n* Źródło: Narodowy Stary Teatr"
+        },
+        "en": {
+          "title": "Bankruptcy of Little Jack",
+          "description": "**Jack Fulton lives in America, goes to school, has good parents, friends, a little sister, and… a really serious school business.**\nWritten over a hundred years ago, Janusz Korczak’s book tells the story of an elementary school boy who dreams of becoming a merchant. Jack has a chance to pursue his dream and learn about the complex world of money thanks to the solidarity and responsibility of his schoolmates, who pool their savings to achieve the greatest possible benefits together. The National Old Theatre, together with the creators of the production – director Maciej Podstawny and dramaturg Dorota Kowalkowska – turns to this book, recently restored to the school reading list, offering audiences a lesson in communication and resourcefulness, as well as how to manage the money we have so that we can..."
+        },
+        "uk": {
+          "title": "Банкрутство малого Джека",
+          "description": "**Джек Фултон живе в Америці, ходить до школи, має хороших батьків, друзів, молодшу сестру, а також… справді серйозний шкільний бізнес.**\nНаписана понад сто років тому книжка Януша Корчака — це історія про хлопчика з початкової школи, який мріє стати купцем. Джек має змогу втілювати свою мрію й пізнавати складний світ грошей завдяки солідарності та відповідальності шкільних товаришів і товаришок, які об’єднують власні заощадження, щоб спільно отримати якомога більшу вигоду. Національний Старий театр разом із творцями вистави — режисером Мацеєм Подставним і драматургинею Доротою Ковальковською — звертається до книжки, яку нещодавно знову включили до списку обов’язкових для читання, і пропонує глядачкам і глядачам урок про комунікацію, винахідливість, а також про те, як розпоряджатися грошима, які ми маємо, щоб заощ…"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://stary.pl/pl/repertuar/bankructwo-malego-dzeka/"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531146+00:00"
+    },
+    "musica-ars-amanda-2026-12-10T18:00:00+01:00": {
+      "title": "Musica ars amanda",
+      "date": "2026-12-10T18:00:00+01:00",
+      "url": "https://karnet.krakowculture.pl/65429-krakow-musica-ars-amanda",
+      "description": "**Musica ars amanda** to **cykl koncertów edukacyjnych** **Filharmonii Krakowskiej** skierowanych do odbiorcy w każdym wieku, prezentujący mozaikę gatunków, stylów oraz form muzycznych. Każdy koncert wzbogacony jest o prezentację multimedialną i komentarz wprowadzający, który pozwala lepiej zrozumieć słuchaną muzykę. Na widzów czekają również programy koncertowe z ciekawostkami o repertuarze i wykonawcach – idealne do dalszego odkrywania tematu w domowym zaciszu.\n\nCykl powstał z myślą o młodzieży, jednak jego popularność sprawiła, że dziś dostępny jest dla wszystkich – bez żadnych ograniczeń wiekowych. Zachował przy tym swą najważniejszą funkcję: edukacyjną. Słowne wprowadzenie do koncertów pozwala lepiej zrozumieć muzykę, a pełne ciekawostek programy koncertowe zachęcają do dalszego odkrywania tematu w domowym zaciszu. W sezonie 2026/2027 muzycy Filharmonii skupią się na… malowaniu! Hasło brzmi **Pejzaże dźwięków**, bo przecież dźwiękami też można stworzyć piękne krajobrazy, choćby francuskiego ogrodu, sielskiej harmonii, średniowiecznego Krakowa, włoskiej fantazji czy dwóch żywiołów.\n\n**24 września 2026 (czwartek), godz. 18.00\n 25 września 2026 (piątek), godz. 12.00\n Pejzaż średniowiecznego Krakowa**\n Zespół Floripari\n Maria Klich – sopran, lira korbowa, psalterium\n Michał Jan Barański – baryton\n Violetta Szopa-Tomczyk – fidel\n Mateusz Kowalski – fidel kolanowa\n Justyna Grabowska – portatyw\n Adam Nowakowski – lutnie\n Aleksander Tomczyk – dawne instrumenty dęte i perkusyjne; kierownictwo artystyczne\n W programie: muzyka XIII – XV wieku; wybrane utwory Mikołaja z Krakowa,  Mikołaja z Radomia, Piotra z Grudziądza, utwory liturgiczne z Archiwum Kapituły na Wawelu, utwory z Kodeksu Krasińskich oraz z rękopisu Biblioteki Jagiellońskiej\n\n**12 listopada 2026 (czwartek), godz. 18.00\n 13 listopada 2026 (piątek), godz. 12.00\n Pejzaż francuskiego ogrodu**\n Duo Granat & Kreda\n Instrumentaliści Filharmonii Krakowskiej\n Georges Bizet Gry i zabawy dziecięce op. 22:\n – Bąk\n – Marsz drewnianych żołnierzyków\n – Bańki mydlane\n – Gra w badmintona\n – Bal\n Claude Debussy Petite Suite: En bateau\n Gabriel Fauré Dolly op. 56:\n – Le Jardin de Dolly\n – Le Pas Espagnol\n Darius Milhaud\n – Scaramouche\n – Brazileira\n Maurice Ravel\n – Ma mere l'oye\n – Le jardin feerique\n Camille Saint-Saëns Karnawał zwierząt\n\n**10 grudnia 2026 (czwartek), godz. 18.00\n 11 grudnia 2026 (piątek), godz. 12.00\n Pejzaż włoskiej fantazji\n Koncerty w ramach V Festiwalu Serate Musicali Cracoviensis** Mario Pio Ferrante – flet\n Orkiestra Filharmonii Krakowskiej\n Francesco Bottigliero – dyrygent\n Giovanni Paisiello Uwertura do opery Il barbiere di Siviglia\n Niccolò Piccini Sinfonia z opery Catone in Utica\n Domenico Cimarosa Uwertura do Il matrimonio segreto\n Francesco Bottigliero Fantasia danzante su temi F. Durante\n Gioacchino Rossini La Danza (opr. N. Santulli)\n Ottorino Respighi Gli uccelli\n Francesco Bottigliero Le Grand Bleu /prawykonanie/\n\n**28 stycznia 2027 (czwartek), godz. 18.00\n 29 stycznia 2027 (piątek), godz. 12.00\n Pejzaż klasycznej natury**\n Hyunjin Roh – fortepian\n Orkiestra Filharmonii Krakowskiej\n TBA – dyrygent\n Wolfgang Amadeus Mozart Koncert fortepianowy A-dur KV 488 nr 23\n Joseph Haydn Symfonia g-moll nr 83 „Kura” (Hob. I:83)\n\n**4 marca 2027 (czwartek), godz. 18.00\n 5 marca 2027 (piątek), godz. 12.00\n Pejzaż sielskiej harmonii** Orkiestra Filharmonii KrakowskiejMichał Klauza – dyrygent\n Ludwig van Beethoven VI Symfonia F-dur „Pastoralna” op. 68\n\n**8 kwietnia 2027 (czwartek), godz. 18.00\n 9 kwietnia 2027 (piątek), godz. 12.00\n Pejzaż dwóch żywiołów**\n TBA – trąbka\n Orkiestra Filharmonii Krakowskiej\n TBA – dyrygent\n Oskar Böhme Koncert na trąbkę f-moll op. 19\n Georg Friedrich Haendel\n – Muzyka na wodzie\n – Muzyka sztucznych ogni\n Christoph Willibald Gluck Taniec furii z II aktu opery Orfeusz i Eurydyka\n Manuel de Falla Taniec ognia z baletu El amor brujo\n\n**20 maja 2027 (czwartek), godz. 18.00\n 21 maja 2027 (piątek), godz. 12.00\n Pejzaż różnorodności mitów**\n Orkiestra Filharmonii Krakowskiej\n Stanisław Widłak – dyrygent\n Ludwig van Beethoven Uwertura Die Geschöpfe des Prometheus op. 43\n Christoph Willibald Gluck Suita z opery Orfeusz i Eurydyka\n Georg Friedrich Haendel Przybycie królowej Saby z oratorium Salomon\n Wolfgang Amadeus Mozart Uwertura do opery Łaskawość Tytusa KV 621\n Claude Debussy Popołudnie fauna\n\nKoncerty są przeznaczone dla odbiorców powyżej 10. roku życia.",
+      "image": "https://media.krakow.travel/photos/65669/m.jpg",
+      "startTimeKnown": true,
+      "location": {
+        "name": "Filharmonia Krakowska, ul. Zwierzyniecka 1",
+        "district": "Stare Miasto"
+      },
+      "end_date": "2026-12-10T18:00:00+01:00",
+      "scrapped_url": "https://karnet.krakowculture.pl/65429-krakow-musica-ars-amanda",
+      "scrapped_timestamp": "2026-11-15T13:50:46.512575+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 18
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Musica ars amanda",
+          "description": "**Musica ars amanda** to **cykl koncertów edukacyjnych** **Filharmonii Krakowskiej** skierowanych do odbiorcy w każdym wieku, prezentujący mozaikę gatunków, stylów oraz form muzycznych. Każdy koncert wzbogacony jest o prezentację multimedialną i komentarz wprowadzający, który pozwala lepiej zrozumieć słuchaną muzykę. Na widzów czekają również programy koncertowe z ciekawostkami o repertuarze i wykonawcach – idealne do dalszego odkrywania tematu w domowym zaciszu.\n\nCykl powstał z myślą o młodzieży, jednak jego popularność sprawiła, że dziś dostępny jest dla wszystkich – bez żadnych ograniczeń wiekowych. Zachował przy tym swą najważniejszą funkcję: edukacyjną. Słowne wprowadzenie do koncertów pozwala lepiej zrozumieć muzykę, a pełne ciekawostek programy koncertowe zachęcają do dalszego odkrywania tematu w domowym zaciszu. W sezonie 2026/2027 muzycy Filharmonii skupią się na… malowaniu! Hasło brzmi **Pejzaże dźwięków**, bo przecież dźwiękami też można stworzyć piękne krajobrazy, choćby francuskiego ogrodu, sielskiej harmonii, średniowiecznego Krakowa, włoskiej fantazji czy dwóch żywiołów.\n\n**24 września 2026 (czwartek), godz. 18.00\n 25 września 2026 (piątek), godz. 12.00\n Pejzaż średniowiecznego Krakowa**\n Zespół Floripari\n Maria Klich – sopran, lira korbowa, psalterium\n Michał Jan Barański – baryton\n Violetta Szopa-Tomczyk – fidel\n Mateusz Kowalski – fidel kolanowa\n Justyna Grabowska – portatyw\n Adam Nowakowski – lutnie\n Aleksander Tomczyk – dawne instrumenty dęte i perkusyjne; kierownictwo artystyczne\n W programie: muzyka XIII – XV wieku; wybrane utwory Mikołaja z Krakowa,  Mikołaja z Radomia, Piotra z Grudziądza, utwory liturgiczne z Archiwum Kapituły na Wawelu, utwory z Kodeksu Krasińskich oraz z rękopisu Biblioteki Jagiellońskiej\n\n**12 listopada 2026 (czwartek), godz. 18.00\n 13 listopada 2026 (piątek), godz. 12.00\n Pejzaż francuskiego ogrodu**\n Duo Granat & Kreda\n Instrumentaliści Filharmonii Krakowskiej\n Georges Bizet Gry i zabawy dziecięce op. 22:\n – Bąk\n – Marsz drewnianych żołnierzyków\n – Bańki mydlane\n – Gra w badmintona\n – Bal\n Claude Debussy Petite Suite: En bateau\n Gabriel Fauré Dolly op. 56:\n – Le Jardin de Dolly\n – Le Pas Espagnol\n Darius Milhaud\n – Scaramouche\n – Brazileira\n Maurice Ravel\n – Ma mere l'oye\n – Le jardin feerique\n Camille Saint-Saëns Karnawał zwierząt\n\n**10 grudnia 2026 (czwartek), godz. 18.00\n 11 grudnia 2026 (piątek), godz. 12.00\n Pejzaż włoskiej fantazji\n Koncerty w ramach V Festiwalu Serate Musicali Cracoviensis** Mario Pio Ferrante – flet\n Orkiestra Filharmonii Krakowskiej\n Francesco Bottigliero – dyrygent\n Giovanni Paisiello Uwertura do opery Il barbiere di Siviglia\n Niccolò Piccini Sinfonia z opery Catone in Utica\n Domenico Cimarosa Uwertura do Il matrimonio segreto\n Francesco Bottigliero Fantasia danzante su temi F. Durante\n Gioacchino Rossini La Danza (opr. N. Santulli)\n Ottorino Respighi Gli uccelli\n Francesco Bottigliero Le Grand Bleu /prawykonanie/\n\n**28 stycznia 2027 (czwartek), godz. 18.00\n 29 stycznia 2027 (piątek), godz. 12.00\n Pejzaż klasycznej natury**\n Hyunjin Roh – fortepian\n Orkiestra Filharmonii Krakowskiej\n TBA – dyrygent\n Wolfgang Amadeus Mozart Koncert fortepianowy A-dur KV 488 nr 23\n Joseph Haydn Symfonia g-moll nr 83 „Kura” (Hob. I:83)\n\n**4 marca 2027 (czwartek), godz. 18.00\n 5 marca 2027 (piątek), godz. 12.00\n Pejzaż sielskiej harmonii** Orkiestra Filharmonii KrakowskiejMichał Klauza – dyrygent\n Ludwig van Beethoven VI Symfonia F-dur „Pastoralna” op. 68\n\n**8 kwietnia 2027 (czwartek), godz. 18.00\n 9 kwietnia 2027 (piątek), godz. 12.00\n Pejzaż dwóch żywiołów**\n TBA – trąbka\n Orkiestra Filharmonii Krakowskiej\n TBA – dyrygent\n Oskar Böhme Koncert na trąbkę f-moll op. 19\n Georg Friedrich Haendel\n – Muzyka na wodzie\n – Muzyka sztucznych ogni\n Christoph Willibald Gluck Taniec furii z II aktu opery Orfeusz i Eurydyka\n Manuel de Falla Taniec ognia z baletu El amor brujo\n\n**20 maja 2027 (czwartek), godz. 18.00\n 21 maja 2027 (piątek), godz. 12.00\n Pejzaż różnorodności mitów**\n Orkiestra Filharmonii Krakowskiej\n Stanisław Widłak – dyrygent\n Ludwig van Beethoven Uwertura Die Geschöpfe des Prometheus op. 43\n Christoph Willibald Gluck Suita z opery Orfeusz i Eurydyka\n Georg Friedrich Haendel Przybycie królowej Saby z oratorium Salomon\n Wolfgang Amadeus Mozart Uwertura do opery Łaskawość Tytusa KV 621\n Claude Debussy Popołudnie fauna\n\nKoncerty są przeznaczone dla odbiorców powyżej 10. roku życia."
+        },
+        "en": {
+          "title": "Musica ars amanda",
+          "description": "**Musica ars amanda** is a **series of educational concerts** by the **Krakow Philharmonic**, aimed at audiences of all ages and presenting a mosaic of musical genres, styles, and forms. Each concert is enhanced by a multimedia presentation and an introductory commentary that helps audiences better understand the music they are listening to. Audiences can also look forward to concert programs featuring interesting facts about the repertoire and performers—ideal for exploring the subject further at home.\n\nThe series was created with young people in mind, but its popularity has made it available to everyone today—with no age restrictions. It has retained its most important function: education. A spoken introduction to the concerts helps audiences better understand the music, while concert programs packed with interesting facts encourage further discovery"
+        },
+        "uk": {
+          "title": "Musica ars amanda",
+          "description": "**Musica ars amanda** — це **цикл освітніх концертів** **Краківської філармонії**, призначений для слухачів будь-якого віку та представляє мозаїку жанрів, стилів і музичних форм. Кожен концерт супроводжується мультимедійною презентацією та вступним коментарем, що допомагає краще зрозуміти музику, яку слухаєш. На глядачів також чекають концертні програми з цікавими фактами про репертуар і виконавців — ідеальні для подальшого знайомства з темою вдома.\n\nЦикл створили з думкою про молодь, однак його популярність зробила його доступним для всіх — без жодних вікових обмежень. При цьому він зберіг свою найважливішу функцію — освітню. Усне вступне слово до концертів допомагає краще зрозуміти музику, а концертні програми, сповнені цікавих фактів, заохочують до подальшого відкриття"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531188+00:00"
+    },
+    "opowie-wigilijna-scena-mos-2027-01-06T16:00:00+01:00": {
+      "title": "Opowieść wigilijna (Scena MOS)",
+      "date": "2027-01-06T16:00:00+01:00",
+      "url": "https://karnet.krakowculture.pl/64956-krakow-opowiesc-wigilijna-scena-mos",
+      "description": "**Opowieść wigilijna jest dziś równie aktualna jak w czasach Dickensa. Świat, w którym brakuje współczucia i solidarności, w którym nieczuły bogacz decyduje o życiu całych rodzin nie skończył się wraz z wejściem ludzkości w epokę ponowoczesną.**\n\nAutorzy spektaklu nie chcą jednak zatrzymać się na tej ponurej diagnozie. Ich celem jest przyjrzenie się ze współczuciem i zrozumieniem postaci Ebeneezera Scrooge’a.\n\nScenografia wiktoriańskiej historii o skąpcu nawiedzanym przez duchy jest tylko pretekstem do opowiedzenia o nieszczęściu człowieka, który nie kocha samego siebie. Bo Scrooge, podobnie jak mityczny Narcyz, widzi tylko powierzchnię, nie jest zdolny do introspekcji, a więc także do miłości. W tym ujęciu bohater Opowieści Wigilijnej jest bardziej ofiarą warunków, w których przyszło mu żyć niż czarnym charakterem. Jego przemiana jest nie tylko przejściem od egoizmu do empatii ale też uwolnieniem się od stereotypowego postrzegania własnej roli w świecie.\n\nReżyseria: Jakub Krofta i Maria Wojtyszko",
+      "image": "https://media.krakow.travel/photos/53084/m.jpg",
+      "startTimeKnown": true,
+      "location": {
+        "name": "Małopolski Ogród Sztuki, ul. Rajska 12",
+        "district": "Stare Miasto"
+      },
+      "end_date": "2027-01-06T16:00:00+01:00",
+      "scrapped_url": "https://karnet.krakowculture.pl/64956-krakow-opowiesc-wigilijna-scena-mos",
+      "scrapped_timestamp": "2026-11-15T13:51:03.685863+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Opowieść wigilijna (Scena MOS)",
+          "description": "**Opowieść wigilijna jest dziś równie aktualna jak w czasach Dickensa. Świat, w którym brakuje współczucia i solidarności, w którym nieczuły bogacz decyduje o życiu całych rodzin nie skończył się wraz z wejściem ludzkości w epokę ponowoczesną.**\n\nAutorzy spektaklu nie chcą jednak zatrzymać się na tej ponurej diagnozie. Ich celem jest przyjrzenie się ze współczuciem i zrozumieniem postaci Ebeneezera Scrooge’a.\n\nScenografia wiktoriańskiej historii o skąpcu nawiedzanym przez duchy jest tylko pretekstem do opowiedzenia o nieszczęściu człowieka, który nie kocha samego siebie. Bo Scrooge, podobnie jak mityczny Narcyz, widzi tylko powierzchnię, nie jest zdolny do introspekcji, a więc także do miłości. W tym ujęciu bohater Opowieści Wigilijnej jest bardziej ofiarą warunków, w których przyszło mu żyć niż czarnym charakterem. Jego przemiana jest nie tylko przejściem od egoizmu do empatii ale też uwolnieniem się od stereotypowego postrzegania własnej roli w świecie.\n\nReżyseria: Jakub Krofta i Maria Wojtyszko"
+        },
+        "en": {
+          "title": "A Christmas Carol (MOS Stage)",
+          "description": "**A Christmas Carol is just as relevant today as it was in Dickens’s time. A world lacking compassion and solidarity, where an insensitive rich man decides the fate of entire families, did not come to an end when humanity entered the postmodern era.**\n\nThe creators of the performance do not, however, want to stop at this bleak diagnosis. Their aim is to look at the character of Ebenezer Scrooge with compassion and understanding.\n\nThe Victorian setting of the story about a miser haunted by ghosts is merely a pretext for telling the story of a man’s unhappiness when he does not love himself. For Scrooge, like the mythical Narcissus, sees only the surface; he is incapable of introspection and therefore of love. In this interpretation, the protagonist of A Christmas Carol is more a victim of the circumstances he had to live in."
+        },
+        "uk": {
+          "title": "Різдвяна історія (Сцена MOS)",
+          "description": "**Різдвяна історія й сьогодні така ж актуальна, як за часів Діккенса. Світ, у якому бракує співчуття й солідарності, у якому бездушний багатій вирішує долю цілих родин, не зник із приходом людства в постмодерну епоху.**\n\nАвтори вистави, однак, не хочуть зупинятися на цьому похмурому діагнозі. Їхня мета — поглянути зі співчуттям і розумінням на постать Ебенезера Скруджа.\n\nСценографія вікторіанської історії про скнару, якого переслідують привиди, — лише привід розповісти про нещастя людини, яка не любить саму себе. Адже Скрудж, подібно до міфічного Нарциса, бачить лише поверхню, не здатен до самозаглиблення, а отже, і до любові. У цьому прочитанні герой «Різдвяної історії» радше є жертвою обставин, у яких йому довелося ж"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://teatrwkrakowie.pl/spektakl/opowiesc-wigilijna-1"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531209+00:00"
+    },
+    "zahipnotyzuj-mnie-piosenki-zygmunta-koniecznego-2027-01-31T17:00:00+01:00": {
+      "title": "Zahipnotyzuj mnie – piosenki Zygmunta Koniecznego",
+      "date": "2027-01-31T17:00:00+01:00",
+      "url": "https://karnet.krakowculture.pl/65569-krakow-zahipnotyzuj-mnie-piosenki-zygmunta-koniecznego",
+      "description": "Grande Valse Brillante, Groszki i róże, Tomaszów, Grajmy Panu, Żywa woda… Komu z nas choć raz w życiu nie grały w duszy kompozycje Zygmunta Koniecznego? Jedyne w swoim rodzaju utwory – charakteryzujące się piękną muzyką i niezwykłymi tekstami, śpiewane w przeszłości przez takie gwiazdy Piwnicy pod Baranami, jak Ewa Demarczyk czy Anna Szałapak – usłyszymy w wykonaniu aktorów Teatru Ludowego już 7 października na nowohuckiej scenie. Najnowszy spektakl muzyczny Zahipnotyzuj mnie – piosenki Zygmunta Koniecznego w reżyserii Małgorzaty Bogajewskiej to opowieść o cudzie narodzin i życia, miłości i samotności, poszukiwaniu szczęścia i ludzkiej potrzebie wolności. „Więc może byśmy tak, najmilszy, wpadli na dzień do Tomaszowa? Może tam jeszcze zmierzchem złotym ta sama cisza trwa wrześniowa”...\n\n(**Justyna Skalska**, miesięcznik „Karnet”)\n\nmuzyka: Zygmunt Konieczny\nreżyseria: Małgorzata Bogajewska\nkierownik muzyczny: Konrad Mastyło\nscenografia i kostiumy: Barbara Ferlak\nchoreografia: Maćko Prusak\ninspicjent: Martyna Rezner\nzespół muzyczny w składzie:\nfortepian: Konrad Mastyło\nskrzypce: Tomasz Góra\nkontrabas: Michał Braszak\ngitara: Krzysztof Oczkowski\nperkusja: Michał Peiker\n\nObsada:\nMarta Bizoń\nPaulina Kondrak / gościnnie\nWeronika Kowalska / gościnnie\nMałgorzata Krzysica\nKarol Polak\nJan Nosal\nRyszard Starosta\nBarbara Szałapak\nJacek Wojciechowski\nKajetan Wolniewicz",
+      "image": "https://media.krakow.travel/photos/29629/m.jpg",
+      "startTimeKnown": true,
+      "location": {
+        "name": "Teatr Ludowy, os. Teatralne 34",
+        "district": "Nowa Huta"
+      },
+      "end_date": "2027-01-31T17:00:00+01:00",
+      "scrapped_url": "https://karnet.krakowculture.pl/65569-krakow-zahipnotyzuj-mnie-piosenki-zygmunta-koniecznego",
+      "scrapped_timestamp": "2026-11-15T13:51:21.850533+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Theater"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Zahipnotyzuj mnie – piosenki Zygmunta Koniecznego",
+          "description": "Grande Valse Brillante, Groszki i róże, Tomaszów, Grajmy Panu, Żywa woda… Komu z nas choć raz w życiu nie grały w duszy kompozycje Zygmunta Koniecznego? Jedyne w swoim rodzaju utwory – charakteryzujące się piękną muzyką i niezwykłymi tekstami, śpiewane w przeszłości przez takie gwiazdy Piwnicy pod Baranami, jak Ewa Demarczyk czy Anna Szałapak – usłyszymy w wykonaniu aktorów Teatru Ludowego już 7 października na nowohuckiej scenie. Najnowszy spektakl muzyczny Zahipnotyzuj mnie – piosenki Zygmunta Koniecznego w reżyserii Małgorzaty Bogajewskiej to opowieść o cudzie narodzin i życia, miłości i samotności, poszukiwaniu szczęścia i ludzkiej potrzebie wolności. „Więc może byśmy tak, najmilszy, wpadli na dzień do Tomaszowa? Może tam jeszcze zmierzchem złotym ta sama cisza trwa wrześniowa”...\n\n(**Justyna Skalska**, miesięcznik „Karnet”)\n\nmuzyka: Zygmunt Konieczny\nreżyseria: Małgorzata Bogajewska\nkierownik muzyczny: Konrad Mastyło\nscenografia i kostiumy: Barbara Ferlak\nchoreografia: Maćko Prusak\ninspicjent: Martyna Rezner\nzespół muzyczny w składzie:\nfortepian: Konrad Mastyło\nskrzypce: Tomasz Góra\nkontrabas: Michał Braszak\ngitara: Krzysztof Oczkowski\nperkusja: Michał Peiker\n\nObsada:\nMarta Bizoń\nPaulina Kondrak / gościnnie\nWeronika Kowalska / gościnnie\nMałgorzata Krzysica\nKarol Polak\nJan Nosal\nRyszard Starosta\nBarbara Szałapak\nJacek Wojciechowski\nKajetan Wolniewicz"
+        },
+        "en": {
+          "title": "Hypnotize Me – Songs of Zygmunt Konieczny",
+          "description": "Grande Valse Brillante, Peas and Roses, Tomaszów, Let Us Play for the Lord, Living Water… Who among us has never had the compositions of Zygmunt Konieczny play in their soul, even once? One-of-a-kind songs—distinguished by beautiful music and extraordinary lyrics, sung in the past by such stars of Piwnica pod Baranami as Ewa Demarczyk and Anna Szałapak—will be performed by actors from Teatr Ludowy on October 7 on the Nowa Huta stage. The latest musical production, Hypnotize Me – Songs of Zygmunt Konieczny, directed by Małgorzata Bogajewska, is a story about the miracle of birth and life, love and loneliness, the search for happiness, and the human need for freedom. “So perhaps we could, my dearest, drop by Tomaszów for a day? Perhaps there, in the golden dusk, the same September silence still endures”...(**"
+        },
+        "uk": {
+          "title": "Загіпнотизуй мене — пісні Зигмунта Конєчного",
+          "description": "Grande Valse Brillante, Горошинки й троянди, Томашув, Граймо Господу, Жива вода… Кому з нас хоч раз у житті не звучали в душі композиції Зигмунта Конєчного? Неповторні твори, що вирізняються прекрасною музикою та незвичайними текстами й які в минулому співали такі зірки «Півниці під Баранами», як Ева Демарчик чи Анна Шалапак, ми почуємо у виконанні акторів Народного театру вже 7 жовтня на сцені Нової Гути. Найновіша музична вистава «Загіпнотизуй мене — пісні Зигмунта Конєчного» в режисурі Малгожати Бояґевської — це розповідь про диво народження й життя, кохання та самотність, пошук щастя і людську потребу у свободі. «То, може, ми б так, наймиліший, заїхали на день до Томашува? Може, там і досі в золотому присмерку триває та сама вереснева тиша»...\n\n(**"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://ludowy.pl/spektakle/zahipnotyzuj-mnie-piosenki-zygmunta-koniecznego-2/"
+      },
+      "district": "Nowa Huta",
+      "updated_at": "2026-11-15T13:53:24.531231+00:00"
+    },
+    "karolcia-historia-o-niebieskim-koraliku-2027-02-07T11:00:00+01:00": {
+      "title": "Karolcia. Historia o niebieskim koraliku",
+      "date": "2027-02-07T11:00:00+01:00",
+      "url": "https://karnet.krakowculture.pl/62642-krakow-karolcia-historia-o-niebieskim-koraliku",
+      "description": "**Karolcia to ulubiona książka z lat dzieciństwa, którą często wypożycza się jako pierwszą ze szkolnej biblioteki. To zaczarowana opowieść o małej, rezolutnej dziewczynce, która podczas przeprowadzki do nowego mieszkania znajduje w szparze podłogi magiczny koralik.**\nDzięki niemu wraz ze swoim nowym kolegą Piotrem, przeżywa wiele ciekawych i zabawnych przygód. Koralik spełnia życzenia, dlatego jest też obiektem zainteresowania złej czarownicy, Filomeny.\n\nPrzedstawienie Teatru Współczesnego w Krakowie przeniesie naszych najmłodszych widzów w świat niesamowitych przygód głównych bohaterów. Zobaczymy w jaki sposób korzystają z magicznego koralika spełniając nie tylko swoje zachcianki, ale przede wszystkim pomagając przyjaciołom ze szkoły oraz rodzicom.\n\nSpektakl przekazuje uniwersalne wartości i uczy tego, że warto pomagać innym, a dawanie jest tak samo przyjemne, jak otrzymywanie.\n\nZabawne kompozycje autorskich piosenek podkreślają przyjazny dla dziecka język przedstawienia, dodatkowo nadając widowisku musicalowego charakteru. Wykorzystane w spektaklu efekty specjalne pozwalają najmłodszym widzom poczuć baśniowy charakter przeniesionej na deski sceniczne książeczki Marii Kruger.\n\nZapraszamy na wspólną wędrówkę w krainę wyobraźni w której każde marzenie jest możliwe do spełnienia.\n\nReżyseria: Bartosz Jarzymowski/ scenariusz: Jan Naturski/ scenografia: Elżbieta Bień/ kostiumy: Agata Jarzymowska/ muzyka: Maksymilian Czarnecki/ realizacja światła i dźwięku: Mateusz Wójcik.\n\nW spektaklu trwającym 65 min. występują aktorzy: Anna Łakomy/ Sabina Szarek - Karolcia,  Szymon Grzybek - Piotr, Paweł Brandys - tata/prezydent, Karolina Bełko/ Maksymilian Czarnecki - Filomena/koleżanka/złodziej/lew, Łukasz Dąbrowski - taksówkarz/sprzedawca/strażnik/ lew.\n\nPo każdym przedstawieniu możliwa organizacja warsztatów teatralnych.",
+      "image": "https://media.krakow.travel/photos/36519/m.jpg",
+      "startTimeKnown": true,
+      "location": {
+        "name": "Teatr Współczesny, ul. Przemysłowa 2, 30–701 Kraków",
+        "district": "Stare Miasto"
+      },
+      "end_date": "2027-02-07T11:00:00+01:00",
+      "scrapped_url": "https://karnet.krakowculture.pl/62642-krakow-karolcia-historia-o-niebieskim-koraliku",
+      "scrapped_timestamp": "2026-11-15T13:51:38.045121+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Karolcia. Historia o niebieskim koraliku",
+          "description": "**Karolcia to ulubiona książka z lat dzieciństwa, którą często wypożycza się jako pierwszą ze szkolnej biblioteki. To zaczarowana opowieść o małej, rezolutnej dziewczynce, która podczas przeprowadzki do nowego mieszkania znajduje w szparze podłogi magiczny koralik.**\nDzięki niemu wraz ze swoim nowym kolegą Piotrem, przeżywa wiele ciekawych i zabawnych przygód. Koralik spełnia życzenia, dlatego jest też obiektem zainteresowania złej czarownicy, Filomeny.\n\nPrzedstawienie Teatru Współczesnego w Krakowie przeniesie naszych najmłodszych widzów w świat niesamowitych przygód głównych bohaterów. Zobaczymy w jaki sposób korzystają z magicznego koralika spełniając nie tylko swoje zachcianki, ale przede wszystkim pomagając przyjaciołom ze szkoły oraz rodzicom.\n\nSpektakl przekazuje uniwersalne wartości i uczy tego, że warto pomagać innym, a dawanie jest tak samo przyjemne, jak otrzymywanie.\n\nZabawne kompozycje autorskich piosenek podkreślają przyjazny dla dziecka język przedstawienia, dodatkowo nadając widowisku musicalowego charakteru. Wykorzystane w spektaklu efekty specjalne pozwalają najmłodszym widzom poczuć baśniowy charakter przeniesionej na deski sceniczne książeczki Marii Kruger.\n\nZapraszamy na wspólną wędrówkę w krainę wyobraźni w której każde marzenie jest możliwe do spełnienia.\n\nReżyseria: Bartosz Jarzymowski/ scenariusz: Jan Naturski/ scenografia: Elżbieta Bień/ kostiumy: Agata Jarzymowska/ muzyka: Maksymilian Czarnecki/ realizacja światła i dźwięku: Mateusz Wójcik.\n\nW spektaklu trwającym 65 min. występują aktorzy: Anna Łakomy/ Sabina Szarek - Karolcia,  Szymon Grzybek - Piotr, Paweł Brandys - tata/prezydent, Karolina Bełko/ Maksymilian Czarnecki - Filomena/koleżanka/złodziej/lew, Łukasz Dąbrowski - taksówkarz/sprzedawca/strażnik/ lew.\n\nPo każdym przedstawieniu możliwa organizacja warsztatów teatralnych."
+        },
+        "en": {
+          "title": "Karolcia. The Story of the Blue Bead",
+          "description": "**Karolcia is a beloved book from childhood, often the first one borrowed from the school library. It is an enchanting tale about a little, resourceful girl who finds a magic bead in a crack in the floor while moving to a new apartment.**\nThanks to it, she and her new friend Piotr have many exciting and funny adventures. The bead grants wishes, which is why it also attracts the attention of the evil witch Filomena.\n\nThe Contemporary Theatre in Kraków’s production will take our youngest audience members into a world of amazing adventures with the main characters. We will see how they use the magic bead to fulfill not only their own whims, but above all to help their school friends and parents.\n\nThe performance conveys universal values"
+        },
+        "uk": {
+          "title": "Карольця. Історія про блакитну намистинку",
+          "description": "**«Карольця» — улюблена книжка з дитинства, яку часто беруть першою у шкільній бібліотеці. Це чарівна історія про маленьку кмітливу дівчинку, яка під час переїзду до нової квартири знаходить у щілині підлоги чарівну намистинку.**\nЗавдяки їй разом зі своїм новим другом Петром вона переживає чимало цікавих і кумедних пригод. Намистинка виконує бажання, тому нею також цікавиться зла відьма Філомена.\n\nВистава Краківського театру «Вспулчесни» перенесе наших наймолодших глядачів у світ неймовірних пригод головних героїв. Ми побачимо, як вони користуються чарівною намистинкою, здійснюючи не лише власні забаганки, а передусім допомагаючи друзям зі школи та батькам.\n\nВистава передає універсальні цінності"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://biletomat.pl/wydarzenia/karolcia-historia-o-niebieskim-koraliku-9854?eventId=356196&locationId=e3305071-fdf1-4a32-8585-5745c70c0c5e"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531250+00:00"
+    },
+    "muzeum-banksy-wystawa-2026-11-16T11:00:00+01:00": {
+      "title": "Muzeum Banksy – wystawa",
+      "date": "2026-11-16T11:00:00+01:00",
+      "end_date": "2026-11-16T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy do Muzeum Banksy'ego w Krakowie - bilety już w sprzedaży.\n\nGodziny otwarcia\nPoniedziałek - niedziela 11:00-19:00 / ostatnie wejście o 18:15\nMuzeum Banksy'ego informacje\nPonad 150 prac najbardziej tajemniczego współczesnego artysty można oglądać w wyjątkowych pomieszczeniach postindustrialnych wnętrz Fabryki Platerów, Srebra i Wyrobów Metalowych Marcina Jarry, której początki sięgają 1886 roku i która zajmuje powierzchnię ponad tysiąca metrów kwadratowych. Banksy to bez wątpienia najsłynniejszy i najbardziej kontrowersyjny współczesny artysta uliczny. Muzeum Banksy'ego ma na celu przedstawienie postaci samego Banksy'ego i jego niezwykłego podejścia poprzez kreatywność, którą pokazał na ulicach całego świata. Odwiedzający odkryją mistrza sztuki ulicznej w kompleksowym i wciągającym doświadczeniu.\n\nBilety ulgowe obejmują:\nStudentów\nNauczycieli\nMłodzież do 18 roku życia\nSeniorów (powyżej 65 lat)\nGrupy (min. 10 osób)\nOsoby niepełnosprawne\nPakiet Rodzinny (minimum 4 osoby, w tym maksymalnie 2 rodziców, dzieci poniżej 18 roku życia)\nDzieci poniżej 6 roku życia mają wstęp bezpłatny\n\n> English version below <",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/7af6d360-d4ae-4a34-8200-b447a838727e/d5ba2370-5556-40f8-98b6-f3438536958b.jpg",
+      "location": {
+        "name": "Muzeum Banksy, Kraków",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/krakow/rozrywka/wydarzenie/muzeum-banksy-wystawa-7af6d360-d4ae-4a34-8200-b447a838727e",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/krakow/rozrywka/wydarzenie/muzeum-banksy-wystawa-7af6d360-d4ae-4a34-8200-b447a838727e",
+      "scrapped_timestamp": "2026-11-15T13:51:50.437566+00:00",
+      "category": "Arts",
+      "additional_categories": [
+        "Educational"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Muzeum Banksy – wystawa",
+          "description": "Zapraszamy do Muzeum Banksy'ego w Krakowie - bilety już w sprzedaży.\n\nGodziny otwarcia\nPoniedziałek - niedziela 11:00-19:00 / ostatnie wejście o 18:15\nMuzeum Banksy'ego informacje\nPonad 150 prac najbardziej tajemniczego współczesnego artysty można oglądać w wyjątkowych pomieszczeniach postindustrialnych wnętrz Fabryki Platerów, Srebra i Wyrobów Metalowych Marcina Jarry, której początki sięgają 1886 roku i która zajmuje powierzchnię ponad tysiąca metrów kwadratowych. Banksy to bez wątpienia najsłynniejszy i najbardziej kontrowersyjny współczesny artysta uliczny. Muzeum Banksy'ego ma na celu przedstawienie postaci samego Banksy'ego i jego niezwykłego podejścia poprzez kreatywność, którą pokazał na ulicach całego świata. Odwiedzający odkryją mistrza sztuki ulicznej w kompleksowym i wciągającym doświadczeniu.\n\nBilety ulgowe obejmują:\nStudentów\nNauczycieli\nMłodzież do 18 roku życia\nSeniorów (powyżej 65 lat)\nGrupy (min. 10 osób)\nOsoby niepełnosprawne\nPakiet Rodzinny (minimum 4 osoby, w tym maksymalnie 2 rodziców, dzieci poniżej 18 roku życia)\nDzieci poniżej 6 roku życia mają wstęp bezpłatny\n\n> English version below <"
+        },
+        "en": {
+          "title": "Banksy Museum – exhibition",
+          "description": "We invite you to Banksy's Museum in Kraków - tickets are now on sale.\n\nOpening hours\nMonday - Sunday 11:00-19:00 / last entry at 18:15\nBanksy's Museum information\nMore than 150 works by the most mysterious contemporary artist can be viewed in the exceptional post-industrial interiors of the Marcin Jarra Factory of Plated Goods, Silver and Metal Products, whose origins date back to 1886 and which occupies an area of over a thousand square metres. Banksy is undoubtedly the most famous and controversial contemporary street artist. Banksy's Museum aims to present Banksy himself and his extraordinary approach through the creativity he has shown on streets around the world. Visitors will discover a master of street art in a comprehensive and immersive"
+        },
+        "uk": {
+          "title": "Музей Бенксі – виставка",
+          "description": "Запрошуємо до Музею Бенксі в Кракові — квитки вже у продажу.\n\nГодини роботи\nПонеділок - неділя 11:00-19:00 / останній вхід о 18:15\nІнформація про Музей Бенксі\nПонад 150 робіт найзагадковішого сучасного художника можна побачити в унікальних постіндустріальних приміщеннях Фабрики плакованих виробів, срібла та металевих виробів Марціна Ярри, історія якої сягає 1886 року та яка займає площу понад тисячу квадратних метрів. Бенксі, безперечно, найвідоміший і найбільш суперечливий сучасний вуличний художник. Музей Бенксі має на меті представити постать самого Бенксі та його незвичайний підхід через творчість, яку він продемонстрував на вулицях усього світу. Відвідувачі відкриють для себе майстра вуличного мистецтва у комплексному та захопливому"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.ebilet.pl/biznes/wystawa/muzeum-banksy?partner=tradedoubler"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531269+00:00"
+    },
+    "muzeum-banksy-bilet-na-ca-odniowe-wej-cie-2026-12-15T11:00:00+01:00": {
+      "title": "Muzeum Banksy – bilet na całodniowe wejście",
+      "date": "2026-12-15T11:00:00+01:00",
+      "end_date": "2026-12-15T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Muzeum Banksy - ul. Berka Joselewicza 21, 31-031 Kraków - bilet upoważnia do wejścia w ciągu całego dnia (od godz. 11:00). Muzeum jest otwarte codziennie od 11:00 do 19:00.\nENGLISH\nOver 150 pieces by the most mysterious contemporary artist may be seen in the unique premises of post-industrial interiors of Marcin Jarra's Plated, Silver, and Metal Products Factory, which dates back to 1886 and covers an area of over a thousand square meters. Banksy is undoubtedly today's most famous and controversial street artist. The Banksy Museum resolutely sets out to introduce Banksy and his unusual approach through the creativity he has shown in the streets all over the world. Visitors will discover the master of street art in a comprehensive and immersive experience.\nPOLISH\nPonad 150 prac najbardziej tajemniczego współczesnego artysty można oglądać w wyjątkowych pomieszczeniach postindustrialnych wnętrz Fabryki Platerów, Srebra i Wyrobów Metalowych Marcina Jarry, której początki sięgają 1886 roku i która zajmuje powierzchnię ponad tysiąca metrów kwadratowych. Banksy to bez wątpienia najsłynniejszy i najbardziej kontrowersyjny współczesny artysta uliczny. Muzeum Banksy'ego ma na celu przedstawienie postaci samego Banksy'ego i jego niezwykłego podejścia poprzez kreatywność, którą pokazał na ulicach całego świata. Odwiedzający odkryją mistrza sztuki ulicznej w kompleksowym i wciągającym doświadczeniu.\nBilety:\n* Dorośli (powyżej 18 r.ż.) - 60 zł\n* Studenci - 45 zł\n* Nauczyciele - 45 zł\n* Młodzież do 18 roku życia - 45 zł\n* Senior (powyżej 65 r.ż.) - 45 zł\n* Grupy (min. 10 osób) - 45 zł\n* Pakiet Rodzinny (min. 4 osoby) - 45 zł\n* Dzieci poniżej 6. roku życia - wstęp bezpłatny\n* Dzieci od 6. roku życia - bilet ulgowy",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/103282e1-0c31-419a-9db2-893a868794ce/adc9168c-0ffb-43da-aaaa-ecef82d4c22f.jpg",
+      "location": {
+        "name": "Muzeum Banksy, Ul. Berka Joselewicza 21, 31-031 Kraków",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/krakow/rozrywka/wydarzenie/muzeum-banksy-bilet-na-calodniowe-wejscie-103282e1-0c31-419a-9db2-893a868794ce",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/krakow/rozrywka/wydarzenie/muzeum-banksy-bilet-na-calodniowe-wejscie-103282e1-0c31-419a-9db2-893a868794ce",
+      "scrapped_timestamp": "2026-11-15T13:52:05.602114+00:00",
+      "category": "Arts",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Muzeum Banksy – bilet na całodniowe wejście",
+          "description": "Muzeum Banksy - ul. Berka Joselewicza 21, 31-031 Kraków - bilet upoważnia do wejścia w ciągu całego dnia (od godz. 11:00). Muzeum jest otwarte codziennie od 11:00 do 19:00.\nENGLISH\nOver 150 pieces by the most mysterious contemporary artist may be seen in the unique premises of post-industrial interiors of Marcin Jarra's Plated, Silver, and Metal Products Factory, which dates back to 1886 and covers an area of over a thousand square meters. Banksy is undoubtedly today's most famous and controversial street artist. The Banksy Museum resolutely sets out to introduce Banksy and his unusual approach through the creativity he has shown in the streets all over the world. Visitors will discover the master of street art in a comprehensive and immersive experience.\nPOLISH\nPonad 150 prac najbardziej tajemniczego współczesnego artysty można oglądać w wyjątkowych pomieszczeniach postindustrialnych wnętrz Fabryki Platerów, Srebra i Wyrobów Metalowych Marcina Jarry, której początki sięgają 1886 roku i która zajmuje powierzchnię ponad tysiąca metrów kwadratowych. Banksy to bez wątpienia najsłynniejszy i najbardziej kontrowersyjny współczesny artysta uliczny. Muzeum Banksy'ego ma na celu przedstawienie postaci samego Banksy'ego i jego niezwykłego podejścia poprzez kreatywność, którą pokazał na ulicach całego świata. Odwiedzający odkryją mistrza sztuki ulicznej w kompleksowym i wciągającym doświadczeniu.\nBilety:\n* Dorośli (powyżej 18 r.ż.) - 60 zł\n* Studenci - 45 zł\n* Nauczyciele - 45 zł\n* Młodzież do 18 roku życia - 45 zł\n* Senior (powyżej 65 r.ż.) - 45 zł\n* Grupy (min. 10 osób) - 45 zł\n* Pakiet Rodzinny (min. 4 osoby) - 45 zł\n* Dzieci poniżej 6. roku życia - wstęp bezpłatny\n* Dzieci od 6. roku życia - bilet ulgowy"
+        },
+        "en": {
+          "title": "Banksy Museum – all-day admission ticket",
+          "description": "Banksy Museum - 21 Berka Joselewicza Street, 31-031 Kraków - the ticket entitles you to enter at any time during the day (from 11:00). The museum is open daily from 11:00 to 19:00.\nENGLISH\nOver 150 pieces by the most mysterious contemporary artist may be seen in the unique premises of post-industrial interiors of Marcin Jarra's Plated, Silver, and Metal Products Factory, which dates back to 1886 and covers an area of over a thousand square meters. Banksy is undoubtedly today's most famous and controversial street artist. The Banksy Museum resolutely sets out to introduce Banksy and his unusual approach through the creativity he has shown in the streets all over the world. Visitors will discover the master of street art in a comprehensive and immersive experience.\nPOLISH\nOver 150 works by the most"
+        },
+        "uk": {
+          "title": "Музей Бенксі – квиток на вхід на весь день",
+          "description": "Музей Бенксі - вул. Берка Йоселевича 21, 31-031 Краків - квиток дає право на вхід протягом усього дня (з 11:00). Музей відкритий щодня з 11:00 до 19:00.\nАНГЛІЙСЬКА\nПонад 150 робіт найзагадковішого сучасного митця можна побачити в унікальному просторі постіндустріальних інтер’єрів фабрики виробів із посрібленого металу та срібла Марціна Ярри, заснованої у 1886 році й площею понад тисячу квадратних метрів. Бенксі, безперечно, є найвідомішим і найсуперечливішим вуличним художником сучасності. Музей Бенксі рішуче прагне познайомити відвідувачів із Бенксі та його незвичайним підходом через творчість, яку він демонстрував на вулицях усього світу. На відвідувачів чекає всебічне й захопливе знайомство з майстром стріт-арту.\nПОЛЬСЬКА\nПонад 150 робіт найбільш"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/224925/krakow/muzeum-banksy?utm_source=pp&utm_medium=604"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T13:53:24.531291+00:00"
+    },
+    "wi-teczna-ba-kolandia-spektakl-dla-ca-ej-rodziny-2026-12-15T11:00:00+01:00": {
+      "title": "Świąteczna Bańkolandia – spektakl dla całej rodziny",
+      "date": "2026-12-15T11:00:00+01:00",
+      "end_date": "2026-12-15T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wesoło-mydlana, śnieżno-magiczna historia dla całej rodziny!\nZapraszamy wszystkie dzieci i ich rodziny na niezapomnianą przygodę do krainy czarów i uśmiechu! \"Teatr Baniek Mydlanych\" zaprasza na wyjątkowy spektakl świąteczny - pełen kolorowych baniek, magii i dobrej zabawy: \"Świąteczna Bańkolandia\"! To nie jest zwykłe przedstawienie - to prawdziwe teatralne widowisko, w którym głównymi bohaterami są... bańki mydlane! Unoszą się nad sceną, tańczą w powietrzu i tworzą bajeczny świat, który zachwyca zarówno dzieci, jak i dorosłych.\nDla kogo jest ten spektakl? Dla wszystkich, którzy kochają dobrą zabawę, śmiech i magię świąt! Dla rodzin z dziećmi, przedszkoli, szkół, a także dla tych, którzy chcą na chwilę wrócić do beztroskiego dzieciństwa.\nO czym opowiada Świąteczna Bańkolandia? W odległej i cudownej krainie - Bańkolandii - nigdy nie widziano prawdziwego śniegu! Zbliżają się święta, a najlepsi uczniowie Magicznej Bubble Szkoły - urocza Mydlaneczka i energiczny Bąbelek - mają szalony pomysł: stworzyć śnieg z baniek mydlanych! Ale nie wszystko idzie zgodnie z planem... Mistrz Bulbulas, zmęczony przesłodzonymi historiami, kreuje własną bajkę o złym, krzywym zwierciadle - takim, które ukazuje wszystko co złe, a to co dobre - ukrywa. Mieszkańcy Bańkolandii zostają wciągnięci w wir niesamowitych przygód, a nasi bohaterowie muszą wykazać się odwagą, mądrością i... liczyć na pomoc widzów! To właśnie dzieci obecne na widowni mają ogromny wpływ na przebieg historii - mogą pomóc Mydlaneczce i Bąbelkowi uratować święta!\nDlaczego warto zobaczyć ten spektakl?\n• Unikalna forma - połączenie teatru, iluzji i widowiska bańkowego.\n• Interaktywna zabawa z dziećmi.\n• Świąteczny klimat i pozytywne przesłanie.\n• Kolorowa scenografia, muzyka i efekty specjalne.\n• 60 minut magii, śmiechu i rodzinnej radości!\nZabierz całą rodzinę i przeżyjcie razem niezapomnianą świąteczną przygodę! Niech \"Świąteczna Bańkolandia\" stanie się częścią Waszych najpiękniejszych wspomnień. Nie zwlekaj - liczba miejsc ograniczona! Zanurz się w magiczny świat baniek i odkryj najbardziej niezwykłe święta w roku!",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/e3c4c7f9-63de-4f64-8bfa-fd68e32fd63f/7046b14d-0afb-41cc-a762-b66564407071.jpg",
+      "location": {
+        "name": "Kino Kijów Centrum, Al. Krasińskiego 34, 30-101 Kraków",
+        "district": "Zwierzyniec"
+      },
+      "url": "https://simplygo.pl/wydarzenia/krakow/dla-dzieci/wydarzenie/swiateczna-bankolandia-spektakl-dla-calej-rodziny-e3c4c7f9-63de-4f64-8bfa-fd68e32fd63f",
+      "source": "simplygo.pl",
+      "age_hint": "3-10",
+      "age_range": {
+        "min": 3,
+        "max": 10
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/krakow/dla-dzieci/wydarzenie/swiateczna-bankolandia-spektakl-dla-calej-rodziny-e3c4c7f9-63de-4f64-8bfa-fd68e32fd63f",
+      "scrapped_timestamp": "2026-11-15T13:52:45.209418+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun",
+        "Seasonal Festival"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Świąteczna Bańkolandia – spektakl dla całej rodziny",
+          "description": "Wesoło-mydlana, śnieżno-magiczna historia dla całej rodziny!\nZapraszamy wszystkie dzieci i ich rodziny na niezapomnianą przygodę do krainy czarów i uśmiechu! \"Teatr Baniek Mydlanych\" zaprasza na wyjątkowy spektakl świąteczny - pełen kolorowych baniek, magii i dobrej zabawy: \"Świąteczna Bańkolandia\"! To nie jest zwykłe przedstawienie - to prawdziwe teatralne widowisko, w którym głównymi bohaterami są... bańki mydlane! Unoszą się nad sceną, tańczą w powietrzu i tworzą bajeczny świat, który zachwyca zarówno dzieci, jak i dorosłych.\nDla kogo jest ten spektakl? Dla wszystkich, którzy kochają dobrą zabawę, śmiech i magię świąt! Dla rodzin z dziećmi, przedszkoli, szkół, a także dla tych, którzy chcą na chwilę wrócić do beztroskiego dzieciństwa.\nO czym opowiada Świąteczna Bańkolandia? W odległej i cudownej krainie - Bańkolandii - nigdy nie widziano prawdziwego śniegu! Zbliżają się święta, a najlepsi uczniowie Magicznej Bubble Szkoły - urocza Mydlaneczka i energiczny Bąbelek - mają szalony pomysł: stworzyć śnieg z baniek mydlanych! Ale nie wszystko idzie zgodnie z planem... Mistrz Bulbulas, zmęczony przesłodzonymi historiami, kreuje własną bajkę o złym, krzywym zwierciadle - takim, które ukazuje wszystko co złe, a to co dobre - ukrywa. Mieszkańcy Bańkolandii zostają wciągnięci w wir niesamowitych przygód, a nasi bohaterowie muszą wykazać się odwagą, mądrością i... liczyć na pomoc widzów! To właśnie dzieci obecne na widowni mają ogromny wpływ na przebieg historii - mogą pomóc Mydlaneczce i Bąbelkowi uratować święta!\nDlaczego warto zobaczyć ten spektakl?\n• Unikalna forma - połączenie teatru, iluzji i widowiska bańkowego.\n• Interaktywna zabawa z dziećmi.\n• Świąteczny klimat i pozytywne przesłanie.\n• Kolorowa scenografia, muzyka i efekty specjalne.\n• 60 minut magii, śmiechu i rodzinnej radości!\nZabierz całą rodzinę i przeżyjcie razem niezapomnianą świąteczną przygodę! Niech \"Świąteczna Bańkolandia\" stanie się częścią Waszych najpiękniejszych wspomnień. Nie zwlekaj - liczba miejsc ograniczona! Zanurz się w magiczny świat baniek i odkryj najbardziej niezwykłe święta w roku!"
+        },
+        "en": {
+          "title": "Christmas Bubbleland – a show for the whole family",
+          "description": "A joyful, soapy, snow-magical story for the whole family!\nWe invite all children and their families on an unforgettable adventure to a land of magic and smiles! The “Soap Bubble Theater” invites you to a special Christmas show—full of colorful bubbles, magic, and fun: “Christmas Bubbleland”! This is no ordinary performance—it’s a spectacular theatrical show in which the main characters are... soap bubbles! They float above the stage, dance in the air, and create a fairytale world that delights both children and adults.\nWho is this show for? For everyone who loves fun, laughter, and the magic of the holidays! For families with children, preschools, schools, and anyone who wants to return for a moment to a carefree childhood.\nWhat is Christmas Bubbleland about? In a distant and"
+        },
+        "uk": {
+          "title": "Святкова Бульколандія – вистава для всієї родини",
+          "description": "Весела-мильна, сніжно-чарівна історія для всієї родини!\nЗапрошуємо всіх дітей та їхні родини на незабутню пригоду до країни чудес і усмішок! \"Театр Мильних Бульбашок\" запрошує на особливу святкову виставу — сповнену кольорових бульбашок, магії та гарного настрою: \"Святкова Бульколандія\"! Це не звичайна вистава — це справжнє театральне видовище, у якому головні герої — це... мильні бульбашки! Вони здіймаються над сценою, танцюють у повітрі й створюють казковий світ, який захоплює і дітей, і дорослих.\nДля кого ця вистава? Для всіх, хто любить гарні розваги, сміх і магію свят! Для родин із дітьми, дитячих садків, шкіл, а також для тих, хто хоче на мить повернутися в безтурботне дитинство.\nПро що розповідає Святкова Бульколандія? У далекій і"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/201598/krakow/teatr-baniek-mydlanych-swiateczna-bankolandia?utm_source=pp&utm_medium=604"
+      },
+      "district": "Zwierzyniec",
+      "updated_at": "2026-11-15T13:53:24.531339+00:00"
     }
   }
 }

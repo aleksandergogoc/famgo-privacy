@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T13:34:25.167397+00:00",
+  "updated_at": "2026-11-15T14:26:31.740251+00:00",
   "events": {
     "spotkania-dla-dzieci-na-targ-u-pomi-amori-2027-05-23T10:00:00+02:00": {
       "title": "Spotkania dla dzieci na TARG.u / Pomi Amori",
@@ -2952,48 +2952,49 @@
       "updated_at": "2026-10-28T12:51:31.927322+00:00"
     },
     "balet-dla-dzieci-warsztaty-2026-11-28T14:30:00+01:00": {
-      "title": "Balet dla dzieci - warsztaty",
+      "title": "Balet dla dzieci – warsztaty",
       "date": "2026-11-28T14:30:00+01:00",
       "end_date": "2026-11-28T14:30:00+01:00",
       "startTimeKnown": true,
-      "description": "Zajęcia baletowe dla dzieci prowadzone w przyjaznej atmosferze przez wieloletnich tancerzy poznańskiego baletu - Annę Gumną i Arkadiusza Gumnego. Proponowane warsztaty z tańca klasycznego są nie tylko okazją do rozwijania pasji, ale też doskonalą poczucie rytmu, wrażliwość na muzykę czy pozytywnie wpływają na prawidłową postawę ciała. A poza tym - są też świetną zabawą i okazją do tego, by trochę się poruszać i poskakać.\n\nWiek uczestników: 4-7 lat\n\nCzas trwania: około 45 minut\n\nmateriały: Teatr Wielki w Poznaniu\n\nZobacz opera.poznan.pl\n\nBaner\n\nPobierz baner (PNG, 12,53 kB)",
-      "image": "https://www.poznan.pl/mim/wortals/pictures/logotyp-teatru-wielkiego,pic1,1225,0,502899,with-dims,209,209.jpg?_sst=1792769684576",
+      "description": "Warsztaty z tańca klasycznego rozwijają pasję, doskonalą poczucie rytmu i wrażliwość na muzykę oraz pozytywnie wpływają na prawidłową postawę ciała. To także świetna zabawa i okazja, by trochę się poruszać i poskakać.\n\nWiek uczestników: 4-7 lat\n\nKoszt: 40 zł za pojedyncze zajęcia\n\nBilety dostępne w kasie Teatru Wielkiego im. Stanisława Moniuszki w Poznaniu.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/248d82bd-87f7-4886-9920-2439d6c9e806/516af9ae-f706-4bfd-aee4-7f5b91ea227b.jpg",
       "location": {
-        "name": "Teatr Wielki, Foyer III piętra, ul. Fredry 9, Poznań",
+        "name": "Malarnia, Teatr Wielki im. Stanisława Moniuszki, ul. Fredry 9, 61-701 Poznań",
         "district": "Stare Miasto"
       },
-      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-11-28/balet-dla-dzieci-warsztaty,188339.html",
-      "source": "poznan.pl",
-      "district": "Stare Miasto",
-      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-11-28/balet-dla-dzieci-warsztaty,188339.html",
-      "scrapped_timestamp": "2026-10-28T12:51:04.862035+00:00",
-      "category": "Music & Dance",
-      "additional_categories": [
-        "Workshops"
-      ],
+      "url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/balet-dla-dzieci-warsztaty-248d82bd-87f7-4886-9920-2439d6c9e806",
+      "source": "simplygo.pl",
+      "age_hint": "4-7",
       "age_range": {
         "min": 4,
         "max": 7
       },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/balet-dla-dzieci-warsztaty-248d82bd-87f7-4886-9920-2439d6c9e806",
+      "scrapped_timestamp": "2026-11-15T14:25:44.920441+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Music & Dance"
+      ],
       "location_type": "indoor",
       "translations": {
         "pl": {
-          "title": "Balet dla dzieci - warsztaty",
-          "description": "Zajęcia baletowe dla dzieci prowadzone w przyjaznej atmosferze przez wieloletnich tancerzy poznańskiego baletu - Annę Gumną i Arkadiusza Gumnego. Proponowane warsztaty z tańca klasycznego są nie tylko okazją do rozwijania pasji, ale też doskonalą poczucie rytmu, wrażliwość na muzykę czy pozytywnie wpływają na prawidłową postawę ciała. A poza tym - są też świetną zabawą i okazją do tego, by trochę się poruszać i poskakać.\n\nWiek uczestników: 4-7 lat\n\nCzas trwania: około 45 minut\n\nmateriały: Teatr Wielki w Poznaniu\n\nZobacz opera.poznan.pl\n\nBaner\n\nPobierz baner (PNG, 12,53 kB)"
+          "title": "Balet dla dzieci – warsztaty",
+          "description": "Warsztaty z tańca klasycznego rozwijają pasję, doskonalą poczucie rytmu i wrażliwość na muzykę oraz pozytywnie wpływają na prawidłową postawę ciała. To także świetna zabawa i okazja, by trochę się poruszać i poskakać.\n\nWiek uczestników: 4-7 lat\n\nKoszt: 40 zł za pojedyncze zajęcia\n\nBilety dostępne w kasie Teatru Wielkiego im. Stanisława Moniuszki w Poznaniu."
         },
         "en": {
-          "title": "Ballet for Children - Workshops",
-          "description": "Ballet classes for children conducted in a friendly atmosphere by long-time dancers of the Poznań ballet - Anna Gumna and Arkadiusz Gumny. The proposed classical dance workshops are not only an opportunity to develop a passion but also enhance the sense of rhythm, sensitivity to music, and positively influence proper body posture. Moreover, they are also great fun and an opportunity to move around and jump a bit.\n\nAge of participants: 4-7 years\n\nDuration: about 45 minutes\n\nMaterials: Grand Theatre in Poznań\n\nSee opera.poznan.pl\n\nBanner\n\nDownload banner (PNG, 12.53 kB)"
+          "title": "Ballet for Children – Workshops",
+          "description": "Classical dance workshops nurture a passion for dance, develop a sense of rhythm and sensitivity to music, and have a positive effect on proper posture. They’re also great fun and an opportunity to move around and jump a little.\n\nParticipants’ age: 4–7 years\n\nCost: 40 PLN per class\n\nTickets available at the box office of the Stanisław Moniuszko Grand Theatre in Poznań."
         },
         "uk": {
-          "title": "Балет для дітей - майстер-класи",
-          "description": "Заняття балетом для дітей проводяться в дружній атмосфері досвідченими танцюристами познанського балету - Анною Гумною та Аркадіушем Гумним. Пропоновані майстер-класи з класичного танцю є не лише можливістю для розвитку пристрасті, але й вдосконалюють відчуття ритму, чутливість до музики чи позитивно впливають на правильну поставу тіла. А крім того - це також чудова розвага та можливість трохи порухатися і пострибати.\n\nВік учасників: 4-7 років\n\nЧас тривання: близько 45 хвилин\n\nматеріали: Театр Великий у Познані\n\nПерегляньте opera.poznan.pl\n\nБанер\n\nЗавантажити банер (PNG, 12,53 кБ)"
+          "title": "Балет для дітей – майстер-класи",
+          "description": "Майстер-класи з класичного танцю розвивають захоплення, удосконалюють відчуття ритму та сприйняття музики, а також позитивно впливають на правильну поставу. Це також чудова розвага й нагода трохи порухатися та пострибати.\n\nВік учасників: 4–7 років\n\nВартість: 40 злотих за одне заняття\n\nКвитки можна придбати в касі Великого театру ім. Станіслава Монюшка в Познані."
         }
       },
       "admission": {
         "is_free": false
       },
-      "updated_at": "2026-10-28T12:51:31.927334+00:00"
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T14:26:31.544975+00:00"
     },
     "ale-kino-festival-2026-2026-11-29T00:00:00+01:00": {
       "title": "Ale Kino! Festival 2026",
@@ -6609,6 +6610,751 @@
         "is_free": false
       },
       "updated_at": "2026-11-14T14:16:11.252555+00:00"
+    },
+    "kurs-szyfr-w-dla-rodzin-z-dzie-mi-ladami-amaczy-enigmy-2026-11-15T10:00:00+01:00": {
+      "title": "Kurs szyfrów dla rodzin z dziećmi - śladami łamaczy Enigmy",
+      "date": "2026-11-15T10:00:00+01:00",
+      "end_date": "2026-11-15T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Centrum Szyfrów Enigma zaprasza rodziny z dziećmi w wieku 7-10 lat na kurs szyfrów śladami łamaczy Enigmy!\n\nBędziecie mogli podjąć wyzwanie i zmierzyć się z historycznymi sposobami utajniania informacji. Podczas warsztatów poznacie niewidzialne atramenty, weźmiecie udział w eksperymentach i rozwiążecie zagadki, które otworzą sejf z nagrodami.\n\nTermin: 26.07, godz. 10:00\n\nCzas trwania: max. 75 minut\n\nCena: 50 zł/rodzinę\n\nmax. 2 osoby dorosłe i max 3 dzieci\n\nBilety odpłatne, dostępne przez: kasę, internet, rezerwację.\n\n**KUP** **BILET**\n\nBaner\n\nPobierz baner (JPEG, 128,86 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/baner,pic1,1225,0,505931,with-dims,209,209.jpg?_sst=1794239043716",
+      "location": {
+        "name": "Centrum Szyfrów Enigma, ul. Święty Marcin 78",
+        "district": "Stare Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/kurs-szyfrow-dla-rodzin-z-dziecmi-sladami-lamaczy-enigmy,189350.html",
+      "source": "poznan.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/kurs-szyfrow-dla-rodzin-z-dziecmi-sladami-lamaczy-enigmy,189350.html",
+      "scrapped_timestamp": "2026-11-15T14:22:41.034064+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Educational",
+        "STEM"
+      ],
+      "age_range": {
+        "min": 7,
+        "max": 10
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Kurs szyfrów dla rodzin z dziećmi - śladami łamaczy Enigmy",
+          "description": "Centrum Szyfrów Enigma zaprasza rodziny z dziećmi w wieku 7-10 lat na kurs szyfrów śladami łamaczy Enigmy!\n\nBędziecie mogli podjąć wyzwanie i zmierzyć się z historycznymi sposobami utajniania informacji. Podczas warsztatów poznacie niewidzialne atramenty, weźmiecie udział w eksperymentach i rozwiążecie zagadki, które otworzą sejf z nagrodami.\n\nTermin: 26.07, godz. 10:00\n\nCzas trwania: max. 75 minut\n\nCena: 50 zł/rodzinę\n\nmax. 2 osoby dorosłe i max 3 dzieci\n\nBilety odpłatne, dostępne przez: kasę, internet, rezerwację.\n\n**KUP** **BILET**\n\nBaner\n\nPobierz baner (JPEG, 128,86 kB)"
+        },
+        "en": {
+          "title": "Cipher Course for Families with Children – In the Footsteps of the Enigma Codebreakers",
+          "description": "The Enigma Cipher Center invites families with children aged 7–10 to a cipher course in the footsteps of the Enigma codebreakers!\n\nYou’ll be able to take on the challenge and explore historical methods of encrypting information. During the workshop, you’ll discover invisible inks, take part in experiments, and solve puzzles that will open a safe filled with prizes.\n\nDate: 26.07, 10:00 a.m.\n\nDuration: max. 75 minutes\n\nPrice: 50 PLN/family\n\nmax. 2 adults and max. 3 children\n\nPaid tickets available via the box office, online, or by reservation.\n\n**BUY** **TICKET**\n\nBanner\n\nDownload banner (JPEG, 128.86 kB)"
+        },
+        "uk": {
+          "title": "Курс шифрів для родин із дітьми — слідами зламників Enigma",
+          "description": "Центр шифрів «Енігма» запрошує родини з дітьми віком 7–10 років на курс шифрів слідами зламників Enigma!\n\nВи зможете прийняти виклик і зіткнутися з історичними способами засекречування інформації. Під час майстер-класу ви дізнаєтеся про невидиме чорнило, візьмете участь в експериментах і розгадаєте загадки, які відкриють сейф із призами.\n\nТермін: 26.07, о 10:00\n\nТривалість: макс. 75 хвилин\n\nЦіна: 50 злотих/родину\n\nмакс. 2 дорослих і макс. 3 дітей\n\nКвитки платні, доступні через: касу, інтернет, бронювання.\n\n**КУПИТИ** **КВИТОК**\n\nБанер\n\nЗавантажити банер (JPEG, 128,86 kB)"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-11-15T14:26:31.544656+00:00"
+    },
+    "spektakl-bajki-malutkie-2026-11-15T10:00:00+01:00": {
+      "title": "Spektakl - Bajki malutkie",
+      "date": "2026-11-15T10:00:00+01:00",
+      "end_date": "2026-11-15T10:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wszyscy kochamy bajki, prawda? Królowie, księżniczki, smoki i rycerze, wielkie przygody, potężna magia, lep na muchy, niebezpieczne kapcie... Zaraz, zaraz, co takiego?! Ach, no tak. To przecież bajki autorstwa Maliny Prześlugi, niewielkie, często niezauważane, takie do podglądania przez lupę. Jesteśmy pewni, że te miniaturowe opowieści o nietuzinkowych bohaterach spodobają się i malutkim i tym większym widzom. W naszych bajkach to nie rycerz ani królewicz wyruszy na ratunek pewnej damie w opałach, a Rozczarowany Rumak Romuald we własnej osobie, zupełnie bez jeźdźca. Maleńka pchła Majka pomyli pluszowego misia z żywym zwierzątkiem i wpadnie w niezłe tarapaty, w które zamieszany będzie podejrzanej maści komar...A na końcu wybierzemy się w daleką podróż w towarzystwie koteczki Fiu Fiu oraz świetnie nam znanych pcheł podróżniczek - Majki i Maćka. To wszystko i wiele więcej okraszone jest równie maleńkimi, uroczymi piosenkami, takimi do nucenia pod nosem. Kto jak kto, ale dzieci dobrze wiedzą, że małe jest piękne! A do tego ciekawskie, nieprzewidywalne i pełne humoru!\n\n\"Bajki Malutkie\" to sześć niezależnych od siebie mikro-opowieści, które prezentowane są w różnych konfiguracjach - zawsze po trzy. Sprawdźcie w bieżącym repertuarze, które z nich są aktualnie grane!\n\nBajka o Starej Babci i Molu Zbyszku\nBajka i Majka\nBajka o Owieczce, Która Ciągle Się Gubiła\nBajka o Kotce Fiu Fiu\nBajka o Włosie Patryku\nBajka o Rozczarowanym Rumaku Romualdzie\n\nRekomendowany wiek Widzów: od 4 lat\n\nWięcej informacji o cenach i dostepności biletów na stronie Teatru Animacji\n\nmateriały: Teatr Animacji w Poznaniu, fot. Maciej Zakrzewski\n\nZobacz www.teatranimacji.pl\n\nBaner\n\nPobierz baner (JPEG, 52,43 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/spektakl-bajki-malutkie-1,pic1,1225,0,503386,with-dims,209,209.jpg?_sst=1794239043716",
+      "location": {
+        "name": "Teatr Animacji, ul. Św. Marcin 80/82 (budynek CK Zamek), Poznań",
+        "district": "Stare Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/spektakl-bajki-malutkie,188479.html",
+      "source": "poznan.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/spektakl-bajki-malutkie,188479.html",
+      "scrapped_timestamp": "2026-11-15T14:22:57.048612+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Spektakl - Bajki malutkie",
+          "description": "Wszyscy kochamy bajki, prawda? Królowie, księżniczki, smoki i rycerze, wielkie przygody, potężna magia, lep na muchy, niebezpieczne kapcie... Zaraz, zaraz, co takiego?! Ach, no tak. To przecież bajki autorstwa Maliny Prześlugi, niewielkie, często niezauważane, takie do podglądania przez lupę. Jesteśmy pewni, że te miniaturowe opowieści o nietuzinkowych bohaterach spodobają się i malutkim i tym większym widzom. W naszych bajkach to nie rycerz ani królewicz wyruszy na ratunek pewnej damie w opałach, a Rozczarowany Rumak Romuald we własnej osobie, zupełnie bez jeźdźca. Maleńka pchła Majka pomyli pluszowego misia z żywym zwierzątkiem i wpadnie w niezłe tarapaty, w które zamieszany będzie podejrzanej maści komar...A na końcu wybierzemy się w daleką podróż w towarzystwie koteczki Fiu Fiu oraz świetnie nam znanych pcheł podróżniczek - Majki i Maćka. To wszystko i wiele więcej okraszone jest równie maleńkimi, uroczymi piosenkami, takimi do nucenia pod nosem. Kto jak kto, ale dzieci dobrze wiedzą, że małe jest piękne! A do tego ciekawskie, nieprzewidywalne i pełne humoru!\n\n\"Bajki Malutkie\" to sześć niezależnych od siebie mikro-opowieści, które prezentowane są w różnych konfiguracjach - zawsze po trzy. Sprawdźcie w bieżącym repertuarze, które z nich są aktualnie grane!\n\nBajka o Starej Babci i Molu Zbyszku\nBajka i Majka\nBajka o Owieczce, Która Ciągle Się Gubiła\nBajka o Kotce Fiu Fiu\nBajka o Włosie Patryku\nBajka o Rozczarowanym Rumaku Romualdzie\n\nRekomendowany wiek Widzów: od 4 lat\n\nWięcej informacji o cenach i dostepności biletów na stronie Teatru Animacji\n\nmateriały: Teatr Animacji w Poznaniu, fot. Maciej Zakrzewski\n\nZobacz www.teatranimacji.pl\n\nBaner\n\nPobierz baner (JPEG, 52,43 kB)"
+        },
+        "en": {
+          "title": "Performance - Tiny Fairy Tales",
+          "description": "We all love fairy tales, don't we? Kings, princesses, dragons and knights, great adventures, powerful magic, flypaper, dangerous slippers... Wait, what?! Oh, right. These are fairy tales by Malina Prześluga, small ones, often overlooked, the kind you peer at through a magnifying glass. We're sure these miniature stories about extraordinary characters will appeal to both little and bigger audience members. In our fairy tales, it won't be a knight or a prince who rides to the rescue of a damsel in distress, but Romuald the Disappointed Steed himself, with no rider at all. The tiny flea Majka will mistake a teddy bear for a real animal and get into quite a pickle, with a suspicious-looking mosquito getting mixed up in it... And at the end, we'll set off on a long journey in the company of little cat Fiu Fiu and St."
+        },
+        "uk": {
+          "title": "Вистава — Маленькі казки",
+          "description": "Ми всі любимо казки, правда? Королі, принцеси, дракони й лицарі, великі пригоди, могутня магія, липучка для мух, небезпечні капці... Зачекайте, зачекайте, що таке?! А, ну так. Це ж казки авторства Малини Пшеслуги — невеличкі, часто непомічені, такі, за якими підглядають крізь лупу. Ми впевнені, що ці мініатюрні оповідки про незвичайних героїв сподобаються і маленьким, і трохи більшим глядачам. У наших казках на порятунок однієї пані, що потрапила в біду, вирушить не лицар і не королевич, а Розчарований Кінь Ромуальд — власною персоною, зовсім без вершника. Малесенька блоха Майка переплутає плюшевого ведмедика з живою тваринкою й потрапить у неабияку халепу, до якої буде причетний підозрілої масті комар... А наостанок ми вирушимо в далеку подорож у компанії киці Фіу-Фіу та св"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-11-15T14:26:31.544681+00:00"
+    },
+    "alicja-w-krainie-czar-w-spektakl-2026-11-15T11:00:00+01:00": {
+      "title": "Alicja w Krainie Czarów - spektakl",
+      "date": "2026-11-15T11:00:00+01:00",
+      "end_date": "2026-11-15T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "**\"Alicja w Krainie Czarów\"** to nie tylko opowieść o podróży przez krainę walecznych Kart czy o herbatkach z zabawnym Królikiem. \"Alicja...\" to historia o inności, odkrywaniu siebie i samoakceptacji. Alicja, za sprawą króliczej nory, trafia do magicznej krainy pełnej muzyki, tańca i akrobatyki. Brzmi wyśmienicie, prawda? W Krainie Czarów musi niestety zmierzyć się z Czerwoną Królową... Czy chcesz jej pomóc w tym starciu?\n\nZobacz www.cortique.pl\n\nBaner\n\nPobierz baner (JPEG, 11,57 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/grafika,pic1,1225,0,488323,with-dims,209,209.jpg?_sst=1794239043716",
+      "location": {
+        "name": "Teatr Cortiqué Anny Niedźwiedź, ul. P. Mansfelda 4",
+        "district": "Jeżyce"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/alicja-w-krainie-czarow-spektakl,183524.html",
+      "source": "poznan.pl",
+      "district": "Jeżyce",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/alicja-w-krainie-czarow-spektakl,183524.html",
+      "scrapped_timestamp": "2026-11-15T14:23:10.484767+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Alicja w Krainie Czarów - spektakl",
+          "description": "**\"Alicja w Krainie Czarów\"** to nie tylko opowieść o podróży przez krainę walecznych Kart czy o herbatkach z zabawnym Królikiem. \"Alicja...\" to historia o inności, odkrywaniu siebie i samoakceptacji. Alicja, za sprawą króliczej nory, trafia do magicznej krainy pełnej muzyki, tańca i akrobatyki. Brzmi wyśmienicie, prawda? W Krainie Czarów musi niestety zmierzyć się z Czerwoną Królową... Czy chcesz jej pomóc w tym starciu?\n\nZobacz www.cortique.pl\n\nBaner\n\nPobierz baner (JPEG, 11,57 kB)"
+        },
+        "en": {
+          "title": "Alice in Wonderland - performance",
+          "description": "**\"Alice in Wonderland\"** is not just a story about a journey through a land of valiant Cards or tea parties with a funny Rabbit. \"Alice...\" is a story about being different, self-discovery, and self-acceptance. Thanks to a rabbit hole, Alice finds herself in a magical land full of music, dance, and acrobatics. Sounds wonderful, doesn't it? Unfortunately, in Wonderland she must face the Red Queen... Would you like to help her in this battle?\n\nSee www.cortique.pl\n\nBanner\n\nDownload banner (JPEG, 11.57 kB)"
+        },
+        "uk": {
+          "title": "Аліса в Країні Чудес — вистава",
+          "description": "**\"Аліса в Країні Чудес\"** — це не лише історія про подорож країною войовничих Карт чи про чаювання з кумедним Кроликом. \"Аліса...\" — це історія про інакшість, пізнання себе та самоприйняття. Завдяки кролячій норі Аліса потрапляє до чарівної країни, сповненої музики, танців та акробатики. Звучить чудово, чи не так? На жаль, у Країні Чудес їй доведеться зіткнутися з Червоною Королевою... Хочеш допомогти їй у цій битві?\n\nПобач на www.cortique.pl\n\nБанер\n\nЗавантажити банер (JPEG, 11,57 kB)"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-11-15T14:26:31.544703+00:00"
+    },
+    "spektakl-drapando-2026-11-15T11:00:00+01:00": {
+      "title": "Spektakl - Drapando",
+      "date": "2026-11-15T11:00:00+01:00",
+      "end_date": "2026-11-15T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Katie chodzi do pierwszej klasy. Lubi: się naparzać, brzydkie słowa oraz teatr, bo w teatrze można sobie wyobrażać, że jest się kimś innym. Nie lubi: Swędzenia, które nie mija, choroby, której nie da się wytłumaczyć.\n\nKatie ma rodzinę: Mami, Dadi oraz Lloyda (jak ten z Lego Ninjago), a oni wzywają na pomoc całą drużynę superbohaterów. Od tej pory Dermikrem (wielki, biały i tłusty jak kiełbasa na Wielkanoc), zadziorny Purafin, ziewająca Hipolicyna oraz bezlitosna Dieta na wszelkie sposoby próbują pokonać straszliwego kolczastego, swędzącego potwora imieniem AZS.\n\nInspirowana prawdziwymi zdarzeniami historia o atopowym zapaleniu skóry to zabawna i jednocześnie wzruszająca opowieść o życiu z czymś, co stale w życiu przeszkadza. O rodzicach, którzy robią wszystko, a tak często czują się bezradni, o młodszym bracie uczącym się empatii, i o dziewczynce, która mimo bólu, wstydu i samotności znajduje w sobie siłę wojowniczki.\n\nWięcej informacji o spektaklu i dostępności biletów na stronie Teatru Animacji.\n\nmateriały: Teatr Animacji w Poznaniu\n\nBaner\n\nPobierz baner (PNG, 348,31 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/plakat-spektaklu,pic1,1225,0,503407,with-dims,209,209.jpg?_sst=1794239043716",
+      "location": {
+        "name": "Teatr Animacji, ul. Św. Marcin 80/82 (budynek CK Zamek), Poznań",
+        "district": "Stare Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/spektakl-drapando,188484.html",
+      "source": "poznan.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/spektakl-drapando,188484.html",
+      "scrapped_timestamp": "2026-11-15T14:23:19.894671+00:00",
+      "category": "Theater",
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Spektakl - Drapando",
+          "description": "Katie chodzi do pierwszej klasy. Lubi: się naparzać, brzydkie słowa oraz teatr, bo w teatrze można sobie wyobrażać, że jest się kimś innym. Nie lubi: Swędzenia, które nie mija, choroby, której nie da się wytłumaczyć.\n\nKatie ma rodzinę: Mami, Dadi oraz Lloyda (jak ten z Lego Ninjago), a oni wzywają na pomoc całą drużynę superbohaterów. Od tej pory Dermikrem (wielki, biały i tłusty jak kiełbasa na Wielkanoc), zadziorny Purafin, ziewająca Hipolicyna oraz bezlitosna Dieta na wszelkie sposoby próbują pokonać straszliwego kolczastego, swędzącego potwora imieniem AZS.\n\nInspirowana prawdziwymi zdarzeniami historia o atopowym zapaleniu skóry to zabawna i jednocześnie wzruszająca opowieść o życiu z czymś, co stale w życiu przeszkadza. O rodzicach, którzy robią wszystko, a tak często czują się bezradni, o młodszym bracie uczącym się empatii, i o dziewczynce, która mimo bólu, wstydu i samotności znajduje w sobie siłę wojowniczki.\n\nWięcej informacji o spektaklu i dostępności biletów na stronie Teatru Animacji.\n\nmateriały: Teatr Animacji w Poznaniu\n\nBaner\n\nPobierz baner (PNG, 348,31 kB)"
+        },
+        "en": {
+          "title": "Performance - Drapando",
+          "description": "Katie is in first grade. She likes: getting into fights, swear words, and theater, because in theater you can imagine being someone else. She doesn't like: Itching that won't go away, an illness that can't be explained.\n\nKatie has a family: Mami, Dadi, and Lloyd (like the one from Lego Ninjago), and they call in a whole team of superheroes for help. From then on, Dermikrem (big, white, and greasy like a sausage at Easter), the feisty Purafin, the yawning Hipolicyna, and the ruthless Diet try every possible way to defeat the terrible, spiky, itchy monster named AD.\n\nInspired by real events, this story about atopic dermatitis is a funny and at the same time moving tale about life with something that constantly gets in the way. About parents who do everything, and so often feel helpless"
+        },
+        "uk": {
+          "title": "Вистава — Драпандо",
+          "description": "Кеті навчається у першому класі. Любить: битися, лайливі слова та театр, бо в театрі можна уявляти, що ти хтось інший. Не любить: свербіж, який не минає, хворобу, яку неможливо пояснити.\n\nУ Кеті є сім’я: Мамі, Даді та Ллойд (як той із Lego Ninjago), і вони кличуть на допомогу цілу команду супергероїв. Відтоді Дермікрем (великий, білий і жирний, як ковбаса на Великдень), задерикуватий Пурафін, позіхальна Гіполіцин і безжальна Дієта всіляко намагаються перемогти жахливого колючого сверблячого монстра на ім’я AZS.\n\nНатхненна реальними подіями історія про атопічний дерматит — кумедна й водночас зворушлива розповідь про життя з тим, що постійно заважає жити. Про батьків, які роблять усе можливе, але так часто почуваються безпорадними"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-11-15T14:26:31.544719+00:00"
+    },
+    "spektakl-familijny-w-technologii-uv-czerwony-kapturek-2026-11-15T11:30:00+01:00": {
+      "title": "Spektakl familijny w technologii UV - Czerwony Kapturek",
+      "date": "2026-11-15T11:30:00+01:00",
+      "end_date": "2026-11-15T11:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "Wyjątkowa, teatralna podróż przez magiczny las dla dzieci i całych rodzin. To klasyczna historia opowiedziana na nowo, z humorem, ogromnymi emocjami i zjawiskową oprawą świetlną. Fluorescencyjne dekoracje i kostiumy, ożywione przez światło UV, sprawiają, że bohaterowie dosłownie świecą w ciemności! Spektakl jest pełen autorskich piosenek, ciepła, interakcji z publicznością oraz bajkowej magii, która zachwyca zarówno przedszkolaków, jak i uczniów pierwszych klas szkoły podstawowej.\n\nBilety w cenie nominalnej* 50 zł.\n_____\n*bileterie mogą do ceny nominalnej doliczać prowizję.\n\nBaner\n\nPobierz baner (PNG, 360,26 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/plakat-wydarzenia,pic1,1225,0,498953,with-dims,209,209.jpg?_sst=1794239043716",
+      "location": {
+        "name": "Scena Wspólna Teatru Łejery, ul. Romana Brandstaettera 1",
+        "district": "Stare Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/spektakl-familijny-w-technologii-uv-czerwony-kapturek,186607.html",
+      "source": "poznan.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/spektakl-familijny-w-technologii-uv-czerwony-kapturek,186607.html",
+      "scrapped_timestamp": "2026-11-15T14:23:36.051989+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance",
+        "Family Fun"
+      ],
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Spektakl familijny w technologii UV - Czerwony Kapturek",
+          "description": "Wyjątkowa, teatralna podróż przez magiczny las dla dzieci i całych rodzin. To klasyczna historia opowiedziana na nowo, z humorem, ogromnymi emocjami i zjawiskową oprawą świetlną. Fluorescencyjne dekoracje i kostiumy, ożywione przez światło UV, sprawiają, że bohaterowie dosłownie świecą w ciemności! Spektakl jest pełen autorskich piosenek, ciepła, interakcji z publicznością oraz bajkowej magii, która zachwyca zarówno przedszkolaków, jak i uczniów pierwszych klas szkoły podstawowej.\n\nBilety w cenie nominalnej* 50 zł.\n_____\n*bileterie mogą do ceny nominalnej doliczać prowizję.\n\nBaner\n\nPobierz baner (PNG, 360,26 kB)"
+        },
+        "en": {
+          "title": "Family Show in UV Technology - Little Red Riding Hood",
+          "description": "An exceptional theatrical journey through a magical forest for children and families. This classic story is retold with humor, big emotions, and spectacular lighting effects. Fluorescent sets and costumes, brought to life by UV light, make the characters literally glow in the dark! The show is full of original songs, warmth, audience interaction, and fairy-tale magic that delights preschoolers and students in the first grades of primary school alike.\n\nTickets at face value* PLN 50.\n_____\n*ticketing agencies may add a commission to the face value.\n\nBanner\n\nDownload banner (PNG, 360.26 kB)"
+        },
+        "uk": {
+          "title": "Сімейна вистава в UV-технології — Червона Шапочка",
+          "description": "Незвичайна театральна подорож чарівним лісом для дітей і всієї родини. Це класична історія, розказана по-новому — з гумором, сильними емоціями та вражаючим світловим оформленням. Флуоресцентні декорації та костюми, оживлені ультрафіолетовим світлом, створюють враження, ніби герої буквально світяться в темряві! У виставі багато авторських пісень, тепла, взаємодії з глядачами та казкової магії, яка захоплює і дошкільнят, і учнів молодших класів.\n\nКвитки за номінальною ціною* 50 zł.\n_____\n*квиткові оператори можуть додавати до номінальної ціни комісію.\n\nБанер\n\nЗавантажити банер (PNG, 360,26 кБ)"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-11-15T14:26:31.544739+00:00"
+    },
+    "spektakl-baletowy-dziadek-do-orzech-w-2026-12-15T18:00:00+01:00": {
+      "title": "Spektakl baletowy - Dziadek do orzechów",
+      "date": "2026-12-15T18:00:00+01:00",
+      "end_date": "2026-12-15T18:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Dziadek do orzechów to więcej niż balet, to świąteczna bajka, którą łączy pokolenia, to opowieść, dzięki której powracamy do czasów dzieciństwa i zachwytu nad tym, co prawdziwe i piękne.\nBalet oparty na opowiadaniu E.T.A. Hoffmanna Dziadek do orzechów i król myszy, w czasie świąt Bożego Narodzenia gości na afiszach teatrów na całym świecie, niezmiennie urzekając publiczność. Genialna muzyka Piotra Czajkowskiego tym razem zostanie zaprezentowana w choreograficznej odsłonie Kaloyana Boyadjieva, który przenosi opowieść o Klarze do Christianii w Norwegii, do 1905 roku. Klara jest jakby w zawieszeniu między dzieciństwem i dorosłością, uczestnicząc w wielkiej rodzinnej imprezie bożonarodzeniowej czuje, że tam nie pasuje. Tajemniczy twórca lalek, Drosselmeyer, wręcza jej drewnianą lalkę - dziadka do orzechów, która zamienia się w prawdziwego księcia, kiedy Klara zasypia. Jednak nie tylko lalka ulega przemianie. Goście zmieniają się w szczury i myszy, a świąteczne prezenty ożywają, tańcząc pod rozkazami Drosselmeyera. W świecie, w którym wszystko jest ogromne, większe, niż w rzeczywistości, książę i Klara muszą walczyć ze zwierzętami, na czele których stoi przerażający Król Szczurów...\nWięcej informacji na temat spektaklu i dostępności biletów na stronie Teatru Wielkiego.\n\nmateriały: Teatr Wielki w Poznaniu\n\nBaner\n\nPobierz baner (PNG, 12,53 kB)",
+      "image": "https://www.poznan.pl/mim/wortals/pictures/logotyp-teatru-wielkiego,pic1,1225,0,493278,with-dims,209,209.jpg?_sst=1794239043716",
+      "location": {
+        "name": "Teatr Wielki, ul. Fredry 9, Poznań",
+        "district": "Stare Miasto"
+      },
+      "url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-12-15/spektakl-baletowy-dziadek-do-orzechow,184650.html",
+      "source": "poznan.pl",
+      "district": "Stare Miasto",
+      "scrapped_url": "https://www.poznan.pl/mim/wortals/lato/events/dziecko,c,44520/2026-12-15/spektakl-baletowy-dziadek-do-orzechow,184650.html",
+      "scrapped_timestamp": "2026-11-15T14:23:46.511660+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "age_range": {
+        "min": 5,
+        "max": 12
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Spektakl baletowy - Dziadek do orzechów",
+          "description": "Dziadek do orzechów to więcej niż balet, to świąteczna bajka, którą łączy pokolenia, to opowieść, dzięki której powracamy do czasów dzieciństwa i zachwytu nad tym, co prawdziwe i piękne.\nBalet oparty na opowiadaniu E.T.A. Hoffmanna Dziadek do orzechów i król myszy, w czasie świąt Bożego Narodzenia gości na afiszach teatrów na całym świecie, niezmiennie urzekając publiczność. Genialna muzyka Piotra Czajkowskiego tym razem zostanie zaprezentowana w choreograficznej odsłonie Kaloyana Boyadjieva, który przenosi opowieść o Klarze do Christianii w Norwegii, do 1905 roku. Klara jest jakby w zawieszeniu między dzieciństwem i dorosłością, uczestnicząc w wielkiej rodzinnej imprezie bożonarodzeniowej czuje, że tam nie pasuje. Tajemniczy twórca lalek, Drosselmeyer, wręcza jej drewnianą lalkę - dziadka do orzechów, która zamienia się w prawdziwego księcia, kiedy Klara zasypia. Jednak nie tylko lalka ulega przemianie. Goście zmieniają się w szczury i myszy, a świąteczne prezenty ożywają, tańcząc pod rozkazami Drosselmeyera. W świecie, w którym wszystko jest ogromne, większe, niż w rzeczywistości, książę i Klara muszą walczyć ze zwierzętami, na czele których stoi przerażający Król Szczurów...\nWięcej informacji na temat spektaklu i dostępności biletów na stronie Teatru Wielkiego.\n\nmateriały: Teatr Wielki w Poznaniu\n\nBaner\n\nPobierz baner (PNG, 12,53 kB)"
+        },
+        "en": {
+          "title": "Ballet Performance - The Nutcracker",
+          "description": "The Nutcracker is more than a ballet; it is a Christmas fairy tale that brings generations together, a story that takes us back to childhood and to the wonder of what is true and beautiful.\nThe ballet, based on E.T.A. Hoffmann’s story The Nutcracker and the Mouse King, is staged by theaters around the world during the Christmas season, captivating audiences time and again. This time, Pyotr Tchaikovsky’s brilliant music will be presented in a choreographic interpretation by Kaloyan Boyadzhiev, who transports the story of Clara to Christiania, Norway, in 1905. Clara seems to be caught between childhood and adulthood; as she takes part in a grand family Christmas party, she feels she doesn’t belong there. The mysterious dollmaker, Drosselmeyer, gives her a wooden doll—a nutcracker"
+        },
+        "uk": {
+          "title": "Балетна вистава — Лускунчик",
+          "description": "«Лускунчик» — це більше, ніж балет, це різдвяна казка, яка об’єднує покоління, це історія, завдяки якій ми повертаємося в дитинство й знову захоплюємося всім справжнім і прекрасним.\nБалет за мотивами оповідання Е.Т.А. Гофмана «Лускунчик і Мишачий король» під час різдвяних свят з’являється в афішах театрів усього світу, незмінно зачаровуючи глядачів. Генійна музика Петра Чайковського цього разу прозвучить у хореографічній постановці Калояна Бояджієва, який переносить історію Клари до Християнії в Норвегії, у 1905 рік. Клара ніби перебуває на межі між дитинством і дорослістю; беручи участь у великому сімейному різдвяному святкуванні, вона відчуває, що їй там не місце. Таємничий майстер ляльок Дроссельмейєр дарує їй дерев’яну ляльку — Лускунчика"
+        }
+      },
+      "admission": {
+        "is_free": false
+      },
+      "updated_at": "2026-11-15T14:26:31.544760+00:00"
+    },
+    "9-00-mas-o-i-ser-naturalnie-kupuj-wiadomie-2027-11-14T09:00:00+01:00": {
+      "title": "9:00 | MASŁO I SER | Naturalnie! #kupujświadomie",
+      "date": "2027-11-14T09:00:00+01:00",
+      "end_date": "2027-11-14T09:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "w ramach cyklu „Naturalnie! Pracownia świadomego jedzenia #kupujświadomie”, realizowanego we współpracy z Krajowym Ośrodkiem Wsparcia Rolnictwa (KOWR). ✨\n\nListopad za oknem, a my zapraszamy na kolejne spotkanie z cyklu „Naturalnie! Pracownia świadomego jedzenia”. 🤩 Tym razem zajrzymy do wiejskiej spiżarni, a bohaterami będą świeże masło i prawdziwy zagrodowy ser! 🧀\n\nNa to spotkanie zaprosiliśmy Zagrodę Białęgi, która zabierze dzieci za kulisy tradycyjnego gospodarstwa. ➡️ Dowiemy się, skąd bierze się mleko, jak wygląda dzień krowy i kozy, czym się żywią, kto się nimi opiekuje i dlaczego zadbane zwierzęta dają najlepsze mleko. 🐄🐐\n\nSprawdzimy też, jak z mleka powstaje ser, czym jest serwatka, dlaczego jedne sery są miękkie, a inne twarde, i jak dawniej robiono masło, zanim pojawiły się sklepowe półki. Dzieci przekonają się, ile pracy i troski kryje się w każdej kostce masła i każdym kawałku sera, które trafiają na nasze stoły. 👏\n\nNa koniec zakasamy rękawy i sami spróbujemy sił w ubijaniu masła, obserwując krok po kroku, jak ze śmietany powstaje złocista kostka. Zobaczymy też kolejne etapy wyrobu sera i oczywiście wszystkiego spróbujemy, żeby przekonać się, jak smakuje prawdziwe jedzenie z gospodarstwa! 👀\n\n📅 Termin: 14 listopada\n\n📍 Miejsce: TARG., ul. Dolna Wilda 89\n\n👧 Wiek: 6–12 lat\n\n⏱ Godz. 9:00 / Czas trwania: 60 minut\n\n💰 Udział: bezpłatny\n\n✍ Zapisy: TUTAJ\n\nliczba miejsc ograniczona\n\nJeśli dziecko ma alergie pokarmowe, prosimy o informację przy zapisie.",
+      "image": "https://www.targ.poznan.pl/wp-content/uploads/2026/11/Naturalnie-Pracownia-Swiadomego-Jedzenia-4-5-1.png",
+      "location": {
+        "name": "TARG, ul. Dolna Wilda, Poznań",
+        "district": "Wilda"
+      },
+      "url": "https://www.targ.poznan.pl/produkt/900-maslo-i-ser-naturalnie-kupujswiadomie/",
+      "source": "targ.poznan.pl",
+      "age_hint": "6-9",
+      "district": "Wilda",
+      "scrapped_url": "https://www.targ.poznan.pl/produkt/900-maslo-i-ser-naturalnie-kupujswiadomie/",
+      "scrapped_timestamp": "2026-11-15T14:23:57.442445+00:00",
+      "category": "Workshops",
+      "additional_categories": [
+        "Educational"
+      ],
+      "age_range": {
+        "min": 6,
+        "max": 9
+      },
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "9:00 | MASŁO I SER | Naturalnie! #kupujświadomie",
+          "description": "w ramach cyklu „Naturalnie! Pracownia świadomego jedzenia #kupujświadomie”, realizowanego we współpracy z Krajowym Ośrodkiem Wsparcia Rolnictwa (KOWR). ✨\n\nListopad za oknem, a my zapraszamy na kolejne spotkanie z cyklu „Naturalnie! Pracownia świadomego jedzenia”. 🤩 Tym razem zajrzymy do wiejskiej spiżarni, a bohaterami będą świeże masło i prawdziwy zagrodowy ser! 🧀\n\nNa to spotkanie zaprosiliśmy Zagrodę Białęgi, która zabierze dzieci za kulisy tradycyjnego gospodarstwa. ➡️ Dowiemy się, skąd bierze się mleko, jak wygląda dzień krowy i kozy, czym się żywią, kto się nimi opiekuje i dlaczego zadbane zwierzęta dają najlepsze mleko. 🐄🐐\n\nSprawdzimy też, jak z mleka powstaje ser, czym jest serwatka, dlaczego jedne sery są miękkie, a inne twarde, i jak dawniej robiono masło, zanim pojawiły się sklepowe półki. Dzieci przekonają się, ile pracy i troski kryje się w każdej kostce masła i każdym kawałku sera, które trafiają na nasze stoły. 👏\n\nNa koniec zakasamy rękawy i sami spróbujemy sił w ubijaniu masła, obserwując krok po kroku, jak ze śmietany powstaje złocista kostka. Zobaczymy też kolejne etapy wyrobu sera i oczywiście wszystkiego spróbujemy, żeby przekonać się, jak smakuje prawdziwe jedzenie z gospodarstwa! 👀\n\n📅 Termin: 14 listopada\n\n📍 Miejsce: TARG., ul. Dolna Wilda 89\n\n👧 Wiek: 6–12 lat\n\n⏱ Godz. 9:00 / Czas trwania: 60 minut\n\n💰 Udział: bezpłatny\n\n✍ Zapisy: TUTAJ\n\nliczba miejsc ograniczona\n\nJeśli dziecko ma alergie pokarmowe, prosimy o informację przy zapisie."
+        },
+        "en": {
+          "title": "9:00 | BUTTER AND CHEESE | Naturally! #shopconsciously",
+          "description": "as part of the “Naturally! Conscious Eating Workshop #shopconsciously” series, carried out in cooperation with the National Support Centre for Agriculture (KOWR). ✨\n\nNovember is here, and we invite you to another meeting in the “Naturally! Conscious Eating Workshop” series. 🤩 This time, we’ll take a peek inside a country pantry, with fresh butter and authentic farmhouse cheese as our stars! 🧀\n\nWe’ve invited Białęgi Farm to take children behind the scenes of a traditional farm. ➡️ We’ll find out where milk comes from, what a cow’s and a goat’s day looks like, what they eat, who looks after them, and why well-cared-for animals give the best milk. 🐄🐐\n\nWe’ll also see how milk is made into cheese, what whey is, why some cheeses are soft while others are hard, and how butter used to be made before stores"
+        },
+        "uk": {
+          "title": "9:00 | МАСЛО І СИР | Натурально! #купуйсвідомо",
+          "description": "у межах циклу «Натурально! Майстерня свідомого харчування #купуйсвідомо», що проводиться у співпраці з Національним центром підтримки сільського господарства (KOWR). ✨\n\nЗа вікном листопад, а ми запрошуємо на чергову зустріч із циклу «Натурально! Майстерня свідомого харчування». 🤩 Цього разу зазирнемо до сільської комори, а героями стануть свіже масло та справжній фермерський сир! 🧀\n\nНа цю зустріч ми запросили господарство Zagroda Białęgi, яке проведе дітей за лаштунки традиційного фермерського господарства. ➡️ Дізнаємося, звідки береться молоко, як минає день корови й кози, чим вони харчуються, хто за ними доглядає і чому доглянуті тварини дають найкраще молоко. 🐄🐐\n\nТакож дізнаємося, як із молока виготовляють сир, що таке сироватка, чому одні сири м’які, а інші тверді, і як раніше робили масло, перш ніж з’явилися магазини"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "updated_at": "2026-11-15T14:26:31.544788+00:00"
+    },
+    "beksi-ski-w-poznaniu-wystawa-2026-11-15T13:00:00+01:00": {
+      "title": "Beksiński w Poznaniu – wystawa",
+      "date": "2026-11-15T13:00:00+01:00",
+      "end_date": "2026-11-15T13:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Beksiński w Poznaniu – Powrót Mistrza po 36 latach! Uwaga: wystawa została przedłużona do 22 listopada!\nPo latach oczekiwania, fascynująca i mroczna sztuka Zdzisława Beksińskiego powraca do stolicy Wielkopolski. Zapraszamy na wystawę \"Beksiński w Poznaniu\" – jedną z największych ekspozycji malarstwa tego niezwykłego artysty, jaką kiedykolwiek zorganizowano.\nO wystawie\nTegoroczna wystawa to niepowtarzalna okazja by ponownie zanurzyć się w onirycznym, pełnym detali i niepokoju świecie twórcy, który na zawsze odmienił polską sztukę współczesną.\nEkspozycja została zaprojektowana z ogromnym rozmachem – zajmie przestrzeń ponad 1 000 metrów kwadratowych. W ramach wystawy odwiedzający będą mogli z bliska podziwiać przekrój niezwykłej twórczości artysty.\nNa wystawie zaprezentowanych zostanie blisko 120 dzieł, w tym:\n76 oryginalnych obrazów\n30 intrygujących fotografii\n13 unikalnych rysunków\nTaka liczba oryginalnych prac Zdzisława Beksińskiego w jednym miejscu czyni to wydarzenie obowiązkowym punktem na kulturalnej mapie Polski w 2026 roku – nie tylko dla wielbicieli surrealizmu i fantastyki, ale dla każdego miłośnika sztuki.\n\nBezpłatny audioprzewodnik: Podczas zwiedzania możesz skorzystać z darmowego audioguide’a. Rekomendujemy zabranie własnych słuchawek oraz telefonu z dostępem do internetu.\nInformacje organizacyjne\nKiedy: 18 lipca – 22 listopada 2026 r.\nGodziny otwarcia: Wystawa będzie czynna 7 dni w tygodniu\n• wrzesień – listopad: w godzinach 11:00 – 19:00\nGdzie: Międzynarodowe Targi Poznańskie (MTP), Hala nr 1A (wejście bramą nr 10), ul. Głogowska 18, Poznań.\nOrganizatorzy: Muzeum Sztuki Fantastycznej w Warszawie oraz Muzeum Historyczne w Sanoku.\nBilety\nBilet normalny\nBilet ulgowy\nBilet rodzinny (2 dorosłych + 1 dziecko)\nBilet rodzinny (2 dorosłych + 2 dzieci)\nDzieci do 6. roku życia: wstęp bezpłatny\nWażne informacje dotyczące ulg: Do zakupu biletu ulgowego uprawnieni są: uczniowie, studenci, emeryci i renciści (za okazaniem ważnej legitymacji), osoby powyżej 65. roku życia oraz osoby z niepełnosprawnościami.\n\nZaplanuj swoją wizytę, wybierz bilet i wejdź do niezwykłego uniwersum Zdzisława Beksińskiego!\n\nRegulamin znajduje się TUTAJ",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/2b608818-76cb-4ba4-93a3-f02cdd138180/6bac87f2-b1b2-4d0a-8c1f-81447dd8f7c1.jpg",
+      "location": {
+        "name": "MTP, HALA NR 1 Poznań, Poznań",
+        "district": null
+      },
+      "url": "https://simplygo.pl/wydarzenia/poznan/rozrywka/wydarzenie/beksinski-w-poznaniu-wystawa-2b608818-76cb-4ba4-93a3-f02cdd138180",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/rozrywka/wydarzenie/beksinski-w-poznaniu-wystawa-2b608818-76cb-4ba4-93a3-f02cdd138180",
+      "scrapped_timestamp": "2026-11-15T14:24:11.758471+00:00",
+      "category": "Arts",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Beksiński w Poznaniu – wystawa",
+          "description": "Beksiński w Poznaniu – Powrót Mistrza po 36 latach! Uwaga: wystawa została przedłużona do 22 listopada!\nPo latach oczekiwania, fascynująca i mroczna sztuka Zdzisława Beksińskiego powraca do stolicy Wielkopolski. Zapraszamy na wystawę \"Beksiński w Poznaniu\" – jedną z największych ekspozycji malarstwa tego niezwykłego artysty, jaką kiedykolwiek zorganizowano.\nO wystawie\nTegoroczna wystawa to niepowtarzalna okazja by ponownie zanurzyć się w onirycznym, pełnym detali i niepokoju świecie twórcy, który na zawsze odmienił polską sztukę współczesną.\nEkspozycja została zaprojektowana z ogromnym rozmachem – zajmie przestrzeń ponad 1 000 metrów kwadratowych. W ramach wystawy odwiedzający będą mogli z bliska podziwiać przekrój niezwykłej twórczości artysty.\nNa wystawie zaprezentowanych zostanie blisko 120 dzieł, w tym:\n76 oryginalnych obrazów\n30 intrygujących fotografii\n13 unikalnych rysunków\nTaka liczba oryginalnych prac Zdzisława Beksińskiego w jednym miejscu czyni to wydarzenie obowiązkowym punktem na kulturalnej mapie Polski w 2026 roku – nie tylko dla wielbicieli surrealizmu i fantastyki, ale dla każdego miłośnika sztuki.\n\nBezpłatny audioprzewodnik: Podczas zwiedzania możesz skorzystać z darmowego audioguide’a. Rekomendujemy zabranie własnych słuchawek oraz telefonu z dostępem do internetu.\nInformacje organizacyjne\nKiedy: 18 lipca – 22 listopada 2026 r.\nGodziny otwarcia: Wystawa będzie czynna 7 dni w tygodniu\n• wrzesień – listopad: w godzinach 11:00 – 19:00\nGdzie: Międzynarodowe Targi Poznańskie (MTP), Hala nr 1A (wejście bramą nr 10), ul. Głogowska 18, Poznań.\nOrganizatorzy: Muzeum Sztuki Fantastycznej w Warszawie oraz Muzeum Historyczne w Sanoku.\nBilety\nBilet normalny\nBilet ulgowy\nBilet rodzinny (2 dorosłych + 1 dziecko)\nBilet rodzinny (2 dorosłych + 2 dzieci)\nDzieci do 6. roku życia: wstęp bezpłatny\nWażne informacje dotyczące ulg: Do zakupu biletu ulgowego uprawnieni są: uczniowie, studenci, emeryci i renciści (za okazaniem ważnej legitymacji), osoby powyżej 65. roku życia oraz osoby z niepełnosprawnościami.\n\nZaplanuj swoją wizytę, wybierz bilet i wejdź do niezwykłego uniwersum Zdzisława Beksińskiego!\n\nRegulamin znajduje się TUTAJ"
+        },
+        "en": {
+          "title": "Beksiński in Poznań – exhibition",
+          "description": "Beksiński in Poznań – The Master Returns After 36 Years! Please note: the exhibition has been extended until November 22!\nAfter years of waiting, the fascinating and dark art of Zdzisław Beksiński returns to the capital of Greater Poland. We invite you to the “Beksiński in Poznań” exhibition – one of the largest displays of this extraordinary artist’s paintings ever organized.\nAbout the exhibition\nThis year’s exhibition is a unique opportunity to immerse yourself once again in the creator’s dreamlike world, full of detail and unease—a creator who forever changed Polish contemporary art.\nThe exhibition has been designed on a grand scale, occupying more than 1,000 square meters. As part of the exhibition, visitors will be able to admire a cross-section of the artist’s extraordinary work up close.\nNearly"
+        },
+        "uk": {
+          "title": "Бексінський у Познані – виставка",
+          "description": "Бексінський у Познані – Повернення Майстра через 36 років! Увага: виставку продовжено до 22 листопада!\nПісля багатьох років очікування захопливе й похмуре мистецтво Здзіслава Бексінського повертається до столиці Великопольщі. Запрошуємо на виставку «Бексінський у Познані» – одну з найбільших експозицій живопису цього незвичайного митця, які будь-коли організовували.\nПро виставку\nЦьогорічна виставка – це унікальна нагода знову зануритися в сновидний, сповнений деталей і тривоги світ творця, який назавжди змінив польське сучасне мистецтво.\nЕкспозицію спроєктовано з величезним розмахом – вона займе простір площею понад 1 000 квадратних метрів. У межах виставки відвідувачі зможуть зблизька помилуватися зрізом незвичайної творчості митця.\nНа виставці буде представлено майже"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.ebilet.pl/biznes/wystawa/beksinski-w-poznaniu?partner=tradedoubler"
+      },
+      "updated_at": "2026-11-15T14:26:31.544809+00:00"
+    },
+    "alicja-w-krainie-czar-w-widowiskowy-balet-2026-11-15T11:00:00+01:00": {
+      "title": "Alicja w Krainie Czarów – widowiskowy balet",
+      "date": "2026-11-15T11:00:00+01:00",
+      "end_date": "2026-11-15T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Daj się zachwycić światu, w którym wszystko jest możliwe!\n\nAlicja w Krainie Czarów to autorska interpretacja klasycznego dzieła Lewisa Carrolla, pełna barw, rozmachu i widowiskowych scen.\n\nPonad stu artystów tworzy na scenie spektakl, który już samą skalą robi ogromne wrażenie. Klasyczny balet przeplata się ze śpiewem oraz poruszającymi partiami skrzypiec wykonywanymi na scenie. Gdy rozpoczyna się podróż przez wyobraźnię, widzów zachwycają:\n• ewolucje na kole i szarfach\n• akrobatyka na podwójnym trapezie\n• contortion\n• efektowny pokaz ognia\n\nKażda kolejna odsłona przynosi momenty podziwu, zaskoczenia i trzymającego w napięciu widowiska.\n\nAlicja w Krainie Czarów porusza zarówno najmłodszych, jak i dojrzałych widzów. Dzieci bez granic zatapiają się w bajkowym świecie, dorośli natomiast zyskują okazję, by przypomnieć sobie, jak to jest dać się całkowicie ponieść fantazji.\n\nWspólne przeżywanie tak ogromnego widowiska staje się doświadczeniem, którym chce się dzielić z bliskimi.\n\nPrzedstawienie nie tylko opowiada znaną historię, ale pozwala ją naprawdę zobaczyć, usłyszeć i poczuć wszystkimi zmysłami.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/19186915-7b54-49a6-a2ba-cd1cfa99331c/453101e7-bb83-4c77-8301-87cb062623d7.jpg",
+      "location": {
+        "name": "Teatr Cortiqué Anny Niedźwiedź, Mansfelda 4, Poznań",
+        "district": "Jeżyce"
+      },
+      "url": "https://simplygo.pl/wydarzenia/poznan/rozrywka/wydarzenie/alicja-w-krainie-czarow-widowiskowy-balet-19186915-7b54-49a6-a2ba-cd1cfa99331c",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/rozrywka/wydarzenie/alicja-w-krainie-czarow-widowiskowy-balet-19186915-7b54-49a6-a2ba-cd1cfa99331c",
+      "scrapped_timestamp": "2026-11-15T14:24:22.369632+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Theater",
+        "Family Fun"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Alicja w Krainie Czarów – widowiskowy balet",
+          "description": "Daj się zachwycić światu, w którym wszystko jest możliwe!\n\nAlicja w Krainie Czarów to autorska interpretacja klasycznego dzieła Lewisa Carrolla, pełna barw, rozmachu i widowiskowych scen.\n\nPonad stu artystów tworzy na scenie spektakl, który już samą skalą robi ogromne wrażenie. Klasyczny balet przeplata się ze śpiewem oraz poruszającymi partiami skrzypiec wykonywanymi na scenie. Gdy rozpoczyna się podróż przez wyobraźnię, widzów zachwycają:\n• ewolucje na kole i szarfach\n• akrobatyka na podwójnym trapezie\n• contortion\n• efektowny pokaz ognia\n\nKażda kolejna odsłona przynosi momenty podziwu, zaskoczenia i trzymającego w napięciu widowiska.\n\nAlicja w Krainie Czarów porusza zarówno najmłodszych, jak i dojrzałych widzów. Dzieci bez granic zatapiają się w bajkowym świecie, dorośli natomiast zyskują okazję, by przypomnieć sobie, jak to jest dać się całkowicie ponieść fantazji.\n\nWspólne przeżywanie tak ogromnego widowiska staje się doświadczeniem, którym chce się dzielić z bliskimi.\n\nPrzedstawienie nie tylko opowiada znaną historię, ale pozwala ją naprawdę zobaczyć, usłyszeć i poczuć wszystkimi zmysłami."
+        },
+        "en": {
+          "title": "Alice in Wonderland – a spectacular ballet",
+          "description": "Let yourself be enchanted by a world where anything is possible!\n\nAlice in Wonderland is an original interpretation of Lewis Carroll’s classic work, full of colour, grandeur and spectacular scenes.\n\nMore than a hundred performers create a show on stage that makes a huge impression through its sheer scale alone. Classical ballet is interwoven with singing and moving violin performances played live on stage. As the journey through the imagination begins, audiences are amazed by:\n• aerial hoop and silks routines\n• acrobatics on a double trapeze\n• contortion\n• a spectacular fire show\n\nEach successive scene brings moments of wonder, surprise and thrilling spectacle.\n\nAlice in Wonderland moves both the youngest and more mature audiences. Children immerse themselves in the fairy-tale world without reservation, while adults, in turn, gain"
+        },
+        "uk": {
+          "title": "Аліса в Країні Див – видовищний балет",
+          "description": "Дозвольте собі захопитися світом, у якому можливо все!\n\nАліса в Країні Див — авторська інтерпретація класичного твору Льюїса Керролла, сповнена барв, розмаху та видовищних сцен.\n\nПонад сто артистів створюють на сцені виставу, яка вражає вже самим своїм масштабом. Класичний балет переплітається зі співом і зворушливими партіями скрипки, що виконуються на сцені. Коли розпочинається подорож уявою, глядачів захоплюють:\n• обертання на колесі та полотнах\n• акробатика на подвійному трапеці\n• контингінг\n• ефектне вогняне шоу\n\nКожна наступна сцена дарує миті захоплення, здивування та видовища, що тримає в напрузі.\n\nАліса в Країні Див захоплює і наймолодших, і дорослих глядачів. Діти безмежно поринають у казковий світ, дорослі ж отриму"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.bilety24.pl/kup-bilet-na-657-alicja-w-krainie-czarow-71802?id=925518"
+      },
+      "district": "Jeżyce",
+      "updated_at": "2026-11-15T14:26:31.544829+00:00"
+    },
+    "drapando-spektakl-o-atopowym-zapaleniu-sk-ry-2026-11-15T11:00:00+01:00": {
+      "title": "Drapando – spektakl o atopowym zapaleniu skóry",
+      "date": "2026-11-15T11:00:00+01:00",
+      "end_date": "2026-11-15T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Spektakl pokazuje dzieciom i dorosłym, że można się bać, czuć się słabym, a mimo to nie poddać się i walczyć jak prawdziwa superbohaterka.\n\nKatie ma dziewięć lat i chodzi do podstawówki. Lubi się naparzać, używać brzydkich słów oraz teatr, bo w teatrze można wyobrażać sobie, że jest się kimś innym. Nie lubi swędzenia, które nie mija, oraz choroby, której nie da się wytłumaczyć.\n\nKatie ma rodzinę: Mami, Dadi oraz Lloyda (jak ten z Lego Ninjago). Razem wzywają na pomoc całą drużynę superbohaterów: wielkiego, białego i tłustego jak kiełbasa na Wielkanoc Dermikrema, zadziornego Purafina, ziewającą Hipolicynę oraz bezlitosną Dietę na wszelkie sposoby. Wspólnie próbują pokonać straszliwego kolczastego, swędzącego potwora imieniem AZS.\n\nSpektakl jest inspirowany prawdziwymi zdarzeniami i opowiada o atopowym zapaleniu skóry. To zabawna i jednocześnie wzruszająca opowieść o życiu z czymś, co stale przeszkadza. O rodzicach, którzy robią wszystko, a mimo to często czują się bezradni, o młodszym bracie uczącym się empatii oraz o dziewczynce, która mimo bólu, wstydu i samotności znajduje w sobie siłę wojowniczki.\n\nInformacja o warunkach sensorycznych i ostrzeżenie o wrażliwych treściach:\n• Różowa, futrzana scenografia: intensywność koloru i nagromadzenie bodźców wizualnych mogą wpływać na samopoczucie widza, wywołując poczucie przesytu lub dyskomfortu. Reakcja zależy od indywidualnej wrażliwości.\n• Tematy fekalne w postaci żartów: odwołania do fizjologii wydalania mogą wywoływać śmiech, zakłopotanie lub obrzydzenie. Przełamują normy dotyczące cielesności i mogą uruchamiać różne reakcje emocjonalne, zależne od doświadczeń i poczucia komfortu widza.\n\nPolecany jest także artykuł na ten temat psycholożki Justyny Śliwińskiej-Sroki.",
+      "image": null,
+      "location": {
+        "name": "Teatr Animacji",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/drapando-spektakl-o-atopowym-zapaleniu-skory-6b09be64-929e-4de0-9d28-5d97b6b1398e",
+      "source": "simplygo.pl",
+      "age_hint": "7-18",
+      "age_range": {
+        "min": 7,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/drapando-spektakl-o-atopowym-zapaleniu-skory-6b09be64-929e-4de0-9d28-5d97b6b1398e",
+      "scrapped_timestamp": "2026-11-15T14:24:36.483240+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Family Fun"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Drapando – spektakl o atopowym zapaleniu skóry",
+          "description": "Spektakl pokazuje dzieciom i dorosłym, że można się bać, czuć się słabym, a mimo to nie poddać się i walczyć jak prawdziwa superbohaterka.\n\nKatie ma dziewięć lat i chodzi do podstawówki. Lubi się naparzać, używać brzydkich słów oraz teatr, bo w teatrze można wyobrażać sobie, że jest się kimś innym. Nie lubi swędzenia, które nie mija, oraz choroby, której nie da się wytłumaczyć.\n\nKatie ma rodzinę: Mami, Dadi oraz Lloyda (jak ten z Lego Ninjago). Razem wzywają na pomoc całą drużynę superbohaterów: wielkiego, białego i tłustego jak kiełbasa na Wielkanoc Dermikrema, zadziornego Purafina, ziewającą Hipolicynę oraz bezlitosną Dietę na wszelkie sposoby. Wspólnie próbują pokonać straszliwego kolczastego, swędzącego potwora imieniem AZS.\n\nSpektakl jest inspirowany prawdziwymi zdarzeniami i opowiada o atopowym zapaleniu skóry. To zabawna i jednocześnie wzruszająca opowieść o życiu z czymś, co stale przeszkadza. O rodzicach, którzy robią wszystko, a mimo to często czują się bezradni, o młodszym bracie uczącym się empatii oraz o dziewczynce, która mimo bólu, wstydu i samotności znajduje w sobie siłę wojowniczki.\n\nInformacja o warunkach sensorycznych i ostrzeżenie o wrażliwych treściach:\n• Różowa, futrzana scenografia: intensywność koloru i nagromadzenie bodźców wizualnych mogą wpływać na samopoczucie widza, wywołując poczucie przesytu lub dyskomfortu. Reakcja zależy od indywidualnej wrażliwości.\n• Tematy fekalne w postaci żartów: odwołania do fizjologii wydalania mogą wywoływać śmiech, zakłopotanie lub obrzydzenie. Przełamują normy dotyczące cielesności i mogą uruchamiać różne reakcje emocjonalne, zależne od doświadczeń i poczucia komfortu widza.\n\nPolecany jest także artykuł na ten temat psycholożki Justyny Śliwińskiej-Sroki."
+        },
+        "en": {
+          "title": "Drapando – a play about atopic dermatitis",
+          "description": "The play shows children and adults that you can be afraid, feel weak, and still refuse to give up and fight like a true superheroine.\n\nKatie is nine years old and goes to elementary school. She likes throwing punches, using bad words, and theater, because in theater you can imagine being someone else. She doesn’t like the itching that won’t go away, or the illness that can’t be explained.\n\nKatie has a family: Mami, Dadi, and Lloyd (like the one from Lego Ninjago). Together, they call on an entire team of superheroes for help: the big, white Dermikrem, as fat as a sausage at Easter; the feisty Purafin; the yawning Hipolicyna; and the ruthless Diet, in every possible form. Together, they try to defeat the terrifying, prickly, itchy monster named AD.\n\nThe play is inspired by true events and tells"
+        },
+        "uk": {
+          "title": "Drapando – вистава про атопічний дерматит",
+          "description": "Вистава показує дітям і дорослим, що можна боятися, почуватися слабкими, але попри це не здаватися й боротися, як справжня супергероїня.\n\nКеті дев’ять років, і вона ходить до початкової школи. Вона любить битися, вживати лайливі слова, а ще театр, бо в театрі можна уявляти, що ти хтось інший. Не любить свербіж, який не минає, і хворобу, яку неможливо пояснити.\n\nУ Кеті є сім’я: Мамі, Даді та Ллойд (як той із Lego Ninjago). Разом вони кличуть на допомогу цілу команду супергероїв: великого, білого й товстого, як ковбаса на Великдень, Дермікрема, задиркуватого Пурафіна, позіхальну Гіполіцину та безжальну Дієту в усіх її проявах. Разом вони намагаються перемогти страшного колючого сверблячого монстра на ім’я АД.\n\nВистава натхненна реальними подіями й розповідає"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.bilety24.pl/kup-bilet-na-186-drapando-161299?id=967120#overall"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T14:26:31.544848+00:00"
+    },
+    "nasz-p-ywacki-fyrtel-posnania-bezp-atne-zaj-cia-2026-12-14T17:30:00+01:00": {
+      "title": "Nasz Pływacki Fyrtel Posnania – bezpłatne zajęcia",
+      "date": "2026-12-14T17:30:00+01:00",
+      "end_date": "2026-12-14T17:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "Bezpłatne zajęcia na Basenie Posnania są przeznaczone dla mieszkańców rejonu 1: Nowych Winogradów Północ, Południe i Wschód oraz Starych Winogradów.\n\nHarmonogram:\n• Poniedziałki, godz. 17:30 – aqua aerobik\n• Poniedziałki, godz. 17:30 – doskonalenie pływania dla dorosłych\n• Wtorki, godz. 17:30 – nauka pływania dla dzieci w wieku 8–14 lat\n• Wtorki, godz. 17:30 – doskonalenie pływania dla osób w wieku 8–15 lat\n\nRejestracja odbywa się przez formularz online dostępny na stronie Wielkopolskiego Okręgowego Związku Pływackiego. Pytania można kierować na adres biuro@wozp.poznan.pl lub telefonicznie pod numer +48 537 563 000, od poniedziałku do piątku w godz. 12–14. Aktualności są publikowane na stronie internetowej i profilu Facebook.\n\nProjekt realizuje Wielkopolski Okręgowy Związek Pływacki, a finansuje Wydział Sportu Urzędu Miasta Poznania ze środków Poznańskiego Budżetu Obywatelskiego 2026.\n\nhttps://www.facebook.com/naszplywackifyrtel/\nwww.wozp.poznan.pl/nasz-plywacki-fyrtel/posnania/",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/f688a8c8-5a04-4a78-9c2c-494bcc301b20/a8d53b22-b3af-4f9e-8649-4cb1d9cde252.jpg",
+      "location": {
+        "name": "Basen Posnania, Słowiańska 78, Poznań",
+        "district": "Nowe Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/nasz-plywacki-fyrtel-posnania-bezplatne-zajecia-f688a8c8-5a04-4a78-9c2c-494bcc301b20",
+      "source": "simplygo.pl",
+      "age_hint": "8-15",
+      "age_range": {
+        "min": 8,
+        "max": 15
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/nasz-plywacki-fyrtel-posnania-bezplatne-zajecia-f688a8c8-5a04-4a78-9c2c-494bcc301b20",
+      "scrapped_timestamp": "2026-11-15T14:24:49.530607+00:00",
+      "category": "Sports",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Nasz Pływacki Fyrtel Posnania – bezpłatne zajęcia",
+          "description": "Bezpłatne zajęcia na Basenie Posnania są przeznaczone dla mieszkańców rejonu 1: Nowych Winogradów Północ, Południe i Wschód oraz Starych Winogradów.\n\nHarmonogram:\n• Poniedziałki, godz. 17:30 – aqua aerobik\n• Poniedziałki, godz. 17:30 – doskonalenie pływania dla dorosłych\n• Wtorki, godz. 17:30 – nauka pływania dla dzieci w wieku 8–14 lat\n• Wtorki, godz. 17:30 – doskonalenie pływania dla osób w wieku 8–15 lat\n\nRejestracja odbywa się przez formularz online dostępny na stronie Wielkopolskiego Okręgowego Związku Pływackiego. Pytania można kierować na adres biuro@wozp.poznan.pl lub telefonicznie pod numer +48 537 563 000, od poniedziałku do piątku w godz. 12–14. Aktualności są publikowane na stronie internetowej i profilu Facebook.\n\nProjekt realizuje Wielkopolski Okręgowy Związek Pływacki, a finansuje Wydział Sportu Urzędu Miasta Poznania ze środków Poznańskiego Budżetu Obywatelskiego 2026.\n\nhttps://www.facebook.com/naszplywackifyrtel/\nwww.wozp.poznan.pl/nasz-plywacki-fyrtel/posnania/"
+        },
+        "en": {
+          "title": "Our Swimming Fyrtel Posnania – free classes",
+          "description": "Free classes at the Posnania Swimming Pool are intended for residents of Area 1: Nowe Winogrady North, South and East, and Stare Winogrady.\n\nSchedule:\n• Mondays, 5:30 p.m. – aqua aerobics\n• Mondays, 5:30 p.m. – advanced swimming for adults\n• Tuesdays, 5:30 p.m. – swimming lessons for children aged 8–14\n• Tuesdays, 5:30 p.m. – advanced swimming for people aged 8–15\n\nRegistration is via the online form available on the website of the Wielkopolska Regional Swimming Association. Questions can be sent to biuro@wozp.poznan.pl or asked by phone at +48 537 563 000, Monday to Friday, 12–2 p.m. Updates are published on the website and Facebook profile.\n\nThe project is carried out by the Wielkopolska Regional Swimming Association, and is fin"
+        },
+        "uk": {
+          "title": "Наш плавальний Фиртель Поснанія — безкоштовні заняття",
+          "description": "Безкоштовні заняття в басейні Posnania призначені для мешканців району 1: Нових Віноградів — Півночі, Півдня та Сходу, а також Старих Віноградів.\n\nРозклад:\n• Понеділки, о 17:30 – аквааеробіка\n• Понеділки, о 17:30 – вдосконалення навичок плавання для дорослих\n• Вівторки, о 17:30 – навчання плаванню для дітей віком 8–14 років\n• Вівторки, о 17:30 – вдосконалення навичок плавання для осіб віком 8–15 років\n\nРеєстрація відбувається через онлайн-форму, доступну на сайті Великопольського окружного союзу плавання. Запитання можна надсилати на адресу biuro@wozp.poznan.pl або ставити телефоном за номером +48 537 563 000 з понеділка до п’ятниці з 12 до 14 години. Актуальна інформація публікується на вебсайті та сторінці у Facebook.\n\nПроєкт реалізує Великопольський окружний союз плавання, а фін"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Nowe Miasto",
+      "updated_at": "2026-11-15T14:26:31.544892+00:00"
+    },
+    "nasz-p-ywacki-fyrtel-termy-malta-skie-2026-12-14T15:45:00+01:00": {
+      "title": "Nasz Pływacki Fyrtel – Termy Maltańskie",
+      "date": "2026-12-14T15:45:00+01:00",
+      "end_date": "2026-12-14T15:45:00+01:00",
+      "startTimeKnown": true,
+      "description": "Bezpłatne zajęcia pływackie przeznaczone dla mieszkańców rejonu 12: Antoninek-Zieleniec-Kobypole, Główna, Ostrów Tumski-Śródka-Zawady-Komandoria oraz Warszawskie-Pomet-Maltańskie. Projekt realizowany jest przez Wielkopolski Okręgowy Związek Pływacki i finansowany ze środków Wydziału Sportu Urzędu Miasta Poznania w ramach Poznańskiego Budżetu Obywatelskiego 2026.\n\nW programie znajdują się zajęcia z nauki pływania dla dzieci i dorosłych oraz z doskonalenia pływania dla dzieci, młodzieży, dorosłych i seniorów. Zajęcia odbywają się na poziomie początkującym i zaawansowanym dla dorosłych, a także obejmują budowanie wytrzymałości pływackiej.\n\nZajęcia w Termach Maltańskich:\n• Poniedziałek, 15:45: nauka pływania dla dzieci w wieku 5–8 lat, wypłycenie\n• Poniedziałek, 16:30: doskonalenie pływania dla dzieci w wieku 10–14 lat\n• Poniedziałek, 17:15: doskonalenie pływania dla młodzieży od 15 lat\n• Wtorek, 18:00: doskonalenie pływania na poziomie zaawansowanym dla dorosłych\n• Wtorek, 18:45: budowanie wytrzymałości pływackiej dla młodzieży i dorosłych\n• Środa, 15:45: nauka pływania dla dzieci w wieku 9–15 lat, wypłycenie\n• Środa, 16:30: doskonalenie pływania dla seniorów\n• Czwartek, 15:45: doskonalenie pływania na poziomie początkującym dla dorosłych\n• Czwartek, 16:30: nauka pływania dla dorosłych, wypłycenie\n\nRejestracja odbywa się za pomocą formularza online dostępnego na stronie internetowej Wielkopolskiego Okręgowego Związku Pływackiego. Aktualności są publikowane na stronie internetowej oraz na profilu FB: https://www.facebook.com/naszplywackifyrtel/\n\nW sprawach pytań można pisać na adres biuro@wozp.poznan.pl lub dzwonić pod numer +48 537 563 000, od poniedziałku do piątku w godzinach 12–14.\n\nSzczegóły: www.wozp.poznan.pl/nasz-plywacki-fyrtel/termy-maltanskie/",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/0e4310e7-0d2f-4dbd-90cc-e12be9e61957/91fa337e-6bc3-43ea-b0f6-119b6641a337.jpg",
+      "location": {
+        "name": "Termy Maltańskie",
+        "district": "Nowe Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/nasz-plywacki-fyrtel-termy-maltanskie-0e4310e7-0d2f-4dbd-90cc-e12be9e61957",
+      "source": "simplygo.pl",
+      "age_hint": "5-14",
+      "age_range": {
+        "min": 5,
+        "max": 14
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/nasz-plywacki-fyrtel-termy-maltanskie-0e4310e7-0d2f-4dbd-90cc-e12be9e61957",
+      "scrapped_timestamp": "2026-11-15T14:25:02.792954+00:00",
+      "category": "Sports",
+      "additional_categories": [
+        "Educational"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Nasz Pływacki Fyrtel – Termy Maltańskie",
+          "description": "Bezpłatne zajęcia pływackie przeznaczone dla mieszkańców rejonu 12: Antoninek-Zieleniec-Kobypole, Główna, Ostrów Tumski-Śródka-Zawady-Komandoria oraz Warszawskie-Pomet-Maltańskie. Projekt realizowany jest przez Wielkopolski Okręgowy Związek Pływacki i finansowany ze środków Wydziału Sportu Urzędu Miasta Poznania w ramach Poznańskiego Budżetu Obywatelskiego 2026.\n\nW programie znajdują się zajęcia z nauki pływania dla dzieci i dorosłych oraz z doskonalenia pływania dla dzieci, młodzieży, dorosłych i seniorów. Zajęcia odbywają się na poziomie początkującym i zaawansowanym dla dorosłych, a także obejmują budowanie wytrzymałości pływackiej.\n\nZajęcia w Termach Maltańskich:\n• Poniedziałek, 15:45: nauka pływania dla dzieci w wieku 5–8 lat, wypłycenie\n• Poniedziałek, 16:30: doskonalenie pływania dla dzieci w wieku 10–14 lat\n• Poniedziałek, 17:15: doskonalenie pływania dla młodzieży od 15 lat\n• Wtorek, 18:00: doskonalenie pływania na poziomie zaawansowanym dla dorosłych\n• Wtorek, 18:45: budowanie wytrzymałości pływackiej dla młodzieży i dorosłych\n• Środa, 15:45: nauka pływania dla dzieci w wieku 9–15 lat, wypłycenie\n• Środa, 16:30: doskonalenie pływania dla seniorów\n• Czwartek, 15:45: doskonalenie pływania na poziomie początkującym dla dorosłych\n• Czwartek, 16:30: nauka pływania dla dorosłych, wypłycenie\n\nRejestracja odbywa się za pomocą formularza online dostępnego na stronie internetowej Wielkopolskiego Okręgowego Związku Pływackiego. Aktualności są publikowane na stronie internetowej oraz na profilu FB: https://www.facebook.com/naszplywackifyrtel/\n\nW sprawach pytań można pisać na adres biuro@wozp.poznan.pl lub dzwonić pod numer +48 537 563 000, od poniedziałku do piątku w godzinach 12–14.\n\nSzczegóły: www.wozp.poznan.pl/nasz-plywacki-fyrtel/termy-maltanskie/"
+        },
+        "en": {
+          "title": "Our Swimming Neighborhood – Malta Thermal Baths",
+          "description": "Free swimming classes for residents of area 12: Antoninek-Zieleniec-Kobypole, Główna, Ostrów Tumski-Śródka-Zawady-Komandoria and Warszawskie-Pomet-Maltańskie. The project is carried out by the Greater Poland Regional Swimming Association and funded by the Sports Department of the Poznań City Hall as part of the 2026 Poznań Civic Budget.\n\nThe program includes swimming lessons for children and adults, as well as swimming skills development classes for children, teenagers, adults and seniors. Classes are offered at beginner and advanced levels for adults, and also include building swimming endurance.\n\nClasses at Malta Thermal Baths:\n• Monday, 15:45: swimming lessons for children aged 5–8, shallow end\n• Monday, 16:30: swimming skills development fo"
+        },
+        "uk": {
+          "title": "Наш плавальний район – Терми Мальтанські",
+          "description": "Безкоштовні заняття з плавання для мешканців району 12: Антонінек-Зеленець-Кобиле Поле, Глувна, Острув-Тумський-Шрудка-Завади-Командорія та Варшавське-Помет-Мальтанське. Проєкт реалізує Великопольський окружний союз плавання, а фінансується він коштом Департаменту спорту міської ради Познані в межах Познанського бюджету громадян 2026 року.\n\nУ програмі передбачені заняття з навчання плавання для дітей і дорослих, а також із вдосконалення плавання для дітей, молоді, дорослих і людей старшого віку. Заняття проводяться для дорослих на початковому та просунутому рівнях, а також охоплюють розвиток плавальної витривалості.\n\nЗаняття в Термах Мальтанських:\n• Понеділок, 15:45: навчання плавання для дітей віком 5–8 років, мілка частина басейну\n• Понеділок, 16:30: вдосконалення плавання для"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Nowe Miasto",
+      "updated_at": "2026-11-15T14:26:31.544915+00:00"
+    },
+    "w-y-p-r-a-w-k-a-spektakl-taneczny-dla-rodzin-2026-11-20T11:00:00+01:00": {
+      "title": "w y p r a w k a – spektakl taneczny dla rodzin",
+      "date": "2026-11-20T11:00:00+01:00",
+      "end_date": "2026-11-20T11:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Spektakl dla rodzin z niemowlętami, który z czułością i uważnością przygląda się codzienności opieki nad najmłodszymi dziećmi. Twórczyni i zaangażowany zespół sześciu tancerzy w różnym wieku zamieniają zwykłe, powtarzalne czynności w choreografię bliskości, pełną rytmu, troski i intuicyjnego ruchu.\n\nw y p r a w k a bada ruch opiekuńczy jako doświadczenie wspólne i kulturotwórcze, zbiór gestów przekazywanych jednocześnie i ewoluujących z pokolenia na pokolenie. To opowieść o pierwszych relacjach, o ciele jako języku troski i o tym, co dajemy dzieciom na początku tej wielkiej wyprawy zwanej życiem.\n\nSpektakl dla dzieci w wieku 3-12 miesięcy. Uwaga! Bilet należy zakupić zarówno dla dziecka, jak i dla opiekuna. Dostępne bilety duo i familijne.\n\nWięcej informacji o wydarzeniu na stronie Polskiego Teatru Tańca.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/41aa292b-e39f-4062-a04f-bd4fea18b34f/d6bcd4d0-abf6-4d54-a345-b6dbb6ba6e3b.jpg",
+      "location": {
+        "name": "Polski Teatr Tańca",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/w-y-p-r-a-w-k-a-spektakl-taneczny-dla-rodzin-41aa292b-e39f-4062-a04f-bd4fea18b34f",
+      "source": "simplygo.pl",
+      "age_hint": "0-1",
+      "age_range": {
+        "min": 0,
+        "max": 1
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/w-y-p-r-a-w-k-a-spektakl-taneczny-dla-rodzin-41aa292b-e39f-4062-a04f-bd4fea18b34f",
+      "scrapped_timestamp": "2026-11-15T14:25:18.621333+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Music & Dance"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "w y p r a w k a – spektakl taneczny dla rodzin",
+          "description": "Spektakl dla rodzin z niemowlętami, który z czułością i uważnością przygląda się codzienności opieki nad najmłodszymi dziećmi. Twórczyni i zaangażowany zespół sześciu tancerzy w różnym wieku zamieniają zwykłe, powtarzalne czynności w choreografię bliskości, pełną rytmu, troski i intuicyjnego ruchu.\n\nw y p r a w k a bada ruch opiekuńczy jako doświadczenie wspólne i kulturotwórcze, zbiór gestów przekazywanych jednocześnie i ewoluujących z pokolenia na pokolenie. To opowieść o pierwszych relacjach, o ciele jako języku troski i o tym, co dajemy dzieciom na początku tej wielkiej wyprawy zwanej życiem.\n\nSpektakl dla dzieci w wieku 3-12 miesięcy. Uwaga! Bilet należy zakupić zarówno dla dziecka, jak i dla opiekuna. Dostępne bilety duo i familijne.\n\nWięcej informacji o wydarzeniu na stronie Polskiego Teatru Tańca."
+        },
+        "en": {
+          "title": "w y p r a w k a – a dance performance for families",
+          "description": "A performance for families with babies that tenderly and attentively explores the everyday realities of caring for the youngest children. The creator and a committed team of six dancers of different ages transform ordinary, repetitive activities into a choreography of closeness, full of rhythm, care and intuitive movement.\n\nw y p r a w k a explores caregiving movement as a shared, culture-shaping experience: a collection of gestures passed on and evolving from one generation to the next. It is a story about first relationships, the body as a language of care, and what we give children at the beginning of the great journey called life.\n\nA performance for children aged 3–12 months. Please note! A ticket must be purchased for both the child and their caregiver. Duo and family tickets are available.\n\nMore information about the event on the Polskie website."
+        },
+        "uk": {
+          "title": "w y p r a w k a – танцювальна вистава для родин",
+          "description": "Вистава для родин із немовлятами, яка з ніжністю та уважністю вдивляється у повсякдення догляду за найменшими дітьми. Авторка вистави та залучена до проєкту команда із шести танцівників різного віку перетворюють звичайні повторювані дії на хореографію близькості, сповнену ритму, турботи та інтуїтивного руху.\n\nw y p r a w k a досліджує турботливий рух як спільний досвід і культуротворче явище, як сукупність жестів, що передаються одночасно й розвиваються від покоління до покоління. Це розповідь про перші стосунки, про тіло як мову турботи та про те, що ми даруємо дітям на початку великої мандрівки під назвою життя.\n\nВистава для дітей віком від 3 до 12 місяців. Увага! Квиток потрібно придбати і для дитини, і для супроводжуючого. Доступні квитки duo та сімейні квитки.\n\nБільше інформації про подію на сайті Polskie"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.bilety24.pl/kup-bilet-na-749-wyprawka-157444"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T14:26:31.544937+00:00"
+    },
+    "nasz-p-ywacki-fyrtel-chwia-ka-2026-12-14T16:00:00+01:00": {
+      "title": "Nasz Pływacki Fyrtel – Chwiałka",
+      "date": "2026-12-14T16:00:00+01:00",
+      "end_date": "2026-12-14T16:00:00+01:00",
+      "startTimeKnown": true,
+      "description": "Sportowe zajęcia pływackie dla wszystkich mieszkańców rejonu 10: Świerczewo, Wilda, Zielony-Dębiec. Udział w zajęciach jest bezpłatny.\n\nDla mieszkańców rejonu 10 dostępne są różnorodne zajęcia: od doskonalenia pływania dla dzieci, przez doskonalenie dla młodzieży i dorosłych na różnym poziomie, aż po pływanie długodystansowe.\n\nWszystkie zajęcia odbywają się na Dużym Basenie. Harmonogram według godzin:\n\nGodz. 16:00\n• Poniedziałek: Technika Pływania (15+)\n\nGodz. 16:45\n• Poniedziałek: Doskonalenie Pływania (Dzieci 8-11 lat)\n• Wtorek: Doskonalenie Pływania Długi Dystans (Dorośli)\n• Środa: Technika Pływania (15+)\n• Czwartek: Doskonalenie Pływania (Młodzież 15+)\n• Piątek: Doskonalenie Pływania (Dzieci 7-10 lat)\n\nGodz. 17:30\n• Poniedziałek: Pływanie Poziom Średnio Zaawansowany (Dorośli)\n• Wtorek: Doskonalenie Pływania (Dzieci 11-14 lat)\n• Środa: Doskonalenie Pływania (Dorośli)\n• Czwartek: Doskonalenie Pływania Poziom Początkujący (Dorośli)\n• Piątek: Doskonalenie Pływania (Dzieci 11-14 lat)\n\nGodz. 18:15\n• Wtorek: Doskonalenie Pływania (Młodzież 15-19 lat)\n• Środa: Doskonalenie Pływania Długi Dystans (Dorośli)\n• Czwartek: Doskonalenie Pływania (Dorośli)\n• Piątek: Doskonalenie Pływania Poziom Zaawansowany (Dorośli)\n\nRejestracja odbywa się za pomocą formularza online dostępnego na stronie internetowej Wielkopolskiego Okręgowego Związku Pływackiego: www.wozp.poznan.pl/nasz-plywacki-fyrtel/chwialka/\n\nAktualności są publikowane na bieżąco na stronie internetowej oraz na profilu FB: https://www.facebook.com/naszplywackifyrtel/\n\nW sprawach pytań można kontaktować się mailowo: biuro@wozp.poznan.pl lub telefonicznie: +48 537 563 000 (czynny od poniedziałku do piątku w godzinach od 12 do 14).\n\nProjekt realizowany jest przez Wielkopolski Okręgowy Związek Pływacki, a finansowany ze środków Wydziału Sportu Urzędu Miasta Poznania w ramach Poznańskiego Budżetu Obywatelskiego 2026.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/5d2ba6aa-31c6-462d-bda5-0b112f38bf82/cabc2876-796f-4a2b-ac6a-ad9aa8ea217c.jpg",
+      "location": {
+        "name": "POSiR Chwiałka, ul. Jana Spychalskiego 38, Poznań",
+        "district": "Wilda"
+      },
+      "url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/nasz-plywacki-fyrtel-chwialka-5d2ba6aa-31c6-462d-bda5-0b112f38bf82",
+      "source": "simplygo.pl",
+      "age_hint": "7-18",
+      "age_range": {
+        "min": 7,
+        "max": 18
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/nasz-plywacki-fyrtel-chwialka-5d2ba6aa-31c6-462d-bda5-0b112f38bf82",
+      "scrapped_timestamp": "2026-11-15T14:25:33.046299+00:00",
+      "category": "Sports",
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Nasz Pływacki Fyrtel – Chwiałka",
+          "description": "Sportowe zajęcia pływackie dla wszystkich mieszkańców rejonu 10: Świerczewo, Wilda, Zielony-Dębiec. Udział w zajęciach jest bezpłatny.\n\nDla mieszkańców rejonu 10 dostępne są różnorodne zajęcia: od doskonalenia pływania dla dzieci, przez doskonalenie dla młodzieży i dorosłych na różnym poziomie, aż po pływanie długodystansowe.\n\nWszystkie zajęcia odbywają się na Dużym Basenie. Harmonogram według godzin:\n\nGodz. 16:00\n• Poniedziałek: Technika Pływania (15+)\n\nGodz. 16:45\n• Poniedziałek: Doskonalenie Pływania (Dzieci 8-11 lat)\n• Wtorek: Doskonalenie Pływania Długi Dystans (Dorośli)\n• Środa: Technika Pływania (15+)\n• Czwartek: Doskonalenie Pływania (Młodzież 15+)\n• Piątek: Doskonalenie Pływania (Dzieci 7-10 lat)\n\nGodz. 17:30\n• Poniedziałek: Pływanie Poziom Średnio Zaawansowany (Dorośli)\n• Wtorek: Doskonalenie Pływania (Dzieci 11-14 lat)\n• Środa: Doskonalenie Pływania (Dorośli)\n• Czwartek: Doskonalenie Pływania Poziom Początkujący (Dorośli)\n• Piątek: Doskonalenie Pływania (Dzieci 11-14 lat)\n\nGodz. 18:15\n• Wtorek: Doskonalenie Pływania (Młodzież 15-19 lat)\n• Środa: Doskonalenie Pływania Długi Dystans (Dorośli)\n• Czwartek: Doskonalenie Pływania (Dorośli)\n• Piątek: Doskonalenie Pływania Poziom Zaawansowany (Dorośli)\n\nRejestracja odbywa się za pomocą formularza online dostępnego na stronie internetowej Wielkopolskiego Okręgowego Związku Pływackiego: www.wozp.poznan.pl/nasz-plywacki-fyrtel/chwialka/\n\nAktualności są publikowane na bieżąco na stronie internetowej oraz na profilu FB: https://www.facebook.com/naszplywackifyrtel/\n\nW sprawach pytań można kontaktować się mailowo: biuro@wozp.poznan.pl lub telefonicznie: +48 537 563 000 (czynny od poniedziałku do piątku w godzinach od 12 do 14).\n\nProjekt realizowany jest przez Wielkopolski Okręgowy Związek Pływacki, a finansowany ze środków Wydziału Sportu Urzędu Miasta Poznania w ramach Poznańskiego Budżetu Obywatelskiego 2026."
+        },
+        "en": {
+          "title": "Our Swimming Neighborhood – Chwiałka",
+          "description": "Sports swimming classes for all residents of Area 10: Świerczewo, Wilda, Zielony-Dębiec. Participation in the classes is free.\n\nResidents of Area 10 can choose from a variety of classes: from swimming skills development for children, through skills development for young people and adults at different levels, to long-distance swimming.\n\nAll classes take place in the Large Pool. Schedule by time:\n\n4:00 p.m.\n• Monday: Swimming Technique (15+)\n\n4:45 p.m.\n• Monday: Swimming Skills Development (Children aged 8–11)\n• Tuesday: Long-Distance Swimming Skills Development (Adults)\n• Wednesday: Swimming Technique (15+)\n• Thursday: Swimming Skills Development (Youth 15+)\n• Friday: Swimming Skills Development (Children aged 7–10)\n\n5:30 p.m.\n• Monday: Intermediate-Level Swimming (Adults)\n• Tuesday:"
+        },
+        "uk": {
+          "title": "Наш плавальний район – Хвялка",
+          "description": "Спортивні заняття з плавання для всіх мешканців району 10: Свєрчево, Вільда, Зелений-Дембець. Участь у заняттях безкоштовна.\n\nДля мешканців району 10 доступні різноманітні заняття: від удосконалення навичок плавання для дітей до занять для підлітків і дорослих різного рівня та плавання на довгі дистанції.\n\nУсі заняття проходять у Великому басейні. Розклад за часом:\n\nГод. 16:00\n• Понеділок: Техніка плавання (15+)\n\nГод. 16:45\n• Понеділок: Удосконалення навичок плавання (діти 8–11 років)\n• Вівторок: Удосконалення навичок плавання на довгі дистанції (дорослі)\n• Середа: Техніка плавання (15+)\n• Четвер: Удосконалення навичок плавання (підлітки 15+)\n• П’ятниця: Удосконалення навичок плавання (діти 7–10 років)\n\nГод. 17:30\n• Понеділок: Плавання середнього рівня (дорослі)\n• Вівторок:"
+        }
+      },
+      "admission": {
+        "is_free": true
+      },
+      "district": "Wilda",
+      "updated_at": "2026-11-15T14:26:31.544957+00:00"
+    },
+    "ba-wankowa-kol-da-spektakl-wi-teczny-dla-dzieci-2026-12-09T17:30:00+01:00": {
+      "title": "Bałwankowa kolęda – spektakl świąteczny dla dzieci",
+      "date": "2026-12-09T17:30:00+01:00",
+      "end_date": "2026-12-09T17:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "Świąteczna bajka, która nie topnieje od wzruszeń! Co by było, gdyby bałwanki zapragnęły świąt? Nie tych z kaloryferem i kominkiem, ale prawdziwych - pełnych radości, śmiechu i wspólnego kolędowania!\n\"Bałwankowa Kolęda\" to ciepły, zabawny i mądry spektakl zimowy, który łączy magię Bożego Narodzenia, polską tradycję kolędniczą i humor trafiający zarówno do dzieci, jak i dorosłych. O czym jest spektakl? Poznajemy dwóch śnieżnych przyjaciół: Bałwanka Płatka - wielkiego marzyciela, Bałwanka Ziąbka - ostrożnego realistę. Obaj marzą o świętach z choinką, kolędami i piernikami... Szybko jednak odkrywają, że ciepło, o którym śnią, może je roztopić. Wyruszają więc w niezwykłą zimową podróż, podczas której spotykają barwne postacie znane z polskiej tradycji kolędniczej:\nBabę i Dziada - rozśpiewanych, dowcipnych kolędników,\nTuronia - głośnego strażnika dawnych obrzędów,\nDiabełka - figlarnego mistrza zamieszania,\nPierniczka - bohatera z genialnym planem,\nŚwiętego Mikołaja, który zdradza największy sekret świąt!\nEfekt? Święta na Śnieżno - bez topnienia, za to z ogromną radością!\nDlaczego warto zobaczyć to widowisko?\n• Prawdziwy świąteczny klimat bez banału: Żywa opowieść z akcją, humorem i wzruszeniem.\n• Mnóstwo śmiechu i zabawy: Postacie, które dzieci pokochają od pierwszej sceny.\n• Muzyka i interakcja: Dynamiczny spektakl, w którym widownia aktywnie przeżywa przygody bohaterów.\n• Polska tradycja z uśmiechem: Dawne obrzędy pokazane lekko, przystępnie i nowocześnie.\n\"Bałwankowa Kolęda\" to spektakl, który rozśmiesza, wzrusza i zostawia widzów z pięknym przesłaniem, że święta to nie temperatura -- tylko serce, które się nie topi!\nDla kogo: Dzieci, rodzice, dziadkowie, całe rodziny i szkoły - idealna propozycja na grudniowy czas.\nCzas trwania: ok. 75 minut.\nBilet ulgowy przysługuje:\n• dzieciom w wieku 3-6 lat (na podstawie dokumentu tożsamości),\n• dzieciom i młodzieży szkolnej (na podstawie ważnej legitymacji szkolnej),\n• osobom z niepełnosprawnościami oraz opiekunowi osoby niepełnosprawnej (po okazaniu ważnego dokumentu),\n• seniorom (kobiety od 60 r.ż., mężczyźni od 65 r.ż.).\nWstęp bezpłatny: Dzieci do 3. roku życia wchodzą za darmo (na podstawie dokumentu tożsamości), o ile zajmują to samo miejsce co opiekun.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/7d0ce4c9-fa61-42c5-b77b-821415435294/f8bceaea-a2da-428e-a1c0-9c28126814dd.jpg",
+      "location": {
+        "name": "Scena Wspólna Teatru Łejery, ul. Brandstaettera 1, 61-659 Poznań",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/balwankowa-koleda-spektakl-swiateczny-dla-dzieci-7d0ce4c9-fa61-42c5-b77b-821415435294",
+      "source": "simplygo.pl",
+      "age_hint": "3-12",
+      "age_range": {
+        "min": 3,
+        "max": 12
+      },
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/dla-dzieci/wydarzenie/balwankowa-koleda-spektakl-swiateczny-dla-dzieci-7d0ce4c9-fa61-42c5-b77b-821415435294",
+      "scrapped_timestamp": "2026-11-15T14:25:51.999364+00:00",
+      "category": "Theater",
+      "additional_categories": [
+        "Seasonal Festival",
+        "Music & Dance"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Bałwankowa kolęda – spektakl świąteczny dla dzieci",
+          "description": "Świąteczna bajka, która nie topnieje od wzruszeń! Co by było, gdyby bałwanki zapragnęły świąt? Nie tych z kaloryferem i kominkiem, ale prawdziwych - pełnych radości, śmiechu i wspólnego kolędowania!\n\"Bałwankowa Kolęda\" to ciepły, zabawny i mądry spektakl zimowy, który łączy magię Bożego Narodzenia, polską tradycję kolędniczą i humor trafiający zarówno do dzieci, jak i dorosłych. O czym jest spektakl? Poznajemy dwóch śnieżnych przyjaciół: Bałwanka Płatka - wielkiego marzyciela, Bałwanka Ziąbka - ostrożnego realistę. Obaj marzą o świętach z choinką, kolędami i piernikami... Szybko jednak odkrywają, że ciepło, o którym śnią, może je roztopić. Wyruszają więc w niezwykłą zimową podróż, podczas której spotykają barwne postacie znane z polskiej tradycji kolędniczej:\nBabę i Dziada - rozśpiewanych, dowcipnych kolędników,\nTuronia - głośnego strażnika dawnych obrzędów,\nDiabełka - figlarnego mistrza zamieszania,\nPierniczka - bohatera z genialnym planem,\nŚwiętego Mikołaja, który zdradza największy sekret świąt!\nEfekt? Święta na Śnieżno - bez topnienia, za to z ogromną radością!\nDlaczego warto zobaczyć to widowisko?\n• Prawdziwy świąteczny klimat bez banału: Żywa opowieść z akcją, humorem i wzruszeniem.\n• Mnóstwo śmiechu i zabawy: Postacie, które dzieci pokochają od pierwszej sceny.\n• Muzyka i interakcja: Dynamiczny spektakl, w którym widownia aktywnie przeżywa przygody bohaterów.\n• Polska tradycja z uśmiechem: Dawne obrzędy pokazane lekko, przystępnie i nowocześnie.\n\"Bałwankowa Kolęda\" to spektakl, który rozśmiesza, wzrusza i zostawia widzów z pięknym przesłaniem, że święta to nie temperatura -- tylko serce, które się nie topi!\nDla kogo: Dzieci, rodzice, dziadkowie, całe rodziny i szkoły - idealna propozycja na grudniowy czas.\nCzas trwania: ok. 75 minut.\nBilet ulgowy przysługuje:\n• dzieciom w wieku 3-6 lat (na podstawie dokumentu tożsamości),\n• dzieciom i młodzieży szkolnej (na podstawie ważnej legitymacji szkolnej),\n• osobom z niepełnosprawnościami oraz opiekunowi osoby niepełnosprawnej (po okazaniu ważnego dokumentu),\n• seniorom (kobiety od 60 r.ż., mężczyźni od 65 r.ż.).\nWstęp bezpłatny: Dzieci do 3. roku życia wchodzą za darmo (na podstawie dokumentu tożsamości), o ile zajmują to samo miejsce co opiekun."
+        },
+        "en": {
+          "title": "Snowmen’s Carol – a Christmas show for children",
+          "description": "A Christmas fairy tale that never melts from emotion! What if snowmen wished for Christmas? Not the kind with radiators and fireplaces, but a real one - full of joy, laughter and singing carols together!\n\"Snowmen’s Carol\" is a warm, funny and wise winter show that combines the magic of Christmas, the Polish caroling tradition and humor that appeals to children and adults alike. What is the show about? We meet two snowy friends: Snowman Flake - a great dreamer, and Snowman Chilly - a cautious realist. Both dream of Christmas with a tree, carols and gingerbread... Soon, however, they discover that the warmth they dream of could melt them. So they set off on an extraordinary winter journey, during which they meet colorful characters known from the Polish caroling tradition:\nThe Old Woman and the Old Man - lively singers,"
+        },
+        "uk": {
+          "title": "Снігова коляда – різдвяна вистава для дітей",
+          "description": "Різдвяна казка, яка не тане від зворушення! А що було б, якби сніговички захотіли свят? Не тих, що з радіатором і каміном, а справжніх — сповнених радості, сміху та спільного колядування!\n«Снігова коляда» — це тепла, весела й мудра зимова вистава, що поєднує магію Різдва, польську традицію колядування та гумор, який припаде до душі і дітям, і дорослим. Про що вистава? Ми знайомимося з двома сніговими друзями: Сніговичком Сніжинкою — великим мрійником, Сніговичком Холодком — обережним реалістом. Обоє мріють про свята з ялинкою, колядками та пряниками... Та невдовзі вони відкривають, що тепло, про яке вони мріють, може їх розтопити. Тож вони вирушають у незвичайну зимову подорож, під час якої зустрічають яскравих персонажів, відомих із польської традиції колядування:\nБабу та Діда — співучих,"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/221739/poznan/balwankowa-koleda-czyli-swieta-na-sniezno?utm_source=pp&utm_medium=604"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T14:26:31.544998+00:00"
+    },
+    "dziadek-do-orzech-w-kr-lewski-balet-klasyczny-2026-12-14T16:30:00+01:00": {
+      "title": "Dziadek do orzechów – Królewski Balet Klasyczny",
+      "date": "2026-12-14T16:30:00+01:00",
+      "end_date": "2026-12-14T16:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na magiczny spektakl baletowy \"Dziadek do Orzechów\" w wykonaniu renomowanego polskiego zespołu Królewski Balet Klasyczny!\nTa klasyczna historia o walce między dobrą a złą mocą w połączeniu z piękną muzyką Piotra Czajkowskiego, zachwyci zarówno dzieci, jak i dorosłych. Zobaczysz, jak mała Klara wraz z Dziadkiem do Orzechów, wyrusza w magiczną podróż przez Królestwo Śniegu i Królestwo Słodyczy, aby pokonać Króla Myszy i uwolnić Królestwo Land of Sweets. Wspaniałe stroje, dynamiczne choreografie oraz niezwykła muzyka sprawią, że ta opowieść o walce dobra ze złem na pewno zostanie z Tobą na długo. Zespół Królewski Balet Klasyczny to grupa wybitnych tancerzy, którzy swoją pasją i zaangażowaniem włożą w każdy krok, aby zaoferować publiczności spektakularne widowisko. Nie przegap okazji, aby zobaczyć jedno z najpiękniejszych i najbardziej klasycznych dzieł baletowych w wykonaniu Polskiego zespołu Królewski Balet Klasyczny!\nZapraszamy na niezapomniany spektakl baletowy \"Dziadek do Orzechów\"! To klasyczna opowieść, która zachwyci zarówno miłośników baletu, jak i osoby szukające niezapomnianych wrażeń kulturalnych. Historia rozpoczyna się w Wigilię Bożego Narodzenia, gdy młoda dziewczynka o imieniu Klara otrzymuje od swojego dziadka tajemniczy prezent. Kiedy wszyscy zasną, zabawka ożywa, a Dziadek do Orzechów staje się prawdziwym księciem i zabiera Klarę do magicznego świata. Tam Klara spotyka cukrową wróżkę, walczące miotłami myszy, piękne baletnice oraz magiczne postacie z różnych krain. Niezwykłe kostiumy, zapierające dech w piersiach układy taneczne oraz wyjątkowa muzyka Piotra Czajkowskiego sprawiają, że ten baletowy spektakl jest jednym z najbardziej wyczekiwanych przez naszą publiczność. To dzieło sztuki, które zrobi na Tobie ogromne wrażenie i pozostawi niezapomniane wspomnienia. Nie przegap okazji, by zobaczyć \"Dziadka do Orzechów\" na własne oczy! To spektakl, który wciągnie Cię w magiczną, zimową atmosferę i pozwoli na chwilę przenieść się do innego świata.\nDziadek do Orzechów to osadzona w bożonarodzeniowych realiach podróż do świata dziecięcej wyobraźni. Ten klasyczny balet z muzyką arcymistrza gatunku Piotra Czajkowskiego należy do ścisłego kanonu, ciesząc się niesłabnącą popularnością pomimo upływającego czasu. Warto zadać sobie pytanie, dla czego tak się dzieje? Zapewne każdy ma swoją, ze wszech miar uprawnioną odpowiedź: piękna muzyka, atmosfera świąt Bożego Narodzenia, choreograficzna maestria, czy wreszcie bogate kostiumy i scenografia. To wszystko znajdą Państwo i w realizacji Królewskiego Baletu Klasycznego, ale jest coś jeszcze, na co zwracamy baczną uwagę. Dziadek do Orzechów to doskonała płaszczyzna międzypokoleniowych spotkań. Tutaj każde dziecko jest traktowane ze zrozumieniem i atencją godną dorosłych, a dorośli, niezależnie od wieku mają nadzwyczajną okazję by na nowo odkryć, odszukać w sobie dziecko. I tak, w świecie, który być może jak nigdy dotąd podzielił i odseparował od siebie generację nasz spektakl jawi się jako platforma integrująca nierzadko obce sobie, choć spokrewnione jednostki oraz dusze.\nFabuła \"Dziadka do Orzechów\" składa się z dwóch aktów. Główna bohaterka to Klara, która w wigilię Bożego Narodzenia obok wielu innych prezentów znajduje pod choinką drewnianego dziadka do orzechów. Zabawka bardzo przypada jej do gustu, choć poza nią nikt nie dostrzega w niej niczego godnego uwagi. Rodzina Klary jak co roku świętuje oczekiwanie na narodziny Bożej Dzieciny. Gdy zapada noc, dziewczynka zasypia w fotelu. Wtedy zaczynają dziać się niezwykłe rzeczy. Dziadek do orzechów ożywa i ratuje Klarę atakowaną przez mysie wojsko i jego Króla. Dowodząc ołowianymi żołnierzykami brata toczy zacięty bój, który niemal przypłaca życiem. Na szczęście Klara w porę przychodzi mu z pomocą za co zostaje nagrodzona przez Królową Śniegu. W drugim akcie Dziadek do orzechów zamienia się w przystojnego księcia i zabiera Klarę do Krainy Słodyczy. Podczas wędrówki dziewczynka spotyka tajemnicze postacie, które tańczą ogniste flamenco, tradycyjny taniec rosyjski, chiński oraz taniec orientu. Wreszcie wędrowcy docierają do stolicy, gdzie Klara zostaje powitana z honorami godnymi prawdziwej księżniczki i zaproszona na bal do pałacu. Tam wraz księciem tańczy walca otoczona wirującymi kwietnymi girlandami. Niestety z nastaniem północy wszystko rozwiewa się niczym mgła, a dziewczynka budzi się w fotelu tuląc w ramionach drewnianą zabawkę.",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/ec9c9635-00e8-4ac7-94d7-bc288b521c72/468c0b0e-5980-4d8d-878f-691a7d86d3e3.jpg",
+      "location": {
+        "name": "Collegium Da Vinci - Aula Artis, ul. gen. Tadeusza Kutrzeby 10, 61-719 Poznań",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/poznan/rozrywka/wydarzenie/dziadek-do-orzechow-krolewski-balet-klasyczny-ec9c9635-00e8-4ac7-94d7-bc288b521c72",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/rozrywka/wydarzenie/dziadek-do-orzechow-krolewski-balet-klasyczny-ec9c9635-00e8-4ac7-94d7-bc288b521c72",
+      "scrapped_timestamp": "2026-11-15T14:26:07.264256+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Theater"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dziadek do orzechów – Królewski Balet Klasyczny",
+          "description": "Zapraszamy na magiczny spektakl baletowy \"Dziadek do Orzechów\" w wykonaniu renomowanego polskiego zespołu Królewski Balet Klasyczny!\nTa klasyczna historia o walce między dobrą a złą mocą w połączeniu z piękną muzyką Piotra Czajkowskiego, zachwyci zarówno dzieci, jak i dorosłych. Zobaczysz, jak mała Klara wraz z Dziadkiem do Orzechów, wyrusza w magiczną podróż przez Królestwo Śniegu i Królestwo Słodyczy, aby pokonać Króla Myszy i uwolnić Królestwo Land of Sweets. Wspaniałe stroje, dynamiczne choreografie oraz niezwykła muzyka sprawią, że ta opowieść o walce dobra ze złem na pewno zostanie z Tobą na długo. Zespół Królewski Balet Klasyczny to grupa wybitnych tancerzy, którzy swoją pasją i zaangażowaniem włożą w każdy krok, aby zaoferować publiczności spektakularne widowisko. Nie przegap okazji, aby zobaczyć jedno z najpiękniejszych i najbardziej klasycznych dzieł baletowych w wykonaniu Polskiego zespołu Królewski Balet Klasyczny!\nZapraszamy na niezapomniany spektakl baletowy \"Dziadek do Orzechów\"! To klasyczna opowieść, która zachwyci zarówno miłośników baletu, jak i osoby szukające niezapomnianych wrażeń kulturalnych. Historia rozpoczyna się w Wigilię Bożego Narodzenia, gdy młoda dziewczynka o imieniu Klara otrzymuje od swojego dziadka tajemniczy prezent. Kiedy wszyscy zasną, zabawka ożywa, a Dziadek do Orzechów staje się prawdziwym księciem i zabiera Klarę do magicznego świata. Tam Klara spotyka cukrową wróżkę, walczące miotłami myszy, piękne baletnice oraz magiczne postacie z różnych krain. Niezwykłe kostiumy, zapierające dech w piersiach układy taneczne oraz wyjątkowa muzyka Piotra Czajkowskiego sprawiają, że ten baletowy spektakl jest jednym z najbardziej wyczekiwanych przez naszą publiczność. To dzieło sztuki, które zrobi na Tobie ogromne wrażenie i pozostawi niezapomniane wspomnienia. Nie przegap okazji, by zobaczyć \"Dziadka do Orzechów\" na własne oczy! To spektakl, który wciągnie Cię w magiczną, zimową atmosferę i pozwoli na chwilę przenieść się do innego świata.\nDziadek do Orzechów to osadzona w bożonarodzeniowych realiach podróż do świata dziecięcej wyobraźni. Ten klasyczny balet z muzyką arcymistrza gatunku Piotra Czajkowskiego należy do ścisłego kanonu, ciesząc się niesłabnącą popularnością pomimo upływającego czasu. Warto zadać sobie pytanie, dla czego tak się dzieje? Zapewne każdy ma swoją, ze wszech miar uprawnioną odpowiedź: piękna muzyka, atmosfera świąt Bożego Narodzenia, choreograficzna maestria, czy wreszcie bogate kostiumy i scenografia. To wszystko znajdą Państwo i w realizacji Królewskiego Baletu Klasycznego, ale jest coś jeszcze, na co zwracamy baczną uwagę. Dziadek do Orzechów to doskonała płaszczyzna międzypokoleniowych spotkań. Tutaj każde dziecko jest traktowane ze zrozumieniem i atencją godną dorosłych, a dorośli, niezależnie od wieku mają nadzwyczajną okazję by na nowo odkryć, odszukać w sobie dziecko. I tak, w świecie, który być może jak nigdy dotąd podzielił i odseparował od siebie generację nasz spektakl jawi się jako platforma integrująca nierzadko obce sobie, choć spokrewnione jednostki oraz dusze.\nFabuła \"Dziadka do Orzechów\" składa się z dwóch aktów. Główna bohaterka to Klara, która w wigilię Bożego Narodzenia obok wielu innych prezentów znajduje pod choinką drewnianego dziadka do orzechów. Zabawka bardzo przypada jej do gustu, choć poza nią nikt nie dostrzega w niej niczego godnego uwagi. Rodzina Klary jak co roku świętuje oczekiwanie na narodziny Bożej Dzieciny. Gdy zapada noc, dziewczynka zasypia w fotelu. Wtedy zaczynają dziać się niezwykłe rzeczy. Dziadek do orzechów ożywa i ratuje Klarę atakowaną przez mysie wojsko i jego Króla. Dowodząc ołowianymi żołnierzykami brata toczy zacięty bój, który niemal przypłaca życiem. Na szczęście Klara w porę przychodzi mu z pomocą za co zostaje nagrodzona przez Królową Śniegu. W drugim akcie Dziadek do orzechów zamienia się w przystojnego księcia i zabiera Klarę do Krainy Słodyczy. Podczas wędrówki dziewczynka spotyka tajemnicze postacie, które tańczą ogniste flamenco, tradycyjny taniec rosyjski, chiński oraz taniec orientu. Wreszcie wędrowcy docierają do stolicy, gdzie Klara zostaje powitana z honorami godnymi prawdziwej księżniczki i zaproszona na bal do pałacu. Tam wraz księciem tańczy walca otoczona wirującymi kwietnymi girlandami. Niestety z nastaniem północy wszystko rozwiewa się niczym mgła, a dziewczynka budzi się w fotelu tuląc w ramionach drewnianą zabawkę."
+        },
+        "en": {
+          "title": "The Nutcracker – Royal Classical Ballet",
+          "description": "We invite you to a magical ballet performance of \"The Nutcracker\" by the renowned Polish company Royal Classical Ballet!\nThis classic story about the struggle between good and evil, combined with the beautiful music of Pyotr Tchaikovsky, will delight both children and adults. You will see little Clara set off with the Nutcracker on a magical journey through the Kingdom of Snow and the Kingdom of Sweets, to defeat the Mouse King and free the Kingdom of Land of Sweets. The magnificent costumes, dynamic choreography and extraordinary music will ensure that this tale of the struggle between good and evil stays with you for a long time. Royal Classical Ballet is a company of outstanding dancers who will put their passion and dedication into every step to offer audiences a spectacular performance. Don't miss the opportunity"
+        },
+        "uk": {
+          "title": "Лускунчик – Королівський класичний балет",
+          "description": "Запрошуємо на чарівну балетну виставу «Лускунчик» у виконанні відомого польського колективу «Королівський класичний балет»!\nЦя класична історія про боротьбу між добром і злом у поєднанні з прекрасною музикою Петра Чайковського захопить і дітей, і дорослих. Ви побачите, як маленька Клара разом із Лускунчиком вирушає в чарівну подорож Королівством снігу та Королівством солодощів, щоб перемогти Короля мишей і звільнити Країну солодощів. Чудові костюми, динамічна хореографія та незвичайна музика зроблять цю історію про боротьбу добра зі злом незабутньою. Колектив «Королівський класичний балет» — це група видатних танцівників, які вкладають у кожен рух свою пристрасть і відданість, щоб подарувати глядачам захопливе видовище. Не пропустіть нагоди"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.kupbilecik.pl/pl/event/200267/poznan/krolewski-balet-klasyczny-dziadek-do-orzechow?utm_source=pp&utm_medium=604"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T14:26:31.545018+00:00"
+    },
+    "dziadek-do-orzech-w-balet-kr-lewskiego-baletu-klasycznego-2026-12-14T16:30:00+01:00": {
+      "title": "Dziadek do Orzechów – balet Królewskiego Baletu Klasycznego",
+      "date": "2026-12-14T16:30:00+01:00",
+      "end_date": "2026-12-14T16:30:00+01:00",
+      "startTimeKnown": true,
+      "description": "Zapraszamy na magiczny spektakl baletowy \"Dziadek do Orzechów\" w wykonaniu renomowanego polskiego zespołu Królewski Balet Klasyczny!\nKrólewski Balet Klasyczny spektakl Dziadek do Orzechów\nTa klasyczna historia o walce między dobrą a złą mocą w połączeniu z piękną muzyką Piotra Czajkowskiego, zachwyci zarówno dzieci, jak i dorosłych. Zobaczysz, jak mała Klara wraz z Dziadkiem do Orzechów, wyrusza w magiczną podróż przez Królestwo Śniegu i Królestwo Słodyczy, aby pokonać Króla Myszy i uwolnić Królestwo Land of Sweets.\nWspaniałe stroje, dynamiczne choreografie oraz niezwykła muzyka sprawią, że ta opowieść o walce dobra ze złem na pewno zostanie z Tobą na długo. Zespół Królewski Balet Klasyczny to grupa wybitnych tancerzy, którzy swoją pasją i zaangażowaniem włożą w każdy krok, aby zaoferować publiczności spektakularne widowisko.\nNie przegap okazji, aby zobaczyć jedno z najpiękniejszych i najbardziej klasycznych dzieł baletowych w wykonaniu Polskiego zespołu Królewski Balet Klasyczny!",
+      "image": "https://simplygo-thumbnails.s3.amazonaws.com/activities/6c45673d-c68e-466a-af1e-8bbf3cdac459/cec6f3e5-d705-4214-b119-1d1095a23339.jpg",
+      "location": {
+        "name": "Aula Artis",
+        "district": "Stare Miasto"
+      },
+      "url": "https://simplygo.pl/wydarzenia/poznan/rozrywka/wydarzenie/dziadek-do-orzechow-balet-krolewskiego-baletu-klasycznego-6c45673d-c68e-466a-af1e-8bbf3cdac459",
+      "source": "simplygo.pl",
+      "age_hint": null,
+      "age_range": null,
+      "scrapped_url": "https://simplygo.pl/wydarzenia/poznan/rozrywka/wydarzenie/dziadek-do-orzechow-balet-krolewskiego-baletu-klasycznego-6c45673d-c68e-466a-af1e-8bbf3cdac459",
+      "scrapped_timestamp": "2026-11-15T14:26:18.879277+00:00",
+      "category": "Music & Dance",
+      "additional_categories": [
+        "Theater"
+      ],
+      "location_type": "indoor",
+      "translations": {
+        "pl": {
+          "title": "Dziadek do Orzechów – balet Królewskiego Baletu Klasycznego",
+          "description": "Zapraszamy na magiczny spektakl baletowy \"Dziadek do Orzechów\" w wykonaniu renomowanego polskiego zespołu Królewski Balet Klasyczny!\nKrólewski Balet Klasyczny spektakl Dziadek do Orzechów\nTa klasyczna historia o walce między dobrą a złą mocą w połączeniu z piękną muzyką Piotra Czajkowskiego, zachwyci zarówno dzieci, jak i dorosłych. Zobaczysz, jak mała Klara wraz z Dziadkiem do Orzechów, wyrusza w magiczną podróż przez Królestwo Śniegu i Królestwo Słodyczy, aby pokonać Króla Myszy i uwolnić Królestwo Land of Sweets.\nWspaniałe stroje, dynamiczne choreografie oraz niezwykła muzyka sprawią, że ta opowieść o walce dobra ze złem na pewno zostanie z Tobą na długo. Zespół Królewski Balet Klasyczny to grupa wybitnych tancerzy, którzy swoją pasją i zaangażowaniem włożą w każdy krok, aby zaoferować publiczności spektakularne widowisko.\nNie przegap okazji, aby zobaczyć jedno z najpiękniejszych i najbardziej klasycznych dzieł baletowych w wykonaniu Polskiego zespołu Królewski Balet Klasyczny!"
+        },
+        "en": {
+          "title": "The Nutcracker – ballet by the Royal Classical Ballet",
+          "description": "We invite you to a magical ballet performance of \"The Nutcracker\" by the renowned Polish company Royal Classical Ballet!\nRoyal Classical Ballet performance of The Nutcracker\nThis classic story about the battle between good and evil, combined with the beautiful music of Pyotr Tchaikovsky, will delight both children and adults. You will see how little Clara, together with the Nutcracker, sets off on a magical journey through the Kingdom of Snow and the Kingdom of Sweets to defeat the Mouse King and free the Kingdom of Land of Sweets.\nMagnificent costumes, dynamic choreography, and extraordinary music will make this tale of the battle between good and evil one that will stay with you for a long time. The Royal Classical Ballet company is a group of outstanding dancers who will put their passion and dedication into every step to offer"
+        },
+        "uk": {
+          "title": "Лускунчик – балет Королівського класичного балету",
+          "description": "Запрошуємо на чарівну балетну виставу «Лускунчик» у виконанні відомого польського колективу «Королівський класичний балет»!\nВистава «Лускунчик» Королівського класичного балету\nЦя класична історія про боротьбу добра зі злом у поєднанні з прекрасною музикою Петра Чайковського захопить і дітей, і дорослих. Ви побачите, як маленька Клара разом із Лускунчиком вирушає в чарівну подорож Королівством Снігу та Королівством Солодощів, щоб перемогти Мишачого короля й визволити Країну солодощів.\nЧудові костюми, динамічні хореографічні постановки та незвичайна музика зроблять цю історію про боротьбу добра зі злом незабутньою. Колектив «Королівський класичний балет» — це група видатних танцівників, які вкладуть свою пристрасть і відданість у кожен рух, щоб запропонувати"
+        }
+      },
+      "admission": {
+        "is_free": false,
+        "ticket_url": "https://www.ebilet.pl/klasyka/balet-taniec/dziadek-do-orzechow-czajkowski?partner=tradedoubler"
+      },
+      "district": "Stare Miasto",
+      "updated_at": "2026-11-15T14:26:31.545040+00:00"
     }
   }
 }

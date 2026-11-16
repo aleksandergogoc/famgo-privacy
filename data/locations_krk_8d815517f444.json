@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:06:54.882550+00:00",
+  "updated_at": "2026-11-16T16:08:14.844613+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5440,6 +5440,78 @@
       "lat": 50.0724055,
       "lng": 19.9489313,
       "updated_at": "2026-11-12T15:20:46.364802+00:00"
+    },
+    "ul. zielony dół 4": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "ul. zielony dół 4",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-11-16T15:03:07.720301+00:00"
+    },
+    "akademia sztuk pięknych w krakowie": {
+      "name": "Akademia Sztuk Pięknych imienia Jana Matejki, 13, Plac Jana Matejki, Kleparz, Stare Miasto, Kraków, województwo małopolskie, 31-157, Polska",
+      "district": "Stare Miasto",
+      "address": "Akademia Sztuk Pięknych imienia Jana Matejki, 13, Plac Jana Matejki, Kleparz, Stare Miasto, Kraków, województwo małopolskie, 31-157, Polska",
+      "normalized": "akademia sztuk pięknych w krakowie",
+      "lat": 50.0662586,
+      "lng": 19.9413231,
+      "updated_at": "2026-11-16T15:16:22.567017+00:00"
+    },
+    "ice kraków congress centre": {
+      "name": "Centrum Kongresowe ICE Kraków, 17, Marii Konopnickiej, Osiedle Podwawelskie, Ludwinów, Dębniki, Kraków, województwo małopolskie, 30-302, Polska",
+      "district": "Dębniki",
+      "address": "Centrum Kongresowe ICE Kraków, 17, Marii Konopnickiej, Osiedle Podwawelskie, Ludwinów, Dębniki, Kraków, województwo małopolskie, 30-302, Polska",
+      "normalized": "ice kraków congress centre",
+      "lat": 50.0479548,
+      "lng": 19.9314617,
+      "updated_at": "2026-11-16T15:16:42.990775+00:00"
+    },
+    "kładka o. bernatka": {
+      "name": "Kładka o. Bernatka, TAURON Arena Kraków i wieża telewizyjna na Krzemionkach",
+      "district": "Czyżyny",
+      "address": "Kładka o. Bernatka, TAURON Arena Kraków i wieża telewizyjna na Krzemionkach",
+      "normalized": "kładka o. bernatka",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-16T15:36:07.196117+00:00"
+    },
+    "„mała”": {
+      "name": "18, Osiedle Kalinowe, Bieńczyce, Kraków, województwo małopolskie, 31-814, Polska",
+      "district": "Bieńczyce",
+      "address": "18, Osiedle Kalinowe, Bieńczyce, Kraków, województwo małopolskie, 31-814, Polska",
+      "normalized": "„mała”",
+      "lat": 50.0904013,
+      "lng": 20.0112285,
+      "updated_at": "2026-11-16T15:36:16.874055+00:00"
+    },
+    "park grzegórzecki": {
+      "name": "Park Grzegórzecki, Grzegórzki, Kraków, województwo małopolskie, Polska",
+      "district": "Grzegórzki",
+      "address": "Park Grzegórzecki, Grzegórzki, Kraków, województwo małopolskie, Polska",
+      "normalized": "park grzegórzecki",
+      "lat": 50.0548855,
+      "lng": 19.9682141,
+      "updated_at": "2026-11-16T15:36:18.098199+00:00"
+    },
+    "teatralny instytut młodych i teatr ludowy": {
+      "name": "Teatralny Instytut Młodych i Teatr Ludowy",
+      "district": "Nowa Huta",
+      "address": "Teatralny Instytut Młodych i Teatr Ludowy",
+      "normalized": "teatralny instytut młodych i teatr ludowy",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-16T15:36:18.098668+00:00"
+    },
+    "pedagogiczna biblioteka wojewódzka": {
+      "name": "Pedagogiczna Biblioteka Wojewódzka im. Hugona Kołłątaja, 39, Aleja Marszałka Ferdinanda Focha, Błonia, Zwierzyniec, Kraków, województwo małopolskie, 30-119, Polska",
+      "district": "Zwierzyniec",
+      "address": "Pedagogiczna Biblioteka Wojewódzka im. Hugona Kołłątaja, 39, Aleja Marszałka Ferdinanda Focha, Błonia, Zwierzyniec, Kraków, województwo małopolskie, 30-119, Polska",
+      "normalized": "pedagogiczna biblioteka wojewódzka",
+      "lat": 50.0569309,
+      "lng": 19.9121879,
+      "updated_at": "2026-11-16T15:36:19.419416+00:00"
     }
   }
 }

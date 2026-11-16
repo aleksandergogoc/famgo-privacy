@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T14:26:33.699015+00:00",
+  "updated_at": "2026-11-16T16:08:11.105633+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -3157,6 +3157,33 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-11-15T14:01:57.650156+00:00"
+    },
+    "narodowe forum muzyki (nfm) wrocław pl. wolności 1": {
+      "name": "Narodowe Forum Muzyki, 1, Plac Wolności, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-071, Polska",
+      "district": "Stare Miasto",
+      "address": "Narodowe Forum Muzyki, 1, Plac Wolności, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-071, Polska",
+      "normalized": "narodowe forum muzyki (nfm) wrocław pl. wolności 1",
+      "lat": 51.1069844,
+      "lng": 17.0265381,
+      "updated_at": "2026-11-16T15:44:57.567768+00:00"
+    },
+    "modelarnia stanki 5a": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "modelarnia stanki 5a",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-11-16T15:45:03.827802+00:00"
+    },
+    "wrocławski klub formaty (wrocław-muchobór wielki)": {
+      "name": "Wrocławski Klub Formaty (Wrocław-Muchobór Wielki)",
+      "district": "Fabryczna",
+      "address": "Wrocławski Klub Formaty (Wrocław-Muchobór Wielki)",
+      "normalized": "wrocławski klub formaty (wrocław-muchobór wielki)",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-16T15:46:32.160092+00:00"
     }
   }
 }

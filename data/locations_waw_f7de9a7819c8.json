@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T14:16:16.921941+00:00",
+  "updated_at": "2026-11-16T16:08:12.847966+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10131,6 +10131,33 @@
       "lat": 52.1874622,
       "lng": 21.0718203,
       "updated_at": "2026-11-14T13:34:57.536079+00:00"
+    },
+    "och-teatr": {
+      "name": "Och-Teatr, 65, Grójecka, Osiedle Grójecka, Stara Ochota, Ochota, Warszawa, województwo mazowieckie, 02-094, Polska",
+      "district": "Ochota",
+      "address": "Och-Teatr, 65, Grójecka, Osiedle Grójecka, Stara Ochota, Ochota, Warszawa, województwo mazowieckie, 02-094, Polska",
+      "normalized": "och-teatr",
+      "lat": 52.2141819,
+      "lng": 20.9801508,
+      "updated_at": "2026-11-16T15:38:09.642399+00:00"
+    },
+    "sp 150": {
+      "name": "SP 150, ul. Thommego 1",
+      "district": "Bemowo",
+      "address": "SP 150, ul. Thommego 1",
+      "normalized": "sp 150",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-16T15:44:31.826587+00:00"
+    },
+    "biblioteka publiczna w dzielnicy ochota m.st. warszawy – „piątka”": {
+      "name": "Biblioteka Publiczna w Dzielnicy Ochota m.st. Warszawy – „Piątka”, Grójecka 109",
+      "district": "Ochota",
+      "address": "Biblioteka Publiczna w Dzielnicy Ochota m.st. Warszawy – „Piątka”, Grójecka 109",
+      "normalized": "biblioteka publiczna w dzielnicy ochota m.st. warszawy – „piątka”",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-16T15:44:31.826916+00:00"
     }
   }
 }

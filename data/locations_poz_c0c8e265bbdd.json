@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:35:54.001127+00:00",
+  "updated_at": "2026-11-16T16:08:07.830242+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1854,6 +1854,15 @@
       "lat": 52.4080653,
       "lng": 16.93161,
       "updated_at": "2026-11-10T15:32:40.682042+00:00"
+    },
+    "hala sportowa sp72": {
+      "name": "Hala Sportowa SP72, ul. Newtona 2,, 60-161 POZNAŃ, PL",
+      "district": "Grunwald",
+      "address": "Hala Sportowa SP72, ul. Newtona 2,, 60-161 POZNAŃ, PL",
+      "normalized": "hala sportowa sp72",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-16T16:05:10.021406+00:00"
     }
   }
 }

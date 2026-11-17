@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T16:06:48.392066+00:00",
+  "updated_at": "2026-11-17T16:35:06.673859+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1907,6 +1907,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-12T15:59:42.928429+00:00"
+    },
+    "schuberta 102a": {
+      "name": "Galeria Morena, 102A, Franciszka Schuberta, Suchanino, Gdańsk, województwo pomorskie, 80-172, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "Galeria Morena, 102A, Franciszka Schuberta, Suchanino, Gdańsk, województwo pomorskie, 80-172, Polska",
+      "normalized": "schuberta 102a",
+      "lat": 54.3524411,
+      "lng": 18.5929599,
+      "updated_at": "2026-11-17T16:25:18.479464+00:00"
+    },
+    "wileńska 37": {
+      "name": "37A, Wileńska, Migówko, Piecki, Piecki-Migowo, Gdańsk, województwo pomorskie, 80-215, Polska",
+      "district": "Gdańsk - Pozostałe",
+      "address": "37A, Wileńska, Migówko, Piecki, Piecki-Migowo, Gdańsk, województwo pomorskie, 80-215, Polska",
+      "normalized": "wileńska 37",
+      "lat": 54.361504,
+      "lng": 18.6049596,
+      "updated_at": "2026-11-17T16:25:19.912126+00:00"
+    },
+    "karwieńska 3": {
+      "name": "Leśny Młyn, 3, Karwieńska, Dolina Powagi, Oliwa, Gdańsk, województwo pomorskie, 80-328, Polska",
+      "district": "Oliwa",
+      "address": "Leśny Młyn, 3, Karwieńska, Dolina Powagi, Oliwa, Gdańsk, województwo pomorskie, 80-328, Polska",
+      "normalized": "karwieńska 3",
+      "lat": 54.4133975,
+      "lng": 18.5337183,
+      "updated_at": "2026-11-17T16:26:00.029252+00:00"
     }
   }
 }

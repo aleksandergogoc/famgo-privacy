@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T16:08:07.830242+00:00",
+  "updated_at": "2026-11-17T16:35:05.100058+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1863,6 +1863,24 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-11-16T16:05:10.021406+00:00"
+    },
+    "sala ziemi poznań congress center": {
+      "name": "Sala Ziemi Poznań Congress Center, ul. Głogowska 10, 60-734 Poznań",
+      "district": "Grunwald",
+      "address": "Sala Ziemi Poznań Congress Center, ul. Głogowska 10, 60-734 Poznań",
+      "normalized": "sala ziemi poznań congress center",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-17T16:31:59.265210+00:00"
+    },
+    "koncertowa cafe": {
+      "name": "Koncertowa Cafe, 80/82, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-809, Polska",
+      "district": "Stare Miasto",
+      "address": "Koncertowa Cafe, 80/82, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-809, Polska",
+      "normalized": "koncertowa cafe",
+      "lat": 52.4079212,
+      "lng": 16.919375,
+      "updated_at": "2026-11-17T16:34:57.960904+00:00"
     }
   }
 }

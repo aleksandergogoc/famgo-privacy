@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T16:08:12.847966+00:00",
+  "updated_at": "2026-11-17T16:35:09.716080+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10158,6 +10158,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-16T15:44:31.826916+00:00"
+    },
+    "ul. romaszewskiego 19": {
+      "name": "ul. Romaszewskiego 19, Biblioteka Dla Dzieci i Młodzieży",
+      "district": "Bielany",
+      "address": "ul. Romaszewskiego 19, Biblioteka Dla Dzieci i Młodzieży",
+      "normalized": "ul. romaszewskiego 19",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-17T16:12:05.230437+00:00"
+    },
+    "event hall w fabryce norblina": {
+      "name": "Event Hall w Fabryce Norblina, ul. Żelazna 51/53",
+      "district": "Śródmieście",
+      "address": "Event Hall w Fabryce Norblina, ul. Żelazna 51/53",
+      "normalized": "event hall w fabryce norblina",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-17T16:12:05.230691+00:00"
+    },
+    "kaliny jędrusik 5_u5": {
+      "name": "Kaliny Jędrusik 5/u5",
+      "district": "Żoliborz",
+      "address": "Kaliny Jędrusik 5/u5",
+      "normalized": "kaliny jędrusik 5_u5",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-17T16:12:05.230999+00:00"
     }
   }
 }

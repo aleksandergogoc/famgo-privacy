@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T16:08:14.844613+00:00",
+  "updated_at": "2026-11-17T16:35:11.407440+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5512,6 +5512,15 @@
       "lat": 50.0569309,
       "lng": 19.9121879,
       "updated_at": "2026-11-16T15:36:19.419416+00:00"
+    },
+    "wena": {
+      "name": "Klub Kultury \"Wena\", 201, Aleja 29 Listopada, Górka Narodowa, Prądnik Biały, Kraków, województwo małopolskie, 31-236, Polska",
+      "district": "Prądnik Biały",
+      "address": "Klub Kultury \"Wena\", 201, Aleja 29 Listopada, Górka Narodowa, Prądnik Biały, Kraków, województwo małopolskie, 31-236, Polska",
+      "normalized": "wena",
+      "lat": 50.1030314,
+      "lng": 19.964497,
+      "updated_at": "2026-11-17T15:38:31.227647+00:00"
     }
   }
 }

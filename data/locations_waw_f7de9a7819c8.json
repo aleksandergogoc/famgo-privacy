@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T16:35:09.716080+00:00",
+  "updated_at": "2026-11-18T16:33:15.150694+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10185,6 +10185,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-17T16:12:05.230999+00:00"
+    },
+    "targowa 54": {
+      "name": "54, Targowa, Skaryszew, Stara Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-733, Polska",
+      "district": "Praga-Północ",
+      "address": "54, Targowa, Skaryszew, Stara Praga, Praga-Północ, Warszawa, województwo mazowieckie, 03-733, Polska",
+      "normalized": "targowa 54",
+      "lat": 52.2519298,
+      "lng": 21.0387007,
+      "updated_at": "2026-11-18T15:47:47.513868+00:00"
+    },
+    "filia ckw w alto wilanów": {
+      "name": "Alto Wilanów, 14, Aleja Rzeczypospolitej, Miasteczko Wilanów, Błonia Wilanowskie, Wilanów, Warszawa, województwo mazowieckie, 02-972, Polska",
+      "district": "Wilanów",
+      "address": "Alto Wilanów, 14, Aleja Rzeczypospolitej, Miasteczko Wilanów, Błonia Wilanowskie, Wilanów, Warszawa, województwo mazowieckie, 02-972, Polska",
+      "normalized": "filia ckw w alto wilanów",
+      "lat": 52.1641045,
+      "lng": 21.0709276,
+      "updated_at": "2026-11-18T15:48:11.292496+00:00"
+    },
+    "smart kids planet ul. żelazna 51_53 (fabryka norblina)": {
+      "name": "Smart Kids Planet ul. Żelazna 51/53 (Fabryka Norblina)",
+      "district": "Wola",
+      "address": "Smart Kids Planet ul. Żelazna 51/53 (Fabryka Norblina)",
+      "normalized": "smart kids planet ul. żelazna 51_53 (fabryka norblina)",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-18T15:56:44.779471+00:00"
+    },
+    "jagiellońska 47e": {
+      "name": "Jagiellońska 47E",
+      "district": "Praga-Północ",
+      "address": "Jagiellońska 47E",
+      "normalized": "jagiellońska 47e",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-18T15:56:44.779958+00:00"
     }
   }
 }

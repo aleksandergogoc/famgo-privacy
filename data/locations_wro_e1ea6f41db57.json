@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T16:35:08.118906+00:00",
+  "updated_at": "2026-11-18T16:33:13.369508+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -3193,6 +3193,51 @@
       "lat": 51.1183985,
       "lng": 16.9568182,
       "updated_at": "2026-11-17T16:12:26.968936+00:00"
+    },
+    "miejska biblioteka publiczna - filia nr 46 tarnogórska 1": {
+      "name": "Miejska Biblioteka Publiczna, filia nr 46, 1, Tarnogórska, Księże Małe, Księże, Wrocław, województwo dolnośląskie, 52-021, Polska",
+      "district": "Krzyki",
+      "address": "Miejska Biblioteka Publiczna, filia nr 46, 1, Tarnogórska, Księże Małe, Księże, Wrocław, województwo dolnośląskie, 52-021, Polska",
+      "normalized": "miejska biblioteka publiczna - filia nr 46 tarnogórska 1",
+      "lat": 51.0749351,
+      "lng": 17.0854277,
+      "updated_at": "2026-11-18T15:57:07.184798+00:00"
+    },
+    "wrocław ul jana stanki 5a": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "wrocław ul jana stanki 5a",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-11-18T15:58:59.800419+00:00"
+    },
+    "modelarnia": {
+      "name": "5a, Jana Stanki, Oporów, Wrocław, województwo dolnośląskie, 52-423, Polska",
+      "district": "Fabryczna",
+      "address": "5a, Jana Stanki, Oporów, Wrocław, województwo dolnośląskie, 52-423, Polska",
+      "normalized": "modelarnia",
+      "lat": 51.0785327,
+      "lng": 16.9736168,
+      "updated_at": "2026-11-18T15:59:02.657273+00:00"
+    },
+    "cal kozanów": {
+      "name": "CAL Kozanów, 7d, Dokerska, Pilczyce, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 54-142, Polska",
+      "district": "Fabryczna",
+      "address": "CAL Kozanów, 7d, Dokerska, Pilczyce, Pilczyce-Kozanów-Popowice Północne, Wrocław, województwo dolnośląskie, 54-142, Polska",
+      "normalized": "cal kozanów",
+      "lat": 51.1402467,
+      "lng": 16.9655847,
+      "updated_at": "2026-11-18T15:59:19.584760+00:00"
+    },
+    "solen swim — kryty basen": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "solen swim — kryty basen",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-11-18T15:59:22.368459+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T16:35:11.407440+00:00",
+  "updated_at": "2026-11-18T16:33:17.445487+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5521,6 +5521,15 @@
       "lat": 50.1030314,
       "lng": 19.964497,
       "updated_at": "2026-11-17T15:38:31.227647+00:00"
+    },
+    "kostrze": {
+      "name": "Klub Kostrze",
+      "district": "Dębniki",
+      "address": "Klub Kostrze",
+      "normalized": "kostrze",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-18T15:45:41.872557+00:00"
     }
   }
 }

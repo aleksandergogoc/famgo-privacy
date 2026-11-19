@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T16:33:17.445487+00:00",
+  "updated_at": "2026-11-19T16:52:48.584676+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5530,6 +5530,33 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-11-18T15:45:41.872557+00:00"
+    },
+    "dom kultury sm „nowy bieżanów”": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "dom kultury sm „nowy bieżanów”",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-11-19T15:27:30.420163+00:00"
+    },
+    "filia nr 10": {
+      "name": "59, Aleja 29 Listopada, Rogatka Warszawska, Olsza, Prądnik Czerwony, Kraków, województwo małopolskie, 31-425, Polska",
+      "district": "Prądnik Czerwony",
+      "address": "59, Aleja 29 Listopada, Rogatka Warszawska, Olsza, Prądnik Czerwony, Kraków, województwo małopolskie, 31-425, Polska",
+      "normalized": "filia nr 10",
+      "lat": 50.082513,
+      "lng": 19.9524503,
+      "updated_at": "2026-11-19T16:18:31.570389+00:00"
+    },
+    "księgarnia karakter ul. tarłowska 12": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "księgarnia karakter ul. tarłowska 12",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-11-19T16:19:26.966060+00:00"
     }
   }
 }

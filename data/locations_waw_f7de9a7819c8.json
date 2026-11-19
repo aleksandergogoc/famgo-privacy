@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T16:33:15.150694+00:00",
+  "updated_at": "2026-11-19T16:52:46.997111+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10221,6 +10221,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-18T15:56:44.779958+00:00"
+    },
+    "cos torwar": {
+      "name": "Torwar, 6A, Łazienkowska, Powiśle-Solec, Ujazdów, Śródmieście, Warszawa, województwo mazowieckie, 00-449, Polska",
+      "district": "Śródmieście",
+      "address": "Torwar, 6A, Łazienkowska, Powiśle-Solec, Ujazdów, Śródmieście, Warszawa, województwo mazowieckie, 00-449, Polska",
+      "normalized": "cos torwar",
+      "lat": 52.2224474,
+      "lng": 21.0421668,
+      "updated_at": "2026-11-19T16:21:21.890910+00:00"
+    },
+    "hala \"reduta\" osir wola": {
+      "name": "Hala \"Reduta\" OSiR Wola, ul. Redutowa 39",
+      "district": "Wola",
+      "address": "Hala \"Reduta\" OSiR Wola, ul. Redutowa 39",
+      "normalized": "hala \"reduta\" osir wola",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-19T16:27:14.156977+00:00"
+    },
+    "ośrodek edukacji kulturalnej \"sadyba\"": {
+      "name": "Ośrodek Edukacji Kulturalnej \"Sadyba\", ul. Korczyńska 6",
+      "district": "Mokotów",
+      "address": "Ośrodek Edukacji Kulturalnej \"Sadyba\", ul. Korczyńska 6",
+      "normalized": "ośrodek edukacji kulturalnej \"sadyba\"",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-19T16:27:14.157371+00:00"
+    },
+    "ul. chopina 1a": {
+      "name": "ul. Chopina 1A, Pruszków",
+      "district": "okolice Warszawy",
+      "address": "ul. Chopina 1A, Pruszków",
+      "normalized": "ul. chopina 1a",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-19T16:27:14.157692+00:00"
+    },
+    "ul. kraszewskiego 13": {
+      "name": "ul. Kraszewskiego 13, Biblioteka Główna - Oddział dla dorosłych Książnicy Pruszkowskiej",
+      "district": "okolice Warszawy",
+      "address": "ul. Kraszewskiego 13, Biblioteka Główna - Oddział dla dorosłych Książnicy Pruszkowskiej",
+      "normalized": "ul. kraszewskiego 13",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-19T16:27:14.157917+00:00"
     }
   }
 }

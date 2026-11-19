@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T16:35:06.673859+00:00",
+  "updated_at": "2026-11-19T16:52:44.019154+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1934,6 +1934,33 @@
       "lat": 54.4133975,
       "lng": 18.5337183,
       "updated_at": "2026-11-17T16:26:00.029252+00:00"
+    },
+    "długa 35": {
+      "name": "Lwi Zamek, 35, Długa, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-827, Polska",
+      "district": "Śródmieście",
+      "address": "Lwi Zamek, 35, Długa, Główne Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-827, Polska",
+      "normalized": "długa 35",
+      "lat": 54.3486825,
+      "lng": 18.6517581,
+      "updated_at": "2026-11-19T16:43:37.409355+00:00"
+    },
+    "plac dominikański 1": {
+      "name": "Piwnica Romańska, 1, Plac Dominikański, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-844, Polska",
+      "district": "Śródmieście",
+      "address": "Piwnica Romańska, 1, Plac Dominikański, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-844, Polska",
+      "normalized": "plac dominikański 1",
+      "lat": 54.3524863,
+      "lng": 18.6517587,
+      "updated_at": "2026-11-19T16:43:38.620665+00:00"
+    },
+    "ul. długa 35": {
+      "name": "ul. Długa 35, Gdańsk",
+      "district": "Śródmieście",
+      "address": "ul. Długa 35, Gdańsk",
+      "normalized": "ul. długa 35",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-19T16:45:24.934225+00:00"
     }
   }
 }

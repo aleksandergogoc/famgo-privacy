@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:52:48.584676+00:00",
+  "updated_at": "2026-11-20T16:11:20.405608+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5557,6 +5557,24 @@
       "lat": 50.0323915,
       "lng": 19.9633651,
       "updated_at": "2026-11-19T16:19:26.966060+00:00"
+    },
+    "lks błyskawica": {
+      "name": "LKS Błyskawica, ul. Podstawie 6A",
+      "district": "Nowa Huta",
+      "address": "LKS Błyskawica, ul. Podstawie 6A",
+      "normalized": "lks błyskawica",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-20T15:32:08.382504+00:00"
+    },
+    "manufaktura ozdób i pamiątek szklanych ul. jedynaka 4": {
+      "name": "Manufaktura Ozdób i Pamiątek Szklanych ul. Jedynaka 4, Wieliczka",
+      "district": "Nowa Huta",
+      "address": "Manufaktura Ozdób i Pamiątek Szklanych ul. Jedynaka 4, Wieliczka",
+      "normalized": "manufaktura ozdób i pamiątek szklanych ul. jedynaka 4",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-20T15:32:08.383124+00:00"
     }
   }
 }

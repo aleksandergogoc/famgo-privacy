@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:52:45.505493+00:00",
+  "updated_at": "2026-11-20T16:11:16.095732+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -3247,6 +3247,51 @@
       "lat": 51.0963569,
       "lng": 17.0374265,
       "updated_at": "2026-11-19T16:29:02.447190+00:00"
+    },
+    "let me out – escape room wrocław ul. bernardyńska 4": {
+      "name": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "district": "Śródmieście",
+      "address": "McKinsey & Company Wroclaw Knowledge Center, 23-27, plac Grunwaldzki, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-365, Polska",
+      "normalized": "let me out – escape room wrocław ul. bernardyńska 4",
+      "lat": 51.112118,
+      "lng": 17.0639117,
+      "updated_at": "2026-11-20T15:45:19.829217+00:00"
+    },
+    "przedszkole marco polo": {
+      "name": "Przedszkole Marco Polo, Pedagogiczna, Stary Zakrzów, Zakrzów, Psie Pole-Zawidawie, Wrocław, województwo dolnośląskie, 51-213, Polska",
+      "district": "Psie Pole",
+      "address": "Przedszkole Marco Polo, Pedagogiczna, Stary Zakrzów, Zakrzów, Psie Pole-Zawidawie, Wrocław, województwo dolnośląskie, 51-213, Polska",
+      "normalized": "przedszkole marco polo",
+      "lat": 51.1607583,
+      "lng": 17.1268561,
+      "updated_at": "2026-11-20T15:45:25.571843+00:00"
+    },
+    "narodowe forum muzyki (wrocław)": {
+      "name": "Narodowe Forum Muzyki, 1, Plac Wolności, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-071, Polska",
+      "district": "Stare Miasto",
+      "address": "Narodowe Forum Muzyki, 1, Plac Wolności, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-071, Polska",
+      "normalized": "narodowe forum muzyki (wrocław)",
+      "lat": 51.1069844,
+      "lng": 17.0265381,
+      "updated_at": "2026-11-20T15:47:12.994530+00:00"
+    },
+    "strefa kultury studenckiej – politechnika wrocławska": {
+      "name": "Józefa Marii Hoene-Wrońskiego, Manhattan, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-376, Polska",
+      "district": "Śródmieście",
+      "address": "Józefa Marii Hoene-Wrońskiego, Manhattan, Plac Grunwaldzki, Wrocław, województwo dolnośląskie, 50-376, Polska",
+      "normalized": "strefa kultury studenckiej – politechnika wrocławska",
+      "lat": 51.108342,
+      "lng": 17.055925,
+      "updated_at": "2026-11-20T15:47:27.974361+00:00"
+    },
+    "marina kleczków – beach bar": {
+      "name": "2b, Pasterska, Kleczków, Wrocław, województwo dolnośląskie, 50-304, Polska",
+      "district": "Śródmieście",
+      "address": "2b, Pasterska, Kleczków, Wrocław, województwo dolnośląskie, 50-304, Polska",
+      "normalized": "marina kleczków – beach bar",
+      "lat": 51.1306327,
+      "lng": 17.0324202,
+      "updated_at": "2026-11-20T15:47:32.778121+00:00"
     }
   }
 }

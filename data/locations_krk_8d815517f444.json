@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T16:11:20.405608+00:00",
+  "updated_at": "2026-11-21T15:15:25.590977+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5575,6 +5575,24 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-20T15:32:08.383124+00:00"
+    },
+    "boisko orlik przy zespole szkół gastronomicznych": {
+      "name": "16, Osiedle Złotej Jesieni, Bieńczyce, Kraków, województwo małopolskie, 31-828, Polska",
+      "district": "Bieńczyce",
+      "address": "16, Osiedle Złotej Jesieni, Bieńczyce, Kraków, województwo małopolskie, 31-828, Polska",
+      "normalized": "boisko orlik przy zespole szkół gastronomicznych",
+      "lat": 50.0839238,
+      "lng": 20.0308351,
+      "updated_at": "2026-11-21T14:22:36.797680+00:00"
+    },
+    "filia „teatralna” (nr 55)": {
+      "name": "25, Osiedle Teatralne, Nowa Huta, Kraków, województwo małopolskie, 31-947, Polska",
+      "district": "Nowa Huta",
+      "address": "25, Osiedle Teatralne, Nowa Huta, Kraków, województwo małopolskie, 31-947, Polska",
+      "normalized": "filia „teatralna” (nr 55)",
+      "lat": 50.0795183,
+      "lng": 20.0309951,
+      "updated_at": "2026-11-21T14:42:38.495704+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:52:42.688816+00:00",
+  "updated_at": "2026-11-22T14:56:55.310575+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1908,6 +1908,15 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-11-19T16:49:00.507535+00:00"
+    },
+    "dom kultury \"jagiellonka\"": {
+      "name": "Dom Kultury \"Jagiellonka\", 121A, Osiedle Jagiellońskie, Rataje, Poznań, województwo wielkopolskie, 61-222, Polska",
+      "district": "Nowe Miasto",
+      "address": "Dom Kultury \"Jagiellonka\", 121A, Osiedle Jagiellońskie, Rataje, Poznań, województwo wielkopolskie, 61-222, Polska",
+      "normalized": "dom kultury \"jagiellonka\"",
+      "lat": 52.3909323,
+      "lng": 16.9530554,
+      "updated_at": "2026-11-22T14:53:20.009121+00:00"
     }
   }
 }

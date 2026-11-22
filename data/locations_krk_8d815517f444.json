@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T15:15:25.590977+00:00",
+  "updated_at": "2026-11-22T14:56:56.726462+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5593,6 +5593,42 @@
       "lat": 50.0795183,
       "lng": 20.0309951,
       "updated_at": "2026-11-21T14:42:38.495704+00:00"
+    },
+    "park strzelecki": {
+      "name": "Park Strzelecki, Wesoła II, Grzegórzki, Kraków, województwo małopolskie, 31-504, Polska",
+      "district": "Grzegórzki",
+      "address": "Park Strzelecki, Wesoła II, Grzegórzki, Kraków, województwo małopolskie, 31-504, Polska",
+      "normalized": "park strzelecki",
+      "lat": 50.0659519,
+      "lng": 19.9499784,
+      "updated_at": "2026-11-22T14:12:48.020733+00:00"
+    },
+    "jeziorko 40": {
+      "name": "Kościół pw. Świętego Grzegorza Wielkiego Papieża, 40, Jeziorko, Ruszcza, Nowa Huta, Kraków, województwo małopolskie, 31-988, Polska",
+      "district": "Nowa Huta",
+      "address": "Kościół pw. Świętego Grzegorza Wielkiego Papieża, 40, Jeziorko, Ruszcza, Nowa Huta, Kraków, województwo małopolskie, 31-988, Polska",
+      "normalized": "jeziorko 40",
+      "lat": 50.0878025,
+      "lng": 20.1469987,
+      "updated_at": "2026-11-22T14:18:42.326641+00:00"
+    },
+    "wioska świętego mikołaja w bałtowie": {
+      "name": "Wioska świętego Mikołaja w Bałtowie",
+      "district": "Nowa Huta",
+      "address": "Wioska świętego Mikołaja w Bałtowie",
+      "normalized": "wioska świętego mikołaja w bałtowie",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-22T14:28:40.195767+00:00"
+    },
+    "kopalnia srebra w tarnowskich górach": {
+      "name": "Kopalnia Srebra w Tarnowskich Górach",
+      "district": "Nowa Huta",
+      "address": "Kopalnia Srebra w Tarnowskich Górach",
+      "normalized": "kopalnia srebra w tarnowskich górach",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-22T14:28:40.195930+00:00"
     }
   }
 }

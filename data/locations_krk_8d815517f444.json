@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T14:56:56.726462+00:00",
+  "updated_at": "2026-11-23T18:40:49.153208+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5629,6 +5629,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-22T14:28:40.195930+00:00"
+    },
+    "kościół mb nieustającej pomocy": {
+      "name": "Kościół pw. Matki Bożej Nieustającej Pomocy w Krakowie, 33, Osiedle Bohaterów Września, Mistrzejowice, Kraków, województwo małopolskie, 31-621, Polska",
+      "district": "Mistrzejowice",
+      "address": "Kościół pw. Matki Bożej Nieustającej Pomocy w Krakowie, 33, Osiedle Bohaterów Września, Mistrzejowice, Kraków, województwo małopolskie, 31-621, Polska",
+      "normalized": "kościół mb nieustającej pomocy",
+      "lat": 50.1016171,
+      "lng": 20.0110274,
+      "updated_at": "2026-11-23T17:44:21.515004+00:00"
     }
   }
 }

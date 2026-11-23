@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T16:11:17.963886+00:00",
+  "updated_at": "2026-11-23T18:40:47.288320+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10347,6 +10347,60 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-20T15:44:48.343624+00:00"
+    },
+    "fundacja bona fide- w dobrej wierze ul. szklanych domów 13": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "fundacja bona fide- w dobrej wierze ul. szklanych domów 13",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-11-23T18:01:52.245282+00:00"
+    },
+    "warszawskiej pragi": {
+      "name": "Muzeum Warszawskiej Pragi, Stara Praga, Praga-Północ, Warszawa, województwo mazowieckie, Polska",
+      "district": "Praga-Północ",
+      "address": "Muzeum Warszawskiej Pragi, Stara Praga, Praga-Północ, Warszawa, województwo mazowieckie, Polska",
+      "normalized": "warszawskiej pragi",
+      "lat": 52.2517051,
+      "lng": 21.0394503,
+      "updated_at": "2026-11-23T18:01:56.050301+00:00"
+    },
+    "sklep koleo": {
+      "name": "Sklep KOLEO, Francuska 11A",
+      "district": "Praga-Południe",
+      "address": "Sklep KOLEO, Francuska 11A",
+      "normalized": "sklep koleo",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-23T18:10:38.905941+00:00"
+    },
+    "miejsce aktywności lokalnej dwa jelonki ul. rozłogi 18": {
+      "name": "Miejsce Aktywności Lokalnej DWA JELONKI ul. Rozłogi 18",
+      "district": "Bemowo",
+      "address": "Miejsce Aktywności Lokalnej DWA JELONKI ul. Rozłogi 18",
+      "normalized": "miejsce aktywności lokalnej dwa jelonki ul. rozłogi 18",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-23T18:10:38.906174+00:00"
+    },
+    "kłopotowskiego 15": {
+      "name": "Kłopotowskiego 15",
+      "district": "Praga-Północ",
+      "address": "Kłopotowskiego 15",
+      "normalized": "kłopotowskiego 15",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-23T18:10:38.906330+00:00"
+    },
+    "domino chomiczówka": {
+      "name": "Klub Domino Chomiczówka, Wojciecha Bogusławskiego 6a",
+      "district": "Bielany",
+      "address": "Klub Domino Chomiczówka, Wojciecha Bogusławskiego 6a",
+      "normalized": "domino chomiczówka",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-23T18:10:38.906470+00:00"
     }
   }
 }

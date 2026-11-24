@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T18:40:45.515453+00:00",
+  "updated_at": "2026-11-24T18:09:42.290478+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -3310,6 +3310,33 @@
       "lat": 51.1069844,
       "lng": 17.0265381,
       "updated_at": "2026-11-23T18:13:12.252512+00:00"
+    },
+    "rynek 27_28": {
+      "name": "27-28, Rynek, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-101, Polska",
+      "district": "Stare Miasto",
+      "address": "27-28, Rynek, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-101, Polska",
+      "normalized": "rynek 27_28",
+      "lat": 51.1089238,
+      "lng": 17.0326214,
+      "updated_at": "2026-11-24T17:48:00.620310+00:00"
+    },
+    "budynek not": {
+      "name": "DW/108/P, 74, Marszałka Józefa Piłsudskiego, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-020, Polska",
+      "district": "Stare Miasto",
+      "address": "DW/108/P, 74, Marszałka Józefa Piłsudskiego, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-020, Polska",
+      "normalized": "budynek not",
+      "lat": 51.1015221,
+      "lng": 17.0328701,
+      "updated_at": "2026-11-24T17:48:03.397514+00:00"
+    },
+    "synagoga pod białym bocianem": {
+      "name": "7, Pawła Włodkowica, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-072, Polska",
+      "district": "Stare Miasto",
+      "address": "7, Pawła Włodkowica, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-072, Polska",
+      "normalized": "synagoga pod białym bocianem",
+      "lat": 51.1081615,
+      "lng": 17.0248746,
+      "updated_at": "2026-11-24T17:48:12.052968+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T16:52:44.019154+00:00",
+  "updated_at": "2026-11-24T18:09:39.700843+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1961,6 +1961,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-19T16:45:24.934225+00:00"
+    },
+    "grunwaldzka 51": {
+      "name": "51, Aleja Grunwaldzka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-241, Polska",
+      "district": "Wrzeszcz",
+      "address": "51, Aleja Grunwaldzka, Wrzeszcz Górny, Gdańsk, województwo pomorskie, 80-241, Polska",
+      "normalized": "grunwaldzka 51",
+      "lat": 54.377003,
+      "lng": 18.6119128,
+      "updated_at": "2026-11-24T18:01:54.468514+00:00"
+    },
+    "kolonia artystów": {
+      "name": "Kolonia Artystów",
+      "district": "Wrzeszcz",
+      "address": "Kolonia Artystów",
+      "normalized": "kolonia artystów",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-24T18:04:38.996037+00:00"
+    },
+    "sala mieszczańska ratusz staromiejski": {
+      "name": "Sala Mieszczańska Ratusz Staromiejski",
+      "district": "Śródmieście",
+      "address": "Sala Mieszczańska Ratusz Staromiejski",
+      "normalized": "sala mieszczańska ratusz staromiejski",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-24T18:04:38.996244+00:00"
     }
   }
 }

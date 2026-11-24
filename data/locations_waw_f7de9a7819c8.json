@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T18:40:47.288320+00:00",
+  "updated_at": "2026-11-24T18:09:43.691921+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10401,6 +10401,33 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-23T18:10:38.906470+00:00"
+    },
+    "rokosowska 10": {
+      "name": "10, Rokosowska, Ochota I, Stara Ochota, Ochota, Warszawa, województwo mazowieckie, 02-348, Polska",
+      "district": "Ochota",
+      "address": "10, Rokosowska, Ochota I, Stara Ochota, Ochota, Warszawa, województwo mazowieckie, 02-348, Polska",
+      "normalized": "rokosowska 10",
+      "lat": 52.2150394,
+      "lng": 20.9728617,
+      "updated_at": "2026-11-24T17:40:08.844321+00:00"
+    },
+    "porajów 14": {
+      "name": "Porajów 14",
+      "district": "Białołęka",
+      "address": "Porajów 14",
+      "normalized": "porajów 14",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-24T17:45:53.995852+00:00"
+    },
+    "szkoła „z miłości do”": {
+      "name": "Szkoła „Z miłości do”, Bluszczańska 76 lok 10",
+      "district": "Mokotów",
+      "address": "Szkoła „Z miłości do”, Bluszczańska 76 lok 10",
+      "normalized": "szkoła „z miłości do”",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-24T17:45:53.996446+00:00"
     }
   }
 }

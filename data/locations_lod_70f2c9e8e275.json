@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T16:33:11.614784+00:00",
+  "updated_at": "2026-11-24T18:09:41.037894+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -1161,6 +1161,24 @@
       "lat": 51.8307549,
       "lng": 19.4194734,
       "updated_at": "2026-11-18T16:12:38.679926+00:00"
+    },
+    "fabryka sztuki (łódź": {
+      "name": "Fabryka Sztuki w Łodzi, 3, Księdza Biskupa Wincentego Tymienieckiego, Centrum, Stary Widzew, Księży Młyn, Łódź-Widzew, Łódź, województwo łódzkie, 90-365, Polska",
+      "district": "Widzew",
+      "address": "Fabryka Sztuki w Łodzi, 3, Księdza Biskupa Wincentego Tymienieckiego, Centrum, Stary Widzew, Księży Młyn, Łódź-Widzew, Łódź, województwo łódzkie, 90-365, Polska",
+      "normalized": "fabryka sztuki (łódź",
+      "lat": 51.7485453,
+      "lng": 19.4634312,
+      "updated_at": "2026-11-24T17:56:00.911240+00:00"
+    },
+    "ulica piotrkowska": {
+      "name": "Bieg ulicą Piotrkowską Rossmann Run, Pomorska, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 91-417, Polska",
+      "district": "Śródmieście",
+      "address": "Bieg ulicą Piotrkowską Rossmann Run, Pomorska, Centrum, Łódź-Śródmieście, Łódź, województwo łódzkie, 91-417, Polska",
+      "normalized": "ulica piotrkowska",
+      "lat": 51.7768912,
+      "lng": 19.4569829,
+      "updated_at": "2026-11-24T17:57:04.814784+00:00"
     }
   }
 }

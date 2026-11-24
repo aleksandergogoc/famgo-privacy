@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T18:40:49.153208+00:00",
+  "updated_at": "2026-11-24T18:09:45.206127+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5638,6 +5638,42 @@
       "lat": 50.1016171,
       "lng": 20.0110274,
       "updated_at": "2026-11-23T17:44:21.515004+00:00"
+    },
+    "ratusz": {
+      "name": "Dawny Ratusz Kazimierski, 1, Plac Wolnica, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-060, Polska",
+      "district": "Stare Miasto",
+      "address": "Dawny Ratusz Kazimierski, 1, Plac Wolnica, Kazimierz, Stare Miasto, Kraków, województwo małopolskie, 31-060, Polska",
+      "normalized": "ratusz",
+      "lat": 50.0486926,
+      "lng": 19.9434847,
+      "updated_at": "2026-11-24T17:09:26.753948+00:00"
+    },
+    "gmach główny muzeum narodowego w krakowie": {
+      "name": "Gmach Główny Muzeum Narodowego w Krakowie, Kraków",
+      "district": "Stare Miasto",
+      "address": "Gmach Główny Muzeum Narodowego w Krakowie, Kraków",
+      "normalized": "gmach główny muzeum narodowego w krakowie",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-24T17:10:00.869665+00:00"
+    },
+    "park przy ul. fabrycznej": {
+      "name": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "district": "Podgórze",
+      "address": "Płaszów Niemiecki nazistowski obóz koncentracyjny, Abrahama, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-555, Polska",
+      "normalized": "park przy ul. fabrycznej",
+      "lat": 50.0323915,
+      "lng": 19.9633651,
+      "updated_at": "2026-11-24T17:11:03.666247+00:00"
+    },
+    "viii liceum ogólnokształcące": {
+      "name": "VIII Liceum Ogólnokształcące im. Stanisława Wyspiańskiego, Grzegórzecka, Wesoła, Grzegórzki, Kraków, województwo małopolskie, 31-532, Polska",
+      "district": "Grzegórzki",
+      "address": "VIII Liceum Ogólnokształcące im. Stanisława Wyspiańskiego, Grzegórzecka, Wesoła, Grzegórzki, Kraków, województwo małopolskie, 31-532, Polska",
+      "normalized": "viii liceum ogólnokształcące",
+      "lat": 50.0589724,
+      "lng": 19.9555525,
+      "updated_at": "2026-11-24T17:38:21.553514+00:00"
     }
   }
 }

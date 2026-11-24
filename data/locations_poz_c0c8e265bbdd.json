@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T18:40:43.744621+00:00",
+  "updated_at": "2026-11-24T18:09:38.180909+00:00",
   "places": {
     "2progi (poznań)": {
       "district": "Stare Miasto",
@@ -1926,6 +1926,42 @@
       "lat": 52.4271794,
       "lng": 16.892341,
       "updated_at": "2026-11-23T18:35:15.026160+00:00"
+    },
+    "szpital miejski im...": {
+      "name": "Szpital Miejski im. Franciszka Raszei, Adama Mickiewicza, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-852, Polska",
+      "district": "Jeżyce",
+      "address": "Szpital Miejski im. Franciszka Raszei, Adama Mickiewicza, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-852, Polska",
+      "normalized": "szpital miejski im...",
+      "lat": 52.4133099,
+      "lng": 16.9134149,
+      "updated_at": "2026-11-24T18:06:07.775097+00:00"
+    },
+    "centrum wykładowe...": {
+      "name": "Centrum Wykładowe, 2, Piotrowo, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-138, Polska",
+      "district": "Stare Miasto",
+      "address": "Centrum Wykładowe, 2, Piotrowo, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-138, Polska",
+      "normalized": "centrum wykładowe...",
+      "lat": 52.4041634,
+      "lng": 16.9496997,
+      "updated_at": "2026-11-24T18:06:09.235770+00:00"
+    },
+    "ósmego dnia": {
+      "name": "Teatr Ósmego Dnia, Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 60-831, Polska",
+      "district": "Stare Miasto",
+      "address": "Teatr Ósmego Dnia, Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 60-831, Polska",
+      "normalized": "ósmego dnia",
+      "lat": 52.4082052,
+      "lng": 16.9253898,
+      "updated_at": "2026-11-24T18:06:50.175199+00:00"
+    },
+    "kościół św. antoniego padewskiego i klasztor franciszkanów konwentualnych": {
+      "name": "Kościół św. Antoniego Padewskiego i klasztor franciszkanów konwentualnych, ul. Franciszkańska 2, 61-768 Poznań",
+      "district": "Stare Miasto",
+      "address": "Kościół św. Antoniego Padewskiego i klasztor franciszkanów konwentualnych, ul. Franciszkańska 2, 61-768 Poznań",
+      "normalized": "kościół św. antoniego padewskiego i klasztor franciszkanów konwentualnych",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-24T18:06:59.016403+00:00"
     }
   }
 }

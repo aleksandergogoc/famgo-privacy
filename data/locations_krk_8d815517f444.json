@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T18:09:45.206127+00:00",
+  "updated_at": "2026-11-25T17:52:01.500049+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5674,6 +5674,24 @@
       "lat": 50.0589724,
       "lng": 19.9555525,
       "updated_at": "2026-11-24T17:38:21.553514+00:00"
+    },
+    "plac axentowicza": {
+      "name": "Plac Teodora Axentowicza, Nowa Wieś, Krowodrza, Kraków, województwo małopolskie, 30-033, Polska",
+      "district": "Krowodrza",
+      "address": "Plac Teodora Axentowicza, Nowa Wieś, Krowodrza, Kraków, województwo małopolskie, 30-033, Polska",
+      "normalized": "plac axentowicza",
+      "lat": 50.071451,
+      "lng": 19.9259098,
+      "updated_at": "2026-11-25T17:00:55.580110+00:00"
+    },
+    "minizoo": {
+      "name": "minizoo",
+      "district": "Zwierzyniec",
+      "address": "minizoo",
+      "normalized": "minizoo",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-25T17:25:46.699979+00:00"
     }
   }
 }

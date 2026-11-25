@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T18:09:43.691921+00:00",
+  "updated_at": "2026-11-25T17:52:00.111844+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10428,6 +10428,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-24T17:45:53.996446+00:00"
+    },
+    "plac powstańców warszawy 9": {
+      "name": "Plac Powstańców Warszawy 9",
+      "district": "Śródmieście",
+      "address": "Plac Powstańców Warszawy 9",
+      "normalized": "plac powstańców warszawy 9",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-25T17:30:28.317702+00:00"
+    },
+    "zachęta": {
+      "name": "Zachęta, plac Stanisława Małachowskiego 3",
+      "district": "Śródmieście",
+      "address": "Zachęta, plac Stanisława Małachowskiego 3",
+      "normalized": "zachęta",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-25T17:30:28.317983+00:00"
+    },
+    "orlik": {
+      "name": "Orlik, ul. Worobczuka",
+      "district": "Wilanów",
+      "address": "Orlik, ul. Worobczuka",
+      "normalized": "orlik",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-25T17:30:28.318266+00:00"
+    },
+    "magazyn sztuk": {
+      "name": "Magazyn Sztuk, ul. Radomska 13/21",
+      "district": "Ochota",
+      "address": "Magazyn Sztuk, ul. Radomska 13/21",
+      "normalized": "magazyn sztuk",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-25T17:30:28.318557+00:00"
     }
   }
 }

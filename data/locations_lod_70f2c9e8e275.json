@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T18:09:41.037894+00:00",
+  "updated_at": "2026-11-25T17:51:57.425976+00:00",
   "places": {
     "\"bibuła\" – tajna drukarnia józefa i marii piłsudskich (łódź": {
       "district": "Bałuty",
@@ -1179,6 +1179,24 @@
       "lat": 51.7768912,
       "lng": 19.4569829,
       "updated_at": "2026-11-24T17:57:04.814784+00:00"
+    },
+    "artkombinat scena monopolis (łódź-księży młyn)": {
+      "name": "Fujitsu Global Delivery Center Poland, Magazynowa, Stary Widzew, Księży Młyn, Łódź-Widzew, Łódź, województwo łódzkie, 90-350, Polska",
+      "district": "Widzew",
+      "address": "Fujitsu Global Delivery Center Poland, Magazynowa, Stary Widzew, Księży Młyn, Łódź-Widzew, Łódź, województwo łódzkie, 90-350, Polska",
+      "normalized": "artkombinat scena monopolis (łódź-księży młyn)",
+      "lat": 51.7565591,
+      "lng": 19.4790144,
+      "updated_at": "2026-11-25T17:35:13.021619+00:00"
+    },
+    "v6 (łódź)": {
+      "name": "Teatr V6, 76, Stefana Żeromskiego, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-502, Polska",
+      "district": "Polesie",
+      "address": "Teatr V6, 76, Stefana Żeromskiego, Stare Polesie, Łódź-Polesie, Łódź, województwo łódzkie, 90-502, Polska",
+      "normalized": "v6 (łódź)",
+      "lat": 51.7630596,
+      "lng": 19.4480739,
+      "updated_at": "2026-11-25T17:35:14.409569+00:00"
     }
   }
 }

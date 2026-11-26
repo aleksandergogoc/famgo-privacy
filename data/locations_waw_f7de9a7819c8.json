@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T17:52:00.111844+00:00",
+  "updated_at": "2026-11-26T17:24:07.963036+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10464,6 +10464,51 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-25T17:30:28.318557+00:00"
+    },
+    "ul kołowa 20": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "ul kołowa 20",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-11-26T17:05:19.846630+00:00"
+    },
+    "ul. reymonta 6": {
+      "name": "ul. Reymonta 6, Biblioteka Publiczna",
+      "district": "Bielany",
+      "address": "ul. Reymonta 6, Biblioteka Publiczna",
+      "normalized": "ul. reymonta 6",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-26T17:05:19.847290+00:00"
+    },
+    "ul. praskiego pułku 33": {
+      "name": "ul. Praskiego Pułku 33",
+      "district": "Wesoła",
+      "address": "ul. Praskiego Pułku 33",
+      "normalized": "ul. praskiego pułku 33",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-26T17:05:19.847505+00:00"
+    },
+    "dom otwarty": {
+      "name": "Dom Otwarty, ul. Radzymińska 123",
+      "district": "Targówek",
+      "address": "Dom Otwarty, ul. Radzymińska 123",
+      "normalized": "dom otwarty",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-26T17:05:19.847654+00:00"
+    },
+    "akademii sztuki wojennej": {
+      "name": "Klub Akademii Sztuki Wojennej, al. gen. Antoniego Chruściela 103",
+      "district": "Rembertów",
+      "address": "Klub Akademii Sztuki Wojennej, al. gen. Antoniego Chruściela 103",
+      "normalized": "akademii sztuki wojennej",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-26T17:05:19.847937+00:00"
     }
   }
 }

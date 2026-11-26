@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T17:52:01.500049+00:00",
+  "updated_at": "2026-11-26T17:24:10.067889+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5692,6 +5692,15 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-11-25T17:25:46.699979+00:00"
+    },
+    "cinema city bonarka": {
+      "name": "Cinema City Bonarka",
+      "district": "Podgórze Duchackie",
+      "address": "Cinema City Bonarka",
+      "normalized": "cinema city bonarka",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-26T16:58:02.641828+00:00"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T18:09:39.700843+00:00",
+  "updated_at": "2026-11-27T17:18:28.884017+00:00",
   "places": {
     "scena teatralna not": {
       "district": "Śródmieście",
@@ -1988,6 +1988,15 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-24T18:04:38.996244+00:00"
+    },
+    "hala targowa": {
+      "name": "Гандлёвая гала, 1/2, Plac Dominikański, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-844, Polska",
+      "district": "Śródmieście",
+      "address": "Гандлёвая гала, 1/2, Plac Dominikański, Osiek, Stare Miasto, Śródmieście, Gdańsk, województwo pomorskie, 80-844, Polska",
+      "normalized": "hala targowa",
+      "lat": 54.3527658,
+      "lng": 18.6520316,
+      "updated_at": "2026-11-27T17:11:58.291458+00:00"
     }
   }
 }

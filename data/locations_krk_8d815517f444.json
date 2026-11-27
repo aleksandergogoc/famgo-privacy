@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T17:24:10.067889+00:00",
+  "updated_at": "2026-11-27T17:18:34.997194+00:00",
   "places": {
     "30-376 kraków": {
       "district": "Dębniki",
@@ -5701,6 +5701,24 @@
       "lat": 0,
       "lng": 0,
       "updated_at": "2026-11-26T16:58:02.641828+00:00"
+    },
+    "piwnica pod baranami": {
+      "name": "Piwnica pod Baranami, Rynek Główny 27, 30-001 Kraków",
+      "district": "Stare Miasto",
+      "address": "Piwnica pod Baranami, Rynek Główny 27, 30-001 Kraków",
+      "normalized": "piwnica pod baranami",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-27T16:28:13.047387+00:00"
+    },
+    "nowy kleparz": {
+      "name": "Nowy Kleparz, Krowodrza, Kraków, województwo małopolskie, 30-950, Polska",
+      "district": "Krowodrza",
+      "address": "Nowy Kleparz, Krowodrza, Kraków, województwo małopolskie, 30-950, Polska",
+      "normalized": "nowy kleparz",
+      "lat": 50.0745649,
+      "lng": 19.9359045,
+      "updated_at": "2026-11-27T16:44:14.786595+00:00"
     }
   }
 }

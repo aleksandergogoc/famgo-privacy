@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T17:24:05.905471+00:00",
+  "updated_at": "2026-11-27T17:18:31.513492+00:00",
   "places": {
     "aquapark brochów we wrocławiu polna 10": {
       "district": "Stare Miasto",
@@ -3373,6 +3373,69 @@
       "lat": 51.112118,
       "lng": 17.0639117,
       "updated_at": "2026-11-26T17:05:52.612376+00:00"
+    },
+    "zajezdnia popowice legnicka 65": {
+      "name": "Zajezdnia Popowice Legnicka 65, Wrocław",
+      "district": "Fabryczna",
+      "address": "Zajezdnia Popowice Legnicka 65, Wrocław",
+      "normalized": "zajezdnia popowice legnicka 65",
+      "lat": 0,
+      "lng": 0,
+      "updated_at": "2026-11-27T16:56:00.178821+00:00"
+    },
+    "kawiarenka społeczna rewir twórczy grupa z pasją": {
+      "name": "118, Swojczycka, Swojczyce, Strachocin-Swojczyce-Wojnów, Wrocław, województwo dolnośląskie, 51-502, Polska",
+      "district": "Śródmieście",
+      "address": "118, Swojczycka, Swojczyce, Strachocin-Swojczyce-Wojnów, Wrocław, województwo dolnośląskie, 51-502, Polska",
+      "normalized": "kawiarenka społeczna rewir twórczy grupa z pasją",
+      "lat": 51.1149562,
+      "lng": 17.127826,
+      "updated_at": "2026-11-27T16:57:48.534248+00:00"
+    },
+    "centrum wspinaczkowe tarnogaj": {
+      "name": "59, Nyska, Tarnogaj, Wrocław, województwo dolnośląskie, 50-505, Polska",
+      "district": "Krzyki",
+      "address": "59, Nyska, Tarnogaj, Wrocław, województwo dolnośląskie, 50-505, Polska",
+      "normalized": "centrum wspinaczkowe tarnogaj",
+      "lat": 51.086298,
+      "lng": 17.0524933,
+      "updated_at": "2026-11-27T16:57:53.471455+00:00"
+    },
+    "młodzieżowy dom kultury im. mikołaja kopernika": {
+      "name": "20, Hugona Kołłątaja, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-007, Polska",
+      "district": "Stare Miasto",
+      "address": "20, Hugona Kołłątaja, Przedmieście Świdnickie, Wrocław, województwo dolnośląskie, 50-007, Polska",
+      "normalized": "młodzieżowy dom kultury im. mikołaja kopernika",
+      "lat": 51.1004404,
+      "lng": 17.0363225,
+      "updated_at": "2026-11-27T16:57:57.260723+00:00"
+    },
+    "hala świebodzki – food court": {
+      "name": "Hex, 20B, Plac Orląt Lwowskich, Szczepin, Wrocław, województwo dolnośląskie, 53-605, Polska",
+      "district": "Stare Miasto",
+      "address": "Hex, 20B, Plac Orląt Lwowskich, Szczepin, Wrocław, województwo dolnośląskie, 53-605, Polska",
+      "normalized": "hala świebodzki – food court",
+      "lat": 51.1081854,
+      "lng": 17.0191534,
+      "updated_at": "2026-11-27T16:57:59.960054+00:00"
+    },
+    "narodowe forum muzyki (nfm) wrocław": {
+      "name": "Narodowe Forum Muzyki, 1, Plac Wolności, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-071, Polska",
+      "district": "Stare Miasto",
+      "address": "Narodowe Forum Muzyki, 1, Plac Wolności, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-071, Polska",
+      "normalized": "narodowe forum muzyki (nfm) wrocław",
+      "lat": 51.1069844,
+      "lng": 17.0265381,
+      "updated_at": "2026-11-27T16:58:02.682786+00:00"
+    },
+    "kościół ewangelicko-augsburski św. krzysztofa": {
+      "name": "Kościół Świętego Krzysztofa, 1, plac Świętego Krzysztofa, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-056, Polska",
+      "district": "Stare Miasto",
+      "address": "Kościół Świętego Krzysztofa, 1, plac Świętego Krzysztofa, Dzielnica Czterech Wyznań, Stare Miasto, Wrocław, województwo dolnośląskie, 50-056, Polska",
+      "normalized": "kościół ewangelicko-augsburski św. krzysztofa",
+      "lat": 51.1073319,
+      "lng": 17.036988,
+      "updated_at": "2026-11-27T16:58:10.965196+00:00"
     }
   }
 }

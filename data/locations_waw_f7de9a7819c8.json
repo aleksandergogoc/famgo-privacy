@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T17:24:07.963036+00:00",
+  "updated_at": "2026-11-27T17:18:33.612767+00:00",
   "places": {
     "\"baba dżaga\"": {
       "district": "Białołęka",
@@ -10509,6 +10509,42 @@
       "lat": 0.0,
       "lng": 0.0,
       "updated_at": "2026-11-26T17:05:19.847937+00:00"
+    },
+    "zachęta – narodowa galeria sztuki": {
+      "name": "Zachęta, 3, Plac Stanisława Małachowskiego, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-063, Polska",
+      "district": "Śródmieście",
+      "address": "Zachęta, 3, Plac Stanisława Małachowskiego, Centrum, Śródmieście Północne, Śródmieście, Warszawa, województwo mazowieckie, 00-063, Polska",
+      "normalized": "zachęta – narodowa galeria sztuki",
+      "lat": 52.2392415,
+      "lng": 21.0114907,
+      "updated_at": "2026-11-27T16:46:10.154177+00:00"
+    },
+    "aula kryształowa sggw": {
+      "name": "Biuro Spraw Studenckich, \"Agrokadra\", Biuro Nauki, Biuro Wspołpracy Międzynarodowej, Biuro Informacji i Promocji, LZA \"Promni\", Chór Akademicki, 166/8, Nowoursynowska, Wysoki Ursynów, Stary Służew, Ursynów, Warszawa, województwo mazowieckie, 02-748, Polska",
+      "district": "Ursynów",
+      "address": "Biuro Spraw Studenckich, \"Agrokadra\", Biuro Nauki, Biuro Wspołpracy Międzynarodowej, Biuro Informacji i Promocji, LZA \"Promni\", Chór Akademicki, 166/8, Nowoursynowska, Wysoki Ursynów, Stary Służew, Ursynów, Warszawa, województwo mazowieckie, 02-748, Polska",
+      "normalized": "aula kryształowa sggw",
+      "lat": 52.1639503,
+      "lng": 21.0497258,
+      "updated_at": "2026-11-27T16:46:27.607527+00:00"
+    },
+    "ul. raszei 8": {
+      "name": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "district": "Ochota",
+      "address": "Biblioteka Narodowa, 213, Aleja Niepodległości, Kolonia Staszica, Filtry, Ochota, Warszawa, województwo mazowieckie, 02-086, Polska",
+      "normalized": "ul. raszei 8",
+      "lat": 52.2138636,
+      "lng": 21.0037346,
+      "updated_at": "2026-11-27T16:46:45.360388+00:00"
+    },
+    "ul. andersa 15 centrum kultury jidysz": {
+      "name": "ul. Andersa 15 Centrum Kultury Jidysz",
+      "district": "Śródmieście",
+      "address": "ul. Andersa 15 Centrum Kultury Jidysz",
+      "normalized": "ul. andersa 15 centrum kultury jidysz",
+      "lat": 0.0,
+      "lng": 0.0,
+      "updated_at": "2026-11-27T16:55:33.993627+00:00"
     }
   }
 }
